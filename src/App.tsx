@@ -1,0 +1,47 @@
+import { useState } from 'react'
+import { NavContext, type Screen } from './state/nav'
+import type { Category } from './types'
+import { TopBar } from './components/TopBar'
+import { BottomNav } from './components/BottomNav'
+import { CelebrationOverlay } from './components/CelebrationOverlay'
+import { LoginBonusModal } from './components/LoginBonusModal'
+import { HomeScreen } from './screens/HomeScreen'
+import { QuizScreen } from './screens/QuizScreen'
+import { BattleScreen } from './screens/BattleScreen'
+import { RaidScreen } from './screens/RaidScreen'
+import { RankingScreen } from './screens/RankingScreen'
+import { ProfileScreen } from './screens/ProfileScreen'
+import { ShopScreen } from './screens/ShopScreen'
+import { MissionsScreen } from './screens/MissionsScreen'
+
+export default function App() {
+  const [screen, setScreen] = useState<Screen>('home')
+  const [quizMode, setQuizMode] = useState<'normal' | 'review'>('normal')
+  const [category, setCategory] = useState<Category>('english')
+
+  const navigate = (s: Screen) => {
+    setScreen(s)
+    window.scrollTo(0, 0)
+  }
+
+  return (
+    <NavContext.Provider value={{ screen, navigate, quizMode, setQuizMode, category, setCategory }}>
+      <div className="min-h-full max-w-md mx-auto flex flex-col relative">
+        <TopBar />
+        <main className="flex-1 px-4 py-4">
+          {screen === 'home' && <HomeScreen />}
+          {screen === 'quiz' && <QuizScreen />}
+          {screen === 'battle' && <BattleScreen />}
+          {screen === 'raid' && <RaidScreen />}
+          {screen === 'ranking' && <RankingScreen />}
+          {screen === 'profile' && <ProfileScreen />}
+          {screen === 'shop' && <ShopScreen />}
+          {screen === 'missions' && <MissionsScreen />}
+        </main>
+        <BottomNav />
+        <LoginBonusModal />
+        <CelebrationOverlay />
+      </div>
+    </NavContext.Provider>
+  )
+}

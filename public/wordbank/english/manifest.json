@@ -1,0 +1,33 @@
+{
+  "category": "english",
+  "total": 5181,
+  "levels": [
+    {
+      "level": 1,
+      "file": "level-1.json",
+      "count": 579
+    },
+    {
+      "level": 2,
+      "file": "level-2.json",
+      "count": 868
+    },
+    {
+      "level": 3,
+      "file": "level-3.json",
+      "count": 1167
+    },
+    {
+      "level": 4,
+      "file": "level-4.json",
+      "count": 1091
+    },
+    {
+      "level": 5,
+      "file": "level-5.json",
+      "count": 1476
+    }
+  ],
+  "source": "EJDict (Public Domain) + NGSL + google-10000-english",
+  "generatedAt": "2026-07-04T13:53:12.611Z"
+}

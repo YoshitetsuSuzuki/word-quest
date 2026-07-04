@@ -1,0 +1,288 @@
+import { createContext, useContext, useEffect, useMemo, useRef, useState, type ReactNode } from 'react'
+import type { User, Question, AnswerOutcome, BattleResult, AchievementDef, Category } from '../types'
+import { userRepository, questionRepository } from '../repositories'
+import { QuestionEngine } from '../core/QuestionEngine'
+import { rewardEngine } from '../core/RewardEngine'
+import { progressEngine } from '../core/ProgressEngine'
+import { AnswerChecker } from '../core/AnswerChecker'
+import { ReviewScheduler } from '../core/ReviewScheduler'
+import { createDefaultUser } from './defaultUser'
+import { applyLoginBonus } from './loginLogic'
+import { addMissionProgress, syncLoginStreakMissions, claimMission as claimMissionLogic, ensureMissionDay } from '../modules/mission/missionLogic'
+import { contributeRaid, ensureRaidDay, claimRaid as claimRaidLogic } from '../modules/raid/raidLogic'
+import { applyBattleResult } from '../modules/battle/battleLogic'
+import { buyItem as buyItemLogic, equipItem as equipItemLogic } from '../modules/shop/shopLogic'
+import { evaluateAchievements, type AchievementContext } from '../modules/achievement/achievementLogic'
+
+const questionEngine = new QuestionEngine(questionRepository)
+
+/** 画面横断の演出通知 */
+export interface Celebration {
+  kind: 'levelup' | 'raidClear' | 'achievement'
+  level?: number
+  achievement?: AchievementDef
+  title?: string
+}
+
+interface GameApi {
+  user: User
+  engine: QuestionEngine
+  /** 起動時に付与されたログインボーナス（初回表示用） */
+  loginBonus: { coin: number; streak: number } | null
+  celebration: Celebration | null
+  dismissCelebration: () => void
+
+  /** カテゴリの問題データをロード（済みなら即完了） */
+  ensureCategory: (c: Category) => Promise<void>
+  /** カテゴリがロード済みか（読込完了でtrueになり再描画される） */
+  isCategoryReady: (c: Category) => boolean
+
+  answerQuestion: (q: Question, selected: string, comboCount: number) => AnswerOutcome
+  applyRewardXp: (xp: number) => void
+  finishBattle: (result: BattleResult) => void
+  chargeBattleFee: (fee: number) => boolean
+  claimMission: (id: string) => { ok: boolean; rewardCoin: number; rewardXp: number }
+  claimRaid: () => { ok: boolean; rewardCoin: number; rewardXp: number; title?: string }
+  buyItem: (id: string) => { ok: boolean; reason?: string }
+  equipItem: (id: string) => void
+  resetAll: () => void
+}
+
+const GameContext = createContext<GameApi | null>(null)
+
+/** XPを加算しレベルアップを解決して user を返す（演出通知は呼び出し側で） */
+function grantXp(user: User, xp: number): { user: User; leveledUp: boolean; newLevel: number } {
+  const r = progressEngine.applyXp(user.level, user.xp, xp)
+  return { user: { ...user, level: r.level, xp: r.xp }, leveledUp: r.leveledUp, newLevel: r.level }
+}
+
+export function GameProvider({ children }: { children: ReactNode }) {
+  const [user, setUser] = useState<User>(() => {
+    const loaded = userRepository.load() ?? createDefaultUser()
+    // 起動時の日付リセット類
+    let u = ensureMissionDay(ensureRaidDay(loaded))
+    const login = applyLoginBonus(u)
+    u = syncLoginStreakMissions(login.user)
+    return u
+  })
+
+  const [loginBonus, setLoginBonus] = useState<{ coin: number; streak: number } | null>(null)
+  const [celebration, setCelebration] = useState<Celebration | null>(null)
+  const [readyCats, setReadyCats] = useState<Category[]>([])
+  const loadingCats = useRef(new Set<Category>())
+  const initRan = useRef(false)
+
+  // 問題データのロード（多重ロード防止つき）
+  const ensureCategory = async (c: Category) => {
+    if (questionRepository.isLoaded(c) || loadingCats.current.has(c)) return
+    loadingCats.current.add(c)
+    try {
+      await questionRepository.loadCategory(c)
+      setReadyCats((prev) => (prev.includes(c) ? prev : [...prev, c]))
+    } finally {
+      loadingCats.current.delete(c)
+    }
+  }
+
+  // 起動時に既定カテゴリ(英語)を先読み
+  useEffect(() => {
+    void ensureCategory('english')
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [])
+
+  // 起動時ログインボーナスの表示判定（初回マウントのみ）
+  useEffect(() => {
+    if (initRan.current) return
+    initRan.current = true
+    const loaded = userRepository.load()
+    // createDefaultUser の場合や本日初回のみボーナス通知を出す
+    if (loaded) {
+      const login = applyLoginBonus(ensureRaidDay(ensureMissionDay(loaded)))
+      if (login.isNewDay && login.bonusCoin > 0) {
+        setLoginBonus({ coin: login.bonusCoin, streak: login.user.streakDays })
+      }
+    } else {
+      // 新規ユーザーは streak=1 として初回ボーナス
+      setLoginBonus({ coin: 20, streak: 1 })
+    }
+  }, [])
+
+  // user が変わるたびに永続化
+  useEffect(() => {
+    userRepository.save(user)
+  }, [user])
+
+  const notifyAchievements = (unlocked: AchievementDef[]) => {
+    if (unlocked.length > 0) {
+      setCelebration({ kind: 'achievement', achievement: unlocked[0] })
+    }
+  }
+
+  const api = useMemo<GameApi>(() => {
+    return {
+      user,
+      engine: questionEngine,
+      loginBonus,
+      celebration,
+      dismissCelebration: () => setCelebration(null),
+
+      ensureCategory,
+      isCategoryReady: (c: Category) => questionRepository.isLoaded(c),
+
+      // 各アクションは memoized な `user` を基点に純粋計算し、
+      // setUser には確定値を渡す。演出通知(setCelebration)は updater の外で呼ぶ。
+      answerQuestion: (q, selected, comboCount) => {
+        const { correct, correctAnswer } = AnswerChecker.check(q, selected)
+        let u: User = { ...user, totalAnswered: user.totalAnswered + 1 }
+
+        // --- 復習キューの更新 ---
+        const existing = u.reviewQueue.find((r) => r.questionId === q.id)
+        if (correct) {
+          if (existing) {
+            u = {
+              ...u,
+              reviewQueue: u.reviewQueue.map((r) =>
+                r.questionId === q.id ? ReviewScheduler.review(r, true) : r,
+              ),
+            }
+          }
+        } else {
+          // 間違えた問題は復習キューへ
+          if (existing) {
+            u = {
+              ...u,
+              reviewQueue: u.reviewQueue.map((r) =>
+                r.questionId === q.id ? ReviewScheduler.review(r, false) : r,
+              ),
+            }
+          } else {
+            u = { ...u, reviewQueue: [...u.reviewQueue, ReviewScheduler.create(q.id)] }
+          }
+        }
+
+        if (!correct) {
+          setUser(u)
+          return {
+            correct: false,
+            correctAnswer,
+            gainedXp: 0,
+            gainedCoin: 0,
+            comboCount: 0,
+            leveledUp: false,
+            newLevel: user.level,
+            unlockedAchievements: [],
+          }
+        }
+
+        // --- 正解時の報酬 ---
+        const reward = rewardEngine.computeAnswerReward(q.difficulty, comboCount)
+        const xpRes = grantXp(u, reward.xp)
+        u = xpRes.user
+        u = {
+          ...u,
+          coin: u.coin + reward.coin,
+          todayCoin: u.todayCoin + reward.coin,
+          totalCorrect: u.totalCorrect + 1,
+          learnedQuestionIds: u.learnedQuestionIds.includes(q.id)
+            ? u.learnedQuestionIds
+            : [...u.learnedQuestionIds, q.id],
+        }
+
+        // --- レイド貢献（初回貢献ならミッションjoinRaidも進める） ---
+        const wasZero = u.raidState.myContribution === 0
+        u = contributeRaid(u, 1)
+        if (wasZero) u = addMissionProgress(u, 'joinRaid', 1)
+
+        // --- ミッション: 正解数 ---
+        u = addMissionProgress(u, 'answerCorrect', 1)
+
+        // --- 実績判定 ---
+        const ctx: AchievementContext = { comboCount, raidJoined: true }
+        const ach = evaluateAchievements(u, ctx)
+        u = ach.user
+
+        setUser(u)
+        if (xpRes.leveledUp) setCelebration({ kind: 'levelup', level: xpRes.newLevel })
+        else notifyAchievements(ach.unlocked)
+
+        return {
+          correct: true,
+          correctAnswer,
+          gainedXp: reward.xp,
+          gainedCoin: reward.coin,
+          comboCount,
+          leveledUp: xpRes.leveledUp,
+          newLevel: xpRes.newLevel,
+          unlockedAchievements: ach.unlocked,
+        }
+      },
+
+      applyRewardXp: (xp) => {
+        const r = grantXp(user, xp)
+        setUser(r.user)
+        if (r.leveledUp) setCelebration({ kind: 'levelup', level: r.newLevel })
+      },
+
+      chargeBattleFee: (fee) => {
+        if (user.coin < fee) return false
+        setUser({ ...user, coin: Math.max(0, user.coin - fee) })
+        return true
+      },
+
+      finishBattle: (result) => {
+        let u = applyBattleResult(user, result)
+        u = addMissionProgress(u, 'playBattle', 1)
+        const ach = evaluateAchievements(u, {})
+        u = ach.user
+        setUser(u)
+        if (ach.unlocked.length > 0) notifyAchievements(ach.unlocked)
+      },
+
+      claimMission: (id) => {
+        const r = claimMissionLogic(user, id)
+        if (!r.claimed) return { ok: false, rewardCoin: 0, rewardXp: 0 }
+        const xpRes = grantXp(r.user, r.rewardXp)
+        setUser(xpRes.user)
+        if (xpRes.leveledUp) setCelebration({ kind: 'levelup', level: xpRes.newLevel })
+        return { ok: true, rewardCoin: r.rewardCoin, rewardXp: r.rewardXp }
+      },
+
+      claimRaid: () => {
+        const r = claimRaidLogic(user)
+        if (!r.claimed) return { ok: false, rewardCoin: 0, rewardXp: 0 }
+        const xpRes = grantXp(r.user, r.rewardXp)
+        setUser(xpRes.user)
+        setCelebration({ kind: 'raidClear', title: r.rewardTitle })
+        return { ok: true, rewardCoin: r.rewardCoin, rewardXp: r.rewardXp, title: r.rewardTitle }
+      },
+
+      buyItem: (id) => {
+        const r = buyItemLogic(user, id)
+        if (r.ok) setUser(r.user)
+        return { ok: r.ok, reason: r.reason }
+      },
+
+      equipItem: (id) => {
+        setUser(equipItemLogic(user, id))
+      },
+
+      resetAll: () => {
+        userRepository.clear()
+        const fresh = createDefaultUser(user.name)
+        const login = applyLoginBonus(fresh)
+        setUser(syncLoginStreakMissions(login.user))
+        setCelebration(null)
+      },
+    }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [user, loginBonus, celebration, readyCats])
+
+  return <GameContext.Provider value={api}>{children}</GameContext.Provider>
+}
+
+// eslint-disable-next-line react-refresh/only-export-components
+export function useGame(): GameApi {
+  const ctx = useContext(GameContext)
+  if (!ctx) throw new Error('useGame must be used within GameProvider')
+  return ctx
+}

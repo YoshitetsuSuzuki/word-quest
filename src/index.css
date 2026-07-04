@@ -1,0 +1,46 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: dark;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  background: radial-gradient(1200px 600px at 50% -10%, #22263f 0%, #0e1020 55%);
+  color: #eef0ff;
+  font-family: system-ui, -apple-system, 'Segoe UI', 'Hiragino Kaku Gothic ProN', 'Noto Sans JP', sans-serif;
+  -webkit-tap-highlight-color: transparent;
+  overscroll-behavior: none;
+}
+
+/* スクロールバーを控えめに */
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-thumb {
+  background: #3a3f63;
+  border-radius: 3px;
+}
+
+@layer components {
+  .card {
+    @apply bg-panel rounded-2xl border border-white/5 shadow-lg;
+  }
+  .btn {
+    @apply rounded-xl font-bold transition active:scale-95 disabled:opacity-40 disabled:active:scale-100;
+  }
+  .btn-primary {
+    @apply btn bg-accent text-white shadow-[0_6px_0_0_#5a3fd6] active:shadow-[0_2px_0_0_#5a3fd6] active:translate-y-1;
+  }
+  .btn-ghost {
+    @apply btn bg-panel2 text-white/90 border border-white/10;
+  }
+}
