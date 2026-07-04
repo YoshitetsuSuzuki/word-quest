@@ -58,7 +58,8 @@ function extractMeaning(raw) {
   const m = first.match(/『([^』]*)』/) // 核となる訳語
   let core = m ? m[1] : first
   core = core.split(/[,、;；]/)[0] // 最初の区切りまで
-  core = core.replace(/[『』…"'.\s·・-]/g, '').replace(/^[をにへとがはも]+/, '').trim()
+  // 記号(『』…引用符・中黒等)のみ除去。※語頭の仮名を削る処理はバグの元(もう→う)のため廃止
+  core = core.replace(/[『』「」…"'.\s·・\-()（）]/g, '').replace(/^…+/, '').trim()
   return core
 }
 
@@ -116,16 +117,31 @@ function inferBucket(m) {
 }
 const bucketLabel = { verb: '動詞', adj: '形容詞', adv: '副詞', noun: '名詞' }
 
+// 複数形として除外しない(=単数扱いしない)語。sは語尾だが複数形ではない/独立した意味を持つ。
+const PLURAL_KEEP = new Set([
+  'news', 'means', 'series', 'species', 'goods', 'clothes', 'thanks', 'glasses',
+  'headquarters', 'arms', 'customs', 'contents', 'remains', 'odds', 'stairs',
+  'savings', 'earnings', 'belongings', 'surroundings', 'physics', 'mathematics',
+  'economics', 'politics', 'statistics', 'ethics', 'sales', 'works',
+])
+
 // ---- 各語の訳を確定 ----
 const accepted = []
 for (const sw of sourceWords) {
   const { word } = sw
   if (word.length < 3 || STOPWORDS.has(word)) continue
+  // 複数形は除外し単数形を採用する(numbers→民数記 等の誤マッピングを防ぐ)
+  if (word.endsWith('s') && !PLURAL_KEEP.has(word)) {
+    const singular = word.slice(0, -1)
+    const singularES = word.endsWith('es') ? word.slice(0, -2) : null
+    if (ejdict.has(singular) || (singularES && ejdict.has(singularES))) continue
+  }
   const def = ejdict.get(word)
   if (!def) continue
   const meaning = extractMeaning(def)
-  // 品質ゲート: 空 / 長すぎ(句) / 英数字混入 は除外
+  // 品質ゲート: 空 / 長すぎ(句) / 英数字混入 / 単一かな(抽出崩れの疑い) は除外
   if (!meaning || meaning.length > 10 || /[a-zA-Z0-9]/.test(meaning)) continue
+  if (/^[ぁ-んァ-ヶ]$/.test(meaning)) continue
   accepted.push({ word, meaning, bucket: inferBucket(meaning), rank: sw.rank })
 }
 

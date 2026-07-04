@@ -47,5 +47,15 @@
   "dangerous": "危険な", "important": "重要な", "free": "自由な", "busy": "忙しい",
   "quiet": "静かな", "rich": "裕福な", "poor": "貧しい", "simple": "単純な", "quick": "素早い",
   "heavy": "重い", "deep": "深い", "wide": "広い", "narrow": "狭い",
-  "full": "いっぱいの", "empty": "空の", "true": "本当の", "false": "偽の"
+  "full": "いっぱいの", "empty": "空の", "true": "本当の", "false": "偽の",
+
+  "_note_ordering": "EJDictの語義順が最頻でない語の是正",
+  "meaning": "意味", "bookstore": "書店", "roughly": "およそ", "recruitment": "採用",
+  "volume": "量", "network": "ネットワーク", "preliminary": "予備の", "plus": "加えて",
+  "survey": "調査", "object": "物体", "function": "機能",
+  "stock": "在庫", "attack": "攻撃する", "sale": "販売", "proud": "誇らしい",
+  "responsible": "責任のある", "telling": "効果的な", "junior": "年下の",
+  "handbook": "手引き", "supervisor": "監督者",
+  "virus": "ウイルス", "formula": "公式", "frequency": "頻度", "discrimination": "差別",
+  "margin": "余白", "console": "操作盤", "cart": "カート", "alien": "宇宙人"
 }
