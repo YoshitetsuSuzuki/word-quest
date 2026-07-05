@@ -13,6 +13,7 @@ import { RankingScreen } from './screens/RankingScreen'
 import { ProfileScreen } from './screens/ProfileScreen'
 import { ShopScreen } from './screens/ShopScreen'
 import { MissionsScreen } from './screens/MissionsScreen'
+import { StudyScreen } from './screens/StudyScreen'
 
 export default function App() {
   const [screen, setScreen] = useState<Screen>('home')
@@ -37,6 +38,7 @@ export default function App() {
           {screen === 'profile' && <ProfileScreen />}
           {screen === 'shop' && <ShopScreen />}
           {screen === 'missions' && <MissionsScreen />}
+          {screen === 'study' && <StudyScreen />}
         </main>
         <BottomNav />
         <LoginBonusModal />

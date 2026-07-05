@@ -3,6 +3,7 @@ import { useNav, type Screen } from '../state/nav'
 const items: { screen: Screen; label: string; icon: string }[] = [
   { screen: 'home', label: 'ホーム', icon: '🏠' },
   { screen: 'quiz', label: 'クイズ', icon: '📝' },
+  { screen: 'study', label: 'まなび', icon: '📚' },
   { screen: 'ranking', label: 'ランク', icon: '🏆' },
   { screen: 'profile', label: 'プロフ', icon: '👤' },
 ]

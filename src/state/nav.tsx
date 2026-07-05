@@ -10,6 +10,7 @@ export type Screen =
   | 'profile'
   | 'shop'
   | 'missions'
+  | 'study'
 
 interface NavApi {
   screen: Screen
