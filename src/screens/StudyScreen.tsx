@@ -1,4 +1,4 @@
-import { useMemo, useState, type ReactNode } from 'react'
+import { useEffect, useMemo, useState, type ReactNode } from 'react'
 import { useGame } from '../state/GameContext'
 import { useNav } from '../state/nav'
 import { ReviewScheduler } from '../core/ReviewScheduler'
@@ -12,43 +12,65 @@ function wordOf(q: Question): string {
 
 type Tab = 'weak' | 'learned' | 'deck'
 
+const CAT_PREFIX: Record<string, string> = { english: 'en', chinese: 'zh', korean: 'ko' }
+const CAT_LABEL: Record<string, string> = { english: '英単語', chinese: '中国語', korean: '韓国語' }
+
 export function StudyScreen() {
-  const { user, engine, isCategoryReady, toggleDeck } = useGame()
+  const { user, engine, isCategoryReady, ensureCategory, toggleDeck } = useGame()
   const { navigate, setQuizMode, setCustomIds, category } = useNav()
   const ready = isCategoryReady(category)
+  const prefix = CAT_PREFIX[category] ?? 'en'
 
-  const dueCount = ReviewScheduler.dueQuestionIds(user.reviewQueue).length
+  // 学習ジャンルのデータを読み込む
+  useEffect(() => {
+    void ensureCategory(category)
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [category])
+
   const deckSet = useMemo(() => new Set(user.customDeck), [user.customDeck])
+  // 今の言語の復習キューだけ数える
+  const dueCount = ReviewScheduler.dueQuestionIds(user.reviewQueue).filter((id) => id.startsWith(prefix)).length
+  const reviewCountThisCat = user.reviewQueue.filter((r) => r.questionId.startsWith(prefix)).length
 
-  // 正答率つきの挑戦済み単語（低い順＝苦手順）
+  // 正答率つきの挑戦済み単語（この言語のみ・低い順＝苦手順）
   const attempted = useMemo(() => {
     if (!ready) return []
     return Object.entries(user.wordStats)
-      .filter(([, s]) => s.t > 0)
+      .filter(([id, s]) => s.t > 0 && id.startsWith(prefix))
       .map(([id, s]) => ({ id, q: engine.getById(id), rate: s.c / s.t, tries: s.t }))
       .filter((x): x is { id: string; q: Question; rate: number; tries: number } => !!x.q)
       .sort((a, b) => a.rate - b.rate || b.tries - a.tries)
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [user.wordStats, ready])
+  }, [user.wordStats, ready, prefix])
 
   const learned = useMemo(() => {
     if (!ready) return []
-    return user.learnedQuestionIds.map((id) => engine.getById(id)).filter((q): q is Question => !!q)
+    return user.learnedQuestionIds
+      .filter((id) => id.startsWith(prefix))
+      .map((id) => engine.getById(id))
+      .filter((q): q is Question => !!q)
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [user.learnedQuestionIds, ready])
+  }, [user.learnedQuestionIds, ready, prefix])
 
   const deck = useMemo(() => {
     if (!ready) return []
-    return user.customDeck.map((id) => engine.getById(id)).filter((q): q is Question => !!q)
+    return user.customDeck
+      .filter((id) => id.startsWith(prefix))
+      .map((id) => engine.getById(id))
+      .filter((q): q is Question => !!q)
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [user.customDeck, ready])
+  }, [user.customDeck, ready, prefix])
 
   const [tab, setTab] = useState<Tab>('weak')
   const [query, setQuery] = useState('')
 
+  // 今日の復習（この言語のみ）
   const startReview = () => {
-    setCustomIds(null)
-    setQuizMode('review')
+    setQuizMode('normal')
+    const due = ReviewScheduler.dueQuestionIds(user.reviewQueue).filter((id) => id.startsWith(prefix))
+    const ids = due.length > 0 ? due : user.reviewQueue.filter((r) => r.questionId.startsWith(prefix)).map((r) => r.questionId)
+    if (ids.length === 0) return
+    setCustomIds(ids)
     navigate('quiz')
   }
 
@@ -56,14 +78,17 @@ export function StudyScreen() {
   const startWeakDrill = () => {
     const ids = attempted.slice(0, 10).map((x) => x.id)
     if (ids.length === 0) return
+    setQuizMode('normal')
     setCustomIds(ids)
     navigate('quiz')
   }
 
-  // 自分の単語帳をテスト
+  // 自分の単語帳をテスト（この言語のみ）
   const startDeckTest = () => {
-    if (user.customDeck.length === 0) return
-    setCustomIds([...user.customDeck])
+    const ids = deck.map((q) => q.id)
+    if (ids.length === 0) return
+    setQuizMode('normal')
+    setCustomIds(ids)
     navigate('quiz')
   }
 
@@ -73,13 +98,13 @@ export function StudyScreen() {
 
   return (
     <div className="space-y-4">
-      <h2 className="text-xl font-black">📚 まなび</h2>
+      <h2 className="text-xl font-black">📚 まなび・{CAT_LABEL[category] ?? ''}</h2>
 
       {/* 今日の復習 & 弱点特訓 */}
       <div className="grid grid-cols-2 gap-3">
         <button
           className="card p-4 text-left active:scale-95 transition disabled:opacity-40"
-          disabled={user.reviewQueue.length === 0}
+          disabled={reviewCountThisCat === 0}
           onClick={startReview}
         >
           <div className="text-3xl">🔁</div>

@@ -2,6 +2,12 @@ import { useEffect, useState } from 'react'
 import { NavContext, type Screen } from './state/nav'
 import type { Category } from './types'
 import { primeSpeech } from './utils/speech'
+import { primeAudio, bgm } from './utils/audio'
+
+const numFromLS = (k: string, d: number) => {
+  const v = localStorage.getItem(k)
+  return v === null ? d : Number(v)
+}
 import { TopBar } from './components/TopBar'
 import { BottomNav } from './components/BottomNav'
 import { CelebrationOverlay } from './components/CelebrationOverlay'
@@ -29,6 +35,10 @@ export default function App() {
   const [customIds, setCustomIds] = useState<string[] | null>(null)
   const [soundEnabled, setSoundEnabledState] = useState(() => localStorage.getItem('wordquest.sound') !== 'off')
   const [studyLevel, setStudyLevelState] = useState<number>(() => Number(localStorage.getItem('wordquest.level') ?? 0))
+  const [sfxEnabled, setSfxEnabledState] = useState(() => localStorage.getItem('wordquest.sfx') !== 'off')
+  const [sfxVolume, setSfxVolumeState] = useState(() => numFromLS('wordquest.sfxVol', 0.6))
+  const [bgmEnabled, setBgmEnabledState] = useState(() => localStorage.getItem('wordquest.bgm') === 'on')
+  const [bgmVolume, setBgmVolumeState] = useState(() => numFromLS('wordquest.bgmVol', 0.25))
 
   const setCategory = (c: Category) => {
     setCategoryState(c)
@@ -42,6 +52,38 @@ export default function App() {
     setStudyLevelState(n)
     localStorage.setItem('wordquest.level', String(n))
   }
+  const setSfxEnabled = (v: boolean) => {
+    setSfxEnabledState(v)
+    localStorage.setItem('wordquest.sfx', v ? 'on' : 'off')
+  }
+  const setSfxVolume = (v: number) => {
+    setSfxVolumeState(v)
+    localStorage.setItem('wordquest.sfxVol', String(v))
+  }
+  const setBgmEnabled = (v: boolean) => {
+    setBgmEnabledState(v)
+    localStorage.setItem('wordquest.bgm', v ? 'on' : 'off')
+    if (v) bgm.start(bgmVolume)
+    else bgm.stop()
+  }
+  const setBgmVolume = (v: number) => {
+    setBgmVolumeState(v)
+    localStorage.setItem('wordquest.bgmVol', String(v))
+    bgm.setVolume(v)
+  }
+
+  // BGMは初回タップ以降にONなら開始（自動再生ポリシー対策）
+  useEffect(() => {
+    if (!bgmEnabled) return
+    const start = () => {
+      primeAudio()
+      bgm.start(bgmVolume)
+      window.removeEventListener('pointerdown', start)
+    }
+    window.addEventListener('pointerdown', start)
+    return () => window.removeEventListener('pointerdown', start)
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [bgmEnabled])
 
   const navigate = (s: Screen) => {
     setScreen(s)
@@ -52,6 +94,7 @@ export default function App() {
   useEffect(() => {
     const prime = () => {
       primeSpeech()
+      primeAudio()
       window.removeEventListener('pointerdown', prime)
     }
     window.addEventListener('pointerdown', prime)
@@ -60,7 +103,28 @@ export default function App() {
 
   return (
     <NavContext.Provider
-      value={{ screen, navigate, quizMode, setQuizMode, category, setCategory, customIds, setCustomIds, soundEnabled, setSoundEnabled, studyLevel, setStudyLevel }}
+      value={{
+        screen,
+        navigate,
+        quizMode,
+        setQuizMode,
+        category,
+        setCategory,
+        customIds,
+        setCustomIds,
+        soundEnabled,
+        setSoundEnabled,
+        studyLevel,
+        setStudyLevel,
+        sfxEnabled,
+        setSfxEnabled,
+        sfxVolume,
+        setSfxVolume,
+        bgmEnabled,
+        setBgmEnabled,
+        bgmVolume,
+        setBgmVolume,
+      }}
     >
       <div className="min-h-full max-w-md mx-auto flex flex-col relative">
         <TopBar />

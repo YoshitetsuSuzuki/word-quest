@@ -6,7 +6,18 @@ import { featureFlags } from '../config/featureFlags'
 
 export function ProfileScreen() {
   const { user, resetAll } = useGame()
-  const { soundEnabled, setSoundEnabled } = useNav()
+  const {
+    soundEnabled,
+    setSoundEnabled,
+    sfxEnabled,
+    setSfxEnabled,
+    sfxVolume,
+    setSfxVolume,
+    bgmEnabled,
+    setBgmEnabled,
+    bgmVolume,
+    setBgmVolume,
+  } = useNav()
   const title = equippedTitle(user)
   const frame = equippedFrameClass(user)
   const totalBattles = user.battleWins + user.battleLosses
@@ -81,29 +92,54 @@ export function ProfileScreen() {
       )}
 
       {/* 設定 */}
-      <div className="card p-4">
-        <h3 className="font-black text-sm mb-3">⚙️ 設定</h3>
-        <button
-          onClick={() => setSoundEnabled(!soundEnabled)}
-          className="w-full flex items-center justify-between py-2"
-        >
-          <span className="text-sm">🔊 発音の自動再生</span>
-          <span
-            className={`relative w-12 h-7 rounded-full transition ${soundEnabled ? 'bg-accent' : 'bg-white/15'}`}
-          >
-            <span
-              className={`absolute top-0.5 w-6 h-6 rounded-full bg-white transition-all ${soundEnabled ? 'left-[22px]' : 'left-0.5'}`}
-            />
-          </span>
-        </button>
-        <p className="text-[11px] text-white/40 mt-1">
-          オフにすると問題が出たときの読み上げが止まります（🔊ボタンは引き続き使えます）。
-        </p>
+      <div className="card p-4 space-y-1">
+        <h3 className="font-black text-sm mb-2">⚙️ 設定</h3>
+
+        <Toggle label="🗣️ 発音の自動再生" on={soundEnabled} onToggle={() => setSoundEnabled(!soundEnabled)} />
+
+        <div className="border-t border-white/5 pt-2 mt-2">
+          <Toggle label="🔔 効果音（正解・不正解）" on={sfxEnabled} onToggle={() => setSfxEnabled(!sfxEnabled)} />
+          {sfxEnabled && <Slider label="効果音の音量" value={sfxVolume} onChange={setSfxVolume} />}
+        </div>
+
+        <div className="border-t border-white/5 pt-2 mt-2">
+          <Toggle label="🎵 BGM" on={bgmEnabled} onToggle={() => setBgmEnabled(!bgmEnabled)} />
+          {bgmEnabled && <Slider label="BGMの音量" value={bgmVolume} onChange={setBgmVolume} />}
+        </div>
       </div>
 
       <button className="btn-ghost w-full py-3 text-sm text-danger" onClick={onReset}>
         データを初期化
       </button>
+    </div>
+  )
+}
+
+function Toggle({ label, on, onToggle }: { label: string; on: boolean; onToggle: () => void }) {
+  return (
+    <button onClick={onToggle} className="w-full flex items-center justify-between py-2">
+      <span className="text-sm">{label}</span>
+      <span className={`relative w-12 h-7 rounded-full transition shrink-0 ${on ? 'bg-accent' : 'bg-white/15'}`}>
+        <span className={`absolute top-0.5 w-6 h-6 rounded-full bg-white transition-all ${on ? 'left-[22px]' : 'left-0.5'}`} />
+      </span>
+    </button>
+  )
+}
+
+function Slider({ label, value, onChange }: { label: string; value: number; onChange: (v: number) => void }) {
+  return (
+    <div className="flex items-center gap-3 py-1 pl-1">
+      <span className="text-[11px] text-white/45 shrink-0 w-20">{label}</span>
+      <input
+        type="range"
+        min={0}
+        max={1}
+        step={0.05}
+        value={value}
+        onChange={(e) => onChange(Number(e.target.value))}
+        className="flex-1 accent-accent2"
+      />
+      <span className="text-[11px] text-white/40 w-8 text-right tabular-nums">{Math.round(value * 100)}</span>
     </div>
   )
 }

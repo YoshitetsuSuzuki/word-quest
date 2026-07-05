@@ -30,10 +30,12 @@ export default defineConfig(({ command }) => ({
         runtimeCaching: [
           {
             urlPattern: /\/wordbank\//,
-            handler: 'CacheFirst',
+            // StaleWhileRevalidate: キャッシュを返しつつ裏で更新（IPA追加等が反映される）
+            // cacheName を変えて旧CacheFirstキャッシュを破棄し即刷新
+            handler: 'StaleWhileRevalidate',
             options: {
-              cacheName: 'wordbank',
-              expiration: { maxEntries: 50, maxAgeSeconds: 60 * 60 * 24 * 30 },
+              cacheName: 'wordbank-v2',
+              expiration: { maxEntries: 60, maxAgeSeconds: 60 * 60 * 24 * 30 },
             },
           },
         ],

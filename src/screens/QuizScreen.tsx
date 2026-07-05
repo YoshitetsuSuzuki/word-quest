@@ -5,6 +5,7 @@ import { ReviewScheduler } from '../core/ReviewScheduler'
 import { equippedEffect } from '../modules/shop/shopLogic'
 import { Loading } from '../components/Loading'
 import { speakWord, wordFromPrompt, canSpeak } from '../utils/speech'
+import { playCorrect, playWrong } from '../utils/audio'
 import type { Question, AnswerOutcome } from '../types'
 
 const SESSION_SIZE = 10
@@ -12,7 +13,7 @@ const SESSION_SIZE = 10
 export function QuizScreen() {
   const game = useGame()
   const { user, engine, answerQuestion, ensureCategory, isCategoryReady } = game
-  const { quizMode, navigate, category, customIds, setCustomIds, soundEnabled, studyLevel } = useNav()
+  const { quizMode, navigate, category, customIds, setCustomIds, soundEnabled, studyLevel, sfxEnabled, sfxVolume } = useNav()
 
   const ready = isCategoryReady(category)
   const [questions, setQuestions] = useState<Question[]>([])
@@ -76,6 +77,7 @@ export function QuizScreen() {
     setSelected(choice)
     setOutcome(res)
     setPopKey((k) => k + 1)
+    if (sfxEnabled) (res.correct ? playCorrect : playWrong)(sfxVolume)
     if (res.correct) {
       setCombo(newCombo)
       setSessionCorrect((c) => c + 1)

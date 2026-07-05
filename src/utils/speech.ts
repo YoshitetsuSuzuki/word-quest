@@ -9,13 +9,17 @@ export function canSpeak(): boolean {
  * 音声エンジンのウォームアップ。初回のユーザー操作中に呼ぶことで、
  * 以降の自動再生（特にiOSの1問目）が確実に鳴るようにする。
  */
+let primed = false
 export function primeSpeech(): void {
-  if (!canSpeak()) return
+  if (!canSpeak() || primed) return
   try {
     window.speechSynthesis.getVoices()
-    const u = new SpeechSynthesisUtterance('')
+    window.speechSynthesis.resume()
+    // 空文字はiOSで無視されるため、無音(volume0)の短い実発話でエンジンを起こす
+    const u = new SpeechSynthesisUtterance('a')
     u.volume = 0
     window.speechSynthesis.speak(u)
+    primed = true
   } catch {
     // 無視
   }
