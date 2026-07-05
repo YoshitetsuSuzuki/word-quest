@@ -34,6 +34,18 @@ export class QuestionEngine {
     return shuffle(pool).slice(0, count).map((q) => this.withShuffledChoices(q))
   }
 
+  /**
+   * リスニング用セッション。
+   * 英語は例文＋表層形を持つ語のみ（例文読み上げ→穴埋め）。他言語は通常プール（音声→4択）。
+   */
+  buildListeningSession(category: Category, count: number, level = 0): Question[] {
+    const full = this.repo.getByCategory(category)
+    const base = category === 'english' ? full.filter((q) => q.example && q.exampleForm) : full
+    let pool = level > 0 ? base.filter((q) => q.difficulty === level) : base
+    if (pool.length < count) pool = base
+    return shuffle(pool).slice(0, count).map((q) => this.withShuffledChoices(q))
+  }
+
   /** 指定IDリストから復習セッションを作る（間隔反復の期限到来分など） */
   buildReviewSession(ids: string[], count: number): Question[] {
     const picked: Question[] = []

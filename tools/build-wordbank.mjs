@@ -250,6 +250,13 @@ try {
 } catch {
   console.warn('warning: examples.english.json が見つかりません。例文なしで生成します。(node tools/build-examples-english.mjs で生成)')
 }
+// 例文中の表層形(リスニング穴埋め用)。word -> "bought" 等。
+let exampleFormsMap = {}
+try {
+  exampleFormsMap = JSON.parse(fs.readFileSync(path.join(root, 'tools', 'examples.english.forms.json'), 'utf8'))
+} catch {
+  console.warn('warning: examples.english.forms.json が見つかりません。(node tools/build-example-forms.mjs で生成)')
+}
 
 // ---- 検証済み判定 ----
 // 全数レビュー済みの級 + 人手上書き済みの語 を「検証済み」とする。
@@ -272,6 +279,7 @@ const questions = accepted
       tags: [bucketLabel[a.bucket]],
       explanation: `${a.word} = ${a.meaning}`,
       ...(examplesMap[a.word] ? { example: examplesMap[a.word] } : {}),
+      ...(examplesMap[a.word] && exampleFormsMap[a.word] ? { exampleForm: exampleFormsMap[a.word] } : {}),
       ...(ipa ? { pronunciation: ipa } : {}),
       verified: level <= REVIEWED_MAX_LEVEL || overrideWords.has(a.word),
     }
@@ -360,6 +368,7 @@ const extQuestions = extAccepted
       tags: [bucketLabel[a.bucket]],
       explanation: `${a.word} = ${a.meaning}`,
       ...(examplesMap[a.word] ? { example: examplesMap[a.word] } : {}),
+      ...(examplesMap[a.word] && exampleFormsMap[a.word] ? { exampleForm: exampleFormsMap[a.word] } : {}),
       ...(ipa ? { pronunciation: ipa } : {}),
       verified: overrideWords.has(a.word), // 人手レビューで overrides 登録された語のみ出荷
     }

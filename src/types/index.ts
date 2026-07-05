@@ -9,8 +9,8 @@ export type Category =
   | 'chinese'
   | 'korean'
 
-/** 難易度 1(易) 〜 5(難) */
-export type Difficulty = 1 | 2 | 3 | 4 | 5
+/** 難易度 1(易) 〜 7(難)。英語はLv6-7(拡張候補プールのレビュー昇格分)まで存在する */
+export type Difficulty = 1 | 2 | 3 | 4 | 5 | 6 | 7
 
 /** 汎用問題。英単語専用ではない。 */
 export interface Question {
@@ -23,6 +23,7 @@ export interface Question {
   tags: string[]
   explanation?: string
   example?: string // 例文
+  exampleForm?: string // 例文中に実際に現れる形(bought等)。リスニング穴埋めの正解判定に使う
   pronunciation?: string // 発音記号(IPA) 例: /ˈæpəɫ/
   audioUrl?: string // 将来の音声再生用（optional）
   /** 人手レビュー済み(訳が確実)か。verifiedOnly時はtrueのみ出題する */

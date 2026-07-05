@@ -19,7 +19,8 @@ export class RewardEngine {
    * @param comboCount 現在のコンボ数（この問題を含めた連続正解数）
    */
   computeAnswerReward(difficulty: Difficulty, comboCount: number): { xp: number; coin: number } {
-    const diffMul = this.config.difficultyMultiplier[difficulty]
+    const diffMul = this.config.difficultyMultiplier[difficulty] ?? 1.0 // 未定義難易度でもNaNにしない
+
     const comboMul = this.comboMultiplier(comboCount)
     return {
       xp: Math.round(this.config.baseXp * diffMul * comboMul),

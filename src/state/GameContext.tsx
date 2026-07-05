@@ -63,11 +63,18 @@ function grantXp(user: User, xp: number): { user: User; leveledUp: boolean; newL
 
 /** 旧バージョンの保存データに不足フィールドを補う（後方互換） */
 function migrate(u: User): User {
+  // NaN汚染の救済: Lv6/7報酬倍率が未定義だった期間に正解すると xp/coin が NaN になり
+  // 加算で伝播した(修正済み)。汚染された保存値は 0 に戻す。
+  const num = (v: number, d = 0) => (Number.isFinite(v) ? v : d)
   return {
     ...u,
+    xp: num(u.xp),
+    coin: num(u.coin),
+    todayCoin: num(u.todayCoin),
+    level: num(u.level, 1) || 1,
     wordStats: u.wordStats ?? {},
     customDeck: u.customDeck ?? [],
-    todayAnswered: u.todayAnswered ?? 0,
+    todayAnswered: num(u.todayAnswered ?? 0),
     todayAnsweredDate: u.todayAnsweredDate ?? todayStr(),
   }
 }

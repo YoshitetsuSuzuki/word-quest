@@ -113,6 +113,21 @@ export function HomeScreen() {
         <span className="relative z-10">▶ クイズをはじめる</span>
       </button>
 
+      {/* リスニングモード */}
+      <button
+        onClick={() => {
+          setQuizMode('listening')
+          setCustomIds(null)
+          navigate('quiz')
+        }}
+        className="btn-ghost w-full py-4 text-base flex items-center justify-center gap-2"
+      >
+        🎧 リスニング
+        <span className="text-xs text-white/45">
+          {category === 'english' ? '例文を聴いてスペル入力' : '音声を聴いて意味を4択'}
+        </span>
+      </button>
+
       {/* 復習の案内 */}
       {featureFlags.reviewEnabled && dueReview > 0 && (
         <button

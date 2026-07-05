@@ -15,6 +15,7 @@ import { LoginBonusModal } from './components/LoginBonusModal'
 import { OnboardingModal } from './components/OnboardingModal'
 import { HomeScreen } from './screens/HomeScreen'
 import { QuizScreen } from './screens/QuizScreen'
+import { ListeningScreen } from './screens/ListeningScreen'
 import { BattleScreen } from './screens/BattleScreen'
 import { RaidScreen } from './screens/RaidScreen'
 import { RankingScreen } from './screens/RankingScreen'
@@ -27,7 +28,7 @@ const CATEGORY_KEY = 'wordquest.category'
 
 export default function App() {
   const [screen, setScreen] = useState<Screen>('home')
-  const [quizMode, setQuizMode] = useState<'normal' | 'review'>('normal')
+  const [quizMode, setQuizMode] = useState<'normal' | 'review' | 'listening'>('normal')
   // 前回選んだ学習ジャンルを記憶（中国語で遊んでいたら次回も中国語のまま）
   const [category, setCategoryState] = useState<Category>(
     () => (localStorage.getItem(CATEGORY_KEY) as Category | null) ?? 'english',
@@ -130,7 +131,7 @@ export default function App() {
         <TopBar />
         <main className="flex-1 px-4 py-4">
           {screen === 'home' && <HomeScreen />}
-          {screen === 'quiz' && <QuizScreen />}
+          {screen === 'quiz' && (quizMode === 'listening' ? <ListeningScreen /> : <QuizScreen />)}
           {screen === 'battle' && <BattleScreen />}
           {screen === 'raid' && <RaidScreen />}
           {screen === 'ranking' && <RankingScreen />}
