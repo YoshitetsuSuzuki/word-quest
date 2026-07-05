@@ -2,7 +2,8 @@ import { useMemo, useState, type ReactNode } from 'react'
 import { useGame } from '../state/GameContext'
 import { useNav } from '../state/nav'
 import { ReviewScheduler } from '../core/ReviewScheduler'
-import type { Question } from '../types'
+import { speakWord, canSpeak } from '../utils/speech'
+import type { Question, Category } from '../types'
 
 /** prompt「apple の意味は？」から見出し語 apple を取り出す */
 function wordOf(q: Question): string {
@@ -167,7 +168,7 @@ export function StudyScreen() {
               📝 マイ単語帳をテストする（{deck.length}語）
             </button>
             {deck.map((q) => (
-              <FlashCard key={q.id} q={q} onRemove={() => toggleDeck(q.id)} />
+              <FlashCard key={q.id} q={q} category={category} onRemove={() => toggleDeck(q.id)} />
             ))}
           </div>
         ))}
@@ -198,10 +199,19 @@ function WordRow({ q, inDeck, onToggle, right }: { q: Question; inDeck: boolean;
 }
 
 /** タップで表裏（単語⇄意味）を切り替える暗記カード */
-function FlashCard({ q, onRemove }: { q: Question; onRemove: () => void }) {
+function FlashCard({ q, category, onRemove }: { q: Question; category: Category; onRemove: () => void }) {
   const [showMeaning, setShowMeaning] = useState(false)
   return (
-    <div className="card p-0 overflow-hidden">
+    <div className="card p-0 overflow-hidden relative">
+      {canSpeak() && (
+        <button
+          onClick={() => speakWord(wordOf(q), category)}
+          aria-label="発音を聞く"
+          className="absolute top-2 right-2 w-8 h-8 grid place-items-center rounded-full bg-white/10 active:scale-90 transition z-10"
+        >
+          🔊
+        </button>
+      )}
       <button onClick={() => setShowMeaning((v) => !v)} className="w-full p-5 text-center active:scale-[0.98] transition">
         {showMeaning ? (
           <div className="text-xl font-black text-accent2 animate-pop">{q.answer}</div>

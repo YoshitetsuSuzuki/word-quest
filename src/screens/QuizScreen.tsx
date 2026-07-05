@@ -4,6 +4,7 @@ import { useNav } from '../state/nav'
 import { ReviewScheduler } from '../core/ReviewScheduler'
 import { equippedEffect } from '../modules/shop/shopLogic'
 import { Loading } from '../components/Loading'
+import { speakWord, wordFromPrompt, canSpeak } from '../utils/speech'
 import type { Question, AnswerOutcome } from '../types'
 
 const SESSION_SIZE = 10
@@ -134,7 +135,18 @@ export function QuizScreen() {
         <div>
           <div className="text-xs text-white/40 mb-2">意味を選ぼう</div>
           <div className="text-2xl font-black">{q.prompt}</div>
-          {q.pronunciation && <div className="mt-1 text-sm text-accent2/80 font-mono">{q.pronunciation}</div>}
+          <div className="mt-1 flex items-center justify-center gap-2">
+            {q.pronunciation && <span className="text-sm text-accent2/80 font-mono">{q.pronunciation}</span>}
+            {canSpeak() && (
+              <button
+                onClick={() => speakWord(wordFromPrompt(q.prompt), category)}
+                aria-label="発音を聞く"
+                className="w-7 h-7 grid place-items-center rounded-full bg-white/10 active:scale-90 transition text-sm"
+              >
+                🔊
+              </button>
+            )}
+          </div>
           <div className="mt-2 text-[11px] text-white/30">難易度 {'★'.repeat(q.difficulty)}</div>
         </div>
 
