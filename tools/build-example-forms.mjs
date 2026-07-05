@@ -32,8 +32,21 @@ for (const [word, ex] of Object.entries(examples)) {
   if (word.startsWith('_') || typeof ex !== 'string') continue
   const eng = ex.split(' — ')[0]
   const forms = new Set([word, ...inflections(word)])
-  const token = (eng.match(/[A-Za-z']+/g) ?? []).find((t) => forms.has(t.toLowerCase()))
-  if (token) out[word] = token
+  let surface = null
+  for (const t of eng.match(/[A-Za-z']+/g) ?? []) {
+    const lower = t.toLowerCase()
+    if (forms.has(lower)) {
+      surface = t
+      break
+    }
+    // 所有格(recipient's / boys')は "'s"/"'" を落とした本体で照合し、本体部分を表層形とする
+    const stripped = lower.replace(/'s?$/, '')
+    if (stripped !== lower && forms.has(stripped)) {
+      surface = t.slice(0, stripped.length)
+      break
+    }
+  }
+  if (surface) out[word] = surface
   else misses.push(word)
 }
 
