@@ -15,11 +15,21 @@ import { ShopScreen } from './screens/ShopScreen'
 import { MissionsScreen } from './screens/MissionsScreen'
 import { StudyScreen } from './screens/StudyScreen'
 
+const CATEGORY_KEY = 'wordquest.category'
+
 export default function App() {
   const [screen, setScreen] = useState<Screen>('home')
   const [quizMode, setQuizMode] = useState<'normal' | 'review'>('normal')
-  const [category, setCategory] = useState<Category>('english')
+  // 前回選んだ学習ジャンルを記憶（中国語で遊んでいたら次回も中国語のまま）
+  const [category, setCategoryState] = useState<Category>(
+    () => (localStorage.getItem(CATEGORY_KEY) as Category | null) ?? 'english',
+  )
   const [customIds, setCustomIds] = useState<string[] | null>(null)
+
+  const setCategory = (c: Category) => {
+    setCategoryState(c)
+    localStorage.setItem(CATEGORY_KEY, c)
+  }
 
   const navigate = (s: Screen) => {
     setScreen(s)

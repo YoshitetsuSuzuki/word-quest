@@ -91,9 +91,10 @@ export function GameProvider({ children }: { children: ReactNode }) {
     }
   }
 
-  // 起動時に既定カテゴリ(英語)を先読み
+  // 起動時に「前回選んだカテゴリ」を先読み（未設定なら英語）
   useEffect(() => {
-    void ensureCategory('english')
+    const saved = (localStorage.getItem('wordquest.category') as Category | null) ?? 'english'
+    void ensureCategory(saved)
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [])
 
