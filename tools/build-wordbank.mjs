@@ -218,7 +218,7 @@ function pickDistractors(target) {
 // ---- 検証済み判定 ----
 // 全数レビュー済みの級 + 人手上書き済みの語 を「検証済み」とする。
 // アプリは検証済みの語だけを出題するため、出す語はすべて確実な訳になる。
-const REVIEWED_MAX_LEVEL = 1 // Lv1(最頻出576語)を全数レビュー済み
+const REVIEWED_MAX_LEVEL = 2 // Lv1-2(最頻出約1,450語)を全数レビュー済み
 const overrideWords = new Set(Object.keys(overrides).filter((k) => !k.startsWith('_')))
 
 // ---- Question 生成・出力 ----
