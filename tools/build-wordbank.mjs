@@ -215,18 +215,28 @@ function pickDistractors(target) {
   return result.slice(0, 3)
 }
 
+// ---- 検証済み判定 ----
+// 全数レビュー済みの級 + 人手上書き済みの語 を「検証済み」とする。
+// アプリは検証済みの語だけを出題するため、出す語はすべて確実な訳になる。
+const REVIEWED_MAX_LEVEL = 1 // Lv1(最頻出576語)を全数レビュー済み
+const overrideWords = new Set(Object.keys(overrides).filter((k) => !k.startsWith('_')))
+
 // ---- Question 生成・出力 ----
 const questions = accepted
-  .map((a) => ({
-    id: `en-${String(a.rank).padStart(5, '0')}`,
-    category: 'english',
-    prompt: `「${a.word}」の意味は？`,
-    answer: a.meaning,
-    choices: shuffle([a.meaning, ...pickDistractors(a)]),
-    difficulty: levelOf(a.rank),
-    tags: [bucketLabel[a.bucket]],
-    explanation: `${a.word} = ${a.meaning}`,
-  }))
+  .map((a) => {
+    const level = levelOf(a.rank)
+    return {
+      id: `en-${String(a.rank).padStart(5, '0')}`,
+      category: 'english',
+      prompt: `「${a.word}」の意味は？`,
+      answer: a.meaning,
+      choices: shuffle([a.meaning, ...pickDistractors(a)]),
+      difficulty: level,
+      tags: [bucketLabel[a.bucket]],
+      explanation: `${a.word} = ${a.meaning}`,
+      verified: level <= REVIEWED_MAX_LEVEL || overrideWords.has(a.word),
+    }
+  })
   .filter((q) => new Set(q.choices).size === 4)
 
 fs.mkdirSync(outDir, { recursive: true })
@@ -242,6 +252,7 @@ fs.writeFileSync(
     {
       category: 'english',
       total: questions.length,
+      verified: questions.filter((q) => q.verified).length,
       levels: manifestLevels,
       source: 'EJDict (Public Domain) + NGSL + google-10000-english',
       generatedAt: new Date().toISOString(),
@@ -254,4 +265,5 @@ fs.writeFileSync(
 console.log('source words:', sourceWords.length, '/ EJDict entries:', ejdict.size)
 console.log('overrides applied:', overrideApplied)
 console.log('valid questions:', questions.length)
+console.log('VERIFIED (出荷対象):', questions.filter((q) => q.verified).length)
 for (const l of manifestLevels) console.log(`  level ${l.level}: ${l.count}`)

@@ -12,4 +12,6 @@ export const featureFlags: FeatureFlags = {
   missionsEnabled: true,
   achievementsEnabled: true,
   reviewEnabled: true,
+  // 確実な訳の語だけを出題（レビュー拡大に伴い対象が増える）。品質最優先のため既定ON。
+  verifiedOnly: true,
 }

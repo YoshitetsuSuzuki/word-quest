@@ -1,6 +1,7 @@
 import type { Question, Category } from '../types'
 import type { IQuestionRepository } from './types'
 import { chineseQuestions } from '../data/questions.chinese'
+import { featureFlags } from '../config/featureFlags'
 
 interface Manifest {
   category: string
@@ -45,7 +46,11 @@ export class LocalQuestionRepository implements IQuestionRepository {
   }
 
   getByCategory(category: Category): Question[] {
-    return this.cache.get(category) ?? []
+    const list = this.cache.get(category) ?? []
+    // verifiedOnly の間は、明示的に verified:false の語を除外する
+    // (中国語など verified 未設定のものは出題対象として残す)
+    if (featureFlags.verifiedOnly) return list.filter((q) => q.verified !== false)
+    return list
   }
 
   getById(id: string): Question | undefined {

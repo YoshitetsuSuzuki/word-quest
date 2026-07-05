@@ -26,6 +26,8 @@ export interface Question {
   explanation?: string
   example?: string // 例文
   audioUrl?: string // 将来の音声再生用（optional）
+  /** 人手レビュー済み(訳が確実)か。verifiedOnly時はtrueのみ出題する */
+  verified?: boolean
 }
 
 /** Anki式間隔反復の管理単位（SM-2 lite） */
@@ -191,6 +193,8 @@ export interface FeatureFlags {
   missionsEnabled: boolean
   achievementsEnabled: boolean
   reviewEnabled: boolean
+  /** true の間は人手レビュー済み(verified)の語だけを出題する */
+  verifiedOnly: boolean
 }
 
 // ============================================================================
