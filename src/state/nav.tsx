@@ -18,6 +18,9 @@ interface NavApi {
   /** クイズを復習モードで開くためのフラグ */
   quizMode: 'normal' | 'review'
   setQuizMode: (m: 'normal' | 'review') => void
+  /** 指定IDだけで出題するカスタムセッション（弱点特訓・自分の単語帳テスト用）。nullで通常 */
+  customIds: string[] | null
+  setCustomIds: (ids: string[] | null) => void
   /** 現在選択中の学習ジャンル（Quiz/Battle/Raidが参照） */
   category: Category
   setCategory: (c: Category) => void

@@ -27,5 +27,7 @@ export function createDefaultUser(name = 'Player'): User {
     equipped: {},
     missionState: { date: today, progress: {}, claimed: [] },
     raidState: { date: today, bossId: getTodaysBoss(today).id, myContribution: 0, claimed: false },
+    wordStats: {},
+    customDeck: [],
   }
 }

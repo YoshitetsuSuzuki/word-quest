@@ -11,7 +11,7 @@ const SESSION_SIZE = 10
 export function QuizScreen() {
   const game = useGame()
   const { user, engine, answerQuestion, ensureCategory, isCategoryReady } = game
-  const { quizMode, navigate, category } = useNav()
+  const { quizMode, navigate, category, customIds, setCustomIds } = useNav()
 
   const ready = isCategoryReady(category)
   const [questions, setQuestions] = useState<Question[]>([])
@@ -26,7 +26,12 @@ export function QuizScreen() {
   useEffect(() => {
     if (!ready || questions.length > 0) return
     let s: Question[]
-    if (quizMode === 'review') {
+    if (customIds && customIds.length > 0) {
+      // 弱点特訓 / 自分の単語帳テスト: 指定IDだけで出題（一度きり消費）
+      s = engine.buildReviewSession(customIds, Math.min(SESSION_SIZE, customIds.length))
+      if (s.length === 0) s = engine.buildSession(category, SESSION_SIZE)
+      setCustomIds(null)
+    } else if (quizMode === 'review') {
       const dueIds = ReviewScheduler.dueQuestionIds(user.reviewQueue)
       const ids = dueIds.length > 0 ? dueIds : user.reviewQueue.map((r) => r.questionId)
       s = engine.buildReviewSession(ids, SESSION_SIZE)

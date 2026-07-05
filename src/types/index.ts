@@ -84,6 +84,10 @@ export interface User {
   missionState: MissionState
   /** レイドへの本日の貢献数 */
   raidState: RaidState
+  /** 語ごとの正答率トラッキング: questionId -> { c: 正解数, t: 挑戦数 } */
+  wordStats: Record<string, { c: number; t: number }>
+  /** ユーザーがタップで追加した自分専用の単語帳（暗記カード）: questionId の配列 */
+  customDeck: string[]
 }
 
 export interface EquippedItems {

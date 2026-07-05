@@ -19,6 +19,7 @@ export default function App() {
   const [screen, setScreen] = useState<Screen>('home')
   const [quizMode, setQuizMode] = useState<'normal' | 'review'>('normal')
   const [category, setCategory] = useState<Category>('english')
+  const [customIds, setCustomIds] = useState<string[] | null>(null)
 
   const navigate = (s: Screen) => {
     setScreen(s)
@@ -26,7 +27,7 @@ export default function App() {
   }
 
   return (
-    <NavContext.Provider value={{ screen, navigate, quizMode, setQuizMode, category, setCategory }}>
+    <NavContext.Provider value={{ screen, navigate, quizMode, setQuizMode, category, setCategory, customIds, setCustomIds }}>
       <div className="min-h-full max-w-md mx-auto flex flex-col relative">
         <TopBar />
         <main className="flex-1 px-4 py-4">

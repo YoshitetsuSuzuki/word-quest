@@ -45,6 +45,8 @@ interface GameApi {
   claimRaid: () => { ok: boolean; rewardCoin: number; rewardXp: number; title?: string }
   buyItem: (id: string) => { ok: boolean; reason?: string }
   equipItem: (id: string) => void
+  /** 自分専用の単語帳に追加/削除（タップで暗記カードを作る） */
+  toggleDeck: (questionId: string) => void
   resetAll: () => void
 }
 
@@ -56,9 +58,14 @@ function grantXp(user: User, xp: number): { user: User; leveledUp: boolean; newL
   return { user: { ...user, level: r.level, xp: r.xp }, leveledUp: r.leveledUp, newLevel: r.level }
 }
 
+/** 旧バージョンの保存データに不足フィールドを補う（後方互換） */
+function migrate(u: User): User {
+  return { ...u, wordStats: u.wordStats ?? {}, customDeck: u.customDeck ?? [] }
+}
+
 export function GameProvider({ children }: { children: ReactNode }) {
   const [user, setUser] = useState<User>(() => {
-    const loaded = userRepository.load() ?? createDefaultUser()
+    const loaded = migrate(userRepository.load() ?? createDefaultUser())
     // 起動時の日付リセット類
     let u = ensureMissionDay(ensureRaidDay(loaded))
     const login = applyLoginBonus(u)
@@ -133,7 +140,13 @@ export function GameProvider({ children }: { children: ReactNode }) {
       // setUser には確定値を渡す。演出通知(setCelebration)は updater の外で呼ぶ。
       answerQuestion: (q, selected, comboCount) => {
         const { correct, correctAnswer } = AnswerChecker.check(q, selected)
-        let u: User = { ...user, totalAnswered: user.totalAnswered + 1 }
+        // 語ごとの正答率を更新（弱点特訓・苦手判定に使う）
+        const prevStat = user.wordStats[q.id] ?? { c: 0, t: 0 }
+        const wordStats = {
+          ...user.wordStats,
+          [q.id]: { c: prevStat.c + (correct ? 1 : 0), t: prevStat.t + 1 },
+        }
+        let u: User = { ...user, totalAnswered: user.totalAnswered + 1, wordStats }
 
         // --- 復習キューの更新 ---
         const existing = u.reviewQueue.find((r) => r.questionId === q.id)
@@ -264,6 +277,16 @@ export function GameProvider({ children }: { children: ReactNode }) {
 
       equipItem: (id) => {
         setUser(equipItemLogic(user, id))
+      },
+
+      toggleDeck: (questionId) => {
+        // 連続タップに耐えるため関数型更新（副作用なしの純粋なトグル）
+        setUser((prev) => ({
+          ...prev,
+          customDeck: prev.customDeck.includes(questionId)
+            ? prev.customDeck.filter((id) => id !== questionId)
+            : [...prev.customDeck, questionId],
+        }))
       },
 
       resetAll: () => {

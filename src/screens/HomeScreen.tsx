@@ -8,7 +8,7 @@ import { categories } from '../data/categories'
 
 export function HomeScreen() {
   const { user, ensureCategory } = useGame()
-  const { navigate, setQuizMode, category, setCategory } = useNav()
+  const { navigate, setQuizMode, setCustomIds, category, setCategory } = useNav()
 
   const selectCategory = (id: typeof category) => {
     setCategory(id)
@@ -68,6 +68,7 @@ export function HomeScreen() {
       <button
         onClick={() => {
           setQuizMode('normal')
+          setCustomIds(null)
           navigate('quiz')
         }}
         className="btn-primary w-full py-5 text-lg relative overflow-hidden"
@@ -80,6 +81,7 @@ export function HomeScreen() {
         <button
           onClick={() => {
             setQuizMode('review')
+            setCustomIds(null)
             navigate('quiz')
           }}
           className="btn-ghost w-full py-3 text-sm flex items-center justify-center gap-2"
