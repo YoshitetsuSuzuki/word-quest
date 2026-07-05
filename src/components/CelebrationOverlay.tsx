@@ -20,6 +20,10 @@ export function CelebrationOverlay() {
     title = '実績解除'
     emoji = celebration.achievement?.emoji ?? '🏅'
     sub = celebration.achievement?.title ?? ''
+  } else if (celebration.kind === 'streak') {
+    title = 'STREAK!'
+    emoji = '🔥'
+    sub = `${celebration.streakDays}日連続学習を達成！ +🪙${celebration.streakCoin}`
   }
 
   return (

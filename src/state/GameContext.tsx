@@ -14,15 +14,20 @@ import { contributeRaid, ensureRaidDay, claimRaid as claimRaidLogic } from '../m
 import { applyBattleResult } from '../modules/battle/battleLogic'
 import { buyItem as buyItemLogic, equipItem as equipItemLogic } from '../modules/shop/shopLogic'
 import { evaluateAchievements, type AchievementContext } from '../modules/achievement/achievementLogic'
+import { applyStamp, reachedMilestones, daysBetween } from '../core/StreakEngine'
+import { streakConfig } from '../data/streak.config'
 
 const questionEngine = new QuestionEngine(questionRepository)
 
 /** 画面横断の演出通知 */
 export interface Celebration {
-  kind: 'levelup' | 'raidClear' | 'achievement'
+  kind: 'levelup' | 'raidClear' | 'achievement' | 'streak'
   level?: number
   achievement?: AchievementDef
   title?: string
+  /** kind==='streak': 到達日数と報酬コイン */
+  streakDays?: number
+  streakCoin?: number
 }
 
 interface GameApi {
@@ -39,6 +44,10 @@ interface GameApi {
   isCategoryReady: (c: Category) => boolean
 
   answerQuestion: (q: Question, selected: string, comboCount: number) => AnswerOutcome
+  /** ストリークフリーズ購入(コイン消費、最大ストックまで) */
+  buyStreakFreeze: () => boolean
+  /** 「今日の単語」を既読にする */
+  markTodayWordSeen: () => void
   applyRewardXp: (xp: number) => void
   finishBattle: (result: BattleResult) => void
   chargeBattleFee: (fee: number) => boolean
@@ -76,6 +85,13 @@ function migrate(u: User): User {
     customDeck: u.customDeck ?? [],
     todayAnswered: num(u.todayAnswered ?? 0),
     todayAnsweredDate: u.todayAnsweredDate ?? todayStr(),
+    studyStreak: num(u.studyStreak ?? 0),
+    longestStudyStreak: num(u.longestStudyStreak ?? 0),
+    lastStudyDate: u.lastStudyDate ?? '',
+    streakFreezes: num(u.streakFreezes ?? 0),
+    claimedStreakMilestones: u.claimedStreakMilestones ?? [],
+    dailyHistory: u.dailyHistory ?? {},
+    todayWordSeenDate: u.todayWordSeenDate ?? '',
   }
 }
 
@@ -174,6 +190,47 @@ export function GameProvider({ children }: { children: ReactNode }) {
           todayAnsweredDate: today,
         }
 
+        // --- 日別履歴(週間グラフ用)。14日より古いキーは捨てる ---
+        const dailyHistory: Record<string, number> = { ...u.dailyHistory, [today]: todayAnswered }
+        for (const k of Object.keys(dailyHistory)) {
+          if (daysBetween(k, today) > 14) delete dailyHistory[k]
+        }
+        u = { ...u, dailyHistory }
+
+        // --- 学習ストリーク: 今日はじめて閾値に到達した瞬間にスタンプ ---
+        let streakCelebration: Celebration | null = null
+        if (todayAnswered >= streakConfig.dailyGoal && u.lastStudyDate !== today) {
+          const res = applyStamp(
+            {
+              studyStreak: u.studyStreak,
+              longestStudyStreak: u.longestStudyStreak,
+              lastStudyDate: u.lastStudyDate,
+              streakFreezes: u.streakFreezes,
+            },
+            today,
+          )
+          u = { ...u, ...res.state }
+          // 節目報酬(コイン+限定称号)
+          const reached = reachedMilestones(u.studyStreak, u.claimedStreakMilestones)
+          if (reached.length > 0) {
+            let coinGain = 0
+            const titles: string[] = []
+            for (const d of reached) {
+              const m = streakConfig.milestones.find((x) => x.days === d)!
+              coinGain += m.coin
+              if (m.titleId && !u.ownedItemIds.includes(m.titleId)) titles.push(m.titleId)
+            }
+            u = {
+              ...u,
+              coin: u.coin + coinGain,
+              todayCoin: u.todayCoin + coinGain,
+              ownedItemIds: [...u.ownedItemIds, ...titles],
+              claimedStreakMilestones: [...u.claimedStreakMilestones, ...reached],
+            }
+            streakCelebration = { kind: 'streak', streakDays: reached[reached.length - 1], streakCoin: coinGain }
+          }
+        }
+
         // --- 復習キューの更新 ---
         const existing = u.reviewQueue.find((r) => r.questionId === q.id)
         if (correct) {
@@ -201,6 +258,7 @@ export function GameProvider({ children }: { children: ReactNode }) {
 
         if (!correct) {
           setUser(u)
+          if (streakCelebration) setCelebration(streakCelebration)
           return {
             correct: false,
             correctAnswer,
@@ -241,7 +299,8 @@ export function GameProvider({ children }: { children: ReactNode }) {
         u = ach.user
 
         setUser(u)
-        if (xpRes.leveledUp) setCelebration({ kind: 'levelup', level: xpRes.newLevel })
+        if (streakCelebration) setCelebration(streakCelebration)
+        else if (xpRes.leveledUp) setCelebration({ kind: 'levelup', level: xpRes.newLevel })
         else notifyAchievements(ach.unlocked)
 
         return {
@@ -254,6 +313,17 @@ export function GameProvider({ children }: { children: ReactNode }) {
           newLevel: xpRes.newLevel,
           unlockedAchievements: ach.unlocked,
         }
+      },
+
+      buyStreakFreeze: () => {
+        if (user.streakFreezes >= streakConfig.freezeMax) return false
+        if (user.coin < streakConfig.freezePrice) return false
+        setUser({ ...user, coin: user.coin - streakConfig.freezePrice, streakFreezes: user.streakFreezes + 1 })
+        return true
+      },
+
+      markTodayWordSeen: () => {
+        if (user.todayWordSeenDate !== todayStr()) setUser({ ...user, todayWordSeenDate: todayStr() })
       },
 
       applyRewardXp: (xp) => {

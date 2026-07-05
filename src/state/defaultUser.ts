@@ -31,5 +31,12 @@ export function createDefaultUser(name = 'Player'): User {
     customDeck: [],
     todayAnswered: 0,
     todayAnsweredDate: today,
+    studyStreak: 0,
+    longestStudyStreak: 0,
+    lastStudyDate: '',
+    streakFreezes: 0,
+    claimedStreakMilestones: [],
+    dailyHistory: {},
+    todayWordSeenDate: '',
   }
 }

@@ -91,6 +91,21 @@ export interface User {
   /** 今日回答した問題数（デイリー目標用、日付が変わるとリセット） */
   todayAnswered: number
   todayAnsweredDate: string
+
+  // --- 学習ストリーク(デイリーリテンション) ---
+  /** 「1日にdailyGoal問回答した日」の連続日数 */
+  studyStreak: number
+  longestStudyStreak: number
+  /** 最後にスタンプ獲得した日(YYYY-MM-DD)。'' は未獲得 */
+  lastStudyDate: string
+  /** ストリークフリーズ所持数(休んでも1日守られる) */
+  streakFreezes: number
+  /** 受領済みの節目(日数) */
+  claimedStreakMilestones: number[]
+  /** 日別回答数(直近14日でプルーニング)。週間グラフ用 */
+  dailyHistory: Record<string, number>
+  /** 「今日の単語」を見た日 */
+  todayWordSeenDate: string
 }
 
 export interface EquippedItems {
