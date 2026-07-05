@@ -5,6 +5,7 @@ import { TopBar } from './components/TopBar'
 import { BottomNav } from './components/BottomNav'
 import { CelebrationOverlay } from './components/CelebrationOverlay'
 import { LoginBonusModal } from './components/LoginBonusModal'
+import { OnboardingModal } from './components/OnboardingModal'
 import { HomeScreen } from './screens/HomeScreen'
 import { QuizScreen } from './screens/QuizScreen'
 import { BattleScreen } from './screens/BattleScreen'
@@ -25,10 +26,20 @@ export default function App() {
     () => (localStorage.getItem(CATEGORY_KEY) as Category | null) ?? 'english',
   )
   const [customIds, setCustomIds] = useState<string[] | null>(null)
+  const [soundEnabled, setSoundEnabledState] = useState(() => localStorage.getItem('wordquest.sound') !== 'off')
+  const [studyLevel, setStudyLevelState] = useState<number>(() => Number(localStorage.getItem('wordquest.level') ?? 0))
 
   const setCategory = (c: Category) => {
     setCategoryState(c)
     localStorage.setItem(CATEGORY_KEY, c)
+  }
+  const setSoundEnabled = (v: boolean) => {
+    setSoundEnabledState(v)
+    localStorage.setItem('wordquest.sound', v ? 'on' : 'off')
+  }
+  const setStudyLevel = (n: number) => {
+    setStudyLevelState(n)
+    localStorage.setItem('wordquest.level', String(n))
   }
 
   const navigate = (s: Screen) => {
@@ -37,7 +48,9 @@ export default function App() {
   }
 
   return (
-    <NavContext.Provider value={{ screen, navigate, quizMode, setQuizMode, category, setCategory, customIds, setCustomIds }}>
+    <NavContext.Provider
+      value={{ screen, navigate, quizMode, setQuizMode, category, setCategory, customIds, setCustomIds, soundEnabled, setSoundEnabled, studyLevel, setStudyLevel }}
+    >
       <div className="min-h-full max-w-md mx-auto flex flex-col relative">
         <TopBar />
         <main className="flex-1 px-4 py-4">
@@ -54,6 +67,7 @@ export default function App() {
         <BottomNav />
         <LoginBonusModal />
         <CelebrationOverlay />
+        <OnboardingModal />
       </div>
     </NavContext.Provider>
   )

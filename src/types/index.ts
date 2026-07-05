@@ -89,6 +89,9 @@ export interface User {
   wordStats: Record<string, { c: number; t: number }>
   /** ユーザーがタップで追加した自分専用の単語帳（暗記カード）: questionId の配列 */
   customDeck: string[]
+  /** 今日回答した問題数（デイリー目標用、日付が変わるとリセット） */
+  todayAnswered: number
+  todayAnsweredDate: string
 }
 
 export interface EquippedItems {

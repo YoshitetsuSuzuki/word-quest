@@ -1,10 +1,12 @@
 import { useGame } from '../state/GameContext'
+import { useNav } from '../state/nav'
 import { achievements } from '../data/achievements.config'
 import { equippedTitle, equippedFrameClass } from '../modules/shop/shopLogic'
 import { featureFlags } from '../config/featureFlags'
 
 export function ProfileScreen() {
   const { user, resetAll } = useGame()
+  const { soundEnabled, setSoundEnabled } = useNav()
   const title = equippedTitle(user)
   const frame = equippedFrameClass(user)
   const totalBattles = user.battleWins + user.battleLosses
@@ -77,6 +79,27 @@ export function ProfileScreen() {
           </div>
         </div>
       )}
+
+      {/* 設定 */}
+      <div className="card p-4">
+        <h3 className="font-black text-sm mb-3">⚙️ 設定</h3>
+        <button
+          onClick={() => setSoundEnabled(!soundEnabled)}
+          className="w-full flex items-center justify-between py-2"
+        >
+          <span className="text-sm">🔊 発音の自動再生</span>
+          <span
+            className={`relative w-12 h-7 rounded-full transition ${soundEnabled ? 'bg-accent' : 'bg-white/15'}`}
+          >
+            <span
+              className={`absolute top-0.5 w-6 h-6 rounded-full bg-white transition-all ${soundEnabled ? 'left-[22px]' : 'left-0.5'}`}
+            />
+          </span>
+        </button>
+        <p className="text-[11px] text-white/40 mt-1">
+          オフにすると問題が出たときの読み上げが止まります（🔊ボタンは引き続き使えます）。
+        </p>
+      </div>
 
       <button className="btn-ghost w-full py-3 text-sm text-danger" onClick={onReset}>
         データを初期化

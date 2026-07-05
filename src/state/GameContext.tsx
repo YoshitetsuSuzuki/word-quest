@@ -8,6 +8,7 @@ import { AnswerChecker } from '../core/AnswerChecker'
 import { ReviewScheduler } from '../core/ReviewScheduler'
 import { createDefaultUser } from './defaultUser'
 import { applyLoginBonus } from './loginLogic'
+import { todayStr } from './dateUtils'
 import { addMissionProgress, syncLoginStreakMissions, claimMission as claimMissionLogic, ensureMissionDay } from '../modules/mission/missionLogic'
 import { contributeRaid, ensureRaidDay, claimRaid as claimRaidLogic } from '../modules/raid/raidLogic'
 import { applyBattleResult } from '../modules/battle/battleLogic'
@@ -47,6 +48,8 @@ interface GameApi {
   equipItem: (id: string) => void
   /** 自分専用の単語帳に追加/削除（タップで暗記カードを作る） */
   toggleDeck: (questionId: string) => void
+  /** プレイヤー名を変更（オンボーディング等） */
+  setName: (name: string) => void
   resetAll: () => void
 }
 
@@ -60,7 +63,13 @@ function grantXp(user: User, xp: number): { user: User; leveledUp: boolean; newL
 
 /** 旧バージョンの保存データに不足フィールドを補う（後方互換） */
 function migrate(u: User): User {
-  return { ...u, wordStats: u.wordStats ?? {}, customDeck: u.customDeck ?? [] }
+  return {
+    ...u,
+    wordStats: u.wordStats ?? {},
+    customDeck: u.customDeck ?? [],
+    todayAnswered: u.todayAnswered ?? 0,
+    todayAnsweredDate: u.todayAnsweredDate ?? todayStr(),
+  }
 }
 
 export function GameProvider({ children }: { children: ReactNode }) {
@@ -147,7 +156,16 @@ export function GameProvider({ children }: { children: ReactNode }) {
           ...user.wordStats,
           [q.id]: { c: prevStat.c + (correct ? 1 : 0), t: prevStat.t + 1 },
         }
-        let u: User = { ...user, totalAnswered: user.totalAnswered + 1, wordStats }
+        // デイリー目標: 日付が変わっていたらリセットしてから+1
+        const today = todayStr()
+        const todayAnswered = (user.todayAnsweredDate === today ? user.todayAnswered : 0) + 1
+        let u: User = {
+          ...user,
+          totalAnswered: user.totalAnswered + 1,
+          wordStats,
+          todayAnswered,
+          todayAnsweredDate: today,
+        }
 
         // --- 復習キューの更新 ---
         const existing = u.reviewQueue.find((r) => r.questionId === q.id)
@@ -278,6 +296,11 @@ export function GameProvider({ children }: { children: ReactNode }) {
 
       equipItem: (id) => {
         setUser(equipItemLogic(user, id))
+      },
+
+      setName: (name) => {
+        const trimmed = name.trim().slice(0, 12)
+        if (trimmed) setUser({ ...user, name: trimmed })
       },
 
       toggleDeck: (questionId) => {

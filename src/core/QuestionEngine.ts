@@ -23,10 +23,15 @@ export class QuestionEngine {
     return { ...q, choices: shuffle(q.choices) }
   }
 
-  /** カテゴリの全問題（選択肢シャッフル済み）をランダム順で返す */
-  buildSession(category: Category, count: number): Question[] {
-    const all = this.repo.getByCategory(category)
-    return shuffle(all).slice(0, count).map((q) => this.withShuffledChoices(q))
+  /**
+   * カテゴリの問題（選択肢シャッフル済み）をランダム順で返す。
+   * level(1-5)を指定するとその難易度に絞る。該当が少なすぎる場合は全体にフォールバック。
+   */
+  buildSession(category: Category, count: number, level = 0): Question[] {
+    const full = this.repo.getByCategory(category)
+    let pool = level > 0 ? full.filter((q) => q.difficulty === level) : full
+    if (pool.length < count) pool = full // 級内が少ない場合は全体から
+    return shuffle(pool).slice(0, count).map((q) => this.withShuffledChoices(q))
   }
 
   /** 指定IDリストから復習セッションを作る（間隔反復の期限到来分など） */
@@ -42,5 +47,15 @@ export class QuestionEngine {
 
   getById(id: string): Question | undefined {
     return this.repo.getById(id)
+  }
+
+  /** そのカテゴリに存在する難易度(1-5)を昇順で返す */
+  availableLevels(category: Category): number[] {
+    return [...new Set(this.repo.getByCategory(category).map((q) => q.difficulty))].sort((a, b) => a - b)
+  }
+
+  /** そのカテゴリの出題可能語数（習得率の分母などに使う） */
+  categorySize(category: Category): number {
+    return this.repo.getByCategory(category).length
   }
 }

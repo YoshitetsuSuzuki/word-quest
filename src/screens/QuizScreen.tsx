@@ -12,7 +12,7 @@ const SESSION_SIZE = 10
 export function QuizScreen() {
   const game = useGame()
   const { user, engine, answerQuestion, ensureCategory, isCategoryReady } = game
-  const { quizMode, navigate, category, customIds, setCustomIds } = useNav()
+  const { quizMode, navigate, category, customIds, setCustomIds, soundEnabled, studyLevel } = useNav()
 
   const ready = isCategoryReady(category)
   const [questions, setQuestions] = useState<Question[]>([])
@@ -38,7 +38,7 @@ export function QuizScreen() {
       s = engine.buildReviewSession(ids, SESSION_SIZE)
       if (s.length === 0) s = engine.buildSession(category, SESSION_SIZE)
     } else {
-      s = engine.buildSession(category, SESSION_SIZE)
+      s = engine.buildSession(category, SESSION_SIZE, studyLevel)
     }
     setQuestions(s)
     // eslint-disable-next-line react-hooks/exhaustive-deps
@@ -52,6 +52,15 @@ export function QuizScreen() {
   const [sessionCoin, setSessionCoin] = useState(0)
   const [finished, setFinished] = useState(false)
   const [popKey, setPopKey] = useState(0)
+
+  // 問題が切り替わったら自動で発音を再生（音声ONのとき）
+  useEffect(() => {
+    const q = questions[index]
+    if (q && soundEnabled && !finished) {
+      speakWord(wordFromPrompt(q.prompt), category)
+    }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [index, questions.length])
 
   if (!ready || questions.length === 0) {
     return <Loading label="問題を準備中…" />

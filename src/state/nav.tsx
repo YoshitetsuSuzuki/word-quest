@@ -24,6 +24,12 @@ interface NavApi {
   /** 現在選択中の学習ジャンル（Quiz/Battle/Raidが参照） */
   category: Category
   setCategory: (c: Category) => void
+  /** 音声の自動再生ON/OFF（一括ミュート） */
+  soundEnabled: boolean
+  setSoundEnabled: (v: boolean) => void
+  /** 学習レベル(難易度1-5)。0=全部から出題 */
+  studyLevel: number
+  setStudyLevel: (n: number) => void
 }
 
 export const NavContext = createContext<NavApi | null>(null)

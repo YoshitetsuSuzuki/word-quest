@@ -5,15 +5,29 @@ import { getRaidView } from '../modules/raid/raidLogic'
 import { getMissionViews } from '../modules/mission/missionLogic'
 import { ProgressBar } from '../components/ProgressBar'
 import { categories } from '../data/categories'
+import { todayStr } from '../state/dateUtils'
+
+const DAILY_GOAL = 20
 
 export function HomeScreen() {
-  const { user, ensureCategory } = useGame()
-  const { navigate, setQuizMode, setCustomIds, category, setCategory } = useNav()
+  const { user, ensureCategory, isCategoryReady, engine } = useGame()
+  const { navigate, setQuizMode, setCustomIds, category, setCategory, studyLevel, setStudyLevel } = useNav()
 
   const selectCategory = (id: typeof category) => {
     setCategory(id)
     void ensureCategory(id) // 先読みしておく
   }
+  const levelLabel = (n: number) => (category === 'chinese' ? `HSK${n}` : `Lv${n}`)
+  const ready = isCategoryReady(category)
+  const levels = ready ? engine.availableLevels(category) : []
+
+  // デイリー目標
+  const todayDone = user.todayAnsweredDate === todayStr() ? user.todayAnswered : 0
+  // 習得率（このジャンルで一度でも正解した語 / 出題可能語数）
+  const prefix = category === 'chinese' ? 'zh' : 'en'
+  const learnedInCat = user.learnedQuestionIds.filter((id) => id.startsWith(prefix)).length
+  const totalInCat = ready ? engine.categorySize(category) : 0
+  const catLabel = categories.find((c) => c.id === category)?.label ?? ''
   const raid = getRaidView(user)
   const missions = getMissionViews(user)
   const doneMissions = missions.filter((m) => m.completed).length
@@ -64,6 +78,29 @@ export function HomeScreen() {
         </div>
       </div>
 
+      {/* レベル選択（級で選んで学ぶ） */}
+      {levels.length > 1 && (
+        <div>
+          <div className="text-xs text-white/45 mb-2 font-bold">レベル</div>
+          <div className="flex gap-2 overflow-x-auto pb-1 -mx-1 px-1">
+            {[0, ...levels].map((n) => {
+              const active = studyLevel === n
+              return (
+                <button
+                  key={n}
+                  onClick={() => setStudyLevel(n)}
+                  className={`shrink-0 px-3 py-1.5 rounded-xl text-xs font-bold transition border ${
+                    active ? 'bg-accent2 text-night border-accent2' : 'bg-panel2 text-white/60 border-white/10'
+                  }`}
+                >
+                  {n === 0 ? 'おまかせ' : levelLabel(n)}
+                </button>
+              )
+            })}
+          </div>
+        </div>
+      )}
+
       {/* メインCTA */}
       <button
         onClick={() => {
@@ -89,6 +126,27 @@ export function HomeScreen() {
           🔁 復習が {dueReview} 問たまっています
         </button>
       )}
+
+      {/* 今日の目標 & 習得率 */}
+      <div className="grid grid-cols-2 gap-3">
+        <div className="card p-4">
+          <div className="text-xs text-white/45 font-bold">今日の目標</div>
+          <div className="mt-1 font-black tabular-nums">
+            {todayDone}
+            <span className="text-white/40 text-sm"> / {DAILY_GOAL}問</span>
+          </div>
+          <ProgressBar ratio={todayDone / DAILY_GOAL} className="mt-2" barClassName={todayDone >= DAILY_GOAL ? 'bg-success' : 'bg-accent2'} height={8} />
+          {todayDone >= DAILY_GOAL && <div className="text-[10px] text-success mt-1 font-bold">達成！🎉</div>}
+        </div>
+        <div className="card p-4">
+          <div className="text-xs text-white/45 font-bold">{catLabel}の習得</div>
+          <div className="mt-1 font-black tabular-nums">
+            {learnedInCat}
+            <span className="text-white/40 text-sm"> / {totalInCat}語</span>
+          </div>
+          <ProgressBar ratio={totalInCat ? learnedInCat / totalInCat : 0} className="mt-2" barClassName="bg-gold" height={8} />
+        </div>
+      </div>
 
       {/* 機能タイル */}
       <div className="grid grid-cols-2 gap-3">
