@@ -1,6 +1,5 @@
 import type { Question, Category } from '../types'
 import type { IQuestionRepository } from './types'
-import { chineseQuestions } from '../data/questions.chinese'
 import { featureFlags } from '../config/featureFlags'
 
 interface Manifest {
@@ -9,11 +8,12 @@ interface Manifest {
   levels: { level: number; file: string; count: number }[]
 }
 
+/** JSONワードバンクを持つカテゴリ（public/wordbank/<cat>/ に生成物がある） */
+const WORDBANK_CATEGORIES = new Set<Category>(['english', 'chinese'])
+
 /**
  * 問題データの供給元。
- * - english: public/wordbank/english/ の生成済みJSONを級別に遅延ロード（大規模対応）
- * - chinese: 少量のためバンドル同梱（将来はenglishと同様にJSON化可能）
- *
+ * english/chinese は public/wordbank/<cat>/ の生成済みJSONを級別に遅延ロードする。
  * getByCategory は同期。事前に loadCategory() でキャッシュしておく設計。
  */
 export class LocalQuestionRepository implements IQuestionRepository {
@@ -23,17 +23,13 @@ export class LocalQuestionRepository implements IQuestionRepository {
   async loadCategory(category: Category): Promise<void> {
     if (this.cache.has(category)) return
 
-    if (category === 'chinese') {
-      this.cache.set('chinese', chineseQuestions)
-      return
-    }
-
-    if (category === 'english') {
-      const manifest = (await fetch(`${this.base}wordbank/english/manifest.json`).then((r) => r.json())) as Manifest
+    if (WORDBANK_CATEGORIES.has(category)) {
+      const dir = `${this.base}wordbank/${category}`
+      const manifest = (await fetch(`${dir}/manifest.json`).then((r) => r.json())) as Manifest
       const parts = await Promise.all(
-        manifest.levels.map((lv) => fetch(`${this.base}wordbank/english/${lv.file}`).then((r) => r.json() as Promise<Question[]>)),
+        manifest.levels.map((lv) => fetch(`${dir}/${lv.file}`).then((r) => r.json() as Promise<Question[]>)),
       )
-      this.cache.set('english', parts.flat())
+      this.cache.set(category, parts.flat())
       return
     }
 
