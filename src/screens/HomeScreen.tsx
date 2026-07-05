@@ -24,7 +24,7 @@ export function HomeScreen() {
   // デイリー目標
   const todayDone = user.todayAnsweredDate === todayStr() ? user.todayAnswered : 0
   // 習得率（このジャンルで一度でも正解した語 / 出題可能語数）
-  const prefix = category === 'chinese' ? 'zh' : 'en'
+  const prefix = category === 'chinese' ? 'zh' : category === 'korean' ? 'ko' : 'en'
   const learnedInCat = user.learnedQuestionIds.filter((id) => id.startsWith(prefix)).length
   const totalInCat = ready ? engine.categorySize(category) : 0
   const catLabel = categories.find((c) => c.id === category)?.label ?? ''

@@ -15,9 +15,7 @@ export interface CategoryInfo {
 export const categories: CategoryInfo[] = [
   { id: 'english', label: '英単語', emoji: '🇬🇧', available: true },
   { id: 'chinese', label: '中国語', emoji: '🇨🇳', available: true },
-  { id: 'history', label: '歴史', emoji: '📜', available: false },
-  { id: 'spi', label: 'SPI', emoji: '🧮', available: false },
-  { id: 'certification', label: '資格', emoji: '🎓', available: false },
+  { id: 'korean', label: '韓国語', emoji: '🇰🇷', available: true },
 ]
 
 export function getCategoryInfo(id: Category): CategoryInfo {

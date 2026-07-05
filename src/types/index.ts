@@ -7,9 +7,7 @@
 export type Category =
   | 'english'
   | 'chinese'
-  | 'history'
-  | 'spi'
-  | 'certification'
+  | 'korean'
 
 /** 難易度 1(易) 〜 5(難) */
 export type Difficulty = 1 | 2 | 3 | 4 | 5

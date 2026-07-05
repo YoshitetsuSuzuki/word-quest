@@ -9,7 +9,7 @@ interface Manifest {
 }
 
 /** JSONワードバンクを持つカテゴリ（public/wordbank/<cat>/ に生成物がある） */
-const WORDBANK_CATEGORIES = new Set<Category>(['english', 'chinese'])
+const WORDBANK_CATEGORIES = new Set<Category>(['english', 'chinese', 'korean'])
 
 /**
  * 問題データの供給元。

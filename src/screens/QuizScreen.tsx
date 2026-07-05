@@ -144,8 +144,8 @@ export function QuizScreen() {
         <div>
           <div className="text-xs text-white/40 mb-2">意味を選ぼう</div>
           <div className="text-2xl font-black">{q.prompt}</div>
-          <div className="mt-1 flex items-center justify-center gap-2">
-            {q.pronunciation && <span className="text-sm text-accent2/80 font-mono">{q.pronunciation}</span>}
+          <div className="mt-1.5 flex items-center justify-center gap-2">
+            {q.pronunciation && <span className="text-base text-accent2 font-mono font-bold">{q.pronunciation}</span>}
             {canSpeak() && (
               <button
                 onClick={() => speakWord(wordFromPrompt(q.prompt), category)}

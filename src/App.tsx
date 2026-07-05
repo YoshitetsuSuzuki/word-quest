@@ -1,6 +1,7 @@
-import { useState } from 'react'
+import { useEffect, useState } from 'react'
 import { NavContext, type Screen } from './state/nav'
 import type { Category } from './types'
+import { primeSpeech } from './utils/speech'
 import { TopBar } from './components/TopBar'
 import { BottomNav } from './components/BottomNav'
 import { CelebrationOverlay } from './components/CelebrationOverlay'
@@ -46,6 +47,16 @@ export default function App() {
     setScreen(s)
     window.scrollTo(0, 0)
   }
+
+  // 初回タップで音声エンジンを解錠（1問目から自動再生が鳴るように）
+  useEffect(() => {
+    const prime = () => {
+      primeSpeech()
+      window.removeEventListener('pointerdown', prime)
+    }
+    window.addEventListener('pointerdown', prime)
+    return () => window.removeEventListener('pointerdown', prime)
+  }, [])
 
   return (
     <NavContext.Provider
