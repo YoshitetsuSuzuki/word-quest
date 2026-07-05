@@ -46,6 +46,14 @@ export function ListeningScreen() {
 
   const [index, setIndex] = useState(0)
   const [combo, setCombo] = useState(0)
+  // 穴埋めの回答スタイル: スペル入力 or 4択(設定は記憶する)
+  const [answerStyle, setAnswerStyleState] = useState<'type' | 'choice'>(
+    () => (localStorage.getItem('wordquest.listenStyle') === 'choice' ? 'choice' : 'type'),
+  )
+  const setAnswerStyle = (s: 'type' | 'choice') => {
+    setAnswerStyleState(s)
+    localStorage.setItem('wordquest.listenStyle', s)
+  }
   const [outcome, setOutcome] = useState<AnswerOutcome | null>(null)
   const [answered, setAnswered] = useState(false)
   const [typed, setTyped] = useState('')
@@ -58,6 +66,22 @@ export function ListeningScreen() {
   const q = questions[index]
   const isCloze = category === 'english' && !!q?.example && !!q?.exampleForm
   const ex = q?.example ? splitExample(q.example) : null
+
+  // 4択スタイル用: 同セッションの他の問題の表層形から誤答肢を3つ作る
+  const [wordChoices, setWordChoices] = useState<string[]>([])
+  useEffect(() => {
+    if (!isCloze || !q?.exampleForm) return
+    const others = questions
+      .filter((o, i) => i !== index && o.exampleForm && o.exampleForm.toLowerCase() !== q.exampleForm!.toLowerCase())
+      .map((o) => o.exampleForm!)
+    const picked: string[] = []
+    for (const f of others.sort(() => Math.random() - 0.5)) {
+      if (picked.length >= 3) break
+      if (!picked.includes(f)) picked.push(f)
+    }
+    setWordChoices([q.exampleForm!, ...picked].sort(() => Math.random() - 0.5))
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [index, questions.length])
 
   // 出題時に自動再生（リスニングなので常に読み上げる）
   useEffect(() => {
@@ -100,6 +124,13 @@ export function ListeningScreen() {
     if (answered) return
     setSelected(choice)
     finish(choice === q.answer)
+  }
+
+  /** 穴埋め4択スタイル: 単語の選択肢で回答 */
+  const selectForm = (f: string) => {
+    if (answered || !q.exampleForm) return
+    setTyped(f) // 開示表示用
+    finish(f.toLowerCase() === q.exampleForm.toLowerCase())
   }
 
   const next = () => {
@@ -191,21 +222,52 @@ export function ListeningScreen() {
         <div className="space-y-3">
           {!answered && (
             <>
-              <input
-                ref={inputRef}
-                value={typed}
-                onChange={(e) => setTyped(e.target.value)}
-                onKeyDown={(e) => e.key === 'Enter' && submitTyped()}
-                placeholder="聞こえた単語を入力"
-                autoCapitalize="off"
-                autoCorrect="off"
-                autoComplete="off"
-                spellCheck={false}
-                className="w-full bg-panel2 border border-white/10 rounded-xl px-4 py-4 text-lg font-bold text-center outline-none focus:border-accent"
-              />
-              <button className="btn-primary w-full py-4" disabled={!typed.trim()} onClick={submitTyped}>
-                答え合わせ
-              </button>
+              {/* 回答スタイル切替 */}
+              <div className="flex justify-center gap-2">
+                {(
+                  [
+                    ['type', '⌨️ 入力'],
+                    ['choice', '🔤 4択'],
+                  ] as const
+                ).map(([s, label]) => (
+                  <button
+                    key={s}
+                    onClick={() => setAnswerStyle(s)}
+                    className={`px-3 py-1.5 rounded-xl text-xs font-bold transition border ${
+                      answerStyle === s ? 'bg-accent2 text-night border-accent2' : 'bg-panel2 text-white/60 border-white/10'
+                    }`}
+                  >
+                    {label}
+                  </button>
+                ))}
+              </div>
+              {answerStyle === 'type' ? (
+                <>
+                  <input
+                    ref={inputRef}
+                    value={typed}
+                    onChange={(e) => setTyped(e.target.value)}
+                    onKeyDown={(e) => e.key === 'Enter' && submitTyped()}
+                    placeholder="聞こえた単語を入力"
+                    autoCapitalize="off"
+                    autoCorrect="off"
+                    autoComplete="off"
+                    spellCheck={false}
+                    className="w-full bg-panel2 border border-white/10 rounded-xl px-4 py-4 text-lg font-bold text-center outline-none focus:border-accent"
+                  />
+                  <button className="btn-primary w-full py-4" disabled={!typed.trim()} onClick={submitTyped}>
+                    答え合わせ
+                  </button>
+                </>
+              ) : (
+                <div className="grid grid-cols-2 gap-3">
+                  {wordChoices.map((f) => (
+                    <button key={f} onClick={() => selectForm(f)} className="btn-ghost py-4 text-base font-bold">
+                      {f}
+                    </button>
+                  ))}
+                </div>
+              )}
             </>
           )}
         </div>
