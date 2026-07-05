@@ -16,6 +16,15 @@ import { inflections } from './inflect.english.mjs'
 
 const toolsDir = path.dirname(fileURLToPath(import.meta.url))
 const examples = JSON.parse(fs.readFileSync(path.join(toolsDir, 'examples.english.json'), 'utf8'))
+// 書き下ろし例文はTatoebaより優先(build-wordbank.mjs と同じマージ規則)
+try {
+  const custom = JSON.parse(fs.readFileSync(path.join(toolsDir, 'examples.custom.english.json'), 'utf8'))
+  for (const [w, ex] of Object.entries(custom)) {
+    if (!w.startsWith('_') && typeof ex === 'string') examples[w] = ex
+  }
+} catch {
+  // 書き下ろし無しでも動く
+}
 
 const out = {}
 const misses = []

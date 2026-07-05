@@ -250,6 +250,15 @@ try {
 } catch {
   console.warn('warning: examples.english.json が見つかりません。例文なしで生成します。(node tools/build-examples-english.mjs で生成)')
 }
+// 書き下ろし例文(凜監修・三重レビュー済み)。Tatoebaより優先する。
+try {
+  const custom = JSON.parse(fs.readFileSync(path.join(root, 'tools', 'examples.custom.english.json'), 'utf8'))
+  for (const [w, ex] of Object.entries(custom)) {
+    if (!w.startsWith('_') && typeof ex === 'string') examplesMap[w] = ex
+  }
+} catch {
+  // 書き下ろしが無い分はTatoebaのみで生成
+}
 // 例文中の表層形(リスニング穴埋め用)。word -> "bought" 等。
 let exampleFormsMap = {}
 try {
