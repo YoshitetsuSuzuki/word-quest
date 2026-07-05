@@ -45,12 +45,27 @@ for (const line of fs.readFileSync(path.join(cacheDir, 'ejdict-all.txt'), 'utf8'
   if (!ejdict.has(word)) ejdict.set(word, line.slice(tab + 1))
 }
 
+// ---- 発音記号(IPA): ipa-dict(MIT) から word -> IPA(第一発音) ----
+const ipaMap = new Map()
+try {
+  for (const line of fs.readFileSync(path.join(cacheDir, 'ipa_en_US.txt'), 'utf8').split('\n')) {
+    const tab = line.indexOf('\t')
+    if (tab < 0) continue
+    const w = line.slice(0, tab).trim().toLowerCase()
+    const ipa = line.slice(tab + 1).split(',')[0].trim()
+    if (w && ipa && !ipaMap.has(w)) ipaMap.set(w, ipa)
+  }
+} catch {
+  console.warn('warning: ipa_en_US.txt が見つかりません。発音記号なしで生成します。')
+}
+
 // ---- 定義から「主要な1つの訳語」を抽出 ----
 function extractMeaning(raw) {
   let first = raw.split(' / ')[0] // 先頭の語義=主要な訳語
   first = first
     .replace(/〈[^〉]*〉/g, '') // 〈C〉〈人が〉等の注記
     .replace(/《[^》]*》/g, '') // 《the ~》《米》等
+    .replace(/\{[^}]*\}/g, '') // {動}{名}等の品詞マーカー
     .replace(/\([^)]*\)/g, '') // (…の)(集団の)等
     .replace(/（[^）]*）/g, '')
     .replace(/\[[^\]]*\]/g, '')
@@ -60,6 +75,7 @@ function extractMeaning(raw) {
   core = core.split(/[,、;；]/)[0] // 最初の区切りまで
   // 記号(『』…引用符・中黒等)のみ除去。※語頭の仮名を削る処理はバグの元(もう→う)のため廃止
   core = core.replace(/[『』「」…"'.\s·・\-()（）]/g, '').replace(/^…+/, '').trim()
+  core = core.replace(/^を/, '') // 語頭の格助詞「を」のみ除去(『…を捨てる』→捨てる。をで始まる和語は無いため安全)
   return core
 }
 
@@ -218,13 +234,14 @@ function pickDistractors(target) {
 // ---- 検証済み判定 ----
 // 全数レビュー済みの級 + 人手上書き済みの語 を「検証済み」とする。
 // アプリは検証済みの語だけを出題するため、出す語はすべて確実な訳になる。
-const REVIEWED_MAX_LEVEL = 2 // Lv1-2(最頻出約1,450語)を全数レビュー済み
+const REVIEWED_MAX_LEVEL = 3 // Lv1-3(NGSL相当・約2,600語)を全数レビュー済み
 const overrideWords = new Set(Object.keys(overrides).filter((k) => !k.startsWith('_')))
 
 // ---- Question 生成・出力 ----
 const questions = accepted
   .map((a) => {
     const level = levelOf(a.rank)
+    const ipa = ipaMap.get(a.word)
     return {
       id: `en-${String(a.rank).padStart(5, '0')}`,
       category: 'english',
@@ -234,6 +251,7 @@ const questions = accepted
       difficulty: level,
       tags: [bucketLabel[a.bucket]],
       explanation: `${a.word} = ${a.meaning}`,
+      ...(ipa ? { pronunciation: ipa } : {}),
       verified: level <= REVIEWED_MAX_LEVEL || overrideWords.has(a.word),
     }
   })

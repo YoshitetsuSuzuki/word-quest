@@ -134,6 +134,7 @@ export function QuizScreen() {
         <div>
           <div className="text-xs text-white/40 mb-2">意味を選ぼう</div>
           <div className="text-2xl font-black">{q.prompt}</div>
+          {q.pronunciation && <div className="mt-1 text-sm text-accent2/80 font-mono">{q.pronunciation}</div>}
           <div className="mt-2 text-[11px] text-white/30">難易度 {'★'.repeat(q.difficulty)}</div>
         </div>
 

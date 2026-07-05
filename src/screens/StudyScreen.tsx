@@ -179,7 +179,10 @@ function WordRow({ q, inDeck, onToggle, right }: { q: Question; inDeck: boolean;
   return (
     <div className="card p-3 flex items-center gap-3">
       <div className="flex-1 min-w-0">
-        <div className="font-bold">{wordOf(q)}</div>
+        <div className="font-bold flex items-baseline gap-2">
+          {wordOf(q)}
+          {q.pronunciation && <span className="text-[11px] text-accent2/70 font-mono font-normal">{q.pronunciation}</span>}
+        </div>
         <div className="text-sm text-white/55 truncate">{q.answer}</div>
       </div>
       {right}
@@ -203,7 +206,10 @@ function FlashCard({ q, onRemove }: { q: Question; onRemove: () => void }) {
         {showMeaning ? (
           <div className="text-xl font-black text-accent2 animate-pop">{q.answer}</div>
         ) : (
-          <div className="text-2xl font-black">{wordOf(q)}</div>
+          <div>
+            <div className="text-2xl font-black">{wordOf(q)}</div>
+            {q.pronunciation && <div className="text-sm text-accent2/70 font-mono mt-1">{q.pronunciation}</div>}
+          </div>
         )}
         <div className="text-[10px] text-white/30 mt-2">{showMeaning ? '意味' : 'タップで意味を表示'}</div>
       </button>

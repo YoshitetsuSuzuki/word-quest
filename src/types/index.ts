@@ -25,6 +25,7 @@ export interface Question {
   tags: string[]
   explanation?: string
   example?: string // 例文
+  pronunciation?: string // 発音記号(IPA) 例: /ˈæpəɫ/
   audioUrl?: string // 将来の音声再生用（optional）
   /** 人手レビュー済み(訳が確実)か。verifiedOnly時はtrueのみ出題する */
   verified?: boolean
