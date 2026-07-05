@@ -3,6 +3,7 @@ import { useNav } from '../state/nav'
 import { achievements } from '../data/achievements.config'
 import { equippedTitle, equippedFrameClass } from '../modules/shop/shopLogic'
 import { featureFlags } from '../config/featureFlags'
+import { generalReportUrl } from '../utils/report'
 
 export function ProfileScreen() {
   const { user, resetAll } = useGame()
@@ -107,6 +108,15 @@ export function ProfileScreen() {
           {bgmEnabled && <Slider label="BGMの音量" value={bgmVolume} onChange={setBgmVolume} />}
         </div>
       </div>
+
+      <a
+        href={generalReportUrl()}
+        target="_blank"
+        rel="noreferrer"
+        className="btn-ghost w-full py-3 text-sm block text-center"
+      >
+        📮 誤りの報告・ご要望
+      </a>
 
       <button className="btn-ghost w-full py-3 text-sm text-danger" onClick={onReset}>
         データを初期化

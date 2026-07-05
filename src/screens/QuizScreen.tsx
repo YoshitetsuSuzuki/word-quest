@@ -6,6 +6,7 @@ import { equippedEffect } from '../modules/shop/shopLogic'
 import { Loading } from '../components/Loading'
 import { speakWord, wordFromPrompt, canSpeak } from '../utils/speech'
 import { playCorrect, playWrong } from '../utils/audio'
+import { wordErrorReportUrl } from '../utils/report'
 import type { Question, AnswerOutcome } from '../types'
 
 const SESSION_SIZE = 10
@@ -205,6 +206,16 @@ export function QuizScreen() {
           <button className="btn-primary w-full py-4" onClick={next}>
             {index + 1 >= questions.length ? '結果を見る' : '次の問題へ →'}
           </button>
+          <div className="text-center">
+            <a
+              href={wordErrorReportUrl(q)}
+              target="_blank"
+              rel="noreferrer"
+              className="text-[11px] text-white/30 underline underline-offset-2"
+            >
+              ⚠️ この単語の誤りを報告
+            </a>
+          </div>
         </div>
       )}
     </div>
