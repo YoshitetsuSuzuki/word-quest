@@ -61,6 +61,16 @@ export class QuestionEngine {
     return this.repo.getById(id)
   }
 
+  /** 「今日の単語」: 日付+カテゴリから決定的に1語選ぶ(全ユーザー同日同語) */
+  questionOfTheDay(category: Category, dateStr: string): Question | undefined {
+    const pool = this.repo.getByCategory(category)
+    if (pool.length === 0) return undefined
+    let h = 0
+    const seed = `${dateStr}:${category}`
+    for (let i = 0; i < seed.length; i++) h = (h * 31 + seed.charCodeAt(i)) >>> 0
+    return pool[h % pool.length]
+  }
+
   /** そのカテゴリに存在する難易度(1-5)を昇順で返す */
   availableLevels(category: Category): number[] {
     return [...new Set(this.repo.getByCategory(category).map((q) => q.difficulty))].sort((a, b) => a - b)

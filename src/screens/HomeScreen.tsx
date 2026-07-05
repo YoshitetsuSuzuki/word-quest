@@ -4,6 +4,7 @@ import { featureFlags } from '../config/featureFlags'
 import { getRaidView } from '../modules/raid/raidLogic'
 import { getMissionViews } from '../modules/mission/missionLogic'
 import { ProgressBar } from '../components/ProgressBar'
+import { DailyLoopCard } from '../components/DailyLoopCard'
 import { categories } from '../data/categories'
 import { todayStr } from '../state/dateUtils'
 
@@ -47,9 +48,12 @@ export function HomeScreen() {
           英単語で、<span className="text-accent2">世界一</span>へ。
         </h1>
         <p className="text-sm text-white/50 mt-1">
-          🔥 {user.streakDays}日連続ログイン中 ・ 今日 🪙{user.todayCoin} 獲得
+          🔥 {user.studyStreak}日連続学習中 ・ 今日 🪙{user.todayCoin} 獲得
         </p>
       </div>
+
+      {/* 今日の一式(デイリーループ) */}
+      <DailyLoopCard />
 
       {/* ジャンル選択（プラットフォームの横展開） */}
       <div>
