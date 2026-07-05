@@ -204,6 +204,8 @@ export interface ShopItemDef {
   /** 表示用のプレビュー（絵文字・色クラスなど） */
   preview: string
   description: string
+  /** 限定品(購入不可・実績や節目で獲得)。未所有の間はショップに並ばない */
+  limited?: boolean
 }
 
 /** 機能フラグ */

@@ -1,6 +1,7 @@
 import { useGame } from '../state/GameContext'
 import { useNav } from '../state/nav'
 import { shopItems } from '../data/shop.config'
+import { streakConfig } from '../data/streak.config'
 import type { ShopItemKind } from '../types'
 
 const sections: { kind: ShopItemKind; label: string }[] = [
@@ -10,8 +11,10 @@ const sections: { kind: ShopItemKind; label: string }[] = [
 ]
 
 export function ShopScreen() {
-  const { user, buyItem, equipItem } = useGame()
+  const { user, buyItem, equipItem, buyStreakFreeze } = useGame()
   const { navigate } = useNav()
+  const freezeFull = user.streakFreezes >= streakConfig.freezeMax
+  const freezePoor = user.coin < streakConfig.freezePrice
 
   return (
     <div className="space-y-5">
@@ -21,12 +24,31 @@ export function ShopScreen() {
       </div>
       <p className="text-xs text-white/45">見た目のみ販売。Pay to Winなし。</p>
 
+      {/* ストリークフリーズ(消耗品) */}
+      <div className="card p-3 flex items-center gap-3">
+        <div className="w-11 h-11 shrink-0 rounded-lg bg-panel2 grid place-items-center text-lg">🧊</div>
+        <div className="flex-1 min-w-0">
+          <div className="font-bold text-sm">ストリークフリーズ</div>
+          <div className="text-[11px] text-white/45">1日休んでも🔥が守られる(自動使用)</div>
+          <div className="text-[11px] text-accent2 font-bold mt-0.5">
+            所持 {user.streakFreezes} / {streakConfig.freezeMax}
+          </div>
+        </div>
+        <button
+          className="btn-primary px-3 py-1.5 text-xs shrink-0"
+          disabled={freezeFull || freezePoor}
+          onClick={() => buyStreakFreeze()}
+        >
+          {freezeFull ? '満タン' : `🪙${streakConfig.freezePrice}`}
+        </button>
+      </div>
+
       {sections.map((sec) => (
         <div key={sec.kind}>
           <h3 className="font-bold text-sm text-white/70 mb-2">{sec.label}</h3>
           <div className="space-y-2.5">
             {shopItems
-              .filter((i) => i.kind === sec.kind)
+              .filter((i) => i.kind === sec.kind && (!i.limited || user.ownedItemIds.includes(i.id)))
               .map((item) => {
                 const owned = user.ownedItemIds.includes(item.id)
                 const equipped = user.equipped[item.kind] === item.id

@@ -1,6 +1,11 @@
 import type { User, MissionType, MissionDef } from '../../types'
-import { dailyMissions } from '../../data/missions.config'
+import { dailyMissions, dailyChallengeFor } from '../../data/missions.config'
 import { todayStr } from '../../state/dateUtils'
+
+/** 今日有効なミッション一覧(通常デイリー+日替わりチャレンジ) */
+export function activeMissions(): MissionDef[] {
+  return [...dailyMissions, dailyChallengeFor(todayStr())]
+}
 
 /** 日付が変わっていればミッション進捗をリセットする */
 export function ensureMissionDay(user: User): User {
@@ -13,7 +18,7 @@ export function ensureMissionDay(user: User): User {
 export function addMissionProgress(user: User, type: MissionType, amount: number): User {
   const u = ensureMissionDay(user)
   const progress = { ...u.missionState.progress }
-  for (const m of dailyMissions) {
+  for (const m of activeMissions()) {
     if (m.type === type) {
       progress[m.id] = Math.min(m.target, (progress[m.id] ?? 0) + amount)
     }
@@ -43,7 +48,7 @@ export interface MissionView {
 /** UI表示用のミッション一覧を組み立てる */
 export function getMissionViews(user: User): MissionView[] {
   const state = user.missionState
-  return dailyMissions.map((def) => {
+  return activeMissions().map((def) => {
     const progress = state.progress[def.id] ?? 0
     return {
       def,
@@ -60,7 +65,7 @@ export function claimMission(
   missionId: string,
 ): { user: User; claimed: boolean; rewardCoin: number; rewardXp: number } {
   const u = ensureMissionDay(user)
-  const def = dailyMissions.find((m) => m.id === missionId)
+  const def = activeMissions().find((m) => m.id === missionId)
   if (!def) return { user: u, claimed: false, rewardCoin: 0, rewardXp: 0 }
 
   const progress = u.missionState.progress[missionId] ?? 0
