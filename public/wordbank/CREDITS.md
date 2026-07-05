@@ -12,6 +12,15 @@
 - **ipa-dict (en_US)** — Open license（MIT）※発音記号（IPA）の付与
   - https://github.com/open-dict-data/ipa-dict
 
+## 例文（英日対訳）
+
+- **Tatoeba** — CC-BY 2.0 FR（https://tatoeba.org/）
+  - https://downloads.tatoeba.org/exports/per_language/ の eng/jpn エクスポート
+    （eng_sentences / jpn_sentences / eng-jpn_links）を使用。
+  - 人間が書いた英日対訳文ペアをそのまま採用（文の改変・自作はしていない）。
+  - `tools/build-examples-english.mjs` が単語ごとに最適な1文を選定し、
+    `Question.example` に「英文 — 日本語訳」形式で付与している。
+
 ## 出題語の選定・級分け
 
 - **NGSL (New General Service List)** — Browne, Culligan & Phillips（CC BY-SA）
@@ -28,4 +37,6 @@
 - 頻出コア語（約220語）は `overrides.english.json` で人手検証済みの訳に固定。
 - 稀に、裾野の語で「語義がやや専門的」「ダミー選択肢の分野が揃わない」場合があります。
   overrides への追記で継続的に改善できます。
-- 例文は付与していません（将来 Tatoeba(CC BY) 等での追加を想定）。
+- 例文は Tatoeba の対訳ペアから機械選定したもので、約9割の検証済み語に付与済み。
+  同綴り異義語（saw/left 等の不規則過去形と同綴りの見出し語）は語義の取り違えを
+  避けるため意図的に例文を付与していません。

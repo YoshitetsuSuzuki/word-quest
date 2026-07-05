@@ -19,6 +19,7 @@
 import fs from 'node:fs'
 import path from 'node:path'
 import { fileURLToPath } from 'node:url'
+import { EXT_BLOCKLIST } from './blocklist.english.mjs'
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..')
 const cacheDir = path.join(root, '.cache')
@@ -240,6 +241,16 @@ function pickDistractors(target) {
   return result.slice(0, 3)
 }
 
+// ---- 例文(Tatoeba CC-BY 2.0 FR): tools/build-examples-english.mjs の出力 ----
+// word -> "英文 — 日本語訳"。存在する語のみ Question.example に設定する(任意フィールド)。
+// 語数・訳・レベル配置には一切影響しない(example の付与のみ)。
+let examplesMap = {}
+try {
+  examplesMap = JSON.parse(fs.readFileSync(path.join(root, 'tools', 'examples.english.json'), 'utf8'))
+} catch {
+  console.warn('warning: examples.english.json が見つかりません。例文なしで生成します。(node tools/build-examples-english.mjs で生成)')
+}
+
 // ---- 検証済み判定 ----
 // 全数レビュー済みの級 + 人手上書き済みの語 を「検証済み」とする。
 // アプリは検証済みの語だけを出題するため、出す語はすべて確実な訳になる。
@@ -260,6 +271,7 @@ const questions = accepted
       difficulty: level,
       tags: [bucketLabel[a.bucket]],
       explanation: `${a.word} = ${a.meaning}`,
+      ...(examplesMap[a.word] ? { example: examplesMap[a.word] } : {}),
       ...(ipa ? { pronunciation: ipa } : {}),
       verified: level <= REVIEWED_MAX_LEVEL || overrideWords.has(a.word),
     }
@@ -276,20 +288,7 @@ const EXT_PER_LEVEL = 1500 // Lv6 / Lv7 各語数
 const EXT_RANK_BASE = 20000 // 既存 rank(最大~1万) と衝突しない id 採番オフセット
 
 // 卑語・スラー(subtitles 由来リストに高頻度で混入するため明示除外)
-const EXT_BLOCKLIST = new Set([
-  'fuck', 'fucking', 'fucked', 'fucker', 'fuckers', 'motherfucker', 'motherfuckers',
-  'shit', 'shits', 'shitty', 'shite', 'bullshit', 'dipshit', 'horseshit',
-  'bitch', 'bitches', 'bitchy', 'asshole', 'assholes', 'arsehole', 'arse',
-  'bastard', 'bastards', 'cunt', 'cunts', 'dick', 'dicks', 'dickhead',
-  'cock', 'cocks', 'cocksucker', 'pussy', 'pussies', 'prick', 'pricks',
-  'whore', 'whores', 'slut', 'sluts', 'hooker', 'hookers', 'skank',
-  'fag', 'faggot', 'faggots', 'dyke', 'tranny', 'homo',
-  'nigger', 'niggers', 'nigga', 'niggas', 'negro', 'kike', 'chink', 'gook', 'spic', 'wetback',
-  'retard', 'retarded', 'spastic', 'schmuck', 'jackass', 'dumbass', 'douche', 'douchebag',
-  'wanker', 'wank', 'bollocks', 'twat', 'piss', 'pissed', 'pissing',
-  'tits', 'titties', 'boobs', 'boner', 'jizz', 'blowjob', 'handjob', 'dildo', 'milf', 'horny',
-  'goddamn', 'goddamned', 'damn', 'dammit', 'crap', 'crappy',
-])
+// → tools/blocklist.english.mjs に移設(build-examples-english.mjs と共有)。冒頭で import 済み。
 
 const extAccepted = []
 try {
@@ -360,6 +359,7 @@ const extQuestions = extAccepted
       difficulty: a.extLevel,
       tags: [bucketLabel[a.bucket]],
       explanation: `${a.word} = ${a.meaning}`,
+      ...(examplesMap[a.word] ? { example: examplesMap[a.word] } : {}),
       ...(ipa ? { pronunciation: ipa } : {}),
       verified: overrideWords.has(a.word), // 人手レビューで overrides 登録された語のみ出荷
     }
@@ -398,4 +398,5 @@ console.log('valid questions (Lv1-5):', questions.length)
 console.log('candidate pool (Lv6-7):', extQuestions.length, '/ うちverified:', extQuestions.filter((q) => q.verified).length)
 console.log('total:', allQuestions.length)
 console.log('VERIFIED (出荷対象):', allQuestions.filter((q) => q.verified).length)
+console.log('examples 付与:', allQuestions.filter((q) => q.example).length, '/ うちverified:', allQuestions.filter((q) => q.verified && q.example).length)
 for (const l of manifestLevels) console.log(`  level ${l.level}: ${l.count}`)
