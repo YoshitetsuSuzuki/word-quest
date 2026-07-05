@@ -1,7 +1,7 @@
 {
   "category": "chinese",
-  "total": 2388,
-  "verified": 2388,
+  "total": 4201,
+  "verified": 4201,
   "levels": [
     {
       "level": 1,
@@ -11,12 +11,12 @@
     {
       "level": 2,
       "file": "level-2.json",
-      "count": 619
+      "count": 742
     },
     {
       "level": 3,
       "file": "level-3.json",
-      "count": 309
+      "count": 944
     },
     {
       "level": 4,
@@ -26,9 +26,9 @@
     {
       "level": 5,
       "file": "level-5.json",
-      "count": 0
+      "count": 1055
     }
   ],
   "source": "HSK 3.0 (ivankra/hsk30) + 人手検証済み日本語訳",
-  "generatedAt": "2026-07-05T12:16:04.338Z"
+  "generatedAt": "2026-07-05T13:21:09.996Z"
 }

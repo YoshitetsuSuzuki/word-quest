@@ -9,7 +9,9 @@
 //   ejdict-all.txt        … EJDict 英和辞書(パブリックドメイン)  word<TAB>意味 / 意味 / ...
 //   ngsl.csv              … NGSL 学習者向け頻度語(CC BY-SA) ※出題語の選定・級分け
 //   freq10k.txt           … google-10000-english(MIT)         ※NGSL超の語彙拡張
-// 出力: public/wordbank/english/level-{1..5}.json, manifest.json
+//   en_50k.txt            … hermitdave/FrequencyWords 2018 en (CC-BY 4.0, OpenSubtitles由来)
+//                            ※Lv6-7 候補プール拡張用。全語 verified:false で非出荷(人手レビュー待ち)
+// 出力: public/wordbank/english/level-{1..7}.json, manifest.json
 //   + tools/overrides.english.json … 頻出コア語の人手検証済み上書き(任意)
 //
 // 固有名詞: EJDictは固有名詞を大文字見出しで持つため、小文字語のみ照合すれば自動除外される。
@@ -166,18 +168,25 @@ const overrides = JSON.parse(fs.readFileSync(path.join(root, 'tools', 'overrides
 const rankByWord = new Map(sourceWords.map((s) => [s.word, s.rank]))
 const acceptedByWord = new Map(accepted.map((a) => [a.word, a]))
 let overrideApplied = 0
+// Lv1-5プールに無い override 語(=Lv6-7候補のレビュー昇格分)はここで注入すると
+// rank400=Lv1に混入してしまうため保留し、後段のLv6-7生成時に適用する
+const pendingOverrides = new Map()
 for (const [word, meaning] of Object.entries(overrides)) {
   if (word.startsWith('_') || typeof meaning !== 'string') continue
   const ex = acceptedByWord.get(word)
   if (ex) {
     ex.meaning = meaning
     ex.bucket = inferBucket(meaning)
-  } else {
-    const a = { word, meaning, bucket: inferBucket(meaning), rank: rankByWord.get(word) ?? 400 }
+    overrideApplied++
+  } else if (rankByWord.has(word)) {
+    // Lv1-5頻度リスト内だが自動抽出が品質ゲートで弾いた語: 検証済み訳で復活させる(従来挙動)
+    const a = { word, meaning, bucket: inferBucket(meaning), rank: rankByWord.get(word) }
     accepted.push(a)
     acceptedByWord.set(word, a)
+    overrideApplied++
+  } else {
+    pendingOverrides.set(word, meaning)
   }
-  overrideApplied++
 }
 
 // ---- 難易度(級): 頻度順 ----
@@ -257,10 +266,112 @@ const questions = accepted
   })
   .filter((q) => new Set(q.choices).size === 4)
 
+// ============================================================================
+// 候補プール拡張 (Lv6-7): hermitdave/FrequencyWords en_50k (CC-BY 4.0) から
+// 既存プールに無い語を頻度順に採取する。
+//  - 全語 verified:false → verifiedOnly の間は絶対に出荷されない(後続の人手レビューで昇格)
+//  - 既存 Lv1-5 の生成(上の questions)には一切手を触れない。この節は後段追記のみ。
+// ============================================================================
+const EXT_PER_LEVEL = 1500 // Lv6 / Lv7 各語数
+const EXT_RANK_BASE = 20000 // 既存 rank(最大~1万) と衝突しない id 採番オフセット
+
+// 卑語・スラー(subtitles 由来リストに高頻度で混入するため明示除外)
+const EXT_BLOCKLIST = new Set([
+  'fuck', 'fucking', 'fucked', 'fucker', 'fuckers', 'motherfucker', 'motherfuckers',
+  'shit', 'shits', 'shitty', 'shite', 'bullshit', 'dipshit', 'horseshit',
+  'bitch', 'bitches', 'bitchy', 'asshole', 'assholes', 'arsehole', 'arse',
+  'bastard', 'bastards', 'cunt', 'cunts', 'dick', 'dicks', 'dickhead',
+  'cock', 'cocks', 'cocksucker', 'pussy', 'pussies', 'prick', 'pricks',
+  'whore', 'whores', 'slut', 'sluts', 'hooker', 'hookers', 'skank',
+  'fag', 'faggot', 'faggots', 'dyke', 'tranny', 'homo',
+  'nigger', 'niggers', 'nigga', 'niggas', 'negro', 'kike', 'chink', 'gook', 'spic', 'wetback',
+  'retard', 'retarded', 'spastic', 'schmuck', 'jackass', 'dumbass', 'douche', 'douchebag',
+  'wanker', 'wank', 'bollocks', 'twat', 'piss', 'pissed', 'pissing',
+  'tits', 'titties', 'boobs', 'boner', 'jizz', 'blowjob', 'handjob', 'dildo', 'milf', 'horny',
+  'goddamn', 'goddamned', 'damn', 'dammit', 'crap', 'crappy',
+])
+
+const extAccepted = []
+try {
+  const extLines = fs.readFileSync(path.join(cacheDir, 'en_50k.txt'), 'utf8').split('\n')
+  for (const line of extLines) {
+    if (extAccepted.length >= EXT_PER_LEVEL * 2) break
+    const w = line.split(' ')[0]?.trim().toLowerCase()
+    // 既存と同一のフィルタ群: 小文字アルファベットのみ/3文字以上/STOPWORDS
+    if (!w || !/^[a-z]+$/.test(w) || w.length < 3 || STOPWORDS.has(w)) continue
+    if (EXT_BLOCKLIST.has(w)) continue
+    if (/(.)\1\1/.test(w)) continue // aaah/mmm 等の字幕ノイズ(同一文字3連続)
+    if (seenWord.has(w) || acceptedByWord.has(w)) continue // 既存プール(Lv1-5・overrides)と重複させない
+    // 複数形は除外し単数形採用(既存と同ロジック)
+    if (w.endsWith('s') && !PLURAL_KEEP.has(w)) {
+      const singular = w.slice(0, -1)
+      const singularES = w.endsWith('es') ? w.slice(0, -2) : null
+      if (ejdict.has(singular) || (singularES && ejdict.has(singularES))) continue
+    }
+    // EJDict は小文字見出しのみ読込済み → 固有名詞は訳が引けず自動除外される
+    const def = ejdict.get(w)
+    if (!def) continue
+    const meaning = extractMeaning(def)
+    if (!meaning || meaning.length > 10 || /[a-zA-Z0-9]/.test(meaning)) continue
+    if (/^[ぁ-んァ-ヶ]$/.test(meaning)) continue
+    extAccepted.push({
+      word: w,
+      meaning,
+      bucket: inferBucket(meaning),
+      rank: EXT_RANK_BASE + extAccepted.length + 1,
+      extLevel: extAccepted.length < EXT_PER_LEVEL ? 6 : 7,
+    })
+  }
+} catch {
+  console.warn('warning: en_50k.txt が見つかりません。Lv6-7 拡張なしで生成します。')
+}
+
+// 保留していた override(レビュー昇格分)を Lv6-7 候補へ適用(訳を検証済み訳で上書き)
+for (const a of extAccepted) {
+  const m = pendingOverrides.get(a.word)
+  if (m !== undefined) {
+    a.meaning = m
+    a.bucket = inferBucket(m)
+    pendingOverrides.delete(a.word)
+    overrideApplied++
+  }
+}
+if (pendingOverrides.size > 0) {
+  console.warn('warning: overridesに載っているがどの候補プールにも無い語:', pendingOverrides.size, [...pendingOverrides.keys()].slice(0, 10))
+}
+
+// ダミー選択肢プールへ拡張語を合流(既存 questions は生成済みのため影響しない)
+for (const a of extAccepted) {
+  accepted.push(a)
+  if (!byBucket.has(a.bucket)) byBucket.set(a.bucket, [])
+  byBucket.get(a.bucket).push(a)
+}
+for (const [, list] of byBucket) list.sort((x, y) => x.rank - y.rank)
+
+const extQuestions = extAccepted
+  .map((a) => {
+    const ipa = ipaMap.get(a.word)
+    return {
+      id: `en-${String(a.rank).padStart(5, '0')}`,
+      category: 'english',
+      prompt: `「${a.word}」の意味は？`,
+      answer: a.meaning,
+      choices: shuffle([a.meaning, ...pickDistractors(a)]),
+      difficulty: a.extLevel,
+      tags: [bucketLabel[a.bucket]],
+      explanation: `${a.word} = ${a.meaning}`,
+      ...(ipa ? { pronunciation: ipa } : {}),
+      verified: overrideWords.has(a.word), // 人手レビューで overrides 登録された語のみ出荷
+    }
+  })
+  .filter((q) => new Set(q.choices).size === 4)
+
+const allQuestions = [...questions, ...extQuestions]
+
 fs.mkdirSync(outDir, { recursive: true })
 const manifestLevels = []
-for (const lv of [1, 2, 3, 4, 5]) {
-  const items = questions.filter((q) => q.difficulty === lv)
+for (const lv of [1, 2, 3, 4, 5, 6, 7]) {
+  const items = allQuestions.filter((q) => q.difficulty === lv)
   fs.writeFileSync(path.join(outDir, `level-${lv}.json`), JSON.stringify(items))
   manifestLevels.push({ level: lv, file: `level-${lv}.json`, count: items.length })
 }
@@ -269,10 +380,11 @@ fs.writeFileSync(
   JSON.stringify(
     {
       category: 'english',
-      total: questions.length,
-      verified: questions.filter((q) => q.verified).length,
+      total: allQuestions.length,
+      verified: allQuestions.filter((q) => q.verified).length,
       levels: manifestLevels,
-      source: 'EJDict (Public Domain) + NGSL + google-10000-english',
+      source:
+        'EJDict (Public Domain) + NGSL + google-10000-english + FrequencyWords en_50k (CC-BY 4.0, Lv6-7 candidates)',
       generatedAt: new Date().toISOString(),
     },
     null,
@@ -282,6 +394,8 @@ fs.writeFileSync(
 
 console.log('source words:', sourceWords.length, '/ EJDict entries:', ejdict.size)
 console.log('overrides applied:', overrideApplied)
-console.log('valid questions:', questions.length)
-console.log('VERIFIED (出荷対象):', questions.filter((q) => q.verified).length)
+console.log('valid questions (Lv1-5):', questions.length)
+console.log('candidate pool (Lv6-7):', extQuestions.length, '/ うちverified:', extQuestions.filter((q) => q.verified).length)
+console.log('total:', allQuestions.length)
+console.log('VERIFIED (出荷対象):', allQuestions.filter((q) => q.verified).length)
 for (const l of manifestLevels) console.log(`  level ${l.level}: ${l.count}`)

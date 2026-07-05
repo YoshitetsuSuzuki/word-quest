@@ -9,6 +9,8 @@
   - https://github.com/kujirahand/EJDict
   - 英単語が見出しの英和辞書。先頭の語義（`『』`が核となる訳語）を素直に1対1で採用。
   - 固有名詞は大文字見出しのため、小文字語のみ照合することで自動的に除外している。
+- **ipa-dict (en_US)** — Open license（MIT）※発音記号（IPA）の付与
+  - https://github.com/open-dict-data/ipa-dict
 
 ## 出題語の選定・級分け
 
@@ -16,6 +18,9 @@
   - 学習者向けの核語彙。http://www.newgeneralservicelist.org/
 - **google-10000-english** — Google Trillion Word Corpus 由来の頻度リスト（MIT）※NGSL超の拡張
   - https://github.com/first20hours/google-10000-english
+- **FrequencyWords (en_50k, 2018)** — Hermit Dave（CC BY 4.0）※Lv6-7 候補プール拡張
+  - https://github.com/hermitdave/FrequencyWords （OpenSubtitles 2018 コーパス由来の頻度リスト）
+  - Lv6-7 は全語 `verified:false` の候補プールであり、人手レビューで昇格するまで出題されません。
 
 ## 品質に関する注記
 

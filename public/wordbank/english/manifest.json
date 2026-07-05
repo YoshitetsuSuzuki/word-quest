@@ -1,7 +1,7 @@
 {
   "category": "english",
-  "total": 5145,
-  "verified": 4797,
+  "total": 8145,
+  "verified": 7462,
   "levels": [
     {
       "level": 1,
@@ -27,8 +27,18 @@
       "level": 5,
       "file": "level-5.json",
       "count": 1465
+    },
+    {
+      "level": 6,
+      "file": "level-6.json",
+      "count": 1500
+    },
+    {
+      "level": 7,
+      "file": "level-7.json",
+      "count": 1500
     }
   ],
-  "source": "EJDict (Public Domain) + NGSL + google-10000-english",
-  "generatedAt": "2026-07-05T12:20:10.965Z"
+  "source": "EJDict (Public Domain) + NGSL + google-10000-english + FrequencyWords en_50k (CC-BY 4.0, Lv6-7 candidates)",
+  "generatedAt": "2026-07-05T13:31:56.621Z"
 }
