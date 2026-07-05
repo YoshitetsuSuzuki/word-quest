@@ -3,6 +3,7 @@ import { useGame } from '../state/GameContext'
 import { useNav } from '../state/nav'
 import { ReviewScheduler } from '../core/ReviewScheduler'
 import { speakWord, canSpeak } from '../utils/speech'
+import { ProgressBar } from '../components/ProgressBar'
 import type { Question, Category } from '../types'
 
 /** prompt「apple の意味は？」から見出し語 apple を取り出す */
@@ -96,9 +97,41 @@ export function StudyScreen() {
     ? learned.filter((q) => wordOf(q).includes(query.toLowerCase()) || q.answer.includes(query))
     : learned
 
+  // 図鑑: 級ごとの習得率
+  const zukan = useMemo(() => {
+    if (!ready) return []
+    const learnedByLevel = new Map<number, number>()
+    for (const id of user.learnedQuestionIds) {
+      if (!id.startsWith(prefix)) continue
+      const q = engine.getById(id)
+      if (q) learnedByLevel.set(q.difficulty, (learnedByLevel.get(q.difficulty) ?? 0) + 1)
+    }
+    return engine
+      .availableLevels(category)
+      .map((lv) => ({ lv, learned: learnedByLevel.get(lv) ?? 0, total: engine.levelSize(category, lv) }))
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [user.learnedQuestionIds, ready, prefix, category])
+  const levelLabel = (n: number) => (category === 'chinese' ? `HSK${n}` : `Lv${n}`)
+
   return (
     <div className="space-y-4">
       <h2 className="text-xl font-black">📚 まなび・{CAT_LABEL[category] ?? ''}</h2>
+
+      {/* 図鑑: 級ごとの埋まり具合 */}
+      {zukan.length > 1 && (
+        <div className="card p-4 space-y-2">
+          <h3 className="font-black text-sm">📖 図鑑</h3>
+          {zukan.map(({ lv, learned: n, total }) => (
+            <div key={lv} className="flex items-center gap-2 text-xs">
+              <span className="w-11 shrink-0 font-bold text-white/60">{levelLabel(lv)}</span>
+              <ProgressBar ratio={total ? n / total : 0} className="flex-1" barClassName="bg-gold" height={6} />
+              <span className="w-20 text-right tabular-nums text-white/45">
+                {n} / {total}
+              </span>
+            </div>
+          ))}
+        </div>
+      )}
 
       {/* 今日の復習 & 弱点特訓 */}
       <div className="grid grid-cols-2 gap-3">

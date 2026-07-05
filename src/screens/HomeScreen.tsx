@@ -5,6 +5,7 @@ import { getRaidView } from '../modules/raid/raidLogic'
 import { getMissionViews } from '../modules/mission/missionLogic'
 import { ProgressBar } from '../components/ProgressBar'
 import { DailyLoopCard } from '../components/DailyLoopCard'
+import { WeeklyChart } from '../components/WeeklyChart'
 import { categories } from '../data/categories'
 import { todayStr } from '../state/dateUtils'
 
@@ -166,6 +167,9 @@ export function HomeScreen() {
           <ProgressBar ratio={totalInCat ? learnedInCat / totalInCat : 0} className="mt-2" barClassName="bg-gold" height={8} />
         </div>
       </div>
+
+      {/* 週間学習グラフ */}
+      <WeeklyChart />
 
       {/* 機能タイル */}
       <div className="grid grid-cols-2 gap-3">

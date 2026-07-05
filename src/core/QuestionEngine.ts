@@ -76,6 +76,11 @@ export class QuestionEngine {
     return [...new Set(this.repo.getByCategory(category).map((q) => q.difficulty))].sort((a, b) => a - b)
   }
 
+  /** 級ごとの語数（図鑑の分母） */
+  levelSize(category: Category, level: number): number {
+    return this.repo.getByCategory(category).filter((q) => q.difficulty === level).length
+  }
+
   /** そのカテゴリの出題可能語数（習得率の分母などに使う） */
   categorySize(category: Category): number {
     return this.repo.getByCategory(category).length
