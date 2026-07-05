@@ -3,6 +3,9 @@ import { todayStr, yesterdayStr } from './dateUtils'
 
 export const DAILY_LOGIN_BASE_COIN = 20
 
+/** 7日サイクルのログインボーナス(7日目が豪華)。位置は (streakDays-1) % 7 */
+export const LOGIN_CYCLE: number[] = [20, 30, 40, 50, 60, 80, 200]
+
 /**
  * ログインボーナス処理。アプリ起動時に一度だけ適用する。
  * - 連続ログインなら streakDays++ / 途切れたら 1 にリセット
@@ -24,8 +27,8 @@ export function applyLoginBonus(user: User): { user: User; bonusCoin: number; is
   }
 
   const streakDays = u.lastLoginDate === yesterdayStr() ? u.streakDays + 1 : 1
-  // 連続日数に応じた小さな上乗せ（最大+80）
-  const bonusCoin = DAILY_LOGIN_BASE_COIN + Math.min(80, (streakDays - 1) * 10)
+  // 7日サイクルのカレンダー報酬(7日目が豪華)
+  const bonusCoin = LOGIN_CYCLE[(streakDays - 1) % LOGIN_CYCLE.length]
 
   return {
     user: {
