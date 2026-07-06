@@ -77,19 +77,26 @@ export function ListeningScreen() {
   // スペル入力は英語のみ。中韓はIME/活用の都合で4択専用
   const effectiveStyle: 'type' | 'choice' = category === 'english' ? answerStyle : 'choice'
 
-  // 4択スタイル用: 同セッションの他の問題の表層形から誤答肢を3つ作る
+  // 4択スタイル用: 同セッションの他の問題の表層形から誤答肢を3つ作る。
+  // 韓国語は「用言(다終わり)/体言」が文法上区別されるため、同じ型の語を優先して選ぶ(答えが割れにくくする)。
   const [wordChoices, setWordChoices] = useState<string[]>([])
   useEffect(() => {
     if (!isCloze || !q?.exampleForm) return
+    const answer = q.exampleForm!
+    const isPredicate = (s: string) => /다$/.test(s)
+    const same = isPredicate(answer)
     const others = questions
-      .filter((o, i) => i !== index && o.exampleForm && o.exampleForm.toLowerCase() !== q.exampleForm!.toLowerCase())
+      .filter((o, i) => i !== index && o.exampleForm && o.exampleForm.toLowerCase() !== answer.toLowerCase())
       .map((o) => o.exampleForm!)
+    const shuffled = others.sort(() => Math.random() - 0.5)
+    const preferred = shuffled.filter((f) => isPredicate(f) === same)
+    const rest = shuffled.filter((f) => isPredicate(f) !== same)
     const picked: string[] = []
-    for (const f of others.sort(() => Math.random() - 0.5)) {
+    for (const f of [...preferred, ...rest]) {
       if (picked.length >= 3) break
       if (!picked.includes(f)) picked.push(f)
     }
-    setWordChoices([q.exampleForm!, ...picked].sort(() => Math.random() - 0.5))
+    setWordChoices([answer, ...picked].sort(() => Math.random() - 0.5))
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [index, questions.length])
 
