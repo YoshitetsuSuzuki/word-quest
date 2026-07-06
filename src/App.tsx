@@ -1,6 +1,8 @@
 import { useEffect, useState } from 'react'
 import { NavContext, type Screen } from './state/nav'
 import type { Category } from './types'
+import { detectLocale, setLocale as persistLocale, makeT } from './i18n'
+import type { Locale } from './i18n/types'
 import { primeSpeech } from './utils/speech'
 import { primeAudio, bgm } from './utils/audio'
 
@@ -40,6 +42,9 @@ export default function App() {
   const [sfxVolume, setSfxVolumeState] = useState(() => numFromLS('wordquest.sfxVol', 0.6))
   const [bgmEnabled, setBgmEnabledState] = useState(() => localStorage.getItem('wordquest.bgm') === 'on')
   const [bgmVolume, setBgmVolumeState] = useState(() => numFromLS('wordquest.bgmVol', 0.25))
+  const [locale, setLocaleState] = useState<Locale>(() => detectLocale())
+  const setLocale = (l: Locale) => { setLocaleState(l); persistLocale(l) }
+  const t = makeT(locale)
 
   const setCategory = (c: Category) => {
     setCategoryState(c)
@@ -125,6 +130,9 @@ export default function App() {
         setBgmEnabled,
         bgmVolume,
         setBgmVolume,
+        locale,
+        setLocale,
+        t,
       }}
     >
       <div className="min-h-full max-w-md mx-auto flex flex-col relative">

@@ -1,5 +1,6 @@
 import { createContext, useContext } from 'react'
 import type { Category } from '../types'
+import type { Locale, Strings } from '../i18n/types'
 
 export type Screen =
   | 'home'
@@ -40,6 +41,10 @@ interface NavApi {
   /** 学習レベル(難易度1-5)。0=全部から出題 */
   studyLevel: number
   setStudyLevel: (n: number) => void
+  /** UI表示言語 */
+  locale: Locale
+  setLocale: (l: Locale) => void
+  t: (key: keyof Strings) => string
 }
 
 export const NavContext = createContext<NavApi | null>(null)
