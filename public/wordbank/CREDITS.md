@@ -40,3 +40,33 @@
 - 例文は Tatoeba の対訳ペアから機械選定したもので、約9割の検証済み語に付与済み。
   同綴り異義語（saw/left 等の不規則過去形と同綴りの見出し語）は語義の取り違えを
   避けるため意図的に例文を付与していません。
+
+---
+
+# 日本語（`wordbank/japanese/`）
+
+日本語学習ターゲット（JLPT N5）は `tools/build-japanese.mjs` で生成します。
+
+## 出題語の選定・級分け
+
+- **JLPT N5 語彙リスト** — jamsinclair/open-anki-jlpt-decks（MIT ライセンス）
+  - https://github.com/jamsinclair/open-anki-jlpt-decks
+  - `src/n5.csv`（列: expression, reading, meaning, tags, guid）から
+    表記(expression)と読み(reading=かな)を抽出し、level は N5=1 固定で採用。
+  - 再取得手順（`.cache` は git 管理外のため）:
+    ```
+    curl -sL https://raw.githubusercontent.com/jamsinclair/open-anki-jlpt-decks/master/src/n5.csv -o .cache/jlpt-n5.csv
+    ```
+    上記CSVを `[{ word, kana, level:1 }]` に正規化して `.cache/jlpt-n5.json` に保存。
+
+## 英語グロス（意味）
+
+- **JMdict（JP→EN 辞書）** — EDRDG（Electronic Dictionary Research and Development Group）
+  - ライセンス: **CC BY-SA 4.0**（https://www.edrdg.org/edrdg/licence.html）
+  - https://github.com/scriptin/jmdict-simplified の
+    `jmdict-eng-common-3.6.2.json`（common語のみ、構造: `data.words[]`）を使用。
+  - 各 JLPT 語を表記（無ければかな）で JMdict 照合し、先頭 sense 中心に
+    英語 gloss 候補（最大4件・重複除去）を `tools/gloss.en.japanese.candidates.json` に出力。
+  - 英訳の確定（`tools/gloss.en.japanese.json`）は別タスク。確定版が存在する見出しのみ
+    Question 化して出荷する（現時点では 0 語）。
+  - 発音は かな→ヘボン式ローマ字（マクロン不使用の可読性優先変換）で付与。

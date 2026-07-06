@@ -1,0 +1,6031 @@
+{
+  "ああ": {
+    "kana": "ああ",
+    "cand": [
+      "ah!",
+      "oh!",
+      "alas!",
+      "yes"
+    ],
+    "pick": "ah!"
+  },
+  "会う": {
+    "kana": "あう",
+    "cand": [
+      "to meet",
+      "to encounter",
+      "to see",
+      "to have an accident"
+    ],
+    "pick": "to meet"
+  },
+  "青": {
+    "kana": "あお",
+    "cand": [
+      "blue",
+      "azure",
+      "green",
+      "green light (traffic)"
+    ],
+    "pick": "blue"
+  },
+  "青い": {
+    "kana": "あおい",
+    "cand": [
+      "blue",
+      "azure",
+      "green",
+      "pale (facial color)"
+    ],
+    "pick": "blue"
+  },
+  "赤": {
+    "kana": "あか",
+    "cand": [
+      "red",
+      "crimson",
+      "scarlet",
+      "red-containing colour (e.g. brown, pink, orange)"
+    ],
+    "pick": "red"
+  },
+  "赤い": {
+    "kana": "あかい",
+    "cand": [
+      "red",
+      "crimson",
+      "scarlet",
+      "vermilion"
+    ],
+    "pick": "red"
+  },
+  "明るい": {
+    "kana": "あかるい",
+    "cand": [
+      "light",
+      "bright",
+      "well-lit",
+      "well-lighted"
+    ],
+    "pick": "light"
+  },
+  "秋": {
+    "kana": "あき",
+    "cand": [
+      "time",
+      "hour",
+      "moment",
+      "occasion"
+    ],
+    "pick": "time"
+  },
+  "開く": {
+    "kana": "あく",
+    "cand": [
+      "to open",
+      "to undo",
+      "to unseal",
+      "to unpack"
+    ],
+    "pick": "to open"
+  },
+  "開ける": {
+    "kana": "あける",
+    "cand": [
+      "to open (a door, etc.)",
+      "to unwrap (e.g. parcel, package)",
+      "to unlock",
+      "to open (for business, etc.)"
+    ],
+    "pick": "to open (a door, etc.)"
+  },
+  "上げる": {
+    "kana": "あげる",
+    "cand": [
+      "to raise",
+      "to elevate",
+      "to move something (to a higher place)",
+      "to put onto (e.g. a shelf)"
+    ],
+    "pick": "to raise"
+  },
+  "朝": {
+    "kana": "あさ",
+    "cand": [
+      "morning",
+      "breakfast"
+    ],
+    "pick": "morning"
+  },
+  "朝御飯": {
+    "kana": "あさごはん",
+    "cand": [
+      "breakfast"
+    ],
+    "pick": "breakfast"
+  },
+  "明後日": {
+    "kana": "あさって",
+    "cand": [
+      "day after tomorrow",
+      "wrong (e.g. direction)"
+    ],
+    "pick": "day after tomorrow"
+  },
+  "足; 脚": {
+    "kana": "あし",
+    "cand": [
+      "foot",
+      "paw",
+      "arm (of an octopus, squid, etc.)",
+      "leg"
+    ],
+    "pick": "foot"
+  },
+  "明日": {
+    "kana": "あした",
+    "cand": [
+      "tomorrow",
+      "near future"
+    ],
+    "pick": "tomorrow"
+  },
+  "あそこ": {
+    "kana": "あそこ",
+    "cand": [
+      "there",
+      "over there",
+      "that place",
+      "yonder"
+    ],
+    "pick": "there"
+  },
+  "遊ぶ": {
+    "kana": "あそぶ",
+    "cand": [
+      "to play (games, sports)",
+      "to enjoy oneself",
+      "to have a good time",
+      "to mess about (with alcohol, gambling, philandery, etc.)"
+    ],
+    "pick": "to play (games, sports)"
+  },
+  "暖かい": {
+    "kana": "あたたかい",
+    "cand": [
+      "warm",
+      "mild",
+      "(pleasantly) hot",
+      "considerate"
+    ],
+    "pick": "warm"
+  },
+  "頭": {
+    "kana": "あたま",
+    "cand": [
+      "counter for large animals (e.g. head of cattle)",
+      "counter for insects in a collection",
+      "counter for helmets, masks, etc.",
+      "head"
+    ],
+    "pick": "counter for large animals (e.g. head of cattle)"
+  },
+  "新しい": {
+    "kana": "あたらしい",
+    "cand": [
+      "new",
+      "novel",
+      "fresh",
+      "recent"
+    ],
+    "pick": "new"
+  },
+  "あちら": {
+    "kana": "あちら",
+    "cand": [
+      "that way",
+      "that direction",
+      "over there",
+      "yonder"
+    ],
+    "pick": "that way"
+  },
+  "暑い": {
+    "kana": "あつい",
+    "cand": [
+      "hot",
+      "warm",
+      "sultry",
+      "heated"
+    ],
+    "pick": "hot"
+  },
+  "熱い": {
+    "kana": "あつい",
+    "cand": [
+      "hot (to the touch)",
+      "passionate (feelings, etc.)",
+      "ardent",
+      "hot (e.g. gaze)"
+    ],
+    "pick": "hot (to the touch)"
+  },
+  "厚い": {
+    "kana": "あつい",
+    "cand": [
+      "thick",
+      "deep",
+      "heavy",
+      "kind"
+    ],
+    "pick": "thick"
+  },
+  "あっち": {
+    "kana": "あっち",
+    "cand": [
+      "that way",
+      "that direction",
+      "over there",
+      "yonder"
+    ],
+    "pick": "that way"
+  },
+  "後": {
+    "kana": "あと",
+    "cand": [
+      "behind",
+      "rear",
+      "after",
+      "later"
+    ],
+    "pick": "behind"
+  },
+  "あなた": {
+    "kana": "あなた",
+    "cand": [
+      "you",
+      "dear",
+      "honey",
+      "beyond"
+    ],
+    "pick": "you"
+  },
+  "兄": {
+    "kana": "あに",
+    "cand": [
+      "older brother",
+      "elder brother",
+      "brother-in-law (spouse's older brother or older sister's husband)"
+    ],
+    "pick": "older brother"
+  },
+  "姉": {
+    "kana": "あね",
+    "cand": [
+      "older sister",
+      "elder sister"
+    ],
+    "pick": "older sister"
+  },
+  "アパート": {
+    "kana": "アパート",
+    "cand": [
+      "apartment building",
+      "apartment block",
+      "apartment house",
+      "apartment"
+    ],
+    "pick": "apartment building"
+  },
+  "あの": {
+    "kana": "あの",
+    "cand": [
+      "that",
+      "those",
+      "the",
+      "say"
+    ],
+    "pick": "that"
+  },
+  "浴びる": {
+    "kana": "あびる",
+    "cand": [
+      "to dash over oneself (e.g. water)",
+      "to take (e.g. shower)",
+      "to bask in (e.g. the sun)",
+      "to bathe in"
+    ],
+    "pick": "to dash over oneself (e.g. water)"
+  },
+  "危ない": {
+    "kana": "あぶない",
+    "cand": [
+      "dangerous",
+      "risky",
+      "hazardous",
+      "perilous"
+    ],
+    "pick": "dangerous"
+  },
+  "甘い": {
+    "kana": "あまい",
+    "cand": [
+      "sweet-tasting",
+      "sweet",
+      "sugary",
+      "sugared"
+    ],
+    "pick": "sweet-tasting"
+  },
+  "余り": {
+    "kana": "あまり",
+    "cand": [
+      "remainder",
+      "remnant",
+      "rest",
+      "balance"
+    ],
+    "pick": "remainder"
+  },
+  "雨": {
+    "kana": "あめ",
+    "cand": [
+      "rain",
+      "rainy day",
+      "rainy weather",
+      "the November suit (in hanafuda)"
+    ],
+    "pick": "rain"
+  },
+  "飴": {
+    "kana": "あめ",
+    "cand": [
+      "(hard) candy",
+      "toffee",
+      "rice-sugar",
+      "sugar made from the starch of rice, potatoes, etc."
+    ],
+    "pick": "(hard) candy"
+  },
+  "洗う": {
+    "kana": "あらう",
+    "cand": [
+      "to wash",
+      "to cleanse",
+      "to rinse",
+      "to inquire into"
+    ],
+    "pick": "to wash"
+  },
+  "在る": {
+    "kana": "ある",
+    "cand": [
+      "to be",
+      "to exist",
+      "to live",
+      "to have"
+    ],
+    "pick": "to be"
+  },
+  "有る": {
+    "kana": "ある",
+    "cand": [
+      "to be",
+      "to exist",
+      "to live",
+      "to have"
+    ],
+    "pick": "to be"
+  },
+  "歩く": {
+    "kana": "あるく",
+    "cand": [
+      "to walk"
+    ],
+    "pick": "to walk"
+  },
+  "あれ": {
+    "kana": "あれ",
+    "cand": [
+      "that",
+      "that thing",
+      "that person",
+      "then"
+    ],
+    "pick": "that"
+  },
+  "いいえ": {
+    "kana": "いいえ",
+    "cand": [
+      "no",
+      "you're welcome",
+      "not at all",
+      "don't mention it"
+    ],
+    "pick": "no"
+  },
+  "言う": {
+    "kana": "いう",
+    "cand": [
+      "to say",
+      "to utter",
+      "to declare",
+      "to name"
+    ],
+    "pick": "to say"
+  },
+  "家": {
+    "kana": "いえ",
+    "cand": [
+      "house",
+      "residence",
+      "dwelling",
+      "home"
+    ],
+    "pick": "house"
+  },
+  "いかが": {
+    "kana": "いかが",
+    "cand": [
+      "how",
+      "in what way",
+      "how about",
+      "questionable"
+    ],
+    "pick": "how"
+  },
+  "行く": {
+    "kana": "いく; ゆく",
+    "cand": [
+      "to go",
+      "to move (towards)",
+      "to head (towards)",
+      "to leave (for)"
+    ],
+    "pick": "to go"
+  },
+  "いくつ": {
+    "kana": "いくつ",
+    "cand": [
+      "how many",
+      "how old"
+    ],
+    "pick": "how many"
+  },
+  "いくら": {
+    "kana": "いくら",
+    "cand": [
+      "salted salmon roe",
+      "how much",
+      "something over",
+      "and something"
+    ],
+    "pick": "salted salmon roe"
+  },
+  "池": {
+    "kana": "いけ",
+    "cand": [
+      "pond"
+    ],
+    "pick": "pond"
+  },
+  "医者": {
+    "kana": "いしゃ",
+    "cand": [
+      "doctor",
+      "physician"
+    ],
+    "pick": "doctor"
+  },
+  "椅子": {
+    "kana": "いす",
+    "cand": [
+      "chair",
+      "seat",
+      "stool",
+      "bench"
+    ],
+    "pick": "chair"
+  },
+  "忙しい": {
+    "kana": "いそがしい",
+    "cand": [
+      "busy",
+      "occupied",
+      "hectic",
+      "restless"
+    ],
+    "pick": "busy"
+  },
+  "痛い": {
+    "kana": "いたい",
+    "cand": [
+      "painful",
+      "sore",
+      "cringy",
+      "embarrassing"
+    ],
+    "pick": "painful"
+  },
+  "一": {
+    "kana": "いち",
+    "cand": [
+      "one",
+      "1",
+      "best",
+      "first"
+    ],
+    "pick": "one"
+  },
+  "一日": {
+    "kana": "ついたち",
+    "cand": [
+      "one day",
+      "all day (long)",
+      "the whole day",
+      "from morning till night"
+    ],
+    "pick": "one day"
+  },
+  "一番": {
+    "kana": "いちばん",
+    "cand": [
+      "number one",
+      "first",
+      "first place",
+      "best"
+    ],
+    "pick": "number one"
+  },
+  "いつ": {
+    "kana": "いつ",
+    "cand": [
+      "when",
+      "at what time",
+      "how soon",
+      "normal times"
+    ],
+    "pick": "when"
+  },
+  "五日": {
+    "kana": "いつか",
+    "cand": [
+      "5th day of the month",
+      "five days"
+    ],
+    "pick": "5th day of the month"
+  },
+  "一緒": {
+    "kana": "いっしょ",
+    "cand": [
+      "(doing) together",
+      "one lump",
+      "one mixture",
+      "the same category"
+    ],
+    "pick": "(doing) together"
+  },
+  "五つ": {
+    "kana": "いつつ",
+    "cand": [
+      "five",
+      "five years of age",
+      "eight o'clock (old time system)"
+    ],
+    "pick": "five"
+  },
+  "いつも": {
+    "kana": "いつも",
+    "cand": [
+      "always",
+      "all the time",
+      "at all times",
+      "never"
+    ],
+    "pick": "always"
+  },
+  "犬": {
+    "kana": "いぬ",
+    "cand": [
+      "dog (Canis (lupus) familiaris)",
+      "canine",
+      "squealer",
+      "rat"
+    ],
+    "pick": "dog (Canis (lupus) familiaris)"
+  },
+  "今": {
+    "kana": "いま",
+    "cand": [
+      "now",
+      "the present time",
+      "just now",
+      "soon"
+    ],
+    "pick": "now"
+  },
+  "意味": {
+    "kana": "いみ",
+    "cand": [
+      "meaning",
+      "significance",
+      "sense"
+    ],
+    "pick": "meaning"
+  },
+  "妹": {
+    "kana": "いもうと",
+    "cand": [
+      "younger sister"
+    ],
+    "pick": "younger sister"
+  },
+  "嫌": {
+    "kana": "いや",
+    "cand": [
+      "disliking",
+      "not wanting",
+      "unwilling (to do)",
+      "reluctant"
+    ],
+    "pick": "disliking"
+  },
+  "入口": {
+    "kana": "いりぐち",
+    "cand": [
+      "entrance",
+      "entry",
+      "gate",
+      "approach"
+    ],
+    "pick": "entrance"
+  },
+  "居る": {
+    "kana": "いる",
+    "cand": [
+      "to be (of animate objects)",
+      "to exist",
+      "to stay",
+      "to be ...-ing"
+    ],
+    "pick": "to be (of animate objects)"
+  },
+  "要る": {
+    "kana": "いる",
+    "cand": [
+      "to be needed",
+      "to be necessary",
+      "to be required",
+      "to be wanted"
+    ],
+    "pick": "to be needed"
+  },
+  "入れる": {
+    "kana": "いれる",
+    "cand": [
+      "to put in",
+      "to let in",
+      "to take in",
+      "to bring in"
+    ],
+    "pick": "to put in"
+  },
+  "色": {
+    "kana": "いろ",
+    "cand": [
+      "colour",
+      "color",
+      "hue",
+      "tint"
+    ],
+    "pick": "colour"
+  },
+  "色々": {
+    "kana": "いろいろ",
+    "cand": [
+      "various",
+      "a variety of",
+      "all sorts of",
+      "many (different)"
+    ],
+    "pick": "various"
+  },
+  "上": {
+    "kana": "うえ",
+    "cand": [
+      "above",
+      "over",
+      "up",
+      "top"
+    ],
+    "pick": "above"
+  },
+  "後ろ": {
+    "kana": "うしろ",
+    "cand": [
+      "back",
+      "behind",
+      "rear"
+    ],
+    "pick": "back"
+  },
+  "薄い": {
+    "kana": "うすい",
+    "cand": [
+      "thin (of an object)",
+      "pale",
+      "light",
+      "faint"
+    ],
+    "pick": "thin (of an object)"
+  },
+  "歌": {
+    "kana": "うた",
+    "cand": [
+      "song",
+      "singing",
+      "classical Japanese poem (esp. tanka)",
+      "modern poetry"
+    ],
+    "pick": "song"
+  },
+  "歌う": {
+    "kana": "うたう",
+    "cand": [
+      "to sing",
+      "to sing of (love, beauty, etc.) in a poem",
+      "to express in the form of a poem",
+      "to recite (a poem)"
+    ],
+    "pick": "to sing"
+  },
+  "うち": {
+    "kana": "うち",
+    "cand": [
+      "one's house",
+      "one's home",
+      "one's family",
+      "one's household"
+    ],
+    "pick": "one's house"
+  },
+  "生まれる": {
+    "kana": "うまれる",
+    "cand": [
+      "to be born"
+    ],
+    "pick": "to be born"
+  },
+  "海": {
+    "kana": "うみ",
+    "cand": [
+      "sea",
+      "ocean",
+      "waters"
+    ],
+    "pick": "sea"
+  },
+  "売る": {
+    "kana": "うる",
+    "cand": [
+      "to sell",
+      "to betray",
+      "to sell out (one's friend, country, etc.)",
+      "to make (oneself) known"
+    ],
+    "pick": "to sell"
+  },
+  "うるさい": {
+    "kana": "うるさい",
+    "cand": [
+      "noisy",
+      "loud",
+      "annoying",
+      "troublesome"
+    ],
+    "pick": "noisy"
+  },
+  "上着": {
+    "kana": "うわぎ",
+    "cand": [
+      "coat",
+      "jacket",
+      "outerwear",
+      "top"
+    ],
+    "pick": "coat"
+  },
+  "絵": {
+    "kana": "え",
+    "cand": [
+      "picture",
+      "drawing",
+      "painting",
+      "sketch"
+    ],
+    "pick": "picture"
+  },
+  "映画": {
+    "kana": "えいが",
+    "cand": [
+      "movie",
+      "film",
+      "motion picture"
+    ],
+    "pick": "movie"
+  },
+  "映画館": {
+    "kana": "えいがかん",
+    "cand": [
+      "movie theatre",
+      "movie theater",
+      "cinema"
+    ],
+    "pick": "movie theatre"
+  },
+  "英語": {
+    "kana": "えいご",
+    "cand": [
+      "English (language)"
+    ],
+    "pick": "English (language)"
+  },
+  "ええ": {
+    "kana": "ええ",
+    "cand": [
+      "yes",
+      "that is correct",
+      "right",
+      "um"
+    ],
+    "pick": "yes"
+  },
+  "駅": {
+    "kana": "えき",
+    "cand": [
+      "railway station",
+      "train station",
+      "staging post on a highway (in pre-modern Japan)",
+      "counter for railway stations and bus stations"
+    ],
+    "pick": "railway station"
+  },
+  "エレベーター": {
+    "kana": "エレベーター",
+    "cand": [
+      "elevator",
+      "lift"
+    ],
+    "pick": "elevator"
+  },
+  "鉛筆": {
+    "kana": "えんぴつ",
+    "cand": [
+      "(wooden) pencil"
+    ],
+    "pick": "(wooden) pencil"
+  },
+  "美味しい": {
+    "kana": "おいしい",
+    "cand": [
+      "good(-tasting)",
+      "nice",
+      "delicious",
+      "tasty"
+    ],
+    "pick": "good(-tasting)"
+  },
+  "多い": {
+    "kana": "おおい",
+    "cand": [
+      "many",
+      "numerous",
+      "a lot",
+      "large amount of"
+    ],
+    "pick": "many"
+  },
+  "大きい": {
+    "kana": "おおきい",
+    "cand": [
+      "big",
+      "large",
+      "great",
+      "loud"
+    ],
+    "pick": "big"
+  },
+  "大きな": {
+    "kana": "おおきな",
+    "cand": [
+      "big",
+      "large",
+      "great"
+    ],
+    "pick": "big"
+  },
+  "大勢": {
+    "kana": "おおぜい",
+    "cand": [
+      "crowd of people",
+      "great number of people",
+      "in great numbers",
+      "general situation"
+    ],
+    "pick": "crowd of people"
+  },
+  "お母さん": {
+    "kana": "おかあさん",
+    "cand": [
+      "mother",
+      "mom",
+      "mum",
+      "ma"
+    ],
+    "pick": "mother"
+  },
+  "お菓子": {
+    "kana": "おかし",
+    "cand": [
+      "confections",
+      "sweets",
+      "candy",
+      "cake"
+    ],
+    "pick": "confections"
+  },
+  "お金": {
+    "kana": "おかね",
+    "cand": [
+      "money"
+    ],
+    "pick": "money"
+  },
+  "起きる": {
+    "kana": "おきる",
+    "cand": [
+      "to get up",
+      "to rise",
+      "to blaze up (fire)",
+      "to wake up"
+    ],
+    "pick": "to get up"
+  },
+  "置く": {
+    "kana": "おく",
+    "cand": [
+      "to put",
+      "to place",
+      "to leave (behind)",
+      "to establish (an organization, a facility, a position, etc.)"
+    ],
+    "pick": "to put"
+  },
+  "奥さん": {
+    "kana": "おくさん",
+    "cand": [
+      "wife",
+      "your wife",
+      "his wife",
+      "married lady"
+    ],
+    "pick": "wife"
+  },
+  "おじいさん": {
+    "kana": "おじいさん",
+    "cand": [
+      "grandfather",
+      "male senior-citizen",
+      "old man"
+    ],
+    "pick": "grandfather"
+  },
+  "教える": {
+    "kana": "おしえる",
+    "cand": [
+      "to teach",
+      "to instruct",
+      "to tell",
+      "to inform"
+    ],
+    "pick": "to teach"
+  },
+  "押す": {
+    "kana": "おす",
+    "cand": [
+      "to push",
+      "to thrust",
+      "to shove",
+      "to press (down)"
+    ],
+    "pick": "to push"
+  },
+  "遅い": {
+    "kana": "おそい",
+    "cand": [
+      "slow",
+      "late",
+      "too late"
+    ],
+    "pick": "slow"
+  },
+  "お茶": {
+    "kana": "おちゃ",
+    "cand": [
+      "tea (esp. green or barley)",
+      "tea break",
+      "teatime",
+      "tea ceremony"
+    ],
+    "pick": "tea (esp. green or barley)"
+  },
+  "お手洗い": {
+    "kana": "おてあらい",
+    "cand": [
+      "toilet",
+      "restroom",
+      "lavatory",
+      "bathroom"
+    ],
+    "pick": "toilet"
+  },
+  "お父さん": {
+    "kana": "おとうさん",
+    "cand": [
+      "father",
+      "dad",
+      "papa",
+      "pa"
+    ],
+    "pick": "father"
+  },
+  "弟": {
+    "kana": "おとうと",
+    "cand": [
+      "younger brother",
+      "little brother",
+      "kid brother",
+      "brother-in-law (spouse's younger brother or younger sister's husband)"
+    ],
+    "pick": "younger brother"
+  },
+  "男": {
+    "kana": "おとこ",
+    "cand": [
+      "man",
+      "male",
+      "fellow",
+      "guy"
+    ],
+    "pick": "man"
+  },
+  "男の子": {
+    "kana": "おとこのこ",
+    "cand": [
+      "boy",
+      "son",
+      "baby boy",
+      "young man"
+    ],
+    "pick": "boy"
+  },
+  "一昨日": {
+    "kana": "おととい",
+    "cand": [
+      "day before yesterday"
+    ],
+    "pick": "day before yesterday"
+  },
+  "おととし": {
+    "kana": "おととし",
+    "cand": [
+      "year before last"
+    ],
+    "pick": "year before last"
+  },
+  "大人": {
+    "kana": "おとな",
+    "cand": [
+      "adult",
+      "grown-up"
+    ],
+    "pick": "adult"
+  },
+  "お腹": {
+    "kana": "おなか",
+    "cand": [
+      "belly",
+      "abdomen",
+      "stomach"
+    ],
+    "pick": "belly"
+  },
+  "同じ": {
+    "kana": "おなじ",
+    "cand": [
+      "same",
+      "identical",
+      "equal",
+      "alike"
+    ],
+    "pick": "same"
+  },
+  "お兄さん": {
+    "kana": "おにいさん",
+    "cand": [
+      "older brother",
+      "elder brother",
+      "young man",
+      "buddy"
+    ],
+    "pick": "older brother"
+  },
+  "お姉さん": {
+    "kana": "おねえさん",
+    "cand": [
+      "older sister",
+      "elder sister",
+      "young lady",
+      "miss"
+    ],
+    "pick": "older sister"
+  },
+  "おばあさん": {
+    "kana": "おばあさん",
+    "cand": [
+      "grandmother",
+      "old woman",
+      "female senior citizen"
+    ],
+    "pick": "grandmother"
+  },
+  "お風呂": {
+    "kana": "おふろ",
+    "cand": [
+      "bath"
+    ],
+    "pick": "bath"
+  },
+  "お弁当": {
+    "kana": "おべんとう",
+    "cand": [
+      "bento",
+      "Japanese box lunch"
+    ],
+    "pick": "bento"
+  },
+  "覚える": {
+    "kana": "おぼえる",
+    "cand": [
+      "to memorize",
+      "to memorise",
+      "to commit to memory",
+      "to learn by heart"
+    ],
+    "pick": "to memorize"
+  },
+  "おまわりさん": {
+    "kana": "おまわりさん",
+    "cand": [
+      "police officer"
+    ],
+    "pick": "police officer"
+  },
+  "重い": {
+    "kana": "おもい",
+    "cand": [
+      "heavy",
+      "weighty",
+      "heavy (feeling)",
+      "depressed"
+    ],
+    "pick": "heavy"
+  },
+  "面白い": {
+    "kana": "おもしろい",
+    "cand": [
+      "interesting",
+      "fascinating",
+      "intriguing",
+      "enthralling"
+    ],
+    "pick": "interesting"
+  },
+  "泳ぐ": {
+    "kana": "およぐ",
+    "cand": [
+      "to swim",
+      "to struggle through (a crowd)",
+      "to make one's way through the world",
+      "to get along (in life)"
+    ],
+    "pick": "to swim"
+  },
+  "降りる": {
+    "kana": "おりる",
+    "cand": [
+      "to descend (e.g. a mountain)",
+      "to go down",
+      "to come down",
+      "to alight (e.g. from bus)"
+    ],
+    "pick": "to descend (e.g. a mountain)"
+  },
+  "終る": {
+    "kana": "おわる",
+    "cand": [
+      "to end",
+      "to come to an end",
+      "to finish",
+      "to close"
+    ],
+    "pick": "to end"
+  },
+  "音楽": {
+    "kana": "おんがく",
+    "cand": [
+      "music"
+    ],
+    "pick": "music"
+  },
+  "女": {
+    "kana": "おんな",
+    "cand": [
+      "woman",
+      "female",
+      "female lover",
+      "girlfriend"
+    ],
+    "pick": "woman"
+  },
+  "女の子": {
+    "kana": "おんなのこ",
+    "cand": [
+      "girl",
+      "daughter",
+      "baby girl",
+      "young woman"
+    ],
+    "pick": "girl"
+  },
+  "外国": {
+    "kana": "がいこく",
+    "cand": [
+      "foreign country"
+    ],
+    "pick": "foreign country"
+  },
+  "外国人": {
+    "kana": "がいこくじん",
+    "cand": [
+      "foreigner",
+      "foreign citizen",
+      "foreign national",
+      "alien"
+    ],
+    "pick": "foreigner"
+  },
+  "会社": {
+    "kana": "かいしゃ",
+    "cand": [
+      "company",
+      "corporation",
+      "firm",
+      "one's workplace"
+    ],
+    "pick": "company"
+  },
+  "階段": {
+    "kana": "かいだん",
+    "cand": [
+      "stairs",
+      "stairway",
+      "staircase"
+    ],
+    "pick": "stairs"
+  },
+  "買い物": {
+    "kana": "かいもの",
+    "cand": [
+      "shopping",
+      "purchased goods"
+    ],
+    "pick": "shopping"
+  },
+  "買う": {
+    "kana": "かう",
+    "cand": [
+      "to buy",
+      "to purchase",
+      "to value (highly)",
+      "to think highly of"
+    ],
+    "pick": "to buy"
+  },
+  "返す": {
+    "kana": "かえす",
+    "cand": [
+      "to return (something)",
+      "to restore",
+      "to put back",
+      "to turn over"
+    ],
+    "pick": "to return (something)"
+  },
+  "帰る": {
+    "kana": "かえる",
+    "cand": [
+      "to return",
+      "to come home",
+      "to go home",
+      "to go back"
+    ],
+    "pick": "to return"
+  },
+  "顔": {
+    "kana": "かお",
+    "cand": [
+      "face",
+      "visage",
+      "looks",
+      "(facial) features"
+    ],
+    "pick": "face"
+  },
+  "かかる": {
+    "kana": "かかる",
+    "cand": [
+      "to take (a resource, e.g. time or money)",
+      "to hang",
+      "to come into view",
+      "to arrive"
+    ],
+    "pick": "to take (a resource, e.g. time or money)"
+  },
+  "鍵": {
+    "kana": "かぎ",
+    "cand": [
+      "key",
+      "lock",
+      "key (to a problem, success, etc.)",
+      "clue"
+    ],
+    "pick": "key"
+  },
+  "書く": {
+    "kana": "かく",
+    "cand": [
+      "to write",
+      "to compose",
+      "to pen",
+      "to draw"
+    ],
+    "pick": "to write"
+  },
+  "学生": {
+    "kana": "がくせい",
+    "cand": [
+      "student (esp. a university student)"
+    ],
+    "pick": "student (esp. a university student)"
+  },
+  "掛ける": {
+    "kana": "かける",
+    "cand": [
+      "to hang up (e.g. a coat, a picture on the wall)",
+      "to let hang",
+      "to suspend (from)",
+      "to hoist (e.g. sail)"
+    ],
+    "pick": "to hang up (e.g. a coat, a picture on the wall)"
+  },
+  "かける": {
+    "kana": "かける",
+    "cand": [
+      "to hang up (e.g. a coat, a picture on the wall)",
+      "to let hang",
+      "to suspend (from)",
+      "to hoist (e.g. sail)"
+    ],
+    "pick": "to hang up (e.g. a coat, a picture on the wall)"
+  },
+  "傘": {
+    "kana": "かさ",
+    "cand": [
+      "umbrella",
+      "parasol",
+      "something shaped like an umbrella or a conical hat",
+      "shade (of a lamp)"
+    ],
+    "pick": "umbrella"
+  },
+  "貸す": {
+    "kana": "かす",
+    "cand": [
+      "to lend",
+      "to loan",
+      "to rent out",
+      "to hire out"
+    ],
+    "pick": "to lend"
+  },
+  "風": {
+    "kana": "かぜ",
+    "cand": [
+      "swing",
+      "shake",
+      "sweep",
+      "wave"
+    ],
+    "pick": "swing"
+  },
+  "風邪": {
+    "kana": "かぜ",
+    "cand": [
+      "(common) cold",
+      "influenza",
+      "flu",
+      "ague"
+    ],
+    "pick": "(common) cold"
+  },
+  "方": {
+    "kana": "かた",
+    "cand": [
+      "direction",
+      "way",
+      "person",
+      "lady"
+    ],
+    "pick": "direction"
+  },
+  "家族": {
+    "kana": "かぞく",
+    "cand": [
+      "family"
+    ],
+    "pick": "family"
+  },
+  "片仮名": {
+    "kana": "かたかな",
+    "cand": [
+      "katakana",
+      "angular Japanese syllabary used primarily for loanwords"
+    ],
+    "pick": "katakana"
+  },
+  "学校": {
+    "kana": "がっこう",
+    "cand": [
+      "school"
+    ],
+    "pick": "school"
+  },
+  "カップ": {
+    "kana": "カップ",
+    "cand": [
+      "cup (drinking vessel, measure, brassiere, prize, etc.)"
+    ],
+    "pick": "cup (drinking vessel, measure, brassiere, prize, etc.)"
+  },
+  "家庭": {
+    "kana": "かてい",
+    "cand": [
+      "home",
+      "household",
+      "family",
+      "hearth"
+    ],
+    "pick": "home"
+  },
+  "角": {
+    "kana": "かど",
+    "cand": [
+      "angle",
+      "square",
+      "cube",
+      "bishop"
+    ],
+    "pick": "angle"
+  },
+  "かばん": {
+    "kana": "かばん",
+    "cand": [
+      "bag",
+      "satchel",
+      "briefcase",
+      "basket"
+    ],
+    "pick": "bag"
+  },
+  "花瓶": {
+    "kana": "かびん",
+    "cand": [
+      "(flower) vase"
+    ],
+    "pick": "(flower) vase"
+  },
+  "かぶる": {
+    "kana": "かぶる",
+    "cand": [
+      "to put on (one's head)",
+      "to wear",
+      "to have on",
+      "to pull over (one's head)"
+    ],
+    "pick": "to put on (one's head)"
+  },
+  "紙": {
+    "kana": "かみ",
+    "cand": [
+      "paper"
+    ],
+    "pick": "paper"
+  },
+  "カメラ": {
+    "kana": "カメラ",
+    "cand": [
+      "camera"
+    ],
+    "pick": "camera"
+  },
+  "火曜日": {
+    "kana": "かようび",
+    "cand": [
+      "Tuesday"
+    ],
+    "pick": "Tuesday"
+  },
+  "辛い": {
+    "kana": "からい",
+    "cand": [
+      "spicy",
+      "hot",
+      "salty",
+      "harsh (criticism)"
+    ],
+    "pick": "spicy"
+  },
+  "体": {
+    "kana": "からだ",
+    "cand": [
+      "body",
+      "torso",
+      "trunk",
+      "build"
+    ],
+    "pick": "body"
+  },
+  "借りる": {
+    "kana": "かりる",
+    "cand": [
+      "to borrow",
+      "to rent",
+      "to hire",
+      "to make use of (another's help, wisdom, etc.)"
+    ],
+    "pick": "to borrow"
+  },
+  "軽い": {
+    "kana": "かるい",
+    "cand": [
+      "light (i.e. not heavy)",
+      "feeling light (i.e. offering little resistance, moving easily)",
+      "light (i.e. of foot)",
+      "effortless"
+    ],
+    "pick": "light (i.e. not heavy)"
+  },
+  "カレー": {
+    "kana": "カレー",
+    "cand": [
+      "curry (esp. Japanese curry)",
+      "rice and curry"
+    ],
+    "pick": "curry (esp. Japanese curry)"
+  },
+  "カレンダー": {
+    "kana": "カレンダー",
+    "cand": [
+      "calendar",
+      "calender (machine for flattening things)"
+    ],
+    "pick": "calendar"
+  },
+  "川; 河": {
+    "kana": "かわ",
+    "cand": [
+      "river",
+      "stream",
+      "River",
+      "the ... river"
+    ],
+    "pick": "river"
+  },
+  "可愛い": {
+    "kana": "かわいい",
+    "cand": [
+      "cute",
+      "adorable",
+      "charming",
+      "lovely"
+    ],
+    "pick": "cute"
+  },
+  "漢字": {
+    "kana": "かんじ",
+    "cand": [
+      "kanji",
+      "Chinese character"
+    ],
+    "pick": "kanji"
+  },
+  "木": {
+    "kana": "き",
+    "cand": [
+      "tree",
+      "shrub",
+      "bush",
+      "wood"
+    ],
+    "pick": "tree"
+  },
+  "黄色": {
+    "kana": "きいろ",
+    "cand": [
+      "yellow",
+      "amber"
+    ],
+    "pick": "yellow"
+  },
+  "黄色い": {
+    "kana": "きいろい",
+    "cand": [
+      "yellow",
+      "high-pitched (voice)",
+      "shrill"
+    ],
+    "pick": "yellow"
+  },
+  "消える": {
+    "kana": "きえる",
+    "cand": [
+      "to disappear",
+      "to vanish",
+      "to go out of sight",
+      "to go away"
+    ],
+    "pick": "to disappear"
+  },
+  "聞く": {
+    "kana": "きく",
+    "cand": [
+      "to hear",
+      "to listen (e.g. to music)",
+      "to ask",
+      "to enquire"
+    ],
+    "pick": "to hear"
+  },
+  "北": {
+    "kana": "きた",
+    "cand": [
+      "north",
+      "the North",
+      "northern territories",
+      "North Korea"
+    ],
+    "pick": "north"
+  },
+  "ギター": {
+    "kana": "ギター",
+    "cand": [
+      "guitar"
+    ],
+    "pick": "guitar"
+  },
+  "汚い": {
+    "kana": "きたない",
+    "cand": [
+      "dirty",
+      "filthy",
+      "foul",
+      "unclean"
+    ],
+    "pick": "dirty"
+  },
+  "喫茶店": {
+    "kana": "きっさてん",
+    "cand": [
+      "coffee shop",
+      "tearoom",
+      "coffee lounge",
+      "coffeehouse"
+    ],
+    "pick": "coffee shop"
+  },
+  "切手": {
+    "kana": "きって",
+    "cand": [
+      "stamp (postage)",
+      "merchandise certificate"
+    ],
+    "pick": "stamp (postage)"
+  },
+  "切符": {
+    "kana": "きっぷ",
+    "cand": [
+      "ticket"
+    ],
+    "pick": "ticket"
+  },
+  "昨日": {
+    "kana": "きのう",
+    "cand": [
+      "yesterday"
+    ],
+    "pick": "yesterday"
+  },
+  "九": {
+    "kana": "く",
+    "cand": [
+      "nine",
+      "9"
+    ],
+    "pick": "nine"
+  },
+  "牛肉": {
+    "kana": "ぎゅうにく",
+    "cand": [
+      "beef"
+    ],
+    "pick": "beef"
+  },
+  "牛乳": {
+    "kana": "ぎゅうにゅう",
+    "cand": [
+      "(cow's) milk"
+    ],
+    "pick": "(cow's) milk"
+  },
+  "今日": {
+    "kana": "きょう",
+    "cand": [
+      "today",
+      "this day",
+      "these days",
+      "recently"
+    ],
+    "pick": "today"
+  },
+  "教室": {
+    "kana": "きょうしつ",
+    "cand": [
+      "classroom",
+      "lecture room",
+      "department (in a university)",
+      "class"
+    ],
+    "pick": "classroom"
+  },
+  "兄弟": {
+    "kana": "きょうだい",
+    "cand": [
+      "brothers and sisters",
+      "siblings",
+      "half-siblings",
+      "step-siblings"
+    ],
+    "pick": "brothers and sisters"
+  },
+  "去年": {
+    "kana": "きょねん",
+    "cand": [
+      "last year"
+    ],
+    "pick": "last year"
+  },
+  "嫌い": {
+    "kana": "きらい",
+    "cand": [
+      "disliked",
+      "hated",
+      "disagreeable",
+      "tendency"
+    ],
+    "pick": "disliked"
+  },
+  "切る": {
+    "kana": "きる",
+    "cand": [
+      "to cut",
+      "to cut through",
+      "to perform (surgery)",
+      "to sever (connections, ties)"
+    ],
+    "pick": "to cut"
+  },
+  "着る": {
+    "kana": "きる",
+    "cand": [
+      "to wear (from the shoulders down)",
+      "to put on",
+      "to take (the blame, responsibility)",
+      "to bear"
+    ],
+    "pick": "to wear (from the shoulders down)"
+  },
+  "綺麗": {
+    "kana": "きれい",
+    "cand": [
+      "pretty",
+      "lovely",
+      "beautiful",
+      "fair"
+    ],
+    "pick": "pretty"
+  },
+  "銀行": {
+    "kana": "ぎんこう",
+    "cand": [
+      "bank",
+      "banking institution"
+    ],
+    "pick": "bank"
+  },
+  "金曜日": {
+    "kana": "きんようび",
+    "cand": [
+      "Friday"
+    ],
+    "pick": "Friday"
+  },
+  "薬": {
+    "kana": "くすり",
+    "cand": [
+      "medicine",
+      "pharmaceuticals",
+      "(legal) drugs",
+      "pill"
+    ],
+    "pick": "medicine"
+  },
+  "下さい": {
+    "kana": "ください",
+    "cand": [
+      "please (give me)",
+      "please (do for me)"
+    ],
+    "pick": "please (give me)"
+  },
+  "果物": {
+    "kana": "くだもの",
+    "cand": [
+      "fruit"
+    ],
+    "pick": "fruit"
+  },
+  "口": {
+    "kana": "くち",
+    "cand": [
+      "mouth",
+      "opening",
+      "hole",
+      "gap"
+    ],
+    "pick": "mouth"
+  },
+  "靴": {
+    "kana": "くつ",
+    "cand": [
+      "shoe",
+      "shoes",
+      "boots",
+      "footwear"
+    ],
+    "pick": "shoe"
+  },
+  "靴下": {
+    "kana": "くつした",
+    "cand": [
+      "socks",
+      "sock",
+      "stockings",
+      "stocking"
+    ],
+    "pick": "socks"
+  },
+  "国": {
+    "kana": "くに",
+    "cand": [
+      "country",
+      "state",
+      "region",
+      "national government"
+    ],
+    "pick": "country"
+  },
+  "曇り": {
+    "kana": "くもり",
+    "cand": [
+      "cloudiness",
+      "cloudy weather",
+      "fog (on a mirror, glasses, etc.)",
+      "cloud (e.g. in marble)"
+    ],
+    "pick": "cloudiness"
+  },
+  "曇る": {
+    "kana": "くもる",
+    "cand": [
+      "to get cloudy",
+      "to cloud over",
+      "to become overcast",
+      "to cloud up"
+    ],
+    "pick": "to get cloudy"
+  },
+  "暗い": {
+    "kana": "くらい",
+    "cand": [
+      "dark",
+      "gloomy",
+      "murky",
+      "depressed"
+    ],
+    "pick": "dark"
+  },
+  "クラス": {
+    "kana": "クラス",
+    "cand": [
+      "class"
+    ],
+    "pick": "class"
+  },
+  "グラム": {
+    "kana": "グラム",
+    "cand": [
+      "gram",
+      "gramme"
+    ],
+    "pick": "gram"
+  },
+  "来る": {
+    "kana": "くる",
+    "cand": [
+      "to come (spatially or temporally)",
+      "to approach",
+      "to arrive",
+      "to come back"
+    ],
+    "pick": "to come (spatially or temporally)"
+  },
+  "車": {
+    "kana": "くるま",
+    "cand": [
+      "car",
+      "automobile",
+      "vehicle",
+      "wheel"
+    ],
+    "pick": "car"
+  },
+  "黒": {
+    "kana": "くろ",
+    "cand": [
+      "black",
+      "black stone",
+      "guilt",
+      "guilty person"
+    ],
+    "pick": "black"
+  },
+  "黒い": {
+    "kana": "くろい",
+    "cand": [
+      "black",
+      "dark",
+      "blackish",
+      "sun-tanned (skin)"
+    ],
+    "pick": "black"
+  },
+  "警官": {
+    "kana": "けいかん",
+    "cand": [
+      "police officer",
+      "policeman",
+      "constable"
+    ],
+    "pick": "police officer"
+  },
+  "今朝": {
+    "kana": "けさ",
+    "cand": [
+      "this morning"
+    ],
+    "pick": "this morning"
+  },
+  "消す": {
+    "kana": "けす",
+    "cand": [
+      "to erase",
+      "to rub out",
+      "to rub off",
+      "to cross out"
+    ],
+    "pick": "to erase"
+  },
+  "結構": {
+    "kana": "けっこう",
+    "cand": [
+      "splendid",
+      "nice",
+      "wonderful",
+      "delightful"
+    ],
+    "pick": "splendid"
+  },
+  "結婚": {
+    "kana": "けっこん (する)",
+    "cand": [
+      "marriage"
+    ],
+    "pick": "marriage"
+  },
+  "月曜日": {
+    "kana": "げつようび",
+    "cand": [
+      "Monday"
+    ],
+    "pick": "Monday"
+  },
+  "玄関": {
+    "kana": "げんかん",
+    "cand": [
+      "entrance",
+      "front door",
+      "entryway",
+      "entranceway"
+    ],
+    "pick": "entrance"
+  },
+  "元気": {
+    "kana": "げんき",
+    "cand": [
+      "lively",
+      "full of spirit",
+      "energetic",
+      "vigorous"
+    ],
+    "pick": "lively"
+  },
+  "五": {
+    "kana": "ご",
+    "cand": [
+      "five",
+      "5"
+    ],
+    "pick": "five"
+  },
+  "公園": {
+    "kana": "こうえん",
+    "cand": [
+      "(public) park"
+    ],
+    "pick": "(public) park"
+  },
+  "交差点": {
+    "kana": "こうさてん",
+    "cand": [
+      "crossing",
+      "intersection"
+    ],
+    "pick": "crossing"
+  },
+  "紅茶": {
+    "kana": "こうちゃ",
+    "cand": [
+      "black tea"
+    ],
+    "pick": "black tea"
+  },
+  "交番": {
+    "kana": "こうばん",
+    "cand": [
+      "police box",
+      "koban",
+      "small neighborhood police station",
+      "alternation"
+    ],
+    "pick": "police box"
+  },
+  "声": {
+    "kana": "こえ",
+    "cand": [
+      "voice",
+      "singing (of a bird)",
+      "chirping (of an insect)",
+      "hoot"
+    ],
+    "pick": "voice"
+  },
+  "コート": {
+    "kana": "コート",
+    "cand": [
+      "coat",
+      "coating",
+      "court (e.g. tennis, basketball, volleyball)"
+    ],
+    "pick": "coat"
+  },
+  "コーヒー": {
+    "kana": "コーヒー",
+    "cand": [
+      "coffee"
+    ],
+    "pick": "coffee"
+  },
+  "ここ": {
+    "kana": "ここ",
+    "cand": [
+      "here",
+      "this place",
+      "this point",
+      "now"
+    ],
+    "pick": "here"
+  },
+  "午後": {
+    "kana": "ごご",
+    "cand": [
+      "afternoon",
+      "p.m."
+    ],
+    "pick": "afternoon"
+  },
+  "九日": {
+    "kana": "ここのか",
+    "cand": [
+      "9th day of the month",
+      "nine days"
+    ],
+    "pick": "9th day of the month"
+  },
+  "九つ": {
+    "kana": "ここのつ",
+    "cand": [
+      "nine",
+      "nine years of age",
+      "twelve o'clock (old time system)"
+    ],
+    "pick": "nine"
+  },
+  "午前": {
+    "kana": "ごぜん",
+    "cand": [
+      "morning",
+      "a.m."
+    ],
+    "pick": "morning"
+  },
+  "答える": {
+    "kana": "こたえる",
+    "cand": [
+      "to answer",
+      "to reply"
+    ],
+    "pick": "to answer"
+  },
+  "こちら": {
+    "kana": "こちら",
+    "cand": [
+      "this way",
+      "this direction",
+      "here",
+      "this (one)"
+    ],
+    "pick": "this way"
+  },
+  "こっち": {
+    "kana": "こっち",
+    "cand": [
+      "this way",
+      "this direction",
+      "here",
+      "this (one)"
+    ],
+    "pick": "this way"
+  },
+  "コップ": {
+    "kana": "コップ",
+    "cand": [
+      "glass (drinking vessel)",
+      "tumbler",
+      "cups (suit)"
+    ],
+    "pick": "glass (drinking vessel)"
+  },
+  "今年": {
+    "kana": "ことし",
+    "cand": [
+      "this year"
+    ],
+    "pick": "this year"
+  },
+  "言葉": {
+    "kana": "ことば",
+    "cand": [
+      "language",
+      "dialect",
+      "word",
+      "phrase"
+    ],
+    "pick": "language"
+  },
+  "子供": {
+    "kana": "こども",
+    "cand": [
+      "child",
+      "children"
+    ],
+    "pick": "child"
+  },
+  "この": {
+    "kana": "この",
+    "cand": [
+      "nine",
+      "9",
+      "this",
+      "last (couple of years, etc.)"
+    ],
+    "pick": "nine"
+  },
+  "御飯": {
+    "kana": "ごはん",
+    "cand": [
+      "cooked rice",
+      "meal"
+    ],
+    "pick": "cooked rice"
+  },
+  "困る": {
+    "kana": "こまる",
+    "cand": [
+      "to be troubled",
+      "to have difficulty",
+      "to be in a fix",
+      "to be at a loss"
+    ],
+    "pick": "to be troubled"
+  },
+  "これ": {
+    "kana": "これ",
+    "cand": [
+      "this",
+      "this one",
+      "this person",
+      "now"
+    ],
+    "pick": "this"
+  },
+  "今月": {
+    "kana": "こんげつ",
+    "cand": [
+      "this month"
+    ],
+    "pick": "this month"
+  },
+  "今週": {
+    "kana": "こんしゅう",
+    "cand": [
+      "this week"
+    ],
+    "pick": "this week"
+  },
+  "こんな": {
+    "kana": "こんな",
+    "cand": [
+      "this sort of",
+      "this kind of",
+      "like this",
+      "such"
+    ],
+    "pick": "this sort of"
+  },
+  "今晩": {
+    "kana": "こんばん",
+    "cand": [
+      "tonight",
+      "this evening"
+    ],
+    "pick": "tonight"
+  },
+  "さあ": {
+    "kana": "さあ",
+    "cand": [
+      "come (on)",
+      "come now",
+      "come along",
+      "here"
+    ],
+    "pick": "come (on)"
+  },
+  "財布": {
+    "kana": "さいふ",
+    "cand": [
+      "wallet",
+      "purse",
+      "coin purse",
+      "billfold"
+    ],
+    "pick": "wallet"
+  },
+  "魚": {
+    "kana": "さかな",
+    "cand": [
+      "fish"
+    ],
+    "pick": "fish"
+  },
+  "先": {
+    "kana": "さき",
+    "cand": [
+      "a short while ago",
+      "a moment ago",
+      "just now",
+      "some time ago"
+    ],
+    "pick": "a short while ago"
+  },
+  "咲く": {
+    "kana": "さく",
+    "cand": [
+      "to bloom",
+      "to flower",
+      "to blossom",
+      "to open"
+    ],
+    "pick": "to bloom"
+  },
+  "作文": {
+    "kana": "さくぶん",
+    "cand": [
+      "writing (an essay, prose, etc.)",
+      "composition",
+      "formal writing with little real meaning"
+    ],
+    "pick": "writing (an essay, prose, etc.)"
+  },
+  "差す": {
+    "kana": "さす",
+    "cand": [
+      "to shine",
+      "to be visible",
+      "to be tinged with",
+      "to rise (of water levels)"
+    ],
+    "pick": "to shine"
+  },
+  "雑誌": {
+    "kana": "ざっし",
+    "cand": [
+      "magazine",
+      "journal",
+      "periodical"
+    ],
+    "pick": "magazine"
+  },
+  "砂糖": {
+    "kana": "さとう",
+    "cand": [
+      "sugar"
+    ],
+    "pick": "sugar"
+  },
+  "寒い": {
+    "kana": "さむい",
+    "cand": [
+      "cold (e.g. weather)",
+      "uninteresting (esp. joke)",
+      "lame",
+      "dull"
+    ],
+    "pick": "cold (e.g. weather)"
+  },
+  "さ来年": {
+    "kana": "さらいねん",
+    "cand": [
+      "year after next"
+    ],
+    "pick": "year after next"
+  },
+  "三": {
+    "kana": "さん",
+    "cand": [
+      "three",
+      "3"
+    ],
+    "pick": "three"
+  },
+  "散歩": {
+    "kana": "さんぽ (する)",
+    "cand": [
+      "walk",
+      "stroll"
+    ],
+    "pick": "walk"
+  },
+  "四": {
+    "kana": "し",
+    "cand": [
+      "four",
+      "4"
+    ],
+    "pick": "four"
+  },
+  "塩": {
+    "kana": "しお",
+    "cand": [
+      "salt",
+      "common salt",
+      "table salt",
+      "sodium chloride"
+    ],
+    "pick": "salt"
+  },
+  "しかし": {
+    "kana": "しかし",
+    "cand": [
+      "however",
+      "but"
+    ],
+    "pick": "however"
+  },
+  "時間": {
+    "kana": "じかん",
+    "cand": [
+      "time",
+      "hour",
+      "period",
+      "class"
+    ],
+    "pick": "time"
+  },
+  "仕事": {
+    "kana": "しごと",
+    "cand": [
+      "work",
+      "job",
+      "labor",
+      "labour"
+    ],
+    "pick": "work"
+  },
+  "辞書": {
+    "kana": "じしょ",
+    "cand": [
+      "dictionary",
+      "lexicon",
+      "letter of resignation"
+    ],
+    "pick": "dictionary"
+  },
+  "静か": {
+    "kana": "しずか",
+    "cand": [
+      "quiet",
+      "silent",
+      "slow",
+      "unhurried"
+    ],
+    "pick": "quiet"
+  },
+  "下": {
+    "kana": "した",
+    "cand": [
+      "below",
+      "down",
+      "under",
+      "younger (e.g. daughter)"
+    ],
+    "pick": "below"
+  },
+  "七": {
+    "kana": "しち",
+    "cand": [
+      "seven"
+    ],
+    "pick": "seven"
+  },
+  "質問": {
+    "kana": "しつもん",
+    "cand": [
+      "question",
+      "inquiry",
+      "enquiry"
+    ],
+    "pick": "question"
+  },
+  "自転車": {
+    "kana": "じてんしゃ",
+    "cand": [
+      "bicycle",
+      "bike"
+    ],
+    "pick": "bicycle"
+  },
+  "自動車": {
+    "kana": "じどうしゃ",
+    "cand": [
+      "car",
+      "automobile",
+      "motorcar",
+      "motor vehicle"
+    ],
+    "pick": "car"
+  },
+  "死ぬ": {
+    "kana": "しぬ",
+    "cand": [
+      "to die",
+      "to pass away",
+      "to lose spirit",
+      "to lose vigor"
+    ],
+    "pick": "to die"
+  },
+  "字引": {
+    "kana": "じびき",
+    "cand": [
+      "dictionary"
+    ],
+    "pick": "dictionary"
+  },
+  "自分": {
+    "kana": "じぶん",
+    "cand": [
+      "myself",
+      "yourself",
+      "oneself",
+      "himself"
+    ],
+    "pick": "myself"
+  },
+  "閉まる": {
+    "kana": "しまる",
+    "cand": [
+      "to be shut",
+      "to close",
+      "to be closed",
+      "to be firm (of a body, face, etc.)"
+    ],
+    "pick": "to be shut"
+  },
+  "閉める": {
+    "kana": "しめる",
+    "cand": [
+      "to close",
+      "to shut"
+    ],
+    "pick": "to close"
+  },
+  "締める": {
+    "kana": "しめる",
+    "cand": [
+      "to tie",
+      "to fasten",
+      "to tighten",
+      "to wear (necktie, belt)"
+    ],
+    "pick": "to tie"
+  },
+  "写真": {
+    "kana": "しゃしん",
+    "cand": [
+      "photograph",
+      "photo",
+      "picture",
+      "photography"
+    ],
+    "pick": "photograph"
+  },
+  "シャツ": {
+    "kana": "シャツ",
+    "cand": [
+      "shirt (undergarment)",
+      "undershirt",
+      "singlet",
+      "shirt (outerwear; usu. with collar and buttons)"
+    ],
+    "pick": "shirt (undergarment)"
+  },
+  "シャワー": {
+    "kana": "シャワー",
+    "cand": [
+      "shower"
+    ],
+    "pick": "shower"
+  },
+  "十": {
+    "kana": "(〜を) とお",
+    "cand": [
+      "ten",
+      "10",
+      "ten years of age",
+      "book containing a collection of poems"
+    ],
+    "pick": "ten"
+  },
+  "授業": {
+    "kana": "じゅぎょう",
+    "cand": [
+      "lesson",
+      "class",
+      "teaching",
+      "instruction"
+    ],
+    "pick": "lesson"
+  },
+  "宿題": {
+    "kana": "しゅくだい",
+    "cand": [
+      "homework",
+      "assignment",
+      "pending issue",
+      "unresolved problem"
+    ],
+    "pick": "homework"
+  },
+  "上手": {
+    "kana": "じょうず",
+    "cand": [
+      "skillful",
+      "skilled",
+      "proficient",
+      "good (at)"
+    ],
+    "pick": "skillful"
+  },
+  "丈夫": {
+    "kana": "じょうぶ",
+    "cand": [
+      "healthy",
+      "robust",
+      "strong",
+      "solid"
+    ],
+    "pick": "healthy"
+  },
+  "醤油": {
+    "kana": "しょうゆ",
+    "cand": [
+      "soy sauce",
+      "soya sauce",
+      "shoyu"
+    ],
+    "pick": "soy sauce"
+  },
+  "食堂": {
+    "kana": "しょくどう",
+    "cand": [
+      "dining room",
+      "dining hall",
+      "cafeteria",
+      "canteen"
+    ],
+    "pick": "dining room"
+  },
+  "知る": {
+    "kana": "しる",
+    "cand": [
+      "to know",
+      "to be aware (of)",
+      "to be conscious (of)",
+      "to learn (of)"
+    ],
+    "pick": "to know"
+  },
+  "白": {
+    "kana": "しろ",
+    "cand": [
+      "white",
+      "innocence",
+      "innocent person",
+      "blank space"
+    ],
+    "pick": "white"
+  },
+  "白い": {
+    "kana": "しろい",
+    "cand": [
+      "white",
+      "blank (e.g. paper)",
+      "uncolored",
+      "unmarked"
+    ],
+    "pick": "white"
+  },
+  "新聞": {
+    "kana": "しんぶん",
+    "cand": [
+      "newspaper"
+    ],
+    "pick": "newspaper"
+  },
+  "水曜日": {
+    "kana": "すいようび",
+    "cand": [
+      "Wednesday"
+    ],
+    "pick": "Wednesday"
+  },
+  "吸う": {
+    "kana": "すう",
+    "cand": [
+      "to breathe in",
+      "to inhale",
+      "to smoke (a cigarette, etc.)",
+      "to suck"
+    ],
+    "pick": "to breathe in"
+  },
+  "スカート": {
+    "kana": "スカート",
+    "cand": [
+      "skirt"
+    ],
+    "pick": "skirt"
+  },
+  "好き": {
+    "kana": "すき",
+    "cand": [
+      "liking",
+      "being fond of",
+      "to one's liking",
+      "to one's taste"
+    ],
+    "pick": "liking"
+  },
+  "少ない": {
+    "kana": "すくない",
+    "cand": [
+      "few",
+      "little",
+      "small (amount)",
+      "low"
+    ],
+    "pick": "few"
+  },
+  "すぐに": {
+    "kana": "すぐに",
+    "cand": [
+      "immediately",
+      "right away",
+      "at once",
+      "instantly"
+    ],
+    "pick": "immediately"
+  },
+  "少し": {
+    "kana": "すこし",
+    "cand": [
+      "a little",
+      "a bit",
+      "a small amount",
+      "a few"
+    ],
+    "pick": "a little"
+  },
+  "涼しい": {
+    "kana": "すずしい",
+    "cand": [
+      "cool",
+      "refreshing",
+      "clear (e.g. eyes)",
+      "bright"
+    ],
+    "pick": "cool"
+  },
+  "ストーブ": {
+    "kana": "ストーブ",
+    "cand": [
+      "(room) heater",
+      "stove"
+    ],
+    "pick": "(room) heater"
+  },
+  "スプーン": {
+    "kana": "スプーン",
+    "cand": [
+      "spoon",
+      "spoon lure"
+    ],
+    "pick": "spoon"
+  },
+  "スポーツ": {
+    "kana": "スポーツ",
+    "cand": [
+      "sport",
+      "sports"
+    ],
+    "pick": "sport"
+  },
+  "ズボン": {
+    "kana": "ズボン",
+    "cand": [
+      "trousers",
+      "pants"
+    ],
+    "pick": "trousers"
+  },
+  "住む": {
+    "kana": "すむ",
+    "cand": [
+      "to live (of humans)",
+      "to reside",
+      "to inhabit",
+      "to dwell"
+    ],
+    "pick": "to live (of humans)"
+  },
+  "する": {
+    "kana": "する",
+    "cand": [
+      "to do",
+      "to carry out",
+      "to perform",
+      "to cause to become"
+    ],
+    "pick": "to do"
+  },
+  "座る": {
+    "kana": "すわる",
+    "cand": [
+      "to sit (down)",
+      "to have a seat",
+      "to be seated",
+      "to kneel (on the floor)"
+    ],
+    "pick": "to sit (down)"
+  },
+  "背": {
+    "kana": "せい",
+    "cand": [
+      "height",
+      "stature",
+      "back",
+      "reverse"
+    ],
+    "pick": "height"
+  },
+  "生徒": {
+    "kana": "せいと",
+    "cand": [
+      "pupil",
+      "student",
+      "schoolchild"
+    ],
+    "pick": "pupil"
+  },
+  "セーター": {
+    "kana": "セーター",
+    "cand": [
+      "sweater",
+      "jumper"
+    ],
+    "pick": "sweater"
+  },
+  "石鹸": {
+    "kana": "せっけん",
+    "cand": [
+      "soap"
+    ],
+    "pick": "soap"
+  },
+  "背広": {
+    "kana": "せびろ",
+    "cand": [
+      "business suit"
+    ],
+    "pick": "business suit"
+  },
+  "狭い": {
+    "kana": "せまい",
+    "cand": [
+      "narrow",
+      "confined",
+      "small",
+      "cramped"
+    ],
+    "pick": "narrow"
+  },
+  "ゼロ": {
+    "kana": "ゼロ",
+    "cand": [
+      "zero",
+      "0",
+      "nought",
+      "nil"
+    ],
+    "pick": "zero"
+  },
+  "千": {
+    "kana": "せん",
+    "cand": [
+      "thousand",
+      "1,000"
+    ],
+    "pick": "thousand"
+  },
+  "先月": {
+    "kana": "せんげつ",
+    "cand": [
+      "last month"
+    ],
+    "pick": "last month"
+  },
+  "先週": {
+    "kana": "せんしゅう",
+    "cand": [
+      "last week",
+      "the week before"
+    ],
+    "pick": "last week"
+  },
+  "先生": {
+    "kana": "せんせい",
+    "cand": [
+      "teacher",
+      "instructor",
+      "master",
+      "sensei"
+    ],
+    "pick": "teacher"
+  },
+  "洗濯": {
+    "kana": "せんたく",
+    "cand": [
+      "washing",
+      "laundry",
+      "relaxation",
+      "rejuvenation"
+    ],
+    "pick": "washing"
+  },
+  "全部": {
+    "kana": "ぜんぶ",
+    "cand": [
+      "all",
+      "entire",
+      "whole",
+      "altogether"
+    ],
+    "pick": "all"
+  },
+  "掃除": {
+    "kana": "そうじ (する)",
+    "cand": [
+      "cleaning",
+      "sweeping",
+      "dusting",
+      "scrubbing"
+    ],
+    "pick": "cleaning"
+  },
+  "そこ": {
+    "kana": "そこ",
+    "cand": [
+      "there (place relatively near listener)",
+      "there (place just mentioned)",
+      "that place",
+      "then (of some incident just spoken of)"
+    ],
+    "pick": "there (place relatively near listener)"
+  },
+  "そちら": {
+    "kana": "そちら",
+    "cand": [
+      "that way",
+      "that direction",
+      "there",
+      "that (one)"
+    ],
+    "pick": "that way"
+  },
+  "そっち": {
+    "kana": "そっち",
+    "cand": [
+      "that way",
+      "that direction",
+      "there",
+      "that (one)"
+    ],
+    "pick": "that way"
+  },
+  "外": {
+    "kana": "ほか",
+    "cand": [
+      "outside",
+      "exterior",
+      "the open (air)",
+      "other place"
+    ],
+    "pick": "outside"
+  },
+  "その": {
+    "kana": "その",
+    "cand": [
+      "that",
+      "the",
+      "part (as in \"part two\")",
+      "um ..."
+    ],
+    "pick": "that"
+  },
+  "そば": {
+    "kana": "そば",
+    "cand": [
+      "buckwheat (Fagopyrum esculentum)",
+      "soba",
+      "Japanese buckwheat noodles",
+      "Chinese-style wheat noodles"
+    ],
+    "pick": "buckwheat (Fagopyrum esculentum)"
+  },
+  "空": {
+    "kana": "そら",
+    "cand": [
+      "emptiness",
+      "being empty",
+      "not carrying anything",
+      "unburdened"
+    ],
+    "pick": "emptiness"
+  },
+  "それ": {
+    "kana": "それ",
+    "cand": [
+      "that",
+      "it",
+      "then",
+      "that point (in time)"
+    ],
+    "pick": "that"
+  },
+  "それから": {
+    "kana": "それから",
+    "cand": [
+      "and then",
+      "after that"
+    ],
+    "pick": "and then"
+  },
+  "それでは": {
+    "kana": "それでは",
+    "cand": [
+      "well, ...",
+      "right, ...",
+      "now, ...",
+      "so"
+    ],
+    "pick": "well, ..."
+  },
+  "大学": {
+    "kana": "だいがく",
+    "cand": [
+      "university",
+      "college",
+      "former imperial university of Japan (established under the ritsuryō system for the training of government administrators)",
+      "the Great Learning (one of the Four Books)"
+    ],
+    "pick": "university"
+  },
+  "大使館": {
+    "kana": "たいしかん",
+    "cand": [
+      "embassy"
+    ],
+    "pick": "embassy"
+  },
+  "大丈夫": {
+    "kana": "だいじょうぶ",
+    "cand": [
+      "safe",
+      "secure",
+      "sound",
+      "problem-free"
+    ],
+    "pick": "safe"
+  },
+  "大好き": {
+    "kana": "だいすき",
+    "cand": [
+      "liking very much",
+      "loving (something or someone)",
+      "adoring",
+      "being very fond of"
+    ],
+    "pick": "liking very much"
+  },
+  "大切": {
+    "kana": "たいせつ",
+    "cand": [
+      "important",
+      "significant",
+      "serious",
+      "crucial"
+    ],
+    "pick": "important"
+  },
+  "台所": {
+    "kana": "だいどころ",
+    "cand": [
+      "kitchen",
+      "financial situation",
+      "finances"
+    ],
+    "pick": "kitchen"
+  },
+  "大変": {
+    "kana": "たいへん",
+    "cand": [
+      "very",
+      "greatly",
+      "terribly",
+      "awfully"
+    ],
+    "pick": "very"
+  },
+  "高い": {
+    "kana": "たかい",
+    "cand": [
+      "high",
+      "tall",
+      "expensive",
+      "high-priced"
+    ],
+    "pick": "high"
+  },
+  "沢山": {
+    "kana": "たくさん",
+    "cand": [
+      "a lot",
+      "lots",
+      "plenty",
+      "many"
+    ],
+    "pick": "a lot"
+  },
+  "タクシー": {
+    "kana": "タクシー",
+    "cand": [
+      "taxi"
+    ],
+    "pick": "taxi"
+  },
+  "出す": {
+    "kana": "だす",
+    "cand": [
+      "to take out",
+      "to get out",
+      "to put out",
+      "to reveal"
+    ],
+    "pick": "to take out"
+  },
+  "立つ": {
+    "kana": "たつ",
+    "cand": [
+      "to stand (up)",
+      "to rise",
+      "to get to one's feet",
+      "to stand on end (e.g. of hairs)"
+    ],
+    "pick": "to stand (up)"
+  },
+  "たて": {
+    "kana": "たて",
+    "cand": [
+      "the vertical",
+      "height",
+      "front-to-back",
+      "length"
+    ],
+    "pick": "the vertical"
+  },
+  "建物": {
+    "kana": "たてもの",
+    "cand": [
+      "building"
+    ],
+    "pick": "building"
+  },
+  "楽しい": {
+    "kana": "たのしい",
+    "cand": [
+      "enjoyable",
+      "fun",
+      "pleasant",
+      "happy"
+    ],
+    "pick": "enjoyable"
+  },
+  "頼む": {
+    "kana": "たのむ",
+    "cand": [
+      "to request",
+      "to beg",
+      "to ask",
+      "to call"
+    ],
+    "pick": "to request"
+  },
+  "たばこ": {
+    "kana": "たばこ",
+    "cand": [
+      "tobacco",
+      "cigarette",
+      "cigar",
+      "tobacco plant (Nicotiana tabacum)"
+    ],
+    "pick": "tobacco"
+  },
+  "多分": {
+    "kana": "たぶん",
+    "cand": [
+      "probably",
+      "likely",
+      "perhaps",
+      "maybe"
+    ],
+    "pick": "probably"
+  },
+  "食べ物": {
+    "kana": "たべもの",
+    "cand": [
+      "food"
+    ],
+    "pick": "food"
+  },
+  "食べる": {
+    "kana": "たべる",
+    "cand": [
+      "to eat",
+      "to live on (e.g. a salary)",
+      "to live off",
+      "to subsist on"
+    ],
+    "pick": "to eat"
+  },
+  "卵": {
+    "kana": "たまご",
+    "cand": [
+      "eggs",
+      "egg",
+      "spawn",
+      "roe"
+    ],
+    "pick": "eggs"
+  },
+  "誰": {
+    "kana": "だれ",
+    "cand": [
+      "who"
+    ],
+    "pick": "who"
+  },
+  "誰か": {
+    "kana": "だれか",
+    "cand": [
+      "someone",
+      "somebody"
+    ],
+    "pick": "someone"
+  },
+  "誕生日": {
+    "kana": "たんじょうび",
+    "cand": [
+      "birthday"
+    ],
+    "pick": "birthday"
+  },
+  "段々": {
+    "kana": "だんだん",
+    "cand": [
+      "notches",
+      "serration",
+      "indentation",
+      "jaggies (stair-step artifacts in computer images)"
+    ],
+    "pick": "notches"
+  },
+  "小さい": {
+    "kana": "ちいさい",
+    "cand": [
+      "small",
+      "little",
+      "tiny",
+      "slight"
+    ],
+    "pick": "small"
+  },
+  "小さな": {
+    "kana": "ちいさな",
+    "cand": [
+      "small",
+      "little",
+      "tiny"
+    ],
+    "pick": "small"
+  },
+  "近い": {
+    "kana": "ちかい",
+    "cand": [
+      "near",
+      "close",
+      "short (distance)",
+      "close (in time)"
+    ],
+    "pick": "near"
+  },
+  "違う": {
+    "kana": "ちがう",
+    "cand": [
+      "to differ (from)",
+      "to be different",
+      "to be distinct",
+      "to be unlike"
+    ],
+    "pick": "to differ (from)"
+  },
+  "近く": {
+    "kana": "ちかく",
+    "cand": [
+      "near",
+      "neighbourhood",
+      "neighborhood",
+      "vicinity"
+    ],
+    "pick": "near"
+  },
+  "地下鉄": {
+    "kana": "ちかてつ",
+    "cand": [
+      "subway",
+      "metro",
+      "underground (railway)"
+    ],
+    "pick": "subway"
+  },
+  "地図": {
+    "kana": "ちず",
+    "cand": [
+      "map",
+      "atlas",
+      "chart",
+      "plan"
+    ],
+    "pick": "map"
+  },
+  "父": {
+    "kana": "ちち",
+    "cand": [
+      "father"
+    ],
+    "pick": "father"
+  },
+  "茶色": {
+    "kana": "ちゃいろ",
+    "cand": [
+      "brown",
+      "light brown",
+      "tawny"
+    ],
+    "pick": "brown"
+  },
+  "茶碗": {
+    "kana": "ちゃわん",
+    "cand": [
+      "rice bowl",
+      "tea cup",
+      "teacup"
+    ],
+    "pick": "rice bowl"
+  },
+  "丁度": {
+    "kana": "ちょうど",
+    "cand": [
+      "exactly",
+      "precisely",
+      "just",
+      "right"
+    ],
+    "pick": "exactly"
+  },
+  "ちょっと": {
+    "kana": "ちょっと",
+    "cand": [
+      "a little",
+      "a bit",
+      "slightly",
+      "just a minute"
+    ],
+    "pick": "a little"
+  },
+  "使う": {
+    "kana": "つかう",
+    "cand": [
+      "to use (a tool, method, etc.)",
+      "to make use of",
+      "to put to use",
+      "to use (a person, animal, puppet, etc.)"
+    ],
+    "pick": "to use (a tool, method, etc.)"
+  },
+  "疲れる": {
+    "kana": "つかれる",
+    "cand": [
+      "to get tired",
+      "to tire",
+      "to get fatigued",
+      "to become exhausted"
+    ],
+    "pick": "to get tired"
+  },
+  "次": {
+    "kana": "つぎ",
+    "cand": [
+      "next",
+      "following",
+      "subsequent",
+      "stage"
+    ],
+    "pick": "next"
+  },
+  "着く": {
+    "kana": "つく",
+    "cand": [
+      "to arrive at",
+      "to reach",
+      "to sit on",
+      "to sit at (e.g. the table)"
+    ],
+    "pick": "to arrive at"
+  },
+  "机": {
+    "kana": "つくえ",
+    "cand": [
+      "desk"
+    ],
+    "pick": "desk"
+  },
+  "作る": {
+    "kana": "つくる",
+    "cand": [
+      "to make",
+      "to produce",
+      "to manufacture",
+      "to build"
+    ],
+    "pick": "to make"
+  },
+  "つける": {
+    "kana": "つける",
+    "cand": [
+      "to soak (in)",
+      "to steep",
+      "to dip",
+      "to dunk"
+    ],
+    "pick": "to soak (in)"
+  },
+  "勤める": {
+    "kana": "つとめる",
+    "cand": [
+      "to work (for)",
+      "to be employed (at)",
+      "to serve (in)",
+      "to serve (as)"
+    ],
+    "pick": "to work (for)"
+  },
+  "つまらない": {
+    "kana": "つまらない",
+    "cand": [
+      "dull",
+      "uninteresting",
+      "boring",
+      "tedious"
+    ],
+    "pick": "dull"
+  },
+  "冷たい": {
+    "kana": "つめたい",
+    "cand": [
+      "cold (to the touch)",
+      "chilly",
+      "icy",
+      "freezing"
+    ],
+    "pick": "cold (to the touch)"
+  },
+  "強い": {
+    "kana": "つよい",
+    "cand": [
+      "strong",
+      "potent",
+      "competent",
+      "domineering"
+    ],
+    "pick": "strong"
+  },
+  "手": {
+    "kana": "て",
+    "cand": [
+      "hand",
+      "arm",
+      "forepaw",
+      "foreleg"
+    ],
+    "pick": "hand"
+  },
+  "テープ": {
+    "kana": "テープ",
+    "cand": [
+      "tape"
+    ],
+    "pick": "tape"
+  },
+  "テーブル": {
+    "kana": "テーブル",
+    "cand": [
+      "table"
+    ],
+    "pick": "table"
+  },
+  "出かける": {
+    "kana": "でかける",
+    "cand": [
+      "to go out (e.g. on an excursion or outing)",
+      "to leave",
+      "to depart",
+      "to start"
+    ],
+    "pick": "to go out (e.g. on an excursion or outing)"
+  },
+  "手紙": {
+    "kana": "てがみ",
+    "cand": [
+      "letter",
+      "note"
+    ],
+    "pick": "letter"
+  },
+  "できる": {
+    "kana": "できる",
+    "cand": [
+      "to be able to do",
+      "to be possible",
+      "to be permitted (to do)",
+      "to be good at"
+    ],
+    "pick": "to be able to do"
+  },
+  "出口": {
+    "kana": "でぐち",
+    "cand": [
+      "exit",
+      "way out",
+      "outlet",
+      "vent"
+    ],
+    "pick": "exit"
+  },
+  "テスト": {
+    "kana": "テスト",
+    "cand": [
+      "test (of ability, knowledge, etc.)",
+      "exam",
+      "examination",
+      "quiz"
+    ],
+    "pick": "test (of ability, knowledge, etc.)"
+  },
+  "では": {
+    "kana": "では",
+    "cand": [
+      "then",
+      "well",
+      "so",
+      "well then"
+    ],
+    "pick": "then"
+  },
+  "デパート": {
+    "kana": "デパート",
+    "cand": [
+      "department store",
+      "department"
+    ],
+    "pick": "department store"
+  },
+  "でも": {
+    "kana": "でも",
+    "cand": [
+      "but",
+      "however",
+      "though",
+      "nevertheless"
+    ],
+    "pick": "but"
+  },
+  "出る": {
+    "kana": "でる",
+    "cand": [
+      "to leave",
+      "to exit",
+      "to go out",
+      "to come out"
+    ],
+    "pick": "to leave"
+  },
+  "テレビ": {
+    "kana": "テレビ",
+    "cand": [
+      "television",
+      "TV",
+      "TV program",
+      "TV programme"
+    ],
+    "pick": "television"
+  },
+  "天気": {
+    "kana": "てんき",
+    "cand": [
+      "weather",
+      "fair weather",
+      "fine weather"
+    ],
+    "pick": "weather"
+  },
+  "電気": {
+    "kana": "でんき",
+    "cand": [
+      "electricity",
+      "(electric) light"
+    ],
+    "pick": "electricity"
+  },
+  "電車": {
+    "kana": "でんしゃ",
+    "cand": [
+      "train",
+      "electric train"
+    ],
+    "pick": "train"
+  },
+  "電話": {
+    "kana": "でんわ",
+    "cand": [
+      "telephone call",
+      "phone call",
+      "telephone (device)",
+      "phone"
+    ],
+    "pick": "telephone call"
+  },
+  "戸": {
+    "kana": "と",
+    "cand": [
+      "door (esp. Japanese-style)",
+      "shutter",
+      "window shutter",
+      "entrance (to a home)"
+    ],
+    "pick": "door (esp. Japanese-style)"
+  },
+  "ドア": {
+    "kana": "ドア",
+    "cand": [
+      "door"
+    ],
+    "pick": "door"
+  },
+  "トイレ": {
+    "kana": "トイレ",
+    "cand": [
+      "toilet",
+      "restroom",
+      "bathroom",
+      "lavatory"
+    ],
+    "pick": "toilet"
+  },
+  "どう": {
+    "kana": "どう",
+    "cand": [
+      "how",
+      "in what way",
+      "how about",
+      "motion"
+    ],
+    "pick": "how"
+  },
+  "どうして": {
+    "kana": "どうして",
+    "cand": [
+      "how",
+      "in what way",
+      "by what means",
+      "why"
+    ],
+    "pick": "how"
+  },
+  "どうぞ": {
+    "kana": "どうぞ",
+    "cand": [
+      "please",
+      "kindly",
+      "pray",
+      "I beg (of you)"
+    ],
+    "pick": "please"
+  },
+  "動物": {
+    "kana": "どうぶつ",
+    "cand": [
+      "animal"
+    ],
+    "pick": "animal"
+  },
+  "どうも": {
+    "kana": "どうも",
+    "cand": [
+      "thank you",
+      "thanks",
+      "much (thanks)",
+      "very (sorry)"
+    ],
+    "pick": "thank you"
+  },
+  "遠い": {
+    "kana": "とおい",
+    "cand": [
+      "far",
+      "distant",
+      "far away",
+      "a long way off"
+    ],
+    "pick": "far"
+  },
+  "十日": {
+    "kana": "とおか",
+    "cand": [
+      "10th day of the month",
+      "ten days"
+    ],
+    "pick": "10th day of the month"
+  },
+  "時々": {
+    "kana": "ときどき",
+    "cand": [
+      "sometimes",
+      "occasionally",
+      "at times",
+      "from time to time"
+    ],
+    "pick": "sometimes"
+  },
+  "時計": {
+    "kana": "とけい",
+    "cand": [
+      "clock",
+      "watch",
+      "timepiece"
+    ],
+    "pick": "clock"
+  },
+  "どこ": {
+    "kana": "どこ",
+    "cand": [
+      "where",
+      "what place",
+      "how much (long, far)",
+      "what extent"
+    ],
+    "pick": "where"
+  },
+  "所": {
+    "kana": "ところ",
+    "cand": [
+      "place",
+      "spot",
+      "scene",
+      "site"
+    ],
+    "pick": "place"
+  },
+  "年": {
+    "kana": "とし",
+    "cand": [
+      "year",
+      "age",
+      "years",
+      "past one's prime"
+    ],
+    "pick": "year"
+  },
+  "図書館": {
+    "kana": "としょかん",
+    "cand": [
+      "library"
+    ],
+    "pick": "library"
+  },
+  "どちら": {
+    "kana": "どちら",
+    "cand": [
+      "which way",
+      "which direction",
+      "where",
+      "which one (esp. of two alternatives)"
+    ],
+    "pick": "which way"
+  },
+  "どっち": {
+    "kana": "どっち",
+    "cand": [
+      "which way",
+      "which direction",
+      "where",
+      "which one (esp. of two alternatives)"
+    ],
+    "pick": "which way"
+  },
+  "とても": {
+    "kana": "とても",
+    "cand": [
+      "very",
+      "awfully",
+      "exceedingly",
+      "(not) at all"
+    ],
+    "pick": "very"
+  },
+  "どなた": {
+    "kana": "どなた",
+    "cand": [
+      "who"
+    ],
+    "pick": "who"
+  },
+  "隣": {
+    "kana": "となり",
+    "cand": [
+      "next (to)",
+      "adjoining",
+      "adjacent",
+      "house next door"
+    ],
+    "pick": "next (to)"
+  },
+  "どの": {
+    "kana": "どの",
+    "cand": [
+      "Mr.",
+      "Mrs.",
+      "Miss",
+      "Ms."
+    ],
+    "pick": "Mr."
+  },
+  "飛ぶ": {
+    "kana": "とぶ",
+    "cand": [
+      "to fly",
+      "to soar",
+      "to jump",
+      "to leap"
+    ],
+    "pick": "to fly"
+  },
+  "止まる": {
+    "kana": "とまる",
+    "cand": [
+      "to stop (moving)",
+      "to come to a stop",
+      "to stop (doing, working, being supplied)",
+      "to come to a halt"
+    ],
+    "pick": "to stop (moving)"
+  },
+  "友達": {
+    "kana": "ともだち",
+    "cand": [
+      "friend",
+      "companion"
+    ],
+    "pick": "friend"
+  },
+  "土曜日": {
+    "kana": "どようび",
+    "cand": [
+      "Saturday"
+    ],
+    "pick": "Saturday"
+  },
+  "鳥": {
+    "kana": "とり",
+    "cand": [
+      "bird",
+      "bird meat (esp. chicken meat)",
+      "fowl",
+      "poultry"
+    ],
+    "pick": "bird"
+  },
+  "鶏肉": {
+    "kana": "とりにく",
+    "cand": [
+      "chicken meat",
+      "fowl",
+      "poultry",
+      "bird meat"
+    ],
+    "pick": "chicken meat"
+  },
+  "取る": {
+    "kana": "とる",
+    "cand": [
+      "to take",
+      "to pick up",
+      "to grab",
+      "to catch"
+    ],
+    "pick": "to take"
+  },
+  "撮る": {
+    "kana": "とる",
+    "cand": [
+      "to take (a photograph)",
+      "to record (audio or video)",
+      "to film",
+      "to shoot"
+    ],
+    "pick": "to take (a photograph)"
+  },
+  "どれ": {
+    "kana": "どれ",
+    "cand": [
+      "which (of three or more)",
+      "well",
+      "now",
+      "c'mon"
+    ],
+    "pick": "which (of three or more)"
+  },
+  "どんな": {
+    "kana": "どんな",
+    "cand": [
+      "what kind of",
+      "what sort of",
+      "what",
+      "no matter what (kind of)"
+    ],
+    "pick": "what kind of"
+  },
+  "ない": {
+    "kana": "ない",
+    "cand": [
+      "nonexistent",
+      "not being (there)",
+      "unowned",
+      "not had"
+    ],
+    "pick": "nonexistent"
+  },
+  "ナイフ": {
+    "kana": "ナイフ",
+    "cand": [
+      "knife"
+    ],
+    "pick": "knife"
+  },
+  "中": {
+    "kana": "なか",
+    "cand": [
+      "inside",
+      "interior",
+      "among",
+      "within"
+    ],
+    "pick": "inside"
+  },
+  "長い": {
+    "kana": "ながい",
+    "cand": [
+      "long (distance, length)",
+      "long (time)",
+      "protracted",
+      "prolonged"
+    ],
+    "pick": "long (distance, length)"
+  },
+  "鳴く": {
+    "kana": "なく",
+    "cand": [
+      "to make sound (of an animal)",
+      "to call",
+      "to cry",
+      "to whine"
+    ],
+    "pick": "to make sound (of an animal)"
+  },
+  "無くす": {
+    "kana": "なくす",
+    "cand": [
+      "to lose (something)",
+      "to get rid of",
+      "to eliminate",
+      "to remove"
+    ],
+    "pick": "to lose (something)"
+  },
+  "なぜ": {
+    "kana": "なぜ",
+    "cand": [
+      "why",
+      "how",
+      "for what reason"
+    ],
+    "pick": "why"
+  },
+  "夏": {
+    "kana": "なつ",
+    "cand": [
+      "summer"
+    ],
+    "pick": "summer"
+  },
+  "夏休み": {
+    "kana": "なつやすみ",
+    "cand": [
+      "summer vacation",
+      "summer holiday"
+    ],
+    "pick": "summer vacation"
+  },
+  "七つ": {
+    "kana": "ななつ",
+    "cand": [
+      "seven",
+      "seven years of age",
+      "four o'clock (old time system)"
+    ],
+    "pick": "seven"
+  },
+  "何": {
+    "kana": "なん; なに",
+    "cand": [
+      "what",
+      "you-know-what",
+      "that thing",
+      "whatsit"
+    ],
+    "pick": "what"
+  },
+  "七日": {
+    "kana": "なのか",
+    "cand": [
+      "7th day of the month",
+      "seven days"
+    ],
+    "pick": "7th day of the month"
+  },
+  "名前": {
+    "kana": "なまえ",
+    "cand": [
+      "name",
+      "given name",
+      "first name"
+    ],
+    "pick": "name"
+  },
+  "習う": {
+    "kana": "ならう",
+    "cand": [
+      "to take lessons in",
+      "to be taught",
+      "to learn (from a teacher)",
+      "to study (under a teacher)"
+    ],
+    "pick": "to take lessons in"
+  },
+  "並ぶ": {
+    "kana": "ならぶ",
+    "cand": [
+      "to line up",
+      "to stand in a line",
+      "to rival",
+      "to match"
+    ],
+    "pick": "to line up"
+  },
+  "並べる": {
+    "kana": "ならべる",
+    "cand": [
+      "to line up",
+      "to set up",
+      "to arrange in a line",
+      "to enumerate"
+    ],
+    "pick": "to line up"
+  },
+  "なる": {
+    "kana": "なる",
+    "cand": [
+      "to become",
+      "to get",
+      "to grow",
+      "to turn"
+    ],
+    "pick": "to become"
+  },
+  "二": {
+    "kana": "に",
+    "cand": [
+      "two",
+      "2"
+    ],
+    "pick": "two"
+  },
+  "にぎやか": {
+    "kana": "にぎやか",
+    "cand": [
+      "bustling",
+      "busy",
+      "crowded",
+      "lively"
+    ],
+    "pick": "bustling"
+  },
+  "肉": {
+    "kana": "にく",
+    "cand": [
+      "flesh",
+      "meat",
+      "flesh (of a fruit)",
+      "pulp"
+    ],
+    "pick": "flesh"
+  },
+  "西": {
+    "kana": "にし",
+    "cand": [
+      "west"
+    ],
+    "pick": "west"
+  },
+  "日曜日": {
+    "kana": "にちようび",
+    "cand": [
+      "Sunday"
+    ],
+    "pick": "Sunday"
+  },
+  "荷物": {
+    "kana": "にもつ",
+    "cand": [
+      "luggage",
+      "baggage",
+      "package",
+      "burden"
+    ],
+    "pick": "luggage"
+  },
+  "ニュース": {
+    "kana": "ニュース",
+    "cand": [
+      "news"
+    ],
+    "pick": "news"
+  },
+  "庭": {
+    "kana": "にわ",
+    "cand": [
+      "garden",
+      "yard",
+      "courtyard",
+      "field (of action)"
+    ],
+    "pick": "garden"
+  },
+  "脱ぐ": {
+    "kana": "ぬぐ",
+    "cand": [
+      "to take off (clothes, shoes, etc.)",
+      "to undress"
+    ],
+    "pick": "to take off (clothes, shoes, etc.)"
+  },
+  "温い": {
+    "kana": "ぬるい",
+    "cand": [
+      "lukewarm",
+      "tepid",
+      "lenient"
+    ],
+    "pick": "lukewarm"
+  },
+  "ネクタイ": {
+    "kana": "ネクタイ",
+    "cand": [
+      "tie",
+      "necktie"
+    ],
+    "pick": "tie"
+  },
+  "猫": {
+    "kana": "ねこ",
+    "cand": [
+      "cat (esp. the domestic cat, Felis catus)",
+      "feline",
+      "shamisen",
+      "geisha"
+    ],
+    "pick": "cat (esp. the domestic cat, Felis catus)"
+  },
+  "寝る": {
+    "kana": "ねる",
+    "cand": [
+      "to sleep (lying down)",
+      "to go to bed",
+      "to lie in bed",
+      "to lie down"
+    ],
+    "pick": "to sleep (lying down)"
+  },
+  "ノート": {
+    "kana": "ノート",
+    "cand": [
+      "notebook",
+      "copy-book",
+      "exercise book",
+      "note"
+    ],
+    "pick": "notebook"
+  },
+  "登る": {
+    "kana": "のぼる",
+    "cand": [
+      "to ascend",
+      "to go up",
+      "to climb",
+      "to ascend (as a natural process, e.g. the Sun)"
+    ],
+    "pick": "to ascend"
+  },
+  "飲み物": {
+    "kana": "のみもの",
+    "cand": [
+      "drink",
+      "beverage"
+    ],
+    "pick": "drink"
+  },
+  "飲む": {
+    "kana": "のむ",
+    "cand": [
+      "to drink",
+      "to swallow",
+      "to take (medicine)",
+      "to smoke (tobacco)"
+    ],
+    "pick": "to drink"
+  },
+  "乗る": {
+    "kana": "のる",
+    "cand": [
+      "to get on (train, plane, bus, ship, etc.)",
+      "to get in",
+      "to board",
+      "to take"
+    ],
+    "pick": "to get on (train, plane, bus, ship, etc.)"
+  },
+  "歯": {
+    "kana": "は",
+    "cand": [
+      "tooth",
+      "teeth",
+      "tooth (of a comb, saw, etc.)",
+      "cog"
+    ],
+    "pick": "tooth"
+  },
+  "パーティー": {
+    "kana": "パーティー",
+    "cand": [
+      "party (social gathering)",
+      "party (group of people participating in an activity, esp. mountain climbing)",
+      "(political) party"
+    ],
+    "pick": "party (social gathering)"
+  },
+  "はい": {
+    "kana": "はい",
+    "cand": [
+      "yes",
+      "that is correct",
+      "understood",
+      "I see"
+    ],
+    "pick": "yes"
+  },
+  "灰皿": {
+    "kana": "はいざら",
+    "cand": [
+      "ashtray"
+    ],
+    "pick": "ashtray"
+  },
+  "入る": {
+    "kana": "はいる",
+    "cand": [
+      "to enter",
+      "to go in",
+      "to get in",
+      "to come in"
+    ],
+    "pick": "to enter"
+  },
+  "葉書": {
+    "kana": "はがき",
+    "cand": [
+      "postcard",
+      "memo",
+      "note",
+      "card"
+    ],
+    "pick": "postcard"
+  },
+  "はく": {
+    "kana": "はく",
+    "cand": [
+      "to sweep",
+      "to brush",
+      "to clean",
+      "to gather silkworms"
+    ],
+    "pick": "to sweep"
+  },
+  "箱": {
+    "kana": "はこ",
+    "cand": [
+      "box",
+      "case",
+      "chest",
+      "package"
+    ],
+    "pick": "box"
+  },
+  "橋": {
+    "kana": "はし",
+    "cand": [
+      "bridge"
+    ],
+    "pick": "bridge"
+  },
+  "箸": {
+    "kana": "はし",
+    "cand": [
+      "chopsticks"
+    ],
+    "pick": "chopsticks"
+  },
+  "始まる": {
+    "kana": "はじまる",
+    "cand": [
+      "to begin",
+      "to start",
+      "to commence",
+      "to happen (again)"
+    ],
+    "pick": "to begin"
+  },
+  "初め; 始め": {
+    "kana": "はじめ",
+    "cand": [
+      "beginning",
+      "start",
+      "outset",
+      "opening"
+    ],
+    "pick": "beginning"
+  },
+  "初めて": {
+    "kana": "はじめて",
+    "cand": [
+      "for the first time",
+      "only after ... is it ...",
+      "only when ... do you ...",
+      "not until ... do you ..."
+    ],
+    "pick": "for the first time"
+  },
+  "走る": {
+    "kana": "はしる",
+    "cand": [
+      "to run",
+      "to run (of a vehicle)",
+      "to drive",
+      "to travel"
+    ],
+    "pick": "to run"
+  },
+  "バス": {
+    "kana": "バス",
+    "cand": [
+      "bus"
+    ],
+    "pick": "bus"
+  },
+  "バター": {
+    "kana": "バター",
+    "cand": [
+      "butter"
+    ],
+    "pick": "butter"
+  },
+  "二十歳": {
+    "kana": "はたち",
+    "cand": [
+      "20 years old",
+      "twenty"
+    ],
+    "pick": "20 years old"
+  },
+  "働く": {
+    "kana": "はたらく",
+    "cand": [
+      "to work",
+      "to labor",
+      "to labour",
+      "to function"
+    ],
+    "pick": "to work"
+  },
+  "八": {
+    "kana": "はち",
+    "cand": [
+      "eight",
+      "8"
+    ],
+    "pick": "eight"
+  },
+  "二十日": {
+    "kana": "はつか",
+    "cand": [
+      "20th day of the month",
+      "20 days"
+    ],
+    "pick": "20th day of the month"
+  },
+  "花": {
+    "kana": "はな",
+    "cand": [
+      "flower",
+      "blossom",
+      "bloom",
+      "petal"
+    ],
+    "pick": "flower"
+  },
+  "鼻": {
+    "kana": "はな",
+    "cand": [
+      "nose"
+    ],
+    "pick": "nose"
+  },
+  "話": {
+    "kana": "はなし",
+    "cand": [
+      "talk",
+      "speech",
+      "chat",
+      "conversation"
+    ],
+    "pick": "talk"
+  },
+  "話す": {
+    "kana": "はなす",
+    "cand": [
+      "to talk",
+      "to speak",
+      "to converse",
+      "to chat"
+    ],
+    "pick": "to talk"
+  },
+  "母": {
+    "kana": "はは",
+    "cand": [
+      "mother"
+    ],
+    "pick": "mother"
+  },
+  "早い": {
+    "kana": "はやい",
+    "cand": [
+      "fast",
+      "quick",
+      "rapid",
+      "swift"
+    ],
+    "pick": "fast"
+  },
+  "速い": {
+    "kana": "はやい",
+    "cand": [
+      "fast",
+      "quick",
+      "rapid",
+      "swift"
+    ],
+    "pick": "fast"
+  },
+  "春": {
+    "kana": "はる",
+    "cand": [
+      "spring",
+      "springtime",
+      "New Year",
+      "prime (of life)"
+    ],
+    "pick": "spring"
+  },
+  "貼る": {
+    "kana": "はる",
+    "cand": [
+      "to stick",
+      "to paste",
+      "to affix",
+      "to stretch"
+    ],
+    "pick": "to stick"
+  },
+  "晴れ": {
+    "kana": "はれ",
+    "cand": [
+      "clear weather",
+      "fine weather",
+      "formal",
+      "ceremonial"
+    ],
+    "pick": "clear weather"
+  },
+  "晴れる": {
+    "kana": "はれる",
+    "cand": [
+      "to clear up",
+      "to clear away",
+      "to be sunny",
+      "to stop raining"
+    ],
+    "pick": "to clear up"
+  },
+  "半": {
+    "kana": "はん",
+    "cand": [
+      "half",
+      "semi-",
+      "partial",
+      "half-past"
+    ],
+    "pick": "half"
+  },
+  "晩": {
+    "kana": "ばん",
+    "cand": [
+      "evening",
+      "night",
+      "dinner",
+      "evening meal"
+    ],
+    "pick": "evening"
+  },
+  "パン": {
+    "kana": "パン",
+    "cand": [
+      "bread",
+      "(sweet) pastry",
+      "staff of life",
+      "one's bread"
+    ],
+    "pick": "bread"
+  },
+  "ハンカチ": {
+    "kana": "ハンカチ",
+    "cand": [
+      "handkerchief"
+    ],
+    "pick": "handkerchief"
+  },
+  "番号": {
+    "kana": "ばんごう",
+    "cand": [
+      "number",
+      "series of digits"
+    ],
+    "pick": "number"
+  },
+  "晩御飯": {
+    "kana": "ばんごはん",
+    "cand": [
+      "dinner",
+      "evening meal"
+    ],
+    "pick": "dinner"
+  },
+  "半分": {
+    "kana": "はんぶん",
+    "cand": [
+      "half"
+    ],
+    "pick": "half"
+  },
+  "東": {
+    "kana": "ひがし",
+    "cand": [
+      "east"
+    ],
+    "pick": "east"
+  },
+  "引く": {
+    "kana": "ひく",
+    "cand": [
+      "to pull",
+      "to tug",
+      "to lead (e.g. a horse)",
+      "to draw (attention, sympathy, etc.)"
+    ],
+    "pick": "to pull"
+  },
+  "弾く": {
+    "kana": "ひく",
+    "cand": [
+      "to flip",
+      "to snap",
+      "to flick",
+      "to repel"
+    ],
+    "pick": "to flip"
+  },
+  "低い": {
+    "kana": "ひくい",
+    "cand": [
+      "low (rank, degree, value, content, quality, etc.)",
+      "low (position)",
+      "close to the ground",
+      "short (height)"
+    ],
+    "pick": "low (rank, degree, value, content, quality, etc.)"
+  },
+  "飛行機": {
+    "kana": "ひこうき",
+    "cand": [
+      "airplane",
+      "aeroplane",
+      "plane",
+      "aircraft"
+    ],
+    "pick": "airplane"
+  },
+  "左": {
+    "kana": "ひだり",
+    "cand": [
+      "left",
+      "left-hand side",
+      "left hand",
+      "the left (wing)"
+    ],
+    "pick": "left"
+  },
+  "人": {
+    "kana": "ひと",
+    "cand": [
+      "-ian (e.g. Italian)",
+      "-ite (e.g. Tokyoite)",
+      "-er (e.g. performer, etc.)",
+      "person working with ..."
+    ],
+    "pick": "-ian (e.g. Italian)"
+  },
+  "一つ": {
+    "kana": "ひとつ",
+    "cand": [
+      "one",
+      "for one thing",
+      "only",
+      "(not) even"
+    ],
+    "pick": "one"
+  },
+  "一月": {
+    "kana": "ひとつき",
+    "cand": [
+      "January",
+      "first month of the lunar calendar",
+      "one month"
+    ],
+    "pick": "January"
+  },
+  "一人": {
+    "kana": "ひとり",
+    "cand": [
+      "one person",
+      "being alone",
+      "being by oneself",
+      "being single"
+    ],
+    "pick": "one person"
+  },
+  "暇": {
+    "kana": "ひま",
+    "cand": [
+      "spare time",
+      "free time",
+      "leisure",
+      "time (it takes to do something)"
+    ],
+    "pick": "spare time"
+  },
+  "百": {
+    "kana": "ひゃく",
+    "cand": [
+      "hundred",
+      "100"
+    ],
+    "pick": "hundred"
+  },
+  "病院": {
+    "kana": "びょういん",
+    "cand": [
+      "hospital",
+      "clinic",
+      "doctor's office",
+      "doctor's surgery"
+    ],
+    "pick": "hospital"
+  },
+  "病気": {
+    "kana": "びょうき",
+    "cand": [
+      "illness (usu. excluding minor ailments, e.g. common cold)",
+      "disease",
+      "sickness",
+      "bad habit"
+    ],
+    "pick": "illness (usu. excluding minor ailments, e.g. common cold)"
+  },
+  "平仮名": {
+    "kana": "ひらがな",
+    "cand": [
+      "hiragana",
+      "cursive Japanese syllabary used primarily for native Japanese words (esp. function words, inflections, etc.)"
+    ],
+    "pick": "hiragana"
+  },
+  "昼": {
+    "kana": "ひる",
+    "cand": [
+      "noon",
+      "midday",
+      "daytime",
+      "lunch"
+    ],
+    "pick": "noon"
+  },
+  "昼御飯": {
+    "kana": "ひるごはん",
+    "cand": [
+      "lunch",
+      "midday meal"
+    ],
+    "pick": "lunch"
+  },
+  "広い": {
+    "kana": "ひろい",
+    "cand": [
+      "spacious",
+      "vast",
+      "wide"
+    ],
+    "pick": "spacious"
+  },
+  "フィルム": {
+    "kana": "フィルム",
+    "cand": [
+      "film"
+    ],
+    "pick": "film"
+  },
+  "封筒": {
+    "kana": "ふうとう",
+    "cand": [
+      "envelope"
+    ],
+    "pick": "envelope"
+  },
+  "プール": {
+    "kana": "プール",
+    "cand": [
+      "(swimming) pool",
+      "pool (cue sport)",
+      "pooling (money, resources, etc.)",
+      "pool (price ring)"
+    ],
+    "pick": "(swimming) pool"
+  },
+  "フォーク": {
+    "kana": "フォーク",
+    "cand": [
+      "fork",
+      "forkball"
+    ],
+    "pick": "fork"
+  },
+  "吹く": {
+    "kana": "ふく",
+    "cand": [
+      "to blow (of the wind)",
+      "to blow (one's breath)",
+      "to breathe out",
+      "to blow on (hot tea, candles, etc.)"
+    ],
+    "pick": "to blow (of the wind)"
+  },
+  "服": {
+    "kana": "ふく",
+    "cand": [
+      "clothes (esp. Western clothes)",
+      "clothing",
+      "dress",
+      "costume"
+    ],
+    "pick": "clothes (esp. Western clothes)"
+  },
+  "二つ": {
+    "kana": "ふたつ",
+    "cand": [
+      "two"
+    ],
+    "pick": "two"
+  },
+  "豚肉": {
+    "kana": "ぶたにく",
+    "cand": [
+      "pork"
+    ],
+    "pick": "pork"
+  },
+  "二人": {
+    "kana": "ふたり",
+    "cand": [
+      "two persons",
+      "two people",
+      "pair",
+      "couple"
+    ],
+    "pick": "two persons"
+  },
+  "二日": {
+    "kana": "ふつか",
+    "cand": [
+      "2nd day of the month",
+      "two days"
+    ],
+    "pick": "2nd day of the month"
+  },
+  "太い": {
+    "kana": "ふとい",
+    "cand": [
+      "fat",
+      "thick",
+      "deep (of a voice)",
+      "sonorous"
+    ],
+    "pick": "fat"
+  },
+  "冬": {
+    "kana": "ふゆ",
+    "cand": [
+      "winter"
+    ],
+    "pick": "winter"
+  },
+  "降る": {
+    "kana": "ふる",
+    "cand": [
+      "to descend",
+      "to go down",
+      "to come down",
+      "to be handed down (of an order, judgment, etc.)"
+    ],
+    "pick": "to descend"
+  },
+  "古い": {
+    "kana": "ふるい",
+    "cand": [
+      "old",
+      "aged",
+      "ancient",
+      "antiquated"
+    ],
+    "pick": "old"
+  },
+  "文章": {
+    "kana": "ぶんしょう",
+    "cand": [
+      "writing",
+      "composition",
+      "essay",
+      "article"
+    ],
+    "pick": "writing"
+  },
+  "ページ": {
+    "kana": "ページ",
+    "cand": [
+      "page",
+      "nth page",
+      "page ..."
+    ],
+    "pick": "page"
+  },
+  "下手": {
+    "kana": "へた",
+    "cand": [
+      "humble position",
+      "inferior",
+      "underarm grip on opponent's belt",
+      "unskillful"
+    ],
+    "pick": "humble position"
+  },
+  "ベッド": {
+    "kana": "ベッド",
+    "cand": [
+      "bed"
+    ],
+    "pick": "bed"
+  },
+  "ペット": {
+    "kana": "ペット",
+    "cand": [
+      "pet",
+      "trumpet"
+    ],
+    "pick": "pet"
+  },
+  "部屋": {
+    "kana": "へや",
+    "cand": [
+      "room",
+      "chamber",
+      "apartment",
+      "flat"
+    ],
+    "pick": "room"
+  },
+  "辺": {
+    "kana": "へん",
+    "cand": [
+      "area",
+      "vicinity",
+      "region",
+      "side"
+    ],
+    "pick": "area"
+  },
+  "ペン": {
+    "kana": "ペン",
+    "cand": [
+      "pen"
+    ],
+    "pick": "pen"
+  },
+  "勉強": {
+    "kana": "べんきょう (する)",
+    "cand": [
+      "study",
+      "diligence",
+      "working hard",
+      "experience"
+    ],
+    "pick": "study"
+  },
+  "便利": {
+    "kana": "べんり",
+    "cand": [
+      "convenient",
+      "handy",
+      "useful"
+    ],
+    "pick": "convenient"
+  },
+  "帽子": {
+    "kana": "ぼうし",
+    "cand": [
+      "hat",
+      "cap",
+      "cap (move)"
+    ],
+    "pick": "hat"
+  },
+  "ボールペン": {
+    "kana": "ボールペン",
+    "cand": [
+      "ball-point pen"
+    ],
+    "pick": "ball-point pen"
+  },
+  "ポケット": {
+    "kana": "ポケット",
+    "cand": [
+      "pocket"
+    ],
+    "pick": "pocket"
+  },
+  "欲しい": {
+    "kana": "ほしい",
+    "cand": [
+      "wanting (to have)",
+      "desiring",
+      "wishing for",
+      "I want (you, them, etc.) to (do)"
+    ],
+    "pick": "wanting (to have)"
+  },
+  "ポスト": {
+    "kana": "ポスト",
+    "cand": [
+      "postbox",
+      "mailbox",
+      "mail box",
+      "pillar box"
+    ],
+    "pick": "postbox"
+  },
+  "細い": {
+    "kana": "ほそい",
+    "cand": [
+      "thin",
+      "slender",
+      "fine",
+      "unlucky"
+    ],
+    "pick": "thin"
+  },
+  "ボタン": {
+    "kana": "ボタン",
+    "cand": [
+      "button (clothing)",
+      "push-button",
+      "button"
+    ],
+    "pick": "button (clothing)"
+  },
+  "ホテル": {
+    "kana": "ホテル",
+    "cand": [
+      "hotel"
+    ],
+    "pick": "hotel"
+  },
+  "本": {
+    "kana": "ほん",
+    "cand": [
+      "origin",
+      "source",
+      "beginning",
+      "basis"
+    ],
+    "pick": "origin"
+  },
+  "本棚": {
+    "kana": "ほんだな",
+    "cand": [
+      "bookshelves",
+      "bookshelf",
+      "bookcase"
+    ],
+    "pick": "bookshelves"
+  },
+  "本当": {
+    "kana": "ほんとう",
+    "cand": [
+      "truth",
+      "reality",
+      "actuality",
+      "fact"
+    ],
+    "pick": "truth"
+  },
+  "毎朝": {
+    "kana": "まいあさ",
+    "cand": [
+      "every morning"
+    ],
+    "pick": "every morning"
+  },
+  "毎月": {
+    "kana": "まいげつ; まいつき",
+    "cand": [
+      "every month",
+      "each month",
+      "monthly"
+    ],
+    "pick": "every month"
+  },
+  "毎週": {
+    "kana": "まいしゅう",
+    "cand": [
+      "every week"
+    ],
+    "pick": "every week"
+  },
+  "毎日": {
+    "kana": "まいにち",
+    "cand": [
+      "every day",
+      "daily"
+    ],
+    "pick": "every day"
+  },
+  "毎年": {
+    "kana": "まいねん; まいとし",
+    "cand": [
+      "every year",
+      "yearly",
+      "annually"
+    ],
+    "pick": "every year"
+  },
+  "毎晩": {
+    "kana": "まいばん",
+    "cand": [
+      "every night"
+    ],
+    "pick": "every night"
+  },
+  "前": {
+    "kana": "まえ",
+    "cand": [
+      "point",
+      "tip",
+      "end",
+      "nozzle"
+    ],
+    "pick": "point"
+  },
+  "曲る": {
+    "kana": "まがる",
+    "cand": [
+      "to bend",
+      "to curve",
+      "to warp",
+      "to wind"
+    ],
+    "pick": "to bend"
+  },
+  "まずい": {
+    "kana": "まずい",
+    "cand": [
+      "bad(-tasting)",
+      "unpalatable",
+      "unsavoury",
+      "unsavory"
+    ],
+    "pick": "bad(-tasting)"
+  },
+  "また": {
+    "kana": "また",
+    "cand": [
+      "groin",
+      "thigh",
+      "crotch",
+      "crutch"
+    ],
+    "pick": "groin"
+  },
+  "まだ": {
+    "kana": "まだ",
+    "cand": [
+      "still",
+      "as yet",
+      "only",
+      "(not) yet"
+    ],
+    "pick": "still"
+  },
+  "町": {
+    "kana": "まち",
+    "cand": [
+      "town",
+      "block",
+      "neighbourhood",
+      "neighborhood"
+    ],
+    "pick": "town"
+  },
+  "待つ": {
+    "kana": "まつ",
+    "cand": [
+      "to wait",
+      "to await",
+      "to look forward to",
+      "to anticipate"
+    ],
+    "pick": "to wait"
+  },
+  "まっすぐ": {
+    "kana": "まっすぐ",
+    "cand": [
+      "straight (ahead)",
+      "direct",
+      "upright",
+      "erect"
+    ],
+    "pick": "straight (ahead)"
+  },
+  "マッチ": {
+    "kana": "マッチ",
+    "cand": [
+      "match (for lighting a fire)"
+    ],
+    "pick": "match (for lighting a fire)"
+  },
+  "窓": {
+    "kana": "まど",
+    "cand": [
+      "window"
+    ],
+    "pick": "window"
+  },
+  "丸い; 円い": {
+    "kana": "まるい",
+    "cand": [
+      "round",
+      "circular",
+      "spherical",
+      "curved"
+    ],
+    "pick": "round"
+  },
+  "万": {
+    "kana": "まん",
+    "cand": [
+      "10,000",
+      "ten thousand",
+      "myriad",
+      "everything"
+    ],
+    "pick": "10,000"
+  },
+  "万年筆": {
+    "kana": "まんねんひつ",
+    "cand": [
+      "fountain pen"
+    ],
+    "pick": "fountain pen"
+  },
+  "磨く": {
+    "kana": "みがく",
+    "cand": [
+      "to polish",
+      "to shine",
+      "to burnish",
+      "to scour"
+    ],
+    "pick": "to polish"
+  },
+  "右": {
+    "kana": "みぎ",
+    "cand": [
+      "right",
+      "right-hand side",
+      "right hand",
+      "the above (in a piece of vertical writing)"
+    ],
+    "pick": "right"
+  },
+  "短い": {
+    "kana": "みじかい",
+    "cand": [
+      "short",
+      "brief"
+    ],
+    "pick": "short"
+  },
+  "水": {
+    "kana": "みず",
+    "cand": [
+      "water (esp. cool or cold)",
+      "fluid (esp. in an animal tissue)",
+      "liquid",
+      "flood"
+    ],
+    "pick": "water (esp. cool or cold)"
+  },
+  "店": {
+    "kana": "みせ",
+    "cand": [
+      "store",
+      "shop",
+      "establishment",
+      "restaurant"
+    ],
+    "pick": "store"
+  },
+  "見せる": {
+    "kana": "みせる",
+    "cand": [
+      "to show",
+      "to display",
+      "to make (something or someone) look ...",
+      "to present an appearance of ..."
+    ],
+    "pick": "to show"
+  },
+  "道": {
+    "kana": "みち",
+    "cand": [
+      "road",
+      "path",
+      "street",
+      "lane"
+    ],
+    "pick": "road"
+  },
+  "三日": {
+    "kana": "みっか",
+    "cand": [
+      "3rd day of the month",
+      "three days"
+    ],
+    "pick": "3rd day of the month"
+  },
+  "三つ": {
+    "kana": "みっつ",
+    "cand": [
+      "three",
+      "three years of age"
+    ],
+    "pick": "three"
+  },
+  "緑": {
+    "kana": "みどり",
+    "cand": [
+      "green",
+      "greenery",
+      "verdure"
+    ],
+    "pick": "green"
+  },
+  "皆さん": {
+    "kana": "みなさん",
+    "cand": [
+      "all",
+      "everyone",
+      "everybody"
+    ],
+    "pick": "all"
+  },
+  "南": {
+    "kana": "みなみ",
+    "cand": [
+      "south"
+    ],
+    "pick": "south"
+  },
+  "耳": {
+    "kana": "みみ",
+    "cand": [
+      "ear",
+      "hearing",
+      "ear (for music, etc.)",
+      "edge"
+    ],
+    "pick": "ear"
+  },
+  "見る": {
+    "kana": "みる",
+    "cand": [
+      "to see",
+      "to look",
+      "to watch",
+      "to view"
+    ],
+    "pick": "to see"
+  },
+  "みんな": {
+    "kana": "みんな",
+    "cand": [
+      "everyone",
+      "everybody",
+      "all",
+      "everything"
+    ],
+    "pick": "everyone"
+  },
+  "六日": {
+    "kana": "むいか",
+    "cand": [
+      "6th day of the month",
+      "six days"
+    ],
+    "pick": "6th day of the month"
+  },
+  "向こう": {
+    "kana": "むこう",
+    "cand": [
+      "opposite side",
+      "other side",
+      "over there",
+      "ahead"
+    ],
+    "pick": "opposite side"
+  },
+  "難しい": {
+    "kana": "むずかしい",
+    "cand": [
+      "difficult",
+      "hard",
+      "troublesome",
+      "complicated"
+    ],
+    "pick": "difficult"
+  },
+  "六つ": {
+    "kana": "むっつ",
+    "cand": [
+      "six",
+      "six years of age",
+      "six o'clock (old time system)"
+    ],
+    "pick": "six"
+  },
+  "村": {
+    "kana": "むら",
+    "cand": [
+      "village"
+    ],
+    "pick": "village"
+  },
+  "目": {
+    "kana": "め",
+    "cand": [
+      "eye",
+      "eyeball",
+      "eyesight",
+      "sight"
+    ],
+    "pick": "eye"
+  },
+  "メートル": {
+    "kana": "メートル",
+    "cand": [
+      "metre (unit of length)",
+      "meter",
+      "gauge"
+    ],
+    "pick": "metre (unit of length)"
+  },
+  "眼鏡": {
+    "kana": "めがね",
+    "cand": [
+      "glasses",
+      "eyeglasses",
+      "spectacles",
+      "judgment"
+    ],
+    "pick": "glasses"
+  },
+  "もう": {
+    "kana": "もう",
+    "cand": [
+      "already",
+      "yet",
+      "by now",
+      "now"
+    ],
+    "pick": "already"
+  },
+  "木曜日": {
+    "kana": "もくようび",
+    "cand": [
+      "Thursday"
+    ],
+    "pick": "Thursday"
+  },
+  "もしもし": {
+    "kana": "もしもし",
+    "cand": [
+      "hello (e.g. on phone)",
+      "excuse me! (when calling out to someone)"
+    ],
+    "pick": "hello (e.g. on phone)"
+  },
+  "持つ": {
+    "kana": "もつ",
+    "cand": [
+      "to hold (in one's hand)",
+      "to take",
+      "to carry",
+      "to possess"
+    ],
+    "pick": "to hold (in one's hand)"
+  },
+  "もっと": {
+    "kana": "もっと",
+    "cand": [
+      "(some) more",
+      "even more",
+      "longer",
+      "further"
+    ],
+    "pick": "(some) more"
+  },
+  "物": {
+    "kana": "もの",
+    "cand": [
+      "thing",
+      "object",
+      "article",
+      "stuff"
+    ],
+    "pick": "thing"
+  },
+  "門": {
+    "kana": "もん",
+    "cand": [
+      "door (esp. Japanese-style)",
+      "shutter",
+      "window shutter",
+      "entrance (to a home)"
+    ],
+    "pick": "door (esp. Japanese-style)"
+  },
+  "問題": {
+    "kana": "もんだい",
+    "cand": [
+      "question (e.g. on a test)",
+      "problem",
+      "problem (e.g. societal, political)",
+      "question"
+    ],
+    "pick": "question (e.g. on a test)"
+  },
+  "八百屋": {
+    "kana": "やおや",
+    "cand": [
+      "greengrocer",
+      "fruit and vegetable shop",
+      "jack of all trades"
+    ],
+    "pick": "greengrocer"
+  },
+  "野菜": {
+    "kana": "やさい",
+    "cand": [
+      "vegetable",
+      "marijuana",
+      "cannabis"
+    ],
+    "pick": "vegetable"
+  },
+  "易しい": {
+    "kana": "やさしい",
+    "cand": [
+      "easy",
+      "plain",
+      "simple"
+    ],
+    "pick": "easy"
+  },
+  "安い": {
+    "kana": "やすい",
+    "cand": [
+      "cheap",
+      "inexpensive",
+      "calm",
+      "peaceful"
+    ],
+    "pick": "cheap"
+  },
+  "休み": {
+    "kana": "やすみ",
+    "cand": [
+      "rest",
+      "recess",
+      "respite",
+      "vacation"
+    ],
+    "pick": "rest"
+  },
+  "休む": {
+    "kana": "やすむ",
+    "cand": [
+      "to be absent",
+      "to take a day off",
+      "to rest",
+      "to have a break"
+    ],
+    "pick": "to be absent"
+  },
+  "八つ": {
+    "kana": "やっつ",
+    "cand": [
+      "eight",
+      "eight years of age",
+      "two o'clock (old time system)"
+    ],
+    "pick": "eight"
+  },
+  "山": {
+    "kana": "やま",
+    "cand": [
+      "mountain",
+      "hill",
+      "mine",
+      "(mountain) forest"
+    ],
+    "pick": "mountain"
+  },
+  "やる": {
+    "kana": "やる",
+    "cand": [
+      "to do",
+      "to undertake",
+      "to perform",
+      "to play (a game)"
+    ],
+    "pick": "to do"
+  },
+  "夕方": {
+    "kana": "ゆうがた",
+    "cand": [
+      "early evening (usu. from 3pm to 6pm)",
+      "dusk"
+    ],
+    "pick": "early evening (usu. from 3pm to 6pm)"
+  },
+  "夕飯": {
+    "kana": "ゆうはん",
+    "cand": [
+      "evening meal",
+      "dinner",
+      "supper"
+    ],
+    "pick": "evening meal"
+  },
+  "郵便局": {
+    "kana": "ゆうびんきょく",
+    "cand": [
+      "post office"
+    ],
+    "pick": "post office"
+  },
+  "昨夜": {
+    "kana": "ゆうべ",
+    "cand": [
+      "last night",
+      "yesterday evening"
+    ],
+    "pick": "last night"
+  },
+  "有名": {
+    "kana": "ゆうめい",
+    "cand": [
+      "famous",
+      "well-known"
+    ],
+    "pick": "famous"
+  },
+  "雪": {
+    "kana": "ゆき",
+    "cand": [
+      "snow",
+      "snowfall"
+    ],
+    "pick": "snow"
+  },
+  "八日": {
+    "kana": "ようか",
+    "cand": [
+      "8th day of the month",
+      "eight days"
+    ],
+    "pick": "8th day of the month"
+  },
+  "洋服": {
+    "kana": "ようふく",
+    "cand": [
+      "Western-style clothes (cf. traditional Japanese clothes)"
+    ],
+    "pick": "Western-style clothes (cf. traditional Japanese clothes)"
+  },
+  "よく": {
+    "kana": "よく",
+    "cand": [
+      "greed",
+      "craving",
+      "desire",
+      "appetite"
+    ],
+    "pick": "greed"
+  },
+  "横": {
+    "kana": "よこ",
+    "cand": [
+      "horizontal (as opposed to vertical)",
+      "side-to-side (as opposed to front-to-back)",
+      "width",
+      "breadth"
+    ],
+    "pick": "horizontal (as opposed to vertical)"
+  },
+  "四日": {
+    "kana": "よっか",
+    "cand": [
+      "4th day of the month",
+      "four days"
+    ],
+    "pick": "4th day of the month"
+  },
+  "四つ": {
+    "kana": "よっつ",
+    "cand": [
+      "four",
+      "4",
+      "four years of age",
+      "ten o'clock (in the old time system)"
+    ],
+    "pick": "four"
+  },
+  "呼ぶ": {
+    "kana": "よぶ",
+    "cand": [
+      "to call out (to)",
+      "to call",
+      "to invoke",
+      "to summon (a doctor, etc.)"
+    ],
+    "pick": "to call out (to)"
+  },
+  "読む": {
+    "kana": "よむ",
+    "cand": [
+      "to read",
+      "to recite (e.g. a sutra)",
+      "to chant",
+      "to predict"
+    ],
+    "pick": "to read"
+  },
+  "夜": {
+    "kana": "よる",
+    "cand": [
+      "night",
+      "evening",
+      "dinner"
+    ],
+    "pick": "night"
+  },
+  "弱い": {
+    "kana": "よわい",
+    "cand": [
+      "weak",
+      "frail",
+      "delicate",
+      "tender"
+    ],
+    "pick": "weak"
+  },
+  "来月": {
+    "kana": "らいげつ",
+    "cand": [
+      "next month"
+    ],
+    "pick": "next month"
+  },
+  "来週": {
+    "kana": "らいしゅう",
+    "cand": [
+      "next week"
+    ],
+    "pick": "next week"
+  },
+  "来年": {
+    "kana": "らいねん",
+    "cand": [
+      "next year"
+    ],
+    "pick": "next year"
+  },
+  "ラジオ": {
+    "kana": "ラジオ",
+    "cand": [
+      "radio"
+    ],
+    "pick": "radio"
+  },
+  "りっぱ": {
+    "kana": "りっぱ",
+    "cand": [
+      "splendid",
+      "fine",
+      "handsome",
+      "elegant"
+    ],
+    "pick": "splendid"
+  },
+  "留学生": {
+    "kana": "りゅうがくせい",
+    "cand": [
+      "overseas student",
+      "exchange student"
+    ],
+    "pick": "overseas student"
+  },
+  "両親": {
+    "kana": "りょうしん",
+    "cand": [
+      "parents",
+      "both parents"
+    ],
+    "pick": "parents"
+  },
+  "料理": {
+    "kana": "りょうり",
+    "cand": [
+      "cooking",
+      "cookery",
+      "cuisine",
+      "food"
+    ],
+    "pick": "cooking"
+  },
+  "旅行": {
+    "kana": "りょこう",
+    "cand": [
+      "travel",
+      "trip",
+      "journey",
+      "excursion"
+    ],
+    "pick": "travel"
+  },
+  "零": {
+    "kana": "れい",
+    "cand": [
+      "zero",
+      "nought",
+      "0",
+      "nil"
+    ],
+    "pick": "zero"
+  },
+  "冷蔵庫": {
+    "kana": "れいぞうこ",
+    "cand": [
+      "refrigerator",
+      "fridge"
+    ],
+    "pick": "refrigerator"
+  },
+  "レコード": {
+    "kana": "レコード",
+    "cand": [
+      "(phonograph) record",
+      "record (esp. in sports)",
+      "record (data structure)"
+    ],
+    "pick": "(phonograph) record"
+  },
+  "レストラン": {
+    "kana": "レストラン",
+    "cand": [
+      "restaurant (esp. Western-style)"
+    ],
+    "pick": "restaurant (esp. Western-style)"
+  },
+  "練習": {
+    "kana": "れんしゅう (する)",
+    "cand": [
+      "practice",
+      "training",
+      "drill",
+      "(an) exercise"
+    ],
+    "pick": "practice"
+  },
+  "廊下": {
+    "kana": "ろうか",
+    "cand": [
+      "corridor",
+      "hallway",
+      "passageway"
+    ],
+    "pick": "corridor"
+  },
+  "六": {
+    "kana": "ろく",
+    "cand": [
+      "six",
+      "6"
+    ],
+    "pick": "six"
+  },
+  "ワイシャツ": {
+    "kana": "ワイシャツ",
+    "cand": [
+      "(formal) shirt",
+      "dress shirt",
+      "business shirt",
+      "button-up shirt"
+    ],
+    "pick": "(formal) shirt"
+  },
+  "若い": {
+    "kana": "わかい",
+    "cand": [
+      "young",
+      "youthful",
+      "immature",
+      "green"
+    ],
+    "pick": "young"
+  },
+  "分かる": {
+    "kana": "わかる",
+    "cand": [
+      "to understand",
+      "to comprehend",
+      "to grasp",
+      "to see"
+    ],
+    "pick": "to understand"
+  },
+  "忘れる": {
+    "kana": "わすれる",
+    "cand": [
+      "to forget",
+      "to leave carelessly",
+      "to be forgetful of",
+      "to forget about"
+    ],
+    "pick": "to forget"
+  },
+  "私": {
+    "kana": "わたくし",
+    "cand": [
+      "I",
+      "me"
+    ],
+    "pick": "I"
+  },
+  "渡す": {
+    "kana": "わたす",
+    "cand": [
+      "to ferry across (e.g. a river)",
+      "to carry across",
+      "to traverse",
+      "to lay across"
+    ],
+    "pick": "to ferry across (e.g. a river)"
+  },
+  "渡る": {
+    "kana": "わたる",
+    "cand": [
+      "to cross over",
+      "to go across",
+      "to extend",
+      "to cover"
+    ],
+    "pick": "to cross over"
+  },
+  "悪い": {
+    "kana": "わるい",
+    "cand": [
+      "bad",
+      "poor",
+      "undesirable",
+      "poor (quality)"
+    ],
+    "pick": "bad"
+  }
+}
