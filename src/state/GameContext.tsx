@@ -58,6 +58,7 @@ interface GameApi {
   /** 自分専用の単語帳に追加/削除（タップで暗記カードを作る） */
   toggleDeck: (questionId: string) => void
   toggleMastered: (questionId: string) => void
+  markPetStage: (stage: number) => void
   /** プレイヤー名を変更（オンボーディング等） */
   setName: (name: string) => void
   resetAll: () => void
@@ -94,6 +95,7 @@ function migrate(u: User): User {
     claimedStreakMilestones: u.claimedStreakMilestones ?? [],
     dailyHistory: u.dailyHistory ?? {},
     todayWordSeenDate: u.todayWordSeenDate ?? '',
+    petStageSeen: num(u.petStageSeen ?? 0),
   }
 }
 
@@ -400,6 +402,11 @@ export function GameProvider({ children }: { children: ReactNode }) {
             ? prev.masteredIds.filter((id) => id !== questionId)
             : [...(prev.masteredIds ?? []), questionId],
         }))
+      },
+
+      markPetStage: (stage) => {
+        // 相棒の進化演出を確認済みにする（前回見た段階を更新）
+        setUser((prev) => ({ ...prev, petStageSeen: Math.max(prev.petStageSeen ?? 0, stage) }))
       },
 
       resetAll: () => {

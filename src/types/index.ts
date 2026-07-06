@@ -116,6 +116,8 @@ export interface User {
   dailyHistory: Record<string, number>
   /** 「今日の単語」を見た日 */
   todayWordSeenDate: string
+  /** 学習相棒の「前回見た成長段階」。現段階がこれを上回ると進化演出を出す */
+  petStageSeen: number
 }
 
 export interface EquippedItems {

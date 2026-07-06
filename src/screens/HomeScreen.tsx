@@ -7,6 +7,7 @@ import { getMissionViews } from '../modules/mission/missionLogic'
 import { ProgressBar } from '../components/ProgressBar'
 import { DailyLoopCard } from '../components/DailyLoopCard'
 import { WeeklyChart } from '../components/WeeklyChart'
+import { PetWidget } from '../components/PetWidget'
 import { categories } from '../data/categories'
 import { todayStr } from '../state/dateUtils'
 import type { Strings } from '../i18n/types'
@@ -71,6 +72,9 @@ export function HomeScreen() {
           🔥 {user.studyStreak}{t('home.streakMid')}{user.todayCoin}{t('home.streakEnd')}
         </p>
       </div>
+
+      {/* 学習相棒(育成キャラ) */}
+      <PetWidget />
 
       {/* 今日の一式(デイリーループ) */}
       <DailyLoopCard />

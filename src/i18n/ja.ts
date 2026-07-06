@@ -62,4 +62,8 @@ export const ja: Strings = {
   'daily.title': '📅 今日の一式', 'daily.done': '✨コンプ！', 'daily.dayUnit': '日', 'daily.streakWarnPre': '⚠️ 🔥', 'daily.streakWarnMid': '日のストリークが今夜消えます！あと', 'daily.streakWarnPost': '問',
   'daily.quizPre': '今日の', 'daily.quizUnit': '問', 'daily.seeWord': '今日の単語を見る', 'daily.loginBonus': 'ログインボーナス', 'daily.wordOfDay': '今日の単語',
   'weekly.thisWeek': 'この1週間', 'weekly.days': '日月火水木金土',
+  'pet.name': 'マナ',
+  'pet.stage1': 'たまご', 'pet.stage2': 'ひな', 'pet.stage3': 'わか', 'pet.stage4': 'せいちょう', 'pet.stage5': 'でんせつ',
+  'pet.moodHappy': 'きょうもえらい！', 'pet.moodNormal': 'いっしょにまなぼう', 'pet.moodHungry': 'そろそろまなぼ？', 'pet.moodSad': 'さみしいよ…',
+  'pet.evolved': '✨ しんか！', 'pet.toNextPre': 'あと ', 'pet.toNextUnit': ' 語で成長', 'pet.maxStage': 'さいこう段階！',
 }
