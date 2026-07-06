@@ -34,7 +34,8 @@ function clozeSentence(sentence: string, form: string): string {
  */
 export function ListeningScreen() {
   const { engine, answerQuestion, ensureCategory, isCategoryReady } = useGame()
-  const { navigate, category, studyLevel, sfxEnabled, sfxVolume, t, locale } = useNav()
+  const { navigate, category, studyLevel, sfxEnabled, sfxVolume, t, locale, quizMode, customIds } = useNav()
+  const isExample = quizMode === 'example' // 例文暗記モード(読んで穴埋め・音声任意)
 
   const ready = isCategoryReady(category)
   const [questions, setQuestions] = useState<Question[]>([])
@@ -47,7 +48,11 @@ export function ListeningScreen() {
 
   useEffect(() => {
     if (!ready || built) return
-    setQuestions(engine.buildListeningSession(category, SESSION_SIZE, studyLevel, locale))
+    setQuestions(
+      isExample
+        ? engine.buildExampleSession(category, SESSION_SIZE, customIds ?? [], locale)
+        : engine.buildListeningSession(category, SESSION_SIZE, studyLevel, locale),
+    )
     setBuilt(true)
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [ready])
@@ -85,8 +90,8 @@ export function ListeningScreen() {
   )
   // 穴埋めのTTS言語(文章読み上げ用)
   const speechLang = category === 'chinese' ? 'zh-CN' : category === 'korean' ? 'ko-KR' : category === 'japanese' ? 'ja-JP' : 'en-US'
-  // スペル入力は英語のみ。中韓はIME/活用の都合で4択専用
-  const effectiveStyle: 'type' | 'choice' = category === 'english' ? answerStyle : 'choice'
+  // スペル入力は英語のみ。中韓はIME/活用の都合で4択専用。例文暗記は常に4択。
+  const effectiveStyle: 'type' | 'choice' = category === 'english' && !isExample ? answerStyle : 'choice'
 
   // 4択スタイル用: 同セッションの他の問題の表層形から誤答肢を3つ作る。
   // 韓国語は「用言(다終わり)/体言」が文法上区別されるため、同じ型の語を優先して選ぶ(答えが割れにくくする)。
@@ -111,9 +116,9 @@ export function ListeningScreen() {
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [index, questions.length])
 
-  // 出題時に自動再生（リスニングなので常に読み上げる）
+  // 出題時に自動再生（リスニングは常に読み上げる。例文暗記は読んで思い出すので自動再生しない）
   useEffect(() => {
-    if (!q || finished) return
+    if (!q || finished || isExample) return
     if (isCloze && ex) speak(ex.eng, speechLang)
     else speakWord(wordFromPrompt(q.prompt), category)
     // eslint-disable-next-line react-hooks/exhaustive-deps
@@ -213,7 +218,7 @@ export function ListeningScreen() {
       <div className="flex items-center justify-between text-sm">
         <span className="text-white/50 font-bold">
           {index + 1} / {questions.length}
-          <span className="ml-2 text-accent2">{t('listening.label')}</span>
+          <span className="ml-2 text-accent2">{isExample ? t('listening.exampleLabel') : t('listening.label')}</span>
         </span>
         {combo >= 2 && <span className="animate-pop font-black text-gold">🔥 {combo} COMBO</span>}
       </div>
@@ -222,11 +227,13 @@ export function ListeningScreen() {
       <div className="card p-6 text-center min-h-[150px] grid place-items-center relative">
         <div className="w-full">
           <div className="text-xs text-white/40 mb-3">
-            {isCloze
-              ? effectiveStyle === 'type'
-                ? t('listening.typeBlank')
-                : t('listening.pickBlank')
-              : t('listening.pickMeaning')}
+            {isExample
+              ? t('listening.readBlank')
+              : isCloze
+                ? effectiveStyle === 'type'
+                  ? t('listening.typeBlank')
+                  : t('listening.pickBlank')
+                : t('listening.pickMeaning')}
           </div>
           {canSpeak() && (
             <button

@@ -30,7 +30,7 @@ const CATEGORY_KEY = 'wordquest.category'
 
 export default function App() {
   const [screen, setScreen] = useState<Screen>('home')
-  const [quizMode, setQuizMode] = useState<'normal' | 'review' | 'listening'>('normal')
+  const [quizMode, setQuizMode] = useState<'normal' | 'review' | 'listening' | 'example'>('normal')
   // 前回選んだ学習ジャンルを記憶（中国語で遊んでいたら次回も中国語のまま）
   const [category, setCategoryState] = useState<Category>(
     () => (localStorage.getItem(CATEGORY_KEY) as Category | null) ?? 'english',
@@ -139,7 +139,7 @@ export default function App() {
         <TopBar />
         <main className="flex-1 px-4 py-4">
           {screen === 'home' && <HomeScreen />}
-          {screen === 'quiz' && (quizMode === 'listening' ? <ListeningScreen /> : <QuizScreen />)}
+          {screen === 'quiz' && (quizMode === 'listening' || quizMode === 'example' ? <ListeningScreen /> : <QuizScreen />)}
           {screen === 'battle' && <BattleScreen />}
           {screen === 'raid' && <RaidScreen />}
           {screen === 'ranking' && <RankingScreen />}

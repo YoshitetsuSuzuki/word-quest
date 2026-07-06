@@ -58,6 +58,23 @@ export class QuestionEngine {
     return shuffle(pool).slice(0, count).map((q) => this.withShuffledChoices(q))
   }
 
+  /**
+   * 例文暗記セッション。例文＋表層形を持つ語のうち、deckIds(自分の★語)を優先し、
+   * 不足分をカテゴリの例文語から補充する(A＋B)。locale='en' 等では対象ロケール訳を持つ語に限定。
+   */
+  buildExampleSession(category: Category, count: number, deckIds: string[], locale: 'ja' | 'en' = 'ja'): Question[] {
+    const all = this.repo.getByCategory(category)
+    const localeOk = (q: Question) => locale === 'ja' || !!q.glosses?.en
+    const hasEx = (q: Question) => !!q.example && !!q.exampleForm
+    const deckSet = new Set(deckIds)
+    // A: ★語で例文を持つもの
+    const a = all.filter((q) => deckSet.has(q.id) && hasEx(q) && localeOk(q))
+    // B: それ以外の例文語
+    const b = all.filter((q) => !deckSet.has(q.id) && hasEx(q) && localeOk(q))
+    const picked = [...shuffle(a), ...shuffle(b)].slice(0, count)
+    return picked.map((q) => this.withShuffledChoices(q))
+  }
+
   /** 指定IDリストから復習セッションを作る（間隔反復の期限到来分など） */
   buildReviewSession(ids: string[], count: number): Question[] {
     const picked: Question[] = []
@@ -80,7 +97,8 @@ export class QuestionEngine {
     const i = q.example.indexOf(' — ')
     const text = i >= 0 ? q.example.slice(0, i) : q.example
     const jaTr = i >= 0 ? q.example.slice(i + 3) : ''
-    const translation = q.exampleTranslations?.[locale] ?? jaTr
+    // 母語の訳があればそれ。無い場合、ja は従来の和訳、それ以外(英語等)は空(=日本語を見せない)
+    const translation = q.exampleTranslations?.[locale] ?? (locale === 'ja' ? jaTr : '')
     return { text, translation }
   }
 

@@ -98,6 +98,16 @@ export function StudyScreen() {
     navigate('quiz')
   }
 
+  // このジャンルに例文付き語があるか(例文暗記カードの表示可否)
+  const hasExamples = ready && engine.buildExampleSession(category, 1, [], locale).length > 0
+  // 例文暗記: ★語で例文を持つものを優先(A)、不足分はジャンルの例文語(B)。ListeningScreen が補充する。
+  const startExampleStudy = () => {
+    const deckExampleIds = deck.filter((q) => q.example && q.exampleForm).map((q) => q.id)
+    setQuizMode('example')
+    setCustomIds(deckExampleIds.length > 0 ? deckExampleIds : null)
+    navigate('quiz')
+  }
+
   const filteredLearned = query
     ? learned.filter((q) => wordOf(q).includes(query.toLowerCase()) || q.answer.includes(query))
     : learned
@@ -180,6 +190,17 @@ export function StudyScreen() {
           <div className="text-[11px] text-white/45">{t('study.weakDrillHint')}</div>
         </button>
       </div>
+
+      {/* 例文で覚える(単語帳とは別項目・穴埋め型) */}
+      {hasExamples && (
+        <button className="card p-4 text-left active:scale-95 transition w-full flex items-center gap-3" onClick={startExampleStudy}>
+          <div className="text-3xl">📖</div>
+          <div>
+            <div className="font-bold text-sm">{t('study.exampleStudy')}</div>
+            <div className="text-[11px] text-white/45">{t('study.exampleHint')}</div>
+          </div>
+        </button>
+      )}
 
       {/* タブ */}
       <div className="flex gap-1.5">

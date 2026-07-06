@@ -21,8 +21,10 @@ export interface Strings {
   'listening.preparing': string; 'listening.complete': string; 'listening.label': string
   'listening.replay': string; 'listening.typeBlank': string; 'listening.correctMark': string
   'listening.styleType': string; 'listening.styleChoice': string; 'listening.inputPlaceholder': string; 'listening.check': string
+  'listening.exampleLabel': string; 'listening.readBlank': string
   'study.header': string; 'study.collection': string; 'study.reviewToday': string; 'study.dueSuffix': string; 'study.noneDue': string
   'study.weakDrill': string; 'study.weakDrillHint': string
+  'study.exampleStudy': string; 'study.exampleHint': string
   'study.tabWeak': string; 'study.tabLearned': string; 'study.tabDeck': string
   'study.emptyWeak': string; 'study.emptyLearned': string; 'study.emptyDeck': string
   'study.searchPlaceholder': string; 'study.morePre': string; 'study.moreUnit': string

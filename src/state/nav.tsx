@@ -16,9 +16,9 @@ export type Screen =
 interface NavApi {
   screen: Screen
   navigate: (s: Screen) => void
-  /** クイズのモード（通常 / 復習 / リスニング） */
-  quizMode: 'normal' | 'review' | 'listening'
-  setQuizMode: (m: 'normal' | 'review' | 'listening') => void
+  /** クイズのモード（通常 / 復習 / リスニング / 例文暗記） */
+  quizMode: 'normal' | 'review' | 'listening' | 'example'
+  setQuizMode: (m: 'normal' | 'review' | 'listening' | 'example') => void
   /** 指定IDだけで出題するカスタムセッション（弱点特訓・自分の単語帳テスト用）。nullで通常 */
   customIds: string[] | null
   setCustomIds: (ids: string[] | null) => void
