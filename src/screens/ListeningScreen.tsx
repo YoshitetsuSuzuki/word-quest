@@ -34,7 +34,7 @@ function clozeSentence(sentence: string, form: string): string {
  */
 export function ListeningScreen() {
   const { engine, answerQuestion, ensureCategory, isCategoryReady } = useGame()
-  const { navigate, category, studyLevel, sfxEnabled, sfxVolume } = useNav()
+  const { navigate, category, studyLevel, sfxEnabled, sfxVolume, t } = useNav()
 
   const ready = isCategoryReady(category)
   const [questions, setQuestions] = useState<Question[]>([])
@@ -109,7 +109,7 @@ export function ListeningScreen() {
   }, [index, questions.length])
 
   if (!ready || questions.length === 0) {
-    return <Loading label="リスニングを準備中…" />
+    return <Loading label={t('listening.preparing')} />
   }
 
   const replay = () => {
@@ -166,17 +166,17 @@ export function ListeningScreen() {
     return (
       <div className="text-center py-10 animate-slideUp">
         <div className="text-6xl mb-3">🎧</div>
-        <h2 className="text-2xl font-black">リスニング完了！</h2>
+        <h2 className="text-2xl font-black">{t('listening.complete')}</h2>
         <div className="card mt-6 p-5 space-y-2 text-left">
-          <Row label="正解数" value={`${sessionCorrect} / ${questions.length}`} />
-          <Row label="獲得コイン" value={`🪙 ${sessionCoin}`} />
+          <Row label={t('quiz.correctCount')} value={`${sessionCorrect} / ${questions.length}`} />
+          <Row label={t('quiz.gainedCoins')} value={`🪙 ${sessionCoin}`} />
         </div>
         <div className="mt-6 grid grid-cols-2 gap-3">
           <button className="btn-ghost py-3" onClick={() => navigate('home')}>
-            ホームへ
+            {t('quiz.toHome')}
           </button>
           <button className="btn-primary py-3" onClick={() => window.location.reload()}>
-            もう一度
+            {t('quiz.again')}
           </button>
         </div>
       </div>
@@ -190,7 +190,7 @@ export function ListeningScreen() {
       <div className="flex items-center justify-between text-sm">
         <span className="text-white/50 font-bold">
           {index + 1} / {questions.length}
-          <span className="ml-2 text-accent2">🎧 リスニング</span>
+          <span className="ml-2 text-accent2">{t('listening.label')}</span>
         </span>
         {combo >= 2 && <span className="animate-pop font-black text-gold">🔥 {combo} COMBO</span>}
       </div>
@@ -201,14 +201,14 @@ export function ListeningScreen() {
           <div className="text-xs text-white/40 mb-3">
             {isCloze
               ? effectiveStyle === 'type'
-                ? '文を聴いて、空欄の単語を入力しよう'
-                : '文を聴いて、空欄に入る単語を選ぼう'
-              : '音声を聴いて、意味を選ぼう'}
+                ? t('listening.typeBlank')
+                : t('listening.pickBlank')
+              : t('listening.pickMeaning')}
           </div>
           {canSpeak() && (
             <button
               onClick={replay}
-              aria-label="もう一度聞く"
+              aria-label={t('listening.replay')}
               className="w-14 h-14 grid place-items-center rounded-full bg-accent/20 border border-accent/40 text-2xl active:scale-90 transition mx-auto"
             >
               🔊
@@ -233,7 +233,7 @@ export function ListeningScreen() {
         {outcome && (
           <div className="absolute top-3 right-4 text-right pointer-events-none">
             <div className={`font-black text-xl ${outcome.correct ? 'text-success' : 'text-danger'}`}>
-              {outcome.correct ? '⭕ 正解！' : '❌'}
+              {outcome.correct ? t('listening.correctMark') : '❌'}
             </div>
             {outcome.correct && <div className="text-accent2 font-black text-sm">+{outcome.gainedXp} XP</div>}
           </div>
@@ -250,8 +250,8 @@ export function ListeningScreen() {
                 <div className="flex justify-center gap-2">
                   {(
                     [
-                      ['type', '⌨️ 入力'],
-                      ['choice', '🔤 4択'],
+                      ['type', t('listening.styleType')],
+                      ['choice', t('listening.styleChoice')],
                     ] as const
                   ).map(([s, label]) => (
                     <button
@@ -273,7 +273,7 @@ export function ListeningScreen() {
                     value={typed}
                     onChange={(e) => setTyped(e.target.value)}
                     onKeyDown={(e) => e.key === 'Enter' && submitTyped()}
-                    placeholder="聞こえた単語を入力"
+                    placeholder={t('listening.inputPlaceholder')}
                     autoCapitalize="off"
                     autoCorrect="off"
                     autoComplete="off"
@@ -281,7 +281,7 @@ export function ListeningScreen() {
                     className="w-full bg-panel2 border border-white/10 rounded-xl px-4 py-4 text-lg font-bold text-center outline-none focus:border-accent"
                   />
                   <button className="btn-primary w-full py-4" disabled={!typed.trim()} onClick={submitTyped}>
-                    答え合わせ
+                    {t('listening.check')}
                   </button>
                 </>
               ) : (
@@ -317,7 +317,7 @@ export function ListeningScreen() {
       {answered && (
         <div className="animate-slideUp space-y-3">
           <button className="btn-primary w-full py-4" onClick={next}>
-            {index + 1 >= questions.length ? '結果を見る' : '次の問題へ →'}
+            {index + 1 >= questions.length ? t('quiz.result') : t('quiz.next')}
           </button>
           <div className="text-center">
             <a
@@ -326,7 +326,7 @@ export function ListeningScreen() {
               rel="noreferrer"
               className="text-[11px] text-white/30 underline underline-offset-2"
             >
-              ⚠️ この単語の誤りを報告
+              {t('common.report')}
             </a>
           </div>
         </div>

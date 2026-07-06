@@ -18,4 +18,7 @@ export interface Strings {
   'quiz.complete': string; 'quiz.correctCount': string; 'quiz.gainedCoins': string; 'quiz.maxCombo': string
   'quiz.toHome': string; 'quiz.again': string
   'listening.pickBlank': string; 'listening.pickMeaning': string; 'common.report': string
+  'listening.preparing': string; 'listening.complete': string; 'listening.label': string
+  'listening.replay': string; 'listening.typeBlank': string; 'listening.correctMark': string
+  'listening.styleType': string; 'listening.styleChoice': string; 'listening.inputPlaceholder': string; 'listening.check': string
 }

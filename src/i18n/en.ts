@@ -16,4 +16,7 @@ export const en: Strings = {
   'quiz.complete': 'Session complete!', 'quiz.correctCount': 'Correct', 'quiz.gainedCoins': 'Coins', 'quiz.maxCombo': 'Max combo',
   'quiz.toHome': 'Home', 'quiz.again': 'Again',
   'listening.pickBlank': 'Listen and pick the missing word', 'listening.pickMeaning': 'Listen and choose the meaning', 'common.report': '⚠️ Report an error',
+  'listening.preparing': 'Preparing listening…', 'listening.complete': 'Listening complete!', 'listening.label': '🎧 Listening',
+  'listening.replay': 'Play again', 'listening.typeBlank': 'Listen and type the missing word', 'listening.correctMark': '⭕ Correct!',
+  'listening.styleType': '⌨️ Type', 'listening.styleChoice': '🔤 Choices', 'listening.inputPlaceholder': 'Type the word you heard', 'listening.check': 'Check',
 }
