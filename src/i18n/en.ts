@@ -26,4 +26,10 @@ export const en: Strings = {
   'study.searchPlaceholder': 'Search by word or meaning', 'study.morePre': '+', 'study.moreUnit': 'more',
   'study.deckTestPre': '📝 Test my deck (', 'study.deckTestUnit': ' words)',
   'study.myDeckAria': 'My deck', 'study.meaning': 'Meaning', 'study.tapToReveal': 'Tap to reveal meaning', 'study.remove': 'Remove',
+  'profile.level': 'Level', 'profile.xp': 'XP', 'profile.nextLv': 'next Lv', 'profile.coins': 'Coins', 'profile.rating': 'Rating (Elo)',
+  'profile.winRate': 'Battle win rate', 'profile.win': 'W', 'profile.loss': 'L', 'profile.totalCorrect': 'Total correct', 'profile.totalAnswered': 'Total answered',
+  'profile.loginStreak': 'Login streak', 'profile.dayUnit': 'days', 'profile.wordsLearned': 'Words learned',
+  'profile.achievements': '🏅 Achievements', 'profile.settings': '⚙️ Settings',
+  'profile.autoPlay': '🗣️ Auto-play audio', 'profile.sfx': '🔔 Sound effects', 'profile.sfxVolume': 'SFX volume', 'profile.bgm': '🎵 Music', 'profile.bgmVolume': 'Music volume',
+  'profile.feedback': '📮 Report / feedback', 'profile.reset': 'Reset data', 'profile.resetConfirm': 'Reset all data? This cannot be undone.',
 }

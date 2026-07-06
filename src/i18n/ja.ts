@@ -26,4 +26,10 @@ export const ja: Strings = {
   'study.searchPlaceholder': '単語・意味で検索', 'study.morePre': 'ほか', 'study.moreUnit': '語',
   'study.deckTestPre': '📝 マイ単語帳をテストする（', 'study.deckTestUnit': '語）',
   'study.myDeckAria': 'マイ単語帳', 'study.meaning': '意味', 'study.tapToReveal': 'タップで意味を表示', 'study.remove': '削除',
+  'profile.level': 'レベル', 'profile.xp': '累計XP的な指標', 'profile.nextLv': '次Lv', 'profile.coins': 'コイン', 'profile.rating': 'レート(Elo)',
+  'profile.winRate': 'バトル勝率', 'profile.win': '勝', 'profile.loss': '敗', 'profile.totalCorrect': '総正解数', 'profile.totalAnswered': '総回答数',
+  'profile.loginStreak': '連続ログイン', 'profile.dayUnit': '日', 'profile.wordsLearned': '習得単語数',
+  'profile.achievements': '🏅 実績', 'profile.settings': '⚙️ 設定',
+  'profile.autoPlay': '🗣️ 発音の自動再生', 'profile.sfx': '🔔 効果音（正解・不正解）', 'profile.sfxVolume': '効果音の音量', 'profile.bgm': '🎵 BGM', 'profile.bgmVolume': 'BGMの音量',
+  'profile.feedback': '📮 誤りの報告・ご要望', 'profile.reset': 'データを初期化', 'profile.resetConfirm': 'データを初期化しますか？この操作は取り消せません。',
 }

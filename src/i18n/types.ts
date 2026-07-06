@@ -28,4 +28,10 @@ export interface Strings {
   'study.searchPlaceholder': string; 'study.morePre': string; 'study.moreUnit': string
   'study.deckTestPre': string; 'study.deckTestUnit': string
   'study.myDeckAria': string; 'study.meaning': string; 'study.tapToReveal': string; 'study.remove': string
+  'profile.level': string; 'profile.xp': string; 'profile.nextLv': string; 'profile.coins': string; 'profile.rating': string
+  'profile.winRate': string; 'profile.win': string; 'profile.loss': string; 'profile.totalCorrect': string; 'profile.totalAnswered': string
+  'profile.loginStreak': string; 'profile.dayUnit': string; 'profile.wordsLearned': string
+  'profile.achievements': string; 'profile.settings': string
+  'profile.autoPlay': string; 'profile.sfx': string; 'profile.sfxVolume': string; 'profile.bgm': string; 'profile.bgmVolume': string
+  'profile.feedback': string; 'profile.reset': string; 'profile.resetConfirm': string
 }

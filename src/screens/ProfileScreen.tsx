@@ -18,6 +18,7 @@ export function ProfileScreen() {
     setBgmEnabled,
     bgmVolume,
     setBgmVolume,
+    t,
   } = useNav()
   const title = equippedTitle(user)
   const frame = equippedFrameClass(user)
@@ -26,19 +27,19 @@ export function ProfileScreen() {
   const unlocked = new Set(user.achievements.map((a) => a.id))
 
   const stats: { label: string; value: string }[] = [
-    { label: 'レベル', value: `Lv.${user.level}` },
-    { label: '累計XP的な指標', value: `${user.xp} / 次Lv` },
-    { label: 'コイン', value: `🪙 ${user.coin.toLocaleString()}` },
-    { label: 'レート(Elo)', value: `${user.eloRating}` },
-    { label: 'バトル勝率', value: `${winRate}% (${user.battleWins}勝${user.battleLosses}敗)` },
-    { label: '総正解数', value: `${user.totalCorrect}` },
-    { label: '総回答数', value: `${user.totalAnswered}` },
-    { label: '連続ログイン', value: `🔥 ${user.streakDays}日` },
-    { label: '習得単語数', value: `${user.learnedQuestionIds.length}` },
+    { label: t('profile.level'), value: `Lv.${user.level}` },
+    { label: t('profile.xp'), value: `${user.xp} / ${t('profile.nextLv')}` },
+    { label: t('profile.coins'), value: `🪙 ${user.coin.toLocaleString()}` },
+    { label: t('profile.rating'), value: `${user.eloRating}` },
+    { label: t('profile.winRate'), value: `${winRate}% (${user.battleWins}${t('profile.win')}${user.battleLosses}${t('profile.loss')})` },
+    { label: t('profile.totalCorrect'), value: `${user.totalCorrect}` },
+    { label: t('profile.totalAnswered'), value: `${user.totalAnswered}` },
+    { label: t('profile.loginStreak'), value: `🔥 ${user.streakDays}${t('profile.dayUnit')}` },
+    { label: t('profile.wordsLearned'), value: `${user.learnedQuestionIds.length}` },
   ]
 
   const onReset = () => {
-    if (confirm('データを初期化しますか？この操作は取り消せません。')) resetAll()
+    if (confirm(t('profile.resetConfirm'))) resetAll()
   }
 
   return (
@@ -73,7 +74,7 @@ export function ProfileScreen() {
       {/* 実績 */}
       {featureFlags.achievementsEnabled && (
         <div>
-          <h3 className="font-black mb-2">🏅 実績（{unlocked.size}/{achievements.length}）</h3>
+          <h3 className="font-black mb-2">{t('profile.achievements')}（{unlocked.size}/{achievements.length}）</h3>
           <div className="grid grid-cols-3 gap-2.5">
             {achievements.map((a) => {
               const got = unlocked.has(a.id)
@@ -94,18 +95,18 @@ export function ProfileScreen() {
 
       {/* 設定 */}
       <div className="card p-4 space-y-1">
-        <h3 className="font-black text-sm mb-2">⚙️ 設定</h3>
+        <h3 className="font-black text-sm mb-2">{t('profile.settings')}</h3>
 
-        <Toggle label="🗣️ 発音の自動再生" on={soundEnabled} onToggle={() => setSoundEnabled(!soundEnabled)} />
+        <Toggle label={t('profile.autoPlay')} on={soundEnabled} onToggle={() => setSoundEnabled(!soundEnabled)} />
 
         <div className="border-t border-white/5 pt-2 mt-2">
-          <Toggle label="🔔 効果音（正解・不正解）" on={sfxEnabled} onToggle={() => setSfxEnabled(!sfxEnabled)} />
-          {sfxEnabled && <Slider label="効果音の音量" value={sfxVolume} onChange={setSfxVolume} />}
+          <Toggle label={t('profile.sfx')} on={sfxEnabled} onToggle={() => setSfxEnabled(!sfxEnabled)} />
+          {sfxEnabled && <Slider label={t('profile.sfxVolume')} value={sfxVolume} onChange={setSfxVolume} />}
         </div>
 
         <div className="border-t border-white/5 pt-2 mt-2">
-          <Toggle label="🎵 BGM" on={bgmEnabled} onToggle={() => setBgmEnabled(!bgmEnabled)} />
-          {bgmEnabled && <Slider label="BGMの音量" value={bgmVolume} onChange={setBgmVolume} />}
+          <Toggle label={t('profile.bgm')} on={bgmEnabled} onToggle={() => setBgmEnabled(!bgmEnabled)} />
+          {bgmEnabled && <Slider label={t('profile.bgmVolume')} value={bgmVolume} onChange={setBgmVolume} />}
         </div>
       </div>
 
@@ -115,11 +116,11 @@ export function ProfileScreen() {
         rel="noreferrer"
         className="btn-ghost w-full py-3 text-sm block text-center"
       >
-        📮 誤りの報告・ご要望
+        {t('profile.feedback')}
       </a>
 
       <button className="btn-ghost w-full py-3 text-sm text-danger" onClick={onReset}>
-        データを初期化
+        {t('profile.reset')}
       </button>
     </div>
   )
