@@ -46,7 +46,7 @@ export function ListeningScreen() {
 
   useEffect(() => {
     if (!ready || questions.length > 0) return
-    setQuestions(engine.buildListeningSession(category, SESSION_SIZE, studyLevel))
+    setQuestions(engine.buildListeningSession(category, SESSION_SIZE, studyLevel, locale))
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [ready])
 

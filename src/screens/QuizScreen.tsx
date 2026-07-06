@@ -40,7 +40,7 @@ export function QuizScreen() {
       s = engine.buildReviewSession(ids, SESSION_SIZE)
       if (s.length === 0) s = engine.buildSession(category, SESSION_SIZE)
     } else {
-      s = engine.buildSession(category, SESSION_SIZE, studyLevel)
+      s = engine.buildSession(category, SESSION_SIZE, studyLevel, locale)
     }
     setQuestions(s)
     // eslint-disable-next-line react-hooks/exhaustive-deps

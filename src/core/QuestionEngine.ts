@@ -27,8 +27,10 @@ export class QuestionEngine {
    * カテゴリの問題（選択肢シャッフル済み）をランダム順で返す。
    * level(1-5)を指定するとその難易度に絞る。該当が少なすぎる場合は全体にフォールバック。
    */
-  buildSession(category: Category, count: number, level = 0): Question[] {
-    const full = this.repo.getByCategory(category)
+  buildSession(category: Category, count: number, level = 0, locale: 'ja' | 'en' = 'ja'): Question[] {
+    const all = this.repo.getByCategory(category)
+    // en 等では、対象ロケールの訳を持つ語だけ出題（ja は全語＝現状不変）
+    const full = locale === 'ja' ? all : all.filter((q) => q.glosses?.en)
     let pool = level > 0 ? full.filter((q) => q.difficulty === level) : full
     if (pool.length < count) pool = full // 級内が少ない場合は全体から
     return shuffle(pool).slice(0, count).map((q) => this.withShuffledChoices(q))
@@ -38,8 +40,10 @@ export class QuestionEngine {
    * リスニング用セッション。
    * 英語は例文＋表層形を持つ語のみ（例文読み上げ→穴埋め）。他言語は通常プール（音声→4択）。
    */
-  buildListeningSession(category: Category, count: number, level = 0): Question[] {
-    const full = this.repo.getByCategory(category)
+  buildListeningSession(category: Category, count: number, level = 0, locale: 'ja' | 'en' = 'ja'): Question[] {
+    const all = this.repo.getByCategory(category)
+    // en 等では、対象ロケールの訳を持つ語だけ母集合にする（ja は全語＝現状不変）
+    const full = locale === 'ja' ? all : all.filter((q) => q.glosses?.en)
     const withEx = full.filter((q) => q.example && q.exampleForm)
     let pool: Question[]
     if (withEx.length >= count) {
