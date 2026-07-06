@@ -67,4 +67,5 @@ export const en: Strings = {
   'pet.chooseTitle': 'Choose your buddy', 'pet.chooseHint': 'It grows and evolves as you study. Pick one!',
   'pet.moodHappy': 'Great job today!', 'pet.moodNormal': "Let's study together", 'pet.moodHungry': 'Ready to learn?', 'pet.moodSad': 'I miss you…',
   'pet.evolved': '✨ Evolved!', 'pet.toNextPre': '', 'pet.toNextUnit': ' XP to level up', 'pet.maxLevel': 'Max level!',
+  'pet.addBuddy': 'Add a buddy', 'pet.buddyMax': 'Max buddies', 'pet.switchAria': 'Switch active buddy',
 }

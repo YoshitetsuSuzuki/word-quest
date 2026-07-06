@@ -160,9 +160,24 @@ export function PetSprite({
     )
   }
 
-  // ---- Form 4: 伝説（竜・大翼・大角・王冠オーラ） ----
+  // ---- Form 4/5: 伝説（竜）。form5(Lv100)は究極体＝金色オーラの光背つき ----
+  const ultimate = form >= 5
   return (
     <svg {...S}>
+      {/* 究極体の光背（放射光＋リング） */}
+      {ultimate && (
+        <g opacity="0.9">
+          <circle cx="50" cy="52" r="46" fill="none" stroke="#ffe08a" strokeWidth="1" opacity="0.5" />
+          {Array.from({ length: 12 }).map((_, i) => {
+            const a = (i * Math.PI) / 6
+            const x1 = 50 + Math.cos(a) * 40
+            const y1 = 52 + Math.sin(a) * 40
+            const x2 = 50 + Math.cos(a) * 48
+            const y2 = 52 + Math.sin(a) * 48
+            return <line key={`ray${i}`} x1={x1} y1={y1} x2={x2} y2={y2} stroke="#ffd45e" strokeWidth="2" strokeLinecap="round" />
+          })}
+        </g>
+      )}
       {/* 大翼 */}
       <path d="M34 52 q-30 -16 -32 4 q-2 16 10 18 q10 -14 22 -10 z" fill={c.motif2} stroke={line} strokeWidth="1.6" />
       <path d="M66 52 q30 -16 32 4 q2 16 -10 18 q-10 -14 -22 -10 z" fill={c.motif2} stroke={line} strokeWidth="1.6" />
@@ -194,6 +209,9 @@ export function PetSprite({
       {star(86, 46, 3.6, 'l2')}
       {star(24, 30, 3, 'l3')}
       {star(76, 30, 3, 'l4')}
+      {ultimate && star(50, 6, 4.5, 'u1')}
+      {ultimate && star(10, 70, 3.4, 'u2')}
+      {ultimate && star(90, 72, 3.4, 'u3')}
     </svg>
   )
 }

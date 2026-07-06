@@ -39,6 +39,7 @@ export function createDefaultUser(name = 'Player'): User {
     claimedStreakMilestones: [],
     dailyHistory: {},
     todayWordSeenDate: '',
-    pet: { species: null, xp: 0, lastTickDate: '', formSeen: 0 },
+    pets: [{ species: null, xp: 0, lastTickDate: '', formSeen: 0 }],
+    activePet: 0,
   }
 }

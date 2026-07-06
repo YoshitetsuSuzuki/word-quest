@@ -1,5 +1,5 @@
 import { createContext, useContext, useEffect, useMemo, useRef, useState, type ReactNode } from 'react'
-import type { User, Question, AnswerOutcome, BattleResult, AchievementDef, Category, PetSpeciesId } from '../types'
+import type { User, Question, AnswerOutcome, BattleResult, AchievementDef, Category, PetSpeciesId, PetState } from '../types'
 import { userRepository, questionRepository } from '../repositories'
 import { QuestionEngine } from '../core/QuestionEngine'
 import { rewardEngine } from '../core/RewardEngine'
@@ -16,6 +16,7 @@ import { buyItem as buyItemLogic, equipItem as equipItemLogic } from '../modules
 import { evaluateAchievements, type AchievementContext } from '../modules/achievement/achievementLogic'
 import { applyStamp, reachedMilestones, daysBetween } from '../core/StreakEngine'
 import { settlePetDecay, PET_MAX_XP } from '../core/PetEngine'
+import { PET_MAX_PETS, PET_SLOT_COST } from '../config/petConfig'
 import { streakConfig } from '../data/streak.config'
 
 const questionEngine = new QuestionEngine(questionRepository)
@@ -61,6 +62,9 @@ interface GameApi {
   toggleMastered: (questionId: string) => void
   choosePetStarter: (species: PetSpeciesId) => void
   markPetForm: (form: number) => void
+  setActivePet: (index: number) => void
+  /** 2体目以降をコインで解放（成功時 true）。上限到達/コイン不足は false */
+  buyPetSlot: () => boolean
   /** プレイヤー名を変更（オンボーディング等） */
   setName: (name: string) => void
   resetAll: () => void
@@ -97,12 +101,14 @@ function migrate(u: User): User {
     claimedStreakMilestones: u.claimedStreakMilestones ?? [],
     dailyHistory: u.dailyHistory ?? {},
     todayWordSeenDate: u.todayWordSeenDate ?? '',
-    pet: {
-      species: u.pet?.species ?? null,
-      xp: num(u.pet?.xp ?? 0),
-      lastTickDate: u.pet?.lastTickDate ?? '',
-      formSeen: num(u.pet?.formSeen ?? 0),
-    },
+    // 旧: 単一 pet → 新: pets配列 に移行
+    pets: (u.pets ?? ((u as unknown as { pet?: PetState }).pet ? [(u as unknown as { pet: PetState }).pet] : [{ species: null, xp: 0, lastTickDate: '', formSeen: 0 }])).map((p) => ({
+      species: p?.species ?? null,
+      xp: num(p?.xp ?? 0),
+      lastTickDate: p?.lastTickDate ?? '',
+      formSeen: num(p?.formSeen ?? 0),
+    })),
+    activePet: num(u.activePet ?? 0),
   }
 }
 
@@ -296,8 +302,8 @@ export function GameProvider({ children }: { children: ReactNode }) {
           learnedQuestionIds: u.learnedQuestionIds.includes(q.id)
             ? u.learnedQuestionIds
             : [...u.learnedQuestionIds, q.id],
-          // 相棒の経験値: 正解の報酬XPぶん増える(Lv100=PET_MAX_XP で頭打ち)
-          pet: { ...u.pet, xp: Math.min(PET_MAX_XP, u.pet.xp + reward.xp) },
+          // 相棒の経験値: アクティブ1体だけ、正解の報酬XPぶん増える(Lv100=PET_MAX_XP で頭打ち)
+          pets: u.pets.map((p, i) => (i === u.activePet ? { ...p, xp: Math.min(PET_MAX_XP, p.xp + reward.xp) } : p)),
         }
 
         // --- レイド貢献（初回貢献ならミッションjoinRaidも進める） ---
@@ -416,13 +422,35 @@ export function GameProvider({ children }: { children: ReactNode }) {
       },
 
       choosePetStarter: (species) => {
-        // スターターを選ぶ（未選択時のみ有効）
-        setUser((prev) => (prev.pet.species ? prev : { ...prev, pet: { ...prev.pet, species } }))
+        // アクティブ相棒のスターターを選ぶ（未選択時のみ有効）
+        setUser((prev) => {
+          const i = prev.activePet
+          if (prev.pets[i]?.species) return prev
+          return { ...prev, pets: prev.pets.map((p, j) => (j === i ? { ...p, species } : p)) }
+        })
       },
 
       markPetForm: (form) => {
-        // 相棒の進化演出を確認済みにする（前回見たフォームを更新）
-        setUser((prev) => ({ ...prev, pet: { ...prev.pet, formSeen: Math.max(prev.pet.formSeen ?? 0, form) } }))
+        // アクティブ相棒の進化演出を確認済みにする（前回見たフォームを更新）
+        setUser((prev) => ({
+          ...prev,
+          pets: prev.pets.map((p, j) => (j === prev.activePet ? { ...p, formSeen: Math.max(p.formSeen ?? 0, form) } : p)),
+        }))
+      },
+
+      setActivePet: (index) => {
+        setUser((prev) => ({ ...prev, activePet: Math.max(0, Math.min(index, prev.pets.length - 1)) }))
+      },
+
+      buyPetSlot: () => {
+        let ok = false
+        setUser((prev) => {
+          if (prev.pets.length >= PET_MAX_PETS || prev.coin < PET_SLOT_COST) return prev
+          ok = true
+          const pets = [...prev.pets, { species: null as PetSpeciesId | null, xp: 0, lastTickDate: '', formSeen: 0 }]
+          return { ...prev, coin: prev.coin - PET_SLOT_COST, pets, activePet: pets.length - 1 }
+        })
+        return ok
       },
 
       resetAll: () => {

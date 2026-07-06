@@ -116,8 +116,10 @@ export interface User {
   dailyHistory: Record<string, number>
   /** 「今日の単語」を見た日 */
   todayWordSeenDate: string
-  /** 学習相棒（育成キャラ）。XPで育ち、サボると減る。 */
-  pet: PetState
+  /** 所有する学習相棒（育成キャラ）。1体目は無料、2体目以降はコインで解放。 */
+  pets: PetState[]
+  /** いま育成中(アクティブ)の相棒の index。学習XPはこの1体だけに入る。 */
+  activePet: number
 }
 
 /** 学習相棒の種（スターター） */

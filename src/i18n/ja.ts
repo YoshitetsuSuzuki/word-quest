@@ -67,4 +67,5 @@ export const ja: Strings = {
   'pet.chooseTitle': '相棒をえらぼう', 'pet.chooseHint': '学ぶほど育って進化します。1匹えらんでね',
   'pet.moodHappy': 'きょうもえらい！', 'pet.moodNormal': 'いっしょにまなぼう', 'pet.moodHungry': 'そろそろまなぼ？', 'pet.moodSad': 'さみしいよ…',
   'pet.evolved': '✨ しんか！', 'pet.toNextPre': 'あと ', 'pet.toNextUnit': ' XPでLvUP', 'pet.maxLevel': 'さいこうレベル！',
+  'pet.addBuddy': '相棒を増やす', 'pet.buddyMax': '最大数です', 'pet.switchAria': '育てる相棒を切り替え',
 }

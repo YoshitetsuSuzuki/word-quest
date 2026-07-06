@@ -69,4 +69,5 @@ export interface Strings {
   'pet.chooseTitle': string; 'pet.chooseHint': string
   'pet.moodHappy': string; 'pet.moodNormal': string; 'pet.moodHungry': string; 'pet.moodSad': string
   'pet.evolved': string; 'pet.toNextPre': string; 'pet.toNextUnit': string; 'pet.maxLevel': string
+  'pet.addBuddy': string; 'pet.buddyMax': string; 'pet.switchAria': string
 }

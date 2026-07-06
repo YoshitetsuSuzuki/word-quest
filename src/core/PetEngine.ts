@@ -2,7 +2,7 @@
 // PetEngine.ts  学習相棒の状態導出（純粋関数）
 // XPは学習で増え・サボると減る。Lv100で最大。大進化4段階＋レベルで連続強化。
 // ============================================================================
-import type { User } from '../types'
+import type { User, PetState } from '../types'
 import {
   PET_MAX_LEVEL,
   PET_XP_BASE,
@@ -100,15 +100,24 @@ export function petMood(user: User, today: string): PetMood {
   return 'sad'
 }
 
+/** アクティブな相棒を取り出す */
+export function activePet(user: User): PetState {
+  return user.pets[user.activePet] ?? user.pets[0]
+}
+
 // ---- サボりによるXP減衰（完了した日だけ課金。当日は未評価）----
-/** 経過した「学習しなかった完了日」分だけXPを減らした新しい user を返す（差分なしなら同一値） */
+// 育成中(アクティブ)の1体だけ減衰する。控えの相棒は一時停止＝減らさない。
+/** 経過した「学習しなかった完了日」分だけアクティブ相棒のXPを減らした user を返す */
 export function settlePetDecay(user: User, today: string): User {
-  const pet = user.pet
+  const idx = user.activePet
+  const pet = user.pets[idx]
+  if (!pet) return user
   const lastCompleted = addDays(today, -1)
   const from = pet.lastTickDate || lastCompleted // 新規は前日基準＝遡って罰しない
-  const gap = diffDays(lastCompleted, from) // from より後の完了日数
+  const gap = diffDays(lastCompleted, from)
+  const setTick = (p: PetState, xp: number) => user.pets.map((q, i) => (i === idx ? { ...p, xp, lastTickDate: lastCompleted } : q))
   if (gap <= 0) {
-    if (pet.lastTickDate !== lastCompleted) return { ...user, pet: { ...pet, lastTickDate: lastCompleted } }
+    if (pet.lastTickDate !== lastCompleted) return { ...user, pets: setTick(pet, pet.xp) }
     return user
   }
   let missed = 0
@@ -118,7 +127,7 @@ export function settlePetDecay(user: User, today: string): User {
     if (!(hist[d] > 0)) missed++
   }
   const xp = Math.max(0, pet.xp - missed * PET_DECAY_PER_DAY)
-  return { ...user, pet: { ...pet, xp, lastTickDate: lastCompleted } }
+  return { ...user, pets: setTick(pet, xp) }
 }
 
 export interface PetView {
@@ -137,7 +146,7 @@ export interface PetView {
 }
 
 export function petView(user: User, today: string): PetView {
-  const pet = user.pet
+  const pet = activePet(user)
   const xp = Math.max(0, pet.xp)
   const level = levelFromXp(xp)
   const form = petForm(level)

@@ -16,8 +16,13 @@ export const PET_XP_STEP = 4
 /** 学習しなかった1日ごとに減るXP（ゆるめ） */
 export const PET_DECAY_PER_DAY = 15
 
-/** 大進化のしきい値。到達レベルで form 1..4 が決まる */
-export const PET_FORM_THRESHOLDS = [1, 20, 50, 80]
+/** 大進化のしきい値。到達レベルで form 1..5 が決まる（Lv100で究極体=form5） */
+export const PET_FORM_THRESHOLDS = [1, 20, 50, 80, 100]
+
+/** 所有できる相棒の最大数 */
+export const PET_MAX_PETS = 3
+/** 2体目以降を解放するコイン費用（将来リアル課金に差し替え） */
+export const PET_SLOT_COST = 500
 
 /** 気分の日数しきい値（最終学習日からの経過日数） */
 export const PET_MOOD_DAYS = { happyMax: 0, normalMax: 1, hungryMax: 2 } as const
