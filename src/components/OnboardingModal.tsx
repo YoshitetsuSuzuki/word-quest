@@ -7,7 +7,7 @@ const ONBOARDED_KEY = 'wordquest.onboarded'
 /** 初回起動時のオンボーディング（名前入力＋遊び方） */
 export function OnboardingModal() {
   const { setName } = useGame()
-  const { t } = useNav()
+  const { t, locale, setLocale } = useNav()
   const [done, setDone] = useState(() => localStorage.getItem(ONBOARDED_KEY) === '1')
   const [step, setStep] = useState(0)
   const [name, setNameInput] = useState('')
@@ -27,6 +27,13 @@ export function OnboardingModal() {
           <>
             <div className="text-5xl mb-2">🌏</div>
             <h2 className="text-xl font-black">{t('onboard.welcome')}</h2>
+            <div className="mt-4">
+              <div className="text-xs text-white/45 mb-2 font-bold">{t('onboarding.chooseLang')}</div>
+              <div className="grid grid-cols-2 gap-3">
+                <button className={`btn-ghost py-3 ${locale === 'ja' ? 'ring-2 ring-accent' : ''}`} onClick={() => setLocale('ja')}>日本語</button>
+                <button className={`btn-ghost py-3 ${locale === 'en' ? 'ring-2 ring-accent' : ''}`} onClick={() => setLocale('en')}>English</button>
+              </div>
+            </div>
             <p className="text-sm text-white/60 mt-3 leading-relaxed">
               {t('onboard.intro')}<span className="text-accent2">{t('onboard.introAccent')}</span>{t('onboard.introRest')}
             </p>

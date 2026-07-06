@@ -50,6 +50,9 @@ export interface Strings {
   'onboard.welcome': string; 'onboard.intro': string; 'onboard.introAccent': string; 'onboard.introRest': string
   'onboard.bullet1': string; 'onboard.bullet2': string; 'onboard.bullet3': string; 'onboard.start': string
   'onboard.nameTitle': string; 'onboard.nameDesc': string; 'onboard.namePlaceholder': string; 'onboard.startWithName': string; 'onboard.startNoName': string
+  'onboarding.chooseLang': string
+  'settings.language': string
+  'cat.english': string; 'cat.chinese': string; 'cat.korean': string
   'login.title': string; 'login.streakPre': string; 'login.streakPost': string; 'login.claim': string; 'login.dayUnit': string
   'celebrate.levelupSub': string; 'celebrate.levelupSubPost': string; 'celebrate.raidTitlePre': string; 'celebrate.raidTitlePost': string; 'celebrate.raidClearDefault': string
   'celebrate.achievement': string; 'celebrate.streakPre': string; 'celebrate.streakPost': string; 'celebrate.tapContinue': string

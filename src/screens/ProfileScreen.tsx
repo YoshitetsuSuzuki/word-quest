@@ -18,6 +18,8 @@ export function ProfileScreen() {
     setBgmEnabled,
     bgmVolume,
     setBgmVolume,
+    locale,
+    setLocale,
     t,
   } = useNav()
   const title = equippedTitle(user)
@@ -97,7 +99,27 @@ export function ProfileScreen() {
       <div className="card p-4 space-y-1">
         <h3 className="font-black text-sm mb-2">{t('profile.settings')}</h3>
 
-        <Toggle label={t('profile.autoPlay')} on={soundEnabled} onToggle={() => setSoundEnabled(!soundEnabled)} />
+        <div className="flex items-center justify-between py-2">
+          <span className="text-sm">{t('settings.language')}</span>
+          <div className="grid grid-cols-2 gap-2">
+            <button
+              onClick={() => setLocale('ja')}
+              className={`px-3 py-1.5 rounded-lg text-xs font-bold transition ${locale === 'ja' ? 'bg-accent text-white' : 'bg-panel2 text-white/50'}`}
+            >
+              日本語
+            </button>
+            <button
+              onClick={() => setLocale('en')}
+              className={`px-3 py-1.5 rounded-lg text-xs font-bold transition ${locale === 'en' ? 'bg-accent text-white' : 'bg-panel2 text-white/50'}`}
+            >
+              English
+            </button>
+          </div>
+        </div>
+
+        <div className="border-t border-white/5 pt-2 mt-2">
+          <Toggle label={t('profile.autoPlay')} on={soundEnabled} onToggle={() => setSoundEnabled(!soundEnabled)} />
+        </div>
 
         <div className="border-t border-white/5 pt-2 mt-2">
           <Toggle label={t('profile.sfx')} on={sfxEnabled} onToggle={() => setSfxEnabled(!sfxEnabled)} />
