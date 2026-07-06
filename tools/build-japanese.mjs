@@ -279,10 +279,28 @@ function pickDistractors(answer) {
   return out
 }
 
+// リスニング穴埋め/例文暗記用の例文(Tatoeba日英)。{ 見出し: { ex:"日本語文 — English", blank:"空欄語" } }
+let jpExamples = {}
+try {
+  jpExamples = JSON.parse(fs.readFileSync(path.join(toolsDir, 'examples.custom.japanese.json'), 'utf8'))
+} catch {
+  // 例文が無ければ例文なしで生成
+}
+function exampleFor(word) {
+  const e = jpExamples[word]
+  if (!e || typeof e.ex !== 'string' || typeof e.blank !== 'string') return null
+  const sentence = e.ex.split(' — ')[0]
+  const i = sentence.indexOf(e.blank)
+  if (i < 0 || sentence.indexOf(e.blank, i + 1) >= 0) return null // ちょうど1回のみ採用
+  const en = e.ex.split(' — ')[1] || ''
+  return { example: e.ex, exampleForm: e.blank, exampleTranslations: en ? { en } : undefined }
+}
+
 const questions = confirmedEntries
   .map((e, i) => {
     const gloss = confirmed[e.word]
     const pron = `${e.kana} (${kanaToRomaji(e.kana)})`
+    const ex = exampleFor(e.word)
     return {
       id: `jp-${String(i + 1).padStart(5, '0')}`,
       category: 'japanese',
@@ -293,6 +311,7 @@ const questions = confirmedEntries
       difficulty: e.level,
       tags: [posLabel(posByHeadword[e.word])],
       pronunciation: pron,
+      ...(ex ? { example: ex.example, exampleForm: ex.exampleForm, ...(ex.exampleTranslations ? { exampleTranslations: ex.exampleTranslations } : {}) } : {}),
       verified: true,
     }
   })
