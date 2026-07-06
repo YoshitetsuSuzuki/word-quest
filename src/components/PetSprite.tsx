@@ -4,9 +4,9 @@ const EYE = '#3a3a4d'
 const CHEEK = '#ff9fb8'
 
 /**
- * 学習相棒のプロシージャルSVG（ポケモン式・劇的進化）。
- * form(1..4)で体型・姿勢・翼・角・尻尾が丸ごと変わる（赤ちゃん→こども→成体→伝説）。
- * species は配色と頭モチーフ(葉/炎/ひれ)で個性を出す。mood は表情。
+ * 学習相棒のプロシージャルSVG。
+ * species ごとに体そのものが別デザイン（竜/海ヘビ/悪魔/天使/電気獣/不死鳥/天体/植物獣）。
+ * form(1..5=レベル帯) は サイズ・オーラ・光背 で「強そうさ」を上乗せ。mood は表情。
  */
 export function PetSprite({
   species,
@@ -26,8 +26,8 @@ export function PetSprite({
   const body = sad ? c.bodySad : c.body
   const line = sad ? c.lineSad : c.line
   const belly = c.belly
+  const tough = form >= 3
 
-  // n芒星のパス
   function starD(cx: number, cy: number, spikes: number, outer: number, inner: number) {
     let d = ''
     for (let i = 0; i < spikes * 2; i++) {
@@ -37,55 +37,12 @@ export function PetSprite({
     }
     return d + 'z'
   }
-
-  // 頭モチーフ（種の個性）。頭中心 hx と頭頂 topY、倍率 s。
-  function motif(hx: number, topY: number, s: number) {
-    switch (species) {
-      case 'green':
-        return <path d={`M${hx} ${topY + 2} q${-8 * s} ${-6 * s} ${-1 * s} ${-13 * s} q${7 * s} ${5 * s} ${1 * s} ${13 * s} z`} fill={c.motif} stroke="#5aa84a" strokeWidth="0.8" />
-      case 'fire':
-        return (
-          <>
-            <path d={`M${hx} ${topY - 11 * s} q${-6 * s} ${9 * s} 0 ${12 * s} q${6 * s} ${-4 * s} 0 ${-12 * s} z`} fill={c.motif} />
-            <path d={`M${hx} ${topY - 6 * s} q${-3 * s} ${5 * s} 0 ${7 * s} q${3 * s} ${-3 * s} 0 ${-7 * s} z`} fill={c.motif2} />
-          </>
-        )
-      case 'water':
-        return <path d={`M${hx} ${topY - 12 * s} q${-6 * s} ${8 * s} 0 ${13 * s} q${6 * s} ${-6 * s} 0 ${-13 * s} z`} fill={c.motif} stroke={line} strokeWidth="0.8" />
-      case 'light': // 光: きらめく星
-        return (
-          <>
-            <path d={starD(hx, topY - 6 * s, 4, 9 * s, 3 * s)} fill={c.motif} />
-            <path d={starD(hx, topY - 6 * s, 4, 4 * s, 1.4 * s)} fill={c.motif2} />
-          </>
-        )
-      case 'dark': // 闇: 三日月
-        return <path d={`M${hx - 1} ${topY - 15 * s} q${-9 * s} ${8 * s} 0 ${15 * s} q${-3.5 * s} ${-8 * s} 0 ${-15 * s} z`} fill={c.motif} stroke="#4a3080" strokeWidth="0.6" />
-      case 'thunder': // 雷: 稲妻
-        return <path d={`M${hx - 1 * s} ${topY - 15 * s} l${6 * s} 0 -${3 * s} ${6 * s} ${5 * s} 0 -${9 * s} ${13 * s} ${2 * s} -${9 * s} -${4 * s} 0 ${3 * s} -${6 * s} z`} fill={c.motif} stroke="#b07d00" strokeWidth="0.5" />
-      case 'rainbow': // 虹: 宝石
-        return (
-          <>
-            <path d={`M${hx} ${topY - 16 * s} l${7 * s} ${5 * s} -${7 * s} ${10 * s} -${7 * s} -${10 * s} z`} fill={c.motif} stroke="#6a5acd" strokeWidth="0.6" />
-            <path d={`M${hx} ${topY - 16 * s} l${7 * s} ${5 * s} -${14 * s} 0 z`} fill={c.motif2} opacity="0.85" />
-          </>
-        )
-      case 'star': // 星: 五芒星
-        return (
-          <>
-            <path d={starD(hx, topY - 7 * s, 5, 10 * s, 4 * s)} fill={c.motif} stroke="#c99a1e" strokeWidth="0.6" />
-            <path d={starD(hx, topY - 7 * s, 5, 4.5 * s, 1.8 * s)} fill={c.motif2} />
-          </>
-        )
-    }
-  }
-
-  const star = (x: number, y: number, s: number, key: string) => (
-    <path key={key} d={`M${x} ${y - s} l${s * 0.32} ${s * 0.68} ${s * 0.68} ${s * 0.32} -${s * 0.68} ${s * 0.32} -${s * 0.32} ${s * 0.68} -${s * 0.32} -${s * 0.68} -${s * 0.68} -${s * 0.32} ${s * 0.68} -${s * 0.32} z`} fill="#ffd966" />
+  const sparkle = (x: number, y: number, s: number, key: string) => (
+    <path key={key} d={starD(x, y, 4, s, s * 0.4)} fill="#ffd966" />
   )
 
-  // 顔（頭中心 hx,hy 半径 hr）。表情は mood 依存。tough=きりっと眉。
-  function face(hx: number, hy: number, hr: number, tough: boolean) {
+  // 顔（頭中心 hx,hy 半径 hr）
+  function face(hx: number, hy: number, hr: number) {
     const ex = hr * 0.42
     const ey = hy - hr * 0.05
     const erx = hr * 0.2
@@ -122,133 +79,156 @@ export function PetSprite({
       </>
     )
   }
+  const foot = (x: number, y: number) => <ellipse cx={x} cy={y} rx="7" ry="4.5" fill={body} stroke={line} strokeWidth="2" />
+  const hand = (x: number, y: number) => <ellipse cx={x} cy={y} rx="5" ry="6.5" fill={body} stroke={line} strokeWidth="2" />
 
-  const S = { width: size, height: size, viewBox: '0 0 100 100', role: 'img' as const, 'aria-label': `${species} form ${form} lv ${level} ${mood}` }
-  const st = (w: number) => ({ fill: body, stroke: line, strokeWidth: w })
-
-  // ---- Form 1: 赤ちゃん（小さな丸） ----
-  if (form <= 1) {
-    return (
-      <svg {...S}>
-        {motif(50, 38, 0.9)}
-        <ellipse cx={42} cy={78} rx={7} ry={4.5} {...st(2)} />
-        <ellipse cx={58} cy={78} rx={7} ry={4.5} {...st(2)} />
-        <ellipse cx={50} cy={56} rx={21} ry={22} {...st(2.5)} />
-        <ellipse cx={50} cy={63} rx={12} ry={11} fill={belly} />
-        {face(50, 52, 20, false)}
-      </svg>
-    )
+  // ---- 種ごとの creature（すべて 0..100 座標・頭は上部）----
+  function creature() {
+    switch (species) {
+      case 'green': // 植物獣：葉の角＋葉の尻尾
+        return (
+          <>
+            <path d={`M40 40 q-9 -12 -2 -23 q8 7 5 21 z`} fill={c.motif} stroke="#5aa84a" strokeWidth="1" />
+            <path d={`M60 40 q9 -12 2 -23 q-8 7 -5 21 z`} fill={c.motif} stroke="#5aa84a" strokeWidth="1" />
+            <path d={`M70 76 q17 3 16 -13 q7 12 -5 19 q-9 2 -13 -6 z`} fill={c.motif2} stroke="#5aa84a" strokeWidth="1" />
+            {foot(41, 88)}{foot(59, 88)}
+            <ellipse cx="50" cy="62" rx="23" ry="24" fill={body} stroke={line} strokeWidth="2.5" />
+            <ellipse cx="50" cy="68" rx="13" ry="13" fill={belly} />
+            {hand(28, 64)}{hand(72, 64)}
+            {face(50, 54, 18)}
+          </>
+        )
+      case 'fire': // 二足ドラゴン：翼・角・炎鬣・尻尾＋炎
+        return (
+          <>
+            <path d={`M40 52 q-26 -14 -34 4 q14 6 31 0 z`} fill={line} />
+            <path d={`M60 52 q26 -14 34 4 q-14 6 -31 0 z`} fill={line} />
+            <path d={`M62 80 q24 6 20 -16 q10 14 -4 24 q-10 4 -16 -8 z`} fill={body} stroke={line} strokeWidth="2" />
+            <path d={`M80 60 l5 -8 -1 9 8 -3 -7 9 z`} fill={c.motif2} />
+            {foot(42, 90)}{foot(58, 90)}
+            <ellipse cx="50" cy="66" rx="16" ry="19" fill={body} stroke={line} strokeWidth="2.5" />
+            <ellipse cx="50" cy="70" rx="9" ry="12" fill={belly} />
+            {hand(33, 66)}{hand(67, 66)}
+            <path d="M40 26 q-4 -13 3 -20 q4 8 2 20 z" fill={line} />
+            <path d="M60 26 q4 -13 -3 -20 q-4 8 -2 20 z" fill={line} />
+            <path d="M42 24 q3 -9 6 -2 q3 -8 6 0 q4 -3 4 5 l-3 5 q-8 -4 -14 0 z" fill={c.motif2} />
+            <ellipse cx="49" cy="34" rx="14" ry="12" fill={body} stroke={line} strokeWidth="2.5" />
+            <path d="M34 38 q-8 1 -10 5 q9 3 12 -1 z" fill={body} stroke={line} strokeWidth="1.5" />
+            {face(49, 34, 12)}
+          </>
+        )
+      case 'water': // 海ヘビ：とぐろ胴＋ひれ
+        return (
+          <>
+            <path d="M50 90 q-18 -2 -20 -21 q-2 -20 17 -24 q20 -4 21 -19" fill="none" stroke={line} strokeWidth="15" strokeLinecap="round" />
+            <path d="M50 90 q-18 -2 -20 -21 q-2 -20 17 -24 q20 -4 21 -19" fill="none" stroke={body} strokeWidth="9.5" strokeLinecap="round" />
+            <path d="M27 66 l-11 -4 7 8 -9 3 11 4 z" fill={c.motif} stroke={line} strokeWidth="1.5" />
+            <path d="M50 92 q-7 4 -13 2 q5 -6 13 -4 z" fill={c.motif} />
+            <path d="M44 16 q3 -11 8 -9 q6 -2 9 9 q-9 -4 -17 0 z" fill={c.motif2} stroke={line} strokeWidth="1" />
+            <ellipse cx="52" cy="30" rx="15" ry="14" fill={body} stroke={line} strokeWidth="2.5" />
+            {face(52, 30, 13)}
+          </>
+        )
+      case 'light': // 天使：羽根翼＋光輪
+        return (
+          <>
+            <path d="M40 54 q-28 -20 -38 -2 q-3 13 7 18 q15 4 31 -7 z" fill={belly} stroke={line} strokeWidth="1.5" />
+            <path d="M60 54 q28 -20 38 -2 q3 13 -7 18 q-15 4 -31 -7 z" fill={belly} stroke={line} strokeWidth="1.5" />
+            <ellipse cx="50" cy="16" rx="11" ry="3.5" fill="none" stroke={c.motif} strokeWidth="3" />
+            {foot(43, 88)}{foot(57, 88)}
+            <ellipse cx="50" cy="62" rx="20" ry="22" fill={body} stroke={line} strokeWidth="2.5" />
+            <ellipse cx="50" cy="67" rx="11" ry="13" fill={belly} />
+            {face(50, 40, 15)}
+          </>
+        )
+      case 'dark': // 悪魔：大きな曲角＋コウモリ翼＋槍尻尾
+        return (
+          <>
+            <path d="M44 50 q-32 -8 -38 -26 q-4 22 8 33 q14 7 30 1 z" fill={line} />
+            <path d="M56 50 q32 -8 38 -26 q4 22 -8 33 q-14 7 -30 1 z" fill={line} />
+            <path d="M60 80 q22 6 20 -14 q8 14 -4 22 q-10 4 -16 -8 z" fill={body} stroke={line} strokeWidth="2" />
+            <path d="M80 88 l8 6 -9 1 3 8 -7 -6 z" fill={line} />
+            {foot(42, 90)}{foot(58, 90)}
+            <path d="M35 26 q-9 -16 -1 -23 q11 8 9 25 z" fill={line} stroke="#2a1a4a" strokeWidth="1" />
+            <path d="M65 26 q9 -16 1 -23 q-11 8 -9 25 z" fill={line} stroke="#2a1a4a" strokeWidth="1" />
+            <ellipse cx="50" cy="64" rx="17" ry="20" fill={body} stroke={line} strokeWidth="2.5" />
+            <ellipse cx="50" cy="68" rx="10" ry="13" fill={belly} />
+            {hand(32, 64)}{hand(68, 64)}
+            <ellipse cx="50" cy="36" rx="15" ry="13" fill={body} stroke={line} strokeWidth="2.5" />
+            {face(50, 36, 13)}
+          </>
+        )
+      case 'thunder': // 電気獣：大きな尖り耳＋稲妻尻尾
+        return (
+          <>
+            <path d="M36 34 l-8 -24 18 14 z" fill={body} stroke={line} strokeWidth="2" />
+            <path d="M64 34 l8 -24 -18 14 z" fill={body} stroke={line} strokeWidth="2" />
+            <path d="M39 22 l-4 -12 9 7 z" fill={c.motif} />
+            <path d="M61 22 l4 -12 -9 7 z" fill={c.motif} />
+            <path d="M70 74 l10 -3 -5 8 9 1 -12 12 3 -9 -8 2 z" fill={c.motif} stroke={line} strokeWidth="1" />
+            {foot(41, 88)}{foot(59, 88)}
+            <ellipse cx="50" cy="60" rx="23" ry="23" fill={body} stroke={line} strokeWidth="2.5" />
+            <ellipse cx="50" cy="66" rx="13" ry="12" fill={belly} />
+            {hand(29, 62)}{hand(71, 62)}
+            <circle cx="34" cy="60" r="3.4" fill={c.motif} opacity="0.9" />
+            <circle cx="66" cy="60" r="3.4" fill={c.motif} opacity="0.9" />
+            {face(50, 52, 17)}
+          </>
+        )
+      case 'rainbow': // 不死鳥：大きな羽＋長い尾羽＋冠羽
+        return (
+          <>
+            <path d="M40 54 q-30 -24 -40 0 q-2 14 8 18 q16 4 32 -8 z" fill={c.motif2} stroke={line} strokeWidth="1.5" />
+            <path d="M60 54 q30 -24 40 0 q2 14 -8 18 q-16 4 -32 -8 z" fill={c.motif} stroke={line} strokeWidth="1.5" />
+            <path d="M50 82 q-6 16 -14 22 q10 0 14 -8 q4 8 14 8 q-8 -6 -14 -22 z" fill={c.motif} stroke={line} strokeWidth="1" />
+            <path d="M44 20 q-4 -12 2 -16 q3 6 4 14 z" fill={c.motif} />
+            <path d="M50 18 q0 -14 6 -17 q1 8 -2 15 z" fill={c.motif2} />
+            <path d="M56 20 q4 -12 8 -14 q-1 8 -4 14 z" fill={c.motif} />
+            {foot(43, 88)}{foot(57, 88)}
+            <ellipse cx="50" cy="62" rx="19" ry="21" fill={body} stroke={line} strokeWidth="2.5" />
+            <ellipse cx="50" cy="67" rx="11" ry="12" fill={belly} />
+            {face(50, 42, 15)}
+          </>
+        )
+      default: // star 天体：星付き翼＋星の光輪＋星の尾
+        return (
+          <>
+            <path d="M40 52 q-24 -16 -34 2 q14 8 32 4 z" fill={c.motif2} stroke={line} strokeWidth="1.5" />
+            <path d="M60 52 q24 -16 34 2 q-14 8 -32 4 z" fill={c.motif2} stroke={line} strokeWidth="1.5" />
+            <path d={starD(12, 46, 5, 5, 2)} fill={c.motif} />
+            <path d={starD(88, 46, 5, 5, 2)} fill={c.motif} />
+            <path d={starD(78, 80, 5, 5, 2)} fill={c.motif} />
+            {foot(42, 88)}{foot(58, 88)}
+            <ellipse cx="50" cy="60" rx="20" ry="21" fill={body} stroke={line} strokeWidth="2.5" />
+            <ellipse cx="50" cy="66" rx="11" ry="12" fill={belly} />
+            {hand(30, 60)}{hand(70, 60)}
+            <path d={starD(50, 22, 5, 9, 3.6)} fill={c.motif} stroke="#c99a1e" strokeWidth="0.6" />
+            {face(50, 46, 15)}
+          </>
+        )
+    }
   }
 
-  // ---- Form 2: こども（頭＋丸い体・小さな角と手足） ----
-  if (form === 2) {
-    return (
-      <svg {...S}>
-        {/* 角 */}
-        <path d="M40 30 l-3 -9 l6 3 z" fill={line} />
-        <path d="M60 30 l3 -9 l-6 3 z" fill={line} />
-        {motif(50, 26, 0.85)}
-        {/* 足 */}
-        <ellipse cx={41} cy={86} rx={7} ry={5} {...st(2)} />
-        <ellipse cx={59} cy={86} rx={7} ry={5} {...st(2)} />
-        {/* 体 */}
-        <ellipse cx={50} cy={68} rx={20} ry={17} {...st(2.5)} />
-        <ellipse cx={50} cy={72} rx={12} ry={11} fill={belly} />
-        {/* 手 */}
-        <ellipse cx={31} cy={66} rx={5} ry={7} {...st(2)} />
-        <ellipse cx={69} cy={66} rx={5} ry={7} {...st(2)} />
-        {/* 頭 */}
-        <ellipse cx={50} cy={40} rx={16} ry={15} {...st(2.5)} />
-        {face(50, 40, 15, false)}
-      </svg>
-    )
-  }
+  // form によるサイズ・オーラ・光背（強そうさ）
+  const scale = [0.85, 0.85, 0.93, 1.0, 1.06, 1.12][form] ?? 1
+  const auraN = form >= 5 ? 6 : form >= 4 ? 4 : form >= 3 ? 2 : 0
+  const auraPos: [number, number, number][] = [
+    [14, 40, 4], [86, 42, 3.6], [24, 24, 3], [76, 24, 3], [50, 8, 4.5], [90, 74, 3.4],
+  ]
 
-  // ---- Form 3: 成体（直立・翼と尻尾・角） ----
-  if (form === 3) {
-    return (
-      <svg {...S}>
-        {/* 翼(小) */}
-        <path d="M36 58 q-20 -8 -26 6 q14 4 26 2 z" fill={c.motif2} stroke={line} strokeWidth="1.5" />
-        <path d="M64 58 q20 -8 26 6 q-14 4 -26 2 z" fill={c.motif2} stroke={line} strokeWidth="1.5" />
-        {/* 尻尾 */}
-        <path d="M64 78 q18 6 16 -10 q-2 10 -14 6 z" fill={body} stroke={line} strokeWidth="1.5" />
-        {/* 角 */}
-        <path d="M41 22 l-4 -12 l7 4 z" fill={line} />
-        <path d="M59 22 l4 -12 l-7 4 z" fill={line} />
-        {motif(50, 18, 0.8)}
-        {/* 脚 */}
-        <ellipse cx={42} cy={90} rx={7} ry={5} {...st(2)} />
-        <ellipse cx={58} cy={90} rx={7} ry={5} {...st(2)} />
-        <rect x={38} y={74} width={8} height={14} rx={4} fill={body} stroke={line} strokeWidth="1.6" />
-        <rect x={54} y={74} width={8} height={14} rx={4} fill={body} stroke={line} strokeWidth="1.6" />
-        {/* 胴 */}
-        <ellipse cx={50} cy={62} rx={17} ry={21} {...st(2.5)} />
-        <ellipse cx={50} cy={66} rx={10} ry={14} fill={belly} />
-        {/* 腕 */}
-        <ellipse cx={31} cy={58} rx={5} ry={9} {...st(2)} transform="rotate(20 31 58)" />
-        <ellipse cx={69} cy={58} rx={5} ry={9} {...st(2)} transform="rotate(-20 69 58)" />
-        {/* 頭 */}
-        <ellipse cx={50} cy={34} rx={14} ry={13} {...st(2.5)} />
-        {face(50, 34, 13, true)}
-        {star(16, 46, 3.6, 's1')}
-        {star(84, 48, 3, 's2')}
-      </svg>
-    )
-  }
-
-  // ---- Form 4/5: 伝説（竜）。form5(Lv100)は究極体＝金色オーラの光背つき ----
-  const ultimate = form >= 5
   return (
-    <svg {...S}>
-      {/* 究極体の光背（放射光＋リング） */}
-      {ultimate && (
+    <svg width={size} height={size} viewBox="0 0 100 100" role="img" aria-label={`${species} form ${form} lv ${level} ${mood}`}>
+      {form >= 5 && (
         <g opacity="0.9">
-          <circle cx="50" cy="52" r="46" fill="none" stroke="#ffe08a" strokeWidth="1" opacity="0.5" />
+          <circle cx="50" cy="54" r="46" fill="none" stroke="#ffe08a" strokeWidth="1" opacity="0.5" />
           {Array.from({ length: 12 }).map((_, i) => {
             const a = (i * Math.PI) / 6
-            const x1 = 50 + Math.cos(a) * 40
-            const y1 = 52 + Math.sin(a) * 40
-            const x2 = 50 + Math.cos(a) * 48
-            const y2 = 52 + Math.sin(a) * 48
-            return <line key={`ray${i}`} x1={x1} y1={y1} x2={x2} y2={y2} stroke="#ffd45e" strokeWidth="2" strokeLinecap="round" />
+            return <line key={`ray${i}`} x1={50 + Math.cos(a) * 40} y1={54 + Math.sin(a) * 40} x2={50 + Math.cos(a) * 48} y2={54 + Math.sin(a) * 48} stroke="#ffd45e" strokeWidth="2" strokeLinecap="round" />
           })}
         </g>
       )}
-      {/* 大翼 */}
-      <path d="M34 52 q-30 -16 -32 4 q-2 16 10 18 q10 -14 22 -10 z" fill={c.motif2} stroke={line} strokeWidth="1.6" />
-      <path d="M66 52 q30 -16 32 4 q2 16 -10 18 q-10 -14 -22 -10 z" fill={c.motif2} stroke={line} strokeWidth="1.6" />
-      <path d="M12 58 l-6 8 M20 62 l-5 9 M80 58 l6 8 M76 62 l5 9" stroke={line} strokeWidth="1" fill="none" strokeLinecap="round" />
-      {/* 尻尾(大・カール) */}
-      <path d="M64 82 q22 10 20 -14 q6 16 -6 22 q-8 4 -14 -8 z" fill={body} stroke={line} strokeWidth="1.6" />
-      <path d="M84 66 l4 -6 -1 7 6 -2 -5 5 z" fill={c.motif} />
-      {/* 大角 */}
-      <path d="M40 20 q-10 -6 -8 -18 q6 4 12 16 z" fill={line} />
-      <path d="M60 20 q10 -6 8 -18 q-6 4 -12 16 z" fill={line} />
-      {motif(50, 14, 0.85)}
-      {/* 王冠 */}
-      <path d="M40 12 l4 8 6 -11 6 11 4 -8 -2 15 -18 0 z" fill="#ffd45e" stroke="#e6a90c" strokeWidth="1.3" strokeLinejoin="round" />
-      {/* 脚 */}
-      <ellipse cx={41} cy={92} rx={8} ry={5.5} {...st(2)} />
-      <ellipse cx={59} cy={92} rx={8} ry={5.5} {...st(2)} />
-      <rect x={36} y={74} width={9} height={16} rx={4} fill={body} stroke={line} strokeWidth="1.6" />
-      <rect x={55} y={74} width={9} height={16} rx={4} fill={body} stroke={line} strokeWidth="1.6" />
-      {/* 胴(大) */}
-      <ellipse cx={50} cy={60} rx={19} ry={23} {...st(2.8)} />
-      <ellipse cx={50} cy={64} rx={11} ry={15} fill={belly} />
-      {/* 腕(太) */}
-      <ellipse cx={28} cy={56} rx={6} ry={11} {...st(2.2)} transform="rotate(22 28 56)" />
-      <ellipse cx={72} cy={56} rx={6} ry={11} {...st(2.2)} transform="rotate(-22 72 56)" />
-      {/* 頭 */}
-      <ellipse cx={50} cy={32} rx={15} ry={14} {...st(2.8)} />
-      {face(50, 32, 14, true)}
-      {star(14, 44, 4, 'l1')}
-      {star(86, 46, 3.6, 'l2')}
-      {star(24, 30, 3, 'l3')}
-      {star(76, 30, 3, 'l4')}
-      {ultimate && star(50, 6, 4.5, 'u1')}
-      {ultimate && star(10, 70, 3.4, 'u2')}
-      {ultimate && star(90, 72, 3.4, 'u3')}
+      <g transform={`translate(50 56) scale(${scale}) translate(-50 -56)`}>{creature()}</g>
+      {auraPos.slice(0, auraN).map(([x, y, s], i) => sparkle(x, y, s, `a${i}`))}
     </svg>
   )
 }
