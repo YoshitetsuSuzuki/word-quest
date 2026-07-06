@@ -63,7 +63,8 @@ export const en: Strings = {
   'daily.quizPre': '', 'daily.quizUnit': ' questions today', 'daily.seeWord': 'See word of the day', 'daily.loginBonus': 'Login bonus', 'daily.wordOfDay': 'Word of the day',
   'weekly.thisWeek': 'This week', 'weekly.days': 'SMTWTFS',
   'pet.name': 'Mana',
-  'pet.stage1': 'Egg', 'pet.stage2': 'Chick', 'pet.stage3': 'Young', 'pet.stage4': 'Grown', 'pet.stage5': 'Legend',
+  'pet.speciesGreen': 'Leaf', 'pet.speciesFire': 'Ember', 'pet.speciesWater': 'Drop',
+  'pet.chooseTitle': 'Choose your buddy', 'pet.chooseHint': 'It grows and evolves as you study. Pick one!',
   'pet.moodHappy': 'Great job today!', 'pet.moodNormal': "Let's study together", 'pet.moodHungry': 'Ready to learn?', 'pet.moodSad': 'I miss you…',
-  'pet.evolved': '✨ Evolved!', 'pet.toNextPre': '', 'pet.toNextUnit': ' to next stage', 'pet.maxStage': 'Max stage!',
+  'pet.evolved': '✨ Evolved!', 'pet.toNextPre': '', 'pet.toNextUnit': ' XP to level up', 'pet.maxLevel': 'Max level!',
 }

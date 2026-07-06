@@ -1,18 +1,47 @@
 // ============================================================================
 // petConfig.ts  学習相棒（育成キャラ）の設定データ
-// コードを書き換えずにしきい値・段階を調整できるようにする。
+// ポケモン式: スターターを選び、学習でXPが増え、サボると減る。Lv100で最大。
+// 大進化4段階＋5レベルごとの小強化。
 // ============================================================================
 
-/** 成長段階（1..5）。learnedQuestionIds.length がしきい値以上で昇格。 */
-export const PET_STAGE_THRESHOLDS: number[] = [0, 10, 40, 120, 300]
+export type PetSpecies = 'green' | 'fire' | 'water'
+export const PET_SPECIES: PetSpecies[] = ['green', 'fire', 'water']
 
-export type PetStage = 1 | 2 | 3 | 4 | 5
 export type PetMood = 'happy' | 'normal' | 'hungry' | 'sad'
 
-/** 気分の日数しきい値（最終学習日からの経過日数）。 */
-export const PET_MOOD_DAYS = {
-  happyMax: 0, // 今日学習済み → ごきげん
-  normalMax: 1, // 1日 → ふつう
-  hungryMax: 2, // 2日 → おなかすいた
-  // 3日以上 → しょんぼり
-} as const
+export const PET_MAX_LEVEL = 100
+/** Lv L → L+1 に必要なXP = BASE + STEP*(L-1)（ゆるやかな増加カーブ） */
+export const PET_XP_BASE = 40
+export const PET_XP_STEP = 4
+/** 学習しなかった1日ごとに減るXP（ゆるめ） */
+export const PET_DECAY_PER_DAY = 15
+
+/** 大進化のしきい値。到達レベルで form 1..4 が決まる */
+export const PET_FORM_THRESHOLDS = [1, 20, 50, 80]
+
+/** 気分の日数しきい値（最終学習日からの経過日数） */
+export const PET_MOOD_DAYS = { happyMax: 0, normalMax: 1, hungryMax: 2 } as const
+
+export interface SpeciesColor {
+  body: string
+  bodySad: string
+  belly: string
+  line: string
+  lineSad: string
+  /** モチーフ色（葉・炎・ひれ） */
+  motif: string
+  motif2: string
+}
+
+export const PET_COLORS: Record<PetSpecies, SpeciesColor> = {
+  green: { body: '#8fd98a', bodySad: '#b6cdb2', belly: '#e4f7dd', line: '#4fa84e', lineSad: '#86a583', motif: '#7fd06a', motif2: '#e9f5a0' },
+  fire: { body: '#ffa25c', bodySad: '#d8b49c', belly: '#ffe9d6', line: '#e07a2e', lineSad: '#b08a6e', motif: '#ff7a3c', motif2: '#ffd24a' },
+  water: { body: '#7fc4f5', bodySad: '#a9c2d6', belly: '#dcf0fd', line: '#3f8fd0', lineSad: '#7f97a8', motif: '#59b0ee', motif2: '#bfe6ff' },
+}
+
+/** 種の日本語名キー（i18n） */
+export const PET_SPECIES_NAME_KEY: Record<PetSpecies, string> = {
+  green: 'pet.speciesGreen',
+  fire: 'pet.speciesFire',
+  water: 'pet.speciesWater',
+}

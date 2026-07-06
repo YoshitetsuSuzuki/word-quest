@@ -1,57 +1,96 @@
 // ============================================================================
 // PetEngine.ts  学習相棒の状態導出（純粋関数）
-// 成長段階・気分は既存の学習/ストリークデータから導出する（新規保存は最小限）。
+// XPは学習で増え・サボると減る。Lv100で最大。大進化4段階＋レベルで連続強化。
 // ============================================================================
 import type { User } from '../types'
-import { PET_STAGE_THRESHOLDS, PET_MOOD_DAYS, type PetStage, type PetMood } from '../config/petConfig'
+import {
+  PET_MAX_LEVEL,
+  PET_XP_BASE,
+  PET_XP_STEP,
+  PET_DECAY_PER_DAY,
+  PET_FORM_THRESHOLDS,
+  PET_MOOD_DAYS,
+  type PetMood,
+  type PetSpecies,
+} from '../config/petConfig'
 
-/** YYYY-MM-DD を UTC 正午の epoch(ms) に（DST影響を避ける） */
+// ---- 日付ユーティリティ ----
 function parseDay(s: string): number {
   const [y, m, d] = s.split('-').map(Number)
   return Date.UTC(y, (m || 1) - 1, d || 1, 12)
 }
-
-/** 2つの YYYY-MM-DD の日数差（a - b, 日単位） */
 export function diffDays(a: string, b: string): number {
   return Math.round((parseDay(a) - parseDay(b)) / 86400000)
 }
+export function addDays(s: string, n: number): string {
+  const t = parseDay(s) + n * 86400000
+  const d = new Date(t)
+  const y = d.getUTCFullYear()
+  const m = String(d.getUTCMonth() + 1).padStart(2, '0')
+  const day = String(d.getUTCDate()).padStart(2, '0')
+  return `${y}-${m}-${day}`
+}
 
-/** 育てた語数から成長段階(1..5)を返す */
-export function petStage(learnedCount: number): PetStage {
-  let stage = 1
-  for (let i = 0; i < PET_STAGE_THRESHOLDS.length; i++) {
-    if (learnedCount >= PET_STAGE_THRESHOLDS[i]) stage = i + 1
+// ---- XP ↔ レベル ----
+/** Lv L → L+1 に必要なXP */
+export function xpToNext(level: number): number {
+  return PET_XP_BASE + PET_XP_STEP * (level - 1)
+}
+/** Lv `level` に到達するのに必要な累計XP（Lv1=0） */
+export function xpForLevel(level: number): number {
+  let sum = 0
+  for (let l = 1; l < level; l++) sum += xpToNext(l)
+  return sum
+}
+/** Lv100到達に必要な累計XP（XPの上限） */
+export const PET_MAX_XP = xpForLevel(PET_MAX_LEVEL)
+
+/** 累計XPから現在レベル(1..100)を返す */
+export function levelFromXp(xp: number): number {
+  let level = 1
+  let remain = Math.max(0, xp)
+  while (level < PET_MAX_LEVEL && remain >= xpToNext(level)) {
+    remain -= xpToNext(level)
+    level++
   }
-  return stage as PetStage
+  return level
 }
 
-/** 次段階に必要な語数（最終段階なら null） */
-export function nextStageAt(stage: PetStage): number | null {
-  return stage >= 5 ? null : PET_STAGE_THRESHOLDS[stage]
+/** 現レベル内の進捗 {level, into, need, ratio} */
+export function levelProgress(xp: number): { level: number; into: number; need: number; ratio: number } {
+  const level = levelFromXp(xp)
+  if (level >= PET_MAX_LEVEL) return { level, into: 1, need: 1, ratio: 1 }
+  const into = Math.max(0, xp) - xpForLevel(level)
+  const need = xpToNext(level)
+  return { level, into, need, ratio: Math.min(1, Math.max(0, into / need)) }
 }
 
-/** dailyHistory から最終学習日(値>0の最新)を返す。無ければ null */
+/** レベルから大進化フォーム(1..4)を返す */
+export function petForm(level: number): number {
+  let form = 1
+  for (let i = 0; i < PET_FORM_THRESHOLDS.length; i++) {
+    if (level >= PET_FORM_THRESHOLDS[i]) form = i + 1
+  }
+  return form
+}
+
+// ---- 気分（最終学習日からの経過日数）----
 export function lastActiveDate(user: User): string | null {
   const hist = user.dailyHistory ?? {}
   let latest: string | null = null
   for (const [day, count] of Object.entries(hist)) {
     if (count > 0 && (latest === null || day > latest)) latest = day
   }
-  // dailyHistory 未反映でも今日回答していれば今日を最終日とみなす
   if (user.todayAnswered > 0 && (latest === null || user.todayAnsweredDate > latest)) {
     latest = user.todayAnsweredDate
   }
   return latest
 }
-
-/** 最終学習日からの経過日数（履歴なしは null） */
 export function daysSinceLastActive(user: User, today: string): number | null {
   const last = lastActiveDate(user)
   if (!last) return null
   return Math.max(0, diffDays(today, last))
 }
-
-/** 気分を返す。履歴なし(新規)は normal（さみしい表示にしない） */
 export function petMood(user: User, today: string): PetMood {
   const days = daysSinceLastActive(user, today)
   if (days === null) return 'normal'
@@ -61,25 +100,57 @@ export function petMood(user: User, today: string): PetMood {
   return 'sad'
 }
 
+// ---- サボりによるXP減衰（完了した日だけ課金。当日は未評価）----
+/** 経過した「学習しなかった完了日」分だけXPを減らした新しい user を返す（差分なしなら同一値） */
+export function settlePetDecay(user: User, today: string): User {
+  const pet = user.pet
+  const lastCompleted = addDays(today, -1)
+  const from = pet.lastTickDate || lastCompleted // 新規は前日基準＝遡って罰しない
+  const gap = diffDays(lastCompleted, from) // from より後の完了日数
+  if (gap <= 0) {
+    if (pet.lastTickDate !== lastCompleted) return { ...user, pet: { ...pet, lastTickDate: lastCompleted } }
+    return user
+  }
+  let missed = 0
+  const hist = user.dailyHistory ?? {}
+  for (let i = 1; i <= Math.min(gap, 90); i++) {
+    const d = addDays(from, i)
+    if (!(hist[d] > 0)) missed++
+  }
+  const xp = Math.max(0, pet.xp - missed * PET_DECAY_PER_DAY)
+  return { ...user, pet: { ...pet, xp, lastTickDate: lastCompleted } }
+}
+
 export interface PetView {
-  stage: PetStage
+  species: PetSpecies | null
+  xp: number
+  level: number
+  form: number
   mood: PetMood
-  learned: number
-  /** 次段階に必要な語数（最終段階は null） */
-  nextAt: number | null
-  /** 現段階内の進捗率(0-1)。最終段階は 1 */
+  /** 現レベル内の進捗率(0-1) */
   progress: number
-  /** 前回見た段階より育った=進化演出フラグ */
+  /** レベルアップまでの残りXP（最大レベルは0） */
+  toNext: number
+  maxed: boolean
+  /** 前回見たフォームより進化した */
   evolved: boolean
 }
 
-/** ホームウィジェット表示用の相棒ビューを組み立てる */
 export function petView(user: User, today: string): PetView {
-  const learned = user.learnedQuestionIds.length
-  const stage = petStage(learned)
-  const nextAt = nextStageAt(stage)
-  const base = PET_STAGE_THRESHOLDS[stage - 1]
-  const progress = nextAt === null ? 1 : Math.min(1, Math.max(0, (learned - base) / (nextAt - base)))
-  const evolved = stage > (user.petStageSeen ?? 0) && (user.petStageSeen ?? 0) > 0
-  return { stage, mood: petMood(user, today), learned, nextAt, progress, evolved }
+  const pet = user.pet
+  const xp = Math.max(0, pet.xp)
+  const level = levelFromXp(xp)
+  const form = petForm(level)
+  const prog = levelProgress(xp)
+  return {
+    species: pet.species,
+    xp,
+    level,
+    form,
+    mood: petMood(user, today),
+    progress: prog.ratio,
+    toNext: level >= PET_MAX_LEVEL ? 0 : prog.need - prog.into,
+    maxed: level >= PET_MAX_LEVEL,
+    evolved: form > (pet.formSeen ?? 0) && (pet.formSeen ?? 0) > 0,
+  }
 }

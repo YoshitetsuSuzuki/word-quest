@@ -65,7 +65,8 @@ export interface Strings {
   'daily.quizPre': string; 'daily.quizUnit': string; 'daily.seeWord': string; 'daily.loginBonus': string; 'daily.wordOfDay': string
   'weekly.thisWeek': string; 'weekly.days': string
   'pet.name': string
-  'pet.stage1': string; 'pet.stage2': string; 'pet.stage3': string; 'pet.stage4': string; 'pet.stage5': string
+  'pet.speciesGreen': string; 'pet.speciesFire': string; 'pet.speciesWater': string
+  'pet.chooseTitle': string; 'pet.chooseHint': string
   'pet.moodHappy': string; 'pet.moodNormal': string; 'pet.moodHungry': string; 'pet.moodSad': string
-  'pet.evolved': string; 'pet.toNextPre': string; 'pet.toNextUnit': string; 'pet.maxStage': string
+  'pet.evolved': string; 'pet.toNextPre': string; 'pet.toNextUnit': string; 'pet.maxLevel': string
 }

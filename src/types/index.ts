@@ -116,8 +116,23 @@ export interface User {
   dailyHistory: Record<string, number>
   /** 「今日の単語」を見た日 */
   todayWordSeenDate: string
-  /** 学習相棒の「前回見た成長段階」。現段階がこれを上回ると進化演出を出す */
-  petStageSeen: number
+  /** 学習相棒（育成キャラ）。XPで育ち、サボると減る。 */
+  pet: PetState
+}
+
+/** 学習相棒の種（スターター） */
+export type PetSpeciesId = 'green' | 'fire' | 'water'
+
+/** 学習相棒の状態（ユーザーデータ内） */
+export interface PetState {
+  /** 選んだ種。null は未選択（スターター選択を促す） */
+  species: PetSpeciesId | null
+  /** 累計経験値（学習で増え・サボると減る） */
+  xp: number
+  /** 最後に減衰を清算した日（YYYY-MM-DD） */
+  lastTickDate: string
+  /** 前回見た大進化フォーム。現フォームがこれを上回ると進化演出を出す */
+  formSeen: number
 }
 
 export interface EquippedItems {

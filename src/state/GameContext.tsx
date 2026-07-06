@@ -1,5 +1,5 @@
 import { createContext, useContext, useEffect, useMemo, useRef, useState, type ReactNode } from 'react'
-import type { User, Question, AnswerOutcome, BattleResult, AchievementDef, Category } from '../types'
+import type { User, Question, AnswerOutcome, BattleResult, AchievementDef, Category, PetSpeciesId } from '../types'
 import { userRepository, questionRepository } from '../repositories'
 import { QuestionEngine } from '../core/QuestionEngine'
 import { rewardEngine } from '../core/RewardEngine'
@@ -15,6 +15,7 @@ import { applyBattleResult } from '../modules/battle/battleLogic'
 import { buyItem as buyItemLogic, equipItem as equipItemLogic } from '../modules/shop/shopLogic'
 import { evaluateAchievements, type AchievementContext } from '../modules/achievement/achievementLogic'
 import { applyStamp, reachedMilestones, daysBetween } from '../core/StreakEngine'
+import { settlePetDecay, PET_MAX_XP } from '../core/PetEngine'
 import { streakConfig } from '../data/streak.config'
 
 const questionEngine = new QuestionEngine(questionRepository)
@@ -58,7 +59,8 @@ interface GameApi {
   /** 自分専用の単語帳に追加/削除（タップで暗記カードを作る） */
   toggleDeck: (questionId: string) => void
   toggleMastered: (questionId: string) => void
-  markPetStage: (stage: number) => void
+  choosePetStarter: (species: PetSpeciesId) => void
+  markPetForm: (form: number) => void
   /** プレイヤー名を変更（オンボーディング等） */
   setName: (name: string) => void
   resetAll: () => void
@@ -95,7 +97,12 @@ function migrate(u: User): User {
     claimedStreakMilestones: u.claimedStreakMilestones ?? [],
     dailyHistory: u.dailyHistory ?? {},
     todayWordSeenDate: u.todayWordSeenDate ?? '',
-    petStageSeen: num(u.petStageSeen ?? 0),
+    pet: {
+      species: u.pet?.species ?? null,
+      xp: num(u.pet?.xp ?? 0),
+      lastTickDate: u.pet?.lastTickDate ?? '',
+      formSeen: num(u.pet?.formSeen ?? 0),
+    },
   }
 }
 
@@ -106,6 +113,8 @@ export function GameProvider({ children }: { children: ReactNode }) {
     let u = ensureMissionDay(ensureRaidDay(loaded))
     const login = applyLoginBonus(u)
     u = syncLoginStreakMissions(login.user)
+    // 相棒: サボった日数ぶんXPを清算（当日は未評価）
+    u = settlePetDecay(u, todayStr())
     return u
   })
 
@@ -287,6 +296,8 @@ export function GameProvider({ children }: { children: ReactNode }) {
           learnedQuestionIds: u.learnedQuestionIds.includes(q.id)
             ? u.learnedQuestionIds
             : [...u.learnedQuestionIds, q.id],
+          // 相棒の経験値: 正解の報酬XPぶん増える(Lv100=PET_MAX_XP で頭打ち)
+          pet: { ...u.pet, xp: Math.min(PET_MAX_XP, u.pet.xp + reward.xp) },
         }
 
         // --- レイド貢献（初回貢献ならミッションjoinRaidも進める） ---
@@ -404,9 +415,14 @@ export function GameProvider({ children }: { children: ReactNode }) {
         }))
       },
 
-      markPetStage: (stage) => {
-        // 相棒の進化演出を確認済みにする（前回見た段階を更新）
-        setUser((prev) => ({ ...prev, petStageSeen: Math.max(prev.petStageSeen ?? 0, stage) }))
+      choosePetStarter: (species) => {
+        // スターターを選ぶ（未選択時のみ有効）
+        setUser((prev) => (prev.pet.species ? prev : { ...prev, pet: { ...prev.pet, species } }))
+      },
+
+      markPetForm: (form) => {
+        // 相棒の進化演出を確認済みにする（前回見たフォームを更新）
+        setUser((prev) => ({ ...prev, pet: { ...prev.pet, formSeen: Math.max(prev.pet.formSeen ?? 0, form) } }))
       },
 
       resetAll: () => {

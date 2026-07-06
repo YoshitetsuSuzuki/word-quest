@@ -1,5 +1,18 @@
 // PetEngine の机上テスト — npx -y tsx tools/test-pet.ts で実行
-import { petStage, petMood, diffDays, petView, nextStageAt } from '../src/core/PetEngine'
+import {
+  levelFromXp,
+  xpForLevel,
+  xpToNext,
+  petForm,
+  levelProgress,
+  petMood,
+  diffDays,
+  addDays,
+  settlePetDecay,
+  petView,
+  PET_MAX_XP,
+} from '../src/core/PetEngine'
+import { PET_MAX_LEVEL, PET_DECAY_PER_DAY } from '../src/config/petConfig'
 import { createDefaultUser } from '../src/state/defaultUser'
 import type { User } from '../src/types'
 
@@ -12,42 +25,64 @@ function eq(name: string, got: unknown, want: unknown) {
   } else console.log('ok  ', name)
 }
 
-// --- 成長段階の境界 ---
-eq('stage 0語=1', petStage(0), 1)
-eq('stage 9語=1', petStage(9), 1)
-eq('stage 10語=2', petStage(10), 2)
-eq('stage 39語=2', petStage(39), 2)
-eq('stage 40語=3', petStage(40), 3)
-eq('stage 120語=4', petStage(120), 4)
-eq('stage 300語=5', petStage(300), 5)
-eq('stage 9999語=5', petStage(9999), 5)
-eq('next of 1', nextStageAt(1), 10)
-eq('next of 5=null', nextStageAt(5), null)
+// --- XP↔レベル ---
+eq('Lv1 = 0xp', levelFromXp(0), 1)
+eq('Lv1 直前', levelFromXp(xpToNext(1) - 1), 1)
+eq('Lv2 到達', levelFromXp(xpToNext(1)), 2)
+eq('xpForLevel(1)=0', xpForLevel(1), 0)
+eq('xpForLevel(2)=xpToNext(1)', xpForLevel(2), xpToNext(1))
+eq('Lv100で頭打ち', levelFromXp(PET_MAX_XP), PET_MAX_LEVEL)
+eq('Lv100超過も100', levelFromXp(PET_MAX_XP + 99999), PET_MAX_LEVEL)
 
-// --- 日数差 ---
-eq('diffDays 同日', diffDays('2026-07-06', '2026-07-06'), 0)
-eq('diffDays 1日', diffDays('2026-07-06', '2026-07-05'), 1)
-eq('diffDays 月跨ぎ', diffDays('2026-07-01', '2026-06-29'), 2)
+// --- 進捗 ---
+const p = levelProgress(xpForLevel(3) + 5)
+eq('progress level', p.level, 3)
+eq('progress into', p.into, 5)
+eq('progress need', p.need, xpToNext(3))
 
-// --- 気分（最終学習日からの経過日数）---
+// --- フォーム(大進化 1/20/50/80) ---
+eq('form Lv1', petForm(1), 1)
+eq('form Lv19', petForm(19), 1)
+eq('form Lv20', petForm(20), 2)
+eq('form Lv49', petForm(49), 2)
+eq('form Lv50', petForm(50), 3)
+eq('form Lv80', petForm(80), 4)
+eq('form Lv100', petForm(100), 4)
+
+// --- 日付 ---
+eq('diffDays', diffDays('2026-07-06', '2026-07-04'), 2)
+eq('addDays +3', addDays('2026-07-06', 3), '2026-07-09')
+eq('addDays -1 月跨ぎ', addDays('2026-07-01', -1), '2026-06-30')
+
+// --- 減衰: 完了した「学習しなかった日」だけ引く。当日は未評価 ---
 const today = '2026-07-06'
-const withHistory = (day: string): User => ({ ...createDefaultUser('t'), dailyHistory: { [day]: 3 }, todayAnswered: 0, todayAnsweredDate: '2000-01-01' })
-eq('mood 履歴なし=normal', petMood({ ...createDefaultUser('t'), todayAnswered: 0, todayAnsweredDate: '2000-01-01' }, today), 'normal')
-eq('mood 今日=happy', petMood(withHistory('2026-07-06'), today), 'happy')
-eq('mood 1日=normal', petMood(withHistory('2026-07-05'), today), 'normal')
-eq('mood 2日=hungry', petMood(withHistory('2026-07-04'), today), 'hungry')
-eq('mood 3日=sad', petMood(withHistory('2026-07-01'), today), 'sad')
-eq('mood 今日回答(履歴未反映)=happy', petMood({ ...createDefaultUser('t'), dailyHistory: {}, todayAnswered: 2, todayAnsweredDate: today }, today), 'happy')
+function petUser(over: Partial<User['pet']>, hist: Record<string, number> = {}): User {
+  return { ...createDefaultUser('t'), pet: { species: 'green', xp: 1000, lastTickDate: '', formSeen: 1, ...over }, dailyHistory: hist }
+}
+// 新規(lastTickは前日基準)=遡って罰しない
+eq('新規は減衰なし', settlePetDecay(petUser({ lastTickDate: '' }), today).pet.xp, 1000)
+eq('新規 lastTick=前日', settlePetDecay(petUser({ lastTickDate: '' }), today).pet.lastTickDate, '2026-07-05')
+// 3日前に清算、間の 07-03/07-04 の2日サボり(07-05は完了日だが今日の前日=完了)。
+// from=07-03 → 完了日 07-04,07-05 の2日。両方未学習 → 2*DECAY 減
+eq('2日サボりで2回減衰', settlePetDecay(petUser({ lastTickDate: '2026-07-03', xp: 1000 }), today).pet.xp, 1000 - 2 * PET_DECAY_PER_DAY)
+// 07-04 に学習していれば1日ぶんだけ
+eq('学習日は減衰しない', settlePetDecay(petUser({ lastTickDate: '2026-07-03', xp: 1000 }, { '2026-07-04': 5 }), today).pet.xp, 1000 - 1 * PET_DECAY_PER_DAY)
+// 同日再実行は追加減衰しない(lastTick=前日で固定)
+const once = settlePetDecay(petUser({ lastTickDate: '2026-07-03', xp: 1000 }), today)
+eq('同日2回目は不変', settlePetDecay(once, today).pet.xp, once.pet.xp)
+// xpは0未満にならない
+eq('下限0', settlePetDecay(petUser({ lastTickDate: '2026-06-01', xp: 10 }), today).pet.xp, 0)
 
-// --- ビュー（進捗・進化）---
-const u45 = { ...createDefaultUser('t'), learnedQuestionIds: Array.from({ length: 45 }, (_, i) => `en-${i}`), petStageSeen: 2 }
-const v = petView(u45, today)
-eq('view stage 45語=3', v.stage, 3)
-eq('view evolved(2→3)', v.evolved, true)
-// 進捗: 40..120 の間で 45 → (45-40)/(120-40)=0.0625
-eq('view progress', Math.round(v.progress * 10000) / 10000, 0.0625)
-eq('view 最終段階 progress=1', petView({ ...createDefaultUser('t'), learnedQuestionIds: Array.from({ length: 300 }, (_, i) => `en-${i}`), petStageSeen: 5 }, today).progress, 1)
-eq('view 新規(seen0)は非進化', petView({ ...createDefaultUser('t'), learnedQuestionIds: [], petStageSeen: 0 }, today).evolved, false)
+// --- mood ---
+eq('mood 履歴なし=normal', petMood({ ...createDefaultUser('t'), todayAnswered: 0, todayAnsweredDate: '2000-01-01' }, today), 'normal')
+
+// --- view ---
+const v = petView(petUser({ species: 'fire', xp: xpForLevel(21) + 1, formSeen: 1 }), today)
+eq('view species', v.species, 'fire')
+eq('view level', v.level, 21)
+eq('view form', v.form, 2)
+eq('view evolved(1→2)', v.evolved, true)
+eq('view 未選択', petView(petUser({ species: null }), today).species, null)
 
 if (failed) {
   console.error(`\n${failed} test(s) failed`)
