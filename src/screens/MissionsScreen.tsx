@@ -1,15 +1,17 @@
 import { useGame } from '../state/GameContext'
+import { useNav } from '../state/nav'
 import { getMissionViews } from '../modules/mission/missionLogic'
 import { ProgressBar } from '../components/ProgressBar'
 
 export function MissionsScreen() {
   const { user, claimMission } = useGame()
+  const { t } = useNav()
   const missions = getMissionViews(user)
 
   return (
     <div className="space-y-4">
-      <h2 className="text-xl font-black">🎯 デイリーミッション</h2>
-      <p className="text-xs text-white/45">毎日リセット。クリアして報酬を受け取ろう。</p>
+      <h2 className="text-xl font-black">{t('missions.title')}</h2>
+      <p className="text-xs text-white/45">{t('missions.subtitle')}</p>
 
       <div className="space-y-3">
         {missions.map((m) => (
@@ -28,14 +30,14 @@ export function MissionsScreen() {
             </div>
             <div className="mt-3">
               {m.claimed ? (
-                <div className="text-center text-xs text-success font-bold py-1.5">✅ 受取済み</div>
+                <div className="text-center text-xs text-success font-bold py-1.5">{t('missions.claimed')}</div>
               ) : (
                 <button
                   disabled={!m.completed}
                   onClick={() => claimMission(m.def.id)}
                   className="btn-primary w-full py-2 text-sm"
                 >
-                  {m.completed ? '報酬を受け取る' : '未達成'}
+                  {m.completed ? t('missions.claim') : t('missions.locked')}
                 </button>
               )}
             </div>

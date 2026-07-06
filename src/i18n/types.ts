@@ -34,4 +34,17 @@ export interface Strings {
   'profile.achievements': string; 'profile.settings': string
   'profile.autoPlay': string; 'profile.sfx': string; 'profile.sfxVolume': string; 'profile.bgm': string; 'profile.bgmVolume': string
   'profile.feedback': string; 'profile.reset': string; 'profile.resetConfirm': string
+  'common.back': string
+  'rank.title': string; 'rank.coin': string; 'rank.elo': string; 'rank.today': string; 'rank.correct': string
+  'rank.unit': string; 'rank.yourRank': string; 'rank.rankSuffix': string; 'rank.you': string
+  'battle.title': string; 'battle.you': string; 'battle.vs': string
+  'battle.ruleQPre': string; 'battle.ruleQPost': string; 'battle.ruleReward': string; 'battle.ruleFeePre': string
+  'battle.joinPre': string; 'battle.joinPost': string; 'battle.notEnough': string
+  'battle.myScore': string; 'battle.correctCount': string; 'battle.eloDelta': string
+  'raid.title': string; 'raid.hit': string; 'raid.attackPrompt': string
+  'raid.contribution': string; 'raid.coop': string; 'raid.rewardPre': string; 'raid.rewardTitlePre': string; 'raid.rewardTitlePost': string
+  'raid.clearedClaimed': string; 'raid.claim': string; 'raid.attack': string
+  'missions.title': string; 'missions.subtitle': string; 'missions.claimed': string; 'missions.claim': string; 'missions.locked': string
+  'shop.title': string; 'shop.subtitle': string; 'shop.freeze': string; 'shop.freezeDesc': string; 'shop.owned': string
+  'shop.full': string; 'shop.titles': string; 'shop.frames': string; 'shop.effects': string; 'shop.equip': string; 'shop.equipped': string
 }

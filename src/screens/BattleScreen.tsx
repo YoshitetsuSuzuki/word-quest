@@ -15,7 +15,7 @@ type Phase = 'intro' | 'playing' | 'result'
 
 export function BattleScreen() {
   const { user, engine, finishBattle, chargeBattleFee, ensureCategory, isCategoryReady } = useGame()
-  const { navigate, category } = useNav()
+  const { navigate, category, t } = useNav()
   const opponent = useMemo(() => pickOpponent(user.eloRating), [user.eloRating])
   const ready = isCategoryReady(category)
 
@@ -70,15 +70,15 @@ export function BattleScreen() {
     const canAfford = user.coin >= BATTLE_ENTRY_FEE
     return (
       <div className="space-y-5">
-        <h2 className="text-xl font-black">⚔️ 非同期バトル</h2>
+        <h2 className="text-xl font-black">{t('battle.title')}</h2>
         <div className="card p-5">
           <div className="flex items-center justify-between">
             <div className="text-center flex-1">
               <div className="text-3xl">🧑‍🎓</div>
-              <div className="font-bold mt-1">あなた</div>
+              <div className="font-bold mt-1">{t('battle.you')}</div>
               <div className="text-xs text-accent2">Elo {user.eloRating}</div>
             </div>
-            <div className="text-2xl font-black text-white/40">VS</div>
+            <div className="text-2xl font-black text-white/40">{t('battle.vs')}</div>
             <div className="text-center flex-1">
               <div className="text-3xl">🤖</div>
               <div className="font-bold mt-1">{opponent.name}</div>
@@ -87,15 +87,15 @@ export function BattleScreen() {
           </div>
         </div>
         <ul className="text-sm text-white/60 space-y-1">
-          <li>・全 {BATTLE_QUESTIONS} 問。正答数と回答速度でスコアが決まる</li>
-          <li>・勝利で 🪙+60 とレート上昇 / 敗北で 🪙+10</li>
-          <li>・参加費 🪙{BATTLE_ENTRY_FEE}</li>
+          <li>{t('battle.ruleQPre')}{BATTLE_QUESTIONS}{t('battle.ruleQPost')}</li>
+          <li>{t('battle.ruleReward')}</li>
+          <li>{t('battle.ruleFeePre')}{BATTLE_ENTRY_FEE}</li>
         </ul>
         <button className="btn-primary w-full py-4" disabled={!canAfford || !ready} onClick={start}>
-          {!ready ? '問題を準備中…' : canAfford ? `参加する（🪙${BATTLE_ENTRY_FEE}）` : 'コインが足りません'}
+          {!ready ? t('quiz.preparing') : canAfford ? `${t('battle.joinPre')}${BATTLE_ENTRY_FEE}${t('battle.joinPost')}` : t('battle.notEnough')}
         </button>
         <button className="btn-ghost w-full py-3" onClick={() => navigate('home')}>
-          もどる
+          {t('common.back')}
         </button>
       </div>
     )
@@ -148,18 +148,18 @@ export function BattleScreen() {
         {win ? 'WIN!' : 'LOSE'}
       </h2>
       <div className="card mt-6 p-5 space-y-2 text-left">
-        <Row label="あなたのスコア" value={`${result?.myScore}`} />
+        <Row label={t('battle.myScore')} value={`${result?.myScore}`} />
         <Row label={`${result?.opponentName}`} value={`${result?.opponentScore}`} />
-        <Row label="正解数" value={`${result?.myCorrect} / ${BATTLE_QUESTIONS}`} />
-        <Row label="Elo変動" value={`${(result?.eloDelta ?? 0) >= 0 ? '+' : ''}${result?.eloDelta}`} />
-        <Row label="獲得コイン" value={`🪙 +${result?.gainedCoin}`} />
+        <Row label={t('battle.correctCount')} value={`${result?.myCorrect} / ${BATTLE_QUESTIONS}`} />
+        <Row label={t('battle.eloDelta')} value={`${(result?.eloDelta ?? 0) >= 0 ? '+' : ''}${result?.eloDelta}`} />
+        <Row label={t('quiz.gainedCoins')} value={`🪙 +${result?.gainedCoin}`} />
       </div>
       <div className="mt-6 grid grid-cols-2 gap-3">
         <button className="btn-ghost py-3" onClick={() => navigate('home')}>
-          ホームへ
+          {t('quiz.toHome')}
         </button>
         <button className="btn-primary py-3" onClick={() => setPhase('intro')}>
-          もう一度
+          {t('quiz.again')}
         </button>
       </div>
     </div>

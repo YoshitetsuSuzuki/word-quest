@@ -7,7 +7,7 @@ import type { Question } from '../types'
 
 export function RaidScreen() {
   const { user, engine, answerQuestion, claimRaid, ensureCategory, isCategoryReady } = useGame()
-  const { navigate, category } = useNav()
+  const { navigate, category, t } = useNav()
   const raid = getRaidView(user)
   const ready = isCategoryReady(category)
 
@@ -46,10 +46,10 @@ export function RaidScreen() {
       <div className="space-y-4">
         <div className="text-center">
           <div className={`text-7xl transition ${hit ? 'animate-shake' : ''}`}>{raid.boss.emoji}</div>
-          {hit && <div className="text-danger font-black animate-floatUp">HIT! 貢献 +1</div>}
+          {hit && <div className="text-danger font-black animate-floatUp">{t('raid.hit')}</div>}
         </div>
         <div className="card p-6 text-center">
-          <div className="text-xs text-white/40 mb-1">攻撃！ 意味を選べ</div>
+          <div className="text-xs text-white/40 mb-1">{t('raid.attackPrompt')}</div>
           <div className="text-2xl font-black">{q.prompt}</div>
         </div>
         <div className="grid gap-2.5">
@@ -73,7 +73,7 @@ export function RaidScreen() {
 
   return (
     <div className="space-y-5">
-      <h2 className="text-xl font-black">🐉 今日のレイド</h2>
+      <h2 className="text-xl font-black">{t('raid.title')}</h2>
 
       <div className="card p-6 text-center">
         <div className="text-7xl mb-2">{raid.boss.emoji}</div>
@@ -86,31 +86,31 @@ export function RaidScreen() {
           </div>
         </div>
         <div className="text-xs text-white/45 mt-3">
-          あなたの貢献: <span className="text-accent2 font-bold">{raid.myContribution}</span> ・
-          全員で協力して討伐しよう
+          {t('raid.contribution')} <span className="text-accent2 font-bold">{raid.myContribution}</span> ・
+          {t('raid.coop')}
         </div>
       </div>
 
       <div className="card p-4 text-sm text-white/60">
-        報酬: 🪙{raid.boss.rewardCoin} / {raid.boss.rewardXp}XP
-        {raid.boss.rewardTitle && <> / 称号「{raid.boss.rewardTitle}」</>}
+        {t('raid.rewardPre')}🪙{raid.boss.rewardCoin} / {raid.boss.rewardXp}XP
+        {raid.boss.rewardTitle && <>{t('raid.rewardTitlePre')}{raid.boss.rewardTitle}{t('raid.rewardTitlePost')}</>}
       </div>
 
       {raid.cleared ? (
         raid.claimed ? (
-          <div className="btn-ghost w-full py-4 text-center text-success">✅ 討伐完了・報酬受取済み</div>
+          <div className="btn-ghost w-full py-4 text-center text-success">{t('raid.clearedClaimed')}</div>
         ) : (
           <button className="btn-primary w-full py-4 animate-glow" onClick={onClaim}>
-            🎁 報酬を受け取る
+            {t('raid.claim')}
           </button>
         )
       ) : (
         <button className="btn-primary w-full py-4" disabled={!ready} onClick={beginAttack}>
-          {ready ? '⚔️ 攻撃する（1問）' : '問題を準備中…'}
+          {ready ? t('raid.attack') : t('quiz.preparing')}
         </button>
       )}
       <button className="btn-ghost w-full py-3" onClick={() => navigate('home')}>
-        もどる
+        {t('common.back')}
       </button>
     </div>
   )
