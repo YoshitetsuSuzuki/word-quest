@@ -47,4 +47,13 @@ export interface Strings {
   'missions.title': string; 'missions.subtitle': string; 'missions.claimed': string; 'missions.claim': string; 'missions.locked': string
   'shop.title': string; 'shop.subtitle': string; 'shop.freeze': string; 'shop.freezeDesc': string; 'shop.owned': string
   'shop.full': string; 'shop.titles': string; 'shop.frames': string; 'shop.effects': string; 'shop.equip': string; 'shop.equipped': string
+  'onboard.welcome': string; 'onboard.intro': string; 'onboard.introAccent': string; 'onboard.introRest': string
+  'onboard.bullet1': string; 'onboard.bullet2': string; 'onboard.bullet3': string; 'onboard.start': string
+  'onboard.nameTitle': string; 'onboard.nameDesc': string; 'onboard.namePlaceholder': string; 'onboard.startWithName': string; 'onboard.startNoName': string
+  'login.title': string; 'login.streakPre': string; 'login.streakPost': string; 'login.claim': string; 'login.dayUnit': string
+  'celebrate.levelupSub': string; 'celebrate.levelupSubPost': string; 'celebrate.raidTitlePre': string; 'celebrate.raidTitlePost': string; 'celebrate.raidClearDefault': string
+  'celebrate.achievement': string; 'celebrate.streakPre': string; 'celebrate.streakPost': string; 'celebrate.tapContinue': string
+  'daily.title': string; 'daily.done': string; 'daily.dayUnit': string; 'daily.streakWarnPre': string; 'daily.streakWarnMid': string; 'daily.streakWarnPost': string
+  'daily.quizPre': string; 'daily.quizUnit': string; 'daily.seeWord': string; 'daily.loginBonus': string; 'daily.wordOfDay': string
+  'weekly.thisWeek': string; 'weekly.days': string
 }

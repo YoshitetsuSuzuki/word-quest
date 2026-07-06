@@ -45,4 +45,13 @@ export const en: Strings = {
   'missions.title': '🎯 Daily missions', 'missions.subtitle': 'Resets daily. Complete them to claim rewards.', 'missions.claimed': '✅ Claimed', 'missions.claim': 'Claim reward', 'missions.locked': 'Incomplete',
   'shop.title': '🛍️ Shop', 'shop.subtitle': 'Cosmetics only. No pay-to-win.', 'shop.freeze': 'Streak freeze', 'shop.freezeDesc': 'Protects your 🔥 for one missed day (auto-used)', 'shop.owned': 'Owned',
   'shop.full': 'Full', 'shop.titles': 'Titles', 'shop.frames': 'Frames', 'shop.effects': 'Correct effects', 'shop.equip': 'Equip', 'shop.equipped': 'Equipped',
+  'onboard.welcome': 'Welcome to WordQuest', 'onboard.intro': 'A learning game for mastering vocabulary ', 'onboard.introAccent': 'while playing', 'onboard.introRest': '. Answer quizzes correctly to earn XP and coins and level up.',
+  'onboard.bullet1': '📝 Learn with quizzes (with audio)', 'onboard.bullet2': '📚 Review weak spots and build word decks in Learn', 'onboard.bullet3': '⚔️ Make it a game with battles and raids', 'onboard.start': 'Start',
+  'onboard.nameTitle': "What's your name?", 'onboard.nameDesc': 'Shown on rankings and your profile (changeable later).', 'onboard.namePlaceholder': 'Enter your name', 'onboard.startWithName': 'Start!', 'onboard.startNoName': 'Start without a name',
+  'login.title': 'Login bonus', 'login.streakPre': '', 'login.streakPost': '-day login streak!', 'login.claim': 'Claim', 'login.dayUnit': 'd',
+  'celebrate.levelupSub': 'Reached level ', 'celebrate.levelupSubPost': '!', 'celebrate.raidTitlePre': 'Earned the title "', 'celebrate.raidTitlePost': '"!', 'celebrate.raidClearDefault': 'Raid defeated!',
+  'celebrate.achievement': 'Achievement', 'celebrate.streakPre': '', 'celebrate.streakPost': '-day study streak! +🪙', 'celebrate.tapContinue': 'Tap to continue',
+  'daily.title': "📅 Today's set", 'daily.done': '✨ Done!', 'daily.dayUnit': 'd', 'daily.streakWarnPre': '⚠️ Your ', 'daily.streakWarnMid': '-day streak ends tonight! ', 'daily.streakWarnPost': ' to go',
+  'daily.quizPre': '', 'daily.quizUnit': ' questions today', 'daily.seeWord': 'See word of the day', 'daily.loginBonus': 'Login bonus', 'daily.wordOfDay': 'Word of the day',
+  'weekly.thisWeek': 'This week', 'weekly.days': 'SMTWTFS',
 }

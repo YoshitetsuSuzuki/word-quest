@@ -8,7 +8,7 @@ import { speakWord, wordFromPrompt, canSpeak } from '../utils/speech'
 /** ホーム最上部の「今日の一式」カード。3ステップ全部そろうと✨ */
 export function DailyLoopCard() {
   const { user, engine, isCategoryReady, markTodayWordSeen } = useGame()
-  const { category, navigate, setQuizMode, setCustomIds } = useNav()
+  const { category, navigate, setQuizMode, setCustomIds, t } = useNav()
   const [wordOpen, setWordOpen] = useState(false)
 
   const today = todayStr()
@@ -31,20 +31,20 @@ export function DailyLoopCard() {
   return (
     <div className={`card p-4 space-y-3 ${allDone ? 'ring-1 ring-success/50' : ''}`}>
       <div className="flex items-center justify-between">
-        <h3 className="font-black text-sm">📅 今日の一式 {allDone && '✨コンプ！'}</h3>
-        <span className="font-black text-gold">🔥 {user.studyStreak}日</span>
+        <h3 className="font-black text-sm">{t('daily.title')} {allDone && t('daily.done')}</h3>
+        <span className="font-black text-gold">🔥 {user.studyStreak}{t('daily.dayUnit')}</span>
       </div>
 
       {streakAtRisk && (
         <div className="text-xs font-bold text-danger bg-danger/10 rounded-lg px-3 py-2">
-          ⚠️ 🔥{user.studyStreak}日のストリークが今夜消えます！あと{streakConfig.dailyGoal - answered}問
+          {t('daily.streakWarnPre')}{user.studyStreak}{t('daily.streakWarnMid')}{streakConfig.dailyGoal - answered}{t('daily.streakWarnPost')}
         </div>
       )}
 
       <div className="space-y-2">
         <StepRow
           done={quizDone}
-          label={`今日の${streakConfig.dailyGoal}問 (${Math.min(answered, streakConfig.dailyGoal)}/${streakConfig.dailyGoal})`}
+          label={`${t('daily.quizPre')}${streakConfig.dailyGoal}${t('daily.quizUnit')} (${Math.min(answered, streakConfig.dailyGoal)}/${streakConfig.dailyGoal})`}
           action={
             quizDone
               ? undefined
@@ -55,13 +55,13 @@ export function DailyLoopCard() {
                 }
           }
         />
-        <StepRow done={wordSeen} label="今日の単語を見る" action={openWord} />
-        <StepRow done={loginDone} label="ログインボーナス" />
+        <StepRow done={wordSeen} label={t('daily.seeWord')} action={openWord} />
+        <StepRow done={loginDone} label={t('daily.loginBonus')} />
       </div>
 
       {wordOpen && q && (
         <div className="bg-panel2 rounded-xl p-4 text-center animate-slideUp">
-          <div className="text-xs text-white/40 mb-1">今日の単語</div>
+          <div className="text-xs text-white/40 mb-1">{t('daily.wordOfDay')}</div>
           <div className="text-xl font-black">{word}</div>
           {q.pronunciation && <div className="text-accent2 font-mono font-bold text-sm mt-0.5">{q.pronunciation}</div>}
           <div className="mt-1 text-white/80">{q.answer}</div>

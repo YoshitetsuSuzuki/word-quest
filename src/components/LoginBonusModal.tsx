@@ -1,10 +1,12 @@
 import { useState } from 'react'
 import { useGame } from '../state/GameContext'
+import { useNav } from '../state/nav'
 import { LOGIN_CYCLE } from '../state/loginLogic'
 
 /** 起動時のログインボーナス表示(7日サイクルカレンダーつき) */
 export function LoginBonusModal() {
   const { loginBonus } = useGame()
+  const { t } = useNav()
   const [closed, setClosed] = useState(false)
   if (!loginBonus || closed) return null
 
@@ -14,8 +16,8 @@ export function LoginBonusModal() {
     <div className="fixed inset-0 z-40 grid place-items-center bg-black/70 backdrop-blur-sm p-6">
       <div className="card p-6 text-center max-w-xs w-full animate-pop">
         <div className="text-5xl mb-2">🎁</div>
-        <div className="text-xl font-black text-gold">ログインボーナス</div>
-        <div className="mt-1 text-sm text-white/70">{loginBonus.streak}日連続ログイン中！</div>
+        <div className="text-xl font-black text-gold">{t('login.title')}</div>
+        <div className="mt-1 text-sm text-white/70">{t('login.streakPre')}{loginBonus.streak}{t('login.streakPost')}</div>
         <div className="mt-4 flex items-center justify-center gap-2 text-2xl font-black">
           <span>🪙</span>
           <span className="text-gold">+{loginBonus.coin}</span>
@@ -37,7 +39,7 @@ export function LoginBonusModal() {
                       : 'bg-panel2 border-white/10 text-white/40'
                 }`}
               >
-                <div>{i === LOGIN_CYCLE.length - 1 ? '🎁' : isPast ? '✓' : `${i + 1}日`}</div>
+                <div>{i === LOGIN_CYCLE.length - 1 ? '🎁' : isPast ? '✓' : `${i + 1}${t('login.dayUnit')}`}</div>
                 <div className="mt-0.5">{coin}</div>
               </div>
             )
@@ -45,7 +47,7 @@ export function LoginBonusModal() {
         </div>
 
         <button className="btn-primary mt-6 w-full py-3" onClick={() => setClosed(true)}>
-          受け取る
+          {t('login.claim')}
         </button>
       </div>
     </div>
