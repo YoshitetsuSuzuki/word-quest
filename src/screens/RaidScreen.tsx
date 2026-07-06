@@ -86,7 +86,7 @@ export function RaidScreen() {
           </div>
         </div>
         <div className="text-xs text-white/45 mt-3">
-          {t('raid.contribution')} <span className="text-accent2 font-bold">{raid.myContribution}</span> ・
+          {t('raid.contribution')} <span className="text-accent2 font-bold">{raid.myContribution}</span> ·
           {t('raid.coop')}
         </div>
       </div>
