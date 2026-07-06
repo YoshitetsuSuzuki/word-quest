@@ -29,6 +29,7 @@ export function createDefaultUser(name = 'Player'): User {
     raidState: { date: today, bossId: getTodaysBoss(today).id, myContribution: 0, claimed: false },
     wordStats: {},
     customDeck: [],
+    masteredIds: [],
     todayAnswered: 0,
     todayAnsweredDate: today,
     studyStreak: 0,

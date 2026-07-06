@@ -27,6 +27,7 @@ export const ja: Strings = {
   'study.emptyWeak': 'まだデータがありません。クイズを解くと、正答率の低い単語がここに集まります。', 'study.emptyLearned': '覚えた単語がここに並びます。クイズで正解すると追加されます。', 'study.emptyDeck': '苦手・単語帳リストの ☆ をタップすると、自分専用の単語帳に追加できます。カードはタップで裏返せます。',
   'study.searchPlaceholder': '単語・意味で検索', 'study.morePre': 'ほか', 'study.moreUnit': '語',
   'study.shuffle': '🔀 シャッフル', 'study.filterAll': 'すべて', 'study.addDeck': '☆ マイ単語帳に追加', 'study.inDeckMark': '★ マイ単語帳に追加済み',
+  'study.viewActive': '表示中', 'study.viewMastered': '覚えた', 'study.markMastered': '覚えた（非表示）', 'study.restore': '↩ 戻す',
   'study.deckTestPre': '📝 マイ単語帳をテストする（', 'study.deckTestUnit': '語）',
   'study.myDeckAria': 'マイ単語帳', 'study.meaning': '意味', 'study.tapToReveal': 'タップで意味を表示', 'study.remove': '削除',
   'profile.level': 'レベル', 'profile.xp': '累計XP的な指標', 'profile.nextLv': '次Lv', 'profile.coins': 'コイン', 'profile.rating': 'レート(Elo)',

@@ -57,6 +57,7 @@ interface GameApi {
   equipItem: (id: string) => void
   /** 自分専用の単語帳に追加/削除（タップで暗記カードを作る） */
   toggleDeck: (questionId: string) => void
+  toggleMastered: (questionId: string) => void
   /** プレイヤー名を変更（オンボーディング等） */
   setName: (name: string) => void
   resetAll: () => void
@@ -83,6 +84,7 @@ function migrate(u: User): User {
     level: num(u.level, 1) || 1,
     wordStats: u.wordStats ?? {},
     customDeck: u.customDeck ?? [],
+    masteredIds: u.masteredIds ?? [],
     todayAnswered: num(u.todayAnswered ?? 0),
     todayAnsweredDate: u.todayAnsweredDate ?? todayStr(),
     studyStreak: num(u.studyStreak ?? 0),
@@ -387,6 +389,16 @@ export function GameProvider({ children }: { children: ReactNode }) {
           customDeck: prev.customDeck.includes(questionId)
             ? prev.customDeck.filter((id) => id !== questionId)
             : [...prev.customDeck, questionId],
+        }))
+      },
+
+      toggleMastered: (questionId) => {
+        // 「覚えた」トグル（単語帳一覧の表示だけを制御。復習・図鑑には影響しない）
+        setUser((prev) => ({
+          ...prev,
+          masteredIds: (prev.masteredIds ?? []).includes(questionId)
+            ? prev.masteredIds.filter((id) => id !== questionId)
+            : [...(prev.masteredIds ?? []), questionId],
         }))
       },
 

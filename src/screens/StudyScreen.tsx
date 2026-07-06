@@ -19,7 +19,7 @@ const CAT_PREFIX: Record<string, string> = { english: 'en', chinese: 'zh', korea
 const catNameKey = (id: string) => `cat.${id}` as keyof Strings
 
 export function StudyScreen() {
-  const { user, engine, isCategoryReady, ensureCategory, toggleDeck } = useGame()
+  const { user, engine, isCategoryReady, ensureCategory, toggleDeck, toggleMastered } = useGame()
   const { navigate, setQuizMode, setCustomIds, category, setCategory, locale, t } = useNav()
   // まなびでも学習ジャンルを切り替えられる(ホームと同じく母語で使えるジャンルのみ)
   const localeCats = categories.filter((c) => c.availableLocales.includes(locale) && c.available)
@@ -71,6 +71,8 @@ export function StudyScreen() {
   const [levelFilter, setLevelFilter] = useState(0) // 0=すべて
   const [rateFilter, setRateFilter] = useState<'all' | 'lt50' | 'lt80'>('all') // 苦手タブの正答率しぼり
   const [deckSeed, setDeckSeed] = useState(0) // マイ単語帳シャッフル用
+  const [learnedView, setLearnedView] = useState<'active' | 'mastered'>('active') // 単語帳: 表示中/覚えた
+  const masteredSet = useMemo(() => new Set(user.masteredIds ?? []), [user.masteredIds])
 
   // ロケール別の訳語（西/仏/独は日本語訳、英/中/韓/日は従来どおり）
   const glossOf = (q: Question) => engine.localizedGloss(q, locale)
@@ -126,7 +128,12 @@ export function StudyScreen() {
       matchesLevel(x.q) &&
       (rateFilter === 'all' || (rateFilter === 'lt50' ? x.rate < 0.5 : x.rate < 0.8)),
   )
-  const filteredLearned = learned.filter((q) => matchesQuery(q) && matchesLevel(q))
+  // 単語帳: 覚えた語(masteredSet)は「表示中」から外し、「覚えた」ビューでのみ表示（復習・図鑑は不変）
+  const learnedActive = learned.filter((q) => !masteredSet.has(q.id))
+  const learnedMastered = learned.filter((q) => masteredSet.has(q.id))
+  const filteredLearned = (learnedView === 'mastered' ? learnedMastered : learnedActive).filter(
+    (q) => matchesQuery(q) && matchesLevel(q),
+  )
   const shuffledDeck = useMemo(() => {
     const arr = deck.filter((q) => matchesQuery(q) && matchesLevel(q))
     if (deckSeed === 0) return arr
@@ -234,7 +241,7 @@ export function StudyScreen() {
         {(
           [
             ['weak', `${t('study.tabWeak')} ${attempted.length ? `(${attempted.length})` : ''}`],
-            ['learned', `${t('study.tabLearned')} ${learned.length ? `(${learned.length})` : ''}`],
+            ['learned', `${t('study.tabLearned')} ${learnedActive.length ? `(${learnedActive.length})` : ''}`],
             ['deck', `${t('study.tabDeck')} ${deck.length ? `(${deck.length})` : ''}`],
           ] as [Tab, string][]
         ).map(([tk, label]) => (
@@ -298,15 +305,53 @@ export function StudyScreen() {
           </div>
         ))}
 
-      {/* 単語帳（覚えた語） */}
+      {/* 単語帳（覚えた語＝一度でも正解した語）。覚えたらチェックで非表示、「覚えた」ビューで復帰可 */}
       {tab === 'learned' &&
         (learned.length === 0 ? (
           <EmptyState emoji="📖" text={t('study.emptyLearned')} />
         ) : (
           <div className="space-y-2">
+            <div className="flex gap-1.5">
+              <FilterChip
+                active={learnedView === 'active'}
+                onClick={() => setLearnedView('active')}
+                label={`${t('study.viewActive')}${learnedActive.length ? ` (${learnedActive.length})` : ''}`}
+              />
+              <FilterChip
+                active={learnedView === 'mastered'}
+                onClick={() => setLearnedView('mastered')}
+                label={`${t('study.viewMastered')}${learnedMastered.length ? ` (${learnedMastered.length})` : ''}`}
+              />
+            </div>
             {filteredLearned.slice(0, 100).map((q) => (
-              <WordRow key={q.id} q={q} gloss={glossOf(q)} inDeck={deckSet.has(q.id)} onToggle={() => toggleDeck(q.id)} right={<span className="text-[10px] text-white/30">{levelLabel(q.difficulty)}</span>} />
+              <WordRow
+                key={q.id}
+                q={q}
+                gloss={glossOf(q)}
+                inDeck={deckSet.has(q.id)}
+                onToggle={() => toggleDeck(q.id)}
+                masterBtn={
+                  masteredSet.has(q.id) ? (
+                    <button
+                      onClick={() => toggleMastered(q.id)}
+                      className="shrink-0 text-[11px] font-bold text-accent2 px-2 py-1.5 rounded-lg bg-accent2/10 active:scale-95 transition"
+                    >
+                      {t('study.restore')}
+                    </button>
+                  ) : (
+                    <button
+                      onClick={() => toggleMastered(q.id)}
+                      aria-label={t('study.markMastered')}
+                      className="shrink-0 text-lg w-8 h-8 grid place-items-center rounded-lg text-white/25 active:text-success transition"
+                    >
+                      ✓
+                    </button>
+                  )
+                }
+                right={<span className="text-[10px] text-white/30">{levelLabel(q.difficulty)}</span>}
+              />
             ))}
+            {filteredLearned.length === 0 && <div className="text-center text-xs text-white/40 py-4">—</div>}
             {filteredLearned.length > 100 && <div className="text-center text-xs text-white/40 py-2">{t('study.morePre')} {filteredLearned.length - 100} {t('study.moreUnit')}</div>}
           </div>
         ))}
@@ -350,7 +395,7 @@ function FilterChip({ active, onClick, label }: { active: boolean; onClick: () =
   )
 }
 
-function WordRow({ q, gloss, inDeck, onToggle, right }: { q: Question; gloss: string; inDeck: boolean; onToggle: () => void; right?: ReactNode }) {
+function WordRow({ q, gloss, inDeck, onToggle, right, masterBtn }: { q: Question; gloss: string; inDeck: boolean; onToggle: () => void; right?: ReactNode; masterBtn?: ReactNode }) {
   const { t } = useNav()
   return (
     <div className="card p-3 flex items-center gap-3">
@@ -362,6 +407,7 @@ function WordRow({ q, gloss, inDeck, onToggle, right }: { q: Question; gloss: st
         <div className="text-sm text-white/55 truncate">{gloss}</div>
       </div>
       {right}
+      {masterBtn}
       <button
         onClick={onToggle}
         aria-label={t('study.myDeckAria')}

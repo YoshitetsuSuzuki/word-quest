@@ -51,7 +51,8 @@ export function HomeScreen() {
   const raid = getRaidView(user)
   const missions = getMissionViews(user)
   const doneMissions = missions.filter((m) => m.completed).length
-  const dueReview = user.reviewQueue.filter((r) => r.nextReviewAt <= Date.now()).length
+  // 復習は今の学習ジャンル分だけを数える(言語ごとに分ける)
+  const dueReview = user.reviewQueue.filter((r) => r.nextReviewAt <= Date.now() && r.questionId.startsWith(prefix)).length
 
   const tiles: { screen: Parameters<typeof navigate>[0]; label: string; icon: string; on: boolean; hint?: string }[] = [
     { screen: 'battle', label: t('home.battle'), icon: '⚔️', on: featureFlags.battleEnabled, hint: t('home.battleHint') },
@@ -155,8 +156,11 @@ export function HomeScreen() {
       {featureFlags.reviewEnabled && dueReview > 0 && (
         <button
           onClick={() => {
+            const dueIds = user.reviewQueue
+              .filter((r) => r.nextReviewAt <= Date.now() && r.questionId.startsWith(prefix))
+              .map((r) => r.questionId)
             setQuizMode('review')
-            setCustomIds(null)
+            setCustomIds(dueIds)
             navigate('quiz')
           }}
           className="btn-ghost w-full py-3 text-sm flex items-center justify-center gap-2"
