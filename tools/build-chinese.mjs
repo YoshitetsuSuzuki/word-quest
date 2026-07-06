@@ -60,6 +60,15 @@ try {
 } catch {
   // 例文が無ければ例文なしで生成
 }
+
+// 英語グロス(確定版)。{ 簡体字: "english" }。次タスクで生成されるファイル。
+// 存在すれば各 question に glosses = { en: gloss } を付与する。無ければ何もしない(現状不変)。
+let enGloss = {}
+try {
+  enGloss = JSON.parse(fs.readFileSync(path.join(root, 'tools', 'gloss.en.chinese.json'), 'utf8'))
+} catch {
+  // 確定版グロスが無ければ en 付与なしで生成
+}
 function exampleFor(hanzi) {
   const e = customExamples[hanzi]
   if (!e || typeof e.ex !== 'string' || typeof e.blank !== 'string') return null
@@ -144,6 +153,7 @@ function pickDistractors(target) {
 const questions = accepted
   .map((a, i) => {
     const ex = exampleFor(a.hanzi)
+    const gloss = typeof enGloss[a.hanzi] === 'string' && enGloss[a.hanzi] ? enGloss[a.hanzi] : null
     return {
       id: `zh-${String(i + 1).padStart(5, '0')}`,
       category: 'chinese',
@@ -155,6 +165,7 @@ const questions = accepted
       explanation: `${a.hanzi}（${a.pinyin}）= ${a.ja}`,
       pronunciation: a.pinyin,
       ...(ex ? { example: ex.example, exampleForm: ex.exampleForm } : {}),
+      ...(gloss ? { glosses: { en: gloss } } : {}),
       verified: true, // 人手検証済みのみ
     }
   })
