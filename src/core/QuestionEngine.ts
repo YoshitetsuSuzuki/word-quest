@@ -87,8 +87,9 @@ export class QuestionEngine {
   /** 英語ロケール等で、その語の訳とダミー3つ(同カテゴリ)で4択を作る */
   localizedChoices(q: Question, locale: 'ja' | 'en'): string[] {
     const correct = this.localizedGloss(q, locale)
+    // 非jaのダミーは、その言語の訳を持つ語だけから選ぶ(言語混在の誤答肢を防ぐ)
     const pool = this.repo.getByCategory(q.category)
-      .filter((o) => o.id !== q.id)
+      .filter((o) => o.id !== q.id && (locale === 'ja' || o.glosses?.[locale]))
       .map((o) => this.localizedGloss(o, locale))
     const used = new Set([correct])
     const out: string[] = []

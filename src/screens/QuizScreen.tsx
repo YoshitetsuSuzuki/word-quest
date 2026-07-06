@@ -64,19 +64,24 @@ export function QuizScreen() {
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [index, questions.length])
 
+  // ja は従来どおり q.choices（挙動不変）。それ以外のロケールのみロケール別4択を生成し、
+  // 問題ごとに一度だけ計算して再シャッフルを防ぐ。フックは早期returnより前に置く(Rules of Hooks)。
+  const qForChoices = questions[index]
+  const displayChoices = useMemo(
+    () => {
+      if (!qForChoices) return []
+      return locale === 'ja' ? qForChoices.choices : engine.localizedChoices(qForChoices, locale)
+    },
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+    [qForChoices?.id, locale],
+  )
+
   if (!ready || questions.length === 0) {
     return <Loading label={t('quiz.preparing')} />
   }
 
   const q = questions[index]
   const effect = equippedEffect(user)
-  // ja は従来どおり q.choices（挙動不変）。それ以外のロケールのみロケール別4択を生成し、
-  // 問題ごとに一度だけ計算して再シャッフルを防ぐ。
-  const displayChoices = useMemo(
-    () => (locale === 'ja' ? q.choices : engine.localizedChoices(q, locale)),
-    // eslint-disable-next-line react-hooks/exhaustive-deps
-    [q.id, locale],
-  )
   const correctGloss = engine.localizedGloss(q, locale)
   const ex = engine.localizedExample(q, locale)
 
@@ -158,7 +163,7 @@ export function QuizScreen() {
       <div className="card p-6 text-center min-h-[140px] grid place-items-center relative">
         <div>
           <div className="text-xs text-white/40 mb-2">{t('quiz.pickMeaning')}</div>
-          <div className="text-2xl font-black">{q.prompt}</div>
+          <div className="text-2xl font-black">{locale === 'ja' ? q.prompt : wordFromPrompt(q.prompt)}</div>
           <div className="mt-1.5 flex items-center justify-center gap-2">
             {q.pronunciation && <span className="text-base text-accent2 font-mono font-bold">{q.pronunciation}</span>}
             {canSpeak() && (
