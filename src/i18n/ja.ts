@@ -50,7 +50,7 @@ export const ja: Strings = {
   'onboard.nameTitle': 'あなたの名前は？', 'onboard.nameDesc': 'ランキングやプロフィールに表示されます（後で変更可）。', 'onboard.namePlaceholder': '名前を入力', 'onboard.startWithName': 'スタート！', 'onboard.startNoName': '名前なしで始める',
   'onboarding.chooseLang': '言語を選ぶ',
   'settings.language': '言語',
-  'cat.english': '英単語', 'cat.chinese': '中国語', 'cat.korean': '韓国語',
+  'cat.english': '英単語', 'cat.chinese': '中国語', 'cat.korean': '韓国語', 'cat.japanese': '日本語',
   'login.title': 'ログインボーナス', 'login.streakPre': '', 'login.streakPost': '日連続ログイン中！', 'login.claim': '受け取る', 'login.dayUnit': '日',
   'celebrate.levelupSub': 'レベル ', 'celebrate.levelupSubPost': ' に到達！', 'celebrate.raidTitlePre': '称号「', 'celebrate.raidTitlePost': '」を獲得！', 'celebrate.raidClearDefault': 'レイド討伐成功！',
   'celebrate.achievement': '実績解除', 'celebrate.streakPre': '', 'celebrate.streakPost': '日連続学習を達成！ +🪙', 'celebrate.tapContinue': 'タップして続ける',

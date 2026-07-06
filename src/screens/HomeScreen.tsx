@@ -14,15 +14,14 @@ import type { Strings } from '../i18n/types'
 const DAILY_GOAL = 20
 
 const catNameKey = (id: string) =>
-  (id === 'chinese' ? 'cat.chinese' : id === 'korean' ? 'cat.korean' : 'cat.english') as keyof Strings
+  (id === 'chinese' ? 'cat.chinese' : id === 'korean' ? 'cat.korean' : id === 'japanese' ? 'cat.japanese' : 'cat.english') as keyof Strings
 
 export function HomeScreen() {
   const { user, ensureCategory, isCategoryReady, engine } = useGame()
   const { navigate, setQuizMode, setCustomIds, category, setCategory, studyLevel, setStudyLevel, t, locale } = useNav()
 
-  // その母語で学べるジャンルだけ表示する。英語ロケールは英語訳を整備済みの中国語のみ
-  // (英語話者が「英単語」を学ぶのは無意味、韓国語は英訳未整備)。日本語は全ジャンル。
-  const localeCats = locale === 'ja' ? categories : categories.filter((c) => c.id === 'chinese')
+  // その母語で学べるジャンルだけ表示する(availableLocales でデータ駆動)。
+  const localeCats = categories.filter((c) => c.availableLocales.includes(locale))
 
   // 現在のカテゴリがこの母語で使えない場合は、使える先頭ジャンルへ自動で切替(空プールで止まるのを防ぐ)
   useEffect(() => {
@@ -38,14 +37,15 @@ export function HomeScreen() {
     setCategory(id)
     void ensureCategory(id) // 先読みしておく
   }
-  const levelLabel = (n: number) => (category === 'chinese' ? `HSK${n}` : `Lv${n}`)
+  const levelLabel = (n: number) =>
+    category === 'chinese' ? `HSK${n}` : category === 'japanese' ? `N${6 - n}` : `Lv${n}`
   const ready = isCategoryReady(category)
   const levels = ready ? engine.availableLevels(category) : []
 
   // デイリー目標
   const todayDone = user.todayAnsweredDate === todayStr() ? user.todayAnswered : 0
   // 習得率（このジャンルで一度でも正解した語 / 出題可能語数）
-  const prefix = category === 'chinese' ? 'zh' : category === 'korean' ? 'ko' : 'en'
+  const prefix = category === 'chinese' ? 'zh' : category === 'korean' ? 'ko' : category === 'japanese' ? 'jp' : 'en'
   const learnedInCat = user.learnedQuestionIds.filter((id) => id.startsWith(prefix)).length
   const totalInCat = ready ? engine.categorySize(category) : 0
   const catLabel = t(catNameKey(category))

@@ -50,7 +50,7 @@ export const en: Strings = {
   'onboard.nameTitle': "What's your name?", 'onboard.nameDesc': 'Shown on rankings and your profile (changeable later).', 'onboard.namePlaceholder': 'Enter your name', 'onboard.startWithName': 'Start!', 'onboard.startNoName': 'Start without a name',
   'onboarding.chooseLang': 'Choose your language',
   'settings.language': 'Language',
-  'cat.english': 'English', 'cat.chinese': 'Chinese', 'cat.korean': 'Korean',
+  'cat.english': 'English', 'cat.chinese': 'Chinese', 'cat.korean': 'Korean', 'cat.japanese': 'Japanese',
   'login.title': 'Login bonus', 'login.streakPre': '', 'login.streakPost': '-day login streak!', 'login.claim': 'Claim', 'login.dayUnit': 'd',
   'celebrate.levelupSub': 'Reached level ', 'celebrate.levelupSubPost': '!', 'celebrate.raidTitlePre': 'Earned the title "', 'celebrate.raidTitlePost': '"!', 'celebrate.raidClearDefault': 'Raid defeated!',
   'celebrate.achievement': 'Achievement', 'celebrate.streakPre': '', 'celebrate.streakPost': '-day study streak! +🪙', 'celebrate.tapContinue': 'Tap to continue',

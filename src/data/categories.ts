@@ -1,4 +1,5 @@
 import type { Category } from '../types'
+import type { Locale } from '../i18n/types'
 
 export interface CategoryInfo {
   id: Category
@@ -6,6 +7,8 @@ export interface CategoryInfo {
   emoji: string
   /** MVPで遊べるか（データがあるか）。未実装は coming soon 表示。 */
   available: boolean
+  /** その母語(UI言語)で学習対象として表示するロケール */
+  availableLocales: Locale[]
 }
 
 /**
@@ -13,9 +16,10 @@ export interface CategoryInfo {
  * questions.<cat>.ts を追加し available:true にするだけで新ジャンルが遊べる。
  */
 export const categories: CategoryInfo[] = [
-  { id: 'english', label: '英単語', emoji: '🇬🇧', available: true },
-  { id: 'chinese', label: '中国語', emoji: '🇨🇳', available: true },
-  { id: 'korean', label: '韓国語', emoji: '🇰🇷', available: true },
+  { id: 'english', label: '英単語', emoji: '🇬🇧', available: true, availableLocales: ['ja'] },
+  { id: 'chinese', label: '中国語', emoji: '🇨🇳', available: true, availableLocales: ['ja', 'en'] },
+  { id: 'korean', label: '韓国語', emoji: '🇰🇷', available: true, availableLocales: ['ja'] },
+  { id: 'japanese', label: '日本語', emoji: '🇯🇵', available: false, availableLocales: ['en'] },
 ]
 
 export function getCategoryInfo(id: Category): CategoryInfo {

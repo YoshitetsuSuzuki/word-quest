@@ -14,9 +14,9 @@ function wordOf(q: Question): string {
 
 type Tab = 'weak' | 'learned' | 'deck'
 
-const CAT_PREFIX: Record<string, string> = { english: 'en', chinese: 'zh', korean: 'ko' }
+const CAT_PREFIX: Record<string, string> = { english: 'en', chinese: 'zh', korean: 'ko', japanese: 'jp' }
 const catNameKey = (id: string) =>
-  (id === 'chinese' ? 'cat.chinese' : id === 'korean' ? 'cat.korean' : 'cat.english') as keyof Strings
+  (id === 'chinese' ? 'cat.chinese' : id === 'korean' ? 'cat.korean' : id === 'japanese' ? 'cat.japanese' : 'cat.english') as keyof Strings
 
 export function StudyScreen() {
   const { user, engine, isCategoryReady, ensureCategory, toggleDeck } = useGame()
@@ -113,7 +113,8 @@ export function StudyScreen() {
       .map((lv) => ({ lv, learned: learnedByLevel.get(lv) ?? 0, total: engine.levelSize(category, lv) }))
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [user.learnedQuestionIds, ready, prefix, category])
-  const levelLabel = (n: number) => (category === 'chinese' ? `HSK${n}` : `Lv${n}`)
+  const levelLabel = (n: number) =>
+    category === 'chinese' ? `HSK${n}` : category === 'japanese' ? `N${6 - n}` : `Lv${n}`
 
   return (
     <div className="space-y-4">

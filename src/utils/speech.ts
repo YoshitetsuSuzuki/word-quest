@@ -41,7 +41,7 @@ export function speak(text: string, lang: string): void {
 
 /** カテゴリに応じた言語で単語を読み上げる */
 export function speakWord(word: string, category: Category): void {
-  const lang = category === 'chinese' ? 'zh-CN' : category === 'korean' ? 'ko-KR' : 'en-US'
+  const lang = category === 'chinese' ? 'zh-CN' : category === 'korean' ? 'ko-KR' : category === 'japanese' ? 'ja-JP' : 'en-US'
   speak(word, lang)
 }
 

@@ -84,7 +84,7 @@ export function ListeningScreen() {
     [q?.id, locale],
   )
   // 穴埋めのTTS言語(文章読み上げ用)
-  const speechLang = category === 'chinese' ? 'zh-CN' : category === 'korean' ? 'ko-KR' : 'en-US'
+  const speechLang = category === 'chinese' ? 'zh-CN' : category === 'korean' ? 'ko-KR' : category === 'japanese' ? 'ja-JP' : 'en-US'
   // スペル入力は英語のみ。中韓はIME/活用の都合で4択専用
   const effectiveStyle: 'type' | 'choice' = category === 'english' ? answerStyle : 'choice'
 
