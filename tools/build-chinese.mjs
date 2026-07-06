@@ -51,6 +51,23 @@ function parseCSV(text) {
 }
 
 const meanings = JSON.parse(fs.readFileSync(path.join(root, 'tools', 'meanings.chinese.json'), 'utf8'))
+
+// リスニング穴埋め用の書き下ろし例文(人手検証済み)。{ hanzi: { ex: "文 — 訳", blank: "空欄語" } }
+// blank が文中(——の左)にちょうど1回現れる語のみ採用(採点=完全一致の保証)。
+let customExamples = {}
+try {
+  customExamples = JSON.parse(fs.readFileSync(path.join(root, 'tools', 'examples.custom.chinese.json'), 'utf8'))
+} catch {
+  // 例文が無ければ例文なしで生成
+}
+function exampleFor(hanzi) {
+  const e = customExamples[hanzi]
+  if (!e || typeof e.ex !== 'string' || typeof e.blank !== 'string') return null
+  const sentence = e.ex.split(' — ')[0]
+  const idx = sentence.indexOf(e.blank)
+  if (idx < 0 || sentence.indexOf(e.blank, idx + 1) >= 0) return null // 0回 or 2回以上は不採用
+  return { example: e.ex, exampleForm: e.blank }
+}
 const rows = parseCSV(fs.readFileSync(path.join(cacheDir, 'hsk30.csv'), 'utf8'))
 const H = rows[0]
 const S = H.indexOf('Simplified'),
@@ -125,18 +142,22 @@ function pickDistractors(target) {
 }
 
 const questions = accepted
-  .map((a, i) => ({
-    id: `zh-${String(i + 1).padStart(5, '0')}`,
-    category: 'chinese',
-    prompt: `「${a.hanzi}」の意味は？`,
-    answer: a.ja,
-    choices: shuffle([a.ja, ...pickDistractors(a)]),
-    difficulty: a.level,
-    tags: [bucketLabel[a.bucket]],
-    explanation: `${a.hanzi}（${a.pinyin}）= ${a.ja}`,
-    pronunciation: a.pinyin,
-    verified: true, // 人手検証済みのみ
-  }))
+  .map((a, i) => {
+    const ex = exampleFor(a.hanzi)
+    return {
+      id: `zh-${String(i + 1).padStart(5, '0')}`,
+      category: 'chinese',
+      prompt: `「${a.hanzi}」の意味は？`,
+      answer: a.ja,
+      choices: shuffle([a.ja, ...pickDistractors(a)]),
+      difficulty: a.level,
+      tags: [bucketLabel[a.bucket]],
+      explanation: `${a.hanzi}（${a.pinyin}）= ${a.ja}`,
+      pronunciation: a.pinyin,
+      ...(ex ? { example: ex.example, exampleForm: ex.exampleForm } : {}),
+      verified: true, // 人手検証済みのみ
+    }
+  })
   .filter((q) => new Set(q.choices).size === 4)
 
 fs.mkdirSync(outDir, { recursive: true })

@@ -40,9 +40,17 @@ export class QuestionEngine {
    */
   buildListeningSession(category: Category, count: number, level = 0): Question[] {
     const full = this.repo.getByCategory(category)
-    const base = category === 'english' ? full.filter((q) => q.example && q.exampleForm) : full
-    let pool = level > 0 ? base.filter((q) => q.difficulty === level) : base
-    if (pool.length < count) pool = base
+    const withEx = full.filter((q) => q.example && q.exampleForm)
+    let pool: Question[]
+    if (withEx.length >= count) {
+      // 例文が十分あれば穴埋め(文章読み上げ)で出題
+      pool = level > 0 ? withEx.filter((q) => q.difficulty === level) : withEx
+      if (pool.length < count) pool = withEx
+    } else {
+      // 例文がまだ少ない言語は従来どおり(単語音声→意味の4択)
+      pool = level > 0 ? full.filter((q) => q.difficulty === level) : full
+      if (pool.length < count) pool = full
+    }
     return shuffle(pool).slice(0, count).map((q) => this.withShuffledChoices(q))
   }
 

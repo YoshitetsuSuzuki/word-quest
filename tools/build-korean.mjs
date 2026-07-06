@@ -14,6 +14,22 @@ const outDir = path.join(root, 'public', 'wordbank', 'korean')
 const data = JSON.parse(fs.readFileSync(path.join(root, 'tools', 'korean.words.json'), 'utf8'))
 const words = data.words // [ [w, r, m], ... ]
 
+// リスニング穴埋め用の書き下ろし例文(人手検証済み)。{ ハングル: { ex: "文 — 訳", blank: "空欄語" } }
+let customExamples = {}
+try {
+  customExamples = JSON.parse(fs.readFileSync(path.join(root, 'tools', 'examples.custom.korean.json'), 'utf8'))
+} catch {
+  // 例文が無ければ例文なしで生成
+}
+function exampleFor(w) {
+  const e = customExamples[w]
+  if (!e || typeof e.ex !== 'string' || typeof e.blank !== 'string') return null
+  const sentence = e.ex.split(' — ')[0]
+  const idx = sentence.indexOf(e.blank)
+  if (idx < 0 || sentence.indexOf(e.blank, idx + 1) >= 0) return null // ちょうど1回のみ採用
+  return { example: e.ex, exampleForm: e.blank }
+}
+
 function inferBucket(m) {
   if (/(な)$/.test(m) || (/い$/.test(m) && !/[ぁ-ん]る$/.test(m))) return 'adj'
   if (/(る|う|く|ぐ|す|つ|ぬ|ぶ|む)$/.test(m)) return 'verb'
@@ -62,18 +78,22 @@ function pickDistractors(target) {
 }
 
 const questions = accepted
-  .map((a, i) => ({
-    id: `ko-${String(i + 1).padStart(5, '0')}`,
-    category: 'korean',
-    prompt: `「${a.w}」の意味は？`,
-    answer: a.m,
-    choices: shuffle([a.m, ...pickDistractors(a)]),
-    difficulty: 1,
-    tags: [bucketLabel[a.bucket]],
-    explanation: `${a.w}（${a.r}）= ${a.m}`,
-    pronunciation: a.r,
-    verified: true,
-  }))
+  .map((a, i) => {
+    const ex = exampleFor(a.w)
+    return {
+      id: `ko-${String(i + 1).padStart(5, '0')}`,
+      category: 'korean',
+      prompt: `「${a.w}」の意味は？`,
+      answer: a.m,
+      choices: shuffle([a.m, ...pickDistractors(a)]),
+      difficulty: 1,
+      tags: [bucketLabel[a.bucket]],
+      explanation: `${a.w}（${a.r}）= ${a.m}`,
+      pronunciation: a.r,
+      ...(ex ? { example: ex.example, exampleForm: ex.exampleForm } : {}),
+      verified: true,
+    }
+  })
   .filter((q) => new Set(q.choices).size === 4)
 
 fs.mkdirSync(outDir, { recursive: true })

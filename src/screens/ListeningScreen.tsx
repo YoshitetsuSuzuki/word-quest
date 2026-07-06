@@ -15,10 +15,16 @@ function splitExample(example: string): { eng: string; jpn: string } {
   return i >= 0 ? { eng: example.slice(0, i), jpn: example.slice(i + 3) } : { eng: example, jpn: '' }
 }
 
-/** 英文中の表層形を空欄(____)にした文を返す */
-function clozeSentence(eng: string, form: string): string {
-  const escaped = form.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')
-  return eng.replace(new RegExp(`\\b${escaped}\\b`), '＿'.repeat(Math.min(form.length, 8)))
+/** 文中の対象語を空欄(＿)にした文を返す。英語は単語境界で、中韓は部分文字列で置換する */
+function clozeSentence(sentence: string, form: string): string {
+  const blank = '＿'.repeat(Math.min(Math.max(form.length, 2), 8))
+  if (/^[\x00-\x7f]+$/.test(form)) {
+    // ASCII(英語): 単語境界つきで最初の一致を置換
+    const escaped = form.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')
+    return sentence.replace(new RegExp(`\\b${escaped}\\b`), blank)
+  }
+  // CJK: 単語境界が無いので最初の部分一致を置換
+  return sentence.replace(form, blank)
 }
 
 /**
@@ -64,8 +70,12 @@ export function ListeningScreen() {
   const inputRef = useRef<HTMLInputElement>(null)
 
   const q = questions[index]
-  const isCloze = category === 'english' && !!q?.example && !!q?.exampleForm
+  const isCloze = !!q?.example && !!q?.exampleForm
   const ex = q?.example ? splitExample(q.example) : null
+  // 穴埋めのTTS言語(文章読み上げ用)
+  const speechLang = category === 'chinese' ? 'zh-CN' : category === 'korean' ? 'ko-KR' : 'en-US'
+  // スペル入力は英語のみ。中韓はIME/活用の都合で4択専用
+  const effectiveStyle: 'type' | 'choice' = category === 'english' ? answerStyle : 'choice'
 
   // 4択スタイル用: 同セッションの他の問題の表層形から誤答肢を3つ作る
   const [wordChoices, setWordChoices] = useState<string[]>([])
@@ -86,7 +96,7 @@ export function ListeningScreen() {
   // 出題時に自動再生（リスニングなので常に読み上げる）
   useEffect(() => {
     if (!q || finished) return
-    if (isCloze && ex) speak(ex.eng, 'en-US')
+    if (isCloze && ex) speak(ex.eng, speechLang)
     else speakWord(wordFromPrompt(q.prompt), category)
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [index, questions.length])
@@ -96,7 +106,7 @@ export function ListeningScreen() {
   }
 
   const replay = () => {
-    if (isCloze && ex) speak(ex.eng, 'en-US')
+    if (isCloze && ex) speak(ex.eng, speechLang)
     else speakWord(wordFromPrompt(q.prompt), category)
   }
 
@@ -181,7 +191,13 @@ export function ListeningScreen() {
       {/* 音声カード */}
       <div className="card p-6 text-center min-h-[150px] grid place-items-center relative">
         <div className="w-full">
-          <div className="text-xs text-white/40 mb-3">{isCloze ? '文を聴いて、空欄の単語を入力しよう' : '音声を聴いて、意味を選ぼう'}</div>
+          <div className="text-xs text-white/40 mb-3">
+            {isCloze
+              ? effectiveStyle === 'type'
+                ? '文を聴いて、空欄の単語を入力しよう'
+                : '文を聴いて、空欄に入る単語を選ぼう'
+              : '音声を聴いて、意味を選ぼう'}
+          </div>
           {canSpeak() && (
             <button
               onClick={replay}
@@ -222,26 +238,28 @@ export function ListeningScreen() {
         <div className="space-y-3">
           {!answered && (
             <>
-              {/* 回答スタイル切替 */}
-              <div className="flex justify-center gap-2">
-                {(
-                  [
-                    ['type', '⌨️ 入力'],
-                    ['choice', '🔤 4択'],
-                  ] as const
-                ).map(([s, label]) => (
-                  <button
-                    key={s}
-                    onClick={() => setAnswerStyle(s)}
-                    className={`px-3 py-1.5 rounded-xl text-xs font-bold transition border ${
-                      answerStyle === s ? 'bg-accent2 text-night border-accent2' : 'bg-panel2 text-white/60 border-white/10'
-                    }`}
-                  >
-                    {label}
-                  </button>
-                ))}
-              </div>
-              {answerStyle === 'type' ? (
+              {/* 回答スタイル切替(スペル入力は英語のみ) */}
+              {category === 'english' && (
+                <div className="flex justify-center gap-2">
+                  {(
+                    [
+                      ['type', '⌨️ 入力'],
+                      ['choice', '🔤 4択'],
+                    ] as const
+                  ).map(([s, label]) => (
+                    <button
+                      key={s}
+                      onClick={() => setAnswerStyle(s)}
+                      className={`px-3 py-1.5 rounded-xl text-xs font-bold transition border ${
+                        answerStyle === s ? 'bg-accent2 text-night border-accent2' : 'bg-panel2 text-white/60 border-white/10'
+                      }`}
+                    >
+                      {label}
+                    </button>
+                  ))}
+                </div>
+              )}
+              {effectiveStyle === 'type' ? (
                 <>
                   <input
                     ref={inputRef}
