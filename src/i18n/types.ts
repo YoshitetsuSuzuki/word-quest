@@ -28,6 +28,7 @@ export interface Strings {
   'study.tabWeak': string; 'study.tabLearned': string; 'study.tabDeck': string
   'study.emptyWeak': string; 'study.emptyLearned': string; 'study.emptyDeck': string
   'study.searchPlaceholder': string; 'study.morePre': string; 'study.moreUnit': string
+  'study.shuffle': string; 'study.filterAll': string; 'study.addDeck': string; 'study.inDeckMark': string
   'study.deckTestPre': string; 'study.deckTestUnit': string
   'study.myDeckAria': string; 'study.meaning': string; 'study.tapToReveal': string; 'study.remove': string
   'profile.level': string; 'profile.xp': string; 'profile.nextLv': string; 'profile.coins': string; 'profile.rating': string

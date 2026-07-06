@@ -13,7 +13,7 @@ const SESSION_SIZE = 10
 
 export function QuizScreen() {
   const game = useGame()
-  const { user, engine, answerQuestion, ensureCategory, isCategoryReady } = game
+  const { user, engine, answerQuestion, ensureCategory, isCategoryReady, toggleDeck } = game
   const { quizMode, navigate, category, customIds, setCustomIds, soundEnabled, studyLevel, sfxEnabled, sfxVolume, t, locale } = useNav()
 
   const ready = isCategoryReady(category)
@@ -243,6 +243,16 @@ export function QuizScreen() {
               {t('quiz.example')} {ex.text}{ex.translation && ` — ${ex.translation}`}
             </div>
           )}
+          <button
+            onClick={() => toggleDeck(q.id)}
+            className={`w-full py-2.5 rounded-xl text-sm font-bold transition border ${
+              user.customDeck.includes(q.id)
+                ? 'bg-gold/15 text-gold border-gold/40'
+                : 'bg-panel2 text-white/60 border-white/10 active:bg-white/5'
+            }`}
+          >
+            {user.customDeck.includes(q.id) ? t('study.inDeckMark') : t('study.addDeck')}
+          </button>
           <button className="btn-primary w-full py-4" onClick={next}>
             {index + 1 >= questions.length ? t('quiz.result') : t('quiz.next')}
           </button>

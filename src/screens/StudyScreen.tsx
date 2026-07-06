@@ -68,6 +68,19 @@ export function StudyScreen() {
 
   const [tab, setTab] = useState<Tab>('weak')
   const [query, setQuery] = useState('')
+  const [levelFilter, setLevelFilter] = useState(0) // 0=すべて
+  const [rateFilter, setRateFilter] = useState<'all' | 'lt50' | 'lt80'>('all') // 苦手タブの正答率しぼり
+  const [deckSeed, setDeckSeed] = useState(0) // マイ単語帳シャッフル用
+
+  // ロケール別の訳語（西/仏/独は日本語訳、英/中/韓/日は従来どおり）
+  const glossOf = (q: Question) => engine.localizedGloss(q, locale)
+  const matchesQuery = (q: Question) => {
+    if (!query) return true
+    const ql = query.toLowerCase()
+    return wordOf(q).toLowerCase().includes(ql) || glossOf(q).toLowerCase().includes(ql)
+  }
+  const matchesLevel = (q: Question) => levelFilter === 0 || q.difficulty === levelFilter
+  const levelOptions = ready ? engine.availableLevels(category) : []
 
   // 今日の復習（この言語のみ）
   const startReview = () => {
@@ -88,9 +101,9 @@ export function StudyScreen() {
     navigate('quiz')
   }
 
-  // 自分の単語帳をテスト（この言語のみ）
+  // 自分の単語帳をテスト（この言語のみ・現在の絞り込み/シャッフル順）
   const startDeckTest = () => {
-    const ids = deck.map((q) => q.id)
+    const ids = shuffledDeck.map((q) => q.id)
     if (ids.length === 0) return
     setQuizMode('normal')
     setCustomIds(ids)
@@ -107,9 +120,24 @@ export function StudyScreen() {
     navigate('quiz')
   }
 
-  const filteredLearned = query
-    ? learned.filter((q) => wordOf(q).includes(query.toLowerCase()) || q.answer.includes(query))
-    : learned
+  const filteredWeak = attempted.filter(
+    (x) =>
+      matchesQuery(x.q) &&
+      matchesLevel(x.q) &&
+      (rateFilter === 'all' || (rateFilter === 'lt50' ? x.rate < 0.5 : x.rate < 0.8)),
+  )
+  const filteredLearned = learned.filter((q) => matchesQuery(q) && matchesLevel(q))
+  const shuffledDeck = useMemo(() => {
+    const arr = deck.filter((q) => matchesQuery(q) && matchesLevel(q))
+    if (deckSeed === 0) return arr
+    const r = [...arr]
+    for (let i = r.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1))
+      ;[r[i], r[j]] = [r[j], r[i]]
+    }
+    return r
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [deck, deckSeed, query, levelFilter])
 
   // 図鑑: 級ごとの習得率
   const zukan = useMemo(() => {
@@ -220,16 +248,42 @@ export function StudyScreen() {
         ))}
       </div>
 
+      {/* 検索＆フィルタ（全タブ共通・目的の語へ素早く到達） */}
+      <div className="space-y-2">
+        <input
+          value={query}
+          onChange={(e) => setQuery(e.target.value)}
+          placeholder={t('study.searchPlaceholder')}
+          className="w-full bg-panel2 rounded-xl px-4 py-2.5 text-sm outline-none border border-white/10 focus:border-accent2"
+        />
+        {levelOptions.length > 1 && (
+          <div className="flex gap-1.5 overflow-x-auto pb-1 -mx-1 px-1">
+            <FilterChip active={levelFilter === 0} onClick={() => setLevelFilter(0)} label={t('study.filterAll')} />
+            {levelOptions.map((lv) => (
+              <FilterChip key={lv} active={levelFilter === lv} onClick={() => setLevelFilter(lv)} label={levelLabel(lv)} />
+            ))}
+          </div>
+        )}
+        {tab === 'weak' && (
+          <div className="flex gap-1.5">
+            <FilterChip active={rateFilter === 'all'} onClick={() => setRateFilter('all')} label={t('study.filterAll')} />
+            <FilterChip active={rateFilter === 'lt80'} onClick={() => setRateFilter('lt80')} label="〜80%" />
+            <FilterChip active={rateFilter === 'lt50'} onClick={() => setRateFilter('lt50')} label="〜50%" />
+          </div>
+        )}
+      </div>
+
       {/* 苦手な単語（正答率つき） */}
       {tab === 'weak' &&
         (attempted.length === 0 ? (
           <EmptyState emoji="🌱" text={t('study.emptyWeak')} />
         ) : (
           <div className="space-y-2">
-            {attempted.slice(0, 50).map(({ id, q, rate, tries }) => (
+            {filteredWeak.slice(0, 50).map(({ id, q, rate, tries }) => (
               <WordRow
                 key={id}
                 q={q}
+                gloss={glossOf(q)}
                 inDeck={deckSet.has(id)}
                 onToggle={() => toggleDeck(id)}
                 right={
@@ -240,6 +294,7 @@ export function StudyScreen() {
                 }
               />
             ))}
+            {filteredWeak.length === 0 && <div className="text-center text-xs text-white/40 py-4">—</div>}
           </div>
         ))}
 
@@ -249,14 +304,8 @@ export function StudyScreen() {
           <EmptyState emoji="📖" text={t('study.emptyLearned')} />
         ) : (
           <div className="space-y-2">
-            <input
-              value={query}
-              onChange={(e) => setQuery(e.target.value)}
-              placeholder={t('study.searchPlaceholder')}
-              className="w-full bg-panel2 rounded-xl px-4 py-2.5 text-sm outline-none border border-white/10 focus:border-accent2"
-            />
             {filteredLearned.slice(0, 100).map((q) => (
-              <WordRow key={q.id} q={q} inDeck={deckSet.has(q.id)} onToggle={() => toggleDeck(q.id)} right={<span className="text-[10px] text-white/30">Lv{q.difficulty}</span>} />
+              <WordRow key={q.id} q={q} gloss={glossOf(q)} inDeck={deckSet.has(q.id)} onToggle={() => toggleDeck(q.id)} right={<span className="text-[10px] text-white/30">{levelLabel(q.difficulty)}</span>} />
             ))}
             {filteredLearned.length > 100 && <div className="text-center text-xs text-white/40 py-2">{t('study.morePre')} {filteredLearned.length - 100} {t('study.moreUnit')}</div>}
           </div>
@@ -268,11 +317,19 @@ export function StudyScreen() {
           <EmptyState emoji="⭐" text={t('study.emptyDeck')} />
         ) : (
           <div className="space-y-3">
-            <button className="btn-primary w-full py-3" onClick={startDeckTest}>
-              {t('study.deckTestPre')}{deck.length}{t('study.deckTestUnit')}
-            </button>
-            {deck.map((q) => (
-              <FlashCard key={q.id} q={q} category={category} onRemove={() => toggleDeck(q.id)} />
+            <div className="grid grid-cols-3 gap-2">
+              <button className="btn-primary col-span-2 py-3" onClick={startDeckTest}>
+                {t('study.deckTestPre')}{shuffledDeck.length}{t('study.deckTestUnit')}
+              </button>
+              <button
+                className="bg-panel2 border border-white/10 rounded-xl py-3 text-xs font-bold text-white/70 active:scale-95 transition"
+                onClick={() => setDeckSeed((s) => s + 1)}
+              >
+                {t('study.shuffle')}
+              </button>
+            </div>
+            {shuffledDeck.map((q) => (
+              <FlashCard key={q.id} q={q} gloss={glossOf(q)} category={category} onRemove={() => toggleDeck(q.id)} />
             ))}
           </div>
         ))}
@@ -280,7 +337,20 @@ export function StudyScreen() {
   )
 }
 
-function WordRow({ q, inDeck, onToggle, right }: { q: Question; inDeck: boolean; onToggle: () => void; right?: ReactNode }) {
+function FilterChip({ active, onClick, label }: { active: boolean; onClick: () => void; label: string }) {
+  return (
+    <button
+      onClick={onClick}
+      className={`shrink-0 px-3 py-1.5 rounded-lg text-xs font-bold transition border ${
+        active ? 'bg-accent2 text-night border-accent2' : 'bg-panel2 text-white/55 border-white/10'
+      }`}
+    >
+      {label}
+    </button>
+  )
+}
+
+function WordRow({ q, gloss, inDeck, onToggle, right }: { q: Question; gloss: string; inDeck: boolean; onToggle: () => void; right?: ReactNode }) {
   const { t } = useNav()
   return (
     <div className="card p-3 flex items-center gap-3">
@@ -289,7 +359,7 @@ function WordRow({ q, inDeck, onToggle, right }: { q: Question; inDeck: boolean;
           {wordOf(q)}
           {q.pronunciation && <span className="text-[11px] text-accent2/70 font-mono font-normal">{q.pronunciation}</span>}
         </div>
-        <div className="text-sm text-white/55 truncate">{q.answer}</div>
+        <div className="text-sm text-white/55 truncate">{gloss}</div>
       </div>
       {right}
       <button
@@ -304,7 +374,7 @@ function WordRow({ q, inDeck, onToggle, right }: { q: Question; inDeck: boolean;
 }
 
 /** タップで表裏（単語⇄意味）を切り替える暗記カード */
-function FlashCard({ q, category, onRemove }: { q: Question; category: Category; onRemove: () => void }) {
+function FlashCard({ q, gloss, category, onRemove }: { q: Question; gloss: string; category: Category; onRemove: () => void }) {
   const { t } = useNav()
   const [showMeaning, setShowMeaning] = useState(false)
   return (
@@ -320,7 +390,7 @@ function FlashCard({ q, category, onRemove }: { q: Question; category: Category;
       )}
       <button onClick={() => setShowMeaning((v) => !v)} className="w-full p-5 text-center active:scale-[0.98] transition">
         {showMeaning ? (
-          <div className="text-xl font-black text-accent2 animate-pop">{q.answer}</div>
+          <div className="text-xl font-black text-accent2 animate-pop">{gloss}</div>
         ) : (
           <div>
             <div className="text-2xl font-black">{wordOf(q)}</div>
