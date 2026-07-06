@@ -69,6 +69,16 @@ try {
 } catch {
   // 確定版グロスが無ければ en 付与なしで生成
 }
+
+// 例文の英訳(確定版)。{ 簡体字: "English translation" }。
+// example を持つ question に、該当簡体字の英訳があれば exampleTranslations = { en } を付与する。
+// 無ければ何もしない(現状不変)。
+let enExampleTr = {}
+try {
+  enExampleTr = JSON.parse(fs.readFileSync(path.join(root, 'tools', 'example-tr.en.chinese.json'), 'utf8'))
+} catch {
+  // 英訳が無ければ exampleTranslations 付与なしで生成
+}
 function exampleFor(hanzi) {
   const e = customExamples[hanzi]
   if (!e || typeof e.ex !== 'string' || typeof e.blank !== 'string') return null
@@ -154,6 +164,8 @@ const questions = accepted
   .map((a, i) => {
     const ex = exampleFor(a.hanzi)
     const gloss = typeof enGloss[a.hanzi] === 'string' && enGloss[a.hanzi] ? enGloss[a.hanzi] : null
+    const exTrEn =
+      ex && typeof enExampleTr[a.hanzi] === 'string' && enExampleTr[a.hanzi] ? enExampleTr[a.hanzi] : null
     return {
       id: `zh-${String(i + 1).padStart(5, '0')}`,
       category: 'chinese',
@@ -165,6 +177,7 @@ const questions = accepted
       explanation: `${a.hanzi}（${a.pinyin}）= ${a.ja}`,
       pronunciation: a.pinyin,
       ...(ex ? { example: ex.example, exampleForm: ex.exampleForm } : {}),
+      ...(exTrEn ? { exampleTranslations: { en: exTrEn } } : {}),
       ...(gloss ? { glosses: { en: gloss } } : {}),
       verified: true, // 人手検証済みのみ
     }
