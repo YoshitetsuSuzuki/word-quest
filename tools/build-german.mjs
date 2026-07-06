@@ -204,13 +204,16 @@ function pickDistractors(target) {
 }
 
 // ---- questions ----
+// 日本語ネイティブ向けの確定訳(ピボット+意味検証済み)を取り込む。無ければ英語のみ。
+const jaGlossPathDe = path.join(root, 'tools', 'gloss.ja.german.json')
+const jaGlossDe = fs.existsSync(jaGlossPathDe) ? JSON.parse(fs.readFileSync(jaGlossPathDe, 'utf8')) : {}
 const questions = accepted
   .map((a, i) => ({
     id: `de-${String(i + 1).padStart(5, '0')}`,
     category: 'german',
     prompt: `「${a.head}」の意味は？`,
     answer: a.gloss,
-    glosses: { en: a.gloss },
+    glosses: jaGlossDe[a.head] ? { en: a.gloss, ja: jaGlossDe[a.head] } : { en: a.gloss },
     choices: shuffle([a.gloss, ...pickDistractors(a)]),
     difficulty: a.level,
     tags: ['word'],

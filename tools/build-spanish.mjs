@@ -328,6 +328,10 @@ async function main() {
 
   const POS_TAG = { verb: 'verb', adj: 'adjective', adv: 'adverb', noun: 'noun', num: 'numeral' }
 
+  // 日本語ネイティブ向けの確定訳(ピボット+意味検証済み)を取り込む。無ければ英語のみ。
+  const jaGlossPath = path.join(root, 'tools', 'gloss.ja.spanish.json')
+  const jaGloss = fs.existsSync(jaGlossPath) ? JSON.parse(fs.readFileSync(jaGlossPath, 'utf8')) : {}
+
   const questions = decided
     .map((d, i) => {
       const distract = pickDistractors(d)
@@ -336,7 +340,7 @@ async function main() {
         category: 'spanish',
         prompt: `「${d.word}」の意味は？`,
         answer: d.gloss,
-        glosses: { en: d.gloss },
+        glosses: jaGloss[d.word] ? { en: d.gloss, ja: jaGloss[d.word] } : { en: d.gloss },
         choices: shuffle([d.gloss, ...distract]),
         difficulty: d.level,
         tags: ['word'],

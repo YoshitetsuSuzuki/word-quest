@@ -66,13 +66,16 @@ export function QuizScreen() {
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [index, questions.length])
 
-  // ja は従来どおり q.choices（挙動不変）。それ以外のロケールのみロケール別4択を生成し、
+  // ja母語ネイティブ言語(英/中/韓)は保存済み q.choices（挙動不変）。
+  // ピボット言語(西/仏/独)は正解が日本語訳(glosses.ja)なので、保存済み(英語)ではなく
+  // ロケール別4択を生成する。非jaロケールも同様に生成。
   // 問題ごとに一度だけ計算して再シャッフルを防ぐ。フックは早期returnより前に置く(Rules of Hooks)。
   const qForChoices = questions[index]
   const displayChoices = useMemo(
     () => {
       if (!qForChoices) return []
-      return locale === 'ja' ? qForChoices.choices : engine.localizedChoices(qForChoices, locale)
+      const nativeJa = locale === 'ja' && engine.localizedGloss(qForChoices, 'ja') === qForChoices.answer
+      return nativeJa ? qForChoices.choices : engine.localizedChoices(qForChoices, locale)
     },
     // eslint-disable-next-line react-hooks/exhaustive-deps
     [qForChoices?.id, locale],

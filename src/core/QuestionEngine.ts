@@ -1,6 +1,14 @@
 import type { Question, Category } from '../types'
 import type { IQuestionRepository } from '../repositories/types'
 
+/**
+ * 母語(base language)が日本語のカテゴリ。これらは answer がそのまま日本語なので、
+ * ja ロケールでは glosses.ja が無くても出題できる。
+ * 西/仏/独 は英語を母語(answer)としつつ、ピボット確定した glosses.ja を持つ語だけ
+ * ja ロケールで出題する。
+ */
+const JA_NATIVE: ReadonlySet<Category> = new Set<Category>(['english', 'chinese', 'korean'])
+
 function shuffle<T>(arr: T[]): T[] {
   const a = [...arr]
   for (let i = a.length - 1; i > 0; i--) {
@@ -24,13 +32,24 @@ export class QuestionEngine {
   }
 
   /**
+   * その語をこのロケールで出題できるか（対象ロケールの訳を持つか）。
+   * en: glosses.en が必要。
+   * ja: 母語が日本語のカテゴリ(英/中/韓)は answer が日本語なので常に可。
+   *     ピボット言語(西/仏/独)は日本語訳(glosses.ja)を持つ語のみ。
+   */
+  private glossOk(q: Question, locale: 'ja' | 'en'): boolean {
+    if (locale === 'en') return !!q.glosses?.en
+    return JA_NATIVE.has(q.category) || !!q.glosses?.ja
+  }
+
+  /**
    * カテゴリの問題（選択肢シャッフル済み）をランダム順で返す。
    * level(1-5)を指定するとその難易度に絞る。該当が少なすぎる場合は全体にフォールバック。
    */
   buildSession(category: Category, count: number, level = 0, locale: 'ja' | 'en' = 'ja'): Question[] {
     const all = this.repo.getByCategory(category)
-    // en 等では、対象ロケールの訳を持つ語だけ出題（ja は全語＝現状不変）
-    const full = locale === 'ja' ? all : all.filter((q) => q.glosses?.en)
+    // 対象ロケールの訳を持つ語だけ出題（ja ネイティブ言語は全語＝現状不変）
+    const full = all.filter((q) => this.glossOk(q, locale))
     let pool = level > 0 ? full.filter((q) => q.difficulty === level) : full
     if (pool.length < count) pool = full // 級内が少ない場合は全体から
     return shuffle(pool).slice(0, count).map((q) => this.withShuffledChoices(q))
@@ -42,8 +61,8 @@ export class QuestionEngine {
    */
   buildListeningSession(category: Category, count: number, level = 0, locale: 'ja' | 'en' = 'ja'): Question[] {
     const all = this.repo.getByCategory(category)
-    // en 等では、対象ロケールの訳を持つ語だけ母集合にする（ja は全語＝現状不変）
-    const full = locale === 'ja' ? all : all.filter((q) => q.glosses?.en)
+    // 対象ロケールの訳を持つ語だけ母集合にする（ja ネイティブ言語は全語＝現状不変）
+    const full = all.filter((q) => this.glossOk(q, locale))
     const withEx = full.filter((q) => q.example && q.exampleForm)
     let pool: Question[]
     if (withEx.length >= count) {
@@ -64,7 +83,7 @@ export class QuestionEngine {
    */
   buildExampleSession(category: Category, count: number, deckIds: string[], locale: 'ja' | 'en' = 'ja'): Question[] {
     const all = this.repo.getByCategory(category)
-    const localeOk = (q: Question) => locale === 'ja' || !!q.glosses?.en
+    const localeOk = (q: Question) => this.glossOk(q, locale)
     const hasEx = (q: Question) => !!q.example && !!q.exampleForm
     const deckSet = new Set(deckIds)
     // A: ★語で例文を持つもの
@@ -107,7 +126,7 @@ export class QuestionEngine {
     const correct = this.localizedGloss(q, locale)
     // 非jaのダミーは、その言語の訳を持つ語だけから選ぶ(言語混在の誤答肢を防ぐ)
     const pool = this.repo.getByCategory(q.category)
-      .filter((o) => o.id !== q.id && (locale === 'ja' || o.glosses?.[locale]))
+      .filter((o) => o.id !== q.id && this.glossOk(o, locale))
       .map((o) => this.localizedGloss(o, locale))
     const used = new Set([correct])
     const out: string[] = []

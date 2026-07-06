@@ -456,6 +456,9 @@ function pickDistractors(target) {
 }
 
 // ---- Question 生成 ----
+// 日本語ネイティブ向けの確定訳(ピボット+意味検証済み)を取り込む。無ければ英語のみ。
+const jaGlossPathFr = path.join(toolsDir, 'gloss.ja.french.json')
+const jaGlossFr = fs.existsSync(jaGlossPathFr) ? JSON.parse(fs.readFileSync(jaGlossPathFr, 'utf8')) : {}
 const questions = candidates
   .map((c, i) => ({
     id: `fr-${String(i + 1).padStart(5, '0')}`,
@@ -465,7 +468,7 @@ const questions = candidates
     choices: shuffle([c.gloss, ...pickDistractors(c)]),
     difficulty: c.level,
     tags: ['word'],
-    glosses: { en: c.gloss },
+    glosses: jaGlossFr[c.word] ? { en: c.gloss, ja: jaGlossFr[c.word] } : { en: c.gloss },
     verified: true,
   }))
   .filter((q) => new Set(q.choices).size === 4)

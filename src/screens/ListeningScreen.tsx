@@ -82,9 +82,14 @@ export function ListeningScreen() {
   // 例文訳・意味のロケール対応(ja では従来の和訳/answer にフォールバック＝挙動不変)
   const exTranslation = q ? engine.localizedExample(q, locale)?.translation ?? (ex?.jpn ?? '') : ''
   const meaningGloss = q ? engine.localizedGloss(q, locale) : ''
-  // 音声→意味4択(非cloze)の選択肢。ja は従来の q.choices、それ以外はロケール別4択を問題ごとに固定。
+  // 音声→意味4択(非cloze)の選択肢。ja母語ネイティブ言語は保存済み q.choices、
+  // ピボット言語(西/仏/独)は正解が日本語訳なのでロケール別4択を生成。非jaも生成。
   const meaningChoices = useMemo(
-    () => (!q ? [] : locale === 'ja' ? q.choices : engine.localizedChoices(q, locale)),
+    () => {
+      if (!q) return []
+      const nativeJa = locale === 'ja' && engine.localizedGloss(q, 'ja') === q.answer
+      return nativeJa ? q.choices : engine.localizedChoices(q, locale)
+    },
     // eslint-disable-next-line react-hooks/exhaustive-deps
     [q?.id, locale],
   )
