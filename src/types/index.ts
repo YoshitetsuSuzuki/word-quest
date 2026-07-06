@@ -24,6 +24,10 @@ export interface Question {
   explanation?: string
   example?: string // 例文
   exampleForm?: string // 例文中に実際に現れる形(bought等)。リスニング穴埋めの正解判定に使う
+  /** ロケール別の訳語(未指定ロケールは answer にフォールバック) */
+  glosses?: Partial<Record<'ja' | 'en', string>>
+  /** 例文の訳文のロケール別(exampleForm はターゲット言語なのでロケール非依存) */
+  exampleTranslations?: Partial<Record<'ja' | 'en', string>>
   pronunciation?: string // 発音記号(IPA) 例: /ˈæpəɫ/
   audioUrl?: string // 将来の音声再生用（optional）
   /** 人手レビュー済み(訳が確実)か。verifiedOnly時はtrueのみ出題する */

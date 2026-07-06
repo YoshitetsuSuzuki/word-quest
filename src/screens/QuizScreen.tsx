@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react'
+import { useEffect, useMemo, useState } from 'react'
 import { useGame } from '../state/GameContext'
 import { useNav } from '../state/nav'
 import { ReviewScheduler } from '../core/ReviewScheduler'
@@ -14,7 +14,7 @@ const SESSION_SIZE = 10
 export function QuizScreen() {
   const game = useGame()
   const { user, engine, answerQuestion, ensureCategory, isCategoryReady } = game
-  const { quizMode, navigate, category, customIds, setCustomIds, soundEnabled, studyLevel, sfxEnabled, sfxVolume, t } = useNav()
+  const { quizMode, navigate, category, customIds, setCustomIds, soundEnabled, studyLevel, sfxEnabled, sfxVolume, t, locale } = useNav()
 
   const ready = isCategoryReady(category)
   const [questions, setQuestions] = useState<Question[]>([])
@@ -70,11 +70,23 @@ export function QuizScreen() {
 
   const q = questions[index]
   const effect = equippedEffect(user)
+  // ja は従来どおり q.choices（挙動不変）。それ以外のロケールのみロケール別4択を生成し、
+  // 問題ごとに一度だけ計算して再シャッフルを防ぐ。
+  const displayChoices = useMemo(
+    () => (locale === 'ja' ? q.choices : engine.localizedChoices(q, locale)),
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+    [q.id, locale],
+  )
+  const correctGloss = engine.localizedGloss(q, locale)
+  const ex = engine.localizedExample(q, locale)
 
   const onSelect = (choice: string) => {
     if (selected) return
     const newCombo = combo + 1 // 正解ならこのコンボ数で報酬計算
-    const res = answerQuestion(q, choice, newCombo)
+    // 下流ロジック(AnswerChecker/wordStats/復習)は q.answer 基準。
+    // 非ja では選択肢が訳語なので、正解の訳語を選んだら q.answer に正規化して渡す(ja では localizedGloss===answer なので不変)。
+    const answerForCheck = choice === correctGloss ? q.answer : choice
+    const res = answerQuestion(q, answerForCheck, newCombo)
     setSelected(choice)
     setOutcome(res)
     setPopKey((k) => k + 1)
@@ -122,7 +134,7 @@ export function QuizScreen() {
 
   const choiceStyle = (choice: string): string => {
     if (!selected) return 'btn-ghost'
-    if (choice === q.answer) return 'btn bg-success/90 text-white ring-2 ring-success'
+    if (choice === correctGloss) return 'btn bg-success/90 text-white ring-2 ring-success'
     if (choice === selected) return 'btn bg-danger/90 text-white ring-2 ring-danger'
     return 'btn bg-panel2 text-white/40'
   }
@@ -179,7 +191,7 @@ export function QuizScreen() {
 
       {/* 選択肢 */}
       <div className="grid grid-cols-1 gap-3">
-        {q.choices.map((choice) => (
+        {displayChoices.map((choice) => (
           <button
             key={choice}
             disabled={!!selected}
@@ -196,12 +208,18 @@ export function QuizScreen() {
         <div className="animate-slideUp space-y-3">
           {!outcome?.correct && (
             <div className="card p-4 text-sm">
-              <div className="font-bold text-danger mb-1">{t('quiz.answer')} {q.answer}</div>
-              {q.example && <div className="text-white/60">{t('quiz.example')} {q.example}</div>}
+              <div className="font-bold text-danger mb-1">{t('quiz.answer')} {correctGloss}</div>
+              {ex && (
+                <div className="text-white/60">
+                  {t('quiz.example')} {ex.text}{ex.translation && ` — ${ex.translation}`}
+                </div>
+              )}
             </div>
           )}
-          {outcome?.correct && q.example && (
-            <div className="text-center text-xs text-white/40">{t('quiz.example')} {q.example}</div>
+          {outcome?.correct && ex && (
+            <div className="text-center text-xs text-white/40">
+              {t('quiz.example')} {ex.text}{ex.translation && ` — ${ex.translation}`}
+            </div>
           )}
           <button className="btn-primary w-full py-4" onClick={next}>
             {index + 1 >= questions.length ? t('quiz.result') : t('quiz.next')}

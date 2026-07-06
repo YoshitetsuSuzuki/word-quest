@@ -1,4 +1,4 @@
-import { useEffect, useRef, useState } from 'react'
+import { useEffect, useMemo, useRef, useState } from 'react'
 import { useGame } from '../state/GameContext'
 import { useNav } from '../state/nav'
 import { Loading } from '../components/Loading'
@@ -34,7 +34,7 @@ function clozeSentence(sentence: string, form: string): string {
  */
 export function ListeningScreen() {
   const { engine, answerQuestion, ensureCategory, isCategoryReady } = useGame()
-  const { navigate, category, studyLevel, sfxEnabled, sfxVolume, t } = useNav()
+  const { navigate, category, studyLevel, sfxEnabled, sfxVolume, t, locale } = useNav()
 
   const ready = isCategoryReady(category)
   const [questions, setQuestions] = useState<Question[]>([])
@@ -72,6 +72,15 @@ export function ListeningScreen() {
   const q = questions[index]
   const isCloze = !!q?.example && !!q?.exampleForm
   const ex = q?.example ? splitExample(q.example) : null
+  // 例文訳・意味のロケール対応(ja では従来の和訳/answer にフォールバック＝挙動不変)
+  const exTranslation = q ? engine.localizedExample(q, locale)?.translation ?? (ex?.jpn ?? '') : ''
+  const meaningGloss = q ? engine.localizedGloss(q, locale) : ''
+  // 音声→意味4択(非cloze)の選択肢。ja は従来の q.choices、それ以外はロケール別4択を問題ごとに固定。
+  const meaningChoices = useMemo(
+    () => (!q ? [] : locale === 'ja' ? q.choices : engine.localizedChoices(q, locale)),
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+    [q?.id, locale],
+  )
   // 穴埋めのTTS言語(文章読み上げ用)
   const speechLang = category === 'chinese' ? 'zh-CN' : category === 'korean' ? 'ko-KR' : 'en-US'
   // スペル入力は英語のみ。中韓はIME/活用の都合で4択専用
@@ -140,7 +149,8 @@ export function ListeningScreen() {
   const selectChoice = (choice: string) => {
     if (answered) return
     setSelected(choice)
-    finish(choice === q.answer)
+    // 非ja では choice は訳語。正解の訳語なら q.answer 基準で正誤判定(ja では meaningGloss===answer なので不変)。
+    finish(choice === meaningGloss)
   }
 
   /** 穴埋め4択スタイル: 単語の選択肢で回答 */
@@ -219,14 +229,14 @@ export function ListeningScreen() {
               <div className="font-bold leading-relaxed">
                 {answered ? ex.eng : clozeSentence(ex.eng, q.exampleForm!)}
               </div>
-              <div className="text-xs text-white/50">{ex.jpn}</div>
+              <div className="text-xs text-white/50">{exTranslation}</div>
             </div>
           )}
           {answered && (
             <div className="mt-3 animate-slideUp">
               <span className="font-black text-lg">{word}</span>
               {q.pronunciation && <span className="ml-2 text-accent2 font-mono font-bold text-sm">{q.pronunciation}</span>}
-              <span className="ml-2 text-white/70">= {q.answer}</span>
+              <span className="ml-2 text-white/70">= {meaningGloss}</span>
             </div>
           )}
         </div>
@@ -298,10 +308,10 @@ export function ListeningScreen() {
         </div>
       ) : (
         <div className="grid grid-cols-1 gap-3">
-          {q.choices.map((choice) => {
+          {meaningChoices.map((choice) => {
             let cls = 'btn-ghost'
             if (answered) {
-              if (choice === q.answer) cls = 'btn bg-success/90 text-white ring-2 ring-success'
+              if (choice === meaningGloss) cls = 'btn bg-success/90 text-white ring-2 ring-success'
               else if (choice === selected) cls = 'btn bg-danger/90 text-white ring-2 ring-danger'
               else cls = 'btn bg-panel2 text-white/40'
             }

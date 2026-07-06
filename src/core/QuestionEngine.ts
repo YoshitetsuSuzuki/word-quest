@@ -65,6 +65,39 @@ export class QuestionEngine {
     return picked
   }
 
+  /** ロケール別の訳語を返す(未指定ロケールは answer にフォールバック) */
+  localizedGloss(q: Question, locale: 'ja' | 'en'): string {
+    return q.glosses?.[locale] ?? q.answer
+  }
+
+  /** 例文をターゲット言語文とロケール別訳文に分解する(ja は従来の和訳にフォールバック) */
+  localizedExample(q: Question, locale: 'ja' | 'en'): { text: string; translation: string } | null {
+    if (!q.example) return null
+    const i = q.example.indexOf(' — ')
+    const text = i >= 0 ? q.example.slice(0, i) : q.example
+    const jaTr = i >= 0 ? q.example.slice(i + 3) : ''
+    const translation = q.exampleTranslations?.[locale] ?? jaTr
+    return { text, translation }
+  }
+
+  /** 英語ロケール等で、その語の訳とダミー3つ(同カテゴリ)で4択を作る */
+  localizedChoices(q: Question, locale: 'ja' | 'en'): string[] {
+    const correct = this.localizedGloss(q, locale)
+    const pool = this.repo.getByCategory(q.category)
+      .filter((o) => o.id !== q.id)
+      .map((o) => this.localizedGloss(o, locale))
+    const used = new Set([correct])
+    const out: string[] = []
+    for (const g of shuffle(pool)) {
+      if (out.length >= 3) break
+      if (!used.has(g)) {
+        used.add(g)
+        out.push(g)
+      }
+    }
+    return shuffle([correct, ...out])
+  }
+
   getById(id: string): Question | undefined {
     return this.repo.getById(id)
   }
