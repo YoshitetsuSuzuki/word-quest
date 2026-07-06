@@ -1,94 +1,122 @@
 import type { PetStage, PetMood } from '../config/petConfig'
 
 /**
- * 学習相棒のプロシージャルSVG。段階(stage)で見た目が育ち、気分(mood)で表情が変わる。
- * 絵柄アセット不要・コード生成。色は物理色なのでハードコード（透明背景に乗せる）。
+ * 学習相棒のプロシージャルSVG（かわいい版）。
+ * 大きなうるうる目・ぷっくり体型・ほっぺ・手足で愛らしく。段階(stage)で育ち、気分(mood)で表情が変わる。
+ * 色は物理色なのでハードコード（透明背景に乗せる）。
  */
 export function PetSprite({ stage, mood, size = 96 }: { stage: PetStage; mood: PetMood; size?: number }) {
   const sad = mood === 'sad'
-  const body = sad ? '#8fb9b3' : '#7dd3c8'
-  const line = sad ? '#5c8f88' : '#34a99a'
-  const eye = '#22303f'
-  const cheek = '#ff9e9e'
-  const drop = '#7cc0ff'
+  const body = sad ? '#a9c8c2' : '#86e0cf'
+  const belly = sad ? '#e7f0ee' : '#d8f7ef'
+  const line = sad ? '#7fa39c' : '#3fb9a7'
+  const eye = '#3a3a4d'
+  const cheek = '#ff9fb8'
 
-  // stage1 は「たまご」。表情は出さず、そっと待っている見た目。
+  // stage1 は「たまご」。ぷっくり卵にほんのりほっぺとキラキラ。
   if (stage === 1) {
     return (
       <svg width={size} height={size} viewBox="0 0 100 100" role="img" aria-label="egg">
-        <ellipse cx="50" cy="56" rx="26" ry="33" fill="#fdf1d6" stroke="#e3c98f" strokeWidth="2" />
-        <polyline
-          points="36,54 46,48 40,60 52,52 46,64 60,56"
-          fill="none"
-          stroke="#c9ad6a"
-          strokeWidth="2"
-          strokeLinejoin="round"
-        />
+        <ellipse cx="50" cy="55" rx="27" ry="33" fill="#fff5da" stroke="#efd79a" strokeWidth="2.5" />
+        <ellipse cx="50" cy="66" rx="20" ry="16" fill="#fffdf3" opacity="0.7" />
+        <ellipse cx="40" cy="60" rx="4" ry="2.6" fill="#ffc9d6" opacity="0.8" />
+        <ellipse cx="60" cy="60" rx="4" ry="2.6" fill="#ffc9d6" opacity="0.8" />
+        <path d="M34 40 l1.6 3.4 3.4 1.6 -3.4 1.6 -1.6 3.4 -1.6 -3.4 -3.4 -1.6 3.4 -1.6 z" fill="#ffd966" />
+        <circle cx="64" cy="44" r="2" fill="#ffd966" />
       </svg>
     )
   }
 
-  const r = 24 + stage * 2 // 段階が上がるほど少し大きく
+  const cx = 50
+  const cy = 58
+  const rx = 24 + stage // ぷっくり。段階で少し成長
+  const ry = 25 + stage
 
   return (
     <svg width={size} height={size} viewBox="0 0 100 100" role="img" aria-label={`pet stage ${stage} ${mood}`}>
-      {/* 王冠(でんせつ) と キラキラ */}
+      {/* 王冠(でんせつ) & キラキラ */}
       {stage >= 5 && (
         <>
-          <polygon points="34,22 42,32 50,20 58,32 66,22 63,40 37,40" fill="#f4c430" stroke="#d9a406" strokeWidth="1.5" />
-          <path d="M22 34 l2 4 4 2 -4 2 -2 4 -2 -4 -4 -2 4 -2 z" fill="#f4c430" />
-          <path d="M78 40 l1.5 3 3 1.5 -3 1.5 -1.5 3 -1.5 -3 -3 -1.5 3 -1.5 z" fill="#f4c430" />
+          <path d="M31 20 l7 10 6 -12 6 12 7 -10 -2 18 -22 0 z" fill="#ffd45e" stroke="#e6a90c" strokeWidth="1.5" strokeLinejoin="round" />
+          <circle cx="31" cy="20" r="2.6" fill="#ffe08a" />
+          <circle cx="69" cy="20" r="2.6" fill="#ffe08a" />
+          <path d="M18 40 l1.6 3.4 3.4 1.6 -3.4 1.6 -1.6 3.4 -1.6 -3.4 -3.4 -1.6 3.4 -1.6 z" fill="#ffd966" />
+          <path d="M82 46 l1.3 2.8 2.8 1.3 -2.8 1.3 -1.3 2.8 -1.3 -2.8 -2.8 -1.3 2.8 -1.3 z" fill="#ffd966" />
         </>
       )}
-      {/* 芽(ひな) */}
-      {stage === 2 && <path d="M47 26 q3 -9 6 0" fill="none" stroke="#6cc24a" strokeWidth="3" strokeLinecap="round" />}
-      {/* 耳(わか以降) */}
+      {/* 耳(わか以降) — 丸くてやわらかい */}
       {stage >= 3 && (
         <>
-          <path d={`M${50 - r * 0.5} ${58 - r * 0.7} l7 14 -14 0 z`} fill={body} stroke={line} strokeWidth="2" />
-          <path d={`M${50 + r * 0.5} ${58 - r * 0.7} l-7 14 14 0 z`} fill={body} stroke={line} strokeWidth="2" />
+          <ellipse cx={cx - rx * 0.62} cy={cy - ry * 0.72} rx="8" ry="11" fill={body} stroke={line} strokeWidth="2" transform={`rotate(-20 ${cx - rx * 0.62} ${cy - ry * 0.72})`} />
+          <ellipse cx={cx + rx * 0.62} cy={cy - ry * 0.72} rx="8" ry="11" fill={body} stroke={line} strokeWidth="2" transform={`rotate(20 ${cx + rx * 0.62} ${cy - ry * 0.72})`} />
+          <ellipse cx={cx - rx * 0.62} cy={cy - ry * 0.72} rx="3.5" ry="5.5" fill="#ffc9d6" transform={`rotate(-20 ${cx - rx * 0.62} ${cy - ry * 0.72})`} />
+          <ellipse cx={cx + rx * 0.62} cy={cy - ry * 0.72} rx="3.5" ry="5.5" fill="#ffc9d6" transform={`rotate(20 ${cx + rx * 0.62} ${cy - ry * 0.72})`} />
         </>
       )}
-      {/* 体 */}
-      <circle cx="50" cy="58" r={r} fill={body} stroke={line} strokeWidth="2" />
-      {/* マフラー(せいちょう以降) */}
-      {stage >= 4 && <rect x={50 - r * 0.7} y={58 + r * 0.72} width={r * 1.4} height="7" rx="3" fill="#ff9e9e" />}
+      {/* 芽(ひな) — ちょこんと */}
+      {stage === 2 && (
+        <>
+          <path d={`M${cx} ${cy - ry - 1} q-8 -6 -1 -12 q5 5 1 12`} fill="#7fd06a" stroke="#5aa84a" strokeWidth="1" />
+          <path d={`M${cx} ${cy - ry - 1} q8 -5 1 -11`} fill="#8fdb7a" />
+        </>
+      )}
 
-      {/* 目 */}
+      {/* 足 */}
+      <ellipse cx={cx - 10} cy={cy + ry - 2} rx="7" ry="4.5" fill={body} stroke={line} strokeWidth="2" />
+      <ellipse cx={cx + 10} cy={cy + ry - 2} rx="7" ry="4.5" fill={body} stroke={line} strokeWidth="2" />
+      {/* 体 */}
+      <ellipse cx={cx} cy={cy} rx={rx} ry={ry} fill={body} stroke={line} strokeWidth="2.5" />
+      {/* おなか */}
+      <ellipse cx={cx} cy={cy + ry * 0.28} rx={rx * 0.62} ry={ry * 0.55} fill={belly} />
+      {/* 手 */}
+      <ellipse cx={cx - rx + 1} cy={cy + 5} rx="5" ry="6.5" fill={body} stroke={line} strokeWidth="2" />
+      <ellipse cx={cx + rx - 1} cy={cy + 5} rx="5" ry="6.5" fill={body} stroke={line} strokeWidth="2" />
+      {/* マフラー(せいちょう以降) */}
+      {stage >= 4 && (
+        <>
+          <path d={`M${cx - rx * 0.72} ${cy + ry * 0.55} q${rx * 0.72} 12 ${rx * 1.44} 0 l0 6 q-${rx * 0.72} 10 -${rx * 1.44} 0 z`} fill="#ff8fa8" />
+          <rect x={cx + rx * 0.4} y={cy + ry * 0.58} width="7" height="12" rx="3" fill="#ff8fa8" />
+        </>
+      )}
+
+      {/* ほっぺ(いつも) */}
+      <ellipse cx={cx - 14} cy={cy + 4} rx="5" ry="3.2" fill={cheek} opacity="0.85" />
+      <ellipse cx={cx + 14} cy={cy + 4} rx="5" ry="3.2" fill={cheek} opacity="0.85" />
+
+      {/* 目 — 大きくうるうる */}
       {mood === 'happy' ? (
         <>
-          <path d="M40 55 q4 -5 8 0" fill="none" stroke={eye} strokeWidth="2.2" strokeLinecap="round" />
-          <path d="M52 55 q4 -5 8 0" fill="none" stroke={eye} strokeWidth="2.2" strokeLinecap="round" />
-        </>
-      ) : sad ? (
-        <>
-          <path d="M41 55 q3 4 7 0" fill="none" stroke={eye} strokeWidth="2.2" strokeLinecap="round" />
-          <path d="M52 55 q3 4 7 0" fill="none" stroke={eye} strokeWidth="2.2" strokeLinecap="round" />
+          <path d={`M${cx - 14} ${cy - 2} q4 -6 8 0`} fill="none" stroke={eye} strokeWidth="3" strokeLinecap="round" />
+          <path d={`M${cx + 6} ${cy - 2} q4 -6 8 0`} fill="none" stroke={eye} strokeWidth="3" strokeLinecap="round" />
         </>
       ) : (
         <>
-          <circle cx="43" cy="55" r="2.8" fill={eye} />
-          <circle cx="57" cy="55" r="2.8" fill={eye} />
-        </>
-      )}
-
-      {/* ほっぺ(ごきげん時) */}
-      {mood === 'happy' && (
-        <>
-          <circle cx="37" cy="63" r="3.4" fill={cheek} />
-          <circle cx="63" cy="63" r="3.4" fill={cheek} />
+          <ellipse cx={cx - 10} cy={cy - 2} rx="4.6" ry="6" fill={eye} />
+          <ellipse cx={cx + 10} cy={cy - 2} rx="4.6" ry="6" fill={eye} />
+          <circle cx={cx - 11.5} cy={cy - 4.5} r="1.9" fill="#fff" />
+          <circle cx={cx + 8.5} cy={cy - 4.5} r="1.9" fill="#fff" />
+          <circle cx={cx - 8.5} cy={cy} r="1" fill="#fff" />
+          <circle cx={cx + 11.5} cy={cy} r="1" fill="#fff" />
+          {sad && (
+            <>
+              <path d={`M${cx - 15} ${cy - 7} q5 -3 10 0`} fill="none" stroke={eye} strokeWidth="1.6" strokeLinecap="round" />
+              <path d={`M${cx + 5} ${cy - 7} q5 -3 10 0`} fill="none" stroke={eye} strokeWidth="1.6" strokeLinecap="round" />
+            </>
+          )}
         </>
       )}
 
       {/* 口 */}
-      {mood === 'happy' && <path d="M42 63 q8 8 16 0" fill="none" stroke={eye} strokeWidth="2.2" strokeLinecap="round" />}
-      {mood === 'normal' && <line x1="45" y1="65" x2="55" y2="65" stroke={eye} strokeWidth="2.2" strokeLinecap="round" />}
-      {mood === 'hungry' && <circle cx="50" cy="66" r="3.2" fill="none" stroke={eye} strokeWidth="2" />}
-      {mood === 'sad' && <path d="M43 68 q7 -6 14 0" fill="none" stroke={eye} strokeWidth="2.2" strokeLinecap="round" />}
+      {mood === 'happy' && <path d={`M${cx - 6} ${cy + 8} q6 7 12 0 q-6 3 -12 0 z`} fill="#ff7d97" stroke={eye} strokeWidth="1.4" strokeLinejoin="round" />}
+      {mood === 'normal' && (
+        <path d={`M${cx - 4} ${cy + 8} q4 3 4 0 q0 3 4 0`} fill="none" stroke={eye} strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round" />
+      )}
+      {mood === 'hungry' && <ellipse cx={cx} cy={cy + 9} rx="3" ry="3.6" fill="#ff7d97" stroke={eye} strokeWidth="1.4" />}
+      {mood === 'sad' && <path d={`M${cx - 5} ${cy + 11} q5 -5 10 0`} fill="none" stroke={eye} strokeWidth="1.8" strokeLinecap="round" />}
 
       {/* 汗(おなかすいた) / なみだ(しょんぼり) */}
-      {mood === 'hungry' && <path d="M70 46 q4 6 0 10 q-4 -4 0 -10 z" fill={drop} />}
-      {mood === 'sad' && <path d="M60 60 q3 8 0 12 q-3 -4 0 -12 z" fill={drop} />}
+      {mood === 'hungry' && <path d={`M${cx + rx - 4} ${cy - 12} q4 6 0 10 q-4 -4 0 -10 z`} fill="#7cc0ff" />}
+      {mood === 'sad' && <path d={`M${cx + 10} ${cy + 4} q3 7 0 11 q-3 -4 0 -11 z`} fill="#7cc0ff" />}
     </svg>
   )
 }
