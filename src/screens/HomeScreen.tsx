@@ -13,7 +13,7 @@ const DAILY_GOAL = 20
 
 export function HomeScreen() {
   const { user, ensureCategory, isCategoryReady, engine } = useGame()
-  const { navigate, setQuizMode, setCustomIds, category, setCategory, studyLevel, setStudyLevel } = useNav()
+  const { navigate, setQuizMode, setCustomIds, category, setCategory, studyLevel, setStudyLevel, t } = useNav()
 
   const selectCategory = (id: typeof category) => {
     setCategory(id)
@@ -36,20 +36,20 @@ export function HomeScreen() {
   const dueReview = user.reviewQueue.filter((r) => r.nextReviewAt <= Date.now()).length
 
   const tiles: { screen: Parameters<typeof navigate>[0]; label: string; icon: string; on: boolean; hint?: string }[] = [
-    { screen: 'battle', label: 'バトル', icon: '⚔️', on: featureFlags.battleEnabled, hint: '20問対戦' },
-    { screen: 'raid', label: 'レイド', icon: '🐉', on: featureFlags.raidEnabled, hint: `${Math.round(raid.ratio * 100)}%` },
-    { screen: 'missions', label: 'ミッション', icon: '🎯', on: featureFlags.missionsEnabled, hint: `${doneMissions}/${missions.length}` },
-    { screen: 'shop', label: 'ショップ', icon: '🛍️', on: featureFlags.shopEnabled },
+    { screen: 'battle', label: t('home.battle'), icon: '⚔️', on: featureFlags.battleEnabled, hint: t('home.battleHint') },
+    { screen: 'raid', label: t('home.raid'), icon: '🐉', on: featureFlags.raidEnabled, hint: `${Math.round(raid.ratio * 100)}%` },
+    { screen: 'missions', label: t('home.missions'), icon: '🎯', on: featureFlags.missionsEnabled, hint: `${doneMissions}/${missions.length}` },
+    { screen: 'shop', label: t('home.shop'), icon: '🛍️', on: featureFlags.shopEnabled },
   ]
 
   return (
     <div className="space-y-4">
       <div>
         <h1 className="text-2xl font-black leading-tight">
-          英単語で、<span className="text-accent2">世界一</span>へ。
+          {t('home.heroPre')}<span className="text-accent2">{t('home.heroAccent')}</span>{t('home.heroPost')}
         </h1>
         <p className="text-sm text-white/50 mt-1">
-          🔥 {user.studyStreak}日連続学習中 ・ 今日 🪙{user.todayCoin} 獲得
+          🔥 {user.studyStreak}{t('home.streakMid')}{user.todayCoin}{t('home.streakEnd')}
         </p>
       </div>
 
@@ -58,7 +58,7 @@ export function HomeScreen() {
 
       {/* ジャンル選択（プラットフォームの横展開） */}
       <div>
-        <div className="text-xs text-white/45 mb-2 font-bold">学習ジャンル</div>
+        <div className="text-xs text-white/45 mb-2 font-bold">{t('home.language')}</div>
         <div className="flex gap-2 overflow-x-auto pb-1 -mx-1 px-1">
           {categories.map((c) => {
             const active = c.id === category
@@ -76,7 +76,7 @@ export function HomeScreen() {
                 }`}
               >
                 {c.emoji} {c.label}
-                {!c.available && <span className="ml-1 text-[9px]">準備中</span>}
+                {!c.available && <span className="ml-1 text-[9px]">{t('home.comingSoon')}</span>}
               </button>
             )
           })}
@@ -86,7 +86,7 @@ export function HomeScreen() {
       {/* レベル選択（級で選んで学ぶ） */}
       {levels.length > 1 && (
         <div>
-          <div className="text-xs text-white/45 mb-2 font-bold">レベル</div>
+          <div className="text-xs text-white/45 mb-2 font-bold">{t('home.level')}</div>
           <div className="flex gap-2 overflow-x-auto pb-1 -mx-1 px-1">
             {[0, ...levels].map((n) => {
               const active = studyLevel === n
@@ -98,7 +98,7 @@ export function HomeScreen() {
                     active ? 'bg-accent2 text-night border-accent2' : 'bg-panel2 text-white/60 border-white/10'
                   }`}
                 >
-                  {n === 0 ? 'おまかせ' : levelLabel(n)}
+                  {n === 0 ? t('home.mixed') : levelLabel(n)}
                 </button>
               )
             })}
@@ -115,7 +115,7 @@ export function HomeScreen() {
         }}
         className="btn-primary w-full py-5 text-lg relative overflow-hidden"
       >
-        <span className="relative z-10">▶ クイズをはじめる</span>
+        <span className="relative z-10">{t('home.startQuiz')}</span>
       </button>
 
       {/* リスニングモード */}
@@ -127,9 +127,9 @@ export function HomeScreen() {
         }}
         className="btn-ghost w-full py-4 text-base flex items-center justify-center gap-2"
       >
-        🎧 リスニング
+        {t('home.listening')}
         <span className="text-xs text-white/45">
-          {category === 'english' ? '例文を聴いてスペル入力' : '音声を聴いて意味を4択'}
+          {category === 'english' ? t('home.listenHintSpell') : t('home.listenHintChoice')}
         </span>
       </button>
 
@@ -143,26 +143,26 @@ export function HomeScreen() {
           }}
           className="btn-ghost w-full py-3 text-sm flex items-center justify-center gap-2"
         >
-          🔁 復習が {dueReview} 問たまっています
+          {t('home.reviewDuePre')} {dueReview} {t('home.reviewDuePost')}
         </button>
       )}
 
       {/* 今日の目標 & 習得率 */}
       <div className="grid grid-cols-2 gap-3">
         <div className="card p-4">
-          <div className="text-xs text-white/45 font-bold">今日の目標</div>
+          <div className="text-xs text-white/45 font-bold">{t('home.dailyGoal')}</div>
           <div className="mt-1 font-black tabular-nums">
             {todayDone}
-            <span className="text-white/40 text-sm"> / {DAILY_GOAL}問</span>
+            <span className="text-white/40 text-sm"> / {DAILY_GOAL}{t('home.goalUnit')}</span>
           </div>
           <ProgressBar ratio={todayDone / DAILY_GOAL} className="mt-2" barClassName={todayDone >= DAILY_GOAL ? 'bg-success' : 'bg-accent2'} height={8} />
-          {todayDone >= DAILY_GOAL && <div className="text-[10px] text-success mt-1 font-bold">達成！🎉</div>}
+          {todayDone >= DAILY_GOAL && <div className="text-[10px] text-success mt-1 font-bold">{t('home.goalDone')}</div>}
         </div>
         <div className="card p-4">
-          <div className="text-xs text-white/45 font-bold">{catLabel}の習得</div>
+          <div className="text-xs text-white/45 font-bold">{catLabel}{t('home.masteryOf')}</div>
           <div className="mt-1 font-black tabular-nums">
             {learnedInCat}
-            <span className="text-white/40 text-sm"> / {totalInCat}語</span>
+            <span className="text-white/40 text-sm"> / {totalInCat}{t('home.masteryUnit')}</span>
           </div>
           <ProgressBar ratio={totalInCat ? learnedInCat / totalInCat : 0} className="mt-2" barClassName="bg-gold" height={8} />
         </div>
@@ -194,7 +194,7 @@ export function HomeScreen() {
           <div className="flex items-center gap-3">
             <div className="text-4xl">{raid.boss.emoji}</div>
             <div className="flex-1 min-w-0">
-              <div className="text-xs text-white/45">今日のレイドボス</div>
+              <div className="text-xs text-white/45">{t('home.todayRaidBoss')}</div>
               <div className="font-bold truncate">{raid.boss.name}</div>
               <ProgressBar ratio={raid.ratio} className="mt-2" barClassName="bg-danger" height={8} />
             </div>
