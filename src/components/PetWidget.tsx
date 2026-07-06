@@ -1,4 +1,4 @@
-import { useEffect } from 'react'
+import { useEffect, Component, type ReactNode } from 'react'
 import { useGame } from '../state/GameContext'
 import { useNav } from '../state/nav'
 import { ProgressBar } from './ProgressBar'
@@ -8,6 +8,18 @@ import { petView } from '../core/PetEngine'
 import { todayStr } from '../state/dateUtils'
 import { PET_SPECIES_NAME_KEY } from '../config/petConfig'
 import type { Strings } from '../i18n/types'
+
+// スプライト描画で万一エラーが出てもアプリ全体を白画面にしない安全網
+class SpriteBoundary extends Component<{ children: ReactNode }, { failed: boolean }> {
+  state = { failed: false }
+  static getDerivedStateFromError() {
+    return { failed: true }
+  }
+  render() {
+    if (this.state.failed) return <div className="w-[76px] h-[76px] grid place-items-center text-3xl">🥚</div>
+    return this.props.children
+  }
+}
 
 /**
  * 学習相棒ウィジェット（ホーム常駐）。
@@ -45,7 +57,9 @@ export function PetWidget() {
         </span>
       )}
       <div key={`${view.form}-${view.mood}`} className="shrink-0 animate-pop">
-        <PetSprite species={view.species} form={view.form} level={view.level} mood={view.mood} size={76} />
+        <SpriteBoundary>
+          <PetSprite species={view.species} form={view.form} level={view.level} mood={view.mood} size={76} />
+        </SpriteBoundary>
       </div>
       <div className="flex-1 min-w-0">
         <div className="flex items-baseline gap-2">
