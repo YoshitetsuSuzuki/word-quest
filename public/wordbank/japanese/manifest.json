@@ -1,12 +1,12 @@
 {
   "category": "japanese",
-  "total": 1295,
-  "verified": 1295,
+  "total": 7492,
+  "verified": 7492,
   "levels": [
     {
       "level": 1,
       "file": "level-1.json",
-      "count": 654
+      "count": 655
     },
     {
       "level": 2,
@@ -16,19 +16,19 @@
     {
       "level": 3,
       "file": "level-3.json",
-      "count": 0
+      "count": 2042
     },
     {
       "level": 4,
       "file": "level-4.json",
-      "count": 0
+      "count": 1558
     },
     {
       "level": 5,
       "file": "level-5.json",
-      "count": 0
+      "count": 2596
     }
   ],
   "source": "JLPT N5 (jamsinclair/open-anki-jlpt-decks, MIT) + JMdict (EDRDG, CC BY-SA)",
-  "generatedAt": "2026-07-06T06:00:54.257Z"
+  "generatedAt": "2026-07-06T06:54:20.186Z"
 }
