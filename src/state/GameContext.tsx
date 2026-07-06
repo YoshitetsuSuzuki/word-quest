@@ -16,7 +16,7 @@ import { buyItem as buyItemLogic, equipItem as equipItemLogic } from '../modules
 import { evaluateAchievements, type AchievementContext } from '../modules/achievement/achievementLogic'
 import { applyStamp, reachedMilestones, daysBetween } from '../core/StreakEngine'
 import { settlePetDecay, PET_MAX_XP } from '../core/PetEngine'
-import { PET_MAX_PETS, PET_SLOT_COST } from '../config/petConfig'
+import { PET_MAX_PETS, catalogEntry } from '../config/petConfig'
 import { streakConfig } from '../data/streak.config'
 
 const questionEngine = new QuestionEngine(questionRepository)
@@ -63,8 +63,8 @@ interface GameApi {
   choosePetStarter: (species: PetSpeciesId) => void
   markPetForm: (form: number) => void
   setActivePet: (index: number) => void
-  /** 2体目以降をコインで解放（成功時 true）。上限到達/コイン不足は false */
-  buyPetSlot: () => boolean
+  /** 種を入手して新しい相棒を追加（未解放なら価格を支払って解放）。成功時 true */
+  acquirePet: (species: PetSpeciesId) => boolean
   /** プレイヤー名を変更（オンボーディング等） */
   setName: (name: string) => void
   resetAll: () => void
@@ -109,6 +109,13 @@ function migrate(u: User): User {
       formSeen: num(p?.formSeen ?? 0),
     })),
     activePet: num(u.activePet ?? 0),
+    gems: num(u.gems ?? 0),
+    // 所持種: 未設定なら「今いる相棒の種＋旧スターター」から復元
+    ownedSpecies: u.ownedSpecies ?? [
+      ...new Set(
+        (u.pets ?? []).map((p) => p?.species).filter((s): s is PetSpeciesId => !!s),
+      ),
+    ],
   }
 }
 
@@ -233,16 +240,19 @@ export function GameProvider({ children }: { children: ReactNode }) {
           const reached = reachedMilestones(u.studyStreak, u.claimedStreakMilestones)
           if (reached.length > 0) {
             let coinGain = 0
+            let gemGain = 0
             const titles: string[] = []
             for (const d of reached) {
               const m = streakConfig.milestones.find((x) => x.days === d)!
               coinGain += m.coin
+              gemGain += m.gem ?? 0
               if (m.titleId && !u.ownedItemIds.includes(m.titleId)) titles.push(m.titleId)
             }
             u = {
               ...u,
               coin: u.coin + coinGain,
               todayCoin: u.todayCoin + coinGain,
+              gems: u.gems + gemGain,
               ownedItemIds: [...u.ownedItemIds, ...titles],
               claimedStreakMilestones: [...u.claimedStreakMilestones, ...reached],
             }
@@ -422,11 +432,12 @@ export function GameProvider({ children }: { children: ReactNode }) {
       },
 
       choosePetStarter: (species) => {
-        // アクティブ相棒のスターターを選ぶ（未選択時のみ有効）
+        // 初回スターターを無料で選ぶ（アクティブ相棒が未選択のときのみ）。所持種にも追加。
         setUser((prev) => {
           const i = prev.activePet
           if (prev.pets[i]?.species) return prev
-          return { ...prev, pets: prev.pets.map((p, j) => (j === i ? { ...p, species } : p)) }
+          const owned = prev.ownedSpecies.includes(species) ? prev.ownedSpecies : [...prev.ownedSpecies, species]
+          return { ...prev, ownedSpecies: owned, pets: prev.pets.map((p, j) => (j === i ? { ...p, species } : p)) }
         })
       },
 
@@ -442,13 +453,24 @@ export function GameProvider({ children }: { children: ReactNode }) {
         setUser((prev) => ({ ...prev, activePet: Math.max(0, Math.min(index, prev.pets.length - 1)) }))
       },
 
-      buyPetSlot: () => {
+      acquirePet: (species) => {
         let ok = false
         setUser((prev) => {
-          if (prev.pets.length >= PET_MAX_PETS || prev.coin < PET_SLOT_COST) return prev
+          if (prev.pets.length >= PET_MAX_PETS) return prev
+          const owned = prev.ownedSpecies.includes(species)
+          let coin = prev.coin
+          let gems = prev.gems
+          let ownedSpecies = prev.ownedSpecies
+          if (!owned) {
+            const e = catalogEntry(species)
+            if (e.coin != null && coin >= e.coin) coin -= e.coin
+            else if (e.gem != null && gems >= e.gem) gems -= e.gem
+            else return prev // 支払い不可（コイン/ジェム不足）
+            ownedSpecies = [...prev.ownedSpecies, species]
+          }
           ok = true
-          const pets = [...prev.pets, { species: null as PetSpeciesId | null, xp: 0, lastTickDate: '', formSeen: 0 }]
-          return { ...prev, coin: prev.coin - PET_SLOT_COST, pets, activePet: pets.length - 1 }
+          const pets = [...prev.pets, { species, xp: 0, lastTickDate: '', formSeen: 0 }]
+          return { ...prev, coin, gems, ownedSpecies, pets, activePet: pets.length - 1 }
         })
         return ok
       },

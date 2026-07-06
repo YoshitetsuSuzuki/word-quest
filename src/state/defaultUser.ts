@@ -41,5 +41,7 @@ export function createDefaultUser(name = 'Player'): User {
     todayWordSeenDate: '',
     pets: [{ species: null, xp: 0, lastTickDate: '', formSeen: 0 }],
     activePet: 0,
+    gems: 0,
+    ownedSpecies: [],
   }
 }

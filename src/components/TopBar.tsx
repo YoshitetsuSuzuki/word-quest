@@ -35,9 +35,17 @@ export function TopBar() {
             </span>
           </div>
         </div>
-        <div className="shrink-0 flex items-center gap-1 bg-black/30 rounded-full px-3 py-1.5">
-          <span className="text-gold text-base leading-none">🪙</span>
-          <span className="font-black tabular-nums text-sm">{user.coin.toLocaleString()}</span>
+        <div className="shrink-0 flex items-center gap-1.5">
+          {user.gems > 0 && (
+            <div className="flex items-center gap-1 bg-black/30 rounded-full px-2.5 py-1.5">
+              <span className="text-base leading-none">💎</span>
+              <span className="font-black tabular-nums text-sm text-accent2">{user.gems.toLocaleString()}</span>
+            </div>
+          )}
+          <div className="flex items-center gap-1 bg-black/30 rounded-full px-3 py-1.5">
+            <span className="text-gold text-base leading-none">🪙</span>
+            <span className="font-black tabular-nums text-sm">{user.coin.toLocaleString()}</span>
+          </div>
         </div>
       </div>
     </div>

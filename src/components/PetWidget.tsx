@@ -1,12 +1,13 @@
-import { useEffect, Component, type ReactNode } from 'react'
+import { useEffect, useState, Component, type ReactNode } from 'react'
 import { useGame } from '../state/GameContext'
 import { useNav } from '../state/nav'
 import { ProgressBar } from './ProgressBar'
 import { PetSprite } from './PetSprite'
 import { StarterSelect } from './StarterSelect'
+import { PetCatalog } from './PetCatalog'
 import { petView, activePet, levelFromXp, petForm } from '../core/PetEngine'
 import { todayStr } from '../state/dateUtils'
-import { PET_SPECIES_NAME_KEY, PET_MAX_PETS, PET_SLOT_COST } from '../config/petConfig'
+import { PET_SPECIES_NAME_KEY, PET_MAX_PETS } from '../config/petConfig'
 import type { Strings } from '../i18n/types'
 
 // スプライト描画で万一エラーが出てもアプリ全体を白画面にしない安全網
@@ -27,8 +28,9 @@ class SpriteBoundary extends Component<{ children: ReactNode }, { failed: boolea
  * 学習XPはアクティブな1体だけに入る。
  */
 export function PetWidget() {
-  const { user, markPetForm, setActivePet, buyPetSlot } = useGame()
+  const { user, markPetForm, setActivePet } = useGame()
   const { t, navigate, setQuizMode, setCustomIds } = useNav()
+  const [catalogOpen, setCatalogOpen] = useState(false)
   const view = petView(user, todayStr())
 
   // 初回だけ現フォームを基準に記録（以後、進化すると演出フラグが立つ）
@@ -65,23 +67,24 @@ export function PetWidget() {
       })}
       {canBuy && (
         <button
-          onClick={() => buyPetSlot()}
-          disabled={user.coin < PET_SLOT_COST}
+          onClick={() => setCatalogOpen(true)}
           aria-label={t('pet.addBuddy')}
-          className="shrink-0 h-11 px-3 grid place-items-center rounded-xl border border-dashed border-white/20 bg-panel2 text-[10px] font-bold text-white/70 leading-tight disabled:opacity-35 active:scale-95 transition"
+          className="shrink-0 w-11 h-11 grid place-items-center rounded-xl border border-dashed border-white/20 bg-panel2 text-xl font-bold text-white/70 active:scale-95 transition"
         >
-          <span className="text-base leading-none">＋</span>
-          <span>🪙{PET_SLOT_COST}</span>
+          ＋
         </button>
       )}
     </div>
   ) : null
+
+  const catalog = catalogOpen ? <PetCatalog onClose={() => setCatalogOpen(false)} /> : null
 
   if (!view.species)
     return (
       <div className="space-y-2">
         <StarterSelect />
         {switcher}
+        {catalog}
       </div>
     )
 
@@ -124,6 +127,7 @@ export function PetWidget() {
         </div>
       </button>
       {switcher}
+      {catalog}
     </div>
   )
 }

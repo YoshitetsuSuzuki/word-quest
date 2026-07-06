@@ -1,7 +1,7 @@
 import { useGame } from '../state/GameContext'
 import { useNav } from '../state/nav'
 import { PetSprite } from './PetSprite'
-import { PET_SPECIES, PET_SPECIES_NAME_KEY } from '../config/petConfig'
+import { PET_STARTERS, PET_SPECIES_NAME_KEY } from '../config/petConfig'
 import type { Strings } from '../i18n/types'
 
 /**
@@ -16,7 +16,7 @@ export function StarterSelect() {
       <div className="text-sm font-black mb-1">{t('pet.chooseTitle')}</div>
       <div className="text-[11px] text-white/45 mb-3">{t('pet.chooseHint')}</div>
       <div className="grid grid-cols-3 gap-2">
-        {PET_SPECIES.map((sp) => (
+        {PET_STARTERS.map((sp) => (
           <button
             key={sp}
             onClick={() => choosePetStarter(sp)}

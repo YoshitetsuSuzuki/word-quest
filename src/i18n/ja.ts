@@ -68,4 +68,7 @@ export const ja: Strings = {
   'pet.moodHappy': 'きょうもえらい！', 'pet.moodNormal': 'いっしょにまなぼう', 'pet.moodHungry': 'そろそろまなぼ？', 'pet.moodSad': 'さみしいよ…',
   'pet.evolved': '✨ しんか！', 'pet.toNextPre': 'あと ', 'pet.toNextUnit': ' XPでLvUP', 'pet.maxLevel': 'さいこうレベル！',
   'pet.addBuddy': '相棒を増やす', 'pet.buddyMax': '最大数です', 'pet.switchAria': '育てる相棒を切り替え',
+  'pet.speciesLight': '光', 'pet.speciesDark': '闇', 'pet.speciesThunder': '雷', 'pet.speciesRainbow': '虹', 'pet.speciesStar': '星',
+  'pet.catalogTitle': '相棒ずかん', 'pet.rarityCommon': 'ノーマル', 'pet.rarityRare': 'レア', 'pet.rarityLegendary': '伝説',
+  'pet.unlock': '解放', 'pet.addPet': '追加', 'pet.owned': '所持ずみ', 'pet.slotFull': '相棒がいっぱいです',
 }

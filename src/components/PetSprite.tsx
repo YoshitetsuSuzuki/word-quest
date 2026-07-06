@@ -27,20 +27,57 @@ export function PetSprite({
   const line = sad ? c.lineSad : c.line
   const belly = c.belly
 
+  // n芒星のパス
+  function starD(cx: number, cy: number, spikes: number, outer: number, inner: number) {
+    let d = ''
+    for (let i = 0; i < spikes * 2; i++) {
+      const r = i % 2 === 0 ? outer : inner
+      const a = (Math.PI / spikes) * i - Math.PI / 2
+      d += `${i === 0 ? 'M' : 'L'}${(cx + Math.cos(a) * r).toFixed(1)} ${(cy + Math.sin(a) * r).toFixed(1)} `
+    }
+    return d + 'z'
+  }
+
   // 頭モチーフ（種の個性）。頭中心 hx と頭頂 topY、倍率 s。
   function motif(hx: number, topY: number, s: number) {
-    if (species === 'green')
-      return (
-        <path d={`M${hx} ${topY + 2} q${-8 * s} ${-6 * s} ${-1 * s} ${-13 * s} q${7 * s} ${5 * s} ${1 * s} ${13 * s} z`} fill={c.motif} stroke="#5aa84a" strokeWidth="0.8" />
-      )
-    if (species === 'fire')
-      return (
-        <>
-          <path d={`M${hx} ${topY - 11 * s} q${-6 * s} ${9 * s} 0 ${12 * s} q${6 * s} ${-4 * s} 0 ${-12 * s} z`} fill={c.motif} />
-          <path d={`M${hx} ${topY - 6 * s} q${-3 * s} ${5 * s} 0 ${7 * s} q${3 * s} ${-3 * s} 0 ${-7 * s} z`} fill={c.motif2} />
-        </>
-      )
-    return <path d={`M${hx} ${topY - 12 * s} q${-6 * s} ${8 * s} 0 ${13 * s} q${6 * s} ${-6 * s} 0 ${-13 * s} z`} fill={c.motif} stroke={line} strokeWidth="0.8" />
+    switch (species) {
+      case 'green':
+        return <path d={`M${hx} ${topY + 2} q${-8 * s} ${-6 * s} ${-1 * s} ${-13 * s} q${7 * s} ${5 * s} ${1 * s} ${13 * s} z`} fill={c.motif} stroke="#5aa84a" strokeWidth="0.8" />
+      case 'fire':
+        return (
+          <>
+            <path d={`M${hx} ${topY - 11 * s} q${-6 * s} ${9 * s} 0 ${12 * s} q${6 * s} ${-4 * s} 0 ${-12 * s} z`} fill={c.motif} />
+            <path d={`M${hx} ${topY - 6 * s} q${-3 * s} ${5 * s} 0 ${7 * s} q${3 * s} ${-3 * s} 0 ${-7 * s} z`} fill={c.motif2} />
+          </>
+        )
+      case 'water':
+        return <path d={`M${hx} ${topY - 12 * s} q${-6 * s} ${8 * s} 0 ${13 * s} q${6 * s} ${-6 * s} 0 ${-13 * s} z`} fill={c.motif} stroke={line} strokeWidth="0.8" />
+      case 'light': // 光: きらめく星
+        return (
+          <>
+            <path d={starD(hx, topY - 6 * s, 4, 9 * s, 3 * s)} fill={c.motif} />
+            <path d={starD(hx, topY - 6 * s, 4, 4 * s, 1.4 * s)} fill={c.motif2} />
+          </>
+        )
+      case 'dark': // 闇: 三日月
+        return <path d={`M${hx - 1} ${topY - 15 * s} q${-9 * s} ${8 * s} 0 ${15 * s} q${-3.5 * s} ${-8 * s} 0 ${-15 * s} z`} fill={c.motif} stroke="#4a3080" strokeWidth="0.6" />
+      case 'thunder': // 雷: 稲妻
+        return <path d={`M${hx - 1 * s} ${topY - 15 * s} l${6 * s} 0 -${3 * s} ${6 * s} ${5 * s} 0 -${9 * s} ${13 * s} ${2 * s} -${9 * s} -${4 * s} 0 ${3 * s} -${6 * s} z`} fill={c.motif} stroke="#b07d00" strokeWidth="0.5" />
+      case 'rainbow': // 虹: 宝石
+        return (
+          <>
+            <path d={`M${hx} ${topY - 16 * s} l${7 * s} ${5 * s} -${7 * s} ${10 * s} -${7 * s} -${10 * s} z`} fill={c.motif} stroke="#6a5acd" strokeWidth="0.6" />
+            <path d={`M${hx} ${topY - 16 * s} l${7 * s} ${5 * s} -${14 * s} 0 z`} fill={c.motif2} opacity="0.85" />
+          </>
+        )
+      case 'star': // 星: 五芒星
+        return (
+          <>
+            <path d={starD(hx, topY - 7 * s, 5, 10 * s, 4 * s)} fill={c.motif} stroke="#c99a1e" strokeWidth="0.6" />
+            <path d={starD(hx, topY - 7 * s, 5, 4.5 * s, 1.8 * s)} fill={c.motif2} />
+          </>
+        )
+    }
   }
 
   const star = (x: number, y: number, s: number, key: string) => (

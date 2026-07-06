@@ -68,4 +68,7 @@ export const en: Strings = {
   'pet.moodHappy': 'Great job today!', 'pet.moodNormal': "Let's study together", 'pet.moodHungry': 'Ready to learn?', 'pet.moodSad': 'I miss you…',
   'pet.evolved': '✨ Evolved!', 'pet.toNextPre': '', 'pet.toNextUnit': ' XP to level up', 'pet.maxLevel': 'Max level!',
   'pet.addBuddy': 'Add a buddy', 'pet.buddyMax': 'Max buddies', 'pet.switchAria': 'Switch active buddy',
+  'pet.speciesLight': 'Light', 'pet.speciesDark': 'Dark', 'pet.speciesThunder': 'Thunder', 'pet.speciesRainbow': 'Rainbow', 'pet.speciesStar': 'Star',
+  'pet.catalogTitle': 'Buddy catalog', 'pet.rarityCommon': 'Common', 'pet.rarityRare': 'Rare', 'pet.rarityLegendary': 'Legendary',
+  'pet.unlock': 'Unlock', 'pet.addPet': 'Add', 'pet.owned': 'Owned', 'pet.slotFull': 'Party is full',
 }

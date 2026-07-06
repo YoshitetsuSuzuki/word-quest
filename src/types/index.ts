@@ -116,14 +116,18 @@ export interface User {
   dailyHistory: Record<string, number>
   /** 「今日の単語」を見た日 */
   todayWordSeenDate: string
-  /** 所有する学習相棒（育成キャラ）。1体目は無料、2体目以降はコインで解放。 */
+  /** 所有する学習相棒（育成キャラ）。1体目は無料、2体目以降は解放して追加。 */
   pets: PetState[]
   /** いま育成中(アクティブ)の相棒の index。学習XPはこの1体だけに入る。 */
   activePet: number
+  /** ハード通貨ジェム（伝説キャラ用・希少）。 */
+  gems: number
+  /** 解放済みの種（この種の個体を追加できる）。最初に選んだスターターを含む。 */
+  ownedSpecies: PetSpeciesId[]
 }
 
-/** 学習相棒の種（スターター） */
-export type PetSpeciesId = 'green' | 'fire' | 'water'
+/** 学習相棒の種。common(草/炎/水), rare(光/闇/雷), legendary(虹/星) */
+export type PetSpeciesId = 'green' | 'fire' | 'water' | 'light' | 'dark' | 'thunder' | 'rainbow' | 'star'
 
 /** 学習相棒の状態（ユーザーデータ内） */
 export interface PetState {

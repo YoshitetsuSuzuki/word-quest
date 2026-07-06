@@ -70,4 +70,7 @@ export interface Strings {
   'pet.moodHappy': string; 'pet.moodNormal': string; 'pet.moodHungry': string; 'pet.moodSad': string
   'pet.evolved': string; 'pet.toNextPre': string; 'pet.toNextUnit': string; 'pet.maxLevel': string
   'pet.addBuddy': string; 'pet.buddyMax': string; 'pet.switchAria': string
+  'pet.speciesLight': string; 'pet.speciesDark': string; 'pet.speciesThunder': string; 'pet.speciesRainbow': string; 'pet.speciesStar': string
+  'pet.catalogTitle': string; 'pet.rarityCommon': string; 'pet.rarityRare': string; 'pet.rarityLegendary': string
+  'pet.unlock': string; 'pet.addPet': string; 'pet.owned': string; 'pet.slotFull': string
 }
