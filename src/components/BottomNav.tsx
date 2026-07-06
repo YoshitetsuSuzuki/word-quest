@@ -1,16 +1,17 @@
 import { useNav, type Screen } from '../state/nav'
+import type { Strings } from '../i18n/types'
 
-const items: { screen: Screen; label: string; icon: string }[] = [
-  { screen: 'home', label: 'ホーム', icon: '🏠' },
-  { screen: 'quiz', label: 'クイズ', icon: '📝' },
-  { screen: 'study', label: 'まなび', icon: '📚' },
-  { screen: 'ranking', label: 'ランク', icon: '🏆' },
-  { screen: 'profile', label: 'プロフ', icon: '👤' },
+const items: { screen: Screen; labelKey: keyof Strings; icon: string }[] = [
+  { screen: 'home', labelKey: 'nav.home', icon: '🏠' },
+  { screen: 'quiz', labelKey: 'nav.quiz', icon: '📝' },
+  { screen: 'study', labelKey: 'nav.study', icon: '📚' },
+  { screen: 'ranking', labelKey: 'nav.rank', icon: '🏆' },
+  { screen: 'profile', labelKey: 'nav.profile', icon: '👤' },
 ]
 
 /** 下部タブ。主要4画面へ即アクセス。 */
 export function BottomNav() {
-  const { screen, navigate } = useNav()
+  const { screen, navigate, t } = useNav()
   return (
     <nav className="sticky bottom-0 z-20 bg-night/90 backdrop-blur border-t border-white/10 flex">
       {items.map((it) => {
@@ -24,7 +25,7 @@ export function BottomNav() {
             }`}
           >
             <span className={`text-xl leading-none transition ${active ? 'scale-110' : ''}`}>{it.icon}</span>
-            <span className="text-[10px] font-bold">{it.label}</span>
+            <span className="text-[10px] font-bold">{t(it.labelKey)}</span>
           </button>
         )
       })}
