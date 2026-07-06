@@ -14,7 +14,7 @@ const SESSION_SIZE = 10
 export function QuizScreen() {
   const game = useGame()
   const { user, engine, answerQuestion, ensureCategory, isCategoryReady } = game
-  const { quizMode, navigate, category, customIds, setCustomIds, soundEnabled, studyLevel, sfxEnabled, sfxVolume } = useNav()
+  const { quizMode, navigate, category, customIds, setCustomIds, soundEnabled, studyLevel, sfxEnabled, sfxVolume, t } = useNav()
 
   const ready = isCategoryReady(category)
   const [questions, setQuestions] = useState<Question[]>([])
@@ -65,7 +65,7 @@ export function QuizScreen() {
   }, [index, questions.length])
 
   if (!ready || questions.length === 0) {
-    return <Loading label="問題を準備中…" />
+    return <Loading label={t('quiz.preparing')} />
   }
 
   const q = questions[index]
@@ -102,18 +102,18 @@ export function QuizScreen() {
     return (
       <div className="text-center py-10 animate-slideUp">
         <div className="text-6xl mb-3">🎓</div>
-        <h2 className="text-2xl font-black">セッション完了！</h2>
+        <h2 className="text-2xl font-black">{t('quiz.complete')}</h2>
         <div className="card mt-6 p-5 space-y-2 text-left">
-          <Row label="正解数" value={`${sessionCorrect} / ${questions.length}`} />
-          <Row label="獲得コイン" value={`🪙 ${sessionCoin}`} />
-          <Row label="最大コンボ" value={`🔥 ${combo}`} />
+          <Row label={t('quiz.correctCount')} value={`${sessionCorrect} / ${questions.length}`} />
+          <Row label={t('quiz.gainedCoins')} value={`🪙 ${sessionCoin}`} />
+          <Row label={t('quiz.maxCombo')} value={`🔥 ${combo}`} />
         </div>
         <div className="mt-6 grid grid-cols-2 gap-3">
           <button className="btn-ghost py-3" onClick={() => navigate('home')}>
-            ホームへ
+            {t('quiz.toHome')}
           </button>
           <button className="btn-primary py-3" onClick={() => window.location.reload()}>
-            もう一度
+            {t('quiz.again')}
           </button>
         </div>
       </div>
@@ -133,7 +133,7 @@ export function QuizScreen() {
       <div className="flex items-center justify-between text-sm">
         <span className="text-white/50 font-bold">
           {index + 1} / {questions.length}
-          {quizMode === 'review' && <span className="ml-2 text-accent2">復習モード</span>}
+          {quizMode === 'review' && <span className="ml-2 text-accent2">{t('quiz.reviewMode')}</span>}
         </span>
         {combo >= 2 && (
           <span key={combo} className="animate-pop font-black text-gold">
@@ -145,21 +145,21 @@ export function QuizScreen() {
       {/* 問題カード */}
       <div className="card p-6 text-center min-h-[140px] grid place-items-center relative">
         <div>
-          <div className="text-xs text-white/40 mb-2">意味を選ぼう</div>
+          <div className="text-xs text-white/40 mb-2">{t('quiz.pickMeaning')}</div>
           <div className="text-2xl font-black">{q.prompt}</div>
           <div className="mt-1.5 flex items-center justify-center gap-2">
             {q.pronunciation && <span className="text-base text-accent2 font-mono font-bold">{q.pronunciation}</span>}
             {canSpeak() && (
               <button
                 onClick={() => speakWord(wordFromPrompt(q.prompt), category)}
-                aria-label="発音を聞く"
+                aria-label={t('quiz.speak')}
                 className="w-7 h-7 grid place-items-center rounded-full bg-white/10 active:scale-90 transition text-sm"
               >
                 🔊
               </button>
             )}
           </div>
-          <div className="mt-2 text-[11px] text-white/30">難易度 {'★'.repeat(q.difficulty)}</div>
+          <div className="mt-2 text-[11px] text-white/30">{t('quiz.difficulty')} {'★'.repeat(q.difficulty)}</div>
         </div>
 
         {/* 報酬フロート */}
@@ -196,15 +196,15 @@ export function QuizScreen() {
         <div className="animate-slideUp space-y-3">
           {!outcome?.correct && (
             <div className="card p-4 text-sm">
-              <div className="font-bold text-danger mb-1">正解: {q.answer}</div>
-              {q.example && <div className="text-white/60">例: {q.example}</div>}
+              <div className="font-bold text-danger mb-1">{t('quiz.answer')} {q.answer}</div>
+              {q.example && <div className="text-white/60">{t('quiz.example')} {q.example}</div>}
             </div>
           )}
           {outcome?.correct && q.example && (
-            <div className="text-center text-xs text-white/40">例: {q.example}</div>
+            <div className="text-center text-xs text-white/40">{t('quiz.example')} {q.example}</div>
           )}
           <button className="btn-primary w-full py-4" onClick={next}>
-            {index + 1 >= questions.length ? '結果を見る' : '次の問題へ →'}
+            {index + 1 >= questions.length ? t('quiz.result') : t('quiz.next')}
           </button>
           <div className="text-center">
             <a
@@ -213,7 +213,7 @@ export function QuizScreen() {
               rel="noreferrer"
               className="text-[11px] text-white/30 underline underline-offset-2"
             >
-              ⚠️ この単語の誤りを報告
+              {t('common.report')}
             </a>
           </div>
         </div>

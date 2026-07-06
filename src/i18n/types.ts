@@ -13,5 +13,9 @@ export interface Strings {
   'home.todayRaidBoss': string
   'home.battle': string; 'home.battleHint': string; 'home.raid': string; 'home.missions': string; 'home.shop': string
   'quiz.pickMeaning': string; 'quiz.correct': string; 'quiz.next': string; 'quiz.result': string
+  'quiz.preparing': string; 'quiz.reviewMode': string; 'quiz.speak': string; 'quiz.difficulty': string
+  'quiz.answer': string; 'quiz.example': string
+  'quiz.complete': string; 'quiz.correctCount': string; 'quiz.gainedCoins': string; 'quiz.maxCombo': string
+  'quiz.toHome': string; 'quiz.again': string
   'listening.pickBlank': string; 'listening.pickMeaning': string; 'common.report': string
 }
