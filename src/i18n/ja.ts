@@ -19,4 +19,11 @@ export const ja: Strings = {
   'listening.preparing': 'リスニングを準備中…', 'listening.complete': 'リスニング完了！', 'listening.label': '🎧 リスニング',
   'listening.replay': 'もう一度聞く', 'listening.typeBlank': '文を聴いて、空欄の単語を入力しよう', 'listening.correctMark': '⭕ 正解！',
   'listening.styleType': '⌨️ 入力', 'listening.styleChoice': '🔤 4択', 'listening.inputPlaceholder': '聞こえた単語を入力', 'listening.check': '答え合わせ',
+  'study.header': '📚 まなび・', 'study.collection': '📖 図鑑', 'study.reviewToday': '今日の復習', 'study.dueSuffix': '問が頃合い', 'study.noneDue': '待ちなし',
+  'study.weakDrill': '弱点特訓', 'study.weakDrillHint': '正答率が低い順に出題',
+  'study.tabWeak': '😰 苦手', 'study.tabLearned': '📖 単語帳', 'study.tabDeck': '⭐ マイ',
+  'study.emptyWeak': 'まだデータがありません。クイズを解くと、正答率の低い単語がここに集まります。', 'study.emptyLearned': '覚えた単語がここに並びます。クイズで正解すると追加されます。', 'study.emptyDeck': '苦手・単語帳リストの ☆ をタップすると、自分専用の単語帳に追加できます。カードはタップで裏返せます。',
+  'study.searchPlaceholder': '単語・意味で検索', 'study.morePre': 'ほか', 'study.moreUnit': '語',
+  'study.deckTestPre': '📝 マイ単語帳をテストする（', 'study.deckTestUnit': '語）',
+  'study.myDeckAria': 'マイ単語帳', 'study.meaning': '意味', 'study.tapToReveal': 'タップで意味を表示', 'study.remove': '削除',
 }

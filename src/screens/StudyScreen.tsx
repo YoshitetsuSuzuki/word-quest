@@ -18,7 +18,7 @@ const CAT_LABEL: Record<string, string> = { english: '英単語', chinese: '中�
 
 export function StudyScreen() {
   const { user, engine, isCategoryReady, ensureCategory, toggleDeck } = useGame()
-  const { navigate, setQuizMode, setCustomIds, category } = useNav()
+  const { navigate, setQuizMode, setCustomIds, category, t } = useNav()
   const ready = isCategoryReady(category)
   const prefix = CAT_PREFIX[category] ?? 'en'
 
@@ -115,12 +115,12 @@ export function StudyScreen() {
 
   return (
     <div className="space-y-4">
-      <h2 className="text-xl font-black">📚 まなび・{CAT_LABEL[category] ?? ''}</h2>
+      <h2 className="text-xl font-black">{t('study.header')}{CAT_LABEL[category] ?? ''}</h2>
 
       {/* 図鑑: 級ごとの埋まり具合 */}
       {zukan.length > 1 && (
         <div className="card p-4 space-y-2">
-          <h3 className="font-black text-sm">📖 図鑑</h3>
+          <h3 className="font-black text-sm">{t('study.collection')}</h3>
           {zukan.map(({ lv, learned: n, total }) => (
             <div key={lv} className="flex items-center gap-2 text-xs">
               <span className="w-11 shrink-0 font-bold text-white/60">{levelLabel(lv)}</span>
@@ -141,8 +141,8 @@ export function StudyScreen() {
           onClick={startReview}
         >
           <div className="text-3xl">🔁</div>
-          <div className="mt-1 font-bold text-sm">今日の復習</div>
-          <div className="text-[11px] text-white/45">{dueCount > 0 ? `${dueCount}問が頃合い` : '待ちなし'}</div>
+          <div className="mt-1 font-bold text-sm">{t('study.reviewToday')}</div>
+          <div className="text-[11px] text-white/45">{dueCount > 0 ? `${dueCount}${t('study.dueSuffix')}` : t('study.noneDue')}</div>
         </button>
         <button
           className="card p-4 text-left active:scale-95 transition disabled:opacity-40"
@@ -150,8 +150,8 @@ export function StudyScreen() {
           onClick={startWeakDrill}
         >
           <div className="text-3xl">🎯</div>
-          <div className="mt-1 font-bold text-sm">弱点特訓</div>
-          <div className="text-[11px] text-white/45">正答率が低い順に出題</div>
+          <div className="mt-1 font-bold text-sm">{t('study.weakDrill')}</div>
+          <div className="text-[11px] text-white/45">{t('study.weakDrillHint')}</div>
         </button>
       </div>
 
@@ -159,15 +159,15 @@ export function StudyScreen() {
       <div className="flex gap-1.5">
         {(
           [
-            ['weak', `😰 苦手 ${attempted.length ? `(${attempted.length})` : ''}`],
-            ['learned', `📖 単語帳 ${learned.length ? `(${learned.length})` : ''}`],
-            ['deck', `⭐ マイ ${deck.length ? `(${deck.length})` : ''}`],
+            ['weak', `${t('study.tabWeak')} ${attempted.length ? `(${attempted.length})` : ''}`],
+            ['learned', `${t('study.tabLearned')} ${learned.length ? `(${learned.length})` : ''}`],
+            ['deck', `${t('study.tabDeck')} ${deck.length ? `(${deck.length})` : ''}`],
           ] as [Tab, string][]
-        ).map(([t, label]) => (
+        ).map(([tk, label]) => (
           <button
-            key={t}
-            onClick={() => setTab(t)}
-            className={`flex-1 py-2 rounded-lg text-xs font-bold transition ${tab === t ? 'bg-accent text-white' : 'bg-panel2 text-white/50'}`}
+            key={tk}
+            onClick={() => setTab(tk)}
+            className={`flex-1 py-2 rounded-lg text-xs font-bold transition ${tab === tk ? 'bg-accent text-white' : 'bg-panel2 text-white/50'}`}
           >
             {label}
           </button>
@@ -177,7 +177,7 @@ export function StudyScreen() {
       {/* 苦手な単語（正答率つき） */}
       {tab === 'weak' &&
         (attempted.length === 0 ? (
-          <EmptyState emoji="🌱" text="まだデータがありません。クイズを解くと、正答率の低い単語がここに集まります。" />
+          <EmptyState emoji="🌱" text={t('study.emptyWeak')} />
         ) : (
           <div className="space-y-2">
             {attempted.slice(0, 50).map(({ id, q, rate, tries }) => (
@@ -200,30 +200,30 @@ export function StudyScreen() {
       {/* 単語帳（覚えた語） */}
       {tab === 'learned' &&
         (learned.length === 0 ? (
-          <EmptyState emoji="📖" text="覚えた単語がここに並びます。クイズで正解すると追加されます。" />
+          <EmptyState emoji="📖" text={t('study.emptyLearned')} />
         ) : (
           <div className="space-y-2">
             <input
               value={query}
               onChange={(e) => setQuery(e.target.value)}
-              placeholder="単語・意味で検索"
+              placeholder={t('study.searchPlaceholder')}
               className="w-full bg-panel2 rounded-xl px-4 py-2.5 text-sm outline-none border border-white/10 focus:border-accent2"
             />
             {filteredLearned.slice(0, 100).map((q) => (
               <WordRow key={q.id} q={q} inDeck={deckSet.has(q.id)} onToggle={() => toggleDeck(q.id)} right={<span className="text-[10px] text-white/30">Lv{q.difficulty}</span>} />
             ))}
-            {filteredLearned.length > 100 && <div className="text-center text-xs text-white/40 py-2">ほか {filteredLearned.length - 100} 語</div>}
+            {filteredLearned.length > 100 && <div className="text-center text-xs text-white/40 py-2">{t('study.morePre')} {filteredLearned.length - 100} {t('study.moreUnit')}</div>}
           </div>
         ))}
 
       {/* マイ単語帳（暗記カード） */}
       {tab === 'deck' &&
         (deck.length === 0 ? (
-          <EmptyState emoji="⭐" text="苦手・単語帳リストの ☆ をタップすると、自分専用の単語帳に追加できます。カードはタップで裏返せます。" />
+          <EmptyState emoji="⭐" text={t('study.emptyDeck')} />
         ) : (
           <div className="space-y-3">
             <button className="btn-primary w-full py-3" onClick={startDeckTest}>
-              📝 マイ単語帳をテストする（{deck.length}語）
+              {t('study.deckTestPre')}{deck.length}{t('study.deckTestUnit')}
             </button>
             {deck.map((q) => (
               <FlashCard key={q.id} q={q} category={category} onRemove={() => toggleDeck(q.id)} />
@@ -235,6 +235,7 @@ export function StudyScreen() {
 }
 
 function WordRow({ q, inDeck, onToggle, right }: { q: Question; inDeck: boolean; onToggle: () => void; right?: ReactNode }) {
+  const { t } = useNav()
   return (
     <div className="card p-3 flex items-center gap-3">
       <div className="flex-1 min-w-0">
@@ -247,7 +248,7 @@ function WordRow({ q, inDeck, onToggle, right }: { q: Question; inDeck: boolean;
       {right}
       <button
         onClick={onToggle}
-        aria-label="マイ単語帳"
+        aria-label={t('study.myDeckAria')}
         className={`shrink-0 text-xl w-8 h-8 grid place-items-center rounded-lg transition ${inDeck ? 'text-gold' : 'text-white/25'}`}
       >
         {inDeck ? '★' : '☆'}
@@ -258,13 +259,14 @@ function WordRow({ q, inDeck, onToggle, right }: { q: Question; inDeck: boolean;
 
 /** タップで表裏（単語⇄意味）を切り替える暗記カード */
 function FlashCard({ q, category, onRemove }: { q: Question; category: Category; onRemove: () => void }) {
+  const { t } = useNav()
   const [showMeaning, setShowMeaning] = useState(false)
   return (
     <div className="card p-0 overflow-hidden relative">
       {canSpeak() && (
         <button
           onClick={() => speakWord(wordOf(q), category)}
-          aria-label="発音を聞く"
+          aria-label={t('quiz.speak')}
           className="absolute top-2 right-2 w-8 h-8 grid place-items-center rounded-full bg-white/10 active:scale-90 transition z-10"
         >
           🔊
@@ -279,10 +281,10 @@ function FlashCard({ q, category, onRemove }: { q: Question; category: Category;
             {q.pronunciation && <div className="text-sm text-accent2/70 font-mono mt-1">{q.pronunciation}</div>}
           </div>
         )}
-        <div className="text-[10px] text-white/30 mt-2">{showMeaning ? '意味' : 'タップで意味を表示'}</div>
+        <div className="text-[10px] text-white/30 mt-2">{showMeaning ? t('study.meaning') : t('study.tapToReveal')}</div>
       </button>
       <button onClick={onRemove} className="w-full py-2 text-xs text-white/40 border-t border-white/5 active:bg-white/5">
-        削除
+        {t('study.remove')}
       </button>
     </div>
   )

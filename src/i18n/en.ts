@@ -19,4 +19,11 @@ export const en: Strings = {
   'listening.preparing': 'Preparing listening…', 'listening.complete': 'Listening complete!', 'listening.label': '🎧 Listening',
   'listening.replay': 'Play again', 'listening.typeBlank': 'Listen and type the missing word', 'listening.correctMark': '⭕ Correct!',
   'listening.styleType': '⌨️ Type', 'listening.styleChoice': '🔤 Choices', 'listening.inputPlaceholder': 'Type the word you heard', 'listening.check': 'Check',
+  'study.header': '📚 Learn · ', 'study.collection': '📖 Collection', 'study.reviewToday': 'Review', 'study.dueSuffix': 'due now', 'study.noneDue': 'None due',
+  'study.weakDrill': 'Weak spots', 'study.weakDrillHint': 'Sorted by lowest accuracy',
+  'study.tabWeak': '😰 Weak', 'study.tabLearned': '📖 Learned', 'study.tabDeck': '⭐ My deck',
+  'study.emptyWeak': 'No data yet. Solve quizzes and words with low accuracy will collect here.', 'study.emptyLearned': 'Words you learn appear here. Answer correctly in quizzes to add them.', 'study.emptyDeck': 'Tap the ☆ in the Weak or Learned lists to add words to your own deck. Tap a card to flip it.',
+  'study.searchPlaceholder': 'Search by word or meaning', 'study.morePre': '+', 'study.moreUnit': 'more',
+  'study.deckTestPre': '📝 Test my deck (', 'study.deckTestUnit': ' words)',
+  'study.myDeckAria': 'My deck', 'study.meaning': 'Meaning', 'study.tapToReveal': 'Tap to reveal meaning', 'study.remove': 'Remove',
 }
