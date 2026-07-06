@@ -4,6 +4,7 @@ import { useNav } from '../state/nav'
 import { ReviewScheduler } from '../core/ReviewScheduler'
 import { speakWord, canSpeak } from '../utils/speech'
 import { ProgressBar } from '../components/ProgressBar'
+import { categories } from '../data/categories'
 import type { Question, Category } from '../types'
 import type { Strings } from '../i18n/types'
 
@@ -20,7 +21,9 @@ const catNameKey = (id: string) =>
 
 export function StudyScreen() {
   const { user, engine, isCategoryReady, ensureCategory, toggleDeck } = useGame()
-  const { navigate, setQuizMode, setCustomIds, category, t } = useNav()
+  const { navigate, setQuizMode, setCustomIds, category, setCategory, locale, t } = useNav()
+  // まなびでも学習ジャンルを切り替えられる(ホームと同じく母語で使えるジャンルのみ)
+  const localeCats = categories.filter((c) => c.availableLocales.includes(locale) && c.available)
   const ready = isCategoryReady(category)
   const prefix = CAT_PREFIX[category] ?? 'en'
 
@@ -119,6 +122,26 @@ export function StudyScreen() {
   return (
     <div className="space-y-4">
       <h2 className="text-xl font-black">{t('study.header')}{t(catNameKey(category))}</h2>
+
+      {/* 学習ジャンル切替(まなび内でも言語を選べる) */}
+      {localeCats.length > 1 && (
+        <div className="flex gap-2 overflow-x-auto pb-1 -mx-1 px-1">
+          {localeCats.map((c) => (
+            <button
+              key={c.id}
+              onClick={() => {
+                setCategory(c.id)
+                void ensureCategory(c.id)
+              }}
+              className={`shrink-0 px-3 py-1.5 rounded-xl text-xs font-bold transition border ${
+                c.id === category ? 'bg-accent text-white border-accent' : 'bg-panel2 text-white/60 border-white/10'
+              }`}
+            >
+              {c.emoji} {t(catNameKey(c.id))}
+            </button>
+          ))}
+        </div>
+      )}
 
       {/* 図鑑: 級ごとの埋まり具合 */}
       {zukan.length > 1 && (

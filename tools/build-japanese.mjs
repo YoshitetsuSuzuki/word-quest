@@ -24,14 +24,30 @@ const toolsDir = path.join(root, 'tools')
 const outDir = path.join(root, 'public', 'wordbank', 'japanese')
 
 // ---------------------------------------------------------------------------
-// 1. JLPT N5 語彙
+// 1. JLPT 語彙（N5=level1 … N1=level5）。存在するリストだけ読む。
+//    同一表記が複数級に出たら、易しい級(先に読む方)を優先して重複除去。
 // ---------------------------------------------------------------------------
-const jlptRaw = JSON.parse(fs.readFileSync(path.join(cacheDir, 'jlpt-n5.json'), 'utf8'))
-const jlpt = jlptRaw.map((e) => {
-  const kana = (e.kana || '').trim()
-  const word = (e.word || '').trim() || kana // 表記が無ければ かな
-  return { word, kana, level: 1 }
-})
+const JLPT_FILES = [
+  { file: 'jlpt-n5.json', level: 1 },
+  { file: 'jlpt-n4.json', level: 2 },
+  { file: 'jlpt-n3.json', level: 3 },
+  { file: 'jlpt-n2.json', level: 4 },
+  { file: 'jlpt-n1.json', level: 5 },
+]
+const jlpt = []
+const seenWord = new Set()
+for (const { file, level } of JLPT_FILES) {
+  const p = path.join(cacheDir, file)
+  if (!fs.existsSync(p)) continue
+  const raw = JSON.parse(fs.readFileSync(p, 'utf8'))
+  for (const e of raw) {
+    const kana = (e.kana || '').trim()
+    const word = (e.word || '').trim() || kana // 表記が無ければ かな
+    if (!word || seenWord.has(word)) continue
+    seenWord.add(word)
+    jlpt.push({ word, kana, level })
+  }
+}
 
 // ---------------------------------------------------------------------------
 // 2. JMdict 索引（表記→gloss / かな→gloss）。sense先頭優先。
