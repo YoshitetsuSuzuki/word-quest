@@ -1,3 +1,4 @@
+import { useEffect } from 'react'
 import { useGame } from '../state/GameContext'
 import { useNav } from '../state/nav'
 import { featureFlags } from '../config/featureFlags'
@@ -17,7 +18,21 @@ const catNameKey = (id: string) =>
 
 export function HomeScreen() {
   const { user, ensureCategory, isCategoryReady, engine } = useGame()
-  const { navigate, setQuizMode, setCustomIds, category, setCategory, studyLevel, setStudyLevel, t } = useNav()
+  const { navigate, setQuizMode, setCustomIds, category, setCategory, studyLevel, setStudyLevel, t, locale } = useNav()
+
+  // その母語で学べるジャンルだけ表示する。英語ロケールは英語訳を整備済みの中国語のみ
+  // (英語話者が「英単語」を学ぶのは無意味、韓国語は英訳未整備)。日本語は全ジャンル。
+  const localeCats = locale === 'ja' ? categories : categories.filter((c) => c.id === 'chinese')
+
+  // 現在のカテゴリがこの母語で使えない場合は、使える先頭ジャンルへ自動で切替(空プールで止まるのを防ぐ)
+  useEffect(() => {
+    if (!localeCats.some((c) => c.id === category)) {
+      const fallback = localeCats[0]?.id ?? 'chinese'
+      setCategory(fallback)
+      void ensureCategory(fallback)
+    }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [locale])
 
   const selectCategory = (id: typeof category) => {
     setCategory(id)
@@ -64,7 +79,7 @@ export function HomeScreen() {
       <div>
         <div className="text-xs text-white/45 mb-2 font-bold">{t('home.language')}</div>
         <div className="flex gap-2 overflow-x-auto pb-1 -mx-1 px-1">
-          {categories.map((c) => {
+          {localeCats.map((c) => {
             const active = c.id === category
             return (
               <button

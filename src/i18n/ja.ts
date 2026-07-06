@@ -14,7 +14,7 @@ export const ja: Strings = {
   'quiz.preparing': '問題を準備中…', 'quiz.reviewMode': '復習モード', 'quiz.speak': '発音を聞く', 'quiz.difficulty': '難易度',
   'quiz.answer': '正解:', 'quiz.example': '例:',
   'quiz.complete': 'セッション完了！', 'quiz.correctCount': '正解数', 'quiz.gainedCoins': '獲得コイン', 'quiz.maxCombo': '最大コンボ',
-  'quiz.toHome': 'ホームへ', 'quiz.again': 'もう一度',
+  'quiz.toHome': 'ホームへ', 'quiz.again': 'もう一度', 'quiz.emptyPool': 'このジャンルには、いまお使いの言語で出題できる語がまだありません。',
   'listening.pickBlank': '文を聴いて、空欄に入る単語を選ぼう', 'listening.pickMeaning': '音声を聴いて、意味を選ぼう', 'common.report': '⚠️ この単語の誤りを報告',
   'listening.preparing': 'リスニングを準備中…', 'listening.complete': 'リスニング完了！', 'listening.label': '🎧 リスニング',
   'listening.replay': 'もう一度聞く', 'listening.typeBlank': '文を聴いて、空欄の単語を入力しよう', 'listening.correctMark': '⭕ 正解！',

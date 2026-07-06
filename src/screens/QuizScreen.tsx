@@ -18,6 +18,7 @@ export function QuizScreen() {
 
   const ready = isCategoryReady(category)
   const [questions, setQuestions] = useState<Question[]>([])
+  const [built, setBuilt] = useState(false) // セッション構築を試みたか(空プールで無限ロードにしないため)
 
   // カテゴリのデータをロード
   useEffect(() => {
@@ -27,7 +28,7 @@ export function QuizScreen() {
 
   // ロード完了後にセッションを構築（初回一度だけ）
   useEffect(() => {
-    if (!ready || questions.length > 0) return
+    if (!ready || built) return
     let s: Question[]
     if (customIds && customIds.length > 0) {
       // 弱点特訓 / 自分の単語帳テスト: 指定IDだけで出題（一度きり消費）
@@ -43,6 +44,7 @@ export function QuizScreen() {
       s = engine.buildSession(category, SESSION_SIZE, studyLevel, locale)
     }
     setQuestions(s)
+    setBuilt(true)
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [ready])
 
@@ -76,6 +78,18 @@ export function QuizScreen() {
     [qForChoices?.id, locale],
   )
 
+  if (built && questions.length === 0) {
+    // このジャンル×母語で出題できる語がない(例: 英語訳がまだ整備されていない)
+    return (
+      <div className="text-center py-16 animate-slideUp space-y-4">
+        <div className="text-5xl">🚧</div>
+        <p className="text-white/60 text-sm px-6">{t('quiz.emptyPool')}</p>
+        <button className="btn-primary px-8 py-3" onClick={() => navigate('home')}>
+          {t('quiz.toHome')}
+        </button>
+      </div>
+    )
+  }
   if (!ready || questions.length === 0) {
     return <Loading label={t('quiz.preparing')} />
   }

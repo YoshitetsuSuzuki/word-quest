@@ -38,6 +38,7 @@ export function ListeningScreen() {
 
   const ready = isCategoryReady(category)
   const [questions, setQuestions] = useState<Question[]>([])
+  const [built, setBuilt] = useState(false) // セッション構築を試みたか(空プールで無限ロードにしないため)
 
   useEffect(() => {
     void ensureCategory(category)
@@ -45,8 +46,9 @@ export function ListeningScreen() {
   }, [category])
 
   useEffect(() => {
-    if (!ready || questions.length > 0) return
+    if (!ready || built) return
     setQuestions(engine.buildListeningSession(category, SESSION_SIZE, studyLevel, locale))
+    setBuilt(true)
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [ready])
 
@@ -117,6 +119,17 @@ export function ListeningScreen() {
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [index, questions.length])
 
+  if (built && questions.length === 0) {
+    return (
+      <div className="text-center py-16 animate-slideUp space-y-4">
+        <div className="text-5xl">🚧</div>
+        <p className="text-white/60 text-sm px-6">{t('quiz.emptyPool')}</p>
+        <button className="btn-primary px-8 py-3" onClick={() => navigate('home')}>
+          {t('quiz.toHome')}
+        </button>
+      </div>
+    )
+  }
   if (!ready || questions.length === 0) {
     return <Loading label={t('listening.preparing')} />
   }
