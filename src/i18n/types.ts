@@ -55,6 +55,7 @@ export interface Strings {
   'onboarding.chooseLang': string
   'settings.language': string
   'cat.english': string; 'cat.chinese': string; 'cat.korean': string; 'cat.japanese': string
+  'cat.spanish': string; 'cat.french': string; 'cat.german': string
   'login.title': string; 'login.streakPre': string; 'login.streakPost': string; 'login.claim': string; 'login.dayUnit': string
   'celebrate.levelupSub': string; 'celebrate.levelupSubPost': string; 'celebrate.raidTitlePre': string; 'celebrate.raidTitlePost': string; 'celebrate.raidClearDefault': string
   'celebrate.achievement': string; 'celebrate.streakPre': string; 'celebrate.streakPost': string; 'celebrate.tapContinue': string

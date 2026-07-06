@@ -39,10 +39,22 @@ export function speak(text: string, lang: string): void {
   }
 }
 
+/** カテゴリ(学習ターゲット言語)に対応するBCP-47言語タグ */
+export function langForCategory(category: Category): string {
+  switch (category) {
+    case 'chinese': return 'zh-CN'
+    case 'korean': return 'ko-KR'
+    case 'japanese': return 'ja-JP'
+    case 'spanish': return 'es-ES'
+    case 'french': return 'fr-FR'
+    case 'german': return 'de-DE'
+    default: return 'en-US'
+  }
+}
+
 /** カテゴリに応じた言語で単語を読み上げる */
 export function speakWord(word: string, category: Category): void {
-  const lang = category === 'chinese' ? 'zh-CN' : category === 'korean' ? 'ko-KR' : category === 'japanese' ? 'ja-JP' : 'en-US'
-  speak(word, lang)
+  speak(word, langForCategory(category))
 }
 
 /** prompt「apple の意味は？」から見出し語 apple を取り出す */

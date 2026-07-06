@@ -2,7 +2,7 @@ import { useEffect, useMemo, useRef, useState } from 'react'
 import { useGame } from '../state/GameContext'
 import { useNav } from '../state/nav'
 import { Loading } from '../components/Loading'
-import { speak, speakWord, wordFromPrompt, canSpeak } from '../utils/speech'
+import { speak, speakWord, wordFromPrompt, canSpeak, langForCategory } from '../utils/speech'
 import { playCorrect, playWrong } from '../utils/audio'
 import { wordErrorReportUrl } from '../utils/report'
 import type { Question, AnswerOutcome } from '../types'
@@ -89,7 +89,7 @@ export function ListeningScreen() {
     [q?.id, locale],
   )
   // 穴埋めのTTS言語(文章読み上げ用)
-  const speechLang = category === 'chinese' ? 'zh-CN' : category === 'korean' ? 'ko-KR' : category === 'japanese' ? 'ja-JP' : 'en-US'
+  const speechLang = langForCategory(category)
   // スペル入力は英語のみ。中韓はIME/活用の都合で4択専用。例文暗記は常に4択。
   const effectiveStyle: 'type' | 'choice' = category === 'english' && !isExample ? answerStyle : 'choice'
 

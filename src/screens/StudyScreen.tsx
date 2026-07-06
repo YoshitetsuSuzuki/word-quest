@@ -15,9 +15,8 @@ function wordOf(q: Question): string {
 
 type Tab = 'weak' | 'learned' | 'deck'
 
-const CAT_PREFIX: Record<string, string> = { english: 'en', chinese: 'zh', korean: 'ko', japanese: 'jp' }
-const catNameKey = (id: string) =>
-  (id === 'chinese' ? 'cat.chinese' : id === 'korean' ? 'cat.korean' : id === 'japanese' ? 'cat.japanese' : 'cat.english') as keyof Strings
+const CAT_PREFIX: Record<string, string> = { english: 'en', chinese: 'zh', korean: 'ko', japanese: 'jp', spanish: 'es', french: 'fr', german: 'de' }
+const catNameKey = (id: string) => `cat.${id}` as keyof Strings
 
 export function StudyScreen() {
   const { user, engine, isCategoryReady, ensureCategory, toggleDeck } = useGame()
