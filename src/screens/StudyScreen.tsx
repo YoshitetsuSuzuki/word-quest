@@ -5,6 +5,7 @@ import { ReviewScheduler } from '../core/ReviewScheduler'
 import { speakWord, canSpeak } from '../utils/speech'
 import { ProgressBar } from '../components/ProgressBar'
 import type { Question, Category } from '../types'
+import type { Strings } from '../i18n/types'
 
 /** prompt「apple の意味は？」から見出し語 apple を取り出す */
 function wordOf(q: Question): string {
@@ -14,7 +15,8 @@ function wordOf(q: Question): string {
 type Tab = 'weak' | 'learned' | 'deck'
 
 const CAT_PREFIX: Record<string, string> = { english: 'en', chinese: 'zh', korean: 'ko' }
-const CAT_LABEL: Record<string, string> = { english: '英単語', chinese: '中国語', korean: '韓国語' }
+const catNameKey = (id: string) =>
+  (id === 'chinese' ? 'cat.chinese' : id === 'korean' ? 'cat.korean' : 'cat.english') as keyof Strings
 
 export function StudyScreen() {
   const { user, engine, isCategoryReady, ensureCategory, toggleDeck } = useGame()
@@ -115,7 +117,7 @@ export function StudyScreen() {
 
   return (
     <div className="space-y-4">
-      <h2 className="text-xl font-black">{t('study.header')}{CAT_LABEL[category] ?? ''}</h2>
+      <h2 className="text-xl font-black">{t('study.header')}{t(catNameKey(category))}</h2>
 
       {/* 図鑑: 級ごとの埋まり具合 */}
       {zukan.length > 1 && (

@@ -8,8 +8,12 @@ import { DailyLoopCard } from '../components/DailyLoopCard'
 import { WeeklyChart } from '../components/WeeklyChart'
 import { categories } from '../data/categories'
 import { todayStr } from '../state/dateUtils'
+import type { Strings } from '../i18n/types'
 
 const DAILY_GOAL = 20
+
+const catNameKey = (id: string) =>
+  (id === 'chinese' ? 'cat.chinese' : id === 'korean' ? 'cat.korean' : 'cat.english') as keyof Strings
 
 export function HomeScreen() {
   const { user, ensureCategory, isCategoryReady, engine } = useGame()
@@ -29,7 +33,7 @@ export function HomeScreen() {
   const prefix = category === 'chinese' ? 'zh' : category === 'korean' ? 'ko' : 'en'
   const learnedInCat = user.learnedQuestionIds.filter((id) => id.startsWith(prefix)).length
   const totalInCat = ready ? engine.categorySize(category) : 0
-  const catLabel = categories.find((c) => c.id === category)?.label ?? ''
+  const catLabel = t(catNameKey(category))
   const raid = getRaidView(user)
   const missions = getMissionViews(user)
   const doneMissions = missions.filter((m) => m.completed).length
@@ -75,7 +79,7 @@ export function HomeScreen() {
                       : 'bg-panel2 text-white/25 border-white/5'
                 }`}
               >
-                {c.emoji} {c.label}
+                {c.emoji} {t(catNameKey(c.id))}
                 {!c.available && <span className="ml-1 text-[9px]">{t('home.comingSoon')}</span>}
               </button>
             )
