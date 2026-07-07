@@ -15,8 +15,8 @@ import { applyBattleResult } from '../modules/battle/battleLogic'
 import { buyItem as buyItemLogic, equipItem as equipItemLogic } from '../modules/shop/shopLogic'
 import { evaluateAchievements, type AchievementContext } from '../modules/achievement/achievementLogic'
 import { applyStamp, reachedMilestones, daysBetween } from '../core/StreakEngine'
-import { settlePetDecay, PET_MAX_XP } from '../core/PetEngine'
-import { PET_MAX_PETS, PET_MAX_FUSION, catalogEntry } from '../config/petConfig'
+import { settlePetDecay, levelFromXp, PET_MAX_XP } from '../core/PetEngine'
+import { PET_MAX_PETS, PET_MAX_FUSION, PET_MAX_LEVEL, catalogEntry } from '../config/petConfig'
 import { streakConfig } from '../data/streak.config'
 
 const questionEngine = new QuestionEngine(questionRepository)
@@ -477,10 +477,14 @@ export function GameProvider({ children }: { children: ReactNode }) {
         setUser((prev) => {
           const base = prev.pets[baseIndex]
           if (!base || !base.species) return prev
-          // 同じ種のダブり（自分以外）を fodder に。XPが低い個体を優先して消費。
+          // 最大レベルはXPが頭打ちで合体しても無駄なので不可
+          if (levelFromXp(base.xp) >= PET_MAX_LEVEL) return prev
+          // 同じ種のダブり（自分以外・最大レベルでない）を fodder に。XPが低い個体を優先。
+          // 最大レベルの子は素材として消費しない（事故防止）。
           let fodderIdx = -1
           prev.pets.forEach((p, i) => {
             if (i === baseIndex || p.species !== base.species) return
+            if (levelFromXp(p.xp) >= PET_MAX_LEVEL) return
             if (fodderIdx === -1 || p.xp < prev.pets[fodderIdx].xp) fodderIdx = i
           })
           if (fodderIdx === -1) return prev

@@ -3,7 +3,7 @@ import { useGame } from '../state/GameContext'
 import { useNav } from '../state/nav'
 import { PetSprite } from './PetSprite'
 import { levelFromXp, petForm } from '../core/PetEngine'
-import { PET_SPECIES_NAME_KEY } from '../config/petConfig'
+import { PET_SPECIES_NAME_KEY, PET_MAX_LEVEL } from '../config/petConfig'
 import type { Strings } from '../i18n/types'
 
 class MiniBoundary extends Component<{ children: ReactNode }, { failed: boolean }> {
@@ -25,10 +25,6 @@ export function PetBox({ onClose }: { onClose: () => void }) {
   const { t } = useNav()
   const [pendingFuse, setPendingFuse] = useState<number | null>(null)
 
-  // 種ごとの所有数（合体可否の判定に使う）
-  const speciesCount: Record<string, number> = {}
-  for (const p of user.pets) if (p.species) speciesCount[p.species] = (speciesCount[p.species] ?? 0) + 1
-
   return (
     <div className="fixed inset-0 z-50 bg-black/60 grid place-items-end sm:place-items-center p-0 sm:p-4" onClick={onClose}>
       <div className="w-full sm:max-w-md bg-panel rounded-t-2xl sm:rounded-2xl p-4 max-h-[82vh] overflow-y-auto" onClick={(e) => e.stopPropagation()}>
@@ -41,7 +37,9 @@ export function PetBox({ onClose }: { onClose: () => void }) {
             if (!p.species) return null
             const lvl = levelFromXp(p.xp)
             const isActive = i === user.activePet
-            const canFuse = speciesCount[p.species] >= 2
+            // 合体可: 自分が最大レベル未満で、消費できる同種(最大レベルでない別個体)がいる
+            const hasFodder = user.pets.some((q, j) => j !== i && q.species === p.species && levelFromXp(q.xp) < PET_MAX_LEVEL)
+            const canFuse = lvl < PET_MAX_LEVEL && hasFodder
             const name = p.name?.trim() || t('pet.name')
             return (
               <div key={i} className={`relative bg-panel2 rounded-xl p-2 flex flex-col items-center gap-1 border ${isActive ? 'border-accent' : 'border-white/5'}`}>
