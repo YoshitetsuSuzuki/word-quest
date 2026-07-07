@@ -156,6 +156,21 @@ export function HomeScreen() {
         </span>
       </button>
 
+      {/* よく使う表現（フレーズが用意されているジャンルのみ） */}
+      {ready && engine.hasPhrases(category) && (
+        <button
+          onClick={() => {
+            setQuizMode('phrase')
+            setCustomIds(null)
+            navigate('quiz')
+          }}
+          className="btn-ghost w-full py-4 text-base flex items-center justify-center gap-2"
+        >
+          {t('home.phrases')}
+          <span className="text-xs text-white/45">{t('home.phrasesHint')}</span>
+        </button>
+      )}
+
       {/* 復習の案内 */}
       {featureFlags.reviewEnabled && dueReview > 0 && (
         <button

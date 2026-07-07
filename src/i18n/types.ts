@@ -9,6 +9,7 @@ export interface Strings {
   'home.language': string; 'home.comingSoon': string; 'home.level': string; 'home.mixed': string
   'home.listenHintSpell': string; 'home.listenHintChoice': string
   'home.reviewDuePre': string; 'home.reviewDuePost': string
+  'home.phrases': string; 'home.phrasesHint': string
   'home.goalUnit': string; 'home.goalDone': string; 'home.masteryOf': string; 'home.masteryUnit': string
   'home.todayRaidBoss': string
   'home.battle': string; 'home.battleHint': string; 'home.raid': string; 'home.missions': string; 'home.shop': string

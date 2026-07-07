@@ -48,8 +48,8 @@ export class QuestionEngine {
    */
   buildSession(category: Category, count: number, level = 0, locale: 'ja' | 'en' = 'ja'): Question[] {
     const all = this.repo.getByCategory(category)
-    // 対象ロケールの訳を持つ語だけ出題（ja ネイティブ言語は全語＝現状不変）
-    const full = all.filter((q) => this.glossOk(q, locale))
+    // 対象ロケールの訳を持つ語だけ出題（ja ネイティブ言語は全語＝現状不変）。表現(phrase)は通常出題から除外
+    const full = all.filter((q) => this.glossOk(q, locale) && !q.tags?.includes('phrase'))
     let pool = level > 0 ? full.filter((q) => q.difficulty === level) : full
     if (pool.length < count) pool = full // 級内が少ない場合は全体から
     return shuffle(pool).slice(0, count).map((q) => this.withShuffledChoices(q))
@@ -61,8 +61,8 @@ export class QuestionEngine {
    */
   buildListeningSession(category: Category, count: number, level = 0, locale: 'ja' | 'en' = 'ja'): Question[] {
     const all = this.repo.getByCategory(category)
-    // 対象ロケールの訳を持つ語だけ母集合にする（ja ネイティブ言語は全語＝現状不変）
-    const full = all.filter((q) => this.glossOk(q, locale))
+    // 対象ロケールの訳を持つ語だけ母集合にする（表現(phrase)は除外）
+    const full = all.filter((q) => this.glossOk(q, locale) && !q.tags?.includes('phrase'))
     const withEx = full.filter((q) => q.example && q.exampleForm)
     let pool: Question[]
     if (withEx.length >= count) {
@@ -75,6 +75,20 @@ export class QuestionEngine {
       if (pool.length < count) pool = full
     }
     return shuffle(pool).slice(0, count).map((q) => this.withShuffledChoices(q))
+  }
+
+  /** 表現(フレーズ)セッション。tags に 'phrase' を持つ問題だけを出題する。 */
+  buildPhraseSession(category: Category, count: number, level = 0, locale: 'ja' | 'en' = 'ja'): Question[] {
+    const all = this.repo.getByCategory(category)
+    const full = all.filter((q) => q.tags?.includes('phrase') && this.glossOk(q, locale))
+    const pool = level > 0 ? full.filter((q) => q.difficulty === level) : full
+    const use = pool.length >= count ? pool : full
+    return shuffle(use).slice(0, count).map((q) => this.withShuffledChoices(q))
+  }
+
+  /** そのカテゴリに表現(phrase)問題があるか */
+  hasPhrases(category: Category): boolean {
+    return this.repo.getByCategory(category).some((q) => q.tags?.includes('phrase'))
   }
 
   /**

@@ -29,7 +29,11 @@ export class LocalQuestionRepository implements IQuestionRepository {
       const parts = await Promise.all(
         manifest.levels.map((lv) => fetch(`${dir}/${lv.file}`).then((r) => r.json() as Promise<Question[]>)),
       )
-      this.cache.set(category, parts.flat())
+      // 表現集（任意）: phrases.json があれば同カテゴリに追加（tags:['phrase',...]）
+      const phrases = await fetch(`${dir}/phrases.json`)
+        .then((r) => (r.ok ? (r.json() as Promise<Question[]>) : []))
+        .catch(() => [] as Question[])
+      this.cache.set(category, [...parts.flat(), ...phrases])
       return
     }
 

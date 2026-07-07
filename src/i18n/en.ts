@@ -7,6 +7,7 @@ export const en: Strings = {
   'home.language': 'Language', 'home.comingSoon': 'Soon', 'home.level': 'Level', 'home.mixed': 'Mixed',
   'home.listenHintSpell': 'Listen and spell', 'home.listenHintChoice': 'Listen and pick the meaning',
   'home.reviewDuePre': '🔁 Review:', 'home.reviewDuePost': 'due',
+  'home.phrases': '💬 Useful phrases', 'home.phrasesHint': 'Common expressions, 4-choice',
   'home.goalUnit': '', 'home.goalDone': 'Done! 🎉', 'home.masteryOf': ' learned', 'home.masteryUnit': 'words',
   'home.todayRaidBoss': "Today's raid boss",
   'home.battle': 'Battle', 'home.battleHint': '20-question match', 'home.raid': 'Raid', 'home.missions': 'Missions', 'home.shop': 'Shop',

@@ -7,6 +7,7 @@ export const ja: Strings = {
   'home.language': '学習ジャンル', 'home.comingSoon': '準備中', 'home.level': 'レベル', 'home.mixed': 'おまかせ',
   'home.listenHintSpell': '例文を聴いてスペル入力', 'home.listenHintChoice': '音声を聴いて意味を4択',
   'home.reviewDuePre': '🔁 復習が', 'home.reviewDuePost': '問たまっています',
+  'home.phrases': '💬 よく使う表現', 'home.phrasesHint': '定番フレーズを4択で',
   'home.goalUnit': '問', 'home.goalDone': '達成！🎉', 'home.masteryOf': 'の習得', 'home.masteryUnit': '語',
   'home.todayRaidBoss': '今日のレイドボス',
   'home.battle': 'バトル', 'home.battleHint': '20問対戦', 'home.raid': 'レイド', 'home.missions': 'ミッション', 'home.shop': 'ショップ',

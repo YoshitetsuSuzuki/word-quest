@@ -30,7 +30,7 @@ const CATEGORY_KEY = 'wordquest.category'
 
 export default function App() {
   const [screen, setScreen] = useState<Screen>('home')
-  const [quizMode, setQuizMode] = useState<'normal' | 'review' | 'listening' | 'example'>('normal')
+  const [quizMode, setQuizMode] = useState<'normal' | 'review' | 'listening' | 'example' | 'phrase'>('normal')
   // 前回選んだ学習ジャンルを記憶（中国語で遊んでいたら次回も中国語のまま）
   const [category, setCategoryState] = useState<Category>(
     () => (localStorage.getItem(CATEGORY_KEY) as Category | null) ?? 'english',

@@ -40,6 +40,8 @@ export function QuizScreen() {
       const ids = dueIds.length > 0 ? dueIds : user.reviewQueue.map((r) => r.questionId)
       s = engine.buildReviewSession(ids, SESSION_SIZE)
       if (s.length === 0) s = engine.buildSession(category, SESSION_SIZE)
+    } else if (quizMode === 'phrase') {
+      s = engine.buildPhraseSession(category, SESSION_SIZE, 0, locale)
     } else {
       s = engine.buildSession(category, SESSION_SIZE, studyLevel, locale)
     }
