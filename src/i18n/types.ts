@@ -74,4 +74,6 @@ export interface Strings {
   'pet.catalogTitle': string; 'pet.rarityCommon': string; 'pet.rarityRare': string; 'pet.rarityLegendary': string
   'pet.unlock': string; 'pet.addPet': string; 'pet.owned': string; 'pet.slotFull': string
   'pet.rename': string; 'pet.renameTitle': string; 'pet.namePlaceholder': string; 'pet.renameSave': string
+  'pet.openBox': string; 'pet.boxTitle': string; 'pet.setActive': string; 'pet.active': string
+  'pet.fuse': string; 'pet.fuseConfirm': string; 'pet.yes': string; 'pet.no': string
 }

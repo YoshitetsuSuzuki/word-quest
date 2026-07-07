@@ -26,8 +26,8 @@ export const PET_FORM_THRESHOLDS = [1, 20, 50, 80, 100]
 /** 気分の日数しきい値（最終学習日からの経過日数） */
 export const PET_MOOD_DAYS = { happyMax: 0, normalMax: 1, hungryMax: 2 } as const
 
-/** 所有できる相棒の最大数（コレクション） */
-export const PET_MAX_PETS = 6
+/** 所有できる相棒の最大数（コレクションボックスの容量） */
+export const PET_MAX_PETS = 20
 
 export interface SpeciesColor {
   body: string

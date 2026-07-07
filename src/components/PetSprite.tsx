@@ -13,12 +13,14 @@ export function PetSprite({
   form,
   level,
   mood,
+  shiny = false,
   size = 96,
 }: {
   species: PetSpecies
   form: number
   level: number
   mood: PetMood
+  shiny?: boolean
   size?: number
 }) {
   const c = PET_COLORS[species]
@@ -227,8 +229,17 @@ export function PetSprite({
           })}
         </g>
       )}
+      {shiny && <circle cx="50" cy="54" r="44" fill="none" stroke="#ffd45e" strokeWidth="1.5" opacity="0.45" />}
       <g transform={`translate(50 56) scale(${scale}) translate(-50 -56)`}>{creature()}</g>
       {auraPos.slice(0, auraN).map(([x, y, s], i) => sparkle(x, y, s, `a${i}`))}
+      {shiny && (
+        <>
+          {sparkle(18, 28, 4.5, 'sh1')}
+          {sparkle(82, 30, 4, 'sh2')}
+          {sparkle(70, 78, 3.4, 'sh3')}
+          {sparkle(30, 80, 3, 'sh4')}
+        </>
+      )}
     </svg>
   )
 }

@@ -5,6 +5,7 @@ import { ProgressBar } from './ProgressBar'
 import { PetSprite } from './PetSprite'
 import { StarterSelect } from './StarterSelect'
 import { PetCatalog } from './PetCatalog'
+import { PetBox } from './PetBox'
 import { petView, activePet, levelFromXp, petForm } from '../core/PetEngine'
 import { todayStr } from '../state/dateUtils'
 import { PET_SPECIES_NAME_KEY, PET_MAX_PETS } from '../config/petConfig'
@@ -31,6 +32,7 @@ export function PetWidget() {
   const { user, markPetForm, setActivePet, renamePet } = useGame()
   const { t, navigate, setQuizMode, setCustomIds } = useNav()
   const [catalogOpen, setCatalogOpen] = useState(false)
+  const [boxOpen, setBoxOpen] = useState(false)
   const [renaming, setRenaming] = useState(false)
   const view = petView(user, todayStr())
   const petName = activePet(user).name?.trim() || t('pet.name')
@@ -42,11 +44,10 @@ export function PetWidget() {
   }, [view.species, user.activePet])
 
   const canBuy = user.pets.length < PET_MAX_PETS
-  const showSwitcher = user.pets.length > 1 || canBuy
 
-  const switcher = showSwitcher ? (
+  const switcher = (
     <div className="flex items-center gap-2 overflow-x-auto pb-1 -mx-1 px-1">
-      {user.pets.map((p, i) => {
+      {user.pets.slice(0, 5).map((p, i) => {
         const isActive = i === user.activePet
         return (
           <button
@@ -59,7 +60,7 @@ export function PetWidget() {
           >
             {p.species ? (
               <SpriteBoundary>
-                <PetSprite species={p.species} form={petForm(levelFromXp(p.xp))} level={levelFromXp(p.xp)} mood="happy" size={38} />
+                <PetSprite species={p.species} form={petForm(levelFromXp(p.xp))} level={levelFromXp(p.xp)} mood="happy" shiny={p.shiny} size={38} />
               </SpriteBoundary>
             ) : (
               <span className="text-xl">🥚</span>
@@ -67,6 +68,13 @@ export function PetWidget() {
           </button>
         )
       })}
+      <button
+        onClick={() => setBoxOpen(true)}
+        aria-label={t('pet.openBox')}
+        className="shrink-0 h-11 px-3 grid place-items-center rounded-xl border border-white/10 bg-panel2 text-lg active:scale-95 transition"
+      >
+        📦
+      </button>
       {canBuy && (
         <button
           onClick={() => setCatalogOpen(true)}
@@ -77,9 +85,10 @@ export function PetWidget() {
         </button>
       )}
     </div>
-  ) : null
+  )
 
   const catalog = catalogOpen ? <PetCatalog onClose={() => setCatalogOpen(false)} /> : null
+  const box = boxOpen ? <PetBox onClose={() => setBoxOpen(false)} /> : null
 
   if (!view.species)
     return (
@@ -87,6 +96,7 @@ export function PetWidget() {
         <StarterSelect />
         {switcher}
         {catalog}
+        {box}
       </div>
     )
 
@@ -111,12 +121,12 @@ export function PetWidget() {
         )}
         <div key={`${view.form}-${view.mood}`} className="shrink-0 animate-pop">
           <SpriteBoundary>
-            <PetSprite species={view.species} form={view.form} level={view.level} mood={view.mood} size={76} />
+            <PetSprite species={view.species} form={view.form} level={view.level} mood={view.mood} shiny={view.shiny} size={76} />
           </SpriteBoundary>
         </div>
         <div className="flex-1 min-w-0">
           <div className="flex items-baseline gap-1.5">
-            <span className="font-black truncate">{petName}</span>
+            <span className="font-black truncate">{view.shiny && <span className="text-gold">★</span>}{petName}</span>
             <span
               role="button"
               tabIndex={0}
@@ -139,6 +149,7 @@ export function PetWidget() {
       </button>
       {switcher}
       {catalog}
+      {box}
       {renaming && (
         <RenamePetModal
           current={activePet(user).name ?? ''}

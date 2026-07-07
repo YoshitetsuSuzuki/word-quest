@@ -67,6 +67,8 @@ interface GameApi {
   setActivePet: (index: number) => void
   /** 種を入手して新しい相棒を追加（未解放なら価格を支払って解放）。成功時 true */
   acquirePet: (species: PetSpeciesId) => boolean
+  /** 同じ種のダブりを1体消費して base を★シャイニー化＋XP合算。成功時 true */
+  fusePet: (baseIndex: number) => boolean
   /** プレイヤー名を変更（オンボーディング等） */
   setName: (name: string) => void
   resetAll: () => void
@@ -110,6 +112,7 @@ function migrate(u: User): User {
       xp: num(p?.xp ?? 0),
       lastTickDate: p?.lastTickDate ?? '',
       formSeen: num(p?.formSeen ?? 0),
+      shiny: !!p?.shiny,
     })),
     activePet: num(u.activePet ?? 0),
     gems: num(u.gems ?? 0),
@@ -462,6 +465,31 @@ export function GameProvider({ children }: { children: ReactNode }) {
 
       setActivePet: (index) => {
         setUser((prev) => ({ ...prev, activePet: Math.max(0, Math.min(index, prev.pets.length - 1)) }))
+      },
+
+      fusePet: (baseIndex) => {
+        let ok = false
+        setUser((prev) => {
+          const base = prev.pets[baseIndex]
+          if (!base || !base.species) return prev
+          // 同じ種のダブり（自分以外）を fodder に。XPが低い個体を優先して消費。
+          let fodderIdx = -1
+          prev.pets.forEach((p, i) => {
+            if (i === baseIndex || p.species !== base.species) return
+            if (fodderIdx === -1 || p.xp < prev.pets[fodderIdx].xp) fodderIdx = i
+          })
+          if (fodderIdx === -1) return prev
+          ok = true
+          const fused = { ...base, shiny: true, xp: Math.min(PET_MAX_XP, base.xp + prev.pets[fodderIdx].xp) }
+          const pets = prev.pets.map((p, i) => (i === baseIndex ? fused : p)).filter((_, i) => i !== fodderIdx)
+          // 除去に伴う activePet の補正（base を追従）
+          let active = prev.activePet
+          const newBaseIdx = fodderIdx < baseIndex ? baseIndex - 1 : baseIndex
+          if (prev.activePet === fodderIdx) active = newBaseIdx
+          else if (prev.activePet > fodderIdx) active = prev.activePet - 1
+          return { ...prev, pets, activePet: Math.max(0, Math.min(active, pets.length - 1)) }
+        })
+        return ok
       },
 
       acquirePet: (species) => {

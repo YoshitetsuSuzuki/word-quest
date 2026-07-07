@@ -72,4 +72,6 @@ export const en: Strings = {
   'pet.catalogTitle': 'Buddy catalog', 'pet.rarityCommon': 'Common', 'pet.rarityRare': 'Rare', 'pet.rarityLegendary': 'Legendary',
   'pet.unlock': 'Unlock', 'pet.addPet': 'Add', 'pet.owned': 'Owned', 'pet.slotFull': 'Party is full',
   'pet.rename': 'Rename', 'pet.renameTitle': 'Buddy name', 'pet.namePlaceholder': 'Enter a name (max 12)', 'pet.renameSave': 'Save',
+  'pet.openBox': '📦 Box', 'pet.boxTitle': 'Buddy box', 'pet.setActive': 'Train this one', 'pet.active': 'Training',
+  'pet.fuse': '⚡ Fuse', 'pet.fuseConfirm': 'Consume one duplicate to make it ★shiny. Fuse?', 'pet.yes': 'Yes', 'pet.no': 'Cancel',
 }
