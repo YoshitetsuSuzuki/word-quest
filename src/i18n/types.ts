@@ -73,4 +73,5 @@ export interface Strings {
   'pet.speciesLight': string; 'pet.speciesDark': string; 'pet.speciesThunder': string; 'pet.speciesRainbow': string; 'pet.speciesStar': string
   'pet.catalogTitle': string; 'pet.rarityCommon': string; 'pet.rarityRare': string; 'pet.rarityLegendary': string
   'pet.unlock': string; 'pet.addPet': string; 'pet.owned': string; 'pet.slotFull': string
+  'pet.rename': string; 'pet.renameTitle': string; 'pet.namePlaceholder': string; 'pet.renameSave': string
 }

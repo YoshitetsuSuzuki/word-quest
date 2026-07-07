@@ -62,6 +62,8 @@ interface GameApi {
   toggleMastered: (questionId: string) => void
   choosePetStarter: (species: PetSpeciesId) => void
   markPetForm: (form: number) => void
+  /** アクティブ相棒の名前を設定（空文字で既定名に戻す） */
+  renamePet: (name: string) => void
   setActivePet: (index: number) => void
   /** 種を入手して新しい相棒を追加（未解放なら価格を支払って解放）。成功時 true */
   acquirePet: (species: PetSpeciesId) => boolean
@@ -103,6 +105,7 @@ function migrate(u: User): User {
     todayWordSeenDate: u.todayWordSeenDate ?? '',
     // 旧: 単一 pet → 新: pets配列 に移行
     pets: (u.pets ?? ((u as unknown as { pet?: PetState }).pet ? [(u as unknown as { pet: PetState }).pet] : [{ species: null, xp: 0, lastTickDate: '', formSeen: 0 }])).map((p) => ({
+      name: p?.name ?? '',
       species: p?.species ?? null,
       xp: num(p?.xp ?? 0),
       lastTickDate: p?.lastTickDate ?? '',
@@ -446,6 +449,14 @@ export function GameProvider({ children }: { children: ReactNode }) {
         setUser((prev) => ({
           ...prev,
           pets: prev.pets.map((p, j) => (j === prev.activePet ? { ...p, formSeen: Math.max(p.formSeen ?? 0, form) } : p)),
+        }))
+      },
+
+      renamePet: (name) => {
+        const clean = name.trim().slice(0, 12)
+        setUser((prev) => ({
+          ...prev,
+          pets: prev.pets.map((p, i) => (i === prev.activePet ? { ...p, name: clean } : p)),
         }))
       },
 

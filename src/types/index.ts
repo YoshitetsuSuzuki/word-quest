@@ -131,6 +131,8 @@ export type PetSpeciesId = 'green' | 'fire' | 'water' | 'light' | 'dark' | 'thun
 
 /** 学習相棒の状態（ユーザーデータ内） */
 export interface PetState {
+  /** ユーザーが付けた名前。空なら既定名(マナ/Mana)を表示 */
+  name?: string
   /** 選んだ種。null は未選択（スターター選択を促す） */
   species: PetSpeciesId | null
   /** 累計経験値（学習で増え・サボると減る） */

@@ -71,4 +71,5 @@ export const en: Strings = {
   'pet.speciesLight': 'Light', 'pet.speciesDark': 'Dark', 'pet.speciesThunder': 'Thunder', 'pet.speciesRainbow': 'Rainbow', 'pet.speciesStar': 'Star',
   'pet.catalogTitle': 'Buddy catalog', 'pet.rarityCommon': 'Common', 'pet.rarityRare': 'Rare', 'pet.rarityLegendary': 'Legendary',
   'pet.unlock': 'Unlock', 'pet.addPet': 'Add', 'pet.owned': 'Owned', 'pet.slotFull': 'Party is full',
+  'pet.rename': 'Rename', 'pet.renameTitle': 'Buddy name', 'pet.namePlaceholder': 'Enter a name (max 12)', 'pet.renameSave': 'Save',
 }

@@ -71,4 +71,5 @@ export const ja: Strings = {
   'pet.speciesLight': '光', 'pet.speciesDark': '闇', 'pet.speciesThunder': '雷', 'pet.speciesRainbow': '虹', 'pet.speciesStar': '星',
   'pet.catalogTitle': '相棒ずかん', 'pet.rarityCommon': 'ノーマル', 'pet.rarityRare': 'レア', 'pet.rarityLegendary': '伝説',
   'pet.unlock': '解放', 'pet.addPet': '追加', 'pet.owned': '所持ずみ', 'pet.slotFull': '相棒がいっぱいです',
+  'pet.rename': '名前をつける', 'pet.renameTitle': '相棒の名前', 'pet.namePlaceholder': '名前を入力（12文字まで）', 'pet.renameSave': '決定',
 }

@@ -28,10 +28,12 @@ class SpriteBoundary extends Component<{ children: ReactNode }, { failed: boolea
  * 学習XPはアクティブな1体だけに入る。
  */
 export function PetWidget() {
-  const { user, markPetForm, setActivePet } = useGame()
+  const { user, markPetForm, setActivePet, renamePet } = useGame()
   const { t, navigate, setQuizMode, setCustomIds } = useNav()
   const [catalogOpen, setCatalogOpen] = useState(false)
+  const [renaming, setRenaming] = useState(false)
   const view = petView(user, todayStr())
+  const petName = activePet(user).name?.trim() || t('pet.name')
 
   // 初回だけ現フォームを基準に記録（以後、進化すると演出フラグが立つ）
   useEffect(() => {
@@ -113,9 +115,18 @@ export function PetWidget() {
           </SpriteBoundary>
         </div>
         <div className="flex-1 min-w-0">
-          <div className="flex items-baseline gap-2">
-            <span className="font-black">{t('pet.name')}</span>
-            <span className="text-[11px] text-white/45 font-bold">
+          <div className="flex items-baseline gap-1.5">
+            <span className="font-black truncate">{petName}</span>
+            <span
+              role="button"
+              tabIndex={0}
+              aria-label={t('pet.rename')}
+              onClick={(e) => { e.stopPropagation(); setRenaming(true) }}
+              className="shrink-0 text-[11px] text-white/35 active:text-accent2"
+            >
+              ✏️
+            </span>
+            <span className="text-[11px] text-white/45 font-bold shrink-0">
               {t(PET_SPECIES_NAME_KEY[view.species] as keyof Strings)}・Lv.{view.level}
             </span>
           </div>
@@ -128,6 +139,38 @@ export function PetWidget() {
       </button>
       {switcher}
       {catalog}
+      {renaming && (
+        <RenamePetModal
+          current={activePet(user).name ?? ''}
+          onSave={(n) => { renamePet(n); setRenaming(false) }}
+          onClose={() => setRenaming(false)}
+        />
+      )}
+    </div>
+  )
+}
+
+function RenamePetModal({ current, onSave, onClose }: { current: string; onSave: (n: string) => void; onClose: () => void }) {
+  const { t } = useNav()
+  const [value, setValue] = useState(current)
+  return (
+    <div className="fixed inset-0 z-50 bg-black/60 grid place-items-center p-4" onClick={onClose}>
+      <div className="w-full max-w-xs bg-panel rounded-2xl p-4 space-y-3" onClick={(e) => e.stopPropagation()}>
+        <h2 className="font-black text-sm">{t('pet.renameTitle')}</h2>
+        <input
+          autoFocus
+          value={value}
+          maxLength={12}
+          onChange={(e) => setValue(e.target.value)}
+          onKeyDown={(e) => e.key === 'Enter' && onSave(value)}
+          placeholder={t('pet.namePlaceholder')}
+          className="w-full bg-panel2 border border-white/10 rounded-xl px-4 py-3 text-base outline-none focus:border-accent2"
+        />
+        <div className="grid grid-cols-2 gap-2">
+          <button onClick={onClose} className="btn-ghost py-2.5 text-sm">{t('common.back')}</button>
+          <button onClick={() => onSave(value)} className="btn-primary py-2.5 text-sm">{t('pet.renameSave')}</button>
+        </div>
+      </div>
     </div>
   )
 }
