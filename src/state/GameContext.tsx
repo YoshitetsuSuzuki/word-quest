@@ -65,6 +65,11 @@ interface GameApi {
   /** 相棒の名前を設定（index 省略時はアクティブ相棒。空文字で既定名に戻す） */
   renamePet: (name: string, index?: number) => void
   setActivePet: (index: number) => void
+  /** 「今日の一式」設定: 目標問数・表示項目 */
+  setDailyGoal: (n: number) => void
+  setDailyTasks: (ids: string[]) => void
+  /** 起動型タスクを今日実行済みにする */
+  markDailyTask: (id: string) => void
   /** 種を入手して新しい相棒を追加（未解放なら価格を支払って解放）。成功時 true */
   acquirePet: (species: PetSpeciesId) => boolean
   /** 同じ種のダブりを1体消費して base を★シャイニー化＋XP合算。成功時 true */
@@ -107,6 +112,9 @@ function migrate(u: User): User {
     claimedStreakMilestones: u.claimedStreakMilestones ?? [],
     dailyHistory: u.dailyHistory ?? {},
     todayWordSeenDate: u.todayWordSeenDate ?? '',
+    dailyGoal: num(u.dailyGoal ?? 10, 10) || 10,
+    dailyTasks: u.dailyTasks ?? ['quiz', 'word'],
+    dailyDone: u.dailyDone ?? {},
     // 旧: 単一 pet → 新: pets配列 に移行
     pets: (u.pets ?? ((u as unknown as { pet?: PetState }).pet ? [(u as unknown as { pet: PetState }).pet] : [{ species: null, xp: 0, lastTickDate: '', formSeen: 0 }])).map((p) => ({
       name: p?.name ?? '',
@@ -235,7 +243,7 @@ export function GameProvider({ children }: { children: ReactNode }) {
 
         // --- 学習ストリーク: 今日はじめて閾値に到達した瞬間にスタンプ ---
         let streakCelebration: Celebration | null = null
-        if (todayAnswered >= streakConfig.dailyGoal && u.lastStudyDate !== today) {
+        if (todayAnswered >= (u.dailyGoal || streakConfig.dailyGoal) && u.lastStudyDate !== today) {
           const res = applyStamp(
             {
               studyStreak: u.studyStreak,
@@ -475,6 +483,13 @@ export function GameProvider({ children }: { children: ReactNode }) {
           return { ...prev, activePet: i, pets: prev.pets.map((p, j) => (j === i && p.isNew ? { ...p, isNew: false } : p)) }
         })
       },
+
+      setDailyGoal: (n) => {
+        const g = Math.max(1, Math.min(100, Math.round(n)))
+        setUser((prev) => ({ ...prev, dailyGoal: g }))
+      },
+      setDailyTasks: (ids) => setUser((prev) => ({ ...prev, dailyTasks: ids })),
+      markDailyTask: (id) => setUser((prev) => ({ ...prev, dailyDone: { ...prev.dailyDone, [id]: todayStr() } })),
 
       fusePet: (baseIndex) => {
         let ok = false

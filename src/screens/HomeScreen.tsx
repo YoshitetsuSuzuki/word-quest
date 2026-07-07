@@ -42,7 +42,8 @@ export function HomeScreen() {
   const ready = isCategoryReady(category)
   const levels = ready ? engine.availableLevels(category) : []
 
-  // デイリー目標
+  // デイリー目標（自分で設定した目標問数）
+  const dailyGoal = user.dailyGoal || DAILY_GOAL
   const todayDone = user.todayAnsweredDate === todayStr() ? user.todayAnswered : 0
   // 習得率（このジャンルで一度でも正解した語 / 出題可能語数）
   const prefix = category === 'chinese' ? 'zh' : category === 'korean' ? 'ko' : category === 'japanese' ? 'jp' : category === 'spanish' ? 'es' : category === 'french' ? 'fr' : category === 'german' ? 'de' : 'en'
@@ -194,10 +195,10 @@ export function HomeScreen() {
           <div className="text-xs text-white/45 font-bold">{t('home.dailyGoal')}</div>
           <div className="mt-1 font-black tabular-nums">
             {todayDone}
-            <span className="text-white/40 text-sm"> / {DAILY_GOAL}{t('home.goalUnit')}</span>
+            <span className="text-white/40 text-sm"> / {dailyGoal}{t('home.goalUnit')}</span>
           </div>
-          <ProgressBar ratio={todayDone / DAILY_GOAL} className="mt-2" barClassName={todayDone >= DAILY_GOAL ? 'bg-success' : 'bg-accent2'} height={8} />
-          {todayDone >= DAILY_GOAL && <div className="text-[10px] text-success mt-1 font-bold">{t('home.goalDone')}</div>}
+          <ProgressBar ratio={todayDone / dailyGoal} className="mt-2" barClassName={todayDone >= dailyGoal ? 'bg-success' : 'bg-accent2'} height={8} />
+          {todayDone >= dailyGoal && <div className="text-[10px] text-success mt-1 font-bold">{t('home.goalDone')}</div>}
         </div>
         <div className="card p-4">
           <div className="text-xs text-white/45 font-bold">{catLabel}{t('home.masteryOf')}</div>

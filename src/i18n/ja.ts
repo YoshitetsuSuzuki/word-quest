@@ -62,6 +62,8 @@ export const ja: Strings = {
   'celebrate.achievement': '実績解除', 'celebrate.streakPre': '', 'celebrate.streakPost': '日連続学習を達成！ +🪙', 'celebrate.tapContinue': 'タップして続ける',
   'daily.title': '📅 今日の一式', 'daily.done': '✨コンプ！', 'daily.dayUnit': '日', 'daily.streakWarnPre': '⚠️ 🔥', 'daily.streakWarnMid': '日のストリークが今夜消えます！あと', 'daily.streakWarnPost': '問',
   'daily.quizPre': '今日の', 'daily.quizUnit': '問', 'daily.seeWord': '今日の単語を見る', 'daily.loginBonus': 'ログインボーナス', 'daily.wordOfDay': '今日の単語',
+  'daily.edit': '編集', 'daily.settingsTitle': '今日の一式を編集', 'daily.goalLabel': '1日の目標問数', 'daily.itemsLabel': '一式に入れる項目',
+  'daily.itemQuiz': 'クイズ（目標問数）', 'daily.itemWord': '今日の単語', 'daily.itemListening': '🎧 リスニング', 'daily.itemPhrase': '💬 よく使う表現', 'daily.itemExample': '📖 例文暗記', 'daily.itemReview': '🔁 復習', 'daily.itemLogin': 'ログインボーナス（自動）',
   'weekly.thisWeek': 'この1週間', 'weekly.days': '日月火水木金土',
   'pet.name': 'マナ',
   'pet.speciesGreen': 'くさ', 'pet.speciesFire': 'ほのお', 'pet.speciesWater': 'みず',

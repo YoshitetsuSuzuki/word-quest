@@ -62,6 +62,8 @@ export const en: Strings = {
   'celebrate.achievement': 'Achievement', 'celebrate.streakPre': '', 'celebrate.streakPost': '-day study streak! +🪙', 'celebrate.tapContinue': 'Tap to continue',
   'daily.title': "📅 Today's set", 'daily.done': '✨ Done!', 'daily.dayUnit': 'd', 'daily.streakWarnPre': '⚠️ Your ', 'daily.streakWarnMid': '-day streak ends tonight! ', 'daily.streakWarnPost': ' to go',
   'daily.quizPre': '', 'daily.quizUnit': ' questions today', 'daily.seeWord': 'See word of the day', 'daily.loginBonus': 'Login bonus', 'daily.wordOfDay': 'Word of the day',
+  'daily.edit': 'Edit', 'daily.settingsTitle': 'Edit daily set', 'daily.goalLabel': 'Daily goal (questions)', 'daily.itemsLabel': 'Items in your set',
+  'daily.itemQuiz': 'Quiz (daily goal)', 'daily.itemWord': 'Word of the day', 'daily.itemListening': '🎧 Listening', 'daily.itemPhrase': '💬 Useful phrases', 'daily.itemExample': '📖 Example study', 'daily.itemReview': '🔁 Review', 'daily.itemLogin': 'Login bonus (auto)',
   'weekly.thisWeek': 'This week', 'weekly.days': 'SMTWTFS',
   'pet.name': 'Mana',
   'pet.speciesGreen': 'Grass', 'pet.speciesFire': 'Fire', 'pet.speciesWater': 'Water',

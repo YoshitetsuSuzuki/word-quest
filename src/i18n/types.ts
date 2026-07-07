@@ -64,6 +64,8 @@ export interface Strings {
   'celebrate.achievement': string; 'celebrate.streakPre': string; 'celebrate.streakPost': string; 'celebrate.tapContinue': string
   'daily.title': string; 'daily.done': string; 'daily.dayUnit': string; 'daily.streakWarnPre': string; 'daily.streakWarnMid': string; 'daily.streakWarnPost': string
   'daily.quizPre': string; 'daily.quizUnit': string; 'daily.seeWord': string; 'daily.loginBonus': string; 'daily.wordOfDay': string
+  'daily.edit': string; 'daily.settingsTitle': string; 'daily.goalLabel': string; 'daily.itemsLabel': string
+  'daily.itemQuiz': string; 'daily.itemWord': string; 'daily.itemListening': string; 'daily.itemPhrase': string; 'daily.itemExample': string; 'daily.itemReview': string; 'daily.itemLogin': string
   'weekly.thisWeek': string; 'weekly.days': string
   'pet.name': string
   'pet.speciesGreen': string; 'pet.speciesFire': string; 'pet.speciesWater': string
