@@ -4,7 +4,7 @@ import { useNav } from '../state/nav'
 import { ReviewScheduler } from '../core/ReviewScheduler'
 import { equippedEffect } from '../modules/shop/shopLogic'
 import { Loading } from '../components/Loading'
-import { speakWord, wordFromPrompt, canSpeak } from '../utils/speech'
+import { speak, speakWord, wordFromPrompt, canSpeak, langForCategory } from '../utils/speech'
 import { playCorrect, playWrong } from '../utils/audio'
 import { wordErrorReportUrl } from '../utils/report'
 import type { Question, AnswerOutcome } from '../types'
@@ -227,24 +227,34 @@ export function QuizScreen() {
         ))}
       </div>
 
-      {/* 解説 & 次へ */}
+      {/* 解説 & 次へ（「次へ」は最上部に置いてスクロール不要に） */}
       {selected && (
         <div className="animate-slideUp space-y-3">
-          {!outcome?.correct && (
-            <div className="card p-4 text-sm">
-              <div className="font-bold text-danger mb-1">{t('quiz.answer')} {correctGloss}</div>
+          <button className="btn-primary w-full py-4" onClick={next}>
+            {index + 1 >= questions.length ? t('quiz.result') : t('quiz.next')}
+          </button>
+
+          {/* 不正解時は正解を表示。例文は音声つき */}
+          {(!outcome?.correct || ex) && (
+            <div className="card p-3 text-sm space-y-1.5">
+              {!outcome?.correct && <div className="font-bold text-danger">{t('quiz.answer')} {correctGloss}</div>}
               {ex && (
-                <div className="text-white/60">
-                  {t('quiz.example')} {ex.text}{ex.translation && ` — ${ex.translation}`}
+                <div className="flex items-start gap-2 text-white/60">
+                  <span className="flex-1">{t('quiz.example')} {ex.text}{ex.translation && ` — ${ex.translation}`}</span>
+                  {canSpeak() && (
+                    <button
+                      onClick={() => speak(ex.text, langForCategory(category))}
+                      aria-label={t('quiz.speak')}
+                      className="shrink-0 w-7 h-7 grid place-items-center rounded-full bg-white/10 text-sm active:scale-90 transition"
+                    >
+                      🔊
+                    </button>
+                  )}
                 </div>
               )}
             </div>
           )}
-          {outcome?.correct && ex && (
-            <div className="text-center text-xs text-white/40">
-              {t('quiz.example')} {ex.text}{ex.translation && ` — ${ex.translation}`}
-            </div>
-          )}
+
           <button
             onClick={() => toggleDeck(q.id)}
             className={`w-full py-2.5 rounded-xl text-sm font-bold transition border ${
@@ -254,9 +264,6 @@ export function QuizScreen() {
             }`}
           >
             {user.customDeck.includes(q.id) ? t('study.inDeckMark') : t('study.addDeck')}
-          </button>
-          <button className="btn-primary w-full py-4" onClick={next}>
-            {index + 1 >= questions.length ? t('quiz.result') : t('quiz.next')}
           </button>
           <div className="text-center">
             <a
