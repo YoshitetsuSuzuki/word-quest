@@ -75,7 +75,6 @@ export function primeSpeech(): void {
 // 同一発話の二重発火（再描画などによる重なり＝歪み）を抑制
 let lastKey = ''
 let lastAt = 0
-let pendingTimer: ReturnType<typeof setTimeout> | null = null
 
 /** テキストを指定言語で読み上げる（無料・オフライン・端末音声） */
 export function speak(text: string, lang: string): void {
@@ -88,8 +87,10 @@ export function speak(text: string, lang: string): void {
   lastAt = now
   try {
     const synth = window.speechSynthesis
-    if (pendingTimer) clearTimeout(pendingTimer)
-    synth.cancel() // 前の読み上げを止める（重なりによる歪み防止）
+    // iOS/Safari は speak をユーザー操作と同じ実行フロー内で「同期的に」呼ぶ必要がある。
+    // setTimeout 等で遅延させると鳴らないため、ここでは同期実行する。
+    if (synth.speaking || synth.pending) synth.cancel() // 再生中のみ止める（重なり防止）
+    synth.resume() // 一時停止状態に陥っていても復帰（Chrome対策）
     const u = new SpeechSynthesisUtterance(text)
     u.lang = lang
     const v = bestVoice(lang)
@@ -97,15 +98,7 @@ export function speak(text: string, lang: string): void {
     u.rate = 0.92 // 学習用にやや遅め
     u.pitch = 1
     u.volume = 1
-    // cancel直後のspeakはChromeで無視される既知バグがあるため少し遅らせて発話する
-    pendingTimer = setTimeout(() => {
-      try {
-        synth.resume() // 一時停止状態に陥っていても復帰
-        synth.speak(u)
-      } catch {
-        // 無視
-      }
-    }, 70)
+    synth.speak(u)
   } catch {
     // 未対応環境は無視
   }
