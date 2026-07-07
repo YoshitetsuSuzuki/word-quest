@@ -23,6 +23,7 @@ export function createDefaultUser(name = 'Player'): User {
     battleLosses: 0,
     todayCoin: 0,
     todayCoinDate: today,
+    lifetimeCoin: 0,
     ownedItemIds: [],
     equipped: {},
     missionState: { date: today, progress: {}, claimed: [] },

@@ -84,6 +84,7 @@ export function applyBattleResult(user: User, result: BattleResult): User {
     eloRating: Math.max(100, user.eloRating + result.eloDelta),
     coin: user.coin + coin,
     todayCoin: user.todayCoin + coin,
+    lifetimeCoin: user.lifetimeCoin + coin,
     battleWins: user.battleWins + (result.win ? 1 : 0),
     battleLosses: user.battleLosses + (result.win ? 0 : 1),
   }

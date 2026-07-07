@@ -37,6 +37,7 @@ export function applyLoginBonus(user: User): { user: User; bonusCoin: number; is
       lastLoginDate: today,
       coin: u.coin + bonusCoin,
       todayCoin: u.todayCoin + bonusCoin,
+      lifetimeCoin: u.lifetimeCoin + bonusCoin,
     },
     bonusCoin,
     isNewDay: true,

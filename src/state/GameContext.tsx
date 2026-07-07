@@ -92,6 +92,8 @@ function migrate(u: User): User {
     xp: num(u.xp),
     coin: num(u.coin),
     todayCoin: num(u.todayCoin),
+    // 既存ユーザーは最低でも現残高分は稼いでいるので、それを初期累計とする
+    lifetimeCoin: num(u.lifetimeCoin ?? u.coin),
     level: num(u.level, 1) || 1,
     wordStats: u.wordStats ?? {},
     customDeck: u.customDeck ?? [],
@@ -260,6 +262,7 @@ export function GameProvider({ children }: { children: ReactNode }) {
               ...u,
               coin: u.coin + coinGain,
               todayCoin: u.todayCoin + coinGain,
+              lifetimeCoin: u.lifetimeCoin + coinGain,
               gems: u.gems + gemGain,
               ownedItemIds: [...u.ownedItemIds, ...titles],
               claimedStreakMilestones: [...u.claimedStreakMilestones, ...reached],
@@ -316,6 +319,7 @@ export function GameProvider({ children }: { children: ReactNode }) {
           ...u,
           coin: u.coin + reward.coin,
           todayCoin: u.todayCoin + reward.coin,
+          lifetimeCoin: u.lifetimeCoin + reward.coin,
           totalCorrect: u.totalCorrect + 1,
           learnedQuestionIds: u.learnedQuestionIds.includes(q.id)
             ? u.learnedQuestionIds

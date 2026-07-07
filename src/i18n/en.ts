@@ -37,7 +37,7 @@ export const en: Strings = {
   'profile.autoPlay': '🗣️ Auto-play audio', 'profile.sfx': '🔔 Sound effects', 'profile.sfxVolume': 'SFX volume', 'profile.bgm': '🎵 Music', 'profile.bgmVolume': 'Music volume',
   'profile.feedback': '📮 Report / feedback', 'profile.reset': 'Reset data', 'profile.resetConfirm': 'Reset all data? This cannot be undone.',
   'common.back': 'Back',
-  'rank.title': '🏆 Ranking', 'rank.coin': 'Coins', 'rank.elo': 'Rating', 'rank.today': 'Today', 'rank.correct': 'Correct',
+  'rank.title': '🏆 Ranking', 'rank.coin': 'Coins earned', 'rank.elo': 'Rating', 'rank.today': 'Today', 'rank.correct': 'Correct',
   'rank.unit': '', 'rank.yourRank': 'Your rank', 'rank.rankSuffix': '', 'rank.you': '(you)',
   'battle.title': '⚔️ Async battle', 'battle.you': 'You', 'battle.vs': 'VS',
   'battle.ruleQPre': '· ', 'battle.ruleQPost': ' questions. Score depends on correct answers and speed', 'battle.ruleReward': '· Win: 🪙+60 and rating up / Lose: 🪙+10', 'battle.ruleFeePre': '· Entry fee 🪙',

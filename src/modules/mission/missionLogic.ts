@@ -78,6 +78,7 @@ export function claimMission(
       ...u,
       coin: u.coin + def.rewardCoin,
       todayCoin: u.todayCoin + def.rewardCoin,
+      lifetimeCoin: u.lifetimeCoin + def.rewardCoin,
       missionState: { ...u.missionState, claimed: [...u.missionState.claimed, missionId] },
     },
     claimed: true,

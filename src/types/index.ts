@@ -84,6 +84,8 @@ export interface User {
   /** 今日獲得したCoin（デイリーランキング用, 日付が変わるとリセット） */
   todayCoin: number
   todayCoinDate: string
+  /** 累計獲得Coin（使っても減らない・ランキング用） */
+  lifetimeCoin: number
   /** 購入済みショップアイテムID */
   ownedItemIds: string[]
   /** 装備中の項目（正解エフェクト・アイコン枠など） */

@@ -37,7 +37,7 @@ export const ja: Strings = {
   'profile.autoPlay': '🗣️ 発音の自動再生', 'profile.sfx': '🔔 効果音（正解・不正解）', 'profile.sfxVolume': '効果音の音量', 'profile.bgm': '🎵 BGM', 'profile.bgmVolume': 'BGMの音量',
   'profile.feedback': '📮 誤りの報告・ご要望', 'profile.reset': 'データを初期化', 'profile.resetConfirm': 'データを初期化しますか？この操作は取り消せません。',
   'common.back': 'もどる',
-  'rank.title': '🏆 ランキング', 'rank.coin': 'コイン', 'rank.elo': 'レート', 'rank.today': '今日', 'rank.correct': '正解数',
+  'rank.title': '🏆 ランキング', 'rank.coin': '累計コイン', 'rank.elo': 'レート', 'rank.today': '今日', 'rank.correct': '正解数',
   'rank.unit': '問', 'rank.yourRank': 'あなたの順位', 'rank.rankSuffix': '位', 'rank.you': '(あなた)',
   'battle.title': '⚔️ 非同期バトル', 'battle.you': 'あなた', 'battle.vs': 'VS',
   'battle.ruleQPre': '・全 ', 'battle.ruleQPost': ' 問。正答数と回答速度でスコアが決まる', 'battle.ruleReward': '・勝利で 🪙+60 とレート上昇 / 敗北で 🪙+10', 'battle.ruleFeePre': '・参加費 🪙',

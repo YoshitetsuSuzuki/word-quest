@@ -9,7 +9,7 @@ import { mockPlayers } from '../../data/ranking.mock'
 export function buildRanking(user: User, kind: RankingKind): RankingEntry[] {
   const myValue =
     kind === 'coin'
-      ? user.coin
+      ? user.lifetimeCoin // 累計獲得（使っても下がらない）
       : kind === 'elo'
         ? user.eloRating
         : kind === 'todayCoin'

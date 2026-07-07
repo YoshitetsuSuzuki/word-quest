@@ -53,6 +53,7 @@ export function evaluateAchievements(
       ...user,
       coin: user.coin + coinBonus,
       todayCoin: user.todayCoin + coinBonus,
+      lifetimeCoin: user.lifetimeCoin + coinBonus,
       achievements: [...user.achievements, ...unlocked.map((d) => ({ id: d.id, unlockedAt: now }))],
     },
     unlocked,

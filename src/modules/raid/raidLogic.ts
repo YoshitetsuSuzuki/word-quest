@@ -64,6 +64,7 @@ export function claimRaid(
       ...u,
       coin: u.coin + boss.rewardCoin,
       todayCoin: u.todayCoin + boss.rewardCoin,
+      lifetimeCoin: u.lifetimeCoin + boss.rewardCoin,
       raidState: { ...u.raidState, claimed: true },
     },
     claimed: true,
