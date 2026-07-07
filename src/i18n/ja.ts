@@ -73,5 +73,6 @@ export const ja: Strings = {
   'pet.unlock': '解放', 'pet.addPet': '追加', 'pet.owned': '所持ずみ', 'pet.slotFull': '相棒がいっぱいです',
   'pet.rename': '名前をつける', 'pet.renameTitle': '相棒の名前', 'pet.namePlaceholder': '名前を入力（12文字まで）', 'pet.renameSave': '決定',
   'pet.openBox': '📦 ボックス', 'pet.boxTitle': '相棒ボックス', 'pet.setActive': '育成中にする', 'pet.active': '育成中',
-  'pet.fuse': '⚡ 合体', 'pet.fuseConfirm': '同じ種を1体消費して★シャイニーに。合体する？', 'pet.yes': 'はい', 'pet.no': 'やめる',
+  'pet.fuse': '⚡ 合体', 'pet.fuseConfirm': '同じ種を1体消費して合体（段階UP）。実行する？', 'pet.yes': 'はい', 'pet.no': 'やめる',
+  'pet.newBadge': 'NEW', 'pet.addedPre': '✨ ', 'pet.addedSuffix': ' をなかまにした！',
 }

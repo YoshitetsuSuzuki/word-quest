@@ -143,8 +143,8 @@ export interface PetView {
   maxed: boolean
   /** 前回見たフォームより進化した */
   evolved: boolean
-  /** ★シャイニー（合体済み） */
-  shiny: boolean
+  /** 合体段階(0=通常, 1..5) */
+  fusion: number
 }
 
 export function petView(user: User, today: string): PetView {
@@ -163,6 +163,6 @@ export function petView(user: User, today: string): PetView {
     toNext: level >= PET_MAX_LEVEL ? 0 : prog.need - prog.into,
     maxed: level >= PET_MAX_LEVEL,
     evolved: form > (pet.formSeen ?? 0) && (pet.formSeen ?? 0) > 0,
-    shiny: !!pet.shiny,
+    fusion: pet.fusion ?? 0,
   }
 }

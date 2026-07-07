@@ -76,4 +76,5 @@ export interface Strings {
   'pet.rename': string; 'pet.renameTitle': string; 'pet.namePlaceholder': string; 'pet.renameSave': string
   'pet.openBox': string; 'pet.boxTitle': string; 'pet.setActive': string; 'pet.active': string
   'pet.fuse': string; 'pet.fuseConfirm': string; 'pet.yes': string; 'pet.no': string
+  'pet.newBadge': string; 'pet.addedPre': string; 'pet.addedSuffix': string
 }

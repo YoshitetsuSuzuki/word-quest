@@ -1,5 +1,6 @@
-import { Component, type ReactNode } from 'react'
+import { Component, useState, type ReactNode } from 'react'
 import { useGame } from '../state/GameContext'
+import type { PetSpeciesId } from '../types'
 import { useNav } from '../state/nav'
 import { PetSprite } from './PetSprite'
 import { PET_CATALOG, PET_SPECIES_NAME_KEY, PET_MAX_PETS, type PetRarity } from '../config/petConfig'
@@ -28,8 +29,15 @@ const RARITY_STYLE: Record<PetRarity, string> = {
 export function PetCatalog({ onClose }: { onClose: () => void }) {
   const { user, acquirePet } = useGame()
   const { t } = useNav()
+  const [justAdded, setJustAdded] = useState<PetSpeciesId | null>(null)
   const full = user.pets.length >= PET_MAX_PETS
   const rarityKey = { common: 'pet.rarityCommon', rare: 'pet.rarityRare', legendary: 'pet.rarityLegendary' } as const
+  const onAcquire = (id: PetSpeciesId) => {
+    if (acquirePet(id)) {
+      setJustAdded(id)
+      window.setTimeout(() => setJustAdded((cur) => (cur === id ? null : cur)), 2600)
+    }
+  }
 
   return (
     <div
@@ -46,6 +54,11 @@ export function PetCatalog({ onClose }: { onClose: () => void }) {
             ✕
           </button>
         </div>
+        {justAdded && (
+          <div className="mb-2 text-center text-sm font-black text-gold bg-gold/15 rounded-xl py-2 animate-pop">
+            {t('pet.addedPre')}{t(PET_SPECIES_NAME_KEY[justAdded] as keyof Strings)}{t('pet.addedSuffix')}
+          </div>
+        )}
         {full && <div className="text-[11px] text-danger mb-2">{t('pet.slotFull')}</div>}
         <div className="grid grid-cols-2 gap-2">
           {PET_CATALOG.map((e) => {
@@ -61,7 +74,7 @@ export function PetCatalog({ onClose }: { onClose: () => void }) {
                 <div className="text-xs font-bold">{t(PET_SPECIES_NAME_KEY[e.id] as keyof Strings)}</div>
                 <div className={`text-[10px] font-bold ${RARITY_STYLE[e.rarity]}`}>{t(rarityKey[e.rarity] as keyof Strings)}</div>
                 <button
-                  onClick={() => acquirePet(e.id)}
+                  onClick={() => onAcquire(e.id)}
                   disabled={!canAct}
                   className={`w-full py-1.5 rounded-lg text-[11px] font-bold transition disabled:opacity-35 ${
                     owned ? 'bg-accent/20 text-accent2' : 'bg-accent text-white active:scale-95'

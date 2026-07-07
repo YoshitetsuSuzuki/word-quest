@@ -16,7 +16,7 @@ import { buyItem as buyItemLogic, equipItem as equipItemLogic } from '../modules
 import { evaluateAchievements, type AchievementContext } from '../modules/achievement/achievementLogic'
 import { applyStamp, reachedMilestones, daysBetween } from '../core/StreakEngine'
 import { settlePetDecay, PET_MAX_XP } from '../core/PetEngine'
-import { PET_MAX_PETS, catalogEntry } from '../config/petConfig'
+import { PET_MAX_PETS, PET_MAX_FUSION, catalogEntry } from '../config/petConfig'
 import { streakConfig } from '../data/streak.config'
 
 const questionEngine = new QuestionEngine(questionRepository)
@@ -112,7 +112,9 @@ function migrate(u: User): User {
       xp: num(p?.xp ?? 0),
       lastTickDate: p?.lastTickDate ?? '',
       formSeen: num(p?.formSeen ?? 0),
-      shiny: !!p?.shiny,
+      // 旧 shiny(boolean) → fusion 段階へ移行
+      fusion: num(p?.fusion ?? ((p as { shiny?: boolean })?.shiny ? 1 : 0)),
+      isNew: !!p?.isNew,
     })),
     activePet: num(u.activePet ?? 0),
     gems: num(u.gems ?? 0),
@@ -464,7 +466,10 @@ export function GameProvider({ children }: { children: ReactNode }) {
       },
 
       setActivePet: (index) => {
-        setUser((prev) => ({ ...prev, activePet: Math.max(0, Math.min(index, prev.pets.length - 1)) }))
+        setUser((prev) => {
+          const i = Math.max(0, Math.min(index, prev.pets.length - 1))
+          return { ...prev, activePet: i, pets: prev.pets.map((p, j) => (j === i && p.isNew ? { ...p, isNew: false } : p)) }
+        })
       },
 
       fusePet: (baseIndex) => {
@@ -480,7 +485,12 @@ export function GameProvider({ children }: { children: ReactNode }) {
           })
           if (fodderIdx === -1) return prev
           ok = true
-          const fused = { ...base, shiny: true, xp: Math.min(PET_MAX_XP, base.xp + prev.pets[fodderIdx].xp) }
+          const fused = {
+            ...base,
+            isNew: false,
+            fusion: Math.min(PET_MAX_FUSION, (base.fusion ?? 0) + 1),
+            xp: Math.min(PET_MAX_XP, base.xp + prev.pets[fodderIdx].xp),
+          }
           const pets = prev.pets.map((p, i) => (i === baseIndex ? fused : p)).filter((_, i) => i !== fodderIdx)
           // 除去に伴う activePet の補正（base を追従）
           let active = prev.activePet
@@ -508,7 +518,7 @@ export function GameProvider({ children }: { children: ReactNode }) {
             ownedSpecies = [...prev.ownedSpecies, species]
           }
           ok = true
-          const pets = [...prev.pets, { species, xp: 0, lastTickDate: '', formSeen: 0 }]
+          const pets = [...prev.pets, { name: '', species, xp: 0, lastTickDate: '', formSeen: 0, fusion: 0, isNew: true }]
           return { ...prev, coin, gems, ownedSpecies, pets, activePet: pets.length - 1 }
         })
         return ok

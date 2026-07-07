@@ -13,14 +13,14 @@ export function PetSprite({
   form,
   level,
   mood,
-  shiny = false,
+  fusion = 0,
   size = 96,
 }: {
   species: PetSpecies
   form: number
   level: number
   mood: PetMood
-  shiny?: boolean
+  fusion?: number
   size?: number
 }) {
   const c = PET_COLORS[species]
@@ -229,17 +229,22 @@ export function PetSprite({
           })}
         </g>
       )}
-      {shiny && <circle cx="50" cy="54" r="44" fill="none" stroke="#ffd45e" strokeWidth="1.5" opacity="0.45" />}
+      {/* 合体段階の背面エフェクト（段階が上がるほど豪華） */}
+      {fusion >= 1 && <circle cx="50" cy="54" r="44" fill="none" stroke="#ffd45e" strokeWidth={1 + fusion * 0.4} opacity={0.28 + fusion * 0.06} />}
+      {fusion >= 3 && <circle cx="50" cy="54" r="47" fill="none" stroke={c.motif} strokeWidth="1.2" opacity="0.5" />}
+      {fusion >= 2 &&
+        Array.from({ length: fusion >= 5 ? 12 : fusion >= 4 ? 10 : 8 }).map((_, i) => {
+          const n = fusion >= 5 ? 12 : fusion >= 4 ? 10 : 8
+          const a = (i * 2 * Math.PI) / n
+          const r1 = 40, r2 = 40 + (fusion >= 4 ? 8 : 5)
+          return <line key={`fr${i}`} x1={50 + Math.cos(a) * r1} y1={54 + Math.sin(a) * r1} x2={50 + Math.cos(a) * r2} y2={54 + Math.sin(a) * r2} stroke={fusion >= 5 ? '#ffcf4d' : '#ffe08a'} strokeWidth={fusion >= 4 ? 2 : 1.4} strokeLinecap="round" />
+        })}
       <g transform={`translate(50 56) scale(${scale}) translate(-50 -56)`}>{creature()}</g>
       {auraPos.slice(0, auraN).map(([x, y, s], i) => sparkle(x, y, s, `a${i}`))}
-      {shiny && (
-        <>
-          {sparkle(18, 28, 4.5, 'sh1')}
-          {sparkle(82, 30, 4, 'sh2')}
-          {sparkle(70, 78, 3.4, 'sh3')}
-          {sparkle(30, 80, 3, 'sh4')}
-        </>
-      )}
+      {/* 合体のきらめき（段階数だけ増える） */}
+      {[[18, 28, 4.5], [82, 30, 4], [70, 80, 3.6], [30, 80, 3.2], [50, 6, 5], [10, 60, 3]]
+        .slice(0, Math.min(6, fusion + 1))
+        .map(([x, y, s], i) => (fusion >= 1 ? sparkle(x, y, s, `fx${i}`) : null))}
     </svg>
   )
 }

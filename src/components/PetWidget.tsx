@@ -54,13 +54,16 @@ export function PetWidget() {
             key={i}
             onClick={() => setActivePet(i)}
             aria-label={t('pet.switchAria')}
-            className={`shrink-0 w-11 h-11 grid place-items-center rounded-xl border transition ${
+            className={`relative shrink-0 w-11 h-11 grid place-items-center rounded-xl border transition ${
               isActive ? 'border-accent bg-accent/15' : 'border-white/10 bg-panel2 opacity-70'
             }`}
           >
+            {p.isNew && (
+              <span className="absolute -top-1 -right-1 z-10 text-[8px] font-black bg-danger text-white px-1 rounded-full leading-tight">{t('pet.newBadge')}</span>
+            )}
             {p.species ? (
               <SpriteBoundary>
-                <PetSprite species={p.species} form={petForm(levelFromXp(p.xp))} level={levelFromXp(p.xp)} mood="happy" shiny={p.shiny} size={38} />
+                <PetSprite species={p.species} form={petForm(levelFromXp(p.xp))} level={levelFromXp(p.xp)} mood="happy" fusion={p.fusion} size={38} />
               </SpriteBoundary>
             ) : (
               <span className="text-xl">🥚</span>
@@ -121,12 +124,12 @@ export function PetWidget() {
         )}
         <div key={`${view.form}-${view.mood}`} className="shrink-0 animate-pop">
           <SpriteBoundary>
-            <PetSprite species={view.species} form={view.form} level={view.level} mood={view.mood} shiny={view.shiny} size={76} />
+            <PetSprite species={view.species} form={view.form} level={view.level} mood={view.mood} fusion={view.fusion} size={76} />
           </SpriteBoundary>
         </div>
         <div className="flex-1 min-w-0">
           <div className="flex items-baseline gap-1.5">
-            <span className="font-black truncate">{view.shiny && <span className="text-gold">★</span>}{petName}</span>
+            <span className="font-black truncate">{view.fusion > 0 && <span className="text-gold">★{view.fusion} </span>}{petName}</span>
             <span
               role="button"
               tabIndex={0}

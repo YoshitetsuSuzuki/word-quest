@@ -44,11 +44,14 @@ export function PetBox({ onClose }: { onClose: () => void }) {
             const canFuse = speciesCount[p.species] >= 2
             const name = p.name?.trim() || t('pet.name')
             return (
-              <div key={i} className={`bg-panel2 rounded-xl p-2 flex flex-col items-center gap-1 border ${isActive ? 'border-accent' : 'border-white/5'}`}>
+              <div key={i} className={`relative bg-panel2 rounded-xl p-2 flex flex-col items-center gap-1 border ${isActive ? 'border-accent' : 'border-white/5'}`}>
+                {p.isNew && (
+                  <span className="absolute top-1 right-1 z-10 text-[8px] font-black bg-danger text-white px-1 rounded-full">{t('pet.newBadge')}</span>
+                )}
                 <MiniBoundary>
-                  <PetSprite species={p.species} form={petForm(lvl)} level={lvl} mood="happy" shiny={p.shiny} size={56} />
+                  <PetSprite species={p.species} form={petForm(lvl)} level={lvl} mood="happy" fusion={p.fusion} size={56} />
                 </MiniBoundary>
-                <div className="text-xs font-bold truncate max-w-full">{p.shiny ? '★' : ''}{name}</div>
+                <div className="text-xs font-bold truncate max-w-full">{(p.fusion ?? 0) > 0 && <span className="text-gold">★{p.fusion} </span>}{name}</div>
                 <div className="text-[10px] text-white/45">{t(PET_SPECIES_NAME_KEY[p.species] as keyof Strings)}・Lv.{lvl}</div>
                 {pendingFuse === i ? (
                   <div className="w-full space-y-1">

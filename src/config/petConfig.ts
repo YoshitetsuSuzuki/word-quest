@@ -28,6 +28,8 @@ export const PET_MOOD_DAYS = { happyMax: 0, normalMax: 1, hungryMax: 2 } as cons
 
 /** 所有できる相棒の最大数（コレクションボックスの容量） */
 export const PET_MAX_PETS = 20
+/** 合体の最大段階（★1..★5） */
+export const PET_MAX_FUSION = 5
 
 export interface SpeciesColor {
   body: string

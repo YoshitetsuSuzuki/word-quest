@@ -141,8 +141,10 @@ export interface PetState {
   lastTickDate: string
   /** 前回見た大進化フォーム。現フォームがこれを上回ると進化演出を出す */
   formSeen: number
-  /** 合体で得た★シャイニー（見た目が特別・きらめき） */
-  shiny?: boolean
+  /** 合体の段階(0=通常, 1..5)。上がるほど見た目が豪華になる */
+  fusion?: number
+  /** 入手直後の「NEW」表示用。育成中にする等で消える */
+  isNew?: boolean
 }
 
 export interface EquippedItems {
