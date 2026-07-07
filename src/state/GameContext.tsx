@@ -62,8 +62,8 @@ interface GameApi {
   toggleMastered: (questionId: string) => void
   choosePetStarter: (species: PetSpeciesId) => void
   markPetForm: (form: number) => void
-  /** アクティブ相棒の名前を設定（空文字で既定名に戻す） */
-  renamePet: (name: string) => void
+  /** 相棒の名前を設定（index 省略時はアクティブ相棒。空文字で既定名に戻す） */
+  renamePet: (name: string, index?: number) => void
   setActivePet: (index: number) => void
   /** 種を入手して新しい相棒を追加（未解放なら価格を支払って解放）。成功時 true */
   acquirePet: (species: PetSpeciesId) => boolean
@@ -457,12 +457,12 @@ export function GameProvider({ children }: { children: ReactNode }) {
         }))
       },
 
-      renamePet: (name) => {
+      renamePet: (name, index) => {
         const clean = name.trim().slice(0, 12)
-        setUser((prev) => ({
-          ...prev,
-          pets: prev.pets.map((p, i) => (i === prev.activePet ? { ...p, name: clean } : p)),
-        }))
+        setUser((prev) => {
+          const target = index ?? prev.activePet
+          return { ...prev, pets: prev.pets.map((p, i) => (i === target ? { ...p, name: clean } : p)) }
+        })
       },
 
       setActivePet: (index) => {

@@ -2,6 +2,7 @@ import { useState, Component, type ReactNode } from 'react'
 import { useGame } from '../state/GameContext'
 import { useNav } from '../state/nav'
 import { PetSprite } from './PetSprite'
+import { RenamePetModal } from './RenamePetModal'
 import { levelFromXp, petForm } from '../core/PetEngine'
 import { PET_SPECIES_NAME_KEY, PET_MAX_LEVEL } from '../config/petConfig'
 import type { Strings } from '../i18n/types'
@@ -21,9 +22,10 @@ class MiniBoundary extends Component<{ children: ReactNode }, { failed: boolean 
  * 同じ種のダブり合体（★シャイニー化）を行う。
  */
 export function PetBox({ onClose }: { onClose: () => void }) {
-  const { user, setActivePet, fusePet } = useGame()
+  const { user, setActivePet, fusePet, renamePet } = useGame()
   const { t } = useNav()
   const [pendingFuse, setPendingFuse] = useState<number | null>(null)
+  const [renameIdx, setRenameIdx] = useState<number | null>(null)
 
   return (
     <div className="fixed inset-0 z-50 bg-black/60 grid place-items-end sm:place-items-center p-0 sm:p-4" onClick={onClose}>
@@ -49,7 +51,10 @@ export function PetBox({ onClose }: { onClose: () => void }) {
                 <MiniBoundary>
                   <PetSprite species={p.species} form={petForm(lvl)} level={lvl} mood="happy" fusion={p.fusion} size={56} />
                 </MiniBoundary>
-                <div className="text-xs font-bold truncate max-w-full">{(p.fusion ?? 0) > 0 && <span className="text-gold">★{p.fusion} </span>}{name}</div>
+                <div className="flex items-center gap-1 max-w-full">
+                  <span className="text-xs font-bold truncate">{(p.fusion ?? 0) > 0 && <span className="text-gold">★{p.fusion} </span>}{name}</span>
+                  <button onClick={() => setRenameIdx(i)} aria-label={t('pet.rename')} className="shrink-0 text-[10px] text-white/35 active:text-accent2">✏️</button>
+                </div>
                 <div className="text-[10px] text-white/45">{t(PET_SPECIES_NAME_KEY[p.species] as keyof Strings)}・Lv.{lvl}</div>
                 {pendingFuse === i ? (
                   <div className="w-full space-y-1">
@@ -80,6 +85,13 @@ export function PetBox({ onClose }: { onClose: () => void }) {
           })}
         </div>
       </div>
+      {renameIdx !== null && user.pets[renameIdx] && (
+        <RenamePetModal
+          current={user.pets[renameIdx].name ?? ''}
+          onSave={(n) => { renamePet(n, renameIdx); setRenameIdx(null) }}
+          onClose={() => setRenameIdx(null)}
+        />
+      )}
     </div>
   )
 }
