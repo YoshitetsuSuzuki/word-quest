@@ -29,6 +29,8 @@ export interface Strings {
   'study.exampleCard': string; 'study.exampleCardHint': string
   'examplecard.title': string; 'examplecard.tapToFlip': string; 'examplecard.empty': string
   'study.lvBeg': string; 'study.lvInt': string; 'study.lvAdv': string
+  'study.phraseQuiz': string; 'study.phraseCard': string
+  'phrasecard.title': string
   'study.tabWeak': string; 'study.tabLearned': string; 'study.tabDeck': string
   'study.emptyWeak': string; 'study.emptyLearned': string; 'study.emptyDeck': string
   'study.searchPlaceholder': string; 'study.morePre': string; 'study.moreUnit': string

@@ -92,6 +92,32 @@ export class QuestionEngine {
   }
 
   /**
+   * 表現フラッシュカード用。表現(phrase)問題を安定した順(id順)で返す。
+   * level>0 で級を、theme指定でテーマを絞り込む。表示: 表=訳、裏=英文(タップで反転)。
+   */
+  phraseCards(category: Category, level = 0, theme = '', locale: 'ja' | 'en' = 'ja', max = 2000): Question[] {
+    const all = this.repo.getByCategory(category)
+    const byId = (a: Question, b: Question) => (a.id < b.id ? -1 : a.id > b.id ? 1 : 0)
+    return all
+      .filter((q) => q.tags?.includes('phrase') && this.glossOk(q, locale))
+      .filter((q) => (level > 0 ? q.difficulty === level : true))
+      .filter((q) => (theme ? q.tags?.includes(theme) : true))
+      .sort(byId)
+      .slice(0, max)
+  }
+
+  /** 表現(phrase)に含まれるテーマ一覧を出現順で返す(tagsの2番目=テーマ) */
+  phraseThemes(category: Category): string[] {
+    const out: string[] = []
+    for (const q of this.repo.getByCategory(category)) {
+      if (!q.tags?.includes('phrase')) continue
+      const th = q.tags?.find((t) => t !== 'phrase')
+      if (th && !out.includes(th)) out.push(th)
+    }
+    return out
+  }
+
+  /**
    * 例文暗記セッション。例文＋表層形を持つ語のうち、deckIds(自分の★語)を優先し、
    * 不足分をカテゴリの例文語から補充する(A＋B)。locale='en' 等では対象ロケール訳を持つ語に限定。
    */

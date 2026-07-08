@@ -5,6 +5,7 @@ import { ReviewScheduler } from '../core/ReviewScheduler'
 import { speakWord, canSpeak } from '../utils/speech'
 import { ProgressBar } from '../components/ProgressBar'
 import { ExampleCardModal } from '../components/ExampleCardModal'
+import { PhraseCardModal } from '../components/PhraseCardModal'
 import { categories } from '../data/categories'
 import type { Question, Category } from '../types'
 import type { Strings } from '../i18n/types'
@@ -114,6 +115,7 @@ export function StudyScreen() {
   }
 
   const [cardOpen, setCardOpen] = useState(false)
+  const [phraseCardOpen, setPhraseCardOpen] = useState(false)
   // このジャンルに例文付き語があるか(例文暗記カードの表示可否)
   const hasExamples = ready && engine.buildExampleSession(category, 1, [], locale).length > 0
   const hasPhrases = ready && engine.hasPhrases(category)
@@ -244,6 +246,8 @@ export function StudyScreen() {
               <div className="text-[11px] text-white/45">{t('home.phrasesHint')}</div>
             </div>
           </div>
+          {/* クイズ(4択)でレベル別に挑戦 */}
+          <div className="text-[11px] font-bold text-white/40">{t('study.phraseQuiz')}</div>
           <div className="flex gap-1.5">
             {([[0, t('study.filterAll')], [1, t('study.lvBeg')], [2, t('study.lvInt')], [3, t('study.lvAdv')]] as [number, string][]).map(([lv, label]) => (
               <button key={lv} onClick={() => startPhrases(lv)} className="flex-1 py-1.5 rounded-lg text-xs font-bold bg-panel2 text-white/70 active:bg-accent active:text-white transition">
@@ -251,6 +255,10 @@ export function StudyScreen() {
               </button>
             ))}
           </div>
+          {/* クイズとは別に、カードで暗記 */}
+          <button onClick={() => setPhraseCardOpen(true)} className="w-full py-2 rounded-lg text-xs font-bold bg-accent2/15 text-accent2 border border-accent2/30 active:scale-95 transition flex items-center justify-center gap-1.5">
+            📇 {t('study.phraseCard')}
+          </button>
         </div>
       )}
 
@@ -277,6 +285,7 @@ export function StudyScreen() {
       )}
 
       {cardOpen && <ExampleCardModal category={category} onClose={() => setCardOpen(false)} />}
+      {phraseCardOpen && <PhraseCardModal category={category} onClose={() => setPhraseCardOpen(false)} />}
 
       {/* タブ */}
       <div className="flex gap-1.5">
