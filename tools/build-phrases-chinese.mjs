@@ -16,7 +16,7 @@ const PHRASES = [
   // ===== あいさつ greeting =====
   ['你好。', 'Nǐ hǎo.', 'こんにちは', 'greeting', 1],
   ['早上好。', 'Zǎoshang hǎo.', 'おはよう', 'greeting', 1],
-  ['晚上好。', 'Wǎnshàng hǎo.', 'こんばんは', 'greeting', 1],
+  ['晚上好。', 'Wǎnshang hǎo.', 'こんばんは', 'greeting', 1],
   ['晚安。', "Wǎn'ān.", 'おやすみなさい', 'greeting', 1],
   ['再见。', 'Zàijiàn.', 'さようなら', 'greeting', 1],
   ['明天见。', 'Míngtiān jiàn.', 'また明日', 'greeting', 1],
@@ -37,7 +37,7 @@ const PHRASES = [
   ['真的吗？', 'Zhēn de ma?', '本当に？', 'reply', 1],
   ['我也是。', 'Wǒ yě shì.', '私も', 'reply', 1],
   ['我知道了。', 'Wǒ zhīdào le.', 'わかりました（了解）', 'reply', 1],
-  ['原来如此。', 'Yuánlái rúcǐ.', 'なるほど', 'reply', 2],
+  ['原来是这样。', 'Yuánlái shì zhèyàng.', 'なるほど、そういうことか', 'reply', 2],
   ['我同意。', 'Wǒ tóngyì.', '賛成です', 'reply', 2],
   ['也许吧。', 'Yěxǔ ba.', 'たぶんね', 'reply', 2],
   ['不一定。', 'Bù yídìng.', 'そうとは限らない', 'reply', 2],
