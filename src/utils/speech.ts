@@ -1,30 +1,25 @@
 import type { Category } from '../types'
+import { Capacitor } from '@capacitor/core'
+import { TextToSpeech } from '@capacitor-community/text-to-speech'
 
 // ============================================================================
-// ネイティブ(Capacitor)TTS の受け皿
-// iOS の WKWebView は Web Speech API 非対応のため、ネイティブ化した場合は
-// OS の TTS を使う。Capacitor 未導入でも Web ビルドが壊れないよう、npm 依存では
-// なく実行時に window.Capacitor 経由でプラグインへアクセスする。
-//
-// 将来ネイティブ化する際の手順:
-//   1) npm i @capacitor/core @capacitor-community/text-to-speech
-//   2) npx cap add ios / android
-//   これだけで下の nativeTTS() が有効になり、アプリ側は自動でネイティブTTSに切替わる。
+// ネイティブ(Capacitor)TTS
+// iOS の WKWebView は Web Speech API 非対応のため、ネイティブアプリでは OS の
+// TTS(AVSpeechSynthesizer / Android TextToSpeech)を使う。ブラウザでは従来通り
+// Web Speech を使う。Capacitor.isNativePlatform() で自動判定する。
 // ============================================================================
-type NativeTTS = {
-  speak(opts: { text: string; lang: string; rate?: number; pitch?: number; volume?: number }): Promise<void>
-  stop(): Promise<void>
-}
-function nativeTTS(): NativeTTS | null {
-  if (typeof window === 'undefined') return null
-  const cap = (window as unknown as { Capacitor?: { isNativePlatform?: () => boolean; Plugins?: { TextToSpeech?: NativeTTS } } }).Capacitor
-  if (cap?.isNativePlatform?.() && cap.Plugins?.TextToSpeech) return cap.Plugins.TextToSpeech
-  return null
+/** ネイティブ(iOS/Android)アプリとして動作しているか */
+function isNative(): boolean {
+  try {
+    return Capacitor.isNativePlatform()
+  } catch {
+    return false
+  }
 }
 
 /** 音声合成が使えるか（ネイティブTTS または ブラウザ標準） */
 export function canSpeak(): boolean {
-  if (nativeTTS()) return true
+  if (isNative()) return true
   return typeof window !== 'undefined' && 'speechSynthesis' in window
 }
 
@@ -102,7 +97,7 @@ function bestVoice(lang: string): SpeechSynthesisVoice | undefined {
 let primed = false
 export function primeSpeech(): void {
   if (!canSpeak() || primed) return
-  if (nativeTTS()) { primed = true; return } // ネイティブTTSはウォームアップ不要
+  if (isNative()) { primed = true; return } // ネイティブTTSはウォームアップ不要
   try {
     loadVoices()
     window.speechSynthesis.resume()
@@ -130,10 +125,9 @@ export function speak(text: string, lang: string): void {
   lastKey = key
   lastAt = now
   // ネイティブ(Capacitor)環境ではOSのTTSを使う（iOS WKWebViewはWeb Speech非対応のため）
-  const native = nativeTTS()
-  if (native) {
-    native.stop().catch(() => {})
-    native.speak({ text, lang, rate: 1, pitch: 1, volume: 1 }).catch(() => {})
+  if (isNative()) {
+    TextToSpeech.stop().catch(() => {})
+    TextToSpeech.speak({ text, lang, rate: 1.0 }).catch(() => {})
     return
   }
   try {

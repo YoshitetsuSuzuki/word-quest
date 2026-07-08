@@ -7,3 +7,7 @@ dist-ssr
 
 # build-time raw dictionary cache (not shipped)
 .cache
+
+# Xcode/Capacitor ビルド生成物（ソースではないので追跡しない）
+build/
+DerivedData/
