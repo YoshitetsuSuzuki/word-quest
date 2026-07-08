@@ -26,6 +26,7 @@ export const en: Strings = {
   'study.exampleStudy': '📖 Study with examples', 'study.exampleHint': 'Fill-in-the-blank from examples',
   'study.exampleCard': '🃏 Example cards', 'study.exampleCardHint': 'Meaning → tap for the sentence (in order)',
   'examplecard.title': 'Example cards', 'examplecard.tapToFlip': 'Tap to flip', 'examplecard.empty': 'No examples',
+  'study.lvBeg': 'Beginner', 'study.lvInt': 'Intermediate', 'study.lvAdv': 'Advanced',
   'study.tabWeak': '😰 Weak', 'study.tabLearned': '📖 Learned', 'study.tabDeck': '⭐ My deck',
   'study.emptyWeak': 'No data yet. Solve quizzes and words with low accuracy will collect here.', 'study.emptyLearned': 'Words you learn appear here. Answer correctly in quizzes to add them.', 'study.emptyDeck': 'Tap the ☆ in the Weak or Learned lists to add words to your own deck. Tap a card to flip it.',
   'study.searchPlaceholder': 'Search by word or meaning', 'study.morePre': '+', 'study.moreUnit': 'more',

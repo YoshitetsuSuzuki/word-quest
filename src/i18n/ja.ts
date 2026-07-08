@@ -26,6 +26,7 @@ export const ja: Strings = {
   'study.exampleStudy': '📖 例文で覚える', 'study.exampleHint': '例文の穴埋めで定着',
   'study.exampleCard': '🃏 例文カード', 'study.exampleCardHint': '和訳→タップで英文（順番通り）',
   'examplecard.title': '例文カード', 'examplecard.tapToFlip': 'タップで裏返す', 'examplecard.empty': '例文がありません',
+  'study.lvBeg': '初級', 'study.lvInt': '中級', 'study.lvAdv': '上級',
   'study.tabWeak': '😰 苦手', 'study.tabLearned': '📖 単語帳', 'study.tabDeck': '⭐ マイ',
   'study.emptyWeak': 'まだデータがありません。クイズを解くと、正答率の低い単語がここに集まります。', 'study.emptyLearned': '覚えた単語がここに並びます。クイズで正解すると追加されます。', 'study.emptyDeck': '苦手・単語帳リストの ☆ をタップすると、自分専用の単語帳に追加できます。カードはタップで裏返せます。',
   'study.searchPlaceholder': '単語・意味で検索', 'study.morePre': 'ほか', 'study.moreUnit': '語',

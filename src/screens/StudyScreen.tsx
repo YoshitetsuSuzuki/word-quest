@@ -21,7 +21,7 @@ const catNameKey = (id: string) => `cat.${id}` as keyof Strings
 
 export function StudyScreen() {
   const { user, engine, isCategoryReady, ensureCategory, toggleDeck, toggleMastered } = useGame()
-  const { navigate, setQuizMode, setCustomIds, category, setCategory, locale, t } = useNav()
+  const { navigate, setQuizMode, setCustomIds, setStudyLevel, category, setCategory, locale, t } = useNav()
   // まなびでも学習ジャンルを切り替えられる(ホームと同じく母語で使えるジャンルのみ)
   const localeCats = categories.filter((c) => c.availableLocales.includes(locale) && c.available)
   const ready = isCategoryReady(category)
@@ -117,7 +117,8 @@ export function StudyScreen() {
   // このジャンルに例文付き語があるか(例文暗記カードの表示可否)
   const hasExamples = ready && engine.buildExampleSession(category, 1, [], locale).length > 0
   const hasPhrases = ready && engine.hasPhrases(category)
-  const startPhrases = () => {
+  const startPhrases = (level: number) => {
+    setStudyLevel(level)
     setQuizMode('phrase')
     setCustomIds(null)
     navigate('quiz')
@@ -233,15 +234,24 @@ export function StudyScreen() {
         </button>
       </div>
 
-      {/* よく使う表現（独立項目） */}
+      {/* よく使う表現（独立項目・レベル選択） */}
       {hasPhrases && (
-        <button className="card p-4 text-left active:scale-95 transition w-full flex items-center gap-3" onClick={startPhrases}>
-          <div className="text-3xl">💬</div>
-          <div>
-            <div className="font-bold text-sm">{t('home.phrases')}</div>
-            <div className="text-[11px] text-white/45">{t('home.phrasesHint')}</div>
+        <div className="card p-4 space-y-2">
+          <div className="flex items-center gap-3">
+            <div className="text-3xl">💬</div>
+            <div>
+              <div className="font-bold text-sm">{t('home.phrases')}</div>
+              <div className="text-[11px] text-white/45">{t('home.phrasesHint')}</div>
+            </div>
           </div>
-        </button>
+          <div className="flex gap-1.5">
+            {([[0, t('study.filterAll')], [1, t('study.lvBeg')], [2, t('study.lvInt')], [3, t('study.lvAdv')]] as [number, string][]).map(([lv, label]) => (
+              <button key={lv} onClick={() => startPhrases(lv)} className="flex-1 py-1.5 rounded-lg text-xs font-bold bg-panel2 text-white/70 active:bg-accent active:text-white transition">
+                {label}
+              </button>
+            ))}
+          </div>
+        </div>
       )}
 
       {/* 例文で覚える(穴埋め型) */}

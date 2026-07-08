@@ -11,9 +11,15 @@ import type { Category } from '../types'
 export function ExampleCardModal({ category, onClose }: { category: Category; onClose: () => void }) {
   const { user, engine } = useGame()
   const { t, locale } = useNav()
-  const cards = useMemo(() => engine.exampleCards(category, user.customDeck, locale, 40), [engine, category, user.customDeck, locale])
+  const [level, setLevel] = useState(0) // 0=すべて
   const [i, setI] = useState(0)
   const [flipped, setFlipped] = useState(false)
+
+  // レベルチップを全級ぶん出すため、母集合は多めに取得（表示は級で絞って40枚まで）
+  const all = useMemo(() => engine.exampleCards(category, user.customDeck, locale, 3000), [engine, category, user.customDeck, locale])
+  const levels = useMemo(() => [...new Set(all.map((q) => q.difficulty))].sort((a, b) => a - b), [all])
+  const cards = useMemo(() => (level === 0 ? all : all.filter((q) => q.difficulty === level)).slice(0, 40), [all, level])
+  const levelLabel = (n: number) => (category === 'chinese' ? `HSK${n}` : category === 'japanese' ? `N${6 - n}` : `Lv${n}`)
 
   const q = cards[i]
   const ex = q ? engine.localizedExample(q, locale) : null
@@ -22,6 +28,11 @@ export function ExampleCardModal({ category, onClose }: { category: Category; on
 
   const go = (d: number) => {
     setI((v) => Math.min(cards.length - 1, Math.max(0, v + d)))
+    setFlipped(false)
+  }
+  const pickLevel = (lv: number) => {
+    setLevel(lv)
+    setI(0)
     setFlipped(false)
   }
 
@@ -35,6 +46,15 @@ export function ExampleCardModal({ category, onClose }: { category: Category; on
             <button onClick={onClose} aria-label={t('common.back')} className="w-8 h-8 grid place-items-center rounded-lg bg-panel2 text-white/60">✕</button>
           </div>
         </div>
+
+        {levels.length > 1 && (
+          <div className="flex gap-1.5 overflow-x-auto pb-1">
+            <LvChip active={level === 0} onClick={() => pickLevel(0)} label={t('study.filterAll')} />
+            {levels.map((lv) => (
+              <LvChip key={lv} active={level === lv} onClick={() => pickLevel(lv)} label={levelLabel(lv)} />
+            ))}
+          </div>
+        )}
 
         {!q || !ex ? (
           <div className="card p-8 text-center text-white/50 text-sm">{t('examplecard.empty')}</div>
@@ -75,5 +95,16 @@ export function ExampleCardModal({ category, onClose }: { category: Category; on
         )}
       </div>
     </div>
+  )
+}
+
+function LvChip({ active, onClick, label }: { active: boolean; onClick: () => void; label: string }) {
+  return (
+    <button
+      onClick={onClick}
+      className={`shrink-0 px-3 py-1.5 rounded-lg text-xs font-bold transition border ${active ? 'bg-accent2 text-night border-accent2' : 'bg-panel2 text-white/55 border-white/10'}`}
+    >
+      {label}
+    </button>
   )
 }

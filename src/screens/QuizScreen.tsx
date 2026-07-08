@@ -41,7 +41,7 @@ export function QuizScreen() {
       s = engine.buildReviewSession(ids, SESSION_SIZE)
       if (s.length === 0) s = engine.buildSession(category, SESSION_SIZE)
     } else if (quizMode === 'phrase') {
-      s = engine.buildPhraseSession(category, SESSION_SIZE, 0, locale)
+      s = engine.buildPhraseSession(category, SESSION_SIZE, studyLevel, locale)
     } else {
       s = engine.buildSession(category, SESSION_SIZE, studyLevel, locale)
     }
