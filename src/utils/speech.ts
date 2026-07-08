@@ -7,8 +7,12 @@ export function canSpeak(): boolean {
 
 // ---- 音声(voice)の読み込みとキャッシュ ----
 let voices: SpeechSynthesisVoice[] = []
+const voiceCache = new Map<string, SpeechSynthesisVoice | null>()
 function loadVoices(): void {
-  if (canSpeak()) voices = window.speechSynthesis.getVoices() ?? []
+  if (!canSpeak()) return
+  const list = window.speechSynthesis.getVoices() ?? []
+  if (list.length && list.length !== voices.length) voiceCache.clear() // 顔ぶれが変わったら選択キャッシュを破棄
+  if (list.length) voices = list
 }
 if (canSpeak()) {
   loadVoices()
@@ -18,38 +22,54 @@ if (canSpeak()) {
   } catch {
     window.speechSynthesis.onvoiceschanged = loadVoices
   }
+  // 一部ブラウザ(特にSafari/iOS)は getVoices() が遅れて埋まるため、数回だけ再取得を試みる
+  ;[150, 500, 1500].forEach((ms) => setTimeout(loadVoices, ms))
 }
 
 /**
- * 指定言語で最も品質の高そうな音声を選ぶ。
- * 完全一致 > 言語プレフィックス一致 の順で、Google/Microsoft/自然音声などを優先。
- * 明示的に voice を指定しないと端末が低品質な既定音声を使い「かすれ」の原因になる。
+ * 指定言語で最も品質の高そうな音声を選ぶ（スコアリング方式）。
+ * Siri/Enhanced/Premium/Neural などの高品質音声を最優先し、ネタ/キャラ音声は強く減点する。
+ * 明示的に voice を指定しないと端末が低品質・別言語の既定音声を使い「かすれ」「おかしい発音」の原因になる。
  */
-// 品質の低いネタ/キャラ音声（主にmacOS）。既定で選ばれると「かすれ」の原因になるので除外。
+// 品質の低いネタ/キャラ音声（主にmacOS/iOS）。既定で選ばれると音質破綻の原因になるので強く減点。
 const NOVELTY_VOICE =
-  /(albert|bad news|bahh|bells|boing|bubbles|cellos|good news|jester|organ|superstar|trinoids|whisper|wobble|zarvox|deranged|hysterical|pipe organ|ralph|fred|junior|kathy|bruce|agnes|princess|grandma|grandpa|rocko|shelley|sandy|flo|eddy|reed|rishi|trinoids)/i
-// 各プラットフォームの高品質・標準音声を優先
-const GOOD_VOICE =
-  /(google|microsoft|siri|natural|enhanced|premium|neural|samantha|alex|karen|daniel|moira|tessa|kyoko|o-?ren|otoya|ting-?ting|mei-?jia|sin-?ji|yu-?shu|li-?mu|anna|helena|petra|thomas|aur[eé]lie|am[eé]lie|audrey|m[oó]nica|paulina|jorge|juan|luca|alice)/i
+  /(albert|bad news|bahh|bells|boing|bubbles|cellos|good news|jester|organ|superstar|trinoids|whisper|wobble|zarvox|deranged|hysterical|pipe organ|ralph|fred|junior|kathy|bruce|agnes|princess|grandma|grandpa|rocko|shelley|sandy|flo|eddy|reed|rishi|wobble|zarvox)/i
+// プラットフォーム横断で高品質を示すマーカー（名前に含まれれば加点）
+const HIGH_QUALITY = /(siri|neural|enhanced|premium|natural|google|microsoft)/i
+// 各言語で信頼できる標準音声名（高品質マーカーが無い端末での次善）
+const KNOWN_GOOD =
+  /(samantha|alex|karen|daniel|moira|tessa|kyoko|o-?ren|otoya|ting-?ting|mei-?jia|sin-?ji|yu-?shu|li-?mu|yuna|anna|helena|petra|thomas|aur[eé]lie|am[eé]lie|audrey|m[oó]nica|paulina|jorge|juan|luca|alice)/i
+
+/** 音声の品質スコア（高いほど良い）。base=完全一致の言語タグ。 */
+function scoreVoice(v: SpeechSynthesisVoice, base: string): number {
+  let s = 0
+  if (NOVELTY_VOICE.test(v.name)) s -= 1000 // ネタ音声は事実上除外
+  if (HIGH_QUALITY.test(v.name)) s += 100 // Siri/Neural等を最優先
+  if (KNOWN_GOOD.test(v.name)) s += 40
+  if (v.lang.toLowerCase() === base) s += 20 // 地域まで一致
+  if (v.localService) s += 8 // ネット依存でない＝途切れにくい
+  if (v.default) s += 4
+  return s
+}
 
 function bestVoice(lang: string): SpeechSynthesisVoice | undefined {
   if (!voices.length) loadVoices()
   if (!voices.length) return undefined
+  const cached = voiceCache.get(lang)
+  if (cached !== undefined) return cached ?? undefined
   const base = lang.toLowerCase()
   const prefix = base.split('-')[0]
   const exact = voices.filter((v) => v.lang.toLowerCase() === base)
   const byPrefix = voices.filter((v) => v.lang.toLowerCase().startsWith(prefix))
   const pool = exact.length ? exact : byPrefix
-  if (!pool.length) return undefined
-  // ネタ音声を除外（全部ネタなら仕方なく元プール）
-  const clean = pool.filter((v) => !NOVELTY_VOICE.test(v.name))
-  const usable = clean.length ? clean : pool
-  return (
-    usable.find((v) => GOOD_VOICE.test(v.name)) ??
-    usable.find((v) => v.default) ??
-    usable.find((v) => v.localService) ??
-    usable[0]
-  )
+  // 対象言語の音声が皆無なら voice 未指定にする（別言語の声で読み上げる事故を防ぐ）
+  if (!pool.length) {
+    voiceCache.set(lang, null)
+    return undefined
+  }
+  const best = pool.reduce((a, b) => (scoreVoice(b, base) > scoreVoice(a, base) ? b : a))
+  voiceCache.set(lang, best)
+  return best
 }
 
 /**
