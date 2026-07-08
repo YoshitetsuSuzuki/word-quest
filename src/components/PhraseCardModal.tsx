@@ -112,6 +112,7 @@ export function PhraseCardModal({ category, onClose }: { category: Category; onC
               ) : (
                 <div className="space-y-2">
                   <div className="text-lg font-black leading-relaxed">{en}</div>
+                  {q.pronunciation && <div className="text-sm text-accent font-bold">{q.pronunciation}</div>}
                   <div className="text-sm text-white/60">{q.answer}</div>
                   <div className="text-xs text-accent2 font-bold">{themeLabel(q.tags?.find((x) => x !== 'phrase') || '')}</div>
                 </div>
