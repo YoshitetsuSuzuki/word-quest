@@ -24,6 +24,8 @@ export const ja: Strings = {
   'study.header': '📚 まなび・', 'study.collection': '📖 図鑑', 'study.reviewToday': '今日の復習', 'study.dueSuffix': '問が頃合い', 'study.noneDue': '待ちなし',
   'study.weakDrill': '弱点特訓', 'study.weakDrillHint': '正答率が低い順に出題',
   'study.exampleStudy': '📖 例文で覚える', 'study.exampleHint': '例文の穴埋めで定着',
+  'study.exampleCard': '🃏 例文カード', 'study.exampleCardHint': '和訳→タップで英文（順番通り）',
+  'examplecard.title': '例文カード', 'examplecard.tapToFlip': 'タップで裏返す', 'examplecard.empty': '例文がありません',
   'study.tabWeak': '😰 苦手', 'study.tabLearned': '📖 単語帳', 'study.tabDeck': '⭐ マイ',
   'study.emptyWeak': 'まだデータがありません。クイズを解くと、正答率の低い単語がここに集まります。', 'study.emptyLearned': '覚えた単語がここに並びます。クイズで正解すると追加されます。', 'study.emptyDeck': '苦手・単語帳リストの ☆ をタップすると、自分専用の単語帳に追加できます。カードはタップで裏返せます。',
   'study.searchPlaceholder': '単語・意味で検索', 'study.morePre': 'ほか', 'study.moreUnit': '語',

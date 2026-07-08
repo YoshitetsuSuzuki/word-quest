@@ -4,6 +4,7 @@ import { useNav } from '../state/nav'
 import { ReviewScheduler } from '../core/ReviewScheduler'
 import { speakWord, canSpeak } from '../utils/speech'
 import { ProgressBar } from '../components/ProgressBar'
+import { ExampleCardModal } from '../components/ExampleCardModal'
 import { categories } from '../data/categories'
 import type { Question, Category } from '../types'
 import type { Strings } from '../i18n/types'
@@ -112,8 +113,15 @@ export function StudyScreen() {
     navigate('quiz')
   }
 
+  const [cardOpen, setCardOpen] = useState(false)
   // このジャンルに例文付き語があるか(例文暗記カードの表示可否)
   const hasExamples = ready && engine.buildExampleSession(category, 1, [], locale).length > 0
+  const hasPhrases = ready && engine.hasPhrases(category)
+  const startPhrases = () => {
+    setQuizMode('phrase')
+    setCustomIds(null)
+    navigate('quiz')
+  }
   // 例文暗記: ★語で例文を持つものを優先(A)、不足分はジャンルの例文語(B)。ListeningScreen が補充する。
   const startExampleStudy = () => {
     const deckExampleIds = deck.filter((q) => q.example && q.exampleForm).map((q) => q.id)
@@ -225,7 +233,18 @@ export function StudyScreen() {
         </button>
       </div>
 
-      {/* 例文で覚える(単語帳とは別項目・穴埋め型) */}
+      {/* よく使う表現（独立項目） */}
+      {hasPhrases && (
+        <button className="card p-4 text-left active:scale-95 transition w-full flex items-center gap-3" onClick={startPhrases}>
+          <div className="text-3xl">💬</div>
+          <div>
+            <div className="font-bold text-sm">{t('home.phrases')}</div>
+            <div className="text-[11px] text-white/45">{t('home.phrasesHint')}</div>
+          </div>
+        </button>
+      )}
+
+      {/* 例文で覚える(穴埋め型) */}
       {hasExamples && (
         <button className="card p-4 text-left active:scale-95 transition w-full flex items-center gap-3" onClick={startExampleStudy}>
           <div className="text-3xl">📖</div>
@@ -235,6 +254,19 @@ export function StudyScreen() {
           </div>
         </button>
       )}
+
+      {/* 例文カード(和訳→タップで英文・順番通り) */}
+      {hasExamples && (
+        <button className="card p-4 text-left active:scale-95 transition w-full flex items-center gap-3" onClick={() => setCardOpen(true)}>
+          <div className="text-3xl">🃏</div>
+          <div>
+            <div className="font-bold text-sm">{t('study.exampleCard')}</div>
+            <div className="text-[11px] text-white/45">{t('study.exampleCardHint')}</div>
+          </div>
+        </button>
+      )}
+
+      {cardOpen && <ExampleCardModal category={category} onClose={() => setCardOpen(false)} />}
 
       {/* タブ */}
       <div className="flex gap-1.5">

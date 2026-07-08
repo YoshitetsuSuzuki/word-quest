@@ -108,6 +108,21 @@ export class QuestionEngine {
     return picked.map((q) => this.withShuffledChoices(q))
   }
 
+  /**
+   * 例文フラッシュカード用。例文＋訳を持つ問題を安定した順(★語優先→id順)で返す。
+   * 表示: 表=和訳、裏=英文(タップで反転)。
+   */
+  exampleCards(category: Category, deckIds: string[], locale: 'ja' | 'en' = 'ja', max = 40): Question[] {
+    const all = this.repo.getByCategory(category)
+    const ok = (q: Question) => this.glossOk(q, locale) && !!q.example && !!q.exampleForm && !q.tags?.includes('phrase')
+    const deckSet = new Set(deckIds)
+    const items = all.filter(ok)
+    const byId = (a: Question, b: Question) => (a.id < b.id ? -1 : a.id > b.id ? 1 : 0)
+    const a = items.filter((q) => deckSet.has(q.id)).sort(byId)
+    const b = items.filter((q) => !deckSet.has(q.id)).sort(byId)
+    return [...a, ...b].slice(0, max)
+  }
+
   /** 指定IDリストから復習セッションを作る（間隔反復の期限到来分など） */
   buildReviewSession(ids: string[], count: number): Question[] {
     const picked: Question[] = []
