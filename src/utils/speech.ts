@@ -23,16 +23,25 @@ export function canSpeak(): boolean {
   return typeof window !== 'undefined' && 'speechSynthesis' in window
 }
 
+// ---- Web Speech(ブラウザ音声)が使えるか ----
+// 重要: Android WebView は window.speechSynthesis 自体が存在しない。
+// canSpeak() はネイティブTTSでも true を返すため、Web Speech 用コードは必ず
+// この hasWebSpeech() で守る（さもないと getVoices() 参照でアプリごとクラッシュする）。
+function hasWebSpeech(): boolean {
+  return typeof window !== 'undefined' && 'speechSynthesis' in window && !!window.speechSynthesis
+}
+
 // ---- 音声(voice)の読み込みとキャッシュ ----
 let voices: SpeechSynthesisVoice[] = []
 const voiceCache = new Map<string, SpeechSynthesisVoice | null>()
 function loadVoices(): void {
-  if (!canSpeak()) return
+  if (!hasWebSpeech()) return
   const list = window.speechSynthesis.getVoices() ?? []
   if (list.length && list.length !== voices.length) voiceCache.clear() // 顔ぶれが変わったら選択キャッシュを破棄
   if (list.length) voices = list
 }
-if (canSpeak()) {
+// ネイティブTTS環境では Web Speech の音声リストは不要。ブラウザ時のみ初期化する。
+if (hasWebSpeech() && !isNative()) {
   loadVoices()
   // 初回は空のことがあるので voiceschanged で取り直す
   try {
