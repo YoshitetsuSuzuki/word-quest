@@ -11,3 +11,8 @@ dist-ssr
 # Xcode/Capacitor ビルド生成物（ソースではないので追跡しない）
 build/
 DerivedData/
+
+# 署名鍵・パスワード（絶対にコミットしない。紛失しないよう別途バックアップすること）
+*.jks
+*.keystore
+android/keystore.properties
