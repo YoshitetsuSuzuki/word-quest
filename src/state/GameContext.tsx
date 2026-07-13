@@ -15,7 +15,7 @@ import { applyBattleResult } from '../modules/battle/battleLogic'
 import { buyItem as buyItemLogic, equipItem as equipItemLogic } from '../modules/shop/shopLogic'
 import { evaluateAchievements, type AchievementContext } from '../modules/achievement/achievementLogic'
 import { applyStamp, reachedMilestones, daysBetween } from '../core/StreakEngine'
-import { settlePetDecay, levelFromXp, PET_MAX_XP } from '../core/PetEngine'
+import { settlePetDecay, levelFromXp, petBonus, PET_MAX_XP } from '../core/PetEngine'
 import { PET_MAX_PETS, PET_MAX_FUSION, PET_MAX_LEVEL, catalogEntry } from '../config/petConfig'
 import { streakConfig } from '../data/streak.config'
 
@@ -319,20 +319,23 @@ export function GameProvider({ children }: { children: ReactNode }) {
           }
         }
 
-        // --- 正解時の報酬 ---
+        // --- 正解時の報酬（相棒ボーナスを乗算：レベル・合体・機嫌で増減） ---
         const reward = rewardEngine.computeAnswerReward(q.difficulty, comboCount)
-        const xpRes = grantXp(u, reward.xp)
+        const bonus = petBonus(user, today)
+        const gainedXp = Math.round(reward.xp * bonus.mult)
+        const gainedCoin = Math.round(reward.coin * bonus.mult)
+        const xpRes = grantXp(u, gainedXp)
         u = xpRes.user
         u = {
           ...u,
-          coin: u.coin + reward.coin,
-          todayCoin: u.todayCoin + reward.coin,
-          lifetimeCoin: u.lifetimeCoin + reward.coin,
+          coin: u.coin + gainedCoin,
+          todayCoin: u.todayCoin + gainedCoin,
+          lifetimeCoin: u.lifetimeCoin + gainedCoin,
           totalCorrect: u.totalCorrect + 1,
           learnedQuestionIds: u.learnedQuestionIds.includes(q.id)
             ? u.learnedQuestionIds
             : [...u.learnedQuestionIds, q.id],
-          // 相棒の経験値: アクティブ1体だけ、正解の報酬XPぶん増える(Lv100=PET_MAX_XP で頭打ち)
+          // 相棒の経験値: アクティブ1体だけ、素の報酬XPぶん増える(自己増幅を防ぐためボーナス前の値)。Lv100=PET_MAX_XP で頭打ち
           pets: u.pets.map((p, i) => (i === u.activePet ? { ...p, xp: Math.min(PET_MAX_XP, p.xp + reward.xp) } : p)),
         }
 
@@ -357,8 +360,8 @@ export function GameProvider({ children }: { children: ReactNode }) {
         return {
           correct: true,
           correctAnswer,
-          gainedXp: reward.xp,
-          gainedCoin: reward.coin,
+          gainedXp,
+          gainedCoin,
           comboCount,
           leveledUp: xpRes.leveledUp,
           newLevel: xpRes.newLevel,

@@ -5,7 +5,11 @@ import { ReviewScheduler } from '../core/ReviewScheduler'
 import { equippedEffect } from '../modules/shop/shopLogic'
 import { Loading } from '../components/Loading'
 import { speak, speakWord, wordFromPrompt, canSpeak, langForCategory } from '../utils/speech'
-import { playCorrect, playWrong } from '../utils/audio'
+import { playCorrect, playWrong, playCombo } from '../utils/audio'
+import { hapticCorrect, hapticWrong, hapticCombo } from '../utils/haptics'
+import { comboTierOf, isComboMilestone } from '../core/comboTier'
+import { petBonus } from '../core/PetEngine'
+import { todayStr } from '../state/dateUtils'
 import { wordErrorReportUrl } from '../utils/report'
 import type { Question, AnswerOutcome } from '../types'
 
@@ -58,6 +62,7 @@ export function QuizScreen() {
   const [sessionCoin, setSessionCoin] = useState(0)
   const [finished, setFinished] = useState(false)
   const [popKey, setPopKey] = useState(0)
+  const [milestone, setMilestone] = useState<{ label: string; emoji: string; color: string; key: number } | null>(null)
 
   // 問題が切り替わったら自動で発音を再生（音声ONのとき）
   useEffect(() => {
@@ -114,13 +119,24 @@ export function QuizScreen() {
     setSelected(choice)
     setOutcome(res)
     setPopKey((k) => k + 1)
-    if (sfxEnabled) (res.correct ? playCorrect : playWrong)(sfxVolume)
     if (res.correct) {
       setCombo(newCombo)
       setSessionCorrect((c) => c + 1)
       setSessionCoin((c) => c + res.gainedCoin)
+      // コンボ節目は特別演出（音・触覚・バナー）、通常正解は軽い手応え
+      if (isComboMilestone(newCombo)) {
+        const tier = comboTierOf(newCombo)
+        if (sfxEnabled) playCombo(sfxVolume, tier?.tier ?? 1)
+        hapticCombo()
+        if (tier) setMilestone({ label: tier.label, emoji: tier.emoji, color: tier.color, key: newCombo })
+      } else {
+        if (sfxEnabled) playCorrect(sfxVolume)
+        hapticCorrect()
+      }
     } else {
       setCombo(0)
+      if (sfxEnabled) playWrong(sfxVolume)
+      hapticWrong()
     }
   }
 
@@ -132,6 +148,7 @@ export function QuizScreen() {
     setIndex((i) => i + 1)
     setSelected(null)
     setOutcome(null)
+    setMilestone(null)
   }
 
   if (finished) {
@@ -167,19 +184,34 @@ export function QuizScreen() {
     <div className="space-y-5">
       {/* 進捗 & コンボ */}
       <div className="flex items-center justify-between text-sm">
-        <span className="text-white/50 font-bold">
-          {index + 1} / {questions.length}
-          {quizMode === 'review' && <span className="ml-2 text-accent2">{t('quiz.reviewMode')}</span>}
-        </span>
-        {combo >= 2 && (
-          <span key={combo} className="animate-pop font-black text-gold">
-            🔥 {combo} COMBO
+        <span className="text-white/50 font-bold flex items-center gap-2">
+          <span>
+            {index + 1} / {questions.length}
+            {quizMode === 'review' && <span className="ml-2 text-accent2">{t('quiz.reviewMode')}</span>}
           </span>
-        )}
+          {(() => {
+            const b = petBonus(user, todayStr())
+            if (b.percent <= 0) return null
+            const dim = b.mood === 'hungry' || b.mood === 'sad'
+            return (
+              <span className={`px-1.5 py-0.5 rounded-md text-[11px] font-black ${dim ? 'bg-danger/15 text-danger' : 'bg-accent2/15 text-accent2'}`} title={t('quiz.petBonusHint')}>
+                🐾 +{b.percent}%{dim ? ' ↓' : ''}
+              </span>
+            )
+          })()}
+        </span>
+        {combo >= 2 && (() => {
+          const tier = comboTierOf(combo)
+          return (
+            <span key={combo} className={`animate-pop font-black ${tier?.color ?? 'text-gold'}`}>
+              {tier ? `${tier.emoji} ${combo} ${tier.label}` : `🔥 ${combo} COMBO`}
+            </span>
+          )
+        })()}
       </div>
 
-      {/* 問題カード */}
-      <div className="card p-6 text-center min-h-[140px] grid place-items-center relative">
+      {/* 問題カード（不正解時は横揺れ） */}
+      <div className={`card p-6 text-center min-h-[140px] grid place-items-center relative ${selected && !outcome?.correct ? 'animate-shake ring-2 ring-danger/60' : ''}`}>
         <div>
           <div className="text-xs text-white/40 mb-2">{t('quiz.pickMeaning')}</div>
           <div className="text-2xl font-black">{locale === 'ja' ? q.prompt : wordFromPrompt(q.prompt)}</div>
@@ -209,6 +241,15 @@ export function QuizScreen() {
         {outcome?.correct && effect && (
           <div key={`fx-${popKey}`} className="absolute inset-0 grid place-items-center pointer-events-none text-6xl animate-pop opacity-80">
             {effect}
+          </div>
+        )}
+        {/* コンボ節目のバナー */}
+        {milestone && (
+          <div key={`ms-${milestone.key}`} className="absolute inset-0 grid place-items-center pointer-events-none animate-pop">
+            <div className="px-5 py-2 rounded-2xl bg-night/85 border border-white/15 shadow-2xl animate-glow">
+              <div className={`text-2xl font-black ${milestone.color}`}>{milestone.emoji} {milestone.label}</div>
+              <div className="text-center text-xs text-white/60 font-bold">{milestone.key} COMBO!</div>
+            </div>
           </div>
         )}
       </div>

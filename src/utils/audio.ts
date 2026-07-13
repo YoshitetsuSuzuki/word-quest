@@ -47,6 +47,15 @@ export function playWrong(volume = 0.5): void {
   tone(185, 0.02, 0.28, 0.2 * volume, 'square')
 }
 
+/** コンボ節目のファンファーレ（上昇アルペジオ。tierが上がるほど高く華やか） */
+export function playCombo(volume = 0.5, tier = 1): void {
+  if (volume <= 0) return
+  const base = [523.25, 659.25, 783.99, 1046.5] // C E G C
+  const shift = Math.min(tier - 1, 3) * 1.06 // tierで少し上へ
+  base.forEach((f, i) => tone(f * (1 + shift * 0.02), i * 0.06, 0.16, 0.22 * volume, 'triangle'))
+  tone(1318.5, base.length * 0.06, 0.22, 0.2 * volume, 'sine') // きらめきの締め
+}
+
 // ---- BGM: 柔らかいアルペジオのループ ----
 let bgmTimer: number | null = null
 let bgmGain: GainNode | null = null

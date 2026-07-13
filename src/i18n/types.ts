@@ -15,7 +15,7 @@ export interface Strings {
   'home.battle': string; 'home.battleHint': string; 'home.raid': string; 'home.missions': string; 'home.shop': string
   'quiz.pickMeaning': string; 'quiz.correct': string; 'quiz.next': string; 'quiz.result': string
   'quiz.preparing': string; 'quiz.reviewMode': string; 'quiz.speak': string; 'quiz.difficulty': string
-  'quiz.answer': string; 'quiz.example': string
+  'quiz.answer': string; 'quiz.example': string; 'quiz.petBonusHint': string
   'quiz.complete': string; 'quiz.correctCount': string; 'quiz.gainedCoins': string; 'quiz.maxCombo': string
   'quiz.toHome': string; 'quiz.again': string; 'quiz.emptyPool': string
   'listening.pickBlank': string; 'listening.pickMeaning': string; 'common.report': string
@@ -76,7 +76,7 @@ export interface Strings {
   'pet.speciesGreen': string; 'pet.speciesFire': string; 'pet.speciesWater': string
   'pet.chooseTitle': string; 'pet.chooseHint': string
   'pet.moodHappy': string; 'pet.moodNormal': string; 'pet.moodHungry': string; 'pet.moodSad': string
-  'pet.evolved': string; 'pet.toNextPre': string; 'pet.toNextUnit': string; 'pet.maxLevel': string
+  'pet.evolved': string; 'pet.toNextPre': string; 'pet.toNextUnit': string; 'pet.maxLevel': string; 'pet.bonus': string
   'pet.addBuddy': string; 'pet.buddyMax': string; 'pet.switchAria': string
   'pet.speciesLight': string; 'pet.speciesDark': string; 'pet.speciesThunder': string; 'pet.speciesRainbow': string; 'pet.speciesStar': string
   'pet.catalogTitle': string; 'pet.rarityCommon': string; 'pet.rarityRare': string; 'pet.rarityLegendary': string

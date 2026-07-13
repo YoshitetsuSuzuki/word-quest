@@ -130,6 +130,23 @@ export function settlePetDecay(user: User, today: string): User {
   return { ...user, pets: setTick(pet, xp) }
 }
 
+/**
+ * アクティブ相棒による報酬ボーナス（学習ループへの接続）。
+ * レベル(最大+50%)＋合体段階(各+5%)を、機嫌で増減する。
+ * 機嫌が良い(=毎日学習)ほど満額、放置すると減る＝毎日世話する動機になる。
+ */
+export function petBonus(user: User, today: string): { mult: number; percent: number; mood: PetMood; level: number } {
+  const pet = activePet(user)
+  if (!pet?.species) return { mult: 1, percent: 0, mood: 'normal', level: 0 }
+  const level = levelFromXp(Math.max(0, pet.xp))
+  const fusion = pet.fusion ?? 0
+  const raw = level * 0.005 + fusion * 0.05 // Lv100＋合体★5 で最大 +75%
+  const mood = petMood(user, today)
+  const moodFactor = mood === 'happy' ? 1 : mood === 'normal' ? 1 : mood === 'hungry' ? 0.5 : 0.2
+  const bonus = raw * moodFactor
+  return { mult: 1 + bonus, percent: Math.round(bonus * 100), mood, level }
+}
+
 export interface PetView {
   species: PetSpecies | null
   xp: number

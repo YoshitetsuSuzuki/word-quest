@@ -7,7 +7,7 @@ import { StarterSelect } from './StarterSelect'
 import { PetCatalog } from './PetCatalog'
 import { PetBox } from './PetBox'
 import { RenamePetModal } from './RenamePetModal'
-import { petView, activePet, levelFromXp, petForm } from '../core/PetEngine'
+import { petView, activePet, levelFromXp, petForm, petBonus } from '../core/PetEngine'
 import { todayStr } from '../state/dateUtils'
 import { PET_SPECIES_NAME_KEY, PET_MAX_PETS } from '../config/petConfig'
 import type { Strings } from '../i18n/types'
@@ -144,7 +144,19 @@ export function PetWidget() {
               {t(PET_SPECIES_NAME_KEY[view.species] as keyof Strings)}・Lv.{view.level}
             </span>
           </div>
-          <div className="text-sm text-accent2 font-bold truncate">{t(moodKey)}</div>
+          <div className="flex items-center gap-2">
+            <span className="text-sm text-accent2 font-bold truncate">{t(moodKey)}</span>
+            {(() => {
+              const b = petBonus(user, todayStr())
+              if (b.percent <= 0) return null
+              const dim = b.mood === 'hungry' || b.mood === 'sad'
+              return (
+                <span className={`shrink-0 text-[11px] font-black px-1.5 py-0.5 rounded-md ${dim ? 'bg-danger/15 text-danger' : 'bg-gold/15 text-gold'}`}>
+                  {t('pet.bonus')} +{b.percent}%{dim ? ' ↓' : ''}
+                </span>
+              )
+            })()}
+          </div>
           <ProgressBar ratio={view.progress} className="mt-2" barClassName="bg-gold" height={6} />
           <div className="text-[10px] text-white/40 mt-1">
             {view.maxed ? t('pet.maxLevel') : `${t('pet.toNextPre')}${view.toNext}${t('pet.toNextUnit')}`}
