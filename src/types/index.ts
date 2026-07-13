@@ -132,6 +132,14 @@ export interface User {
   gems: number
   /** 解放済みの種（この種の個体を追加できる）。最初に選んだスターターを含む。 */
   ownedSpecies: PetSpeciesId[]
+
+  // --- 週次リーグ(ソーシャル競争・リテンション) ---
+  /** 今週のリーグポイント（正解の獲得XPぶん加算。週替わりでリセット） */
+  weeklyPoints: number
+  /** 今週の起点（月曜, YYYY-MM-DD）。変わると精算＆昇降格 */
+  weekStart: string
+  /** リーグ階級 0=ブロンズ … 5=ダイヤ */
+  leagueTier: number
 }
 
 /** 学習相棒の種。common(草/炎/水), rare(光/闇/雷), legendary(虹/星) */

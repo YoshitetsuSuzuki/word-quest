@@ -16,6 +16,7 @@ import { buyItem as buyItemLogic, equipItem as equipItemLogic } from '../modules
 import { evaluateAchievements, type AchievementContext } from '../modules/achievement/achievementLogic'
 import { applyStamp, reachedMilestones, daysBetween } from '../core/StreakEngine'
 import { settlePetDecay, levelFromXp, petBonus, PET_MAX_XP } from '../core/PetEngine'
+import { settleLeague, weekStartOf } from '../modules/league/leagueLogic'
 import { PET_MAX_PETS, PET_MAX_FUSION, PET_MAX_LEVEL, catalogEntry } from '../config/petConfig'
 import { streakConfig } from '../data/streak.config'
 
@@ -134,6 +135,9 @@ function migrate(u: User): User {
         (u.pets ?? []).map((p) => p?.species).filter((s): s is PetSpeciesId => !!s),
       ),
     ],
+    weeklyPoints: num(u.weeklyPoints ?? 0),
+    weekStart: u.weekStart ?? weekStartOf(todayStr()),
+    leagueTier: num(u.leagueTier ?? 0),
   }
 }
 
@@ -146,6 +150,8 @@ export function GameProvider({ children }: { children: ReactNode }) {
     u = syncLoginStreakMissions(login.user)
     // 相棒: サボった日数ぶんXPを清算（当日は未評価）
     u = settlePetDecay(u, todayStr())
+    // 週次リーグ: 週が替わっていれば昇降格を精算し今週分をリセット
+    u = settleLeague(u, todayStr()).user
     return u
   })
 
@@ -337,6 +343,8 @@ export function GameProvider({ children }: { children: ReactNode }) {
             : [...u.learnedQuestionIds, q.id],
           // 相棒の経験値: アクティブ1体だけ、素の報酬XPぶん増える(自己増幅を防ぐためボーナス前の値)。Lv100=PET_MAX_XP で頭打ち
           pets: u.pets.map((p, i) => (i === u.activePet ? { ...p, xp: Math.min(PET_MAX_XP, p.xp + reward.xp) } : p)),
+          // 週次リーグ: 今週のポイントに獲得XPを加算
+          weeklyPoints: u.weeklyPoints + gainedXp,
         }
 
         // --- レイド貢献（初回貢献ならミッションjoinRaidも進める） ---

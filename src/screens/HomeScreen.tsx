@@ -10,6 +10,7 @@ import { WeeklyChart } from '../components/WeeklyChart'
 import { PetWidget } from '../components/PetWidget'
 import { categories } from '../data/categories'
 import { todayStr } from '../state/dateUtils'
+import { LEAGUES, standings, myRank } from '../modules/league/leagueLogic'
 import type { Strings } from '../i18n/types'
 
 const DAILY_GOAL = 20
@@ -56,7 +57,10 @@ export function HomeScreen() {
   // 復習は今の学習ジャンル分だけを数える(言語ごとに分ける)
   const dueReview = user.reviewQueue.filter((r) => r.nextReviewAt <= Date.now() && r.questionId.startsWith(prefix)).length
 
+  const league = LEAGUES[user.leagueTier] ?? LEAGUES[0]
+  const leagueRank = myRank(standings(user))
   const tiles: { screen: Parameters<typeof navigate>[0]; label: string; icon: string; on: boolean; hint?: string }[] = [
+    { screen: 'league', label: `${league.name}リーグ`, icon: league.emoji, on: true, hint: `${leagueRank}位` },
     { screen: 'battle', label: t('home.battle'), icon: '⚔️', on: featureFlags.battleEnabled, hint: t('home.battleHint') },
     { screen: 'raid', label: t('home.raid'), icon: '🐉', on: featureFlags.raidEnabled, hint: `${Math.round(raid.ratio * 100)}%` },
     { screen: 'missions', label: t('home.missions'), icon: '🎯', on: featureFlags.missionsEnabled, hint: `${doneMissions}/${missions.length}` },
@@ -141,6 +145,39 @@ export function HomeScreen() {
       >
         <span className="relative z-10">{t('home.startQuiz')}</span>
       </button>
+
+      {/* 冒険マップ（世界地図で習得を旅にする） */}
+      <button
+        onClick={() => navigate('world')}
+        className="card w-full p-4 flex items-center gap-3 text-left active:scale-[0.98] transition border border-accent2/30 bg-gradient-to-r from-accent/10 to-accent2/10"
+      >
+        <div className="text-3xl">🗺️</div>
+        <div className="flex-1">
+          <div className="font-black">冒険マップ</div>
+          <div className="text-xs text-white/50">エリアを攻略して世界一へ</div>
+        </div>
+        <span className="text-accent2 font-black">▶</span>
+      </button>
+
+      {/* ゲームモード（出題形式の変化） */}
+      <div className="grid grid-cols-2 gap-3">
+        <button
+          onClick={() => { setQuizMode('speed'); setCustomIds(null); navigate('quiz') }}
+          className="card p-4 text-left active:scale-95 transition"
+        >
+          <div className="text-3xl">⚡</div>
+          <div className="mt-2 font-bold">スピード</div>
+          <div className="text-xs text-white/45">制限時間チャレンジ</div>
+        </button>
+        <button
+          onClick={() => navigate('match')}
+          className="card p-4 text-left active:scale-95 transition"
+        >
+          <div className="text-3xl">🎯</div>
+          <div className="mt-2 font-bold">ペア合わせ</div>
+          <div className="text-xs text-white/45">単語と意味をつなぐ</div>
+        </button>
+      </div>
 
       {/* リスニングモード */}
       <button

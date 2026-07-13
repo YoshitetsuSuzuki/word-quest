@@ -1,6 +1,7 @@
 import type { User } from '../types'
 import { todayStr } from './dateUtils'
 import { getTodaysBoss } from '../data/raids.config'
+import { weekStartOf } from '../modules/league/leagueLogic'
 
 /** 新規ユーザーの初期状態を生成する */
 export function createDefaultUser(name = 'Player'): User {
@@ -47,5 +48,8 @@ export function createDefaultUser(name = 'Player'): User {
     activePet: 0,
     gems: 0,
     ownedSpecies: [],
+    weeklyPoints: 0,
+    weekStart: weekStartOf(today),
+    leagueTier: 0,
   }
 }

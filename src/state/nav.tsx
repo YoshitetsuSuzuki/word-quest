@@ -12,13 +12,16 @@ export type Screen =
   | 'shop'
   | 'missions'
   | 'study'
+  | 'league'
+  | 'world'
+  | 'match'
 
 interface NavApi {
   screen: Screen
   navigate: (s: Screen) => void
   /** クイズのモード（通常 / 復習 / リスニング / 例文暗記 / 表現） */
-  quizMode: 'normal' | 'review' | 'listening' | 'example' | 'phrase'
-  setQuizMode: (m: 'normal' | 'review' | 'listening' | 'example' | 'phrase') => void
+  quizMode: 'normal' | 'review' | 'listening' | 'example' | 'phrase' | 'speed'
+  setQuizMode: (m: 'normal' | 'review' | 'listening' | 'example' | 'phrase' | 'speed') => void
   /** 指定IDだけで出題するカスタムセッション（弱点特訓・自分の単語帳テスト用）。nullで通常 */
   customIds: string[] | null
   setCustomIds: (ids: string[] | null) => void

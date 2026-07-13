@@ -14,6 +14,7 @@ import { wordErrorReportUrl } from '../utils/report'
 import type { Question, AnswerOutcome } from '../types'
 
 const SESSION_SIZE = 10
+const SPEED_MS = 8000 // スピードモードの1問あたり制限時間
 
 export function QuizScreen() {
   const game = useGame()
@@ -63,6 +64,8 @@ export function QuizScreen() {
   const [finished, setFinished] = useState(false)
   const [popKey, setPopKey] = useState(0)
   const [milestone, setMilestone] = useState<{ label: string; emoji: string; color: string; key: number } | null>(null)
+  const isSpeed = quizMode === 'speed'
+  const [timeLeft, setTimeLeft] = useState(SPEED_MS)
 
   // 問題が切り替わったら自動で発音を再生（音声ONのとき）
   useEffect(() => {
@@ -72,6 +75,31 @@ export function QuizScreen() {
     }
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [index, questions.length])
+
+  // スピードモード: 制限時間のカウントダウン。0で時間切れ＝不正解にして先へ。
+  useEffect(() => {
+    if (!isSpeed || finished || selected) return
+    const q = questions[index]
+    if (!q) return
+    setTimeLeft(SPEED_MS)
+    const started = Date.now()
+    const iv = window.setInterval(() => {
+      const left = SPEED_MS - (Date.now() - started)
+      if (left <= 0) {
+        window.clearInterval(iv)
+        const res = answerQuestion(q, '__timeout__', combo + 1)
+        setSelected('__timeout__')
+        setOutcome(res)
+        setCombo(0)
+        if (sfxEnabled) playWrong(sfxVolume)
+        hapticWrong()
+      } else {
+        setTimeLeft(left)
+      }
+    }, 100)
+    return () => window.clearInterval(iv)
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [index, selected, isSpeed, finished])
 
   // ja母語ネイティブ言語(英/中/韓)は保存済み q.choices（挙動不変）。
   // ピボット言語(西/仏/独)は正解が日本語訳(glosses.ja)なので、保存済み(英語)ではなく
@@ -209,6 +237,16 @@ export function QuizScreen() {
           )
         })()}
       </div>
+
+      {/* スピードモードの残り時間バー */}
+      {isSpeed && !selected && (
+        <div className="h-1.5 rounded-full bg-panel2 overflow-hidden -mt-2">
+          <div
+            className={`h-full transition-[width] duration-100 ease-linear ${timeLeft < 3000 ? 'bg-danger' : 'bg-accent2'}`}
+            style={{ width: `${Math.max(0, (timeLeft / SPEED_MS) * 100)}%` }}
+          />
+        </div>
+      )}
 
       {/* 問題カード（不正解時は横揺れ） */}
       <div className={`card p-6 text-center min-h-[140px] grid place-items-center relative ${selected && !outcome?.correct ? 'animate-shake ring-2 ring-danger/60' : ''}`}>
