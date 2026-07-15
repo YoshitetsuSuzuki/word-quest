@@ -1,0 +1,69 @@
+[
+  {
+    "id": "es-00432",
+    "headword": "dulce",
+    "partOfSpeech": "noun",
+    "adoptedSense": "菓子/甘いもの(candy)",
+    "keepCurrentAnswer": true,
+    "fieldsToChange": [
+      "glosses.ja"
+    ],
+    "reason": "現行 answer/en=candy(名詞) に合わせ名詞義へ統一。ja「甘い」(形容詞)を名詞義へ修正し不一致解消。名詞と形容詞を混在させない。",
+    "confidence": 0.98
+  },
+  {
+    "id": "es-01405",
+    "headword": "Cristo",
+    "partOfSpeech": "proper noun",
+    "adoptedSense": "キリスト(Christ)",
+    "keepCurrentAnswer": false,
+    "fieldsToChange": [
+      "prompt",
+      "answer",
+      "glosses.en",
+      "choices"
+    ],
+    "reason": "固有名詞Christとして確定。見出しをCristo(大文字)、en/answerをjesus→Christへ(JesusとChristを無根拠に同一視しない)。ja「キリスト」は維持。",
+    "confidence": 0.98
+  },
+  {
+    "id": "fr-00645",
+    "headword": "expérience",
+    "partOfSpeech": "noun",
+    "adoptedSense": "実験(experiment)",
+    "keepCurrentAnswer": true,
+    "fieldsToChange": [
+      "glosses.ja"
+    ],
+    "reason": "現行 answer/en=experiment に統一。ja「経験，実験」の両義併記を実験1義へ。経験と実験を混在させない。",
+    "confidence": 0.98
+  },
+  {
+    "id": "fr-01022",
+    "headword": "émission",
+    "partOfSpeech": "noun",
+    "adoptedSense": "放送/番組(broadcast)",
+    "keepCurrentAnswer": false,
+    "fieldsToChange": [
+      "answer",
+      "glosses.en",
+      "choices"
+    ],
+    "reason": "現行ja「放送」に合わせ放送義へ確定。空似言葉のen=emissionをbroadcastへ修正。answer変更に伴いchoicesも整合。",
+    "confidence": 0.98
+  },
+  {
+    "id": "fr-00092",
+    "headword": "ensemble",
+    "partOfSpeech": "adverb",
+    "adoptedSense": "一緒に(together)",
+    "keepCurrentAnswer": false,
+    "fieldsToChange": [
+      "answer",
+      "glosses.en",
+      "choices"
+    ],
+    "reason": "現行ja「一緒に」に合わせ副詞together義へ確定。en/answerをset(名詞)→together(副詞)へ。副詞と名詞を混在させない。answer変更に伴いchoicesも整合。",
+    "confidence": 0.98
+  }
+]

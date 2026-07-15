@@ -1,0 +1,87 @@
+[
+  {
+    "id": "es-00432",
+    "headword": "dulce",
+    "adoptedSense": "菓子/甘いもの(candy)",
+    "answer": "candy",
+    "glossesEn": "candy",
+    "glossesJa": "菓子，甘いもの",
+    "choices": [
+      "downfall",
+      "amount",
+      "department",
+      "candy"
+    ],
+    "answerInChoices": true,
+    "enMatchesAnswer": true,
+    "status": "resolved"
+  },
+  {
+    "id": "es-01405",
+    "headword": "Cristo",
+    "adoptedSense": "キリスト(Christ)",
+    "answer": "Christ",
+    "glossesEn": "Christ",
+    "glossesJa": "キリスト",
+    "choices": [
+      "moment",
+      "universe",
+      "Christ",
+      "summer"
+    ],
+    "answerInChoices": true,
+    "enMatchesAnswer": true,
+    "status": "resolved"
+  },
+  {
+    "id": "fr-00645",
+    "headword": "expérience",
+    "adoptedSense": "実験(experiment)",
+    "answer": "experiment",
+    "glossesEn": "experiment",
+    "glossesJa": "実験",
+    "choices": [
+      "taxi",
+      "to force",
+      "experiment",
+      "accident"
+    ],
+    "answerInChoices": true,
+    "enMatchesAnswer": true,
+    "status": "resolved"
+  },
+  {
+    "id": "fr-01022",
+    "headword": "émission",
+    "adoptedSense": "放送/番組(broadcast)",
+    "answer": "broadcast",
+    "glossesEn": "broadcast",
+    "glossesJa": "放送",
+    "choices": [
+      "combat",
+      "moment",
+      "prize",
+      "broadcast"
+    ],
+    "answerInChoices": true,
+    "enMatchesAnswer": true,
+    "status": "resolved"
+  },
+  {
+    "id": "fr-00092",
+    "headword": "ensemble",
+    "adoptedSense": "一緒に(together)",
+    "answer": "together",
+    "glossesEn": "together",
+    "glossesJa": "一緒に",
+    "choices": [
+      "message",
+      "pair of jeans",
+      "together",
+      "site"
+    ],
+    "answerInChoices": true,
+    "enMatchesAnswer": true,
+    "status": "resolved"
+  }
+]

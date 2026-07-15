@@ -1,0 +1,141 @@
+[
+  {
+    "id": "es-01405",
+    "headword": "Cristo",
+    "language": "es",
+    "dictionaryStatus": "matched",
+    "sources": [
+      {
+        "name": "en.wiktionary.org REST API",
+        "urlOrReference": "https://en.wiktionary.org/api/rest_v1/page/definition/Cristo",
+        "accessed": true,
+        "license": "CC-BY-SA (Wiktionary)",
+        "relevantSenses": [
+          "Proper noun: \"Christ\""
+        ]
+      },
+      {
+        "name": "es.wiktionary.org action API",
+        "urlOrReference": "https://es.wiktionary.org/w/api.php?action=query&titles=Cristo&prop=extracts",
+        "accessed": true,
+        "license": "CC-BY-SA (Wiktionary)",
+        "relevantSenses": [
+          "Del griego Χριστός (ungido)=Christ の称号"
+        ]
+      }
+    ],
+    "notes": "小文字cristo=名詞「Jesusの像/crucifix」・俗「hassle」。大文字Cristo=固有名詞Christ。現行ja「キリスト」は称号Christに一致。"
+  },
+  {
+    "id": "es-00432",
+    "headword": "dulce",
+    "language": "es",
+    "dictionaryStatus": "matched",
+    "sources": [
+      {
+        "name": "en.wiktionary.org REST API",
+        "urlOrReference": "https://en.wiktionary.org/api/rest_v1/page/definition/dulce",
+        "accessed": true,
+        "license": "CC-BY-SA (Wiktionary)",
+        "relevantSenses": [
+          "Adjective: \"sweet\"",
+          "Noun: \"candy, sweet; dessert\""
+        ]
+      },
+      {
+        "name": "es.wiktionary.org action API",
+        "urlOrReference": "https://es.wiktionary.org/w/api.php?action=query&titles=dulce&prop=extracts",
+        "accessed": true,
+        "license": "CC-BY-SA (Wiktionary)",
+        "relevantSenses": [
+          "Adjetivo（甘い）＋名詞（菓子）"
+        ]
+      }
+    ],
+    "notes": "形容詞sweet と 名詞candy の両義。現行 answer/en=candy(名詞)・ja=甘い(形容詞) で不一致。"
+  },
+  {
+    "id": "fr-00645",
+    "headword": "expérience",
+    "language": "fr",
+    "dictionaryStatus": "matched",
+    "sources": [
+      {
+        "name": "en.wiktionary.org REST API",
+        "urlOrReference": "https://en.wiktionary.org/api/rest_v1/page/definition/exp%C3%A9rience",
+        "accessed": true,
+        "license": "CC-BY-SA (Wiktionary)",
+        "relevantSenses": [
+          "Noun: \"experiment, trial, test\"",
+          "Noun: \"experience\""
+        ]
+      },
+      {
+        "name": "fr.wiktionary.org action API",
+        "urlOrReference": "https://fr.wiktionary.org/w/api.php?action=query&titles=exp%C3%A9rience&prop=extracts",
+        "accessed": true,
+        "license": "CC-BY-SA (Wiktionary)",
+        "relevantSenses": [
+          "Nom commun（Du latin experientia）"
+        ]
+      }
+    ],
+    "notes": "experiment と experience の両義。en.wiktionaryは experiment を先頭に列挙。現行 answer/en=experiment。"
+  },
+  {
+    "id": "fr-01022",
+    "headword": "émission",
+    "language": "fr",
+    "dictionaryStatus": "matched",
+    "sources": [
+      {
+        "name": "en.wiktionary.org REST API",
+        "urlOrReference": "https://en.wiktionary.org/api/rest_v1/page/definition/%C3%A9mission",
+        "accessed": true,
+        "license": "CC-BY-SA (Wiktionary)",
+        "relevantSenses": [
+          "Noun: \"emission\"",
+          "Noun: \"programme, show\""
+        ]
+      },
+      {
+        "name": "fr.wiktionary.org action API",
+        "urlOrReference": "https://fr.wiktionary.org/w/api.php?action=query&titles=%C3%A9mission&prop=extracts",
+        "accessed": true,
+        "license": "CC-BY-SA (Wiktionary)",
+        "relevantSenses": [
+          "Nom commun（Du latin emissio）"
+        ]
+      }
+    ],
+    "notes": "「放送/番組」と「emission(放出)」の両義。現行 en=emission は放送義に対し空似言葉。ja=放送。"
+  },
+  {
+    "id": "fr-00092",
+    "headword": "ensemble",
+    "language": "fr",
+    "dictionaryStatus": "matched",
+    "sources": [
+      {
+        "name": "en.wiktionary.org REST API",
+        "urlOrReference": "https://en.wiktionary.org/api/rest_v1/page/definition/ensemble",
+        "accessed": true,
+        "license": "CC-BY-SA (Wiktionary)",
+        "relevantSenses": [
+          "Adverb: \"together\"",
+          "Noun: \"set, grouping, collection, outfit\""
+        ]
+      },
+      {
+        "name": "fr.wiktionary.org action API",
+        "urlOrReference": "https://fr.wiktionary.org/w/api.php?action=query&titles=ensemble&prop=extracts",
+        "accessed": true,
+        "license": "CC-BY-SA (Wiktionary)",
+        "relevantSenses": [
+          "副詞/名詞（moyen français ensemble）"
+        ]
+      }
+    ],
+    "notes": "副詞together と 名詞set の両義。現行 answer/en=set(名詞)・ja=一緒に(副詞) で不一致。"
+  }
+]

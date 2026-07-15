@@ -1,0 +1,107 @@
+[
+  {
+    "id": "es-00432",
+    "language": "es",
+    "file": "spanish/level-2.json",
+    "prompt": "「dulce」の意味は？",
+    "answer": "candy",
+    "choices": [
+      "downfall",
+      "amount",
+      "department",
+      "candy"
+    ],
+    "glosses.en": "candy",
+    "glosses.ja": "甘い",
+    "tags": [
+      "word"
+    ],
+    "difficulty": 2,
+    "verified": true,
+    "hasExample": false
+  },
+  {
+    "id": "es-01405",
+    "language": "es",
+    "file": "spanish/level-4.json",
+    "prompt": "「cristo」の意味は？",
+    "answer": "jesus",
+    "choices": [
+      "moment",
+      "universe",
+      "jesus",
+      "summer"
+    ],
+    "glosses.en": "jesus",
+    "glosses.ja": "キリスト",
+    "tags": [
+      "word"
+    ],
+    "difficulty": 4,
+    "verified": true,
+    "hasExample": false
+  },
+  {
+    "id": "fr-00092",
+    "language": "fr",
+    "file": "french/level-1.json",
+    "prompt": "「ensemble」の意味は？",
+    "answer": "set",
+    "choices": [
+      "message",
+      "pair of jeans",
+      "set",
+      "site"
+    ],
+    "glosses.en": "set",
+    "glosses.ja": "一緒に",
+    "tags": [
+      "word"
+    ],
+    "difficulty": 1,
+    "verified": true,
+    "hasExample": false
+  },
+  {
+    "id": "fr-00645",
+    "language": "fr",
+    "file": "french/level-2.json",
+    "prompt": "「expérience」の意味は？",
+    "answer": "experiment",
+    "choices": [
+      "taxi",
+      "to force",
+      "experiment",
+      "accident"
+    ],
+    "glosses.en": "experiment",
+    "glosses.ja": "経験，実験",
+    "tags": [
+      "word"
+    ],
+    "difficulty": 2,
+    "verified": true,
+    "hasExample": false
+  },
+  {
+    "id": "fr-01022",
+    "language": "fr",
+    "file": "french/level-3.json",
+    "prompt": "「émission」の意味は？",
+    "answer": "emission",
+    "choices": [
+      "combat",
+      "moment",
+      "prize",
+      "emission"
+    ],
+    "glosses.en": "emission",
+    "glosses.ja": "放送",
+    "tags": [
+      "word"
+    ],
+    "difficulty": 3,
+    "verified": true,
+    "hasExample": false
+  }
+]

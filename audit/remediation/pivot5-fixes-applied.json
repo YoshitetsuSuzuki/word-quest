@@ -1,0 +1,188 @@
+[
+  {
+    "id": "es-00432",
+    "file": "public/wordbank/spanish/level-2.json",
+    "field": "glosses.ja",
+    "before": "甘い",
+    "after": "菓子，甘いもの",
+    "reason": "現行 answer/en=candy(名詞) に合わせ名詞義へ統一。ja「甘い」(形容詞)を名詞義へ修正し不一致解消。名詞と形容詞を混在させない。",
+    "sourcesChecked": [
+      "en.wiktionary.org REST API",
+      "es.wiktionary.org action API"
+    ],
+    "confidence": 0.98
+  },
+  {
+    "id": "es-01405",
+    "file": "public/wordbank/spanish/level-4.json",
+    "field": "prompt",
+    "before": "「cristo」の意味は？",
+    "after": "「Cristo」の意味は？",
+    "reason": "固有名詞Christとして確定。見出しをCristo(大文字)、en/answerをjesus→Christへ(JesusとChristを無根拠に同一視しない)。ja「キリスト」は維持。",
+    "sourcesChecked": [
+      "en.wiktionary.org REST API",
+      "es.wiktionary.org action API"
+    ],
+    "confidence": 0.98
+  },
+  {
+    "id": "es-01405",
+    "file": "public/wordbank/spanish/level-4.json",
+    "field": "answer",
+    "before": "jesus",
+    "after": "Christ",
+    "reason": "固有名詞Christとして確定。見出しをCristo(大文字)、en/answerをjesus→Christへ(JesusとChristを無根拠に同一視しない)。ja「キリスト」は維持。",
+    "sourcesChecked": [
+      "en.wiktionary.org REST API",
+      "es.wiktionary.org action API"
+    ],
+    "confidence": 0.98
+  },
+  {
+    "id": "es-01405",
+    "file": "public/wordbank/spanish/level-4.json",
+    "field": "glosses.en",
+    "before": "jesus",
+    "after": "Christ",
+    "reason": "固有名詞Christとして確定。見出しをCristo(大文字)、en/answerをjesus→Christへ(JesusとChristを無根拠に同一視しない)。ja「キリスト」は維持。",
+    "sourcesChecked": [
+      "en.wiktionary.org REST API",
+      "es.wiktionary.org action API"
+    ],
+    "confidence": 0.98
+  },
+  {
+    "id": "es-01405",
+    "file": "public/wordbank/spanish/level-4.json",
+    "field": "choices",
+    "before": [
+      "moment",
+      "universe",
+      "jesus",
+      "summer"
+    ],
+    "after": [
+      "moment",
+      "universe",
+      "Christ",
+      "summer"
+    ],
+    "reason": "固有名詞Christとして確定。見出しをCristo(大文字)、en/answerをjesus→Christへ(JesusとChristを無根拠に同一視しない)。ja「キリスト」は維持。",
+    "sourcesChecked": [
+      "en.wiktionary.org REST API",
+      "es.wiktionary.org action API"
+    ],
+    "confidence": 0.98
+  },
+  {
+    "id": "fr-00645",
+    "file": "public/wordbank/french/level-2.json",
+    "field": "glosses.ja",
+    "before": "経験，実験",
+    "after": "実験",
+    "reason": "現行 answer/en=experiment に統一。ja「経験，実験」の両義併記を実験1義へ。経験と実験を混在させない。",
+    "sourcesChecked": [
+      "en.wiktionary.org REST API",
+      "fr.wiktionary.org action API"
+    ],
+    "confidence": 0.98
+  },
+  {
+    "id": "fr-01022",
+    "file": "public/wordbank/french/level-3.json",
+    "field": "answer",
+    "before": "emission",
+    "after": "broadcast",
+    "reason": "現行ja「放送」に合わせ放送義へ確定。空似言葉のen=emissionをbroadcastへ修正。answer変更に伴いchoicesも整合。",
+    "sourcesChecked": [
+      "en.wiktionary.org REST API",
+      "fr.wiktionary.org action API"
+    ],
+    "confidence": 0.98
+  },
+  {
+    "id": "fr-01022",
+    "file": "public/wordbank/french/level-3.json",
+    "field": "glosses.en",
+    "before": "emission",
+    "after": "broadcast",
+    "reason": "現行ja「放送」に合わせ放送義へ確定。空似言葉のen=emissionをbroadcastへ修正。answer変更に伴いchoicesも整合。",
+    "sourcesChecked": [
+      "en.wiktionary.org REST API",
+      "fr.wiktionary.org action API"
+    ],
+    "confidence": 0.98
+  },
+  {
+    "id": "fr-01022",
+    "file": "public/wordbank/french/level-3.json",
+    "field": "choices",
+    "before": [
+      "combat",
+      "moment",
+      "prize",
+      "emission"
+    ],
+    "after": [
+      "combat",
+      "moment",
+      "prize",
+      "broadcast"
+    ],
+    "reason": "現行ja「放送」に合わせ放送義へ確定。空似言葉のen=emissionをbroadcastへ修正。answer変更に伴いchoicesも整合。",
+    "sourcesChecked": [
+      "en.wiktionary.org REST API",
+      "fr.wiktionary.org action API"
+    ],
+    "confidence": 0.98
+  },
+  {
+    "id": "fr-00092",
+    "file": "public/wordbank/french/level-1.json",
+    "field": "answer",
+    "before": "set",
+    "after": "together",
+    "reason": "現行ja「一緒に」に合わせ副詞together義へ確定。en/answerをset(名詞)→together(副詞)へ。副詞と名詞を混在させない。answer変更に伴いchoicesも整合。",
+    "sourcesChecked": [
+      "en.wiktionary.org REST API",
+      "fr.wiktionary.org action API"
+    ],
+    "confidence": 0.98
+  },
+  {
+    "id": "fr-00092",
+    "file": "public/wordbank/french/level-1.json",
+    "field": "glosses.en",
+    "before": "set",
+    "after": "together",
+    "reason": "現行ja「一緒に」に合わせ副詞together義へ確定。en/answerをset(名詞)→together(副詞)へ。副詞と名詞を混在させない。answer変更に伴いchoicesも整合。",
+    "sourcesChecked": [
+      "en.wiktionary.org REST API",
+      "fr.wiktionary.org action API"
+    ],
+    "confidence": 0.98
+  },
+  {
+    "id": "fr-00092",
+    "file": "public/wordbank/french/level-1.json",
+    "field": "choices",
+    "before": [
+      "message",
+      "pair of jeans",
+      "set",
+      "site"
+    ],
+    "after": [
+      "message",
+      "pair of jeans",
+      "together",
+      "site"
+    ],
+    "reason": "現行ja「一緒に」に合わせ副詞together義へ確定。en/answerをset(名詞)→together(副詞)へ。副詞と名詞を混在させない。answer変更に伴いchoicesも整合。",
+    "sourcesChecked": [
+      "en.wiktionary.org REST API",
+      "fr.wiktionary.org action API"
+    ],
+    "confidence": 0.98
+  }
+]
