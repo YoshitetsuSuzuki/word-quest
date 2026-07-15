@@ -1,0 +1,561 @@
+[
+  {
+    "id": "en-02892",
+    "word": "john",
+    "registeredSense": "手洗い",
+    "source": "dictionaryapi.dev (Wiktionary CC-BY-SA)",
+    "status": "matched",
+    "matchedKeywords": [
+      "toilet",
+      "lavatory"
+    ],
+    "dictPos": [
+      "noun"
+    ],
+    "dictDefsSample": [
+      "A prostitute's client.",
+      "A device or place to urinate and defecate: now usually a toilet or lavatory, but also a chamber pot or outhouse.",
+      "A Western man traveling in East Asia."
+    ],
+    "note": "照合のみ・元データ非改変。辞書に無い=誤りの証拠ではない。"
+  },
+  {
+    "id": "en-02925",
+    "word": "yahoo",
+    "registeredSense": "乱暴者",
+    "source": "dictionaryapi.dev (Wiktionary CC-BY-SA)",
+    "status": "matched",
+    "matchedKeywords": [
+      "lout",
+      "uncouth"
+    ],
+    "dictPos": [
+      "noun",
+      "verb",
+      "interjection"
+    ],
+    "dictDefsSample": [
+      "A rough, coarse, loud or uncouth person; yokel; lout.",
+      "A humanoid cryptid said to exist in parts of eastern Australia, and also reported in the Bahamas.",
+      "To give a cry of \"yahoo\"."
+    ],
+    "note": "照合のみ・元データ非改変。辞書に無い=誤りの証拠ではない。"
+  },
+  {
+    "id": "en-02944",
+    "word": "august",
+    "registeredSense": "威厳のある",
+    "source": "dictionaryapi.dev (Wiktionary CC-BY-SA)",
+    "status": "matched",
+    "matchedKeywords": [
+      "majestic",
+      "venerable",
+      "noble",
+      "awe"
+    ],
+    "dictPos": [
+      "adjective",
+      "verb",
+      "noun"
+    ],
+    "dictDefsSample": [
+      "Awe-inspiring, majestic, noble, venerable.",
+      "Of noble birth.",
+      "To make ripe; ripen."
+    ],
+    "note": "照合のみ・元データ非改変。辞書に無い=誤りの証拠ではない。"
+  },
+  {
+    "id": "en-03158",
+    "word": "zip",
+    "registeredSense": "ビュッという音",
+    "source": "dictionaryapi.dev (Wiktionary CC-BY-SA)",
+    "status": "matched",
+    "matchedKeywords": [
+      "sound"
+    ],
+    "dictPos": [
+      "noun",
+      "verb",
+      "pronoun",
+      "interjection"
+    ],
+    "dictDefsSample": [
+      "A twist or fold.",
+      "Any of the folds on the surface of the brain.",
+      "The shape of something rotating; a vortex."
+    ],
+    "note": "照合のみ・元データ非改変。辞書に無い=誤りの証拠ではない。"
+  },
+  {
+    "id": "en-03412",
+    "word": "tom",
+    "registeredSense": "雄",
+    "source": "dictionaryapi.dev (Wiktionary CC-BY-SA)",
+    "status": "matched",
+    "matchedKeywords": [
+      "male"
+    ],
+    "dictPos": [
+      "noun",
+      "verb"
+    ],
+    "dictDefsSample": [
+      "A flat gong (without knob) that is struck with a felt-covered hammer.",
+      "The male of the domesticated cat.",
+      "The male of the turkey."
+    ],
+    "note": "照合のみ・元データ非改変。辞書に無い=誤りの証拠ではない。"
+  },
+  {
+    "id": "en-03820",
+    "word": "con",
+    "registeredSense": "反対投票",
+    "source": "dictionaryapi.dev (Wiktionary CC-BY-SA)",
+    "status": "partially_matched",
+    "matchedKeywords": [],
+    "dictPos": [
+      "verb",
+      "noun"
+    ],
+    "dictDefsSample": [
+      "To study or examine carefully, especially in order to gain knowledge of; to learn, or learn by heart.",
+      "To know, understand, acknowledge.",
+      "A disadvantage of something, especially when contrasted with its advantages (pros)."
+    ],
+    "note": "照合のみ・元データ非改変。辞書に無い=誤りの証拠ではない。"
+  },
+  {
+    "id": "en-04080",
+    "word": "victoria",
+    "registeredSense": "四輪馬車",
+    "source": "dictionaryapi.dev (Wiktionary CC-BY-SA)",
+    "status": "matched",
+    "matchedKeywords": [
+      "carriage"
+    ],
+    "dictPos": [
+      "noun"
+    ],
+    "dictDefsSample": [
+      "A kind of low four-wheeled pleasure carriage, with a calash top, designed for two persons and the driver who occupies a high seat in front."
+    ],
+    "note": "照合のみ・元データ非改変。辞書に無い=誤りの証拠ではない。"
+  },
+  {
+    "id": "en-04192",
+    "word": "holding",
+    "registeredSense": "しっかり握ること",
+    "source": "dictionaryapi.dev (Wiktionary CC-BY-SA)",
+    "status": "matched",
+    "matchedKeywords": [
+      "grip",
+      "hold",
+      "grasp"
+    ],
+    "dictPos": [
+      "verb",
+      "noun"
+    ],
+    "dictDefsSample": [
+      "To grasp or grip.",
+      "To contain or store.",
+      "(heading) To maintain or keep to a position or state."
+    ],
+    "note": "照合のみ・元データ非改変。辞書に無い=誤りの証拠ではない。"
+  },
+  {
+    "id": "en-04411",
+    "word": "ultra",
+    "registeredSense": "極端な",
+    "source": "dictionaryapi.dev (Wiktionary CC-BY-SA)",
+    "status": "matched",
+    "matchedKeywords": [
+      "extreme",
+      "extremist"
+    ],
+    "dictPos": [
+      "noun",
+      "adjective"
+    ],
+    "dictDefsSample": [
+      "An ultraroyalist in France.",
+      "An extremist, especially an ultranationalist.",
+      "An especially devoted football fan, typically associated with the intimidating use of extremist slogans, pyrotechnics and sometimes hooligan violence."
+    ],
+    "note": "照合のみ・元データ非改変。辞書に無い=誤りの証拠ではない。"
+  },
+  {
+    "id": "en-06006",
+    "word": "chi",
+    "registeredSense": "気",
+    "source": "dictionaryapi.dev (Wiktionary CC-BY-SA)",
+    "status": "matched",
+    "matchedKeywords": [
+      "life force"
+    ],
+    "dictPos": [
+      "noun"
+    ],
+    "dictDefsSample": [
+      "The twenty-second letter of the Classical and Modern Greek alphabets.",
+      "A life force in traditional Chinese philosophy, culture, medicine, etc, related (but not limited) to breath and circulation.",
+      "The Chinese foot, a traditional Chinese unit of length based on the human forearm."
+    ],
+    "note": "照合のみ・元データ非改変。辞書に無い=誤りの証拠ではない。"
+  },
+  {
+    "id": "en-06240",
+    "word": "turner",
+    "registeredSense": "旋盤工",
+    "source": "dictionaryapi.dev (Wiktionary CC-BY-SA)",
+    "status": "matched",
+    "matchedKeywords": [
+      "lathe",
+      "turns"
+    ],
+    "dictPos": [
+      "noun"
+    ],
+    "dictDefsSample": [
+      "One who or that which turns.",
+      "A person who turns and shapes wood etc. on a lathe",
+      "A kitchen utensil used for turning food."
+    ],
+    "note": "照合のみ・元データ非改変。辞書に無い=誤りの証拠ではない。"
+  },
+  {
+    "id": "en-06272",
+    "word": "macintosh",
+    "registeredSense": "防水コート",
+    "source": "dictionaryapi.dev (Wiktionary CC-BY-SA)",
+    "status": "matched",
+    "matchedKeywords": [
+      "raincoat"
+    ],
+    "dictPos": [
+      "noun"
+    ],
+    "dictDefsSample": [
+      "A raincoat."
+    ],
+    "note": "照合のみ・元データ非改変。辞書に無い=誤りの証拠ではない。"
+  },
+  {
+    "id": "en-06281",
+    "word": "hanging",
+    "registeredSense": "絞首刑",
+    "source": "dictionaryapi.dev (Wiktionary CC-BY-SA)",
+    "status": "matched",
+    "matchedKeywords": [
+      "hang",
+      "gallows"
+    ],
+    "dictPos": [
+      "verb",
+      "adjective",
+      "noun"
+    ],
+    "dictDefsSample": [
+      "To be or remain suspended.",
+      "To float, as if suspended.",
+      "(of a ball in cricket, tennis, etc.) To rebound unexpectedly or unusually slowly, due to backward spin on the ball or imperfections of the ground."
+    ],
+    "note": "照合のみ・元データ非改変。辞書に無い=誤りの証拠ではない。"
+  },
+  {
+    "id": "en-06502",
+    "word": "mounting",
+    "registeredSense": "据えつけ",
+    "source": "dictionaryapi.dev (Wiktionary CC-BY-SA)",
+    "status": "matched",
+    "matchedKeywords": [
+      "support",
+      "mount",
+      "frame"
+    ],
+    "dictPos": [
+      "verb",
+      "noun",
+      "adjective"
+    ],
+    "dictDefsSample": [
+      "To get upon; to ascend; to climb.",
+      "To place oneself on (a horse, a bicycle, etc.); to bestride.",
+      "To cause to mount; to put on horseback; to furnish with animals for riding."
+    ],
+    "note": "照合のみ・元データ非改変。辞書に無い=誤りの証拠ではない。"
+  },
+  {
+    "id": "en-20363",
+    "word": "scotch",
+    "registeredSense": "押しつぶす",
+    "source": "dictionaryapi.dev (Wiktionary CC-BY-SA)",
+    "status": "partially_matched",
+    "matchedKeywords": [],
+    "dictPos": [
+      "noun",
+      "verb",
+      "adjective"
+    ],
+    "dictDefsSample": [
+      "A surface cut or abrasion.",
+      "A line drawn on the ground, as one used in playing hopscotch.",
+      "A block for a wheel or other round object; a chock, wedge, prop, or other support, to prevent slipping."
+    ],
+    "note": "照合のみ・元データ非改変。辞書に無い=誤りの証拠ではない。"
+  },
+  {
+    "id": "en-20434",
+    "word": "smashed",
+    "registeredSense": "酔っぱらった",
+    "source": "dictionaryapi.dev (Wiktionary CC-BY-SA)",
+    "status": "matched",
+    "matchedKeywords": [
+      "drunk"
+    ],
+    "dictPos": [
+      "verb",
+      "adjective"
+    ],
+    "dictDefsSample": [
+      "To break (something brittle) violently.",
+      "To be destroyed by being smashed.",
+      "To hit extremely hard."
+    ],
+    "note": "照合のみ・元データ非改変。辞書に無い=誤りの証拠ではない。"
+  },
+  {
+    "id": "en-21103",
+    "word": "bender",
+    "registeredSense": "酒盛り",
+    "source": "dictionaryapi.dev (Wiktionary CC-BY-SA)",
+    "status": "matched",
+    "matchedKeywords": [
+      "drinking",
+      "spree"
+    ],
+    "dictPos": [
+      "noun",
+      "interjection"
+    ],
+    "dictDefsSample": [
+      "One who, or that which, bends.",
+      "A device to aid bending of pipes to a specific angle.",
+      "A bout of heavy drinking."
+    ],
+    "note": "照合のみ・元データ非改変。辞書に無い=誤りの証拠ではない。"
+  },
+  {
+    "id": "en-21117",
+    "word": "warmer",
+    "registeredSense": "暖めるもの",
+    "source": "dictionaryapi.dev (Wiktionary CC-BY-SA)",
+    "status": "matched",
+    "matchedKeywords": [
+      "heater",
+      "warm"
+    ],
+    "dictPos": [
+      "adjective",
+      "noun"
+    ],
+    "dictDefsSample": [
+      "Having a temperature slightly higher than usual, but still pleasant; mildly hot.",
+      "Caring and friendly, of relations to another person.",
+      "Having a color in the red-orange-yellow part of the visible electromagnetic spectrum."
+    ],
+    "note": "照合のみ・元データ非改変。辞書に無い=誤りの証拠ではない。"
+  },
+  {
+    "id": "en-21128",
+    "word": "wheeler",
+    "registeredSense": "運搬者",
+    "source": "dictionaryapi.dev (Wiktionary CC-BY-SA)",
+    "status": "matched",
+    "matchedKeywords": [
+      "wheel",
+      "vehicle"
+    ],
+    "dictPos": [
+      "noun"
+    ],
+    "dictDefsSample": [
+      "A wheelwright, a wheelmaker.",
+      "Someone who operates a wheel.",
+      "A wheelhorse (horse near wheel of carriage)."
+    ],
+    "note": "照合のみ・元データ非改変。辞書に無い=誤りの証拠ではない。"
+  },
+  {
+    "id": "en-21268",
+    "word": "tong",
+    "registeredSense": "友愛団体",
+    "source": "dictionaryapi.dev (Wiktionary CC-BY-SA)",
+    "status": "matched",
+    "matchedKeywords": [
+      "society",
+      "secret",
+      "chinese"
+    ],
+    "dictPos": [
+      "noun",
+      "verb"
+    ],
+    "dictDefsSample": [
+      "An instrument or tool used for manipulating things in a fire without touching them with the hands.",
+      "To use tongs.",
+      "To grab, manipulate or transport something using tongs."
+    ],
+    "note": "照合のみ・元データ非改変。辞書に無い=誤りの証拠ではない。"
+  },
+  {
+    "id": "en-21293",
+    "word": "blasted",
+    "registeredSense": "いまいましい",
+    "source": "dictionaryapi.dev (Wiktionary CC-BY-SA)",
+    "status": "matched",
+    "matchedKeywords": [
+      "damned",
+      "cursed",
+      "damn"
+    ],
+    "dictPos": [
+      "verb",
+      "adjective",
+      "adverb"
+    ],
+    "dictDefsSample": [
+      "To make an impression on, by making a loud blast or din.",
+      "To make a loud noise.",
+      "To shatter, as if by an explosion."
+    ],
+    "note": "照合のみ・元データ非改変。辞書に無い=誤りの証拠ではない。"
+  },
+  {
+    "id": "en-21406",
+    "word": "bouncing",
+    "registeredSense": "健康な",
+    "source": "dictionaryapi.dev (Wiktionary CC-BY-SA)",
+    "status": "matched",
+    "matchedKeywords": [
+      "healthy",
+      "vigorous"
+    ],
+    "dictPos": [
+      "verb",
+      "noun",
+      "adjective"
+    ],
+    "dictDefsSample": [
+      "To change the direction of motion after hitting an obstacle.",
+      "To move quickly up and then down, or vice versa, once or repeatedly.",
+      "To cause to move quickly up and down, or back and forth, once or repeatedly."
+    ],
+    "note": "照合のみ・元データ非改変。辞書に無い=誤りの証拠ではない。"
+  },
+  {
+    "id": "en-21935",
+    "word": "ting",
+    "registeredSense": "鳴らす",
+    "source": "dictionaryapi.dev (Wiktionary CC-BY-SA)",
+    "status": "matched",
+    "matchedKeywords": [
+      "sound"
+    ],
+    "dictPos": [
+      "noun",
+      "verb",
+      "interjection"
+    ],
+    "dictDefsSample": [
+      "The sound made when a small bell is struck.",
+      "To make a high sharp sound like a small bell being struck.",
+      "Used to represent the sound of a small bell."
+    ],
+    "note": "照合のみ・元データ非改変。辞書に無い=誤りの証拠ではない。"
+  },
+  {
+    "id": "en-22638",
+    "word": "blinking",
+    "registeredSense": "まったくひどい",
+    "source": "dictionaryapi.dev (Wiktionary CC-BY-SA)",
+    "status": "matched",
+    "matchedKeywords": [
+      "bloody"
+    ],
+    "dictPos": [
+      "verb",
+      "noun",
+      "adjective"
+    ],
+    "dictDefsSample": [
+      "To close and reopen both eyes quickly.",
+      "To flash on and off at regular intervals.",
+      "To perform the smallest action that could solicit a response."
+    ],
+    "note": "照合のみ・元データ非改変。辞書に無い=誤りの証拠ではない。"
+  },
+  {
+    "id": "en-22747",
+    "word": "dickens",
+    "registeredSense": "悪魔",
+    "source": "dictionaryapi.dev (Wiktionary CC-BY-SA)",
+    "status": "matched",
+    "matchedKeywords": [
+      "devil"
+    ],
+    "dictPos": [
+      "noun"
+    ],
+    "dictDefsSample": [
+      "The devil.",
+      "In the phrase the dickens (Used as an intensifier).",
+      "A disturbance or row."
+    ],
+    "note": "照合のみ・元データ非改変。辞書に無い=誤りの証拠ではない。"
+  },
+  {
+    "id": "en-22855",
+    "word": "tat",
+    "registeredSense": "タッチングで作る",
+    "source": "dictionaryapi.dev (Wiktionary CC-BY-SA)",
+    "status": "matched",
+    "matchedKeywords": [
+      "tatting",
+      "tat"
+    ],
+    "dictPos": [
+      "noun",
+      "verb"
+    ],
+    "dictDefsSample": [
+      "Cheap and vulgar tastelessness; sleaze.",
+      "Cheap, tasteless, useless goods; trinkets.",
+      "Gunny cloth made from the fibre of the Corchorus olitorius (jute)."
+    ],
+    "note": "照合のみ・元データ非改変。辞書に無い=誤りの証拠ではない。"
+  },
+  {
+    "id": "en-22971",
+    "word": "gaga",
+    "registeredSense": "夢中の",
+    "source": "dictionaryapi.dev (Wiktionary CC-BY-SA)",
+    "status": "matched",
+    "matchedKeywords": [
+      "infatuated",
+      "crazy",
+      "senile"
+    ],
+    "dictPos": [
+      "adjective",
+      "noun"
+    ],
+    "dictDefsSample": [
+      "Mentally senile.",
+      "Crazy.",
+      "Infatuated."
+    ],
+    "note": "照合のみ・元データ非改変。辞書に無い=誤りの証拠ではない。"
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "note": "CC-CEDICT未取得のため全件 not_checked。32件スコープに中国語対象は無く、これは試作デモ。",
+  "downloadCommand": "curl -L -o tools/dictionary-audit/cedict_1_0_ts_utf-8_mdbg.txt.gz \"https://www.mdbg.net/chinese/export/cedict/cedict_1_0_ts_utf-8_mdbg.txt.gz\" && gunzip -k cedict_1_0_ts_utf-8_mdbg.txt.gz  # ※~4MB。ライセンス(CC-BY-SA)確認後に実行",
+  "results": [
+    {
+      "id": "zh-03808",
+      "word": "声",
+      "sense": "声/音",
+      "note": "ローカルにCC-CEDICT無し。下記DL後に再実行。辞書に無い=誤りではない。",
+      "source": "CC-CEDICT (未取得)",
+      "status": "not_checked"
+    },
+    {
+      "id": "zh-02747",
+      "word": "圈",
+      "sense": "輪/一周",
+      "note": "ローカルにCC-CEDICT無し。下記DL後に再実行。辞書に無い=誤りではない。",
+      "source": "CC-CEDICT (未取得)",
+      "status": "not_checked"
+    }
+  ]
+}

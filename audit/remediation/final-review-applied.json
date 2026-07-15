@@ -1,0 +1,369 @@
+{
+  "appliedB": 5,
+  "hiddenC": 22,
+  "applied": [
+    {
+      "id": "en-02944",
+      "file": "public/wordbank/english/level-4.json",
+      "field": "example",
+      "before": {
+        "example": "August is coming to an end. — 8月が終わろうとしています。",
+        "exampleForm": "August"
+      },
+      "after": {
+        "example": "The judge had an august manner. — その裁判官は威厳のある物腰だった。",
+        "exampleForm": "august"
+      },
+      "reason": "月名Augustの例文を形容詞『威厳のある』へ。多義ゆえ人手確認推奨。",
+      "confidence": 0.98
+    },
+    {
+      "id": "en-06006",
+      "file": "public/wordbank/english/level-5.json",
+      "field": "example",
+      "before": {
+        "example": "Ho Chi Minh City is the largest city in Vietnam. — ホーチミン市はベトナムで最も大きな都市だ。",
+        "exampleForm": "Chi"
+      },
+      "after": {
+        "example": "Deep breathing helps your chi flow. — 深い呼吸は気の流れを助ける。",
+        "exampleForm": "chi"
+      },
+      "reason": "地名Ho Chi Minhの例文を『気(チ)』へ。人手確認推奨。",
+      "confidence": 0.98
+    },
+    {
+      "id": "en-06240",
+      "file": "public/wordbank/english/level-5.json",
+      "field": "example",
+      "before": {
+        "example": "Turner stands out among the painters of his time. — ターナーは同時代の画家の中でも傑出している。",
+        "exampleForm": "Turner"
+      },
+      "after": {
+        "example": "The turner shaped the chair legs on a lathe. — 旋盤工は旋盤で椅子の脚を削った。",
+        "exampleForm": "turner"
+      },
+      "reason": "画家Turnerの例文を『旋盤工』へ。人手確認推奨。",
+      "confidence": 0.98
+    },
+    {
+      "id": "en-06502",
+      "file": "public/wordbank/english/level-5.json",
+      "field": "example",
+      "before": {
+        "example": "Signs of social unrest are mounting. — 社会不安の兆候が高まりつつある。",
+        "exampleForm": "mounting"
+      },
+      "after": {
+        "example": "The wall mounting for the TV is sturdy. — テレビの壁据えつけは頑丈だ。",
+        "exampleForm": "mounting"
+      },
+      "reason": "mounting(高まる)の例文を名詞『据えつけ』へ。多義で紛れやすく人手確認。",
+      "confidence": 0.98
+    },
+    {
+      "id": "en-21117",
+      "file": "public/wordbank/english/level-6.json",
+      "field": "example",
+      "before": {
+        "example": "It will get warmer and warmer. — だんだん暖かくなります。",
+        "exampleForm": "warmer"
+      },
+      "after": {
+        "example": "This pocket warmer keeps my hands warm. — このカイロは手を温かく保つ。",
+        "exampleForm": "warmer"
+      },
+      "reason": "warmer(より暖かい・比較級)の例文を名詞『暖めるもの』へ。人手確認推奨。",
+      "confidence": 0.98
+    }
+  ],
+  "hidden": [
+    {
+      "id": "en-02892",
+      "file": "public/wordbank/english/level-4.json",
+      "before": {
+        "example": "John is as old as I. — ジョンは私と同い年です。",
+        "exampleForm": "John"
+      },
+      "after": {
+        "example": "",
+        "exampleForm": ""
+      },
+      "reason": "登録語義と不一致の例文を確定まで暫定非表示(空文字)。QuestionEngineが例文問題から自動除外・UI非表示。"
+    },
+    {
+      "id": "en-02925",
+      "file": "public/wordbank/english/level-4.json",
+      "before": {
+        "example": "I use \"Yahoo\" to browse the internet. — インターネットの閲覧にYahooを使っている。",
+        "exampleForm": "Yahoo"
+      },
+      "after": {
+        "example": "",
+        "exampleForm": ""
+      },
+      "reason": "登録語義と不一致の例文を確定まで暫定非表示(空文字)。QuestionEngineが例文問題から自動除外・UI非表示。"
+    },
+    {
+      "id": "en-03158",
+      "file": "public/wordbank/english/level-4.json",
+      "before": {
+        "example": "He's beating me, three to zip. — ３対０で彼には負けています。",
+        "exampleForm": "zip"
+      },
+      "after": {
+        "example": "",
+        "exampleForm": ""
+      },
+      "reason": "登録語義と不一致の例文を確定まで暫定非表示(空文字)。QuestionEngineが例文問題から自動除外・UI非表示。"
+    },
+    {
+      "id": "en-03412",
+      "file": "public/wordbank/english/level-4.json",
+      "before": {
+        "example": "Tom is in a bad mood. — トムは機嫌が悪い。",
+        "exampleForm": "Tom"
+      },
+      "after": {
+        "example": "",
+        "exampleForm": ""
+      },
+      "reason": "登録語義と不一致の例文を確定まで暫定非表示(空文字)。QuestionEngineが例文問題から自動除外・UI非表示。"
+    },
+    {
+      "id": "en-03820",
+      "file": "public/wordbank/english/level-4.json",
+      "before": {
+        "example": "There are pros and cons to anything. — なんにでも、長所と短所の両方がある。",
+        "exampleForm": "cons"
+      },
+      "after": {
+        "example": "",
+        "exampleForm": ""
+      },
+      "reason": "登録語義と不一致の例文を確定まで暫定非表示(空文字)。QuestionEngineが例文問題から自動除外・UI非表示。"
+    },
+    {
+      "id": "en-04080",
+      "file": "public/wordbank/english/level-4.json",
+      "before": {
+        "example": "Queen Victoria was the sovereign of Great Britain. — ビクトリア女王は英国の君主だった。",
+        "exampleForm": "Victoria"
+      },
+      "after": {
+        "example": "",
+        "exampleForm": ""
+      },
+      "reason": "登録語義と不一致の例文を確定まで暫定非表示(空文字)。QuestionEngineが例文問題から自動除外・UI非表示。"
+    },
+    {
+      "id": "en-04192",
+      "file": "public/wordbank/english/level-4.json",
+      "before": {
+        "example": "He is holding up her work. — 彼は彼女の仕事を妨げている。",
+        "exampleForm": "holding"
+      },
+      "after": {
+        "example": "",
+        "exampleForm": ""
+      },
+      "reason": "登録語義と不一致の例文を確定まで暫定非表示(空文字)。QuestionEngineが例文問題から自動除外・UI非表示。"
+    },
+    {
+      "id": "en-04411",
+      "file": "public/wordbank/english/level-4.json",
+      "before": {
+        "example": "Infrared and ultra-violet rays are types of light invisible to the human eye. — 赤外線や紫外線は、人の目には見えない光である。",
+        "exampleForm": "ultra"
+      },
+      "after": {
+        "example": "",
+        "exampleForm": ""
+      },
+      "reason": "登録語義と不一致の例文を確定まで暫定非表示(空文字)。QuestionEngineが例文問題から自動除外・UI非表示。"
+    },
+    {
+      "id": "en-06272",
+      "file": "public/wordbank/english/level-5.json",
+      "before": {
+        "example": "The first Macintosh PC was released in 1984. — 初代Macは1984年にリリースされた。",
+        "exampleForm": "Macintosh"
+      },
+      "after": {
+        "example": "",
+        "exampleForm": ""
+      },
+      "reason": "登録語義と不一致の例文を確定まで暫定非表示(空文字)。QuestionEngineが例文問題から自動除外・UI非表示。"
+    },
+    {
+      "id": "en-06281",
+      "file": "public/wordbank/english/level-5.json",
+      "before": {
+        "example": "I am hanging up my shirts. — シャツを掛けているところです。",
+        "exampleForm": "hanging"
+      },
+      "after": {
+        "example": "",
+        "exampleForm": ""
+      },
+      "reason": "登録語義と不一致の例文を確定まで暫定非表示(空文字)。QuestionEngineが例文問題から自動除外・UI非表示。"
+    },
+    {
+      "id": "en-20363",
+      "file": "public/wordbank/english/level-6.json",
+      "before": {
+        "example": "This Scotch tape doesn't stick. — このセロテープ、くっつかないんだけど。",
+        "exampleForm": "Scotch"
+      },
+      "after": {
+        "example": "",
+        "exampleForm": ""
+      },
+      "reason": "登録語義と不一致の例文を確定まで暫定非表示(空文字)。QuestionEngineが例文問題から自動除外・UI非表示。"
+    },
+    {
+      "id": "en-20434",
+      "file": "public/wordbank/english/level-6.json",
+      "before": {
+        "example": "The bottle smashed to pieces. — 瓶は粉々に割れた。",
+        "exampleForm": "smashed"
+      },
+      "after": {
+        "example": "",
+        "exampleForm": ""
+      },
+      "reason": "登録語義と不一致の例文を確定まで暫定非表示(空文字)。QuestionEngineが例文問題から自動除外・UI非表示。"
+    },
+    {
+      "id": "en-21103",
+      "file": "public/wordbank/english/level-6.json",
+      "before": {
+        "example": "It was just a fender bender. — 軽い接触事故だったんだ。",
+        "exampleForm": "bender"
+      },
+      "after": {
+        "example": "",
+        "exampleForm": ""
+      },
+      "reason": "登録語義と不一致の例文を確定まで暫定非表示(空文字)。QuestionEngineが例文問題から自動除外・UI非表示。"
+    },
+    {
+      "id": "en-21128",
+      "file": "public/wordbank/english/level-6.json",
+      "before": {
+        "example": "He is a real wheeler-dealer. — 彼はやり手です。",
+        "exampleForm": "wheeler"
+      },
+      "after": {
+        "example": "",
+        "exampleForm": ""
+      },
+      "reason": "登録語義と不一致の例文を確定まで暫定非表示(空文字)。QuestionEngineが例文問題から自動除外・UI非表示。"
+    },
+    {
+      "id": "en-21268",
+      "file": "public/wordbank/english/level-6.json",
+      "before": {
+        "example": "I burned my forefinger on fire tongs. — 火ばさみで人差し指をやけどした。",
+        "exampleForm": "tongs"
+      },
+      "after": {
+        "example": "",
+        "exampleForm": ""
+      },
+      "reason": "登録語義と不一致の例文を確定まで暫定非表示(空文字)。QuestionEngineが例文問題から自動除外・UI非表示。"
+    },
+    {
+      "id": "en-21293",
+      "file": "public/wordbank/english/level-6.json",
+      "before": {
+        "example": "The rocket blasted out of the atmosphere. — ロケットは大気圏外へ飛んでいった。",
+        "exampleForm": "blasted"
+      },
+      "after": {
+        "example": "",
+        "exampleForm": ""
+      },
+      "reason": "登録語義と不一致の例文を確定まで暫定非表示(空文字)。QuestionEngineが例文問題から自動除外・UI非表示。"
+    },
+    {
+      "id": "en-21406",
+      "file": "public/wordbank/english/level-6.json",
+      "before": {
+        "example": "The children started bouncing up and down on the couch. — 子供たちはソファの上で跳び始めた。",
+        "exampleForm": "bouncing"
+      },
+      "after": {
+        "example": "",
+        "exampleForm": ""
+      },
+      "reason": "登録語義と不一致の例文を確定まで暫定非表示(空文字)。QuestionEngineが例文問題から自動除外・UI非表示。"
+    },
+    {
+      "id": "en-21935",
+      "file": "public/wordbank/english/level-7.json",
+      "before": {
+        "example": "Her cheeks were tinged with pink. — 彼女のほおは薄く桃色に染まっていた。",
+        "exampleForm": "tinged"
+      },
+      "after": {
+        "example": "",
+        "exampleForm": ""
+      },
+      "reason": "登録語義と不一致の例文を確定まで暫定非表示(空文字)。QuestionEngineが例文問題から自動除外・UI非表示。"
+    },
+    {
+      "id": "en-22638",
+      "file": "public/wordbank/english/level-7.json",
+      "before": {
+        "example": "Little lights were blinking on and off in the distance. — 遠くで小さな明かりがちらちらしていた。",
+        "exampleForm": "blinking"
+      },
+      "after": {
+        "example": "",
+        "exampleForm": ""
+      },
+      "reason": "登録語義と不一致の例文を確定まで暫定非表示(空文字)。QuestionEngineが例文問題から自動除外・UI非表示。"
+    },
+    {
+      "id": "en-22747",
+      "file": "public/wordbank/english/level-7.json",
+      "before": {
+        "example": "Dickens was the author of 'Oliver Twist'. — ディケンズは『オリバー・ツイスト』の著者です。",
+        "exampleForm": "Dickens"
+      },
+      "after": {
+        "example": "",
+        "exampleForm": ""
+      },
+      "reason": "登録語義と不一致の例文を確定まで暫定非表示(空文字)。QuestionEngineが例文問題から自動除外・UI非表示。"
+    },
+    {
+      "id": "en-22855",
+      "file": "public/wordbank/english/level-7.json",
+      "before": {
+        "example": "Tit for tat. — しっぺ返しだよ。",
+        "exampleForm": "tat"
+      },
+      "after": {
+        "example": "",
+        "exampleForm": ""
+      },
+      "reason": "登録語義と不一致の例文を確定まで暫定非表示(空文字)。QuestionEngineが例文問題から自動除外・UI非表示。"
+    },
+    {
+      "id": "en-22971",
+      "file": "public/wordbank/english/level-7.json",
+      "before": {
+        "example": "I wish I could sing as well as Lady Gaga. — レディ・ガガみたいに上手く歌えたらなあ。",
+        "exampleForm": "Gaga"
+      },
+      "after": {
+        "example": "",
+        "exampleForm": ""
+      },
+      "reason": "登録語義と不一致の例文を確定まで暫定非表示(空文字)。QuestionEngineが例文問題から自動除外・UI非表示。"
+    }
+  ]
+}

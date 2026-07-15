@@ -1,0 +1,285 @@
+[
+  {
+    "id": "en-02944",
+    "category": "B",
+    "finalStatus": "resolved",
+    "action": "example_replaced",
+    "dictionary": "matched",
+    "publishable": true
+  },
+  {
+    "id": "en-06006",
+    "category": "B",
+    "finalStatus": "resolved",
+    "action": "example_replaced",
+    "dictionary": "matched",
+    "publishable": true
+  },
+  {
+    "id": "en-06240",
+    "category": "B",
+    "finalStatus": "resolved",
+    "action": "example_replaced",
+    "dictionary": "matched",
+    "publishable": true
+  },
+  {
+    "id": "en-06502",
+    "category": "B",
+    "finalStatus": "resolved",
+    "action": "example_replaced",
+    "dictionary": "matched",
+    "publishable": true
+  },
+  {
+    "id": "en-21117",
+    "category": "B",
+    "finalStatus": "resolved",
+    "action": "example_replaced",
+    "dictionary": "matched",
+    "publishable": true
+  },
+  {
+    "id": "en-02892",
+    "category": "C",
+    "finalStatus": "partially_resolved",
+    "action": "example_hidden_temporarily",
+    "dictionary": "matched",
+    "publishable": true,
+    "note": "誤情報は非表示。理想の例文作成は人手保留"
+  },
+  {
+    "id": "en-02925",
+    "category": "C",
+    "finalStatus": "partially_resolved",
+    "action": "example_hidden_temporarily",
+    "dictionary": "matched",
+    "publishable": true,
+    "note": "誤情報は非表示。理想の例文作成は人手保留"
+  },
+  {
+    "id": "en-03158",
+    "category": "C",
+    "finalStatus": "partially_resolved",
+    "action": "example_hidden_temporarily",
+    "dictionary": "matched",
+    "publishable": true,
+    "note": "誤情報は非表示。理想の例文作成は人手保留"
+  },
+  {
+    "id": "en-03412",
+    "category": "C",
+    "finalStatus": "partially_resolved",
+    "action": "example_hidden_temporarily",
+    "dictionary": "matched",
+    "publishable": true,
+    "note": "誤情報は非表示。理想の例文作成は人手保留"
+  },
+  {
+    "id": "en-03820",
+    "category": "C",
+    "finalStatus": "partially_resolved",
+    "action": "example_hidden_temporarily",
+    "dictionary": "partially_matched",
+    "publishable": true,
+    "note": "誤情報は非表示。理想の例文作成は人手保留"
+  },
+  {
+    "id": "en-04080",
+    "category": "C",
+    "finalStatus": "partially_resolved",
+    "action": "example_hidden_temporarily",
+    "dictionary": "matched",
+    "publishable": true,
+    "note": "誤情報は非表示。理想の例文作成は人手保留"
+  },
+  {
+    "id": "en-04192",
+    "category": "C",
+    "finalStatus": "partially_resolved",
+    "action": "example_hidden_temporarily",
+    "dictionary": "matched",
+    "publishable": true,
+    "note": "誤情報は非表示。理想の例文作成は人手保留"
+  },
+  {
+    "id": "en-04411",
+    "category": "C",
+    "finalStatus": "partially_resolved",
+    "action": "example_hidden_temporarily",
+    "dictionary": "matched",
+    "publishable": true,
+    "note": "誤情報は非表示。理想の例文作成は人手保留"
+  },
+  {
+    "id": "en-06272",
+    "category": "C",
+    "finalStatus": "partially_resolved",
+    "action": "example_hidden_temporarily",
+    "dictionary": "matched",
+    "publishable": true,
+    "note": "誤情報は非表示。理想の例文作成は人手保留"
+  },
+  {
+    "id": "en-06281",
+    "category": "C",
+    "finalStatus": "partially_resolved",
+    "action": "example_hidden_temporarily",
+    "dictionary": "matched",
+    "publishable": true,
+    "note": "誤情報は非表示。理想の例文作成は人手保留"
+  },
+  {
+    "id": "en-20363",
+    "category": "C",
+    "finalStatus": "partially_resolved",
+    "action": "example_hidden_temporarily",
+    "dictionary": "partially_matched",
+    "publishable": true,
+    "note": "誤情報は非表示。理想の例文作成は人手保留"
+  },
+  {
+    "id": "en-20434",
+    "category": "C",
+    "finalStatus": "partially_resolved",
+    "action": "example_hidden_temporarily",
+    "dictionary": "matched",
+    "publishable": true,
+    "note": "誤情報は非表示。理想の例文作成は人手保留"
+  },
+  {
+    "id": "en-21103",
+    "category": "C",
+    "finalStatus": "partially_resolved",
+    "action": "example_hidden_temporarily",
+    "dictionary": "matched",
+    "publishable": true,
+    "note": "誤情報は非表示。理想の例文作成は人手保留"
+  },
+  {
+    "id": "en-21128",
+    "category": "C",
+    "finalStatus": "partially_resolved",
+    "action": "example_hidden_temporarily",
+    "dictionary": "matched",
+    "publishable": true,
+    "note": "誤情報は非表示。理想の例文作成は人手保留"
+  },
+  {
+    "id": "en-21268",
+    "category": "C",
+    "finalStatus": "partially_resolved",
+    "action": "example_hidden_temporarily",
+    "dictionary": "matched",
+    "publishable": true,
+    "note": "誤情報は非表示。理想の例文作成は人手保留"
+  },
+  {
+    "id": "en-21293",
+    "category": "C",
+    "finalStatus": "partially_resolved",
+    "action": "example_hidden_temporarily",
+    "dictionary": "matched",
+    "publishable": true,
+    "note": "誤情報は非表示。理想の例文作成は人手保留"
+  },
+  {
+    "id": "en-21406",
+    "category": "C",
+    "finalStatus": "partially_resolved",
+    "action": "example_hidden_temporarily",
+    "dictionary": "matched",
+    "publishable": true,
+    "note": "誤情報は非表示。理想の例文作成は人手保留"
+  },
+  {
+    "id": "en-21935",
+    "category": "C",
+    "finalStatus": "partially_resolved",
+    "action": "example_hidden_temporarily",
+    "dictionary": "matched",
+    "publishable": true,
+    "note": "誤情報は非表示。理想の例文作成は人手保留"
+  },
+  {
+    "id": "en-22638",
+    "category": "C",
+    "finalStatus": "partially_resolved",
+    "action": "example_hidden_temporarily",
+    "dictionary": "matched",
+    "publishable": true,
+    "note": "誤情報は非表示。理想の例文作成は人手保留"
+  },
+  {
+    "id": "en-22747",
+    "category": "C",
+    "finalStatus": "partially_resolved",
+    "action": "example_hidden_temporarily",
+    "dictionary": "matched",
+    "publishable": true,
+    "note": "誤情報は非表示。理想の例文作成は人手保留"
+  },
+  {
+    "id": "en-22855",
+    "category": "C",
+    "finalStatus": "partially_resolved",
+    "action": "example_hidden_temporarily",
+    "dictionary": "matched",
+    "publishable": true,
+    "note": "誤情報は非表示。理想の例文作成は人手保留"
+  },
+  {
+    "id": "en-22971",
+    "category": "C",
+    "finalStatus": "partially_resolved",
+    "action": "example_hidden_temporarily",
+    "dictionary": "matched",
+    "publishable": true,
+    "note": "誤情報は非表示。理想の例文作成は人手保留"
+  },
+  {
+    "id": "es-00432",
+    "category": "C",
+    "finalStatus": "needs_human_review",
+    "action": "unchanged_dictionary_pending",
+    "dictionary": "not_checked",
+    "publishable": true,
+    "note": "pivot訳の空似言葉懸念。不快語ではないがanswer変更は辞書確認要のため現状維持"
+  },
+  {
+    "id": "es-01405",
+    "category": "C",
+    "finalStatus": "needs_human_review",
+    "action": "unchanged_dictionary_pending",
+    "dictionary": "not_checked",
+    "publishable": true,
+    "note": "pivot訳の空似言葉懸念。不快語ではないがanswer変更は辞書確認要のため現状維持"
+  },
+  {
+    "id": "fr-00092",
+    "category": "C",
+    "finalStatus": "needs_human_review",
+    "action": "unchanged_dictionary_pending",
+    "dictionary": "not_checked",
+    "publishable": true,
+    "note": "pivot訳の空似言葉懸念。不快語ではないがanswer変更は辞書確認要のため現状維持"
+  },
+  {
+    "id": "fr-00645",
+    "category": "C",
+    "finalStatus": "needs_human_review",
+    "action": "unchanged_dictionary_pending",
+    "dictionary": "not_checked",
+    "publishable": true,
+    "note": "pivot訳の空似言葉懸念。不快語ではないがanswer変更は辞書確認要のため現状維持"
+  },
+  {
+    "id": "fr-01022",
+    "category": "C",
+    "finalStatus": "needs_human_review",
+    "action": "unchanged_dictionary_pending",
+    "dictionary": "not_checked",
+    "publishable": true,
+    "note": "pivot訳の空似言葉懸念。不快語ではないがanswer変更は辞書確認要のため現状維持"
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "id": "en-02892",
+    "word": "john",
+    "sense": "手洗い",
+    "expect": [
+      "toilet",
+      "lavatory",
+      "bathroom"
+    ]
+  },
+  {
+    "id": "en-02925",
+    "word": "yahoo",
+    "sense": "乱暴者",
+    "expect": [
+      "brute",
+      "lout",
+      "boor",
+      "rude",
+      "uncouth"
+    ]
+  },
+  {
+    "id": "en-02944",
+    "word": "august",
+    "sense": "威厳のある",
+    "expect": [
+      "majestic",
+      "venerable",
+      "noble",
+      "dignified",
+      "awe"
+    ]
+  },
+  {
+    "id": "en-03158",
+    "word": "zip",
+    "sense": "ビュッという音",
+    "expect": [
+      "whizz",
+      "hiss",
+      "sound",
+      "zipping"
+    ]
+  },
+  {
+    "id": "en-03412",
+    "word": "tom",
+    "sense": "雄",
+    "expect": [
+      "male"
+    ]
+  },
+  {
+    "id": "en-03820",
+    "word": "con",
+    "sense": "反対投票",
+    "expect": [
+      "against",
+      "opposition",
+      "opposing"
+    ]
+  },
+  {
+    "id": "en-04080",
+    "word": "victoria",
+    "sense": "四輪馬車",
+    "expect": [
+      "carriage"
+    ]
+  },
+  {
+    "id": "en-04192",
+    "word": "holding",
+    "sense": "しっかり握ること",
+    "expect": [
+      "grip",
+      "hold",
+      "grasp"
+    ]
+  },
+  {
+    "id": "en-04411",
+    "word": "ultra",
+    "sense": "極端な",
+    "expect": [
+      "extreme",
+      "extremist"
+    ]
+  },
+  {
+    "id": "en-06006",
+    "word": "chi",
+    "sense": "気",
+    "expect": [
+      "qi",
+      "life force",
+      "vital",
+      "energy"
+    ]
+  },
+  {
+    "id": "en-06240",
+    "word": "turner",
+    "sense": "旋盤工",
+    "expect": [
+      "lathe",
+      "turns"
+    ]
+  },
+  {
+    "id": "en-06272",
+    "word": "macintosh",
+    "sense": "防水コート",
+    "expect": [
+      "raincoat",
+      "waterproof",
+      "mackintosh"
+    ]
+  },
+  {
+    "id": "en-06281",
+    "word": "hanging",
+    "sense": "絞首刑",
+    "expect": [
+      "execution",
+      "hang",
+      "gallows"
+    ]
+  },
+  {
+    "id": "en-06502",
+    "word": "mounting",
+    "sense": "据えつけ",
+    "expect": [
+      "support",
+      "fixture",
+      "mount",
+      "frame"
+    ]
+  },
+  {
+    "id": "en-20363",
+    "word": "scotch",
+    "sense": "押しつぶす",
+    "expect": [
+      "put an end",
+      "suppress",
+      "crush",
+      "thwart",
+      "hinder"
+    ]
+  },
+  {
+    "id": "en-20434",
+    "word": "smashed",
+    "sense": "酔っぱらった",
+    "expect": [
+      "drunk",
+      "intoxicated"
+    ]
+  },
+  {
+    "id": "en-21103",
+    "word": "bender",
+    "sense": "酒盛り",
+    "expect": [
+      "drinking",
+      "spree",
+      "binge"
+    ]
+  },
+  {
+    "id": "en-21117",
+    "word": "warmer",
+    "sense": "暖めるもの",
+    "expect": [
+      "heater",
+      "warm",
+      "warming",
+      "device"
+    ]
+  },
+  {
+    "id": "en-21128",
+    "word": "wheeler",
+    "sense": "運搬者",
+    "expect": [
+      "wheel",
+      "vehicle",
+      "cart"
+    ]
+  },
+  {
+    "id": "en-21268",
+    "word": "tong",
+    "sense": "友愛団体",
+    "expect": [
+      "society",
+      "association",
+      "secret",
+      "chinese"
+    ]
+  },
+  {
+    "id": "en-21293",
+    "word": "blasted",
+    "sense": "いまいましい",
+    "expect": [
+      "damned",
+      "cursed",
+      "confounded",
+      "damn"
+    ]
+  },
+  {
+    "id": "en-21406",
+    "word": "bouncing",
+    "sense": "健康な",
+    "expect": [
+      "healthy",
+      "robust",
+      "vigorous",
+      "lively"
+    ]
+  },
+  {
+    "id": "en-21935",
+    "word": "ting",
+    "sense": "鳴らす",
+    "expect": [
+      "ring",
+      "tinkle",
+      "sound",
+      "chime"
+    ]
+  },
+  {
+    "id": "en-22638",
+    "word": "blinking",
+    "sense": "まったくひどい",
+    "expect": [
+      "damned",
+      "bloody",
+      "confounded",
+      "damn"
+    ]
+  },
+  {
+    "id": "en-22747",
+    "word": "dickens",
+    "sense": "悪魔",
+    "expect": [
+      "devil",
+      "deuce",
+      "hell"
+    ]
+  },
+  {
+    "id": "en-22855",
+    "word": "tat",
+    "sense": "タッチングで作る",
+    "expect": [
+      "tatting",
+      "lace",
+      "tat"
+    ]
+  },
+  {
+    "id": "en-22971",
+    "word": "gaga",
+    "sense": "夢中の",
+    "expect": [
+      "infatuated",
+      "crazy",
+      "obsessed",
+      "senile",
+      "dote"
+    ]
+  }
+]

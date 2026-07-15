@@ -1,0 +1,399 @@
+[
+  {
+    "id": "en-02892",
+    "language": "en",
+    "headword": "john",
+    "answer": "手洗い",
+    "currentExample": "John is as old as I. — ジョンは私と同い年です。",
+    "proposed": {
+      "example": "Where is the john in this restaurant? — このレストランのお手洗いはどこですか？",
+      "exampleForm": "john"
+    },
+    "confidence": 0.9,
+    "cType": "wrong_example_hidden",
+    "note": "現例文が登録語義と不一致。確定まで例文を暫定非表示。",
+    "hideExample": true
+  },
+  {
+    "id": "en-02925",
+    "language": "en",
+    "headword": "yahoo",
+    "answer": "乱暴者",
+    "currentExample": "I use \"Yahoo\" to browse the internet. — インターネットの閲覧にYahooを使っている。",
+    "proposed": {
+      "example": "He behaved like a rude yahoo. — 彼は無礼な乱暴者のように振る舞った。",
+      "exampleForm": "yahoo"
+    },
+    "confidence": 0.9,
+    "cType": "wrong_example_hidden",
+    "note": "現例文が登録語義と不一致。確定まで例文を暫定非表示。",
+    "hideExample": true
+  },
+  {
+    "id": "en-03158",
+    "language": "en",
+    "headword": "zip",
+    "answer": "ビュッという音",
+    "currentExample": "He's beating me, three to zip. — ３対０で彼には負けています。",
+    "proposed": {
+      "example": "The ball flew past with a zip. — ボールはビュッという音を立てて飛び去った。",
+      "exampleForm": "zip"
+    },
+    "confidence": 0.9,
+    "cType": "wrong_example_hidden",
+    "note": "現例文が登録語義と不一致。確定まで例文を暫定非表示。",
+    "hideExample": true
+  },
+  {
+    "id": "en-03412",
+    "language": "en",
+    "headword": "tom",
+    "answer": "雄",
+    "currentExample": "Tom is in a bad mood. — トムは機嫌が悪い。",
+    "proposed": {
+      "example": "The old tom prowled the dark alley. — その年老いた雄猫は暗い路地をうろついた。",
+      "exampleForm": "tom"
+    },
+    "confidence": 0.9,
+    "cType": "wrong_example_hidden",
+    "note": "現例文が登録語義と不一致。確定まで例文を暫定非表示。",
+    "hideExample": true
+  },
+  {
+    "id": "en-03820",
+    "language": "en",
+    "headword": "con",
+    "answer": "反対投票",
+    "currentExample": "There are pros and cons to anything. — なんにでも、長所と短所の両方がある。",
+    "proposed": {
+      "example": "Only two delegates voted con. — 反対を投じた代議員は2名だけだった。",
+      "exampleForm": "con"
+    },
+    "confidence": 0.9,
+    "cType": "wrong_example_hidden",
+    "note": "現例文が登録語義と不一致。確定まで例文を暫定非表示。",
+    "hideExample": true
+  },
+  {
+    "id": "en-04080",
+    "language": "en",
+    "headword": "victoria",
+    "answer": "二人乗り四輪ほろ馬車",
+    "currentExample": "Queen Victoria was the sovereign of Great Britain. — ビクトリア女王は英国の君主だった。",
+    "proposed": {
+      "example": "They rode through the park in a victoria. — 彼らは四輪ほろ馬車で公園を巡った。",
+      "exampleForm": "victoria"
+    },
+    "confidence": 0.9,
+    "cType": "wrong_example_hidden",
+    "note": "現例文が登録語義と不一致。確定まで例文を暫定非表示。",
+    "hideExample": true
+  },
+  {
+    "id": "en-04192",
+    "language": "en",
+    "headword": "holding",
+    "answer": "しっかり握ること",
+    "currentExample": "He is holding up her work. — 彼は彼女の仕事を妨げている。",
+    "proposed": {
+      "example": "He kept a firm holding on the rope. — 彼はロープをしっかり握り続けた。",
+      "exampleForm": "holding"
+    },
+    "confidence": 0.9,
+    "cType": "wrong_example_hidden",
+    "note": "現例文が登録語義と不一致。確定まで例文を暫定非表示。",
+    "hideExample": true
+  },
+  {
+    "id": "en-04411",
+    "language": "en",
+    "headword": "ultra",
+    "answer": "極端な",
+    "currentExample": "Infrared and ultra-violet rays are types of light invisible to the human eye. — 赤外線や紫外線は、人の目には見えない光である。",
+    "proposed": {
+      "example": "His opinions are a little ultra. — 彼の意見は少し極端だ。",
+      "exampleForm": "ultra"
+    },
+    "confidence": 0.88,
+    "cType": "wrong_example_hidden",
+    "note": "現例文が登録語義と不一致。確定まで例文を暫定非表示。",
+    "hideExample": true
+  },
+  {
+    "id": "en-06272",
+    "language": "en",
+    "headword": "macintosh",
+    "answer": "防水コート",
+    "currentExample": "The first Macintosh PC was released in 1984. — 初代Macは1984年にリリースされた。",
+    "proposed": {
+      "example": "He put on a macintosh before the rain. — 彼は雨の前に防水コートを着た。",
+      "exampleForm": "macintosh"
+    },
+    "confidence": 0.9,
+    "cType": "wrong_example_hidden",
+    "note": "現例文が登録語義と不一致。確定まで例文を暫定非表示。",
+    "hideExample": true
+  },
+  {
+    "id": "en-06281",
+    "language": "en",
+    "headword": "hanging",
+    "answer": "絞首刑",
+    "currentExample": "I am hanging up my shirts. — シャツを掛けているところです。",
+    "proposed": {
+      "example": "In the past, that crime was punished by hanging. — 昔、その罪は絞首刑に処された。",
+      "exampleForm": "hanging"
+    },
+    "confidence": 0.9,
+    "cType": "wrong_example_hidden",
+    "note": "現例文が登録語義と不一致。確定まで例文を暫定非表示。",
+    "hideExample": true
+  },
+  {
+    "id": "en-20363",
+    "language": "en",
+    "headword": "scotch",
+    "answer": "押しつぶす",
+    "currentExample": "This Scotch tape doesn't stick. — このセロテープ、くっつかないんだけど。",
+    "proposed": {
+      "example": "The mayor moved to scotch the rumor. — 市長はうわさを押しつぶそうとした。",
+      "exampleForm": "scotch"
+    },
+    "confidence": 0.92,
+    "cType": "wrong_example_hidden",
+    "note": "現例文が登録語義と不一致。確定まで例文を暫定非表示。",
+    "hideExample": true
+  },
+  {
+    "id": "en-20434",
+    "language": "en",
+    "headword": "smashed",
+    "answer": "酔っぱらった",
+    "currentExample": "The bottle smashed to pieces. — 瓶は粉々に割れた。",
+    "proposed": {
+      "example": "After the party he was completely smashed. — パーティーの後、彼はすっかり酔っぱらった。",
+      "exampleForm": "smashed"
+    },
+    "confidence": 0.85,
+    "cType": "wrong_example_hidden",
+    "note": "現例文が登録語義と不一致。確定まで例文を暫定非表示。",
+    "hideExample": true
+  },
+  {
+    "id": "en-21103",
+    "language": "en",
+    "headword": "bender",
+    "answer": "酒を飲んでの大騒ぎ",
+    "currentExample": "It was just a fender bender. — 軽い接触事故だったんだ。",
+    "proposed": {
+      "example": "He went on a weekend bender. — 彼は週末に飲んで大騒ぎした。",
+      "exampleForm": "bender"
+    },
+    "confidence": 0.8,
+    "cType": "wrong_example_hidden",
+    "note": "現例文が登録語義と不一致。確定まで例文を暫定非表示。",
+    "hideExample": true
+  },
+  {
+    "id": "en-21128",
+    "language": "en",
+    "headword": "wheeler",
+    "answer": "トラック運搬者",
+    "currentExample": "He is a real wheeler-dealer. — 彼はやり手です。",
+    "proposed": {
+      "example": "The wheeler hauled goods across the state. — その運搬業者は州をまたいで荷を運んだ。",
+      "exampleForm": "wheeler"
+    },
+    "confidence": 0.85,
+    "cType": "wrong_example_hidden",
+    "note": "現例文が登録語義と不一致。確定まで例文を暫定非表示。",
+    "hideExample": true
+  },
+  {
+    "id": "en-21268",
+    "language": "en",
+    "headword": "tong",
+    "answer": "在米中国人の友愛団体",
+    "currentExample": "I burned my forefinger on fire tongs. — 火ばさみで人差し指をやけどした。",
+    "proposed": {},
+    "confidence": 0.8,
+    "cType": "wrong_example_hidden",
+    "note": "現例文が登録語義と不一致。確定まで例文を暫定非表示。",
+    "hideExample": true
+  },
+  {
+    "id": "en-21293",
+    "language": "en",
+    "headword": "blasted",
+    "answer": "いまいましい，のろわれた",
+    "currentExample": "The rocket blasted out of the atmosphere. — ロケットは大気圏外へ飛んでいった。",
+    "proposed": {
+      "example": "This blasted printer never works. — このいまいましいプリンターはちっとも動かない。",
+      "exampleForm": "blasted"
+    },
+    "confidence": 0.9,
+    "cType": "wrong_example_hidden",
+    "note": "現例文が登録語義と不一致。確定まで例文を暫定非表示。",
+    "hideExample": true
+  },
+  {
+    "id": "en-21406",
+    "language": "en",
+    "headword": "bouncing",
+    "answer": "健康な",
+    "currentExample": "The children started bouncing up and down on the couch. — 子供たちはソファの上で跳び始めた。",
+    "proposed": {
+      "example": "They have a bouncing, healthy baby. — 彼らには健康で元気な赤ちゃんがいる。",
+      "exampleForm": "bouncing"
+    },
+    "confidence": 0.95,
+    "cType": "wrong_example_hidden",
+    "note": "現例文が登録語義と不一致。確定まで例文を暫定非表示。",
+    "hideExample": true
+  },
+  {
+    "id": "en-21935",
+    "language": "en",
+    "headword": "ting",
+    "answer": "チリンチリンと鳴らす",
+    "currentExample": "Her cheeks were tinged with pink. — 彼女のほおは薄く桃色に染まっていた。",
+    "proposed": {
+      "example": "The little bell gave a bright ting. — 小さな鈴がチリンと澄んだ音で鳴った。",
+      "exampleForm": "ting"
+    },
+    "confidence": 0.9,
+    "cType": "wrong_example_hidden",
+    "note": "現例文が登録語義と不一致。確定まで例文を暫定非表示。",
+    "hideExample": true
+  },
+  {
+    "id": "en-22638",
+    "language": "en",
+    "headword": "blinking",
+    "answer": "まったくひどい",
+    "currentExample": "Little lights were blinking on and off in the distance. — 遠くで小さな明かりがちらちらしていた。",
+    "proposed": {
+      "example": "Where is that blinking key? — あのいまいましい鍵はどこだ？",
+      "exampleForm": "blinking"
+    },
+    "confidence": 0.9,
+    "cType": "wrong_example_hidden",
+    "note": "現例文が登録語義と不一致。確定まで例文を暫定非表示。",
+    "hideExample": true
+  },
+  {
+    "id": "en-22747",
+    "language": "en",
+    "headword": "dickens",
+    "answer": "悪魔",
+    "currentExample": "Dickens was the author of 'Oliver Twist'. — ディケンズは『オリバー・ツイスト』の著者です。",
+    "proposed": {
+      "example": "What the dickens is going on here? — 一体全体ここで何が起きているんだ？",
+      "exampleForm": "dickens"
+    },
+    "confidence": 0.9,
+    "cType": "wrong_example_hidden",
+    "note": "現例文が登録語義と不一致。確定まで例文を暫定非表示。",
+    "hideExample": true
+  },
+  {
+    "id": "en-22855",
+    "language": "en",
+    "headword": "tat",
+    "answer": "タッチングで作る",
+    "currentExample": "Tit for tat. — しっぺ返しだよ。",
+    "proposed": {
+      "example": "She likes to tat delicate lace. — 彼女は繊細なレースをタッチングで作るのが好きだ。",
+      "exampleForm": "tat"
+    },
+    "confidence": 0.85,
+    "cType": "wrong_example_hidden",
+    "note": "現例文が登録語義と不一致。確定まで例文を暫定非表示。",
+    "hideExample": true
+  },
+  {
+    "id": "en-22971",
+    "language": "en",
+    "headword": "gaga",
+    "answer": "夢中の，ぼけた",
+    "currentExample": "I wish I could sing as well as Lady Gaga. — レディ・ガガみたいに上手く歌えたらなあ。",
+    "proposed": {
+      "example": "The fans went gaga over the young singer. — ファンはその若い歌手に夢中になった。",
+      "exampleForm": "gaga"
+    },
+    "confidence": 0.88,
+    "cType": "wrong_example_hidden",
+    "note": "現例文が登録語義と不一致。確定まで例文を暫定非表示。",
+    "hideExample": true
+  },
+  {
+    "id": "es-00432",
+    "language": "es",
+    "headword": "dulce",
+    "answer": "candy",
+    "currentExample": null,
+    "proposed": {
+      "suggestion_glosses_ja": "菓子，甘いもの（形容詞義なら en を sweet に）"
+    },
+    "confidence": 0.85,
+    "cType": "pivot_gloss_dictionary_required",
+    "note": "例文フィールドなし・不快語ではない。answer/glosses変更は辞書確認要のため現状維持。",
+    "hideExample": false
+  },
+  {
+    "id": "es-01405",
+    "language": "es",
+    "headword": "cristo",
+    "answer": "jesus",
+    "currentExample": null,
+    "proposed": {
+      "suggestion_glosses_en": "Christ (Jesus)"
+    },
+    "confidence": 0.85,
+    "cType": "pivot_gloss_dictionary_required",
+    "note": "例文フィールドなし・不快語ではない。answer/glosses変更は辞書確認要のため現状維持。",
+    "hideExample": false
+  },
+  {
+    "id": "fr-00092",
+    "language": "fr",
+    "headword": "ensemble",
+    "answer": "set",
+    "currentExample": null,
+    "proposed": {
+      "suggestion_glosses_ja": "（名詞義なら『ひとそろい，一式』／副詞義なら en を together に）"
+    },
+    "confidence": 0.85,
+    "cType": "pivot_gloss_dictionary_required",
+    "note": "例文フィールドなし・不快語ではない。answer/glosses変更は辞書確認要のため現状維持。",
+    "hideExample": false
+  },
+  {
+    "id": "fr-00645",
+    "language": "fr",
+    "headword": "expérience",
+    "answer": "experiment",
+    "currentExample": null,
+    "proposed": {
+      "suggestion_glosses_en": "experience; experiment"
+    },
+    "confidence": 0.85,
+    "cType": "pivot_gloss_dictionary_required",
+    "note": "例文フィールドなし・不快語ではない。answer/glosses変更は辞書確認要のため現状維持。",
+    "hideExample": false
+  },
+  {
+    "id": "fr-01022",
+    "language": "fr",
+    "headword": "émission",
+    "answer": "emission",
+    "currentExample": null,
+    "proposed": {
+      "suggestion_glosses_en": "broadcast, program"
+    },
+    "confidence": 0.85,
+    "cType": "pivot_gloss_dictionary_required",
+    "note": "例文フィールドなし・不快語ではない。answer/glosses変更は辞書確認要のため現状維持。",
+    "hideExample": false
+  }
+]

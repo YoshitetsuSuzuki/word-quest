@@ -1,0 +1,67 @@
+[
+  {
+    "id": "en-02944",
+    "language": "en",
+    "headword": "august",
+    "answer": "威厳のある",
+    "currentExample": "August is coming to an end. — 8月が終わろうとしています。",
+    "proposed": {
+      "example": "The judge had an august manner. — その裁判官は威厳のある物腰だった。",
+      "exampleForm": "august"
+    },
+    "confidence": 0.92,
+    "decision": "apply_proposed"
+  },
+  {
+    "id": "en-06006",
+    "language": "en",
+    "headword": "chi",
+    "answer": "カイ，気",
+    "currentExample": "Ho Chi Minh City is the largest city in Vietnam. — ホーチミン市はベトナムで最も大きな都市だ。",
+    "proposed": {
+      "example": "Deep breathing helps your chi flow. — 深い呼吸は気の流れを助ける。",
+      "exampleForm": "chi"
+    },
+    "confidence": 0.9,
+    "decision": "apply_proposed"
+  },
+  {
+    "id": "en-06240",
+    "language": "en",
+    "headword": "turner",
+    "answer": "回す人，旋盤工",
+    "currentExample": "Turner stands out among the painters of his time. — ターナーは同時代の画家の中でも傑出している。",
+    "proposed": {
+      "example": "The turner shaped the chair legs on a lathe. — 旋盤工は旋盤で椅子の脚を削った。",
+      "exampleForm": "turner"
+    },
+    "confidence": 0.95,
+    "decision": "apply_proposed"
+  },
+  {
+    "id": "en-06502",
+    "language": "en",
+    "headword": "mounting",
+    "answer": "据えつけ",
+    "currentExample": "Signs of social unrest are mounting. — 社会不安の兆候が高まりつつある。",
+    "proposed": {
+      "example": "The wall mounting for the TV is sturdy. — テレビの壁据えつけは頑丈だ。",
+      "exampleForm": "mounting"
+    },
+    "confidence": 0.95,
+    "decision": "apply_proposed"
+  },
+  {
+    "id": "en-21117",
+    "language": "en",
+    "headword": "warmer",
+    "answer": "暖めるもの",
+    "currentExample": "It will get warmer and warmer. — だんだん暖かくなります。",
+    "proposed": {
+      "example": "This pocket warmer keeps my hands warm. — このカイロは手を温かく保つ。",
+      "exampleForm": "warmer"
+    },
+    "confidence": 0.92,
+    "decision": "apply_proposed"
+  }
+]
