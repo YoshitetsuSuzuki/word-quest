@@ -1,0 +1,1415 @@
+[
+  {
+    "id": "en-20863",
+    "language": "en",
+    "headword": "madman",
+    "tier": 1,
+    "field": "answer+choices+explanation",
+    "before": {
+      "answer": "気違い",
+      "choices": [
+        "協力的な",
+        "とてもおかしい",
+        "気違い",
+        "巨大な"
+      ]
+    },
+    "after": {
+      "answer": "狂人",
+      "choicesReplace": {
+        "from": "気違い",
+        "to": "狂人"
+      },
+      "explanation": "madman = 狂人"
+    },
+    "reason": "侮蔑語『気違い』を中立的な『狂人』へ。例文和訳は既に『狂人』を使用し整合。answer・正解選択肢・explanationを同時置換し4択構造を維持。",
+    "confidence": 0.98,
+    "requiresHumanReview": false,
+    "willAutoApply": true
+  },
+  {
+    "id": "en-22829",
+    "language": "en",
+    "headword": "geezer",
+    "tier": 1,
+    "field": "example",
+    "before": {
+      "example": "When is the slant-eyed geezer coming? — つり目のおじさんはいつ来るの？"
+    },
+    "after": {
+      "example": "The friendly old geezer waved at us. — その気さくで風変わりな老人は私たちに手を振った。",
+      "exampleForm": "geezer"
+    },
+    "reason": "差別表現『slant-eyed』を含む例文を、登録語義『風変わりな人』に一致する差別性のない日常文へ差替。",
+    "confidence": 0.98,
+    "requiresHumanReview": false,
+    "willAutoApply": true
+  },
+  {
+    "id": "en-22571",
+    "language": "en",
+    "headword": "erection",
+    "tier": 1,
+    "field": "example",
+    "before": {
+      "example": "I have an erection. — 僕は勃起しています。"
+    },
+    "after": {
+      "example": "The erection of the new bridge took two years. — 新しい橋の建設には2年かかった。",
+      "exampleForm": "erection"
+    },
+    "reason": "性的語義の例文を削除し、登録語義『建設』に一致する例文へ差替。",
+    "confidence": 0.99,
+    "requiresHumanReview": false,
+    "willAutoApply": true
+  },
+  {
+    "id": "en-00214",
+    "language": "en",
+    "headword": "since",
+    "tier": 1,
+    "field": "choices",
+    "before": {
+      "choices": [
+        "お尻，女性器",
+        "マンボ",
+        "〜以来",
+        "帝国"
+      ]
+    },
+    "after": {
+      "choicesReplace": {
+        "from": "お尻，女性器",
+        "to": "〜の間"
+      }
+    },
+    "reason": "不適切な誤答選択肢『お尻，女性器』を、品詞的に近い無難な誤答へ置換。正解『〜以来』は不変、4択維持。",
+    "confidence": 0.99,
+    "requiresHumanReview": false,
+    "willAutoApply": true
+  },
+  {
+    "id": "en-03104",
+    "language": "en",
+    "headword": "japan",
+    "tier": 2,
+    "field": "example",
+    "before": {
+      "example": "Japan was hard up for oil. — 日本は石油が不足して困っていた。"
+    },
+    "after": {
+      "example": "The tray was finished with black japan. — その盆は黒い漆で仕上げられていた。",
+      "exampleForm": "japan"
+    },
+    "reason": "国名Japanの例文を、登録語義『黒い漆』に一致する例文へ差替。",
+    "confidence": 0.98,
+    "requiresHumanReview": false,
+    "willAutoApply": true
+  },
+  {
+    "id": "en-03215",
+    "language": "en",
+    "headword": "smith",
+    "tier": 2,
+    "field": "example",
+    "before": {
+      "example": "Smith replied that he was sorry. — スミスは残念だと答えた。"
+    },
+    "after": {
+      "example": "The smith hammered the glowing iron. — かじ屋は赤熱した鉄を打った。",
+      "exampleForm": "smith"
+    },
+    "reason": "人名Smithの例文を、登録語義『かじ屋』に一致する例文へ差替。",
+    "confidence": 0.98,
+    "requiresHumanReview": false,
+    "willAutoApply": true
+  },
+  {
+    "id": "en-03318",
+    "language": "en",
+    "headword": "pacific",
+    "tier": 2,
+    "field": "example",
+    "before": {
+      "example": "He crossed the immense pacific on a raft. — 彼は広大な太平洋をいかだで横断した。"
+    },
+    "after": {
+      "example": "She has a calm, pacific nature. — 彼女は穏やかで平和的な性格だ。",
+      "exampleForm": "pacific"
+    },
+    "reason": "固有名詞Pacific(太平洋)の例文を、登録語義『平和的な』に一致する例文へ差替。",
+    "confidence": 0.98,
+    "requiresHumanReview": false,
+    "willAutoApply": true
+  },
+  {
+    "id": "en-03381",
+    "language": "en",
+    "headword": "martin",
+    "tier": 2,
+    "field": "example",
+    "before": {
+      "example": "Martin seemed very tired, didn't he? — マーティンはとても疲れているようでしたね。"
+    },
+    "after": {
+      "example": "A martin nested under the eaves. — イワツバメが軒下に巣を作った。",
+      "exampleForm": "martin"
+    },
+    "reason": "人名Martinの例文を、登録語義『イワツバメ』に一致する例文へ差替。",
+    "confidence": 0.98,
+    "requiresHumanReview": false,
+    "willAutoApply": true
+  },
+  {
+    "id": "en-03469",
+    "language": "en",
+    "headword": "lee",
+    "tier": 2,
+    "field": "example",
+    "before": {
+      "example": "Mrs. Lee is a great talker. — リイさんは話上手です。"
+    },
+    "after": {
+      "example": "We sheltered in the lee of the rocks. — 私たちは岩の物陰に身を寄せた。",
+      "exampleForm": "lee"
+    },
+    "reason": "人名Leeの例文を、登録語義『物陰』に一致する例文へ差替。",
+    "confidence": 0.98,
+    "requiresHumanReview": false,
+    "willAutoApply": true
+  },
+  {
+    "id": "en-03505",
+    "language": "en",
+    "headword": "bob",
+    "tier": 2,
+    "field": "example",
+    "before": {
+      "example": "Bob will be home at six. — ボブは６時には帰っています。"
+    },
+    "after": {
+      "example": "The bob at the end of the line sank slowly. — 糸の先のおもりがゆっくり沈んだ。",
+      "exampleForm": "bob"
+    },
+    "reason": "人名Bobの例文を、登録語義『おもり』に一致する例文へ差替。",
+    "confidence": 0.98,
+    "requiresHumanReview": false,
+    "willAutoApply": true
+  },
+  {
+    "id": "en-03520",
+    "language": "en",
+    "headword": "ford",
+    "tier": 2,
+    "field": "example",
+    "before": {
+      "example": "Mr Ford is all right now. — フォード氏はもう大丈夫です。"
+    },
+    "after": {
+      "example": "They waded across the shallow ford. — 彼らは浅瀬を歩いて渡った。",
+      "exampleForm": "ford"
+    },
+    "reason": "人名Fordの例文を、登録語義『浅瀬』に一致する例文へ差替。",
+    "confidence": 0.98,
+    "requiresHumanReview": false,
+    "willAutoApply": true
+  },
+  {
+    "id": "en-03602",
+    "language": "en",
+    "headword": "informed",
+    "tier": 2,
+    "field": "example",
+    "before": {
+      "example": "I informed him of the result. — 私は彼に結果を知らせた。"
+    },
+    "after": {
+      "example": "We need an informed decision. — 私たちには情報に通じた判断が必要だ。",
+      "exampleForm": "informed"
+    },
+    "reason": "動詞inform(知らせた)の例文を、登録語義(形容詞)『情報に通じた』に一致する例文へ差替。",
+    "confidence": 0.98,
+    "requiresHumanReview": false,
+    "willAutoApply": true
+  },
+  {
+    "id": "en-03616",
+    "language": "en",
+    "headword": "covered",
+    "tier": 2,
+    "field": "example",
+    "before": {
+      "example": "It was all covered with dust. — それはすっかり埃で覆われていた。"
+    },
+    "after": {
+      "example": "We waited under the covered walkway. — 私たちはおおいのある通路の下で待った。",
+      "exampleForm": "covered"
+    },
+    "reason": "動詞cover(覆われた)の例文を、登録語義(形容詞)『おおいのある』に一致する例文へ差替。",
+    "confidence": 0.98,
+    "requiresHumanReview": false,
+    "willAutoApply": true
+  },
+  {
+    "id": "en-03750",
+    "language": "en",
+    "headword": "stated",
+    "tier": 2,
+    "field": "example",
+    "before": {
+      "example": "I only stated the obvious. — 当然のことを言ったまでよ。"
+    },
+    "after": {
+      "example": "The train leaves at the stated time. — 列車は決まった時刻に出発する。",
+      "exampleForm": "stated"
+    },
+    "reason": "動詞state(言った)の例文を、登録語義(形容詞)『決まった』に一致する例文へ差替。",
+    "confidence": 0.98,
+    "requiresHumanReview": false,
+    "willAutoApply": true
+  },
+  {
+    "id": "en-03755",
+    "language": "en",
+    "headword": "decided",
+    "tier": 2,
+    "field": "example",
+    "before": {
+      "example": "I decided to buy a car. — 車を買うことに決めた。"
+    },
+    "after": {
+      "example": "There was a decided change in his tone. — 彼の口調に明白な変化があった。",
+      "exampleForm": "decided"
+    },
+    "reason": "動詞decide(決めた)の例文を、登録語義(形容詞)『明白な』に一致する例文へ差替。",
+    "confidence": 0.98,
+    "requiresHumanReview": false,
+    "willAutoApply": true
+  },
+  {
+    "id": "en-03805",
+    "language": "en",
+    "headword": "vintage",
+    "tier": 2,
+    "field": "example",
+    "before": {
+      "example": "Is this a vintage car? — 旧車ですか。"
+    },
+    "after": {
+      "example": "They served a rare and fine vintage. — 彼らは珍しく上質な優良ぶどう酒を出した。",
+      "exampleForm": "vintage"
+    },
+    "reason": "vintage car(旧型)の例文を、登録語義『優良ぶどう酒』に一致する例文へ差替。",
+    "confidence": 0.98,
+    "requiresHumanReview": false,
+    "willAutoApply": true
+  },
+  {
+    "id": "en-03894",
+    "language": "en",
+    "headword": "contained",
+    "tier": 2,
+    "field": "example",
+    "before": {
+      "example": "His speech contained many fine phrases. — 彼の演説には数々のすばらしい言い回しが含まれていた。"
+    },
+    "after": {
+      "example": "He stayed calm and contained. — 彼は冷静で物静かなままだった。",
+      "exampleForm": "contained"
+    },
+    "reason": "動詞contain(含んでいた)の例文を、登録語義(形容詞)『物静かな』に一致する例文へ差替。",
+    "confidence": 0.98,
+    "requiresHumanReview": false,
+    "willAutoApply": true
+  },
+  {
+    "id": "en-03929",
+    "language": "en",
+    "headword": "removed",
+    "tier": 2,
+    "field": "example",
+    "before": {
+      "example": "The plaque has to be removed. — 歯垢をとらなければなりません。"
+    },
+    "after": {
+      "example": "His theory is far removed from fact. — 彼の理論は事実から遠く離れている。",
+      "exampleForm": "removed"
+    },
+    "reason": "動詞remove(取り除く)の例文を、登録語義(形容詞)『遠く離れた』に一致する例文へ差替。",
+    "confidence": 0.98,
+    "requiresHumanReview": false,
+    "willAutoApply": true
+  },
+  {
+    "id": "en-03969",
+    "language": "en",
+    "headword": "toll",
+    "tier": 2,
+    "field": "example",
+    "before": {
+      "example": "Call us toll-free at 1-800-446-2581. — フリーダイヤル１—８００—４４６—２５８１にお電話ください。"
+    },
+    "after": {
+      "example": "The church bells toll at noon. — 教会の鐘が正午に鳴る。",
+      "exampleForm": "toll"
+    },
+    "reason": "toll-free(無料)の例文を、登録語義(動詞)『鳴る』に一致する例文へ差替。",
+    "confidence": 0.98,
+    "requiresHumanReview": false,
+    "willAutoApply": true
+  },
+  {
+    "id": "en-04012",
+    "language": "en",
+    "headword": "phoenix",
+    "tier": 2,
+    "field": "example",
+    "before": {
+      "example": "Phoenix is the capital of Arizona. — フェニックスはアリゾナの州都である。"
+    },
+    "after": {
+      "example": "The phoenix rose again from the ashes. — 不死鳥は灰の中から再びよみがえった。",
+      "exampleForm": "phoenix"
+    },
+    "reason": "地名Phoenix(都市)の例文を、登録語義『不死鳥』に一致する例文へ差替。",
+    "confidence": 0.99,
+    "requiresHumanReview": false,
+    "willAutoApply": true
+  },
+  {
+    "id": "en-04360",
+    "language": "en",
+    "headword": "becoming",
+    "tier": 2,
+    "field": "example",
+    "before": {
+      "example": "He is afraid of becoming sick. — 彼は病気になるのではないかと恐れている。"
+    },
+    "after": {
+      "example": "That color is very becoming on her. — その色は彼女にとても似合っている。",
+      "exampleForm": "becoming"
+    },
+    "reason": "動詞become(なる)の例文を、登録語義(形容詞)『似合った』に一致する例文へ差替。",
+    "confidence": 0.98,
+    "requiresHumanReview": false,
+    "willAutoApply": true
+  },
+  {
+    "id": "en-04361",
+    "language": "en",
+    "headword": "safari",
+    "tier": 2,
+    "field": "example",
+    "before": {
+      "example": "A translation widget compatible with the Safari browser is required. — Safariブラウザに対応した翻訳ウィジェットが必要です。"
+    },
+    "after": {
+      "example": "We went on a safari across the plains. — 私たちは平原を巡る遠征旅行に出た。",
+      "exampleForm": "safari"
+    },
+    "reason": "ブラウザSafariの例文を、登録語義『遠征旅行』に一致する例文へ差替。",
+    "confidence": 0.99,
+    "requiresHumanReview": false,
+    "willAutoApply": true
+  },
+  {
+    "id": "en-04486",
+    "language": "en",
+    "headword": "collected",
+    "tier": 2,
+    "field": "example",
+    "before": {
+      "example": "He collected a lot of stamps. — 彼は切手をたくさん集めた。"
+    },
+    "after": {
+      "example": "She stayed cool and collected. — 彼女は冷静で落ち着いていた。",
+      "exampleForm": "collected"
+    },
+    "reason": "動詞collect(集めた)の例文を、登録語義(形容詞)『落ち着いた』に一致する例文へ差替。",
+    "confidence": 0.98,
+    "requiresHumanReview": false,
+    "willAutoApply": true
+  },
+  {
+    "id": "en-04490",
+    "language": "en",
+    "headword": "guinea",
+    "tier": 2,
+    "field": "example",
+    "before": {
+      "example": "I have a guinea pig. — モルモットを飼ってるんだ。"
+    },
+    "after": {
+      "example": "The old coin was worth one guinea. — その古い硬貨は1ギニーの価値があった。",
+      "exampleForm": "guinea"
+    },
+    "reason": "guinea pig(モルモット)の例文を、登録語義『ギニー金貨』に一致する例文へ差替。",
+    "confidence": 0.98,
+    "requiresHumanReview": false,
+    "willAutoApply": true
+  },
+  {
+    "id": "en-04506",
+    "language": "en",
+    "headword": "vat",
+    "tier": 2,
+    "field": "example",
+    "before": {
+      "example": "Does that price include VAT? — その価格って、付加価値税も入ってる？"
+    },
+    "after": {
+      "example": "The grapes fermented in a wooden vat. — ぶどうは木の大おけで発酵した。",
+      "exampleForm": "vat"
+    },
+    "reason": "VAT(付加価値税)の例文を、登録語義『大おけ』に一致する例文へ差替。",
+    "confidence": 0.99,
+    "requiresHumanReview": false,
+    "willAutoApply": true
+  },
+  {
+    "id": "en-04541",
+    "language": "en",
+    "headword": "ordered",
+    "tier": 2,
+    "field": "example",
+    "before": {
+      "example": "He ordered a cup of tea. — 彼は紅茶を注文した。"
+    },
+    "after": {
+      "example": "She keeps an ordered and tidy desk. — 彼女は整然とした机を保っている。",
+      "exampleForm": "ordered"
+    },
+    "reason": "動詞order(注文した)の例文を、登録語義(形容詞)『整然とした』に一致する例文へ差替。",
+    "confidence": 0.98,
+    "requiresHumanReview": false,
+    "willAutoApply": true
+  },
+  {
+    "id": "en-06154",
+    "language": "en",
+    "headword": "brad",
+    "tier": 2,
+    "field": "example",
+    "before": {
+      "example": "Brad Pitt is an actor. — ブラッド・ピット様は俳優です。"
+    },
+    "after": {
+      "example": "He tacked the sign up with a small brad. — 彼は小さな鉄線くぎで看板を留めた。",
+      "exampleForm": "brad"
+    },
+    "reason": "人名Brad Pittの例文を、登録語義『鉄線くぎ』に一致する例文へ差替。",
+    "confidence": 0.98,
+    "requiresHumanReview": false,
+    "willAutoApply": true
+  },
+  {
+    "id": "en-06181",
+    "language": "en",
+    "headword": "latex",
+    "tier": 2,
+    "field": "example",
+    "before": {
+      "example": "I transcribed the original mimeographed edition into LATEX. — ガリ版刷りの原書をLATEXで清書した。"
+    },
+    "after": {
+      "example": "These medical gloves are made of latex. — この医療用手袋はラテックス製だ。",
+      "exampleForm": "latex"
+    },
+    "reason": "組版ソフトLATEXの例文を、登録語義『ラテックス(ゴム)』に一致する例文へ差替。",
+    "confidence": 0.99,
+    "requiresHumanReview": false,
+    "willAutoApply": true
+  },
+  {
+    "id": "en-06480",
+    "language": "en",
+    "headword": "spec",
+    "tier": 2,
+    "field": "example",
+    "before": {
+      "example": "Does he wear specs? — メガネをしてますか？"
+    },
+    "after": {
+      "example": "Check the laptop's spec before buying it. — 買う前にノートPCの仕様を確認して。",
+      "exampleForm": "spec"
+    },
+    "reason": "specs(眼鏡)の例文を、登録語義『仕様，スペック』に一致する例文へ差替。",
+    "confidence": 0.98,
+    "requiresHumanReview": false,
+    "willAutoApply": true
+  },
+  {
+    "id": "en-09398",
+    "language": "en",
+    "headword": "wan",
+    "tier": 2,
+    "field": "example",
+    "before": {
+      "example": "His strength is waning. — 彼の体力は弱まりつつある。"
+    },
+    "after": {
+      "example": "Her pale, wan face worried us. — 彼女の青白い顔は私たちを心配させた。",
+      "exampleForm": "wan"
+    },
+    "reason": "別語waning(wane)の例文を、登録語義『青白い』に一致する例文へ差替。",
+    "confidence": 0.98,
+    "requiresHumanReview": false,
+    "willAutoApply": true
+  },
+  {
+    "id": "en-20098",
+    "language": "en",
+    "headword": "firing",
+    "tier": 2,
+    "field": "example",
+    "before": {
+      "example": "The scandal could lead to the firing of some senior officials. — このスキャンダルで一部の高官が罷免される可能性がある。"
+    },
+    "after": {
+      "example": "The firing of the rocket was postponed. — ロケットの発射は延期された。",
+      "exampleForm": "firing"
+    },
+    "reason": "firing(解雇)の例文を、登録語義『発射』に一致する例文へ差替。",
+    "confidence": 0.98,
+    "requiresHumanReview": false,
+    "willAutoApply": true
+  },
+  {
+    "id": "en-20115",
+    "language": "en",
+    "headword": "bust",
+    "tier": 2,
+    "field": "example",
+    "before": {
+      "example": "He got busted. — あいつ捕まったんだよ。"
+    },
+    "after": {
+      "example": "A bronze bust of the poet stood in the hall. — その詩人の青銅の半身像が広間に立っていた。",
+      "exampleForm": "bust"
+    },
+    "reason": "busted(捕まった)の例文を、登録語義『半身像』に一致する例文へ差替。",
+    "confidence": 0.98,
+    "requiresHumanReview": false,
+    "willAutoApply": true
+  },
+  {
+    "id": "en-20274",
+    "language": "en",
+    "headword": "hooked",
+    "tier": 2,
+    "field": "example",
+    "before": {
+      "example": "I'm hooked on yachts now. — 今はヨットにハマっています。"
+    },
+    "after": {
+      "example": "The eagle has a sharp, hooked beak. — 鷲は鋭いかぎ形のくちばしを持つ。",
+      "exampleForm": "hooked"
+    },
+    "reason": "hooked on(夢中)の例文を、登録語義『かぎ形の』に一致する例文へ差替。",
+    "confidence": 0.98,
+    "requiresHumanReview": false,
+    "willAutoApply": true
+  },
+  {
+    "id": "en-20483",
+    "language": "en",
+    "headword": "cracking",
+    "tier": 2,
+    "field": "example",
+    "before": {
+      "example": "Let's get cracking at 8. — ８時から始めよう。"
+    },
+    "after": {
+      "example": "The loud cracking of the ice startled us. — 氷の割れる大きな音に私たちは驚いた。",
+      "exampleForm": "cracking"
+    },
+    "reason": "get cracking(始める)の例文を、登録語義『ひび割れ，割れること』に一致する例文へ差替。",
+    "confidence": 0.98,
+    "requiresHumanReview": false,
+    "willAutoApply": true
+  },
+  {
+    "id": "en-21432",
+    "language": "en",
+    "headword": "weasel",
+    "tier": 2,
+    "field": "example",
+    "before": {
+      "example": "The weasel is noted for its bad smell. — いたちはその悪臭で知られている。"
+    },
+    "after": {
+      "example": "He tried to weasel out of the deal. — 彼は取引から言い逃れようとした。",
+      "exampleForm": "weasel"
+    },
+    "reason": "名詞(動物いたち)の例文を、登録語義(動詞)『言い逃れる』に一致する例文へ差替。",
+    "confidence": 0.98,
+    "requiresHumanReview": false,
+    "willAutoApply": true
+  },
+  {
+    "id": "en-21453",
+    "language": "en",
+    "headword": "punishing",
+    "tier": 2,
+    "field": "example",
+    "before": {
+      "example": "I became hardened to punishing pupils. — 生徒を罰することをなんとも思わなかった。"
+    },
+    "after": {
+      "example": "He kept a punishing work schedule. — 彼はへとへとになる仕事日程を続けた。",
+      "exampleForm": "punishing"
+    },
+    "reason": "動詞punish(罰する)の例文を、登録語義『へとへとにさせる』に一致する例文へ差替。",
+    "confidence": 0.98,
+    "requiresHumanReview": false,
+    "willAutoApply": true
+  },
+  {
+    "id": "en-22854",
+    "language": "en",
+    "headword": "brewing",
+    "tier": 2,
+    "field": "example",
+    "before": {
+      "example": "A storm is brewing. — 今にも嵐になりそうだ。"
+    },
+    "after": {
+      "example": "The brewing of beer takes several weeks. — ビールの醸造には数週間かかる。",
+      "exampleForm": "brewing"
+    },
+    "reason": "be brewing(起こりそう)の例文を、登録語義『ビール醸造』に一致する例文へ差替。",
+    "confidence": 0.98,
+    "requiresHumanReview": false,
+    "willAutoApply": true
+  },
+  {
+    "id": "en-22963",
+    "language": "en",
+    "headword": "contracted",
+    "tier": 2,
+    "field": "example",
+    "before": {
+      "example": "My father contracted pneumonia last month. — 私の父は先月肺炎にかかった。"
+    },
+    "after": {
+      "example": "\"Do not\" is often contracted to \"don't\". — 『do not』はよく『don't』に縮められる。",
+      "exampleForm": "contracted"
+    },
+    "reason": "contract(病気にかかる)の例文を、登録語義『縮めた』に一致する例文へ差替。",
+    "confidence": 0.98,
+    "requiresHumanReview": false,
+    "willAutoApply": true
+  },
+  {
+    "id": "en-22977",
+    "language": "en",
+    "headword": "disposed",
+    "tier": 2,
+    "field": "example",
+    "before": {
+      "example": "I disposed of my old coat. — 古いコートを処分した。"
+    },
+    "after": {
+      "example": "She seemed disposed to help us. — 彼女は私たちを助ける気があるようだった。",
+      "exampleForm": "disposed"
+    },
+    "reason": "dispose of(処分)の例文を、登録語義『する気がある，傾向がある』に一致する例文へ差替。",
+    "confidence": 0.98,
+    "requiresHumanReview": false,
+    "willAutoApply": true
+  },
+  {
+    "id": "zh-02747",
+    "language": "zh",
+    "headword": "圈",
+    "tier": 3,
+    "field": "example",
+    "before": {
+      "example": "他在操场上跑了一圈。 — 彼は運動場を一輪走った。"
+    },
+    "after": {
+      "example": "他在操场上跑了一圈。 — 彼は運動場を一周走った。",
+      "exampleForm": "圈"
+    },
+    "reason": "例文和訳の『一輪』は誤り。量詞『圈』＝一周(one lap)。中文は正しいため和訳のみ『一周』へ修正。",
+    "confidence": 0.99,
+    "requiresHumanReview": false,
+    "willAutoApply": true
+  },
+  {
+    "id": "en-02892",
+    "language": "en",
+    "headword": "john",
+    "tier": 2,
+    "field": "example",
+    "before": {
+      "example": "John is as old as I. — ジョンは私と同い年です。"
+    },
+    "after": {
+      "example": "Where is the john in this restaurant? — このレストランのお手洗いはどこですか？",
+      "exampleForm": "john"
+    },
+    "reason": "人名Johnの例文を語義『手洗い』へ。俗語ゆえ人手確認推奨。",
+    "confidence": 0.9,
+    "requiresHumanReview": true,
+    "willAutoApply": false
+  },
+  {
+    "id": "en-02925",
+    "language": "en",
+    "headword": "yahoo",
+    "tier": 2,
+    "field": "example",
+    "before": {
+      "example": "I use \"Yahoo\" to browse the internet. — インターネットの閲覧にYahooを使っている。"
+    },
+    "after": {
+      "example": "He behaved like a rude yahoo. — 彼は無礼な乱暴者のように振る舞った。",
+      "exampleForm": "yahoo"
+    },
+    "reason": "商標Yahooの例文を語義『乱暴者』へ。語調確認のため人手確認推奨。",
+    "confidence": 0.9,
+    "requiresHumanReview": true,
+    "willAutoApply": false
+  },
+  {
+    "id": "en-02944",
+    "language": "en",
+    "headword": "august",
+    "tier": 2,
+    "field": "example",
+    "before": {
+      "example": "August is coming to an end. — 8月が終わろうとしています。"
+    },
+    "after": {
+      "example": "The judge had an august manner. — その裁判官は威厳のある物腰だった。",
+      "exampleForm": "august"
+    },
+    "reason": "月名Augustの例文を形容詞『威厳のある』へ。多義ゆえ人手確認推奨。",
+    "confidence": 0.92,
+    "requiresHumanReview": true,
+    "willAutoApply": false
+  },
+  {
+    "id": "en-03158",
+    "language": "en",
+    "headword": "zip",
+    "tier": 2,
+    "field": "example",
+    "before": {
+      "example": "He's beating me, three to zip. — ３対０で彼には負けています。"
+    },
+    "after": {
+      "example": "The ball flew past with a zip. — ボールはビュッという音を立てて飛び去った。",
+      "exampleForm": "zip"
+    },
+    "reason": "zip(0点)の例文を『ビュッという音』へ。多義ゆえ人手確認推奨。",
+    "confidence": 0.9,
+    "requiresHumanReview": true,
+    "willAutoApply": false
+  },
+  {
+    "id": "en-03282",
+    "language": "en",
+    "headword": "valid",
+    "tier": 2,
+    "field": "example",
+    "before": {
+      "example": "This ticket is valid for one week. — この切符は1週間有効だ。"
+    },
+    "after": {},
+    "reason": "現例文『This ticket is valid for one week.』は登録語義『有効な』と一致しており、誤りではない。変更不要=人手で最終確認。",
+    "confidence": 0.5,
+    "requiresHumanReview": true,
+    "willAutoApply": false
+  },
+  {
+    "id": "en-03412",
+    "language": "en",
+    "headword": "tom",
+    "tier": 2,
+    "field": "example",
+    "before": {
+      "example": "Tom is in a bad mood. — トムは機嫌が悪い。"
+    },
+    "after": {
+      "example": "The old tom prowled the dark alley. — その年老いた雄猫は暗い路地をうろついた。",
+      "exampleForm": "tom"
+    },
+    "reason": "人名Tomの例文を語義『雄(猫)』へ。人手確認推奨。",
+    "confidence": 0.9,
+    "requiresHumanReview": true,
+    "willAutoApply": false
+  },
+  {
+    "id": "en-03820",
+    "language": "en",
+    "headword": "con",
+    "tier": 2,
+    "field": "example",
+    "before": {
+      "example": "There are pros and cons to anything. — なんにでも、長所と短所の両方がある。"
+    },
+    "after": {
+      "example": "Only two delegates voted con. — 反対を投じた代議員は2名だけだった。",
+      "exampleForm": "con"
+    },
+    "reason": "pros and cons(長所短所)の例文を『反対投票』へ。多義ゆえ人手確認推奨。",
+    "confidence": 0.9,
+    "requiresHumanReview": true,
+    "willAutoApply": false
+  },
+  {
+    "id": "en-04080",
+    "language": "en",
+    "headword": "victoria",
+    "tier": 2,
+    "field": "example",
+    "before": {
+      "example": "Queen Victoria was the sovereign of Great Britain. — ビクトリア女王は英国の君主だった。"
+    },
+    "after": {
+      "example": "They rode through the park in a victoria. — 彼らは四輪ほろ馬車で公園を巡った。",
+      "exampleForm": "victoria"
+    },
+    "reason": "人名Victoriaの例文を『四輪ほろ馬車』へ。希少語義ゆえ人手確認推奨。",
+    "confidence": 0.9,
+    "requiresHumanReview": true,
+    "willAutoApply": false
+  },
+  {
+    "id": "en-04192",
+    "language": "en",
+    "headword": "holding",
+    "tier": 2,
+    "field": "example",
+    "before": {
+      "example": "He is holding up her work. — 彼は彼女の仕事を妨げている。"
+    },
+    "after": {
+      "example": "He kept a firm holding on the rope. — 彼はロープをしっかり握り続けた。",
+      "exampleForm": "holding"
+    },
+    "reason": "hold up(妨げる)の例文を『しっかり握ること』へ。名詞用法が不自然になりうるため人手確認。",
+    "confidence": 0.9,
+    "requiresHumanReview": true,
+    "willAutoApply": false
+  },
+  {
+    "id": "en-04411",
+    "language": "en",
+    "headword": "ultra",
+    "tier": 2,
+    "field": "example",
+    "before": {
+      "example": "Infrared and ultra-violet rays are types of light invisible to the human eye. — 赤外線や紫外線は、人の目には見えない光である。"
+    },
+    "after": {
+      "example": "His opinions are a little ultra. — 彼の意見は少し極端だ。",
+      "exampleForm": "ultra"
+    },
+    "reason": "ultra-violet(紫外線)の例文を形容詞『極端な』へ。標準性がやや低く人手確認。",
+    "confidence": 0.88,
+    "requiresHumanReview": true,
+    "willAutoApply": false
+  },
+  {
+    "id": "en-06006",
+    "language": "en",
+    "headword": "chi",
+    "tier": 2,
+    "field": "example",
+    "before": {
+      "example": "Ho Chi Minh City is the largest city in Vietnam. — ホーチミン市はベトナムで最も大きな都市だ。"
+    },
+    "after": {
+      "example": "Deep breathing helps your chi flow. — 深い呼吸は気の流れを助ける。",
+      "exampleForm": "chi"
+    },
+    "reason": "地名Ho Chi Minhの例文を『気(チ)』へ。人手確認推奨。",
+    "confidence": 0.9,
+    "requiresHumanReview": true,
+    "willAutoApply": false
+  },
+  {
+    "id": "en-06240",
+    "language": "en",
+    "headword": "turner",
+    "tier": 2,
+    "field": "example",
+    "before": {
+      "example": "Turner stands out among the painters of his time. — ターナーは同時代の画家の中でも傑出している。"
+    },
+    "after": {
+      "example": "The turner shaped the chair legs on a lathe. — 旋盤工は旋盤で椅子の脚を削った。",
+      "exampleForm": "turner"
+    },
+    "reason": "画家Turnerの例文を『旋盤工』へ。人手確認推奨。",
+    "confidence": 0.95,
+    "requiresHumanReview": true,
+    "willAutoApply": false
+  },
+  {
+    "id": "en-06272",
+    "language": "en",
+    "headword": "macintosh",
+    "tier": 2,
+    "field": "example",
+    "before": {
+      "example": "The first Macintosh PC was released in 1984. — 初代Macは1984年にリリースされた。"
+    },
+    "after": {
+      "example": "He put on a macintosh before the rain. — 彼は雨の前に防水コートを着た。",
+      "exampleForm": "macintosh"
+    },
+    "reason": "Macintosh(PC)の例文を『防水コート』へ。綴り変種(mackintosh)ゆえ人手確認。",
+    "confidence": 0.9,
+    "requiresHumanReview": true,
+    "willAutoApply": false
+  },
+  {
+    "id": "en-06281",
+    "language": "en",
+    "headword": "hanging",
+    "tier": 2,
+    "field": "example",
+    "before": {
+      "example": "I am hanging up my shirts. — シャツを掛けているところです。"
+    },
+    "after": {
+      "example": "In the past, that crime was punished by hanging. — 昔、その罪は絞首刑に処された。",
+      "exampleForm": "hanging"
+    },
+    "reason": "hang up(掛ける)の例文を語義『絞首刑』へ。刑罰の話題ゆえ4+配慮で人手確認。",
+    "confidence": 0.9,
+    "requiresHumanReview": true,
+    "willAutoApply": false
+  },
+  {
+    "id": "en-06502",
+    "language": "en",
+    "headword": "mounting",
+    "tier": 2,
+    "field": "example",
+    "before": {
+      "example": "Signs of social unrest are mounting. — 社会不安の兆候が高まりつつある。"
+    },
+    "after": {
+      "example": "The wall mounting for the TV is sturdy. — テレビの壁据えつけは頑丈だ。",
+      "exampleForm": "mounting"
+    },
+    "reason": "mounting(高まる)の例文を名詞『据えつけ』へ。多義で紛れやすく人手確認。",
+    "confidence": 0.95,
+    "requiresHumanReview": true,
+    "willAutoApply": false
+  },
+  {
+    "id": "en-20363",
+    "language": "en",
+    "headword": "scotch",
+    "tier": 2,
+    "field": "example",
+    "before": {
+      "example": "This Scotch tape doesn't stick. — このセロテープ、くっつかないんだけど。"
+    },
+    "after": {
+      "example": "The mayor moved to scotch the rumor. — 市長はうわさを押しつぶそうとした。",
+      "exampleForm": "scotch"
+    },
+    "reason": "Scotch tape(商標)の例文を動詞『押しつぶす』へ。語義がやや硬く人手確認。",
+    "confidence": 0.92,
+    "requiresHumanReview": true,
+    "willAutoApply": false
+  },
+  {
+    "id": "en-20434",
+    "language": "en",
+    "headword": "smashed",
+    "tier": 2,
+    "field": "example",
+    "before": {
+      "example": "The bottle smashed to pieces. — 瓶は粉々に割れた。"
+    },
+    "after": {
+      "example": "After the party he was completely smashed. — パーティーの後、彼はすっかり酔っぱらった。",
+      "exampleForm": "smashed"
+    },
+    "reason": "smash(割れた)の例文を俗語『酔っぱらった』へ。飲酒の話題ゆえ人手確認。",
+    "confidence": 0.85,
+    "requiresHumanReview": true,
+    "willAutoApply": false
+  },
+  {
+    "id": "en-21103",
+    "language": "en",
+    "headword": "bender",
+    "tier": 2,
+    "field": "example",
+    "before": {
+      "example": "It was just a fender bender. — 軽い接触事故だったんだ。"
+    },
+    "after": {
+      "example": "He went on a weekend bender. — 彼は週末に飲んで大騒ぎした。",
+      "exampleForm": "bender"
+    },
+    "reason": "fender bender(接触事故)の例文を『酒盛り』へ。飲酒の話題ゆえ人手確認。",
+    "confidence": 0.8,
+    "requiresHumanReview": true,
+    "willAutoApply": false
+  },
+  {
+    "id": "en-21117",
+    "language": "en",
+    "headword": "warmer",
+    "tier": 2,
+    "field": "example",
+    "before": {
+      "example": "It will get warmer and warmer. — だんだん暖かくなります。"
+    },
+    "after": {
+      "example": "This pocket warmer keeps my hands warm. — このカイロは手を温かく保つ。",
+      "exampleForm": "warmer"
+    },
+    "reason": "warmer(より暖かい・比較級)の例文を名詞『暖めるもの』へ。人手確認推奨。",
+    "confidence": 0.92,
+    "requiresHumanReview": true,
+    "willAutoApply": false
+  },
+  {
+    "id": "en-21128",
+    "language": "en",
+    "headword": "wheeler",
+    "tier": 2,
+    "field": "example",
+    "before": {
+      "example": "He is a real wheeler-dealer. — 彼はやり手です。"
+    },
+    "after": {
+      "example": "The wheeler hauled goods across the state. — その運搬業者は州をまたいで荷を運んだ。",
+      "exampleForm": "wheeler"
+    },
+    "reason": "wheeler-dealer(やり手)の例文を『運搬業者』へ。希少語義ゆえ人手確認。",
+    "confidence": 0.85,
+    "requiresHumanReview": true,
+    "willAutoApply": false
+  },
+  {
+    "id": "en-21268",
+    "language": "en",
+    "headword": "tong",
+    "tier": 2,
+    "field": "example",
+    "before": {
+      "example": "I burned my forefinger on fire tongs. — 火ばさみで人差し指をやけどした。"
+    },
+    "after": {},
+    "reason": "別語tongs(火ばさみ)の例文だが登録語義『在米中国人の友愛団体』は特殊。ステレオタイプ回避のため自然な安全例が作りにくく人手確認へ。",
+    "confidence": 0.8,
+    "requiresHumanReview": true,
+    "willAutoApply": false
+  },
+  {
+    "id": "en-21293",
+    "language": "en",
+    "headword": "blasted",
+    "tier": 2,
+    "field": "example",
+    "before": {
+      "example": "The rocket blasted out of the atmosphere. — ロケットは大気圏外へ飛んでいった。"
+    },
+    "after": {
+      "example": "This blasted printer never works. — このいまいましいプリンターはちっとも動かない。",
+      "exampleForm": "blasted"
+    },
+    "reason": "blast(発射した)の例文を俗語『いまいましい』へ。俗語ゆえ人手確認。",
+    "confidence": 0.9,
+    "requiresHumanReview": true,
+    "willAutoApply": false
+  },
+  {
+    "id": "en-21406",
+    "language": "en",
+    "headword": "bouncing",
+    "tier": 2,
+    "field": "example",
+    "before": {
+      "example": "The children started bouncing up and down on the couch. — 子供たちはソファの上で跳び始めた。"
+    },
+    "after": {
+      "example": "They have a bouncing, healthy baby. — 彼らには健康で元気な赤ちゃんがいる。",
+      "exampleForm": "bouncing"
+    },
+    "reason": "bounce(跳ねる)の例文を語義『健康な』へ。慣用(bouncing baby)ゆえ人手確認。",
+    "confidence": 0.95,
+    "requiresHumanReview": true,
+    "willAutoApply": false
+  },
+  {
+    "id": "en-21935",
+    "language": "en",
+    "headword": "ting",
+    "tier": 2,
+    "field": "example",
+    "before": {
+      "example": "Her cheeks were tinged with pink. — 彼女のほおは薄く桃色に染まっていた。"
+    },
+    "after": {
+      "example": "The little bell gave a bright ting. — 小さな鈴がチリンと澄んだ音で鳴った。",
+      "exampleForm": "ting"
+    },
+    "reason": "別語tinged(tinge)の例文を語義『チリンと鳴らす』へ。希少語ゆえ人手確認。",
+    "confidence": 0.9,
+    "requiresHumanReview": true,
+    "willAutoApply": false
+  },
+  {
+    "id": "en-22638",
+    "language": "en",
+    "headword": "blinking",
+    "tier": 2,
+    "field": "example",
+    "before": {
+      "example": "Little lights were blinking on and off in the distance. — 遠くで小さな明かりがちらちらしていた。"
+    },
+    "after": {
+      "example": "Where is that blinking key? — あのいまいましい鍵はどこだ？",
+      "exampleForm": "blinking"
+    },
+    "reason": "blink(点滅)の例文を英俗語(強意)『まったくひどい』へ。俗語ゆえ人手確認。",
+    "confidence": 0.9,
+    "requiresHumanReview": true,
+    "willAutoApply": false
+  },
+  {
+    "id": "en-22747",
+    "language": "en",
+    "headword": "dickens",
+    "tier": 2,
+    "field": "example",
+    "before": {
+      "example": "Dickens was the author of 'Oliver Twist'. — ディケンズは『オリバー・ツイスト』の著者です。"
+    },
+    "after": {
+      "example": "What the dickens is going on here? — 一体全体ここで何が起きているんだ？",
+      "exampleForm": "dickens"
+    },
+    "reason": "作家Dickensの例文を慣用『(the dickens)一体全体/悪魔』へ。慣用ゆえ人手確認。",
+    "confidence": 0.9,
+    "requiresHumanReview": true,
+    "willAutoApply": false
+  },
+  {
+    "id": "en-22855",
+    "language": "en",
+    "headword": "tat",
+    "tier": 2,
+    "field": "example",
+    "before": {
+      "example": "Tit for tat. — しっぺ返しだよ。"
+    },
+    "after": {
+      "example": "She likes to tat delicate lace. — 彼女は繊細なレースをタッチングで作るのが好きだ。",
+      "exampleForm": "tat"
+    },
+    "reason": "tit for tat(慣用)の例文を語義『タッチングで作る』へ。希少語義ゆえ人手確認。",
+    "confidence": 0.85,
+    "requiresHumanReview": true,
+    "willAutoApply": false
+  },
+  {
+    "id": "en-22971",
+    "language": "en",
+    "headword": "gaga",
+    "tier": 2,
+    "field": "example",
+    "before": {
+      "example": "I wish I could sing as well as Lady Gaga. — レディ・ガガみたいに上手く歌えたらなあ。"
+    },
+    "after": {
+      "example": "The fans went gaga over the young singer. — ファンはその若い歌手に夢中になった。",
+      "exampleForm": "gaga"
+    },
+    "reason": "固有名詞Lady Gagaの例文を語義『夢中の』へ。俗語ゆえ人手確認。",
+    "confidence": 0.88,
+    "requiresHumanReview": true,
+    "willAutoApply": false
+  },
+  {
+    "id": "es-00432",
+    "language": "es",
+    "headword": "dulce",
+    "tier": 3,
+    "field": "glosses",
+    "before": {
+      "glosses": {
+        "en": "candy",
+        "ja": "甘い"
+      }
+    },
+    "after": {
+      "suggestion_glosses_ja": "菓子，甘いもの（形容詞義なら en を sweet に）"
+    },
+    "reason": "en『candy(名詞)』とja『甘い(形容詞)』が不一致。正解=candyに合わせるならjaを『菓子，甘いもの』へ、形容詞義なら英訳をsweetへ。answer/選択肢に波及するため人手確認へ。",
+    "confidence": 0.85,
+    "requiresHumanReview": true,
+    "willAutoApply": false
+  },
+  {
+    "id": "es-01405",
+    "language": "es",
+    "headword": "cristo",
+    "tier": 3,
+    "field": "glosses",
+    "before": {
+      "glosses": {
+        "en": "jesus",
+        "ja": "キリスト"
+      }
+    },
+    "after": {
+      "suggestion_glosses_en": "Christ (Jesus)"
+    },
+    "reason": "en『jesus』は固有名詞として『Jesus/Christ』表記が適切。宗教・固有名詞の判断を要するため人手確認へ。",
+    "confidence": 0.85,
+    "requiresHumanReview": true,
+    "willAutoApply": false
+  },
+  {
+    "id": "fr-00645",
+    "language": "fr",
+    "headword": "expérience",
+    "tier": 3,
+    "field": "glosses",
+    "before": {
+      "glosses": {
+        "en": "experiment",
+        "ja": "経験，実験"
+      }
+    },
+    "after": {
+      "suggestion_glosses_en": "experience; experiment"
+    },
+    "reason": "expérienceはexperience/experiment両義。en=experimentのみで空似言葉の懸念。answer変更に波及するため人手確認へ。",
+    "confidence": 0.85,
+    "requiresHumanReview": true,
+    "willAutoApply": false
+  },
+  {
+    "id": "fr-01022",
+    "language": "fr",
+    "headword": "émission",
+    "tier": 3,
+    "field": "glosses",
+    "before": {
+      "glosses": {
+        "en": "emission",
+        "ja": "放送"
+      }
+    },
+    "after": {
+      "suggestion_glosses_en": "broadcast, program"
+    },
+    "reason": "émissionは『放送・番組』が主。en=emissionは空似言葉。正解=emissionを変えると選択肢に波及するため人手確認へ。",
+    "confidence": 0.85,
+    "requiresHumanReview": true,
+    "willAutoApply": false
+  },
+  {
+    "id": "fr-00092",
+    "language": "fr",
+    "headword": "ensemble",
+    "tier": 3,
+    "field": "glosses",
+    "before": {
+      "glosses": {
+        "en": "set",
+        "ja": "一緒に"
+      }
+    },
+    "after": {
+      "suggestion_glosses_ja": "（名詞義なら『ひとそろい，一式』／副詞義なら en を together に）"
+    },
+    "reason": "ensembleは名詞set/副詞togetherの両義。en=setとja=一緒にが不一致。answerに波及するため人手確認へ。",
+    "confidence": 0.85,
+    "requiresHumanReview": true,
+    "willAutoApply": false
+  },
+  {
+    "id": "en-20519",
+    "language": "en",
+    "headword": "fanny",
+    "tier": 1,
+    "field": "answer+choices+explanation",
+    "before": {
+      "answer": "お尻，女性器",
+      "choices": [
+        "探求者",
+        "物置",
+        "お尻，女性器",
+        "困って"
+      ]
+    },
+    "after": {
+      "answer": "お尻",
+      "choicesReplace": {
+        "from": "お尻，女性器",
+        "to": "お尻"
+      },
+      "explanation": "fanny = お尻"
+    },
+    "reason": "[再検索由来・74件外] 登録語義自体が下品な『お尻，女性器』。米語義の中立な『お尻』へ。answer・正解選択肢・explanationを同時更新し4択維持。これが since の不適切選択肢の出所でもあった。",
+    "confidence": 0.98,
+    "requiresHumanReview": false,
+    "willAutoApply": true
+  },
+  {
+    "id": "en-20628",
+    "language": "en",
+    "headword": "amusing",
+    "tier": 1,
+    "field": "choices",
+    "before": {
+      "choices": [
+        "鈍い",
+        "気違い",
+        "おいしい",
+        "おもしろい"
+      ]
+    },
+    "after": {
+      "choicesReplace": {
+        "from": "気違い",
+        "to": "退屈な"
+      }
+    },
+    "reason": "[再検索由来・74件外] 誤答選択肢に侮蔑語『気違い』が混入。中立な誤答『退屈な』へ置換。正解『おもしろい』は不変、4択維持。",
+    "confidence": 0.99,
+    "requiresHumanReview": false,
+    "willAutoApply": true
+  },
+  {
+    "id": "en-20649",
+    "language": "en",
+    "headword": "sour",
+    "tier": 1,
+    "field": "choices",
+    "before": {
+      "choices": [
+        "すっぱい",
+        "とてもおかしい",
+        "気違い",
+        "凶暴な"
+      ]
+    },
+    "after": {
+      "choicesReplace": {
+        "from": "気違い",
+        "to": "甘い"
+      }
+    },
+    "reason": "[再検索由来・74件外] 誤答選択肢に侮蔑語『気違い』が混入。中立な誤答『甘い』へ置換。正解『すっぱい』は不変、4択維持。",
+    "confidence": 0.99,
+    "requiresHumanReview": false,
+    "willAutoApply": true
+  }
+]

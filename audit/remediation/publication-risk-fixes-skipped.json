@@ -1,0 +1,423 @@
+{
+  "skippedCount": 33,
+  "skipped": [
+    {
+      "id": "en-02892",
+      "headword": "john",
+      "tier": 2,
+      "field": "example",
+      "confidence": 0.9,
+      "reason": "人名Johnの例文を語義『手洗い』へ。俗語ゆえ人手確認推奨。",
+      "requiresHumanReview": true,
+      "proposedAfter": {
+        "example": "Where is the john in this restaurant? — このレストランのお手洗いはどこですか？",
+        "exampleForm": "john"
+      }
+    },
+    {
+      "id": "en-02925",
+      "headword": "yahoo",
+      "tier": 2,
+      "field": "example",
+      "confidence": 0.9,
+      "reason": "商標Yahooの例文を語義『乱暴者』へ。語調確認のため人手確認推奨。",
+      "requiresHumanReview": true,
+      "proposedAfter": {
+        "example": "He behaved like a rude yahoo. — 彼は無礼な乱暴者のように振る舞った。",
+        "exampleForm": "yahoo"
+      }
+    },
+    {
+      "id": "en-02944",
+      "headword": "august",
+      "tier": 2,
+      "field": "example",
+      "confidence": 0.92,
+      "reason": "月名Augustの例文を形容詞『威厳のある』へ。多義ゆえ人手確認推奨。",
+      "requiresHumanReview": true,
+      "proposedAfter": {
+        "example": "The judge had an august manner. — その裁判官は威厳のある物腰だった。",
+        "exampleForm": "august"
+      }
+    },
+    {
+      "id": "en-03158",
+      "headword": "zip",
+      "tier": 2,
+      "field": "example",
+      "confidence": 0.9,
+      "reason": "zip(0点)の例文を『ビュッという音』へ。多義ゆえ人手確認推奨。",
+      "requiresHumanReview": true,
+      "proposedAfter": {
+        "example": "The ball flew past with a zip. — ボールはビュッという音を立てて飛び去った。",
+        "exampleForm": "zip"
+      }
+    },
+    {
+      "id": "en-03282",
+      "headword": "valid",
+      "tier": 2,
+      "field": "example",
+      "confidence": 0.5,
+      "reason": "現例文『This ticket is valid for one week.』は登録語義『有効な』と一致しており、誤りではない。変更不要=人手で最終確認。",
+      "requiresHumanReview": true,
+      "proposedAfter": {}
+    },
+    {
+      "id": "en-03412",
+      "headword": "tom",
+      "tier": 2,
+      "field": "example",
+      "confidence": 0.9,
+      "reason": "人名Tomの例文を語義『雄(猫)』へ。人手確認推奨。",
+      "requiresHumanReview": true,
+      "proposedAfter": {
+        "example": "The old tom prowled the dark alley. — その年老いた雄猫は暗い路地をうろついた。",
+        "exampleForm": "tom"
+      }
+    },
+    {
+      "id": "en-03820",
+      "headword": "con",
+      "tier": 2,
+      "field": "example",
+      "confidence": 0.9,
+      "reason": "pros and cons(長所短所)の例文を『反対投票』へ。多義ゆえ人手確認推奨。",
+      "requiresHumanReview": true,
+      "proposedAfter": {
+        "example": "Only two delegates voted con. — 反対を投じた代議員は2名だけだった。",
+        "exampleForm": "con"
+      }
+    },
+    {
+      "id": "en-04080",
+      "headword": "victoria",
+      "tier": 2,
+      "field": "example",
+      "confidence": 0.9,
+      "reason": "人名Victoriaの例文を『四輪ほろ馬車』へ。希少語義ゆえ人手確認推奨。",
+      "requiresHumanReview": true,
+      "proposedAfter": {
+        "example": "They rode through the park in a victoria. — 彼らは四輪ほろ馬車で公園を巡った。",
+        "exampleForm": "victoria"
+      }
+    },
+    {
+      "id": "en-04192",
+      "headword": "holding",
+      "tier": 2,
+      "field": "example",
+      "confidence": 0.9,
+      "reason": "hold up(妨げる)の例文を『しっかり握ること』へ。名詞用法が不自然になりうるため人手確認。",
+      "requiresHumanReview": true,
+      "proposedAfter": {
+        "example": "He kept a firm holding on the rope. — 彼はロープをしっかり握り続けた。",
+        "exampleForm": "holding"
+      }
+    },
+    {
+      "id": "en-04411",
+      "headword": "ultra",
+      "tier": 2,
+      "field": "example",
+      "confidence": 0.88,
+      "reason": "ultra-violet(紫外線)の例文を形容詞『極端な』へ。標準性がやや低く人手確認。",
+      "requiresHumanReview": true,
+      "proposedAfter": {
+        "example": "His opinions are a little ultra. — 彼の意見は少し極端だ。",
+        "exampleForm": "ultra"
+      }
+    },
+    {
+      "id": "en-06006",
+      "headword": "chi",
+      "tier": 2,
+      "field": "example",
+      "confidence": 0.9,
+      "reason": "地名Ho Chi Minhの例文を『気(チ)』へ。人手確認推奨。",
+      "requiresHumanReview": true,
+      "proposedAfter": {
+        "example": "Deep breathing helps your chi flow. — 深い呼吸は気の流れを助ける。",
+        "exampleForm": "chi"
+      }
+    },
+    {
+      "id": "en-06240",
+      "headword": "turner",
+      "tier": 2,
+      "field": "example",
+      "confidence": 0.95,
+      "reason": "画家Turnerの例文を『旋盤工』へ。人手確認推奨。",
+      "requiresHumanReview": true,
+      "proposedAfter": {
+        "example": "The turner shaped the chair legs on a lathe. — 旋盤工は旋盤で椅子の脚を削った。",
+        "exampleForm": "turner"
+      }
+    },
+    {
+      "id": "en-06272",
+      "headword": "macintosh",
+      "tier": 2,
+      "field": "example",
+      "confidence": 0.9,
+      "reason": "Macintosh(PC)の例文を『防水コート』へ。綴り変種(mackintosh)ゆえ人手確認。",
+      "requiresHumanReview": true,
+      "proposedAfter": {
+        "example": "He put on a macintosh before the rain. — 彼は雨の前に防水コートを着た。",
+        "exampleForm": "macintosh"
+      }
+    },
+    {
+      "id": "en-06281",
+      "headword": "hanging",
+      "tier": 2,
+      "field": "example",
+      "confidence": 0.9,
+      "reason": "hang up(掛ける)の例文を語義『絞首刑』へ。刑罰の話題ゆえ4+配慮で人手確認。",
+      "requiresHumanReview": true,
+      "proposedAfter": {
+        "example": "In the past, that crime was punished by hanging. — 昔、その罪は絞首刑に処された。",
+        "exampleForm": "hanging"
+      }
+    },
+    {
+      "id": "en-06502",
+      "headword": "mounting",
+      "tier": 2,
+      "field": "example",
+      "confidence": 0.95,
+      "reason": "mounting(高まる)の例文を名詞『据えつけ』へ。多義で紛れやすく人手確認。",
+      "requiresHumanReview": true,
+      "proposedAfter": {
+        "example": "The wall mounting for the TV is sturdy. — テレビの壁据えつけは頑丈だ。",
+        "exampleForm": "mounting"
+      }
+    },
+    {
+      "id": "en-20363",
+      "headword": "scotch",
+      "tier": 2,
+      "field": "example",
+      "confidence": 0.92,
+      "reason": "Scotch tape(商標)の例文を動詞『押しつぶす』へ。語義がやや硬く人手確認。",
+      "requiresHumanReview": true,
+      "proposedAfter": {
+        "example": "The mayor moved to scotch the rumor. — 市長はうわさを押しつぶそうとした。",
+        "exampleForm": "scotch"
+      }
+    },
+    {
+      "id": "en-20434",
+      "headword": "smashed",
+      "tier": 2,
+      "field": "example",
+      "confidence": 0.85,
+      "reason": "smash(割れた)の例文を俗語『酔っぱらった』へ。飲酒の話題ゆえ人手確認。",
+      "requiresHumanReview": true,
+      "proposedAfter": {
+        "example": "After the party he was completely smashed. — パーティーの後、彼はすっかり酔っぱらった。",
+        "exampleForm": "smashed"
+      }
+    },
+    {
+      "id": "en-21103",
+      "headword": "bender",
+      "tier": 2,
+      "field": "example",
+      "confidence": 0.8,
+      "reason": "fender bender(接触事故)の例文を『酒盛り』へ。飲酒の話題ゆえ人手確認。",
+      "requiresHumanReview": true,
+      "proposedAfter": {
+        "example": "He went on a weekend bender. — 彼は週末に飲んで大騒ぎした。",
+        "exampleForm": "bender"
+      }
+    },
+    {
+      "id": "en-21117",
+      "headword": "warmer",
+      "tier": 2,
+      "field": "example",
+      "confidence": 0.92,
+      "reason": "warmer(より暖かい・比較級)の例文を名詞『暖めるもの』へ。人手確認推奨。",
+      "requiresHumanReview": true,
+      "proposedAfter": {
+        "example": "This pocket warmer keeps my hands warm. — このカイロは手を温かく保つ。",
+        "exampleForm": "warmer"
+      }
+    },
+    {
+      "id": "en-21128",
+      "headword": "wheeler",
+      "tier": 2,
+      "field": "example",
+      "confidence": 0.85,
+      "reason": "wheeler-dealer(やり手)の例文を『運搬業者』へ。希少語義ゆえ人手確認。",
+      "requiresHumanReview": true,
+      "proposedAfter": {
+        "example": "The wheeler hauled goods across the state. — その運搬業者は州をまたいで荷を運んだ。",
+        "exampleForm": "wheeler"
+      }
+    },
+    {
+      "id": "en-21268",
+      "headword": "tong",
+      "tier": 2,
+      "field": "example",
+      "confidence": 0.8,
+      "reason": "別語tongs(火ばさみ)の例文だが登録語義『在米中国人の友愛団体』は特殊。ステレオタイプ回避のため自然な安全例が作りにくく人手確認へ。",
+      "requiresHumanReview": true,
+      "proposedAfter": {}
+    },
+    {
+      "id": "en-21293",
+      "headword": "blasted",
+      "tier": 2,
+      "field": "example",
+      "confidence": 0.9,
+      "reason": "blast(発射した)の例文を俗語『いまいましい』へ。俗語ゆえ人手確認。",
+      "requiresHumanReview": true,
+      "proposedAfter": {
+        "example": "This blasted printer never works. — このいまいましいプリンターはちっとも動かない。",
+        "exampleForm": "blasted"
+      }
+    },
+    {
+      "id": "en-21406",
+      "headword": "bouncing",
+      "tier": 2,
+      "field": "example",
+      "confidence": 0.95,
+      "reason": "bounce(跳ねる)の例文を語義『健康な』へ。慣用(bouncing baby)ゆえ人手確認。",
+      "requiresHumanReview": true,
+      "proposedAfter": {
+        "example": "They have a bouncing, healthy baby. — 彼らには健康で元気な赤ちゃんがいる。",
+        "exampleForm": "bouncing"
+      }
+    },
+    {
+      "id": "en-21935",
+      "headword": "ting",
+      "tier": 2,
+      "field": "example",
+      "confidence": 0.9,
+      "reason": "別語tinged(tinge)の例文を語義『チリンと鳴らす』へ。希少語ゆえ人手確認。",
+      "requiresHumanReview": true,
+      "proposedAfter": {
+        "example": "The little bell gave a bright ting. — 小さな鈴がチリンと澄んだ音で鳴った。",
+        "exampleForm": "ting"
+      }
+    },
+    {
+      "id": "en-22638",
+      "headword": "blinking",
+      "tier": 2,
+      "field": "example",
+      "confidence": 0.9,
+      "reason": "blink(点滅)の例文を英俗語(強意)『まったくひどい』へ。俗語ゆえ人手確認。",
+      "requiresHumanReview": true,
+      "proposedAfter": {
+        "example": "Where is that blinking key? — あのいまいましい鍵はどこだ？",
+        "exampleForm": "blinking"
+      }
+    },
+    {
+      "id": "en-22747",
+      "headword": "dickens",
+      "tier": 2,
+      "field": "example",
+      "confidence": 0.9,
+      "reason": "作家Dickensの例文を慣用『(the dickens)一体全体/悪魔』へ。慣用ゆえ人手確認。",
+      "requiresHumanReview": true,
+      "proposedAfter": {
+        "example": "What the dickens is going on here? — 一体全体ここで何が起きているんだ？",
+        "exampleForm": "dickens"
+      }
+    },
+    {
+      "id": "en-22855",
+      "headword": "tat",
+      "tier": 2,
+      "field": "example",
+      "confidence": 0.85,
+      "reason": "tit for tat(慣用)の例文を語義『タッチングで作る』へ。希少語義ゆえ人手確認。",
+      "requiresHumanReview": true,
+      "proposedAfter": {
+        "example": "She likes to tat delicate lace. — 彼女は繊細なレースをタッチングで作るのが好きだ。",
+        "exampleForm": "tat"
+      }
+    },
+    {
+      "id": "en-22971",
+      "headword": "gaga",
+      "tier": 2,
+      "field": "example",
+      "confidence": 0.88,
+      "reason": "固有名詞Lady Gagaの例文を語義『夢中の』へ。俗語ゆえ人手確認。",
+      "requiresHumanReview": true,
+      "proposedAfter": {
+        "example": "The fans went gaga over the young singer. — ファンはその若い歌手に夢中になった。",
+        "exampleForm": "gaga"
+      }
+    },
+    {
+      "id": "es-00432",
+      "headword": "dulce",
+      "tier": 3,
+      "field": "glosses",
+      "confidence": 0.85,
+      "reason": "en『candy(名詞)』とja『甘い(形容詞)』が不一致。正解=candyに合わせるならjaを『菓子，甘いもの』へ、形容詞義なら英訳をsweetへ。answer/選択肢に波及するため人手確認へ。",
+      "requiresHumanReview": true,
+      "proposedAfter": {
+        "suggestion_glosses_ja": "菓子，甘いもの（形容詞義なら en を sweet に）"
+      }
+    },
+    {
+      "id": "es-01405",
+      "headword": "cristo",
+      "tier": 3,
+      "field": "glosses",
+      "confidence": 0.85,
+      "reason": "en『jesus』は固有名詞として『Jesus/Christ』表記が適切。宗教・固有名詞の判断を要するため人手確認へ。",
+      "requiresHumanReview": true,
+      "proposedAfter": {
+        "suggestion_glosses_en": "Christ (Jesus)"
+      }
+    },
+    {
+      "id": "fr-00645",
+      "headword": "expérience",
+      "tier": 3,
+      "field": "glosses",
+      "confidence": 0.85,
+      "reason": "expérienceはexperience/experiment両義。en=experimentのみで空似言葉の懸念。answer変更に波及するため人手確認へ。",
+      "requiresHumanReview": true,
+      "proposedAfter": {
+        "suggestion_glosses_en": "experience; experiment"
+      }
+    },
+    {
+      "id": "fr-01022",
+      "headword": "émission",
+      "tier": 3,
+      "field": "glosses",
+      "confidence": 0.85,
+      "reason": "émissionは『放送・番組』が主。en=emissionは空似言葉。正解=emissionを変えると選択肢に波及するため人手確認へ。",
+      "requiresHumanReview": true,
+      "proposedAfter": {
+        "suggestion_glosses_en": "broadcast, program"
+      }
+    },
+    {
+      "id": "fr-00092",
+      "headword": "ensemble",
+      "tier": 3,
+      "field": "glosses",
+      "confidence": 0.85,
+      "reason": "ensembleは名詞set/副詞togetherの両義。en=setとja=一緒にが不一致。answerに波及するため人手確認へ。",
+      "requiresHumanReview": true,
+      "proposedAfter": {
+        "suggestion_glosses_ja": "（名詞義なら『ひとそろい，一式』／副詞義なら en を together に）"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1556 @@
+[
+  {
+    "id": "en-00214",
+    "tier": 1,
+    "headword": "since",
+    "checks": {
+      "見出し語": "since",
+      "正解訳": "〜以来",
+      "例文": "He has been busy since last week. — 彼は先週以後ずっと忙しい。",
+      "例文訳": "彼は先週以後ずっと忙しい。",
+      "選択肢": [
+        "〜の間",
+        "マンボ",
+        "〜以来",
+        "帝国"
+      ],
+      "語義の一致": "修正で一致化",
+      "不適切表現": "なし"
+    },
+    "action": "auto_fixed",
+    "status": "resolved"
+  },
+  {
+    "id": "en-20863",
+    "tier": 1,
+    "headword": "madman",
+    "checks": {
+      "見出し語": "madman",
+      "正解訳": "狂人",
+      "例文": "He acted like a madman. — 彼は狂人のように振る舞った。",
+      "例文訳": "彼は狂人のように振る舞った。",
+      "選択肢": [
+        "協力的な",
+        "とてもおかしい",
+        "狂人",
+        "巨大な"
+      ],
+      "語義の一致": "修正で一致化",
+      "不適切表現": "なし"
+    },
+    "action": "auto_fixed",
+    "status": "resolved"
+  },
+  {
+    "id": "en-22571",
+    "tier": 1,
+    "headword": "erection",
+    "checks": {
+      "見出し語": "erection",
+      "正解訳": "建設",
+      "例文": "The erection of the new bridge took two years. — 新しい橋の建設には2年かかった。",
+      "例文訳": "新しい橋の建設には2年かかった。",
+      "選択肢": [
+        "姿勢",
+        "弓の射手",
+        "建設",
+        "炭"
+      ],
+      "語義の一致": "修正で一致化",
+      "不適切表現": "なし"
+    },
+    "action": "auto_fixed",
+    "status": "resolved"
+  },
+  {
+    "id": "en-22829",
+    "tier": 1,
+    "headword": "geezer",
+    "checks": {
+      "見出し語": "geezer",
+      "正解訳": "風変わりな人",
+      "例文": "The friendly old geezer waved at us. — その気さくで風変わりな老人は私たちに手を振った。",
+      "例文訳": "その気さくで風変わりな老人は私たちに手を振った。",
+      "選択肢": [
+        "風変わりな人",
+        "圧制",
+        "メタン",
+        "ゴマ"
+      ],
+      "語義の一致": "修正で一致化",
+      "不適切表現": "なし"
+    },
+    "action": "auto_fixed",
+    "status": "resolved"
+  },
+  {
+    "id": "en-02892",
+    "tier": 2,
+    "headword": "john",
+    "checks": {
+      "見出し語": "john",
+      "正解訳": "手洗い",
+      "例文": "John is as old as I. — ジョンは私と同い年です。",
+      "例文訳": "ジョンは私と同い年です。",
+      "選択肢": [
+        "優しい",
+        "最も低い",
+        "手洗い",
+        "恐ろしい"
+      ],
+      "語義の一致": "要人手確認",
+      "不適切表現": "なし"
+    },
+    "action": "proposed_for_human",
+    "status": "needs_human_review"
+  },
+  {
+    "id": "en-02925",
+    "tier": 2,
+    "headword": "yahoo",
+    "checks": {
+      "見出し語": "yahoo",
+      "正解訳": "乱暴者",
+      "例文": "I use \"Yahoo\" to browse the internet. — インターネットの閲覧にYahooを使っている。",
+      "例文訳": "インターネットの閲覧にYahooを使っている。",
+      "選択肢": [
+        "中古の",
+        "黒い漆",
+        "難民",
+        "乱暴者"
+      ],
+      "語義の一致": "要人手確認",
+      "不適切表現": "なし"
+    },
+    "action": "proposed_for_human",
+    "status": "needs_human_review"
+  },
+  {
+    "id": "en-02944",
+    "tier": 2,
+    "headword": "august",
+    "checks": {
+      "見出し語": "august",
+      "正解訳": "威厳のある",
+      "例文": "August is coming to an end. — 8月が終わろうとしています。",
+      "例文訳": "8月が終わろうとしています。",
+      "選択肢": [
+        "威厳のある",
+        "〜だと思う",
+        "構成する",
+        "昇格させる"
+      ],
+      "語義の一致": "要人手確認",
+      "不適切表現": "なし"
+    },
+    "action": "proposed_for_human",
+    "status": "needs_human_review"
+  },
+  {
+    "id": "en-03104",
+    "tier": 2,
+    "headword": "japan",
+    "checks": {
+      "見出し語": "japan",
+      "正解訳": "黒い漆",
+      "例文": "The tray was finished with black japan. — その盆は黒い漆で仕上げられていた。",
+      "例文訳": "その盆は黒い漆で仕上げられていた。",
+      "選択肢": [
+        "～を含めて",
+        "黒い漆",
+        "取ること",
+        "確立された"
+      ],
+      "語義の一致": "修正で一致化",
+      "不適切表現": "なし"
+    },
+    "action": "auto_fixed",
+    "status": "resolved"
+  },
+  {
+    "id": "en-03158",
+    "tier": 2,
+    "headword": "zip",
+    "checks": {
+      "見出し語": "zip",
+      "正解訳": "ビュッという音",
+      "例文": "He's beating me, three to zip. — ３対０で彼には負けています。",
+      "例文訳": "３対０で彼には負けています。",
+      "選択肢": [
+        "会報",
+        "～を含めて",
+        "買い物",
+        "ビュッという音"
+      ],
+      "語義の一致": "要人手確認",
+      "不適切表現": "なし"
+    },
+    "action": "proposed_for_human",
+    "status": "needs_human_review"
+  },
+  {
+    "id": "en-03215",
+    "tier": 2,
+    "headword": "smith",
+    "checks": {
+      "見出し語": "smith",
+      "正解訳": "かじ屋",
+      "例文": "The smith hammered the glowing iron. — かじ屋は赤熱した鉄を打った。",
+      "例文訳": "かじ屋は赤熱した鉄を打った。",
+      "選択肢": [
+        "仮想の",
+        "会報",
+        "かじ屋",
+        "表の作成"
+      ],
+      "語義の一致": "修正で一致化",
+      "不適切表現": "なし"
+    },
+    "action": "auto_fixed",
+    "status": "resolved"
+  },
+  {
+    "id": "en-03282",
+    "tier": 2,
+    "headword": "valid",
+    "checks": {
+      "見出し語": "valid",
+      "正解訳": "有効な",
+      "例文": "This ticket is valid for one week. — この切符は1週間有効だ。",
+      "例文訳": "この切符は1週間有効だ。",
+      "選択肢": [
+        "危険な",
+        "有効な",
+        "わな",
+        "油断のない"
+      ],
+      "語義の一致": "元から一致(変更不要)",
+      "不適切表現": "なし"
+    },
+    "action": "no_change_needed",
+    "status": "resolved"
+  },
+  {
+    "id": "en-03318",
+    "tier": 2,
+    "headword": "pacific",
+    "checks": {
+      "見出し語": "pacific",
+      "正解訳": "平和的な",
+      "例文": "She has a calm, pacific nature. — 彼女は穏やかで平和的な性格だ。",
+      "例文訳": "彼女は穏やかで平和的な性格だ。",
+      "選択肢": [
+        "協力的な",
+        "攻撃的な",
+        "見事な",
+        "平和的な"
+      ],
+      "語義の一致": "修正で一致化",
+      "不適切表現": "なし"
+    },
+    "action": "auto_fixed",
+    "status": "resolved"
+  },
+  {
+    "id": "en-03381",
+    "tier": 2,
+    "headword": "martin",
+    "checks": {
+      "見出し語": "martin",
+      "正解訳": "イワツバメ",
+      "例文": "A martin nested under the eaves. — イワツバメが軒下に巣を作った。",
+      "例文訳": "イワツバメが軒下に巣を作った。",
+      "選択肢": [
+        "イワツバメ",
+        "おもり",
+        "商業",
+        "看護"
+      ],
+      "語義の一致": "修正で一致化",
+      "不適切表現": "なし"
+    },
+    "action": "auto_fixed",
+    "status": "resolved"
+  },
+  {
+    "id": "en-03412",
+    "tier": 2,
+    "headword": "tom",
+    "checks": {
+      "見出し語": "tom",
+      "正解訳": "雄",
+      "例文": "Tom is in a bad mood. — トムは機嫌が悪い。",
+      "例文訳": "トムは機嫌が悪い。",
+      "選択肢": [
+        "雄",
+        "レンタル",
+        "休暇",
+        "証明書"
+      ],
+      "語義の一致": "要人手確認",
+      "不適切表現": "なし"
+    },
+    "action": "proposed_for_human",
+    "status": "needs_human_review"
+  },
+  {
+    "id": "en-03469",
+    "tier": 2,
+    "headword": "lee",
+    "checks": {
+      "見出し語": "lee",
+      "正解訳": "物陰",
+      "例文": "We sheltered in the lee of the rocks. — 私たちは岩の物陰に身を寄せた。",
+      "例文訳": "私たちは岩の物陰に身を寄せた。",
+      "選択肢": [
+        "物陰",
+        "任意の",
+        "仮想の",
+        "雄"
+      ],
+      "語義の一致": "修正で一致化",
+      "不適切表現": "なし"
+    },
+    "action": "auto_fixed",
+    "status": "resolved"
+  },
+  {
+    "id": "en-03505",
+    "tier": 2,
+    "headword": "bob",
+    "checks": {
+      "見出し語": "bob",
+      "正解訳": "おもり",
+      "例文": "The bob at the end of the line sank slowly. — 糸の先のおもりがゆっくり沈んだ。",
+      "例文訳": "糸の先のおもりがゆっくり沈んだ。",
+      "選択肢": [
+        "上院",
+        "おもり",
+        "ガンマ",
+        "資料"
+      ],
+      "語義の一致": "修正で一致化",
+      "不適切表現": "なし"
+    },
+    "action": "auto_fixed",
+    "status": "resolved"
+  },
+  {
+    "id": "en-03520",
+    "tier": 2,
+    "headword": "ford",
+    "checks": {
+      "見出し語": "ford",
+      "正解訳": "浅瀬",
+      "例文": "They waded across the shallow ford. — 彼らは浅瀬を歩いて渡った。",
+      "例文訳": "彼らは浅瀬を歩いて渡った。",
+      "選択肢": [
+        "ファンタジー",
+        "浅瀬",
+        "聴力",
+        "保険料"
+      ],
+      "語義の一致": "修正で一致化",
+      "不適切表現": "なし"
+    },
+    "action": "auto_fixed",
+    "status": "resolved"
+  },
+  {
+    "id": "en-03602",
+    "tier": 2,
+    "headword": "informed",
+    "checks": {
+      "見出し語": "informed",
+      "正解訳": "情報に通じた",
+      "例文": "We need an informed decision. — 私たちには情報に通じた判断が必要だ。",
+      "例文訳": "私たちには情報に通じた判断が必要だ。",
+      "選択肢": [
+        "聖人",
+        "電池",
+        "情報に通じた",
+        "反対投票"
+      ],
+      "語義の一致": "修正で一致化",
+      "不適切表現": "なし"
+    },
+    "action": "auto_fixed",
+    "status": "resolved"
+  },
+  {
+    "id": "en-03616",
+    "tier": 2,
+    "headword": "covered",
+    "checks": {
+      "見出し語": "covered",
+      "正解訳": "おおいのある",
+      "例文": "We waited under the covered walkway. — 私たちはおおいのある通路の下で待った。",
+      "例文訳": "私たちはおおいのある通路の下で待った。",
+      "選択肢": [
+        "関係のある",
+        "計算する",
+        "おおいのある",
+        "結合させる"
+      ],
+      "語義の一致": "修正で一致化",
+      "不適切表現": "なし"
+    },
+    "action": "auto_fixed",
+    "status": "resolved"
+  },
+  {
+    "id": "en-03750",
+    "tier": 2,
+    "headword": "stated",
+    "checks": {
+      "見出し語": "stated",
+      "正解訳": "決まった",
+      "例文": "The train leaves at the stated time. — 列車は決まった時刻に出発する。",
+      "例文訳": "列車は決まった時刻に出発する。",
+      "選択肢": [
+        "照明",
+        "虫",
+        "決まった",
+        "聖人"
+      ],
+      "語義の一致": "修正で一致化",
+      "不適切表現": "なし"
+    },
+    "action": "auto_fixed",
+    "status": "resolved"
+  },
+  {
+    "id": "en-03755",
+    "tier": 2,
+    "headword": "decided",
+    "checks": {
+      "見出し語": "decided",
+      "正解訳": "明白な",
+      "例文": "There was a decided change in his tone. — 彼の口調に明白な変化があった。",
+      "例文訳": "彼の口調に明白な変化があった。",
+      "選択肢": [
+        "激しい",
+        "包括的な",
+        "明白な",
+        "目の見えない"
+      ],
+      "語義の一致": "修正で一致化",
+      "不適切表現": "なし"
+    },
+    "action": "auto_fixed",
+    "status": "resolved"
+  },
+  {
+    "id": "en-03805",
+    "tier": 2,
+    "headword": "vintage",
+    "checks": {
+      "見出し語": "vintage",
+      "正解訳": "優良ぶどう酒",
+      "例文": "They served a rare and fine vintage. — 彼らは珍しく上質な優良ぶどう酒を出した。",
+      "例文訳": "彼らは珍しく上質な優良ぶどう酒を出した。",
+      "選択肢": [
+        "開発者",
+        "行方不明の",
+        "優良ぶどう酒",
+        "保険料"
+      ],
+      "語義の一致": "修正で一致化",
+      "不適切表現": "なし"
+    },
+    "action": "auto_fixed",
+    "status": "resolved"
+  },
+  {
+    "id": "en-03820",
+    "tier": 2,
+    "headword": "con",
+    "checks": {
+      "見出し語": "con",
+      "正解訳": "反対投票",
+      "例文": "There are pros and cons to anything. — なんにでも、長所と短所の両方がある。",
+      "例文訳": "なんにでも、長所と短所の両方がある。",
+      "選択肢": [
+        "発見",
+        "実験室",
+        "反対投票",
+        "集会"
+      ],
+      "語義の一致": "要人手確認",
+      "不適切表現": "なし"
+    },
+    "action": "proposed_for_human",
+    "status": "needs_human_review"
+  },
+  {
+    "id": "en-03894",
+    "tier": 2,
+    "headword": "contained",
+    "checks": {
+      "見出し語": "contained",
+      "正解訳": "物静かな",
+      "例文": "He stayed calm and contained. — 彼は冷静で物静かなままだった。",
+      "例文訳": "彼は冷静で物静かなままだった。",
+      "選択肢": [
+        "柔軟な",
+        "部分的な",
+        "物静かな",
+        "ひたむきな"
+      ],
+      "語義の一致": "修正で一致化",
+      "不適切表現": "なし"
+    },
+    "action": "auto_fixed",
+    "status": "resolved"
+  },
+  {
+    "id": "en-03929",
+    "tier": 2,
+    "headword": "removed",
+    "checks": {
+      "見出し語": "removed",
+      "正解訳": "遠く離れた",
+      "例文": "His theory is far removed from fact. — 彼の理論は事実から遠く離れている。",
+      "例文訳": "彼の理論は事実から遠く離れている。",
+      "選択肢": [
+        "山の手",
+        "下着",
+        "遠く離れた",
+        "神託"
+      ],
+      "語義の一致": "修正で一致化",
+      "不適切表現": "なし"
+    },
+    "action": "auto_fixed",
+    "status": "resolved"
+  },
+  {
+    "id": "en-03969",
+    "tier": 2,
+    "headword": "toll",
+    "checks": {
+      "見出し語": "toll",
+      "正解訳": "鳴る",
+      "例文": "The church bells toll at noon. — 教会の鐘が正午に鳴る。",
+      "例文訳": "教会の鐘が正午に鳴る。",
+      "選択肢": [
+        "奪う",
+        "衰える",
+        "鳴る",
+        "発明する"
+      ],
+      "語義の一致": "修正で一致化",
+      "不適切表現": "なし"
+    },
+    "action": "auto_fixed",
+    "status": "resolved"
+  },
+  {
+    "id": "en-04012",
+    "tier": 2,
+    "headword": "phoenix",
+    "checks": {
+      "見出し語": "phoenix",
+      "正解訳": "不死鳥",
+      "例文": "The phoenix rose again from the ashes. — 不死鳥は灰の中から再びよみがえった。",
+      "例文訳": "不死鳥は灰の中から再びよみがえった。",
+      "選択肢": [
+        "腰",
+        "不死鳥",
+        "フォント",
+        "改訂"
+      ],
+      "語義の一致": "修正で一致化",
+      "不適切表現": "なし"
+    },
+    "action": "auto_fixed",
+    "status": "resolved"
+  },
+  {
+    "id": "en-04080",
+    "tier": 2,
+    "headword": "victoria",
+    "checks": {
+      "見出し語": "victoria",
+      "正解訳": "二人乗り四輪ほろ馬車",
+      "例文": "Queen Victoria was the sovereign of Great Britain. — ビクトリア女王は英国の君主だった。",
+      "例文訳": "ビクトリア女王は英国の君主だった。",
+      "選択肢": [
+        "幹線道路",
+        "二人乗り四輪ほろ馬車",
+        "水晶",
+        "残り"
+      ],
+      "語義の一致": "要人手確認",
+      "不適切表現": "なし"
+    },
+    "action": "proposed_for_human",
+    "status": "needs_human_review"
+  },
+  {
+    "id": "en-04192",
+    "tier": 2,
+    "headword": "holding",
+    "checks": {
+      "見出し語": "holding",
+      "正解訳": "しっかり握ること",
+      "例文": "He is holding up her work. — 彼は彼女の仕事を妨げている。",
+      "例文訳": "彼は彼女の仕事を妨げている。",
+      "選択肢": [
+        "転換",
+        "おや",
+        "しっかり握ること",
+        "設定"
+      ],
+      "語義の一致": "要人手確認",
+      "不適切表現": "なし"
+    },
+    "action": "proposed_for_human",
+    "status": "needs_human_review"
+  },
+  {
+    "id": "en-04360",
+    "tier": 2,
+    "headword": "becoming",
+    "checks": {
+      "見出し語": "becoming",
+      "正解訳": "似合った",
+      "例文": "That color is very becoming on her. — その色は彼女にとても似合っている。",
+      "例文訳": "その色は彼女にとても似合っている。",
+      "選択肢": [
+        "似合った",
+        "遠征旅行",
+        "大おけ",
+        "綿"
+      ],
+      "語義の一致": "修正で一致化",
+      "不適切表現": "なし"
+    },
+    "action": "auto_fixed",
+    "status": "resolved"
+  },
+  {
+    "id": "en-04361",
+    "tier": 2,
+    "headword": "safari",
+    "checks": {
+      "見出し語": "safari",
+      "正解訳": "遠征旅行",
+      "例文": "We went on a safari across the plains. — 私たちは平原を巡る遠征旅行に出た。",
+      "例文訳": "私たちは平原を巡る遠征旅行に出た。",
+      "選択肢": [
+        "遠征旅行",
+        "学部長",
+        "シャルロット",
+        "出口"
+      ],
+      "語義の一致": "修正で一致化",
+      "不適切表現": "なし"
+    },
+    "action": "auto_fixed",
+    "status": "resolved"
+  },
+  {
+    "id": "en-04411",
+    "tier": 2,
+    "headword": "ultra",
+    "checks": {
+      "見出し語": "ultra",
+      "正解訳": "極端な",
+      "例文": "Infrared and ultra-violet rays are types of light invisible to the human eye. — 赤外線や紫外線は、人の目には見えない光である。",
+      "例文訳": "赤外線や紫外線は、人の目には見えない光である。",
+      "選択肢": [
+        "多様な",
+        "崇高な",
+        "極端な",
+        "自発的な"
+      ],
+      "語義の一致": "要人手確認",
+      "不適切表現": "なし"
+    },
+    "action": "proposed_for_human",
+    "status": "needs_human_review"
+  },
+  {
+    "id": "en-04486",
+    "tier": 2,
+    "headword": "collected",
+    "checks": {
+      "見出し語": "collected",
+      "正解訳": "落ち着いた",
+      "例文": "She stayed cool and collected. — 彼女は冷静で落ち着いていた。",
+      "例文訳": "彼女は冷静で落ち着いていた。",
+      "選択肢": [
+        "格子",
+        "血漿",
+        "落ち着いた",
+        "同盟"
+      ],
+      "語義の一致": "修正で一致化",
+      "不適切表現": "なし"
+    },
+    "action": "auto_fixed",
+    "status": "resolved"
+  },
+  {
+    "id": "en-04490",
+    "tier": 2,
+    "headword": "guinea",
+    "checks": {
+      "見出し語": "guinea",
+      "正解訳": "ギニー金貨",
+      "例文": "The old coin was worth one guinea. — その古い硬貨は1ギニーの価値があった。",
+      "例文訳": "その古い硬貨は1ギニーの価値があった。",
+      "選択肢": [
+        "利用しやすさ",
+        "頭を取り去る機械",
+        "ギニー金貨",
+        "恋愛"
+      ],
+      "語義の一致": "修正で一致化",
+      "不適切表現": "なし"
+    },
+    "action": "auto_fixed",
+    "status": "resolved"
+  },
+  {
+    "id": "en-04506",
+    "tier": 2,
+    "headword": "vat",
+    "checks": {
+      "見出し語": "vat",
+      "正解訳": "大おけ",
+      "例文": "The grapes fermented in a wooden vat. — ぶどうは木の大おけで発酵した。",
+      "例文訳": "ぶどうは木の大おけで発酵した。",
+      "選択肢": [
+        "利用しやすさ",
+        "セミナー",
+        "大おけ",
+        "取引"
+      ],
+      "語義の一致": "修正で一致化",
+      "不適切表現": "なし"
+    },
+    "action": "auto_fixed",
+    "status": "resolved"
+  },
+  {
+    "id": "en-04541",
+    "tier": 2,
+    "headword": "ordered",
+    "checks": {
+      "見出し語": "ordered",
+      "正解訳": "整然とした",
+      "例文": "She keeps an ordered and tidy desk. — 彼女は整然とした机を保っている。",
+      "例文訳": "彼女は整然とした机を保っている。",
+      "選択肢": [
+        "整然とした",
+        "真珠",
+        "利用しやすさ",
+        "格子"
+      ],
+      "語義の一致": "修正で一致化",
+      "不適切表現": "なし"
+    },
+    "action": "auto_fixed",
+    "status": "resolved"
+  },
+  {
+    "id": "en-06006",
+    "tier": 2,
+    "headword": "chi",
+    "checks": {
+      "見出し語": "chi",
+      "正解訳": "カイ，気",
+      "例文": "Ho Chi Minh City is the largest city in Vietnam. — ホーチミン市はベトナムで最も大きな都市だ。",
+      "例文訳": "ホーチミン市はベトナムで最も大きな都市だ。",
+      "選択肢": [
+        "猟犬",
+        "言語",
+        "弓",
+        "カイ，気"
+      ],
+      "語義の一致": "要人手確認",
+      "不適切表現": "なし"
+    },
+    "action": "proposed_for_human",
+    "status": "needs_human_review"
+  },
+  {
+    "id": "en-06154",
+    "tier": 2,
+    "headword": "brad",
+    "checks": {
+      "見出し語": "brad",
+      "正解訳": "鉄線くぎ",
+      "例文": "He tacked the sign up with a small brad. — 彼は小さな鉄線くぎで看板を留めた。",
+      "例文訳": "彼は小さな鉄線くぎで看板を留めた。",
+      "選択肢": [
+        "鉄線くぎ",
+        "芝生",
+        "錠剤",
+        "アーチ"
+      ],
+      "語義の一致": "修正で一致化",
+      "不適切表現": "なし"
+    },
+    "action": "auto_fixed",
+    "status": "resolved"
+  },
+  {
+    "id": "en-06181",
+    "tier": 2,
+    "headword": "latex",
+    "checks": {
+      "見出し語": "latex",
+      "正解訳": "ラテックス",
+      "例文": "These medical gloves are made of latex. — この医療用手袋はラテックス製だ。",
+      "例文訳": "この医療用手袋はラテックス製だ。",
+      "選択肢": [
+        "兵站学",
+        "絞首刑",
+        "漁夫",
+        "ラテックス"
+      ],
+      "語義の一致": "修正で一致化",
+      "不適切表現": "なし"
+    },
+    "action": "auto_fixed",
+    "status": "resolved"
+  },
+  {
+    "id": "en-06240",
+    "tier": 2,
+    "headword": "turner",
+    "checks": {
+      "見出し語": "turner",
+      "正解訳": "回す人，旋盤工",
+      "例文": "Turner stands out among the painters of his time. — ターナーは同時代の画家の中でも傑出している。",
+      "例文訳": "ターナーは同時代の画家の中でも傑出している。",
+      "選択肢": [
+        "枝",
+        "同情",
+        "回す人，旋盤工",
+        "瞑想"
+      ],
+      "語義の一致": "要人手確認",
+      "不適切表現": "なし"
+    },
+    "action": "proposed_for_human",
+    "status": "needs_human_review"
+  },
+  {
+    "id": "en-06272",
+    "tier": 2,
+    "headword": "macintosh",
+    "checks": {
+      "見出し語": "macintosh",
+      "正解訳": "防水コート",
+      "例文": "The first Macintosh PC was released in 1984. — 初代Macは1984年にリリースされた。",
+      "例文訳": "初代Macは1984年にリリースされた。",
+      "選択肢": [
+        "防水コート",
+        "外れた",
+        "終了",
+        "艦隊"
+      ],
+      "語義の一致": "要人手確認",
+      "不適切表現": "なし"
+    },
+    "action": "proposed_for_human",
+    "status": "needs_human_review"
+  },
+  {
+    "id": "en-06281",
+    "tier": 2,
+    "headword": "hanging",
+    "checks": {
+      "見出し語": "hanging",
+      "正解訳": "絞首刑",
+      "例文": "I am hanging up my shirts. — シャツを掛けているところです。",
+      "例文訳": "シャツを掛けているところです。",
+      "選択肢": [
+        "討論会",
+        "接続器",
+        "論文",
+        "絞首刑"
+      ],
+      "語義の一致": "要人手確認",
+      "不適切表現": "なし"
+    },
+    "action": "proposed_for_human",
+    "status": "needs_human_review"
+  },
+  {
+    "id": "en-06480",
+    "tier": 2,
+    "headword": "spec",
+    "checks": {
+      "見出し語": "spec",
+      "正解訳": "仕様，スペック",
+      "例文": "Check the laptop's spec before buying it. — 買う前にノートPCの仕様を確認して。",
+      "例文訳": "買う前にノートPCの仕様を確認して。",
+      "選択肢": [
+        "仕様，スペック",
+        "関心",
+        "アリア",
+        "十分に"
+      ],
+      "語義の一致": "修正で一致化",
+      "不適切表現": "なし"
+    },
+    "action": "auto_fixed",
+    "status": "resolved"
+  },
+  {
+    "id": "en-06502",
+    "tier": 2,
+    "headword": "mounting",
+    "checks": {
+      "見出し語": "mounting",
+      "正解訳": "据えつけ",
+      "例文": "Signs of social unrest are mounting. — 社会不安の兆候が高まりつつある。",
+      "例文訳": "社会不安の兆候が高まりつつある。",
+      "選択肢": [
+        "サル",
+        "満員の",
+        "外れた",
+        "据えつけ"
+      ],
+      "語義の一致": "要人手確認",
+      "不適切表現": "なし"
+    },
+    "action": "proposed_for_human",
+    "status": "needs_human_review"
+  },
+  {
+    "id": "en-09398",
+    "tier": 2,
+    "headword": "wan",
+    "checks": {
+      "見出し語": "wan",
+      "正解訳": "青白い",
+      "例文": "Her pale, wan face worried us. — 彼女の青白い顔は私たちを心配させた。",
+      "例文訳": "彼女の青白い顔は私たちを心配させた。",
+      "選択肢": [
+        "選択的な",
+        "青白い",
+        "受動的な",
+        "微妙な"
+      ],
+      "語義の一致": "修正で一致化",
+      "不適切表現": "なし"
+    },
+    "action": "auto_fixed",
+    "status": "resolved"
+  },
+  {
+    "id": "en-20098",
+    "tier": 2,
+    "headword": "firing",
+    "checks": {
+      "見出し語": "firing",
+      "正解訳": "発射",
+      "例文": "The firing of the rocket was postponed. — ロケットの発射は延期された。",
+      "例文訳": "ロケットの発射は延期された。",
+      "選択肢": [
+        "銃声",
+        "クローゼット",
+        "夫人",
+        "発射"
+      ],
+      "語義の一致": "修正で一致化",
+      "不適切表現": "なし"
+    },
+    "action": "auto_fixed",
+    "status": "resolved"
+  },
+  {
+    "id": "en-20115",
+    "tier": 2,
+    "headword": "bust",
+    "checks": {
+      "見出し語": "bust",
+      "正解訳": "半身像",
+      "例文": "A bronze bust of the poet stood in the hall. — その詩人の青銅の半身像が広間に立っていた。",
+      "例文訳": "その詩人の青銅の半身像が広間に立っていた。",
+      "選択肢": [
+        "半身像",
+        "〜さん",
+        "小路",
+        "牧師"
+      ],
+      "語義の一致": "修正で一致化",
+      "不適切表現": "なし"
+    },
+    "action": "auto_fixed",
+    "status": "resolved"
+  },
+  {
+    "id": "en-20274",
+    "tier": 2,
+    "headword": "hooked",
+    "checks": {
+      "見出し語": "hooked",
+      "正解訳": "かぎ形の",
+      "例文": "The eagle has a sharp, hooked beak. — 鷲は鋭いかぎ形のくちばしを持つ。",
+      "例文訳": "鷲は鋭いかぎ形のくちばしを持つ。",
+      "選択肢": [
+        "玉座",
+        "かぎ形の",
+        "偏執病患者の",
+        "デザート"
+      ],
+      "語義の一致": "修正で一致化",
+      "不適切表現": "なし"
+    },
+    "action": "auto_fixed",
+    "status": "resolved"
+  },
+  {
+    "id": "en-20363",
+    "tier": 2,
+    "headword": "scotch",
+    "checks": {
+      "見出し語": "scotch",
+      "正解訳": "押しつぶす",
+      "例文": "This Scotch tape doesn't stick. — このセロテープ、くっつかないんだけど。",
+      "例文訳": "このセロテープ、くっつかないんだけど。",
+      "選択肢": [
+        "〜に気をつける",
+        "目が覚めている",
+        "降伏する",
+        "押しつぶす"
+      ],
+      "語義の一致": "要人手確認",
+      "不適切表現": "なし"
+    },
+    "action": "proposed_for_human",
+    "status": "needs_human_review"
+  },
+  {
+    "id": "en-20434",
+    "tier": 2,
+    "headword": "smashed",
+    "checks": {
+      "見出し語": "smashed",
+      "正解訳": "酔っぱらった",
+      "例文": "The bottle smashed to pieces. — 瓶は粉々に割れた。",
+      "例文訳": "瓶は粉々に割れた。",
+      "選択肢": [
+        "セーター",
+        "野心",
+        "酔っぱらった",
+        "スミレ"
+      ],
+      "語義の一致": "要人手確認",
+      "不適切表現": "なし"
+    },
+    "action": "proposed_for_human",
+    "status": "needs_human_review"
+  },
+  {
+    "id": "en-20483",
+    "tier": 2,
+    "headword": "cracking",
+    "checks": {
+      "見出し語": "cracking",
+      "正解訳": "ひび割れ，割れること",
+      "例文": "The loud cracking of the ice startled us. — 氷の割れる大きな音に私たちは驚いた。",
+      "例文訳": "氷の割れる大きな音に私たちは驚いた。",
+      "選択肢": [
+        "生理学",
+        "供給する",
+        "ひび割れ，割れること",
+        "身体上の"
+      ],
+      "語義の一致": "修正で一致化",
+      "不適切表現": "なし"
+    },
+    "action": "auto_fixed",
+    "status": "resolved"
+  },
+  {
+    "id": "en-21103",
+    "tier": 2,
+    "headword": "bender",
+    "checks": {
+      "見出し語": "bender",
+      "正解訳": "酒を飲んでの大騒ぎ",
+      "例文": "It was just a fender bender. — 軽い接触事故だったんだ。",
+      "例文訳": "軽い接触事故だったんだ。",
+      "選択肢": [
+        "ナイトクラブ",
+        "酒を飲んでの大騒ぎ",
+        "ほうき",
+        "ヒキガエル"
+      ],
+      "語義の一致": "要人手確認",
+      "不適切表現": "なし"
+    },
+    "action": "proposed_for_human",
+    "status": "needs_human_review"
+  },
+  {
+    "id": "en-21117",
+    "tier": 2,
+    "headword": "warmer",
+    "checks": {
+      "見出し語": "warmer",
+      "正解訳": "暖めるもの",
+      "例文": "It will get warmer and warmer. — だんだん暖かくなります。",
+      "例文訳": "だんだん暖かくなります。",
+      "選択肢": [
+        "女性の",
+        "暖めるもの",
+        "宴会",
+        "校長"
+      ],
+      "語義の一致": "要人手確認",
+      "不適切表現": "なし"
+    },
+    "action": "proposed_for_human",
+    "status": "needs_human_review"
+  },
+  {
+    "id": "en-21128",
+    "tier": 2,
+    "headword": "wheeler",
+    "checks": {
+      "見出し語": "wheeler",
+      "正解訳": "トラック運搬者",
+      "例文": "He is a real wheeler-dealer. — 彼はやり手です。",
+      "例文訳": "彼はやり手です。",
+      "選択肢": [
+        "トラック運搬者",
+        "花びん",
+        "浴槽",
+        "深い愛情"
+      ],
+      "語義の一致": "要人手確認",
+      "不適切表現": "なし"
+    },
+    "action": "proposed_for_human",
+    "status": "needs_human_review"
+  },
+  {
+    "id": "en-21268",
+    "tier": 2,
+    "headword": "tong",
+    "checks": {
+      "見出し語": "tong",
+      "正解訳": "在米中国人の友愛団体",
+      "例文": "I burned my forefinger on fire tongs. — 火ばさみで人差し指をやけどした。",
+      "例文訳": "火ばさみで人差し指をやけどした。",
+      "選択肢": [
+        "モットー",
+        "在米中国人の友愛団体",
+        "夜間外出禁止令",
+        "右舷"
+      ],
+      "語義の一致": "要人手確認",
+      "不適切表現": "なし"
+    },
+    "action": "proposed_for_human",
+    "status": "needs_human_review"
+  },
+  {
+    "id": "en-21293",
+    "tier": 2,
+    "headword": "blasted",
+    "checks": {
+      "見出し語": "blasted",
+      "正解訳": "いまいましい，のろわれた",
+      "例文": "The rocket blasted out of the atmosphere. — ロケットは大気圏外へ飛んでいった。",
+      "例文訳": "ロケットは大気圏外へ飛んでいった。",
+      "選択肢": [
+        "強く押す",
+        "予想",
+        "いまいましい，のろわれた",
+        "思いやりのある"
+      ],
+      "語義の一致": "要人手確認",
+      "不適切表現": "なし"
+    },
+    "action": "proposed_for_human",
+    "status": "needs_human_review"
+  },
+  {
+    "id": "en-21406",
+    "tier": 2,
+    "headword": "bouncing",
+    "checks": {
+      "見出し語": "bouncing",
+      "正解訳": "健康な",
+      "例文": "The children started bouncing up and down on the couch. — 子供たちはソファの上で跳び始めた。",
+      "例文訳": "子供たちはソファの上で跳び始めた。",
+      "選択肢": [
+        "気づかない",
+        "怪物のような",
+        "ありそうな",
+        "健康な"
+      ],
+      "語義の一致": "要人手確認",
+      "不適切表現": "なし"
+    },
+    "action": "proposed_for_human",
+    "status": "needs_human_review"
+  },
+  {
+    "id": "en-21432",
+    "tier": 2,
+    "headword": "weasel",
+    "checks": {
+      "見出し語": "weasel",
+      "正解訳": "言い逃れる",
+      "例文": "He tried to weasel out of the deal. — 彼は取引から言い逃れようとした。",
+      "例文訳": "彼は取引から言い逃れようとした。",
+      "選択肢": [
+        "マフィン",
+        "の後ろに",
+        "詳細",
+        "言い逃れる"
+      ],
+      "語義の一致": "修正で一致化",
+      "不適切表現": "なし"
+    },
+    "action": "auto_fixed",
+    "status": "resolved"
+  },
+  {
+    "id": "en-21453",
+    "tier": 2,
+    "headword": "punishing",
+    "checks": {
+      "見出し語": "punishing",
+      "正解訳": "へとへとにさせる",
+      "例文": "He kept a punishing work schedule. — 彼はへとへとになる仕事日程を続けた。",
+      "例文訳": "彼はへとへとになる仕事日程を続けた。",
+      "選択肢": [
+        "こぶ",
+        "ガタガタ音を立てる",
+        "逆らう",
+        "へとへとにさせる"
+      ],
+      "語義の一致": "修正で一致化",
+      "不適切表現": "なし"
+    },
+    "action": "auto_fixed",
+    "status": "resolved"
+  },
+  {
+    "id": "en-21935",
+    "tier": 2,
+    "headword": "ting",
+    "checks": {
+      "見出し語": "ting",
+      "正解訳": "チリンチリンと鳴らす",
+      "例文": "Her cheeks were tinged with pink. — 彼女のほおは薄く桃色に染まっていた。",
+      "例文訳": "彼女のほおは薄く桃色に染まっていた。",
+      "選択肢": [
+        "著しく",
+        "チリンチリンと鳴らす",
+        "きらきら輝く",
+        "はさむ"
+      ],
+      "語義の一致": "要人手確認",
+      "不適切表現": "なし"
+    },
+    "action": "proposed_for_human",
+    "status": "needs_human_review"
+  },
+  {
+    "id": "en-22638",
+    "tier": 2,
+    "headword": "blinking",
+    "checks": {
+      "見出し語": "blinking",
+      "正解訳": "まったくひどい",
+      "例文": "Little lights were blinking on and off in the distance. — 遠くで小さな明かりがちらちらしていた。",
+      "例文訳": "遠くで小さな明かりがちらちらしていた。",
+      "選択肢": [
+        "救いようのない",
+        "まったくひどい",
+        "身分の低い",
+        "活発な"
+      ],
+      "語義の一致": "要人手確認",
+      "不適切表現": "なし"
+    },
+    "action": "proposed_for_human",
+    "status": "needs_human_review"
+  },
+  {
+    "id": "en-22747",
+    "tier": 2,
+    "headword": "dickens",
+    "checks": {
+      "見出し語": "dickens",
+      "正解訳": "悪魔",
+      "例文": "Dickens was the author of 'Oliver Twist'. — ディケンズは『オリバー・ツイスト』の著者です。",
+      "例文訳": "ディケンズは『オリバー・ツイスト』の著者です。",
+      "選択肢": [
+        "悪魔",
+        "ボンネット",
+        "勇敢に",
+        "毛で覆われた"
+      ],
+      "語義の一致": "要人手確認",
+      "不適切表現": "なし"
+    },
+    "action": "proposed_for_human",
+    "status": "needs_human_review"
+  },
+  {
+    "id": "en-22854",
+    "tier": 2,
+    "headword": "brewing",
+    "checks": {
+      "見出し語": "brewing",
+      "正解訳": "ビール醸造",
+      "例文": "The brewing of beer takes several weeks. — ビールの醸造には数週間かかる。",
+      "例文訳": "ビールの醸造には数週間かかる。",
+      "選択肢": [
+        "騒動",
+        "足場",
+        "逆説",
+        "ビール醸造"
+      ],
+      "語義の一致": "修正で一致化",
+      "不適切表現": "なし"
+    },
+    "action": "auto_fixed",
+    "status": "resolved"
+  },
+  {
+    "id": "en-22855",
+    "tier": 2,
+    "headword": "tat",
+    "checks": {
+      "見出し語": "tat",
+      "正解訳": "タッチングで作る",
+      "例文": "Tit for tat. — しっぺ返しだよ。",
+      "例文訳": "しっぺ返しだよ。",
+      "選択肢": [
+        "木",
+        "肖像画",
+        "タッチングで作る",
+        "害"
+      ],
+      "語義の一致": "要人手確認",
+      "不適切表現": "なし"
+    },
+    "action": "proposed_for_human",
+    "status": "needs_human_review"
+  },
+  {
+    "id": "en-22963",
+    "tier": 2,
+    "headword": "contracted",
+    "checks": {
+      "見出し語": "contracted",
+      "正解訳": "縮めた",
+      "例文": "\"Do not\" is often contracted to \"don't\". — 『do not』はよく『don't』に縮められる。",
+      "例文訳": "『do not』はよく『don't』に縮められる。",
+      "選択肢": [
+        "料理の",
+        "人食い鬼",
+        "気取り屋",
+        "縮めた"
+      ],
+      "語義の一致": "修正で一致化",
+      "不適切表現": "なし"
+    },
+    "action": "auto_fixed",
+    "status": "resolved"
+  },
+  {
+    "id": "en-22971",
+    "tier": 2,
+    "headword": "gaga",
+    "checks": {
+      "見出し語": "gaga",
+      "正解訳": "夢中の，ぼけた",
+      "例文": "I wish I could sing as well as Lady Gaga. — レディ・ガガみたいに上手く歌えたらなあ。",
+      "例文訳": "レディ・ガガみたいに上手く歌えたらなあ。",
+      "選択肢": [
+        "敷居",
+        "夢中の，ぼけた",
+        "果汁",
+        "新聞"
+      ],
+      "語義の一致": "要人手確認",
+      "不適切表現": "なし"
+    },
+    "action": "proposed_for_human",
+    "status": "needs_human_review"
+  },
+  {
+    "id": "en-22977",
+    "tier": 2,
+    "headword": "disposed",
+    "checks": {
+      "見出し語": "disposed",
+      "正解訳": "する気がある，傾向がある",
+      "例文": "She seemed disposed to help us. — 彼女は私たちを助ける気があるようだった。",
+      "例文訳": "彼女は私たちを助ける気があるようだった。",
+      "選択肢": [
+        "不思議の国",
+        "する気がある，傾向がある",
+        "予備の",
+        "隠喩"
+      ],
+      "語義の一致": "修正で一致化",
+      "不適切表現": "なし"
+    },
+    "action": "auto_fixed",
+    "status": "resolved"
+  },
+  {
+    "id": "zh-02747",
+    "tier": 2,
+    "headword": "圈",
+    "checks": {
+      "見出し語": "圈",
+      "正解訳": "輪",
+      "例文": "他在操场上跑了一圈。 — 彼は運動場を一周走った。",
+      "例文訳": "彼は運動場を一周走った。",
+      "選択肢": [
+        "英語",
+        "輪",
+        "番号",
+        "現実"
+      ],
+      "語義の一致": "修正で一致化",
+      "不適切表現": "なし"
+    },
+    "action": "auto_fixed",
+    "status": "resolved"
+  },
+  {
+    "id": "es-00432",
+    "tier": 3,
+    "headword": "dulce",
+    "checks": {
+      "見出し語": "dulce",
+      "正解訳": "candy",
+      "例文": "(なし)",
+      "例文訳": "(なし)",
+      "選択肢": [
+        "downfall",
+        "amount",
+        "department",
+        "candy"
+      ],
+      "語義の一致": "要人手確認",
+      "不適切表現": "なし"
+    },
+    "action": "proposed_for_human",
+    "status": "needs_human_review"
+  },
+  {
+    "id": "es-01405",
+    "tier": 3,
+    "headword": "cristo",
+    "checks": {
+      "見出し語": "cristo",
+      "正解訳": "jesus",
+      "例文": "(なし)",
+      "例文訳": "(なし)",
+      "選択肢": [
+        "moment",
+        "universe",
+        "jesus",
+        "summer"
+      ],
+      "語義の一致": "要人手確認",
+      "不適切表現": "なし"
+    },
+    "action": "proposed_for_human",
+    "status": "needs_human_review"
+  },
+  {
+    "id": "fr-00092",
+    "tier": 3,
+    "headword": "ensemble",
+    "checks": {
+      "見出し語": "ensemble",
+      "正解訳": "set",
+      "例文": "(なし)",
+      "例文訳": "(なし)",
+      "選択肢": [
+        "message",
+        "pair of jeans",
+        "set",
+        "site"
+      ],
+      "語義の一致": "要人手確認",
+      "不適切表現": "なし"
+    },
+    "action": "proposed_for_human",
+    "status": "needs_human_review"
+  },
+  {
+    "id": "fr-00645",
+    "tier": 3,
+    "headword": "expérience",
+    "checks": {
+      "見出し語": "expérience",
+      "正解訳": "experiment",
+      "例文": "(なし)",
+      "例文訳": "(なし)",
+      "選択肢": [
+        "taxi",
+        "to force",
+        "experiment",
+        "accident"
+      ],
+      "語義の一致": "要人手確認",
+      "不適切表現": "なし"
+    },
+    "action": "proposed_for_human",
+    "status": "needs_human_review"
+  },
+  {
+    "id": "fr-01022",
+    "tier": 3,
+    "headword": "émission",
+    "checks": {
+      "見出し語": "émission",
+      "正解訳": "emission",
+      "例文": "(なし)",
+      "例文訳": "(なし)",
+      "選択肢": [
+        "combat",
+        "moment",
+        "prize",
+        "emission"
+      ],
+      "語義の一致": "要人手確認",
+      "不適切表現": "なし"
+    },
+    "action": "proposed_for_human",
+    "status": "needs_human_review"
+  },
+  {
+    "id": "zh-02747",
+    "tier": 3,
+    "headword": "圈",
+    "checks": {
+      "見出し語": "圈",
+      "正解訳": "輪",
+      "例文": "他在操场上跑了一圈。 — 彼は運動場を一周走った。",
+      "例文訳": "彼は運動場を一周走った。",
+      "選択肢": [
+        "英語",
+        "輪",
+        "番号",
+        "現実"
+      ],
+      "語義の一致": "修正で一致化",
+      "不適切表現": "なし"
+    },
+    "action": "auto_fixed",
+    "status": "resolved"
+  }
+]
