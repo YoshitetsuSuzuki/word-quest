@@ -62,6 +62,7 @@ export const en: Strings = {
   'settings.language': 'Language',
   'cat.english': 'English', 'cat.chinese': 'Chinese', 'cat.korean': 'Korean', 'cat.japanese': 'Japanese',
   'cat.spanish': 'Spanish', 'cat.french': 'French', 'cat.german': 'German',
+  'cat.portuguese': 'Portuguese', 'cat.russian': 'Russian', 'cat.polish': 'Polish',
   'login.title': 'Login bonus', 'login.streakPre': '', 'login.streakPost': '-day login streak!', 'login.claim': 'Claim', 'login.dayUnit': 'd',
   'celebrate.levelupSub': 'Reached level ', 'celebrate.levelupSubPost': '!', 'celebrate.raidTitlePre': 'Earned the title "', 'celebrate.raidTitlePost': '"!', 'celebrate.raidClearDefault': 'Raid defeated!',
   'celebrate.achievement': 'Achievement', 'celebrate.streakPre': '', 'celebrate.streakPost': '-day study streak! +🪙', 'celebrate.tapContinue': 'Tap to continue',

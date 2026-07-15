@@ -167,6 +167,9 @@ export function langForCategory(category: Category): string {
     case 'spanish': return 'es-ES'
     case 'french': return 'fr-FR'
     case 'german': return 'de-DE'
+    case 'portuguese': return 'pt-PT'
+    case 'russian': return 'ru-RU'
+    case 'polish': return 'pl-PL'
     default: return 'en-US'
   }
 }

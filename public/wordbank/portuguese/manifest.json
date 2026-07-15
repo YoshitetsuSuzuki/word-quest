@@ -1,0 +1,25 @@
+{
+  "category": "portuguese",
+  "total": 150,
+  "verified": 150,
+  "levels": [
+    {
+      "level": 1,
+      "file": "level-1.json",
+      "count": 50
+    },
+    {
+      "level": 2,
+      "file": "level-2.json",
+      "count": 50
+    },
+    {
+      "level": 3,
+      "file": "level-3.json",
+      "count": 50
+    }
+  ],
+  "source": "curated core (native-verified)",
+  "generatedAt": "2026-07-15T01:23:22.135Z",
+  "jaVerified": 150
+}

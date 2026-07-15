@@ -62,6 +62,7 @@ export const ja: Strings = {
   'settings.language': '言語',
   'cat.english': '英単語', 'cat.chinese': '中国語', 'cat.korean': '韓国語', 'cat.japanese': '日本語',
   'cat.spanish': 'スペイン語', 'cat.french': 'フランス語', 'cat.german': 'ドイツ語',
+  'cat.portuguese': 'ポルトガル語', 'cat.russian': 'ロシア語', 'cat.polish': 'ポーランド語',
   'login.title': 'ログインボーナス', 'login.streakPre': '', 'login.streakPost': '日連続ログイン中！', 'login.claim': '受け取る', 'login.dayUnit': '日',
   'celebrate.levelupSub': 'レベル ', 'celebrate.levelupSubPost': ' に到達！', 'celebrate.raidTitlePre': '称号「', 'celebrate.raidTitlePost': '」を獲得！', 'celebrate.raidClearDefault': 'レイド討伐成功！',
   'celebrate.achievement': '実績解除', 'celebrate.streakPre': '', 'celebrate.streakPost': '日連続学習を達成！ +🪙', 'celebrate.tapContinue': 'タップして続ける',
