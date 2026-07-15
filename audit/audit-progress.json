@@ -1,0 +1,547 @@
+{
+  "generatedAt": "2026-07-15",
+  "batchSize": 400,
+  "languages": {
+    "english": {
+      "total": 8136,
+      "uniqueIds": 8136,
+      "batches": [
+        {
+          "batchId": "english_01",
+          "language": "english",
+          "startIndex": 0,
+          "endIndex": 400,
+          "totalEntries": 400,
+          "checkedEntries": 0,
+          "status": "pending"
+        },
+        {
+          "batchId": "english_02",
+          "language": "english",
+          "startIndex": 400,
+          "endIndex": 800,
+          "totalEntries": 400,
+          "checkedEntries": 0,
+          "status": "pending"
+        },
+        {
+          "batchId": "english_03",
+          "language": "english",
+          "startIndex": 800,
+          "endIndex": 1200,
+          "totalEntries": 400,
+          "checkedEntries": 0,
+          "status": "pending"
+        },
+        {
+          "batchId": "english_04",
+          "language": "english",
+          "startIndex": 1200,
+          "endIndex": 1600,
+          "totalEntries": 400,
+          "checkedEntries": 0,
+          "status": "pending"
+        },
+        {
+          "batchId": "english_05",
+          "language": "english",
+          "startIndex": 1600,
+          "endIndex": 2000,
+          "totalEntries": 400,
+          "checkedEntries": 0,
+          "status": "pending"
+        },
+        {
+          "batchId": "english_06",
+          "language": "english",
+          "startIndex": 2000,
+          "endIndex": 2400,
+          "totalEntries": 400,
+          "checkedEntries": 0,
+          "status": "pending"
+        },
+        {
+          "batchId": "english_07",
+          "language": "english",
+          "startIndex": 2400,
+          "endIndex": 2800,
+          "totalEntries": 400,
+          "checkedEntries": 0,
+          "status": "pending"
+        },
+        {
+          "batchId": "english_08",
+          "language": "english",
+          "startIndex": 2800,
+          "endIndex": 3200,
+          "totalEntries": 400,
+          "checkedEntries": 0,
+          "status": "pending"
+        },
+        {
+          "batchId": "english_09",
+          "language": "english",
+          "startIndex": 3200,
+          "endIndex": 3600,
+          "totalEntries": 400,
+          "checkedEntries": 0,
+          "status": "pending"
+        },
+        {
+          "batchId": "english_10",
+          "language": "english",
+          "startIndex": 3600,
+          "endIndex": 4000,
+          "totalEntries": 400,
+          "checkedEntries": 0,
+          "status": "pending"
+        },
+        {
+          "batchId": "english_11",
+          "language": "english",
+          "startIndex": 4000,
+          "endIndex": 4400,
+          "totalEntries": 400,
+          "checkedEntries": 0,
+          "status": "pending"
+        },
+        {
+          "batchId": "english_12",
+          "language": "english",
+          "startIndex": 4400,
+          "endIndex": 4800,
+          "totalEntries": 400,
+          "checkedEntries": 0,
+          "status": "pending"
+        },
+        {
+          "batchId": "english_13",
+          "language": "english",
+          "startIndex": 4800,
+          "endIndex": 5200,
+          "totalEntries": 400,
+          "checkedEntries": 0,
+          "status": "pending"
+        },
+        {
+          "batchId": "english_14",
+          "language": "english",
+          "startIndex": 5200,
+          "endIndex": 5600,
+          "totalEntries": 400,
+          "checkedEntries": 0,
+          "status": "pending"
+        },
+        {
+          "batchId": "english_15",
+          "language": "english",
+          "startIndex": 5600,
+          "endIndex": 6000,
+          "totalEntries": 400,
+          "checkedEntries": 0,
+          "status": "pending"
+        },
+        {
+          "batchId": "english_16",
+          "language": "english",
+          "startIndex": 6000,
+          "endIndex": 6400,
+          "totalEntries": 400,
+          "checkedEntries": 0,
+          "status": "pending"
+        },
+        {
+          "batchId": "english_17",
+          "language": "english",
+          "startIndex": 6400,
+          "endIndex": 6800,
+          "totalEntries": 400,
+          "checkedEntries": 0,
+          "status": "pending"
+        },
+        {
+          "batchId": "english_18",
+          "language": "english",
+          "startIndex": 6800,
+          "endIndex": 7200,
+          "totalEntries": 400,
+          "checkedEntries": 0,
+          "status": "pending"
+        },
+        {
+          "batchId": "english_19",
+          "language": "english",
+          "startIndex": 7200,
+          "endIndex": 7600,
+          "totalEntries": 400,
+          "checkedEntries": 0,
+          "status": "pending"
+        },
+        {
+          "batchId": "english_20",
+          "language": "english",
+          "startIndex": 7600,
+          "endIndex": 8000,
+          "totalEntries": 400,
+          "checkedEntries": 0,
+          "status": "pending"
+        },
+        {
+          "batchId": "english_21",
+          "language": "english",
+          "startIndex": 8000,
+          "endIndex": 8136,
+          "totalEntries": 136,
+          "checkedEntries": 0,
+          "status": "pending"
+        }
+      ]
+    },
+    "chinese": {
+      "total": 4201,
+      "uniqueIds": 4201,
+      "batches": [
+        {
+          "batchId": "chinese_01",
+          "language": "chinese",
+          "startIndex": 0,
+          "endIndex": 400,
+          "totalEntries": 400,
+          "checkedEntries": 0,
+          "status": "pending"
+        },
+        {
+          "batchId": "chinese_02",
+          "language": "chinese",
+          "startIndex": 400,
+          "endIndex": 800,
+          "totalEntries": 400,
+          "checkedEntries": 0,
+          "status": "pending"
+        },
+        {
+          "batchId": "chinese_03",
+          "language": "chinese",
+          "startIndex": 800,
+          "endIndex": 1200,
+          "totalEntries": 400,
+          "checkedEntries": 0,
+          "status": "pending"
+        },
+        {
+          "batchId": "chinese_04",
+          "language": "chinese",
+          "startIndex": 1200,
+          "endIndex": 1600,
+          "totalEntries": 400,
+          "checkedEntries": 0,
+          "status": "pending"
+        },
+        {
+          "batchId": "chinese_05",
+          "language": "chinese",
+          "startIndex": 1600,
+          "endIndex": 2000,
+          "totalEntries": 400,
+          "checkedEntries": 0,
+          "status": "pending"
+        },
+        {
+          "batchId": "chinese_06",
+          "language": "chinese",
+          "startIndex": 2000,
+          "endIndex": 2400,
+          "totalEntries": 400,
+          "checkedEntries": 0,
+          "status": "pending"
+        },
+        {
+          "batchId": "chinese_07",
+          "language": "chinese",
+          "startIndex": 2400,
+          "endIndex": 2800,
+          "totalEntries": 400,
+          "checkedEntries": 0,
+          "status": "pending"
+        },
+        {
+          "batchId": "chinese_08",
+          "language": "chinese",
+          "startIndex": 2800,
+          "endIndex": 3200,
+          "totalEntries": 400,
+          "checkedEntries": 0,
+          "status": "pending"
+        },
+        {
+          "batchId": "chinese_09",
+          "language": "chinese",
+          "startIndex": 3200,
+          "endIndex": 3600,
+          "totalEntries": 400,
+          "checkedEntries": 0,
+          "status": "pending"
+        },
+        {
+          "batchId": "chinese_10",
+          "language": "chinese",
+          "startIndex": 3600,
+          "endIndex": 4000,
+          "totalEntries": 400,
+          "checkedEntries": 0,
+          "status": "pending"
+        },
+        {
+          "batchId": "chinese_11",
+          "language": "chinese",
+          "startIndex": 4000,
+          "endIndex": 4201,
+          "totalEntries": 201,
+          "checkedEntries": 0,
+          "status": "pending"
+        }
+      ]
+    },
+    "korean": {
+      "total": 1529,
+      "uniqueIds": 1529,
+      "batches": [
+        {
+          "batchId": "korean_01",
+          "language": "korean",
+          "startIndex": 0,
+          "endIndex": 400,
+          "totalEntries": 400,
+          "checkedEntries": 0,
+          "status": "pending"
+        },
+        {
+          "batchId": "korean_02",
+          "language": "korean",
+          "startIndex": 400,
+          "endIndex": 800,
+          "totalEntries": 400,
+          "checkedEntries": 0,
+          "status": "pending"
+        },
+        {
+          "batchId": "korean_03",
+          "language": "korean",
+          "startIndex": 800,
+          "endIndex": 1200,
+          "totalEntries": 400,
+          "checkedEntries": 0,
+          "status": "pending"
+        },
+        {
+          "batchId": "korean_04",
+          "language": "korean",
+          "startIndex": 1200,
+          "endIndex": 1529,
+          "totalEntries": 329,
+          "checkedEntries": 0,
+          "status": "pending"
+        }
+      ]
+    },
+    "spanish": {
+      "total": 1948,
+      "uniqueIds": 1948,
+      "batches": [
+        {
+          "batchId": "spanish_01",
+          "language": "spanish",
+          "startIndex": 0,
+          "endIndex": 400,
+          "totalEntries": 400,
+          "checkedEntries": 0,
+          "status": "pending"
+        },
+        {
+          "batchId": "spanish_02",
+          "language": "spanish",
+          "startIndex": 400,
+          "endIndex": 800,
+          "totalEntries": 400,
+          "checkedEntries": 0,
+          "status": "pending"
+        },
+        {
+          "batchId": "spanish_03",
+          "language": "spanish",
+          "startIndex": 800,
+          "endIndex": 1200,
+          "totalEntries": 400,
+          "checkedEntries": 0,
+          "status": "pending"
+        },
+        {
+          "batchId": "spanish_04",
+          "language": "spanish",
+          "startIndex": 1200,
+          "endIndex": 1600,
+          "totalEntries": 400,
+          "checkedEntries": 0,
+          "status": "pending"
+        },
+        {
+          "batchId": "spanish_05",
+          "language": "spanish",
+          "startIndex": 1600,
+          "endIndex": 1948,
+          "totalEntries": 348,
+          "checkedEntries": 0,
+          "status": "pending"
+        }
+      ]
+    },
+    "german": {
+      "total": 1919,
+      "uniqueIds": 1919,
+      "batches": [
+        {
+          "batchId": "german_01",
+          "language": "german",
+          "startIndex": 0,
+          "endIndex": 400,
+          "totalEntries": 400,
+          "checkedEntries": 0,
+          "status": "pending"
+        },
+        {
+          "batchId": "german_02",
+          "language": "german",
+          "startIndex": 400,
+          "endIndex": 800,
+          "totalEntries": 400,
+          "checkedEntries": 0,
+          "status": "pending"
+        },
+        {
+          "batchId": "german_03",
+          "language": "german",
+          "startIndex": 800,
+          "endIndex": 1200,
+          "totalEntries": 400,
+          "checkedEntries": 0,
+          "status": "pending"
+        },
+        {
+          "batchId": "german_04",
+          "language": "german",
+          "startIndex": 1200,
+          "endIndex": 1600,
+          "totalEntries": 400,
+          "checkedEntries": 0,
+          "status": "pending"
+        },
+        {
+          "batchId": "german_05",
+          "language": "german",
+          "startIndex": 1600,
+          "endIndex": 1919,
+          "totalEntries": 319,
+          "checkedEntries": 0,
+          "status": "pending"
+        }
+      ]
+    },
+    "french": {
+      "total": 1948,
+      "uniqueIds": 1948,
+      "batches": [
+        {
+          "batchId": "french_01",
+          "language": "french",
+          "startIndex": 0,
+          "endIndex": 400,
+          "totalEntries": 400,
+          "checkedEntries": 0,
+          "status": "pending"
+        },
+        {
+          "batchId": "french_02",
+          "language": "french",
+          "startIndex": 400,
+          "endIndex": 800,
+          "totalEntries": 400,
+          "checkedEntries": 0,
+          "status": "pending"
+        },
+        {
+          "batchId": "french_03",
+          "language": "french",
+          "startIndex": 800,
+          "endIndex": 1200,
+          "totalEntries": 400,
+          "checkedEntries": 0,
+          "status": "pending"
+        },
+        {
+          "batchId": "french_04",
+          "language": "french",
+          "startIndex": 1200,
+          "endIndex": 1600,
+          "totalEntries": 400,
+          "checkedEntries": 0,
+          "status": "pending"
+        },
+        {
+          "batchId": "french_05",
+          "language": "french",
+          "startIndex": 1600,
+          "endIndex": 1948,
+          "totalEntries": 348,
+          "checkedEntries": 0,
+          "status": "pending"
+        }
+      ]
+    },
+    "portuguese": {
+      "total": 150,
+      "uniqueIds": 150,
+      "batches": [
+        {
+          "batchId": "portuguese_01",
+          "language": "portuguese",
+          "startIndex": 0,
+          "endIndex": 150,
+          "totalEntries": 150,
+          "checkedEntries": 0,
+          "status": "pending"
+        }
+      ]
+    },
+    "polish": {
+      "total": 150,
+      "uniqueIds": 150,
+      "batches": [
+        {
+          "batchId": "polish_01",
+          "language": "polish",
+          "startIndex": 0,
+          "endIndex": 150,
+          "totalEntries": 150,
+          "checkedEntries": 0,
+          "status": "pending"
+        }
+      ]
+    },
+    "russian": {
+      "total": 150,
+      "uniqueIds": 150,
+      "batches": [
+        {
+          "batchId": "russian_01",
+          "language": "russian",
+          "startIndex": 0,
+          "endIndex": 150,
+          "totalEntries": 150,
+          "checkedEntries": 0,
+          "status": "pending"
+        }
+      ]
+    }
+  },
+  "grandTotal": 20131
+}

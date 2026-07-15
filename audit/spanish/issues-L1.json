@@ -1,0 +1,62 @@
+[
+  {
+    "id": "es-00125",
+    "language": "es",
+    "headword": "encontrar",
+    "field": "glosses.en / answer",
+    "currentValue": "to meet",
+    "suggestedValue": "to find (to meet)",
+    "issueType": "translation_precision_en_ja_mismatch",
+    "severity": "low",
+    "confidence": 0.7,
+    "reason": "encontrar の第一義は「見つける（to find）」で、和訳 glosses.ja も「見つける」となっている。英訳 answer/glosses.en が「to meet」だと第二義（出会う, encontrarse con）に寄っており、英訳と和訳の主要義がずれている。誤りとまでは言えないが整合性の観点で要確認。",
+    "evidence": [],
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "es-00229",
+    "language": "es",
+    "headword": "idiota",
+    "field": "glosses.en / answer",
+    "currentValue": "idiotic",
+    "suggestedValue": "idiot (idiotic)",
+    "issueType": "part_of_speech_mismatch",
+    "severity": "low",
+    "confidence": 0.72,
+    "reason": "idiota は主に名詞「ばか者（idiot）」。和訳 glosses.ja は「ばか，まぬけ」と名詞を主に取っているのに、英訳が形容詞「idiotic」となっており品詞が不一致。idiota は形容詞用法もあるため誤りではないが、主要義（名詞）とのずれ。",
+    "evidence": [],
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "es-00153",
+    "language": "es",
+    "headword": "tierra",
+    "field": "glosses.ja",
+    "currentValue": "地球",
+    "suggestedValue": "土，大地，地面，土地（大文字の la Tierra で「地球」）",
+    "issueType": "misleading_translation",
+    "severity": "low",
+    "confidence": 0.55,
+    "reason": "tierra の一般的な主要義は「土・大地・地面・土地」。「地球」という惑星の意味は通常大文字 la Tierra で表され、小文字の一般語義とは区別される。和訳が「地球」単独だと学習者に惑星の意味を第一義と誤認させる恐れがある。英訳 earth は多義で許容範囲だが和訳は限定的。",
+    "evidence": [],
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "es-00136",
+    "language": "es",
+    "headword": "escucha",
+    "field": "headword / glosses",
+    "currentValue": "escucha = listening / 傾聴，聞くこと",
+    "suggestedValue": "動詞 escuchar の活用形（3人称単数・命令形）の可能性を確認。名詞 la escucha は「傍受・盗聴・聞き手」で「傾聴」は限定的。原形 escuchar の採用も検討。",
+    "issueType": "possible_verb_form_as_headword",
+    "severity": "uncertain",
+    "confidence": 0.4,
+    "reason": "escucha は動詞 escuchar の活用形（él escucha / 命令 ¡escucha!）として現れる頻度が高い。名詞 la escucha は「傍受・盗聴・見張り」等の語義が主で、和訳「傾聴」は一般的な訳として弱い。見出し語として名詞か活用形かの意図確認が必要。",
+    "evidence": [],
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  }
+]

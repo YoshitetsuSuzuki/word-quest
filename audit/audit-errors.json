@@ -1,0 +1,30 @@
+[
+  {
+    "id": "es-00432",
+    "language": "es",
+    "headword": "dulce",
+    "field": "glosses.en / answer vs glosses.ja",
+    "currentValue": "answer/en: \"candy\" ; ja: \"甘い\"",
+    "suggestedValue": "en: \"sweet (adj.); candy (n.)\" ; ja: \"甘い；お菓子\"",
+    "issueType": "translation_mismatch",
+    "severity": "high",
+    "confidence": 0.95,
+    "reason": "英訳(answer/glosses.en)は名詞 candy(お菓子)だが和訳(glosses.ja)は形容詞 甘い(sweet)で、別品詞・別義を指し英和が不整合。dulce の第一義は形容詞 甘い/sweet、名詞では お菓子/candy。どちらかに揃えるべき。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "es-01405",
+    "language": "es",
+    "headword": "cristo",
+    "field": "answer / glosses.en",
+    "currentValue": "jesus",
+    "suggestedValue": "Christ",
+    "issueType": "translation_accuracy",
+    "severity": "high",
+    "confidence": 0.9,
+    "reason": "「Cristo」は『キリスト（＝救世主・称号）』であり、個人名の Jesus とは概念が異なります。日本語 glosses は「キリスト」と正しく Christ を指しているため、英語のみ不整合。英語を Christ に統一すべきかと存じます。",
+    "evidence": [],
+    "requiresHumanReview": true
+  }
+]

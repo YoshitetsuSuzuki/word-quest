@@ -1,0 +1,96 @@
+{
+  "meta": {
+    "batchId": "es_L2",
+    "language": "es",
+    "file": "public/wordbank/spanish/level-2.json",
+    "reviewer": "spanish-native-qa",
+    "externalSourcesChecked": [],
+    "note": "外部辞書未照合。判定はネイティブ知識に基づく。確信不足の項目は not_verified 扱い(pass にはしない)。例文・発音・品詞フィールドは存在しないため該当検査は not_applicable。"
+  },
+  "issues": [
+    {
+      "id": "es-00432",
+      "language": "es",
+      "headword": "dulce",
+      "field": "glosses.en / answer vs glosses.ja",
+      "currentValue": "answer/en: \"candy\" ; ja: \"甘い\"",
+      "suggestedValue": "en: \"sweet (adj.); candy (n.)\" ; ja: \"甘い；お菓子\"",
+      "issueType": "translation_mismatch",
+      "severity": "high",
+      "confidence": 0.95,
+      "reason": "英訳(answer/glosses.en)は名詞 candy(お菓子)だが和訳(glosses.ja)は形容詞 甘い(sweet)で、別品詞・別義を指し英和が不整合。dulce の第一義は形容詞 甘い/sweet、名詞では お菓子/candy。どちらかに揃えるべき。",
+      "evidence": [],
+      "requiresHumanReview": true
+    },
+    {
+      "id": "es-00662",
+      "language": "es",
+      "headword": "preparado",
+      "field": "answer / glosses.en / glosses.ja",
+      "currentValue": "en: \"preparation\" ; ja: \"準備\"",
+      "suggestedValue": "en: \"prepared, ready\" ; ja: \"準備ができた、用意された\"",
+      "issueType": "primary_sense_pos_mismatch",
+      "severity": "medium",
+      "confidence": 0.72,
+      "reason": "preparado は過去分詞由来の形容詞『準備ができた/ready』が第一義。本データ内の他の -ado 語(ocupado=occupied, cansado=tired, olvidado=forgotten, sentado=seated, decidido=decided 等)はいずれも形容詞訳を採用しており、名詞 preparation/準備 は主要義・品詞がずれている可能性が高い。",
+      "evidence": [],
+      "requiresHumanReview": true
+    },
+    {
+      "id": "es-00443",
+      "language": "es",
+      "headword": "principio",
+      "field": "answer / glosses.en",
+      "currentValue": "\"principle\"",
+      "suggestedValue": "\"beginning; principle\"",
+      "issueType": "incomplete_primary_sense",
+      "severity": "low",
+      "confidence": 0.6,
+      "reason": "principio の高頻度義は『初め/beginning』(al principio 等)。glosses.ja は『初め，原則』と両義を含むが、英訳 answer は principle のみで主要義 beginning が欠落し、英和で強調点がずれる。",
+      "evidence": [],
+      "requiresHumanReview": true
+    },
+    {
+      "id": "es-00596",
+      "language": "es",
+      "headword": "próximo",
+      "field": "answer / glosses.en",
+      "currentValue": "\"near\"",
+      "suggestedValue": "\"next; near\"",
+      "issueType": "incomplete_primary_sense",
+      "severity": "low",
+      "confidence": 0.55,
+      "reason": "próximo の第一義は『次の/next』(el próximo, la próxima vez)。英訳 answer は near のみで主要義 next が欠落。glosses.ja は『次の，近い』と両義を含むため英和で不一致。",
+      "evidence": [],
+      "requiresHumanReview": true
+    },
+    {
+      "id": "es-00429",
+      "language": "es",
+      "headword": "terrible",
+      "field": "glosses.ja",
+      "currentValue": "\"すさまじい\"",
+      "suggestedValue": "\"恐ろしい，ひどい\"",
+      "issueType": "unnatural_translation",
+      "severity": "low",
+      "confidence": 0.5,
+      "reason": "terrible の標準的な和訳は『恐ろしい/ひどい』。『すさまじい』は語感が強度方向にややずれ、自然さ・一般性で劣る可能性。",
+      "evidence": [],
+      "requiresHumanReview": true
+    },
+    {
+      "id": "es-00487",
+      "language": "es",
+      "headword": "veras",
+      "field": "answer / glosses",
+      "currentValue": "en: \"truth\" ; ja: \"真実，本気\"",
+      "suggestedValue": null,
+      "issueType": "uncertain_lemma_not_verified",
+      "severity": "low",
+      "confidence": 0.4,
+      "reason": "veras は主に成句 de veras(本当に)の一部として現れる語で、独立見出しとしての truth 訳は文脈依存。外部辞書未照合につき確信不十分のため not_verified 扱い(pass にはしない)。",
+      "evidence": [],
+      "requiresHumanReview": true
+    }
+  ]
+}
