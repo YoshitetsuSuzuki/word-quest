@@ -1,0 +1,1325 @@
+[
+  {
+    "id": "de-00001",
+    "ja": "ここに，ここで",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00005",
+    "en": "so, thus",
+    "ja": "つまり，だから",
+    "reason": "alsoは『つまり/だから』。thenは不正確"
+  },
+  {
+    "id": "de-00008",
+    "ja": "再び，また",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00009",
+    "ja": "言う",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00010",
+    "ja": "する，作る",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00011",
+    "ja": "男，夫",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00012",
+    "ja": "する",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00013",
+    "ja": "行く",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00015",
+    "ja": "たぶん，もしかすると",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00016",
+    "ja": "オーケー，よし",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00017",
+    "ja": "知っている",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00018",
+    "ja": "決して〜ない",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00019",
+    "en": "really",
+    "ja": "本当に",
+    "reason": "wirklichは主に副詞『本当に』"
+  },
+  {
+    "id": "de-00020",
+    "ja": "簡単な，単純な",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00025",
+    "ja": "全体の，すっかり",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00026",
+    "ja": "確かな，安全な",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00028",
+    "en": "sorry",
+    "ja": "気の毒な，すまなく思う",
+    "reason": "es tut mir leid等。distressingは不自然"
+  },
+  {
+    "id": "de-00030",
+    "en": "back",
+    "ja": "戻って，後ろへ",
+    "reason": "zurückは副詞『戻って』。going backは不正確"
+  },
+  {
+    "id": "de-00031",
+    "en": "to let",
+    "ja": "〜させる，放っておく",
+    "reason": "lassenは『〜させる/放っておく』"
+  },
+  {
+    "id": "de-00032",
+    "en": "hello",
+    "ja": "こんにちは，やあ",
+    "reason": "Halloは挨拶『hello』。hullabalooは誤り"
+  },
+  {
+    "id": "de-00033",
+    "en": "to mean, to think",
+    "ja": "思う，意味する",
+    "reason": "opineは不自然"
+  },
+  {
+    "id": "de-00034",
+    "ja": "神",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00035",
+    "ja": "二",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00036",
+    "ja": "正確な，まさに",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00037",
+    "ja": "明確な，はっきりした",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00041",
+    "ja": "美しい，すてきな",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00043",
+    "en": "straight, just now",
+    "ja": "まっすぐな，ちょうど今",
+    "reason": "geradeの主要義。evenは限定的"
+  },
+  {
+    "id": "de-00046",
+    "en": "well-being",
+    "reason": "Wohlは『幸福/健康』。goodは不正確"
+  },
+  {
+    "id": "de-00049",
+    "ja": "母",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00051",
+    "ja": "対，カップル",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00053",
+    "ja": "なぜ，どうして",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00056",
+    "ja": "見つける",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00058",
+    "ja": "自然な，もちろん",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00059",
+    "ja": "ああ，おや",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00060",
+    "ja": "さらに，続けて",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00062",
+    "ja": "等しい，すぐに",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00064",
+    "ja": "正しい，本当の",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00066",
+    "ja": "聞く",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00067",
+    "ja": "それについて，そこから",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00068",
+    "ja": "そのために，その代わりに",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00069",
+    "ja": "少女",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00072",
+    "drop": true,
+    "reason": "denkenの命令形/口語。標準的な見出し語でない"
+  },
+  {
+    "id": "de-00073",
+    "ja": "三",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00075",
+    "drop": true,
+    "reason": "warten命令形『warte!』。名詞Warte(見張り台)は稀"
+  },
+  {
+    "id": "de-00076",
+    "ja": "食べる",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00082",
+    "ja": "死んでいる",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00083",
+    "ja": "まず，やっと",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00084",
+    "ja": "純粋な，きれいな",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00086",
+    "en": "to believe",
+    "ja": "信じる",
+    "reason": "『to believe something』を簡潔化"
+  },
+  {
+    "id": "de-00087",
+    "ja": "持ってくる",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00088",
+    "ja": "十分に",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00091",
+    "ja": "瞬間",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00092",
+    "ja": "少年",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00093",
+    "ja": "音楽",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00096",
+    "ja": "紳士，〜氏",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00097",
+    "en": "with it, thereby",
+    "ja": "その際に，携えて",
+    "reason": "『with one』が不自然"
+  },
+  {
+    "id": "de-00099",
+    "ja": "待つ",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00101",
+    "ja": "〜する前に",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00102",
+    "ja": "一度，かつて",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00103",
+    "ja": "問題",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00104",
+    "ja": "息子",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00105",
+    "ja": "いつ",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00107",
+    "ja": "停止，支え",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00108",
+    "ja": "一人で",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00109",
+    "ja": "話す",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00110",
+    "drop": true,
+    "reason": "findenの過去分詞。既出の変化形"
+  },
+  {
+    "id": "de-00111",
+    "ja": "事柄，物",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00113",
+    "ja": "いまいましい，ひどく",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00114",
+    "ja": "喜んで，好んで",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00115",
+    "ja": "その上に，それについて",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00116",
+    "ja": "持つ，止める",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00118",
+    "ja": "本当の，真の",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00119",
+    "ja": "それに加えて，そのために",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00120",
+    "ja": "兄弟",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00121",
+    "ja": "それに，その点で",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00123",
+    "ja": "感謝",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00124",
+    "ja": "親愛なる（呼びかけ）",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00126",
+    "ja": "どうでもよい，構わない",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00127",
+    "ja": "知っている，見知っている",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00128",
+    "ja": "忘れる",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00129",
+    "ja": "質問",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00130",
+    "en": "legend, myth",
+    "ja": "伝説，言い伝え",
+    "reason": "Sageは『伝説』。sagaより正確"
+  },
+  {
+    "id": "de-00131",
+    "ja": "本物の，本当に",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00132",
+    "ja": "実は，本来",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00133",
+    "drop": true,
+    "reason": "英語の外国語混入(Dad)。独語はPapa/Vati"
+  },
+  {
+    "id": "de-00134",
+    "en": "clock, watch",
+    "ja": "時計，〜時",
+    "reason": "Uhrは『時計』。hoursは不正確"
+  },
+  {
+    "id": "de-00136",
+    "ja": "赤ちゃん",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00137",
+    "en": "to drive, to go (by vehicle)",
+    "ja": "運転する，（乗り物で）行く",
+    "reason": "『to go at speed』が不自然"
+  },
+  {
+    "id": "de-00140",
+    "ja": "後で",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00141",
+    "ja": "幸運，幸福",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00142",
+    "ja": "最後の",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00143",
+    "drop": true,
+    "reason": "Freund(既出)の複数形。変化形"
+  },
+  {
+    "id": "de-00145",
+    "en": "on it, thereupon",
+    "ja": "その上に，その後で",
+    "reason": "『after』は不完全"
+  },
+  {
+    "id": "de-00147",
+    "ja": "まもなく",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00148",
+    "ja": "殺す",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00149",
+    "ja": "すごい，すてきな",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00151",
+    "ja": "用意ができた",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00152",
+    "ja": "広い，遠い",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00153",
+    "en": "idea, clue, hunch",
+    "ja": "予感，見当",
+    "reason": "keine Ahnung等。anticipationは不正確"
+  },
+  {
+    "id": "de-00155",
+    "ja": "ドア，扉",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00156",
+    "ja": "車",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00157",
+    "ja": "警察",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00159",
+    "ja": "死ぬ",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00161",
+    "ja": "ほとんど",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00162",
+    "ja": "下へ",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00165",
+    "en": "on it, one's turn",
+    "ja": "〜の番だ，くっついて",
+    "reason": "dran=daran/『順番だ』。『to be true』は誤り"
+  },
+  {
+    "id": "de-00167",
+    "drop": true,
+    "reason": "英語の外国語混入(Mom)。独語はMama/Mutter"
+  },
+  {
+    "id": "de-00168",
+    "ja": "気の狂った，ばかげた",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00169",
+    "ja": "世話をする，心配する",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00170",
+    "ja": "だから，その周りに",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00171",
+    "ja": "娘",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00172",
+    "ja": "アイデア，考え",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00175",
+    "ja": "静かな，落ち着いた",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00176",
+    "ja": "遅い",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00177",
+    "en": "quite, fairly",
+    "ja": "かなり",
+    "reason": "ziemlichは副詞『かなり』"
+  },
+  {
+    "id": "de-00180",
+    "ja": "やつ，男",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00181",
+    "ja": "探す",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00183",
+    "ja": "仕事",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00184",
+    "ja": "理解する",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00186",
+    "en": "at all, anyway",
+    "ja": "そもそも，一体",
+    "reason": "『overall』は不正確"
+  },
+  {
+    "id": "de-00187",
+    "ja": "悪魔",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00188",
+    "ja": "失われた，負けた",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00190",
+    "ja": "理由，土台",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00191",
+    "ja": "年",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00192",
+    "ja": "ママ，お母さん",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00195",
+    "drop": true,
+    "reason": "Stundeの複数/稀な動詞。基礎見出しに不適"
+  },
+  {
+    "id": "de-00198",
+    "ja": "種類，やり方",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00199",
+    "ja": "宝物，いとしい人",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00200",
+    "en": "finally, at last",
+    "ja": "ついに，やっと",
+    "reason": "endlichは副詞『ついに』。finiteは稀"
+  },
+  {
+    "id": "de-00201",
+    "ja": "重い，難しい",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00202",
+    "ja": "違って，別の",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00203",
+    "drop": true,
+    "reason": "英語の外国語混入(Miss)。独語はFräulein"
+  },
+  {
+    "id": "de-00204",
+    "ja": "五",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00206",
+    "ja": "最初の",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00207",
+    "ja": "歴史，物語",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00210",
+    "ja": "親切な，感じのよい",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00213",
+    "ja": "だから，そのため",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00214",
+    "ja": "きっと，確かな",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00215",
+    "ja": "高い",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00219",
+    "ja": "部屋",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00220",
+    "ja": "あえて〜する",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00222",
+    "en": "to please",
+    "ja": "気に入る，好かれる",
+    "reason": "gefallenは『気に入る』が主。fallenは誤り"
+  },
+  {
+    "id": "de-00223",
+    "ja": "楽しみ，冗談",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00224",
+    "ja": "決して〜ない",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00225",
+    "en": "guilt, fault",
+    "ja": "罪，責任",
+    "reason": "単数Schuldは『罪/責任』。debtは複数Schulden"
+  },
+  {
+    "id": "de-00229",
+    "ja": "真剣な，深刻な",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00231",
+    "ja": "時々",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00232",
+    "ja": "側，ページ",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00233",
+    "en": "game",
+    "ja": "遊び，試合",
+    "reason": "冠詞除去"
+  },
+  {
+    "id": "de-00236",
+    "ja": "語る，物語る",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00237",
+    "drop": true,
+    "reason": "Tag(既出)の複数形。変化形。gloss『period』も不適"
+  },
+  {
+    "id": "de-00238",
+    "en": "to excuse, to apologize",
+    "ja": "許す，謝る",
+    "reason": "余分な括弧除去。語義整理"
+  },
+  {
+    "id": "de-00240",
+    "ja": "ベッド",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00241",
+    "ja": "悪い",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00244",
+    "en": "word",
+    "reason": "Wortは『単語/言葉』。utteranceは不自然"
+  },
+  {
+    "id": "de-00246",
+    "ja": "眠る",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00249",
+    "ja": "下に",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00251",
+    "ja": "人間",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00252",
+    "drop": true,
+    "reason": "形容詞kleinの名詞化・呼びかけ。曖昧な変化形"
+  },
+  {
+    "id": "de-00253",
+    "ja": "置く，立てる",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00255",
+    "ja": "心配",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00256",
+    "en": "to drink",
+    "ja": "飲む",
+    "reason": "余分な括弧除去"
+  },
+  {
+    "id": "de-00259",
+    "ja": "血",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00260",
+    "en": "honest",
+    "ja": "正直な",
+    "reason": "ehrlichは『正直な』。decentは不正確"
+  },
+  {
+    "id": "de-00261",
+    "ja": "両親",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00262",
+    "ja": "心臓，心",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00264",
+    "ja": "古い，年老いた",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00265",
+    "ja": "再会する",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00266",
+    "ja": "自由な，空いている",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00267",
+    "ja": "可能な",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00268",
+    "ja": "どうにか，なんとなく",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00270",
+    "ja": "武器",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00271",
+    "ja": "ほとんど〜ない",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00275",
+    "ja": "間違った，偽の",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00276",
+    "en": "but rather",
+    "ja": "〜ではなくて（むしろ）",
+    "reason": "sondernは接続詞『そうではなく』。to separateは誤り"
+  },
+  {
+    "id": "de-00278",
+    "ja": "以前の，昔は",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00279",
+    "drop": true,
+    "reason": "Junge(既出)の変化形/稀な動詞。曖昧"
+  },
+  {
+    "id": "de-00281",
+    "ja": "座らせる，置く",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00282",
+    "ja": "最初に，まず",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00283",
+    "ja": "おそらく",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00284",
+    "drop": true,
+    "reason": "卑語(Arsch)"
+  },
+  {
+    "id": "de-00285",
+    "ja": "電話",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00286",
+    "ja": "ようこそ，歓迎される",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00287",
+    "drop": true,
+    "reason": "小文字plan(稀な形容詞)。名詞Planの誤り/曖昧"
+  },
+  {
+    "id": "de-00288",
+    "ja": "救う",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00289",
+    "ja": "こちらへ",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00292",
+    "ja": "十",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00295",
+    "drop": true,
+    "reason": "geben(既出)の過去分詞。変化形"
+  },
+  {
+    "id": "de-00297",
+    "ja": "遅い，ゆっくりした",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00299",
+    "ja": "六",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00302",
+    "ja": "呼び声，評判",
+    "reason": "en『call』と整合。Rufは『呼び声/評判』"
+  },
+  {
+    "id": "de-00304",
+    "en": "unfortunately",
+    "ja": "残念ながら，あいにく",
+    "reason": "leiderは副詞『残念ながら』。suffererは誤り"
+  },
+  {
+    "id": "de-00305",
+    "drop": true,
+    "reason": "卑語(scheiß)"
+  },
+  {
+    "id": "de-00306",
+    "ja": "地獄",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00307",
+    "en": "nevertheless",
+    "ja": "それでも",
+    "reason": "trotzdemは『それでも』。anyhowは不正確"
+  },
+  {
+    "id": "de-00308",
+    "ja": "医者，博士",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00309",
+    "ja": "いっぱいの，満ちた",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00310",
+    "ja": "映画",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00311",
+    "ja": "いたるところに",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00312",
+    "ja": "犬",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00313",
+    "ja": "直接の，率直な",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00314",
+    "ja": "行為",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00317",
+    "ja": "その後で",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00319",
+    "ja": "そのため，だから",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00321",
+    "ja": "火",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00322",
+    "ja": "走る，歩く",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00323",
+    "ja": "思い出させる，思い出す",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00324",
+    "ja": "完全に",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00326",
+    "en": "buddy, mate",
+    "ja": "仲間，相棒",
+    "reason": "現代Kumpelは『仲間』。minerは古義"
+  },
+  {
+    "id": "de-00329",
+    "ja": "空気",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00332",
+    "en": "to stop, to cease",
+    "ja": "やめる，終える",
+    "reason": "aufhörenは『やめる』。to listen upは誤り"
+  },
+  {
+    "id": "de-00333",
+    "ja": "捜索，検索",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00334",
+    "ja": "大きい",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00336",
+    "ja": "病気の",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00337",
+    "ja": "価値のある",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00338",
+    "ja": "医者",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00339",
+    "ja": "うれしい，喜んで",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00341",
+    "ja": "呼ぶ，叫ぶ",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00342",
+    "ja": "結婚する",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00343",
+    "ja": "すごい，最高の",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00344",
+    "ja": "おじ",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00346",
+    "drop": true,
+    "reason": "bringen(既出)の過去分詞。変化形"
+  },
+  {
+    "id": "de-00348",
+    "ja": "説明する",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00349",
+    "ja": "選択，選挙",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00351",
+    "ja": "当時，あの頃",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00352",
+    "drop": true,
+    "reason": "Tagの変化形/稀な動詞(convene)。基礎に不適"
+  },
+  {
+    "id": "de-00356",
+    "drop": true,
+    "reason": "schaffen(既出)の過去分詞。変化形"
+  },
+  {
+    "id": "de-00357",
+    "ja": "興味を持った，関心のある",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00358",
+    "ja": "どこかに",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00359",
+    "en": "piece",
+    "ja": "個，断片",
+    "reason": "Stückは『一片』。oneは誤り"
+  },
+  {
+    "id": "de-00360",
+    "ja": "まさに同じように",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00362",
+    "ja": "より少なく",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00364",
+    "drop": true,
+    "reason": "小文字licht(稀な形容詞)。名詞Lichtの誤り/曖昧"
+  },
+  {
+    "id": "de-00365",
+    "drop": true,
+    "reason": "treffen(既出)の過去分詞。変化形"
+  },
+  {
+    "id": "de-00368",
+    "en": "over there",
+    "ja": "向こうに",
+    "reason": "drübenは『向こうに』。overは曖昧"
+  },
+  {
+    "id": "de-00369",
+    "ja": "世話をする，気にかける",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00370",
+    "ja": "うるさい，大きな音の",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00371",
+    "ja": "座っている",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00373",
+    "drop": true,
+    "reason": "形容詞großの名詞化・呼びかけ。曖昧な変化形"
+  },
+  {
+    "id": "de-00374",
+    "en": "key",
+    "reason": "冠詞除去"
+  },
+  {
+    "id": "de-00376",
+    "ja": "起こる",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00377",
+    "ja": "むしろ，どちらかといえば",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00378",
+    "drop": true,
+    "reason": "fragen(既出)の過去分詞。変化形"
+  },
+  {
+    "id": "de-00382",
+    "ja": "くそ，がらくた",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00383",
+    "ja": "書く",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00384",
+    "ja": "邪悪な，怒った",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00386",
+    "ja": "紹介する，想像する",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00387",
+    "ja": "何について，何から",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00388",
+    "ja": "もう一度",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00389",
+    "ja": "セックス，性行為",
+    "reason": "Sexは『性行為』。性別(gender)はGeschlecht"
+  },
+  {
+    "id": "de-00390",
+    "en": "apartment, flat",
+    "ja": "住居，アパート",
+    "reason": "Wohnungは『住居』。domicileは硬い"
+  },
+  {
+    "id": "de-00391",
+    "ja": "痛い",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00392",
+    "ja": "〜という名前である",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00393",
+    "ja": "病院",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00395",
+    "ja": "硬い，厳しい",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00396",
+    "ja": "意味，感覚",
+    "reason": "Sinnは『意味/感覚』。感覚のみは不十分"
+  },
+  {
+    "id": "de-00397",
+    "ja": "その上，さらに",
+    "reason": "ja欠落"
+  },
+  {
+    "id": "de-00400",
+    "ja": "知る，経験する",
+    "reason": "ja欠落"
+  }
+]
