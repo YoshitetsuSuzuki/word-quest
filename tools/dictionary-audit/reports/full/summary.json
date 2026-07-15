@@ -4,17 +4,17 @@
   "totalWords": 20131,
   "totalChecked": 20131,
   "aggregateVerdicts": {
-    "verified": 10295,
-    "likely_correct": 8293,
-    "review": 364,
+    "verified": 10349,
+    "likely_correct": 8606,
+    "review": 729,
     "conflicting": 0,
-    "critical": 1179,
+    "critical": 447,
     "not_checked": 0
   },
   "problems": {
-    "critical": 1179,
+    "critical": 447,
     "conflicting": 0,
-    "review": 364,
+    "review": 729,
     "notFound": 214,
     "notChecked": 0
   },
@@ -23,9 +23,9 @@
       "total": 8136,
       "checked": 8136,
       "verdicts": {
-        "likely_correct": 6947,
-        "review": 245,
-        "critical": 944
+        "likely_correct": 7260,
+        "review": 533,
+        "critical": 343
       },
       "sources": [
         "oewn"
@@ -35,21 +35,20 @@
       },
       "dimChecked": {
         "headword": 8136,
-        "partOfSpeech": 8025,
+        "partOfSpeech": 7737,
         "sense": 0,
         "pronunciation": 0,
         "japaneseGloss": 0
       },
       "unsafeExamples": 0,
-      "ms": 109
+      "ms": 119
     },
     "chinese": {
       "total": 4201,
       "checked": 4201,
       "verdicts": {
-        "verified": 4134,
-        "review": 12,
-        "critical": 55
+        "verified": 4188,
+        "review": 13
       },
       "sources": [
         "cedict"
@@ -65,16 +64,16 @@
         "japaneseGloss": 0
       },
       "unsafeExamples": 0,
-      "ms": 160
+      "ms": 169
     },
     "korean": {
       "total": 1529,
       "checked": 1529,
       "verdicts": {
-        "critical": 121,
+        "review": 124,
         "likely_correct": 1297,
-        "review": 107,
-        "verified": 4
+        "verified": 4,
+        "critical": 104
       },
       "sources": [
         "kaikki-korean"
@@ -84,13 +83,13 @@
       },
       "dimChecked": {
         "headword": 1529,
-        "partOfSpeech": 1438,
+        "partOfSpeech": 1421,
         "sense": 0,
         "pronunciation": 1438,
         "japaneseGloss": 0
       },
       "unsafeExamples": 0,
-      "ms": 33
+      "ms": 51
     },
     "spanish": {
       "total": 1948,
@@ -98,7 +97,7 @@
       "verdicts": {
         "verified": 1912,
         "likely_correct": 22,
-        "critical": 14
+        "review": 14
       },
       "sources": [
         "kaikki-spanish"
@@ -114,14 +113,14 @@
         "japaneseGloss": 0
       },
       "unsafeExamples": 0,
-      "ms": 26
+      "ms": 19
     },
     "german": {
       "total": 1919,
       "checked": 1919,
       "verdicts": {
         "verified": 1894,
-        "critical": 16,
+        "review": 16,
         "likely_correct": 9
       },
       "sources": [
@@ -138,7 +137,7 @@
         "japaneseGloss": 0
       },
       "unsafeExamples": 0,
-      "ms": 34
+      "ms": 42
     },
     "french": {
       "total": 1948,
@@ -146,7 +145,7 @@
       "verdicts": {
         "verified": 1905,
         "likely_correct": 17,
-        "critical": 26
+        "review": 26
       },
       "sources": [
         "kaikki-french"
@@ -162,7 +161,7 @@
         "japaneseGloss": 0
       },
       "unsafeExamples": 0,
-      "ms": 11
+      "ms": 13
     },
     "portuguese": {
       "total": 150,
@@ -192,7 +191,7 @@
       "checked": 150,
       "verdicts": {
         "verified": 148,
-        "critical": 2
+        "review": 2
       },
       "sources": [
         "kaikki-polish"
@@ -208,14 +207,14 @@
         "japaneseGloss": 0
       },
       "unsafeExamples": 0,
-      "ms": 4
+      "ms": 5
     },
     "russian": {
       "total": 150,
       "checked": 150,
       "verdicts": {
         "verified": 149,
-        "critical": 1
+        "review": 1
       },
       "sources": [
         "kaikki-russian"
@@ -231,7 +230,7 @@
         "japaneseGloss": 0
       },
       "unsafeExamples": 0,
-      "ms": 1
+      "ms": 2
     }
   }
 }

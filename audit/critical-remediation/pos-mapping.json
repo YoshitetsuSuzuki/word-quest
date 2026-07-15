@@ -1,0 +1,50 @@
+{
+  "jaToCanonical": {
+    "名詞": "noun",
+    "動詞": "verb",
+    "形容詞": "adjective",
+    "副詞": "adverb",
+    "代名詞": "pronoun",
+    "前置詞": "preposition",
+    "接続詞": "conjunction",
+    "間投詞": "interjection",
+    "数詞": "numeral",
+    "限定詞": "determiner",
+    "冠詞": "article",
+    "助動詞": "auxiliary",
+    "助詞": "particle",
+    "量詞": "classifier",
+    "固有名詞": "proper_noun",
+    "word": "(pivot・品詞なし)"
+  },
+  "canonicalToJa": {
+    "noun": "名詞",
+    "verb": "動詞",
+    "adjective": "形容詞",
+    "adverb": "副詞",
+    "pronoun": "代名詞",
+    "preposition": "前置詞",
+    "conjunction": "接続詞",
+    "interjection": "間投詞",
+    "numeral": "数詞",
+    "determiner": "限定詞",
+    "article": "冠詞",
+    "auxiliary": "助動詞",
+    "particle": "助詞",
+    "classifier": "量詞",
+    "proper_noun": "固有名詞"
+  },
+  "kaikkiAbbrev": {
+    "adj": "adjective",
+    "adv": "adverb",
+    "intj": "interjection",
+    "pron": "pronoun",
+    "prep": "preposition",
+    "conj": "conjunction",
+    "num": "numeral",
+    "name": "proper_noun",
+    "det": "determiner",
+    "phrase": "phrase",
+    "proverb": "phrase"
+  }
+}

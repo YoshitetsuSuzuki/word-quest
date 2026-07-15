@@ -29,6 +29,10 @@ const DICT_HAS_POS = new Set(['oewn', 'kaikki-korean', 'kaikki-spanish', 'kaikki
 const POSMAP = cfg.posMap
 const COMPAT = [['noun', 'proper noun'], ['adjective', 'determiner', 'article'], ['verb', 'auxiliary'], ['adverb', 'particle']]
 const compatible = (a, b) => a === b || COMPAT.some((g) => g.includes(a) && g.includes(b))
+// アプリの品詞タグスキーマ(言語別)。ここに無い品詞は「スキーマ不足」で誤検知にしない(規則5/13)
+const APP_POS_SCHEMA = { english: new Set(['名詞', '動詞', '形容詞']), chinese: new Set(['名詞', '動詞', '形容詞', '副詞']), korean: new Set(['名詞', '動詞', '形容詞', '副詞']) }
+const JA_LABEL = { noun: '名詞', verb: '動詞', adjective: '形容詞', adverb: '副詞', pronoun: '代名詞', preposition: '前置詞', conjunction: '接続詞', interjection: '間投詞', numeral: '数詞', determiner: '限定詞', article: '冠詞', auxiliary: '助動詞', particle: '助詞', classifier: '量詞' }
+const CONTENT_OR_MAPPED = new Set(Object.keys(JA_LABEL))
 const hw = (e) => String(e.prompt || '').replace(/[「」]|の意味は？/g, '') || e.headword || ''
 
 function tokset(s) { return new Set(String(s || '').toLowerCase().replace(/[()[\]{}.,;:!?"'/\\-]/g, ' ').split(/\s+/).filter((w) => w.length > 1 && !['the', 'a', 'to', 'of', 'and', 'or'].includes(w))) }
@@ -37,7 +41,7 @@ function normPinyin(s) { return String(s || '').toLowerCase().normalize('NFD').r
 // --- 各次元の判定 ---
 function statHeadword(look) { if (!look) return { status: 'not_checked' }; if (!look.found) return { status: 'not_found' }; return { status: look.matchType, multiple: look.entries.length > 1 } }
 
-function statPos(dataPos, look, dictHasPos) {
+function statPos(dataPos, look, dictHasPos, langKey) {
   if (!look || !look.found) return 'not_checked'
   if (!dictHasPos) return 'missing_in_dictionary'
   if (!dataPos) return 'missing_in_app'
@@ -45,8 +49,13 @@ function statPos(dataPos, look, dictHasPos) {
   if (!dictPos.length) return 'missing_in_dictionary'
   if (dictPos.includes(dataPos)) return 'exact'
   if (dictPos.some((p) => compatible(dataPos, p))) return 'compatible'
-  if (dictPos.length > 1) return 'ambiguous'
-  return 'different'
+  if (dictPos.length > 1) return 'ambiguous' // 多品詞→採用品詞は文脈依存(review)
+  // 単一品詞の不一致: 対象品詞がアプリ・スキーマ外なら「スキーマ不足」(誤検知にしない)
+  const schema = APP_POS_SCHEMA[langKey] || new Set()
+  const targetJa = JA_LABEL[dictPos[0]]
+  if (!targetJa || !CONTENT_OR_MAPPED.has(dictPos[0])) return 'taxonomy_diff' // phrase/name/character等
+  if (!schema.has(targetJa)) return 'schema_gap' // 例: 英語に副詞タグが無い
+  return 'different' // スキーマ内・単一品詞の明確な誤タグ(genuine)
 }
 
 function statGlossEn(dataEn, look) {
@@ -100,8 +109,11 @@ function overallVerdict(cons, headword, exampleRes) {
   // 辞書に無い(not_found)は「誤りの証拠」ではない(規則12) → review(要人手/別辞書)。criticalにしない。
   if (headword.status === 'not_found') return 'review'
   if (Object.values(cons).includes('conflicting')) return 'conflicting'
-  // 実際に辞書と矛盾した場合のみ critical
-  if (cons.pos === 'different' || cons.glossEn === 'different') return 'critical'
+  // critical は「学習を誤らせる明確な矛盾」に限定(規則13):
+  //  - スキーマ内・単一品詞の明確な誤タグ(pos 'different')のみ critical
+  //  - スキーマ不足/多品詞/体系差(schema_gap/ambiguous/taxonomy_diff)は誤検知にしない→review
+  //  - グロス差(gloss 'different')は同義/範囲/多義の可能性を自動断定しない(規則6)→review
+  if (cons.pos === 'different') return 'critical'
   const hwGood = ['exact', 'variant_match'].includes(headword.status)
   const hwOk = ['exact', 'case_mismatch', 'diacritic_mismatch', 'variant_match'].includes(headword.status)
   const senseConfirmed = ['exact', 'strong_match'].includes(cons.glossEn) || ['exact'].includes(cons.pron)
@@ -166,7 +178,7 @@ export async function runLocal(langKey, opts) {
       perSource[s] = {
         headword: statHeadword(look).status,
         multiple: statHeadword(look).multiple || false,
-        pos: statPos(dataPos, look, dictHasPos),
+        pos: statPos(dataPos, look, dictHasPos, langKey),
         glossEn: statGlossEn(dataEn, look),
         pron: pronComparable ? statPron(dataP, look, pronSys) : 'not_checked',
         dictPos: look?.found ? [...new Set(look.entries.flatMap((x) => x.partsOfSpeech))] : [],

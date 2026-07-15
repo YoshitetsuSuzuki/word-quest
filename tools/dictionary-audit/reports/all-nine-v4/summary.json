@@ -1,0 +1,85 @@
+{
+  "generatedAt": "2026-07-16",
+  "dataMutated": "313 tags fixed (english adjective mistags)",
+  "total": 20131,
+  "verdictSum": 20131,
+  "aggregateVerdicts": {
+    "verified": 10349,
+    "likely_correct": 8606,
+    "review": 729,
+    "conflicting": 0,
+    "critical": 447,
+    "not_checked": 0
+  },
+  "languages": {
+    "english": {
+      "total": 8136,
+      "verdicts": {
+        "likely_correct": 7260,
+        "review": 533,
+        "critical": 343
+      }
+    },
+    "chinese": {
+      "total": 4201,
+      "verdicts": {
+        "verified": 4188,
+        "review": 13
+      }
+    },
+    "korean": {
+      "total": 1529,
+      "verdicts": {
+        "review": 124,
+        "likely_correct": 1297,
+        "verified": 4,
+        "critical": 104
+      }
+    },
+    "spanish": {
+      "total": 1948,
+      "verdicts": {
+        "verified": 1912,
+        "likely_correct": 22,
+        "review": 14
+      }
+    },
+    "german": {
+      "total": 1919,
+      "verdicts": {
+        "verified": 1894,
+        "review": 16,
+        "likely_correct": 9
+      }
+    },
+    "french": {
+      "total": 1948,
+      "verdicts": {
+        "verified": 1905,
+        "likely_correct": 17,
+        "review": 26
+      }
+    },
+    "portuguese": {
+      "total": 150,
+      "verdicts": {
+        "verified": 149,
+        "likely_correct": 1
+      }
+    },
+    "polish": {
+      "total": 150,
+      "verdicts": {
+        "verified": 148,
+        "review": 2
+      }
+    },
+    "russian": {
+      "total": 150,
+      "verdicts": {
+        "verified": 149,
+        "review": 1
+      }
+    }
+  }
+}

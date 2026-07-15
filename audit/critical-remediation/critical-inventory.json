@@ -1,0 +1,28 @@
+{
+  "total": 1179,
+  "uniqueIds": 1179,
+  "missingIds": 0,
+  "byLanguage": {
+    "english": 944,
+    "chinese": 55,
+    "korean": 121,
+    "spanish": 14,
+    "german": 16,
+    "french": 26,
+    "polish": 2,
+    "russian": 1
+  },
+  "byCause": {
+    "schema_missing_part_of_speech": 303,
+    "incorrect_part_of_speech_tag": 760,
+    "gloss_synonym_difference": 114,
+    "dictionary_taxonomy_difference": 2
+  },
+  "byCategory": {
+    "B": 303,
+    "A": 760,
+    "D": 114,
+    "C": 2
+  },
+  "categorySum": 1179
+}

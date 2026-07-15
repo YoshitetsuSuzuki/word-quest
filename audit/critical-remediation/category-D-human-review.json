@@ -1,0 +1,3605 @@
+[
+  {
+    "id": "zh-00115",
+    "language": "chinese",
+    "field": "glosses.en/answer",
+    "currentValue": "item",
+    "dictionaryEvidence": [
+      {
+        "source": "cedict",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [],
+        "glosses": [
+          "used in 自個兒|自个儿[zi4 ge3 r5]",
+          "(classifier used before a noun that has no specific classifier)",
+          "(bound form) individual",
+          "variant of 個|个[ge4]"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "個",
+    "appExample": "我买了三个苹果。 — 私はりんごを三個買った。",
+    "reason": "アプリ英語義『item』が辞書義[used in 自個兒|自个儿[zi4 ge3 r5] / (classifier used before a noun that has no specific classifier) / (bound form) individual]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "zh-00137",
+    "language": "chinese",
+    "field": "glosses.en/answer",
+    "currentValue": "fun",
+    "dictionaryEvidence": [
+      {
+        "source": "cedict",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [],
+        "glosses": [
+          "erhua variant of 好玩[hao3 wan2]"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "面白い",
+    "appExample": "这个游戏很好玩儿。 — このゲームはとても面白い。",
+    "reason": "アプリ英語義『fun』が辞書義[erhua variant of 好玩[hao3 wan2]]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "zh-00198",
+    "language": "chinese",
+    "field": "glosses.en/answer",
+    "currentValue": "fast",
+    "dictionaryEvidence": [
+      {
+        "source": "cedict",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [],
+        "glosses": [
+          "rapid",
+          "quick",
+          "speed",
+          "rate",
+          "soon"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "速い",
+    "appExample": "他走得很快。 — 彼は歩くのが速い。",
+    "reason": "アプリ英語義『fast』が辞書義[rapid / quick / speed]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "zh-00235",
+    "language": "chinese",
+    "field": "glosses.en/answer",
+    "currentValue": "noodles",
+    "dictionaryEvidence": [
+      {
+        "source": "cedict",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [],
+        "glosses": [
+          "erhua variant of 麵條|面条[mian4 tiao2]"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "麺",
+    "appExample": "我很喜欢吃面条儿。 — 私は麺を食べるのがとても好きだ。",
+    "reason": "アプリ英語義『noodles』が辞書義[erhua variant of 麵條|面条[mian4 tiao2]]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "zh-00253",
+    "language": "chinese",
+    "field": "glosses.en/answer",
+    "currentValue": "boy",
+    "dictionaryEvidence": [
+      {
+        "source": "cedict",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [],
+        "glosses": [
+          "erhua form of 男孩[nan2 hai2]"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "男の子",
+    "appExample": "那个男孩儿在跑步。 — あの男の子は走っている。",
+    "reason": "アプリ英語義『boy』が辞書義[erhua form of 男孩[nan2 hai2]]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "zh-00268",
+    "language": "chinese",
+    "field": "glosses.en/answer",
+    "currentValue": "girl",
+    "dictionaryEvidence": [
+      {
+        "source": "cedict",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [],
+        "glosses": [
+          "erhua form of 女孩[nu : 3 hai2]"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "女の子",
+    "appExample": "那个女孩儿在唱歌。 — あの女の子は歌を歌っている。",
+    "reason": "アプリ英語義『girl』が辞書義[erhua form of 女孩[nu : 3 hai2]]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "zh-00392",
+    "language": "chinese",
+    "field": "glosses.en/answer",
+    "currentValue": "child",
+    "dictionaryEvidence": [
+      {
+        "source": "cedict",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [],
+        "glosses": [
+          "erhua variant of 小孩[xiao3 hai2]"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "子供",
+    "appExample": "那个小孩儿在笑。 — あの子供は笑っている。",
+    "reason": "アプリ英語義『child』が辞書義[erhua variant of 小孩[xiao3 hai2]]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "zh-00423",
+    "language": "chinese",
+    "field": "glosses.en/answer",
+    "currentValue": "together",
+    "dictionaryEvidence": [
+      {
+        "source": "cedict",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [],
+        "glosses": [
+          "erhua variant of 一塊|一块[yi1 kuai4]"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "一緒に",
+    "appExample": "我们一块儿去吃饭。 — 私たちは一緒に食事に行く。",
+    "reason": "アプリ英語義『together』が辞書義[erhua variant of 一塊|一块[yi1 kuai4]]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "zh-00424",
+    "language": "chinese",
+    "field": "glosses.en/answer",
+    "currentValue": "a little while",
+    "dictionaryEvidence": [
+      {
+        "source": "cedict",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [],
+        "glosses": [
+          "erhua form of 一下[yi1 xia4]"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "ちょっと",
+    "appExample": "请你看一下儿。 — ちょっと見てください。",
+    "reason": "アプリ英語義『a little while』が辞書義[erhua form of 一下[yi1 xia4]]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "zh-00427",
+    "language": "chinese",
+    "field": "glosses.en/answer",
+    "currentValue": "a little",
+    "dictionaryEvidence": [
+      {
+        "source": "cedict",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [],
+        "glosses": [
+          "erhua variant of 一點|一点[yi1 dian3]"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "少し",
+    "appExample": "我想喝一点儿水。 — 私は水を少し飲みたい。",
+    "reason": "アプリ英語義『a little』が辞書義[erhua variant of 一點|一点[yi1 dian3]]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "zh-01446",
+    "language": "chinese",
+    "field": "glosses.en/answer",
+    "currentValue": "why; what for",
+    "dictionaryEvidence": [
+      {
+        "source": "cedict",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [],
+        "glosses": [
+          "variant of 幹嘛|干嘛[gan4 ma2]"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "何をするのか",
+    "appExample": "你在这里干吗？ — あなたはここで何をしているの。",
+    "reason": "アプリ英語義『why; what for』が辞書義[variant of 幹嘛|干嘛[gan4 ma2]]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "zh-01649",
+    "language": "chinese",
+    "field": "glosses.en/answer",
+    "currentValue": "old man",
+    "dictionaryEvidence": [
+      {
+        "source": "cedict",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [],
+        "glosses": [
+          "see 老頭子|老头子[lao3 tou2 zi5]"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "おじいさん",
+    "appExample": "那个老头儿在下棋。 — あのおじいさんは将棋を指している。",
+    "reason": "アプリ英語義『old man』が辞書義[see 老頭子|老头子[lao3 tou2 zi5]]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "zh-02495",
+    "language": "chinese",
+    "field": "glosses.en/answer",
+    "currentValue": "to reply; to respond",
+    "dictionaryEvidence": [
+      {
+        "source": "cedict",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [],
+        "glosses": [
+          "to recover; to revert; to return to (good health, normal condition etc)",
+          "variant of 回覆[hui2 fu4]"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "返信する",
+    "appExample": "我马上回复你的邮件。 — 私はすぐにあなたのメールに返信する。",
+    "reason": "アプリ英語義『to reply; to respond』が辞書義[to recover; to revert; to return to (good health, normal condition etc) / variant of 回覆[hui2 fu4]]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "zh-02678",
+    "language": "chinese",
+    "field": "glosses.en/answer",
+    "currentValue": "famous brand",
+    "dictionaryEvidence": [
+      {
+        "source": "cedict",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [],
+        "glosses": [
+          "erhua form of 名牌[ming2 pai2]"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "有名ブランド",
+    "appExample": "这个包是名牌儿。 — このバッグは有名ブランドだ。",
+    "reason": "アプリ英語義『famous brand』が辞書義[erhua form of 名牌[ming2 pai2]]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "zh-02710",
+    "language": "chinese",
+    "field": "glosses.en/answer",
+    "currentValue": "to approve; to authorize",
+    "dictionaryEvidence": [
+      {
+        "source": "cedict",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [],
+        "glosses": [
+          "to ascertain",
+          "to act on",
+          "to criticize",
+          "to pass on",
+          "classifier for batches, lots, military flights"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "決裁する",
+    "appExample": "这份文件还没批。 — この書類はまだ決裁されていない。",
+    "reason": "アプリ英語義『to approve; to authorize』が辞書義[to ascertain / to act on / to criticize]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "zh-02857",
+    "language": "chinese",
+    "field": "glosses.en/answer",
+    "currentValue": "physical examination",
+    "dictionaryEvidence": [
+      {
+        "source": "cedict",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [],
+        "glosses": [
+          "abbr. for 體格檢查|体格检查[ti3 ge2 jian3 cha2]"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "健康診断をする",
+    "appExample": "他每年都去体检。 — 彼は毎年健康診断に行く。",
+    "reason": "アプリ英語義『physical examination』が辞書義[abbr. for 體格檢查|体格检查[ti3 ge2 jian3 cha2]]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "zh-03156",
+    "language": "chinese",
+    "field": "glosses.en/answer",
+    "currentValue": "great",
+    "dictionaryEvidence": [
+      {
+        "source": "cedict",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [],
+        "glosses": [
+          "stick",
+          "club",
+          "cudgel",
+          "smart",
+          "capable"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "すばらしい",
+    "appExample": "你唱得真棒。 — あなたの歌は本当にすばらしい。",
+    "reason": "アプリ英語義『great』が辞書義[stick / club / cudgel]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "zh-03164",
+    "language": "chinese",
+    "field": "glosses.en/answer",
+    "currentValue": "backpack",
+    "dictionaryEvidence": [
+      {
+        "source": "cedict",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [],
+        "glosses": [
+          "knapsack",
+          "rucksack",
+          "infantry pack",
+          "field pack",
+          "blanket roll"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "リュックサック",
+    "appExample": "他背着一个大背包。 — 彼は大きなリュックサックを背負っている。",
+    "reason": "アプリ英語義『backpack』が辞書義[knapsack / rucksack / infantry pack]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "zh-03178",
+    "language": "chinese",
+    "field": "glosses.en/answer",
+    "currentValue": "to close (a ceremony)",
+    "dictionaryEvidence": [
+      {
+        "source": "cedict",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [],
+        "glosses": [
+          "the curtain falls",
+          "lower the curtain",
+          "to come to an end (of a meeting)"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "閉幕する",
+    "appExample": "运动会今天顺利闭幕。 — 運動会は今日無事に閉幕した。",
+    "reason": "アプリ英語義『to close (a ceremony)』が辞書義[the curtain falls / lower the curtain / to come to an end (of a meeting)]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "zh-03187",
+    "language": "chinese",
+    "field": "glosses.en/answer",
+    "currentValue": "flatbread",
+    "dictionaryEvidence": [
+      {
+        "source": "cedict",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [],
+        "glosses": [
+          "round flat cake",
+          "cookie",
+          "cake",
+          "pastry",
+          "CL:張|张[zhang1]"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "平焼きパン",
+    "appExample": "早上他吃了一张饼。 — 朝、彼は平焼きパンを一枚食べた。",
+    "reason": "アプリ英語義『flatbread』が辞書義[round flat cake / cookie / cake]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "zh-03193",
+    "language": "chinese",
+    "field": "glosses.en/answer",
+    "currentValue": "doctorate",
+    "dictionaryEvidence": [
+      {
+        "source": "cedict",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [],
+        "glosses": [
+          "doctor (as an academic degree)",
+          "(old) person specialized in a skill or trade",
+          "(old) court academician"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "博士",
+    "appExample": "他哥哥是一位博士。 — 彼の兄は博士だ。",
+    "reason": "アプリ英語義『doctorate』が辞書義[doctor (as an academic degree) / (old) person specialized in a skill or trade / (old) court academician]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "zh-03210",
+    "language": "chinese",
+    "field": "glosses.en/answer",
+    "currentValue": "incessantly",
+    "dictionaryEvidence": [
+      {
+        "source": "cedict",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [],
+        "glosses": [
+          "incessant"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "絶え間なく",
+    "appExample": "外面的雨下个不停。 — 外の雨は絶え間なく降っている。",
+    "reason": "アプリ英語義『incessantly』が辞書義[incessant]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "zh-03282",
+    "language": "chinese",
+    "field": "glosses.en/answer",
+    "currentValue": "dictionary",
+    "dictionaryEvidence": [
+      {
+        "source": "cedict",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [],
+        "glosses": [
+          "variant of 詞典|词典[ci2 dian3]"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "辞典",
+    "appExample": "我用这本辞典查生词。 — 私はこの辞典で新出語を調べる。",
+    "reason": "アプリ英語義『dictionary』が辞書義[variant of 詞典|词典[ci2 dian3]]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "zh-03302",
+    "language": "chinese",
+    "field": "glosses.en/answer",
+    "currentValue": "mostly",
+    "dictionaryEvidence": [
+      {
+        "source": "cedict",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [],
+        "glosses": [
+          "Dadu, capital of China during the Yuan Dynasty (1280-1368), modern day Beijing",
+          "for the most part",
+          "on the whole",
+          "also pr. [da4 du1]",
+          "for the most part"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "大部分は",
+    "appExample": "这里的学生大都会说英语。 — ここの学生は大部分が英語を話せる。",
+    "reason": "アプリ英語義『mostly』が辞書義[Dadu, capital of China during the Yuan Dynasty (1280-1368), modern day Beijing / for the most part / on the whole]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "zh-03304",
+    "language": "chinese",
+    "field": "glosses.en/answer",
+    "currentValue": "everyone",
+    "dictionaryEvidence": [
+      {
+        "source": "cedict",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [],
+        "glosses": [
+          "erhua variant of 大伙[da4 huo3]"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "みんな",
+    "appExample": "大伙儿一起去公园玩吧。 — みんなで一緒に公園へ遊びに行こう。",
+    "reason": "アプリ英語義『everyone』が辞書義[erhua variant of 大伙[da4 huo3]]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "zh-03313",
+    "language": "chinese",
+    "field": "glosses.en/answer",
+    "currentValue": "dull",
+    "dictionaryEvidence": [
+      {
+        "source": "cedict",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [],
+        "glosses": [
+          "foolish; stupid",
+          "expressionless; blank",
+          "variant of 待[dai1]",
+          "foolish; stupid (variant of 呆[dai1])",
+          "expressionless; blank (variant of 呆[dai1])"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "ぼんやりした",
+    "appExample": "他有点呆地看着窗外。 — 彼は少しぼんやりと窓の外を見ている。",
+    "reason": "アプリ英語義『dull』が辞書義[foolish; stupid / expressionless; blank / variant of 待[dai1]]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "zh-03372",
+    "language": "chinese",
+    "field": "glosses.en/answer",
+    "currentValue": "regulations",
+    "dictionaryEvidence": [
+      {
+        "source": "cedict",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [],
+        "glosses": [
+          "legislation",
+          "statute"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "法規",
+    "appExample": "我们要遵守交通法规。 — 私たちは交通法規を守らなければならない。",
+    "reason": "アプリ英語義『regulations』が辞書義[legislation / statute]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "zh-03387",
+    "language": "chinese",
+    "field": "glosses.en/answer",
+    "currentValue": "scenery",
+    "dictionaryEvidence": [
+      {
+        "source": "cedict",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [],
+        "glosses": [
+          "scene",
+          "view",
+          "sight",
+          "landscape",
+          "to be well-regarded"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "（美しい）眺め",
+    "appExample": "这里的风光非常美。 — ここの眺めはとても美しい。",
+    "reason": "アプリ英語義『scenery』が辞書義[scene / view / sight]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "zh-03399",
+    "language": "chinese",
+    "field": "glosses.en/answer",
+    "currentValue": "straightforward",
+    "dictionaryEvidence": [
+      {
+        "source": "cedict",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [],
+        "glosses": [
+          "candid",
+          "direct and to the point",
+          "simply",
+          "just",
+          "might as well"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "きっぱりしている",
+    "appExample": "他做事很干脆。 — 彼は物事のやり方がきっぱりしている。",
+    "reason": "アプリ英語義『straightforward』が辞書義[candid / direct and to the point / simply]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "zh-03423",
+    "language": "chinese",
+    "field": "glosses.en/answer",
+    "currentValue": "generally acknowledged",
+    "dictionaryEvidence": [
+      {
+        "source": "cedict",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [],
+        "glosses": [
+          "publicly known (to be)",
+          "accepted (as)"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "広く認める",
+    "appExample": "他是大家公认的好人。 — 彼はみんなが広く認める良い人だ。",
+    "reason": "アプリ英語義『generally acknowledged』が辞書義[publicly known (to be) / accepted (as)]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "zh-03458",
+    "language": "chinese",
+    "field": "glosses.en/answer",
+    "currentValue": "to synthesize",
+    "dictionaryEvidence": [
+      {
+        "source": "cedict",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [],
+        "glosses": [
+          "to compose",
+          "to constitute",
+          "compound",
+          "synthesis",
+          "mixture"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "合成する",
+    "appExample": "这种材料是合成的。 — この種の材料は合成されたものだ。",
+    "reason": "アプリ英語義『to synthesize』が辞書義[to compose / to constitute / compound]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "zh-03466",
+    "language": "chinese",
+    "field": "glosses.en/answer",
+    "currentValue": "alley",
+    "dictionaryEvidence": [
+      {
+        "source": "cedict",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [],
+        "glosses": [
+          "erhua form of 胡同[hu2 tong4]"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "路地",
+    "appExample": "这条胡同儿很安静。 — この路地はとても静かだ。",
+    "reason": "アプリ英語義『alley』が辞書義[erhua form of 胡同[hu2 tong4]]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "zh-03475",
+    "language": "chinese",
+    "field": "glosses.en/answer",
+    "currentValue": "to panic",
+    "dictionaryEvidence": [
+      {
+        "source": "cedict",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [],
+        "glosses": [
+          "to get panicky; to lose one's head",
+          "(coll.) (after 得[de2]) unbearably; terribly"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "慌てる",
+    "appExample": "遇到问题时不要慌。 — 問題にぶつかった時、慌ててはいけない。",
+    "reason": "アプリ英語義『to panic』が辞書義[to get panicky; to lose one's head / (coll.) (after 得[de2]) unbearably; terribly]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "zh-03509",
+    "language": "chinese",
+    "field": "glosses.en/answer",
+    "currentValue": "to pinch",
+    "dictionaryEvidence": [
+      {
+        "source": "cedict",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [],
+        "glosses": [
+          "used in 夾肢窩|夹肢窝[ga1 zhi5 wo1]",
+          "to press from either side",
+          "to place in between",
+          "to sandwich",
+          "to carry sth under armpit"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "挟む",
+    "appExample": "他用筷子夹菜。 — 彼は箸で料理を挟む。",
+    "reason": "アプリ英語義『to pinch』が辞書義[used in 夾肢窩|夹肢窝[ga1 zhi5 wo1] / to press from either side / to place in between]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "zh-03563",
+    "language": "chinese",
+    "field": "glosses.en/answer",
+    "currentValue": "by no means",
+    "dictionaryEvidence": [
+      {
+        "source": "cedict",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [],
+        "glosses": [
+          "not at all",
+          "simply (can) not"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "決して〜しない",
+    "appExample": "我决不放弃自己的梦想。 — 私は決して自分の夢をあきらめない。",
+    "reason": "アプリ英語義『by no means』が辞書義[not at all / simply (can) not]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "zh-03602",
+    "language": "chinese",
+    "field": "glosses.en/answer",
+    "currentValue": "worship",
+    "dictionaryEvidence": [
+      {
+        "source": "cedict",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [],
+        "glosses": [
+          "to attend a religious service",
+          "(coll.) week",
+          "(coll.) Sunday"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "礼拝",
+    "appExample": "他每周日去教堂做礼拜。 — 彼は毎週日曜日に教会へ礼拝に行く。",
+    "reason": "アプリ英語義『worship』が辞書義[to attend a religious service / (coll.) week / (coll.) Sunday]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "zh-03604",
+    "language": "chinese",
+    "field": "glosses.en/answer",
+    "currentValue": "formidable",
+    "dictionaryEvidence": [
+      {
+        "source": "cedict",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [],
+        "glosses": [
+          "(used to describe sb or sth that makes a very strong impression, whether favorable or unfavorable) terrible; intense; severe; devastating; amazing; awesome; outstanding",
+          "(of a person) stern; strict; harsh; shrewd; tough",
+          "(of an animal) fierce",
+          "(of a resemblance) striking",
+          "(of liquor or chili pepper) strong"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "すごい",
+    "appExample": "他的中文说得真厉害。 — 彼の中国語は本当にすごい。",
+    "reason": "アプリ英語義『formidable』が辞書義[(used to describe sb or sth that makes a very strong impression, whether favorable or unfavorable) terrible; intense; severe; devastating; amazing; awesome; outstanding / (of a person) stern; strict; harsh; shrewd; tough / (of an animal) fierce]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "zh-03612",
+    "language": "chinese",
+    "field": "glosses.en/answer",
+    "currentValue": "washbasin",
+    "dictionaryEvidence": [
+      {
+        "source": "cedict",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [],
+        "glosses": [
+          "washbowl",
+          "basin for washing hands and face",
+          "CL:個|个[ge4]"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "洗面器",
+    "appExample": "他用脸盆装满了水。 — 彼は洗面器に水をいっぱい入れた。",
+    "reason": "アプリ英語義『washbasin』が辞書義[washbowl / basin for washing hands and face / CL:個|个[ge4]]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "zh-03629",
+    "language": "chinese",
+    "field": "glosses.en/answer",
+    "currentValue": "business",
+    "dictionaryEvidence": [
+      {
+        "source": "cedict",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [],
+        "glosses": [
+          "to buy and sell",
+          "purchase and sale; transaction",
+          "shop; store"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "商売",
+    "appExample": "他做的买卖越来越大。 — 彼の商売はますます大きくなっている。",
+    "reason": "アプリ英語義『business』が辞書義[to buy and sell / purchase and sale; transaction / shop; store]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "zh-03631",
+    "language": "chinese",
+    "field": "glosses.en/answer",
+    "currentValue": "comics",
+    "dictionaryEvidence": [
+      {
+        "source": "cedict",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [],
+        "glosses": [
+          "caricature",
+          "cartoon",
+          "Japanese manga"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "漫画",
+    "appExample": "弟弟很喜欢看漫画。 — 弟は漫画を見るのがとても好きだ。",
+    "reason": "アプリ英語義『comics』が辞書義[caricature / cartoon / Japanese manga]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "zh-03681",
+    "language": "chinese",
+    "field": "glosses.en/answer",
+    "currentValue": "to equip",
+    "dictionaryEvidence": [
+      {
+        "source": "cedict",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [],
+        "glosses": [
+          "to allocate",
+          "to provide",
+          "to outfit with"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "配備する",
+    "appExample": "教室里配备了新的电脑。 — 教室には新しいパソコンが配備された。",
+    "reason": "アプリ英語義『to equip』が辞書義[to allocate / to provide / to outfit with]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "zh-03705",
+    "language": "chinese",
+    "field": "glosses.en/answer",
+    "currentValue": "to expect",
+    "dictionaryEvidence": [
+      {
+        "source": "cedict",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [],
+        "glosses": [
+          "to have expectations",
+          "to earnestly hope",
+          "expectation",
+          "hope"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "期待をかける",
+    "appExample": "父母都期望孩子健康成长。 — 両親はみな子供が健康に育つことを期待している。",
+    "reason": "アプリ英語義『to expect』が辞書義[to have expectations / to earnestly hope / expectation]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "zh-03730",
+    "language": "chinese",
+    "field": "glosses.en/answer",
+    "currentValue": "quietly",
+    "dictionaryEvidence": [
+      {
+        "source": "cedict",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [],
+        "glosses": [
+          "quiet; making little or no noise",
+          "surreptitious; stealthy",
+          "anxious; worried",
+          "Taiwan pr. [qiao3qiao3]"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "ひっそりと",
+    "appExample": "他悄悄地走进了房间。 — 彼はひっそりと部屋に入った。",
+    "reason": "アプリ英語義『quietly』が辞書義[quiet; making little or no noise / surreptitious; stealthy / anxious; worried]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "zh-03753",
+    "language": "chinese",
+    "field": "glosses.en/answer",
+    "currentValue": "calorie",
+    "dictionaryEvidence": [
+      {
+        "source": "cedict",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [],
+        "glosses": [
+          "heat",
+          "quantity of heat",
+          "calorific value"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "カロリー",
+    "appExample": "这种食物的热量很高。 — この食べ物はカロリーが高い。",
+    "reason": "アプリ英語義『calorie』が辞書義[heat / quantity of heat / calorific value]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "zh-03769",
+    "language": "chinese",
+    "field": "glosses.en/answer",
+    "currentValue": "to get started",
+    "dictionaryEvidence": [
+      {
+        "source": "cedict",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [],
+        "glosses": [
+          "entrance door",
+          "to enter a door",
+          "to learn the basics of a subject; introduction (to a subject); (attributive) entry-level"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "入門する",
+    "appExample": "学画画要先入门。 — 絵を学ぶにはまず入門しなければならない。",
+    "reason": "アプリ英語義『to get started』が辞書義[entrance door / to enter a door / to learn the basics of a subject; introduction (to a subject); (attributive) entry-level]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "zh-03785",
+    "language": "chinese",
+    "field": "glosses.en/answer",
+    "currentValue": "slightly",
+    "dictionaryEvidence": [
+      {
+        "source": "cedict",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [],
+        "glosses": [
+          "somewhat",
+          "a little",
+          "used in 稍息[shao4 xi1]"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "やや",
+    "appExample": "菜里的盐放得稍多了。 — 料理の塩がやや多く入れられた。",
+    "reason": "アプリ英語義『slightly』が辞書義[somewhat / a little / used in 稍息[shao4 xi1]]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "zh-03806",
+    "language": "chinese",
+    "field": "glosses.en/answer",
+    "currentValue": "to rise",
+    "dictionaryEvidence": [
+      {
+        "source": "cedict",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [],
+        "glosses": [
+          "to raise",
+          "to ascend"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "高くなる",
+    "appExample": "下午气温慢慢升高了。 — 午後、気温がゆっくりと高くなった。",
+    "reason": "アプリ英語義『to rise』が辞書義[to raise / to ascend]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "zh-03814",
+    "language": "chinese",
+    "field": "glosses.en/answer",
+    "currentValue": "poetry",
+    "dictionaryEvidence": [
+      {
+        "source": "cedict",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [],
+        "glosses": [
+          "poem",
+          "CL:本[ben3],首[shou3],段[duan4]"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "詩歌",
+    "appExample": "她很喜欢读古代的诗歌。 — 彼女は古代の詩歌を読むのが好きだ。",
+    "reason": "アプリ英語義『poetry』が辞書義[poem / CL:本[ben3],首[shou3],段[duan4]]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "zh-03917",
+    "language": "chinese",
+    "field": "glosses.en/answer",
+    "currentValue": "to give priority to",
+    "dictionaryEvidence": [
+      {
+        "source": "cedict",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [],
+        "glosses": [
+          "to rely mainly on",
+          "to attach most importance to"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "〜を主とする",
+    "appExample": "我们的饭以蔬菜为主。 — 私たちの食事は野菜を主とする。",
+    "reason": "アプリ英語義『to give priority to』が辞書義[to rely mainly on / to attach most importance to]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "zh-03973",
+    "language": "chinese",
+    "field": "glosses.en/answer",
+    "currentValue": "thief",
+    "dictionaryEvidence": [
+      {
+        "source": "cedict",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [],
+        "glosses": [
+          "erhua form of 小偷[xiao3 tou1]"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "泥棒",
+    "appExample": "昨天家里进了小偷儿。 — 昨日家に泥棒が入った。",
+    "reason": "アプリ英語義『thief』が辞書義[erhua form of 小偷[xiao3 tou1]]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "zh-03976",
+    "language": "chinese",
+    "field": "glosses.en/answer",
+    "currentValue": "written agreement",
+    "dictionaryEvidence": [
+      {
+        "source": "cedict",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [],
+        "glosses": [
+          "contract",
+          "protocol"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "協定書",
+    "appExample": "双方在协议书上签了字。 — 双方は協定書に署名した。",
+    "reason": "アプリ英語義『written agreement』が辞書義[contract / protocol]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "zh-04015",
+    "language": "chinese",
+    "field": "glosses.en/answer",
+    "currentValue": "first-rate",
+    "dictionaryEvidence": [
+      {
+        "source": "cedict",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [],
+        "glosses": [
+          "top quality",
+          "front ranking"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "一流",
+    "appExample": "这是一家一流的饭店。 — これは一流のホテルだ。",
+    "reason": "アプリ英語義『first-rate』が辞書義[top quality / front ranking]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "zh-04074",
+    "language": "chinese",
+    "field": "glosses.en/answer",
+    "currentValue": "to restrain",
+    "dictionaryEvidence": [
+      {
+        "source": "cedict",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [],
+        "glosses": [
+          "to restrict",
+          "to limit to",
+          "to constrain",
+          "restriction",
+          "constraint"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "束縛する",
+    "appExample": "学校的规则会约束学生。 — 学校の規則は学生を束縛する。",
+    "reason": "アプリ英語義『to restrain』が辞書義[to restrict / to limit to / to constrain]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "zh-04127",
+    "language": "chinese",
+    "field": "glosses.en/answer",
+    "currentValue": "to earn",
+    "dictionaryEvidence": [
+      {
+        "source": "cedict",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [],
+        "glosses": [
+          "used in 掙扎|挣扎[zheng1 zha2]",
+          "to struggle to get free",
+          "to strive to acquire",
+          "to make (money)"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "（金を）稼ぐ",
+    "appExample": "他工作努力,挣了很多。 — 彼はよく働き、たくさん稼いだ。",
+    "reason": "アプリ英語義『to earn』が辞書義[used in 掙扎|挣扎[zheng1 zha2] / to struggle to get free / to strive to acquire]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "zh-04198",
+    "language": "chinese",
+    "field": "glosses.en/answer",
+    "currentValue": "drunk",
+    "dictionaryEvidence": [
+      {
+        "source": "cedict",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [],
+        "glosses": [
+          "intoxicated"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "酔う",
+    "appExample": "他喝了很多酒,有点醉了。 — 彼はたくさん酒を飲んで、少し酔った。",
+    "reason": "アプリ英語義『drunk』が辞書義[intoxicated]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "es-00372",
+    "language": "spanish",
+    "field": "glosses.en/answer",
+    "currentValue": "understood, agreed",
+    "dictionaryEvidence": [
+      {
+        "source": "kaikki-spanish",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "verb",
+          "adjective",
+          "interjection",
+          "noun"
+        ],
+        "glosses": [
+          "to understand, to fathom",
+          "to hear",
+          "to be queer; to bat for the other team",
+          "to get on; get along",
+          "to get it on; do it (have an amorous relationship)"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "understood, agreed",
+    "appExample": null,
+    "reason": "アプリ英語義『understood, agreed』が辞書義[to understand, to fathom / to hear / to be queer; to bat for the other team]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "es-00547",
+    "language": "spanish",
+    "field": "glosses.en/answer",
+    "currentValue": "Saint (before a name)",
+    "dictionaryEvidence": [
+      {
+        "source": "kaikki-spanish",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "noun",
+          "adjective"
+        ],
+        "glosses": [
+          "financial, temporal-savings scheme; the participants periodically contribute a quota to a communal pot that is given to one member, based on his/her turn amongst all the others",
+          "apocopic form of santo (“saint”)",
+          "san; the Greek letter Ϻ, ϻ"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "Saint (before a name)",
+    "appExample": null,
+    "reason": "アプリ英語義『Saint (before a name)』が辞書義[financial, temporal-savings scheme; the participants periodically contribute a quota to a communal pot that is given to one member, based on his/her turn amongst all the others / apocopic form of santo (“saint”) / san; the Greek letter Ϻ, ϻ]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "es-00843",
+    "language": "spanish",
+    "field": "glosses.en/answer",
+    "currentValue": "classes, lessons",
+    "dictionaryEvidence": [
+      {
+        "source": "kaikki-spanish",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "noun"
+        ],
+        "glosses": [
+          "lecture",
+          "class (lesson)",
+          "class (group of students)",
+          "class (level of society)",
+          "kind, sort, type"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "classes, lessons",
+    "appExample": null,
+    "reason": "アプリ英語義『classes, lessons』が辞書義[lecture / class (lesson) / class (group of students)]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "es-00967",
+    "language": "spanish",
+    "field": "glosses.en/answer",
+    "currentValue": "happened, occurred",
+    "dictionaryEvidence": [
+      {
+        "source": "kaikki-spanish",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "verb",
+          "adjective"
+        ],
+        "glosses": [
+          "to happen, to occur",
+          "to come up with",
+          "to happen, to occur",
+          "to come up with",
+          "to happen, to occur"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "happened, occurred",
+    "appExample": null,
+    "reason": "アプリ英語義『happened, occurred』が辞書義[to happen, to occur / to come up with / to happen, to occur]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "es-01045",
+    "language": "spanish",
+    "field": "glosses.en/answer",
+    "currentValue": "smooth",
+    "dictionaryEvidence": [
+      {
+        "source": "kaikki-spanish",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "noun",
+          "adjective",
+          "verb"
+        ],
+        "glosses": [
+          "mullet, white mullet",
+          "feminine singular of liso",
+          "inflection of lisar:",
+          "third-person singular present indicative",
+          "inflection of lisar:"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "smooth",
+    "appExample": null,
+    "reason": "アプリ英語義『smooth』が辞書義[mullet, white mullet / feminine singular of liso / inflection of lisar:]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "es-01125",
+    "language": "spanish",
+    "field": "glosses.en/answer",
+    "currentValue": "notes, grades",
+    "dictionaryEvidence": [
+      {
+        "source": "kaikki-spanish",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "noun",
+          "verb"
+        ],
+        "glosses": [
+          "note, memo",
+          "note",
+          "mark, academic score",
+          "plural of nota",
+          "second-person singular present indicative of notar"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "notes, grades",
+    "appExample": null,
+    "reason": "アプリ英語義『notes, grades』が辞書義[note, memo / note / mark, academic score]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "es-01159",
+    "language": "spanish",
+    "field": "glosses.en/answer",
+    "currentValue": "brave, fierce",
+    "dictionaryEvidence": [
+      {
+        "source": "kaikki-spanish",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective",
+          "interjection"
+        ],
+        "glosses": [
+          "angry, furious",
+          "bold, courageous",
+          "skilful, capable, clever, fine",
+          "good, excellent",
+          "agitated (sea)"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "brave, fierce",
+    "appExample": null,
+    "reason": "アプリ英語義『brave, fierce』が辞書義[angry, furious / bold, courageous / skilful, capable, clever, fine]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "es-01376",
+    "language": "spanish",
+    "field": "glosses.en/answer",
+    "currentValue": "lived",
+    "dictionaryEvidence": [
+      {
+        "source": "kaikki-spanish",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "verb",
+          "adjective"
+        ],
+        "glosses": [
+          "to live; to be alive",
+          "to make a living, to live on",
+          "to live in, reside, inhabit",
+          "to experience, to live through",
+          "to live; to be alive"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "lived",
+    "appExample": null,
+    "reason": "アプリ英語義『lived』が辞書義[to live; to be alive / to make a living, to live on / to live in, reside, inhabit]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "es-01455",
+    "language": "spanish",
+    "field": "glosses.en/answer",
+    "currentValue": "flying",
+    "dictionaryEvidence": [
+      {
+        "source": "kaikki-spanish",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "verb",
+          "adjective"
+        ],
+        "glosses": [
+          "to fly, to fly away",
+          "to fly (on an airplane)",
+          "to blow up",
+          "to anger, to exasperate, to infuriate",
+          "to rouse"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "flying",
+    "appExample": null,
+    "reason": "アプリ英語義『flying』が辞書義[to fly, to fly away / to fly (on an airplane) / to blow up]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "es-01567",
+    "language": "spanish",
+    "field": "glosses.en/answer",
+    "currentValue": "entered",
+    "dictionaryEvidence": [
+      {
+        "source": "kaikki-spanish",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "verb",
+          "adjective"
+        ],
+        "glosses": [
+          "to enter; to come in; to get in; to go in; to get inside; to come on in",
+          "to break in",
+          "to join; to enter; to start",
+          "to access; to log in",
+          "to fit"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "entered",
+    "appExample": null,
+    "reason": "アプリ英語義『entered』が辞書義[to enter; to come in; to get in; to go in; to get inside; to come on in / to break in / to join; to enter; to start]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "es-01582",
+    "language": "spanish",
+    "field": "glosses.en/answer",
+    "currentValue": "saved",
+    "dictionaryEvidence": [
+      {
+        "source": "kaikki-spanish",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "verb",
+          "noun"
+        ],
+        "glosses": [
+          "to save",
+          "to rescue",
+          "to salvage",
+          "to cover (a distance)",
+          "to save"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "saved",
+    "appExample": null,
+    "reason": "アプリ英語義『saved』が辞書義[to save / to rescue / to salvage]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "es-01805",
+    "language": "spanish",
+    "field": "glosses.en/answer",
+    "currentValue": "spirits, encouragement",
+    "dictionaryEvidence": [
+      {
+        "source": "kaikki-spanish",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "noun",
+          "interjection"
+        ],
+        "glosses": [
+          "soul, spirit, mood",
+          "vigour",
+          "have courage!, cheer up!, keep your head up!, good luck!, chin up!; you got this"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "spirits, encouragement",
+    "appExample": null,
+    "reason": "アプリ英語義『spirits, encouragement』が辞書義[soul, spirit, mood / vigour / have courage!, cheer up!, keep your head up!, good luck!, chin up!; you got this]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "es-01819",
+    "language": "spanish",
+    "field": "glosses.en/answer",
+    "currentValue": "setting (of the sun), laying",
+    "dictionaryEvidence": [
+      {
+        "source": "kaikki-spanish",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "verb",
+          "adjective",
+          "noun"
+        ],
+        "glosses": [
+          "to put, to put up, to place, to lay",
+          "to set, to set up (e.g. set an alarm, set up chairs)",
+          "to put on (e.g. put on a smile, a happy face, a brave face; put on a pot of coffee, put something on display)",
+          "to choose, to designate (for a job, charge or responsibility)",
+          "to make (e.g. make somebody nervous, jealous, sad, emotional, uncomfortable)"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "setting (of the sun), laying",
+    "appExample": null,
+    "reason": "アプリ英語義『setting (of the sun), laying』が辞書義[to put, to put up, to place, to lay / to set, to set up (e.g. set an alarm, set up chairs) / to put on (e.g. put on a smile, a happy face, a brave face; put on a pot of coffee, put something on display)]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "es-01965",
+    "language": "spanish",
+    "field": "glosses.en/answer",
+    "currentValue": "long-suffering, patient",
+    "dictionaryEvidence": [
+      {
+        "source": "kaikki-spanish",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "verb",
+          "adjective"
+        ],
+        "glosses": [
+          "to suffer (be confronted with something undesired)",
+          "to withstand, endure, resist or undergo a physical or moral damage",
+          "to suffer (be confronted with something undesired)",
+          "to withstand, endure, resist or undergo a physical or moral damage",
+          "painstaking"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "long-suffering, patient",
+    "appExample": null,
+    "reason": "アプリ英語義『long-suffering, patient』が辞書義[to suffer (be confronted with something undesired) / to withstand, endure, resist or undergo a physical or moral damage / to suffer (be confronted with something undesired)]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "de-00028",
+    "language": "german",
+    "field": "glosses.en/answer",
+    "currentValue": "sorry",
+    "dictionaryEvidence": [
+      {
+        "source": "kaikki-german",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "verb",
+          "adjective"
+        ],
+        "glosses": [
+          "to suffer, to experience pain, sorrow, etc.",
+          "to suffer, bear, endure, undergo, experience (some hardship)",
+          "to suffer",
+          "to like, tolerate, stand",
+          "distressing, uncomfortable"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "sorry",
+    "appExample": null,
+    "reason": "アプリ英語義『sorry』が辞書義[to suffer, to experience pain, sorrow, etc. / to suffer, bear, endure, undergo, experience (some hardship) / to suffer]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "de-00032",
+    "language": "german",
+    "field": "glosses.en/answer",
+    "currentValue": "hello",
+    "dictionaryEvidence": [
+      {
+        "source": "kaikki-german",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "noun"
+        ],
+        "glosses": [
+          "hullabaloo, cheering (often welcoming or celebratory)"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "hello",
+    "appExample": null,
+    "reason": "アプリ英語義『hello』が辞書義[hullabaloo, cheering (often welcoming or celebratory)]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "de-00052",
+    "language": "german",
+    "field": "glosses.en/answer",
+    "currentValue": "happened",
+    "dictionaryEvidence": [
+      {
+        "source": "kaikki-german",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "verb",
+          "adjective"
+        ],
+        "glosses": [
+          "to happen",
+          "to move beyond; pass",
+          "to pass through a sieve, to strain",
+          "to happen",
+          "to move beyond; pass"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "happened",
+    "appExample": null,
+    "reason": "アプリ英語義『happened』が辞書義[to happen / to move beyond; pass / to pass through a sieve, to strain]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "de-00304",
+    "language": "german",
+    "field": "glosses.en/answer",
+    "currentValue": "unfortunately",
+    "dictionaryEvidence": [
+      {
+        "source": "kaikki-german",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "noun"
+        ],
+        "glosses": [
+          "sufferer",
+          "sufferer",
+          "sufferer",
+          "sufferer",
+          "sufferer"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "unfortunately",
+    "appExample": null,
+    "reason": "アプリ英語義『unfortunately』が辞書義[sufferer / sufferer / sufferer]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "de-00517",
+    "language": "german",
+    "field": "glosses.en/answer",
+    "currentValue": "the same one",
+    "dictionaryEvidence": [
+      {
+        "source": "kaikki-german",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "noun"
+        ],
+        "glosses": [
+          "equality",
+          "evenness",
+          "topping out (the finishing of a building's roof)",
+          "equality",
+          "evenness"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "the same one",
+    "appExample": null,
+    "reason": "アプリ英語義『the same one』が辞書義[equality / evenness / topping out (the finishing of a building's roof)]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "de-00607",
+    "language": "german",
+    "field": "glosses.en/answer",
+    "currentValue": "nearer, closer",
+    "dictionaryEvidence": [
+      {
+        "source": "kaikki-german",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective",
+          "verb"
+        ],
+        "glosses": [
+          "near (in space or time or in an abstract sense), close, nearby",
+          "near (in space or time or in an abstract sense), close, nearby",
+          "near (in space or time or in an abstract sense), close, nearby",
+          "near (in space or time or in an abstract sense), close, nearby",
+          "near (in space or time or in an abstract sense), close, nearby"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "nearer, closer",
+    "appExample": null,
+    "reason": "アプリ英語義『nearer, closer』が辞書義[near (in space or time or in an abstract sense), close, nearby / near (in space or time or in an abstract sense), close, nearby / near (in space or time or in an abstract sense), close, nearby]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "de-00939",
+    "language": "german",
+    "field": "glosses.en/answer",
+    "currentValue": "held, kept",
+    "dictionaryEvidence": [
+      {
+        "source": "kaikki-german",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "verb",
+          "adjective"
+        ],
+        "glosses": [
+          "to hold (an object in one's hands)",
+          "to stop, to halt, to hold back",
+          "to support, to hold up",
+          "to keep, to maintain",
+          "to keep, to provide for"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "held, kept",
+    "appExample": null,
+    "reason": "アプリ英語義『held, kept』が辞書義[to hold (an object in one's hands) / to stop, to halt, to hold back / to support, to hold up]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "de-01161",
+    "language": "german",
+    "field": "glosses.en/answer",
+    "currentValue": "nevertheless",
+    "dictionaryEvidence": [
+      {
+        "source": "kaikki-german",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adverb"
+        ],
+        "glosses": [
+          "anyhow, however"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "nevertheless",
+    "appExample": null,
+    "reason": "アプリ英語義『nevertheless』が辞書義[anyhow, however]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "de-01200",
+    "language": "german",
+    "field": "glosses.en/answer",
+    "currentValue": "worn out, exhausted",
+    "dictionaryEvidence": [
+      {
+        "source": "kaikki-german",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "verb",
+          "adjective"
+        ],
+        "glosses": [
+          "to take with; to carry along",
+          "to pick up; to keep",
+          "to take away",
+          "to damage something; to drain or hurt someone (physically or emotionally)",
+          "to take with; to carry along"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "worn out, exhausted",
+    "appExample": null,
+    "reason": "アプリ英語義『worn out, exhausted』が辞書義[to take with; to carry along / to pick up; to keep / to take away]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "de-01282",
+    "language": "german",
+    "field": "glosses.en/answer",
+    "currentValue": "meanwhile",
+    "dictionaryEvidence": [
+      {
+        "source": "kaikki-german",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adverb"
+        ],
+        "glosses": [
+          "since then, by now, in the meantime (contrasting between the current state and a known past state)",
+          "in the meantime (at the same time as another process, typically in another location)",
+          "in the meantime (at the same time as another process, typically in another location)",
+          "in the meantime (specifically until the other process is finished)"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "meanwhile",
+    "appExample": null,
+    "reason": "アプリ英語義『meanwhile』が辞書義[since then, by now, in the meantime (contrasting between the current state and a known past state) / in the meantime (at the same time as another process, typically in another location) / in the meantime (at the same time as another process, typically in another location)]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "de-01619",
+    "language": "german",
+    "field": "glosses.en/answer",
+    "currentValue": "accustomed",
+    "dictionaryEvidence": [
+      {
+        "source": "kaikki-german",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "verb",
+          "adjective"
+        ],
+        "glosses": [
+          "to live, reside, dwell (to remain or be settled permanently, or for a considerable time)",
+          "to stay (to remain in a place for a definite or short period of time, though typically for more than a few days)",
+          "to live, reside, dwell (to remain or be settled permanently, or for a considerable time)",
+          "to stay (to remain in a place for a definite or short period of time, though typically for more than a few days)",
+          "usual, customary, familiar"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "accustomed",
+    "appExample": null,
+    "reason": "アプリ英語義『accustomed』が辞書義[to live, reside, dwell (to remain or be settled permanently, or for a considerable time) / to stay (to remain in a place for a definite or short period of time, though typically for more than a few days) / to live, reside, dwell (to remain or be settled permanently, or for a considerable time)]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "de-01880",
+    "language": "german",
+    "field": "glosses.en/answer",
+    "currentValue": "befriended",
+    "dictionaryEvidence": [
+      {
+        "source": "kaikki-german",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "verb",
+          "adjective"
+        ],
+        "glosses": [
+          "past participle of befreunden",
+          "friendly, friends",
+          "friendly, friends",
+          "friendly, friends",
+          "friendly, friends"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "befriended",
+    "appExample": null,
+    "reason": "アプリ英語義『befriended』が辞書義[past participle of befreunden / friendly, friends / friendly, friends]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "de-01898",
+    "language": "german",
+    "field": "glosses.en/answer",
+    "currentValue": "nothing",
+    "dictionaryEvidence": [
+      {
+        "source": "kaikki-german",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "noun"
+        ],
+        "glosses": [
+          "nix (water demon in human form that lures people into the water and drowns them)",
+          "nix (water demon in human form that lures people into the water and drowns them)",
+          "nix (water demon in human form that lures people into the water and drowns them)",
+          "nix (water demon in human form that lures people into the water and drowns them)"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "nothing",
+    "appExample": null,
+    "reason": "アプリ英語義『nothing』が辞書義[nix (water demon in human form that lures people into the water and drowns them) / nix (water demon in human form that lures people into the water and drowns them) / nix (water demon in human form that lures people into the water and drowns them)]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "de-01904",
+    "language": "german",
+    "field": "glosses.en/answer",
+    "currentValue": "conclusion, degree",
+    "dictionaryEvidence": [
+      {
+        "source": "kaikki-german",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "noun"
+        ],
+        "glosses": [
+          "exclusion",
+          "end (finish)",
+          "graduation (the act or process of graduating)",
+          "exclusion",
+          "end (finish)"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "conclusion, degree",
+    "appExample": null,
+    "reason": "アプリ英語義『conclusion, degree』が辞書義[exclusion / end (finish) / graduation (the act or process of graduating)]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "de-01905",
+    "language": "german",
+    "field": "glosses.en/answer",
+    "currentValue": "fool, idiot",
+    "dictionaryEvidence": [
+      {
+        "source": "kaikki-german",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "noun"
+        ],
+        "glosses": [
+          "airhead, birdbrain, bubblehead, feather-brain, featherhead, jingle-brains, lamebrain, peabrain, pinhead",
+          "airhead, birdbrain, bubblehead, feather-brain, featherhead, jingle-brains, lamebrain, peabrain, pinhead",
+          "airhead, birdbrain, bubblehead, feather-brain, featherhead, jingle-brains, lamebrain, peabrain, pinhead",
+          "airhead, birdbrain, bubblehead, feather-brain, featherhead, jingle-brains, lamebrain, peabrain, pinhead"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "fool, idiot",
+    "appExample": null,
+    "reason": "アプリ英語義『fool, idiot』が辞書義[airhead, birdbrain, bubblehead, feather-brain, featherhead, jingle-brains, lamebrain, peabrain, pinhead / airhead, birdbrain, bubblehead, feather-brain, featherhead, jingle-brains, lamebrain, peabrain, pinhead / airhead, birdbrain, bubblehead, feather-brain, featherhead, jingle-brains, lamebrain, peabrain, pinhead]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "de-01982",
+    "language": "german",
+    "field": "glosses.en/answer",
+    "currentValue": "dead person",
+    "dictionaryEvidence": [
+      {
+        "source": "kaikki-german",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "noun"
+        ],
+        "glosses": [
+          "cadaver; corpse (male or of unspecified gender)",
+          "cadaver; corpse (male or of unspecified gender)",
+          "cadaver; corpse (male or of unspecified gender)",
+          "cadaver; corpse (male or of unspecified gender)",
+          "inflection of Tote:"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "dead person",
+    "appExample": null,
+    "reason": "アプリ英語義『dead person』が辞書義[cadaver; corpse (male or of unspecified gender) / cadaver; corpse (male or of unspecified gender) / cadaver; corpse (male or of unspecified gender)]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "fr-00177",
+    "language": "french",
+    "field": "glosses.en/answer",
+    "currentValue": "remarks, words",
+    "dictionaryEvidence": [
+      {
+        "source": "kaikki-french",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "noun"
+        ],
+        "glosses": [
+          "aim, intention",
+          "remark"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "remarks, words",
+    "appExample": null,
+    "reason": "アプリ英語義『remarks, words』が辞書義[aim, intention / remark]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "fr-00239",
+    "language": "french",
+    "field": "glosses.en/answer",
+    "currentValue": "approach",
+    "dictionaryEvidence": [
+      {
+        "source": "kaikki-french",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "noun"
+        ],
+        "glosses": [
+          "the manner with which one acts in the presence of another person or persons, especially in a first encounter",
+          "the surroundings of a place",
+          "arrival or accessibility by water"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "approach",
+    "appExample": null,
+    "reason": "アプリ英語義『approach』が辞書義[the manner with which one acts in the presence of another person or persons, especially in a first encounter / the surroundings of a place / arrival or accessibility by water]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "fr-00333",
+    "language": "french",
+    "field": "glosses.en/answer",
+    "currentValue": "received",
+    "dictionaryEvidence": [
+      {
+        "source": "kaikki-french",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "verb",
+          "adjective",
+          "noun"
+        ],
+        "glosses": [
+          "to receive",
+          "to entertain (to welcome guests)",
+          "accomplished",
+          "receipt",
+          "past participle of recevoir"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "received",
+    "appExample": null,
+    "reason": "アプリ英語義『received』が辞書義[to receive / to entertain (to welcome guests) / accomplished]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "fr-00375",
+    "language": "french",
+    "field": "glosses.en/answer",
+    "currentValue": "weapons",
+    "dictionaryEvidence": [
+      {
+        "source": "kaikki-french",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "noun",
+          "verb"
+        ],
+        "glosses": [
+          "weapon",
+          "second-person singular present indicative/subjunctive of armer",
+          "plural of arme",
+          "coat of arms"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "weapons",
+    "appExample": null,
+    "reason": "アプリ英語義『weapons』が辞書義[weapon / second-person singular present indicative/subjunctive of armer / plural of arme]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "fr-00410",
+    "language": "french",
+    "field": "glosses.en/answer",
+    "currentValue": "airplane",
+    "dictionaryEvidence": [
+      {
+        "source": "kaikki-french",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "noun"
+        ],
+        "glosses": [
+          "aeroplane"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "airplane",
+    "appExample": null,
+    "reason": "アプリ英語義『airplane』が辞書義[aeroplane]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "fr-00446",
+    "language": "french",
+    "field": "glosses.en/answer",
+    "currentValue": "similar",
+    "dictionaryEvidence": [
+      {
+        "source": "kaikki-french",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective",
+          "adverb"
+        ],
+        "glosses": [
+          "such",
+          "like, alike, same",
+          "the same; alike",
+          "anyway; just the same"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "similar",
+    "appExample": null,
+    "reason": "アプリ英語義『similar』が辞書義[such / like, alike, same / the same; alike]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "fr-00506",
+    "language": "french",
+    "field": "glosses.en/answer",
+    "currentValue": "muzzle",
+    "dictionaryEvidence": [
+      {
+        "source": "kaikki-french",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "noun",
+          "verb"
+        ],
+        "glosses": [
+          "gullet, snout, face (of an animal)",
+          "mug (a person's face)",
+          "mouth",
+          "inflection of gueuler:",
+          "first/third-person singular present indicative/subjunctive"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "muzzle",
+    "appExample": null,
+    "reason": "アプリ英語義『muzzle』が辞書義[gullet, snout, face (of an animal) / mug (a person's face) / mouth]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "fr-00510",
+    "language": "french",
+    "field": "glosses.en/answer",
+    "currentValue": "through",
+    "dictionaryEvidence": [
+      {
+        "source": "kaikki-french",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "noun"
+        ],
+        "glosses": [
+          "outside (the external part of)",
+          "wide side (the side of which the width is measured)",
+          "border toll",
+          "oddity, irregularity of mind and mood, unfortunate disposition, defect of character"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "through",
+    "appExample": null,
+    "reason": "アプリ英語義『through』が辞書義[outside (the external part of) / wide side (the side of which the width is measured) / border toll]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "fr-00512",
+    "language": "french",
+    "field": "glosses.en/answer",
+    "currentValue": "file",
+    "dictionaryEvidence": [
+      {
+        "source": "kaikki-french",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "noun",
+          "adjective"
+        ],
+        "glosses": [
+          "back of furniture, to rest the sitter's back on",
+          "dossier",
+          "folder",
+          "an organizer to keep papers in, to be stored as a single unit in a filing cabinet, see folder",
+          "case, notably legal"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "file",
+    "appExample": null,
+    "reason": "アプリ英語義『file』が辞書義[back of furniture, to rest the sitter's back on / dossier / folder]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "fr-00620",
+    "language": "french",
+    "field": "glosses.en/answer",
+    "currentValue": "approximately",
+    "dictionaryEvidence": [
+      {
+        "source": "kaikki-french",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adverb",
+          "noun"
+        ],
+        "glosses": [
+          "about, close to, around",
+          "a surrounding area"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "approximately",
+    "appExample": null,
+    "reason": "アプリ英語義『approximately』が辞書義[about, close to, around / a surrounding area]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "fr-00871",
+    "language": "french",
+    "field": "glosses.en/answer",
+    "currentValue": "favorite",
+    "dictionaryEvidence": [
+      {
+        "source": "kaikki-french",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective",
+          "verb"
+        ],
+        "glosses": [
+          "favourite",
+          "past participle of préférer"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "favorite",
+    "appExample": null,
+    "reason": "アプリ英語義『favorite』が辞書義[favourite / past participle of préférer]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "fr-00893",
+    "language": "french",
+    "field": "glosses.en/answer",
+    "currentValue": "great, terrific",
+    "dictionaryEvidence": [
+      {
+        "source": "kaikki-french",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "fearsome",
+          "fantastic, tremendous"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "great, terrific",
+    "appExample": null,
+    "reason": "アプリ英語義『great, terrific』が辞書義[fearsome / fantastic, tremendous]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "fr-00911",
+    "language": "french",
+    "field": "glosses.en/answer",
+    "currentValue": "sold",
+    "dictionaryEvidence": [
+      {
+        "source": "kaikki-french",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "verb",
+          "adjective",
+          "noun",
+          "interjection"
+        ],
+        "glosses": [
+          "to sell",
+          "to sell",
+          "to sell out (betray)",
+          "past participle of vendre",
+          "corrupt"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "sold",
+    "appExample": null,
+    "reason": "アプリ英語義『sold』が辞書義[to sell / to sell / to sell out (betray)]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "fr-00921",
+    "language": "french",
+    "field": "glosses.en/answer",
+    "currentValue": "idiot",
+    "dictionaryEvidence": [
+      {
+        "source": "kaikki-french",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective",
+          "noun"
+        ],
+        "glosses": [
+          "stupid, foolish, acting like an imbecile",
+          "imbecile"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "idiot",
+    "appExample": null,
+    "reason": "アプリ英語義『idiot』が辞書義[stupid, foolish, acting like an imbecile / imbecile]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "fr-01022",
+    "language": "french",
+    "field": "glosses.en/answer",
+    "currentValue": "broadcast",
+    "dictionaryEvidence": [
+      {
+        "source": "kaikki-french",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "noun"
+        ],
+        "glosses": [
+          "emission",
+          "programme, show"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "broadcast",
+    "appExample": null,
+    "reason": "アプリ英語義『broadcast』が辞書義[emission / programme, show]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "fr-01126",
+    "language": "french",
+    "field": "glosses.en/answer",
+    "currentValue": "previously",
+    "dictionaryEvidence": [
+      {
+        "source": "kaikki-french",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adverb"
+        ],
+        "glosses": [
+          "before, before now"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "previously",
+    "appExample": null,
+    "reason": "アプリ英語義『previously』が辞書義[before, before now]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "fr-01133",
+    "language": "french",
+    "field": "glosses.en/answer",
+    "currentValue": "genuine, real",
+    "dictionaryEvidence": [
+      {
+        "source": "kaikki-french",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "veritable"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "genuine, real",
+    "appExample": null,
+    "reason": "アプリ英語義『genuine, real』が辞書義[veritable]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "fr-01298",
+    "language": "french",
+    "field": "glosses.en/answer",
+    "currentValue": "to benefit",
+    "dictionaryEvidence": [
+      {
+        "source": "kaikki-french",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "verb"
+        ],
+        "glosses": [
+          "to take advantage of, make the most of, enjoy",
+          "to be profitable or beneficial",
+          "to thrive, do well; wear well (of clothes); to soak up (sun, atmosphere)",
+          "to take advantage of, make the most of, enjoy",
+          "to be profitable or beneficial"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "to benefit",
+    "appExample": null,
+    "reason": "アプリ英語義『to benefit』が辞書義[to take advantage of, make the most of, enjoy / to be profitable or beneficial / to thrive, do well; wear well (of clothes); to soak up (sun, atmosphere)]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "fr-01304",
+    "language": "french",
+    "field": "glosses.en/answer",
+    "currentValue": "yours",
+    "dictionaryEvidence": [
+      {
+        "source": "kaikki-french",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "your; belonging to you (singular)"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "yours",
+    "appExample": null,
+    "reason": "アプリ英語義『yours』が辞書義[your; belonging to you (singular)]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "fr-01521",
+    "language": "french",
+    "field": "glosses.en/answer",
+    "currentValue": "to engage",
+    "dictionaryEvidence": [
+      {
+        "source": "kaikki-french",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "verb"
+        ],
+        "glosses": [
+          "to pledge, commit",
+          "to hire, sign, snap up",
+          "to involve",
+          "to encourage",
+          "to pawn"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "to engage",
+    "appExample": null,
+    "reason": "アプリ英語義『to engage』が辞書義[to pledge, commit / to hire, sign, snap up / to involve]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "fr-01576",
+    "language": "french",
+    "field": "glosses.en/answer",
+    "currentValue": "marvellous",
+    "dictionaryEvidence": [
+      {
+        "source": "kaikki-french",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "marvelous, brilliant",
+          "feminine singular of merveilleux"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "marvellous",
+    "appExample": null,
+    "reason": "アプリ英語義『marvellous』が辞書義[marvelous, brilliant / feminine singular of merveilleux]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "fr-01578",
+    "language": "french",
+    "field": "glosses.en/answer",
+    "currentValue": "lucky",
+    "dictionaryEvidence": [
+      {
+        "source": "kaikki-french",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "with good luck; fortunate",
+          "with good luck; fortunate"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "lucky",
+    "appExample": null,
+    "reason": "アプリ英語義『lucky』が辞書義[with good luck; fortunate / with good luck; fortunate]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "fr-01616",
+    "language": "french",
+    "field": "glosses.en/answer",
+    "currentValue": "downright",
+    "dictionaryEvidence": [
+      {
+        "source": "kaikki-french",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adverb"
+        ],
+        "glosses": [
+          "squarely, at right angles (in the shape of a square; of motion etc.)",
+          "really, completely",
+          "straight out, bluntly (of asking, speaking etc.)",
+          "right, slap-bang, smack-dab"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "downright",
+    "appExample": null,
+    "reason": "アプリ英語義『downright』が辞書義[squarely, at right angles (in the shape of a square; of motion etc.) / really, completely / straight out, bluntly (of asking, speaking etc.)]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "fr-01756",
+    "language": "french",
+    "field": "glosses.en/answer",
+    "currentValue": "in a hurry",
+    "dictionaryEvidence": [
+      {
+        "source": "kaikki-french",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "verb",
+          "adjective"
+        ],
+        "glosses": [
+          "past participle of presser",
+          "quick, eager, impatient",
+          "pressing, urgent",
+          "lacking (pressed for)",
+          "pressed (fruit juice etc)"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "in a hurry",
+    "appExample": null,
+    "reason": "アプリ英語義『in a hurry』が辞書義[past participle of presser / quick, eager, impatient / pressing, urgent]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "fr-01775",
+    "language": "french",
+    "field": "glosses.en/answer",
+    "currentValue": "works, construction",
+    "dictionaryEvidence": [
+      {
+        "source": "kaikki-french",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "noun"
+        ],
+        "glosses": [
+          "work; labor",
+          "job",
+          "workplace",
+          "plural of travail",
+          "roadwork"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "works, construction",
+    "appExample": null,
+    "reason": "アプリ英語義『works, construction』が辞書義[work; labor / job / workplace]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "fr-01991",
+    "language": "french",
+    "field": "glosses.en/answer",
+    "currentValue": "stairs",
+    "dictionaryEvidence": [
+      {
+        "source": "kaikki-french",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "noun"
+        ],
+        "glosses": [
+          "step, stair",
+          "staircase"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "stairs",
+    "appExample": null,
+    "reason": "アプリ英語義『stairs』が辞書義[step, stair / staircase]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "pl-00135",
+    "language": "polish",
+    "field": "glosses.en/answer",
+    "currentValue": "to purchase",
+    "dictionaryEvidence": [
+      {
+        "source": "kaikki-polish",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "verb"
+        ],
+        "glosses": [
+          "to buy",
+          "to buy",
+          "to buy"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "to purchase",
+    "appExample": null,
+    "reason": "アプリ英語義『to purchase』が辞書義[to buy / to buy / to buy]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "pl-00142",
+    "language": "polish",
+    "field": "glosses.en/answer",
+    "currentValue": "money",
+    "dictionaryEvidence": [
+      {
+        "source": "kaikki-polish",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "noun"
+        ],
+        "glosses": [
+          "nominative/accusative/vocative plural of pieniądz"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "money",
+    "appExample": null,
+    "reason": "アプリ英語義『money』が辞書義[nominative/accusative/vocative plural of pieniądz]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  },
+  {
+    "id": "ru-00072",
+    "language": "russian",
+    "field": "glosses.en/answer",
+    "currentValue": "vegetables",
+    "dictionaryEvidence": [
+      {
+        "source": "kaikki-russian",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "noun"
+        ],
+        "glosses": [
+          "nominative/accusative plural of о́вощ (óvošč)"
+        ]
+      }
+    ],
+    "cause": "gloss_synonym_difference",
+    "category": "D",
+    "isRealError": false,
+    "learningImpact": "medium",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "vegetables",
+    "appExample": null,
+    "reason": "アプリ英語義『vegetables』が辞書義[nominative/accusative plural of о́вощ (óvošč)]と語彙上一致せず。同義/多義/表現差の可能性→人手確認。断定しない(規則6)"
+  }
+]

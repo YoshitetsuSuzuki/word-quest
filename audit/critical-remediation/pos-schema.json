@@ -1,0 +1,79 @@
+{
+  "decidedAt": "2026-07-16",
+  "canonicalPolicy": "当面は既存の日本語ラベルを維持し、不足カテゴリを日本語ラベルで追加(構造変更なし・tagsはstring[]のまま)。将来は英語固定列挙へ移行を推奨(別タスク)。",
+  "canonicalPosEnglishEnum": [
+    "noun",
+    "verb",
+    "adjective",
+    "adverb",
+    "pronoun",
+    "preposition",
+    "conjunction",
+    "interjection",
+    "determiner",
+    "article",
+    "auxiliary",
+    "numeral",
+    "particle",
+    "classifier",
+    "proper_noun",
+    "phrase",
+    "other"
+  ],
+  "currentJaLabelsInUse": {
+    "english": [
+      "名詞",
+      "動詞",
+      "形容詞"
+    ],
+    "chinese": [
+      "名詞",
+      "動詞",
+      "形容詞",
+      "副詞"
+    ],
+    "korean": [
+      "名詞",
+      "動詞",
+      "形容詞",
+      "副詞"
+    ],
+    "pivot": [
+      "word"
+    ]
+  },
+  "missingByLanguage": {
+    "english": [
+      "副詞",
+      "代名詞",
+      "前置詞",
+      "接続詞",
+      "間投詞",
+      "数詞",
+      "限定詞",
+      "助動詞"
+    ],
+    "chinese": [
+      "代名詞",
+      "前置詞/介詞",
+      "接続詞",
+      "量詞",
+      "数詞",
+      "間投詞"
+    ],
+    "korean": [
+      "代名詞",
+      "感嘆詞(間投詞)",
+      "数詞",
+      "助詞",
+      "冠形詞(限定詞)",
+      "依存名詞"
+    ]
+  },
+  "multipleTags": "複数品詞が明確な語は複数タグ可(例:round=名詞/動詞/形容詞)",
+  "phrasePolicy": "既存 phrase タグは維持(コードが参照)。テーマタグ(phraseのtags[1])も維持。品詞タグとは将来分離。",
+  "languageSpecificToOther": "韓国語の冠形詞/依存名詞等の専門品詞は当面 other か近似カテゴリへ(過剰細分化を避ける)",
+  "compatibility": "品詞タグは phrase 以外コードから参照されない非機能メタデータ(検証済)。値追加・変更は出題/UI/学習に影響なし。",
+  "migration": "今回はスキーマ大規模移行を行わない。不足カテゴリの一括付与は外部辞書照合(Kaikki/WordNet)を根拠に別タスクで実施。",
+  "rollback": "変更は tags フィールドのみ・ID/フィールド単位。Git差分で完全復元可能。"
+}

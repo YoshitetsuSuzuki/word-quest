@@ -1,0 +1,68 @@
+[
+  {
+    "id": "ko-00001",
+    "language": "korean",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "dictionaryEvidence": [
+      {
+        "source": "kaikki-korean",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "phrase"
+        ],
+        "glosses": [
+          "How are you?",
+          "Hello",
+          "Good morning"
+        ]
+      }
+    ],
+    "cause": "dictionary_taxonomy_difference",
+    "category": "C",
+    "isRealError": false,
+    "learningImpact": "low",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "こんにちは",
+    "appExample": "선생님, 안녕하세요. — 先生、こんにちは。",
+    "reason": "辞書品詞[phrase]はアプリ品詞体系と対応しない分類(phrase/name等)"
+  },
+  {
+    "id": "ko-00002",
+    "language": "korean",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "dictionaryEvidence": [
+      {
+        "source": "kaikki-korean",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "phrase"
+        ],
+        "glosses": [
+          "goodbye (said by the person staying to the person leaving)"
+        ]
+      }
+    ],
+    "cause": "dictionary_taxonomy_difference",
+    "category": "C",
+    "isRealError": false,
+    "learningImpact": "low",
+    "recommendedAction": "none",
+    "suggestedValue": null,
+    "confidence": 0,
+    "safeToAutoFix": false,
+    "requiresHumanReview": true,
+    "appAnswer": "さようなら",
+    "appExample": "친구야, 안녕히 가세요. — 友よ、さようなら。",
+    "reason": "辞書品詞[phrase]はアプリ品詞体系と対応しない分類(phrase/name等)"
+  }
+]

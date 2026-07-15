@@ -1,0 +1,8763 @@
+[
+  {
+    "id": "en-00162",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "any of various alternatives; some other; entity, singular, other pronoun; quantifier, singular, another"
+        ]
+      }
+    ],
+    "answerEvidence": "もう一つの",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-00163",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "unlike in nature or quality or form or degree",
+          "distinctly separate from the first",
+          "differing from all others; not ordinary"
+        ]
+      }
+    ],
+    "answerEvidence": "異なった",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-00378",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "(used with count nouns) of an indefinite number more than 2 or 3 but not many",
+          "considered individually",
+          "distinct and individual"
+        ]
+      }
+    ],
+    "answerEvidence": "いくつかの",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-00385",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "involving or characteristic of politics or parties or politicians",
+          "of or relating to your views about social relationships involving authority or power",
+          "of or relating to the profession of governing"
+        ]
+      }
+    ],
+    "answerEvidence": "政治の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-00509",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "of or relating to an economy, the system of production and management of material wealth",
+          "of or relating to the science of economics",
+          "using the minimum of time or resources necessary for effectiveness"
+        ]
+      }
+    ],
+    "answerEvidence": "経済の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-00585",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "involving financial matters"
+        ]
+      }
+    ],
+    "answerEvidence": "財政上の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-00639",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "of concern to or concerning the affairs of other nations (other than your own)",
+          "relating to or originating in or characteristic of another place or part of the world",
+          "not contained in or deriving from the essential nature of something"
+        ]
+      }
+    ],
+    "answerEvidence": "外国の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-00668",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "new",
+          "of the immediate past or just previous to the present time"
+        ]
+      }
+    ],
+    "answerEvidence": "最近の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-00948",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "just preceding something else in time or order",
+          "(used especially of persons) of the immediate past",
+          "too soon or too hasty"
+        ]
+      }
+    ],
+    "answerEvidence": "前の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-01003",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "established by or founded upon law or official or accepted rules",
+          "of or relating to jurisprudence",
+          "having legal efficacy or force"
+        ]
+      }
+    ],
+    "answerEvidence": "法律の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-01015",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "further or added"
+        ]
+      }
+    ],
+    "answerEvidence": "追加の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-01051",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "of or relating to the central government of a federation",
+          "characterized by or constituting a form of government in which power is divided between one central and several regional authorities",
+          "national; especially in reference to the government of the United States as distinct from that of its member units"
+        ]
+      }
+    ],
+    "answerEvidence": "連邦の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-01149",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "involving the body as distinguished from the mind or spirit",
+          "relating to the sciences dealing with matter and energy; especially physics",
+          "having substance or material existence; perceptible to the senses"
+        ]
+      }
+    ],
+    "answerEvidence": "身体の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-01176",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "(weapons) deriving destructive energy from the release of atomic energy",
+          "of or relating to or constituting the nucleus of an atom",
+          "of or relating to or constituting the nucleus of a cell"
+        ]
+      }
+    ],
+    "answerEvidence": "核の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-01344",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "of or relating to the external conditions or surroundings",
+          "concerned with the ecological effects of altering the environment"
+        ]
+      }
+    ],
+    "answerEvidence": "環境の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-01388",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "of or relating to the study of history",
+          "having once lived or existed or taken place in the real world as distinct from being legendary",
+          "belonging to the past; of what is important or famous in the past"
+        ]
+      }
+    ],
+    "answerEvidence": "歴史の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-01429",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "presently existing in fact and not merely potential or possible",
+          "taking place in reality; not pretended or imitated",
+          "being or reflecting the essential or genuine character of something"
+        ]
+      }
+    ],
+    "answerEvidence": "現実の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-01431",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "of or belonging to a corporation",
+          "possessing or existing in bodily form",
+          "done by or characteristic of individuals acting together"
+        ]
+      }
+    ],
+    "answerEvidence": "法人の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-01451",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "occurring or encountered or experienced or observed frequently or in accordance with regular practice or procedure",
+          "commonly encountered"
+        ]
+      }
+    ],
+    "answerEvidence": "いつもの",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-01484",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "applying to ordinary citizens as contrasted with the military",
+          "not rude; marked by satisfactory (or especially minimal) adherence to social usages and sufficient but not noteworthy consideration for others",
+          "of or occurring within the state or between or among citizens of the state"
+        ]
+      }
+    ],
+    "answerEvidence": "市民の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-01492",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "of or relating to or resulting from industry",
+          "having highly developed industries",
+          "employed in industry"
+        ]
+      }
+    ],
+    "answerEvidence": "産業の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-01533",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "happening or arising or located within some limits or especially surface",
+          "occurring within an institution or community",
+          "inside the country"
+        ]
+      }
+    ],
+    "answerEvidence": "内部の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-01632",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "of or relating to or characterized by sexuality",
+          "having or involving sex",
+          "involved in a sexual relationship"
+        ]
+      }
+    ],
+    "answerEvidence": "性の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-01657",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "relating to a president or presidency",
+          "befitting a president"
+        ]
+      }
+    ],
+    "answerEvidence": "大統領の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-01661",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "large or relatively large in number or amount or extent or degree"
+        ]
+      }
+    ],
+    "answerEvidence": "かなりの",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-01664",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "radically distinctive and without equal",
+          "(followed by `to') applying exclusively to a given category or condition or locality",
+          "the single one of its kind"
+        ]
+      }
+    ],
+    "answerEvidence": "独特の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-01689",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "on a regular route of a railroad or bus or airline system",
+          "connected to a computer network or accessible by computer",
+          "being in progress now"
+        ]
+      }
+    ],
+    "answerEvidence": "オンラインの",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-01695",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "involving the mind or an intellectual process",
+          "of or relating to the mind",
+          "of or relating to the chin- or liplike structure in insects and certain mollusks"
+        ]
+      }
+    ],
+    "answerEvidence": "精神の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-01718",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "of or relating to electronics; concerned with or using devices that operate on principles governing the behavior of electrons",
+          "of or concerned with electrons"
+        ]
+      }
+    ],
+    "answerEvidence": "電子の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-01721",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "in or characteristic of a region of the United States north of (approximately) the Mason-Dixon line",
+          "oriented toward the north",
+          "coming from the north; used especially of wind"
+        ]
+      }
+    ],
+    "answerEvidence": "北の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-01792",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "characteristic of a region",
+          "related or limited to a particular region"
+        ]
+      }
+    ],
+    "answerEvidence": "地方の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-01824",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "of or relating to the practice of science",
+          "conforming with the principles or methods used in science"
+        ]
+      }
+    ],
+    "answerEvidence": "科学の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-01836",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "involving competition or competitiveness",
+          "subscribing to capitalistic competition",
+          "showing a fighting disposition"
+        ]
+      }
+    ],
+    "answerEvidence": "競争の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-01871",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "of considerable importance, size, or worth",
+          "of or relating to the real nature or essential elements of something",
+          "having substance or capable of being treated as fact; not imaginary"
+        ]
+      }
+    ],
+    "answerEvidence": "かなりの",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-01876",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "feeling or showing anger",
+          "(of the elements) as if showing violent anger",
+          "severely inflamed and painful"
+        ]
+      }
+    ],
+    "answerEvidence": "怒った",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-01890",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "determined or actuated by emotion rather than reason",
+          "of more than usual emotion",
+          "of or pertaining to emotion"
+        ]
+      }
+    ],
+    "answerEvidence": "感情の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-01896",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "in or characteristic of a region of the United States south of (approximately) the Mason-Dixon line",
+          "situated in or oriented toward the south",
+          "situated in or coming from regions of the south"
+        ]
+      }
+    ],
+    "answerEvidence": "南の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-01912",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "of the present time and place",
+          "very close or connected in space or time",
+          "having no intervening medium"
+        ]
+      }
+    ],
+    "answerEvidence": "即座の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-01942",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "relating to or concerned with a city or densely populated area",
+          "located in or characteristic of a city or city life"
+        ]
+      }
+    ],
+    "answerEvidence": "都市の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-01980",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "relating to a clinic or conducted in or as if in a clinic and depending on direct observation of patients",
+          "scientifically detached; unemotional"
+        ]
+      }
+    ],
+    "answerEvidence": "臨床の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-01993",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "occurring by chance",
+          "having or bringing good fortune",
+          "presaging or likely to bring good luck or a good outcome"
+        ]
+      }
+    ],
+    "answerEvidence": "幸運な",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-01996",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "relating to the process of education",
+          "providing knowledge"
+        ]
+      }
+    ],
+    "answerEvidence": "教育の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-02000",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "happening without warning or in a short space of time"
+        ]
+      }
+    ],
+    "answerEvidence": "突然の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-02012",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "of or relating to the countryside as opposed to the city; living in or characteristic of farming or country life"
+        ]
+      }
+    ],
+    "answerEvidence": "田舎の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-02020",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "following in time or order"
+        ]
+      }
+    ],
+    "answerEvidence": "後の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-02157",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "found in the ordinary course of events",
+          "appropriate for ordinary or routine occasions",
+          "commonplace and ordinary"
+        ]
+      }
+    ],
+    "answerEvidence": "毎日の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-02165",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "relating to or used in or promoting agriculture or farming",
+          "relating to farming or agriculture"
+        ]
+      }
+    ],
+    "answerEvidence": "農業の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-02172",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "displaying numbers rather than scale positions",
+          "relating to or performed with the fingers",
+          "of a circuit or device that represents magnitudes in digits"
+        ]
+      }
+    ],
+    "answerEvidence": "デジタルの",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-02232",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "lacking any definite plan or order or purpose; governed by or depending on chance"
+        ]
+      }
+    ],
+    "answerEvidence": "無作為の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-02245",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "responsible for or chargeable with a reprehensible act",
+          "showing a sense of guilt"
+        ]
+      }
+    ],
+    "answerEvidence": "有罪の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-02279",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "common to or shared by two or more parties",
+          "concerning each of two or more persons or things; especially given or done in return"
+        ]
+      }
+    ],
+    "answerEvidence": "相互の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-02289",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "following accepted customs and proprieties",
+          "conforming with accepted standards",
+          "(weapons) using energy for propulsion or destruction that is not nuclear energy"
+        ]
+      }
+    ],
+    "answerEvidence": "型にはまった",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-02307",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "relating to or using sight",
+          "visible"
+        ]
+      }
+    ],
+    "answerEvidence": "視覚の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-02346",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "located inward",
+          "located or occurring within or closer to a center",
+          "innermost or essential"
+        ]
+      }
+    ],
+    "answerEvidence": "内側の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-02385",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "lying toward or situated in the east",
+          "of or characteristic of eastern regions of the United States",
+          "lying in or toward the east"
+        ]
+      }
+    ],
+    "answerEvidence": "東の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-02399",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "prohibited by law or by official or accepted rules"
+        ]
+      }
+    ],
+    "answerEvidence": "不法の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-02437",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "of or relating to or characteristic of literature",
+          "knowledgeable about literature",
+          "appropriate to literature rather than everyday speech or writing"
+        ]
+      }
+    ],
+    "answerEvidence": "文学の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-02438",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "relating to or based on experiment",
+          "relying on observation or experiment",
+          "of the nature of or undergoing an experiment"
+        ]
+      }
+    ],
+    "answerEvidence": "実験の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-02450",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "(often followed by `from') not alike; different in nature or quality",
+          "easy to perceive; especially clearly outlined",
+          "constituting a separate entity or part"
+        ]
+      }
+    ],
+    "answerEvidence": "別の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-02489",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "characterized by or advocating or based upon the principles of democracy or social equality",
+          "representing or appealing to or adapted for the benefit of the people at large"
+        ]
+      }
+    ],
+    "answerEvidence": "民主主義の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-02520",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "mental or emotional as opposed to physical in nature",
+          "of or relating to or determined by psychology"
+        ]
+      }
+    ],
+    "answerEvidence": "心理学の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-02521",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "relating to or constituting or involving an institution",
+          "organized as or forming an institution",
+          "characteristic or suggestive of an institution especially in being uniform or dull or unimaginative"
+        ]
+      }
+    ],
+    "answerEvidence": "制度の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-02525",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "designed for or capable of a particular function or use",
+          "involving or affecting function rather than physiology",
+          "relating to or based on function especially as opposed to structure"
+        ]
+      }
+    ],
+    "answerEvidence": "機能上の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-02537",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "made or consisting of (entirely or in part) or employing wood",
+          "lacking ease or grace"
+        ]
+      }
+    ],
+    "answerEvidence": "木製の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-02606",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "of or related to genetically distinguished groups of people",
+          "of or characteristic of race or races or arising from differences among groups"
+        ]
+      }
+    ],
+    "answerEvidence": "人種の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-02644",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "relating to or caused by structure, especially political or economic structure",
+          "relating to or having or characterized by structure",
+          "affecting or involved in structure or construction"
+        ]
+      }
+    ],
+    "answerEvidence": "構造の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-02733",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "having the deep slightly brownish color of gold",
+          "marked by peace and prosperity",
+          "made from or covered with gold"
+        ]
+      }
+    ],
+    "answerEvidence": "金の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-02789",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "not fake or counterfeit",
+          "not pretended; sincerely felt or expressed",
+          "being or reflecting the essential or genuine character of something"
+        ]
+      }
+    ],
+    "answerEvidence": "本物の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-02829",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "employed in accomplishing something",
+          "(of persons) taken advantage of",
+          "previously used or owned by another"
+        ]
+      }
+    ],
+    "answerEvidence": "中古の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-02862",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "set aside for the use of a particular person or party",
+          "marked by self-restraint and reticence"
+        ]
+      }
+    ],
+    "answerEvidence": "予約済みの",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-03252",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "presently existing",
+          "having existence or being or actuality",
+          "existing in something specified"
+        ]
+      }
+    ],
+    "answerEvidence": "既存の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-03329",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "located, suited for, or taking place in the open air",
+          "pertaining to or concerning the outdoors or outdoor activities"
+        ]
+      }
+    ],
+    "answerEvidence": "屋外の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-03369",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "being actually such in almost every respect",
+          "existing in essence or effect though not in actual fact"
+        ]
+      }
+    ],
+    "answerEvidence": "仮想の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-03433",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "considered individually"
+        ]
+      }
+    ],
+    "answerEvidence": "それぞれの",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-03460",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "concerned with concrete problems or data rather than with fundamental principles"
+        ]
+      }
+    ],
+    "answerEvidence": "応用の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-03493",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "of or relating to motor vehicles",
+          "containing within itself the means of propulsion or movement"
+        ]
+      }
+    ],
+    "answerEvidence": "自動車の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-03494",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "having no clothes on the body",
+          "having no protecting or concealing cover",
+          "(of the eye or ear e.g.) without the aid of an optical or acoustical device or instrument"
+        ]
+      }
+    ],
+    "answerEvidence": "裸の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-03533",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "possible but not necessary; left to personal choice"
+        ]
+      }
+    ],
+    "answerEvidence": "任意の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-03593",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "of or relating to or responsible for administration"
+        ]
+      }
+    ],
+    "answerEvidence": "行政の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-03649",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "endorsed authoritatively as having met certain requirements",
+          "fit to be certified as insane (and treated accordingly)",
+          "holding appropriate documentation and officially on record as qualified to perform a specified function or practice a specified skill"
+        ]
+      }
+    ],
+    "answerEvidence": "公認の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-03661",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "not able to be found",
+          "nonexistent"
+        ]
+      }
+    ],
+    "answerEvidence": "行方不明の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-03719",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "relating to or concerned with electricity",
+          "using or providing or producing or transmitting or operated by electricity"
+        ]
+      }
+    ],
+    "answerEvidence": "電気の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-03750",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "declared as fact; explicitly stated"
+        ]
+      }
+    ],
+    "answerEvidence": "決まった",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-03770",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "having no known name or identity or known source",
+          "not known or lacking marked individuality"
+        ]
+      }
+    ],
+    "answerEvidence": "匿名の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-03830",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "used or designed for residence or limited to residences",
+          "of or relating to or connected with residence"
+        ]
+      }
+    ],
+    "answerEvidence": "住宅の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-03907",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "of or relating to the system for delivering mail"
+        ]
+      }
+    ],
+    "answerEvidence": "郵便の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-03935",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "consisting of or involving two parts or components usually in pairs",
+          "having more than one decidedly dissimilar aspects or qualities",
+          "a grammatical number category referring to two items or units as opposed to one item (singular) or more than two items (plural)"
+        ]
+      }
+    ],
+    "answerEvidence": "二重の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-04072",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "of or relating to or involving light or optics",
+          "relating to or using sight",
+          "of or relating to or resembling the eye"
+        ]
+      }
+    ],
+    "answerEvidence": "光学の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-04083",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "of or relating to or being a communications network in which the bandwidth can be divided and shared by multiple simultaneous signals (as for voice or data or video)",
+          "responding to or operating at a wide band of frequencies"
+        ]
+      }
+    ],
+    "answerEvidence": "広帯域の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-04142",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "consisting of a haphazard assortment of different kinds",
+          "involving or composed of different races"
+        ]
+      }
+    ],
+    "answerEvidence": "混合の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-04144",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "between races",
+          "involving or composed of different races"
+        ]
+      }
+    ],
+    "answerEvidence": "異人種間の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-04206",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "exhibiting or calling for sportsmanship or fair play",
+          "relating to or used in sports",
+          "involving risk or willingness to take a risk"
+        ]
+      }
+    ],
+    "answerEvidence": "スポーツの",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-04254",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "easy and not involved or complicated",
+          "of or pertaining to or characteristic of elementary school or elementary education",
+          "of or being the essential or basic part"
+        ]
+      }
+    ],
+    "answerEvidence": "初歩の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-04259",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "having no limits in range or scope",
+          "without reservation or exception",
+          "that cannot be entirely consumed or used up"
+        ]
+      }
+    ],
+    "answerEvidence": "無制限の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-04283",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "involving financial matters"
+        ]
+      }
+    ],
+    "answerEvidence": "財政の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-04318",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "of the relatively near future"
+        ]
+      }
+    ],
+    "answerEvidence": "今度の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-04324",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "designating or involving an equation whose terms are of the first degree",
+          "of or in or along or relating to a line; involving or having a single dimension",
+          "of a circuit or device having an output that is proportional to the input"
+        ]
+      }
+    ],
+    "answerEvidence": "線形の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-04360",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "according with custom or propriety",
+          "displaying or setting off to best advantage"
+        ]
+      }
+    ],
+    "answerEvidence": "似合った",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-04388",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "final or last in your life or progress",
+          "greatest in status or authority or power",
+          "highest in excellence or achievement"
+        ]
+      }
+    ],
+    "answerEvidence": "最高の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-04513",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "relating to or derived from the sun or utilizing the energies of the sun"
+        ]
+      }
+    ],
+    "answerEvidence": "太陽の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-04592",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "of or relating to or caused by magnetism",
+          "having the properties of a magnet; i.e. of attracting iron or steel",
+          "capable of being magnetized"
+        ]
+      }
+    ],
+    "answerEvidence": "磁気の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-04612",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "using (or as if using) mechanisms or tools or devices",
+          "relating to or concerned with machinery or tools",
+          "relating to or governed by or in accordance with mechanics"
+        ]
+      }
+    ],
+    "answerEvidence": "機械の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-04689",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "relating to a legislature or composed of members of a legislature",
+          "of or relating to or created by legislation"
+        ]
+      }
+    ],
+    "answerEvidence": "立法の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-04702",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "relating to or produced by or consisting of molecules",
+          "relating to simple or elementary organization"
+        ]
+      }
+    ],
+    "answerEvidence": "分子の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-04715",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "of or relating to statistics"
+        ]
+      }
+    ],
+    "answerEvidence": "統計の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-04775",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "having notes of fixed rhythmic value",
+          "the rhythmic arrangement of syllables",
+          "carefully thought out in advance"
+        ]
+      }
+    ],
+    "answerEvidence": "正確に測った",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-04829",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "pertaining to a process or series of actions for achieving a result",
+          "fit or ready for use or service",
+          "(military) of or intended for or involved in military operations"
+        ]
+      }
+    ],
+    "answerEvidence": "操作上の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-04869",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "currently happening"
+        ]
+      }
+    ],
+    "answerEvidence": "進行中の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-04957",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "relating or belonging to or characteristic of a municipality",
+          "of or relating to the government of a municipality"
+        ]
+      }
+    ],
+    "answerEvidence": "市の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-04998",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "relating to or situated in or characteristic of the tropics (the region on either side of the equator)",
+          "of or relating to the tropics, or either tropic",
+          "characterized by or of the nature of a trope or tropes; changed from its literal sense"
+        ]
+      }
+    ],
+    "answerEvidence": "熱帯の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-05018",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "closely encircling"
+        ]
+      }
+    ],
+    "answerEvidence": "周囲の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-05023",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "patterned with alternating squares of color"
+        ]
+      }
+    ],
+    "answerEvidence": "チェック柄の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-05229",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "required or under orders",
+          "mistakenly believed",
+          "doubtful or suspect"
+        ]
+      }
+    ],
+    "answerEvidence": "想定された，～のはずの",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-05240",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "lacking definite form or limits",
+          "full of or covered with clouds",
+          "(of liquids) clouded as with sediment"
+        ]
+      }
+    ],
+    "answerEvidence": "曇った",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-05274",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "relating to or befitting athletics or athletes",
+          "vigorously active",
+          "having a sturdy and well proportioned body"
+        ]
+      }
+    ],
+    "answerEvidence": "運動競技の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-05278",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "of or relating to a coast",
+          "located on or near or bordering on a coast",
+          "along or following a coast"
+        ]
+      }
+    ],
+    "answerEvidence": "沿岸の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-05329",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "located, suited for, or taking place within a building",
+          "within doors"
+        ]
+      }
+    ],
+    "answerEvidence": "室内の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-05372",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "being long-lasting and recurrent or characterized by long suffering",
+          "persisting for a long time",
+          "habitual"
+        ]
+      }
+    ],
+    "answerEvidence": "慢性の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-05474",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "of or relating to serving as publicity",
+          "of or relating to advancement"
+        ]
+      }
+    ],
+    "answerEvidence": "促進の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-05527",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "of or relating to or concerning the American colonies during and immediately after the American Revolutionary War",
+          "of or relating to or characteristic of a continent",
+          "being or concerning or limited to a continent especially the continents of North America or Europe"
+        ]
+      }
+    ],
+    "answerEvidence": "大陸の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-05565",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "marked by features of the immediate and usually discounted past"
+        ]
+      }
+    ],
+    "answerEvidence": "時代遅れの",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-05622",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "awaiting conclusion or confirmation"
+        ]
+      }
+    ],
+    "answerEvidence": "保留中の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-05650",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "assembled for use; especially by being attached to a support",
+          "decorated with applied ornamentation; often used in combination"
+        ]
+      }
+    ],
+    "answerEvidence": "馬に乗った",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-05657",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "of or relating to the activity or business for which you are trained"
+        ]
+      }
+    ],
+    "answerEvidence": "職業の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-05659",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "decreed by or proceeding from a court of justice",
+          "belonging or appropriate to the office of a judge",
+          "relating to the administration of justice or the function of a judge"
+        ]
+      }
+    ],
+    "answerEvidence": "司法の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-05665",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "having ones attention or mind or energy engaged",
+          "involved in military hostilities",
+          "reserved in advance"
+        ]
+      }
+    ],
+    "answerEvidence": "婚約中の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-05724",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "adopted in order to deceive"
+        ]
+      }
+    ],
+    "answerEvidence": "仮定された，見せかけの",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-05761",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "used of the younger of two persons of the same name especially used to distinguish a son from his father"
+        ]
+      }
+    ],
+    "answerEvidence": "年下の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-05800",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "the least possible"
+        ]
+      }
+    ],
+    "answerEvidence": "最小限の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-05801",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "having two or more phonetic values",
+          "of or relating to or characterized by polyphony",
+          "having two or more independent but harmonically related melodic parts sounding together"
+        ]
+      }
+    ],
+    "answerEvidence": "対位法の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-05814",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "relating to or expressed by a writing system that uses an alphabet",
+          "arranged in order according to the alphabet"
+        ]
+      }
+    ],
+    "answerEvidence": "アルファベット順の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-05929",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "being on the outside or further from a center",
+          "located outside",
+          "being on or toward the outside of the body"
+        ]
+      }
+    ],
+    "answerEvidence": "外側の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-05947",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "of or relating to an organization"
+        ]
+      }
+    ],
+    "answerEvidence": "組織上の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-05956",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "contrary to your interests or welfare",
+          "in an opposing direction"
+        ]
+      }
+    ],
+    "answerEvidence": "逆の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-06011",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "of or pertaining to or of the nature of mathematics",
+          "relating to or having ability to think in or work with numbers",
+          "beyond question"
+        ]
+      }
+    ],
+    "answerEvidence": "数学の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-06016",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "concerned with diagnosis; used for furthering diagnosis",
+          "characteristic or indicative of a disease"
+        ]
+      }
+    ],
+    "answerEvidence": "診断の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-06023",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "entrusted with private information and the confidence of another",
+          "(of information) given in confidence or in secret",
+          "denoting confidence or intimacy"
+        ]
+      }
+    ],
+    "answerEvidence": "機密の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-06025",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "relating to or created by statutes",
+          "prescribed or authorized by or punishable under a statute"
+        ]
+      }
+    ],
+    "answerEvidence": "法定の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-06048",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "intended or adapted to afford protection of some kind",
+          "showing care",
+          "(usually followed by `of') solicitously caring or mindful"
+        ]
+      }
+    ],
+    "answerEvidence": "保護の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-06053",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "having a point",
+          "direct and obvious in meaning or reference; often unpleasant"
+        ]
+      }
+    ],
+    "answerEvidence": "先のとがった",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-06137",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "resembling or made of or suggestive of flowers",
+          "relating to or associated with flowers",
+          "of or relating to the plant life in a particular region"
+        ]
+      }
+    ],
+    "answerEvidence": "花の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-06145",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "of or concerned with or related to the future"
+        ]
+      }
+    ],
+    "answerEvidence": "将来の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-06149",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "contrived by art rather than nature",
+          "artificially formal",
+          "not arising from natural growth or characterized by vital processes"
+        ]
+      }
+    ],
+    "answerEvidence": "人工の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-06173",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "of or relating to dimensions",
+          "having dimension--the quality or character or stature proper to a person"
+        ]
+      }
+    ],
+    "answerEvidence": "寸法の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-06250",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "of or relating or belonging to a city",
+          "of or relating to or befitting citizens as individuals"
+        ]
+      }
+    ],
+    "answerEvidence": "市民の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-06264",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "conforming to fact and therefore worthy of belief",
+          "not counterfeit or copied"
+        ]
+      }
+    ],
+    "answerEvidence": "本物の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-06270",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "of or pertaining to the art and science of architecture"
+        ]
+      }
+    ],
+    "answerEvidence": "建築の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-06326",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "動詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "having a heading or course in a certain direction",
+          "having a heading or caption",
+          "having a head of a specified kind or anything that serves as a head; often used in combination"
+        ]
+      }
+    ],
+    "answerEvidence": "（～へ）向かった",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-06366",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "of or relating to or comprising atoms",
+          "(weapons) deriving destructive energy from the release of atomic energy",
+          "immeasurably small"
+        ]
+      }
+    ],
+    "answerEvidence": "原子の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-06400",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "of hair color; pale yellowish to yellowish brown",
+          "resembling or containing or abounding in sand; or growing in sandy areas"
+        ]
+      }
+    ],
+    "answerEvidence": "砂の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-06415",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "being or from or characteristic of another place or part of the world",
+          "strikingly strange or unusual"
+        ]
+      }
+    ],
+    "answerEvidence": "異国風の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-06426",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "of or relating to or involving or used in surgery",
+          "relating to or requiring or amenable to treatment by surgery especially as opposed to medicine",
+          "performed with great precision"
+        ]
+      }
+    ],
+    "answerEvidence": "外科の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-06460",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "having elegance or taste or refinement in manners or dress",
+          "being or in accordance with current social fashions"
+        ]
+      }
+    ],
+    "answerEvidence": "流行の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-06487",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "of or relating to or used in instruction"
+        ]
+      }
+    ],
+    "answerEvidence": "教育用の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-06498",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "extremely crowed or filled to capacity",
+          "pressed together or compressed"
+        ]
+      }
+    ],
+    "answerEvidence": "満員の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-06530",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "pertaining to or involving or having the nature of space"
+        ]
+      }
+    ],
+    "answerEvidence": "空間の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-06598",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "based in scientific and industrial progress",
+          "of or relating to a practical subject that is organized according to scientific principles"
+        ]
+      }
+    ],
+    "answerEvidence": "科学技術の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-06623",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "relating to or dealing with the affairs or structure of government or politics or the state"
+        ]
+      }
+    ],
+    "answerEvidence": "政府の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-06669",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "exactly alike; incapable of being perceived as different",
+          "being the exact same one; not any other:",
+          "(of twins) derived from a single egg or ovum"
+        ]
+      }
+    ],
+    "answerEvidence": "同一の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-06699",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "of or relating to recreation",
+          "engaged in as a pastime"
+        ]
+      }
+    ],
+    "answerEvidence": "娯楽の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-06862",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "of or relating to congress"
+        ]
+      }
+    ],
+    "answerEvidence": "国会の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-06870",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "relating to photography or obtained by using photography",
+          "representing people or nature with the exactness and fidelity of a photograph"
+        ]
+      }
+    ],
+    "answerEvidence": "写真の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-06917",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "(of persons) befitting a warrior",
+          "suggesting war or military life",
+          "of or relating to the armed forces"
+        ]
+      }
+    ],
+    "answerEvidence": "軍事の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-06953",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "originating where it is found"
+        ]
+      }
+    ],
+    "answerEvidence": "土着の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-07021",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "relating to or involving money"
+        ]
+      }
+    ],
+    "answerEvidence": "貨幣の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-07050",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "relating to or characteristic of a tribe"
+        ]
+      }
+    ],
+    "answerEvidence": "部族の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-07175",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "of or being or relating to or involving cognition"
+        ]
+      }
+    ],
+    "answerEvidence": "認知の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-07223",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "measured or expressed in numbers",
+          "of or relating to or denoting numbers",
+          "relating to or having ability to think in or work with numbers"
+        ]
+      }
+    ],
+    "answerEvidence": "数値の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-07241",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "connected with or belonging to or used in a navy"
+        ]
+      }
+    ],
+    "answerEvidence": "海軍の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-07274",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "not having a cord"
+        ]
+      }
+    ],
+    "answerEvidence": "コードレスの",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-07374",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "of or relating to a vocation or occupation; especially providing or undergoing training in special skills"
+        ]
+      }
+    ],
+    "answerEvidence": "職業の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-07394",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "being the right size and shape to fit as desired"
+        ]
+      }
+    ],
+    "answerEvidence": "ぴったり合った，取り付けの",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-07403",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "of or relating to or constituting development"
+        ]
+      }
+    ],
+    "answerEvidence": "発達上の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-07451",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "having a pair of equal and opposite charges",
+          "characterized by opposite extremes; completely opposed",
+          "located at or near or coming from the earth's poles"
+        ]
+      }
+    ],
+    "answerEvidence": "極地の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-07454",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "pertaining to respiration"
+        ]
+      }
+    ],
+    "answerEvidence": "呼吸の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-07562",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "bounded or limited in magnitude or spatial or temporal extent",
+          "(of verbs) relating to forms of the verb that are limited in time by a tense and (usually) show agreement with number and person"
+        ]
+      }
+    ],
+    "answerEvidence": "有限の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-07696",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "(of speed) having or caused by speed approximately equal to that of sound in air at sea level",
+          "relating to audible sound"
+        ]
+      }
+    ],
+    "answerEvidence": "音の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-07772",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "provided with whatever is necessary for a purpose (as furniture or equipment or authority)"
+        ]
+      }
+    ],
+    "answerEvidence": "家具付きの",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-07818",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "characterized by the interdependence of living organisms in an environment",
+          "of or relating to the science of ecology"
+        ]
+      }
+    ],
+    "answerEvidence": "生態学の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-07827",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "relating to or involving ships or shipping or navigation or seamen",
+          "bordering on or living or characteristic of those near the sea"
+        ]
+      }
+    ],
+    "answerEvidence": "海事の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-07869",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "continuing forever or indefinitely",
+          "tiresomely long; seemingly without end"
+        ]
+      }
+    ],
+    "answerEvidence": "永遠の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-07944",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "sufficiently fat so as to have a pleasing fullness of figure"
+        ]
+      }
+    ],
+    "answerEvidence": "丸々と太った",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-07972",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "beyond normal limits",
+          "unrestrained, especially with regard to feelings"
+        ]
+      }
+    ],
+    "answerEvidence": "過度の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-08023",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "of or relating to or providing nutrition"
+        ]
+      }
+    ],
+    "answerEvidence": "栄養の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-08136",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "compelling immediate action"
+        ]
+      }
+    ],
+    "answerEvidence": "緊急の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-08217",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "relating to or having the nature of a parliament",
+          "having the supreme legislative power resting with a body of cabinet ministers chosen from and responsible to the legislature or parliament",
+          "in accord with rules and customs of a legislative or deliberative assembly"
+        ]
+      }
+    ],
+    "answerEvidence": "議会の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-08342",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "having a quality that thrusts itself into attention",
+          "conspicuous in position or importance"
+        ]
+      }
+    ],
+    "answerEvidence": "目立った",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-08357",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "occurring from time to time",
+          "occurring or appearing at usually irregular intervals",
+          "occurring on a temporary or irregular basis"
+        ]
+      }
+    ],
+    "answerEvidence": "時折の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-08496",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "widely circulated or diffused",
+          "distributed over a considerable extent"
+        ]
+      }
+    ],
+    "answerEvidence": "広範囲の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-08515",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "feeling hunger; feeling a need or desire to eat food",
+          "(usually followed by `for') extremely desirous"
+        ]
+      }
+    ],
+    "answerEvidence": "空腹の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-08534",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "designating the generation of organisms from which hybrid offspring are produced",
+          "relating to or characteristic of or befitting a parent"
+        ]
+      }
+    ],
+    "answerEvidence": "親の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-08648",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "caused by infection or capable of causing infection",
+          "easily spread",
+          "of or relating to infection"
+        ]
+      }
+    ],
+    "answerEvidence": "伝染性の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-08668",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "completely enveloping"
+        ]
+      }
+    ],
+    "answerEvidence": "周囲の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-08674",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "(of hair) colored a moderate reddish-brown"
+        ]
+      }
+    ],
+    "answerEvidence": "赤褐色の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-08731",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "relating to or caused by a virus"
+        ]
+      }
+    ],
+    "answerEvidence": "ウイルスの",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-08847",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "having or localized centrally at a focus",
+          "of or relating to a focus"
+        ]
+      }
+    ],
+    "answerEvidence": "焦点の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-08864",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "possessing or using or characteristic of or appropriate to supernatural powers"
+        ]
+      }
+    ],
+    "answerEvidence": "魔法の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-08872",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "moved or operated or effected by liquid (water or oil)",
+          "of or relating to the study of hydraulics"
+        ]
+      }
+    ],
+    "answerEvidence": "水圧の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-08915",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "constituting a separate entity or part"
+        ]
+      }
+    ],
+    "answerEvidence": "個別の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-08921",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "involving the cube and no higher power of a quantity or variable",
+          "having the shape of a cube; having three dimensions"
+        ]
+      }
+    ],
+    "answerEvidence": "立方の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-08950",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "producing new life or offspring"
+        ]
+      }
+    ],
+    "answerEvidence": "生殖の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-09006",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "of or pertaining to or involving the heart and blood vessels"
+        ]
+      }
+    ],
+    "answerEvidence": "心臓血管の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-09008",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "of or relating to the heart"
+        ]
+      }
+    ],
+    "answerEvidence": "心臓の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-09060",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "relating to or characteristic of or situated in suburbs"
+        ]
+      }
+    ],
+    "answerEvidence": "郊外の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-09083",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "relating to or caused by bacteria"
+        ]
+      }
+    ],
+    "answerEvidence": "細菌の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-09131",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "serving to open or begin",
+          "serving as a base or starting point",
+          "serving as an introduction or preface"
+        ]
+      }
+    ],
+    "answerEvidence": "入門の，序論の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-09144",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "relating to discipline in behavior",
+          "relating to a specific field of academic study",
+          "designed to promote discipline"
+        ]
+      }
+    ],
+    "answerEvidence": "規律の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-09165",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "conveying or resembling a compliment",
+          "costing nothing"
+        ]
+      }
+    ],
+    "answerEvidence": "無料の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-09203",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "(of flora or fauna) in imminent danger of extinction"
+        ]
+      }
+    ],
+    "answerEvidence": "絶滅寸前の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-09219",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "of or relating to elections",
+          "relating to or composed of electors"
+        ]
+      }
+    ],
+    "answerEvidence": "選挙の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-09290",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "tiresomely long; seemingly without end",
+          "infinitely great in number",
+          "having no known beginning and presumably no end"
+        ]
+      }
+    ],
+    "answerEvidence": "無限の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-09291",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "(of e.g. fabric design) adorned with patterns"
+        ]
+      }
+    ],
+    "answerEvidence": "模様入りの",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-09321",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "compacted by ironing"
+        ]
+      }
+    ],
+    "answerEvidence": "プレス加工の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-09391",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "of or relating to the nervous system",
+          "of or relating to neurons"
+        ]
+      }
+    ],
+    "answerEvidence": "神経の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-09404",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "made by hand or a hand process"
+        ]
+      }
+    ],
+    "answerEvidence": "手作りの",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-09423",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "of or relating to or formed from words in general",
+          "of or relating to or formed from a verb",
+          "relating to or having facility in the use of words"
+        ]
+      }
+    ],
+    "answerEvidence": "言葉の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-09538",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "so celebrated as to having taken on the nature of a legend",
+          "celebrated in fable or legend"
+        ]
+      }
+    ],
+    "answerEvidence": "伝説の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-09562",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "of or relating to a department"
+        ]
+      }
+    ],
+    "answerEvidence": "部門の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-09608",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "qualified by reservations",
+          "imposing or depending on or containing a condition"
+        ]
+      }
+    ],
+    "answerEvidence": "条件付きの",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-20041",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "afflicted with or characteristic of mental derangement",
+          "very foolish"
+        ]
+      }
+    ],
+    "answerEvidence": "狂気の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-20252",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "conducted with or marked by hidden aims or methods"
+        ]
+      }
+    ],
+    "answerEvidence": "潜入捜査の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-20274",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "curved down like an eagle's beak",
+          "addicted to a drug",
+          "having or resembling a hook (especially in the ability to grasp and hold)"
+        ]
+      }
+    ],
+    "answerEvidence": "かぎ形の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-20356",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "clean or organized",
+          "showing care in execution",
+          "free from clumsiness; precisely or deftly executed"
+        ]
+      }
+    ],
+    "answerEvidence": "きちんと整った",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-20394",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "made of or containing or resembling wood",
+          "abounding in trees",
+          "made hard like wood as the result of the deposition of lignin in the cell walls"
+        ]
+      }
+    ],
+    "answerEvidence": "木質の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-20396",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "used of skin roughened as a result of cold or exposure",
+          "of paint or varnish; having the appearance of alligator hide",
+          "informal or slang terms for mentally irregular"
+        ]
+      }
+    ],
+    "answerEvidence": "ひびの入った",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-20410",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "marked by extreme and violent energy",
+          "marked by extreme anger",
+          "(of the elements) as if showing violent anger"
+        ]
+      }
+    ],
+    "answerEvidence": "怒り狂った",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-20433",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "having the attention diverted especially because of anxiety"
+        ]
+      }
+    ],
+    "answerEvidence": "気の散った",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-20434",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "very drunk"
+        ]
+      }
+    ],
+    "answerEvidence": "酔っぱらった",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-20445",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "having unlimited power"
+        ]
+      }
+    ],
+    "answerEvidence": "全能の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-20471",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "characterized by or caused by allergy",
+          "having an allergy or peculiar or excessive susceptibility (especially to a specific factor)"
+        ]
+      }
+    ],
+    "answerEvidence": "アレルギー性の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-20486",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "not causing or capable of causing harm"
+        ]
+      }
+    ],
+    "answerEvidence": "無害の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-20535",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "overfilled or compacted or concentrated"
+        ]
+      }
+    ],
+    "answerEvidence": "込み合った",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-20634",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "beneath the surface of the water",
+          "growing or remaining under water"
+        ]
+      }
+    ],
+    "answerEvidence": "水面下の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-20676",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "relating to or inhabiting a divine heaven",
+          "of or relating to the sky",
+          "of or belonging to heaven or god"
+        ]
+      }
+    ],
+    "answerEvidence": "天の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-20705",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "adopted in order to deceive"
+        ]
+      }
+    ],
+    "answerEvidence": "ふりをした，見せかけの",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-20713",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "of an instrument of certain death"
+        ]
+      }
+    ],
+    "answerEvidence": "致死の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-20735",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "given to or marked by the consumption of alcohol"
+        ]
+      }
+    ],
+    "answerEvidence": "酒に酔った",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-20740",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "of, relating to, or used in public debate or argument",
+          "used or applied in the investigation and establishment of facts or evidence in a court of law"
+        ]
+      }
+    ],
+    "answerEvidence": "法医学の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-20837",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "of or from or pertaining to or characteristic of the cosmos or universe",
+          "inconceivably extended in space or time"
+        ]
+      }
+    ],
+    "answerEvidence": "宇宙の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-20870",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "characterized by or arising from psychoneurotic hysteria",
+          "marked by excessive or uncontrollable emotion"
+        ]
+      }
+    ],
+    "answerEvidence": "ヒステリーの",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-20891",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "having no bearing on or connection with the subject at issue"
+        ]
+      }
+    ],
+    "answerEvidence": "見当違いの",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-20943",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "having or marked by bends or angles; not straight or aligned",
+          "not straight; dishonest or immoral or evasive",
+          "irregular in shape or outline"
+        ]
+      }
+    ],
+    "answerEvidence": "曲がった",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-21005",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "relating to or characteristic of diplomacy",
+          "using or marked by tact in dealing with sensitive matters or people"
+        ]
+      }
+    ],
+    "answerEvidence": "外交の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-21007",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "not feeling or showing gratitude",
+          "disagreeable"
+        ]
+      }
+    ],
+    "answerEvidence": "恩知らずの",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-21079",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "incapable of being overcome or subdued"
+        ]
+      }
+    ],
+    "answerEvidence": "無敵の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-21083",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "mentally healthy; free from mental disorder",
+          "marked by sound judgment; having good reason"
+        ]
+      }
+    ],
+    "answerEvidence": "正気の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-21175",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "of or pertaining to tactic or tactics"
+        ]
+      }
+    ],
+    "answerEvidence": "戦術上の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-21229",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "not brought to the desired final state",
+          "not brought to an end or conclusion",
+          "lacking a surface finish such as paint"
+        ]
+      }
+    ],
+    "answerEvidence": "未完成の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-21236",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "very drunk"
+        ]
+      }
+    ],
+    "answerEvidence": "ずぶぬれの",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-21287",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "made or produced in the home or by yourself"
+        ]
+      }
+    ],
+    "answerEvidence": "自家製の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-21402",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "(of weather) wet by periods of rain"
+        ]
+      }
+    ],
+    "answerEvidence": "雨の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-21410",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "easily diffused or spread as from one person to another",
+          "(of disease) capable of being transmitted by infection"
+        ]
+      }
+    ],
+    "answerEvidence": "伝染性の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-21466",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "exhibiting or caused by radioactivity"
+        ]
+      }
+    ],
+    "answerEvidence": "放射性の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-21494",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "not yet identified",
+          "being or having an unknown or unnamed source"
+        ]
+      }
+    ],
+    "answerEvidence": "未確認の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-21618",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "spiritually reborn or converted",
+          "restored to new life and vigor"
+        ]
+      }
+    ],
+    "answerEvidence": "生まれ変わった",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-21629",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "affected with or marked by frenzy or mania uncontrolled by reason"
+        ]
+      }
+    ],
+    "answerEvidence": "躁病の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-21637",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "used of hair; thick and poorly groomed",
+          "having a very rough nap or covered with hanging shags"
+        ]
+      }
+    ],
+    "answerEvidence": "毛むくじゃらの",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-21689",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "excessively quick",
+          "done with very great haste and without due deliberation"
+        ]
+      }
+    ],
+    "answerEvidence": "急ぎの",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-21698",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "containing an unusual amount of grease or oil",
+          "smeared or soiled with grease or oil"
+        ]
+      }
+    ],
+    "answerEvidence": "油だらけの",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-21702",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "resembling milk in color; not clear"
+        ]
+      }
+    ],
+    "answerEvidence": "乳白色の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-21720",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "dangerous to yourself or your interests"
+        ]
+      }
+    ],
+    "answerEvidence": "自殺の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-21746",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "of or relating to a physical injury or wound to the body",
+          "psychologically painful"
+        ]
+      }
+    ],
+    "answerEvidence": "精神的外傷の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-21768",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "devoid of warmth and cordiality; expressive of unfriendliness or disdain",
+          "extremely cold",
+          "covered with or containing or consisting of ice"
+        ]
+      }
+    ],
+    "answerEvidence": "氷の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-21787",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "recorded for broadcast",
+          "sealed in a can or jar"
+        ]
+      }
+    ],
+    "answerEvidence": "缶詰の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-21805",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "close in time; about to occur"
+        ]
+      }
+    ],
+    "answerEvidence": "差し迫った",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-21806",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "having its true character concealed with the intent of misleading",
+          "having markings suggestive of a mask"
+        ]
+      }
+    ],
+    "answerEvidence": "仮面をかぶった",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-21814",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "relating to or produced by or consisting of volcanoes",
+          "explosively unstable",
+          "igneous rock produced by eruption and solidified on or near the earth's surface; rhyolite or andesite or basalt"
+        ]
+      }
+    ],
+    "answerEvidence": "火山の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-21829",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "動詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "moved or conveyed by or through air"
+        ]
+      }
+    ],
+    "answerEvidence": "空気で運ばれる，空中の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-21843",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "of or relating to or associated with the moon"
+        ]
+      }
+    ],
+    "answerEvidence": "月の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-21865",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "full of trivial conversation"
+        ]
+      }
+    ],
+    "answerEvidence": "ひどくおしゃべりの",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-21904",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "born after a gestation period of less than the normal time",
+          "too soon or too hasty",
+          "uncommonly early or before the expected time"
+        ]
+      }
+    ],
+    "answerEvidence": "時期尚早の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-21906",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "dangerously unstable and unpredictable",
+          "tending to betray; especially having a treacherous character as attributed to the Carthaginians by the Romans"
+        ]
+      }
+    ],
+    "answerEvidence": "裏切りの",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-21932",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "fraudulent; having a misleading appearance"
+        ]
+      }
+    ],
+    "answerEvidence": "にせの",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-22012",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "of or related to the anus",
+          "a stage in psychosexual development when the child's interest is concentrated on the anal region; fixation at this stage is said to result in orderliness, meanness, stubbornness, compulsiveness, etc."
+        ]
+      }
+    ],
+    "answerEvidence": "肛門の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-22021",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "not marked by the use of reason",
+          "unresponsive to stimulation",
+          "serving no useful purpose; having no excuse for being"
+        ]
+      }
+    ],
+    "answerEvidence": "意識を失った",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-22069",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "of or relating to the sky",
+          "relating to or inhabiting a divine heaven",
+          "of heaven or the spirit"
+        ]
+      }
+    ],
+    "answerEvidence": "天の，天空の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-22122",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "inspired by love for your country"
+        ]
+      }
+    ],
+    "answerEvidence": "愛国の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-22199",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "characterized by a buoyant rhythm",
+          "moving easily and quickly; nimble"
+        ]
+      }
+    ],
+    "answerEvidence": "軽快な足どりの",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-22244",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "pertaining to or exhibiting magnetism produced by electric charge in motion"
+        ]
+      }
+    ],
+    "answerEvidence": "電磁の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-22314",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "of or belonging to or characteristic of this earth as distinguished from heaven"
+        ]
+      }
+    ],
+    "answerEvidence": "この世の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-22317",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "of or relating to or caused by gravitation"
+        ]
+      }
+    ],
+    "answerEvidence": "重力の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-22343",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "reflecting optimism",
+          "having the pinkish flush of health",
+          "of blush color"
+        ]
+      }
+    ],
+    "answerEvidence": "バラ色の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-22344",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "not solved"
+        ]
+      }
+    ],
+    "answerEvidence": "未解決の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-22386",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "forceful and extreme and rigorous"
+        ]
+      }
+    ],
+    "answerEvidence": "思い切った",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-22398",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "being or in accordance with current social fashions",
+          "having elegance or taste or refinement in manners or dress",
+          "popular and considered appealing or fashionable at the time"
+        ]
+      }
+    ],
+    "answerEvidence": "流行の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-22422",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "involving intelligence rather than emotions or instinct",
+          "of or relating to the cerebrum or brain"
+        ]
+      }
+    ],
+    "answerEvidence": "大脳の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-22458",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "continuing through life"
+        ]
+      }
+    ],
+    "answerEvidence": "生涯の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-22472",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "temporarily incapable of speaking"
+        ]
+      }
+    ],
+    "answerEvidence": "言葉を失った",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-22480",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "not of legal age",
+          "dependent by virtue of youth"
+        ]
+      }
+    ],
+    "answerEvidence": "未成年の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-22507",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "incapable of reproducing",
+          "free of or using methods to keep free of pathological microorganisms",
+          "deficient in originality or creativity; lacking powers of invention"
+        ]
+      }
+    ],
+    "answerEvidence": "不妊の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-22536",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "of or relating to the state of marriage"
+        ]
+      }
+    ],
+    "answerEvidence": "結婚の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-22545",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "pleasantly occupied"
+        ]
+      }
+    ],
+    "answerEvidence": "おもしろがった",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-22568",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "fully detailed and specific about particulars"
+        ]
+      }
+    ],
+    "answerEvidence": "状況証拠の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-22614",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "conformable to or allowed by law",
+          "according to custom or rule or natural law",
+          "having a legally established claim"
+        ]
+      }
+    ],
+    "answerEvidence": "合法の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-22652",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "extremely wicked, deeply criminal"
+        ]
+      }
+    ],
+    "answerEvidence": "極悪の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-22715",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "making claim to or creating an appearance of (often undeserved) importance or distinction",
+          "intended to attract notice and impress others",
+          "(of a display) tawdry or vulgar"
+        ]
+      }
+    ],
+    "answerEvidence": "気取った",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-22734",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "(especially of weather) affected or characterized by storms or commotion",
+          "characterized by violent emotions or behavior"
+        ]
+      }
+    ],
+    "answerEvidence": "嵐の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-22737",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "still full",
+          "not influenced or affected",
+          "not having come in contact"
+        ]
+      }
+    ],
+    "answerEvidence": "手つかずの",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-22751",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "not married or related to the unmarried state"
+        ]
+      }
+    ],
+    "answerEvidence": "未婚の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-22782",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "so surprisingly impressive as to stun or overwhelm"
+        ]
+      }
+    ],
+    "answerEvidence": "驚くほどの",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-22787",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "of or relating to a galaxy (especially our galaxy the Milky Way)",
+          "inconceivably large"
+        ]
+      }
+    ],
+    "answerEvidence": "銀河の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-22796",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "characteristic of or capable of or having a tendency toward killing another human being"
+        ]
+      }
+    ],
+    "answerEvidence": "殺人の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-22802",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "joyful and proud especially because of triumph or success",
+          "experiencing triumph"
+        ]
+      }
+    ],
+    "answerEvidence": "勝ち誇った",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-22819",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "causing or characterized by jolts and irregular movements",
+          "covered with or full of bumps"
+        ]
+      }
+    ],
+    "answerEvidence": "でこぼこの",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-22825",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "offering fun and gaiety"
+        ]
+      }
+    ],
+    "answerEvidence": "祭りの",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-22827",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "lasting for a markedly brief time"
+        ]
+      }
+    ],
+    "answerEvidence": "つかの間の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-22838",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "having or displaying warmth or affection"
+        ]
+      }
+    ],
+    "answerEvidence": "愛情のこもった",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-22850",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "of or relating to or produced by evolution"
+        ]
+      }
+    ],
+    "answerEvidence": "進化の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-22857",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "in complete agreement",
+          "acting together as a single undiversified whole"
+        ]
+      }
+    ],
+    "answerEvidence": "満場一致の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-22858",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "longing to return home"
+        ]
+      }
+    ],
+    "answerEvidence": "ホームシックの",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-22894",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "characteristic of or devoted to the temporal world as opposed to the spiritual world",
+          "very sophisticated especially because of surfeit; versed in the ways of the world"
+        ]
+      }
+    ],
+    "answerEvidence": "この世の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-22912",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "of or relating to or used in cooking"
+        ]
+      }
+    ],
+    "answerEvidence": "料理の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-22941",
+    "language": "english",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "evidence": [
+      {
+        "source": "oewn",
+        "headwordMatch": "exact",
+        "partsOfSpeech": [
+          "adjective"
+        ],
+        "glosses": [
+          "of or relating to or consisting of muscle",
+          "having a robust muscular body-build characterized by predominance of structures (bone and muscle and connective tissue) developed from the embryonic mesodermal layer",
+          "having or suggesting great physical power or force"
+        ]
+      }
+    ],
+    "answerEvidence": "筋肉の",
+    "cause": "incorrect_part_of_speech_tag",
+    "confidence": 0.99,
+    "requiresHumanReview": false
+  }
+]

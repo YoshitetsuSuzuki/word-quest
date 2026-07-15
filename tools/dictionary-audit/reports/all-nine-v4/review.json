@@ -1,0 +1,5834 @@
+[
+  {
+    "id": "en-00048",
+    "headword": "their",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-00066",
+    "headword": "very",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-00098",
+    "headword": "where",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-00110",
+    "headword": "really",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-00113",
+    "headword": "those",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-00121",
+    "headword": "before",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-00126",
+    "headword": "between",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-00132",
+    "headword": "too",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-00139",
+    "headword": "something",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-00165",
+    "headword": "next",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-00175",
+    "headword": "never",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-00188",
+    "headword": "again",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-00194",
+    "headword": "around",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-00195",
+    "headword": "during",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-00201",
+    "headword": "under",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-00203",
+    "headword": "always",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-00205",
+    "headword": "however",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-00214",
+    "headword": "since",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-00246",
+    "headword": "against",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-00247",
+    "headword": "away",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-00250",
+    "headword": "though",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-00270",
+    "headword": "far",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-00271",
+    "headword": "actually",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-00280",
+    "headword": "until",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-00287",
+    "headword": "sure",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-00289",
+    "headword": "quite",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-00293",
+    "headword": "although",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-00297",
+    "headword": "whether",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-00305",
+    "headword": "soon",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-00309",
+    "headword": "often",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-00315",
+    "headword": "rather",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-00320",
+    "headword": "anything",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-00321",
+    "headword": "together",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-00331",
+    "headword": "ever",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-00338",
+    "headword": "yet",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-00339",
+    "headword": "almost",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-00341",
+    "headword": "already",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-00343",
+    "headword": "probably",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-00346",
+    "headword": "nothing",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-00396",
+    "headword": "ago",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-00415",
+    "headword": "either",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-00417",
+    "headword": "further",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-00425",
+    "headword": "along",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-00435",
+    "headword": "toward",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-00436",
+    "headword": "please",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-00438",
+    "headword": "perhaps",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-00450",
+    "headword": "maybe",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-00455",
+    "headword": "near",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-00481",
+    "headword": "else",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-00497",
+    "headword": "especially",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-00528",
+    "headword": "themselves",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-00534",
+    "headword": "therefore",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-00535",
+    "headword": "finally",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-00570",
+    "headword": "certainly",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-00593",
+    "headword": "usually",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-00602",
+    "headword": "instead",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-00642",
+    "headword": "particularly",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-00681",
+    "headword": "simply",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-00682",
+    "headword": "recently",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-00693",
+    "headword": "myself",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-00701",
+    "headword": "exactly",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-00703",
+    "headword": "everyone",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-00752",
+    "headword": "indeed",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-00776",
+    "headword": "alone",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-00777",
+    "headword": "below",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-00810",
+    "headword": "clearly",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-00836",
+    "headword": "nearly",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-00846",
+    "headword": "quickly",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-00858",
+    "headword": "generally",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-00860",
+    "headword": "yourself",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-00872",
+    "headword": "everybody",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-00873",
+    "headword": "beyond",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-00891",
+    "headword": "worth",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-00906",
+    "headword": "obviously",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-00932",
+    "headword": "throughout",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-00946",
+    "headword": "doubt",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-00951",
+    "headword": "suddenly",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-00981",
+    "headword": "whom",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-00984",
+    "headword": "ahead",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-01011",
+    "headword": "easily",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-01028",
+    "headword": "completely",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-01035",
+    "headword": "absolutely",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-01059",
+    "headword": "immediately",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-01060",
+    "headword": "unless",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-01093",
+    "headword": "directly",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-01101",
+    "headword": "highly",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-01115",
+    "headword": "otherwise",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-01141",
+    "headword": "moreover",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-01173",
+    "headword": "slightly",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-01204",
+    "headword": "apart",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-01212",
+    "headword": "conflict",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-01240",
+    "headword": "fully",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-01271",
+    "headword": "currently",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-01276",
+    "headword": "basically",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-01302",
+    "headword": "unfortunately",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-01314",
+    "headword": "relatively",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-01346",
+    "headword": "anybody",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-01359",
+    "headword": "extremely",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-01362",
+    "headword": "apparently",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-01372",
+    "headword": "hardly",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-01376",
+    "headword": "whereas",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-01392",
+    "headword": "mostly",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-01403",
+    "headword": "furthermore",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-01458",
+    "headword": "carefully",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-01460",
+    "headword": "possibly",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-01466",
+    "headword": "slowly",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-01486",
+    "headword": "mainly",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-01489",
+    "headword": "totally",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-01493",
+    "headword": "significantly",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-01503",
+    "headword": "normally",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-01517",
+    "headword": "previously",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-01525",
+    "headword": "mobile",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-01546",
+    "headword": "largely",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-01552",
+    "headword": "familiar",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-01565",
+    "headword": "fairly",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-01579",
+    "headword": "definitely",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-01582",
+    "headword": "necessarily",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-01592",
+    "headword": "nevertheless",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-01620",
+    "headword": "strongly",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-01630",
+    "headword": "entirely",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-01637",
+    "headword": "increasingly",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-01645",
+    "headword": "respectively",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-01653",
+    "headword": "faithfully",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-01672",
+    "headword": "secondly",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-01696",
+    "headword": "specifically",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-01715",
+    "headword": "seriously",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-01717",
+    "headword": "ourselves",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-01723",
+    "headword": "somehow",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-01733",
+    "headword": "surely",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-01737",
+    "headword": "frequently",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-01755",
+    "headword": "anywhere",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-01777",
+    "headword": "widely",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-01788",
+    "headword": "approximately",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-01791",
+    "headword": "somewhat",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-01817",
+    "headword": "merely",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-01832",
+    "headword": "beside",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-01833",
+    "headword": "firstly",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-01838",
+    "headword": "closely",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-01839",
+    "headword": "equally",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-01852",
+    "headword": "properly",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-01859",
+    "headword": "primarily",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-01864",
+    "headword": "everywhere",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-01925",
+    "headword": "bloody",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-01936",
+    "headword": "elsewhere",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-01940",
+    "headword": "forth",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-01957",
+    "headword": "abroad",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-01959",
+    "headword": "hence",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-01963",
+    "headword": "typically",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-01978",
+    "headword": "truly",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-01981",
+    "headword": "nearby",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-02021",
+    "headword": "originally",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-02022",
+    "headword": "perfectly",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-02029",
+    "headword": "valuable",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-02035",
+    "headword": "personally",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-02057",
+    "headword": "partly",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-02088",
+    "headword": "rapidly",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-02092",
+    "headword": "ultimately",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-02104",
+    "headword": "similarly",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-02142",
+    "headword": "deeply",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-02166",
+    "headword": "virtually",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-02198",
+    "headword": "beneath",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-02228",
+    "headword": "heavily",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-02235",
+    "headword": "rarely",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-02242",
+    "headword": "mature",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-02247",
+    "headword": "false",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-02274",
+    "headword": "naturally",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-02287",
+    "headword": "whenever",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-02303",
+    "headword": "gradually",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-02311",
+    "headword": "trap",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-02312",
+    "headword": "badly",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-02324",
+    "headword": "constantly",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-02330",
+    "headword": "dependent",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-02357",
+    "headword": "occasionally",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-02362",
+    "headword": "newly",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-02369",
+    "headword": "briefly",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-02371",
+    "headword": "regularly",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-02436",
+    "headword": "overseas",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-02444",
+    "headword": "versus",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-02456",
+    "headword": "quietly",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-02466",
+    "headword": "precisely",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-02488",
+    "headword": "consequently",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-02518",
+    "headword": "greatly",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-02523",
+    "headword": "successfully",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-02543",
+    "headword": "automatically",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-02547",
+    "headword": "contest",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-02560",
+    "headword": "literally",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-02582",
+    "headword": "roughly",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-02611",
+    "headword": "potentially",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-02614",
+    "headword": "gently",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-02635",
+    "headword": "forever",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-02640",
+    "headword": "dramatically",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-02668",
+    "headword": "barely",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-02670",
+    "headword": "firmly",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-02673",
+    "headword": "hopefully",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-02682",
+    "headword": "subsequently",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-02683",
+    "headword": "presumably",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-02713",
+    "headword": "surprisingly",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-02714",
+    "headword": "regardless",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-02726",
+    "headword": "reasonably",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-02770",
+    "headword": "altogether",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-02771",
+    "headword": "differently",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-02776",
+    "headword": "fence",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-02797",
+    "headword": "wherever",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-02809",
+    "headword": "alongside",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-02882",
+    "headword": "including",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-02917",
+    "headword": "provided",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-02937",
+    "headword": "working",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-03004",
+    "headword": "living",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-03086",
+    "headword": "later",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-03340",
+    "headword": "goods",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-03375",
+    "headword": "regarding",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-03549",
+    "headword": "driving",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-03565",
+    "headword": "keyword",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-03698",
+    "headword": "ave",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-03765",
+    "headword": "estimated",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-03766",
+    "headword": "binding",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-03856",
+    "headword": "consulting",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-03889",
+    "headword": "gratis",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-04024",
+    "headword": "hey",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-04152",
+    "headword": "receiving",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-04165",
+    "headword": "managing",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-04210",
+    "headword": "lib",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-04227",
+    "headword": "concerning",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-04256",
+    "headword": "speaking",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-04316",
+    "headword": "disabled",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-04349",
+    "headword": "offline",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-04752",
+    "headword": "flying",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-04778",
+    "headword": "considering",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-04963",
+    "headword": "anytime",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-05041",
+    "headword": "burning",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-05063",
+    "headword": "passing",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-05081",
+    "headword": "roger",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-05090",
+    "headword": "hist",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-05432",
+    "headword": "correctly",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-05465",
+    "headword": "overnight",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-05597",
+    "headword": "losing",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-05646",
+    "headword": "wearing",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-05656",
+    "headword": "herein",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-05723",
+    "headword": "picked",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-05833",
+    "headword": "commonly",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-05976",
+    "headword": "housewares",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-06113",
+    "headword": "instantly",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-06258",
+    "headword": "thereof",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-06286",
+    "headword": "formerly",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-06294",
+    "headword": "strictly",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-06318",
+    "headword": "solely",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-06324",
+    "headword": "excluding",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-06345",
+    "headword": "thy",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-06461",
+    "headword": "slim",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-06465",
+    "headword": "offshore",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-06466",
+    "headword": "governing",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-06508",
+    "headword": "timely",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-06536",
+    "headword": "annually",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-06559",
+    "headword": "essentially",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-06560",
+    "headword": "designing",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-06616",
+    "headword": "locally",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-06691",
+    "headword": "separately",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-06772",
+    "headword": "respondent",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-06806",
+    "headword": "accordingly",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-06869",
+    "headword": "absent",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-06891",
+    "headword": "admitted",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-06911",
+    "headword": "additionally",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-06995",
+    "headword": "thee",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-07006",
+    "headword": "bare",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-07026",
+    "headword": "floating",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-07034",
+    "headword": "exclusively",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-07066",
+    "headword": "actively",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-07100",
+    "headword": "cant",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-07110",
+    "headword": "furnishings",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-07114",
+    "headword": "thereby",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-07203",
+    "headword": "publicly",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-07251",
+    "headword": "decent",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-07255",
+    "headword": "shortly",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-07309",
+    "headword": "substantially",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-07330",
+    "headword": "exempt",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-07512",
+    "headword": "oops",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-07531",
+    "headword": "hereby",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-07538",
+    "headword": "simultaneously",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-07548",
+    "headword": "officially",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-07561",
+    "headword": "safely",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-07591",
+    "headword": "independently",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-07691",
+    "headword": "consistently",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-07739",
+    "headword": "partially",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-07814",
+    "headword": "individually",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-07863",
+    "headword": "incoming",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-07929",
+    "headword": "approximate",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-07963",
+    "headword": "worthy",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-08010",
+    "headword": "insured",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-08024",
+    "headword": "yea",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-08027",
+    "headword": "freely",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-08038",
+    "headword": "readily",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-08048",
+    "headword": "legally",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-08129",
+    "headword": "sheer",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-08177",
+    "headword": "physically",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-08181",
+    "headword": "consecutive",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-08207",
+    "headword": "accurately",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-08241",
+    "headword": "thoroughly",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-08250",
+    "headword": "namely",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-08300",
+    "headword": "pushed",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-08346",
+    "headword": "sans",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-08512",
+    "headword": "alike",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-08636",
+    "headword": "specially",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-08646",
+    "headword": "striking",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-08698",
+    "headword": "limiting",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-08759",
+    "headword": "bald",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-08898",
+    "headword": "importantly",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-09049",
+    "headword": "proudly",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-09065",
+    "headword": "nationally",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-09095",
+    "headword": "convertible",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-09123",
+    "headword": "lately",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-09129",
+    "headword": "likewise",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-09273",
+    "headword": "securely",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-09313",
+    "headword": "temporarily",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-09326",
+    "headword": "sic",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-09366",
+    "headword": "promptly",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-09401",
+    "headword": "continually",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-09425",
+    "headword": "presently",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-09455",
+    "headword": "thereafter",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-09529",
+    "headword": "shepherd",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-09543",
+    "headword": "beautifully",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-09600",
+    "headword": "sufficiently",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-09638",
+    "headword": "groundwater",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-20001",
+    "headword": "huh",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-20002",
+    "headword": "whoa",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-20006",
+    "headword": "crying",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-20007",
+    "headword": "screaming",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-20013",
+    "headword": "yep",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-20022",
+    "headword": "asleep",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-20025",
+    "headword": "cheering",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-20026",
+    "headword": "whoever",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-20033",
+    "headword": "honestly",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-20036",
+    "headword": "ugh",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-20042",
+    "headword": "nope",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-20043",
+    "headword": "gosh",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-20051",
+    "headword": "downstairs",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-20067",
+    "headword": "someday",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-20078",
+    "headword": "sometime",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-20088",
+    "headword": "whispering",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-20110",
+    "headword": "terribly",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-20113",
+    "headword": "aboard",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-20121",
+    "headword": "practically",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-20122",
+    "headword": "heck",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-20123",
+    "headword": "touching",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-20124",
+    "headword": "goodnight",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-20127",
+    "headword": "frankly",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-20129",
+    "headword": "underneath",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-20130",
+    "headword": "incredibly",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-20143",
+    "headword": "someplace",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-20153",
+    "headword": "ouch",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-20163",
+    "headword": "worrying",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-20169",
+    "headword": "technically",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-20175",
+    "headword": "softly",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-20201",
+    "headword": "nicely",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-20209",
+    "headword": "happily",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-20216",
+    "headword": "awfully",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-20226",
+    "headword": "rumbling",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-20228",
+    "headword": "halfway",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-20238",
+    "headword": "gloria",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-20261",
+    "headword": "shining",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-20295",
+    "headword": "roaring",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-20330",
+    "headword": "luckily",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-20358",
+    "headword": "accidentally",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-20376",
+    "headword": "wandering",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-20382",
+    "headword": "fortunately",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-20390",
+    "headword": "loudly",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-20395",
+    "headword": "waking",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-20399",
+    "headword": "anyhow",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-20400",
+    "headword": "scent",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-20403",
+    "headword": "aha",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-20413",
+    "headword": "secretly",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-20428",
+    "headword": "confessed",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-20452",
+    "headword": "chuckle",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-20463",
+    "headword": "sheila",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-20470",
+    "headword": "eager",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-20494",
+    "headword": "stark",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-20505",
+    "headword": "panties",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-20531",
+    "headword": "howling",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-20546",
+    "headword": "sadly",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-20556",
+    "headword": "hostile",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-20581",
+    "headword": "awhile",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-20582",
+    "headword": "deliberately",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-20597",
+    "headword": "mentally",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-20619",
+    "headword": "corrupt",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-20626",
+    "headword": "emotionally",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-20662",
+    "headword": "sharply",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-20674",
+    "headword": "frightening",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-20679",
+    "headword": "flowing",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-20710",
+    "headword": "lightly",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-20720",
+    "headword": "gladly",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-20727",
+    "headword": "supposedly",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-20747",
+    "headword": "yah",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-20774",
+    "headword": "utterly",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-20775",
+    "headword": "farther",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-20808",
+    "headword": "condemned",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-20841",
+    "headword": "alas",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-20853",
+    "headword": "swinging",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-20855",
+    "headword": "beggar",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-20862",
+    "headword": "sincerely",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-20898",
+    "headword": "sweaty",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-20911",
+    "headword": "purely",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-20921",
+    "headword": "psych",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-20954",
+    "headword": "sounding",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-20965",
+    "headword": "strangely",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-20966",
+    "headword": "utter",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-20973",
+    "headword": "permanently",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-20981",
+    "headword": "overboard",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-21034",
+    "headword": "stammering",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-21050",
+    "headword": "peacefully",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-21053",
+    "headword": "dearly",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-21099",
+    "headword": "voiceover",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-21130",
+    "headword": "ashore",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-21142",
+    "headword": "rustling",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-21178",
+    "headword": "numb",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-21182",
+    "headword": "merci",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-21185",
+    "headword": "positively",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-21192",
+    "headword": "guv",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-21197",
+    "headword": "chilly",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-21199",
+    "headword": "repeatedly",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-21233",
+    "headword": "openly",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-21237",
+    "headword": "shorty",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-21243",
+    "headword": "oof",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-21257",
+    "headword": "severely",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-21268",
+    "headword": "tong",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-21270",
+    "headword": "resigned",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-21296",
+    "headword": "phew",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-21302",
+    "headword": "weeping",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-21311",
+    "headword": "privately",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-21337",
+    "headword": "poorly",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-21343",
+    "headword": "calmly",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-21354",
+    "headword": "weary",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-21363",
+    "headword": "dialing",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-21370",
+    "headword": "nay",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-21391",
+    "headword": "smoothly",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-21416",
+    "headword": "nervously",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-21467",
+    "headword": "apprentice",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-21489",
+    "headword": "bonjour",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-21505",
+    "headword": "operative",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-21506",
+    "headword": "revealing",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-21517",
+    "headword": "willingly",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-21525",
+    "headword": "tame",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-21587",
+    "headword": "sideways",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-21606",
+    "headword": "ole",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-21638",
+    "headword": "bah",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-21643",
+    "headword": "whichever",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-21683",
+    "headword": "tightly",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-21706",
+    "headword": "ere",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-21715",
+    "headword": "madly",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-21738",
+    "headword": "undoubtedly",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-21747",
+    "headword": "skipping",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-21774",
+    "headword": "seldom",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-21779",
+    "headword": "nonetheless",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-21786",
+    "headword": "muddy",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-21796",
+    "headword": "blimey",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-21811",
+    "headword": "plaster",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-21839",
+    "headword": "deliberate",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-21870",
+    "headword": "flipping",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-21872",
+    "headword": "flaming",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-21876",
+    "headword": "oneself",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-21892",
+    "headword": "silently",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-21898",
+    "headword": "cone",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-21908",
+    "headword": "hurray",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-21930",
+    "headword": "strapped",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-21936",
+    "headword": "incidentally",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-21940",
+    "headword": "golly",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-21959",
+    "headword": "audible",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-21985",
+    "headword": "onstage",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-21994",
+    "headword": "supposing",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-21995",
+    "headword": "remarkably",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-22006",
+    "headword": "horribly",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-22011",
+    "headword": "melancholy",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-22018",
+    "headword": "brutally",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-22026",
+    "headword": "professionally",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-22051",
+    "headword": "backward",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-22060",
+    "headword": "descended",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-22077",
+    "headword": "handicapped",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-22079",
+    "headword": "voluntarily",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-22082",
+    "headword": "thine",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-22116",
+    "headword": "beforehand",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-22117",
+    "headword": "firearms",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-22131",
+    "headword": "oddly",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-22133",
+    "headword": "attaboy",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-22157",
+    "headword": "allegedly",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-22189",
+    "headword": "unexpectedly",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-22200",
+    "headword": "mellow",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-22224",
+    "headword": "afar",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-22235",
+    "headword": "seemingly",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-22242",
+    "headword": "preferably",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-22249",
+    "headword": "socially",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-22285",
+    "headword": "wonderfully",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-22293",
+    "headword": "wildly",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-22329",
+    "headword": "bulletproof",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-22331",
+    "headword": "overly",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-22355",
+    "headword": "respectfully",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-22363",
+    "headword": "rightly",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-22379",
+    "headword": "comfortably",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-22382",
+    "headword": "barefoot",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-22389",
+    "headword": "foremost",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-22403",
+    "headword": "hallo",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-22405",
+    "headword": "pooh",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-22437",
+    "headword": "wisely",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-22460",
+    "headword": "theoretically",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-22468",
+    "headword": "drying",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-22471",
+    "headword": "lest",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-22491",
+    "headword": "yonder",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-22492",
+    "headword": "admiring",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-22498",
+    "headword": "aloud",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-22505",
+    "headword": "astray",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-22518",
+    "headword": "violently",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-22564",
+    "headword": "blazing",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-22586",
+    "headword": "biggie",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-22588",
+    "headword": "dangerously",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-22594",
+    "headword": "morally",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-22596",
+    "headword": "apiece",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-22600",
+    "headword": "unnecessarily",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-22601",
+    "headword": "upstate",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-22608",
+    "headword": "casually",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-22660",
+    "headword": "unusually",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-22667",
+    "headword": "pronto",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-22669",
+    "headword": "edible",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-22691",
+    "headword": "ironically",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-22692",
+    "headword": "bodily",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-22707",
+    "headword": "unbelievably",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-22713",
+    "headword": "bonded",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-22735",
+    "headword": "cor",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-22754",
+    "headword": "inland",
+    "language": "english",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-22755",
+    "headword": "humbly",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-22764",
+    "headword": "ahoy",
+    "language": "english",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-22800",
+    "headword": "bravely",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-22803",
+    "headword": "steadily",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-22865",
+    "headword": "inevitably",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-22891",
+    "headword": "indefinitely",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-22934",
+    "headword": "blindly",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "en-22938",
+    "headword": "considerably",
+    "language": "english",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "zh-00043",
+    "headword": "车上",
+    "language": "chinese",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "zh-00268",
+    "headword": "女孩儿",
+    "language": "chinese",
+    "verdict": "review",
+    "pos": "missing_in_dictionary",
+    "glossEn": "different"
+  },
+  {
+    "id": "zh-00520",
+    "headword": "不太",
+    "language": "chinese",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "zh-00530",
+    "headword": "不一会儿",
+    "language": "chinese",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "zh-00736",
+    "headword": "见过",
+    "language": "chinese",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "zh-00971",
+    "headword": "送到",
+    "language": "chinese",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "zh-01179",
+    "headword": "这时候",
+    "language": "chinese",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "zh-01415",
+    "headword": "放到",
+    "language": "chinese",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "zh-01722",
+    "headword": "能不能",
+    "language": "chinese",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "zh-02406",
+    "headword": "…分之…",
+    "language": "chinese",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "zh-03002",
+    "headword": "眼里",
+    "language": "chinese",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "zh-03045",
+    "headword": "有劲儿",
+    "language": "chinese",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "zh-03251",
+    "headword": "城里",
+    "language": "chinese",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-00001",
+    "headword": "안녕하세요",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "taxonomy_diff",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-00002",
+    "headword": "안녕히 가세요",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "taxonomy_diff",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-00005",
+    "headword": "죄송합니다",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-00006",
+    "headword": "미안해요",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-00008",
+    "headword": "아니요",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-00009",
+    "headword": "괜찮아요",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-00011",
+    "headword": "너",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-00013",
+    "headword": "당신",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-00014",
+    "headword": "누구",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-00015",
+    "headword": "무엇",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-00017",
+    "headword": "언제",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-00181",
+    "headword": "하나",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-00183",
+    "headword": "셋",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-00184",
+    "headword": "넷",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-00185",
+    "headword": "다섯",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-00296",
+    "headword": "여섯",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-00297",
+    "headword": "일곱",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-00298",
+    "headword": "여덟",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-00299",
+    "headword": "아홉",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-00376",
+    "headword": "빌려주다",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-00436",
+    "headword": "나중에",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-00446",
+    "headword": "모두",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-00451",
+    "headword": "늦게",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-00455",
+    "headword": "하지만",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-00456",
+    "headword": "이것",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-00457",
+    "headword": "그것",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-00458",
+    "headword": "저것",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-00459",
+    "headword": "여기",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-00460",
+    "headword": "거기",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "schema_gap",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-00461",
+    "headword": "저기",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-00647",
+    "headword": "퇴원하다",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-00672",
+    "headword": "취직하다",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-00774",
+    "headword": "그러니까",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-00776",
+    "headword": "별로",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-00792",
+    "headword": "스스로",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-00842",
+    "headword": "모임",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-00902",
+    "headword": "감동하다",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-00909",
+    "headword": "설정하다",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-00914",
+    "headword": "분류하다",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-00917",
+    "headword": "측정하다",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-00921",
+    "headword": "응용하다",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-00948",
+    "headword": "도입하다",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-00951",
+    "headword": "확장하다",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-00952",
+    "headword": "연장하다",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-00953",
+    "headword": "단축하다",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-00954",
+    "headword": "조정하다",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-00955",
+    "headword": "조절하다",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-00956",
+    "headword": "통제하다",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-00960",
+    "headword": "예방하다",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-00963",
+    "headword": "대처하다",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-00968",
+    "headword": "방지하다",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-00978",
+    "headword": "당선하다",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-00979",
+    "headword": "임명하다",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-00982",
+    "headword": "사직하다",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-00984",
+    "headword": "복귀하다",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-00989",
+    "headword": "창업하다",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-00994",
+    "headword": "결제하다",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-00999",
+    "headword": "희생하다",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-01000",
+    "headword": "보답하다",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-01009",
+    "headword": "감격하다",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-01012",
+    "headword": "초조하다",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-01013",
+    "headword": "분노하다",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-01014",
+    "headword": "증오하다",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-01020",
+    "headword": "집착하다",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-01021",
+    "headword": "몰두하다",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-01022",
+    "headword": "열중하다",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-01023",
+    "headword": "반성하다",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-01024",
+    "headword": "명상하다",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-01025",
+    "headword": "회상하다",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-01027",
+    "headword": "착각하다",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-01029",
+    "headword": "주저하다",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-01031",
+    "headword": "각오하다",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-01034",
+    "headword": "약해지다",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-01035",
+    "headword": "강해지다",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-01039",
+    "headword": "향상하다",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-01044",
+    "headword": "멸종하다",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-01045",
+    "headword": "부활하다",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-01046",
+    "headword": "재생하다",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-01051",
+    "headword": "감염되다",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-01052",
+    "headword": "전염되다",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-01053",
+    "headword": "진단하다",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-01058",
+    "headword": "체류하다",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-01060",
+    "headword": "입국하다",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-01061",
+    "headword": "출국하다",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-01063",
+    "headword": "이주하다",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-01076",
+    "headword": "대피하다",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-01080",
+    "headword": "번식하다",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-01082",
+    "headword": "진화하다",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-01094",
+    "headword": "영리하다",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-01107",
+    "headword": "팀장",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-01128",
+    "headword": "근태",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-01136",
+    "headword": "구직",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-01141",
+    "headword": "임원",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-01146",
+    "headword": "펀드",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-01163",
+    "headword": "매입",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-01165",
+    "headword": "결산",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-01167",
+    "headword": "세무",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-01168",
+    "headword": "부가세",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-01175",
+    "headword": "시장경제",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-01189",
+    "headword": "명세서",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-01192",
+    "headword": "결제",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-01223",
+    "headword": "합격자",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-01228",
+    "headword": "예습",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-01230",
+    "headword": "채점",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-01243",
+    "headword": "시장님",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-01246",
+    "headword": "동사무소",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-01260",
+    "headword": "주민등록",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-01272",
+    "headword": "복지관",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-01294",
+    "headword": "알림",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-01300",
+    "headword": "요금제",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-01307",
+    "headword": "고속도로",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-01315",
+    "headword": "연착",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-01351",
+    "headword": "가전제품",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-01374",
+    "headword": "보람",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-01378",
+    "headword": "배려",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-01384",
+    "headword": "센스",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-01390",
+    "headword": "감기약",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-01394",
+    "headword": "복통",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-01509",
+    "headword": "따라서",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-01511",
+    "headword": "그럼에도",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-01512",
+    "headword": "즉",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-01513",
+    "headword": "예를 들어",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-01514",
+    "headword": "반면에",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "not_checked",
+    "glossEn": "missing"
+  },
+  {
+    "id": "ko-01522",
+    "headword": "당장",
+    "language": "korean",
+    "verdict": "review",
+    "pos": "ambiguous",
+    "glossEn": "missing"
+  },
+  {
+    "id": "es-00372",
+    "headword": "entendido",
+    "language": "spanish",
+    "verdict": "review",
+    "pos": "missing_in_app",
+    "glossEn": "different"
+  },
+  {
+    "id": "es-00547",
+    "headword": "san",
+    "language": "spanish",
+    "verdict": "review",
+    "pos": "missing_in_app",
+    "glossEn": "different"
+  },
+  {
+    "id": "es-00843",
+    "headword": "clases",
+    "language": "spanish",
+    "verdict": "review",
+    "pos": "missing_in_app",
+    "glossEn": "different"
+  },
+  {
+    "id": "es-00967",
+    "headword": "ocurrido",
+    "language": "spanish",
+    "verdict": "review",
+    "pos": "missing_in_app",
+    "glossEn": "different"
+  },
+  {
+    "id": "es-01045",
+    "headword": "lisa",
+    "language": "spanish",
+    "verdict": "review",
+    "pos": "missing_in_app",
+    "glossEn": "different"
+  },
+  {
+    "id": "es-01125",
+    "headword": "notas",
+    "language": "spanish",
+    "verdict": "review",
+    "pos": "missing_in_app",
+    "glossEn": "different"
+  },
+  {
+    "id": "es-01159",
+    "headword": "bravo",
+    "language": "spanish",
+    "verdict": "review",
+    "pos": "missing_in_app",
+    "glossEn": "different"
+  },
+  {
+    "id": "es-01376",
+    "headword": "vivido",
+    "language": "spanish",
+    "verdict": "review",
+    "pos": "missing_in_app",
+    "glossEn": "different"
+  },
+  {
+    "id": "es-01455",
+    "headword": "volando",
+    "language": "spanish",
+    "verdict": "review",
+    "pos": "missing_in_app",
+    "glossEn": "different"
+  },
+  {
+    "id": "es-01567",
+    "headword": "entrado",
+    "language": "spanish",
+    "verdict": "review",
+    "pos": "missing_in_app",
+    "glossEn": "different"
+  },
+  {
+    "id": "es-01582",
+    "headword": "salvado",
+    "language": "spanish",
+    "verdict": "review",
+    "pos": "missing_in_app",
+    "glossEn": "different"
+  },
+  {
+    "id": "es-01805",
+    "headword": "ánimo",
+    "language": "spanish",
+    "verdict": "review",
+    "pos": "missing_in_app",
+    "glossEn": "different"
+  },
+  {
+    "id": "es-01819",
+    "headword": "puesta",
+    "language": "spanish",
+    "verdict": "review",
+    "pos": "missing_in_app",
+    "glossEn": "different"
+  },
+  {
+    "id": "es-01965",
+    "headword": "sufrido",
+    "language": "spanish",
+    "verdict": "review",
+    "pos": "missing_in_app",
+    "glossEn": "different"
+  },
+  {
+    "id": "de-00028",
+    "headword": "leid",
+    "language": "german",
+    "verdict": "review",
+    "pos": "missing_in_app",
+    "glossEn": "different"
+  },
+  {
+    "id": "de-00032",
+    "headword": "Hallo",
+    "language": "german",
+    "verdict": "review",
+    "pos": "missing_in_app",
+    "glossEn": "different"
+  },
+  {
+    "id": "de-00052",
+    "headword": "passiert",
+    "language": "german",
+    "verdict": "review",
+    "pos": "missing_in_app",
+    "glossEn": "different"
+  },
+  {
+    "id": "de-00304",
+    "headword": "Leider",
+    "language": "german",
+    "verdict": "review",
+    "pos": "missing_in_app",
+    "glossEn": "different"
+  },
+  {
+    "id": "de-00517",
+    "headword": "Gleiche",
+    "language": "german",
+    "verdict": "review",
+    "pos": "missing_in_app",
+    "glossEn": "different"
+  },
+  {
+    "id": "de-00607",
+    "headword": "näher",
+    "language": "german",
+    "verdict": "review",
+    "pos": "missing_in_app",
+    "glossEn": "different"
+  },
+  {
+    "id": "de-00939",
+    "headword": "gehalten",
+    "language": "german",
+    "verdict": "review",
+    "pos": "missing_in_app",
+    "glossEn": "different"
+  },
+  {
+    "id": "de-01161",
+    "headword": "dennoch",
+    "language": "german",
+    "verdict": "review",
+    "pos": "missing_in_app",
+    "glossEn": "different"
+  },
+  {
+    "id": "de-01200",
+    "headword": "mitgenommen",
+    "language": "german",
+    "verdict": "review",
+    "pos": "missing_in_app",
+    "glossEn": "different"
+  },
+  {
+    "id": "de-01282",
+    "headword": "inzwischen",
+    "language": "german",
+    "verdict": "review",
+    "pos": "missing_in_app",
+    "glossEn": "different"
+  },
+  {
+    "id": "de-01619",
+    "headword": "gewohnt",
+    "language": "german",
+    "verdict": "review",
+    "pos": "missing_in_app",
+    "glossEn": "different"
+  },
+  {
+    "id": "de-01880",
+    "headword": "befreundet",
+    "language": "german",
+    "verdict": "review",
+    "pos": "missing_in_app",
+    "glossEn": "different"
+  },
+  {
+    "id": "de-01898",
+    "headword": "Nix",
+    "language": "german",
+    "verdict": "review",
+    "pos": "missing_in_app",
+    "glossEn": "different"
+  },
+  {
+    "id": "de-01904",
+    "headword": "Abschluss",
+    "language": "german",
+    "verdict": "review",
+    "pos": "missing_in_app",
+    "glossEn": "different"
+  },
+  {
+    "id": "de-01905",
+    "headword": "Dummkopf",
+    "language": "german",
+    "verdict": "review",
+    "pos": "missing_in_app",
+    "glossEn": "different"
+  },
+  {
+    "id": "de-01982",
+    "headword": "Toter",
+    "language": "german",
+    "verdict": "review",
+    "pos": "missing_in_app",
+    "glossEn": "different"
+  },
+  {
+    "id": "fr-00177",
+    "headword": "propos",
+    "language": "french",
+    "verdict": "review",
+    "pos": "missing_in_app",
+    "glossEn": "different"
+  },
+  {
+    "id": "fr-00239",
+    "headword": "abord",
+    "language": "french",
+    "verdict": "review",
+    "pos": "missing_in_app",
+    "glossEn": "different"
+  },
+  {
+    "id": "fr-00333",
+    "headword": "reçu",
+    "language": "french",
+    "verdict": "review",
+    "pos": "missing_in_app",
+    "glossEn": "different"
+  },
+  {
+    "id": "fr-00375",
+    "headword": "armes",
+    "language": "french",
+    "verdict": "review",
+    "pos": "missing_in_app",
+    "glossEn": "different"
+  },
+  {
+    "id": "fr-00410",
+    "headword": "avion",
+    "language": "french",
+    "verdict": "review",
+    "pos": "missing_in_app",
+    "glossEn": "different"
+  },
+  {
+    "id": "fr-00446",
+    "headword": "pareil",
+    "language": "french",
+    "verdict": "review",
+    "pos": "missing_in_app",
+    "glossEn": "different"
+  },
+  {
+    "id": "fr-00506",
+    "headword": "gueule",
+    "language": "french",
+    "verdict": "review",
+    "pos": "missing_in_app",
+    "glossEn": "different"
+  },
+  {
+    "id": "fr-00510",
+    "headword": "travers",
+    "language": "french",
+    "verdict": "review",
+    "pos": "missing_in_app",
+    "glossEn": "different"
+  },
+  {
+    "id": "fr-00512",
+    "headword": "dossier",
+    "language": "french",
+    "verdict": "review",
+    "pos": "missing_in_app",
+    "glossEn": "different"
+  },
+  {
+    "id": "fr-00620",
+    "headword": "environ",
+    "language": "french",
+    "verdict": "review",
+    "pos": "missing_in_app",
+    "glossEn": "different"
+  },
+  {
+    "id": "fr-00871",
+    "headword": "préféré",
+    "language": "french",
+    "verdict": "review",
+    "pos": "missing_in_app",
+    "glossEn": "different"
+  },
+  {
+    "id": "fr-00893",
+    "headword": "formidable",
+    "language": "french",
+    "verdict": "review",
+    "pos": "missing_in_app",
+    "glossEn": "different"
+  },
+  {
+    "id": "fr-00911",
+    "headword": "vendu",
+    "language": "french",
+    "verdict": "review",
+    "pos": "missing_in_app",
+    "glossEn": "different"
+  },
+  {
+    "id": "fr-00921",
+    "headword": "imbécile",
+    "language": "french",
+    "verdict": "review",
+    "pos": "missing_in_app",
+    "glossEn": "different"
+  },
+  {
+    "id": "fr-01022",
+    "headword": "émission",
+    "language": "french",
+    "verdict": "review",
+    "pos": "missing_in_app",
+    "glossEn": "different"
+  },
+  {
+    "id": "fr-01126",
+    "headword": "précédemment",
+    "language": "french",
+    "verdict": "review",
+    "pos": "missing_in_app",
+    "glossEn": "different"
+  },
+  {
+    "id": "fr-01133",
+    "headword": "véritable",
+    "language": "french",
+    "verdict": "review",
+    "pos": "missing_in_app",
+    "glossEn": "different"
+  },
+  {
+    "id": "fr-01298",
+    "headword": "profiter",
+    "language": "french",
+    "verdict": "review",
+    "pos": "missing_in_app",
+    "glossEn": "different"
+  },
+  {
+    "id": "fr-01304",
+    "headword": "tien",
+    "language": "french",
+    "verdict": "review",
+    "pos": "missing_in_app",
+    "glossEn": "different"
+  },
+  {
+    "id": "fr-01521",
+    "headword": "engager",
+    "language": "french",
+    "verdict": "review",
+    "pos": "missing_in_app",
+    "glossEn": "different"
+  },
+  {
+    "id": "fr-01576",
+    "headword": "merveilleuse",
+    "language": "french",
+    "verdict": "review",
+    "pos": "missing_in_app",
+    "glossEn": "different"
+  },
+  {
+    "id": "fr-01578",
+    "headword": "chanceux",
+    "language": "french",
+    "verdict": "review",
+    "pos": "missing_in_app",
+    "glossEn": "different"
+  },
+  {
+    "id": "fr-01616",
+    "headword": "carrément",
+    "language": "french",
+    "verdict": "review",
+    "pos": "missing_in_app",
+    "glossEn": "different"
+  },
+  {
+    "id": "fr-01756",
+    "headword": "pressé",
+    "language": "french",
+    "verdict": "review",
+    "pos": "missing_in_app",
+    "glossEn": "different"
+  },
+  {
+    "id": "fr-01775",
+    "headword": "travaux",
+    "language": "french",
+    "verdict": "review",
+    "pos": "missing_in_app",
+    "glossEn": "different"
+  },
+  {
+    "id": "fr-01991",
+    "headword": "escalier",
+    "language": "french",
+    "verdict": "review",
+    "pos": "missing_in_app",
+    "glossEn": "different"
+  },
+  {
+    "id": "pl-00135",
+    "headword": "kupić",
+    "language": "polish",
+    "verdict": "review",
+    "pos": "missing_in_app",
+    "glossEn": "different"
+  },
+  {
+    "id": "pl-00142",
+    "headword": "pieniądze",
+    "language": "polish",
+    "verdict": "review",
+    "pos": "missing_in_app",
+    "glossEn": "different"
+  },
+  {
+    "id": "ru-00072",
+    "headword": "овощи",
+    "language": "russian",
+    "verdict": "review",
+    "pos": "missing_in_app",
+    "glossEn": "different"
+  }
+]
