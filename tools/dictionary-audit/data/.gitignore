@@ -1,0 +1,4 @@
+# 辞書データ本体はGit管理外(大容量・照合専用・再配布しない)
+raw/
+processed/
+indexes/

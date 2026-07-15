@@ -1,0 +1,197 @@
+{
+  "generatedAt": "2026-07-15",
+  "dataMutated": false,
+  "totalWords": 20131,
+  "totalChecked": 20131,
+  "aggregateVerdicts": {
+    "verified": 4134,
+    "likely_correct": 6947,
+    "review": 257,
+    "conflicting": 0,
+    "critical": 999,
+    "not_checked": 7794
+  },
+  "problems": {
+    "critical": 999,
+    "conflicting": 0,
+    "review": 257,
+    "notFound": 123,
+    "notChecked": 7794
+  },
+  "languages": {
+    "english": {
+      "total": 8136,
+      "checked": 8136,
+      "verdicts": {
+        "likely_correct": 6947,
+        "review": 245,
+        "critical": 944
+      },
+      "sources": [
+        "oewn"
+      ],
+      "dictionaryVersions": {
+        "oewn": "downloaded-2026-07-15"
+      },
+      "dimChecked": {
+        "headword": 8136,
+        "partOfSpeech": 8025,
+        "sense": 0,
+        "pronunciation": 0,
+        "japaneseGloss": 0
+      },
+      "unsafeExamples": 0,
+      "ms": 104
+    },
+    "chinese": {
+      "total": 4201,
+      "checked": 4201,
+      "verdicts": {
+        "verified": 4134,
+        "review": 12,
+        "critical": 55
+      },
+      "sources": [
+        "cedict"
+      ],
+      "dictionaryVersions": {
+        "cedict": "downloaded-2026-07-15"
+      },
+      "dimChecked": {
+        "headword": 4201,
+        "partOfSpeech": 0,
+        "sense": 4179,
+        "pronunciation": 4189,
+        "japaneseGloss": 0
+      },
+      "unsafeExamples": 0,
+      "ms": 146
+    },
+    "korean": {
+      "total": 1529,
+      "checked": 1529,
+      "verdicts": {
+        "not_checked": 1529
+      },
+      "sources": [],
+      "dictionaryVersions": {},
+      "dimChecked": {
+        "headword": 0,
+        "partOfSpeech": 0,
+        "sense": 0,
+        "pronunciation": 0,
+        "japaneseGloss": 0
+      },
+      "unsafeExamples": 0,
+      "ms": 29
+    },
+    "spanish": {
+      "total": 1948,
+      "checked": 1948,
+      "verdicts": {
+        "not_checked": 1948
+      },
+      "sources": [],
+      "dictionaryVersions": {},
+      "dimChecked": {
+        "headword": 0,
+        "partOfSpeech": 0,
+        "sense": 0,
+        "pronunciation": 0,
+        "japaneseGloss": 0
+      },
+      "unsafeExamples": 0,
+      "ms": 2
+    },
+    "german": {
+      "total": 1919,
+      "checked": 1919,
+      "verdicts": {
+        "not_checked": 1919
+      },
+      "sources": [],
+      "dictionaryVersions": {},
+      "dimChecked": {
+        "headword": 0,
+        "partOfSpeech": 0,
+        "sense": 0,
+        "pronunciation": 0,
+        "japaneseGloss": 0
+      },
+      "unsafeExamples": 0,
+      "ms": 2
+    },
+    "french": {
+      "total": 1948,
+      "checked": 1948,
+      "verdicts": {
+        "not_checked": 1948
+      },
+      "sources": [],
+      "dictionaryVersions": {},
+      "dimChecked": {
+        "headword": 0,
+        "partOfSpeech": 0,
+        "sense": 0,
+        "pronunciation": 0,
+        "japaneseGloss": 0
+      },
+      "unsafeExamples": 0,
+      "ms": 2
+    },
+    "portuguese": {
+      "total": 150,
+      "checked": 150,
+      "verdicts": {
+        "not_checked": 150
+      },
+      "sources": [],
+      "dictionaryVersions": {},
+      "dimChecked": {
+        "headword": 0,
+        "partOfSpeech": 0,
+        "sense": 0,
+        "pronunciation": 0,
+        "japaneseGloss": 0
+      },
+      "unsafeExamples": 0,
+      "ms": 1
+    },
+    "polish": {
+      "total": 150,
+      "checked": 150,
+      "verdicts": {
+        "not_checked": 150
+      },
+      "sources": [],
+      "dictionaryVersions": {},
+      "dimChecked": {
+        "headword": 0,
+        "partOfSpeech": 0,
+        "sense": 0,
+        "pronunciation": 0,
+        "japaneseGloss": 0
+      },
+      "unsafeExamples": 0,
+      "ms": 1
+    },
+    "russian": {
+      "total": 150,
+      "checked": 150,
+      "verdicts": {
+        "not_checked": 150
+      },
+      "sources": [],
+      "dictionaryVersions": {},
+      "dimChecked": {
+        "headword": 0,
+        "partOfSpeech": 0,
+        "sense": 0,
+        "pronunciation": 0,
+        "japaneseGloss": 0
+      },
+      "unsafeExamples": 0,
+      "ms": 1
+    }
+  }
+}

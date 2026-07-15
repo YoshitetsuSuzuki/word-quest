@@ -26,10 +26,10 @@
       "redistribution": "照合のみ。本文取り込みは継承注意",
       "coverage": "中国語(簡繁・拼音・英語gloss)",
       "notes": "大容量(~4MB gz)ゆえ自動DLしない。未配置なら中国語のcedict照合は not_checked。",
-      "accessedInThisRun": false
+      "accessedInThisRun": true
     },
     "wordnet": {
-      "name": "Princeton WordNet / Open English WordNet",
+      "name": "Open English WordNet 2023 (Princeton WordNet派生)",
       "endpoint": "ローカル配置想定: tools/dictionary-audit/cache/wordnet/ (未配置)",
       "downloadReference": "https://wordnet.princeton.edu/ ／ https://github.com/globalwordnet/english-wordnet (OEWN=CC-BY 4.0)",
       "provider": "Princeton University / Global WordNet",
@@ -40,7 +40,7 @@
       "redistribution": "可(寛容)",
       "coverage": "英語(語義・品詞)",
       "notes": "未配置。配置時に英語の品詞/語義照合の第2ソースとして利用可。",
-      "accessedInThisRun": false
+      "accessedInThisRun": true
     },
     "kaikki": {
       "name": "Kaikki.org / Wiktextract",

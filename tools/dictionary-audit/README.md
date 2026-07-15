@@ -36,7 +36,29 @@ tools/dictionary-audit/
   run-all.mjs                              # 全言語→summary
 ```
 
-## 使い方
+## ローカル辞書で全件オフライン照合（推奨・ネット不使用）
+
+```bash
+# 1) 取得(設定駆動・data/raw へ。dry-runで確認可)
+node tools/dictionary-audit/download-dictionaries.mjs --language english --dry-run
+node tools/dictionary-audit/download-dictionaries.mjs        # download:true(CC-CEDICT+OEWN)を取得
+node tools/dictionary-audit/verify-downloads.mjs
+
+# 2) 正規化 → 3) インデックス構築
+node tools/dictionary-audit/normalize-dictionaries.mjs
+node tools/dictionary-audit/build-indexes.mjs
+
+# 4) 全件照合(ネット禁止)。中断時は --resume で再開
+node tools/dictionary-audit/run-all.mjs --all --local-only            # 全20,131件
+node tools/dictionary-audit/check-english.mjs --local-only --all --resume
+node tools/dictionary-audit/pilot-local.mjs                            # 全件前の小規模試験
+```
+
+導入済みローカル辞書: **英語=Open English WordNet(CC-BY 4.0)**、**中国語=CC-CEDICT(CC-BY-SA 4.0)**。他7言語はローカル辞書未配置 → `not_checked`（未確認を一致扱いしない）。Kaikki言語別ダンプを `config/sources.json` で `download:true` にすれば拡張可。出力は `reports/full/`（summary＋問題別 critical/conflicting/review/not-found/not-checked）。
+
+判定(総合): `verified`(厳格) / `likely_correct` / `review` / `conflicting` / `critical` / `not_checked`。単一の verified に丸めず、監査の意味(見出し/品詞/語義/発音/和訳を個別に checked 記録)を保持。
+
+## 使い方（ネットWiktionaryモード・サンプル）
 
 ```bash
 # 1言語(既定は先頭40件サンプル。API負荷に配慮)

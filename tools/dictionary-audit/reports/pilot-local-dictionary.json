@@ -1,0 +1,350 @@
+{
+  "generatedAt": "2026-07-15",
+  "tests": {
+    "english": {
+      "sampled": 50,
+      "verdicts": {
+        "likely_correct": 41,
+        "review": 5,
+        "critical": 4
+      },
+      "sources": [
+        "oewn"
+      ],
+      "dimChecked": {
+        "headword": 50,
+        "partOfSpeech": 46,
+        "sense": 0,
+        "pronunciation": 0,
+        "japaneseGloss": 0
+      }
+    },
+    "chinese": {
+      "sampled": 50,
+      "verdicts": {
+        "verified": 49,
+        "review": 1
+      },
+      "sources": [
+        "cedict"
+      ],
+      "dimChecked": {
+        "headword": 50,
+        "partOfSpeech": 0,
+        "sense": 48,
+        "pronunciation": 49,
+        "japaneseGloss": 0
+      }
+    },
+    "korean": {
+      "sampled": 20,
+      "verdicts": {
+        "not_checked": 20
+      },
+      "sources": [],
+      "dimChecked": {
+        "headword": 0,
+        "partOfSpeech": 0,
+        "sense": 0,
+        "pronunciation": 0,
+        "japaneseGloss": 0
+      }
+    },
+    "spanish": {
+      "sampled": 20,
+      "verdicts": {
+        "not_checked": 20
+      },
+      "sources": [],
+      "dimChecked": {
+        "headword": 0,
+        "partOfSpeech": 0,
+        "sense": 0,
+        "pronunciation": 0,
+        "japaneseGloss": 0
+      }
+    },
+    "german": {
+      "sampled": 20,
+      "verdicts": {
+        "not_checked": 20
+      },
+      "sources": [],
+      "dimChecked": {
+        "headword": 0,
+        "partOfSpeech": 0,
+        "sense": 0,
+        "pronunciation": 0,
+        "japaneseGloss": 0
+      }
+    },
+    "french": {
+      "sampled": 20,
+      "verdicts": {
+        "not_checked": 20
+      },
+      "sources": [],
+      "dimChecked": {
+        "headword": 0,
+        "partOfSpeech": 0,
+        "sense": 0,
+        "pronunciation": 0,
+        "japaneseGloss": 0
+      }
+    },
+    "portuguese": {
+      "sampled": 20,
+      "verdicts": {
+        "not_checked": 20
+      },
+      "sources": [],
+      "dimChecked": {
+        "headword": 0,
+        "partOfSpeech": 0,
+        "sense": 0,
+        "pronunciation": 0,
+        "japaneseGloss": 0
+      }
+    },
+    "polish": {
+      "sampled": 20,
+      "verdicts": {
+        "not_checked": 20
+      },
+      "sources": [],
+      "dimChecked": {
+        "headword": 0,
+        "partOfSpeech": 0,
+        "sense": 0,
+        "pronunciation": 0,
+        "japaneseGloss": 0
+      }
+    },
+    "russian": {
+      "sampled": 20,
+      "verdicts": {
+        "not_checked": 20
+      },
+      "sources": [],
+      "dimChecked": {
+        "headword": 0,
+        "partOfSpeech": 0,
+        "sense": 0,
+        "pronunciation": 0,
+        "japaneseGloss": 0
+      }
+    }
+  },
+  "knownWords": [
+    {
+      "id": "en-03104",
+      "headword": "japan",
+      "language": "english",
+      "verdict": "likely_correct",
+      "headwordStatus": "exact",
+      "pos": "exact",
+      "glossEn": "missing",
+      "pron": "missing_in_dictionary",
+      "sources": {
+        "oewn": {
+          "headword": "exact",
+          "multiple": true,
+          "pos": "exact",
+          "glossEn": "missing",
+          "pron": "missing_in_dictionary",
+          "dictPos": [
+            "noun",
+            "verb"
+          ]
+        }
+      }
+    },
+    {
+      "id": "en-06181",
+      "headword": "latex",
+      "language": "english",
+      "verdict": "likely_correct",
+      "headwordStatus": "exact",
+      "pos": "exact",
+      "glossEn": "missing",
+      "pron": "missing_in_dictionary",
+      "sources": {
+        "oewn": {
+          "headword": "exact",
+          "multiple": false,
+          "pos": "exact",
+          "glossEn": "missing",
+          "pron": "missing_in_dictionary",
+          "dictPos": [
+            "noun"
+          ]
+        }
+      }
+    },
+    {
+      "id": "en-21406",
+      "headword": "bouncing",
+      "language": "english",
+      "verdict": "likely_correct",
+      "headwordStatus": "exact",
+      "pos": "exact",
+      "glossEn": "missing",
+      "pron": "missing_in_dictionary",
+      "sources": {
+        "oewn": {
+          "headword": "exact",
+          "multiple": true,
+          "pos": "exact",
+          "glossEn": "missing",
+          "pron": "missing_in_dictionary",
+          "dictPos": [
+            "adjective",
+            "noun"
+          ]
+        }
+      }
+    },
+    {
+      "id": "zh-00426",
+      "headword": "一边",
+      "language": "chinese",
+      "verdict": "verified",
+      "headwordStatus": "exact",
+      "pos": "missing_in_dictionary",
+      "glossEn": "exact",
+      "pron": "exact",
+      "sources": {
+        "cedict": {
+          "headword": "exact",
+          "multiple": false,
+          "pos": "missing_in_dictionary",
+          "glossEn": "exact",
+          "pron": "exact",
+          "dictPos": []
+        }
+      }
+    },
+    {
+      "id": "zh-02747",
+      "headword": "圈",
+      "language": "chinese",
+      "verdict": "verified",
+      "headwordStatus": "exact",
+      "pos": "missing_in_dictionary",
+      "glossEn": "exact",
+      "pron": "exact",
+      "sources": {
+        "cedict": {
+          "headword": "exact",
+          "multiple": true,
+          "pos": "missing_in_dictionary",
+          "glossEn": "exact",
+          "pron": "exact",
+          "dictPos": []
+        }
+      }
+    },
+    {
+      "id": "es-00432",
+      "headword": "dulce",
+      "language": "spanish",
+      "verdict": "not_checked",
+      "headwordStatus": "not_checked",
+      "pos": "not_checked",
+      "glossEn": "not_checked",
+      "pron": "not_checked",
+      "sources": {}
+    },
+    {
+      "id": "es-01405",
+      "headword": "Cristo",
+      "language": "spanish",
+      "verdict": "not_checked",
+      "headwordStatus": "not_checked",
+      "pos": "not_checked",
+      "glossEn": "not_checked",
+      "pron": "not_checked",
+      "sources": {}
+    },
+    {
+      "id": "fr-00092",
+      "headword": "ensemble",
+      "language": "french",
+      "verdict": "not_checked",
+      "headwordStatus": "not_checked",
+      "pos": "not_checked",
+      "glossEn": "not_checked",
+      "pron": "not_checked",
+      "sources": {}
+    },
+    {
+      "id": "fr-00645",
+      "headword": "expérience",
+      "language": "french",
+      "verdict": "not_checked",
+      "headwordStatus": "not_checked",
+      "pos": "not_checked",
+      "glossEn": "not_checked",
+      "pron": "not_checked",
+      "sources": {}
+    },
+    {
+      "id": "fr-01022",
+      "headword": "émission",
+      "language": "french",
+      "verdict": "not_checked",
+      "headwordStatus": "not_checked",
+      "pos": "not_checked",
+      "glossEn": "not_checked",
+      "pron": "not_checked",
+      "sources": {}
+    },
+    {
+      "id": "de-00539",
+      "headword": "Raum",
+      "language": "german",
+      "verdict": "not_checked",
+      "headwordStatus": "not_checked",
+      "pos": "not_checked",
+      "glossEn": "not_checked",
+      "pron": "not_checked",
+      "sources": {}
+    },
+    {
+      "id": "de-00648",
+      "headword": "Weihnachten",
+      "language": "german",
+      "verdict": "not_checked",
+      "headwordStatus": "not_checked",
+      "pos": "not_checked",
+      "glossEn": "not_checked",
+      "pron": "not_checked",
+      "sources": {}
+    },
+    {
+      "id": "de-00743",
+      "headword": "Abendessen",
+      "language": "german",
+      "verdict": "not_checked",
+      "headwordStatus": "not_checked",
+      "pos": "not_checked",
+      "glossEn": "not_checked",
+      "pron": "not_checked",
+      "sources": {}
+    }
+  ],
+  "misjudgmentPatterns": [
+    {
+      "pattern": "英語はアプリに英語グロスが無く語義照合不可",
+      "handling": "glossEn=missing。見出し・品詞のみOEWN照合、語義はnot確認。verifiedにしない"
+    },
+    {
+      "pattern": "中国語はCC-CEDICTに品詞が無い",
+      "handling": "pos=missing_in_dictionary。見出し・語義・拼音で照合。品詞は別途"
+    },
+    {
+      "pattern": "ローカル辞書の無い言語(韓/西/独/仏/葡/波/露)は全件not_checked",
+      "handling": "未確認を一致扱いしない。Kaikki言語別ダンプ配置で対応可"
+    }
+  ]
+}

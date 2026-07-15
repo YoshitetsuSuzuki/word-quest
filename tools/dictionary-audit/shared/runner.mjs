@@ -20,11 +20,15 @@ const cfg = JSON.parse(fs.readFileSync(path.join(auditRoot, 'config', 'languages
 const licenses = JSON.parse(fs.readFileSync(path.join(auditRoot, 'config', 'licenses.json'), 'utf8'))
 
 export function parseArgs(argv) {
-  const o = { limit: null, offset: 0, ids: null, all: false, noNet: false }
+  const o = { limit: null, offset: 0, ids: null, all: false, noNet: false, localOnly: false, resume: false, restart: false, batchSize: 500 }
   for (let i = 0; i < argv.length; i++) {
     const a = argv[i]
     if (a === '--all') o.all = true
     else if (a === '--no-net') o.noNet = true
+    else if (a === '--local-only') { o.localOnly = true; o.noNet = true }
+    else if (a === '--resume') o.resume = true
+    else if (a === '--restart') o.restart = true
+    else if (a === '--batch-size') o.batchSize = parseInt(argv[++i], 10)
     else if (a === '--limit') o.limit = parseInt(argv[++i], 10)
     else if (a === '--offset') o.offset = parseInt(argv[++i], 10)
     else if (a === '--ids') o.ids = argv[++i].split(',').map((s) => s.trim()).filter(Boolean)
@@ -47,6 +51,8 @@ export async function runLanguage(langKey, argv = []) {
   const langCfg = cfg.languages[langKey] || cfg.futureLanguages[langKey]
   if (!langCfg) { console.error('未知の言語:', langKey); process.exit(1) }
   const opts = parseArgs(argv)
+  // ローカル辞書モード(ネット不使用)は local-engine へ委譲
+  if (opts.localOnly) { const { runLocal } = await import('./local-engine.mjs'); return runLocal(langKey, opts) }
   const all = loadWordbank(langCfg)
   if (!all) { console.error(`wordbank/${langCfg.dir} が見つかりません（未対応言語?）`); process.exit(1) }
 

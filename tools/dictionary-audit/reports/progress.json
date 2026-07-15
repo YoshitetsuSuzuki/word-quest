@@ -1,0 +1,105 @@
+{
+  "english": {
+    "language": "english",
+    "total": 8136,
+    "processed": 8136,
+    "lastId": "en-23000",
+    "batchSize": 500,
+    "status": "done",
+    "dictionaryVersions": {
+      "oewn": "downloaded-2026-07-15"
+    },
+    "startedAt": "2026-07-15T16:07:28.821Z",
+    "updatedAt": "2026-07-15T16:12:22.045Z"
+  },
+  "chinese": {
+    "language": "chinese",
+    "total": 4201,
+    "processed": 4201,
+    "lastId": "zh-04201",
+    "batchSize": 500,
+    "status": "done",
+    "dictionaryVersions": {
+      "cedict": "downloaded-2026-07-15"
+    },
+    "startedAt": "2026-07-15T16:07:29.255Z",
+    "updatedAt": "2026-07-15T16:12:22.541Z"
+  },
+  "korean": {
+    "language": "korean",
+    "total": 1529,
+    "processed": 1529,
+    "lastId": "ko-01529",
+    "batchSize": 500,
+    "status": "done",
+    "dictionaryVersions": {},
+    "startedAt": "2026-07-15T16:09:42.784Z",
+    "updatedAt": "2026-07-15T16:12:22.580Z"
+  },
+  "spanish": {
+    "language": "spanish",
+    "total": 1948,
+    "processed": 1948,
+    "lastId": "es-02000",
+    "batchSize": 500,
+    "status": "done",
+    "dictionaryVersions": {},
+    "startedAt": "2026-07-15T16:09:42.789Z",
+    "updatedAt": "2026-07-15T16:12:22.587Z"
+  },
+  "german": {
+    "language": "german",
+    "total": 1919,
+    "processed": 1919,
+    "lastId": "de-02000",
+    "batchSize": 500,
+    "status": "done",
+    "dictionaryVersions": {},
+    "startedAt": "2026-07-15T16:09:42.794Z",
+    "updatedAt": "2026-07-15T16:12:22.593Z"
+  },
+  "french": {
+    "language": "french",
+    "total": 1948,
+    "processed": 1948,
+    "lastId": "fr-02000",
+    "batchSize": 500,
+    "status": "done",
+    "dictionaryVersions": {},
+    "startedAt": "2026-07-15T16:09:42.798Z",
+    "updatedAt": "2026-07-15T16:12:22.600Z"
+  },
+  "portuguese": {
+    "language": "portuguese",
+    "total": 150,
+    "processed": 150,
+    "lastId": "pt-00150",
+    "batchSize": 500,
+    "status": "done",
+    "dictionaryVersions": {},
+    "startedAt": "2026-07-15T16:09:42.799Z",
+    "updatedAt": "2026-07-15T16:12:22.604Z"
+  },
+  "polish": {
+    "language": "polish",
+    "total": 150,
+    "processed": 150,
+    "lastId": "pl-00150",
+    "batchSize": 500,
+    "status": "done",
+    "dictionaryVersions": {},
+    "startedAt": "2026-07-15T16:09:42.800Z",
+    "updatedAt": "2026-07-15T16:12:22.605Z"
+  },
+  "russian": {
+    "language": "russian",
+    "total": 150,
+    "processed": 150,
+    "lastId": "ru-00150",
+    "batchSize": 500,
+    "status": "done",
+    "dictionaryVersions": {},
+    "startedAt": "2026-07-15T16:09:42.801Z",
+    "updatedAt": "2026-07-15T16:12:22.606Z"
+  }
+}
