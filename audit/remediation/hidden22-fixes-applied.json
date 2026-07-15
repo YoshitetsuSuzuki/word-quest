@@ -1,0 +1,25 @@
+[
+  {
+    "id": "en-21406",
+    "file": "public/wordbank/english/level-6.json",
+    "headword": "bouncing",
+    "fieldChanges": [
+      {
+        "field": "example",
+        "before": "",
+        "after": "The proud parents cuddled their bouncing baby boy. — 誇らしげな両親は元気な男の赤ちゃんを抱きしめた。"
+      },
+      {
+        "field": "exampleForm",
+        "before": "",
+        "after": "bouncing"
+      }
+    ],
+    "verifiedSense": "healthy and robust (of a baby)",
+    "sourcesChecked": [
+      "dictionaryapi.dev (Wiktionary CC-BY-SA)"
+    ],
+    "selectedCandidate": "A",
+    "confidence": 0.98
+  }
+]

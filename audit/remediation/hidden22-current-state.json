@@ -1,0 +1,612 @@
+[
+  {
+    "id": "en-02892",
+    "file": "english/level-4.json",
+    "headword": "john",
+    "answer": "手洗い",
+    "choices": [
+      "優しい",
+      "最も低い",
+      "手洗い",
+      "恐ろしい"
+    ],
+    "pronunciation": "/ˈdʒɑn/",
+    "tags": [
+      "形容詞"
+    ],
+    "currentExample": "",
+    "currentExampleForm": "",
+    "auditedCentralSense": "手洗い",
+    "dictStatus": "matched",
+    "dictSensesConfirmed": [
+      "toilet",
+      "lavatory"
+    ],
+    "dictPos": [
+      "noun"
+    ]
+  },
+  {
+    "id": "en-02925",
+    "file": "english/level-4.json",
+    "headword": "yahoo",
+    "answer": "乱暴者",
+    "choices": [
+      "中古の",
+      "黒い漆",
+      "難民",
+      "乱暴者"
+    ],
+    "pronunciation": "/ˈjɑˌhu/",
+    "tags": [
+      "名詞"
+    ],
+    "currentExample": "",
+    "currentExampleForm": "",
+    "auditedCentralSense": "乱暴者",
+    "dictStatus": "matched",
+    "dictSensesConfirmed": [
+      "lout",
+      "uncouth"
+    ],
+    "dictPos": [
+      "noun",
+      "verb",
+      "interjection"
+    ]
+  },
+  {
+    "id": "en-03158",
+    "file": "english/level-4.json",
+    "headword": "zip",
+    "answer": "ビュッという音",
+    "choices": [
+      "会報",
+      "～を含めて",
+      "買い物",
+      "ビュッという音"
+    ],
+    "pronunciation": "/ˈzɪp/",
+    "tags": [
+      "名詞"
+    ],
+    "currentExample": "",
+    "currentExampleForm": "",
+    "auditedCentralSense": "ビュッという音",
+    "dictStatus": "matched",
+    "dictSensesConfirmed": [
+      "sound"
+    ],
+    "dictPos": [
+      "noun",
+      "verb",
+      "pronoun",
+      "interjection"
+    ]
+  },
+  {
+    "id": "en-03412",
+    "file": "english/level-4.json",
+    "headword": "tom",
+    "answer": "雄",
+    "choices": [
+      "雄",
+      "レンタル",
+      "休暇",
+      "証明書"
+    ],
+    "pronunciation": "/ˈtɑm/",
+    "tags": [
+      "名詞"
+    ],
+    "currentExample": "",
+    "currentExampleForm": "",
+    "auditedCentralSense": "雄",
+    "dictStatus": "matched",
+    "dictSensesConfirmed": [
+      "male"
+    ],
+    "dictPos": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "en-03820",
+    "file": "english/level-4.json",
+    "headword": "con",
+    "answer": "反対投票",
+    "choices": [
+      "発見",
+      "実験室",
+      "反対投票",
+      "集会"
+    ],
+    "pronunciation": "/ˈkɑn/",
+    "tags": [
+      "名詞"
+    ],
+    "currentExample": "",
+    "currentExampleForm": "",
+    "auditedCentralSense": "反対投票",
+    "dictStatus": "partially_matched",
+    "dictSensesConfirmed": [],
+    "dictPos": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "en-04080",
+    "file": "english/level-4.json",
+    "headword": "victoria",
+    "answer": "二人乗り四輪ほろ馬車",
+    "choices": [
+      "幹線道路",
+      "二人乗り四輪ほろ馬車",
+      "水晶",
+      "残り"
+    ],
+    "pronunciation": "/vɪkˈtɔɹiə/",
+    "tags": [
+      "名詞"
+    ],
+    "currentExample": "",
+    "currentExampleForm": "",
+    "auditedCentralSense": "二人乗り四輪ほろ馬車",
+    "dictStatus": "matched",
+    "dictSensesConfirmed": [
+      "carriage"
+    ],
+    "dictPos": [
+      "noun"
+    ]
+  },
+  {
+    "id": "en-04192",
+    "file": "english/level-4.json",
+    "headword": "holding",
+    "answer": "しっかり握ること",
+    "choices": [
+      "転換",
+      "おや",
+      "しっかり握ること",
+      "設定"
+    ],
+    "pronunciation": "/ˈhoʊɫdɪŋ/",
+    "tags": [
+      "名詞"
+    ],
+    "currentExample": "",
+    "currentExampleForm": "",
+    "auditedCentralSense": "しっかり握ること",
+    "dictStatus": "matched",
+    "dictSensesConfirmed": [
+      "grip",
+      "hold",
+      "grasp"
+    ],
+    "dictPos": [
+      "verb",
+      "noun"
+    ]
+  },
+  {
+    "id": "en-04411",
+    "file": "english/level-4.json",
+    "headword": "ultra",
+    "answer": "極端な",
+    "choices": [
+      "多様な",
+      "崇高な",
+      "極端な",
+      "自発的な"
+    ],
+    "pronunciation": "/ˈəɫtɹə/",
+    "tags": [
+      "形容詞"
+    ],
+    "currentExample": "",
+    "currentExampleForm": "",
+    "auditedCentralSense": "極端な",
+    "dictStatus": "matched",
+    "dictSensesConfirmed": [
+      "extreme",
+      "extremist"
+    ],
+    "dictPos": [
+      "noun",
+      "adjective"
+    ]
+  },
+  {
+    "id": "en-06272",
+    "file": "english/level-5.json",
+    "headword": "macintosh",
+    "answer": "防水コート",
+    "choices": [
+      "防水コート",
+      "外れた",
+      "終了",
+      "艦隊"
+    ],
+    "pronunciation": "/ˈmækənˌtɔʃ/",
+    "tags": [
+      "名詞"
+    ],
+    "currentExample": "",
+    "currentExampleForm": "",
+    "auditedCentralSense": "防水コート",
+    "dictStatus": "matched",
+    "dictSensesConfirmed": [
+      "raincoat"
+    ],
+    "dictPos": [
+      "noun"
+    ]
+  },
+  {
+    "id": "en-06281",
+    "file": "english/level-5.json",
+    "headword": "hanging",
+    "answer": "絞首刑",
+    "choices": [
+      "討論会",
+      "接続器",
+      "論文",
+      "絞首刑"
+    ],
+    "pronunciation": "/ˈhæŋɡɪŋ/",
+    "tags": [
+      "名詞"
+    ],
+    "currentExample": "",
+    "currentExampleForm": "",
+    "auditedCentralSense": "絞首刑",
+    "dictStatus": "matched",
+    "dictSensesConfirmed": [
+      "hang",
+      "gallows"
+    ],
+    "dictPos": [
+      "verb",
+      "adjective",
+      "noun"
+    ]
+  },
+  {
+    "id": "en-20363",
+    "file": "english/level-6.json",
+    "headword": "scotch",
+    "answer": "押しつぶす",
+    "choices": [
+      "〜に気をつける",
+      "目が覚めている",
+      "降伏する",
+      "押しつぶす"
+    ],
+    "pronunciation": "/ˈskɑtʃ/",
+    "tags": [
+      "動詞"
+    ],
+    "currentExample": "",
+    "currentExampleForm": "",
+    "auditedCentralSense": "押しつぶす",
+    "dictStatus": "partially_matched",
+    "dictSensesConfirmed": [],
+    "dictPos": [
+      "noun",
+      "verb",
+      "adjective"
+    ]
+  },
+  {
+    "id": "en-20434",
+    "file": "english/level-6.json",
+    "headword": "smashed",
+    "answer": "酔っぱらった",
+    "choices": [
+      "セーター",
+      "野心",
+      "酔っぱらった",
+      "スミレ"
+    ],
+    "pronunciation": "/ˈsmæʃt/",
+    "tags": [
+      "名詞"
+    ],
+    "currentExample": "",
+    "currentExampleForm": "",
+    "auditedCentralSense": "酔っぱらった",
+    "dictStatus": "matched",
+    "dictSensesConfirmed": [
+      "drunk"
+    ],
+    "dictPos": [
+      "verb",
+      "adjective"
+    ]
+  },
+  {
+    "id": "en-21103",
+    "file": "english/level-6.json",
+    "headword": "bender",
+    "answer": "酒を飲んでの大騒ぎ",
+    "choices": [
+      "ナイトクラブ",
+      "酒を飲んでの大騒ぎ",
+      "ほうき",
+      "ヒキガエル"
+    ],
+    "pronunciation": "/ˈbɛndɝ/",
+    "tags": [
+      "名詞"
+    ],
+    "currentExample": "",
+    "currentExampleForm": "",
+    "auditedCentralSense": "酒を飲んでの大騒ぎ",
+    "dictStatus": "matched",
+    "dictSensesConfirmed": [
+      "drinking",
+      "spree"
+    ],
+    "dictPos": [
+      "noun",
+      "interjection"
+    ]
+  },
+  {
+    "id": "en-21128",
+    "file": "english/level-6.json",
+    "headword": "wheeler",
+    "answer": "トラック運搬者",
+    "choices": [
+      "トラック運搬者",
+      "花びん",
+      "浴槽",
+      "深い愛情"
+    ],
+    "pronunciation": "/ˈhwiɫɝ/",
+    "tags": [
+      "名詞"
+    ],
+    "currentExample": "",
+    "currentExampleForm": "",
+    "auditedCentralSense": "トラック運搬者",
+    "dictStatus": "matched",
+    "dictSensesConfirmed": [
+      "wheel",
+      "vehicle"
+    ],
+    "dictPos": [
+      "noun"
+    ]
+  },
+  {
+    "id": "en-21268",
+    "file": "english/level-6.json",
+    "headword": "tong",
+    "answer": "在米中国人の友愛団体",
+    "choices": [
+      "モットー",
+      "在米中国人の友愛団体",
+      "夜間外出禁止令",
+      "右舷"
+    ],
+    "pronunciation": "/ˈtɔŋ/",
+    "tags": [
+      "名詞"
+    ],
+    "currentExample": "",
+    "currentExampleForm": "",
+    "auditedCentralSense": "在米中国人の友愛団体",
+    "dictStatus": "matched",
+    "dictSensesConfirmed": [
+      "society",
+      "secret",
+      "chinese"
+    ],
+    "dictPos": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "en-21293",
+    "file": "english/level-6.json",
+    "headword": "blasted",
+    "answer": "いまいましい，のろわれた",
+    "choices": [
+      "強く押す",
+      "予想",
+      "いまいましい，のろわれた",
+      "思いやりのある"
+    ],
+    "pronunciation": "/ˈbɫæstəd/",
+    "tags": [
+      "名詞"
+    ],
+    "currentExample": "",
+    "currentExampleForm": "",
+    "auditedCentralSense": "いまいましい，のろわれた",
+    "dictStatus": "matched",
+    "dictSensesConfirmed": [
+      "damned",
+      "cursed",
+      "damn"
+    ],
+    "dictPos": [
+      "verb",
+      "adjective",
+      "adverb"
+    ]
+  },
+  {
+    "id": "en-21406",
+    "file": "english/level-6.json",
+    "headword": "bouncing",
+    "answer": "健康な",
+    "choices": [
+      "気づかない",
+      "怪物のような",
+      "ありそうな",
+      "健康な"
+    ],
+    "pronunciation": "/ˈbaʊnsɪŋ/",
+    "tags": [
+      "形容詞"
+    ],
+    "currentExample": "",
+    "currentExampleForm": "",
+    "auditedCentralSense": "健康な",
+    "dictStatus": "matched",
+    "dictSensesConfirmed": [
+      "healthy",
+      "vigorous"
+    ],
+    "dictPos": [
+      "verb",
+      "noun",
+      "adjective"
+    ]
+  },
+  {
+    "id": "en-21935",
+    "file": "english/level-7.json",
+    "headword": "ting",
+    "answer": "チリンチリンと鳴らす",
+    "choices": [
+      "著しく",
+      "チリンチリンと鳴らす",
+      "きらきら輝く",
+      "はさむ"
+    ],
+    "pronunciation": "/ˈtɪŋ/",
+    "tags": [
+      "動詞"
+    ],
+    "currentExample": "",
+    "currentExampleForm": "",
+    "auditedCentralSense": "チリンチリンと鳴らす",
+    "dictStatus": "matched",
+    "dictSensesConfirmed": [
+      "sound"
+    ],
+    "dictPos": [
+      "noun",
+      "verb",
+      "interjection"
+    ]
+  },
+  {
+    "id": "en-22638",
+    "file": "english/level-7.json",
+    "headword": "blinking",
+    "answer": "まったくひどい",
+    "choices": [
+      "救いようのない",
+      "まったくひどい",
+      "身分の低い",
+      "活発な"
+    ],
+    "pronunciation": "/ˈbɫɪŋkɪŋ/",
+    "tags": [
+      "形容詞"
+    ],
+    "currentExample": "",
+    "currentExampleForm": "",
+    "auditedCentralSense": "まったくひどい",
+    "dictStatus": "matched",
+    "dictSensesConfirmed": [
+      "bloody"
+    ],
+    "dictPos": [
+      "verb",
+      "noun",
+      "adjective"
+    ]
+  },
+  {
+    "id": "en-22747",
+    "file": "english/level-7.json",
+    "headword": "dickens",
+    "answer": "悪魔",
+    "choices": [
+      "悪魔",
+      "ボンネット",
+      "勇敢に",
+      "毛で覆われた"
+    ],
+    "pronunciation": "/ˈdɪkənz/",
+    "tags": [
+      "名詞"
+    ],
+    "currentExample": "",
+    "currentExampleForm": "",
+    "auditedCentralSense": "悪魔",
+    "dictStatus": "matched",
+    "dictSensesConfirmed": [
+      "devil"
+    ],
+    "dictPos": [
+      "noun"
+    ]
+  },
+  {
+    "id": "en-22855",
+    "file": "english/level-7.json",
+    "headword": "tat",
+    "answer": "タッチングで作る",
+    "choices": [
+      "木",
+      "肖像画",
+      "タッチングで作る",
+      "害"
+    ],
+    "pronunciation": "/ˈtæt/",
+    "tags": [
+      "動詞"
+    ],
+    "currentExample": "",
+    "currentExampleForm": "",
+    "auditedCentralSense": "タッチングで作る",
+    "dictStatus": "matched",
+    "dictSensesConfirmed": [
+      "tatting",
+      "tat"
+    ],
+    "dictPos": [
+      "noun",
+      "verb"
+    ]
+  },
+  {
+    "id": "en-22971",
+    "file": "english/level-7.json",
+    "headword": "gaga",
+    "answer": "夢中の，ぼけた",
+    "choices": [
+      "敷居",
+      "夢中の，ぼけた",
+      "果汁",
+      "新聞"
+    ],
+    "pronunciation": "/ˈɡɑˌɡə/",
+    "tags": [
+      "名詞"
+    ],
+    "currentExample": "",
+    "currentExampleForm": "",
+    "auditedCentralSense": "夢中の，ぼけた",
+    "dictStatus": "matched",
+    "dictSensesConfirmed": [
+      "infatuated",
+      "crazy",
+      "senile"
+    ],
+    "dictPos": [
+      "adjective",
+      "noun"
+    ]
+  }
+]

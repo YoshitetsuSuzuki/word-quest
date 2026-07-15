@@ -1,0 +1,212 @@
+[
+  {
+    "id": "en-02892",
+    "headword": "john",
+    "reason": "監査 warning・confidence 0.9<0.98",
+    "dictionaryStatus": "matched",
+    "reviewVerdict": "warning",
+    "confidence": 0.9,
+    "keptHidden": true,
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-02925",
+    "headword": "yahoo",
+    "reason": "監査 warning・confidence 0.92<0.98",
+    "dictionaryStatus": "matched",
+    "reviewVerdict": "warning",
+    "confidence": 0.92,
+    "keptHidden": true,
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-03158",
+    "headword": "zip",
+    "reason": "監査 warning・confidence 0.88<0.98",
+    "dictionaryStatus": "matched",
+    "reviewVerdict": "warning",
+    "confidence": 0.88,
+    "keptHidden": true,
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-03412",
+    "headword": "tom",
+    "reason": "監査 warning・confidence 0.9<0.98",
+    "dictionaryStatus": "matched",
+    "reviewVerdict": "warning",
+    "confidence": 0.9,
+    "keptHidden": true,
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-03820",
+    "headword": "con",
+    "reason": "辞書 partially_matched のため規則により自動適用対象外",
+    "dictionaryStatus": "partially_matched",
+    "reviewVerdict": "reject",
+    "confidence": 0,
+    "keptHidden": true,
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-04080",
+    "headword": "victoria",
+    "reason": "監査 warning・confidence 0.83<0.98",
+    "dictionaryStatus": "matched",
+    "reviewVerdict": "warning",
+    "confidence": 0.83,
+    "keptHidden": true,
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-04192",
+    "headword": "holding",
+    "reason": "監査 warning・confidence 0.8<0.98",
+    "dictionaryStatus": "matched",
+    "reviewVerdict": "warning",
+    "confidence": 0.8,
+    "keptHidden": true,
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-04411",
+    "headword": "ultra",
+    "reason": "監査 warning・confidence 0.82<0.98",
+    "dictionaryStatus": "matched",
+    "reviewVerdict": "warning",
+    "confidence": 0.82,
+    "keptHidden": true,
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-06272",
+    "headword": "macintosh",
+    "reason": "監査 warning・confidence 0.88<0.98",
+    "dictionaryStatus": "matched",
+    "reviewVerdict": "warning",
+    "confidence": 0.88,
+    "keptHidden": true,
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-06281",
+    "headword": "hanging",
+    "reason": "登録語義=絞首刑。規則11(刑罰)に適合する安全例文を作成不可",
+    "dictionaryStatus": "matched",
+    "reviewVerdict": "reject",
+    "confidence": 0,
+    "keptHidden": true,
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-20363",
+    "headword": "scotch",
+    "reason": "辞書 partially_matched のため自動適用対象外",
+    "dictionaryStatus": "partially_matched",
+    "reviewVerdict": "reject",
+    "confidence": 0,
+    "keptHidden": true,
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-20434",
+    "headword": "smashed",
+    "reason": "登録語義=酔っぱらった。規則11(飲酒)に適合不可",
+    "dictionaryStatus": "matched",
+    "reviewVerdict": "reject",
+    "confidence": 0,
+    "keptHidden": true,
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-21103",
+    "headword": "bender",
+    "reason": "登録語義=酒盛り。規則11(飲酒)に適合不可",
+    "dictionaryStatus": "matched",
+    "reviewVerdict": "reject",
+    "confidence": 0,
+    "keptHidden": true,
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-21128",
+    "headword": "wheeler",
+    "reason": "監査 warning・confidence 0.83<0.98",
+    "dictionaryStatus": "matched",
+    "reviewVerdict": "warning",
+    "confidence": 0.83,
+    "keptHidden": true,
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-21268",
+    "headword": "tong",
+    "reason": "特定民族の秘密結社義。ステレオタイプ/犯罪連想を避けられず規則11不可",
+    "dictionaryStatus": "matched",
+    "reviewVerdict": "reject",
+    "confidence": 0,
+    "keptHidden": true,
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-21293",
+    "headword": "blasted",
+    "reason": "監査 warning・confidence 0.85<0.98",
+    "dictionaryStatus": "matched",
+    "reviewVerdict": "warning",
+    "confidence": 0.85,
+    "keptHidden": true,
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-21935",
+    "headword": "ting",
+    "reason": "監査 warning・confidence 0.82<0.98",
+    "dictionaryStatus": "matched",
+    "reviewVerdict": "warning",
+    "confidence": 0.82,
+    "keptHidden": true,
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22638",
+    "headword": "blinking",
+    "reason": "監査 warning・confidence 0.85<0.98",
+    "dictionaryStatus": "matched",
+    "reviewVerdict": "warning",
+    "confidence": 0.85,
+    "keptHidden": true,
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22747",
+    "headword": "dickens",
+    "reason": "監査 warning・confidence 0.86<0.98",
+    "dictionaryStatus": "matched",
+    "reviewVerdict": "warning",
+    "confidence": 0.86,
+    "keptHidden": true,
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22855",
+    "headword": "tat",
+    "reason": "監査 warning・confidence 0.83<0.98",
+    "dictionaryStatus": "matched",
+    "reviewVerdict": "warning",
+    "confidence": 0.83,
+    "keptHidden": true,
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22971",
+    "headword": "gaga",
+    "reason": "監査 warning・confidence 0.96<0.98",
+    "dictionaryStatus": "matched",
+    "reviewVerdict": "warning",
+    "confidence": 0.96,
+    "keptHidden": true,
+    "requiresHumanReview": true
+  }
+]

@@ -1,0 +1,300 @@
+[
+  {
+    "id": "en-02892",
+    "headword": "john",
+    "answer": "手洗い",
+    "dictionaryStatus": "matched",
+    "answerSenseConfirmed": true,
+    "matchedKeywords": [
+      "toilet",
+      "lavatory"
+    ],
+    "source": "dictionaryapi.dev (Wiktionary CC-BY-SA) 既取得結果を利用",
+    "autoApplyEligible": true,
+    "note": ""
+  },
+  {
+    "id": "en-02925",
+    "headword": "yahoo",
+    "answer": "乱暴者",
+    "dictionaryStatus": "matched",
+    "answerSenseConfirmed": true,
+    "matchedKeywords": [
+      "lout",
+      "uncouth"
+    ],
+    "source": "dictionaryapi.dev (Wiktionary CC-BY-SA) 既取得結果を利用",
+    "autoApplyEligible": true,
+    "note": ""
+  },
+  {
+    "id": "en-03158",
+    "headword": "zip",
+    "answer": "ビュッという音",
+    "dictionaryStatus": "matched",
+    "answerSenseConfirmed": true,
+    "matchedKeywords": [
+      "sound"
+    ],
+    "source": "dictionaryapi.dev (Wiktionary CC-BY-SA) 既取得結果を利用",
+    "autoApplyEligible": true,
+    "note": ""
+  },
+  {
+    "id": "en-03412",
+    "headword": "tom",
+    "answer": "雄",
+    "dictionaryStatus": "matched",
+    "answerSenseConfirmed": true,
+    "matchedKeywords": [
+      "male"
+    ],
+    "source": "dictionaryapi.dev (Wiktionary CC-BY-SA) 既取得結果を利用",
+    "autoApplyEligible": true,
+    "note": ""
+  },
+  {
+    "id": "en-03820",
+    "headword": "con",
+    "answer": "反対投票",
+    "dictionaryStatus": "partially_matched",
+    "answerSenseConfirmed": false,
+    "matchedKeywords": [],
+    "source": "dictionaryapi.dev (Wiktionary CC-BY-SA) 既取得結果を利用",
+    "autoApplyEligible": false,
+    "note": "matched以外→人間確認"
+  },
+  {
+    "id": "en-04080",
+    "headword": "victoria",
+    "answer": "二人乗り四輪ほろ馬車",
+    "dictionaryStatus": "matched",
+    "answerSenseConfirmed": true,
+    "matchedKeywords": [
+      "carriage"
+    ],
+    "source": "dictionaryapi.dev (Wiktionary CC-BY-SA) 既取得結果を利用",
+    "autoApplyEligible": true,
+    "note": ""
+  },
+  {
+    "id": "en-04192",
+    "headword": "holding",
+    "answer": "しっかり握ること",
+    "dictionaryStatus": "matched",
+    "answerSenseConfirmed": true,
+    "matchedKeywords": [
+      "grip",
+      "hold",
+      "grasp"
+    ],
+    "source": "dictionaryapi.dev (Wiktionary CC-BY-SA) 既取得結果を利用",
+    "autoApplyEligible": true,
+    "note": ""
+  },
+  {
+    "id": "en-04411",
+    "headword": "ultra",
+    "answer": "極端な",
+    "dictionaryStatus": "matched",
+    "answerSenseConfirmed": true,
+    "matchedKeywords": [
+      "extreme",
+      "extremist"
+    ],
+    "source": "dictionaryapi.dev (Wiktionary CC-BY-SA) 既取得結果を利用",
+    "autoApplyEligible": true,
+    "note": ""
+  },
+  {
+    "id": "en-06272",
+    "headword": "macintosh",
+    "answer": "防水コート",
+    "dictionaryStatus": "matched",
+    "answerSenseConfirmed": true,
+    "matchedKeywords": [
+      "raincoat"
+    ],
+    "source": "dictionaryapi.dev (Wiktionary CC-BY-SA) 既取得結果を利用",
+    "autoApplyEligible": true,
+    "note": ""
+  },
+  {
+    "id": "en-06281",
+    "headword": "hanging",
+    "answer": "絞首刑",
+    "dictionaryStatus": "matched",
+    "answerSenseConfirmed": true,
+    "matchedKeywords": [
+      "hang",
+      "gallows"
+    ],
+    "source": "dictionaryapi.dev (Wiktionary CC-BY-SA) 既取得結果を利用",
+    "autoApplyEligible": true,
+    "note": ""
+  },
+  {
+    "id": "en-20363",
+    "headword": "scotch",
+    "answer": "押しつぶす",
+    "dictionaryStatus": "partially_matched",
+    "answerSenseConfirmed": false,
+    "matchedKeywords": [],
+    "source": "dictionaryapi.dev (Wiktionary CC-BY-SA) 既取得結果を利用",
+    "autoApplyEligible": false,
+    "note": "matched以外→人間確認"
+  },
+  {
+    "id": "en-20434",
+    "headword": "smashed",
+    "answer": "酔っぱらった",
+    "dictionaryStatus": "matched",
+    "answerSenseConfirmed": true,
+    "matchedKeywords": [
+      "drunk"
+    ],
+    "source": "dictionaryapi.dev (Wiktionary CC-BY-SA) 既取得結果を利用",
+    "autoApplyEligible": true,
+    "note": ""
+  },
+  {
+    "id": "en-21103",
+    "headword": "bender",
+    "answer": "酒を飲んでの大騒ぎ",
+    "dictionaryStatus": "matched",
+    "answerSenseConfirmed": true,
+    "matchedKeywords": [
+      "drinking",
+      "spree"
+    ],
+    "source": "dictionaryapi.dev (Wiktionary CC-BY-SA) 既取得結果を利用",
+    "autoApplyEligible": true,
+    "note": ""
+  },
+  {
+    "id": "en-21128",
+    "headword": "wheeler",
+    "answer": "トラック運搬者",
+    "dictionaryStatus": "matched",
+    "answerSenseConfirmed": true,
+    "matchedKeywords": [
+      "wheel",
+      "vehicle"
+    ],
+    "source": "dictionaryapi.dev (Wiktionary CC-BY-SA) 既取得結果を利用",
+    "autoApplyEligible": true,
+    "note": ""
+  },
+  {
+    "id": "en-21268",
+    "headword": "tong",
+    "answer": "在米中国人の友愛団体",
+    "dictionaryStatus": "matched",
+    "answerSenseConfirmed": true,
+    "matchedKeywords": [
+      "society",
+      "secret",
+      "chinese"
+    ],
+    "source": "dictionaryapi.dev (Wiktionary CC-BY-SA) 既取得結果を利用",
+    "autoApplyEligible": true,
+    "note": ""
+  },
+  {
+    "id": "en-21293",
+    "headword": "blasted",
+    "answer": "いまいましい，のろわれた",
+    "dictionaryStatus": "matched",
+    "answerSenseConfirmed": true,
+    "matchedKeywords": [
+      "damned",
+      "cursed",
+      "damn"
+    ],
+    "source": "dictionaryapi.dev (Wiktionary CC-BY-SA) 既取得結果を利用",
+    "autoApplyEligible": true,
+    "note": ""
+  },
+  {
+    "id": "en-21406",
+    "headword": "bouncing",
+    "answer": "健康な",
+    "dictionaryStatus": "matched",
+    "answerSenseConfirmed": true,
+    "matchedKeywords": [
+      "healthy",
+      "vigorous"
+    ],
+    "source": "dictionaryapi.dev (Wiktionary CC-BY-SA) 既取得結果を利用",
+    "autoApplyEligible": true,
+    "note": ""
+  },
+  {
+    "id": "en-21935",
+    "headword": "ting",
+    "answer": "チリンチリンと鳴らす",
+    "dictionaryStatus": "matched",
+    "answerSenseConfirmed": true,
+    "matchedKeywords": [
+      "sound"
+    ],
+    "source": "dictionaryapi.dev (Wiktionary CC-BY-SA) 既取得結果を利用",
+    "autoApplyEligible": true,
+    "note": ""
+  },
+  {
+    "id": "en-22638",
+    "headword": "blinking",
+    "answer": "まったくひどい",
+    "dictionaryStatus": "matched",
+    "answerSenseConfirmed": true,
+    "matchedKeywords": [
+      "bloody"
+    ],
+    "source": "dictionaryapi.dev (Wiktionary CC-BY-SA) 既取得結果を利用",
+    "autoApplyEligible": true,
+    "note": ""
+  },
+  {
+    "id": "en-22747",
+    "headword": "dickens",
+    "answer": "悪魔",
+    "dictionaryStatus": "matched",
+    "answerSenseConfirmed": true,
+    "matchedKeywords": [
+      "devil"
+    ],
+    "source": "dictionaryapi.dev (Wiktionary CC-BY-SA) 既取得結果を利用",
+    "autoApplyEligible": true,
+    "note": ""
+  },
+  {
+    "id": "en-22855",
+    "headword": "tat",
+    "answer": "タッチングで作る",
+    "dictionaryStatus": "matched",
+    "answerSenseConfirmed": true,
+    "matchedKeywords": [
+      "tatting",
+      "tat"
+    ],
+    "source": "dictionaryapi.dev (Wiktionary CC-BY-SA) 既取得結果を利用",
+    "autoApplyEligible": true,
+    "note": ""
+  },
+  {
+    "id": "en-22971",
+    "headword": "gaga",
+    "answer": "夢中の，ぼけた",
+    "dictionaryStatus": "matched",
+    "answerSenseConfirmed": true,
+    "matchedKeywords": [
+      "infatuated",
+      "crazy",
+      "senile"
+    ],
+    "source": "dictionaryapi.dev (Wiktionary CC-BY-SA) 既取得結果を利用",
+    "autoApplyEligible": true,
+    "note": ""
+  }
+]
