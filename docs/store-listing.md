@@ -12,7 +12,7 @@
 - **対象年齢**: 4+（暴力・不適切表現なし）
 - **対応言語(学習)**: 英・中・韓・西・仏・独・ポルトガル・ロシア・ポーランド
 - **UI言語**: 日本語 / English
-- **プライバシーポリシーURL**: https://<公開後のドメイン>/word-quest/privacy.html
+- **プライバシーポリシーURL**: https://yoshitetsusuzuki.github.io/word-quest/privacy.html （公開済み）
 
 ---
 
