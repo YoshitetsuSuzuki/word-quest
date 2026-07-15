@@ -1,0 +1,9 @@
+[
+  { "id": "jp-06979", "en": "debate", "reason": "弁論は「討論・弁論・口頭弁論」の意。discussionは主要義から外れ弱いためdebateへ" },
+  { "id": "jp-07021", "en": "storage", "reason": "保管は「保管・保存・預かり」。chargeは誤りに近く不自然なためstorageへ" },
+  { "id": "jp-07113", "en": "plump", "reason": "丸々（まるまる）は「丸々と太った=plump」。動詞形『to plump』は不正確なため形容詞plumpへ" },
+  { "id": "jp-07170", "en": "son-in-law", "reason": "婿の主要義は「婿・娘婿」。husbandは誤解を招くためson-in-lawへ" },
+  { "id": "jp-07322", "en": "oppression", "reason": "抑圧は「抑圧・弾圧」。checkは主要義から外れ不適切なためoppressionへ" },
+  { "id": "jp-07351", "en": "lead", "reason": "リードは英語lead。『lied』は全く別語の明確な誤りのためleadへ修正" },
+  { "id": "jp-07414", "en": "poster", "reason": "張り紙は「貼り紙・掲示・ポスター」。『paper patch attached to something』は不自然なためposterへ" }
+]

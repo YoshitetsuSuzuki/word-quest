@@ -1,0 +1,17 @@
+[
+  { "id": "jp-01807", "en": "involuntarily", "reason": "思わずは「思わず/無意識に反射的に」。unconsciously(無意識に眠る等)は誤解を招くため主要義のinvoluntarily/unintentionallyへ" },
+  { "id": "jp-01826", "en": "overseas", "reason": "海外は「海外・国外」。foreignは形容詞的で不自然、overseas/abroadが主要義" },
+  { "id": "jp-01873", "en": "fire", "reason": "火災は災害としての火事。conflagrationは大火に限る硬い語で不自然、fireが自然" },
+  { "id": "jp-01905", "en": "necessarily", "reason": "必ずしもは(否定を伴い)「必ずしも〜ない=necessarily」。alwaysは誤り" },
+  { "id": "jp-01914", "en": "thunder", "reason": "雷の主要義はthunder(稲妻はlightning/稲妻)。第一義に修正" },
+  { "id": "jp-01929", "en": "to take the place of", "reason": "代る(かわる)は「代わる・交代する」。to succeed(継承)は不自然、to substitute/take the place of" },
+  { "id": "jp-02010", "en": "suddenly", "reason": "急には「突然に」。swiftly(素早く)ではなくsuddenly" },
+  { "id": "jp-02044", "en": "phrase", "reason": "句は「句・フレーズ・節」。sectionは不自然、phraseが主要義" },
+  { "id": "jp-02078", "en": "to hold in one's mouth", "reason": "咥える(くわえる)は「口にくわえる」。to add(加える)は完全な誤り" },
+  { "id": "jp-02233", "en": "last; previous (year, night)", "reason": "昨(さく)は接頭辞的に「昨・前(昨年・昨夜)」。to tearは前項の裂くからの写し誤り" },
+  { "id": "jp-02244", "en": "to insert", "reason": "挿す(さす)は「挿す・差し込む(花を挿す等)」。to shine(射す)は誤り" },
+  { "id": "jp-02256", "en": "discrimination", "reason": "差別の現代語主要義は「差別」。distinctionは弱く主要義でない" },
+  { "id": "jp-02268", "en": "ally", "reason": "味方は「味方・味方する側(敵の対義)」。friend(友達)は不正確、allyが主要義" },
+  { "id": "jp-02272", "en": "secret; dense", "reason": "密(みつ)は「密・秘密・密集」。threeは意味不明の誤り(例文も密かに)" },
+  { "id": "jp-02310", "en": "cotton", "reason": "綿は素材・繊維の「綿」。cotton plant(綿の木)ではなくcotton" }
+]

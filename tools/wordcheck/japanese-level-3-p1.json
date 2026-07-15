@@ -1,0 +1,22 @@
+[
+  { "id": "jp-01362", "en": "goods; article", "reason": "「品」はソート位置(じどう〜しはい間)より読みは『しな』。answer 'elegance'(ひん)は別読みで主要義でない。" },
+  { "id": "jp-01535", "en": "India ink; ink", "reason": "「墨」の answer 'sumi' はローマ字転写で英訳になっていない。英語の主要義は India ink。" },
+  { "id": "jp-01539", "en": "to do", "reason": "「為る」はソート位置(刷る する〜鋭い するどい間)より読みは『する』=to do。answer 'to become'(なる)は別読み。" },
+  { "id": "jp-01546", "en": "fault; cause", "reason": "「所為」(せい)の主要義は『〜のせい＝原因・責任』。answer 'consequence'は因果が逆で不適。" },
+  { "id": "jp-01547", "en": "tax", "reason": "「税」の意味は tax。answer 'group' は明確な誤り。" },
+  { "id": "jp-01601", "en": "to dawn; to end (of a period)", "reason": "「明ける」(あける)は『夜が明ける／期間が明ける』の意。answer 'to open' は別漢字『開ける』の意で誤り。" },
+  { "id": "jp-01602", "en": "to deep-fry", "reason": "「揚げる」の現代の主要義は『油で揚げる』。answer 'to raise' は直後の『挙げる』と重複し主要義でない。" },
+  { "id": "jp-01625", "en": "flaw; fault", "reason": "「粗」はソート位置(誤り あやまり〜嵐 あらし間)より読みは『あら』=欠点。answer 'almost'(ほぼ)は別読み。" },
+  { "id": "jp-01641", "en": "to panic; to be flustered", "reason": "「慌てる」の主要義。answer は冗長かつ英米綴り併記で不自然。" },
+  { "id": "jp-01664", "en": "sooner or later; eventually", "reason": "「いずれ」の現代の主要義は『そのうち・いずれ』。answer 'which' は文語的副次義で主要義でない。" },
+  { "id": "jp-01687", "en": "one side; on the other hand", "reason": "「一方」の主要義。answer 'one' は語義として不十分。" },
+  { "id": "jp-01729", "en": "to appeal; to sue", "reason": "「訴える」の主要義は『訴える・提訴する』。answer 'to raise' は不適・曖昧。" },
+  { "id": "jp-01733", "en": "to snatch; to rob", "reason": "「奪う」は『力ずくで奪い取る』が主要義。answer 'to take' は『取る』と紛れ核心を欠く。" },
+  { "id": "jp-01738", "en": "to bury; to fill in", "reason": "「埋める」の主要義は『埋める・穴を埋める』。answer 'to cover' は『覆う』寄りで不適。" },
+  { "id": "jp-01744", "en": "handle", "reason": "「柄」はソート位置(運 うん〜永遠 えいえん間)より読みは『え』=(道具の)柄。answer 'pattern'(がら)は別読み。" },
+  { "id": "jp-01755", "en": "to obtain; to gain", "reason": "「得る」(える)の主要義は『得る・手に入れる』。answer 'to be able to' は補助動詞『うる』の副次義。" },
+  { "id": "jp-01775", "en": "landlord", "reason": "「大家」はソート位置(大いに〜丘間)より読みは『おおや』=家主。answer 'master'(たいか)は別読み。" },
+  { "id": "jp-01784", "en": "to pay; to deliver", "reason": "「納める」の主要義は『税金を納める＝支払う・納入する』。answer 'to put' は主要義でない。" },
+  { "id": "jp-01799", "en": "sash; belt", "reason": "「帯」の answer 'obi' はローマ字寄りで一般義(帯・ベルト)を欠く。" },
+  { "id": "jp-01802", "en": "to drown", "reason": "「溺れる」の自然な主要義は 'to drown'。answer 'to struggle in the water' は冗長で不自然。" }
+]

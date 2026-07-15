@@ -1,0 +1,13 @@
+[
+  { "id": "jp-04405", "en": "anyway; after all", "reason": "何分(なにぶん)は「なにしろ；どうか；何分にも」の意。'some' は誤り" },
+  { "id": "jp-04424", "en": "rainbow", "reason": "虹(にじ)は rainbow。'second' は完全な誤り" },
+  { "id": "jp-04456", "en": "carefree; easygoing", "reason": "呑気(のんき)は carefree/easygoing。'easy' は不自然で主要義でない" },
+  { "id": "jp-04482", "drop": true, "reason": "プロンプトが記号「×」のみで学習不能。ばつ(×)は本来「バツ印／不正解」で 'punishment'(罰)とも不一致" },
+  { "id": "jp-04600", "en": "grumbling; muttering", "reason": "ぶつぶつ(butsubutsu)は「ぶつぶつ言う=grumbling/muttering」。'grunt' は不一致" },
+  { "id": "jp-04635", "en": "unconcerned; calm", "reason": "平気(へいき)は「平然；気にしない」。'cool' は俗語的で不正確" },
+  { "id": "jp-04702", "en": "the very first; forefront", "reason": "真っ先(まっさき)は「一番先；先頭」。'the head' 単独は不自然" },
+  { "id": "jp-04761", "en": "one's subordinate; inferior", "reason": "読みめした=目下の者(subordinate)。'at present' はもっか(目下)の別語義で読み違い" },
+  { "id": "jp-04800", "en": "kettle", "reason": "やかん(薬缶)は kettle。'night' は直前の夜間(やかん)からの誤コピー" },
+  { "id": "jp-04819", "en": "calm; leisurely", "reason": "悠々(ゆうゆう)は「ゆったり；落ち着いた」。'quiet' は主要義でない" },
+  { "id": "jp-04835", "en": "childish; infantile", "reason": "幼稚(ようち)な形容動詞は childish/infantile。'infancy' は不正確" }
+]

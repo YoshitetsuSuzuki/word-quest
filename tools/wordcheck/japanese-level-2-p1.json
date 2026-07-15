@@ -1,0 +1,17 @@
+[
+  { "id": "jp-00815", "en": "grapes", "reason": "「ぶどう」は葡萄。answerの'martial arts'は同音の「武道」との取り違え。例文も「ぶどう酒(wine)」で葡萄を裏付け。" },
+  { "id": "jp-01283", "en": "pickpocket", "reason": "「すり」は掏摸(スリ)。'repair'は完全な誤り。" },
+  { "id": "jp-00679", "en": "certainly, without fail", "reason": "「必ず」は'certainly/without fail'。'always'(いつも)は誤り。" },
+  { "id": "jp-01050", "en": "sake, benefit", "reason": "「為(ため)」は'for the sake of/benefit'。'good'は不正確。" },
+  { "id": "jp-00964", "en": "express train", "reason": "「急行」は学習語として'express train'が主要義。'hurrying'は字義のみで不適。" },
+  { "id": "jp-00980", "en": "to give (humble)", "reason": "「差し上げる」は「あげる」の謙譲語=to give。'to lift up'は字義で主要義でない。" },
+  { "id": "jp-00985", "en": "amazing, great", "reason": "「凄い」は現代の主要義が'amazing/great'。'terrible'は主要義でない。" },
+  { "id": "jp-00667", "en": "to boil", "reason": "「沸く」は湯が沸く=to boil。'to grow hot'は不自然。" },
+  { "id": "jp-00846", "en": "rapidly, steadily", "reason": "「どんどん」の副詞主要義は'rapidly/steadily'。例文も'growing rapidly'。'drumming'は擬音由来で不適。" },
+  { "id": "jp-00758", "en": "to wake up (someone), to cause", "reason": "「起こす」の主要義は'to wake(someone)up/to cause'。'to raise'のみは不十分。" },
+  { "id": "jp-01099", "en": "to give", "reason": "「あげる」は授受動詞群(くれる/もらう)の主要義=to give。'to raise'(上げる)は主要義でない。" },
+  { "id": "jp-00658", "en": "smoothly, quickly", "reason": "「すっと」は滑らかに素早く=smoothly/quickly。例文も'shot out smoothly'。'straight'は誤り。" },
+  { "id": "jp-01218", "en": "boat", "reason": "「舟」は小型のboat。'ship'は「船」に相当し不正確。" },
+  { "id": "jp-01250", "en": "to lower, to hang", "reason": "「下げる」の主要義は'to lower'。'to hang'のみは主要義でない。" },
+  { "id": "jp-01146", "en": "", "drop": true, "reason": "prompt「あ」に対しanswer'I'は不一致。「あ」は間投詞で意味不定・学習不適の破損エントリ。" }
+]

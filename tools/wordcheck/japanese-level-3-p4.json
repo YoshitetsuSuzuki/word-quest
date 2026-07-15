@@ -1,0 +1,23 @@
+[
+  { "id": "jp-02827", "en": "one's forte", "reason": "「得意」は satisfaction ではなく「得意分野・上手なこと」。主要義に修正" },
+  { "id": "jp-02840", "en": "city", "reason": "「都市」は town(町)ではなく city が正確" },
+  { "id": "jp-02845", "en": "the moment", "reason": "「途端」の just は不明瞭。『〜した途端』の意で the moment が正確" },
+  { "id": "jp-02912", "en": "with a smile", "reason": "「にっこり」は sweetly(甘く)ではなく『微笑んで』" },
+  { "id": "jp-03059", "en": "evaluation", "reason": "「評価」は valuation(金銭的査定)より evaluation/assessment が主要義" },
+  { "id": "jp-03085", "en": "joint", "reason": "読みふし。occasion は節(せつ)の意。ふしの主要義は joint/node" },
+  { "id": "jp-03087", "en": "mysterious", "reason": "「不思議」は wonderful(素晴らしい)ではなく mysterious/strange" },
+  { "id": "jp-03103", "en": "physics", "reason": "「物理」は laws of nature ではなく physics が主要義" },
+  { "id": "jp-03129", "en": "to reduce", "reason": "他動詞「減らす」に to abate は不自然。to reduce/decrease が自然" },
+  { "id": "jp-03146", "en": "visit", "reason": "「訪問」は call(電話と紛らわしい)より visit が明確な主要義" },
+  { "id": "jp-03168", "en": "well", "reason": "感動詞「まあ」に just は不適。well/oh が自然" },
+  { "id": "jp-03170", "en": "microphone", "reason": "「マイク」は口語 mike より microphone が自然・主要" },
+  { "id": "jp-03197", "en": "to come together", "reason": "「まとまる」の to find resolution は不自然。to come together/be settled" },
+  { "id": "jp-03221", "en": "modification", "reason": "「修飾」は finding employment(就職)の誤り。修飾=modification/ornamentation" },
+  { "id": "jp-03248", "en": "Zen", "reason": "「禅」は dhyana(語源のサンスクリット)より英語一般語 Zen" },
+  { "id": "jp-03253", "en": "to accompany", "reason": "「添う」の to meet は不明瞭。主要義は to accompany" },
+  { "id": "jp-03259", "en": "unit", "reason": "「隊」は versus(対)の誤り。隊=unit/squad/corps" },
+  { "id": "jp-03270", "en": "to join together", "reason": "「接ぐ」は to succeed(継ぐ)の誤り。接ぐ=to join/graft" },
+  { "id": "jp-03279", "en": "changing schools", "reason": "「転校」は weather(天候)の誤り。転校=changing schools" },
+  { "id": "jp-03286", "en": "comrade", "reason": "「同志」は人を指す語。like-mindedness(抽象名詞)より comrade" },
+  { "id": "jp-03328", "en": "excellence", "reason": "「優」の to do up は意味不明の誤り。優=excellence/grade A" }
+]

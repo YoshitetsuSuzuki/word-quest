@@ -1,0 +1,16 @@
+[
+  { "id": "jp-03398", "en": "fixed, constant", "reason": "一定 is a noun/na-adjective meaning fixed/constant, not a verb; \"to fix\" is wrong POS and sense." },
+  { "id": "jp-03405", "en": "to dislike, to be reluctant", "reason": "嫌がる主要義は「嫌がる/嫌う」。\"to appear uncomfortable\" は主要義でなく不自然。" },
+  { "id": "jp-03475", "en": "to worship, to pray to", "reason": "拝む主要義は「拝む/祈る」。\"to assume the posture of praying\" は学習者に不自然。" },
+  { "id": "jp-03515", "en": "Messrs. (formal suffix after a company/organization name in an address)", "reason": "御中(おんちゅう)は宛名の敬称。\"... and Company\" は誤り。" },
+  { "id": "jp-03560", "en": "crater", "reason": "火口(かこう)の主要義は「噴火口=crater」。\"burner\"(ひぐち)は非主要義。" },
+  { "id": "jp-03574", "en": "underline", "reason": "下線(かせん)=underline。\"synthetic fiber\" は同音異義語「化繊」の取り違え。" },
+  { "id": "jp-03589", "en": "as one pleases, without permission", "reason": "勝手に(副詞)=「勝手に/無断で」。\"one's own convenience\" は名詞的で品詞・意味が不一致。" },
+  { "id": "jp-03619", "en": "indirect, indirectness", "reason": "間接=indirect。\"indirection\" は語感がずれ不自然。" },
+  { "id": "jp-03621", "en": "frigid zone, polar zone", "reason": "寒帯(かんたい)=frigid zone。\"warm welcome\" は同音異義語「歓待」の取り違え。" },
+  { "id": "jp-03631", "en": "crown", "reason": "冠(かんむり)の主要義は「crown」。特定の装束の説明文は主要義でない。" },
+  { "id": "jp-03703", "en": "to regret, to mourn", "reason": "悔やむの主要義は「悔やむ=to regret」。\"to mourn\" のみは主要義を欠く。" },
+  { "id": "jp-03725", "en": "digit, order of magnitude, girder", "reason": "桁(けた)主要義は「桁=digit/order of magnitude」または「梁=girder」。\"column\" 単独は誤解を招く。" },
+  { "id": "jp-03761", "en": "lecturer, instructor", "reason": "講師の主要義は「講師=lecturer/instructor」。\"speaker\" は非主要義でスピーカーと紛らわしい。" },
+  { "id": "jp-03796", "en": "an idea (of), a clue", "reason": "心当たり=「心当たり=an idea/a clue」。\"having in mind\" は名詞句として不自然。" }
+]
