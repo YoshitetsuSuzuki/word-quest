@@ -1,0 +1,30 @@
+{
+  "_doc": "言語別設定。structure: ja_answer(answer=和訳・例文/発音/品詞あり) | pivot(answer=英語・glosses{en,ja}・品詞なし)。wiktLang=英語版Wiktionaryの言語見出し。将来言語はここに1エントリ追加するだけで対応可。",
+  "languages": {
+    "english":    { "dir": "english",    "structure": "ja_answer", "wiktLang": "English",    "sources": ["wiktionary", "wordnet"], "hasExample": true,  "hasPronunciation": true,  "posFromTags": true },
+    "chinese":    { "dir": "chinese",    "structure": "ja_answer", "wiktLang": "Chinese",    "sources": ["cedict", "wiktionary"], "hasExample": true,  "hasPronunciation": true,  "posFromTags": true },
+    "korean":     { "dir": "korean",     "structure": "ja_answer", "wiktLang": "Korean",     "sources": ["wiktionary"], "hasExample": true,  "hasPronunciation": true,  "posFromTags": true },
+    "spanish":    { "dir": "spanish",    "structure": "pivot",     "wiktLang": "Spanish",    "sources": ["wiktionary"], "hasExample": false, "hasPronunciation": false, "posFromTags": false },
+    "german":     { "dir": "german",     "structure": "pivot",     "wiktLang": "German",     "sources": ["wiktionary"], "hasExample": false, "hasPronunciation": false, "posFromTags": false },
+    "french":     { "dir": "french",     "structure": "pivot",     "wiktLang": "French",     "sources": ["wiktionary"], "hasExample": false, "hasPronunciation": false, "posFromTags": false },
+    "portuguese": { "dir": "portuguese", "structure": "pivot",     "wiktLang": "Portuguese", "sources": ["wiktionary"], "hasExample": false, "hasPronunciation": false, "posFromTags": false },
+    "polish":     { "dir": "polish",     "structure": "pivot",     "wiktLang": "Polish",     "sources": ["wiktionary"], "hasExample": false, "hasPronunciation": true,  "posFromTags": false },
+    "russian":    { "dir": "russian",    "structure": "pivot",     "wiktLang": "Russian",    "sources": ["wiktionary"], "hasExample": false, "hasPronunciation": true,  "posFromTags": false }
+  },
+  "futureLanguages": {
+    "_doc": "未対応。config追加＋wordbank/<dir>用意で拡張可。wiktLangは英語版Wiktionaryの言語見出し名。",
+    "italian":    { "dir": "italian",    "structure": "pivot", "wiktLang": "Italian",    "sources": ["wiktionary"] },
+    "dutch":      { "dir": "dutch",      "structure": "pivot", "wiktLang": "Dutch",      "sources": ["wiktionary"] },
+    "arabic":     { "dir": "arabic",     "structure": "pivot", "wiktLang": "Arabic",     "sources": ["wiktionary"] },
+    "thai":       { "dir": "thai",       "structure": "pivot", "wiktLang": "Thai",       "sources": ["wiktionary"] },
+    "vietnamese": { "dir": "vietnamese", "structure": "pivot", "wiktLang": "Vietnamese", "sources": ["wiktionary"] }
+  },
+  "posMap": {
+    "名詞": "noun", "動詞": "verb", "形容詞": "adjective", "副詞": "adverb",
+    "代名詞": "pronoun", "前置詞": "preposition", "接続詞": "conjunction",
+    "間投詞": "interjection", "感嘆詞": "interjection", "数詞": "numeral",
+    "冠詞": "article", "限定詞": "determiner", "助動詞": "auxiliary",
+    "助詞": "particle", "量詞": "classifier", "介詞": "preposition", "word": "unknown"
+  },
+  "sampling": { "defaultLimit": 40, "note": "既定は先頭40件のサンプル照合(API配慮)。--all で全件、--limit N でN件、--offset M で開始位置、--ids a,b で個別指定。100000語でもバッチ+キャッシュで動作。" }
+}

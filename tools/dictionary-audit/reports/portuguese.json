@@ -1,0 +1,274 @@
+{
+  "summary": {
+    "language": "portuguese",
+    "generatedAt": "2026-07-15",
+    "dictionaries": [
+      "wiktionary"
+    ],
+    "licenses": [
+      {
+        "source": "wiktionary",
+        "license": "CC-BY-SA (Wiktionaryテキスト。正確な版は配布元で要確認)"
+      }
+    ],
+    "totalInWordbank": 150,
+    "checkedCount": 10,
+    "sampled": true,
+    "matchRate": 60,
+    "posMatchRate": 0,
+    "glossMatchRate": 60,
+    "pronunciationMatchRate": 0,
+    "exampleOkRate": 0,
+    "unsafeExamples": 0,
+    "needsHumanReview": 10,
+    "criticalErrors": 0,
+    "ok": 0,
+    "dataMutated": false
+  },
+  "results": [
+    {
+      "id": "pt-00001",
+      "headword": "sim",
+      "source": "wiktionary",
+      "sourceStatus": "multiple_entries",
+      "dictAttempts": [
+        {
+          "source": "wiktionary",
+          "status": "multiple_entries"
+        }
+      ],
+      "dictPos": [
+        "interjection",
+        "adverb",
+        "noun"
+      ],
+      "checks": {
+        "headword": "multiple_entries",
+        "pos": "missing",
+        "glossEn": "exact",
+        "glossJa": "not_checked",
+        "pronunciation": "not_applicable",
+        "example": "not_applicable"
+      },
+      "verdict": "review"
+    },
+    {
+      "id": "pt-00002",
+      "headword": "não",
+      "source": "wiktionary",
+      "sourceStatus": "multiple_entries",
+      "dictAttempts": [
+        {
+          "source": "wiktionary",
+          "status": "multiple_entries"
+        }
+      ],
+      "dictPos": [
+        "adverb",
+        "interjection",
+        "noun"
+      ],
+      "checks": {
+        "headword": "multiple_entries",
+        "pos": "missing",
+        "glossEn": "exact",
+        "glossJa": "not_checked",
+        "pronunciation": "not_applicable",
+        "example": "not_applicable"
+      },
+      "verdict": "review"
+    },
+    {
+      "id": "pt-00003",
+      "headword": "um",
+      "source": "wiktionary",
+      "sourceStatus": "multiple_entries",
+      "dictAttempts": [
+        {
+          "source": "wiktionary",
+          "status": "multiple_entries"
+        }
+      ],
+      "dictPos": [
+        "numeral",
+        "article",
+        "noun",
+        "pronoun"
+      ],
+      "checks": {
+        "headword": "multiple_entries",
+        "pos": "missing",
+        "glossEn": "exact",
+        "glossJa": "not_checked",
+        "pronunciation": "not_applicable",
+        "example": "not_applicable"
+      },
+      "verdict": "review"
+    },
+    {
+      "id": "pt-00004",
+      "headword": "dois",
+      "source": "wiktionary",
+      "sourceStatus": "multiple_entries",
+      "dictAttempts": [
+        {
+          "source": "wiktionary",
+          "status": "multiple_entries"
+        }
+      ],
+      "dictPos": [
+        "numeral",
+        "adjective",
+        "noun"
+      ],
+      "checks": {
+        "headword": "multiple_entries",
+        "pos": "missing",
+        "glossEn": "exact",
+        "glossJa": "not_checked",
+        "pronunciation": "not_applicable",
+        "example": "not_applicable"
+      },
+      "verdict": "review"
+    },
+    {
+      "id": "pt-00005",
+      "headword": "três",
+      "source": "wiktionary",
+      "sourceStatus": "not_checked",
+      "dictAttempts": [
+        {
+          "source": "wiktionary",
+          "status": "not_checked"
+        }
+      ],
+      "dictPos": [],
+      "checks": {
+        "headword": "not_checked",
+        "pos": "not_checked",
+        "glossEn": "not_checked",
+        "glossJa": "not_checked",
+        "pronunciation": "not_applicable",
+        "example": "not_applicable"
+      },
+      "verdict": "review"
+    },
+    {
+      "id": "pt-00006",
+      "headword": "quatro",
+      "source": "wiktionary",
+      "sourceStatus": "not_checked",
+      "dictAttempts": [
+        {
+          "source": "wiktionary",
+          "status": "not_checked"
+        }
+      ],
+      "dictPos": [],
+      "checks": {
+        "headword": "not_checked",
+        "pos": "not_checked",
+        "glossEn": "not_checked",
+        "glossJa": "not_checked",
+        "pronunciation": "not_applicable",
+        "example": "not_applicable"
+      },
+      "verdict": "review"
+    },
+    {
+      "id": "pt-00007",
+      "headword": "cinco",
+      "source": "wiktionary",
+      "sourceStatus": "not_checked",
+      "dictAttempts": [
+        {
+          "source": "wiktionary",
+          "status": "not_checked"
+        }
+      ],
+      "dictPos": [],
+      "checks": {
+        "headword": "not_checked",
+        "pos": "not_checked",
+        "glossEn": "not_checked",
+        "glossJa": "not_checked",
+        "pronunciation": "not_applicable",
+        "example": "not_applicable"
+      },
+      "verdict": "review"
+    },
+    {
+      "id": "pt-00008",
+      "headword": "seis",
+      "source": "wiktionary",
+      "sourceStatus": "not_checked",
+      "dictAttempts": [
+        {
+          "source": "wiktionary",
+          "status": "not_checked"
+        }
+      ],
+      "dictPos": [],
+      "checks": {
+        "headword": "not_checked",
+        "pos": "not_checked",
+        "glossEn": "not_checked",
+        "glossJa": "not_checked",
+        "pronunciation": "not_applicable",
+        "example": "not_applicable"
+      },
+      "verdict": "review"
+    },
+    {
+      "id": "pt-00009",
+      "headword": "sete",
+      "source": "wiktionary",
+      "sourceStatus": "multiple_entries",
+      "dictAttempts": [
+        {
+          "source": "wiktionary",
+          "status": "multiple_entries"
+        }
+      ],
+      "dictPos": [
+        "numeral",
+        "noun"
+      ],
+      "checks": {
+        "headword": "multiple_entries",
+        "pos": "missing",
+        "glossEn": "exact",
+        "glossJa": "not_checked",
+        "pronunciation": "not_applicable",
+        "example": "not_applicable"
+      },
+      "verdict": "review"
+    },
+    {
+      "id": "pt-00010",
+      "headword": "oito",
+      "source": "wiktionary",
+      "sourceStatus": "multiple_entries",
+      "dictAttempts": [
+        {
+          "source": "wiktionary",
+          "status": "multiple_entries"
+        }
+      ],
+      "dictPos": [
+        "numeral",
+        "adjective",
+        "noun"
+      ],
+      "checks": {
+        "headword": "multiple_entries",
+        "pos": "missing",
+        "glossEn": "exact",
+        "glossJa": "not_checked",
+        "pronunciation": "not_applicable",
+        "example": "not_applicable"
+      },
+      "verdict": "review"
+    }
+  ]
+}

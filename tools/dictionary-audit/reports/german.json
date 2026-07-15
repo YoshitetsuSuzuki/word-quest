@@ -1,0 +1,260 @@
+{
+  "summary": {
+    "language": "german",
+    "generatedAt": "2026-07-15",
+    "dictionaries": [
+      "wiktionary"
+    ],
+    "licenses": [
+      {
+        "source": "wiktionary",
+        "license": "CC-BY-SA (Wiktionaryテキスト。正確な版は配布元で要確認)"
+      }
+    ],
+    "totalInWordbank": 1919,
+    "checkedCount": 10,
+    "sampled": true,
+    "matchRate": 50,
+    "posMatchRate": 0,
+    "glossMatchRate": 50,
+    "pronunciationMatchRate": 0,
+    "exampleOkRate": 0,
+    "unsafeExamples": 0,
+    "needsHumanReview": 10,
+    "criticalErrors": 0,
+    "ok": 0,
+    "dataMutated": false
+  },
+  "results": [
+    {
+      "id": "de-00001",
+      "headword": "Hier",
+      "source": "wiktionary",
+      "sourceStatus": "matched",
+      "dictAttempts": [
+        {
+          "source": "wiktionary",
+          "status": "matched"
+        }
+      ],
+      "dictPos": [
+        "noun"
+      ],
+      "checks": {
+        "headword": "matched",
+        "pos": "missing",
+        "glossEn": "exact",
+        "glossJa": "not_checked",
+        "pronunciation": "not_applicable",
+        "example": "not_applicable"
+      },
+      "verdict": "review"
+    },
+    {
+      "id": "de-00002",
+      "headword": "gut",
+      "source": "wiktionary",
+      "sourceStatus": "not_checked",
+      "dictAttempts": [
+        {
+          "source": "wiktionary",
+          "status": "not_checked"
+        }
+      ],
+      "dictPos": [],
+      "checks": {
+        "headword": "not_checked",
+        "pos": "not_checked",
+        "glossEn": "not_checked",
+        "glossJa": "not_checked",
+        "pronunciation": "not_applicable",
+        "example": "not_applicable"
+      },
+      "verdict": "review"
+    },
+    {
+      "id": "de-00003",
+      "headword": "Mal",
+      "source": "wiktionary",
+      "sourceStatus": "not_checked",
+      "dictAttempts": [
+        {
+          "source": "wiktionary",
+          "status": "not_checked"
+        }
+      ],
+      "dictPos": [],
+      "checks": {
+        "headword": "not_checked",
+        "pos": "not_checked",
+        "glossEn": "not_checked",
+        "glossJa": "not_checked",
+        "pronunciation": "not_applicable",
+        "example": "not_applicable"
+      },
+      "verdict": "review"
+    },
+    {
+      "id": "de-00004",
+      "headword": "weiß",
+      "source": "wiktionary",
+      "sourceStatus": "not_checked",
+      "dictAttempts": [
+        {
+          "source": "wiktionary",
+          "status": "not_checked"
+        }
+      ],
+      "dictPos": [],
+      "checks": {
+        "headword": "not_checked",
+        "pos": "not_checked",
+        "glossEn": "not_checked",
+        "glossJa": "not_checked",
+        "pronunciation": "not_applicable",
+        "example": "not_applicable"
+      },
+      "verdict": "review"
+    },
+    {
+      "id": "de-00005",
+      "headword": "also",
+      "source": "wiktionary",
+      "sourceStatus": "not_checked",
+      "dictAttempts": [
+        {
+          "source": "wiktionary",
+          "status": "not_checked"
+        }
+      ],
+      "dictPos": [],
+      "checks": {
+        "headword": "not_checked",
+        "pos": "not_checked",
+        "glossEn": "not_checked",
+        "glossJa": "not_checked",
+        "pronunciation": "not_applicable",
+        "example": "not_applicable"
+      },
+      "verdict": "review"
+    },
+    {
+      "id": "de-00006",
+      "headword": "Bitte",
+      "source": "wiktionary",
+      "sourceStatus": "not_checked",
+      "dictAttempts": [
+        {
+          "source": "wiktionary",
+          "status": "not_checked"
+        }
+      ],
+      "dictPos": [],
+      "checks": {
+        "headword": "not_checked",
+        "pos": "not_checked",
+        "glossEn": "not_checked",
+        "glossJa": "not_checked",
+        "pronunciation": "not_applicable",
+        "example": "not_applicable"
+      },
+      "verdict": "review"
+    },
+    {
+      "id": "de-00007",
+      "headword": "immer",
+      "source": "wiktionary",
+      "sourceStatus": "matched",
+      "dictAttempts": [
+        {
+          "source": "wiktionary",
+          "status": "matched"
+        }
+      ],
+      "dictPos": [
+        "adverb"
+      ],
+      "checks": {
+        "headword": "matched",
+        "pos": "missing",
+        "glossEn": "exact",
+        "glossJa": "not_checked",
+        "pronunciation": "not_applicable",
+        "example": "not_applicable"
+      },
+      "verdict": "review"
+    },
+    {
+      "id": "de-00008",
+      "headword": "wieder",
+      "source": "wiktionary",
+      "sourceStatus": "matched",
+      "dictAttempts": [
+        {
+          "source": "wiktionary",
+          "status": "matched"
+        }
+      ],
+      "dictPos": [
+        "adverb"
+      ],
+      "checks": {
+        "headword": "matched",
+        "pos": "missing",
+        "glossEn": "exact",
+        "glossJa": "not_checked",
+        "pronunciation": "not_applicable",
+        "example": "not_applicable"
+      },
+      "verdict": "review"
+    },
+    {
+      "id": "de-00009",
+      "headword": "sagen",
+      "source": "wiktionary",
+      "sourceStatus": "matched",
+      "dictAttempts": [
+        {
+          "source": "wiktionary",
+          "status": "matched"
+        }
+      ],
+      "dictPos": [
+        "verb"
+      ],
+      "checks": {
+        "headword": "matched",
+        "pos": "missing",
+        "glossEn": "exact",
+        "glossJa": "not_checked",
+        "pronunciation": "not_applicable",
+        "example": "not_applicable"
+      },
+      "verdict": "review"
+    },
+    {
+      "id": "de-00010",
+      "headword": "machen",
+      "source": "wiktionary",
+      "sourceStatus": "matched",
+      "dictAttempts": [
+        {
+          "source": "wiktionary",
+          "status": "matched"
+        }
+      ],
+      "dictPos": [
+        "verb"
+      ],
+      "checks": {
+        "headword": "matched",
+        "pos": "missing",
+        "glossEn": "exact",
+        "glossJa": "not_checked",
+        "pronunciation": "not_applicable",
+        "example": "not_applicable"
+      },
+      "verdict": "review"
+    }
+  ]
+}

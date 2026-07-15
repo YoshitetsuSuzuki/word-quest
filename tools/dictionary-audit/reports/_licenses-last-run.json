@@ -1,0 +1,60 @@
+{
+  "_doc": "使用/候補辞書のライセンス台帳。照合(verification)専用。辞書本文の複製・再配布はしない。版番号や最終更新日は各配布元で要確認(推測で記載しない)。",
+  "dictionaries": {
+    "wiktionary": {
+      "name": "Wiktionary (English) REST API",
+      "endpoint": "https://en.wiktionary.org/api/rest_v1/page/definition/{word}",
+      "provider": "Wikimedia Foundation",
+      "license": "CC-BY-SA (Wiktionaryテキスト。正確な版は配布元で要確認)",
+      "commercialUse": "可(照合用途)",
+      "attribution": "必要",
+      "shareAlike": "あり(取り込む場合は継承注意)",
+      "redistribution": "本文の複製・再配布はしない方針(照合のみ)",
+      "coverage": "全対象言語(英語版Wiktionaryに各言語見出しの英語定義・品詞)",
+      "notes": "定義エンドポイントは品詞・英語定義を返す。IPAはページ側にあり本エンドポイントには含まれないことが多い→発音は not_checked になりやすい。",
+      "accessedInThisRun": true
+    },
+    "cedict": {
+      "name": "CC-CEDICT",
+      "endpoint": "ローカル配置: tools/dictionary-audit/cache/cedict_ts.u8 (mdbg配布)",
+      "downloadReference": "https://www.mdbg.net/chinese/export/cedict/cedict_1_0_ts_utf-8_mdbg.txt.gz",
+      "provider": "MDBG / CC-CEDICT project",
+      "license": "CC-BY-SA (正確な版は配布元で要確認)",
+      "commercialUse": "可",
+      "attribution": "必要",
+      "shareAlike": "あり",
+      "redistribution": "照合のみ。本文取り込みは継承注意",
+      "coverage": "中国語(簡繁・拼音・英語gloss)",
+      "notes": "大容量(~4MB gz)ゆえ自動DLしない。未配置なら中国語のcedict照合は not_checked。",
+      "accessedInThisRun": false
+    },
+    "wordnet": {
+      "name": "Princeton WordNet / Open English WordNet",
+      "endpoint": "ローカル配置想定: tools/dictionary-audit/cache/wordnet/ (未配置)",
+      "downloadReference": "https://wordnet.princeton.edu/ ／ https://github.com/globalwordnet/english-wordnet (OEWN=CC-BY 4.0)",
+      "provider": "Princeton University / Global WordNet",
+      "license": "WordNet License(寛容, BSD系) ／ OEWNは CC-BY 4.0",
+      "commercialUse": "可",
+      "attribution": "必要",
+      "shareAlike": "WordNetは無 / OEWNは無",
+      "redistribution": "可(寛容)",
+      "coverage": "英語(語義・品詞)",
+      "notes": "未配置。配置時に英語の品詞/語義照合の第2ソースとして利用可。",
+      "accessedInThisRun": false
+    },
+    "kaikki": {
+      "name": "Kaikki.org / Wiktextract",
+      "endpoint": "ローカル配置想定: tools/dictionary-audit/cache/kaikki/<lang>.jsonl (未配置)",
+      "downloadReference": "https://kaikki.org/",
+      "provider": "Tatu Ylonen / Wiktextract",
+      "license": "CC-BY-SA (Wiktionary由来)",
+      "commercialUse": "可(照合用途)",
+      "attribution": "必要",
+      "shareAlike": "あり",
+      "redistribution": "照合のみ。取り込みは継承注意",
+      "coverage": "多言語(品詞・IPA・語義・例文)",
+      "notes": "本番の大規模照合向け(言語別ダンプは数百MB〜)。未配置なら使用しない。IPA照合の主力候補。",
+      "accessedInThisRun": false
+    }
+  }
+}

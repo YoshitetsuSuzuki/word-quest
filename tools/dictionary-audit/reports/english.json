@@ -1,0 +1,366 @@
+{
+  "summary": {
+    "language": "english",
+    "generatedAt": "2026-07-15",
+    "dictionaries": [
+      "wiktionary",
+      "wordnet"
+    ],
+    "licenses": [
+      {
+        "source": "wiktionary",
+        "license": "CC-BY-SA (Wiktionaryテキスト。正確な版は配布元で要確認)"
+      },
+      {
+        "source": "wordnet",
+        "license": "WordNet License(寛容, BSD系) ／ OEWNは CC-BY 4.0"
+      }
+    ],
+    "totalInWordbank": 8136,
+    "checkedCount": 10,
+    "sampled": true,
+    "matchRate": 100,
+    "posMatchRate": 80,
+    "glossMatchRate": 0,
+    "pronunciationMatchRate": 0,
+    "exampleOkRate": 100,
+    "unsafeExamples": 0,
+    "needsHumanReview": 8,
+    "criticalErrors": 2,
+    "ok": 0,
+    "dataMutated": false
+  },
+  "results": [
+    {
+      "id": "en-00042",
+      "headword": "get",
+      "source": "wiktionary",
+      "sourceStatus": "multiple_entries",
+      "dictAttempts": [
+        {
+          "source": "wiktionary",
+          "status": "multiple_entries"
+        }
+      ],
+      "dictPos": [
+        "verb",
+        "noun"
+      ],
+      "checks": {
+        "headword": "multiple_entries",
+        "pos": "exact",
+        "glossEn": "not_applicable",
+        "glossJa": "not_checked",
+        "pronunciation": "not_checked",
+        "example": {
+          "grammar": "grammar_ok",
+          "sense": "sense_ok",
+          "translation": "translation_ok",
+          "safety": "safe",
+          "overall": "ok",
+          "_heuristic": true
+        }
+      },
+      "verdict": "review"
+    },
+    {
+      "id": "en-00048",
+      "headword": "their",
+      "source": "wiktionary",
+      "sourceStatus": "multiple_entries",
+      "dictAttempts": [
+        {
+          "source": "wiktionary",
+          "status": "multiple_entries"
+        }
+      ],
+      "dictPos": [
+        "determiner",
+        "adverb",
+        "contraction"
+      ],
+      "checks": {
+        "headword": "multiple_entries",
+        "pos": "different",
+        "glossEn": "not_applicable",
+        "glossJa": "not_checked",
+        "pronunciation": "not_checked",
+        "example": {
+          "grammar": "grammar_ok",
+          "sense": "sense_ok",
+          "translation": "translation_ok",
+          "safety": "safe",
+          "overall": "ok",
+          "_heuristic": true
+        }
+      },
+      "verdict": "critical"
+    },
+    {
+      "id": "en-00059",
+      "headword": "out",
+      "source": "wiktionary",
+      "sourceStatus": "multiple_entries",
+      "dictAttempts": [
+        {
+          "source": "wiktionary",
+          "status": "multiple_entries"
+        }
+      ],
+      "dictPos": [
+        "adverb",
+        "preposition",
+        "noun",
+        "verb",
+        "adjective",
+        "interjection"
+      ],
+      "checks": {
+        "headword": "multiple_entries",
+        "pos": "exact",
+        "glossEn": "not_applicable",
+        "glossJa": "not_checked",
+        "pronunciation": "not_checked",
+        "example": {
+          "grammar": "grammar_ok",
+          "sense": "sense_ok",
+          "translation": "translation_ok",
+          "safety": "safe",
+          "overall": "ok",
+          "_heuristic": true
+        }
+      },
+      "verdict": "review"
+    },
+    {
+      "id": "en-00066",
+      "headword": "very",
+      "source": "wiktionary",
+      "sourceStatus": "multiple_entries",
+      "dictAttempts": [
+        {
+          "source": "wiktionary",
+          "status": "multiple_entries"
+        }
+      ],
+      "dictPos": [
+        "adverb",
+        "adjective"
+      ],
+      "checks": {
+        "headword": "multiple_entries",
+        "pos": "different",
+        "glossEn": "not_applicable",
+        "glossJa": "not_checked",
+        "pronunciation": "not_checked",
+        "example": {
+          "grammar": "grammar_ok",
+          "sense": "sense_ok",
+          "translation": "translation_ok",
+          "safety": "safe",
+          "overall": "ok",
+          "_heuristic": true
+        }
+      },
+      "verdict": "critical"
+    },
+    {
+      "id": "en-00091",
+      "headword": "thing",
+      "source": "wiktionary",
+      "sourceStatus": "multiple_entries",
+      "dictAttempts": [
+        {
+          "source": "wiktionary",
+          "status": "multiple_entries"
+        }
+      ],
+      "dictPos": [
+        "noun",
+        "verb"
+      ],
+      "checks": {
+        "headword": "multiple_entries",
+        "pos": "exact",
+        "glossEn": "not_applicable",
+        "glossJa": "not_checked",
+        "pronunciation": "not_checked",
+        "example": {
+          "grammar": "grammar_ok",
+          "sense": "sense_ok",
+          "translation": "translation_ok",
+          "safety": "safe",
+          "overall": "ok",
+          "_heuristic": true
+        }
+      },
+      "verdict": "review"
+    },
+    {
+      "id": "en-00094",
+      "headword": "right",
+      "source": "wiktionary",
+      "sourceStatus": "multiple_entries",
+      "dictAttempts": [
+        {
+          "source": "wiktionary",
+          "status": "multiple_entries"
+        }
+      ],
+      "dictPos": [
+        "adjective",
+        "adverb",
+        "interjection",
+        "noun",
+        "verb"
+      ],
+      "checks": {
+        "headword": "multiple_entries",
+        "pos": "exact",
+        "glossEn": "not_applicable",
+        "glossJa": "not_checked",
+        "pronunciation": "not_checked",
+        "example": {
+          "grammar": "grammar_ok",
+          "sense": "sense_ok",
+          "translation": "translation_ok",
+          "safety": "safe",
+          "overall": "ok",
+          "_heuristic": true
+        }
+      },
+      "verdict": "review"
+    },
+    {
+      "id": "en-00096",
+      "headword": "find",
+      "source": "wiktionary",
+      "sourceStatus": "multiple_entries",
+      "dictAttempts": [
+        {
+          "source": "wiktionary",
+          "status": "multiple_entries"
+        }
+      ],
+      "dictPos": [
+        "verb",
+        "noun"
+      ],
+      "checks": {
+        "headword": "multiple_entries",
+        "pos": "exact",
+        "glossEn": "not_applicable",
+        "glossJa": "not_checked",
+        "pronunciation": "not_checked",
+        "example": {
+          "grammar": "grammar_ok",
+          "sense": "sense_ok",
+          "translation": "translation_ok",
+          "safety": "safe",
+          "overall": "ok",
+          "_heuristic": true
+        }
+      },
+      "verdict": "review"
+    },
+    {
+      "id": "en-00098",
+      "headword": "where",
+      "source": "wiktionary",
+      "sourceStatus": "multiple_entries",
+      "dictAttempts": [
+        {
+          "source": "wiktionary",
+          "status": "multiple_entries"
+        }
+      ],
+      "dictPos": [
+        "adverb",
+        "conjunction",
+        "pronoun",
+        "noun"
+      ],
+      "checks": {
+        "headword": "multiple_entries",
+        "pos": "exact",
+        "glossEn": "not_applicable",
+        "glossJa": "not_checked",
+        "pronunciation": "not_checked",
+        "example": {
+          "grammar": "grammar_ok",
+          "sense": "sense_ok",
+          "translation": "translation_ok",
+          "safety": "safe",
+          "overall": "ok",
+          "_heuristic": true
+        }
+      },
+      "verdict": "review"
+    },
+    {
+      "id": "en-00101",
+      "headword": "need",
+      "source": "wiktionary",
+      "sourceStatus": "multiple_entries",
+      "dictAttempts": [
+        {
+          "source": "wiktionary",
+          "status": "multiple_entries"
+        }
+      ],
+      "dictPos": [
+        "noun",
+        "verb"
+      ],
+      "checks": {
+        "headword": "multiple_entries",
+        "pos": "exact",
+        "glossEn": "not_applicable",
+        "glossJa": "not_checked",
+        "pronunciation": "not_checked",
+        "example": {
+          "grammar": "grammar_ok",
+          "sense": "sense_ok",
+          "translation": "translation_ok",
+          "safety": "safe",
+          "overall": "ok",
+          "_heuristic": true
+        }
+      },
+      "verdict": "review"
+    },
+    {
+      "id": "en-00105",
+      "headword": "mean",
+      "source": "wiktionary",
+      "sourceStatus": "multiple_entries",
+      "dictAttempts": [
+        {
+          "source": "wiktionary",
+          "status": "multiple_entries"
+        }
+      ],
+      "dictPos": [
+        "verb",
+        "adjective",
+        "noun"
+      ],
+      "checks": {
+        "headword": "multiple_entries",
+        "pos": "exact",
+        "glossEn": "not_applicable",
+        "glossJa": "not_checked",
+        "pronunciation": "not_checked",
+        "example": {
+          "grammar": "grammar_ok",
+          "sense": "sense_ok",
+          "translation": "translation_ok",
+          "safety": "safe",
+          "overall": "ok",
+          "_heuristic": true
+        }
+      },
+      "verdict": "review"
+    }
+  ]
+}

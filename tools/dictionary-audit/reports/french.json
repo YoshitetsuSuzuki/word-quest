@@ -1,0 +1,280 @@
+{
+  "summary": {
+    "language": "french",
+    "generatedAt": "2026-07-15",
+    "dictionaries": [
+      "wiktionary"
+    ],
+    "licenses": [
+      {
+        "source": "wiktionary",
+        "license": "CC-BY-SA (Wiktionaryテキスト。正確な版は配布元で要確認)"
+      }
+    ],
+    "totalInWordbank": 1948,
+    "checkedCount": 10,
+    "sampled": true,
+    "matchRate": 100,
+    "posMatchRate": 0,
+    "glossMatchRate": 100,
+    "pronunciationMatchRate": 0,
+    "exampleOkRate": 0,
+    "unsafeExamples": 0,
+    "needsHumanReview": 10,
+    "criticalErrors": 0,
+    "ok": 0,
+    "dataMutated": false
+  },
+  "results": [
+    {
+      "id": "fr-00001",
+      "headword": "rien",
+      "source": "wiktionary",
+      "sourceStatus": "multiple_entries",
+      "dictAttempts": [
+        {
+          "source": "wiktionary",
+          "status": "multiple_entries"
+        }
+      ],
+      "dictPos": [
+        "pronoun",
+        "noun"
+      ],
+      "checks": {
+        "headword": "multiple_entries",
+        "pos": "missing",
+        "glossEn": "exact",
+        "glossJa": "not_checked",
+        "pronunciation": "not_applicable",
+        "example": "not_applicable"
+      },
+      "verdict": "review"
+    },
+    {
+      "id": "fr-00002",
+      "headword": "dire",
+      "source": "wiktionary",
+      "sourceStatus": "multiple_entries",
+      "dictAttempts": [
+        {
+          "source": "wiktionary",
+          "status": "multiple_entries"
+        }
+      ],
+      "dictPos": [
+        "verb",
+        "noun"
+      ],
+      "checks": {
+        "headword": "multiple_entries",
+        "pos": "missing",
+        "glossEn": "exact",
+        "glossJa": "not_checked",
+        "pronunciation": "not_applicable",
+        "example": "not_applicable"
+      },
+      "verdict": "review"
+    },
+    {
+      "id": "fr-00003",
+      "headword": "chose",
+      "source": "wiktionary",
+      "sourceStatus": "matched",
+      "dictAttempts": [
+        {
+          "source": "wiktionary",
+          "status": "matched"
+        }
+      ],
+      "dictPos": [
+        "noun"
+      ],
+      "checks": {
+        "headword": "matched",
+        "pos": "missing",
+        "glossEn": "exact",
+        "glossJa": "not_checked",
+        "pronunciation": "not_applicable",
+        "example": "not_applicable"
+      },
+      "verdict": "review"
+    },
+    {
+      "id": "fr-00004",
+      "headword": "bon",
+      "source": "wiktionary",
+      "sourceStatus": "multiple_entries",
+      "dictAttempts": [
+        {
+          "source": "wiktionary",
+          "status": "multiple_entries"
+        }
+      ],
+      "dictPos": [
+        "adjective",
+        "noun",
+        "interjection"
+      ],
+      "checks": {
+        "headword": "multiple_entries",
+        "pos": "missing",
+        "glossEn": "exact",
+        "glossJa": "not_checked",
+        "pronunciation": "not_applicable",
+        "example": "not_applicable"
+      },
+      "verdict": "review"
+    },
+    {
+      "id": "fr-00005",
+      "headword": "merci",
+      "source": "wiktionary",
+      "sourceStatus": "multiple_entries",
+      "dictAttempts": [
+        {
+          "source": "wiktionary",
+          "status": "multiple_entries"
+        }
+      ],
+      "dictPos": [
+        "interjection",
+        "noun"
+      ],
+      "checks": {
+        "headword": "multiple_entries",
+        "pos": "missing",
+        "glossEn": "exact",
+        "glossJa": "not_checked",
+        "pronunciation": "not_applicable",
+        "example": "not_applicable"
+      },
+      "verdict": "review"
+    },
+    {
+      "id": "fr-00006",
+      "headword": "juste",
+      "source": "wiktionary",
+      "sourceStatus": "multiple_entries",
+      "dictAttempts": [
+        {
+          "source": "wiktionary",
+          "status": "multiple_entries"
+        }
+      ],
+      "dictPos": [
+        "adjective",
+        "noun",
+        "adverb"
+      ],
+      "checks": {
+        "headword": "multiple_entries",
+        "pos": "missing",
+        "glossEn": "exact",
+        "glossJa": "not_checked",
+        "pronunciation": "not_applicable",
+        "example": "not_applicable"
+      },
+      "verdict": "review"
+    },
+    {
+      "id": "fr-00007",
+      "headword": "jamais",
+      "source": "wiktionary",
+      "sourceStatus": "matched",
+      "dictAttempts": [
+        {
+          "source": "wiktionary",
+          "status": "matched"
+        }
+      ],
+      "dictPos": [
+        "adverb"
+      ],
+      "checks": {
+        "headword": "matched",
+        "pos": "missing",
+        "glossEn": "exact",
+        "glossJa": "not_checked",
+        "pronunciation": "not_applicable",
+        "example": "not_applicable"
+      },
+      "verdict": "review"
+    },
+    {
+      "id": "fr-00008",
+      "headword": "vraiment",
+      "source": "wiktionary",
+      "sourceStatus": "multiple_entries",
+      "dictAttempts": [
+        {
+          "source": "wiktionary",
+          "status": "multiple_entries"
+        }
+      ],
+      "dictPos": [
+        "adverb",
+        "interjection"
+      ],
+      "checks": {
+        "headword": "multiple_entries",
+        "pos": "missing",
+        "glossEn": "exact",
+        "glossJa": "not_checked",
+        "pronunciation": "not_applicable",
+        "example": "not_applicable"
+      },
+      "verdict": "review"
+    },
+    {
+      "id": "fr-00009",
+      "headword": "voir",
+      "source": "wiktionary",
+      "sourceStatus": "multiple_entries",
+      "dictAttempts": [
+        {
+          "source": "wiktionary",
+          "status": "multiple_entries"
+        }
+      ],
+      "dictPos": [
+        "verb",
+        "adverb"
+      ],
+      "checks": {
+        "headword": "multiple_entries",
+        "pos": "missing",
+        "glossEn": "exact",
+        "glossJa": "not_checked",
+        "pronunciation": "not_applicable",
+        "example": "not_applicable"
+      },
+      "verdict": "review"
+    },
+    {
+      "id": "fr-00010",
+      "headword": "maintenant",
+      "source": "wiktionary",
+      "sourceStatus": "multiple_entries",
+      "dictAttempts": [
+        {
+          "source": "wiktionary",
+          "status": "multiple_entries"
+        }
+      ],
+      "dictPos": [
+        "adverb",
+        "participle"
+      ],
+      "checks": {
+        "headword": "multiple_entries",
+        "pos": "missing",
+        "glossEn": "exact",
+        "glossJa": "not_checked",
+        "pronunciation": "not_applicable",
+        "example": "not_applicable"
+      },
+      "verdict": "review"
+    }
+  ]
+}

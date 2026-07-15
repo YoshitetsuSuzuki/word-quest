@@ -1,0 +1,280 @@
+{
+  "summary": {
+    "language": "spanish",
+    "generatedAt": "2026-07-15",
+    "dictionaries": [
+      "wiktionary"
+    ],
+    "licenses": [
+      {
+        "source": "wiktionary",
+        "license": "CC-BY-SA (Wiktionaryテキスト。正確な版は配布元で要確認)"
+      }
+    ],
+    "totalInWordbank": 1948,
+    "checkedCount": 10,
+    "sampled": true,
+    "matchRate": 100,
+    "posMatchRate": 0,
+    "glossMatchRate": 100,
+    "pronunciationMatchRate": 0,
+    "exampleOkRate": 0,
+    "unsafeExamples": 0,
+    "needsHumanReview": 10,
+    "criticalErrors": 0,
+    "ok": 0,
+    "dataMutated": false
+  },
+  "results": [
+    {
+      "id": "es-00001",
+      "headword": "bien",
+      "source": "wiktionary",
+      "sourceStatus": "multiple_entries",
+      "dictAttempts": [
+        {
+          "source": "wiktionary",
+          "status": "multiple_entries"
+        }
+      ],
+      "dictPos": [
+        "adverb",
+        "adjective",
+        "conjunction",
+        "noun"
+      ],
+      "checks": {
+        "headword": "multiple_entries",
+        "pos": "missing",
+        "glossEn": "exact",
+        "glossJa": "not_checked",
+        "pronunciation": "not_applicable",
+        "example": "not_applicable"
+      },
+      "verdict": "review"
+    },
+    {
+      "id": "es-00002",
+      "headword": "ahora",
+      "source": "wiktionary",
+      "sourceStatus": "multiple_entries",
+      "dictAttempts": [
+        {
+          "source": "wiktionary",
+          "status": "multiple_entries"
+        }
+      ],
+      "dictPos": [
+        "adverb",
+        "conjunction"
+      ],
+      "checks": {
+        "headword": "multiple_entries",
+        "pos": "missing",
+        "glossEn": "exact",
+        "glossJa": "not_checked",
+        "pronunciation": "not_applicable",
+        "example": "not_applicable"
+      },
+      "verdict": "review"
+    },
+    {
+      "id": "es-00003",
+      "headword": "bueno",
+      "source": "wiktionary",
+      "sourceStatus": "multiple_entries",
+      "dictAttempts": [
+        {
+          "source": "wiktionary",
+          "status": "multiple_entries"
+        }
+      ],
+      "dictPos": [
+        "adjective",
+        "interjection"
+      ],
+      "checks": {
+        "headword": "multiple_entries",
+        "pos": "missing",
+        "glossEn": "exact",
+        "glossJa": "not_checked",
+        "pronunciation": "not_applicable",
+        "example": "not_applicable"
+      },
+      "verdict": "review"
+    },
+    {
+      "id": "es-00004",
+      "headword": "gracias",
+      "source": "wiktionary",
+      "sourceStatus": "multiple_entries",
+      "dictAttempts": [
+        {
+          "source": "wiktionary",
+          "status": "multiple_entries"
+        }
+      ],
+      "dictPos": [
+        "interjection",
+        "noun"
+      ],
+      "checks": {
+        "headword": "multiple_entries",
+        "pos": "missing",
+        "glossEn": "exact",
+        "glossJa": "not_checked",
+        "pronunciation": "not_applicable",
+        "example": "not_applicable"
+      },
+      "verdict": "review"
+    },
+    {
+      "id": "es-00005",
+      "headword": "solo",
+      "source": "wiktionary",
+      "sourceStatus": "multiple_entries",
+      "dictAttempts": [
+        {
+          "source": "wiktionary",
+          "status": "multiple_entries"
+        }
+      ],
+      "dictPos": [
+        "adjective",
+        "adverb"
+      ],
+      "checks": {
+        "headword": "multiple_entries",
+        "pos": "missing",
+        "glossEn": "exact",
+        "glossJa": "not_checked",
+        "pronunciation": "not_applicable",
+        "example": "not_applicable"
+      },
+      "verdict": "review"
+    },
+    {
+      "id": "es-00006",
+      "headword": "verdad",
+      "source": "wiktionary",
+      "sourceStatus": "multiple_entries",
+      "dictAttempts": [
+        {
+          "source": "wiktionary",
+          "status": "multiple_entries"
+        }
+      ],
+      "dictPos": [
+        "noun",
+        "interjection"
+      ],
+      "checks": {
+        "headword": "multiple_entries",
+        "pos": "missing",
+        "glossEn": "exact",
+        "glossJa": "not_checked",
+        "pronunciation": "not_applicable",
+        "example": "not_applicable"
+      },
+      "verdict": "review"
+    },
+    {
+      "id": "es-00007",
+      "headword": "casa",
+      "source": "wiktionary",
+      "sourceStatus": "multiple_entries",
+      "dictAttempts": [
+        {
+          "source": "wiktionary",
+          "status": "multiple_entries"
+        }
+      ],
+      "dictPos": [
+        "noun",
+        "verb"
+      ],
+      "checks": {
+        "headword": "multiple_entries",
+        "pos": "missing",
+        "glossEn": "exact",
+        "glossJa": "not_checked",
+        "pronunciation": "not_applicable",
+        "example": "not_applicable"
+      },
+      "verdict": "review"
+    },
+    {
+      "id": "es-00008",
+      "headword": "tiempo",
+      "source": "wiktionary",
+      "sourceStatus": "matched",
+      "dictAttempts": [
+        {
+          "source": "wiktionary",
+          "status": "matched"
+        }
+      ],
+      "dictPos": [
+        "noun"
+      ],
+      "checks": {
+        "headword": "matched",
+        "pos": "missing",
+        "glossEn": "exact",
+        "glossJa": "not_checked",
+        "pronunciation": "not_applicable",
+        "example": "not_applicable"
+      },
+      "verdict": "review"
+    },
+    {
+      "id": "es-00009",
+      "headword": "dos",
+      "source": "wiktionary",
+      "sourceStatus": "multiple_entries",
+      "dictAttempts": [
+        {
+          "source": "wiktionary",
+          "status": "multiple_entries"
+        }
+      ],
+      "dictPos": [
+        "numeral",
+        "noun"
+      ],
+      "checks": {
+        "headword": "multiple_entries",
+        "pos": "missing",
+        "glossEn": "exact",
+        "glossJa": "not_checked",
+        "pronunciation": "not_applicable",
+        "example": "not_applicable"
+      },
+      "verdict": "review"
+    },
+    {
+      "id": "es-00010",
+      "headword": "nunca",
+      "source": "wiktionary",
+      "sourceStatus": "matched",
+      "dictAttempts": [
+        {
+          "source": "wiktionary",
+          "status": "matched"
+        }
+      ],
+      "dictPos": [
+        "adverb"
+      ],
+      "checks": {
+        "headword": "matched",
+        "pos": "missing",
+        "glossEn": "exact",
+        "glossJa": "not_checked",
+        "pronunciation": "not_applicable",
+        "example": "not_applicable"
+      },
+      "verdict": "review"
+    }
+  ]
+}

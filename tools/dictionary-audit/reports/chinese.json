@@ -1,0 +1,371 @@
+{
+  "summary": {
+    "language": "chinese",
+    "generatedAt": "2026-07-15",
+    "dictionaries": [
+      "cedict",
+      "wiktionary"
+    ],
+    "licenses": [
+      {
+        "source": "cedict",
+        "license": "CC-BY-SA (正確な版は配布元で要確認)"
+      },
+      {
+        "source": "wiktionary",
+        "license": "CC-BY-SA (Wiktionaryテキスト。正確な版は配布元で要確認)"
+      }
+    ],
+    "totalInWordbank": 4201,
+    "checkedCount": 10,
+    "sampled": true,
+    "matchRate": 30,
+    "posMatchRate": 30,
+    "glossMatchRate": 30,
+    "pronunciationMatchRate": 0,
+    "exampleOkRate": 0,
+    "unsafeExamples": 0,
+    "needsHumanReview": 3,
+    "criticalErrors": 7,
+    "ok": 0,
+    "dataMutated": false
+  },
+  "results": [
+    {
+      "id": "zh-00001",
+      "headword": "爱",
+      "source": "wiktionary",
+      "sourceStatus": "not_found",
+      "dictAttempts": [
+        {
+          "source": "cedict",
+          "status": "not_checked"
+        },
+        {
+          "source": "wiktionary",
+          "status": "not_found"
+        }
+      ],
+      "dictPos": [],
+      "checks": {
+        "headword": "not_found",
+        "pos": "not_checked",
+        "glossEn": "not_checked",
+        "glossJa": "not_checked",
+        "pronunciation": "not_checked",
+        "example": {
+          "grammar": "grammar_review",
+          "sense": "sense_review",
+          "translation": "translation_ok",
+          "safety": "safe",
+          "overall": "review",
+          "_heuristic": true
+        }
+      },
+      "verdict": "critical"
+    },
+    {
+      "id": "zh-00002",
+      "headword": "爱好",
+      "source": "wiktionary",
+      "sourceStatus": "not_found",
+      "dictAttempts": [
+        {
+          "source": "cedict",
+          "status": "not_checked"
+        },
+        {
+          "source": "wiktionary",
+          "status": "not_found"
+        }
+      ],
+      "dictPos": [],
+      "checks": {
+        "headword": "not_found",
+        "pos": "not_checked",
+        "glossEn": "not_checked",
+        "glossJa": "not_checked",
+        "pronunciation": "not_checked",
+        "example": {
+          "grammar": "grammar_review",
+          "sense": "sense_review",
+          "translation": "translation_ok",
+          "safety": "safe",
+          "overall": "review",
+          "_heuristic": true
+        }
+      },
+      "verdict": "critical"
+    },
+    {
+      "id": "zh-00003",
+      "headword": "八",
+      "source": "wiktionary",
+      "sourceStatus": "not_found",
+      "dictAttempts": [
+        {
+          "source": "cedict",
+          "status": "not_checked"
+        },
+        {
+          "source": "wiktionary",
+          "status": "not_found"
+        }
+      ],
+      "dictPos": [],
+      "checks": {
+        "headword": "not_found",
+        "pos": "not_checked",
+        "glossEn": "not_checked",
+        "glossJa": "not_checked",
+        "pronunciation": "not_checked",
+        "example": {
+          "grammar": "grammar_review",
+          "sense": "sense_review",
+          "translation": "translation_ok",
+          "safety": "safe",
+          "overall": "review",
+          "_heuristic": true
+        }
+      },
+      "verdict": "critical"
+    },
+    {
+      "id": "zh-00004",
+      "headword": "爸爸",
+      "source": "wiktionary",
+      "sourceStatus": "matched",
+      "dictAttempts": [
+        {
+          "source": "cedict",
+          "status": "not_checked"
+        },
+        {
+          "source": "wiktionary",
+          "status": "matched"
+        }
+      ],
+      "dictPos": [
+        "noun"
+      ],
+      "checks": {
+        "headword": "matched",
+        "pos": "exact",
+        "glossEn": "exact",
+        "glossJa": "not_checked",
+        "pronunciation": "not_checked",
+        "example": {
+          "grammar": "grammar_review",
+          "sense": "sense_review",
+          "translation": "translation_ok",
+          "safety": "safe",
+          "overall": "review",
+          "_heuristic": true
+        }
+      },
+      "verdict": "review"
+    },
+    {
+      "id": "zh-00005",
+      "headword": "白",
+      "source": "wiktionary",
+      "sourceStatus": "not_found",
+      "dictAttempts": [
+        {
+          "source": "cedict",
+          "status": "not_checked"
+        },
+        {
+          "source": "wiktionary",
+          "status": "not_found"
+        }
+      ],
+      "dictPos": [],
+      "checks": {
+        "headword": "not_found",
+        "pos": "not_checked",
+        "glossEn": "not_checked",
+        "glossJa": "not_checked",
+        "pronunciation": "not_checked",
+        "example": {
+          "grammar": "grammar_review",
+          "sense": "sense_review",
+          "translation": "translation_ok",
+          "safety": "safe",
+          "overall": "review",
+          "_heuristic": true
+        }
+      },
+      "verdict": "critical"
+    },
+    {
+      "id": "zh-00006",
+      "headword": "白天",
+      "source": "wiktionary",
+      "sourceStatus": "matched",
+      "dictAttempts": [
+        {
+          "source": "cedict",
+          "status": "not_checked"
+        },
+        {
+          "source": "wiktionary",
+          "status": "matched"
+        }
+      ],
+      "dictPos": [
+        "noun"
+      ],
+      "checks": {
+        "headword": "matched",
+        "pos": "exact",
+        "glossEn": "exact",
+        "glossJa": "not_checked",
+        "pronunciation": "not_checked",
+        "example": {
+          "grammar": "grammar_review",
+          "sense": "sense_review",
+          "translation": "translation_ok",
+          "safety": "safe",
+          "overall": "review",
+          "_heuristic": true
+        }
+      },
+      "verdict": "review"
+    },
+    {
+      "id": "zh-00007",
+      "headword": "百",
+      "source": "wiktionary",
+      "sourceStatus": "not_found",
+      "dictAttempts": [
+        {
+          "source": "cedict",
+          "status": "not_checked"
+        },
+        {
+          "source": "wiktionary",
+          "status": "not_found"
+        }
+      ],
+      "dictPos": [],
+      "checks": {
+        "headword": "not_found",
+        "pos": "not_checked",
+        "glossEn": "not_checked",
+        "glossJa": "not_checked",
+        "pronunciation": "not_checked",
+        "example": {
+          "grammar": "grammar_review",
+          "sense": "sense_review",
+          "translation": "translation_ok",
+          "safety": "safe",
+          "overall": "review",
+          "_heuristic": true
+        }
+      },
+      "verdict": "critical"
+    },
+    {
+      "id": "zh-00008",
+      "headword": "班",
+      "source": "wiktionary",
+      "sourceStatus": "not_found",
+      "dictAttempts": [
+        {
+          "source": "cedict",
+          "status": "not_checked"
+        },
+        {
+          "source": "wiktionary",
+          "status": "not_found"
+        }
+      ],
+      "dictPos": [],
+      "checks": {
+        "headword": "not_found",
+        "pos": "not_checked",
+        "glossEn": "not_checked",
+        "glossJa": "not_checked",
+        "pronunciation": "not_checked",
+        "example": {
+          "grammar": "grammar_review",
+          "sense": "sense_review",
+          "translation": "translation_ok",
+          "safety": "safe",
+          "overall": "review",
+          "_heuristic": true
+        }
+      },
+      "verdict": "critical"
+    },
+    {
+      "id": "zh-00009",
+      "headword": "半",
+      "source": "wiktionary",
+      "sourceStatus": "not_found",
+      "dictAttempts": [
+        {
+          "source": "cedict",
+          "status": "not_checked"
+        },
+        {
+          "source": "wiktionary",
+          "status": "not_found"
+        }
+      ],
+      "dictPos": [],
+      "checks": {
+        "headword": "not_found",
+        "pos": "not_checked",
+        "glossEn": "not_checked",
+        "glossJa": "not_checked",
+        "pronunciation": "not_checked",
+        "example": {
+          "grammar": "grammar_review",
+          "sense": "sense_review",
+          "translation": "translation_ok",
+          "safety": "safe",
+          "overall": "review",
+          "_heuristic": true
+        }
+      },
+      "verdict": "critical"
+    },
+    {
+      "id": "zh-00010",
+      "headword": "半年",
+      "source": "wiktionary",
+      "sourceStatus": "matched",
+      "dictAttempts": [
+        {
+          "source": "cedict",
+          "status": "not_checked"
+        },
+        {
+          "source": "wiktionary",
+          "status": "matched"
+        }
+      ],
+      "dictPos": [
+        "noun"
+      ],
+      "checks": {
+        "headword": "matched",
+        "pos": "exact",
+        "glossEn": "exact",
+        "glossJa": "not_checked",
+        "pronunciation": "not_checked",
+        "example": {
+          "grammar": "grammar_review",
+          "sense": "sense_review",
+          "translation": "translation_ok",
+          "safety": "safe",
+          "overall": "review",
+          "_heuristic": true
+        }
+      },
+      "verdict": "review"
+    }
+  ]
+}

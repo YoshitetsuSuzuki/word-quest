@@ -1,0 +1,339 @@
+{
+  "summary": {
+    "language": "korean",
+    "generatedAt": "2026-07-15",
+    "dictionaries": [
+      "wiktionary"
+    ],
+    "licenses": [
+      {
+        "source": "wiktionary",
+        "license": "CC-BY-SA (Wiktionaryテキスト。正確な版は配布元で要確認)"
+      }
+    ],
+    "totalInWordbank": 1529,
+    "checkedCount": 10,
+    "sampled": true,
+    "matchRate": 60,
+    "posMatchRate": 30,
+    "glossMatchRate": 0,
+    "pronunciationMatchRate": 0,
+    "exampleOkRate": 0,
+    "unsafeExamples": 0,
+    "needsHumanReview": 4,
+    "criticalErrors": 6,
+    "ok": 0,
+    "dataMutated": false
+  },
+  "results": [
+    {
+      "id": "ko-00001",
+      "headword": "안녕하세요",
+      "source": "wiktionary",
+      "sourceStatus": "matched",
+      "dictAttempts": [
+        {
+          "source": "wiktionary",
+          "status": "matched"
+        }
+      ],
+      "dictPos": [
+        "phrase"
+      ],
+      "checks": {
+        "headword": "matched",
+        "pos": "different",
+        "glossEn": "not_applicable",
+        "glossJa": "not_checked",
+        "pronunciation": "not_checked",
+        "example": {
+          "grammar": "grammar_review",
+          "sense": "sense_review",
+          "translation": "translation_ok",
+          "safety": "safe",
+          "overall": "review",
+          "_heuristic": true
+        }
+      },
+      "verdict": "critical"
+    },
+    {
+      "id": "ko-00002",
+      "headword": "안녕히 가세요",
+      "source": "wiktionary",
+      "sourceStatus": "matched",
+      "dictAttempts": [
+        {
+          "source": "wiktionary",
+          "status": "matched"
+        }
+      ],
+      "dictPos": [
+        "phrase"
+      ],
+      "checks": {
+        "headword": "matched",
+        "pos": "different",
+        "glossEn": "not_applicable",
+        "glossJa": "not_checked",
+        "pronunciation": "not_checked",
+        "example": {
+          "grammar": "grammar_review",
+          "sense": "sense_review",
+          "translation": "translation_ok",
+          "safety": "safe",
+          "overall": "review",
+          "_heuristic": true
+        }
+      },
+      "verdict": "critical"
+    },
+    {
+      "id": "ko-00003",
+      "headword": "감사합니다",
+      "source": "wiktionary",
+      "sourceStatus": "multiple_entries",
+      "dictAttempts": [
+        {
+          "source": "wiktionary",
+          "status": "multiple_entries"
+        }
+      ],
+      "dictPos": [
+        "adjective",
+        "interjection",
+        "verb"
+      ],
+      "checks": {
+        "headword": "multiple_entries",
+        "pos": "exact",
+        "glossEn": "not_applicable",
+        "glossJa": "not_checked",
+        "pronunciation": "not_checked",
+        "example": {
+          "grammar": "grammar_review",
+          "sense": "sense_review",
+          "translation": "translation_ok",
+          "safety": "safe",
+          "overall": "review",
+          "_heuristic": true
+        }
+      },
+      "verdict": "review"
+    },
+    {
+      "id": "ko-00004",
+      "headword": "고맙습니다",
+      "source": "wiktionary",
+      "sourceStatus": "matched",
+      "dictAttempts": [
+        {
+          "source": "wiktionary",
+          "status": "matched"
+        }
+      ],
+      "dictPos": [
+        "verb"
+      ],
+      "checks": {
+        "headword": "matched",
+        "pos": "exact",
+        "glossEn": "not_applicable",
+        "glossJa": "not_checked",
+        "pronunciation": "not_checked",
+        "example": {
+          "grammar": "grammar_review",
+          "sense": "sense_review",
+          "translation": "translation_ok",
+          "safety": "safe",
+          "overall": "review",
+          "_heuristic": true
+        }
+      },
+      "verdict": "review"
+    },
+    {
+      "id": "ko-00005",
+      "headword": "죄송합니다",
+      "source": "wiktionary",
+      "sourceStatus": "not_found",
+      "dictAttempts": [
+        {
+          "source": "wiktionary",
+          "status": "not_found"
+        }
+      ],
+      "dictPos": [],
+      "checks": {
+        "headword": "not_found",
+        "pos": "not_checked",
+        "glossEn": "not_applicable",
+        "glossJa": "not_checked",
+        "pronunciation": "not_checked",
+        "example": {
+          "grammar": "grammar_review",
+          "sense": "sense_review",
+          "translation": "translation_ok",
+          "safety": "safe",
+          "overall": "review",
+          "_heuristic": true
+        }
+      },
+      "verdict": "critical"
+    },
+    {
+      "id": "ko-00006",
+      "headword": "미안해요",
+      "source": "wiktionary",
+      "sourceStatus": "not_found",
+      "dictAttempts": [
+        {
+          "source": "wiktionary",
+          "status": "not_found"
+        }
+      ],
+      "dictPos": [],
+      "checks": {
+        "headword": "not_found",
+        "pos": "not_checked",
+        "glossEn": "not_applicable",
+        "glossJa": "not_checked",
+        "pronunciation": "not_checked",
+        "example": {
+          "grammar": "grammar_review",
+          "sense": "sense_review",
+          "translation": "translation_ok",
+          "safety": "safe",
+          "overall": "review",
+          "_heuristic": true
+        }
+      },
+      "verdict": "critical"
+    },
+    {
+      "id": "ko-00007",
+      "headword": "네",
+      "source": "wiktionary",
+      "sourceStatus": "not_checked",
+      "dictAttempts": [
+        {
+          "source": "wiktionary",
+          "status": "not_checked"
+        }
+      ],
+      "dictPos": [],
+      "checks": {
+        "headword": "not_checked",
+        "pos": "not_checked",
+        "glossEn": "not_applicable",
+        "glossJa": "not_checked",
+        "pronunciation": "not_checked",
+        "example": {
+          "grammar": "grammar_review",
+          "sense": "sense_review",
+          "translation": "translation_ok",
+          "safety": "safe",
+          "overall": "review",
+          "_heuristic": true
+        }
+      },
+      "verdict": "review"
+    },
+    {
+      "id": "ko-00008",
+      "headword": "아니요",
+      "source": "wiktionary",
+      "sourceStatus": "matched",
+      "dictAttempts": [
+        {
+          "source": "wiktionary",
+          "status": "matched"
+        }
+      ],
+      "dictPos": [
+        "interjection"
+      ],
+      "checks": {
+        "headword": "matched",
+        "pos": "different",
+        "glossEn": "not_applicable",
+        "glossJa": "not_checked",
+        "pronunciation": "not_checked",
+        "example": {
+          "grammar": "grammar_review",
+          "sense": "sense_review",
+          "translation": "translation_ok",
+          "safety": "safe",
+          "overall": "review",
+          "_heuristic": true
+        }
+      },
+      "verdict": "critical"
+    },
+    {
+      "id": "ko-00009",
+      "headword": "괜찮아요",
+      "source": "wiktionary",
+      "sourceStatus": "not_found",
+      "dictAttempts": [
+        {
+          "source": "wiktionary",
+          "status": "not_found"
+        }
+      ],
+      "dictPos": [],
+      "checks": {
+        "headword": "not_found",
+        "pos": "not_checked",
+        "glossEn": "not_applicable",
+        "glossJa": "not_checked",
+        "pronunciation": "not_checked",
+        "example": {
+          "grammar": "grammar_review",
+          "sense": "sense_review",
+          "translation": "translation_ok",
+          "safety": "safe",
+          "overall": "review",
+          "_heuristic": true
+        }
+      },
+      "verdict": "critical"
+    },
+    {
+      "id": "ko-00010",
+      "headword": "저",
+      "source": "wiktionary",
+      "sourceStatus": "multiple_entries",
+      "dictAttempts": [
+        {
+          "source": "wiktionary",
+          "status": "multiple_entries"
+        }
+      ],
+      "dictPos": [
+        "determiner",
+        "pronoun",
+        "noun",
+        "interjection",
+        "prefix",
+        "syllable"
+      ],
+      "checks": {
+        "headword": "multiple_entries",
+        "pos": "exact",
+        "glossEn": "not_applicable",
+        "glossJa": "not_checked",
+        "pronunciation": "not_checked",
+        "example": {
+          "grammar": "grammar_review",
+          "sense": "sense_review",
+          "translation": "translation_ok",
+          "safety": "safe",
+          "overall": "review",
+          "_heuristic": true
+        }
+      },
+      "verdict": "review"
+    }
+  ]
+}

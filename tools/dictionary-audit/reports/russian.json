@@ -1,0 +1,268 @@
+{
+  "summary": {
+    "language": "russian",
+    "generatedAt": "2026-07-15",
+    "dictionaries": [
+      "wiktionary"
+    ],
+    "licenses": [
+      {
+        "source": "wiktionary",
+        "license": "CC-BY-SA (Wiktionaryテキスト。正確な版は配布元で要確認)"
+      }
+    ],
+    "totalInWordbank": 150,
+    "checkedCount": 10,
+    "sampled": true,
+    "matchRate": 70,
+    "posMatchRate": 0,
+    "glossMatchRate": 70,
+    "pronunciationMatchRate": 0,
+    "exampleOkRate": 0,
+    "unsafeExamples": 0,
+    "needsHumanReview": 10,
+    "criticalErrors": 0,
+    "ok": 0,
+    "dataMutated": false
+  },
+  "results": [
+    {
+      "id": "ru-00001",
+      "headword": "да",
+      "source": "wiktionary",
+      "sourceStatus": "not_checked",
+      "dictAttempts": [
+        {
+          "source": "wiktionary",
+          "status": "not_checked"
+        }
+      ],
+      "dictPos": [],
+      "checks": {
+        "headword": "not_checked",
+        "pos": "not_checked",
+        "glossEn": "not_checked",
+        "glossJa": "not_checked",
+        "pronunciation": "not_checked",
+        "example": "not_applicable"
+      },
+      "verdict": "review"
+    },
+    {
+      "id": "ru-00002",
+      "headword": "нет",
+      "source": "wiktionary",
+      "sourceStatus": "not_checked",
+      "dictAttempts": [
+        {
+          "source": "wiktionary",
+          "status": "not_checked"
+        }
+      ],
+      "dictPos": [],
+      "checks": {
+        "headword": "not_checked",
+        "pos": "not_checked",
+        "glossEn": "not_checked",
+        "glossJa": "not_checked",
+        "pronunciation": "not_checked",
+        "example": "not_applicable"
+      },
+      "verdict": "review"
+    },
+    {
+      "id": "ru-00003",
+      "headword": "спасибо",
+      "source": "wiktionary",
+      "sourceStatus": "not_checked",
+      "dictAttempts": [
+        {
+          "source": "wiktionary",
+          "status": "not_checked"
+        }
+      ],
+      "dictPos": [],
+      "checks": {
+        "headword": "not_checked",
+        "pos": "not_checked",
+        "glossEn": "not_checked",
+        "glossJa": "not_checked",
+        "pronunciation": "not_checked",
+        "example": "not_applicable"
+      },
+      "verdict": "review"
+    },
+    {
+      "id": "ru-00004",
+      "headword": "привет",
+      "source": "wiktionary",
+      "sourceStatus": "multiple_entries",
+      "dictAttempts": [
+        {
+          "source": "wiktionary",
+          "status": "multiple_entries"
+        }
+      ],
+      "dictPos": [
+        "interjection",
+        "noun"
+      ],
+      "checks": {
+        "headword": "multiple_entries",
+        "pos": "missing",
+        "glossEn": "exact",
+        "glossJa": "not_checked",
+        "pronunciation": "not_checked",
+        "example": "not_applicable"
+      },
+      "verdict": "review"
+    },
+    {
+      "id": "ru-00005",
+      "headword": "здравствуйте",
+      "source": "wiktionary",
+      "sourceStatus": "multiple_entries",
+      "dictAttempts": [
+        {
+          "source": "wiktionary",
+          "status": "multiple_entries"
+        }
+      ],
+      "dictPos": [
+        "interjection",
+        "verb"
+      ],
+      "checks": {
+        "headword": "multiple_entries",
+        "pos": "missing",
+        "glossEn": "exact",
+        "glossJa": "not_checked",
+        "pronunciation": "not_checked",
+        "example": "not_applicable"
+      },
+      "verdict": "review"
+    },
+    {
+      "id": "ru-00006",
+      "headword": "вода",
+      "source": "wiktionary",
+      "sourceStatus": "multiple_entries",
+      "dictAttempts": [
+        {
+          "source": "wiktionary",
+          "status": "multiple_entries"
+        }
+      ],
+      "dictPos": [
+        "noun"
+      ],
+      "checks": {
+        "headword": "multiple_entries",
+        "pos": "missing",
+        "glossEn": "exact",
+        "glossJa": "not_checked",
+        "pronunciation": "not_checked",
+        "example": "not_applicable"
+      },
+      "verdict": "review"
+    },
+    {
+      "id": "ru-00007",
+      "headword": "хлеб",
+      "source": "wiktionary",
+      "sourceStatus": "multiple_entries",
+      "dictAttempts": [
+        {
+          "source": "wiktionary",
+          "status": "multiple_entries"
+        }
+      ],
+      "dictPos": [
+        "noun"
+      ],
+      "checks": {
+        "headword": "multiple_entries",
+        "pos": "missing",
+        "glossEn": "exact",
+        "glossJa": "not_checked",
+        "pronunciation": "not_checked",
+        "example": "not_applicable"
+      },
+      "verdict": "review"
+    },
+    {
+      "id": "ru-00008",
+      "headword": "молоко",
+      "source": "wiktionary",
+      "sourceStatus": "matched",
+      "dictAttempts": [
+        {
+          "source": "wiktionary",
+          "status": "matched"
+        }
+      ],
+      "dictPos": [
+        "noun"
+      ],
+      "checks": {
+        "headword": "matched",
+        "pos": "missing",
+        "glossEn": "exact",
+        "glossJa": "not_checked",
+        "pronunciation": "not_checked",
+        "example": "not_applicable"
+      },
+      "verdict": "review"
+    },
+    {
+      "id": "ru-00009",
+      "headword": "чай",
+      "source": "wiktionary",
+      "sourceStatus": "multiple_entries",
+      "dictAttempts": [
+        {
+          "source": "wiktionary",
+          "status": "multiple_entries"
+        }
+      ],
+      "dictPos": [
+        "noun",
+        "interjection",
+        "verb"
+      ],
+      "checks": {
+        "headword": "multiple_entries",
+        "pos": "missing",
+        "glossEn": "exact",
+        "glossJa": "not_checked",
+        "pronunciation": "not_checked",
+        "example": "not_applicable"
+      },
+      "verdict": "review"
+    },
+    {
+      "id": "ru-00010",
+      "headword": "кофе",
+      "source": "wiktionary",
+      "sourceStatus": "matched",
+      "dictAttempts": [
+        {
+          "source": "wiktionary",
+          "status": "matched"
+        }
+      ],
+      "dictPos": [
+        "noun"
+      ],
+      "checks": {
+        "headword": "matched",
+        "pos": "missing",
+        "glossEn": "exact",
+        "glossJa": "not_checked",
+        "pronunciation": "not_checked",
+        "example": "not_applicable"
+      },
+      "verdict": "review"
+    }
+  ]
+}

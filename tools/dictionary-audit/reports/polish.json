@@ -1,0 +1,271 @@
+{
+  "summary": {
+    "language": "polish",
+    "generatedAt": "2026-07-15",
+    "dictionaries": [
+      "wiktionary"
+    ],
+    "licenses": [
+      {
+        "source": "wiktionary",
+        "license": "CC-BY-SA (Wiktionaryテキスト。正確な版は配布元で要確認)"
+      }
+    ],
+    "totalInWordbank": 150,
+    "checkedCount": 10,
+    "sampled": true,
+    "matchRate": 80,
+    "posMatchRate": 0,
+    "glossMatchRate": 80,
+    "pronunciationMatchRate": 0,
+    "exampleOkRate": 0,
+    "unsafeExamples": 0,
+    "needsHumanReview": 10,
+    "criticalErrors": 0,
+    "ok": 0,
+    "dataMutated": false
+  },
+  "results": [
+    {
+      "id": "pl-00001",
+      "headword": "tak",
+      "source": "wiktionary",
+      "sourceStatus": "multiple_entries",
+      "dictAttempts": [
+        {
+          "source": "wiktionary",
+          "status": "multiple_entries"
+        }
+      ],
+      "dictPos": [
+        "adverb",
+        "interjection",
+        "particle"
+      ],
+      "checks": {
+        "headword": "multiple_entries",
+        "pos": "missing",
+        "glossEn": "exact",
+        "glossJa": "not_checked",
+        "pronunciation": "not_checked",
+        "example": "not_applicable"
+      },
+      "verdict": "review"
+    },
+    {
+      "id": "pl-00002",
+      "headword": "nie",
+      "source": "wiktionary",
+      "sourceStatus": "multiple_entries",
+      "dictAttempts": [
+        {
+          "source": "wiktionary",
+          "status": "multiple_entries"
+        }
+      ],
+      "dictPos": [
+        "particle",
+        "verb",
+        "pronoun"
+      ],
+      "checks": {
+        "headword": "multiple_entries",
+        "pos": "missing",
+        "glossEn": "exact",
+        "glossJa": "not_checked",
+        "pronunciation": "not_checked",
+        "example": "not_applicable"
+      },
+      "verdict": "review"
+    },
+    {
+      "id": "pl-00003",
+      "headword": "dzień",
+      "source": "wiktionary",
+      "sourceStatus": "multiple_entries",
+      "dictAttempts": [
+        {
+          "source": "wiktionary",
+          "status": "multiple_entries"
+        }
+      ],
+      "dictPos": [
+        "noun",
+        "adverb"
+      ],
+      "checks": {
+        "headword": "multiple_entries",
+        "pos": "missing",
+        "glossEn": "exact",
+        "glossJa": "not_checked",
+        "pronunciation": "not_checked",
+        "example": "not_applicable"
+      },
+      "verdict": "review"
+    },
+    {
+      "id": "pl-00004",
+      "headword": "noc",
+      "source": "wiktionary",
+      "sourceStatus": "matched",
+      "dictAttempts": [
+        {
+          "source": "wiktionary",
+          "status": "matched"
+        }
+      ],
+      "dictPos": [
+        "noun"
+      ],
+      "checks": {
+        "headword": "matched",
+        "pos": "missing",
+        "glossEn": "exact",
+        "glossJa": "not_checked",
+        "pronunciation": "not_checked",
+        "example": "not_applicable"
+      },
+      "verdict": "review"
+    },
+    {
+      "id": "pl-00005",
+      "headword": "woda",
+      "source": "wiktionary",
+      "sourceStatus": "matched",
+      "dictAttempts": [
+        {
+          "source": "wiktionary",
+          "status": "matched"
+        }
+      ],
+      "dictPos": [
+        "noun"
+      ],
+      "checks": {
+        "headword": "matched",
+        "pos": "missing",
+        "glossEn": "exact",
+        "glossJa": "not_checked",
+        "pronunciation": "not_checked",
+        "example": "not_applicable"
+      },
+      "verdict": "review"
+    },
+    {
+      "id": "pl-00006",
+      "headword": "chleb",
+      "source": "wiktionary",
+      "sourceStatus": "matched",
+      "dictAttempts": [
+        {
+          "source": "wiktionary",
+          "status": "matched"
+        }
+      ],
+      "dictPos": [
+        "noun"
+      ],
+      "checks": {
+        "headword": "matched",
+        "pos": "missing",
+        "glossEn": "exact",
+        "glossJa": "not_checked",
+        "pronunciation": "not_checked",
+        "example": "not_applicable"
+      },
+      "verdict": "review"
+    },
+    {
+      "id": "pl-00007",
+      "headword": "mleko",
+      "source": "wiktionary",
+      "sourceStatus": "matched",
+      "dictAttempts": [
+        {
+          "source": "wiktionary",
+          "status": "matched"
+        }
+      ],
+      "dictPos": [
+        "noun"
+      ],
+      "checks": {
+        "headword": "matched",
+        "pos": "missing",
+        "glossEn": "exact",
+        "glossJa": "not_checked",
+        "pronunciation": "not_checked",
+        "example": "not_applicable"
+      },
+      "verdict": "review"
+    },
+    {
+      "id": "pl-00008",
+      "headword": "dom",
+      "source": "wiktionary",
+      "sourceStatus": "matched",
+      "dictAttempts": [
+        {
+          "source": "wiktionary",
+          "status": "matched"
+        }
+      ],
+      "dictPos": [
+        "noun"
+      ],
+      "checks": {
+        "headword": "matched",
+        "pos": "missing",
+        "glossEn": "exact",
+        "glossJa": "not_checked",
+        "pronunciation": "not_checked",
+        "example": "not_applicable"
+      },
+      "verdict": "review"
+    },
+    {
+      "id": "pl-00009",
+      "headword": "kot",
+      "source": "wiktionary",
+      "sourceStatus": "not_checked",
+      "dictAttempts": [
+        {
+          "source": "wiktionary",
+          "status": "not_checked"
+        }
+      ],
+      "dictPos": [],
+      "checks": {
+        "headword": "not_checked",
+        "pos": "not_checked",
+        "glossEn": "not_checked",
+        "glossJa": "not_checked",
+        "pronunciation": "not_checked",
+        "example": "not_applicable"
+      },
+      "verdict": "review"
+    },
+    {
+      "id": "pl-00010",
+      "headword": "pies",
+      "source": "wiktionary",
+      "sourceStatus": "not_checked",
+      "dictAttempts": [
+        {
+          "source": "wiktionary",
+          "status": "not_checked"
+        }
+      ],
+      "dictPos": [],
+      "checks": {
+        "headword": "not_checked",
+        "pos": "not_checked",
+        "glossEn": "not_checked",
+        "glossJa": "not_checked",
+        "pronunciation": "not_checked",
+        "example": "not_applicable"
+      },
+      "verdict": "review"
+    }
+  ]
+}
