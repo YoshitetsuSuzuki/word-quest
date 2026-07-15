@@ -1,0 +1,124 @@
+{
+  "generatedAt": "2026-07-15",
+  "title": "全9言語 統合(v3) サマリー",
+  "dataMutated": false,
+  "total": 20131,
+  "aggregateVerdicts": {
+    "verified": 10295,
+    "likely_correct": 8293,
+    "review": 364,
+    "conflicting": 0,
+    "critical": 1179,
+    "not_checked": 0
+  },
+  "verdictSum": 20131,
+  "languages": {
+    "english": {
+      "total": 8136,
+      "verdicts": {
+        "likely_correct": 6947,
+        "review": 245,
+        "critical": 944
+      },
+      "sources": [
+        "oewn"
+      ]
+    },
+    "chinese": {
+      "total": 4201,
+      "verdicts": {
+        "verified": 4134,
+        "review": 12,
+        "critical": 55
+      },
+      "sources": [
+        "cedict"
+      ]
+    },
+    "korean": {
+      "total": 1529,
+      "verdicts": {
+        "critical": 121,
+        "likely_correct": 1297,
+        "review": 107,
+        "verified": 4
+      },
+      "sources": [
+        "kaikki-korean"
+      ]
+    },
+    "spanish": {
+      "total": 1948,
+      "verdicts": {
+        "verified": 1912,
+        "likely_correct": 22,
+        "critical": 14
+      },
+      "sources": [
+        "kaikki-spanish"
+      ]
+    },
+    "german": {
+      "total": 1919,
+      "verdicts": {
+        "verified": 1894,
+        "critical": 16,
+        "likely_correct": 9
+      },
+      "sources": [
+        "kaikki-german"
+      ]
+    },
+    "french": {
+      "total": 1948,
+      "verdicts": {
+        "verified": 1905,
+        "likely_correct": 17,
+        "critical": 26
+      },
+      "sources": [
+        "kaikki-french"
+      ]
+    },
+    "portuguese": {
+      "total": 150,
+      "verdicts": {
+        "verified": 149,
+        "likely_correct": 1
+      },
+      "sources": [
+        "kaikki-portuguese"
+      ]
+    },
+    "polish": {
+      "total": 150,
+      "verdicts": {
+        "verified": 148,
+        "critical": 2
+      },
+      "sources": [
+        "kaikki-polish"
+      ]
+    },
+    "russian": {
+      "total": 150,
+      "verdicts": {
+        "verified": 149,
+        "critical": 1
+      },
+      "sources": [
+        "kaikki-russian"
+      ]
+    }
+  },
+  "problemCounts": {
+    "critical": 1179,
+    "conflicting": 0,
+    "review": 364,
+    "notFound": 214,
+    "notChecked": 0,
+    "caseMismatch": 16,
+    "diacriticMismatch": 0,
+    "formMatch": 0
+  }
+}

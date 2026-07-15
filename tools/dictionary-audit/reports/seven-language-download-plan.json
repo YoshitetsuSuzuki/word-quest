@@ -1,0 +1,73 @@
+{
+  "generatedAt": "2026-07-16",
+  "acquisitionMethod": "targeted_official_download(公式ダンプをストリーム抽出・全保存しない)",
+  "languages": [
+    {
+      "language": "portuguese",
+      "dict": "Kaikki Portuguese",
+      "compressedOrDump": "529.8MB",
+      "extractedEstimate": "~3MB(150語×約2entry)",
+      "indexEstimate": "~3MB",
+      "priority": 1,
+      "method": "targeted_official_download"
+    },
+    {
+      "language": "polish",
+      "dict": "Kaikki Polish",
+      "compressedOrDump": "736.3MB",
+      "extractedEstimate": "~3MB",
+      "indexEstimate": "~3MB",
+      "priority": 1,
+      "method": "targeted_official_download"
+    },
+    {
+      "language": "russian",
+      "dict": "Kaikki Russian",
+      "compressedOrDump": "892.8MB",
+      "extractedEstimate": "~3MB",
+      "indexEstimate": "~3MB",
+      "priority": 1,
+      "method": "targeted_official_download"
+    },
+    {
+      "language": "korean",
+      "dict": "Kaikki Korean",
+      "compressedOrDump": "186.2MB",
+      "extractedEstimate": "~17MB(2079entry・取得済)",
+      "indexEstimate": "~20MB",
+      "priority": 2,
+      "method": "targeted_official_download",
+      "status": "done"
+    },
+    {
+      "language": "spanish",
+      "dict": "Kaikki Spanish",
+      "compressedOrDump": "966.4MB",
+      "extractedEstimate": "~30MB",
+      "indexEstimate": "~35MB",
+      "priority": 3,
+      "method": "targeted_official_download"
+    },
+    {
+      "language": "german",
+      "dict": "Kaikki German",
+      "compressedOrDump": "1015.9MB",
+      "extractedEstimate": "~30MB",
+      "indexEstimate": "~35MB",
+      "priority": 3,
+      "method": "targeted_official_download"
+    },
+    {
+      "language": "french",
+      "dict": "Kaikki French",
+      "compressedOrDump": "544.2MB",
+      "extractedEstimate": "~30MB",
+      "indexEstimate": "~35MB",
+      "priority": 3,
+      "method": "targeted_official_download"
+    }
+  ],
+  "totalDumpStreamed": "~4.9GB(ストリームのみ・ディスク常駐は抽出後の小ファイル)",
+  "diskFootprintAfterExtract": "~200MB(処理済+索引・全てGit管理外)",
+  "note": "全ダンプ~4.9GBはストリーム走査のみで保存しない。ディスク常駐は抽出後の小さなjsonl+索引のみ。1語ずつAPIは呼ばない。"
+}

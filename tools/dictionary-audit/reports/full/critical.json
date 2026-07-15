@@ -25862,5 +25862,4722 @@
     },
     "example": "review",
     "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00001",
+    "headword": "안녕하세요",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "phrase"
+        ]
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00002",
+    "headword": "안녕히 가세요",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "phrase"
+        ]
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00008",
+    "headword": "아니요",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "interjection"
+        ]
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00013",
+    "headword": "당신",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "pronoun"
+        ]
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00014",
+    "headword": "누구",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "pronoun"
+        ]
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00015",
+    "headword": "무엇",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "pronoun"
+        ]
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00157",
+    "headword": "예쁘다",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adjective"
+        ]
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00174",
+    "headword": "행복하다",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adjective"
+        ]
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00178",
+    "headword": "빨리",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adverb"
+        ]
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00184",
+    "headword": "넷",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "numeral"
+        ]
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00185",
+    "headword": "다섯",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "numeral"
+        ]
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00296",
+    "headword": "여섯",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "numeral"
+        ]
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00297",
+    "headword": "일곱",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "numeral"
+        ]
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00298",
+    "headword": "여덟",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "numeral"
+        ]
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00299",
+    "headword": "아홉",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "numeral"
+        ]
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00336",
+    "headword": "모르다",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "verb"
+        ]
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00397",
+    "headword": "깨끗하다",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adjective"
+        ]
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00399",
+    "headword": "조용하다",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adjective"
+        ]
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00401",
+    "headword": "유명하다",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adjective"
+        ]
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00402",
+    "headword": "중요하다",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adjective"
+        ]
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00403",
+    "headword": "필요하다",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adjective"
+        ]
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00404",
+    "headword": "같다",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adjective"
+        ]
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00405",
+    "headword": "다르다",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adjective"
+        ]
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00411",
+    "headword": "피곤하다",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adjective"
+        ]
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00412",
+    "headword": "건강하다",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adjective"
+        ]
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00413",
+    "headword": "친절하다",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adjective"
+        ]
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00419",
+    "headword": "불편하다",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adjective"
+        ]
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00420",
+    "headword": "편리하다",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adjective"
+        ]
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00421",
+    "headword": "안전하다",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adjective"
+        ]
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00422",
+    "headword": "위험하다",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adjective"
+        ]
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00423",
+    "headword": "복잡하다",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adjective"
+        ]
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00424",
+    "headword": "맑다",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adjective"
+        ]
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00425",
+    "headword": "흐리다",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adjective"
+        ]
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00428",
+    "headword": "많이",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adverb"
+        ]
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00431",
+    "headword": "또",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adverb"
+        ]
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00433",
+    "headword": "가끔",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adverb"
+        ]
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00437",
+    "headword": "벌써",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adverb"
+        ]
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00438",
+    "headword": "아직",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adverb"
+        ]
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00439",
+    "headword": "곧",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adverb"
+        ]
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00441",
+    "headword": "갑자기",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adverb"
+        ]
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00444",
+    "headword": "혼자",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "noun"
+        ]
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00447",
+    "headword": "꼭",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adverb"
+        ]
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00452",
+    "headword": "어떻게",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adverb"
+        ]
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00453",
+    "headword": "그리고",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adverb"
+        ]
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00456",
+    "headword": "이것",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "pronoun"
+        ]
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00457",
+    "headword": "그것",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "pronoun"
+        ]
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00458",
+    "headword": "저것",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "pronoun"
+        ]
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00459",
+    "headword": "여기",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "pronoun"
+        ]
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00460",
+    "headword": "거기",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "pronoun"
+        ]
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00479",
+    "headword": "매년",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adverb"
+        ]
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00726",
+    "headword": "비슷하다",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adjective"
+        ]
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00727",
+    "headword": "익숙하다",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adjective"
+        ]
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00728",
+    "headword": "특별하다",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adjective"
+        ]
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00729",
+    "headword": "이상하다",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adjective"
+        ]
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00730",
+    "headword": "신기하다",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adjective"
+        ]
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00736",
+    "headword": "지루하다",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adjective"
+        ]
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00737",
+    "headword": "궁금하다",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adjective"
+        ]
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00738",
+    "headword": "편하다",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adjective"
+        ]
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00739",
+    "headword": "힘들다",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adjective"
+        ]
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00740",
+    "headword": "부지런하다",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adjective"
+        ]
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00751",
+    "headword": "뚱뚱하다",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adjective"
+        ]
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00752",
+    "headword": "배고프다",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adjective"
+        ]
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00753",
+    "headword": "배부르다",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adjective"
+        ]
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00754",
+    "headword": "목마르다",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adjective"
+        ]
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00757",
+    "headword": "심각하다",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adjective"
+        ]
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00758",
+    "headword": "확실하다",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adjective"
+        ]
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00759",
+    "headword": "분명하다",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adjective"
+        ]
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00760",
+    "headword": "정확하다",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adjective"
+        ]
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00761",
+    "headword": "충분하다",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adjective"
+        ]
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00763",
+    "headword": "다양하다",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adjective"
+        ]
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00764",
+    "headword": "자유롭다",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adjective"
+        ]
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00765",
+    "headword": "신선하다",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adjective"
+        ]
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00766",
+    "headword": "자연스럽다",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adjective"
+        ]
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00767",
+    "headword": "당연하다",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adjective"
+        ]
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00768",
+    "headword": "솔직하다",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adjective"
+        ]
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00769",
+    "headword": "성실하다",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adjective"
+        ]
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00770",
+    "headword": "활발하다",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adjective"
+        ]
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00771",
+    "headword": "그러나",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adverb"
+        ]
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00773",
+    "headword": "그러면",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adverb"
+        ]
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00775",
+    "headword": "왜냐하면",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adverb"
+        ]
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00777",
+    "headword": "전혀",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adverb"
+        ]
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00781",
+    "headword": "물론",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adverb"
+        ]
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00786",
+    "headword": "결국",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adverb"
+        ]
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00795",
+    "headword": "오히려",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adverb"
+        ]
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00797",
+    "headword": "혹시",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adverb"
+        ]
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00798",
+    "headword": "만약",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adverb"
+        ]
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00844",
+    "headword": "축제",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "noun"
+        ]
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00877",
+    "headword": "차이",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "noun"
+        ]
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00936",
+    "headword": "저장하다",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "verb"
+        ]
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-01033",
+    "headword": "맹세하다",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "verb"
+        ]
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-01083",
+    "headword": "명확하다",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adjective"
+        ]
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-01084",
+    "headword": "모호하다",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adjective"
+        ]
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-01085",
+    "headword": "엄격하다",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adjective"
+        ]
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-01086",
+    "headword": "성급하다",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adjective"
+        ]
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-01087",
+    "headword": "신중하다",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adjective"
+        ]
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-01088",
+    "headword": "용감하다",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adjective"
+        ]
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-01089",
+    "headword": "비겁하다",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adjective"
+        ]
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-01090",
+    "headword": "겸손하다",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adjective"
+        ]
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-01091",
+    "headword": "거만하다",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adjective"
+        ]
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-01092",
+    "headword": "예민하다",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adjective"
+        ]
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-01095",
+    "headword": "현명하다",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adjective"
+        ]
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-01096",
+    "headword": "어리석다",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adjective"
+        ]
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-01097",
+    "headword": "게으르다",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adjective"
+        ]
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-01110",
+    "headword": "신입",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "noun"
+        ]
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-01318",
+    "headword": "설거지",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "noun"
+        ]
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-01360",
+    "headword": "분노",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "noun"
+        ]
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-01364",
+    "headword": "여유",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "noun"
+        ]
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-01373",
+    "headword": "설렘",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "verb"
+        ]
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-01483",
+    "headword": "후추",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "noun"
+        ]
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-01499",
+    "headword": "간식",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "noun"
+        ]
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-01504",
+    "headword": "대체로",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adverb"
+        ]
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-01505",
+    "headword": "도대체",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adverb"
+        ]
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-01507",
+    "headword": "차라리",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adverb"
+        ]
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-01508",
+    "headword": "게다가",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adverb"
+        ]
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-01510",
+    "headword": "그렇지만",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adverb"
+        ]
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-01515",
+    "headword": "한편",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adverb"
+        ]
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-01516",
+    "headword": "결코",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adverb"
+        ]
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-01517",
+    "headword": "과연",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adverb"
+        ]
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-01519",
+    "headword": "도저히",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adverb"
+        ]
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-01520",
+    "headword": "하필",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adverb"
+        ]
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-01521",
+    "headword": "어차피",
+    "language": "korean",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "different",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adverb"
+        ]
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "es-00372",
+    "headword": "entendido",
+    "language": "spanish",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "missing_in_app",
+      "glossEn": "different",
+      "pron": "missing_in_app"
+    },
+    "sources": {
+      "kaikki-spanish": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "missing_in_app",
+        "glossEn": "different",
+        "pron": "missing_in_app",
+        "dictPos": [
+          "verb",
+          "adjective",
+          "interjection",
+          "noun"
+        ]
+      }
+    },
+    "example": "not_applicable",
+    "exampleSafety": "not_applicable"
+  },
+  {
+    "id": "es-00547",
+    "headword": "san",
+    "language": "spanish",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "missing_in_app",
+      "glossEn": "different",
+      "pron": "missing_in_app"
+    },
+    "sources": {
+      "kaikki-spanish": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "missing_in_app",
+        "glossEn": "different",
+        "pron": "missing_in_app",
+        "dictPos": [
+          "noun",
+          "adjective"
+        ]
+      }
+    },
+    "example": "not_applicable",
+    "exampleSafety": "not_applicable"
+  },
+  {
+    "id": "es-00843",
+    "headword": "clases",
+    "language": "spanish",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "missing_in_app",
+      "glossEn": "different",
+      "pron": "missing_in_app"
+    },
+    "sources": {
+      "kaikki-spanish": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "missing_in_app",
+        "glossEn": "different",
+        "pron": "missing_in_app",
+        "dictPos": [
+          "noun"
+        ]
+      }
+    },
+    "example": "not_applicable",
+    "exampleSafety": "not_applicable"
+  },
+  {
+    "id": "es-00967",
+    "headword": "ocurrido",
+    "language": "spanish",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "missing_in_app",
+      "glossEn": "different",
+      "pron": "missing_in_app"
+    },
+    "sources": {
+      "kaikki-spanish": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "missing_in_app",
+        "glossEn": "different",
+        "pron": "missing_in_app",
+        "dictPos": [
+          "verb",
+          "adjective"
+        ]
+      }
+    },
+    "example": "not_applicable",
+    "exampleSafety": "not_applicable"
+  },
+  {
+    "id": "es-01045",
+    "headword": "lisa",
+    "language": "spanish",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "missing_in_app",
+      "glossEn": "different",
+      "pron": "missing_in_app"
+    },
+    "sources": {
+      "kaikki-spanish": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "missing_in_app",
+        "glossEn": "different",
+        "pron": "missing_in_app",
+        "dictPos": [
+          "noun",
+          "adjective",
+          "verb"
+        ]
+      }
+    },
+    "example": "not_applicable",
+    "exampleSafety": "not_applicable"
+  },
+  {
+    "id": "es-01125",
+    "headword": "notas",
+    "language": "spanish",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "missing_in_app",
+      "glossEn": "different",
+      "pron": "missing_in_app"
+    },
+    "sources": {
+      "kaikki-spanish": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "missing_in_app",
+        "glossEn": "different",
+        "pron": "missing_in_app",
+        "dictPos": [
+          "noun",
+          "verb"
+        ]
+      }
+    },
+    "example": "not_applicable",
+    "exampleSafety": "not_applicable"
+  },
+  {
+    "id": "es-01159",
+    "headword": "bravo",
+    "language": "spanish",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "missing_in_app",
+      "glossEn": "different",
+      "pron": "missing_in_app"
+    },
+    "sources": {
+      "kaikki-spanish": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "missing_in_app",
+        "glossEn": "different",
+        "pron": "missing_in_app",
+        "dictPos": [
+          "adjective",
+          "interjection"
+        ]
+      }
+    },
+    "example": "not_applicable",
+    "exampleSafety": "not_applicable"
+  },
+  {
+    "id": "es-01376",
+    "headword": "vivido",
+    "language": "spanish",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "missing_in_app",
+      "glossEn": "different",
+      "pron": "missing_in_app"
+    },
+    "sources": {
+      "kaikki-spanish": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "missing_in_app",
+        "glossEn": "different",
+        "pron": "missing_in_app",
+        "dictPos": [
+          "verb",
+          "adjective"
+        ]
+      }
+    },
+    "example": "not_applicable",
+    "exampleSafety": "not_applicable"
+  },
+  {
+    "id": "es-01455",
+    "headword": "volando",
+    "language": "spanish",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "missing_in_app",
+      "glossEn": "different",
+      "pron": "missing_in_app"
+    },
+    "sources": {
+      "kaikki-spanish": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "missing_in_app",
+        "glossEn": "different",
+        "pron": "missing_in_app",
+        "dictPos": [
+          "verb",
+          "adjective"
+        ]
+      }
+    },
+    "example": "not_applicable",
+    "exampleSafety": "not_applicable"
+  },
+  {
+    "id": "es-01567",
+    "headword": "entrado",
+    "language": "spanish",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "missing_in_app",
+      "glossEn": "different",
+      "pron": "missing_in_app"
+    },
+    "sources": {
+      "kaikki-spanish": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "missing_in_app",
+        "glossEn": "different",
+        "pron": "missing_in_app",
+        "dictPos": [
+          "verb",
+          "adjective"
+        ]
+      }
+    },
+    "example": "not_applicable",
+    "exampleSafety": "not_applicable"
+  },
+  {
+    "id": "es-01582",
+    "headword": "salvado",
+    "language": "spanish",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "missing_in_app",
+      "glossEn": "different",
+      "pron": "missing_in_app"
+    },
+    "sources": {
+      "kaikki-spanish": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "missing_in_app",
+        "glossEn": "different",
+        "pron": "missing_in_app",
+        "dictPos": [
+          "verb",
+          "noun"
+        ]
+      }
+    },
+    "example": "not_applicable",
+    "exampleSafety": "not_applicable"
+  },
+  {
+    "id": "es-01805",
+    "headword": "ánimo",
+    "language": "spanish",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "missing_in_app",
+      "glossEn": "different",
+      "pron": "missing_in_app"
+    },
+    "sources": {
+      "kaikki-spanish": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "missing_in_app",
+        "glossEn": "different",
+        "pron": "missing_in_app",
+        "dictPos": [
+          "noun",
+          "interjection"
+        ]
+      }
+    },
+    "example": "not_applicable",
+    "exampleSafety": "not_applicable"
+  },
+  {
+    "id": "es-01819",
+    "headword": "puesta",
+    "language": "spanish",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "missing_in_app",
+      "glossEn": "different",
+      "pron": "missing_in_app"
+    },
+    "sources": {
+      "kaikki-spanish": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "missing_in_app",
+        "glossEn": "different",
+        "pron": "missing_in_app",
+        "dictPos": [
+          "verb",
+          "adjective",
+          "noun"
+        ]
+      }
+    },
+    "example": "not_applicable",
+    "exampleSafety": "not_applicable"
+  },
+  {
+    "id": "es-01965",
+    "headword": "sufrido",
+    "language": "spanish",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "missing_in_app",
+      "glossEn": "different",
+      "pron": "missing_in_app"
+    },
+    "sources": {
+      "kaikki-spanish": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "missing_in_app",
+        "glossEn": "different",
+        "pron": "missing_in_app",
+        "dictPos": [
+          "verb",
+          "adjective"
+        ]
+      }
+    },
+    "example": "not_applicable",
+    "exampleSafety": "not_applicable"
+  },
+  {
+    "id": "de-00028",
+    "headword": "leid",
+    "language": "german",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "missing_in_app",
+      "glossEn": "different",
+      "pron": "missing_in_app"
+    },
+    "sources": {
+      "kaikki-german": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "missing_in_app",
+        "glossEn": "different",
+        "pron": "missing_in_app",
+        "dictPos": [
+          "verb",
+          "adjective"
+        ]
+      }
+    },
+    "example": "not_applicable",
+    "exampleSafety": "not_applicable"
+  },
+  {
+    "id": "de-00032",
+    "headword": "Hallo",
+    "language": "german",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "missing_in_app",
+      "glossEn": "different",
+      "pron": "missing_in_app"
+    },
+    "sources": {
+      "kaikki-german": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "missing_in_app",
+        "glossEn": "different",
+        "pron": "missing_in_app",
+        "dictPos": [
+          "noun"
+        ]
+      }
+    },
+    "example": "not_applicable",
+    "exampleSafety": "not_applicable"
+  },
+  {
+    "id": "de-00052",
+    "headword": "passiert",
+    "language": "german",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "missing_in_app",
+      "glossEn": "different",
+      "pron": "missing_in_app"
+    },
+    "sources": {
+      "kaikki-german": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "missing_in_app",
+        "glossEn": "different",
+        "pron": "missing_in_app",
+        "dictPos": [
+          "verb",
+          "adjective"
+        ]
+      }
+    },
+    "example": "not_applicable",
+    "exampleSafety": "not_applicable"
+  },
+  {
+    "id": "de-00304",
+    "headword": "Leider",
+    "language": "german",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "missing_in_app",
+      "glossEn": "different",
+      "pron": "missing_in_app"
+    },
+    "sources": {
+      "kaikki-german": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "missing_in_app",
+        "glossEn": "different",
+        "pron": "missing_in_app",
+        "dictPos": [
+          "noun"
+        ]
+      }
+    },
+    "example": "not_applicable",
+    "exampleSafety": "not_applicable"
+  },
+  {
+    "id": "de-00517",
+    "headword": "Gleiche",
+    "language": "german",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "missing_in_app",
+      "glossEn": "different",
+      "pron": "missing_in_app"
+    },
+    "sources": {
+      "kaikki-german": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "missing_in_app",
+        "glossEn": "different",
+        "pron": "missing_in_app",
+        "dictPos": [
+          "noun"
+        ]
+      }
+    },
+    "example": "not_applicable",
+    "exampleSafety": "not_applicable"
+  },
+  {
+    "id": "de-00607",
+    "headword": "näher",
+    "language": "german",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "missing_in_app",
+      "glossEn": "different",
+      "pron": "missing_in_app"
+    },
+    "sources": {
+      "kaikki-german": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "missing_in_app",
+        "glossEn": "different",
+        "pron": "missing_in_app",
+        "dictPos": [
+          "adjective",
+          "verb"
+        ]
+      }
+    },
+    "example": "not_applicable",
+    "exampleSafety": "not_applicable"
+  },
+  {
+    "id": "de-00939",
+    "headword": "gehalten",
+    "language": "german",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "missing_in_app",
+      "glossEn": "different",
+      "pron": "missing_in_app"
+    },
+    "sources": {
+      "kaikki-german": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "missing_in_app",
+        "glossEn": "different",
+        "pron": "missing_in_app",
+        "dictPos": [
+          "verb",
+          "adjective"
+        ]
+      }
+    },
+    "example": "not_applicable",
+    "exampleSafety": "not_applicable"
+  },
+  {
+    "id": "de-01161",
+    "headword": "dennoch",
+    "language": "german",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "missing_in_app",
+      "glossEn": "different",
+      "pron": "missing_in_app"
+    },
+    "sources": {
+      "kaikki-german": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "missing_in_app",
+        "glossEn": "different",
+        "pron": "missing_in_app",
+        "dictPos": [
+          "adverb"
+        ]
+      }
+    },
+    "example": "not_applicable",
+    "exampleSafety": "not_applicable"
+  },
+  {
+    "id": "de-01200",
+    "headword": "mitgenommen",
+    "language": "german",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "missing_in_app",
+      "glossEn": "different",
+      "pron": "missing_in_app"
+    },
+    "sources": {
+      "kaikki-german": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "missing_in_app",
+        "glossEn": "different",
+        "pron": "missing_in_app",
+        "dictPos": [
+          "verb",
+          "adjective"
+        ]
+      }
+    },
+    "example": "not_applicable",
+    "exampleSafety": "not_applicable"
+  },
+  {
+    "id": "de-01282",
+    "headword": "inzwischen",
+    "language": "german",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "missing_in_app",
+      "glossEn": "different",
+      "pron": "missing_in_app"
+    },
+    "sources": {
+      "kaikki-german": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "missing_in_app",
+        "glossEn": "different",
+        "pron": "missing_in_app",
+        "dictPos": [
+          "adverb"
+        ]
+      }
+    },
+    "example": "not_applicable",
+    "exampleSafety": "not_applicable"
+  },
+  {
+    "id": "de-01619",
+    "headword": "gewohnt",
+    "language": "german",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "missing_in_app",
+      "glossEn": "different",
+      "pron": "missing_in_app"
+    },
+    "sources": {
+      "kaikki-german": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "missing_in_app",
+        "glossEn": "different",
+        "pron": "missing_in_app",
+        "dictPos": [
+          "verb",
+          "adjective"
+        ]
+      }
+    },
+    "example": "not_applicable",
+    "exampleSafety": "not_applicable"
+  },
+  {
+    "id": "de-01880",
+    "headword": "befreundet",
+    "language": "german",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "missing_in_app",
+      "glossEn": "different",
+      "pron": "missing_in_app"
+    },
+    "sources": {
+      "kaikki-german": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "missing_in_app",
+        "glossEn": "different",
+        "pron": "missing_in_app",
+        "dictPos": [
+          "verb",
+          "adjective"
+        ]
+      }
+    },
+    "example": "not_applicable",
+    "exampleSafety": "not_applicable"
+  },
+  {
+    "id": "de-01898",
+    "headword": "Nix",
+    "language": "german",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "missing_in_app",
+      "glossEn": "different",
+      "pron": "missing_in_app"
+    },
+    "sources": {
+      "kaikki-german": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "missing_in_app",
+        "glossEn": "different",
+        "pron": "missing_in_app",
+        "dictPos": [
+          "noun"
+        ]
+      }
+    },
+    "example": "not_applicable",
+    "exampleSafety": "not_applicable"
+  },
+  {
+    "id": "de-01904",
+    "headword": "Abschluss",
+    "language": "german",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "missing_in_app",
+      "glossEn": "different",
+      "pron": "missing_in_app"
+    },
+    "sources": {
+      "kaikki-german": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "missing_in_app",
+        "glossEn": "different",
+        "pron": "missing_in_app",
+        "dictPos": [
+          "noun"
+        ]
+      }
+    },
+    "example": "not_applicable",
+    "exampleSafety": "not_applicable"
+  },
+  {
+    "id": "de-01905",
+    "headword": "Dummkopf",
+    "language": "german",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "missing_in_app",
+      "glossEn": "different",
+      "pron": "missing_in_app"
+    },
+    "sources": {
+      "kaikki-german": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "missing_in_app",
+        "glossEn": "different",
+        "pron": "missing_in_app",
+        "dictPos": [
+          "noun"
+        ]
+      }
+    },
+    "example": "not_applicable",
+    "exampleSafety": "not_applicable"
+  },
+  {
+    "id": "de-01982",
+    "headword": "Toter",
+    "language": "german",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "missing_in_app",
+      "glossEn": "different",
+      "pron": "missing_in_app"
+    },
+    "sources": {
+      "kaikki-german": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "missing_in_app",
+        "glossEn": "different",
+        "pron": "missing_in_app",
+        "dictPos": [
+          "noun"
+        ]
+      }
+    },
+    "example": "not_applicable",
+    "exampleSafety": "not_applicable"
+  },
+  {
+    "id": "fr-00177",
+    "headword": "propos",
+    "language": "french",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "missing_in_app",
+      "glossEn": "different",
+      "pron": "missing_in_app"
+    },
+    "sources": {
+      "kaikki-french": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "missing_in_app",
+        "glossEn": "different",
+        "pron": "missing_in_app",
+        "dictPos": [
+          "noun"
+        ]
+      }
+    },
+    "example": "not_applicable",
+    "exampleSafety": "not_applicable"
+  },
+  {
+    "id": "fr-00239",
+    "headword": "abord",
+    "language": "french",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "missing_in_app",
+      "glossEn": "different",
+      "pron": "missing_in_app"
+    },
+    "sources": {
+      "kaikki-french": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "missing_in_app",
+        "glossEn": "different",
+        "pron": "missing_in_app",
+        "dictPos": [
+          "noun"
+        ]
+      }
+    },
+    "example": "not_applicable",
+    "exampleSafety": "not_applicable"
+  },
+  {
+    "id": "fr-00333",
+    "headword": "reçu",
+    "language": "french",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "missing_in_app",
+      "glossEn": "different",
+      "pron": "missing_in_app"
+    },
+    "sources": {
+      "kaikki-french": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "missing_in_app",
+        "glossEn": "different",
+        "pron": "missing_in_app",
+        "dictPos": [
+          "verb",
+          "adjective",
+          "noun"
+        ]
+      }
+    },
+    "example": "not_applicable",
+    "exampleSafety": "not_applicable"
+  },
+  {
+    "id": "fr-00375",
+    "headword": "armes",
+    "language": "french",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "missing_in_app",
+      "glossEn": "different",
+      "pron": "missing_in_app"
+    },
+    "sources": {
+      "kaikki-french": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "missing_in_app",
+        "glossEn": "different",
+        "pron": "missing_in_app",
+        "dictPos": [
+          "noun",
+          "verb"
+        ]
+      }
+    },
+    "example": "not_applicable",
+    "exampleSafety": "not_applicable"
+  },
+  {
+    "id": "fr-00410",
+    "headword": "avion",
+    "language": "french",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "missing_in_app",
+      "glossEn": "different",
+      "pron": "missing_in_app"
+    },
+    "sources": {
+      "kaikki-french": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "missing_in_app",
+        "glossEn": "different",
+        "pron": "missing_in_app",
+        "dictPos": [
+          "noun"
+        ]
+      }
+    },
+    "example": "not_applicable",
+    "exampleSafety": "not_applicable"
+  },
+  {
+    "id": "fr-00446",
+    "headword": "pareil",
+    "language": "french",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "missing_in_app",
+      "glossEn": "different",
+      "pron": "missing_in_app"
+    },
+    "sources": {
+      "kaikki-french": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "missing_in_app",
+        "glossEn": "different",
+        "pron": "missing_in_app",
+        "dictPos": [
+          "adjective",
+          "adverb"
+        ]
+      }
+    },
+    "example": "not_applicable",
+    "exampleSafety": "not_applicable"
+  },
+  {
+    "id": "fr-00506",
+    "headword": "gueule",
+    "language": "french",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "missing_in_app",
+      "glossEn": "different",
+      "pron": "missing_in_app"
+    },
+    "sources": {
+      "kaikki-french": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "missing_in_app",
+        "glossEn": "different",
+        "pron": "missing_in_app",
+        "dictPos": [
+          "noun",
+          "verb"
+        ]
+      }
+    },
+    "example": "not_applicable",
+    "exampleSafety": "not_applicable"
+  },
+  {
+    "id": "fr-00510",
+    "headword": "travers",
+    "language": "french",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "missing_in_app",
+      "glossEn": "different",
+      "pron": "missing_in_app"
+    },
+    "sources": {
+      "kaikki-french": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "missing_in_app",
+        "glossEn": "different",
+        "pron": "missing_in_app",
+        "dictPos": [
+          "noun"
+        ]
+      }
+    },
+    "example": "not_applicable",
+    "exampleSafety": "not_applicable"
+  },
+  {
+    "id": "fr-00512",
+    "headword": "dossier",
+    "language": "french",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "missing_in_app",
+      "glossEn": "different",
+      "pron": "missing_in_app"
+    },
+    "sources": {
+      "kaikki-french": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "missing_in_app",
+        "glossEn": "different",
+        "pron": "missing_in_app",
+        "dictPos": [
+          "noun",
+          "adjective"
+        ]
+      }
+    },
+    "example": "not_applicable",
+    "exampleSafety": "not_applicable"
+  },
+  {
+    "id": "fr-00620",
+    "headword": "environ",
+    "language": "french",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "missing_in_app",
+      "glossEn": "different",
+      "pron": "missing_in_app"
+    },
+    "sources": {
+      "kaikki-french": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "missing_in_app",
+        "glossEn": "different",
+        "pron": "missing_in_app",
+        "dictPos": [
+          "adverb",
+          "noun"
+        ]
+      }
+    },
+    "example": "not_applicable",
+    "exampleSafety": "not_applicable"
+  },
+  {
+    "id": "fr-00871",
+    "headword": "préféré",
+    "language": "french",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "missing_in_app",
+      "glossEn": "different",
+      "pron": "missing_in_app"
+    },
+    "sources": {
+      "kaikki-french": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "missing_in_app",
+        "glossEn": "different",
+        "pron": "missing_in_app",
+        "dictPos": [
+          "adjective",
+          "verb"
+        ]
+      }
+    },
+    "example": "not_applicable",
+    "exampleSafety": "not_applicable"
+  },
+  {
+    "id": "fr-00893",
+    "headword": "formidable",
+    "language": "french",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "missing_in_app",
+      "glossEn": "different",
+      "pron": "missing_in_app"
+    },
+    "sources": {
+      "kaikki-french": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "missing_in_app",
+        "glossEn": "different",
+        "pron": "missing_in_app",
+        "dictPos": [
+          "adjective"
+        ]
+      }
+    },
+    "example": "not_applicable",
+    "exampleSafety": "not_applicable"
+  },
+  {
+    "id": "fr-00911",
+    "headword": "vendu",
+    "language": "french",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "missing_in_app",
+      "glossEn": "different",
+      "pron": "missing_in_app"
+    },
+    "sources": {
+      "kaikki-french": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "missing_in_app",
+        "glossEn": "different",
+        "pron": "missing_in_app",
+        "dictPos": [
+          "verb",
+          "adjective",
+          "noun",
+          "interjection"
+        ]
+      }
+    },
+    "example": "not_applicable",
+    "exampleSafety": "not_applicable"
+  },
+  {
+    "id": "fr-00921",
+    "headword": "imbécile",
+    "language": "french",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "missing_in_app",
+      "glossEn": "different",
+      "pron": "missing_in_app"
+    },
+    "sources": {
+      "kaikki-french": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "missing_in_app",
+        "glossEn": "different",
+        "pron": "missing_in_app",
+        "dictPos": [
+          "adjective",
+          "noun"
+        ]
+      }
+    },
+    "example": "not_applicable",
+    "exampleSafety": "not_applicable"
+  },
+  {
+    "id": "fr-01022",
+    "headword": "émission",
+    "language": "french",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "missing_in_app",
+      "glossEn": "different",
+      "pron": "missing_in_app"
+    },
+    "sources": {
+      "kaikki-french": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "missing_in_app",
+        "glossEn": "different",
+        "pron": "missing_in_app",
+        "dictPos": [
+          "noun"
+        ]
+      }
+    },
+    "example": "not_applicable",
+    "exampleSafety": "not_applicable"
+  },
+  {
+    "id": "fr-01126",
+    "headword": "précédemment",
+    "language": "french",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "missing_in_app",
+      "glossEn": "different",
+      "pron": "missing_in_app"
+    },
+    "sources": {
+      "kaikki-french": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "missing_in_app",
+        "glossEn": "different",
+        "pron": "missing_in_app",
+        "dictPos": [
+          "adverb"
+        ]
+      }
+    },
+    "example": "not_applicable",
+    "exampleSafety": "not_applicable"
+  },
+  {
+    "id": "fr-01133",
+    "headword": "véritable",
+    "language": "french",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "missing_in_app",
+      "glossEn": "different",
+      "pron": "missing_in_app"
+    },
+    "sources": {
+      "kaikki-french": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "missing_in_app",
+        "glossEn": "different",
+        "pron": "missing_in_app",
+        "dictPos": [
+          "adjective"
+        ]
+      }
+    },
+    "example": "not_applicable",
+    "exampleSafety": "not_applicable"
+  },
+  {
+    "id": "fr-01298",
+    "headword": "profiter",
+    "language": "french",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "missing_in_app",
+      "glossEn": "different",
+      "pron": "missing_in_app"
+    },
+    "sources": {
+      "kaikki-french": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "missing_in_app",
+        "glossEn": "different",
+        "pron": "missing_in_app",
+        "dictPos": [
+          "verb"
+        ]
+      }
+    },
+    "example": "not_applicable",
+    "exampleSafety": "not_applicable"
+  },
+  {
+    "id": "fr-01304",
+    "headword": "tien",
+    "language": "french",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "missing_in_app",
+      "glossEn": "different",
+      "pron": "missing_in_app"
+    },
+    "sources": {
+      "kaikki-french": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "missing_in_app",
+        "glossEn": "different",
+        "pron": "missing_in_app",
+        "dictPos": [
+          "adjective"
+        ]
+      }
+    },
+    "example": "not_applicable",
+    "exampleSafety": "not_applicable"
+  },
+  {
+    "id": "fr-01521",
+    "headword": "engager",
+    "language": "french",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "missing_in_app",
+      "glossEn": "different",
+      "pron": "missing_in_app"
+    },
+    "sources": {
+      "kaikki-french": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "missing_in_app",
+        "glossEn": "different",
+        "pron": "missing_in_app",
+        "dictPos": [
+          "verb"
+        ]
+      }
+    },
+    "example": "not_applicable",
+    "exampleSafety": "not_applicable"
+  },
+  {
+    "id": "fr-01576",
+    "headword": "merveilleuse",
+    "language": "french",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "missing_in_app",
+      "glossEn": "different",
+      "pron": "missing_in_app"
+    },
+    "sources": {
+      "kaikki-french": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "missing_in_app",
+        "glossEn": "different",
+        "pron": "missing_in_app",
+        "dictPos": [
+          "adjective"
+        ]
+      }
+    },
+    "example": "not_applicable",
+    "exampleSafety": "not_applicable"
+  },
+  {
+    "id": "fr-01578",
+    "headword": "chanceux",
+    "language": "french",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "missing_in_app",
+      "glossEn": "different",
+      "pron": "missing_in_app"
+    },
+    "sources": {
+      "kaikki-french": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "missing_in_app",
+        "glossEn": "different",
+        "pron": "missing_in_app",
+        "dictPos": [
+          "adjective"
+        ]
+      }
+    },
+    "example": "not_applicable",
+    "exampleSafety": "not_applicable"
+  },
+  {
+    "id": "fr-01616",
+    "headword": "carrément",
+    "language": "french",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "missing_in_app",
+      "glossEn": "different",
+      "pron": "missing_in_app"
+    },
+    "sources": {
+      "kaikki-french": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "missing_in_app",
+        "glossEn": "different",
+        "pron": "missing_in_app",
+        "dictPos": [
+          "adverb"
+        ]
+      }
+    },
+    "example": "not_applicable",
+    "exampleSafety": "not_applicable"
+  },
+  {
+    "id": "fr-01756",
+    "headword": "pressé",
+    "language": "french",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "missing_in_app",
+      "glossEn": "different",
+      "pron": "missing_in_app"
+    },
+    "sources": {
+      "kaikki-french": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "missing_in_app",
+        "glossEn": "different",
+        "pron": "missing_in_app",
+        "dictPos": [
+          "verb",
+          "adjective"
+        ]
+      }
+    },
+    "example": "not_applicable",
+    "exampleSafety": "not_applicable"
+  },
+  {
+    "id": "fr-01775",
+    "headword": "travaux",
+    "language": "french",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "missing_in_app",
+      "glossEn": "different",
+      "pron": "missing_in_app"
+    },
+    "sources": {
+      "kaikki-french": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "missing_in_app",
+        "glossEn": "different",
+        "pron": "missing_in_app",
+        "dictPos": [
+          "noun"
+        ]
+      }
+    },
+    "example": "not_applicable",
+    "exampleSafety": "not_applicable"
+  },
+  {
+    "id": "fr-01991",
+    "headword": "escalier",
+    "language": "french",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "missing_in_app",
+      "glossEn": "different",
+      "pron": "missing_in_app"
+    },
+    "sources": {
+      "kaikki-french": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "missing_in_app",
+        "glossEn": "different",
+        "pron": "missing_in_app",
+        "dictPos": [
+          "noun"
+        ]
+      }
+    },
+    "example": "not_applicable",
+    "exampleSafety": "not_applicable"
+  },
+  {
+    "id": "pl-00135",
+    "headword": "kupić",
+    "language": "polish",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "missing_in_app",
+      "glossEn": "different",
+      "pron": "not_checked"
+    },
+    "sources": {
+      "kaikki-polish": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "missing_in_app",
+        "glossEn": "different",
+        "pron": "not_checked",
+        "dictPos": [
+          "verb"
+        ]
+      }
+    },
+    "example": "not_applicable",
+    "exampleSafety": "not_applicable"
+  },
+  {
+    "id": "pl-00142",
+    "headword": "pieniądze",
+    "language": "polish",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "missing_in_app",
+      "glossEn": "different",
+      "pron": "not_checked"
+    },
+    "sources": {
+      "kaikki-polish": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "missing_in_app",
+        "glossEn": "different",
+        "pron": "not_checked",
+        "dictPos": [
+          "noun"
+        ]
+      }
+    },
+    "example": "not_applicable",
+    "exampleSafety": "not_applicable"
+  },
+  {
+    "id": "ru-00072",
+    "headword": "овощи",
+    "language": "russian",
+    "verdict": "critical",
+    "consensus": {
+      "headword": "exact",
+      "pos": "missing_in_app",
+      "glossEn": "different",
+      "pron": "not_checked"
+    },
+    "sources": {
+      "kaikki-russian": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "missing_in_app",
+        "glossEn": "different",
+        "pron": "not_checked",
+        "dictPos": [
+          "noun"
+        ]
+      }
+    },
+    "example": "not_applicable",
+    "exampleSafety": "not_applicable"
   }
 ]

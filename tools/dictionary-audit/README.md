@@ -54,7 +54,20 @@ node tools/dictionary-audit/check-english.mjs --local-only --all --resume
 node tools/dictionary-audit/pilot-local.mjs                            # 全件前の小規模試験
 ```
 
-導入済みローカル辞書: **英語=Open English WordNet(CC-BY 4.0)**、**中国語=CC-CEDICT(CC-BY-SA 4.0)**。他7言語はローカル辞書未配置 → `not_checked`（未確認を一致扱いしない）。Kaikki言語別ダンプを `config/sources.json` で `download:true` にすれば拡張可。出力は `reports/full/`（summary＋問題別 critical/conflicting/review/not-found/not-checked）。
+導入済みローカル辞書: **英語=Open English WordNet(CC-BY 4.0)**、**中国語=CC-CEDICT(CC-BY-SA 4.0)**、**韓/西/独/仏/葡/波/露=Kaikki各言語(CC-BY-SA+GFDL)**。出力は `reports/full/`（summary＋問題別 critical/conflicting/review/not-found/not-checked）。
+
+### 7言語(Kaikki)の targeted 抽出（大容量ダンプを保存しない）
+
+```bash
+node tools/dictionary-audit/download-dictionaries.mjs --seven-languages --dry-run     # URL/サイズ/ライセンス
+node tools/dictionary-audit/download-dictionaries.mjs --languages portuguese,polish,russian
+node tools/dictionary-audit/download-dictionaries.mjs --language korean
+node tools/dictionary-audit/normalize-dictionaries.mjs && node tools/dictionary-audit/build-indexes.mjs
+node tools/dictionary-audit/run-all.mjs --all --local-only --resume                  # 全9言語
+node tools/dictionary-audit/report-integrate.mjs                                      # 7言語full + all-nine-v3統合
+```
+
+Kaikki各言語ダンプ(186MB〜1GB)は**ストリーム走査してアプリ見出し語一致行のみ抽出**（全ダンプ非保存・1語ずつAPIは呼ばない）。ポーランド語/ロシア語のアプリ発音はローマ字転写でKaikki IPAと体系が異なるため `not_checked`。統合結果は `reports/all-nine-v3/`（総合判定合計=20,131を検証）。
 
 判定(総合): `verified`(厳格) / `likely_correct` / `review` / `conflicting` / `critical` / `not_checked`。単一の verified に丸めず、監査の意味(見出し/品詞/語義/発音/和訳を個別に checked 記録)を保持。
 

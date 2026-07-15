@@ -6575,5 +6575,2624 @@
     },
     "example": "review",
     "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00005",
+    "headword": "죄송합니다",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "not_found",
+      "pos": "not_checked",
+      "glossEn": "missing",
+      "pron": "not_checked"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00006",
+    "headword": "미안해요",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "not_found",
+      "pos": "not_checked",
+      "glossEn": "missing",
+      "pron": "not_checked"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00009",
+    "headword": "괜찮아요",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "not_found",
+      "pos": "not_checked",
+      "glossEn": "missing",
+      "pron": "not_checked"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00011",
+    "headword": "너",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "pronoun",
+          "numeral"
+        ]
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00017",
+    "headword": "언제",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "pronoun",
+          "adverb"
+        ]
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00181",
+    "headword": "하나",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "numeral",
+          "noun"
+        ]
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00183",
+    "headword": "셋",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "numeral",
+          "proper noun"
+        ]
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00376",
+    "headword": "빌려주다",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "not_found",
+      "pos": "not_checked",
+      "glossEn": "missing",
+      "pron": "not_checked"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00436",
+    "headword": "나중에",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "not_found",
+      "pos": "not_checked",
+      "glossEn": "missing",
+      "pron": "not_checked"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00446",
+    "headword": "모두",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adverb",
+          "noun"
+        ]
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00451",
+    "headword": "늦게",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "not_found",
+      "pos": "not_checked",
+      "glossEn": "missing",
+      "pron": "not_checked"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00455",
+    "headword": "하지만",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adverb",
+          "verb"
+        ]
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00461",
+    "headword": "저기",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "pronoun",
+          "interjection"
+        ]
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00647",
+    "headword": "퇴원하다",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "not_found",
+      "pos": "not_checked",
+      "glossEn": "missing",
+      "pron": "not_checked"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00672",
+    "headword": "취직하다",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "not_found",
+      "pos": "not_checked",
+      "glossEn": "missing",
+      "pron": "not_checked"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00774",
+    "headword": "그러니까",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adverb",
+          "interjection"
+        ]
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00776",
+    "headword": "별로",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adverb",
+          "adjective"
+        ]
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00792",
+    "headword": "스스로",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adverb",
+          "pronoun"
+        ]
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00842",
+    "headword": "모임",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "verb",
+          "noun"
+        ]
+      }
+    },
+    "example": "review",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00902",
+    "headword": "감동하다",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "not_found",
+      "pos": "not_checked",
+      "glossEn": "missing",
+      "pron": "not_checked"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00909",
+    "headword": "설정하다",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "not_found",
+      "pos": "not_checked",
+      "glossEn": "missing",
+      "pron": "not_checked"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00914",
+    "headword": "분류하다",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "not_found",
+      "pos": "not_checked",
+      "glossEn": "missing",
+      "pron": "not_checked"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00917",
+    "headword": "측정하다",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "not_found",
+      "pos": "not_checked",
+      "glossEn": "missing",
+      "pron": "not_checked"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00921",
+    "headword": "응용하다",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "not_found",
+      "pos": "not_checked",
+      "glossEn": "missing",
+      "pron": "not_checked"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00948",
+    "headword": "도입하다",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "not_found",
+      "pos": "not_checked",
+      "glossEn": "missing",
+      "pron": "not_checked"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00951",
+    "headword": "확장하다",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "not_found",
+      "pos": "not_checked",
+      "glossEn": "missing",
+      "pron": "not_checked"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00952",
+    "headword": "연장하다",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "not_found",
+      "pos": "not_checked",
+      "glossEn": "missing",
+      "pron": "not_checked"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00953",
+    "headword": "단축하다",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "not_found",
+      "pos": "not_checked",
+      "glossEn": "missing",
+      "pron": "not_checked"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00954",
+    "headword": "조정하다",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "not_found",
+      "pos": "not_checked",
+      "glossEn": "missing",
+      "pron": "not_checked"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00955",
+    "headword": "조절하다",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "not_found",
+      "pos": "not_checked",
+      "glossEn": "missing",
+      "pron": "not_checked"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00956",
+    "headword": "통제하다",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "not_found",
+      "pos": "not_checked",
+      "glossEn": "missing",
+      "pron": "not_checked"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00960",
+    "headword": "예방하다",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "not_found",
+      "pos": "not_checked",
+      "glossEn": "missing",
+      "pron": "not_checked"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00963",
+    "headword": "대처하다",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "not_found",
+      "pos": "not_checked",
+      "glossEn": "missing",
+      "pron": "not_checked"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00968",
+    "headword": "방지하다",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "not_found",
+      "pos": "not_checked",
+      "glossEn": "missing",
+      "pron": "not_checked"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00978",
+    "headword": "당선하다",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "not_found",
+      "pos": "not_checked",
+      "glossEn": "missing",
+      "pron": "not_checked"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00979",
+    "headword": "임명하다",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "not_found",
+      "pos": "not_checked",
+      "glossEn": "missing",
+      "pron": "not_checked"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00982",
+    "headword": "사직하다",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "not_found",
+      "pos": "not_checked",
+      "glossEn": "missing",
+      "pron": "not_checked"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00984",
+    "headword": "복귀하다",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "not_found",
+      "pos": "not_checked",
+      "glossEn": "missing",
+      "pron": "not_checked"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00989",
+    "headword": "창업하다",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "not_found",
+      "pos": "not_checked",
+      "glossEn": "missing",
+      "pron": "not_checked"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00994",
+    "headword": "결제하다",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "not_found",
+      "pos": "not_checked",
+      "glossEn": "missing",
+      "pron": "not_checked"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-00999",
+    "headword": "희생하다",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "not_found",
+      "pos": "not_checked",
+      "glossEn": "missing",
+      "pron": "not_checked"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-01000",
+    "headword": "보답하다",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "not_found",
+      "pos": "not_checked",
+      "glossEn": "missing",
+      "pron": "not_checked"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-01009",
+    "headword": "감격하다",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "not_found",
+      "pos": "not_checked",
+      "glossEn": "missing",
+      "pron": "not_checked"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-01012",
+    "headword": "초조하다",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "not_found",
+      "pos": "not_checked",
+      "glossEn": "missing",
+      "pron": "not_checked"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-01013",
+    "headword": "분노하다",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "not_found",
+      "pos": "not_checked",
+      "glossEn": "missing",
+      "pron": "not_checked"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-01014",
+    "headword": "증오하다",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "not_found",
+      "pos": "not_checked",
+      "glossEn": "missing",
+      "pron": "not_checked"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-01020",
+    "headword": "집착하다",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "not_found",
+      "pos": "not_checked",
+      "glossEn": "missing",
+      "pron": "not_checked"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-01021",
+    "headword": "몰두하다",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "not_found",
+      "pos": "not_checked",
+      "glossEn": "missing",
+      "pron": "not_checked"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-01022",
+    "headword": "열중하다",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "not_found",
+      "pos": "not_checked",
+      "glossEn": "missing",
+      "pron": "not_checked"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-01023",
+    "headword": "반성하다",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "not_found",
+      "pos": "not_checked",
+      "glossEn": "missing",
+      "pron": "not_checked"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-01024",
+    "headword": "명상하다",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "not_found",
+      "pos": "not_checked",
+      "glossEn": "missing",
+      "pron": "not_checked"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-01025",
+    "headword": "회상하다",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "not_found",
+      "pos": "not_checked",
+      "glossEn": "missing",
+      "pron": "not_checked"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-01027",
+    "headword": "착각하다",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "not_found",
+      "pos": "not_checked",
+      "glossEn": "missing",
+      "pron": "not_checked"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-01029",
+    "headword": "주저하다",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "not_found",
+      "pos": "not_checked",
+      "glossEn": "missing",
+      "pron": "not_checked"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-01031",
+    "headword": "각오하다",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "not_found",
+      "pos": "not_checked",
+      "glossEn": "missing",
+      "pron": "not_checked"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-01034",
+    "headword": "약해지다",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "not_found",
+      "pos": "not_checked",
+      "glossEn": "missing",
+      "pron": "not_checked"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-01035",
+    "headword": "강해지다",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "not_found",
+      "pos": "not_checked",
+      "glossEn": "missing",
+      "pron": "not_checked"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-01039",
+    "headword": "향상하다",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "not_found",
+      "pos": "not_checked",
+      "glossEn": "missing",
+      "pron": "not_checked"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-01044",
+    "headword": "멸종하다",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "not_found",
+      "pos": "not_checked",
+      "glossEn": "missing",
+      "pron": "not_checked"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-01045",
+    "headword": "부활하다",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "not_found",
+      "pos": "not_checked",
+      "glossEn": "missing",
+      "pron": "not_checked"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-01046",
+    "headword": "재생하다",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "not_found",
+      "pos": "not_checked",
+      "glossEn": "missing",
+      "pron": "not_checked"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-01051",
+    "headword": "감염되다",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "not_found",
+      "pos": "not_checked",
+      "glossEn": "missing",
+      "pron": "not_checked"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-01052",
+    "headword": "전염되다",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "not_found",
+      "pos": "not_checked",
+      "glossEn": "missing",
+      "pron": "not_checked"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-01053",
+    "headword": "진단하다",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "not_found",
+      "pos": "not_checked",
+      "glossEn": "missing",
+      "pron": "not_checked"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-01058",
+    "headword": "체류하다",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "not_found",
+      "pos": "not_checked",
+      "glossEn": "missing",
+      "pron": "not_checked"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-01060",
+    "headword": "입국하다",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "not_found",
+      "pos": "not_checked",
+      "glossEn": "missing",
+      "pron": "not_checked"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-01061",
+    "headword": "출국하다",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "not_found",
+      "pos": "not_checked",
+      "glossEn": "missing",
+      "pron": "not_checked"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-01063",
+    "headword": "이주하다",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "not_found",
+      "pos": "not_checked",
+      "glossEn": "missing",
+      "pron": "not_checked"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-01076",
+    "headword": "대피하다",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "not_found",
+      "pos": "not_checked",
+      "glossEn": "missing",
+      "pron": "not_checked"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-01080",
+    "headword": "번식하다",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "not_found",
+      "pos": "not_checked",
+      "glossEn": "missing",
+      "pron": "not_checked"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-01082",
+    "headword": "진화하다",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "not_found",
+      "pos": "not_checked",
+      "glossEn": "missing",
+      "pron": "not_checked"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-01094",
+    "headword": "영리하다",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adjective",
+          "verb"
+        ]
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-01107",
+    "headword": "팀장",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "not_found",
+      "pos": "not_checked",
+      "glossEn": "missing",
+      "pron": "not_checked"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-01128",
+    "headword": "근태",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "not_found",
+      "pos": "not_checked",
+      "glossEn": "missing",
+      "pron": "not_checked"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-01136",
+    "headword": "구직",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "not_found",
+      "pos": "not_checked",
+      "glossEn": "missing",
+      "pron": "not_checked"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-01141",
+    "headword": "임원",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "not_found",
+      "pos": "not_checked",
+      "glossEn": "missing",
+      "pron": "not_checked"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-01146",
+    "headword": "펀드",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "not_found",
+      "pos": "not_checked",
+      "glossEn": "missing",
+      "pron": "not_checked"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-01163",
+    "headword": "매입",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "not_found",
+      "pos": "not_checked",
+      "glossEn": "missing",
+      "pron": "not_checked"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-01165",
+    "headword": "결산",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "not_found",
+      "pos": "not_checked",
+      "glossEn": "missing",
+      "pron": "not_checked"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-01167",
+    "headword": "세무",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "not_found",
+      "pos": "not_checked",
+      "glossEn": "missing",
+      "pron": "not_checked"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-01168",
+    "headword": "부가세",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "not_found",
+      "pos": "not_checked",
+      "glossEn": "missing",
+      "pron": "not_checked"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-01175",
+    "headword": "시장경제",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "not_found",
+      "pos": "not_checked",
+      "glossEn": "missing",
+      "pron": "not_checked"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-01189",
+    "headword": "명세서",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "not_found",
+      "pos": "not_checked",
+      "glossEn": "missing",
+      "pron": "not_checked"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-01192",
+    "headword": "결제",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "not_found",
+      "pos": "not_checked",
+      "glossEn": "missing",
+      "pron": "not_checked"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-01223",
+    "headword": "합격자",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "not_found",
+      "pos": "not_checked",
+      "glossEn": "missing",
+      "pron": "not_checked"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-01228",
+    "headword": "예습",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "not_found",
+      "pos": "not_checked",
+      "glossEn": "missing",
+      "pron": "not_checked"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-01230",
+    "headword": "채점",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "not_found",
+      "pos": "not_checked",
+      "glossEn": "missing",
+      "pron": "not_checked"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-01243",
+    "headword": "시장님",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "not_found",
+      "pos": "not_checked",
+      "glossEn": "missing",
+      "pron": "not_checked"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-01246",
+    "headword": "동사무소",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "not_found",
+      "pos": "not_checked",
+      "glossEn": "missing",
+      "pron": "not_checked"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-01260",
+    "headword": "주민등록",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "not_found",
+      "pos": "not_checked",
+      "glossEn": "missing",
+      "pron": "not_checked"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-01272",
+    "headword": "복지관",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "not_found",
+      "pos": "not_checked",
+      "glossEn": "missing",
+      "pron": "not_checked"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-01294",
+    "headword": "알림",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "not_found",
+      "pos": "not_checked",
+      "glossEn": "missing",
+      "pron": "not_checked"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-01300",
+    "headword": "요금제",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "not_found",
+      "pos": "not_checked",
+      "glossEn": "missing",
+      "pron": "not_checked"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-01307",
+    "headword": "고속도로",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "not_found",
+      "pos": "not_checked",
+      "glossEn": "missing",
+      "pron": "not_checked"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-01315",
+    "headword": "연착",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "not_found",
+      "pos": "not_checked",
+      "glossEn": "missing",
+      "pron": "not_checked"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-01351",
+    "headword": "가전제품",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "not_found",
+      "pos": "not_checked",
+      "glossEn": "missing",
+      "pron": "not_checked"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-01374",
+    "headword": "보람",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "noun",
+          "proper noun"
+        ]
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-01378",
+    "headword": "배려",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "not_found",
+      "pos": "not_checked",
+      "glossEn": "missing",
+      "pron": "not_checked"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-01384",
+    "headword": "센스",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "not_found",
+      "pos": "not_checked",
+      "glossEn": "missing",
+      "pron": "not_checked"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-01390",
+    "headword": "감기약",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "not_found",
+      "pos": "not_checked",
+      "glossEn": "missing",
+      "pron": "not_checked"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-01394",
+    "headword": "복통",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "not_found",
+      "pos": "not_checked",
+      "glossEn": "missing",
+      "pron": "not_checked"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-01509",
+    "headword": "따라서",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adverb",
+          "verb"
+        ]
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-01511",
+    "headword": "그럼에도",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "not_found",
+      "pos": "not_checked",
+      "glossEn": "missing",
+      "pron": "not_checked"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-01512",
+    "headword": "즉",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adverb",
+          "root",
+          "affix",
+          "pronoun",
+          "syllable"
+        ]
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-01513",
+    "headword": "예를 들어",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "not_found",
+      "pos": "not_checked",
+      "glossEn": "missing",
+      "pron": "not_checked"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-01514",
+    "headword": "반면에",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "not_found",
+      "pos": "not_checked",
+      "glossEn": "missing",
+      "pron": "not_checked"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "ko-01522",
+    "headword": "당장",
+    "language": "korean",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "different"
+    },
+    "sources": {
+      "kaikki-korean": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "noun",
+          "adverb"
+        ]
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
   }
 ]

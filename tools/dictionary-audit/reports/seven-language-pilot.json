@@ -1,0 +1,161 @@
+{
+  "generatedAt": "2026-07-16",
+  "note": "全件実行が高速・安全のため先に完了。本レポートは各50件サンプル＋既知語での確認と誤判定分析。",
+  "tests": {
+    "korean": {
+      "sampled": 50,
+      "verdicts": {
+        "critical": 6,
+        "likely_correct": 38,
+        "review": 5,
+        "verified": 1
+      }
+    },
+    "spanish": {
+      "sampled": 50,
+      "verdicts": {
+        "verified": 50
+      }
+    },
+    "german": {
+      "sampled": 50,
+      "verdicts": {
+        "verified": 48,
+        "critical": 2
+      }
+    },
+    "french": {
+      "sampled": 50,
+      "verdicts": {
+        "verified": 50
+      }
+    },
+    "portuguese": {
+      "sampled": 50,
+      "verdicts": {
+        "verified": 49,
+        "likely_correct": 1
+      }
+    },
+    "polish": {
+      "sampled": 50,
+      "verdicts": {
+        "verified": 50
+      }
+    },
+    "russian": {
+      "sampled": 50,
+      "verdicts": {
+        "verified": 50
+      }
+    }
+  },
+  "knownWords": [
+    {
+      "id": "es-00432",
+      "headword": "dulce",
+      "language": "spanish",
+      "headword_status": "exact",
+      "pos": "missing_in_app",
+      "glossEn": "exact",
+      "pron": "missing_in_app",
+      "verdict": "verified"
+    },
+    {
+      "id": "es-01405",
+      "headword": "Cristo",
+      "language": "spanish",
+      "headword_status": "exact",
+      "pos": "missing_in_app",
+      "glossEn": "exact",
+      "pron": "missing_in_app",
+      "verdict": "verified"
+    },
+    {
+      "id": "fr-00645",
+      "headword": "expérience",
+      "language": "french",
+      "headword_status": "exact",
+      "pos": "missing_in_app",
+      "glossEn": "exact",
+      "pron": "missing_in_app",
+      "verdict": "verified"
+    },
+    {
+      "id": "fr-01022",
+      "headword": "émission",
+      "language": "french",
+      "headword_status": "exact",
+      "pos": "missing_in_app",
+      "glossEn": "different",
+      "pron": "missing_in_app",
+      "verdict": "critical"
+    },
+    {
+      "id": "fr-00092",
+      "headword": "ensemble",
+      "language": "french",
+      "headword_status": "exact",
+      "pos": "missing_in_app",
+      "glossEn": "exact",
+      "pron": "missing_in_app",
+      "verdict": "verified"
+    },
+    {
+      "id": "de-00539",
+      "headword": "Raum",
+      "language": "german",
+      "headword_status": "exact",
+      "pos": "missing_in_app",
+      "glossEn": "exact",
+      "pron": "missing_in_app",
+      "verdict": "verified"
+    },
+    {
+      "id": "de-00648",
+      "headword": "Weihnachten",
+      "language": "german",
+      "headword_status": "exact",
+      "pos": "missing_in_app",
+      "glossEn": "exact",
+      "pron": "missing_in_app",
+      "verdict": "verified"
+    },
+    {
+      "id": "de-00743",
+      "headword": "Abendessen",
+      "language": "german",
+      "headword_status": "exact",
+      "pos": "missing_in_app",
+      "glossEn": "exact",
+      "pron": "missing_in_app",
+      "verdict": "verified"
+    }
+  ],
+  "misjudgmentPatterns": [
+    {
+      "pattern": "アプリの品詞タグ体系が粗く、代名詞/感嘆詞/句が名詞タグ(韓国語等)",
+      "handling": "Kaikki品詞(pron/intj/phrase)と different→critical。既知のタグ問題であり、辞書側は正。人手でタグ移行が本筋(今回対象外)"
+    },
+    {
+      "pattern": "英語グロスのトークン照合はヒューリスティック。表現差でdifferent化しうる",
+      "handling": "gloss different→critical/reviewで人手確認へ。断定しない。例: émission(broadcast)"
+    },
+    {
+      "pattern": "ピボット言語は品詞をアプリが持たない",
+      "handling": "pos=missing_in_app。見出し+英語グロスで照合。verified条件は満たしうる"
+    },
+    {
+      "pattern": "ポーランド語/ロシア語の発音はローマ字転写、KaikkiはIPA",
+      "handling": "体系差につきpron=not_checked。発音一致を偽装しない"
+    },
+    {
+      "pattern": "辞書未収録(機能語/固有表現)はnot_found",
+      "handling": "criticalにせずreview(規則11/12)。誤りの証拠にしない"
+    },
+    {
+      "pattern": "日本語訳は照合していない",
+      "handling": "glossJa=not_checked固定。AI翻訳でverified化しない(規則9)"
+    }
+  ]
+}

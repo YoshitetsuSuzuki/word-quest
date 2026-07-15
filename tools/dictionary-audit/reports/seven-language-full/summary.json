@@ -1,0 +1,102 @@
+{
+  "generatedAt": "2026-07-15",
+  "title": "7言語 ローカル辞書照合(全件) サマリー",
+  "dataMutated": false,
+  "total": 7794,
+  "aggregateVerdicts": {
+    "verified": 6161,
+    "likely_correct": 1346,
+    "review": 107,
+    "conflicting": 0,
+    "critical": 180,
+    "not_checked": 0
+  },
+  "verdictSum": 7794,
+  "languages": {
+    "korean": {
+      "total": 1529,
+      "verdicts": {
+        "critical": 121,
+        "likely_correct": 1297,
+        "review": 107,
+        "verified": 4
+      },
+      "sources": [
+        "kaikki-korean"
+      ]
+    },
+    "spanish": {
+      "total": 1948,
+      "verdicts": {
+        "verified": 1912,
+        "likely_correct": 22,
+        "critical": 14
+      },
+      "sources": [
+        "kaikki-spanish"
+      ]
+    },
+    "german": {
+      "total": 1919,
+      "verdicts": {
+        "verified": 1894,
+        "critical": 16,
+        "likely_correct": 9
+      },
+      "sources": [
+        "kaikki-german"
+      ]
+    },
+    "french": {
+      "total": 1948,
+      "verdicts": {
+        "verified": 1905,
+        "likely_correct": 17,
+        "critical": 26
+      },
+      "sources": [
+        "kaikki-french"
+      ]
+    },
+    "portuguese": {
+      "total": 150,
+      "verdicts": {
+        "verified": 149,
+        "likely_correct": 1
+      },
+      "sources": [
+        "kaikki-portuguese"
+      ]
+    },
+    "polish": {
+      "total": 150,
+      "verdicts": {
+        "verified": 148,
+        "critical": 2
+      },
+      "sources": [
+        "kaikki-polish"
+      ]
+    },
+    "russian": {
+      "total": 150,
+      "verdicts": {
+        "verified": 149,
+        "critical": 1
+      },
+      "sources": [
+        "kaikki-russian"
+      ]
+    }
+  },
+  "problemCounts": {
+    "critical": 180,
+    "conflicting": 0,
+    "review": 107,
+    "notFound": 91,
+    "notChecked": 0,
+    "caseMismatch": 0,
+    "diacriticMismatch": 0,
+    "formMatch": 0
+  }
+}

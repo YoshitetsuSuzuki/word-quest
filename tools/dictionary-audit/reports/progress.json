@@ -10,7 +10,7 @@
       "oewn": "downloaded-2026-07-15"
     },
     "startedAt": "2026-07-15T16:07:28.821Z",
-    "updatedAt": "2026-07-15T16:12:22.045Z"
+    "updatedAt": "2026-07-15T17:07:05.287Z"
   },
   "chinese": {
     "language": "chinese",
@@ -23,7 +23,7 @@
       "cedict": "downloaded-2026-07-15"
     },
     "startedAt": "2026-07-15T16:07:29.255Z",
-    "updatedAt": "2026-07-15T16:12:22.541Z"
+    "updatedAt": "2026-07-15T17:07:05.837Z"
   },
   "korean": {
     "language": "korean",
@@ -32,9 +32,11 @@
     "lastId": "ko-01529",
     "batchSize": 500,
     "status": "done",
-    "dictionaryVersions": {},
+    "dictionaryVersions": {
+      "kaikki-korean": "kaikki wiktextract dump 2026-07-06"
+    },
     "startedAt": "2026-07-15T16:09:42.784Z",
-    "updatedAt": "2026-07-15T16:12:22.580Z"
+    "updatedAt": "2026-07-15T17:07:05.926Z"
   },
   "spanish": {
     "language": "spanish",
@@ -43,9 +45,11 @@
     "lastId": "es-02000",
     "batchSize": 500,
     "status": "done",
-    "dictionaryVersions": {},
+    "dictionaryVersions": {
+      "kaikki-spanish": "kaikki wiktextract dump 2026-07-06"
+    },
     "startedAt": "2026-07-15T16:09:42.789Z",
-    "updatedAt": "2026-07-15T16:12:22.587Z"
+    "updatedAt": "2026-07-15T17:07:05.999Z"
   },
   "german": {
     "language": "german",
@@ -54,9 +58,11 @@
     "lastId": "de-02000",
     "batchSize": 500,
     "status": "done",
-    "dictionaryVersions": {},
+    "dictionaryVersions": {
+      "kaikki-german": "kaikki wiktextract dump 2026-07-06"
+    },
     "startedAt": "2026-07-15T16:09:42.794Z",
-    "updatedAt": "2026-07-15T16:12:22.593Z"
+    "updatedAt": "2026-07-15T17:07:06.091Z"
   },
   "french": {
     "language": "french",
@@ -65,9 +71,11 @@
     "lastId": "fr-02000",
     "batchSize": 500,
     "status": "done",
-    "dictionaryVersions": {},
+    "dictionaryVersions": {
+      "kaikki-french": "kaikki wiktextract dump 2026-07-06"
+    },
     "startedAt": "2026-07-15T16:09:42.798Z",
-    "updatedAt": "2026-07-15T16:12:22.600Z"
+    "updatedAt": "2026-07-15T17:07:06.126Z"
   },
   "portuguese": {
     "language": "portuguese",
@@ -76,9 +84,11 @@
     "lastId": "pt-00150",
     "batchSize": 500,
     "status": "done",
-    "dictionaryVersions": {},
+    "dictionaryVersions": {
+      "kaikki-portuguese": "kaikki wiktextract dump 2026-07-06"
+    },
     "startedAt": "2026-07-15T16:09:42.799Z",
-    "updatedAt": "2026-07-15T16:12:22.604Z"
+    "updatedAt": "2026-07-15T17:07:06.135Z"
   },
   "polish": {
     "language": "polish",
@@ -87,9 +97,11 @@
     "lastId": "pl-00150",
     "batchSize": 500,
     "status": "done",
-    "dictionaryVersions": {},
+    "dictionaryVersions": {
+      "kaikki-polish": "kaikki wiktextract dump 2026-07-06"
+    },
     "startedAt": "2026-07-15T16:09:42.800Z",
-    "updatedAt": "2026-07-15T16:12:22.605Z"
+    "updatedAt": "2026-07-15T17:07:06.146Z"
   },
   "russian": {
     "language": "russian",
@@ -98,8 +110,10 @@
     "lastId": "ru-00150",
     "batchSize": 500,
     "status": "done",
-    "dictionaryVersions": {},
+    "dictionaryVersions": {
+      "kaikki-russian": "kaikki wiktextract dump 2026-07-06"
+    },
     "startedAt": "2026-07-15T16:09:42.801Z",
-    "updatedAt": "2026-07-15T16:12:22.606Z"
+    "updatedAt": "2026-07-15T17:07:06.151Z"
   }
 }

@@ -18,7 +18,13 @@ const cfg = JSON.parse(fs.readFileSync(path.join(auditRoot, 'config', 'languages
 const fullDir = path.join(auditRoot, 'reports', 'full')
 
 // 言語 → ローカル辞書ソース
-const LOCAL_SOURCES = { english: ['oewn'], chinese: ['cedict'] }
+const LOCAL_SOURCES = {
+  english: ['oewn'], chinese: ['cedict'],
+  korean: ['kaikki-korean'], spanish: ['kaikki-spanish'], german: ['kaikki-german'],
+  french: ['kaikki-french'], portuguese: ['kaikki-portuguese'], polish: ['kaikki-polish'], russian: ['kaikki-russian'],
+}
+// Kaikki系は品詞を持つ
+const DICT_HAS_POS = new Set(['oewn', 'kaikki-korean', 'kaikki-spanish', 'kaikki-german', 'kaikki-french', 'kaikki-portuguese', 'kaikki-polish', 'kaikki-russian'])
 
 const POSMAP = cfg.posMap
 const COMPAT = [['noun', 'proper noun'], ['adjective', 'determiner', 'article'], ['verb', 'auxiliary'], ['adverb', 'particle']]
@@ -148,19 +154,21 @@ export async function runLocal(langKey, opts) {
     const dataEn = langCfg.structure === 'pivot' ? (e.glosses?.en ?? e.answer) : (e.glosses?.en ?? null)
     const dataP = e.pronunciation ?? null
     const pronSys = langKey === 'chinese' ? 'pinyin' : 'ipa'
+    // ポーランド語/ロシア語のアプリ発音はローマ字転写でKaikkiのIPAと体系が異なる→照合不能(not_checked)
+    const pronComparable = !['polish', 'russian'].includes(langKey)
 
     const perSource = {}
     let anyLook = null
     for (const s of sources) {
       const look = stores[s]?.lookup(word)
       if (look) anyLook = anyLook || look
-      const dictHasPos = s === 'oewn'
+      const dictHasPos = DICT_HAS_POS.has(s)
       perSource[s] = {
         headword: statHeadword(look).status,
         multiple: statHeadword(look).multiple || false,
         pos: statPos(dataPos, look, dictHasPos),
         glossEn: statGlossEn(dataEn, look),
-        pron: statPron(dataP, look, pronSys),
+        pron: pronComparable ? statPron(dataP, look, pronSys) : 'not_checked',
         dictPos: look?.found ? [...new Set(look.entries.flatMap((x) => x.partsOfSpeech))] : [],
       }
     }

@@ -4,19 +4,19 @@
   "totalWords": 20131,
   "totalChecked": 20131,
   "aggregateVerdicts": {
-    "verified": 4134,
-    "likely_correct": 6947,
-    "review": 257,
+    "verified": 10295,
+    "likely_correct": 8293,
+    "review": 364,
     "conflicting": 0,
-    "critical": 999,
-    "not_checked": 7794
+    "critical": 1179,
+    "not_checked": 0
   },
   "problems": {
-    "critical": 999,
+    "critical": 1179,
     "conflicting": 0,
-    "review": 257,
-    "notFound": 123,
-    "notChecked": 7794
+    "review": 364,
+    "notFound": 214,
+    "notChecked": 0
   },
   "languages": {
     "english": {
@@ -41,7 +41,7 @@
         "japaneseGloss": 0
       },
       "unsafeExamples": 0,
-      "ms": 104
+      "ms": 109
     },
     "chinese": {
       "total": 4201,
@@ -65,92 +65,122 @@
         "japaneseGloss": 0
       },
       "unsafeExamples": 0,
-      "ms": 146
+      "ms": 160
     },
     "korean": {
       "total": 1529,
       "checked": 1529,
       "verdicts": {
-        "not_checked": 1529
+        "critical": 121,
+        "likely_correct": 1297,
+        "review": 107,
+        "verified": 4
       },
-      "sources": [],
-      "dictionaryVersions": {},
+      "sources": [
+        "kaikki-korean"
+      ],
+      "dictionaryVersions": {
+        "kaikki-korean": "kaikki wiktextract dump 2026-07-06"
+      },
       "dimChecked": {
-        "headword": 0,
-        "partOfSpeech": 0,
+        "headword": 1529,
+        "partOfSpeech": 1438,
         "sense": 0,
-        "pronunciation": 0,
+        "pronunciation": 1438,
         "japaneseGloss": 0
       },
       "unsafeExamples": 0,
-      "ms": 29
+      "ms": 33
     },
     "spanish": {
       "total": 1948,
       "checked": 1948,
       "verdicts": {
-        "not_checked": 1948
+        "verified": 1912,
+        "likely_correct": 22,
+        "critical": 14
       },
-      "sources": [],
-      "dictionaryVersions": {},
+      "sources": [
+        "kaikki-spanish"
+      ],
+      "dictionaryVersions": {
+        "kaikki-spanish": "kaikki wiktextract dump 2026-07-06"
+      },
       "dimChecked": {
-        "headword": 0,
+        "headword": 1948,
         "partOfSpeech": 0,
-        "sense": 0,
+        "sense": 1948,
         "pronunciation": 0,
         "japaneseGloss": 0
       },
       "unsafeExamples": 0,
-      "ms": 2
+      "ms": 26
     },
     "german": {
       "total": 1919,
       "checked": 1919,
       "verdicts": {
-        "not_checked": 1919
+        "verified": 1894,
+        "critical": 16,
+        "likely_correct": 9
       },
-      "sources": [],
-      "dictionaryVersions": {},
+      "sources": [
+        "kaikki-german"
+      ],
+      "dictionaryVersions": {
+        "kaikki-german": "kaikki wiktextract dump 2026-07-06"
+      },
       "dimChecked": {
-        "headword": 0,
+        "headword": 1919,
         "partOfSpeech": 0,
-        "sense": 0,
+        "sense": 1919,
         "pronunciation": 0,
         "japaneseGloss": 0
       },
       "unsafeExamples": 0,
-      "ms": 2
+      "ms": 34
     },
     "french": {
       "total": 1948,
       "checked": 1948,
       "verdicts": {
-        "not_checked": 1948
+        "verified": 1905,
+        "likely_correct": 17,
+        "critical": 26
       },
-      "sources": [],
-      "dictionaryVersions": {},
+      "sources": [
+        "kaikki-french"
+      ],
+      "dictionaryVersions": {
+        "kaikki-french": "kaikki wiktextract dump 2026-07-06"
+      },
       "dimChecked": {
-        "headword": 0,
+        "headword": 1948,
         "partOfSpeech": 0,
-        "sense": 0,
+        "sense": 1948,
         "pronunciation": 0,
         "japaneseGloss": 0
       },
       "unsafeExamples": 0,
-      "ms": 2
+      "ms": 11
     },
     "portuguese": {
       "total": 150,
       "checked": 150,
       "verdicts": {
-        "not_checked": 150
+        "verified": 149,
+        "likely_correct": 1
       },
-      "sources": [],
-      "dictionaryVersions": {},
+      "sources": [
+        "kaikki-portuguese"
+      ],
+      "dictionaryVersions": {
+        "kaikki-portuguese": "kaikki wiktextract dump 2026-07-06"
+      },
       "dimChecked": {
-        "headword": 0,
+        "headword": 150,
         "partOfSpeech": 0,
-        "sense": 0,
+        "sense": 149,
         "pronunciation": 0,
         "japaneseGloss": 0
       },
@@ -161,32 +191,42 @@
       "total": 150,
       "checked": 150,
       "verdicts": {
-        "not_checked": 150
+        "verified": 148,
+        "critical": 2
       },
-      "sources": [],
-      "dictionaryVersions": {},
+      "sources": [
+        "kaikki-polish"
+      ],
+      "dictionaryVersions": {
+        "kaikki-polish": "kaikki wiktextract dump 2026-07-06"
+      },
       "dimChecked": {
-        "headword": 0,
+        "headword": 150,
         "partOfSpeech": 0,
-        "sense": 0,
+        "sense": 150,
         "pronunciation": 0,
         "japaneseGloss": 0
       },
       "unsafeExamples": 0,
-      "ms": 1
+      "ms": 4
     },
     "russian": {
       "total": 150,
       "checked": 150,
       "verdicts": {
-        "not_checked": 150
+        "verified": 149,
+        "critical": 1
       },
-      "sources": [],
-      "dictionaryVersions": {},
+      "sources": [
+        "kaikki-russian"
+      ],
+      "dictionaryVersions": {
+        "kaikki-russian": "kaikki wiktextract dump 2026-07-06"
+      },
       "dimChecked": {
-        "headword": 0,
+        "headword": 150,
         "partOfSpeech": 0,
-        "sense": 0,
+        "sense": 150,
         "pronunciation": 0,
         "japaneseGloss": 0
       },

@@ -1,0 +1,29 @@
+{
+  "_doc": "第2段階(7言語): 実際に配布ページ・HEAD・データ先頭行を確認した結果のみ記録。未確認は\"未確認\"。推測でURL/版/ライセンス/サイズを作らない。",
+  "verifiedAt": "2026-07-16",
+  "commonLicense": {
+    "source": "Kaikki.org (Wiktextract / Wiktionary抽出)",
+    "licenseConfirmedFrom": "https://kaikki.org/dictionary/ の『Copyright and license』: 『made available under the same licenses as Wiktionary - both CC-BY-SA and GFDL』を確認",
+    "license": "CC-BY-SA ＋ GFDL (デュアル)",
+    "commercialUse": "可(照合用途)",
+    "attribution": "必要(Wiktionary)",
+    "shareAlike": "あり(CC-BY-SA)",
+    "verificationOnlyCondition": "本文を複製・再配布しない照合用途なら継承義務は発生しにくい",
+    "redistribution": "本文をアプリへ取り込まない",
+    "acquisitionMethod": "targeted_official_download: 公式JSONLダンプをストリームし、アプリ見出し語に一致する行のみ抽出(全ダンプは保存しない)。1語ずつAPIは呼ばない。",
+    "dataFieldsConfirmed": "word, pos, senses[].glosses(英語義), sounds[].ipa(IPA), forms[], lang_code (韓国語ダンプ先頭行で実確認)"
+  },
+  "datasets": [
+    { "name": "Kaikki Korean",     "language": "korean",     "url": "https://kaikki.org/dictionary/Korean/kaikki.org-dictionary-Korean.jsonl",         "format": "JSONL", "compression": "none", "dumpSizeConfirmed": "186.2MB (HEAD実測)", "dumpDate": "2026-07-06 (Kaikki言語ページ記載・確認)", "usedInThisRun": true, "priority": 2 },
+    { "name": "Kaikki Portuguese", "language": "portuguese", "url": "https://kaikki.org/dictionary/Portuguese/kaikki.org-dictionary-Portuguese.jsonl", "format": "JSONL", "compression": "none", "dumpSizeConfirmed": "529.8MB (HEAD実測)", "dumpDate": "取得時に言語ページから記録", "usedInThisRun": true, "priority": 1 },
+    { "name": "Kaikki Polish",     "language": "polish",     "url": "https://kaikki.org/dictionary/Polish/kaikki.org-dictionary-Polish.jsonl",         "format": "JSONL", "compression": "none", "dumpSizeConfirmed": "736.3MB (HEAD実測)", "dumpDate": "取得時に言語ページから記録", "usedInThisRun": true, "priority": 1 },
+    { "name": "Kaikki Russian",    "language": "russian",    "url": "https://kaikki.org/dictionary/Russian/kaikki.org-dictionary-Russian.jsonl",       "format": "JSONL", "compression": "none", "dumpSizeConfirmed": "892.8MB (HEAD実測)", "dumpDate": "取得時に言語ページから記録", "usedInThisRun": true, "priority": 1 },
+    { "name": "Kaikki French",     "language": "french",     "url": "https://kaikki.org/dictionary/French/kaikki.org-dictionary-French.jsonl",         "format": "JSONL", "compression": "none", "dumpSizeConfirmed": "544.2MB (HEAD実測)", "dumpDate": "取得時に言語ページから記録", "usedInThisRun": true, "priority": 3 },
+    { "name": "Kaikki Spanish",    "language": "spanish",    "url": "https://kaikki.org/dictionary/Spanish/kaikki.org-dictionary-Spanish.jsonl",       "format": "JSONL", "compression": "none", "dumpSizeConfirmed": "966.4MB (HEAD実測)", "dumpDate": "取得時に言語ページから記録", "usedInThisRun": true, "priority": 3 },
+    { "name": "Kaikki German",     "language": "german",     "url": "https://kaikki.org/dictionary/German/kaikki.org-dictionary-German.jsonl",         "format": "JSONL", "compression": "none", "dumpSizeConfirmed": "1015.9MB (HEAD実測)", "dumpDate": "取得時に言語ページから記録", "usedInThisRun": true, "priority": 3 }
+  ],
+  "notConfirmedNotUsed": [
+    { "candidate": "FreeDict (es/de/fr/pt)", "reason": "本runではKaikki(公式・多言語・IPA/品詞/英語義あり)を採用。FreeDictは辞書毎にライセンス/形式が異なり、Kaikkiで十分なため未使用。" },
+    { "candidate": "Spanish/German/French WordNet, OMW(ru), Polish WordNet", "reason": "言語毎にライセンスが分かれ確認負荷が高い。Kaikkiで見出し/品詞/英語義/IPAを賄えるため本runでは未使用。" }
+  ]
+}
