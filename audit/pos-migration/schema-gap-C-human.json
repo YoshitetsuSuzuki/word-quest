@@ -1,0 +1,242 @@
+[
+  {
+    "id": "en-00121",
+    "language": "en",
+    "headword": "before",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "の前に",
+    "example": "Wash your hands before dinner. — 夕食の前に手を洗いなさい。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "C",
+    "confidence": 0,
+    "reason": "多品詞語/前置詞的answer『の前に』→人手(自動修正しない)"
+  },
+  {
+    "id": "en-00126",
+    "language": "en",
+    "headword": "between",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "の間に",
+    "example": "The park is between the school and the bank. — 公園は学校と銀行の間にある。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "C",
+    "confidence": 0,
+    "reason": "多品詞語/前置詞的answer『の間に』→人手(自動修正しない)"
+  },
+  {
+    "id": "en-00194",
+    "language": "en",
+    "headword": "around",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "の周りに",
+    "example": "We sat around the table and talked. — 私たちはテーブルの周りに座って話した。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "C",
+    "confidence": 0,
+    "reason": "多品詞語/前置詞的answer『の周りに』→人手(自動修正しない)"
+  },
+  {
+    "id": "en-00415",
+    "language": "en",
+    "headword": "either",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "どちらかの",
+    "example": "You can choose either color, red or blue. — 赤か青、どちらかの色を選べます。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "C",
+    "confidence": 0,
+    "reason": "多品詞語/前置詞的answer『どちらかの』→人手(自動修正しない)"
+  },
+  {
+    "id": "en-00602",
+    "language": "en",
+    "headword": "instead",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "その代りとして",
+    "example": "The pool was closed, so we played tennis instead. — プールが閉まっていたので、その代わりにテニスをした。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "C",
+    "confidence": 0,
+    "reason": "多品詞語/前置詞的answer『その代りとして』→人手(自動修正しない)"
+  },
+  {
+    "id": "en-00777",
+    "language": "en",
+    "headword": "below",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "の下に",
+    "example": "Write your name below the line. — 線の下に名前を書きなさい。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "C",
+    "confidence": 0,
+    "reason": "多品詞語/前置詞的answer『の下に』→人手(自動修正しない)"
+  },
+  {
+    "id": "en-02198",
+    "language": "en",
+    "headword": "beneath",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "の下に",
+    "example": "The cat was sleeping beneath the table. — 猫はテーブルの下で眠っていた。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "C",
+    "confidence": 0,
+    "reason": "多品詞語/前置詞的answer『の下に』→人手(自動修正しない)"
+  },
+  {
+    "id": "en-02682",
+    "language": "en",
+    "headword": "subsequently",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "その後",
+    "example": "He moved to the city and subsequently opened a bakery. — 彼は都会へ移り、その後パン屋を開いた。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "C",
+    "confidence": 0,
+    "reason": "多品詞語/前置詞的answer『その後』→人手(自動修正しない)"
+  },
+  {
+    "id": "en-09455",
+    "language": "en",
+    "headword": "thereafter",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "その後",
+    "example": "He moved to the coast and lived there thereafter. — 彼は海岸へ移り、その後そこで暮らした。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "C",
+    "confidence": 0,
+    "reason": "多品詞語/前置詞的answer『その後』→人手(自動修正しない)"
+  },
+  {
+    "id": "en-20129",
+    "language": "en",
+    "headword": "underneath",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "〜の下に",
+    "example": "The cat is hiding underneath the table. — ネコがテーブルの下に隠れている。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "C",
+    "confidence": 0,
+    "reason": "多品詞語/前置詞的answer『〜の下に』→人手(自動修正しない)"
+  },
+  {
+    "id": "ko-00459",
+    "language": "ko",
+    "headword": "여기",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "ここ",
+    "example": "여기가 우리 학교이다. — ここが私たちの学校だ。",
+    "dictPos": [
+      "pronoun"
+    ],
+    "suggestedTag": [
+      "代名詞"
+    ],
+    "multiplePos": false,
+    "category": "C",
+    "confidence": 0,
+    "reason": "代名詞と確証できず→人手"
+  },
+  {
+    "id": "ko-00460",
+    "language": "ko",
+    "headword": "거기",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "そこ",
+    "example": "너는 거기에서 뭐 하니? — きみはそこで何をするの?",
+    "dictPos": [
+      "pronoun"
+    ],
+    "suggestedTag": [
+      "代名詞"
+    ],
+    "multiplePos": false,
+    "category": "C",
+    "confidence": 0,
+    "reason": "代名詞と確証できず→人手"
+  }
+]

@@ -1,0 +1,2768 @@
+[
+  {
+    "id": "en-00298",
+    "language": "english",
+    "headword": "able",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "できる",
+    "example": "She is able to speak three languages. — 彼女は3つの言語を話すことができる。",
+    "dictPos": [
+      "adjective"
+    ],
+    "dictGloss": [
+      "(usually followed by `to') having the necessary means or skill or know-how or authority to do something",
+      "have the skills and qualifications to do things well",
+      "having inherent physical or mental ability or capacity"
+    ],
+    "currentAdoptedSense": "できる",
+    "needsFix": true,
+    "cause": "clear_adjective_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "形容詞"
+    ],
+    "reason": "answer『できる』(adjective)と辞書単一品詞[adjective]が一致・スキーマ内・現タグ『動詞』は誤り"
+  },
+  {
+    "id": "en-00459",
+    "language": "english",
+    "headword": "available",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "利用できる",
+    "example": "This room is available after two. — この部屋は2時から後は利用できる。",
+    "dictPos": [
+      "adjective"
+    ],
+    "dictGloss": [
+      "obtainable or accessible and ready for use or service",
+      "not busy; not otherwise committed",
+      "convenient for use or disposal"
+    ],
+    "currentAdoptedSense": "利用できる",
+    "needsFix": true,
+    "cause": "clear_adjective_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "形容詞"
+    ],
+    "reason": "answer『利用できる』(adjective)と辞書単一品詞[adjective]が一致・スキーマ内・現タグ『動詞』は誤り"
+  },
+  {
+    "id": "en-00603",
+    "language": "english",
+    "headword": "similar",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "似ている",
+    "example": "Your bag and mine are very similar. — あなたのかばんと私のはとても似ている。",
+    "dictPos": [
+      "adjective"
+    ],
+    "dictGloss": [
+      "marked by correspondence or resemblance",
+      "having the same or similar characteristics",
+      "resembling or similar; having the same or some of the same characteristics; often used in combination"
+    ],
+    "currentAdoptedSense": "似ている",
+    "needsFix": true,
+    "cause": "clear_adjective_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "形容詞"
+    ],
+    "reason": "answer『似ている』(adjective)と辞書単一品詞[adjective]が一致・スキーマ内・現タグ『動詞』は誤り"
+  },
+  {
+    "id": "en-00820",
+    "language": "english",
+    "headword": "popular",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "人気がある",
+    "example": "This song is popular among young people. — この歌は若い人々に人気がある。",
+    "dictPos": [
+      "adjective"
+    ],
+    "dictGloss": [
+      "regarded with great favor, approval, or affection especially by the general public",
+      "carried on by or for the people (or citizens) at large",
+      "representing or appealing to or adapted for the benefit of the people at large"
+    ],
+    "currentAdoptedSense": "人気がある",
+    "needsFix": true,
+    "cause": "clear_adjective_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "形容詞"
+    ],
+    "reason": "answer『人気がある』(adjective)と辞書単一品詞[adjective]が一致・スキーマ内・現タグ『動詞』は誤り"
+  },
+  {
+    "id": "en-01117",
+    "language": "english",
+    "headword": "aware",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "知っている",
+    "example": "I was not aware of the rule change. — 規則の変更を知らなかった。",
+    "dictPos": [
+      "adjective"
+    ],
+    "dictGloss": [
+      "(sometimes followed by `of') having or showing knowledge or understanding or realization or perception",
+      "bearing in mind; attentive to"
+    ],
+    "currentAdoptedSense": "知っている",
+    "needsFix": true,
+    "cause": "clear_adjective_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "形容詞"
+    ],
+    "reason": "answer『知っている』(adjective)と辞書単一品詞[adjective]が一致・スキーマ内・現タグ『動詞』は誤り"
+  },
+  {
+    "id": "en-01881",
+    "language": "english",
+    "headword": "alive",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "生きている",
+    "example": "The fish in the bucket is still alive. — バケツの中の魚はまだ生きている。",
+    "dictPos": [
+      "adjective"
+    ],
+    "dictGloss": [
+      "possessing life",
+      "(often followed by `with') full of life and spirit",
+      "having life or vigor or spirit"
+    ],
+    "currentAdoptedSense": "生きている",
+    "needsFix": true,
+    "cause": "clear_adjective_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "形容詞"
+    ],
+    "reason": "answer『生きている』(adjective)と辞書単一品詞[adjective]が一致・スキーマ内・現タグ『動詞』は誤り"
+  },
+  {
+    "id": "en-01964",
+    "language": "english",
+    "headword": "grateful",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "感謝している",
+    "example": "I am grateful for your kind help. — あなたの親切な助けに感謝している。",
+    "dictPos": [
+      "adjective"
+    ],
+    "dictGloss": [
+      "feeling or showing gratitude",
+      "affording comfort or pleasure"
+    ],
+    "currentAdoptedSense": "感謝している",
+    "needsFix": true,
+    "cause": "clear_adjective_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "形容詞"
+    ],
+    "reason": "answer『感謝している』(adjective)と辞書単一品詞[adjective]が一致・スキーマ内・現タグ『動詞』は誤り"
+  },
+  {
+    "id": "en-02630",
+    "language": "english",
+    "headword": "reliable",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "信頼できる",
+    "example": "This old car is slow but reliable. — この古い車は遅いが信頼できる。",
+    "dictPos": [
+      "adjective"
+    ],
+    "dictGloss": [
+      "worthy of reliance or trust",
+      "worthy of being depended on",
+      "conforming to fact and therefore worthy of belief"
+    ],
+    "currentAdoptedSense": "信頼できる",
+    "needsFix": true,
+    "cause": "clear_adjective_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "形容詞"
+    ],
+    "reason": "answer『信頼できる』(adjective)と辞書単一品詞[adjective]が一致・スキーマ内・現タグ『動詞』は誤り"
+  },
+  {
+    "id": "en-02679",
+    "language": "english",
+    "headword": "pregnant",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "妊娠している",
+    "example": "My aunt is pregnant with her second child. — おばは2人目の子供を妊娠している。",
+    "dictPos": [
+      "adjective"
+    ],
+    "dictGloss": [
+      "carrying developing offspring within the body or being about to produce new life",
+      "rich in significance or implication",
+      "filled with or attended with"
+    ],
+    "currentAdoptedSense": "妊娠している",
+    "needsFix": true,
+    "cause": "clear_adjective_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "形容詞"
+    ],
+    "reason": "answer『妊娠している』(adjective)と辞書単一品詞[adjective]が一致・スキーマ内・現タグ『動詞』は誤り"
+  },
+  {
+    "id": "en-03247",
+    "language": "english",
+    "headword": "involved",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "関係している",
+    "example": "Many students are involved in the school festival. — 多くの生徒が学園祭に関係している。",
+    "dictPos": [
+      "adjective"
+    ],
+    "dictGloss": [
+      "connected by participation or association or use",
+      "entangled or hindered as if e.g. in mire",
+      "emotionally involved"
+    ],
+    "currentAdoptedSense": "関係している",
+    "needsFix": true,
+    "cause": "clear_adjective_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "形容詞"
+    ],
+    "reason": "answer『関係している』(adjective)と辞書単一品詞[adjective]が一致・スキーマ内・現タグ『動詞』は誤り"
+  },
+  {
+    "id": "en-03487",
+    "language": "english",
+    "headword": "trading",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "取引，貿易",
+    "example": "I work for a trading company. — 私は商社で働いています。",
+    "dictPos": [
+      "noun"
+    ],
+    "dictGloss": [
+      "buying or selling securities or commodities"
+    ],
+    "currentAdoptedSense": "取引，貿易",
+    "needsFix": true,
+    "cause": "clear_noun_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "名詞"
+    ],
+    "reason": "answer『取引，貿易』(noun)と辞書単一品詞[noun]が一致・スキーマ内・現タグ『動詞』は誤り"
+  },
+  {
+    "id": "en-03720",
+    "language": "english",
+    "headword": "applicable",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "適用できる",
+    "example": "This rule is applicable to all students. — この規則は全生徒に適用できる。",
+    "dictPos": [
+      "adjective"
+    ],
+    "dictGloss": [
+      "capable of being applied; having relevance"
+    ],
+    "currentAdoptedSense": "適用できる",
+    "needsFix": true,
+    "cause": "clear_adjective_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "形容詞"
+    ],
+    "reason": "answer『適用できる』(adjective)と辞書単一品詞[adjective]が一致・スキーマ内・現タグ『動詞』は誤り"
+  },
+  {
+    "id": "en-03989",
+    "language": "english",
+    "headword": "increasing",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "増加している",
+    "example": "The increasing number of visitors surprised the town. — 増加している訪問者の数は町を驚かせた。",
+    "dictPos": [
+      "adjective"
+    ],
+    "dictGloss": [
+      "becoming greater or larger",
+      "(music) increasing in tempo and/or volume"
+    ],
+    "currentAdoptedSense": "増加している",
+    "needsFix": true,
+    "cause": "clear_adjective_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "形容詞"
+    ],
+    "reason": "answer『増加している』(adjective)と辞書単一品詞[adjective]が一致・スキーマ内・現タグ『動詞』は誤り"
+  },
+  {
+    "id": "en-04133",
+    "language": "english",
+    "headword": "concerned",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "心配している",
+    "example": "I am concerned about tomorrow's weather. — 明日の天気を心配している。",
+    "dictPos": [
+      "adjective"
+    ],
+    "dictGloss": [
+      "feeling or showing worry or solicitude",
+      "involved in or affected by or having a claim to or share in",
+      "culpably involved"
+    ],
+    "currentAdoptedSense": "心配している",
+    "needsFix": true,
+    "cause": "clear_adjective_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "形容詞"
+    ],
+    "reason": "answer『心配している』(adjective)と辞書単一品詞[adjective]が一致・スキーマ内・現タグ『動詞』は誤り"
+  },
+  {
+    "id": "en-04268",
+    "language": "english",
+    "headword": "printable",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "印刷できる",
+    "example": "The map on this site is printable at home. — このサイトの地図は家で印刷できる。",
+    "dictPos": [
+      "adjective"
+    ],
+    "dictGloss": [
+      "fit for publication because free of material that is morally or legally objectionable"
+    ],
+    "currentAdoptedSense": "印刷できる",
+    "needsFix": true,
+    "cause": "clear_adjective_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "形容詞"
+    ],
+    "reason": "answer『印刷できる』(adjective)と辞書単一品詞[adjective]が一致・スキーマ内・現タグ『動詞』は誤り"
+  },
+  {
+    "id": "en-05361",
+    "language": "english",
+    "headword": "loaded",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "荷を積んだ",
+    "example": "The ship loaded in two days. — 船は２日で船荷を積んだ。",
+    "dictPos": [
+      "adjective"
+    ],
+    "dictGloss": [
+      "filled with a great quantity",
+      "(of weapons) charged with ammunition",
+      "(of statements or questions) charged with associative significance and often meant to mislead or influence"
+    ],
+    "currentAdoptedSense": "荷を積んだ",
+    "needsFix": true,
+    "cause": "clear_adjective_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "形容詞"
+    ],
+    "reason": "answer『荷を積んだ』(adjective)と辞書単一品詞[adjective]が一致・スキーマ内・現タグ『名詞』は誤り"
+  },
+  {
+    "id": "en-05446",
+    "language": "english",
+    "headword": "pleased",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "喜んだ",
+    "example": "My mother was pleased with the flowers. — 母はその花を喜んだ。",
+    "dictPos": [
+      "adjective"
+    ],
+    "dictGloss": [
+      "experiencing or manifesting pleasure",
+      "feeling pleasurable satisfaction over something by which you measures your self-worth"
+    ],
+    "currentAdoptedSense": "喜んだ",
+    "needsFix": true,
+    "cause": "clear_adjective_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "形容詞"
+    ],
+    "reason": "answer『喜んだ』(adjective)と辞書単一品詞[adjective]が一致・スキーマ内・現タグ『名詞』は誤り"
+  },
+  {
+    "id": "en-05507",
+    "language": "english",
+    "headword": "wright",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "職人，製作者",
+    "example": "Mr. Wright speaks Japanese like a native speaker. — ライトさんは、まるで母国語の様に日本語を話します。",
+    "dictPos": [
+      "noun"
+    ],
+    "dictGloss": [
+      "someone who makes or repairs something (usually used in combination)"
+    ],
+    "currentAdoptedSense": "職人，製作者",
+    "needsFix": true,
+    "cause": "clear_noun_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "名詞"
+    ],
+    "reason": "answer『職人，製作者』(noun)と辞書単一品詞[noun]が一致・スキーマ内・現タグ『動詞』は誤り"
+  },
+  {
+    "id": "en-05807",
+    "language": "english",
+    "headword": "adjustable",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "調節できる",
+    "example": "This desk chair is adjustable in height. — この机の椅子は高さを調節できる。",
+    "dictPos": [
+      "adjective"
+    ],
+    "dictGloss": [
+      "capable of being changed so as to match or fit",
+      "capable of being regulated"
+    ],
+    "currentAdoptedSense": "調節できる",
+    "needsFix": true,
+    "cause": "clear_adjective_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "形容詞"
+    ],
+    "reason": "answer『調節できる』(adjective)と辞書単一品詞[adjective]が一致・スキーマ内・現タグ『動詞』は誤り"
+  },
+  {
+    "id": "en-06288",
+    "language": "english",
+    "headword": "situated",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "位置している",
+    "example": "The hotel is situated near the beach. — そのホテルは浜辺の近くに位置している。",
+    "dictPos": [
+      "adjective"
+    ],
+    "dictGloss": [
+      "situated in a particular spot or position"
+    ],
+    "currentAdoptedSense": "位置している",
+    "needsFix": true,
+    "cause": "clear_adjective_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "形容詞"
+    ],
+    "reason": "answer『位置している』(adjective)と辞書単一品詞[adjective]が一致・スキーマ内・現タグ『動詞』は誤り"
+  },
+  {
+    "id": "en-07419",
+    "language": "english",
+    "headword": "comparable",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "比較できる",
+    "example": "The two hotels are comparable in price. — その二つのホテルは価格の面で比較できる。",
+    "dictPos": [
+      "adjective"
+    ],
+    "dictGloss": [
+      "able to be compared or worthy of comparison",
+      "conforming in every respect"
+    ],
+    "currentAdoptedSense": "比較できる",
+    "needsFix": true,
+    "cause": "clear_adjective_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "形容詞"
+    ],
+    "reason": "answer『比較できる』(adjective)と辞書単一品詞[adjective]が一致・スキーマ内・現タグ『動詞』は誤り"
+  },
+  {
+    "id": "en-07592",
+    "language": "english",
+    "headword": "wanting",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "欠けている",
+    "example": "I've been wanting to see you. — 君に会いたかったよ。",
+    "dictPos": [
+      "adjective"
+    ],
+    "dictGloss": [
+      "nonexistent",
+      "inadequate in amount or degree"
+    ],
+    "currentAdoptedSense": "欠けている",
+    "needsFix": true,
+    "cause": "clear_adjective_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "形容詞"
+    ],
+    "reason": "answer『欠けている』(adjective)と辞書単一品詞[adjective]が一致・スキーマ内・現タグ『動詞』は誤り"
+  },
+  {
+    "id": "en-08097",
+    "language": "english",
+    "headword": "modular",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "規格部品でできている",
+    "example": null,
+    "dictPos": [
+      "adjective"
+    ],
+    "dictGloss": [
+      "constructed with standardized units or dimensions allowing flexibility and variety in use"
+    ],
+    "currentAdoptedSense": "規格部品でできている",
+    "needsFix": true,
+    "cause": "clear_adjective_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "形容詞"
+    ],
+    "reason": "answer『規格部品でできている』(adjective)と辞書単一品詞[adjective]が一致・スキーマ内・現タグ『動詞』は誤り"
+  },
+  {
+    "id": "en-08717",
+    "language": "english",
+    "headword": "convinced",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "確信している",
+    "example": "I am convinced that our plan will work. — わたしは自分たちの計画がうまくいくと確信している。",
+    "dictPos": [
+      "adjective"
+    ],
+    "dictGloss": [
+      "persuaded of; very sure",
+      "having a strong belief or conviction"
+    ],
+    "currentAdoptedSense": "確信している",
+    "needsFix": true,
+    "cause": "clear_adjective_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "形容詞"
+    ],
+    "reason": "answer『確信している』(adjective)と辞書単一品詞[adjective]が一致・スキーマ内・現タグ『動詞』は誤り"
+  },
+  {
+    "id": "en-08782",
+    "language": "english",
+    "headword": "suspected",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "疑われている",
+    "example": "I suspected he was a liar. — 私は彼が嘘つきではないかと思った。",
+    "dictPos": [
+      "adjective"
+    ],
+    "dictGloss": [
+      "believed likely"
+    ],
+    "currentAdoptedSense": "疑われている",
+    "needsFix": true,
+    "cause": "clear_adjective_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "形容詞"
+    ],
+    "reason": "answer『疑われている』(adjective)と辞書単一品詞[adjective]が一致・スキーマ内・現タグ『動詞』は誤り"
+  },
+  {
+    "id": "en-08808",
+    "language": "english",
+    "headword": "laughing",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "笑っている",
+    "example": "He kept on laughing at me. — 彼は私を笑い続けた。",
+    "dictPos": [
+      "adjective"
+    ],
+    "dictGloss": [
+      "showing or feeling mirth or pleasure or happiness"
+    ],
+    "currentAdoptedSense": "笑っている",
+    "needsFix": true,
+    "cause": "clear_adjective_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "形容詞"
+    ],
+    "reason": "answer『笑っている』(adjective)と辞書単一品詞[adjective]が一致・スキーマ内・現タグ『動詞』は誤り"
+  },
+  {
+    "id": "en-09027",
+    "language": "english",
+    "headword": "removable",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "取り外しできる",
+    "example": "The coat has a removable warm lining. — そのコートには取り外しできる暖かい裏地がついている。",
+    "dictPos": [
+      "adjective"
+    ],
+    "dictGloss": [
+      "capable of being removed or taken away or dismissed",
+      "able to be obliterated completely"
+    ],
+    "currentAdoptedSense": "取り外しできる",
+    "needsFix": true,
+    "cause": "clear_adjective_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "形容詞"
+    ],
+    "reason": "answer『取り外しできる』(adjective)と辞書単一品詞[adjective]が一致・スキーマ内・現タグ『動詞』は誤り"
+  },
+  {
+    "id": "en-20576",
+    "language": "english",
+    "headword": "sensible",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "分別がある",
+    "example": "The sensible girl saved half of her money. — その分別がある少女はお金の半分を貯金した。",
+    "dictPos": [
+      "adjective"
+    ],
+    "dictGloss": [
+      "showing reason or sound judgment",
+      "able to feel or perceive",
+      "readily perceived by the senses"
+    ],
+    "currentAdoptedSense": "分別がある",
+    "needsFix": true,
+    "cause": "clear_adjective_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "形容詞"
+    ],
+    "reason": "answer『分別がある』(adjective)と辞書単一品詞[adjective]が一致・スキーマ内・現タグ『動詞』は誤り"
+  },
+  {
+    "id": "en-20668",
+    "language": "english",
+    "headword": "thankful",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "感謝している",
+    "example": "I am thankful for your kind help. — あなたの親切な助けに感謝しています。",
+    "dictPos": [
+      "adjective"
+    ],
+    "dictGloss": [
+      "feeling or showing gratitude"
+    ],
+    "currentAdoptedSense": "感謝している",
+    "needsFix": true,
+    "cause": "clear_adjective_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "形容詞"
+    ],
+    "reason": "answer『感謝している』(adjective)と辞書単一品詞[adjective]が一致・スキーマ内・現タグ『動詞』は誤り"
+  },
+  {
+    "id": "en-20863",
+    "language": "english",
+    "headword": "madman",
+    "currentTags": [
+      "形容詞"
+    ],
+    "answer": "狂人",
+    "example": "He acted like a madman. — 彼は狂人のように振る舞った。",
+    "dictPos": [
+      "noun"
+    ],
+    "dictGloss": [
+      "a male insane person"
+    ],
+    "currentAdoptedSense": "狂人",
+    "needsFix": true,
+    "cause": "clear_noun_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "名詞"
+    ],
+    "reason": "answer『狂人』(noun)と辞書単一品詞[noun]が一致・スキーマ内・現タグ『形容詞』は誤り"
+  },
+  {
+    "id": "en-21147",
+    "language": "english",
+    "headword": "understandable",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "理解できる",
+    "example": "His anger at the broken promise was understandable. — 破られた約束への彼の怒りは理解できるものだった。",
+    "dictPos": [
+      "adjective"
+    ],
+    "dictGloss": [
+      "capable of being apprehended or understood"
+    ],
+    "currentAdoptedSense": "理解できる",
+    "needsFix": true,
+    "cause": "clear_adjective_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "形容詞"
+    ],
+    "reason": "answer『理解できる』(adjective)と辞書単一品詞[adjective]が一致・スキーマ内・現タグ『動詞』は誤り"
+  },
+  {
+    "id": "en-21318",
+    "language": "english",
+    "headword": "lacking",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "欠けている",
+    "example": "The soup was lacking in salt. — そのスープは塩が欠けていた。",
+    "dictPos": [
+      "adjective"
+    ],
+    "dictGloss": [
+      "inadequate in amount or degree",
+      "nonexistent"
+    ],
+    "currentAdoptedSense": "欠けている",
+    "needsFix": true,
+    "cause": "clear_adjective_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "形容詞"
+    ],
+    "reason": "answer『欠けている』(adjective)と辞書単一品詞[adjective]が一致・スキーマ内・現タグ『動詞』は誤り"
+  },
+  {
+    "id": "en-21578",
+    "language": "english",
+    "headword": "inclined",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "傾向がある",
+    "example": "I am inclined to agree with your plan. — 私はあなたの計画に賛成したい傾向がある。",
+    "dictPos": [
+      "adjective"
+    ],
+    "dictGloss": [
+      "(often followed by `to') having a preference, disposition, or tendency",
+      "at an angle to the horizontal or vertical position",
+      "having made preparations"
+    ],
+    "currentAdoptedSense": "傾向がある",
+    "needsFix": true,
+    "cause": "clear_adjective_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "形容詞"
+    ],
+    "reason": "answer『傾向がある』(adjective)と辞書単一品詞[adjective]が一致・スキーマ内・現タグ『動詞』は誤り"
+  },
+  {
+    "id": "en-21663",
+    "language": "english",
+    "headword": "predictable",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "予測できる",
+    "example": "The story's ending was easy and predictable. — その物語の結末は単純で予測できるものだった。",
+    "dictPos": [
+      "adjective"
+    ],
+    "dictGloss": [
+      "capable of being foretold"
+    ],
+    "currentAdoptedSense": "予測できる",
+    "needsFix": true,
+    "cause": "clear_adjective_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "形容詞"
+    ],
+    "reason": "answer『予測できる』(adjective)と辞書単一品詞[adjective]が一致・スキーマ内・現タグ『動詞』は誤り"
+  },
+  {
+    "id": "en-21684",
+    "language": "english",
+    "headword": "vacant",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "空いている",
+    "example": "We found a vacant seat on the train. — 私たちは電車で空いている席を見つけた。",
+    "dictPos": [
+      "adjective"
+    ],
+    "dictGloss": [
+      "without an occupant or incumbent",
+      "devoid of intelligence or thought"
+    ],
+    "currentAdoptedSense": "空いている",
+    "needsFix": true,
+    "cause": "clear_adjective_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "形容詞"
+    ],
+    "reason": "answer『空いている』(adjective)と辞書単一品詞[adjective]が一致・スキーマ内・現タグ『動詞』は誤り"
+  },
+  {
+    "id": "en-21873",
+    "language": "english",
+    "headword": "undressed",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "服を脱いだ",
+    "example": "The boy undressed quickly and jumped into the bath. — 男の子はさっと服を脱いで風呂に飛び込んだ。",
+    "dictPos": [
+      "adjective"
+    ],
+    "dictGloss": [
+      "of lumber or stone or hides; not finished or dressed",
+      "having removed clothing"
+    ],
+    "currentAdoptedSense": "服を脱いだ",
+    "needsFix": true,
+    "cause": "clear_adjective_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "形容詞"
+    ],
+    "reason": "answer『服を脱いだ』(adjective)と辞書単一品詞[adjective]が一致・スキーマ内・現タグ『名詞』は誤り"
+  },
+  {
+    "id": "en-22186",
+    "language": "english",
+    "headword": "trustworthy",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "信頼できる",
+    "example": "A trustworthy friend keeps your secrets. — 信頼できる友人は秘密を守ってくれる。",
+    "dictPos": [
+      "adjective"
+    ],
+    "dictGloss": [
+      "worthy of trust or belief",
+      "taking responsibility for one's conduct and obligations"
+    ],
+    "currentAdoptedSense": "信頼できる",
+    "needsFix": true,
+    "cause": "clear_adjective_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "形容詞"
+    ],
+    "reason": "answer『信頼できる』(adjective)と辞書単一品詞[adjective]が一致・スキーマ内・現タグ『動詞』は誤り"
+  },
+  {
+    "id": "en-22284",
+    "language": "english",
+    "headword": "witty",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "機知に富んだ",
+    "example": "Her witty answer made the whole class laugh. — 彼女の機知に富んだ答えにクラス全体が笑った。",
+    "dictPos": [
+      "adjective"
+    ],
+    "dictGloss": [
+      "combining clever conception and facetious expression"
+    ],
+    "currentAdoptedSense": "機知に富んだ",
+    "needsFix": true,
+    "cause": "clear_adjective_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "形容詞"
+    ],
+    "reason": "answer『機知に富んだ』(adjective)と辞書単一品詞[adjective]が一致・スキーマ内・現タグ『名詞』は誤り"
+  },
+  {
+    "id": "en-22320",
+    "language": "english",
+    "headword": "credible",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "信用できる",
+    "example": "The witness gave a credible account of the accident. — 目撃者は事故について信用できる説明をした。",
+    "dictPos": [
+      "adjective"
+    ],
+    "dictGloss": [
+      "capable of being believed",
+      "(a common but incorrect usage where `credulous' would be appropriate) credulous",
+      "appearing to merit belief or acceptance"
+    ],
+    "currentAdoptedSense": "信用できる",
+    "needsFix": true,
+    "cause": "clear_adjective_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "形容詞"
+    ],
+    "reason": "answer『信用できる』(adjective)と辞書単一品詞[adjective]が一致・スキーマ内・現タグ『動詞』は誤り"
+  },
+  {
+    "id": "en-22526",
+    "language": "english",
+    "headword": "minded",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "気がある",
+    "example": "You should be more open-minded. — もっと柔軟になりなよ。",
+    "dictPos": [
+      "adjective"
+    ],
+    "dictGloss": [
+      "(used in combination) mentally oriented toward something specified",
+      "(usually followed by `to') naturally disposed toward"
+    ],
+    "currentAdoptedSense": "気がある",
+    "needsFix": true,
+    "cause": "clear_adjective_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "形容詞"
+    ],
+    "reason": "answer『気がある』(adjective)と辞書単一品詞[adjective]が一致・スキーマ内・現タグ『動詞』は誤り"
+  },
+  {
+    "id": "en-22549",
+    "language": "english",
+    "headword": "preoccupied",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "心を奪われている",
+    "example": "He is preoccupied with his new video game. — 彼は新しいテレビゲームに心を奪われている。",
+    "dictPos": [
+      "adjective"
+    ],
+    "dictGloss": [
+      "deeply absorbed in thought",
+      "having or showing excessive or compulsive concern with something"
+    ],
+    "currentAdoptedSense": "心を奪われている",
+    "needsFix": true,
+    "cause": "clear_adjective_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "形容詞"
+    ],
+    "reason": "answer『心を奪われている』(adjective)と辞書単一品詞[adjective]が一致・スキーマ内・現タグ『動詞』は誤り"
+  },
+  {
+    "id": "en-22933",
+    "language": "english",
+    "headword": "prone",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "傾向がある",
+    "example": "Tired drivers are prone to making mistakes. — 疲れた運転者は間違いを犯す傾向がある。",
+    "dictPos": [
+      "adjective"
+    ],
+    "dictGloss": [
+      "having a tendency (to); often used in combination",
+      "lying face downward"
+    ],
+    "currentAdoptedSense": "傾向がある",
+    "needsFix": true,
+    "cause": "clear_adjective_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "形容詞"
+    ],
+    "reason": "answer『傾向がある』(adjective)と辞書単一品詞[adjective]が一致・スキーマ内・現タグ『動詞』は誤り"
+  },
+  {
+    "id": "ko-00157",
+    "language": "korean",
+    "headword": "예쁘다",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "きれいだ",
+    "example": "이 꽃은 아주 예쁘다. — この花はとてもきれいだ。",
+    "dictPos": [
+      "adjective"
+    ],
+    "dictGloss": [
+      "to be pretty, lovely, beautiful, comely",
+      "to be adorable",
+      "to be nice, good"
+    ],
+    "currentAdoptedSense": "きれいだ",
+    "needsFix": true,
+    "cause": "clear_adjective_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "形容詞"
+    ],
+    "reason": "answer『きれいだ』(adjective)と辞書単一品詞[adjective]が一致・スキーマ内・現タグ『名詞』は誤り"
+  },
+  {
+    "id": "ko-00174",
+    "language": "korean",
+    "headword": "행복하다",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "幸せだ",
+    "example": "나는 지금 아주 행복하다. — 私は今とても幸せだ。",
+    "dictPos": [
+      "adjective"
+    ],
+    "dictGloss": [
+      "to be happy",
+      "to be happy"
+    ],
+    "currentAdoptedSense": "幸せだ",
+    "needsFix": true,
+    "cause": "clear_adjective_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "形容詞"
+    ],
+    "reason": "answer『幸せだ』(adjective)と辞書単一品詞[adjective]が一致・スキーマ内・現タグ『名詞』は誤り"
+  },
+  {
+    "id": "ko-00178",
+    "language": "korean",
+    "headword": "빨리",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "早く",
+    "example": "그는 밥을 빨리 먹는다. — 彼はご飯を早く食べる。",
+    "dictPos": [
+      "adverb"
+    ],
+    "dictGloss": [
+      "quickly, without delay; often used when urging someone to hurry"
+    ],
+    "currentAdoptedSense": "早く",
+    "needsFix": true,
+    "cause": "clear_other_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "副詞"
+    ],
+    "reason": "answer『早く』(adverb)と辞書単一品詞[adverb]が一致・スキーマ内・現タグ『動詞』は誤り"
+  },
+  {
+    "id": "ko-00397",
+    "language": "korean",
+    "headword": "깨끗하다",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "清潔だ",
+    "example": "내 방은 아주 깨끗하다. — 私の部屋はとても清潔だ。",
+    "dictPos": [
+      "adjective"
+    ],
+    "dictGloss": [
+      "to be clean",
+      "to be clean"
+    ],
+    "currentAdoptedSense": "清潔だ",
+    "needsFix": true,
+    "cause": "clear_adjective_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "形容詞"
+    ],
+    "reason": "answer『清潔だ』(adjective)と辞書単一品詞[adjective]が一致・スキーマ内・現タグ『名詞』は誤り"
+  },
+  {
+    "id": "ko-00399",
+    "language": "korean",
+    "headword": "조용하다",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "静かだ",
+    "example": "이 도서관은 아주 조용하다. — この図書館はとても静かだ。",
+    "dictPos": [
+      "adjective"
+    ],
+    "dictGloss": [
+      "to be silent, quiet, still, calm, empty, sedate",
+      "to be silent, quiet, still, calm, empty, sedate"
+    ],
+    "currentAdoptedSense": "静かだ",
+    "needsFix": true,
+    "cause": "clear_adjective_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "形容詞"
+    ],
+    "reason": "answer『静かだ』(adjective)と辞書単一品詞[adjective]が一致・スキーマ内・現タグ『名詞』は誤り"
+  },
+  {
+    "id": "ko-00401",
+    "language": "korean",
+    "headword": "유명하다",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "有名だ",
+    "example": "이 가수는 아주 유명하다. — この歌手はとても有名だ。",
+    "dictPos": [
+      "adjective"
+    ],
+    "dictGloss": [
+      "to be famous",
+      "to be famous"
+    ],
+    "currentAdoptedSense": "有名だ",
+    "needsFix": true,
+    "cause": "clear_adjective_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "形容詞"
+    ],
+    "reason": "answer『有名だ』(adjective)と辞書単一品詞[adjective]が一致・スキーマ内・現タグ『名詞』は誤り"
+  },
+  {
+    "id": "ko-00402",
+    "language": "korean",
+    "headword": "중요하다",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "重要だ",
+    "example": "건강은 아주 중요하다. — 健康はとても重要だ。",
+    "dictPos": [
+      "adjective"
+    ],
+    "dictGloss": [
+      "to be important",
+      "to be important"
+    ],
+    "currentAdoptedSense": "重要だ",
+    "needsFix": true,
+    "cause": "clear_adjective_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "形容詞"
+    ],
+    "reason": "answer『重要だ』(adjective)と辞書単一品詞[adjective]が一致・スキーマ内・現タグ『名詞』は誤り"
+  },
+  {
+    "id": "ko-00403",
+    "language": "korean",
+    "headword": "필요하다",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "必要だ",
+    "example": "나에게 지금 돈이 필요하다. — 私には今お金が必要だ。",
+    "dictPos": [
+      "adjective"
+    ],
+    "dictGloss": [
+      "to have a need",
+      "to be necessary, to be needed",
+      "to have a need"
+    ],
+    "currentAdoptedSense": "必要だ",
+    "needsFix": true,
+    "cause": "clear_adjective_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "形容詞"
+    ],
+    "reason": "answer『必要だ』(adjective)と辞書単一品詞[adjective]が一致・スキーマ内・現タグ『名詞』は誤り"
+  },
+  {
+    "id": "ko-00404",
+    "language": "korean",
+    "headword": "같다",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "同じだ",
+    "example": "이 두 가방은 색이 같다. — この二つのかばんは色が同じだ。",
+    "dictPos": [
+      "adjective"
+    ],
+    "dictGloss": [
+      "the same",
+      "like or similar (often used with 와 (wa)/과 (gwa))",
+      "like or similar (often used with 와 (wa)/과 (gwa))"
+    ],
+    "currentAdoptedSense": "同じだ",
+    "needsFix": true,
+    "cause": "clear_adjective_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "形容詞"
+    ],
+    "reason": "answer『同じだ』(adjective)と辞書単一品詞[adjective]が一致・スキーマ内・現タグ『名詞』は誤り"
+  },
+  {
+    "id": "ko-00411",
+    "language": "korean",
+    "headword": "피곤하다",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "疲れている",
+    "example": "나는 오늘 아주 피곤하다. — 私は今日とても疲れている。",
+    "dictPos": [
+      "adjective"
+    ],
+    "dictGloss": [
+      "tired",
+      "tired"
+    ],
+    "currentAdoptedSense": "疲れている",
+    "needsFix": true,
+    "cause": "clear_adjective_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "形容詞"
+    ],
+    "reason": "answer『疲れている』(adjective)と辞書単一品詞[adjective]が一致・スキーマ内・現タグ『動詞』は誤り"
+  },
+  {
+    "id": "ko-00412",
+    "language": "korean",
+    "headword": "건강하다",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "健康だ",
+    "example": "우리 할아버지는 아주 건강하다. — 私の祖父はとても健康だ。",
+    "dictPos": [
+      "adjective"
+    ],
+    "dictGloss": [
+      "to be healthy",
+      "to be healthy"
+    ],
+    "currentAdoptedSense": "健康だ",
+    "needsFix": true,
+    "cause": "clear_adjective_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "形容詞"
+    ],
+    "reason": "answer『健康だ』(adjective)と辞書単一品詞[adjective]が一致・スキーマ内・現タグ『名詞』は誤り"
+  },
+  {
+    "id": "ko-00413",
+    "language": "korean",
+    "headword": "친절하다",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "親切だ",
+    "example": "그 사람은 아주 친절하다. — その人はとても親切だ。",
+    "dictPos": [
+      "adjective"
+    ],
+    "dictGloss": [
+      "to be kind, to be cordial",
+      "to be kind, to be cordial"
+    ],
+    "currentAdoptedSense": "親切だ",
+    "needsFix": true,
+    "cause": "clear_adjective_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "形容詞"
+    ],
+    "reason": "answer『親切だ』(adjective)と辞書単一品詞[adjective]が一致・スキーマ内・現タグ『名詞』は誤り"
+  },
+  {
+    "id": "ko-00419",
+    "language": "korean",
+    "headword": "불편하다",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "不便だ",
+    "example": "이 의자는 아주 불편하다. — この椅子はとても不便だ。",
+    "dictPos": [
+      "adjective"
+    ],
+    "dictGloss": [
+      "to be inconvenient, to be uncomfortable",
+      "to be inconvenient, to be uncomfortable"
+    ],
+    "currentAdoptedSense": "不便だ",
+    "needsFix": true,
+    "cause": "clear_adjective_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "形容詞"
+    ],
+    "reason": "answer『不便だ』(adjective)と辞書単一品詞[adjective]が一致・スキーマ内・現タグ『名詞』は誤り"
+  },
+  {
+    "id": "ko-00420",
+    "language": "korean",
+    "headword": "편리하다",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "便利だ",
+    "example": "이 도시는 교통이 편리하다. — この都市は交通が便利だ。",
+    "dictPos": [
+      "adjective"
+    ],
+    "dictGloss": [
+      "convenient and useful",
+      "convenient and useful"
+    ],
+    "currentAdoptedSense": "便利だ",
+    "needsFix": true,
+    "cause": "clear_adjective_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "形容詞"
+    ],
+    "reason": "answer『便利だ』(adjective)と辞書単一品詞[adjective]が一致・スキーマ内・現タグ『名詞』は誤り"
+  },
+  {
+    "id": "ko-00421",
+    "language": "korean",
+    "headword": "안전하다",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "安全だ",
+    "example": "이 길은 아주 안전하다. — この道はとても安全だ。",
+    "dictPos": [
+      "adjective"
+    ],
+    "dictGloss": [
+      "to be safe",
+      "to be safe"
+    ],
+    "currentAdoptedSense": "安全だ",
+    "needsFix": true,
+    "cause": "clear_adjective_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "形容詞"
+    ],
+    "reason": "answer『安全だ』(adjective)と辞書単一品詞[adjective]が一致・スキーマ内・現タグ『名詞』は誤り"
+  },
+  {
+    "id": "ko-00422",
+    "language": "korean",
+    "headword": "위험하다",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "危険だ",
+    "example": "이 길은 아주 위험하다. — この道はとても危険だ。",
+    "dictPos": [
+      "adjective"
+    ],
+    "dictGloss": [
+      "dangerous",
+      "dangerous"
+    ],
+    "currentAdoptedSense": "危険だ",
+    "needsFix": true,
+    "cause": "clear_adjective_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "形容詞"
+    ],
+    "reason": "answer『危険だ』(adjective)と辞書単一品詞[adjective]が一致・スキーマ内・現タグ『名詞』は誤り"
+  },
+  {
+    "id": "ko-00423",
+    "language": "korean",
+    "headword": "복잡하다",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "複雑だ",
+    "example": "이 문제는 아주 복잡하다. — この問題はとても複雑だ。",
+    "dictPos": [
+      "adjective"
+    ],
+    "dictGloss": [
+      "to be complicated",
+      "to be crowded, to be busy, to be congested",
+      "to be complicated"
+    ],
+    "currentAdoptedSense": "複雑だ",
+    "needsFix": true,
+    "cause": "clear_adjective_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "形容詞"
+    ],
+    "reason": "answer『複雑だ』(adjective)と辞書単一品詞[adjective]が一致・スキーマ内・現タグ『名詞』は誤り"
+  },
+  {
+    "id": "ko-00424",
+    "language": "korean",
+    "headword": "맑다",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "晴れている",
+    "example": "오늘은 하늘이 아주 맑다. — 今日は空がとても晴れている。",
+    "dictPos": [
+      "adjective"
+    ],
+    "dictGloss": [
+      "to be clear, clean, fresh, pure, limpid, transparent",
+      "to be clear, fine, sunny",
+      "to be clear, cheerful"
+    ],
+    "currentAdoptedSense": "晴れている",
+    "needsFix": true,
+    "cause": "clear_adjective_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "形容詞"
+    ],
+    "reason": "answer『晴れている』(adjective)と辞書単一品詞[adjective]が一致・スキーマ内・現タグ『動詞』は誤り"
+  },
+  {
+    "id": "ko-00425",
+    "language": "korean",
+    "headword": "흐리다",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "曇っている",
+    "example": "오늘은 하늘이 좀 흐리다. — 今日は空が少し曇っている。",
+    "dictPos": [
+      "adjective"
+    ],
+    "dictGloss": [
+      "to be unclear, impure, turbid, muddy",
+      "to be cloudy, overcast",
+      "to be dull, unclear"
+    ],
+    "currentAdoptedSense": "曇っている",
+    "needsFix": true,
+    "cause": "clear_adjective_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "形容詞"
+    ],
+    "reason": "answer『曇っている』(adjective)と辞書単一品詞[adjective]が一致・スキーマ内・現タグ『動詞』は誤り"
+  },
+  {
+    "id": "ko-00439",
+    "language": "korean",
+    "headword": "곧",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "まもなく",
+    "example": "기차가 곧 도착한다. — 汽車がまもなく到着する。",
+    "dictPos": [
+      "adverb"
+    ],
+    "dictGloss": [
+      "soon, at once, immediately, shortly, straightway",
+      "easily, readily",
+      "namely, that is, i.e., viz."
+    ],
+    "currentAdoptedSense": "まもなく",
+    "needsFix": true,
+    "cause": "clear_other_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "副詞"
+    ],
+    "reason": "answer『まもなく』(adverb)と辞書単一品詞[adverb]が一致・スキーマ内・現タグ『動詞』は誤り"
+  },
+  {
+    "id": "ko-00444",
+    "language": "korean",
+    "headword": "혼자",
+    "currentTags": [
+      "副詞"
+    ],
+    "answer": "一人で",
+    "example": "나는 혼자 여행을 간다. — 私は一人で旅行に行く。",
+    "dictPos": [
+      "noun"
+    ],
+    "dictGloss": [
+      "solitude",
+      "alone, (all) by oneself, (all) on one's own"
+    ],
+    "currentAdoptedSense": "一人で",
+    "needsFix": true,
+    "cause": "clear_noun_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "名詞"
+    ],
+    "reason": "answer『一人で』(noun)と辞書単一品詞[noun]が一致・スキーマ内・現タグ『副詞』は誤り"
+  },
+  {
+    "id": "ko-00726",
+    "language": "korean",
+    "headword": "비슷하다",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "似ている",
+    "example": "이 두 가방은 아주 비슷하다. — この二つのかばんはとても似ている。",
+    "dictPos": [
+      "adjective"
+    ],
+    "dictGloss": [
+      "to be similar (but not identical)",
+      "to be similar (but not identical)"
+    ],
+    "currentAdoptedSense": "似ている",
+    "needsFix": true,
+    "cause": "clear_adjective_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "形容詞"
+    ],
+    "reason": "answer『似ている』(adjective)と辞書単一品詞[adjective]が一致・スキーマ内・現タグ『動詞』は誤り"
+  },
+  {
+    "id": "ko-00727",
+    "language": "korean",
+    "headword": "익숙하다",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "慣れている",
+    "example": "나는 이 길에 아주 익숙하다. — 私はこの道にとても慣れている。",
+    "dictPos": [
+      "adjective"
+    ],
+    "dictGloss": [
+      "skilled",
+      "familiar",
+      "skilled"
+    ],
+    "currentAdoptedSense": "慣れている",
+    "needsFix": true,
+    "cause": "clear_adjective_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "形容詞"
+    ],
+    "reason": "answer『慣れている』(adjective)と辞書単一品詞[adjective]が一致・スキーマ内・現タグ『動詞』は誤り"
+  },
+  {
+    "id": "ko-00728",
+    "language": "korean",
+    "headword": "특별하다",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "特別だ",
+    "example": "오늘은 아주 특별한 날이다. — 今日はとても特別な日だ。",
+    "dictPos": [
+      "adjective"
+    ],
+    "dictGloss": [
+      "to be special or exceptional",
+      "to be special or exceptional"
+    ],
+    "currentAdoptedSense": "特別だ",
+    "needsFix": true,
+    "cause": "clear_adjective_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "形容詞"
+    ],
+    "reason": "answer『特別だ』(adjective)と辞書単一品詞[adjective]が一致・スキーマ内・現タグ『名詞』は誤り"
+  },
+  {
+    "id": "ko-00729",
+    "language": "korean",
+    "headword": "이상하다",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "変だ",
+    "example": "이 음식은 맛이 좀 이상하다. — この料理は味が少し変だ。",
+    "dictPos": [
+      "adjective"
+    ],
+    "dictGloss": [
+      "to be strange, to be unusual",
+      "to be strange, to be unusual"
+    ],
+    "currentAdoptedSense": "変だ",
+    "needsFix": true,
+    "cause": "clear_adjective_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "形容詞"
+    ],
+    "reason": "answer『変だ』(adjective)と辞書単一品詞[adjective]が一致・スキーマ内・現タグ『名詞』は誤り"
+  },
+  {
+    "id": "ko-00730",
+    "language": "korean",
+    "headword": "신기하다",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "不思議だ",
+    "example": "이 기술은 아주 신기하다. — この技術はとても不思議だ。",
+    "dictPos": [
+      "adjective"
+    ],
+    "dictGloss": [
+      "to be strange and amazing; to be mysterious, to be wondrous",
+      "to be strange and amazing; to be mysterious, to be wondrous",
+      "to be novel; to be new and interesting"
+    ],
+    "currentAdoptedSense": "不思議だ",
+    "needsFix": true,
+    "cause": "clear_adjective_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "形容詞"
+    ],
+    "reason": "answer『不思議だ』(adjective)と辞書単一品詞[adjective]が一致・スキーマ内・現タグ『名詞』は誤り"
+  },
+  {
+    "id": "ko-00736",
+    "language": "korean",
+    "headword": "지루하다",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "退屈だ",
+    "example": "이 수업은 아주 지루하다. — この授業はとても退屈だ。",
+    "dictPos": [
+      "adjective"
+    ],
+    "dictGloss": [
+      "to be boring, tedious, dull",
+      "to be boring, tedious, dull"
+    ],
+    "currentAdoptedSense": "退屈だ",
+    "needsFix": true,
+    "cause": "clear_adjective_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "形容詞"
+    ],
+    "reason": "answer『退屈だ』(adjective)と辞書単一品詞[adjective]が一致・スキーマ内・現タグ『名詞』は誤り"
+  },
+  {
+    "id": "ko-00738",
+    "language": "korean",
+    "headword": "편하다",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "楽だ",
+    "example": "이 의자는 아주 편하다. — この椅子はとても楽だ。",
+    "dictPos": [
+      "adjective"
+    ],
+    "dictGloss": [
+      "easygoing; comfortable",
+      "convenient",
+      "easygoing; comfortable"
+    ],
+    "currentAdoptedSense": "楽だ",
+    "needsFix": true,
+    "cause": "clear_adjective_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "形容詞"
+    ],
+    "reason": "answer『楽だ』(adjective)と辞書単一品詞[adjective]が一致・スキーマ内・現タグ『名詞』は誤り"
+  },
+  {
+    "id": "ko-00739",
+    "language": "korean",
+    "headword": "힘들다",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "大変だ",
+    "example": "오늘 일이 아주 힘들다. — 今日の仕事はとても大変だ。",
+    "dictPos": [
+      "adjective"
+    ],
+    "dictGloss": [
+      "difficult",
+      "tired",
+      "difficult"
+    ],
+    "currentAdoptedSense": "大変だ",
+    "needsFix": true,
+    "cause": "clear_adjective_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "形容詞"
+    ],
+    "reason": "answer『大変だ』(adjective)と辞書単一品詞[adjective]が一致・スキーマ内・現タグ『名詞』は誤り"
+  },
+  {
+    "id": "ko-00740",
+    "language": "korean",
+    "headword": "부지런하다",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "勤勉だ",
+    "example": "그는 아주 부지런하다. — 彼はとても勤勉だ。",
+    "dictPos": [
+      "adjective"
+    ],
+    "dictGloss": [
+      "to be hard-working, to be industrious",
+      "to be hard-working, to be industrious"
+    ],
+    "currentAdoptedSense": "勤勉だ",
+    "needsFix": true,
+    "cause": "clear_adjective_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "形容詞"
+    ],
+    "reason": "answer『勤勉だ』(adjective)と辞書単一品詞[adjective]が一致・スキーマ内・現タグ『名詞』は誤り"
+  },
+  {
+    "id": "ko-00751",
+    "language": "korean",
+    "headword": "뚱뚱하다",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "太っている",
+    "example": "그 고양이는 좀 뚱뚱하다. — その猫は少し太っている。",
+    "dictPos": [
+      "adjective"
+    ],
+    "dictGloss": [
+      "fat",
+      "fat"
+    ],
+    "currentAdoptedSense": "太っている",
+    "needsFix": true,
+    "cause": "clear_adjective_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "形容詞"
+    ],
+    "reason": "answer『太っている』(adjective)と辞書単一品詞[adjective]が一致・スキーマ内・現タグ『動詞』は誤り"
+  },
+  {
+    "id": "ko-00752",
+    "language": "korean",
+    "headword": "배고프다",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "お腹がすいている",
+    "example": "나는 지금 아주 배고프다. — 私は今とてもお腹がすいている。",
+    "dictPos": [
+      "adjective"
+    ],
+    "dictGloss": [
+      "to be hungry",
+      "to be hungry"
+    ],
+    "currentAdoptedSense": "お腹がすいている",
+    "needsFix": true,
+    "cause": "clear_adjective_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "形容詞"
+    ],
+    "reason": "answer『お腹がすいている』(adjective)と辞書単一品詞[adjective]が一致・スキーマ内・現タグ『動詞』は誤り"
+  },
+  {
+    "id": "ko-00753",
+    "language": "korean",
+    "headword": "배부르다",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "お腹がいっぱいだ",
+    "example": "많이 먹어서 아주 배부르다. — たくさん食べてとてもお腹がいっぱいだ。",
+    "dictPos": [
+      "adjective"
+    ],
+    "dictGloss": [
+      "to be full (satisfied, in relation to eating)",
+      "to be full (satisfied, in relation to eating)"
+    ],
+    "currentAdoptedSense": "お腹がいっぱいだ",
+    "needsFix": true,
+    "cause": "clear_adjective_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "形容詞"
+    ],
+    "reason": "answer『お腹がいっぱいだ』(adjective)と辞書単一品詞[adjective]が一致・スキーマ内・現タグ『名詞』は誤り"
+  },
+  {
+    "id": "ko-00754",
+    "language": "korean",
+    "headword": "목마르다",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "喉が渇いている",
+    "example": "운동을 해서 목마르다. — 運動をして喉が渇いている。",
+    "dictPos": [
+      "adjective"
+    ],
+    "dictGloss": [
+      "thirsty",
+      "thirsty"
+    ],
+    "currentAdoptedSense": "喉が渇いている",
+    "needsFix": true,
+    "cause": "clear_adjective_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "形容詞"
+    ],
+    "reason": "answer『喉が渇いている』(adjective)と辞書単一品詞[adjective]が一致・スキーマ内・現タグ『動詞』は誤り"
+  },
+  {
+    "id": "ko-00757",
+    "language": "korean",
+    "headword": "심각하다",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "深刻だ",
+    "example": "이 문제는 아주 심각하다. — この問題はとても深刻だ。",
+    "dictPos": [
+      "adjective"
+    ],
+    "dictGloss": [
+      "to be severe, profound",
+      "to be serious, grave",
+      "to be severe, profound"
+    ],
+    "currentAdoptedSense": "深刻だ",
+    "needsFix": true,
+    "cause": "clear_adjective_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "形容詞"
+    ],
+    "reason": "answer『深刻だ』(adjective)と辞書単一品詞[adjective]が一致・スキーマ内・現タグ『名詞』は誤り"
+  },
+  {
+    "id": "ko-00758",
+    "language": "korean",
+    "headword": "확실하다",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "確実だ",
+    "example": "그의 대답은 아주 확실하다. — 彼の答えはとても確実だ。",
+    "dictPos": [
+      "adjective"
+    ],
+    "dictGloss": [
+      "to be certain or definite",
+      "to be certain or definite"
+    ],
+    "currentAdoptedSense": "確実だ",
+    "needsFix": true,
+    "cause": "clear_adjective_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "形容詞"
+    ],
+    "reason": "answer『確実だ』(adjective)と辞書単一品詞[adjective]が一致・スキーマ内・現タグ『名詞』は誤り"
+  },
+  {
+    "id": "ko-00759",
+    "language": "korean",
+    "headword": "분명하다",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "明らかだ",
+    "example": "그의 생각은 아주 분명하다. — 彼の考えはとても明らかだ。",
+    "dictPos": [
+      "adjective"
+    ],
+    "dictGloss": [
+      "to be obvious, clear, without doubt",
+      "to be obvious, clear, without doubt"
+    ],
+    "currentAdoptedSense": "明らかだ",
+    "needsFix": true,
+    "cause": "clear_adjective_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "形容詞"
+    ],
+    "reason": "answer『明らかだ』(adjective)と辞書単一品詞[adjective]が一致・スキーマ内・現タグ『名詞』は誤り"
+  },
+  {
+    "id": "ko-00760",
+    "language": "korean",
+    "headword": "정확하다",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "正確だ",
+    "example": "그의 발음은 아주 정확하다. — 彼の発音はとても正確だ。",
+    "dictPos": [
+      "adjective"
+    ],
+    "dictGloss": [
+      "to be accurate, to be exact",
+      "to be accurate, to be exact"
+    ],
+    "currentAdoptedSense": "正確だ",
+    "needsFix": true,
+    "cause": "clear_adjective_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "形容詞"
+    ],
+    "reason": "answer『正確だ』(adjective)と辞書単一品詞[adjective]が一致・スキーマ内・現タグ『名詞』は誤り"
+  },
+  {
+    "id": "ko-00761",
+    "language": "korean",
+    "headword": "충분하다",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "十分だ",
+    "example": "시간은 아직 충분하다. — 時間はまだ十分だ。",
+    "dictPos": [
+      "adjective"
+    ],
+    "dictGloss": [
+      "to be sufficient or adequate",
+      "to be sufficient or adequate"
+    ],
+    "currentAdoptedSense": "十分だ",
+    "needsFix": true,
+    "cause": "clear_adjective_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "形容詞"
+    ],
+    "reason": "answer『十分だ』(adjective)と辞書単一品詞[adjective]が一致・スキーマ内・現タグ『名詞』は誤り"
+  },
+  {
+    "id": "ko-00763",
+    "language": "korean",
+    "headword": "다양하다",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "多様だ",
+    "example": "이 가게는 물건이 다양하다. — この店は品物が多様だ。",
+    "dictPos": [
+      "adjective"
+    ],
+    "dictGloss": [
+      "to be diverse, to be various",
+      "to be diverse, to be various"
+    ],
+    "currentAdoptedSense": "多様だ",
+    "needsFix": true,
+    "cause": "clear_adjective_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "形容詞"
+    ],
+    "reason": "answer『多様だ』(adjective)と辞書単一品詞[adjective]が一致・スキーマ内・現タグ『名詞』は誤り"
+  },
+  {
+    "id": "ko-00764",
+    "language": "korean",
+    "headword": "자유롭다",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "自由だ",
+    "example": "이곳의 생활은 아주 자유롭다. — ここの生活はとても自由だ。",
+    "dictPos": [
+      "adjective"
+    ],
+    "dictGloss": [
+      "free; unfettered; untrammelled",
+      "free; unfettered; untrammelled"
+    ],
+    "currentAdoptedSense": "自由だ",
+    "needsFix": true,
+    "cause": "clear_adjective_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "形容詞"
+    ],
+    "reason": "answer『自由だ』(adjective)と辞書単一品詞[adjective]が一致・スキーマ内・現タグ『名詞』は誤り"
+  },
+  {
+    "id": "ko-00765",
+    "language": "korean",
+    "headword": "신선하다",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "新鮮だ",
+    "example": "이 채소는 아주 신선하다. — この野菜はとても新鮮だ。",
+    "dictPos": [
+      "adjective"
+    ],
+    "dictGloss": [
+      "to be fresh (in a new or novel way)",
+      "to be fresh (not stale or rotten)",
+      "to be fresh (in a new or novel way)"
+    ],
+    "currentAdoptedSense": "新鮮だ",
+    "needsFix": true,
+    "cause": "clear_adjective_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "形容詞"
+    ],
+    "reason": "answer『新鮮だ』(adjective)と辞書単一品詞[adjective]が一致・スキーマ内・現タグ『名詞』は誤り"
+  },
+  {
+    "id": "ko-00766",
+    "language": "korean",
+    "headword": "자연스럽다",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "自然だ",
+    "example": "그의 한국어는 아주 자연스럽다. — 彼の韓国語はとても自然だ。",
+    "dictPos": [
+      "adjective"
+    ],
+    "dictGloss": [
+      "to be natural, unaffected",
+      "to be natural, unaffected"
+    ],
+    "currentAdoptedSense": "自然だ",
+    "needsFix": true,
+    "cause": "clear_adjective_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "形容詞"
+    ],
+    "reason": "answer『自然だ』(adjective)と辞書単一品詞[adjective]が一致・スキーマ内・現タグ『名詞』は誤り"
+  },
+  {
+    "id": "ko-00767",
+    "language": "korean",
+    "headword": "당연하다",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "当然だ",
+    "example": "그 결과는 아주 당연하다. — その結果はとても当然だ。",
+    "dictPos": [
+      "adjective"
+    ],
+    "dictGloss": [
+      "to be reasonable or natural",
+      "to be reasonable or natural"
+    ],
+    "currentAdoptedSense": "当然だ",
+    "needsFix": true,
+    "cause": "clear_adjective_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "形容詞"
+    ],
+    "reason": "answer『当然だ』(adjective)と辞書単一品詞[adjective]が一致・スキーマ内・現タグ『名詞』は誤り"
+  },
+  {
+    "id": "ko-00768",
+    "language": "korean",
+    "headword": "솔직하다",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "率直だ",
+    "example": "그는 아주 솔직하다. — 彼はとても率直だ。",
+    "dictPos": [
+      "adjective"
+    ],
+    "dictGloss": [
+      "honest, frank, direct",
+      "honest, frank, direct"
+    ],
+    "currentAdoptedSense": "率直だ",
+    "needsFix": true,
+    "cause": "clear_adjective_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "形容詞"
+    ],
+    "reason": "answer『率直だ』(adjective)と辞書単一品詞[adjective]が一致・スキーマ内・現タグ『名詞』は誤り"
+  },
+  {
+    "id": "ko-00769",
+    "language": "korean",
+    "headword": "성실하다",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "誠実だ",
+    "example": "그 직원은 아주 성실하다. — その職員はとても誠実だ。",
+    "dictPos": [
+      "adjective"
+    ],
+    "dictGloss": [
+      "conscientious",
+      "conscientious"
+    ],
+    "currentAdoptedSense": "誠実だ",
+    "needsFix": true,
+    "cause": "clear_adjective_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "形容詞"
+    ],
+    "reason": "answer『誠実だ』(adjective)と辞書単一品詞[adjective]が一致・スキーマ内・現タグ『名詞』は誤り"
+  },
+  {
+    "id": "ko-00770",
+    "language": "korean",
+    "headword": "활발하다",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "活発だ",
+    "example": "그 아이는 아주 활발하다. — その子はとても活発だ。",
+    "dictPos": [
+      "adjective"
+    ],
+    "dictGloss": [
+      "animated, brisk, lively",
+      "animated, brisk, lively"
+    ],
+    "currentAdoptedSense": "活発だ",
+    "needsFix": true,
+    "cause": "clear_adjective_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "形容詞"
+    ],
+    "reason": "answer『活発だ』(adjective)と辞書単一品詞[adjective]が一致・スキーマ内・現タグ『名詞』は誤り"
+  },
+  {
+    "id": "ko-00844",
+    "language": "korean",
+    "headword": "축제",
+    "currentTags": [
+      "副詞"
+    ],
+    "answer": "祭り",
+    "example": "우리 마을은 봄에 축제를 한다. — 私たちの村は春に祭りをする。",
+    "dictPos": [
+      "noun"
+    ],
+    "dictGloss": [
+      "festival"
+    ],
+    "currentAdoptedSense": "祭り",
+    "needsFix": true,
+    "cause": "clear_noun_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "名詞"
+    ],
+    "reason": "answer『祭り』(noun)と辞書単一品詞[noun]が一致・スキーマ内・現タグ『副詞』は誤り"
+  },
+  {
+    "id": "ko-01083",
+    "language": "korean",
+    "headword": "명확하다",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "明確だ",
+    "example": null,
+    "dictPos": [
+      "adjective"
+    ],
+    "dictGloss": [
+      "clear, precise, explicit",
+      "clear, precise, explicit"
+    ],
+    "currentAdoptedSense": "明確だ",
+    "needsFix": true,
+    "cause": "clear_adjective_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "形容詞"
+    ],
+    "reason": "answer『明確だ』(adjective)と辞書単一品詞[adjective]が一致・スキーマ内・現タグ『名詞』は誤り"
+  },
+  {
+    "id": "ko-01084",
+    "language": "korean",
+    "headword": "모호하다",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "曖昧だ",
+    "example": null,
+    "dictPos": [
+      "adjective"
+    ],
+    "dictGloss": [
+      "to be ambiguous, vague (about), equivocal, uncertain, obscure, imprecise",
+      "to be ambiguous, vague (about), equivocal, uncertain, obscure, imprecise"
+    ],
+    "currentAdoptedSense": "曖昧だ",
+    "needsFix": true,
+    "cause": "clear_adjective_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "形容詞"
+    ],
+    "reason": "answer『曖昧だ』(adjective)と辞書単一品詞[adjective]が一致・スキーマ内・現タグ『名詞』は誤り"
+  },
+  {
+    "id": "ko-01085",
+    "language": "korean",
+    "headword": "엄격하다",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "厳格だ",
+    "example": null,
+    "dictPos": [
+      "adjective"
+    ],
+    "dictGloss": [
+      "strict, severe, stern, rigid, rigorous",
+      "strict, severe, stern, rigid, rigorous"
+    ],
+    "currentAdoptedSense": "厳格だ",
+    "needsFix": true,
+    "cause": "clear_adjective_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "形容詞"
+    ],
+    "reason": "answer『厳格だ』(adjective)と辞書単一品詞[adjective]が一致・スキーマ内・現タグ『名詞』は誤り"
+  },
+  {
+    "id": "ko-01086",
+    "language": "korean",
+    "headword": "성급하다",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "せっかちだ",
+    "example": null,
+    "dictPos": [
+      "adjective"
+    ],
+    "dictGloss": [
+      "to be hasty, to be impatient",
+      "to be hasty, to be impatient"
+    ],
+    "currentAdoptedSense": "せっかちだ",
+    "needsFix": true,
+    "cause": "clear_adjective_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "形容詞"
+    ],
+    "reason": "answer『せっかちだ』(adjective)と辞書単一品詞[adjective]が一致・スキーマ内・現タグ『名詞』は誤り"
+  },
+  {
+    "id": "ko-01087",
+    "language": "korean",
+    "headword": "신중하다",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "慎重だ",
+    "example": null,
+    "dictPos": [
+      "adjective"
+    ],
+    "dictGloss": [
+      "careful, prudent, cautious",
+      "careful, prudent, cautious"
+    ],
+    "currentAdoptedSense": "慎重だ",
+    "needsFix": true,
+    "cause": "clear_adjective_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "形容詞"
+    ],
+    "reason": "answer『慎重だ』(adjective)と辞書単一品詞[adjective]が一致・スキーマ内・現タグ『名詞』は誤り"
+  },
+  {
+    "id": "ko-01088",
+    "language": "korean",
+    "headword": "용감하다",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "勇敢だ",
+    "example": null,
+    "dictPos": [
+      "adjective"
+    ],
+    "dictGloss": [
+      "brave, courageous",
+      "brave, courageous"
+    ],
+    "currentAdoptedSense": "勇敢だ",
+    "needsFix": true,
+    "cause": "clear_adjective_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "形容詞"
+    ],
+    "reason": "answer『勇敢だ』(adjective)と辞書単一品詞[adjective]が一致・スキーマ内・現タグ『名詞』は誤り"
+  },
+  {
+    "id": "ko-01089",
+    "language": "korean",
+    "headword": "비겁하다",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "卑怯だ",
+    "example": null,
+    "dictPos": [
+      "adjective"
+    ],
+    "dictGloss": [
+      "cowardly, timid",
+      "cowardly, timid"
+    ],
+    "currentAdoptedSense": "卑怯だ",
+    "needsFix": true,
+    "cause": "clear_adjective_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "形容詞"
+    ],
+    "reason": "answer『卑怯だ』(adjective)と辞書単一品詞[adjective]が一致・スキーマ内・現タグ『名詞』は誤り"
+  },
+  {
+    "id": "ko-01090",
+    "language": "korean",
+    "headword": "겸손하다",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "謙虚だ",
+    "example": null,
+    "dictPos": [
+      "adjective"
+    ],
+    "dictGloss": [
+      "modest, humble",
+      "modest, humble"
+    ],
+    "currentAdoptedSense": "謙虚だ",
+    "needsFix": true,
+    "cause": "clear_adjective_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "形容詞"
+    ],
+    "reason": "answer『謙虚だ』(adjective)と辞書単一品詞[adjective]が一致・スキーマ内・現タグ『名詞』は誤り"
+  },
+  {
+    "id": "ko-01091",
+    "language": "korean",
+    "headword": "거만하다",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "傲慢だ",
+    "example": null,
+    "dictPos": [
+      "adjective"
+    ],
+    "dictGloss": [
+      "to be arrogant, to be haughty, to be overweening",
+      "to be arrogant, to be haughty, to be overweening"
+    ],
+    "currentAdoptedSense": "傲慢だ",
+    "needsFix": true,
+    "cause": "clear_adjective_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "形容詞"
+    ],
+    "reason": "answer『傲慢だ』(adjective)と辞書単一品詞[adjective]が一致・スキーマ内・現タグ『名詞』は誤り"
+  },
+  {
+    "id": "ko-01092",
+    "language": "korean",
+    "headword": "예민하다",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "敏感だ",
+    "example": null,
+    "dictPos": [
+      "adjective"
+    ],
+    "dictGloss": [
+      "to be acute, sensitive",
+      "to be acute, sensitive"
+    ],
+    "currentAdoptedSense": "敏感だ",
+    "needsFix": true,
+    "cause": "clear_adjective_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "形容詞"
+    ],
+    "reason": "answer『敏感だ』(adjective)と辞書単一品詞[adjective]が一致・スキーマ内・現タグ『名詞』は誤り"
+  },
+  {
+    "id": "ko-01095",
+    "language": "korean",
+    "headword": "현명하다",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "賢明だ",
+    "example": null,
+    "dictPos": [
+      "adjective"
+    ],
+    "dictGloss": [
+      "wise; sagacious; long-headed",
+      "wise; sagacious; long-headed"
+    ],
+    "currentAdoptedSense": "賢明だ",
+    "needsFix": true,
+    "cause": "clear_adjective_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "形容詞"
+    ],
+    "reason": "answer『賢明だ』(adjective)と辞書単一品詞[adjective]が一致・スキーマ内・現タグ『名詞』は誤り"
+  },
+  {
+    "id": "ko-01096",
+    "language": "korean",
+    "headword": "어리석다",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "愚かだ",
+    "example": null,
+    "dictPos": [
+      "adjective"
+    ],
+    "dictGloss": [
+      "stupid, foolish",
+      "stupid, foolish"
+    ],
+    "currentAdoptedSense": "愚かだ",
+    "needsFix": true,
+    "cause": "clear_adjective_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "形容詞"
+    ],
+    "reason": "answer『愚かだ』(adjective)と辞書単一品詞[adjective]が一致・スキーマ内・現タグ『名詞』は誤り"
+  },
+  {
+    "id": "ko-01097",
+    "language": "korean",
+    "headword": "게으르다",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "怠けている",
+    "example": null,
+    "dictPos": [
+      "adjective"
+    ],
+    "dictGloss": [
+      "to be lazy, to be idle",
+      "to be lazy, to be idle"
+    ],
+    "currentAdoptedSense": "怠けている",
+    "needsFix": true,
+    "cause": "clear_adjective_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "形容詞"
+    ],
+    "reason": "answer『怠けている』(adjective)と辞書単一品詞[adjective]が一致・スキーマ内・現タグ『動詞』は誤り"
+  },
+  {
+    "id": "ko-01110",
+    "language": "korean",
+    "headword": "신입",
+    "currentTags": [
+      "副詞"
+    ],
+    "answer": "新入り",
+    "example": null,
+    "dictPos": [
+      "noun"
+    ],
+    "dictGloss": [
+      "newcomer, new recruit",
+      "application"
+    ],
+    "currentAdoptedSense": "新入り",
+    "needsFix": true,
+    "cause": "clear_noun_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "名詞"
+    ],
+    "reason": "answer『新入り』(noun)と辞書単一品詞[noun]が一致・スキーマ内・現タグ『副詞』は誤り"
+  },
+  {
+    "id": "ko-01360",
+    "language": "korean",
+    "headword": "분노",
+    "currentTags": [
+      "副詞"
+    ],
+    "answer": "怒り",
+    "example": null,
+    "dictPos": [
+      "noun"
+    ],
+    "dictGloss": [
+      "rage, anger, indignation"
+    ],
+    "currentAdoptedSense": "怒り",
+    "needsFix": true,
+    "cause": "clear_noun_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "名詞"
+    ],
+    "reason": "answer『怒り』(noun)と辞書単一品詞[noun]が一致・スキーマ内・現タグ『副詞』は誤り"
+  },
+  {
+    "id": "ko-01364",
+    "language": "korean",
+    "headword": "여유",
+    "currentTags": [
+      "副詞"
+    ],
+    "answer": "ゆとり",
+    "example": null,
+    "dictPos": [
+      "noun"
+    ],
+    "dictGloss": [
+      "leeway; remainder; extra time or space",
+      "composure"
+    ],
+    "currentAdoptedSense": "ゆとり",
+    "needsFix": true,
+    "cause": "clear_noun_tag_error",
+    "category": "safe",
+    "confidence": 0.99,
+    "suggestedTag": [
+      "名詞"
+    ],
+    "reason": "answer『ゆとり』(noun)と辞書単一品詞[noun]が一致・スキーマ内・現タグ『副詞』は誤り"
+  }
+]

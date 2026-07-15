@@ -1,0 +1,5243 @@
+{
+  "appliedCount": 291,
+  "applied": [
+    {
+      "id": "en-00110",
+      "language": "en",
+      "headword": "really",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "本当に",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『本当に』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-00132",
+      "language": "en",
+      "headword": "too",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "もまた",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『もまた』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-00175",
+      "language": "en",
+      "headword": "never",
+      "field": "tags",
+      "before": [
+        "形容詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "決して〜ない",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『決して〜ない』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-00188",
+      "language": "en",
+      "headword": "again",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "再び",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『再び』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-00203",
+      "language": "en",
+      "headword": "always",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "いつも",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『いつも』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-00205",
+      "language": "en",
+      "headword": "however",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "しかし",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『しかし』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-00250",
+      "language": "en",
+      "headword": "though",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "にもかかわらず",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『にもかかわらず』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-00271",
+      "language": "en",
+      "headword": "actually",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "実際に",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『実際に』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-00289",
+      "language": "en",
+      "headword": "quite",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "かなり",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『かなり』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-00305",
+      "language": "en",
+      "headword": "soon",
+      "field": "tags",
+      "before": [
+        "動詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "間もなく",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『間もなく』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-00309",
+      "language": "en",
+      "headword": "often",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "しばしば",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『しばしば』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-00315",
+      "language": "en",
+      "headword": "rather",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "むしろ",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『むしろ』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-00331",
+      "language": "en",
+      "headword": "ever",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "かつて",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『かつて』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-00338",
+      "language": "en",
+      "headword": "yet",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "まだ",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『まだ』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-00339",
+      "language": "en",
+      "headword": "almost",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "ほとんど",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『ほとんど』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-00341",
+      "language": "en",
+      "headword": "already",
+      "field": "tags",
+      "before": [
+        "動詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "もう",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『もう』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-00343",
+      "language": "en",
+      "headword": "probably",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "たぶん",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『たぶん』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-00425",
+      "language": "en",
+      "headword": "along",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "に沿って",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『に沿って』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-00438",
+      "language": "en",
+      "headword": "perhaps",
+      "field": "tags",
+      "before": [
+        "動詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "おそらく",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『おそらく』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-00450",
+      "language": "en",
+      "headword": "maybe",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "たぶん",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『たぶん』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-00497",
+      "language": "en",
+      "headword": "especially",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "特に",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『特に』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-00534",
+      "language": "en",
+      "headword": "therefore",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "それゆえ",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『それゆえ』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-00535",
+      "language": "en",
+      "headword": "finally",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "最後に",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『最後に』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-00570",
+      "language": "en",
+      "headword": "certainly",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "確かに",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『確かに』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-00593",
+      "language": "en",
+      "headword": "usually",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "普通は",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『普通は』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-00642",
+      "language": "en",
+      "headword": "particularly",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "特に",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『特に』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-00681",
+      "language": "en",
+      "headword": "simply",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "簡単に",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『簡単に』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-00682",
+      "language": "en",
+      "headword": "recently",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "最近",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『最近』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-00701",
+      "language": "en",
+      "headword": "exactly",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "正確に",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『正確に』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-00752",
+      "language": "en",
+      "headword": "indeed",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "実に",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『実に』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-00810",
+      "language": "en",
+      "headword": "clearly",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "はっきりと",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『はっきりと』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-00836",
+      "language": "en",
+      "headword": "nearly",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "ほとんど",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『ほとんど』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-00846",
+      "language": "en",
+      "headword": "quickly",
+      "field": "tags",
+      "before": [
+        "動詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "速く",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『速く』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-00858",
+      "language": "en",
+      "headword": "generally",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "普通は",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『普通は』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-00873",
+      "language": "en",
+      "headword": "beyond",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "越えて",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『越えて』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-00906",
+      "language": "en",
+      "headword": "obviously",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "明らかに",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『明らかに』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-00932",
+      "language": "en",
+      "headword": "throughout",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "至る所に",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『至る所に』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-00951",
+      "language": "en",
+      "headword": "suddenly",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "突然",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『突然』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-01011",
+      "language": "en",
+      "headword": "easily",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "容易に",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『容易に』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-01028",
+      "language": "en",
+      "headword": "completely",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "完全に",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『完全に』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-01035",
+      "language": "en",
+      "headword": "absolutely",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "絶対的に",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『絶対的に』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-01059",
+      "language": "en",
+      "headword": "immediately",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "ただちに",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『ただちに』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-01093",
+      "language": "en",
+      "headword": "directly",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "直接に",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『直接に』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-01101",
+      "language": "en",
+      "headword": "highly",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "非常に",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『非常に』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-01141",
+      "language": "en",
+      "headword": "moreover",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "そのうえ",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『そのうえ』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-01173",
+      "language": "en",
+      "headword": "slightly",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "わずかに",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『わずかに』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-01240",
+      "language": "en",
+      "headword": "fully",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "十分に",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『十分に』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-01271",
+      "language": "en",
+      "headword": "currently",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "現在は",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『現在は』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-01276",
+      "language": "en",
+      "headword": "basically",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "基本的に",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『基本的に』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-01302",
+      "language": "en",
+      "headword": "unfortunately",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "残念ながら",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『残念ながら』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-01314",
+      "language": "en",
+      "headword": "relatively",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "比較的",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『比較的』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-01359",
+      "language": "en",
+      "headword": "extremely",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "極端に",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『極端に』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-01362",
+      "language": "en",
+      "headword": "apparently",
+      "field": "tags",
+      "before": [
+        "形容詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "どうやら〜らしい",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『どうやら〜らしい』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-01372",
+      "language": "en",
+      "headword": "hardly",
+      "field": "tags",
+      "before": [
+        "形容詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "ほとんど〜ない",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『ほとんど〜ない』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-01392",
+      "language": "en",
+      "headword": "mostly",
+      "field": "tags",
+      "before": [
+        "形容詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "たいてい",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『たいてい』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-01403",
+      "language": "en",
+      "headword": "furthermore",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "さらに",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『さらに』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-01458",
+      "language": "en",
+      "headword": "carefully",
+      "field": "tags",
+      "before": [
+        "動詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "注意深く",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『注意深く』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-01460",
+      "language": "en",
+      "headword": "possibly",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "ひょっとしたら",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『ひょっとしたら』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-01466",
+      "language": "en",
+      "headword": "slowly",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "ゆっくり",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『ゆっくり』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-01486",
+      "language": "en",
+      "headword": "mainly",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "おもに",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『おもに』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-01489",
+      "language": "en",
+      "headword": "totally",
+      "field": "tags",
+      "before": [
+        "動詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "全く",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『全く』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-01493",
+      "language": "en",
+      "headword": "significantly",
+      "field": "tags",
+      "before": [
+        "動詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "著しく",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『著しく』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-01503",
+      "language": "en",
+      "headword": "normally",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "通常は",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『通常は』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-01517",
+      "language": "en",
+      "headword": "previously",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "以前に",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『以前に』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-01546",
+      "language": "en",
+      "headword": "largely",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "主として",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『主として』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-01565",
+      "language": "en",
+      "headword": "fairly",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "かなり",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『かなり』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-01579",
+      "language": "en",
+      "headword": "definitely",
+      "field": "tags",
+      "before": [
+        "動詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "間違いなく",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『間違いなく』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-01582",
+      "language": "en",
+      "headword": "necessarily",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "必ず",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『必ず』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-01592",
+      "language": "en",
+      "headword": "nevertheless",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "それでもやはり",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『それでもやはり』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-01620",
+      "language": "en",
+      "headword": "strongly",
+      "field": "tags",
+      "before": [
+        "動詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "強く",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『強く』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-01630",
+      "language": "en",
+      "headword": "entirely",
+      "field": "tags",
+      "before": [
+        "動詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "全く",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『全く』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-01637",
+      "language": "en",
+      "headword": "increasingly",
+      "field": "tags",
+      "before": [
+        "動詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "ますます",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『ますます』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-01645",
+      "language": "en",
+      "headword": "respectively",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "それぞれに",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『それぞれに』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-01653",
+      "language": "en",
+      "headword": "faithfully",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "忠実に",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『忠実に』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-01672",
+      "language": "en",
+      "headword": "secondly",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "第二に",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『第二に』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-01696",
+      "language": "en",
+      "headword": "specifically",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "具体的に",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『具体的に』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-01715",
+      "language": "en",
+      "headword": "seriously",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "真剣に",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『真剣に』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-01723",
+      "language": "en",
+      "headword": "somehow",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "どうにかして",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『どうにかして』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-01733",
+      "language": "en",
+      "headword": "surely",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "確かに",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『確かに』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-01737",
+      "language": "en",
+      "headword": "frequently",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "しばしば",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『しばしば』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-01755",
+      "language": "en",
+      "headword": "anywhere",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "どこでも",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『どこでも』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-01777",
+      "language": "en",
+      "headword": "widely",
+      "field": "tags",
+      "before": [
+        "動詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "広く",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『広く』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-01788",
+      "language": "en",
+      "headword": "approximately",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "おおよそ",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『おおよそ』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-01791",
+      "language": "en",
+      "headword": "somewhat",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "幾分か",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『幾分か』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-01817",
+      "language": "en",
+      "headword": "merely",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "単に",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『単に』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-01833",
+      "language": "en",
+      "headword": "firstly",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "第一に",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『第一に』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-01838",
+      "language": "en",
+      "headword": "closely",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "綿密に，密接に",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『綿密に，密接に』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-01839",
+      "language": "en",
+      "headword": "equally",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "平等に",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『平等に』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-01852",
+      "language": "en",
+      "headword": "properly",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "適切に",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『適切に』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-01859",
+      "language": "en",
+      "headword": "primarily",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "主に",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『主に』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-01864",
+      "language": "en",
+      "headword": "everywhere",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "至る所に",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『至る所に』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-01936",
+      "language": "en",
+      "headword": "elsewhere",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "どこかよそに",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『どこかよそに』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-01940",
+      "language": "en",
+      "headword": "forth",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "前へ",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『前へ』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-01959",
+      "language": "en",
+      "headword": "hence",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "それゆえに",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『それゆえに』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-01963",
+      "language": "en",
+      "headword": "typically",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "典型的に",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『典型的に』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-01978",
+      "language": "en",
+      "headword": "truly",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "本当に",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『本当に』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-02021",
+      "language": "en",
+      "headword": "originally",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "もとは",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『もとは』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-02022",
+      "language": "en",
+      "headword": "perfectly",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "完全に",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『完全に』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-02035",
+      "language": "en",
+      "headword": "personally",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "個人的に",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『個人的に』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-02057",
+      "language": "en",
+      "headword": "partly",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "部分的に",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『部分的に』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-02088",
+      "language": "en",
+      "headword": "rapidly",
+      "field": "tags",
+      "before": [
+        "動詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "速く",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『速く』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-02092",
+      "language": "en",
+      "headword": "ultimately",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "最終的に，結局",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『最終的に，結局』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-02104",
+      "language": "en",
+      "headword": "similarly",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "同様に",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『同様に』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-02142",
+      "language": "en",
+      "headword": "deeply",
+      "field": "tags",
+      "before": [
+        "動詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "深く",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『深く』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-02166",
+      "language": "en",
+      "headword": "virtually",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "事実上",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『事実上』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-02228",
+      "language": "en",
+      "headword": "heavily",
+      "field": "tags",
+      "before": [
+        "動詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "重く",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『重く』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-02235",
+      "language": "en",
+      "headword": "rarely",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "めったに",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『めったに』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-02274",
+      "language": "en",
+      "headword": "naturally",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "自然に",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『自然に』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-02303",
+      "language": "en",
+      "headword": "gradually",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "徐々に",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『徐々に』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-02312",
+      "language": "en",
+      "headword": "badly",
+      "field": "tags",
+      "before": [
+        "動詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "悪く",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『悪く』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-02324",
+      "language": "en",
+      "headword": "constantly",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "絶えず",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『絶えず』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-02357",
+      "language": "en",
+      "headword": "occasionally",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "たまに",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『たまに』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-02362",
+      "language": "en",
+      "headword": "newly",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "最近",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『最近』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-02369",
+      "language": "en",
+      "headword": "briefly",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "手短に",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『手短に』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-02371",
+      "language": "en",
+      "headword": "regularly",
+      "field": "tags",
+      "before": [
+        "動詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "規則正しく",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『規則正しく』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-02456",
+      "language": "en",
+      "headword": "quietly",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "静かに",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『静かに』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-02466",
+      "language": "en",
+      "headword": "precisely",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "正確に",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『正確に』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-02488",
+      "language": "en",
+      "headword": "consequently",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "その結果として",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『その結果として』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-02518",
+      "language": "en",
+      "headword": "greatly",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "大いに",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『大いに』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-02523",
+      "language": "en",
+      "headword": "successfully",
+      "field": "tags",
+      "before": [
+        "動詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "首尾よく",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『首尾よく』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-02543",
+      "language": "en",
+      "headword": "automatically",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "自動的に",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『自動的に』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-02560",
+      "language": "en",
+      "headword": "literally",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "文字通り",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『文字通り』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-02582",
+      "language": "en",
+      "headword": "roughly",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "およそ",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『およそ』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-02611",
+      "language": "en",
+      "headword": "potentially",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "潜在的に",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『潜在的に』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-02614",
+      "language": "en",
+      "headword": "gently",
+      "field": "tags",
+      "before": [
+        "動詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "優しく",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『優しく』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-02635",
+      "language": "en",
+      "headword": "forever",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "永久に",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『永久に』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-02640",
+      "language": "en",
+      "headword": "dramatically",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "劇的に",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『劇的に』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-02668",
+      "language": "en",
+      "headword": "barely",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "かろうじて",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『かろうじて』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-02670",
+      "language": "en",
+      "headword": "firmly",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "しっかりと",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『しっかりと』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-02673",
+      "language": "en",
+      "headword": "hopefully",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "うまくいけば",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『うまくいけば』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-02683",
+      "language": "en",
+      "headword": "presumably",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "たぶん",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『たぶん』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-02713",
+      "language": "en",
+      "headword": "surprisingly",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "驚くほどに",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『驚くほどに』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-02726",
+      "language": "en",
+      "headword": "reasonably",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "かなり，合理的に",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『かなり，合理的に』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-02771",
+      "language": "en",
+      "headword": "differently",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "異なって",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『異なって』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-02797",
+      "language": "en",
+      "headword": "wherever",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "する所はどこでも",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『する所はどこでも』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-02809",
+      "language": "en",
+      "headword": "alongside",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "そばに",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『そばに』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-05432",
+      "language": "en",
+      "headword": "correctly",
+      "field": "tags",
+      "before": [
+        "動詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "正しく",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『正しく』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-05656",
+      "language": "en",
+      "headword": "herein",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "この場所に",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『この場所に』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-05833",
+      "language": "en",
+      "headword": "commonly",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "一般に",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『一般に』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-06113",
+      "language": "en",
+      "headword": "instantly",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "すぐに",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『すぐに』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-06258",
+      "language": "en",
+      "headword": "thereof",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "それについて",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『それについて』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-06286",
+      "language": "en",
+      "headword": "formerly",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "以前は",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『以前は』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-06294",
+      "language": "en",
+      "headword": "strictly",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "厳密に",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『厳密に』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-06318",
+      "language": "en",
+      "headword": "solely",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "もっぱら",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『もっぱら』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-06536",
+      "language": "en",
+      "headword": "annually",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "毎年",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『毎年』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-06559",
+      "language": "en",
+      "headword": "essentially",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "本質的に",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『本質的に』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-06616",
+      "language": "en",
+      "headword": "locally",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "地方的に",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『地方的に』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-06691",
+      "language": "en",
+      "headword": "separately",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "別々に",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『別々に』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-06806",
+      "language": "en",
+      "headword": "accordingly",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "従って",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『従って』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-06911",
+      "language": "en",
+      "headword": "additionally",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "さらに",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『さらに』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-07034",
+      "language": "en",
+      "headword": "exclusively",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "独占的に",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『独占的に』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-07066",
+      "language": "en",
+      "headword": "actively",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "活発に",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『活発に』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-07114",
+      "language": "en",
+      "headword": "thereby",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "それによって",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『それによって』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-07203",
+      "language": "en",
+      "headword": "publicly",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "公然と",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『公然と』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-07255",
+      "language": "en",
+      "headword": "shortly",
+      "field": "tags",
+      "before": [
+        "動詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "まもなく",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『まもなく』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-07309",
+      "language": "en",
+      "headword": "substantially",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "大幅に，実質的に",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『大幅に，実質的に』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-07531",
+      "language": "en",
+      "headword": "hereby",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "これによって",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『これによって』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-07538",
+      "language": "en",
+      "headword": "simultaneously",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "同時に",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『同時に』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-07548",
+      "language": "en",
+      "headword": "officially",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "公式に",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『公式に』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-07561",
+      "language": "en",
+      "headword": "safely",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "安全に",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『安全に』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-07591",
+      "language": "en",
+      "headword": "independently",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "独立して",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『独立して』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-07691",
+      "language": "en",
+      "headword": "consistently",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "一貫して",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『一貫して』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-07739",
+      "language": "en",
+      "headword": "partially",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "部分的に",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『部分的に』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-07814",
+      "language": "en",
+      "headword": "individually",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "個々に",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『個々に』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-08027",
+      "language": "en",
+      "headword": "freely",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "自由に",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『自由に』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-08038",
+      "language": "en",
+      "headword": "readily",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "容易に",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『容易に』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-08048",
+      "language": "en",
+      "headword": "legally",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "法律上",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『法律上』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-08177",
+      "language": "en",
+      "headword": "physically",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "身体的に",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『身体的に』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-08207",
+      "language": "en",
+      "headword": "accurately",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "正確に",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『正確に』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-08241",
+      "language": "en",
+      "headword": "thoroughly",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "徹底的に",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『徹底的に』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-08250",
+      "language": "en",
+      "headword": "namely",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "すなわち",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『すなわち』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-08636",
+      "language": "en",
+      "headword": "specially",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "特に",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『特に』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-08898",
+      "language": "en",
+      "headword": "importantly",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "重要なことに",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『重要なことに』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-09049",
+      "language": "en",
+      "headword": "proudly",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "誇らしげに",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『誇らしげに』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-09065",
+      "language": "en",
+      "headword": "nationally",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "全国的に",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『全国的に』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-09123",
+      "language": "en",
+      "headword": "lately",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "最近",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『最近』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-09129",
+      "language": "en",
+      "headword": "likewise",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "同様に",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『同様に』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-09273",
+      "language": "en",
+      "headword": "securely",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "しっかりと",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『しっかりと』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-09313",
+      "language": "en",
+      "headword": "temporarily",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "一時的に",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『一時的に』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-09366",
+      "language": "en",
+      "headword": "promptly",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "即座に",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『即座に』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-09401",
+      "language": "en",
+      "headword": "continually",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "絶えず",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『絶えず』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-09425",
+      "language": "en",
+      "headword": "presently",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "現在は",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『現在は』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-09543",
+      "language": "en",
+      "headword": "beautifully",
+      "field": "tags",
+      "before": [
+        "動詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "美しく",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『美しく』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-09600",
+      "language": "en",
+      "headword": "sufficiently",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "十分に",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『十分に』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-20033",
+      "language": "en",
+      "headword": "honestly",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "正直に",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『正直に』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-20067",
+      "language": "en",
+      "headword": "someday",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "いつか",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『いつか』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-20110",
+      "language": "en",
+      "headword": "terribly",
+      "field": "tags",
+      "before": [
+        "動詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "ひどく",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『ひどく』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-20113",
+      "language": "en",
+      "headword": "aboard",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "乗って",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『乗って』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-20121",
+      "language": "en",
+      "headword": "practically",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "実質的には",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『実質的には』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-20127",
+      "language": "en",
+      "headword": "frankly",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "率直に",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『率直に』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-20130",
+      "language": "en",
+      "headword": "incredibly",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "信じられないほど",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『信じられないほど』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-20143",
+      "language": "en",
+      "headword": "someplace",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "どこかへ",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『どこかへ』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-20169",
+      "language": "en",
+      "headword": "technically",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "厳密には",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『厳密には』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-20175",
+      "language": "en",
+      "headword": "softly",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "柔らかに",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『柔らかに』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-20201",
+      "language": "en",
+      "headword": "nicely",
+      "field": "tags",
+      "before": [
+        "動詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "うまく",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『うまく』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-20209",
+      "language": "en",
+      "headword": "happily",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "幸福に",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『幸福に』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-20216",
+      "language": "en",
+      "headword": "awfully",
+      "field": "tags",
+      "before": [
+        "動詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "ひどく",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『ひどく』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-20330",
+      "language": "en",
+      "headword": "luckily",
+      "field": "tags",
+      "before": [
+        "動詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "運よく",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『運よく』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-20358",
+      "language": "en",
+      "headword": "accidentally",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "偶然に",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『偶然に』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-20382",
+      "language": "en",
+      "headword": "fortunately",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "幸いにも",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『幸いにも』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-20390",
+      "language": "en",
+      "headword": "loudly",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "大声で",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『大声で』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-20399",
+      "language": "en",
+      "headword": "anyhow",
+      "field": "tags",
+      "before": [
+        "動詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "とにかく",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『とにかく』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-20413",
+      "language": "en",
+      "headword": "secretly",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "内密に",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『内密に』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-20546",
+      "language": "en",
+      "headword": "sadly",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "悲しそうに",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『悲しそうに』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-20581",
+      "language": "en",
+      "headword": "awhile",
+      "field": "tags",
+      "before": [
+        "動詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "しばらく",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『しばらく』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-20582",
+      "language": "en",
+      "headword": "deliberately",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "故意に",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『故意に』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-20597",
+      "language": "en",
+      "headword": "mentally",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "精神的に",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『精神的に』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-20626",
+      "language": "en",
+      "headword": "emotionally",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "感情的に",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『感情的に』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-20662",
+      "language": "en",
+      "headword": "sharply",
+      "field": "tags",
+      "before": [
+        "動詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "鋭く",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『鋭く』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-20710",
+      "language": "en",
+      "headword": "lightly",
+      "field": "tags",
+      "before": [
+        "動詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "軽く",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『軽く』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-20720",
+      "language": "en",
+      "headword": "gladly",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "喜んで",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『喜んで』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-20727",
+      "language": "en",
+      "headword": "supposedly",
+      "field": "tags",
+      "before": [
+        "動詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "おそらく",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『おそらく』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-20774",
+      "language": "en",
+      "headword": "utterly",
+      "field": "tags",
+      "before": [
+        "動詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "全く",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『全く』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-20841",
+      "language": "en",
+      "headword": "alas",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "ああ",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『ああ』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-20862",
+      "language": "en",
+      "headword": "sincerely",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "心から",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『心から』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-20911",
+      "language": "en",
+      "headword": "purely",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "純粋に",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『純粋に』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-20965",
+      "language": "en",
+      "headword": "strangely",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "奇妙に",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『奇妙に』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-20973",
+      "language": "en",
+      "headword": "permanently",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "永久に",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『永久に』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-20981",
+      "language": "en",
+      "headword": "overboard",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "船外に",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『船外に』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-21050",
+      "language": "en",
+      "headword": "peacefully",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "平和に",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『平和に』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-21053",
+      "language": "en",
+      "headword": "dearly",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "愛情をもって",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『愛情をもって』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-21130",
+      "language": "en",
+      "headword": "ashore",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "岸へ",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『岸へ』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-21185",
+      "language": "en",
+      "headword": "positively",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "断固として",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『断固として』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-21199",
+      "language": "en",
+      "headword": "repeatedly",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "繰り返して",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『繰り返して』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-21233",
+      "language": "en",
+      "headword": "openly",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "公然と",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『公然と』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-21257",
+      "language": "en",
+      "headword": "severely",
+      "field": "tags",
+      "before": [
+        "動詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "厳しく",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『厳しく』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-21311",
+      "language": "en",
+      "headword": "privately",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "ひそかに",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『ひそかに』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-21343",
+      "language": "en",
+      "headword": "calmly",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "落ち着いて",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『落ち着いて』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-21391",
+      "language": "en",
+      "headword": "smoothly",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "滑らかに",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『滑らかに』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-21416",
+      "language": "en",
+      "headword": "nervously",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "神経質に",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『神経質に』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-21517",
+      "language": "en",
+      "headword": "willingly",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "喜んで",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『喜んで』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-21683",
+      "language": "en",
+      "headword": "tightly",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "しっかりと",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『しっかりと』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-21715",
+      "language": "en",
+      "headword": "madly",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "狂ったように",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『狂ったように』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-21738",
+      "language": "en",
+      "headword": "undoubtedly",
+      "field": "tags",
+      "before": [
+        "動詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "疑いなく",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『疑いなく』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-21774",
+      "language": "en",
+      "headword": "seldom",
+      "field": "tags",
+      "before": [
+        "形容詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "めったに〜ない",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『めったに〜ない』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-21779",
+      "language": "en",
+      "headword": "nonetheless",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "それでもなお",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『それでもなお』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-21892",
+      "language": "en",
+      "headword": "silently",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "静かに",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『静かに』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-21936",
+      "language": "en",
+      "headword": "incidentally",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "ついでながら",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『ついでながら』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-21995",
+      "language": "en",
+      "headword": "remarkably",
+      "field": "tags",
+      "before": [
+        "動詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "著しく",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『著しく』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-22006",
+      "language": "en",
+      "headword": "horribly",
+      "field": "tags",
+      "before": [
+        "動詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "恐ろしく",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『恐ろしく』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-22018",
+      "language": "en",
+      "headword": "brutally",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "残酷に",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『残酷に』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-22026",
+      "language": "en",
+      "headword": "professionally",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "職業的に",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『職業的に』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-22079",
+      "language": "en",
+      "headword": "voluntarily",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "自発的に",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『自発的に』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-22131",
+      "language": "en",
+      "headword": "oddly",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "奇妙に",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『奇妙に』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-22157",
+      "language": "en",
+      "headword": "allegedly",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "申し立てによれば",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『申し立てによれば』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-22189",
+      "language": "en",
+      "headword": "unexpectedly",
+      "field": "tags",
+      "before": [
+        "動詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "思いがけなく",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『思いがけなく』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-22224",
+      "language": "en",
+      "headword": "afar",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "遠くに",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『遠くに』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-22235",
+      "language": "en",
+      "headword": "seemingly",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "一見したところ",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『一見したところ』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-22242",
+      "language": "en",
+      "headword": "preferably",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "できれば",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『できれば』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-22249",
+      "language": "en",
+      "headword": "socially",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "社会的に",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『社会的に』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-22285",
+      "language": "en",
+      "headword": "wonderfully",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "驚くほど",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『驚くほど』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-22293",
+      "language": "en",
+      "headword": "wildly",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "乱暴に",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『乱暴に』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-22331",
+      "language": "en",
+      "headword": "overly",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "過度に",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『過度に』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-22355",
+      "language": "en",
+      "headword": "respectfully",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "敬意を表して",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『敬意を表して』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-22363",
+      "language": "en",
+      "headword": "rightly",
+      "field": "tags",
+      "before": [
+        "動詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "正しく",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『正しく』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-22379",
+      "language": "en",
+      "headword": "comfortably",
+      "field": "tags",
+      "before": [
+        "動詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "心地よく",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『心地よく』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-22437",
+      "language": "en",
+      "headword": "wisely",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "賢明にも",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『賢明にも』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-22460",
+      "language": "en",
+      "headword": "theoretically",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "理論上",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『理論上』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-22498",
+      "language": "en",
+      "headword": "aloud",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "声を出して",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『声を出して』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-22505",
+      "language": "en",
+      "headword": "astray",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "迷って",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『迷って』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-22518",
+      "language": "en",
+      "headword": "violently",
+      "field": "tags",
+      "before": [
+        "動詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "激しく",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『激しく』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-22588",
+      "language": "en",
+      "headword": "dangerously",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "危険なほど",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『危険なほど』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-22594",
+      "language": "en",
+      "headword": "morally",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "道徳的に",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『道徳的に』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-22596",
+      "language": "en",
+      "headword": "apiece",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "ひとりにつき",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『ひとりにつき』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-22600",
+      "language": "en",
+      "headword": "unnecessarily",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "不必要に",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『不必要に』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-22601",
+      "language": "en",
+      "headword": "upstate",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "州の北部の",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『州の北部の』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-22608",
+      "language": "en",
+      "headword": "casually",
+      "field": "tags",
+      "before": [
+        "動詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "なにげなく",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『なにげなく』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-22660",
+      "language": "en",
+      "headword": "unusually",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "異常に",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『異常に』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-22667",
+      "language": "en",
+      "headword": "pronto",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "すぐに",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『すぐに』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-22691",
+      "language": "en",
+      "headword": "ironically",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "皮肉にも",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『皮肉にも』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-22707",
+      "language": "en",
+      "headword": "unbelievably",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "信じられないほど",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『信じられないほど』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-22755",
+      "language": "en",
+      "headword": "humbly",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "謙遜して",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『謙遜して』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-22800",
+      "language": "en",
+      "headword": "bravely",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "勇敢に",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『勇敢に』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-22803",
+      "language": "en",
+      "headword": "steadily",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "着実に",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『着実に』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-22865",
+      "language": "en",
+      "headword": "inevitably",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "必然的に",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『必然的に』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-22891",
+      "language": "en",
+      "headword": "indefinitely",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "無期限に，いつまでも",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『無期限に，いつまでも』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-22934",
+      "language": "en",
+      "headword": "blindly",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "盲目的に",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『盲目的に』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "en-22938",
+      "language": "en",
+      "headword": "considerably",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "副詞"
+      ],
+      "answer": "かなり",
+      "dictionaryPartsOfSpeech": [
+        "adverb"
+      ],
+      "reason": "answer『かなり』は副詞的・辞書単一adverb・前置詞用法でない",
+      "confidence": 0.99
+    },
+    {
+      "id": "ko-00008",
+      "language": "ko",
+      "headword": "아니요",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "間投詞"
+      ],
+      "answer": "いいえ",
+      "dictionaryPartsOfSpeech": [
+        "interjection"
+      ],
+      "reason": "answer『いいえ』は間投詞・辞書interjection",
+      "confidence": 0.99
+    },
+    {
+      "id": "ko-00013",
+      "language": "ko",
+      "headword": "당신",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "代名詞"
+      ],
+      "answer": "あなた",
+      "dictionaryPartsOfSpeech": [
+        "pronoun"
+      ],
+      "reason": "answer『あなた』は代名詞・辞書pronoun",
+      "confidence": 0.99
+    },
+    {
+      "id": "ko-00014",
+      "language": "ko",
+      "headword": "누구",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "代名詞"
+      ],
+      "answer": "誰",
+      "dictionaryPartsOfSpeech": [
+        "pronoun"
+      ],
+      "reason": "answer『誰』は代名詞・辞書pronoun",
+      "confidence": 0.99
+    },
+    {
+      "id": "ko-00015",
+      "language": "ko",
+      "headword": "무엇",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "代名詞"
+      ],
+      "answer": "何",
+      "dictionaryPartsOfSpeech": [
+        "pronoun"
+      ],
+      "reason": "answer『何』は代名詞・辞書pronoun",
+      "confidence": 0.99
+    },
+    {
+      "id": "ko-00184",
+      "language": "ko",
+      "headword": "넷",
+      "field": "tags",
+      "before": [
+        "動詞"
+      ],
+      "after": [
+        "数詞"
+      ],
+      "answer": "四つ",
+      "dictionaryPartsOfSpeech": [
+        "numeral"
+      ],
+      "reason": "answer『四つ』は数詞・辞書numeral",
+      "confidence": 0.99
+    },
+    {
+      "id": "ko-00185",
+      "language": "ko",
+      "headword": "다섯",
+      "field": "tags",
+      "before": [
+        "動詞"
+      ],
+      "after": [
+        "数詞"
+      ],
+      "answer": "五つ",
+      "dictionaryPartsOfSpeech": [
+        "numeral"
+      ],
+      "reason": "answer『五つ』は数詞・辞書numeral",
+      "confidence": 0.99
+    },
+    {
+      "id": "ko-00296",
+      "language": "ko",
+      "headword": "여섯",
+      "field": "tags",
+      "before": [
+        "動詞"
+      ],
+      "after": [
+        "数詞"
+      ],
+      "answer": "六つ",
+      "dictionaryPartsOfSpeech": [
+        "numeral"
+      ],
+      "reason": "answer『六つ』は数詞・辞書numeral",
+      "confidence": 0.99
+    },
+    {
+      "id": "ko-00297",
+      "language": "ko",
+      "headword": "일곱",
+      "field": "tags",
+      "before": [
+        "動詞"
+      ],
+      "after": [
+        "数詞"
+      ],
+      "answer": "七つ",
+      "dictionaryPartsOfSpeech": [
+        "numeral"
+      ],
+      "reason": "answer『七つ』は数詞・辞書numeral",
+      "confidence": 0.99
+    },
+    {
+      "id": "ko-00298",
+      "language": "ko",
+      "headword": "여덟",
+      "field": "tags",
+      "before": [
+        "動詞"
+      ],
+      "after": [
+        "数詞"
+      ],
+      "answer": "八つ",
+      "dictionaryPartsOfSpeech": [
+        "numeral"
+      ],
+      "reason": "answer『八つ』は数詞・辞書numeral",
+      "confidence": 0.99
+    },
+    {
+      "id": "ko-00299",
+      "language": "ko",
+      "headword": "아홉",
+      "field": "tags",
+      "before": [
+        "動詞"
+      ],
+      "after": [
+        "数詞"
+      ],
+      "answer": "九つ",
+      "dictionaryPartsOfSpeech": [
+        "numeral"
+      ],
+      "reason": "answer『九つ』は数詞・辞書numeral",
+      "confidence": 0.99
+    },
+    {
+      "id": "ko-00456",
+      "language": "ko",
+      "headword": "이것",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "代名詞"
+      ],
+      "answer": "これ",
+      "dictionaryPartsOfSpeech": [
+        "pronoun"
+      ],
+      "reason": "answer『これ』は代名詞・辞書pronoun",
+      "confidence": 0.99
+    },
+    {
+      "id": "ko-00457",
+      "language": "ko",
+      "headword": "그것",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "代名詞"
+      ],
+      "answer": "それ",
+      "dictionaryPartsOfSpeech": [
+        "pronoun"
+      ],
+      "reason": "answer『それ』は代名詞・辞書pronoun",
+      "confidence": 0.99
+    },
+    {
+      "id": "ko-00458",
+      "language": "ko",
+      "headword": "저것",
+      "field": "tags",
+      "before": [
+        "名詞"
+      ],
+      "after": [
+        "代名詞"
+      ],
+      "answer": "あれ",
+      "dictionaryPartsOfSpeech": [
+        "pronoun"
+      ],
+      "reason": "answer『あれ』は代名詞・辞書pronoun",
+      "confidence": 0.99
+    }
+  ]
+}

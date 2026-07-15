@@ -1,0 +1,6062 @@
+[
+  {
+    "id": "en-00110",
+    "language": "en",
+    "headword": "really",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "本当に",
+    "example": "I really enjoyed the party last night. — 昨夜のパーティーを本当に楽しんだ。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『本当に』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-00121",
+    "language": "en",
+    "headword": "before",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "の前に",
+    "example": "Wash your hands before dinner. — 夕食の前に手を洗いなさい。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "C",
+    "confidence": 0,
+    "reason": "多品詞語/前置詞的answer『の前に』→人手(自動修正しない)"
+  },
+  {
+    "id": "en-00126",
+    "language": "en",
+    "headword": "between",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "の間に",
+    "example": "The park is between the school and the bank. — 公園は学校と銀行の間にある。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "C",
+    "confidence": 0,
+    "reason": "多品詞語/前置詞的answer『の間に』→人手(自動修正しない)"
+  },
+  {
+    "id": "en-00132",
+    "language": "en",
+    "headword": "too",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "もまた",
+    "example": "My sister wants to come too. — 妹もまた来たがっている。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『もまた』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-00175",
+    "language": "en",
+    "headword": "never",
+    "currentTags": [
+      "形容詞"
+    ],
+    "answer": "決して〜ない",
+    "example": "I will never forget your kind words. — あなたの親切な言葉を決して忘れない。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『決して〜ない』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-00188",
+    "language": "en",
+    "headword": "again",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "再び",
+    "example": "Please read the story again. — その物語を再び読んでください。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『再び』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-00194",
+    "language": "en",
+    "headword": "around",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "の周りに",
+    "example": "We sat around the table and talked. — 私たちはテーブルの周りに座って話した。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "C",
+    "confidence": 0,
+    "reason": "多品詞語/前置詞的answer『の周りに』→人手(自動修正しない)"
+  },
+  {
+    "id": "en-00203",
+    "language": "en",
+    "headword": "always",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "いつも",
+    "example": "She always smiles at everyone. — 彼女はいつもみんなにほほえむ。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『いつも』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-00205",
+    "language": "en",
+    "headword": "however",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "しかし",
+    "example": "However, the weather changed in the afternoon. — しかし、午後には天気が変わった。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『しかし』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-00250",
+    "language": "en",
+    "headword": "though",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "にもかかわらず",
+    "example": "Though it was raining, we played outside. — 雨が降っていたにもかかわらず、私たちは外で遊んだ。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『にもかかわらず』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-00271",
+    "language": "en",
+    "headword": "actually",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "実際に",
+    "example": "The test was actually very easy. — そのテストは実際にはとても簡単だった。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『実際に』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-00289",
+    "language": "en",
+    "headword": "quite",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "かなり",
+    "example": "This math problem is quite difficult. — この数学の問題はかなり難しい。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『かなり』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-00305",
+    "language": "en",
+    "headword": "soon",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "間もなく",
+    "example": "The bus will arrive soon. — バスは間もなく到着します。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『間もなく』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-00309",
+    "language": "en",
+    "headword": "often",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "しばしば",
+    "example": "I often visit my grandmother on weekends. — 週末はしばしば祖母を訪ねる。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『しばしば』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-00315",
+    "language": "en",
+    "headword": "rather",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "むしろ",
+    "example": "I would rather stay home than go out. — 出かけるよりむしろ家にいたい。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『むしろ』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-00331",
+    "language": "en",
+    "headword": "ever",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "かつて",
+    "example": "This is the best movie I have ever seen. — これは今まで(かつて)見た中で最高の映画だ。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『かつて』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-00338",
+    "language": "en",
+    "headword": "yet",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "まだ",
+    "example": "The bus has not come yet. — バスはまだ来ていない。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『まだ』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-00339",
+    "language": "en",
+    "headword": "almost",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "ほとんど",
+    "example": "It is almost time for lunch. — もうほとんど昼食の時間だ。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『ほとんど』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-00341",
+    "language": "en",
+    "headword": "already",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "もう",
+    "example": "She has already finished her homework. — 彼女はもう宿題を終えた。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『もう』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-00343",
+    "language": "en",
+    "headword": "probably",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "たぶん",
+    "example": "He will probably come to the party. — 彼はたぶんパーティーに来るだろう。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『たぶん』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-00415",
+    "language": "en",
+    "headword": "either",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "どちらかの",
+    "example": "You can choose either color, red or blue. — 赤か青、どちらかの色を選べます。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "C",
+    "confidence": 0,
+    "reason": "多品詞語/前置詞的answer『どちらかの』→人手(自動修正しない)"
+  },
+  {
+    "id": "en-00425",
+    "language": "en",
+    "headword": "along",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "に沿って",
+    "example": "We walked along the river to the park. — 川に沿って公園まで歩いた。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『に沿って』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-00438",
+    "language": "en",
+    "headword": "perhaps",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "おそらく",
+    "example": "Perhaps it will snow tonight. — おそらく今夜は雪が降るだろう。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『おそらく』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-00450",
+    "language": "en",
+    "headword": "maybe",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "たぶん",
+    "example": "Maybe he is still at school. — たぶん彼はまだ学校にいる。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『たぶん』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-00497",
+    "language": "en",
+    "headword": "especially",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "特に",
+    "example": "I like fruit, especially apples. — 果物、特にリンゴが好きだ。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『特に』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-00534",
+    "language": "en",
+    "headword": "therefore",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "それゆえ",
+    "example": "It rained hard, and therefore we stayed home. — 雨が激しく降り、それゆえ私たちは家にいた。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『それゆえ』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-00535",
+    "language": "en",
+    "headword": "finally",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "最後に",
+    "example": "Finally, we cleaned the classroom and went home. — 最後に、私たちは教室を掃除して家に帰った。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『最後に』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-00570",
+    "language": "en",
+    "headword": "certainly",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "確かに",
+    "example": "He will certainly pass the test. — 彼は確かに試験に合格するだろう。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『確かに』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-00593",
+    "language": "en",
+    "headword": "usually",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "普通は",
+    "example": "I usually get up at six. — 普通は6時に起きる。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『普通は』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-00602",
+    "language": "en",
+    "headword": "instead",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "その代りとして",
+    "example": "The pool was closed, so we played tennis instead. — プールが閉まっていたので、その代わりにテニスをした。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "C",
+    "confidence": 0,
+    "reason": "多品詞語/前置詞的answer『その代りとして』→人手(自動修正しない)"
+  },
+  {
+    "id": "en-00642",
+    "language": "en",
+    "headword": "particularly",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "特に",
+    "example": "I like summer, particularly the long evenings. — 夏、特に長い夕方が好きだ。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『特に』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-00681",
+    "language": "en",
+    "headword": "simply",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "簡単に",
+    "example": "He explained the difficult rule simply. — 彼は難しい規則を簡単に説明した。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『簡単に』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-00682",
+    "language": "en",
+    "headword": "recently",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "最近",
+    "example": "I recently started learning the piano. — 最近、ピアノを習い始めた。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『最近』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-00701",
+    "language": "en",
+    "headword": "exactly",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "正確に",
+    "example": "The train arrived exactly at nine. — 列車は正確に9時に到着した。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『正確に』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-00752",
+    "language": "en",
+    "headword": "indeed",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "実に",
+    "example": "This view is indeed wonderful. — この景色は実に素晴らしい。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『実に』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-00777",
+    "language": "en",
+    "headword": "below",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "の下に",
+    "example": "Write your name below the line. — 線の下に名前を書きなさい。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "C",
+    "confidence": 0,
+    "reason": "多品詞語/前置詞的answer『の下に』→人手(自動修正しない)"
+  },
+  {
+    "id": "en-00810",
+    "language": "en",
+    "headword": "clearly",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "はっきりと",
+    "example": "Please write your name clearly. — 名前をはっきりと書いてください。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『はっきりと』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-00836",
+    "language": "en",
+    "headword": "nearly",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "ほとんど",
+    "example": "It is nearly time for lunch. — もうほとんど昼食の時間だ。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『ほとんど』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-00846",
+    "language": "en",
+    "headword": "quickly",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "速く",
+    "example": "He finished his homework quickly. — 彼は宿題を速く終わらせた。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『速く』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-00858",
+    "language": "en",
+    "headword": "generally",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "普通は",
+    "example": "I generally get up at six. — 私は普通は6時に起きる。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『普通は』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-00873",
+    "language": "en",
+    "headword": "beyond",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "越えて",
+    "example": "The ball flew beyond the fence. — ボールはフェンスを越えて飛んでいった。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『越えて』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-00906",
+    "language": "en",
+    "headword": "obviously",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "明らかに",
+    "example": "He was obviously tired after the long run. — 長い走りのあと、彼は明らかに疲れていた。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『明らかに』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-00932",
+    "language": "en",
+    "headword": "throughout",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "至る所に",
+    "example": "The news spread throughout the town. — その知らせは町の至る所に広まった。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『至る所に』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-00951",
+    "language": "en",
+    "headword": "suddenly",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "突然",
+    "example": "The sky suddenly became dark. — 空が突然暗くなった。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『突然』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-01011",
+    "language": "en",
+    "headword": "easily",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "容易に",
+    "example": "She solved the problem easily. — 彼女はその問題を容易に解いた。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『容易に』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-01028",
+    "language": "en",
+    "headword": "completely",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "完全に",
+    "example": "I completely forgot about the homework. — 宿題のことを完全に忘れていた。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『完全に』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-01035",
+    "language": "en",
+    "headword": "absolutely",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "絶対的に",
+    "example": "This rule is absolutely necessary for safety. — この規則は安全のために絶対に必要だ。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『絶対的に』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-01059",
+    "language": "en",
+    "headword": "immediately",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "ただちに",
+    "example": "Please call me back immediately. — ただちに折り返し電話をください。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『ただちに』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-01093",
+    "language": "en",
+    "headword": "directly",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "直接に",
+    "example": "He went directly home after school. — 彼は放課後まっすぐに家へ帰った。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『直接に』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-01101",
+    "language": "en",
+    "headword": "highly",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "非常に",
+    "example": "This restaurant is highly popular. — このレストランは非常に人気がある。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『非常に』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-01141",
+    "language": "en",
+    "headword": "moreover",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "そのうえ",
+    "example": "This phone is light, and moreover, cheap. — この電話は軽く、そのうえ安い。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『そのうえ』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-01173",
+    "language": "en",
+    "headword": "slightly",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "わずかに",
+    "example": "This room is slightly warmer than mine. — この部屋は私の部屋よりわずかに暖かい。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『わずかに』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-01240",
+    "language": "en",
+    "headword": "fully",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "十分に",
+    "example": "I fully understand your idea now. — 今はあなたの考えを十分に理解している。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『十分に』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-01271",
+    "language": "en",
+    "headword": "currently",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "現在は",
+    "example": "She is currently studying in another city. — 彼女は現在、別の都市で学んでいる。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『現在は』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-01276",
+    "language": "en",
+    "headword": "basically",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "基本的に",
+    "example": "The two plans are basically the same. — その2つの計画は基本的に同じだ。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『基本的に』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-01302",
+    "language": "en",
+    "headword": "unfortunately",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "残念ながら",
+    "example": "Unfortunately, the game was canceled by rain. — 残念ながら、試合は雨で中止になった。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『残念ながら』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-01314",
+    "language": "en",
+    "headword": "relatively",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "比較的",
+    "example": "This test was relatively easy for me. — このテストは私には比較的易しかった。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『比較的』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-01359",
+    "language": "en",
+    "headword": "extremely",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "極端に",
+    "example": "It was extremely hot last summer. — 昨年の夏は極端に暑かった。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『極端に』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-01362",
+    "language": "en",
+    "headword": "apparently",
+    "currentTags": [
+      "形容詞"
+    ],
+    "answer": "どうやら〜らしい",
+    "example": "Apparently, he forgot about the meeting. — どうやら彼は会議のことを忘れていたらしい。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『どうやら〜らしい』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-01372",
+    "language": "en",
+    "headword": "hardly",
+    "currentTags": [
+      "形容詞"
+    ],
+    "answer": "ほとんど〜ない",
+    "example": "I could hardly hear his small voice. — 彼の小さな声はほとんど聞こえなかった。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『ほとんど〜ない』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-01392",
+    "language": "en",
+    "headword": "mostly",
+    "currentTags": [
+      "形容詞"
+    ],
+    "answer": "たいてい",
+    "example": "We mostly play soccer after school. — 放課後はたいていサッカーをする。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『たいてい』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-01403",
+    "language": "en",
+    "headword": "furthermore",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "さらに",
+    "example": "This car is fast, and furthermore, safe. — この車は速く、さらに安全だ。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『さらに』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-01458",
+    "language": "en",
+    "headword": "carefully",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "注意深く",
+    "example": "Carry the glass cups carefully. — ガラスのカップは注意深く運びなさい。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『注意深く』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-01460",
+    "language": "en",
+    "headword": "possibly",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "ひょっとしたら",
+    "example": "It may possibly snow tonight. — 今夜はひょっとしたら雪が降るかもしれない。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『ひょっとしたら』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-01466",
+    "language": "en",
+    "headword": "slowly",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "ゆっくり",
+    "example": "Please speak more slowly. — もっとゆっくり話してください。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『ゆっくり』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-01486",
+    "language": "en",
+    "headword": "mainly",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "おもに",
+    "example": "This class is mainly for beginners. — このクラスはおもに初心者向けだ。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『おもに』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-01489",
+    "language": "en",
+    "headword": "totally",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "全く",
+    "example": "I totally agree with your opinion. — あなたの意見に全く賛成です。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『全く』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-01493",
+    "language": "en",
+    "headword": "significantly",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "著しく",
+    "example": "His English improved significantly this year. — 彼の英語は今年、著しく上達した。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『著しく』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-01503",
+    "language": "en",
+    "headword": "normally",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "通常は",
+    "example": "I normally go to bed at ten. — 私は通常は10時に寝る。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『通常は』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-01517",
+    "language": "en",
+    "headword": "previously",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "以前に",
+    "example": "I previously lived in a small village. — 以前は小さな村に住んでいた。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『以前に』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-01546",
+    "language": "en",
+    "headword": "largely",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "主として",
+    "example": "His success was largely due to practice. — 彼の成功は主として練習のおかげだった。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『主として』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-01565",
+    "language": "en",
+    "headword": "fairly",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "かなり",
+    "example": "This question is fairly easy for us. — この問題は私たちにはかなり易しい。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『かなり』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-01579",
+    "language": "en",
+    "headword": "definitely",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "間違いなく",
+    "example": "I will definitely come to your party. — あなたのパーティーに間違いなく行きます。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『間違いなく』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-01582",
+    "language": "en",
+    "headword": "necessarily",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "必ず",
+    "example": "Expensive things are not necessarily good. — 高価な物が必ず良いとは限らない。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『必ず』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-01592",
+    "language": "en",
+    "headword": "nevertheless",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "それでもやはり",
+    "example": "It rained all day; nevertheless, we had fun. — 一日中雨だったが、それでもやはり楽しかった。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『それでもやはり』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-01620",
+    "language": "en",
+    "headword": "strongly",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "強く",
+    "example": "I strongly agree with your opinion. — 私はあなたの意見に強く賛成する。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『強く』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-01630",
+    "language": "en",
+    "headword": "entirely",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "全く",
+    "example": "I entirely agree with your idea. — あなたの考えに全く同感だ。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『全く』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-01637",
+    "language": "en",
+    "headword": "increasingly",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "ますます",
+    "example": "Smartphones are becoming increasingly important in daily life. — スマートフォンは日常生活でますます重要になっている。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『ますます』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-01645",
+    "language": "en",
+    "headword": "respectively",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "それぞれに",
+    "example": "My brother and sister are ten and eight respectively. — 兄と妹はそれぞれ10歳と8歳だ。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『それぞれに』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-01653",
+    "language": "en",
+    "headword": "faithfully",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "忠実に",
+    "example": "The dog faithfully followed its owner everywhere. — その犬はどこへでも忠実に飼い主について行った。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『忠実に』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-01672",
+    "language": "en",
+    "headword": "secondly",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "第二に",
+    "example": "Secondly, we need to check the weather. — 第二に、天気を確認する必要がある。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『第二に』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-01696",
+    "language": "en",
+    "headword": "specifically",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "具体的に",
+    "example": "Please explain your plan more specifically. — 計画をもっと具体的に説明してください。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『具体的に』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-01715",
+    "language": "en",
+    "headword": "seriously",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "真剣に",
+    "example": "Please think seriously about your future. — 自分の将来について真剣に考えてください。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『真剣に』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-01723",
+    "language": "en",
+    "headword": "somehow",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "どうにかして",
+    "example": "We must finish this work somehow today. — 今日どうにかしてこの仕事を終えなければならない。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『どうにかして』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-01733",
+    "language": "en",
+    "headword": "surely",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "確かに",
+    "example": "She will surely pass the examination. — 彼女は確かに試験に合格するだろう。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『確かに』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-01737",
+    "language": "en",
+    "headword": "frequently",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "しばしば",
+    "example": "He frequently visits the city library. — 彼はしばしば市立図書館を訪れる。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『しばしば』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-01755",
+    "language": "en",
+    "headword": "anywhere",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "どこでも",
+    "example": "You can sit anywhere in this room. — この部屋のどこでも座ってよい。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『どこでも』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-01777",
+    "language": "en",
+    "headword": "widely",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "広く",
+    "example": "This app is widely used around the world. — このアプリは世界中で広く使われている。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『広く』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-01788",
+    "language": "en",
+    "headword": "approximately",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "おおよそ",
+    "example": "The bridge is approximately two hundred meters long. — その橋は長さおおよそ200メートルだ。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『おおよそ』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-01791",
+    "language": "en",
+    "headword": "somewhat",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "幾分か",
+    "example": "The weather is somewhat colder than yesterday. — 天気は昨日より幾分か寒い。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『幾分か』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-01817",
+    "language": "en",
+    "headword": "merely",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "単に",
+    "example": "I was merely asking a simple question. — 私は単に簡単な質問をしていただけだ。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『単に』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-01833",
+    "language": "en",
+    "headword": "firstly",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "第一に",
+    "example": "Firstly, wash your hands before cooking. — 第一に、料理の前に手を洗いなさい。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『第一に』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-01838",
+    "language": "en",
+    "headword": "closely",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "綿密に，密接に",
+    "example": "The child followed his mother closely. — 子供は母親にぴったりとついて行った。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『綿密に，密接に』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-01839",
+    "language": "en",
+    "headword": "equally",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "平等に",
+    "example": "The teacher treats all students equally. — 先生はすべての生徒を平等に扱う。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『平等に』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-01852",
+    "language": "en",
+    "headword": "properly",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "適切に",
+    "example": "Please wash your hands properly before lunch. — 昼食の前に適切に手を洗いなさい。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『適切に』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-01859",
+    "language": "en",
+    "headword": "primarily",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "主に",
+    "example": "This book is primarily for young children. — この本は主に幼い子供向けだ。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『主に』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-01864",
+    "language": "en",
+    "headword": "everywhere",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "至る所に",
+    "example": "There were beautiful flowers everywhere in the park. — 公園の至る所に美しい花があった。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『至る所に』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-01936",
+    "language": "en",
+    "headword": "elsewhere",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "どこかよそに",
+    "example": "This shop is closed, so let's eat elsewhere. — この店は閉まっているので、どこかよそで食べよう。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『どこかよそに』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-01940",
+    "language": "en",
+    "headword": "forth",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "前へ",
+    "example": "She stepped forth to receive the prize. — 彼女は賞を受け取るために前へ進み出た。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『前へ』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-01959",
+    "language": "en",
+    "headword": "hence",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "それゆえに",
+    "example": "He is honest, and hence everyone trusts him. — 彼は正直で、それゆえに皆が彼を信頼している。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『それゆえに』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-01963",
+    "language": "en",
+    "headword": "typically",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "典型的に",
+    "example": "Summer here is typically hot and wet. — ここの夏は典型的に暑くて湿気が多い。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『典型的に』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-01978",
+    "language": "en",
+    "headword": "truly",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "本当に",
+    "example": "I am truly happy about your success. — あなたの成功を本当にうれしく思う。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『本当に』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-02021",
+    "language": "en",
+    "headword": "originally",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "もとは",
+    "example": "This building was originally a small school. — この建物はもとは小さな学校だった。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『もとは』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-02022",
+    "language": "en",
+    "headword": "perfectly",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "完全に",
+    "example": "She answered every question perfectly. — 彼女はすべての質問に完全に答えた。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『完全に』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-02035",
+    "language": "en",
+    "headword": "personally",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "個人的に",
+    "example": "I personally prefer tea to coffee. — 個人的にはコーヒーより紅茶が好きだ。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『個人的に』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-02057",
+    "language": "en",
+    "headword": "partly",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "部分的に",
+    "example": "The window was partly open in the morning. — 朝、窓は部分的に開いていた。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『部分的に』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-02088",
+    "language": "en",
+    "headword": "rapidly",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "速く",
+    "example": "The train moved rapidly through the fields. — 列車は野原を速く走り抜けた。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『速く』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-02092",
+    "language": "en",
+    "headword": "ultimately",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "最終的に，結局",
+    "example": "Ultimately, we chose the cheaper hotel. — 最後に、私たちはより安いホテルを選んだ。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『最終的に，結局』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-02104",
+    "language": "en",
+    "headword": "similarly",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "同様に",
+    "example": "Similarly, the second question was very easy. — 同様に、2番目の問題もとても簡単だった。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『同様に』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-02142",
+    "language": "en",
+    "headword": "deeply",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "深く",
+    "example": "I was deeply moved by her kind letter. — 彼女の親切な手紙に深く感動した。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『深く』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-02166",
+    "language": "en",
+    "headword": "virtually",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "事実上",
+    "example": "The work is virtually finished now. — その仕事は今や事実上終わっている。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『事実上』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-02198",
+    "language": "en",
+    "headword": "beneath",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "の下に",
+    "example": "The cat was sleeping beneath the table. — 猫はテーブルの下で眠っていた。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "C",
+    "confidence": 0,
+    "reason": "多品詞語/前置詞的answer『の下に』→人手(自動修正しない)"
+  },
+  {
+    "id": "en-02228",
+    "language": "en",
+    "headword": "heavily",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "重く",
+    "example": "The old man leaned heavily on his stick. — 老人は杖に重く寄りかかった。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『重く』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-02235",
+    "language": "en",
+    "headword": "rarely",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "めったに",
+    "example": "My grandfather rarely watches television. — 祖父はめったにテレビを見ない。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『めったに』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-02274",
+    "language": "en",
+    "headword": "naturally",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "自然に",
+    "example": "Plants grow naturally toward the light. — 植物は自然に光の方へ伸びる。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『自然に』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-02303",
+    "language": "en",
+    "headword": "gradually",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "徐々に",
+    "example": "The sky gradually became brighter in the east. — 東の空が徐々に明るくなった。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『徐々に』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-02312",
+    "language": "en",
+    "headword": "badly",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "悪く",
+    "example": "The team played badly in the first half. — チームは前半、悪いプレーをした。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『悪く』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-02324",
+    "language": "en",
+    "headword": "constantly",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "絶えず",
+    "example": "Technology is constantly changing our lives. — 科学技術は絶えず私たちの生活を変えている。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『絶えず』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-02357",
+    "language": "en",
+    "headword": "occasionally",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "たまに",
+    "example": "We occasionally eat out on weekends. — 私たちはたまに週末に外食する。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『たまに』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-02362",
+    "language": "en",
+    "headword": "newly",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "最近",
+    "example": "The newly opened shop sells nice cakes. — 最近開店した店はおいしいケーキを売っている。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『最近』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-02369",
+    "language": "en",
+    "headword": "briefly",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "手短に",
+    "example": "The teacher explained the rule briefly. — 先生は規則を手短に説明した。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『手短に』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-02371",
+    "language": "en",
+    "headword": "regularly",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "規則正しく",
+    "example": "I go to bed regularly at ten. — 私は規則正しく10時に寝る。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『規則正しく』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-02456",
+    "language": "en",
+    "headword": "quietly",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "静かに",
+    "example": "Please close the door quietly. — ドアを静かに閉めてください。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『静かに』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-02466",
+    "language": "en",
+    "headword": "precisely",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "正確に",
+    "example": "The train arrived precisely at nine. — 列車は正確に9時に到着した。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『正確に』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-02488",
+    "language": "en",
+    "headword": "consequently",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "その結果として",
+    "example": "He missed the bus, and consequently he was late. — 彼はバスに乗り遅れ、その結果として遅刻した。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『その結果として』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-02518",
+    "language": "en",
+    "headword": "greatly",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "大いに",
+    "example": "Your support helped me greatly this year. — 今年はあなたの支えに大いに助けられた。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『大いに』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-02523",
+    "language": "en",
+    "headword": "successfully",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "首尾よく",
+    "example": "She successfully finished the long race. — 彼女は首尾よく長いレースを走り終えた。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『首尾よく』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-02543",
+    "language": "en",
+    "headword": "automatically",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "自動的に",
+    "example": "The door opens automatically when you come near. — 近づくとドアは自動的に開く。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『自動的に』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-02560",
+    "language": "en",
+    "headword": "literally",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "文字通り",
+    "example": "Please translate this sentence literally first. — まずこの文を文字通りに翻訳してください。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『文字通り』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-02582",
+    "language": "en",
+    "headword": "roughly",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "およそ",
+    "example": "The trip takes roughly two hours by bus. — その旅はバスでおよそ2時間かかる。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『およそ』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-02611",
+    "language": "en",
+    "headword": "potentially",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "潜在的に",
+    "example": "This small error is potentially a big problem. — この小さな誤りは潜在的に大きな問題だ。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『潜在的に』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-02614",
+    "language": "en",
+    "headword": "gently",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "優しく",
+    "example": "She gently touched the sleeping baby's cheek. — 彼女は眠っている赤ちゃんのほおに優しく触れた。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『優しく』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-02635",
+    "language": "en",
+    "headword": "forever",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "永久に",
+    "example": "I will remember this kind gift forever. — この心のこもった贈り物を永久に忘れない。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『永久に』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-02640",
+    "language": "en",
+    "headword": "dramatically",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "劇的に",
+    "example": "Sales increased dramatically after the TV ad. — テレビ広告の後、売り上げは劇的に増えた。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『劇的に』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-02668",
+    "language": "en",
+    "headword": "barely",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "かろうじて",
+    "example": "I barely caught the last train home. — かろうじて家への最終電車に間に合った。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『かろうじて』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-02670",
+    "language": "en",
+    "headword": "firmly",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "しっかりと",
+    "example": "Hold the handle firmly with both hands. — 両手で取っ手をしっかりと握りなさい。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『しっかりと』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-02673",
+    "language": "en",
+    "headword": "hopefully",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "うまくいけば",
+    "example": "Hopefully, the rain will stop before noon. — うまくいけば、雨は正午前にやむだろう。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『うまくいけば』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-02682",
+    "language": "en",
+    "headword": "subsequently",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "その後",
+    "example": "He moved to the city and subsequently opened a bakery. — 彼は都会へ移り、その後パン屋を開いた。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "C",
+    "confidence": 0,
+    "reason": "多品詞語/前置詞的answer『その後』→人手(自動修正しない)"
+  },
+  {
+    "id": "en-02683",
+    "language": "en",
+    "headword": "presumably",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "たぶん",
+    "example": "The lights are off, so presumably nobody is home. — 明かりが消えているので、たぶん誰も家にいない。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『たぶん』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-02713",
+    "language": "en",
+    "headword": "surprisingly",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "驚くほどに",
+    "example": "The test was surprisingly easy for everyone. — テストはみんなにとって驚くほど簡単だった。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『驚くほどに』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-02726",
+    "language": "en",
+    "headword": "reasonably",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "かなり，合理的に",
+    "example": "Let's discuss the problem reasonably and calmly. — その問題を理性的に冷静に話し合おう。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『かなり，合理的に』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-02771",
+    "language": "en",
+    "headword": "differently",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "異なって",
+    "example": "The twins think quite differently about music. — その双子は音楽についてかなり異なって考えている。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『異なって』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-02797",
+    "language": "en",
+    "headword": "wherever",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "する所はどこでも",
+    "example": "My dog follows me wherever I go. — 私が行く所はどこでも犬がついてくる。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『する所はどこでも』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-02809",
+    "language": "en",
+    "headword": "alongside",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "そばに",
+    "example": "A small boat stopped alongside the ship. — 小さなボートが船のそばに止まった。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『そばに』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-05432",
+    "language": "en",
+    "headword": "correctly",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "正しく",
+    "example": "She answered every question correctly. — 彼女はすべての問題に正しく答えた。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『正しく』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-05656",
+    "language": "en",
+    "headword": "herein",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "この場所に",
+    "example": null,
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『この場所に』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-05833",
+    "language": "en",
+    "headword": "commonly",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "一般に",
+    "example": "This flower is commonly seen in spring. — この花は春に一般に見られる。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『一般に』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-06113",
+    "language": "en",
+    "headword": "instantly",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "すぐに",
+    "example": "She instantly answered my question. — 彼女はわたしの質問にすぐに答えた。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『すぐに』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-06258",
+    "language": "en",
+    "headword": "thereof",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "それについて",
+    "example": "Whereof one cannot speak, thereof one must be silent. — 語りえないことについては、沈黙するほかない。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『それについて』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-06286",
+    "language": "en",
+    "headword": "formerly",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "以前は",
+    "example": "This museum was formerly a school. — この博物館は以前は学校だった。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『以前は』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-06294",
+    "language": "en",
+    "headword": "strictly",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "厳密に",
+    "example": "Smoking is strictly forbidden in this hall. — このホールでは喫煙は厳密に禁じられている。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『厳密に』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-06318",
+    "language": "en",
+    "headword": "solely",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "もっぱら",
+    "example": "This room is used solely for meetings. — この部屋はもっぱら会議のために使われている。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『もっぱら』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-06536",
+    "language": "en",
+    "headword": "annually",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "毎年",
+    "example": "The flower festival is held annually in this town. — その花祭りはこの町で毎年開かれる。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『毎年』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-06559",
+    "language": "en",
+    "headword": "essentially",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "本質的に",
+    "example": "The two plans are essentially the same. — その二つの計画は本質的に同じだ。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『本質的に』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-06616",
+    "language": "en",
+    "headword": "locally",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "地方的に",
+    "example": "These goods may not be available locally. — これらの商品の中には、地元では手に入らないものもあるかもしれない。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『地方的に』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-06691",
+    "language": "en",
+    "headword": "separately",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "別々に",
+    "example": "Please wash the white shirts separately. — 白いシャツは別々に洗ってください。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『別々に』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-06806",
+    "language": "en",
+    "headword": "accordingly",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "従って",
+    "example": "The rules changed, and we acted accordingly. — 規則が変わったので、わたしたちはそれに従って行動した。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『従って』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-06911",
+    "language": "en",
+    "headword": "additionally",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "さらに",
+    "example": "Additionally, the ticket includes a free drink. — さらに、チケットには無料の飲み物が含まれる。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『さらに』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-07034",
+    "language": "en",
+    "headword": "exclusively",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "独占的に",
+    "example": "This room is used exclusively by teachers. — この部屋は教師によって独占的に使われている。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『独占的に』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-07066",
+    "language": "en",
+    "headword": "actively",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "活発に",
+    "example": "She actively joins volunteer work on weekends. — 彼女は週末に活発にボランティア活動に参加している。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『活発に』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-07114",
+    "language": "en",
+    "headword": "thereby",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "それによって",
+    "example": "He got up early, thereby catching the first train. — 彼は早起きし、それによって始発列車に間に合った。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『それによって』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-07203",
+    "language": "en",
+    "headword": "publicly",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "公然と",
+    "example": "The mayor publicly promised to build a new library. — 市長は新しい図書館の建設を公然と約束した。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『公然と』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-07255",
+    "language": "en",
+    "headword": "shortly",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "まもなく",
+    "example": "The bus will arrive shortly. — バスはまもなく到着します。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『まもなく』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-07309",
+    "language": "en",
+    "headword": "substantially",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "大幅に，実質的に",
+    "example": null,
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『大幅に，実質的に』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-07531",
+    "language": "en",
+    "headword": "hereby",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "これによって",
+    "example": "I hereby beg to acknowledge your letter. — お手紙確かに落手いたしました。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『これによって』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-07538",
+    "language": "en",
+    "headword": "simultaneously",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "同時に",
+    "example": "The two doors opened simultaneously. — 二つのドアが同時に開いた。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『同時に』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-07548",
+    "language": "en",
+    "headword": "officially",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "公式に",
+    "example": "The new park officially opens next Saturday. — 新しい公園は今度の土曜日に公式に開園する。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『公式に』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-07561",
+    "language": "en",
+    "headword": "safely",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "安全に",
+    "example": "The plane landed safely in the storm. — 飛行機は嵐の中を安全に着陸した。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『安全に』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-07591",
+    "language": "en",
+    "headword": "independently",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "独立して",
+    "example": "The two teams worked independently on the same problem. — 二つのチームは同じ問題に独立して取り組んだ。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『独立して』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-07691",
+    "language": "en",
+    "headword": "consistently",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "一貫して",
+    "example": "He consistently gets good grades in math. — 彼は数学で一貫してよい成績を取っている。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『一貫して』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-07739",
+    "language": "en",
+    "headword": "partially",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "部分的に",
+    "example": "The window was partially covered with snow. — 窓は部分的に雪で覆われていた。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『部分的に』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-07814",
+    "language": "en",
+    "headword": "individually",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "個々に",
+    "example": "The teacher checked each student's work individually. — 先生は生徒一人ひとりの課題を個々に確かめた。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『個々に』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-08027",
+    "language": "en",
+    "headword": "freely",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "自由に",
+    "example": "The horses run freely on the wide farm. — 馬たちは広い農場を自由に走り回る。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『自由に』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-08038",
+    "language": "en",
+    "headword": "readily",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "容易に",
+    "example": "The library staff readily answered my questions. — 図書館の職員はわたしの質問に容易に答えてくれた。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『容易に』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-08048",
+    "language": "en",
+    "headword": "legally",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "法律上",
+    "example": "You must be eighteen to sign this legally. — これに法律上署名するには18歳でなければならない。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『法律上』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-08177",
+    "language": "en",
+    "headword": "physically",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "身体的に",
+    "example": "The long hike made us physically tired. — 長いハイキングでわたしたちは身体的に疲れた。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『身体的に』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-08207",
+    "language": "en",
+    "headword": "accurately",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "正確に",
+    "example": "The clock shows the time very accurately. — その時計は時刻をとても正確に示す。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『正確に』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-08241",
+    "language": "en",
+    "headword": "thoroughly",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "徹底的に",
+    "example": "Wash the vegetables thoroughly before cooking. — 料理の前に野菜を徹底的に洗いなさい。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『徹底的に』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-08250",
+    "language": "en",
+    "headword": "namely",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "すなわち",
+    "example": "Two subjects are hard for me, namely math and science. — 二つの教科、すなわち数学と理科がわたしには難しい。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『すなわち』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-08636",
+    "language": "en",
+    "headword": "specially",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "特に",
+    "example": "This cake was made specially for your birthday. — このケーキは特にあなたの誕生日のために作られた。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『特に』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-08898",
+    "language": "en",
+    "headword": "importantly",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "重要なことに",
+    "example": "She's cute, and more importantly, has class. — 可愛い。そして何より品がいい。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『重要なことに』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-09049",
+    "language": "en",
+    "headword": "proudly",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "誇らしげに",
+    "example": "The boy proudly showed his medal to his parents. — 少年は誇らしげに両親にメダルを見せた。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『誇らしげに』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-09065",
+    "language": "en",
+    "headword": "nationally",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "全国的に",
+    "example": "The song became famous nationally within a month. — その歌はひと月のうちに全国的に有名になった。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『全国的に』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-09123",
+    "language": "en",
+    "headword": "lately",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "最近",
+    "example": "She has been very busy lately. — 彼女は最近とても忙しい。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『最近』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-09129",
+    "language": "en",
+    "headword": "likewise",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "同様に",
+    "example": "He works hard, and his sister does likewise. — 彼はよく働くし、妹も同様に働く。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『同様に』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-09273",
+    "language": "en",
+    "headword": "securely",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "しっかりと",
+    "example": "Lock the gate securely before you leave. — 出かける前に門をしっかりと施錠しなさい。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『しっかりと』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-09313",
+    "language": "en",
+    "headword": "temporarily",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "一時的に",
+    "example": "The road is temporarily closed for repairs. — その道路は補修のため一時的に閉鎖されている。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『一時的に』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-09366",
+    "language": "en",
+    "headword": "promptly",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "即座に",
+    "example": "She promptly replied to my letter. — 彼女はわたしの手紙に即座に返事をくれた。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『即座に』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-09401",
+    "language": "en",
+    "headword": "continually",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "絶えず",
+    "example": "The phone rang continually all morning. — 電話は午前中ずっと絶えず鳴っていた。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『絶えず』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-09425",
+    "language": "en",
+    "headword": "presently",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "現在は",
+    "example": "The museum is presently closed for repairs. — その博物館は現在は修理のため閉館している。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『現在は』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-09455",
+    "language": "en",
+    "headword": "thereafter",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "その後",
+    "example": "He moved to the coast and lived there thereafter. — 彼は海岸へ移り、その後そこで暮らした。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "C",
+    "confidence": 0,
+    "reason": "多品詞語/前置詞的answer『その後』→人手(自動修正しない)"
+  },
+  {
+    "id": "en-09543",
+    "language": "en",
+    "headword": "beautifully",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "美しく",
+    "example": "She plays the piano beautifully. — 彼女はピアノを美しく弾く。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『美しく』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-09600",
+    "language": "en",
+    "headword": "sufficiently",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "十分に",
+    "example": "The soup was sufficiently warm for the cold night. — そのスープは寒い夜に十分に温かかった。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『十分に』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-20033",
+    "language": "en",
+    "headword": "honestly",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "正直に",
+    "example": "Please tell me honestly what you think. — 思っていることを正直に話してください。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『正直に』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-20067",
+    "language": "en",
+    "headword": "someday",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "いつか",
+    "example": "I hope to visit the moon someday. — いつか月を訪れたいと思っている。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『いつか』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-20110",
+    "language": "en",
+    "headword": "terribly",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "ひどく",
+    "example": "I am terribly sorry for the delay. — 遅れてしまい、ひどく申し訳なく思います。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『ひどく』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-20113",
+    "language": "en",
+    "headword": "aboard",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "乗って",
+    "example": "It was my first trip aboard. — 初めての海外旅行でした。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『乗って』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-20121",
+    "language": "en",
+    "headword": "practically",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "実質的には",
+    "example": "The work is practically finished now. — その仕事は今、実質的には終わっている。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『実質的には』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-20127",
+    "language": "en",
+    "headword": "frankly",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "率直に",
+    "example": "Frankly, I do not like this color. — 率直に言うと、この色は好きではない。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『率直に』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-20129",
+    "language": "en",
+    "headword": "underneath",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "〜の下に",
+    "example": "The cat is hiding underneath the table. — ネコがテーブルの下に隠れている。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "C",
+    "confidence": 0,
+    "reason": "多品詞語/前置詞的answer『〜の下に』→人手(自動修正しない)"
+  },
+  {
+    "id": "en-20130",
+    "language": "en",
+    "headword": "incredibly",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "信じられないほど",
+    "example": "The new train is incredibly fast. — 新しい列車は信じられないほど速い。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『信じられないほど』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-20143",
+    "language": "en",
+    "headword": "someplace",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "どこかへ",
+    "example": "Let's go someplace quiet to talk. — どこか静かな所へ行って話しましょう。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『どこかへ』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-20169",
+    "language": "en",
+    "headword": "technically",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "厳密には",
+    "example": "Technically, a tomato is a fruit, not a vegetable. — 厳密には、トマトは野菜ではなく果物だ。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『厳密には』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-20175",
+    "language": "en",
+    "headword": "softly",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "柔らかに",
+    "example": "She spoke softly to the sleeping baby. — 彼女は眠っている赤ちゃんに柔らかに話しかけた。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『柔らかに』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-20201",
+    "language": "en",
+    "headword": "nicely",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "うまく",
+    "example": "The waiter arranged the plates nicely on the table. — ウエーターは皿をテーブルの上にうまく並べた。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『うまく』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-20209",
+    "language": "en",
+    "headword": "happily",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "幸福に",
+    "example": "The children played happily in the park. — 子供たちは公園で幸福に遊んだ。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『幸福に』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-20216",
+    "language": "en",
+    "headword": "awfully",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "ひどく",
+    "example": "It is awfully hot in this room. — この部屋はひどく暑い。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『ひどく』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-20330",
+    "language": "en",
+    "headword": "luckily",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "運よく",
+    "example": "Luckily, the rain stopped before the festival. — 運よく、祭りの前に雨がやんだ。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『運よく』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-20358",
+    "language": "en",
+    "headword": "accidentally",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "偶然に",
+    "example": "I accidentally took my brother's umbrella. — わたしは偶然に兄の傘を持って行ってしまった。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『偶然に』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-20382",
+    "language": "en",
+    "headword": "fortunately",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "幸いにも",
+    "example": "Fortunately, nobody was hurt in the accident. — 幸いにも、その事故でけが人は出なかった。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『幸いにも』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-20390",
+    "language": "en",
+    "headword": "loudly",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "大声で",
+    "example": "The fans cheered loudly at the stadium. — ファンたちはスタジアムで大声で応援した。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『大声で』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-20399",
+    "language": "en",
+    "headword": "anyhow",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "とにかく",
+    "example": "Anyhow, let's finish this work before dark. — とにかく、暗くなる前にこの仕事を終わらせよう。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『とにかく』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-20413",
+    "language": "en",
+    "headword": "secretly",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "内密に",
+    "example": "They secretly prepared a birthday party for her. — 彼らは内密に彼女の誕生日会を準備した。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『内密に』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-20546",
+    "language": "en",
+    "headword": "sadly",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "悲しそうに",
+    "example": "The boy looked sadly at the broken kite. — 少年は壊れたたこを悲しそうに見つめた。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『悲しそうに』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-20581",
+    "language": "en",
+    "headword": "awhile",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "しばらく",
+    "example": "Let's rest awhile under this big tree. — この大きな木の下でしばらく休みましょう。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『しばらく』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-20582",
+    "language": "en",
+    "headword": "deliberately",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "故意に",
+    "example": "He deliberately left the door open for the cat. — 彼はネコのために故意にドアを開けたままにした。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『故意に』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-20597",
+    "language": "en",
+    "headword": "mentally",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "精神的に",
+    "example": "Reading keeps my grandmother mentally active. — 読書は祖母を精神的に活発に保つ。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『精神的に』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-20626",
+    "language": "en",
+    "headword": "emotionally",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "感情的に",
+    "example": "The movie's last scene moved us emotionally. — 映画の最後の場面はわたしたちを感情的に揺さぶった。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『感情的に』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-20662",
+    "language": "en",
+    "headword": "sharply",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "鋭く",
+    "example": "The road turns sharply near the old bridge. — 道は古い橋の近くで鋭く曲がる。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『鋭く』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-20710",
+    "language": "en",
+    "headword": "lightly",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "軽く",
+    "example": "Press the button lightly with one finger. — 指一本でボタンを軽く押してください。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『軽く』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-20720",
+    "language": "en",
+    "headword": "gladly",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "喜んで",
+    "example": "I will gladly help you with the boxes. — 喜んで箱運びをお手伝いします。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『喜んで』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-20727",
+    "language": "en",
+    "headword": "supposedly",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "おそらく",
+    "example": "The castle is supposedly five hundred years old. — その城はおそらく五百年前のものだ。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『おそらく』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-20774",
+    "language": "en",
+    "headword": "utterly",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "全く",
+    "example": "The garden was utterly quiet in the early morning. — 早朝の庭は全く静かだった。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『全く』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-20841",
+    "language": "en",
+    "headword": "alas",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "ああ",
+    "example": "Alas, what ill luck has befallen me! — ああ、私はなんて不幸にみまわれたんだ。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『ああ』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-20862",
+    "language": "en",
+    "headword": "sincerely",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "心から",
+    "example": "I sincerely thank you for your support. — ご支援に心から感謝いたします。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『心から』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-20911",
+    "language": "en",
+    "headword": "purely",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "純粋に",
+    "example": "I helped him purely out of kindness. — わたしは純粋に親切心から彼を助けた。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『純粋に』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-20965",
+    "language": "en",
+    "headword": "strangely",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "奇妙に",
+    "example": "The lights blinked strangely during the night. — 夜の間、明かりが奇妙に点滅した。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『奇妙に』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-20973",
+    "language": "en",
+    "headword": "permanently",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "永久に",
+    "example": "The old station was closed permanently last year. — 古い駅は昨年、永久に閉鎖された。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『永久に』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-20981",
+    "language": "en",
+    "headword": "overboard",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "船外に",
+    "example": "The sailor's hat fell overboard into the sea. — 船乗りの帽子は船外の海へ落ちた。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『船外に』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-21050",
+    "language": "en",
+    "headword": "peacefully",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "平和に",
+    "example": "The two villages lived peacefully for centuries. — 二つの村は何世紀も平和に暮らした。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『平和に』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-21053",
+    "language": "en",
+    "headword": "dearly",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "愛情をもって",
+    "example": "She loves her old cat dearly. — 彼女は年老いたネコを深い愛情をもってかわいがっている。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『愛情をもって』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-21130",
+    "language": "en",
+    "headword": "ashore",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "岸へ",
+    "example": "The tired swimmers finally came ashore. — 疲れた泳ぎ手たちはついに岸へ上がった。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『岸へ』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-21185",
+    "language": "en",
+    "headword": "positively",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "断固として",
+    "example": "He positively denied the strange rumor. — 彼はその奇妙なうわさを断固として否定した。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『断固として』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-21199",
+    "language": "en",
+    "headword": "repeatedly",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "繰り返して",
+    "example": "The teacher explained the rule repeatedly. — 先生はその規則を繰り返して説明した。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『繰り返して』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-21233",
+    "language": "en",
+    "headword": "openly",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "公然と",
+    "example": "She openly shared her opinion at the meeting. — 彼女は会議で公然と意見を述べた。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『公然と』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-21257",
+    "language": "en",
+    "headword": "severely",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "厳しく",
+    "example": "The judge punished the careless company severely. — 裁判官はその不注意な会社を厳しく罰した。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『厳しく』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-21311",
+    "language": "en",
+    "headword": "privately",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "ひそかに",
+    "example": "The coach spoke privately with each player. — コーチは各選手とひそかに個別に話した。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『ひそかに』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-21343",
+    "language": "en",
+    "headword": "calmly",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "落ち着いて",
+    "example": "She calmly explained the plan to the angry crowd. — 彼女は怒った群衆に落ち着いて計画を説明した。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『落ち着いて』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-21391",
+    "language": "en",
+    "headword": "smoothly",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "滑らかに",
+    "example": "The new train started very smoothly. — 新しい列車はとても滑らかに発車した。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『滑らかに』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-21416",
+    "language": "en",
+    "headword": "nervously",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "神経質に",
+    "example": "He waited nervously for his test results. — 彼は神経質にテストの結果を待った。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『神経質に』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-21517",
+    "language": "en",
+    "headword": "willingly",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "喜んで",
+    "example": "She willingly helped her little brother with homework. — 彼女は喜んで弟の宿題を手伝った。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『喜んで』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-21683",
+    "language": "en",
+    "headword": "tightly",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "しっかりと",
+    "example": "Hold the rope tightly with both hands. — 両手でロープをしっかりと握りなさい。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『しっかりと』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-21715",
+    "language": "en",
+    "headword": "madly",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "狂ったように",
+    "example": "The fans cheered madly for the team. — ファンはチームのために狂ったように声援を送った。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『狂ったように』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-21738",
+    "language": "en",
+    "headword": "undoubtedly",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "疑いなく",
+    "example": "She is undoubtedly the best player on the team. — 彼女は疑いなくチームで最高の選手だ。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『疑いなく』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-21774",
+    "language": "en",
+    "headword": "seldom",
+    "currentTags": [
+      "形容詞"
+    ],
+    "answer": "めったに〜ない",
+    "example": "My grandfather seldom watches television. — 祖父はめったにテレビを見ない。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『めったに〜ない』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-21779",
+    "language": "en",
+    "headword": "nonetheless",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "それでもなお",
+    "example": "It was raining hard, but we went out nonetheless. — 激しい雨だったが、それでもなお私たちは出かけた。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『それでもなお』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-21892",
+    "language": "en",
+    "headword": "silently",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "静かに",
+    "example": "The students read silently in the library. — 生徒たちは図書館で静かに読書する。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『静かに』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-21936",
+    "language": "en",
+    "headword": "incidentally",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "ついでながら",
+    "example": "Incidentally, the library closes early today. — ついでながら、図書館は今日早く閉まる。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『ついでながら』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-21995",
+    "language": "en",
+    "headword": "remarkably",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "著しく",
+    "example": "Her English improved remarkably this year. — 彼女の英語は今年著しく上達した。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『著しく』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-22006",
+    "language": "en",
+    "headword": "horribly",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "恐ろしく",
+    "example": "The room was horribly cold last night. — 昨夜、部屋は恐ろしく寒かった。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『恐ろしく』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-22018",
+    "language": "en",
+    "headword": "brutally",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "残酷に",
+    "example": "The summer sun shines brutally in this desert. — この砂漠では夏の太陽が残酷なほど照りつける。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『残酷に』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-22026",
+    "language": "en",
+    "headword": "professionally",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "職業的に",
+    "example": "She plays the piano professionally. — 彼女は職業的にピアノを弾いている。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『職業的に』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-22079",
+    "language": "en",
+    "headword": "voluntarily",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "自発的に",
+    "example": "The students voluntarily cleaned the beach. — 生徒たちは自発的に浜辺を掃除した。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『自発的に』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-22131",
+    "language": "en",
+    "headword": "oddly",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "奇妙に",
+    "example": "The cat behaved oddly before the earthquake. — 地震の前、ネコは奇妙にふるまった。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『奇妙に』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-22157",
+    "language": "en",
+    "headword": "allegedly",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "申し立てによれば",
+    "example": "The man allegedly entered the store after closing. — 申し立てによれば、その男は閉店後に店に入った。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『申し立てによれば』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-22189",
+    "language": "en",
+    "headword": "unexpectedly",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "思いがけなく",
+    "example": "An old friend visited us unexpectedly yesterday. — 昨日、旧友が思いがけなく私たちを訪ねてきた。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『思いがけなく』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-22224",
+    "language": "en",
+    "headword": "afar",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "遠くに",
+    "example": "The castle lights were visible from afar. — 城の明かりは遠くからでも見えた。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『遠くに』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-22235",
+    "language": "en",
+    "headword": "seemingly",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "一見したところ",
+    "example": "The seemingly easy question confused many students. — 一見したところ簡単そうな問題が多くの生徒を混乱させた。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『一見したところ』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-22242",
+    "language": "en",
+    "headword": "preferably",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "できれば",
+    "example": "Call me in the morning, preferably before nine. — 朝、できれば9時前に電話をください。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『できれば』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-22249",
+    "language": "en",
+    "headword": "socially",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "社会的に",
+    "example": "Volunteering is a socially important activity. — ボランティアは社会的に重要な活動だ。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『社会的に』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-22285",
+    "language": "en",
+    "headword": "wonderfully",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "驚くほど",
+    "example": "The old piano still sounds wonderfully clear. — その古いピアノは今でも驚くほど澄んだ音がする。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『驚くほど』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-22293",
+    "language": "en",
+    "headword": "wildly",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "乱暴に",
+    "example": "Do not swing the bat wildly in the yard. — 庭でバットを乱暴に振り回してはいけない。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『乱暴に』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-22331",
+    "language": "en",
+    "headword": "overly",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "過度に",
+    "example": "Do not be overly worried about small mistakes. — 小さな間違いを過度に心配してはいけない。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『過度に』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-22355",
+    "language": "en",
+    "headword": "respectfully",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "敬意を表して",
+    "example": "The students bowed respectfully to their teacher. — 生徒たちは敬意を表して先生におじぎをした。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『敬意を表して』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-22363",
+    "language": "en",
+    "headword": "rightly",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "正しく",
+    "example": "She rightly guessed the answer to the riddle. — 彼女はなぞなぞの答えを正しく言い当てた。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『正しく』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-22379",
+    "language": "en",
+    "headword": "comfortably",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "心地よく",
+    "example": "We rested comfortably in the warm cabin. — 私たちは暖かい小屋で心地よく休んだ。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『心地よく』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-22437",
+    "language": "en",
+    "headword": "wisely",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "賢明にも",
+    "example": "She wisely saved half of her allowance. — 彼女は賢明にもおこづかいの半分を貯金した。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『賢明にも』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-22460",
+    "language": "en",
+    "headword": "theoretically",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "理論上",
+    "example": "Theoretically, this engine can run for ten years. — 理論上、このエンジンは10年間動くことができる。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『理論上』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-22498",
+    "language": "en",
+    "headword": "aloud",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "声を出して",
+    "example": "Please read the poem aloud to the class. — その詩をクラスに向かって声を出して読んでください。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『声を出して』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-22505",
+    "language": "en",
+    "headword": "astray",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "迷って",
+    "example": "The letter went astray in the mail. — その手紙は配達の途中で迷って届かなかった。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『迷って』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-22518",
+    "language": "en",
+    "headword": "violently",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "激しく",
+    "example": "The wind shook the windows violently last night. — 昨夜、風が窓を激しく揺らした。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『激しく』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-22588",
+    "language": "en",
+    "headword": "dangerously",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "危険なほど",
+    "example": "The truck drove dangerously close to the wall. — トラックは壁に危険なほど近づいて走った。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『危険なほど』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-22594",
+    "language": "en",
+    "headword": "morally",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "道徳的に",
+    "example": "Helping the weak is morally right. — 弱い人を助けることは道徳的に正しい。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『道徳的に』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-22596",
+    "language": "en",
+    "headword": "apiece",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "ひとりにつき",
+    "example": "The children received two apples apiece. — 子供たちはひとりにつきリンゴを2個受け取った。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『ひとりにつき』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-22600",
+    "language": "en",
+    "headword": "unnecessarily",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "不必要に",
+    "example": "Do not make the report unnecessarily long. — 報告書を不必要に長くしてはいけない。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『不必要に』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-22601",
+    "language": "en",
+    "headword": "upstate",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "州の北部の",
+    "example": "They own a small farm in the upstate area. — 彼らは州の北部の地域に小さな農場を持っている。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『州の北部の』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-22608",
+    "language": "en",
+    "headword": "casually",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "なにげなく",
+    "example": "He casually mentioned his plan during lunch. — 彼は昼食中になにげなく自分の計画に触れた。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『なにげなく』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-22660",
+    "language": "en",
+    "headword": "unusually",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "異常に",
+    "example": "It is unusually hot for early spring. — 春先にしては異常に暑い。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『異常に』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-22667",
+    "language": "en",
+    "headword": "pronto",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "すぐに",
+    "example": "Finish your homework pronto, please. — 宿題をすぐに終わらせてください。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『すぐに』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-22691",
+    "language": "en",
+    "headword": "ironically",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "皮肉にも",
+    "example": "Ironically, the fire station itself caught fire. — 皮肉にも、消防署自体が火事になった。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『皮肉にも』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-22707",
+    "language": "en",
+    "headword": "unbelievably",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "信じられないほど",
+    "example": "The desert gets unbelievably cold at night. — 砂漠は夜になると信じられないほど寒くなる。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『信じられないほど』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-22755",
+    "language": "en",
+    "headword": "humbly",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "謙遜して",
+    "example": "He humbly accepted the praise from his teacher. — 彼は先生からのほめ言葉を謙遜して受け止めた。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『謙遜して』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-22800",
+    "language": "en",
+    "headword": "bravely",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "勇敢に",
+    "example": "The small dog bravely protected its owner. — その小さな犬は勇敢に飼い主を守った。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『勇敢に』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-22803",
+    "language": "en",
+    "headword": "steadily",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "着実に",
+    "example": "His grades improved steadily through the year. — 彼の成績は1年を通して着実に上がった。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『着実に』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-22865",
+    "language": "en",
+    "headword": "inevitably",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "必然的に",
+    "example": "Careless spending inevitably leads to money trouble. — 不注意な出費は必然的に金銭問題につながる。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『必然的に』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-22891",
+    "language": "en",
+    "headword": "indefinitely",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "無期限に，いつまでも",
+    "example": "The game has been indefinitely postponed. — ゲームは無期延期になった。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『無期限に，いつまでも』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-22934",
+    "language": "en",
+    "headword": "blindly",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "盲目的に",
+    "example": "Do not blindly believe everything on the internet. — インターネット上のすべてを盲目的に信じてはいけない。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『盲目的に』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "en-22938",
+    "language": "en",
+    "headword": "considerably",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "かなり",
+    "example": "The weather became considerably colder this week. — 今週は天気がかなり寒くなった。",
+    "dictPos": [
+      "adverb"
+    ],
+    "suggestedTag": [
+      "副詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『かなり』は副詞的・辞書単一adverb・前置詞用法でない"
+  },
+  {
+    "id": "ko-00008",
+    "language": "ko",
+    "headword": "아니요",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "いいえ",
+    "example": "아니요, 저는 안 갑니다. — いいえ、私は行きません。",
+    "dictPos": [
+      "interjection"
+    ],
+    "suggestedTag": [
+      "間投詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『いいえ』は間投詞・辞書interjection"
+  },
+  {
+    "id": "ko-00013",
+    "language": "ko",
+    "headword": "당신",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "あなた",
+    "example": "당신은 참 친절하다. — あなたは本当に親切だ。",
+    "dictPos": [
+      "pronoun"
+    ],
+    "suggestedTag": [
+      "代名詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『あなた』は代名詞・辞書pronoun"
+  },
+  {
+    "id": "ko-00014",
+    "language": "ko",
+    "headword": "누구",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "誰",
+    "example": "저 사람은 누구입니까? — あの人は誰ですか?",
+    "dictPos": [
+      "pronoun"
+    ],
+    "suggestedTag": [
+      "代名詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『誰』は代名詞・辞書pronoun"
+  },
+  {
+    "id": "ko-00015",
+    "language": "ko",
+    "headword": "무엇",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "何",
+    "example": "지금 무엇을 하니? — 今何をしているの?",
+    "dictPos": [
+      "pronoun"
+    ],
+    "suggestedTag": [
+      "代名詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『何』は代名詞・辞書pronoun"
+  },
+  {
+    "id": "ko-00184",
+    "language": "ko",
+    "headword": "넷",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "四つ",
+    "example": "책상 위에 연필이 넷 있다. — 机の上に鉛筆が四本ある。",
+    "dictPos": [
+      "numeral"
+    ],
+    "suggestedTag": [
+      "数詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『四つ』は数詞・辞書numeral"
+  },
+  {
+    "id": "ko-00185",
+    "language": "ko",
+    "headword": "다섯",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "五つ",
+    "example": "나는 사과를 다섯 개 산다. — 私はりんごを五個買う。",
+    "dictPos": [
+      "numeral"
+    ],
+    "suggestedTag": [
+      "数詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『五つ』は数詞・辞書numeral"
+  },
+  {
+    "id": "ko-00296",
+    "language": "ko",
+    "headword": "여섯",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "六つ",
+    "example": "우리 반은 모두 여섯 명이다. — 私たちのクラスはみんなで六人だ。",
+    "dictPos": [
+      "numeral"
+    ],
+    "suggestedTag": [
+      "数詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『六つ』は数詞・辞書numeral"
+  },
+  {
+    "id": "ko-00297",
+    "language": "ko",
+    "headword": "일곱",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "七つ",
+    "example": "나는 아침 일곱 시에 일어난다. — 私は朝七時に起きる。",
+    "dictPos": [
+      "numeral"
+    ],
+    "suggestedTag": [
+      "数詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『七つ』は数詞・辞書numeral"
+  },
+  {
+    "id": "ko-00298",
+    "language": "ko",
+    "headword": "여덟",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "八つ",
+    "example": "가게에 사과가 여덟 개 있다. — 店にりんごが八個ある。",
+    "dictPos": [
+      "numeral"
+    ],
+    "suggestedTag": [
+      "数詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『八つ』は数詞・辞書numeral"
+  },
+  {
+    "id": "ko-00299",
+    "language": "ko",
+    "headword": "아홉",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "九つ",
+    "example": "지금 시간은 아홉 시이다. — 今の時間は九時だ。",
+    "dictPos": [
+      "numeral"
+    ],
+    "suggestedTag": [
+      "数詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『九つ』は数詞・辞書numeral"
+  },
+  {
+    "id": "ko-00456",
+    "language": "ko",
+    "headword": "이것",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "これ",
+    "example": "이것은 내 가방이다. — これは私のかばんだ。",
+    "dictPos": [
+      "pronoun"
+    ],
+    "suggestedTag": [
+      "代名詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『これ』は代名詞・辞書pronoun"
+  },
+  {
+    "id": "ko-00457",
+    "language": "ko",
+    "headword": "그것",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "それ",
+    "example": "그것은 네 책이다. — それはきみの本だ。",
+    "dictPos": [
+      "pronoun"
+    ],
+    "suggestedTag": [
+      "代名詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『それ』は代名詞・辞書pronoun"
+  },
+  {
+    "id": "ko-00458",
+    "language": "ko",
+    "headword": "저것",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "あれ",
+    "example": "저것은 아주 높은 건물이다. — あれはとても高い建物だ。",
+    "dictPos": [
+      "pronoun"
+    ],
+    "suggestedTag": [
+      "代名詞"
+    ],
+    "multiplePos": false,
+    "category": "A",
+    "confidence": 0.99,
+    "reason": "answer『あれ』は代名詞・辞書pronoun"
+  },
+  {
+    "id": "ko-00459",
+    "language": "ko",
+    "headword": "여기",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "ここ",
+    "example": "여기가 우리 학교이다. — ここが私たちの学校だ。",
+    "dictPos": [
+      "pronoun"
+    ],
+    "suggestedTag": [
+      "代名詞"
+    ],
+    "multiplePos": false,
+    "category": "C",
+    "confidence": 0,
+    "reason": "代名詞と確証できず→人手"
+  },
+  {
+    "id": "ko-00460",
+    "language": "ko",
+    "headword": "거기",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "そこ",
+    "example": "너는 거기에서 뭐 하니? — きみはそこで何をするの?",
+    "dictPos": [
+      "pronoun"
+    ],
+    "suggestedTag": [
+      "代名詞"
+    ],
+    "multiplePos": false,
+    "category": "C",
+    "confidence": 0,
+    "reason": "代名詞と確証できず→人手"
+  }
+]

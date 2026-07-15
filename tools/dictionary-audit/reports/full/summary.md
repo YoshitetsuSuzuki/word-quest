@@ -6,9 +6,9 @@
 
 | 言語 | 総件数 | 照合 | verified | likely | review | conflicting | critical | not_checked | 辞書 |
 |---|---|---|---|---|---|---|---|---|---|
-| english | 8136 | 8136 | 0 | 7260 | 533 | 0 | 343 | 0 | oewn |
+| english | 8136 | 8136 | 0 | 7580 | 255 | 0 | 301 | 0 | oewn |
 | chinese | 4201 | 4201 | 4188 | 0 | 13 | 0 | 0 | 0 | cedict |
-| korean | 1529 | 1529 | 4 | 1297 | 124 | 0 | 104 | 0 | kaikki-korean |
+| korean | 1529 | 1529 | 4 | 1374 | 111 | 0 | 40 | 0 | kaikki-korean |
 | spanish | 1948 | 1948 | 1912 | 22 | 14 | 0 | 0 | 0 | kaikki-spanish |
 | german | 1919 | 1919 | 1894 | 9 | 16 | 0 | 0 | 0 | kaikki-german |
 | french | 1948 | 1948 | 1905 | 17 | 26 | 0 | 0 | 0 | kaikki-french |
@@ -20,9 +20,9 @@
 
 | 言語 | 見出し | 品詞 | 語義 | 発音 | 和訳 |
 |---|---|---|---|---|---|
-| english | 8136 | 7737 | 0 | 0 | 0 |
+| english | 8136 | 8015 | 0 | 0 | 0 |
 | chinese | 4201 | 0 | 4179 | 4189 | 0 |
-| korean | 1529 | 1421 | 0 | 1438 | 0 |
+| korean | 1529 | 1434 | 0 | 1438 | 0 |
 | spanish | 1948 | 0 | 1948 | 0 | 0 |
 | german | 1919 | 0 | 1919 | 0 | 0 |
 | french | 1948 | 0 | 1948 | 0 | 0 |
@@ -30,6 +30,6 @@
 | polish | 150 | 0 | 150 | 0 | 0 |
 | russian | 150 | 0 | 150 | 0 | 0 |
 
-問題別: critical 447 / conflicting 0 / review 729 / not-found 214 / not-checked 0
+問題別: critical 341 / conflicting 0 / review 438 / not-found 214 / not-checked 0
 
 > 和訳照合は0(JA辞書未配置)。発音照合は中国語(CC-CEDICT拼音)のみ。英語は見出し・品詞をOEWNで照合、語義は和訳構造のため直接照合不可。**未確認を一致として扱わない。**
