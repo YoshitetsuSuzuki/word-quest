@@ -1,0 +1,1411 @@
+[
+  {
+    "id": "zh-00031",
+    "language": "zh",
+    "headword": "不客气",
+    "sourceAuditFiles": [
+      "chinese/issues-L1.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "other",
+    "severity": "uncertain",
+    "field": "pronunciation",
+    "currentValue": "bù kèqì",
+    "suggestedValue": "bù kèqi",
+    "reason": "『客气』の『气』は通常軽声(kèqi)。現データは kèqì(第4声)。規範辞書未照合のため not_verified。声調表記の慣習差の可能性あり。",
+    "confidence": 0.5,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01150",
+    "language": "zh",
+    "headword": "原来",
+    "sourceAuditFiles": [
+      "chinese/issues-L2b.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "low",
+    "field": "answer",
+    "currentValue": "もともと",
+    "suggestedValue": "もともと／なんだ〜だったのか",
+    "reason": "「原来」は①もともと②（気づき）なんだ〜だったのか の2義。例文『原来他是你的朋友』は②の気づき用法で、answer/訳『もともと』は①寄り。要確認。",
+    "confidence": 0.55,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01196",
+    "language": "zh",
+    "headword": "中医",
+    "sourceAuditFiles": [
+      "chinese/issues-L2b.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "low",
+    "field": "answer",
+    "currentValue": "漢方医",
+    "suggestedValue": "漢方（中国医学）／漢方医",
+    "reason": "「中医」は①漢方医学（体系）②漢方医（人）。例文『他相信中医』は①の体系を指すため、answer『漢方医』は文脈とやや不一致。",
+    "confidence": 0.55,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00907",
+    "language": "zh",
+    "headword": "晴",
+    "sourceAuditFiles": [
+      "chinese/issues-L2b.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "low",
+    "field": "example",
+    "currentValue": "今天天气很晴。",
+    "suggestedValue": "今天天气很晴朗。／今天是晴天。",
+    "reason": "『很+晴』はやや不自然。中国語では『晴朗』を用いるか『晴天』の名詞化が自然。要ネイティブ確認。",
+    "confidence": 0.55,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01017",
+    "language": "zh",
+    "headword": "腿",
+    "sourceAuditFiles": [
+      "chinese/issues-L2b.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "low",
+    "field": "answer",
+    "currentValue": "足",
+    "suggestedValue": "脚（あし・レッグ）",
+    "reason": "「腿」は膝を含む『脚（leg）』。answer『足』は foot と紛らわしい。軽微。",
+    "confidence": 0.5,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01027",
+    "language": "zh",
+    "headword": "碗",
+    "sourceAuditFiles": [
+      "chinese/issues-L2b.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "low",
+    "field": "answer",
+    "currentValue": "茶碗",
+    "suggestedValue": "椀／ボウル",
+    "reason": "「碗」は椀・ボウル全般。例文『一碗米饭』はご飯茶碗だが、語義としては『椀』が広く適切。軽微。",
+    "confidence": 0.5,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-02376",
+    "language": "zh",
+    "headword": "多种",
+    "sourceAuditFiles": [
+      "chinese/issues-L4a.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "pos_mismatch",
+    "severity": "low",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "形容詞",
+    "reason": "「多种」は数量修飾(形容詞/数量詞的)。名詞タグは要検討。",
+    "confidence": 0.55,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-02406",
+    "language": "zh",
+    "headword": "…分之…",
+    "sourceAuditFiles": [
+      "chinese/issues-L4a.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "pos_mismatch",
+    "severity": "low",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "数詞",
+    "reason": "「…分之…」は分数表現(数詞的)。名詞タグは要検討。",
+    "confidence": 0.55,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-02512",
+    "language": "zh",
+    "headword": "激动",
+    "sourceAuditFiles": [
+      "chinese/issues-L4a.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "low",
+    "field": "answer",
+    "currentValue": "感激する",
+    "suggestedValue": "興奮する / 感動する",
+    "reason": "「激动」の中核義は感情の高ぶり(興奮・感動)。「感激する(感謝)」はやや不正確だが辞書によっては許容。要人手確認。",
+    "confidence": 0.5,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-02289",
+    "language": "zh",
+    "headword": "纯净水",
+    "sourceAuditFiles": [
+      "chinese/issues-L4a.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "low",
+    "field": "answer",
+    "currentValue": "純水",
+    "suggestedValue": "精製水 / ピュアウォーター",
+    "reason": "「纯净水」は飲用の精製水。「純水」は化学的な純水を指しやすく語感差あり。要検討。",
+    "confidence": 0.5,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-02676",
+    "language": "zh",
+    "headword": "描述",
+    "sourceAuditFiles": [
+      "chinese/issues-L4b.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "low",
+    "field": "answer",
+    "currentValue": "叙述する",
+    "suggestedValue": "描写する／述べる",
+    "reason": "『描述』は『（様子・状況を）描写・記述する』が中心義。『叙述』でも通じるが、より的確なのは『描写する』。外部辞書未照合につき確信は限定的（not_verified）。",
+    "confidence": 0.5,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-02764",
+    "language": "zh",
+    "headword": "色",
+    "sourceAuditFiles": [
+      "chinese/issues-L4b.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "low",
+    "field": "example",
+    "currentValue": "这件衣服的色很好看。",
+    "suggestedValue": "这件衣服的颜色很好看。",
+    "reason": "単独名詞『色』を『的色』の形で用いるのは口語的に不自然で、通常は『颜色』を用いる。見出し語『色』自体は妥当。外部照合なし（not_verified）。",
+    "confidence": 0.55,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-02780",
+    "language": "zh",
+    "headword": "设置",
+    "sourceAuditFiles": [
+      "chinese/issues-L4b.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "low",
+    "field": "example",
+    "currentValue": "老师在教室里设置了一个问题。",
+    "suggestedValue": "老师在教室里提出了一个问题。",
+    "reason": "『设置一个问题』はやや不自然な連語。『问题』には『提出』『设计』が自然。『设置』は設備・パラメータ等の設定に多用。外部照合なし（not_verified）。",
+    "confidence": 0.5,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03175",
+    "language": "zh",
+    "headword": "必",
+    "sourceAuditFiles": [
+      "chinese/issues-L5a.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "low",
+    "field": "example",
+    "currentValue": "明天你必来开会。",
+    "suggestedValue": "明天你务必来开会。／一定要来。",
+    "reason": "単独副詞『必』は現代口語では硬く不自然。『务必/一定要』が自然。見出し語自体は保持可。",
+    "confidence": 0.55,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00094",
+    "language": "en",
+    "headword": "right",
+    "sourceAuditFiles": [
+      "english/issues-L1.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "pos_mismatch",
+    "severity": "uncertain",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "reason": "answer『右の』は形容詞義。名詞/副詞義もあり要確認。",
+    "confidence": 0.55,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00174",
+    "language": "en",
+    "headword": "while",
+    "sourceAuditFiles": [
+      "english/issues-L1.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "pos_mismatch",
+    "severity": "uncertain",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "接続詞"
+    ],
+    "reason": "while は接続詞。名詞用法(a while)もあり要確認。",
+    "confidence": 0.55,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00341",
+    "language": "en",
+    "headword": "already",
+    "sourceAuditFiles": [
+      "english/issues-L1.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "missing_pronunciation",
+    "severity": "uncertain",
+    "field": "pronunciation",
+    "currentValue": "/ɔˈɹɛdi/",
+    "suggestedValue": "/ɔɫˈɹɛdi/",
+    "reason": "already は /ɔːlˈrɛdi/。現行 /ɔˈɹɛdi/ は /l/ 欠落の可能性。 ※外部辞書未照合(not_verified)。",
+    "confidence": 0.6,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00457",
+    "language": "en",
+    "headword": "human",
+    "sourceAuditFiles": [
+      "english/issues-L1.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "pos_mismatch",
+    "severity": "uncertain",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "reason": "answer『人間の』は形容詞義。名詞義もあり要確認。",
+    "confidence": 0.55,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00574",
+    "language": "en",
+    "headword": "arrive",
+    "sourceAuditFiles": [
+      "english/issues-L1.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "missing_pronunciation",
+    "severity": "uncertain",
+    "field": "pronunciation",
+    "currentValue": "/ɝˈaɪv/",
+    "suggestedValue": "/əˈɹaɪv/",
+    "reason": "arrive は /əˈraɪv/。現行 /ɝˈaɪv/ は語頭 /r/ が不明瞭。 ※外部辞書未照合(not_verified)。",
+    "confidence": 0.6,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00647",
+    "language": "en",
+    "headword": "official",
+    "sourceAuditFiles": [
+      "english/issues-L1.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "pos_mismatch",
+    "severity": "uncertain",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "reason": "answer『公式の』は形容詞義。名詞義もあり要確認。",
+    "confidence": 0.55,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-01854",
+    "language": "en",
+    "headword": "prime",
+    "sourceAuditFiles": [
+      "english/issues-L3a.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "low",
+    "field": "example",
+    "currentValue": "Safety is our prime goal at the pool. — プールでは安全が私たちの首位の目標だ。",
+    "suggestedValue": "…— プールでは安全が私たちの最優先（主要）の目標だ。",
+    "reason": "prime（主要な・最重要の）に対し和訳『首位の』はやや不自然。",
+    "confidence": 0.55,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-01883",
+    "language": "en",
+    "headword": "manufacturer",
+    "sourceAuditFiles": [
+      "english/issues-L3a.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "other",
+    "severity": "low",
+    "field": "pronunciation",
+    "currentValue": "/ˌmænjəˈfæktʃɝɝ/",
+    "suggestedValue": "",
+    "reason": "IPA末尾が /tʃɝɝ/ と r音が重複しており生成由来の異常の可能性。外部辞書未照合のため要人手確認。",
+    "confidence": 0.5,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-02730",
+    "language": "en",
+    "headword": "piano",
+    "sourceAuditFiles": [
+      "english/issues-L3b.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "pronunciation",
+    "severity": "low",
+    "field": "pronunciation",
+    "currentValue": "/piˈænə/",
+    "suggestedValue": "/piˈænoʊ/",
+    "reason": "語末の/oʊ/が/ə/に弱化している可能性。外部辞書未照合のためnot_verified。",
+    "confidence": 0.4,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-02789",
+    "language": "en",
+    "headword": "genuine",
+    "sourceAuditFiles": [
+      "english/issues-L3b.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "pronunciation",
+    "severity": "low",
+    "field": "pronunciation",
+    "currentValue": "/ˈdʒɛnˈjuˌwaɪn/",
+    "suggestedValue": "/ˈdʒɛnjuɪn/",
+    "reason": "標準的発音は/ˈdʒɛnjuɪn/。/waɪn/語尾は非標準変種。外部辞書未照合のためnot_verified。",
+    "confidence": 0.4,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-07953",
+    "language": "en",
+    "headword": "plaintiff",
+    "sourceAuditFiles": [
+      "english/issues-L5b.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "pronunciation",
+    "severity": "low",
+    "field": "pronunciation",
+    "currentValue": "/ˈpɫeɪnəf/",
+    "suggestedValue": "/ˈpleɪntɪf/",
+    "reason": "現行IPAは /t/ と第2音節の母音が脱落しており標準的な発音記号 /ˈpleɪntɪf/ と異なる可能性がある。外部辞書未照合のため確定不可（not_verified）。",
+    "confidence": 0.5,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-20553",
+    "language": "en",
+    "headword": "perimeter",
+    "sourceAuditFiles": [
+      "english/issues-L6b.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "pronunciation",
+    "severity": "low",
+    "field": "pronunciation",
+    "currentValue": "/pɝˈɪmətɝ/",
+    "suggestedValue": null,
+    "reason": "機械生成の音声表記。第1音節が/pɝ/だが通常/pə/。要辞書照合。外部発音辞書未照合のため誤りと断定せず要人手確認。",
+    "confidence": 0.4,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-20567",
+    "language": "en",
+    "headword": "magician",
+    "sourceAuditFiles": [
+      "english/issues-L6b.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "low",
+    "field": "answer",
+    "currentValue": "魔法使い",
+    "suggestedValue": "手品師，マジシャン",
+    "reason": "magicianの第一義は手品師/マジシャン。『魔法使い』はwizard/sorcerer寄り（例文は童話文脈で許容）。",
+    "confidence": 0.55,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-20656",
+    "language": "en",
+    "headword": "precinct",
+    "sourceAuditFiles": [
+      "english/issues-L6b.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "pronunciation",
+    "severity": "low",
+    "field": "pronunciation",
+    "currentValue": "/ˈpɹiˌsɪŋk/",
+    "suggestedValue": null,
+    "reason": "機械生成の音声表記。語末/t/欠落の可能性（通常/ˈpriːsɪŋkt/）。外部発音辞書未照合のため誤りと断定せず要人手確認。",
+    "confidence": 0.4,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-20823",
+    "language": "en",
+    "headword": "peculiar",
+    "sourceAuditFiles": [
+      "english/issues-L6b.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "pronunciation",
+    "severity": "low",
+    "field": "pronunciation",
+    "currentValue": "/pəkˈjuɫjɝ/",
+    "suggestedValue": null,
+    "reason": "機械生成の音声表記。音節区切り・強勢が非典型。外部発音辞書未照合のため誤りと断定せず要人手確認。",
+    "confidence": 0.4,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-20881",
+    "language": "en",
+    "headword": "underestimate",
+    "sourceAuditFiles": [
+      "english/issues-L6b.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "pronunciation",
+    "severity": "low",
+    "field": "pronunciation",
+    "currentValue": "/ˈəndɝˈɛstəˌmeɪt/",
+    "suggestedValue": null,
+    "reason": "機械生成の音声表記。第1強勢が二重付与。外部発音辞書未照合のため誤りと断定せず要人手確認。",
+    "confidence": 0.4,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-21033",
+    "language": "en",
+    "headword": "waltz",
+    "sourceAuditFiles": [
+      "english/issues-L6c.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "pronunciation",
+    "severity": "low",
+    "field": "pronunciation",
+    "currentValue": "/ˈwɔɫs/",
+    "suggestedValue": "/ˈwɔɫts/",
+    "reason": "'waltz'のIPAが /t/ を欠く可能性(未検証)。外部辞書未照合。",
+    "confidence": 0.4,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-21047",
+    "language": "en",
+    "headword": "playground",
+    "sourceAuditFiles": [
+      "english/issues-L6c.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "pronunciation",
+    "severity": "medium",
+    "field": "pronunciation",
+    "currentValue": "/ˈpɫeɪˌɡɹaʊn/",
+    "suggestedValue": "/ˈpɫeɪˌɡɹaʊnd/",
+    "reason": "'playground'のIPAが末尾 /d/ を欠く可能性(未検証)。外部辞書未照合のため要人手確認。",
+    "confidence": 0.5,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-21059",
+    "language": "en",
+    "headword": "pentagon",
+    "sourceAuditFiles": [
+      "english/issues-L6c.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "pronunciation",
+    "severity": "medium",
+    "field": "pronunciation",
+    "currentValue": "/ˈpɛnɪˌɡɑn/",
+    "suggestedValue": "/ˈpɛntəˌɡɑn/",
+    "reason": "'pentagon'のIPAが /t/ 欠落・第2母音が不自然の可能性(未検証)。外部辞書未照合。",
+    "confidence": 0.5,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-21167",
+    "language": "en",
+    "headword": "martini",
+    "sourceAuditFiles": [
+      "english/issues-L6c.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "low",
+    "field": "answer",
+    "currentValue": "マーティニ",
+    "suggestedValue": "マティーニ",
+    "reason": "'martini'の一般的なカナ表記は「マティーニ」。「マーティニ」は非標準表記の可能性。",
+    "confidence": 0.55,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-21412",
+    "language": "en",
+    "headword": "buffet",
+    "sourceAuditFiles": [
+      "english/issues-L6c.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "pronunciation",
+    "severity": "medium",
+    "field": "pronunciation",
+    "currentValue": "/ˈbəfət/",
+    "suggestedValue": "/bəˈfeɪ/",
+    "reason": "食事の意味の 'buffet(ビュッフェ)'は通例 /bəˈfeɪ/。現IPA /ˈbəfət/ は『打つ』の意の別語に対応する可能性(未検証)。",
+    "confidence": 0.45,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-21639",
+    "language": "en",
+    "headword": "intercourse",
+    "sourceAuditFiles": [
+      "english/issues-L7a.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "pronunciation",
+    "severity": "low",
+    "field": "pronunciation",
+    "currentValue": "/ˈɪnɝˌkɔɹs/",
+    "suggestedValue": null,
+    "reason": "/t/ が脱落して 'inner-course' 的な表記に見える（標準は /ˈɪntərˌkɔːrs/ 系）。外部辞書未照合のため断定せず not_verified とする。",
+    "confidence": 0.5,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "fr-00961",
+    "language": "fr",
+    "headword": "unité",
+    "sourceAuditFiles": [
+      "french/issues-L3.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "low",
+    "field": "answer & glosses.en",
+    "currentValue": "unity",
+    "suggestedValue": "unit; unity",
+    "reason": "和訳 glosses.ja は「単位，統一」で「単位(unit)」が先頭。英語は 'unity' のみで unit の義が欠落。« unité » は unité de mesure 等「単位」の意味が非常に一般的で、英和の主要義が不整合。",
+    "confidence": 0.55,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "fr-01030",
+    "language": "fr",
+    "headword": "sentiment",
+    "sourceAuditFiles": [
+      "french/issues-L3.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "low",
+    "field": "answer & glosses.en",
+    "currentValue": "sentiment",
+    "suggestedValue": "feeling",
+    "reason": "« sentiment » = feeling（感情）。和訳「感情」に対し英語 'sentiment' も許容だが、'feeling' の方が中心義で自然。誤りではないが精度向上の余地あり。",
+    "confidence": 0.5,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "fr-01301",
+    "language": "fr",
+    "headword": "billet",
+    "sourceAuditFiles": [
+      "french/issues-L4.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "low",
+    "field": "glosses.en",
+    "currentValue": "note",
+    "suggestedValue": "ticket; (bank)note",
+    "reason": "英訳 'note'(=紙幣/短信)と和訳 '券'(=切符/チケット)が別の語義を指しており不整合。『billet』は『切符・チケット』『紙幣(billet de banque)』『短い手紙(billet doux)』の多義。英和で同一語義に揃えるか、代表義を明示すべき。",
+    "confidence": 0.55,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "fr-01225",
+    "language": "fr",
+    "headword": "pousse",
+    "sourceAuditFiles": [
+      "french/issues-L4.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "low",
+    "field": "glosses.en",
+    "currentValue": "growth",
+    "suggestedValue": "shoot; sprout",
+    "reason": "和訳 '芽' は名詞『新芽・若芽』を的確に表すが、英訳 'growth'(=成長・生育)は過程を指す抽象語で、和訳の指す具象名詞とずれる。『la pousse』の具象義は 'shoot/sprout'(例: pousse de soja=もやし)。'growth' も生育過程の意では誤りではないため低重要度。",
+    "confidence": 0.55,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "fr-01371",
+    "language": "fr",
+    "headword": "pis",
+    "sourceAuditFiles": [
+      "french/issues-L4.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "low",
+    "field": "glosses.en",
+    "currentValue": "udder",
+    "suggestedValue": "udder (name sense); note: more frequent sense is 'worse'",
+    "reason": "『le pis』=(牛などの)乳房 は正しい名詞義で、英 'udder'・和 '乳房' は整合。ただし『pis』の高頻度義は副詞『より悪く』(tant pis, de mal en pis)であり、学習者が混同しやすい。データ自体は誤りではないが人手確認を推奨。外部辞書未照合のため断定は避ける。",
+    "confidence": 0.5,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "de-00124",
+    "language": "de",
+    "headword": "Lieber",
+    "sourceAuditFiles": [
+      "german/issues-L1.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "capitalization_and_sense",
+    "severity": "uncertain",
+    "field": "prompt",
+    "currentValue": "Lieber",
+    "suggestedValue": "lieber",
+    "reason": "手紙の呼びかけ『Lieber …』では文頭大文字だが、見出しの形容詞lieberは小文字。加えてlieberは副詞『むしろ・好んで(rather/preferably)』の高頻度義もあり、答え『dear』のみでは義が偏る可能性。要確認。",
+    "confidence": 0.5,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "de-00035",
+    "language": "de",
+    "headword": "Zwei",
+    "sourceAuditFiles": [
+      "german/issues-L1.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "capitalization",
+    "severity": "uncertain",
+    "field": "prompt",
+    "currentValue": "Zwei",
+    "suggestedValue": "zwei",
+    "reason": "基数詞は小文字(zwei)。jaが数詞『二』のため小文字が推奨。ただし名詞『die Zwei(数字の2・評価)』としては大文字も可のため要確認。",
+    "confidence": 0.6,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "de-00073",
+    "language": "de",
+    "headword": "Drei",
+    "sourceAuditFiles": [
+      "german/issues-L1.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "capitalization",
+    "severity": "uncertain",
+    "field": "prompt",
+    "currentValue": "Drei",
+    "suggestedValue": "drei",
+    "reason": "基数詞は小文字(drei)。jaが数詞『三』のため小文字が推奨。名詞die Dreiとしては大文字も可のため要確認。",
+    "confidence": 0.6,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "de-00150",
+    "language": "de",
+    "headword": "Eins",
+    "sourceAuditFiles": [
+      "german/issues-L1.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "capitalization",
+    "severity": "uncertain",
+    "field": "prompt",
+    "currentValue": "Eins",
+    "suggestedValue": "eins",
+    "reason": "基数詞は小文字(eins)。jaが数詞『一つ』のため小文字が推奨。名詞die Einsとしては大文字も可のため要確認。",
+    "confidence": 0.6,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "de-00204",
+    "language": "de",
+    "headword": "Fünf",
+    "sourceAuditFiles": [
+      "german/issues-L1.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "capitalization",
+    "severity": "uncertain",
+    "field": "prompt",
+    "currentValue": "Fünf",
+    "suggestedValue": "fünf",
+    "reason": "基数詞は小文字(fünf)。jaが数詞『五』のため小文字が推奨。名詞die Fünfとしては大文字も可のため要確認。ウムラウトüは正しい。",
+    "confidence": 0.6,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "de-00221",
+    "language": "de",
+    "headword": "Vier",
+    "sourceAuditFiles": [
+      "german/issues-L1.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "capitalization",
+    "severity": "uncertain",
+    "field": "prompt",
+    "currentValue": "Vier",
+    "suggestedValue": "vier",
+    "reason": "基数詞は小文字(vier)。jaが数詞『四』のため小文字が推奨。名詞die Vierとしては大文字も可のため要確認。",
+    "confidence": 0.6,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "de-00292",
+    "language": "de",
+    "headword": "Zehn",
+    "sourceAuditFiles": [
+      "german/issues-L1.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "capitalization",
+    "severity": "uncertain",
+    "field": "prompt",
+    "currentValue": "Zehn",
+    "suggestedValue": "zehn",
+    "reason": "基数詞は小文字(zehn)。jaが数詞『十』のため小文字が推奨。名詞die Zehnとしては大文字も可のため要確認。",
+    "confidence": 0.6,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "de-00299",
+    "language": "de",
+    "headword": "Sechs",
+    "sourceAuditFiles": [
+      "german/issues-L1.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "capitalization",
+    "severity": "uncertain",
+    "field": "prompt",
+    "currentValue": "Sechs",
+    "suggestedValue": "sechs",
+    "reason": "基数詞は小文字(sechs)。jaが数詞『六』のため小文字が推奨。名詞die Sechsとしては大文字も可のため要確認。",
+    "confidence": 0.6,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "de-00188",
+    "language": "de",
+    "headword": "verloren",
+    "sourceAuditFiles": [
+      "german/issues-L1.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "headword_lemma",
+    "severity": "uncertain",
+    "field": "headword",
+    "currentValue": "verloren",
+    "suggestedValue": "verlieren (lemma) / verloren (adj.)",
+    "reason": "verlorenは動詞verlieren(de-00327)の過去分詞。形容詞的用法(lost/forlorn)は正当だが、活用形が見出しに混入している可能性もあり要確認。",
+    "confidence": 0.5,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "de-01298",
+    "language": "de",
+    "headword": "Motor",
+    "sourceAuditFiles": [
+      "german/issues-L4.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "low",
+    "field": "glosses.ja",
+    "currentValue": "機関",
+    "suggestedValue": "エンジン，モーター",
+    "reason": "『Motor』の英訳engineは妥当ですが、和訳『機関』は堅く、日常語としては『エンジン／モーター』がより自然です。誤りとまでは言えず、確信度は低め。外部辞書未照合。",
+    "confidence": 0.55,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "de-01746",
+    "language": "de",
+    "headword": "Rosa",
+    "sourceAuditFiles": [
+      "german/issues-L5.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "capitalization",
+    "severity": "low",
+    "field": "headword",
+    "currentValue": "Rosa",
+    "suggestedValue": "rosa",
+    "reason": "英訳/和訳とも形容詞『ピンク色の (pink)』を意図しており、色形容詞としての語は小文字 'rosa'。大文字 'Rosa' は名詞 das Rosa(色そのもの)や人名として解釈され得るため、本データ内の他の色/形容詞(grün, französisch 等が小文字)と不整合。名詞用法なら問題なし。not_verified。",
+    "confidence": 0.5,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "de-01898",
+    "language": "de",
+    "headword": "Nix",
+    "sourceAuditFiles": [
+      "german/issues-L5.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "capitalization",
+    "severity": "low",
+    "field": "headword",
+    "currentValue": "Nix",
+    "suggestedValue": "nix",
+    "reason": "『何もない (nothing)』の口語 nichts の砕けた形は小文字 'nix'。大文字 'Nix' は水の精(ニクス/男性名詞 der Nix)を指し得るため、意図する口語義とは不整合の可能性。not_verified。",
+    "confidence": 0.45,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "de-01794",
+    "language": "de",
+    "headword": "Mäuse",
+    "sourceAuditFiles": [
+      "german/issues-L5.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "low",
+    "field": "glosses",
+    "currentValue": "money / 金銭",
+    "suggestedValue": "money (俗)/ mice (字義) ・ 金銭(俗語)",
+    "reason": "『Mäuse』は Maus の複数形で字義は「ネズミたち (mice)」。俗語で「金・お金 (money)」の意もあるが、字義の主要義が省かれ俗語義のみを提示しているため学習者に誤解を与え得る。俗語である旨の注記が望ましい。",
+    "confidence": 0.55,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "de-01826",
+    "language": "de",
+    "headword": "blauen",
+    "sourceAuditFiles": [
+      "german/issues-L5.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "headword_lemma",
+    "severity": "low",
+    "field": "headword",
+    "currentValue": "blauen",
+    "suggestedValue": "blauen (要確認)",
+    "reason": "『blauen』(青くなる/青く光る)は雅語・稀な動詞で、口語では 'blau werden' や 'erblauen' が一般的。レベル5の語彙として妥当か、また意図した語(例: 'blaumachen'=ずる休み)でないか要確認。not_verified。",
+    "confidence": 0.4,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "de-01843",
+    "language": "de",
+    "headword": "Lese",
+    "sourceAuditFiles": [
+      "german/issues-L5.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "low",
+    "field": "en",
+    "currentValue": "harvest",
+    "suggestedValue": "harvest (esp. grape harvest / vintage)",
+    "reason": "『Lese』は主にブドウの収穫・摘み取り(vintage)を指す限定的語。一般的な「収穫」は 'Ernte'。英訳 'harvest'・和訳『収穫』は広すぎて曖昧。文脈の限定注記が望ましい。not_verified。",
+    "confidence": 0.5,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "de-01714",
+    "language": "de",
+    "headword": "Empfang",
+    "sourceAuditFiles": [
+      "german/issues-L5.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "low",
+    "field": "en",
+    "currentValue": "receipt",
+    "suggestedValue": "reception (also receipt)",
+    "reason": "『Empfang』の主要義は「受付・歓迎会・(電波の)受信・出迎え (reception)」。「受領 (receipt)」も一意にあり和訳と英訳は整合するが、最頻義 reception が欠落。主要義の追加が望ましい。not_verified。",
+    "confidence": 0.55,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00180",
+    "language": "ko",
+    "headword": "조금",
+    "sourceAuditFiles": [
+      "korean/issues-p1.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "pos_mismatch",
+    "severity": "low",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "reason": "조금は副詞用法が主（少し）。例文『조금 마신다』も副詞。名詞用法もあり許容範囲だが近接語群は副詞。",
+    "confidence": 0.55,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00131",
+    "language": "ko",
+    "headword": "앉다",
+    "sourceAuditFiles": [
+      "korean/issues-p1.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "pronunciation",
+    "severity": "low",
+    "field": "pronunciation",
+    "currentValue": "anda",
+    "suggestedValue": "antta",
+    "reason": "앉다の標準発音は[안따]。andaは終声ㄵと濃音化を反映せず、別語안다（抱く/知る）と紛らわしい。外部辞書未照合のため要確認。",
+    "confidence": 0.5,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-01510",
+    "language": "ko",
+    "headword": "그렇지만",
+    "sourceAuditFiles": [
+      "korean/issues-p4.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "low",
+    "field": "answer",
+    "currentValue": "そうだけれど",
+    "suggestedValue": "しかし／だが／でも",
+    "reason": "「そうだけれど」は逐語的で接続詞としてはやや不自然。一般的な訳語は「しかし・だが・でも」。意味自体は誤りではない。",
+    "confidence": 0.5,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ru-00089",
+    "language": "ru",
+    "headword": "дождь",
+    "sourceAuditFiles": [
+      "russian/issues-all.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "pronunciation",
+    "severity": "low",
+    "field": "pronunciation",
+    "currentValue": "dozhd'",
+    "suggestedValue": "dosht'（[doʂtʲ]。旧モスクワ式は [doɕː]）",
+    "reason": "語末の有声子音連続 жд' は無声化し、標準現代発音は [doʂtʲ]（=dosht'）。旧モスクワ規範では [doɕː]。いずれにせよ語末で有声のまま [ʐdʲ] とはならないため、dozhd' は語末無声化を反映していない。転写方針に依存するため確信は中程度。",
+    "confidence": 0.55,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ru-00150",
+    "language": "ru",
+    "headword": "необходимый",
+    "sourceAuditFiles": [
+      "russian/issues-all.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "pronunciation",
+    "severity": "low",
+    "field": "pronunciation",
+    "currentValue": "neabhadImiy",
+    "suggestedValue": "neaphadImiy",
+    "reason": "強勢位置（-ди-）は正しい。ただし б は無声子音 х の前で無声化し [p] となる（[nʲɪəpxɐˈdʲimɨj]）。本データは他所で子音無声化を反映（хлеб→khlep, друг→druk 等）しているため、б→p を示すなら neaphadImiy が整合的。",
+    "confidence": 0.55,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ru-00111",
+    "language": "ru",
+    "headword": "прошлое",
+    "sourceAuditFiles": [
+      "russian/issues-all.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "pronunciation",
+    "severity": "low",
+    "field": "pronunciation",
+    "currentValue": "prOshlae",
+    "suggestedValue": "prOshlaye",
+    "reason": "強勢位置（про́-）は正しい。語尾 -ое は [-əjə] と発音され軟音 [j] の渡りが入るため、prOshlae は [j] を欠く。prOshlaye の方が実発音に近い。表記方針次第の微差。",
+    "confidence": 0.5,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "es-00153",
+    "language": "es",
+    "headword": "tierra",
+    "sourceAuditFiles": [
+      "spanish/issues-L1.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "low",
+    "field": "glosses.ja",
+    "currentValue": "地球",
+    "suggestedValue": "土，大地，地面，土地（大文字の la Tierra で「地球」）",
+    "reason": "tierra の一般的な主要義は「土・大地・地面・土地」。「地球」という惑星の意味は通常大文字 la Tierra で表され、小文字の一般語義とは区別される。和訳が「地球」単独だと学習者に惑星の意味を第一義と誤認させる恐れがある。英訳 earth は多義で許容範囲だが和訳は限定的。",
+    "confidence": 0.55,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "es-00136",
+    "language": "es",
+    "headword": "escucha",
+    "sourceAuditFiles": [
+      "spanish/issues-L1.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "pos_mismatch",
+    "severity": "uncertain",
+    "field": "headword / glosses",
+    "currentValue": "escucha = listening / 傾聴，聞くこと",
+    "suggestedValue": "動詞 escuchar の活用形（3人称単数・命令形）の可能性を確認。名詞 la escucha は「傍受・盗聴・聞き手」で「傾聴」は限定的。原形 escuchar の採用も検討。",
+    "reason": "escucha は動詞 escuchar の活用形（él escucha / 命令 ¡escucha!）として現れる頻度が高い。名詞 la escucha は「傍受・盗聴・見張り」等の語義が主で、和訳「傾聴」は一般的な訳として弱い。見出し語として名詞か活用形かの意図確認が必要。",
+    "confidence": 0.4,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "es-00596",
+    "language": "es",
+    "headword": "próximo",
+    "sourceAuditFiles": [
+      "spanish/issues-L2.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "low",
+    "field": "answer / glosses.en",
+    "currentValue": "\"near\"",
+    "suggestedValue": "\"next; near\"",
+    "reason": "próximo の第一義は『次の/next』(el próximo, la próxima vez)。英訳 answer は near のみで主要義 next が欠落。glosses.ja は『次の，近い』と両義を含むため英和で不一致。",
+    "confidence": 0.55,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "es-00429",
+    "language": "es",
+    "headword": "terrible",
+    "sourceAuditFiles": [
+      "spanish/issues-L2.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "low",
+    "field": "glosses.ja",
+    "currentValue": "\"すさまじい\"",
+    "suggestedValue": "\"恐ろしい，ひどい\"",
+    "reason": "terrible の標準的な和訳は『恐ろしい/ひどい』。『すさまじい』は語感が強度方向にややずれ、自然さ・一般性で劣る可能性。",
+    "confidence": 0.5,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "es-00487",
+    "language": "es",
+    "headword": "veras",
+    "sourceAuditFiles": [
+      "spanish/issues-L2.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "headword_lemma",
+    "severity": "low",
+    "field": "answer / glosses",
+    "currentValue": "en: \"truth\" ; ja: \"真実，本気\"",
+    "suggestedValue": null,
+    "reason": "veras は主に成句 de veras(本当に)の一部として現れる語で、独立見出しとしての truth 訳は文脈依存。外部辞書未照合につき確信不十分のため not_verified 扱い(pass にはしない)。",
+    "confidence": 0.4,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "es-00932",
+    "language": "es",
+    "headword": "lástima",
+    "sourceAuditFiles": [
+      "spanish/issues-L3.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "low",
+    "field": "glosses.ja",
+    "currentValue": "残念",
+    "suggestedValue": "哀れみ，気の毒；残念",
+    "reason": "英訳 answer「pity」は同情・哀れみの名詞義だが、日本語 gloss「残念」は感嘆用法（¡Qué lástima!）寄りで、名詞としての「哀れみ・気の毒」を欠く。英日でカバー範囲がずれる。",
+    "confidence": 0.58,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "es-00899",
+    "language": "es",
+    "headword": "mirada",
+    "sourceAuditFiles": [
+      "spanish/issues-L3.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "low",
+    "field": "glosses.ja",
+    "currentValue": "目つき",
+    "suggestedValue": "まなざし，視線",
+    "reason": "「mirada」は「視線・まなざし・一瞥」を中立的に指すが、日本語 gloss「目つき」は目の表情・印象（しばしば否定的含み）に寄る。英訳「look」との整合上は「視線／まなざし」がより自然。",
+    "confidence": 0.55,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "es-00885",
+    "language": "es",
+    "headword": "paga",
+    "sourceAuditFiles": [
+      "spanish/issues-L3.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "low",
+    "field": "answer",
+    "currentValue": "payment",
+    "suggestedValue": "pay, wages",
+    "reason": "「paga」は給料・給金・小遣いを指し、日本語 gloss「給料」と一致する。英訳「payment」は行為としての支払い（=pago, es-00939 と重複義）寄りで、名詞「paga」の語義とわずかにずれる。",
+    "confidence": 0.55,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "es-01038",
+    "language": "es",
+    "headword": "gracia",
+    "sourceAuditFiles": [
+      "spanish/issues-L3.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "low",
+    "field": "glosses.ja",
+    "currentValue": "恩恵",
+    "suggestedValue": "優雅さ，面白み，愛嬌；恩恵",
+    "reason": "「gracia」は日常では「面白み・愛嬌・優雅さ（tener gracia = 面白い）」を指すことが多い。日本語 gloss「恩恵」は宗教的・恩寵の狭義に寄り、英訳「grace」の一般的な口語義を反映していない可能性がある。",
+    "confidence": 0.55,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "es-00872",
+    "language": "es",
+    "headword": "directamente",
+    "sourceAuditFiles": [
+      "spanish/issues-L3.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "low",
+    "field": "glosses.ja",
+    "currentValue": "じかに",
+    "suggestedValue": "直接に",
+    "reason": "「directamente」の標準的な訳は「直接に」。gloss「じかに」も許容範囲だがやや口語的・限定的で、英訳「directly」との対応としては「直接に」がより中立的。",
+    "confidence": 0.5,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "es-00925",
+    "language": "es",
+    "headword": "china",
+    "sourceAuditFiles": [
+      "spanish/issues-L3.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "low",
+    "field": "glosses.ja",
+    "currentValue": "小石",
+    "suggestedValue": "小石（スペイン用法）",
+    "reason": "「china」＝小石はスペインで一般的な用法。中南米では「china」が「（女性の）メイド・田舎娘」等を指す地域差があり、学習者の混乱を避けるため用法域の注記が望ましい。現行の英日訳自体は誤りではない。",
+    "confidence": 0.5,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  }
+]

@@ -1,0 +1,143 @@
+{
+  "appliedCount": 3,
+  "allChecksPass": true,
+  "checks": [
+    {
+      "name": "全JSONパース成功",
+      "pass": true
+    },
+    {
+      "name": "総件数=20131",
+      "pass": true
+    },
+    {
+      "name": "manifest件数一致(count記載時)",
+      "pass": true
+    },
+    {
+      "name": "de-00539 prompt大文字化",
+      "pass": true
+    },
+    {
+      "name": "de-00539 choices=4件",
+      "pass": true
+    },
+    {
+      "name": "de-00539 正解がchoices内",
+      "pass": true
+    },
+    {
+      "name": "de-00539 answer不変",
+      "pass": true
+    },
+    {
+      "name": "de-00648 prompt大文字化",
+      "pass": true
+    },
+    {
+      "name": "de-00648 choices=4件",
+      "pass": true
+    },
+    {
+      "name": "de-00648 正解がchoices内",
+      "pass": true
+    },
+    {
+      "name": "de-00648 answer不変",
+      "pass": true
+    },
+    {
+      "name": "de-00743 prompt大文字化",
+      "pass": true
+    },
+    {
+      "name": "de-00743 choices=4件",
+      "pass": true
+    },
+    {
+      "name": "de-00743 正解がchoices内",
+      "pass": true
+    },
+    {
+      "name": "de-00743 answer不変",
+      "pass": true
+    }
+  ],
+  "applied": [
+    {
+      "id": "de-00539",
+      "field": "prompt",
+      "before": "「raum」の意味は？",
+      "after": "「Raum」の意味は？",
+      "reason": "ドイツ語普通名詞の正書法(名詞は語頭大文字)",
+      "confidence": 0.99,
+      "testsPassed": [
+        "全JSONパース成功",
+        "総件数=20131",
+        "manifest件数一致(count記載時)",
+        "de-00539 prompt大文字化",
+        "de-00539 choices=4件",
+        "de-00539 正解がchoices内",
+        "de-00539 answer不変",
+        "de-00648 prompt大文字化",
+        "de-00648 choices=4件",
+        "de-00648 正解がchoices内",
+        "de-00648 answer不変",
+        "de-00743 prompt大文字化",
+        "de-00743 choices=4件",
+        "de-00743 正解がchoices内",
+        "de-00743 answer不変"
+      ]
+    },
+    {
+      "id": "de-00648",
+      "field": "prompt",
+      "before": "「weihnachten」の意味は？",
+      "after": "「Weihnachten」の意味は？",
+      "reason": "ドイツ語普通名詞の正書法(名詞は語頭大文字)",
+      "confidence": 0.99,
+      "testsPassed": [
+        "全JSONパース成功",
+        "総件数=20131",
+        "manifest件数一致(count記載時)",
+        "de-00539 prompt大文字化",
+        "de-00539 choices=4件",
+        "de-00539 正解がchoices内",
+        "de-00539 answer不変",
+        "de-00648 prompt大文字化",
+        "de-00648 choices=4件",
+        "de-00648 正解がchoices内",
+        "de-00648 answer不変",
+        "de-00743 prompt大文字化",
+        "de-00743 choices=4件",
+        "de-00743 正解がchoices内",
+        "de-00743 answer不変"
+      ]
+    },
+    {
+      "id": "de-00743",
+      "field": "prompt",
+      "before": "「abendessen」の意味は？",
+      "after": "「Abendessen」の意味は？",
+      "reason": "ドイツ語普通名詞の正書法(名詞は語頭大文字)",
+      "confidence": 0.99,
+      "testsPassed": [
+        "全JSONパース成功",
+        "総件数=20131",
+        "manifest件数一致(count記載時)",
+        "de-00539 prompt大文字化",
+        "de-00539 choices=4件",
+        "de-00539 正解がchoices内",
+        "de-00539 answer不変",
+        "de-00648 prompt大文字化",
+        "de-00648 choices=4件",
+        "de-00648 正解がchoices内",
+        "de-00648 answer不変",
+        "de-00743 prompt大文字化",
+        "de-00743 choices=4件",
+        "de-00743 正解がchoices内",
+        "de-00743 answer不変"
+      ]
+    }
+  ]
+}

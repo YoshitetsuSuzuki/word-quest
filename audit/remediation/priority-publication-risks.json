@@ -1,0 +1,2231 @@
+[
+  {
+    "id": "en-00214",
+    "language": "english",
+    "tier": 1,
+    "riskType": "vulgar_distractor_choice",
+    "field": "choices",
+    "verifiedFromRealData": true,
+    "currentValue": [
+      "お尻，女性器",
+      "マンボ",
+      "〜以来",
+      "帝国"
+    ],
+    "fullSnapshot": {
+      "answer": "〜以来",
+      "glosses": null,
+      "example": "He has been busy since last week. — 彼は先週以後ずっと忙しい。",
+      "choices": [
+        "お尻，女性器",
+        "マンボ",
+        "〜以来",
+        "帝国"
+      ],
+      "tags": [
+        "名詞"
+      ],
+      "prompt": "「since」の意味は？"
+    },
+    "note": "4択選択肢に「お尻，女性器」という下品/性的な誤答が混入。正解「〜以来」とは無関係。当該選択肢を無難な語へ差し替え。",
+    "sourceIssueCategory": null,
+    "requiresHumanReview": true,
+    "autoApplied": false
+  },
+  {
+    "id": "en-20863",
+    "language": "english",
+    "tier": 1,
+    "riskType": "slur_as_answer",
+    "field": "answer",
+    "verifiedFromRealData": true,
+    "currentValue": "気違い",
+    "fullSnapshot": {
+      "answer": "気違い",
+      "glosses": null,
+      "example": "He acted like a madman. — 彼は狂人のように振る舞った。",
+      "choices": [
+        "協力的な",
+        "とてもおかしい",
+        "気違い",
+        "巨大な"
+      ],
+      "tags": [
+        "形容詞"
+      ],
+      "prompt": "「madman」の意味は？"
+    },
+    "note": "answer「気違い」は差別語・放送不適切語。例文和訳では既に「狂人」を使用しており不整合。answerを「狂人」等へ。tagsも形容詞→名詞誤り。",
+    "sourceIssueCategory": "inappropriate_content",
+    "requiresHumanReview": true,
+    "autoApplied": false
+  },
+  {
+    "id": "en-22571",
+    "language": "english",
+    "tier": 1,
+    "riskType": "sexually_inappropriate_example",
+    "field": "example",
+    "verifiedFromRealData": true,
+    "currentValue": "I have an erection. — 僕は勃起しています。",
+    "fullSnapshot": {
+      "answer": "建設",
+      "glosses": null,
+      "example": "I have an erection. — 僕は勃起しています。",
+      "choices": [
+        "姿勢",
+        "弓の射手",
+        "建設",
+        "炭"
+      ],
+      "tags": [
+        "名詞"
+      ],
+      "prompt": "「erection」の意味は？"
+    },
+    "note": "例文「I have an erection.／勃起しています」は4+レーティングに不適切。answer「建設」の語義を示す例文へ差し替え。",
+    "sourceIssueCategory": "example_sense_mismatch",
+    "requiresHumanReview": true,
+    "autoApplied": false
+  },
+  {
+    "id": "en-22829",
+    "language": "english",
+    "tier": 1,
+    "riskType": "discriminatory_expression_in_example",
+    "field": "example",
+    "verifiedFromRealData": true,
+    "currentValue": "When is the slant-eyed geezer coming? — つり目のおじさんはいつ来るの？",
+    "fullSnapshot": {
+      "answer": "風変わりな人",
+      "glosses": null,
+      "example": "When is the slant-eyed geezer coming? — つり目のおじさんはいつ来るの？",
+      "choices": [
+        "風変わりな人",
+        "圧制",
+        "メタン",
+        "ゴマ"
+      ],
+      "tags": [
+        "名詞"
+      ],
+      "prompt": "「geezer」の意味は？"
+    },
+    "note": "例文に差別的表現「slant-eyed」を含む。学習/公開教材として不適切。例文の差し替えが必要。",
+    "sourceIssueCategory": "inappropriate_content",
+    "requiresHumanReview": true,
+    "autoApplied": false
+  },
+  {
+    "id": "en-02892",
+    "language": "english",
+    "tier": 2,
+    "riskType": "example_sense_mismatch_high",
+    "field": "example",
+    "verifiedFromRealData": true,
+    "currentValue": "John is as old as I. — ジョンは私と同い年です。",
+    "fullSnapshot": {
+      "answer": "手洗い",
+      "glosses": null,
+      "example": "John is as old as I. — ジョンは私と同い年です。",
+      "choices": [
+        "優しい",
+        "最も低い",
+        "手洗い",
+        "恐ろしい"
+      ],
+      "tags": [
+        "形容詞"
+      ],
+      "prompt": "「john」の意味は？"
+    },
+    "note": "例文が固有名詞Johnを使い、answer「手洗い」の語義を示していない",
+    "sourceIssueCategory": "example_sense_mismatch",
+    "requiresHumanReview": true,
+    "autoApplied": false,
+    "suggestedValue": "May I use the john? — お手洗いを使ってもいいですか。",
+    "confidence": 0.98
+  },
+  {
+    "id": "en-02925",
+    "language": "english",
+    "tier": 2,
+    "riskType": "example_sense_mismatch_high",
+    "field": "example",
+    "verifiedFromRealData": true,
+    "currentValue": "I use \"Yahoo\" to browse the internet. — インターネットの閲覧にYahooを使っている。",
+    "fullSnapshot": {
+      "answer": "乱暴者",
+      "glosses": null,
+      "example": "I use \"Yahoo\" to browse the internet. — インターネットの閲覧にYahooを使っている。",
+      "choices": [
+        "中古の",
+        "黒い漆",
+        "難民",
+        "乱暴者"
+      ],
+      "tags": [
+        "名詞"
+      ],
+      "prompt": "「yahoo」の意味は？"
+    },
+    "note": "例文がブランド名Yahooを使い、answer「乱暴者」の語義を示していない",
+    "sourceIssueCategory": "example_sense_mismatch",
+    "requiresHumanReview": true,
+    "autoApplied": false,
+    "suggestedValue": "That loud yahoo shouted at everyone. — あの乱暴者はみんなに怒鳴った。",
+    "confidence": 0.98
+  },
+  {
+    "id": "en-02944",
+    "language": "english",
+    "tier": 2,
+    "riskType": "example_sense_mismatch_high",
+    "field": "example",
+    "verifiedFromRealData": true,
+    "currentValue": "August is coming to an end. — 8月が終わろうとしています。",
+    "fullSnapshot": {
+      "answer": "威厳のある",
+      "glosses": null,
+      "example": "August is coming to an end. — 8月が終わろうとしています。",
+      "choices": [
+        "威厳のある",
+        "〜だと思う",
+        "構成する",
+        "昇格させる"
+      ],
+      "tags": [
+        "動詞"
+      ],
+      "prompt": "「august」の意味は？"
+    },
+    "note": "例文が月名Augustを使い、answer「威厳のある」の語義を示していない",
+    "sourceIssueCategory": "example_sense_mismatch",
+    "requiresHumanReview": true,
+    "autoApplied": false,
+    "suggestedValue": "The king had an august presence. — その王には威厳のある雰囲気があった。",
+    "confidence": 0.98
+  },
+  {
+    "id": "en-03104",
+    "language": "english",
+    "tier": 2,
+    "riskType": "example_unrelated_or_wrong_word",
+    "field": "example",
+    "verifiedFromRealData": true,
+    "currentValue": "Japan was hard up for oil. — 日本は石油が不足して困っていた。",
+    "fullSnapshot": {
+      "answer": "黒い漆",
+      "glosses": null,
+      "example": "Japan was hard up for oil. — 日本は石油が不足して困っていた。",
+      "choices": [
+        "～を含めて",
+        "黒い漆",
+        "取ること",
+        "確立された"
+      ],
+      "tags": [
+        "名詞"
+      ],
+      "prompt": "「japan」の意味は？"
+    },
+    "note": "answer「黒い漆」に対し例文は国名Japan（無関係）。動詞/漆器の語義を示す例文へ。",
+    "sourceIssueCategory": "example_sense_mismatch",
+    "requiresHumanReview": true,
+    "autoApplied": false
+  },
+  {
+    "id": "en-03158",
+    "language": "english",
+    "tier": 2,
+    "riskType": "example_sense_mismatch_high",
+    "field": "example",
+    "verifiedFromRealData": true,
+    "currentValue": "He's beating me, three to zip. — ３対０で彼には負けています。",
+    "fullSnapshot": {
+      "answer": "ビュッという音",
+      "glosses": null,
+      "example": "He's beating me, three to zip. — ３対０で彼には負けています。",
+      "choices": [
+        "会報",
+        "～を含めて",
+        "買い物",
+        "ビュッという音"
+      ],
+      "tags": [
+        "名詞"
+      ],
+      "prompt": "「zip」の意味は？"
+    },
+    "note": "例文のzipは「ゼロ(3対0)」の意で、answer「ビュッという音」と不一致",
+    "sourceIssueCategory": "example_sense_mismatch",
+    "requiresHumanReview": true,
+    "autoApplied": false,
+    "suggestedValue": "The arrow flew past with a zip. — 矢がビュッという音を立てて飛び過ぎた。",
+    "confidence": 0.98
+  },
+  {
+    "id": "en-03215",
+    "language": "english",
+    "tier": 2,
+    "riskType": "example_sense_mismatch_high",
+    "field": "example",
+    "verifiedFromRealData": true,
+    "currentValue": "Smith replied that he was sorry. — スミスは残念だと答えた。",
+    "fullSnapshot": {
+      "answer": "かじ屋",
+      "glosses": null,
+      "example": "Smith replied that he was sorry. — スミスは残念だと答えた。",
+      "choices": [
+        "仮想の",
+        "会報",
+        "かじ屋",
+        "表の作成"
+      ],
+      "tags": [
+        "名詞"
+      ],
+      "prompt": "「smith」の意味は？"
+    },
+    "note": "例文が姓Smithを使い、answer「かじ屋」の語義を示していない",
+    "sourceIssueCategory": "example_sense_mismatch",
+    "requiresHumanReview": true,
+    "autoApplied": false,
+    "suggestedValue": "The smith made a horseshoe. — かじ屋は蹄鉄を作った。",
+    "confidence": 0.98
+  },
+  {
+    "id": "en-03282",
+    "language": "english",
+    "tier": 2,
+    "riskType": "example_sense_mismatch_high",
+    "field": "example",
+    "verifiedFromRealData": true,
+    "currentValue": "This ticket is valid for one week. — この切符は1週間有効だ。",
+    "fullSnapshot": {
+      "answer": "有効な",
+      "glosses": null,
+      "example": "This ticket is valid for one week. — この切符は1週間有効だ。",
+      "choices": [
+        "危険な",
+        "有効な",
+        "わな",
+        "油断のない"
+      ],
+      "tags": [
+        "形容詞"
+      ],
+      "prompt": "「valid」の意味は？"
+    },
+    "note": "例文のconsideredは動詞「思った/みなした」で、answer「よく考えた」と不一致",
+    "sourceIssueCategory": "example_sense_mismatch",
+    "requiresHumanReview": true,
+    "autoApplied": false,
+    "suggestedValue": "That is my considered opinion. — それは私のよく考えた意見だ。",
+    "confidence": 0.9
+  },
+  {
+    "id": "en-03318",
+    "language": "english",
+    "tier": 2,
+    "riskType": "example_sense_mismatch_high",
+    "field": "example",
+    "verifiedFromRealData": true,
+    "currentValue": "He crossed the immense pacific on a raft. — 彼は広大な太平洋をいかだで横断した。",
+    "fullSnapshot": {
+      "answer": "平和的な",
+      "glosses": null,
+      "example": "He crossed the immense pacific on a raft. — 彼は広大な太平洋をいかだで横断した。",
+      "choices": [
+        "協力的な",
+        "攻撃的な",
+        "見事な",
+        "平和的な"
+      ],
+      "tags": [
+        "形容詞"
+      ],
+      "prompt": "「pacific」の意味は？"
+    },
+    "note": "例文のpacificは太平洋(the Pacific)を指し、answer「平和的な」と不一致",
+    "sourceIssueCategory": "example_sense_mismatch",
+    "requiresHumanReview": true,
+    "autoApplied": false,
+    "suggestedValue": "He has a pacific nature. — 彼は平和的な性質だ。",
+    "confidence": 0.98
+  },
+  {
+    "id": "en-03381",
+    "language": "english",
+    "tier": 2,
+    "riskType": "example_sense_mismatch_high",
+    "field": "example",
+    "verifiedFromRealData": true,
+    "currentValue": "Martin seemed very tired, didn't he? — マーティンはとても疲れているようでしたね。",
+    "fullSnapshot": {
+      "answer": "イワツバメ",
+      "glosses": null,
+      "example": "Martin seemed very tired, didn't he? — マーティンはとても疲れているようでしたね。",
+      "choices": [
+        "イワツバメ",
+        "おもり",
+        "商業",
+        "看護"
+      ],
+      "tags": [
+        "名詞"
+      ],
+      "prompt": "「martin」の意味は？"
+    },
+    "note": "例文が人名Martinを使い、answer「イワツバメ」の語義を示していない",
+    "sourceIssueCategory": "example_sense_mismatch",
+    "requiresHumanReview": true,
+    "autoApplied": false,
+    "suggestedValue": "A martin built a nest under the roof. — イワツバメが屋根の下に巣を作った。",
+    "confidence": 0.98
+  },
+  {
+    "id": "en-03412",
+    "language": "english",
+    "tier": 2,
+    "riskType": "example_sense_mismatch_high",
+    "field": "example",
+    "verifiedFromRealData": true,
+    "currentValue": "Tom is in a bad mood. — トムは機嫌が悪い。",
+    "fullSnapshot": {
+      "answer": "雄",
+      "glosses": null,
+      "example": "Tom is in a bad mood. — トムは機嫌が悪い。",
+      "choices": [
+        "雄",
+        "レンタル",
+        "休暇",
+        "証明書"
+      ],
+      "tags": [
+        "名詞"
+      ],
+      "prompt": "「tom」の意味は？"
+    },
+    "note": "例文が人名Tomを使い、answer「雄」の語義を示していない",
+    "sourceIssueCategory": "example_sense_mismatch",
+    "requiresHumanReview": true,
+    "autoApplied": false,
+    "suggestedValue": "The tom fought another cat. — その雄猫は別の猫とけんかした。",
+    "confidence": 0.98
+  },
+  {
+    "id": "en-03469",
+    "language": "english",
+    "tier": 2,
+    "riskType": "example_sense_mismatch_high",
+    "field": "example",
+    "verifiedFromRealData": true,
+    "currentValue": "Mrs. Lee is a great talker. — リイさんは話上手です。",
+    "fullSnapshot": {
+      "answer": "物陰",
+      "glosses": null,
+      "example": "Mrs. Lee is a great talker. — リイさんは話上手です。",
+      "choices": [
+        "物陰",
+        "任意の",
+        "仮想の",
+        "雄"
+      ],
+      "tags": [
+        "名詞"
+      ],
+      "prompt": "「lee」の意味は？"
+    },
+    "note": "例文が姓Leeを使い、answer「物陰」の語義を示していない",
+    "sourceIssueCategory": "example_sense_mismatch",
+    "requiresHumanReview": true,
+    "autoApplied": false,
+    "suggestedValue": "We rested in the lee of the wall. — 私たちは壁の物陰で休んだ。",
+    "confidence": 0.98
+  },
+  {
+    "id": "en-03505",
+    "language": "english",
+    "tier": 2,
+    "riskType": "example_sense_mismatch_high",
+    "field": "example",
+    "verifiedFromRealData": true,
+    "currentValue": "Bob will be home at six. — ボブは６時には帰っています。",
+    "fullSnapshot": {
+      "answer": "おもり",
+      "glosses": null,
+      "example": "Bob will be home at six. — ボブは６時には帰っています。",
+      "choices": [
+        "上院",
+        "おもり",
+        "ガンマ",
+        "資料"
+      ],
+      "tags": [
+        "名詞"
+      ],
+      "prompt": "「bob」の意味は？"
+    },
+    "note": "例文が人名Bobを使い、answer「おもり」の語義を示していない",
+    "sourceIssueCategory": "example_sense_mismatch",
+    "requiresHumanReview": true,
+    "autoApplied": false,
+    "suggestedValue": "The bob hung at the end of the line. — おもりが糸の先に下がっていた。",
+    "confidence": 0.98
+  },
+  {
+    "id": "en-03520",
+    "language": "english",
+    "tier": 2,
+    "riskType": "example_sense_mismatch_high",
+    "field": "example",
+    "verifiedFromRealData": true,
+    "currentValue": "Mr Ford is all right now. — フォード氏はもう大丈夫です。",
+    "fullSnapshot": {
+      "answer": "浅瀬",
+      "glosses": null,
+      "example": "Mr Ford is all right now. — フォード氏はもう大丈夫です。",
+      "choices": [
+        "ファンタジー",
+        "浅瀬",
+        "聴力",
+        "保険料"
+      ],
+      "tags": [
+        "名詞"
+      ],
+      "prompt": "「ford」の意味は？"
+    },
+    "note": "例文が姓Fordを使い、answer「浅瀬」の語義を示していない",
+    "sourceIssueCategory": "example_sense_mismatch",
+    "requiresHumanReview": true,
+    "autoApplied": false,
+    "suggestedValue": "We crossed the river at the ford. — 私たちは浅瀬で川を渡った。",
+    "confidence": 0.98
+  },
+  {
+    "id": "en-03602",
+    "language": "english",
+    "tier": 2,
+    "riskType": "example_sense_mismatch_high",
+    "field": "example",
+    "verifiedFromRealData": true,
+    "currentValue": "I informed him of the result. — 私は彼に結果を知らせた。",
+    "fullSnapshot": {
+      "answer": "情報に通じた",
+      "glosses": null,
+      "example": "I informed him of the result. — 私は彼に結果を知らせた。",
+      "choices": [
+        "聖人",
+        "電池",
+        "情報に通じた",
+        "反対投票"
+      ],
+      "tags": [
+        "名詞"
+      ],
+      "prompt": "「informed」の意味は？"
+    },
+    "note": "例文のinformedは動詞「知らせた」で、answer「情報に通じた」と不一致",
+    "sourceIssueCategory": "example_sense_mismatch",
+    "requiresHumanReview": true,
+    "autoApplied": false,
+    "suggestedValue": "She is a well-informed reader. — 彼女は情報に通じた読者だ。",
+    "confidence": 0.9
+  },
+  {
+    "id": "en-03616",
+    "language": "english",
+    "tier": 2,
+    "riskType": "example_sense_mismatch_high",
+    "field": "example",
+    "verifiedFromRealData": true,
+    "currentValue": "It was all covered with dust. — それはすっかり埃で覆われていた。",
+    "fullSnapshot": {
+      "answer": "おおいのある",
+      "glosses": null,
+      "example": "It was all covered with dust. — それはすっかり埃で覆われていた。",
+      "choices": [
+        "関係のある",
+        "計算する",
+        "おおいのある",
+        "結合させる"
+      ],
+      "tags": [
+        "動詞"
+      ],
+      "prompt": "「covered」の意味は？"
+    },
+    "note": "例文のcoveredは動詞受動「覆われた」で、answer「おおいのある」と不一致",
+    "sourceIssueCategory": "example_sense_mismatch",
+    "requiresHumanReview": true,
+    "autoApplied": false,
+    "suggestedValue": "They crossed the plains in a covered wagon. — 彼らはおおいのある幌馬車で平原を渡った。",
+    "confidence": 0.9
+  },
+  {
+    "id": "en-03750",
+    "language": "english",
+    "tier": 2,
+    "riskType": "example_sense_mismatch_high",
+    "field": "example",
+    "verifiedFromRealData": true,
+    "currentValue": "I only stated the obvious. — 当然のことを言ったまでよ。",
+    "fullSnapshot": {
+      "answer": "決まった",
+      "glosses": null,
+      "example": "I only stated the obvious. — 当然のことを言ったまでよ。",
+      "choices": [
+        "照明",
+        "虫",
+        "決まった",
+        "聖人"
+      ],
+      "tags": [
+        "名詞"
+      ],
+      "prompt": "「stated」の意味は？"
+    },
+    "note": "例文のstatedは動詞過去「述べた」で、answer「決まった」と不一致",
+    "sourceIssueCategory": "example_sense_mismatch",
+    "requiresHumanReview": true,
+    "autoApplied": false,
+    "suggestedValue": "We meet at the stated time. — 私たちは決まった時刻に会う。",
+    "confidence": 0.9
+  },
+  {
+    "id": "en-03755",
+    "language": "english",
+    "tier": 2,
+    "riskType": "example_sense_mismatch_high",
+    "field": "example",
+    "verifiedFromRealData": true,
+    "currentValue": "I decided to buy a car. — 車を買うことに決めた。",
+    "fullSnapshot": {
+      "answer": "明白な",
+      "glosses": null,
+      "example": "I decided to buy a car. — 車を買うことに決めた。",
+      "choices": [
+        "激しい",
+        "包括的な",
+        "明白な",
+        "目の見えない"
+      ],
+      "tags": [
+        "形容詞"
+      ],
+      "prompt": "「decided」の意味は？"
+    },
+    "note": "例文のdecidedは動詞過去「決めた」で、answer「明白な」と不一致",
+    "sourceIssueCategory": "example_sense_mismatch",
+    "requiresHumanReview": true,
+    "autoApplied": false,
+    "suggestedValue": "There is a decided difference between them. — 両者には明白な違いがある。",
+    "confidence": 0.9
+  },
+  {
+    "id": "en-03805",
+    "language": "english",
+    "tier": 2,
+    "riskType": "example_sense_mismatch_high",
+    "field": "example",
+    "verifiedFromRealData": true,
+    "currentValue": "Is this a vintage car? — 旧車ですか。",
+    "fullSnapshot": {
+      "answer": "優良ぶどう酒",
+      "glosses": null,
+      "example": "Is this a vintage car? — 旧車ですか。",
+      "choices": [
+        "開発者",
+        "行方不明の",
+        "優良ぶどう酒",
+        "保険料"
+      ],
+      "tags": [
+        "名詞"
+      ],
+      "prompt": "「vintage」の意味は？"
+    },
+    "note": "例文のvintageは「年代物の(vintage car)」の意で、answer「優良ぶどう酒」と不一致",
+    "sourceIssueCategory": "example_sense_mismatch",
+    "requiresHumanReview": true,
+    "autoApplied": false,
+    "suggestedValue": "1990 was a great vintage. — 1990年は優良ぶどう酒の当たり年だった。",
+    "confidence": 0.9
+  },
+  {
+    "id": "en-03820",
+    "language": "english",
+    "tier": 2,
+    "riskType": "example_sense_mismatch_high",
+    "field": "example",
+    "verifiedFromRealData": true,
+    "currentValue": "There are pros and cons to anything. — なんにでも、長所と短所の両方がある。",
+    "fullSnapshot": {
+      "answer": "反対投票",
+      "glosses": null,
+      "example": "There are pros and cons to anything. — なんにでも、長所と短所の両方がある。",
+      "choices": [
+        "発見",
+        "実験室",
+        "反対投票",
+        "集会"
+      ],
+      "tags": [
+        "名詞"
+      ],
+      "prompt": "「con」の意味は？"
+    },
+    "note": "例文のconsは「短所」の意で、answer「反対投票」とずれる(訳も長所と短所)",
+    "sourceIssueCategory": "example_sense_mismatch",
+    "requiresHumanReview": true,
+    "autoApplied": false,
+    "suggestedValue": "He voted con on the motion. — 彼はその動議に反対票を投じた。",
+    "confidence": 0.9
+  },
+  {
+    "id": "en-03894",
+    "language": "english",
+    "tier": 2,
+    "riskType": "example_sense_mismatch_high",
+    "field": "example",
+    "verifiedFromRealData": true,
+    "currentValue": "His speech contained many fine phrases. — 彼の演説には数々のすばらしい言い回しが含まれていた。",
+    "fullSnapshot": {
+      "answer": "物静かな",
+      "glosses": null,
+      "example": "His speech contained many fine phrases. — 彼の演説には数々のすばらしい言い回しが含まれていた。",
+      "choices": [
+        "柔軟な",
+        "部分的な",
+        "物静かな",
+        "ひたむきな"
+      ],
+      "tags": [
+        "形容詞"
+      ],
+      "prompt": "「contained」の意味は？"
+    },
+    "note": "例文のcontainedは動詞「含んでいた」で、answer「物静かな」と不一致",
+    "sourceIssueCategory": "example_sense_mismatch",
+    "requiresHumanReview": true,
+    "autoApplied": false,
+    "suggestedValue": "She stayed calm and contained. — 彼女は落ち着いて物静かなままだった。",
+    "confidence": 0.9
+  },
+  {
+    "id": "en-03929",
+    "language": "english",
+    "tier": 2,
+    "riskType": "example_sense_mismatch_high",
+    "field": "example",
+    "verifiedFromRealData": true,
+    "currentValue": "The plaque has to be removed. — 歯垢をとらなければなりません。",
+    "fullSnapshot": {
+      "answer": "遠く離れた",
+      "glosses": null,
+      "example": "The plaque has to be removed. — 歯垢をとらなければなりません。",
+      "choices": [
+        "山の手",
+        "下着",
+        "遠く離れた",
+        "神託"
+      ],
+      "tags": [
+        "名詞"
+      ],
+      "prompt": "「removed」の意味は？"
+    },
+    "note": "例文のremovedは動詞受動「取り除かれる(歯垢)」で、answer「遠く離れた」と不一致",
+    "sourceIssueCategory": "example_sense_mismatch",
+    "requiresHumanReview": true,
+    "autoApplied": false,
+    "suggestedValue": "Their view is far removed from mine. — 彼らの考えは私のとは遠くかけ離れている。",
+    "confidence": 0.9
+  },
+  {
+    "id": "en-03969",
+    "language": "english",
+    "tier": 2,
+    "riskType": "example_sense_mismatch_high",
+    "field": "example",
+    "verifiedFromRealData": true,
+    "currentValue": "Call us toll-free at 1-800-446-2581. — フリーダイヤル１—８００—４４６—２５８１にお電話ください。",
+    "fullSnapshot": {
+      "answer": "鳴る",
+      "glosses": null,
+      "example": "Call us toll-free at 1-800-446-2581. — フリーダイヤル１—８００—４４６—２５８１にお電話ください。",
+      "choices": [
+        "奪う",
+        "衰える",
+        "鳴る",
+        "発明する"
+      ],
+      "tags": [
+        "動詞"
+      ],
+      "prompt": "「toll」の意味は？"
+    },
+    "note": "例文のtollは「通行料(toll-free)」の意で、answer「鳴る」と不一致",
+    "sourceIssueCategory": "example_sense_mismatch",
+    "requiresHumanReview": true,
+    "autoApplied": false,
+    "suggestedValue": "The church bells toll for the dead. — 教会の鐘が死者のために鳴る。",
+    "confidence": 0.98
+  },
+  {
+    "id": "en-04012",
+    "language": "english",
+    "tier": 2,
+    "riskType": "example_sense_mismatch_high",
+    "field": "example",
+    "verifiedFromRealData": true,
+    "currentValue": "Phoenix is the capital of Arizona. — フェニックスはアリゾナの州都である。",
+    "fullSnapshot": {
+      "answer": "不死鳥",
+      "glosses": null,
+      "example": "Phoenix is the capital of Arizona. — フェニックスはアリゾナの州都である。",
+      "choices": [
+        "腰",
+        "不死鳥",
+        "フォント",
+        "改訂"
+      ],
+      "tags": [
+        "名詞"
+      ],
+      "prompt": "「phoenix」の意味は？"
+    },
+    "note": "例文が都市名Phoenixを使い、answer「不死鳥」の語義を示していない",
+    "sourceIssueCategory": "example_sense_mismatch",
+    "requiresHumanReview": true,
+    "autoApplied": false,
+    "suggestedValue": "The phoenix rose from the ashes. — 不死鳥は灰から蘇った。",
+    "confidence": 0.98
+  },
+  {
+    "id": "en-04080",
+    "language": "english",
+    "tier": 2,
+    "riskType": "example_sense_mismatch_high",
+    "field": "example",
+    "verifiedFromRealData": true,
+    "currentValue": "Queen Victoria was the sovereign of Great Britain. — ビクトリア女王は英国の君主だった。",
+    "fullSnapshot": {
+      "answer": "二人乗り四輪ほろ馬車",
+      "glosses": null,
+      "example": "Queen Victoria was the sovereign of Great Britain. — ビクトリア女王は英国の君主だった。",
+      "choices": [
+        "幹線道路",
+        "二人乗り四輪ほろ馬車",
+        "水晶",
+        "残り"
+      ],
+      "tags": [
+        "名詞"
+      ],
+      "prompt": "「victoria」の意味は？"
+    },
+    "note": "例文が人名Victoria(女王)を使い、answer「四輪ほろ馬車」の語義を示していない",
+    "sourceIssueCategory": "example_sense_mismatch",
+    "requiresHumanReview": true,
+    "autoApplied": false,
+    "suggestedValue": "They rode through the park in a victoria. — 彼らは四輪馬車で公園を進んだ。",
+    "confidence": 0.98
+  },
+  {
+    "id": "en-04192",
+    "language": "english",
+    "tier": 2,
+    "riskType": "example_sense_mismatch_high",
+    "field": "example",
+    "verifiedFromRealData": true,
+    "currentValue": "He is holding up her work. — 彼は彼女の仕事を妨げている。",
+    "fullSnapshot": {
+      "answer": "しっかり握ること",
+      "glosses": null,
+      "example": "He is holding up her work. — 彼は彼女の仕事を妨げている。",
+      "choices": [
+        "転換",
+        "おや",
+        "しっかり握ること",
+        "設定"
+      ],
+      "tags": [
+        "名詞"
+      ],
+      "prompt": "「holding」の意味は？"
+    },
+    "note": "例文のholding upは「妨げる」の意で、answer「しっかり握ること」と不一致",
+    "sourceIssueCategory": "example_sense_mismatch",
+    "requiresHumanReview": true,
+    "autoApplied": false,
+    "suggestedValue": "Keep a firm holding on the rope. — ロープをしっかり握っていなさい。",
+    "confidence": 0.9
+  },
+  {
+    "id": "en-04360",
+    "language": "english",
+    "tier": 2,
+    "riskType": "example_sense_mismatch_high",
+    "field": "example",
+    "verifiedFromRealData": true,
+    "currentValue": "He is afraid of becoming sick. — 彼は病気になるのではないかと恐れている。",
+    "fullSnapshot": {
+      "answer": "似合った",
+      "glosses": null,
+      "example": "He is afraid of becoming sick. — 彼は病気になるのではないかと恐れている。",
+      "choices": [
+        "似合った",
+        "遠征旅行",
+        "大おけ",
+        "綿"
+      ],
+      "tags": [
+        "名詞"
+      ],
+      "prompt": "「becoming」の意味は？"
+    },
+    "note": "例文のbecomingは動名詞「〜になること」で、answer「似合った」と不一致",
+    "sourceIssueCategory": "example_sense_mismatch",
+    "requiresHumanReview": true,
+    "autoApplied": false,
+    "suggestedValue": "That dress is very becoming on you. — そのドレスはあなたにとても似合っている。",
+    "confidence": 0.9
+  },
+  {
+    "id": "en-04361",
+    "language": "english",
+    "tier": 2,
+    "riskType": "example_sense_mismatch_high",
+    "field": "example",
+    "verifiedFromRealData": true,
+    "currentValue": "A translation widget compatible with the Safari browser is required. — Safariブラウザに対応した翻訳ウィジェットが必要です。",
+    "fullSnapshot": {
+      "answer": "遠征旅行",
+      "glosses": null,
+      "example": "A translation widget compatible with the Safari browser is required. — Safariブラウザに対応した翻訳ウィジェットが必要です。",
+      "choices": [
+        "遠征旅行",
+        "学部長",
+        "シャルロット",
+        "出口"
+      ],
+      "tags": [
+        "名詞"
+      ],
+      "prompt": "「safari」の意味は？"
+    },
+    "note": "例文がブラウザ名Safariを使い、answer「遠征旅行」の語義を示していない",
+    "sourceIssueCategory": "example_sense_mismatch",
+    "requiresHumanReview": true,
+    "autoApplied": false,
+    "suggestedValue": "We went on a safari in Africa. — 私たちはアフリカへ遠征旅行に行った。",
+    "confidence": 0.98
+  },
+  {
+    "id": "en-04411",
+    "language": "english",
+    "tier": 2,
+    "riskType": "example_sense_mismatch_high",
+    "field": "example",
+    "verifiedFromRealData": true,
+    "currentValue": "Infrared and ultra-violet rays are types of light invisible to the human eye. — 赤外線や紫外線は、人の目には見えない光である。",
+    "fullSnapshot": {
+      "answer": "極端な",
+      "glosses": null,
+      "example": "Infrared and ultra-violet rays are types of light invisible to the human eye. — 赤外線や紫外線は、人の目には見えない光である。",
+      "choices": [
+        "多様な",
+        "崇高な",
+        "極端な",
+        "自発的な"
+      ],
+      "tags": [
+        "形容詞"
+      ],
+      "prompt": "「ultra」の意味は？"
+    },
+    "note": "例文はultra-violet(接頭辞)の用法で、answer「極端な(形容詞)」を単独で示していない",
+    "sourceIssueCategory": "example_sense_mismatch",
+    "requiresHumanReview": true,
+    "autoApplied": false,
+    "suggestedValue": "His political views are too ultra for me. — 彼の政治的な考えは私には極端すぎる。",
+    "confidence": 0.9
+  },
+  {
+    "id": "en-04486",
+    "language": "english",
+    "tier": 2,
+    "riskType": "example_sense_mismatch_high",
+    "field": "example",
+    "verifiedFromRealData": true,
+    "currentValue": "He collected a lot of stamps. — 彼は切手をたくさん集めた。",
+    "fullSnapshot": {
+      "answer": "落ち着いた",
+      "glosses": null,
+      "example": "He collected a lot of stamps. — 彼は切手をたくさん集めた。",
+      "choices": [
+        "格子",
+        "血漿",
+        "落ち着いた",
+        "同盟"
+      ],
+      "tags": [
+        "名詞"
+      ],
+      "prompt": "「collected」の意味は？"
+    },
+    "note": "例文のcollectedは動詞過去「集めた」で、answer「落ち着いた」と不一致",
+    "sourceIssueCategory": "example_sense_mismatch",
+    "requiresHumanReview": true,
+    "autoApplied": false,
+    "suggestedValue": "She remained calm and collected. — 彼女は落ち着いたままだった。",
+    "confidence": 0.9
+  },
+  {
+    "id": "en-04490",
+    "language": "english",
+    "tier": 2,
+    "riskType": "example_sense_mismatch_high",
+    "field": "example",
+    "verifiedFromRealData": true,
+    "currentValue": "I have a guinea pig. — モルモットを飼ってるんだ。",
+    "fullSnapshot": {
+      "answer": "ギニー金貨",
+      "glosses": null,
+      "example": "I have a guinea pig. — モルモットを飼ってるんだ。",
+      "choices": [
+        "利用しやすさ",
+        "頭を取り去る機械",
+        "ギニー金貨",
+        "恋愛"
+      ],
+      "tags": [
+        "名詞"
+      ],
+      "prompt": "「guinea」の意味は？"
+    },
+    "note": "例文のguinea pig(モルモット)はanswer「ギニー金貨」と不一致",
+    "sourceIssueCategory": "example_sense_mismatch",
+    "requiresHumanReview": true,
+    "autoApplied": false,
+    "suggestedValue": "The suit cost twenty guineas. — そのスーツは20ギニーだった。",
+    "confidence": 0.98
+  },
+  {
+    "id": "en-04506",
+    "language": "english",
+    "tier": 2,
+    "riskType": "example_sense_mismatch_high",
+    "field": "example",
+    "verifiedFromRealData": true,
+    "currentValue": "Does that price include VAT? — その価格って、付加価値税も入ってる？",
+    "fullSnapshot": {
+      "answer": "大おけ",
+      "glosses": null,
+      "example": "Does that price include VAT? — その価格って、付加価値税も入ってる？",
+      "choices": [
+        "利用しやすさ",
+        "セミナー",
+        "大おけ",
+        "取引"
+      ],
+      "tags": [
+        "名詞"
+      ],
+      "prompt": "「vat」の意味は？"
+    },
+    "note": "例文のVATは付加価値税の意で、answer「大おけ」と不一致",
+    "sourceIssueCategory": "example_sense_mismatch",
+    "requiresHumanReview": true,
+    "autoApplied": false,
+    "suggestedValue": "The wine is stored in a large vat. — ワインは大きなおけに貯蔵されている。",
+    "confidence": 0.98
+  },
+  {
+    "id": "en-04541",
+    "language": "english",
+    "tier": 2,
+    "riskType": "example_sense_mismatch_high",
+    "field": "example",
+    "verifiedFromRealData": true,
+    "currentValue": "He ordered a cup of tea. — 彼は紅茶を注文した。",
+    "fullSnapshot": {
+      "answer": "整然とした",
+      "glosses": null,
+      "example": "He ordered a cup of tea. — 彼は紅茶を注文した。",
+      "choices": [
+        "整然とした",
+        "真珠",
+        "利用しやすさ",
+        "格子"
+      ],
+      "tags": [
+        "名詞"
+      ],
+      "prompt": "「ordered」の意味は？"
+    },
+    "note": "例文のorderedは動詞過去「注文した」で、answer「整然とした」と不一致",
+    "sourceIssueCategory": "example_sense_mismatch",
+    "requiresHumanReview": true,
+    "autoApplied": false,
+    "suggestedValue": "He keeps an ordered desk. — 彼は整然とした机を保っている。",
+    "confidence": 0.9
+  },
+  {
+    "id": "en-06006",
+    "language": "english",
+    "tier": 2,
+    "riskType": "example_sense_mismatch_high",
+    "field": "example",
+    "verifiedFromRealData": true,
+    "currentValue": "Ho Chi Minh City is the largest city in Vietnam. — ホーチミン市はベトナムで最も大きな都市だ。",
+    "fullSnapshot": {
+      "answer": "カイ，気",
+      "glosses": null,
+      "example": "Ho Chi Minh City is the largest city in Vietnam. — ホーチミン市はベトナムで最も大きな都市だ。",
+      "choices": [
+        "猟犬",
+        "言語",
+        "弓",
+        "カイ，気"
+      ],
+      "tags": [
+        "名詞"
+      ],
+      "prompt": "「chi」の意味は？"
+    },
+    "note": "例文の「Chi」は地名Ho Chi Minh（ホーチミン）の一部の固有名詞であり、見出し語chi（ギリシャ文字カイ/気）の語義を例示していない。",
+    "sourceIssueCategory": "example_sense_mismatch",
+    "requiresHumanReview": true,
+    "autoApplied": false,
+    "suggestedValue": null,
+    "confidence": 0.98
+  },
+  {
+    "id": "en-06154",
+    "language": "english",
+    "tier": 2,
+    "riskType": "example_unrelated_or_wrong_word",
+    "field": "example",
+    "verifiedFromRealData": true,
+    "currentValue": "Brad Pitt is an actor. — ブラッド・ピット様は俳優です。",
+    "fullSnapshot": {
+      "answer": "鉄線くぎ",
+      "glosses": null,
+      "example": "Brad Pitt is an actor. — ブラッド・ピット様は俳優です。",
+      "choices": [
+        "鉄線くぎ",
+        "芝生",
+        "錠剤",
+        "アーチ"
+      ],
+      "tags": [
+        "名詞"
+      ],
+      "prompt": "「brad」の意味は？"
+    },
+    "note": "answer「鉄線くぎ」に対し例文は人名Brad Pitt（無関係）。",
+    "sourceIssueCategory": "example_sense_mismatch",
+    "requiresHumanReview": true,
+    "autoApplied": false
+  },
+  {
+    "id": "en-06181",
+    "language": "english",
+    "tier": 2,
+    "riskType": "example_unrelated_or_wrong_word",
+    "field": "example",
+    "verifiedFromRealData": true,
+    "currentValue": "I transcribed the original mimeographed edition into LATEX. — ガリ版刷りの原書をLATEXで清書した。",
+    "fullSnapshot": {
+      "answer": "ラテックス",
+      "glosses": null,
+      "example": "I transcribed the original mimeographed edition into LATEX. — ガリ版刷りの原書をLATEXで清書した。",
+      "choices": [
+        "兵站学",
+        "絞首刑",
+        "漁夫",
+        "ラテックス"
+      ],
+      "tags": [
+        "名詞"
+      ],
+      "prompt": "「latex」の意味は？"
+    },
+    "note": "answer「ラテックス(ゴム)」に対し例文は組版ソフトLATEX（無関係・表記も誤）。",
+    "sourceIssueCategory": "example_sense_mismatch",
+    "requiresHumanReview": true,
+    "autoApplied": false
+  },
+  {
+    "id": "en-06240",
+    "language": "english",
+    "tier": 2,
+    "riskType": "example_sense_mismatch_high",
+    "field": "example",
+    "verifiedFromRealData": true,
+    "currentValue": "Turner stands out among the painters of his time. — ターナーは同時代の画家の中でも傑出している。",
+    "fullSnapshot": {
+      "answer": "回す人，旋盤工",
+      "glosses": null,
+      "example": "Turner stands out among the painters of his time. — ターナーは同時代の画家の中でも傑出している。",
+      "choices": [
+        "枝",
+        "同情",
+        "回す人，旋盤工",
+        "瞑想"
+      ],
+      "tags": [
+        "名詞"
+      ],
+      "prompt": "「turner」の意味は？"
+    },
+    "note": "例文の「Turner」は画家ターナー（固有名詞）であり、見出し語turner（回す人・旋盤工）の語義を例示していない。",
+    "sourceIssueCategory": "example_sense_mismatch",
+    "requiresHumanReview": true,
+    "autoApplied": false,
+    "suggestedValue": null,
+    "confidence": 0.98
+  },
+  {
+    "id": "en-06272",
+    "language": "english",
+    "tier": 2,
+    "riskType": "example_sense_mismatch_high",
+    "field": "example",
+    "verifiedFromRealData": true,
+    "currentValue": "The first Macintosh PC was released in 1984. — 初代Macは1984年にリリースされた。",
+    "fullSnapshot": {
+      "answer": "防水コート",
+      "glosses": null,
+      "example": "The first Macintosh PC was released in 1984. — 初代Macは1984年にリリースされた。",
+      "choices": [
+        "防水コート",
+        "外れた",
+        "終了",
+        "艦隊"
+      ],
+      "tags": [
+        "名詞"
+      ],
+      "prompt": "「macintosh」の意味は？"
+    },
+    "note": "例文の「Macintosh」はコンピュータのMacを指し、見出し語（防水コート）の語義を例示していない。雨具の綴りは通常mackintosh。",
+    "sourceIssueCategory": "example_sense_mismatch",
+    "requiresHumanReview": true,
+    "autoApplied": false,
+    "suggestedValue": null,
+    "confidence": 0.98
+  },
+  {
+    "id": "en-06281",
+    "language": "english",
+    "tier": 2,
+    "riskType": "example_sense_mismatch_high",
+    "field": "example",
+    "verifiedFromRealData": true,
+    "currentValue": "I am hanging up my shirts. — シャツを掛けているところです。",
+    "fullSnapshot": {
+      "answer": "絞首刑",
+      "glosses": null,
+      "example": "I am hanging up my shirts. — シャツを掛けているところです。",
+      "choices": [
+        "討論会",
+        "接続器",
+        "論文",
+        "絞首刑"
+      ],
+      "tags": [
+        "名詞"
+      ],
+      "prompt": "「hanging」の意味は？"
+    },
+    "note": "例文の「hanging up my shirts」は『掛ける』の意で、見出し語hanging（絞首刑）の語義を例示していない。",
+    "sourceIssueCategory": "example_sense_mismatch",
+    "requiresHumanReview": true,
+    "autoApplied": false,
+    "suggestedValue": null,
+    "confidence": 0.98
+  },
+  {
+    "id": "en-06480",
+    "language": "english",
+    "tier": 2,
+    "riskType": "example_sense_mismatch_high",
+    "field": "example",
+    "verifiedFromRealData": true,
+    "currentValue": "Does he wear specs? — メガネをしてますか？",
+    "fullSnapshot": {
+      "answer": "仕様，スペック",
+      "glosses": null,
+      "example": "Does he wear specs? — メガネをしてますか？",
+      "choices": [
+        "仕様，スペック",
+        "関心",
+        "アリア",
+        "十分に"
+      ],
+      "tags": [
+        "名詞"
+      ],
+      "prompt": "「spec」の意味は？"
+    },
+    "note": "例文の「specs」は眼鏡（spectacles）の意で、見出し語spec（仕様・スペック）の語義を例示していない。",
+    "sourceIssueCategory": "example_sense_mismatch",
+    "requiresHumanReview": true,
+    "autoApplied": false,
+    "suggestedValue": null,
+    "confidence": 0.96
+  },
+  {
+    "id": "en-06502",
+    "language": "english",
+    "tier": 2,
+    "riskType": "example_sense_mismatch_high",
+    "field": "example",
+    "verifiedFromRealData": true,
+    "currentValue": "Signs of social unrest are mounting. — 社会不安の兆候が高まりつつある。",
+    "fullSnapshot": {
+      "answer": "据えつけ",
+      "glosses": null,
+      "example": "Signs of social unrest are mounting. — 社会不安の兆候が高まりつつある。",
+      "choices": [
+        "サル",
+        "満員の",
+        "外れた",
+        "据えつけ"
+      ],
+      "tags": [
+        "名詞"
+      ],
+      "prompt": "「mounting」の意味は？"
+    },
+    "note": "例文の「mounting」は『高まる』という動詞用法で、見出し語mounting（据えつけ）の名詞義を例示していない。",
+    "sourceIssueCategory": "example_sense_mismatch",
+    "requiresHumanReview": true,
+    "autoApplied": false,
+    "suggestedValue": null,
+    "confidence": 0.96
+  },
+  {
+    "id": "en-09398",
+    "language": "english",
+    "tier": 2,
+    "riskType": "example_unrelated_or_wrong_word",
+    "field": "example",
+    "verifiedFromRealData": true,
+    "currentValue": "His strength is waning. — 彼の体力は弱まりつつある。",
+    "fullSnapshot": {
+      "answer": "青白い",
+      "glosses": null,
+      "example": "His strength is waning. — 彼の体力は弱まりつつある。",
+      "choices": [
+        "選択的な",
+        "青白い",
+        "受動的な",
+        "微妙な"
+      ],
+      "tags": [
+        "形容詞"
+      ],
+      "prompt": "「wan」の意味は？"
+    },
+    "note": "answer「青白い(wan)」に対し例文は別語waning(wane)。見出し語が例文に不在。",
+    "sourceIssueCategory": "example_sense_mismatch",
+    "requiresHumanReview": true,
+    "autoApplied": false
+  },
+  {
+    "id": "en-20098",
+    "language": "english",
+    "tier": 2,
+    "riskType": "example_sense_mismatch_high",
+    "field": "example",
+    "verifiedFromRealData": true,
+    "currentValue": "The scandal could lead to the firing of some senior officials. — このスキャンダルで一部の高官が罷免される可能性がある。",
+    "fullSnapshot": {
+      "answer": "発射",
+      "glosses": null,
+      "example": "The scandal could lead to the firing of some senior officials. — このスキャンダルで一部の高官が罷免される可能性がある。",
+      "choices": [
+        "銃声",
+        "クローゼット",
+        "夫人",
+        "発射"
+      ],
+      "tags": [
+        "名詞"
+      ],
+      "prompt": "「firing」の意味は？"
+    },
+    "note": "answer『発射』に対し、例文のfiringは『解雇・罷免』の意で語義が完全に異なる。学習者に誤った語義連想を与える。",
+    "sourceIssueCategory": "example_sense_mismatch",
+    "requiresHumanReview": true,
+    "autoApplied": false,
+    "suggestedValue": "",
+    "confidence": 0.82
+  },
+  {
+    "id": "en-20115",
+    "language": "english",
+    "tier": 2,
+    "riskType": "example_sense_mismatch_high",
+    "field": "example",
+    "verifiedFromRealData": true,
+    "currentValue": "He got busted. — あいつ捕まったんだよ。",
+    "fullSnapshot": {
+      "answer": "半身像",
+      "glosses": null,
+      "example": "He got busted. — あいつ捕まったんだよ。",
+      "choices": [
+        "半身像",
+        "〜さん",
+        "小路",
+        "牧師"
+      ],
+      "tags": [
+        "名詞"
+      ],
+      "prompt": "「bust」の意味は？"
+    },
+    "note": "answer『半身像』(名詞)に対し、例文のbusted(get busted=捕まる)は全く別語義。語義・用法とも不一致。",
+    "sourceIssueCategory": "example_sense_mismatch",
+    "requiresHumanReview": true,
+    "autoApplied": false,
+    "suggestedValue": "",
+    "confidence": 0.8
+  },
+  {
+    "id": "en-20274",
+    "language": "english",
+    "tier": 2,
+    "riskType": "example_sense_mismatch_high",
+    "field": "example",
+    "verifiedFromRealData": true,
+    "currentValue": "I'm hooked on yachts now. — 今はヨットにハマっています。",
+    "fullSnapshot": {
+      "answer": "かぎ形の",
+      "glosses": null,
+      "example": "I'm hooked on yachts now. — 今はヨットにハマっています。",
+      "choices": [
+        "玉座",
+        "かぎ形の",
+        "偏執病患者の",
+        "デザート"
+      ],
+      "tags": [
+        "名詞"
+      ],
+      "prompt": "「hooked」の意味は？"
+    },
+    "note": "answer『かぎ形の』に対し、例文の『be hooked on』は『夢中になる・ハマる』の意で語義が完全に異なる。加えてtagsが名詞だが形容詞的用法。",
+    "sourceIssueCategory": "example_sense_mismatch",
+    "requiresHumanReview": true,
+    "autoApplied": false,
+    "suggestedValue": "",
+    "confidence": 0.8
+  },
+  {
+    "id": "en-20363",
+    "language": "english",
+    "tier": 2,
+    "riskType": "example_sense_mismatch_high",
+    "field": "example",
+    "verifiedFromRealData": true,
+    "currentValue": "This Scotch tape doesn't stick. — このセロテープ、くっつかないんだけど。",
+    "fullSnapshot": {
+      "answer": "押しつぶす",
+      "glosses": null,
+      "example": "This Scotch tape doesn't stick. — このセロテープ、くっつかないんだけど。",
+      "choices": [
+        "〜に気をつける",
+        "目が覚めている",
+        "降伏する",
+        "押しつぶす"
+      ],
+      "tags": [
+        "動詞"
+      ],
+      "prompt": "「scotch」の意味は？"
+    },
+    "note": "answer『押しつぶす』(動詞)に対し、例文の『Scotch tape』は商標(セロテープ)で語義・品詞とも全く無関係。",
+    "sourceIssueCategory": "example_sense_mismatch",
+    "requiresHumanReview": true,
+    "autoApplied": false,
+    "suggestedValue": "",
+    "confidence": 0.85
+  },
+  {
+    "id": "en-20434",
+    "language": "english",
+    "tier": 2,
+    "riskType": "example_sense_mismatch_high",
+    "field": "example",
+    "verifiedFromRealData": true,
+    "currentValue": "The bottle smashed to pieces. — 瓶は粉々に割れた。",
+    "fullSnapshot": {
+      "answer": "酔っぱらった",
+      "glosses": null,
+      "example": "The bottle smashed to pieces. — 瓶は粉々に割れた。",
+      "choices": [
+        "セーター",
+        "野心",
+        "酔っぱらった",
+        "スミレ"
+      ],
+      "tags": [
+        "名詞"
+      ],
+      "prompt": "「smashed」の意味は？"
+    },
+    "note": "answer『酔っぱらった』(俗語)に対し、例文のsmashedは『粉々に割れた』で語義が完全に異なる。",
+    "sourceIssueCategory": "example_sense_mismatch",
+    "requiresHumanReview": true,
+    "autoApplied": false,
+    "suggestedValue": "",
+    "confidence": 0.82
+  },
+  {
+    "id": "en-20483",
+    "language": "english",
+    "tier": 2,
+    "riskType": "example_sense_mismatch_high",
+    "field": "example",
+    "verifiedFromRealData": true,
+    "currentValue": "Let's get cracking at 8. — ８時から始めよう。",
+    "fullSnapshot": {
+      "answer": "ひび割れ，割れること",
+      "glosses": null,
+      "example": "Let's get cracking at 8. — ８時から始めよう。",
+      "choices": [
+        "生理学",
+        "供給する",
+        "ひび割れ，割れること",
+        "身体上の"
+      ],
+      "tags": [
+        "名詞"
+      ],
+      "prompt": "「cracking」の意味は？"
+    },
+    "note": "answer『ひび割れ，割れること』に対し、例文の『get cracking』は『始める・取りかかる』の慣用句で語義が完全に異なる。",
+    "sourceIssueCategory": "example_sense_mismatch",
+    "requiresHumanReview": true,
+    "autoApplied": false,
+    "suggestedValue": "",
+    "confidence": 0.8
+  },
+  {
+    "id": "en-21103",
+    "language": "english",
+    "tier": 2,
+    "riskType": "example_sense_mismatch_high",
+    "field": "example",
+    "verifiedFromRealData": true,
+    "currentValue": "It was just a fender bender. — 軽い接触事故だったんだ。",
+    "fullSnapshot": {
+      "answer": "酒を飲んでの大騒ぎ",
+      "glosses": null,
+      "example": "It was just a fender bender. — 軽い接触事故だったんだ。",
+      "choices": [
+        "ナイトクラブ",
+        "酒を飲んでの大騒ぎ",
+        "ほうき",
+        "ヒキガエル"
+      ],
+      "tags": [
+        "名詞"
+      ],
+      "prompt": "「bender」の意味は？"
+    },
+    "note": "見出し語の語義は「酒を飲んでの大騒ぎ(binge)」だが、例文は複合語 fender bender(軽い接触事故)で別義。語義を示していない。",
+    "sourceIssueCategory": "example_sense_mismatch",
+    "requiresHumanReview": true,
+    "autoApplied": false,
+    "suggestedValue": "After the party he went on a three-day bender.",
+    "confidence": 0.9
+  },
+  {
+    "id": "en-21117",
+    "language": "english",
+    "tier": 2,
+    "riskType": "example_sense_mismatch_high",
+    "field": "example",
+    "verifiedFromRealData": true,
+    "currentValue": "It will get warmer and warmer. — だんだん暖かくなります。",
+    "fullSnapshot": {
+      "answer": "暖めるもの",
+      "glosses": null,
+      "example": "It will get warmer and warmer. — だんだん暖かくなります。",
+      "choices": [
+        "女性の",
+        "暖めるもの",
+        "宴会",
+        "校長"
+      ],
+      "tags": [
+        "名詞"
+      ],
+      "prompt": "「warmer」の意味は？"
+    },
+    "note": "見出し語の語義は名詞「暖めるもの」だが、例文の warmer は形容詞 warm の比較級で別用法。",
+    "sourceIssueCategory": "example_sense_mismatch",
+    "requiresHumanReview": true,
+    "autoApplied": false,
+    "suggestedValue": "In winter she uses a foot warmer under her desk.",
+    "confidence": 0.9
+  },
+  {
+    "id": "en-21128",
+    "language": "english",
+    "tier": 2,
+    "riskType": "example_sense_mismatch_high",
+    "field": "example",
+    "verifiedFromRealData": true,
+    "currentValue": "He is a real wheeler-dealer. — 彼はやり手です。",
+    "fullSnapshot": {
+      "answer": "トラック運搬者",
+      "glosses": null,
+      "example": "He is a real wheeler-dealer. — 彼はやり手です。",
+      "choices": [
+        "トラック運搬者",
+        "花びん",
+        "浴槽",
+        "深い愛情"
+      ],
+      "tags": [
+        "名詞"
+      ],
+      "prompt": "「wheeler」の意味は？"
+    },
+    "note": "和訳「トラック運搬者」に対し例文は wheeler-dealer(やり手)で無関係。語義を示していない。",
+    "sourceIssueCategory": "example_sense_mismatch",
+    "requiresHumanReview": true,
+    "autoApplied": false,
+    "suggestedValue": "The eighteen-wheeler carried steel across the country.",
+    "confidence": 0.9
+  },
+  {
+    "id": "en-21268",
+    "language": "english",
+    "tier": 2,
+    "riskType": "example_sense_mismatch_high",
+    "field": "example",
+    "verifiedFromRealData": true,
+    "currentValue": "I burned my forefinger on fire tongs. — 火ばさみで人差し指をやけどした。",
+    "fullSnapshot": {
+      "answer": "在米中国人の友愛団体",
+      "glosses": null,
+      "example": "I burned my forefinger on fire tongs. — 火ばさみで人差し指をやけどした。",
+      "choices": [
+        "モットー",
+        "在米中国人の友愛団体",
+        "夜間外出禁止令",
+        "右舷"
+      ],
+      "tags": [
+        "名詞"
+      ],
+      "prompt": "「tong」の意味は？"
+    },
+    "note": "和訳「在米中国人の友愛団体(tong)」に対し、例文は別語 tongs(火ばさみ)。exampleFormも tongs で見出し語 tong と不一致。",
+    "sourceIssueCategory": "example_sense_mismatch",
+    "requiresHumanReview": true,
+    "autoApplied": false,
+    "suggestedValue": "The tong controlled several shops in Chinatown.",
+    "confidence": 0.92
+  },
+  {
+    "id": "en-21293",
+    "language": "english",
+    "tier": 2,
+    "riskType": "example_sense_mismatch_high",
+    "field": "example",
+    "verifiedFromRealData": true,
+    "currentValue": "The rocket blasted out of the atmosphere. — ロケットは大気圏外へ飛んでいった。",
+    "fullSnapshot": {
+      "answer": "いまいましい，のろわれた",
+      "glosses": null,
+      "example": "The rocket blasted out of the atmosphere. — ロケットは大気圏外へ飛んでいった。",
+      "choices": [
+        "強く押す",
+        "予想",
+        "いまいましい，のろわれた",
+        "思いやりのある"
+      ],
+      "tags": [
+        "名詞"
+      ],
+      "prompt": "「blasted」の意味は？"
+    },
+    "note": "和訳「いまいましい，のろわれた(形容詞)」に対し、例文の blasted は動詞 blast の過去形(発射・飛ぶ)で別義。",
+    "sourceIssueCategory": "example_sense_mismatch",
+    "requiresHumanReview": true,
+    "autoApplied": false,
+    "suggestedValue": "Where is that blasted key of mine?",
+    "confidence": 0.88
+  },
+  {
+    "id": "en-21406",
+    "language": "english",
+    "tier": 2,
+    "riskType": "example_sense_mismatch_high",
+    "field": "example",
+    "verifiedFromRealData": true,
+    "currentValue": "The children started bouncing up and down on the couch. — 子供たちはソファの上で跳び始めた。",
+    "fullSnapshot": {
+      "answer": "健康な",
+      "glosses": null,
+      "example": "The children started bouncing up and down on the couch. — 子供たちはソファの上で跳び始めた。",
+      "choices": [
+        "気づかない",
+        "怪物のような",
+        "ありそうな",
+        "健康な"
+      ],
+      "tags": [
+        "形容詞"
+      ],
+      "prompt": "「bouncing」の意味は？"
+    },
+    "note": "和訳「健康な(bouncing baby)」に対し、例文の bouncing は動詞 bounce の進行形(跳ねる)で別義。",
+    "sourceIssueCategory": "example_sense_mismatch",
+    "requiresHumanReview": true,
+    "autoApplied": false,
+    "suggestedValue": "She is a bouncing, healthy baby.",
+    "confidence": 0.88
+  },
+  {
+    "id": "en-21432",
+    "language": "english",
+    "tier": 2,
+    "riskType": "example_sense_mismatch_high",
+    "field": "example",
+    "verifiedFromRealData": true,
+    "currentValue": "The weasel is noted for its bad smell. — いたちはその悪臭で知られている。",
+    "fullSnapshot": {
+      "answer": "言い逃れる",
+      "glosses": null,
+      "example": "The weasel is noted for its bad smell. — いたちはその悪臭で知られている。",
+      "choices": [
+        "マフィン",
+        "の後ろに",
+        "詳細",
+        "言い逃れる"
+      ],
+      "tags": [
+        "動詞"
+      ],
+      "prompt": "「weasel」の意味は？"
+    },
+    "note": "和訳「言い逃れる(動詞)」・tag動詞に対し、例文の weasel は名詞(動物のイタチ)で別品詞・別義。",
+    "sourceIssueCategory": "example_sense_mismatch",
+    "requiresHumanReview": true,
+    "autoApplied": false,
+    "suggestedValue": "He tried to weasel out of his promise.",
+    "confidence": 0.9
+  },
+  {
+    "id": "en-21453",
+    "language": "english",
+    "tier": 2,
+    "riskType": "example_sense_mismatch_high",
+    "field": "example",
+    "verifiedFromRealData": true,
+    "currentValue": "I became hardened to punishing pupils. — 生徒を罰することをなんとも思わなかった。",
+    "fullSnapshot": {
+      "answer": "へとへとにさせる",
+      "glosses": null,
+      "example": "I became hardened to punishing pupils. — 生徒を罰することをなんとも思わなかった。",
+      "choices": [
+        "こぶ",
+        "ガタガタ音を立てる",
+        "逆らう",
+        "へとへとにさせる"
+      ],
+      "tags": [
+        "動詞"
+      ],
+      "prompt": "「punishing」の意味は？"
+    },
+    "note": "和訳「へとへとにさせる(形容詞 grueling)」に対し、例文の punishing は動詞 punish の動名詞(罰すること)で別義。",
+    "sourceIssueCategory": "example_sense_mismatch",
+    "requiresHumanReview": true,
+    "autoApplied": false,
+    "suggestedValue": "The team faced a punishing training schedule.",
+    "confidence": 0.88
+  },
+  {
+    "id": "en-21935",
+    "language": "english",
+    "tier": 2,
+    "riskType": "example_unrelated_or_wrong_word",
+    "field": "example",
+    "verifiedFromRealData": true,
+    "currentValue": "Her cheeks were tinged with pink. — 彼女のほおは薄く桃色に染まっていた。",
+    "fullSnapshot": {
+      "answer": "チリンチリンと鳴らす",
+      "glosses": null,
+      "example": "Her cheeks were tinged with pink. — 彼女のほおは薄く桃色に染まっていた。",
+      "choices": [
+        "著しく",
+        "チリンチリンと鳴らす",
+        "きらきら輝く",
+        "はさむ"
+      ],
+      "tags": [
+        "動詞"
+      ],
+      "prompt": "「ting」の意味は？"
+    },
+    "note": "answer「チリンと鳴らす(ting)」に対し例文は別語tinged(tinge)。見出し語が例文に不在。",
+    "sourceIssueCategory": "example_sense_mismatch",
+    "requiresHumanReview": true,
+    "autoApplied": false
+  },
+  {
+    "id": "en-22638",
+    "language": "english",
+    "tier": 2,
+    "riskType": "example_sense_mismatch_high",
+    "field": "example",
+    "verifiedFromRealData": true,
+    "currentValue": "Little lights were blinking on and off in the distance. — 遠くで小さな明かりがちらちらしていた。",
+    "fullSnapshot": {
+      "answer": "まったくひどい",
+      "glosses": null,
+      "example": "Little lights were blinking on and off in the distance. — 遠くで小さな明かりがちらちらしていた。",
+      "choices": [
+        "救いようのない",
+        "まったくひどい",
+        "身分の低い",
+        "活発な"
+      ],
+      "tags": [
+        "形容詞"
+      ],
+      "prompt": "「blinking」の意味は？"
+    },
+    "note": "answerは「まったくひどい」(英俗の強意)だが、例文『Little lights were blinking...ちらちらしていた』は動詞blink(点滅する)の意味で、提示義と一致しない。",
+    "sourceIssueCategory": "example_sense_mismatch",
+    "requiresHumanReview": true,
+    "autoApplied": false,
+    "suggestedValue": null,
+    "confidence": 0.9
+  },
+  {
+    "id": "en-22747",
+    "language": "english",
+    "tier": 2,
+    "riskType": "example_sense_mismatch_high",
+    "field": "example",
+    "verifiedFromRealData": true,
+    "currentValue": "Dickens was the author of 'Oliver Twist'. — ディケンズは『オリバー・ツイスト』の著者です。",
+    "fullSnapshot": {
+      "answer": "悪魔",
+      "glosses": null,
+      "example": "Dickens was the author of 'Oliver Twist'. — ディケンズは『オリバー・ツイスト』の著者です。",
+      "choices": [
+        "悪魔",
+        "ボンネット",
+        "勇敢に",
+        "毛で覆われた"
+      ],
+      "tags": [
+        "名詞"
+      ],
+      "prompt": "「dickens」の意味は？"
+    },
+    "note": "answerは「悪魔」(the dickens=悪魔・一体全体)だが、例文『Dickens was the author of Oliver Twist』は作家チャールズ・ディケンズ(固有名詞)の話で、見出し語義と無関係。",
+    "sourceIssueCategory": "example_sense_mismatch",
+    "requiresHumanReview": true,
+    "autoApplied": false,
+    "suggestedValue": null,
+    "confidence": 0.95
+  },
+  {
+    "id": "en-22854",
+    "language": "english",
+    "tier": 2,
+    "riskType": "example_sense_mismatch_high",
+    "field": "example",
+    "verifiedFromRealData": true,
+    "currentValue": "A storm is brewing. — 今にも嵐になりそうだ。",
+    "fullSnapshot": {
+      "answer": "ビール醸造",
+      "glosses": null,
+      "example": "A storm is brewing. — 今にも嵐になりそうだ。",
+      "choices": [
+        "騒動",
+        "足場",
+        "逆説",
+        "ビール醸造"
+      ],
+      "tags": [
+        "名詞"
+      ],
+      "prompt": "「brewing」の意味は？"
+    },
+    "note": "answerは「ビール醸造」だが、例文『A storm is brewing. — 今にも嵐になりそうだ』はbrew(兆す/起ころうとする)の意味で、提示義と一致しない。",
+    "sourceIssueCategory": "example_sense_mismatch",
+    "requiresHumanReview": true,
+    "autoApplied": false,
+    "suggestedValue": null,
+    "confidence": 0.9
+  },
+  {
+    "id": "en-22855",
+    "language": "english",
+    "tier": 2,
+    "riskType": "example_sense_mismatch_high",
+    "field": "example",
+    "verifiedFromRealData": true,
+    "currentValue": "Tit for tat. — しっぺ返しだよ。",
+    "fullSnapshot": {
+      "answer": "タッチングで作る",
+      "glosses": null,
+      "example": "Tit for tat. — しっぺ返しだよ。",
+      "choices": [
+        "木",
+        "肖像画",
+        "タッチングで作る",
+        "害"
+      ],
+      "tags": [
+        "動詞"
+      ],
+      "prompt": "「tat」の意味は？"
+    },
+    "note": "answerは「タッチングで作る」だが、例文『Tit for tat. — しっぺ返しだよ』は成句tit for tat内のtatで、提示義(タッチング)と無関係。",
+    "sourceIssueCategory": "example_sense_mismatch",
+    "requiresHumanReview": true,
+    "autoApplied": false,
+    "suggestedValue": null,
+    "confidence": 0.92
+  },
+  {
+    "id": "en-22963",
+    "language": "english",
+    "tier": 2,
+    "riskType": "example_sense_mismatch_high",
+    "field": "example",
+    "verifiedFromRealData": true,
+    "currentValue": "My father contracted pneumonia last month. — 私の父は先月肺炎にかかった。",
+    "fullSnapshot": {
+      "answer": "縮めた",
+      "glosses": null,
+      "example": "My father contracted pneumonia last month. — 私の父は先月肺炎にかかった。",
+      "choices": [
+        "料理の",
+        "人食い鬼",
+        "気取り屋",
+        "縮めた"
+      ],
+      "tags": [
+        "名詞"
+      ],
+      "prompt": "「contracted」の意味は？"
+    },
+    "note": "answerは「縮めた」だが、例文『My father contracted pneumonia — 肺炎にかかった』はcontract(病気にかかる)の別義で、提示義と一致しない。tagも名詞で不整合。",
+    "sourceIssueCategory": "example_sense_mismatch",
+    "requiresHumanReview": true,
+    "autoApplied": false,
+    "suggestedValue": null,
+    "confidence": 0.9
+  },
+  {
+    "id": "en-22971",
+    "language": "english",
+    "tier": 2,
+    "riskType": "example_sense_mismatch_high",
+    "field": "example",
+    "verifiedFromRealData": true,
+    "currentValue": "I wish I could sing as well as Lady Gaga. — レディ・ガガみたいに上手く歌えたらなあ。",
+    "fullSnapshot": {
+      "answer": "夢中の，ぼけた",
+      "glosses": null,
+      "example": "I wish I could sing as well as Lady Gaga. — レディ・ガガみたいに上手く歌えたらなあ。",
+      "choices": [
+        "敷居",
+        "夢中の，ぼけた",
+        "果汁",
+        "新聞"
+      ],
+      "tags": [
+        "名詞"
+      ],
+      "prompt": "「gaga」の意味は？"
+    },
+    "note": "answerは「夢中の，ぼけた」(形容詞gaga)だが、例文『I wish I could sing as well as Lady Gaga』は固有名詞レディ・ガガで、見出し語義と無関係。",
+    "sourceIssueCategory": "example_sense_mismatch",
+    "requiresHumanReview": true,
+    "autoApplied": false,
+    "suggestedValue": null,
+    "confidence": 0.92
+  },
+  {
+    "id": "en-22977",
+    "language": "english",
+    "tier": 2,
+    "riskType": "example_sense_mismatch_high",
+    "field": "example",
+    "verifiedFromRealData": true,
+    "currentValue": "I disposed of my old coat. — 古いコートを処分した。",
+    "fullSnapshot": {
+      "answer": "する気がある，傾向がある",
+      "glosses": null,
+      "example": "I disposed of my old coat. — 古いコートを処分した。",
+      "choices": [
+        "不思議の国",
+        "する気がある，傾向がある",
+        "予備の",
+        "隠喩"
+      ],
+      "tags": [
+        "形容詞"
+      ],
+      "prompt": "「disposed」の意味は？"
+    },
+    "note": "answerは「する気がある，傾向がある」(形容詞disposed=inclined)だが、例文『I disposed of my old coat — 処分した』はdispose of(処分する)の別義で一致しない。",
+    "sourceIssueCategory": "example_sense_mismatch",
+    "requiresHumanReview": true,
+    "autoApplied": false,
+    "suggestedValue": null,
+    "confidence": 0.9
+  },
+  {
+    "id": "zh-02747",
+    "language": "chinese",
+    "tier": 2,
+    "riskType": "example_sense_mismatch_high",
+    "field": "example",
+    "verifiedFromRealData": true,
+    "currentValue": "他在操场上跑了一圈。 — 彼は運動場を一輪走った。",
+    "fullSnapshot": {
+      "answer": "輪",
+      "glosses": {
+        "en": "to confine"
+      },
+      "example": "他在操场上跑了一圈。 — 彼は運動場を一輪走った。",
+      "choices": [
+        "英語",
+        "輪",
+        "番号",
+        "現実"
+      ],
+      "tags": [
+        "名詞"
+      ],
+      "prompt": "「圈」の意味は？"
+    },
+    "note": "量詞「一圈」は『一周（1周）』の意。和訳の『一輪』は誤り（『一輪』は花や車輪を数える語で、走る周回には用いない）。英訳 'ran one lap' とも矛盾する。",
+    "sourceIssueCategory": "example_sense_mismatch",
+    "requiresHumanReview": true,
+    "autoApplied": false,
+    "suggestedValue": "他在操场上跑了一圈。 — 彼は運動場を一周走った。",
+    "confidence": 0.9
+  },
+  {
+    "id": "es-00432",
+    "language": "spanish",
+    "tier": 3,
+    "riskType": "translation_false_friend_or_en_ja_mismatch",
+    "field": "glosses",
+    "verifiedFromRealData": true,
+    "currentValue": {
+      "en": "candy",
+      "ja": "甘い"
+    },
+    "fullSnapshot": {
+      "answer": "candy",
+      "glosses": {
+        "en": "candy",
+        "ja": "甘い"
+      },
+      "example": null,
+      "choices": [
+        "downfall",
+        "amount",
+        "department",
+        "candy"
+      ],
+      "tags": [
+        "word"
+      ],
+      "prompt": "「dulce」の意味は？"
+    },
+    "note": "dulce: en「candy(菓子)」だが ja「甘い(形容詞)」。英訳と和訳の主要義がずれる。",
+    "sourceIssueCategory": "translation_issue",
+    "requiresHumanReview": true,
+    "autoApplied": false
+  },
+  {
+    "id": "es-01405",
+    "language": "spanish",
+    "tier": 3,
+    "riskType": "translation_false_friend_or_en_ja_mismatch",
+    "field": "glosses",
+    "verifiedFromRealData": true,
+    "currentValue": {
+      "en": "jesus",
+      "ja": "キリスト"
+    },
+    "fullSnapshot": {
+      "answer": "jesus",
+      "glosses": {
+        "en": "jesus",
+        "ja": "キリスト"
+      },
+      "example": null,
+      "choices": [
+        "moment",
+        "universe",
+        "jesus",
+        "summer"
+      ],
+      "tags": [
+        "word"
+      ],
+      "prompt": "「cristo」の意味は？"
+    },
+    "note": "cristo: en「jesus」は「Christ」が適切（固有名詞表記）。",
+    "sourceIssueCategory": "translation_issue",
+    "requiresHumanReview": true,
+    "autoApplied": false
+  },
+  {
+    "id": "fr-00092",
+    "language": "french",
+    "tier": 3,
+    "riskType": "translation_false_friend_or_en_ja_mismatch",
+    "field": "glosses",
+    "verifiedFromRealData": true,
+    "currentValue": {
+      "en": "set",
+      "ja": "一緒に"
+    },
+    "fullSnapshot": {
+      "answer": "set",
+      "glosses": {
+        "en": "set",
+        "ja": "一緒に"
+      },
+      "example": null,
+      "choices": [
+        "message",
+        "pair of jeans",
+        "set",
+        "site"
+      ],
+      "tags": [
+        "word"
+      ],
+      "prompt": "「ensemble」の意味は？"
+    },
+    "note": "ensemble: en「set」だが ja「一緒に」。副詞義と名詞義の取り違え懸念。",
+    "sourceIssueCategory": "translation_issue",
+    "requiresHumanReview": true,
+    "autoApplied": false
+  },
+  {
+    "id": "fr-00645",
+    "language": "french",
+    "tier": 3,
+    "riskType": "translation_false_friend_or_en_ja_mismatch",
+    "field": "glosses",
+    "verifiedFromRealData": true,
+    "currentValue": {
+      "en": "experiment",
+      "ja": "経験，実験"
+    },
+    "fullSnapshot": {
+      "answer": "experiment",
+      "glosses": {
+        "en": "experiment",
+        "ja": "経験，実験"
+      },
+      "example": null,
+      "choices": [
+        "taxi",
+        "to force",
+        "experiment",
+        "accident"
+      ],
+      "tags": [
+        "word"
+      ],
+      "prompt": "「expérience」の意味は？"
+    },
+    "note": "expérience: en「experiment」だが第一義は「experience(経験)」。false friend。",
+    "sourceIssueCategory": "translation_issue",
+    "requiresHumanReview": true,
+    "autoApplied": false
+  },
+  {
+    "id": "fr-01022",
+    "language": "french",
+    "tier": 3,
+    "riskType": "translation_false_friend_or_en_ja_mismatch",
+    "field": "glosses",
+    "verifiedFromRealData": true,
+    "currentValue": {
+      "en": "emission",
+      "ja": "放送"
+    },
+    "fullSnapshot": {
+      "answer": "emission",
+      "glosses": {
+        "en": "emission",
+        "ja": "放送"
+      },
+      "example": null,
+      "choices": [
+        "combat",
+        "moment",
+        "prize",
+        "emission"
+      ],
+      "tags": [
+        "word"
+      ],
+      "prompt": "「émission」の意味は？"
+    },
+    "note": "émission: en「emission」だが ja「放送」。broadcast寄りで英訳とずれる。",
+    "sourceIssueCategory": "translation_issue",
+    "requiresHumanReview": true,
+    "autoApplied": false
+  },
+  {
+    "id": "zh-02747",
+    "language": "chinese",
+    "tier": 3,
+    "riskType": "example_translation_error",
+    "field": "example",
+    "verifiedFromRealData": true,
+    "currentValue": "他在操场上跑了一圈。 — 彼は運動場を一輪走った。",
+    "fullSnapshot": {
+      "answer": "輪",
+      "glosses": {
+        "en": "to confine"
+      },
+      "example": "他在操场上跑了一圈。 — 彼は運動場を一輪走った。",
+      "choices": [
+        "英語",
+        "輪",
+        "番号",
+        "現実"
+      ],
+      "tags": [
+        "名詞"
+      ],
+      "prompt": "「圈」の意味は？"
+    },
+    "note": "例文「跑了一圈」の和訳が「一輪走った」＝誤り。量詞「圈」＝一周(one lap)。「一周走った」が正。",
+    "sourceIssueCategory": "translation_issue",
+    "requiresHumanReview": true,
+    "autoApplied": false
+  }
+]

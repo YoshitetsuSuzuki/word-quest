@@ -1,0 +1,5132 @@
+[
+  {
+    "id": "zh-00426",
+    "language": "zh",
+    "headword": "「一边」の意味は？",
+    "sourceAuditFiles": [
+      "chinese/issues-L1.json",
+      "audit-errors.json",
+      "proposed-fixes.json"
+    ],
+    "issueCategory": "missing_example",
+    "severity": "high",
+    "field": "example",
+    "currentValue": null,
+    "suggestedValue": "（例文と見出しフィールドexampleForm欠落。他エントリと同形式の中文例文＋和訳を補う必要）",
+    "reason": "exampleと exampleFormが null。全487件中この1件のみ例文が欠落しており、学習・出題に支障。見出し『一边』自体は簡体字で妥当、拼音 yībiān も妥当。",
+    "confidence": 0.99,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "zh-00105",
+    "language": "zh",
+    "headword": "分",
+    "sourceAuditFiles": [
+      "chinese/issues-L1.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "medium",
+    "field": "glosses.en",
+    "currentValue": "to divide",
+    "suggestedValue": "minute",
+    "reason": "見出し『分』の answer=『分(=時間の分)』・例文『现在是八点十分』(時刻)は時間の『分』。しかし glosses.en='to divide'(分ける)で別義。和訳・例文は正しく、英語グロスのみ不整合。",
+    "confidence": 0.9,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00223",
+    "language": "zh",
+    "headword": "毛",
+    "sourceAuditFiles": [
+      "chinese/issues-L1.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "medium",
+    "field": "glosses.en",
+    "currentValue": "hair",
+    "suggestedValue": "mao (0.1 yuan / colloquial for 角)",
+    "reason": "answer=『毛，角』・例文『这个东西五毛钱』は貨幣単位(0.1元=1角)。しかし glosses.en='hair'(毛髪)で別義。和訳・例文は正しく英語グロスのみ不整合。",
+    "confidence": 0.9,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00166",
+    "language": "zh",
+    "headword": "间",
+    "sourceAuditFiles": [
+      "chinese/issues-L1.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "medium",
+    "field": "answer",
+    "currentValue": "部屋",
+    "suggestedValue": "（部屋・家を数える）量詞『間』",
+    "reason": "例文『这是一间大房子』の『间』は建物を数える量詞。単独見出しの『间』は『部屋(room)』そのものではなく量詞用法が主。answer=部屋・和訳『一部屋の大きな家』はやや不正確。学習上の誤解の可能性。要人手確認。",
+    "confidence": 0.75,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00021",
+    "language": "zh",
+    "headword": "本",
+    "sourceAuditFiles": [
+      "chinese/issues-L1.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "missing_gloss",
+    "severity": "low",
+    "field": "glosses.en",
+    "currentValue": null,
+    "suggestedValue": "measure word for books (volume)",
+    "reason": "glosses.en 欠落。見出し『本』は書籍の量詞。answer=冊は妥当。英語グロス補完が望ましい。",
+    "confidence": 0.9,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00043",
+    "language": "zh",
+    "headword": "车上",
+    "sourceAuditFiles": [
+      "chinese/issues-L1.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "missing_gloss",
+    "severity": "low",
+    "field": "glosses.en",
+    "currentValue": null,
+    "suggestedValue": "on/in the vehicle",
+    "reason": "glosses.en 欠落。answer=車内は妥当。英語グロス補完が望ましい。",
+    "confidence": 0.9,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00752",
+    "language": "zh",
+    "headword": "教学",
+    "sourceAuditFiles": [
+      "chinese/issues-L2a.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "low",
+    "field": "example",
+    "currentValue": "老师的教学很认真。 — 先生の教育はとてもまじめだ。",
+    "suggestedValue": "老师的教学很认真。 — 先生の教え方（授業）はとても真剣だ。",
+    "reason": "見出し語は『教学（教えること／授業）』だが和訳が『教育』になっており見出しとずれる。",
+    "confidence": 0.7,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01158",
+    "language": "zh",
+    "headword": "越",
+    "sourceAuditFiles": [
+      "chinese/issues-L2b.json",
+      "audit-errors.json",
+      "proposed-fixes.json"
+    ],
+    "issueCategory": "missing_example",
+    "severity": "high",
+    "field": "example",
+    "currentValue": "",
+    "suggestedValue": "他越跑越快。 — 彼は走れば走るほど速くなる。",
+    "reason": "example フィールドが空。「越」は例文・例文和訳ともに欠落しており学習データとして不完全。提案例文は要確認。",
+    "confidence": 0.99,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "zh-01162",
+    "language": "zh",
+    "headword": "咱",
+    "sourceAuditFiles": [
+      "chinese/issues-L2b.json",
+      "audit-errors.json",
+      "proposed-fixes.json"
+    ],
+    "issueCategory": "missing_example",
+    "severity": "high",
+    "field": "example",
+    "currentValue": "",
+    "suggestedValue": "咱一起去吧。 — 私たち、一緒に行こう。",
+    "reason": "example フィールドが空。「咱」（口語・北方方言の一人称）に例文・例文和訳が欠落。提案例文は要確認。",
+    "confidence": 0.99,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "zh-01211",
+    "language": "zh",
+    "headword": "字典",
+    "sourceAuditFiles": [
+      "chinese/issues-L2b.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "low",
+    "field": "answer",
+    "currentValue": "字書",
+    "suggestedValue": "字典／辞書",
+    "reason": "answer『字書』は現代日本語で不自然。『字典』または『辞書』が自然。",
+    "confidence": 0.6,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00881",
+    "language": "zh",
+    "headword": "片",
+    "sourceAuditFiles": [
+      "chinese/issues-L2b.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "low",
+    "field": "exampleTranslations",
+    "currentValue": "薬を一枚飲んだ",
+    "suggestedValue": "薬を一錠飲んだ",
+    "reason": "量詞『片』の例文和訳『薬を一枚飲んだ』は日本語の助数詞として不自然。錠剤なら『一錠』が自然。",
+    "confidence": 0.6,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01586",
+    "language": "zh",
+    "headword": "金",
+    "sourceAuditFiles": [
+      "chinese/issues-L3a.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "medium",
+    "field": "example",
+    "currentValue": "这是一块金。 — これは金の塊だ。",
+    "suggestedValue": "这是一块金子。 — これは金の塊だ。",
+    "reason": "名詞「金（gold）」は通常「金子／黄金」を用いる。「一块金」は不自然",
+    "confidence": 0.82,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01650",
+    "language": "zh",
+    "headword": "乐",
+    "sourceAuditFiles": [
+      "chinese/issues-L3a.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "medium",
+    "field": "example",
+    "currentValue": "听到这个消息他很乐。 — この知らせを聞いて彼はとても楽しんだ。",
+    "suggestedValue": "听到这个消息他很高兴。 — この知らせを聞いて彼はとても喜んだ。",
+    "reason": "「很乐」は現代中国語として不自然。単独形容詞「乐」の程度修飾は口語的に不自然",
+    "confidence": 0.8,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01967",
+    "language": "zh",
+    "headword": "文明",
+    "sourceAuditFiles": [
+      "chinese/issues-L3b.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "medium",
+    "field": "exampleTranslation",
+    "currentValue": "私たちは文明な人にならなければならない。",
+    "suggestedValue": "私たちはマナーを守る人にならなければならない。",
+    "reason": "例文の文明は形容詞用法(礼儀正しい/教養ある)だが、answerは名詞『文明』。訳語『文明な人』は日本語として不自然。日中同形異義の可能性。外部辞書未照合のため要確認。",
+    "confidence": 0.75,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-02160",
+    "language": "zh",
+    "headword": "自觉",
+    "sourceAuditFiles": [
+      "chinese/issues-L3b.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "medium",
+    "field": "answer",
+    "currentValue": "自覚している",
+    "suggestedValue": "自主的だ／自発的だ",
+    "reason": "例文『他学习很自觉』の自觉は『自律的/自発的』の意。日本語『自覚』(self-awareness)とは意味がずれる日中同形異義。訳『自覚的だ』も不自然。要確認。",
+    "confidence": 0.7,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-02091",
+    "language": "zh",
+    "headword": "整",
+    "sourceAuditFiles": [
+      "chinese/issues-L3b.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "missing_example",
+    "severity": "medium",
+    "field": "example",
+    "currentValue": "(null)",
+    "suggestedValue": "例文を補う(例: 他工作了整整一天。)",
+    "reason": "exampleがnullで用例欠落。またanswer『整っている』はglosses(whole/complete/entire)や典型用法(整个/整天/十点整=まるごと・ちょうど)とずれる可能性。確信なし・要確認。",
+    "confidence": 0.6,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-02312",
+    "language": "zh",
+    "headword": "大规模",
+    "sourceAuditFiles": [
+      "chinese/issues-L4a.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "low",
+    "field": "example",
+    "currentValue": "这是一次大规模的活动。 — これは一度の大規模な活動だ。",
+    "suggestedValue": "これは大規模な活動だ。",
+    "reason": "和訳「一度の大規模な活動」は不自然。「一次」を「一度の」と直訳しており日本語として硬い。",
+    "confidence": 0.6,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-02747",
+    "language": "zh",
+    "headword": "圈",
+    "sourceAuditFiles": [
+      "chinese/issues-L4b.json",
+      "audit-errors.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "high",
+    "field": "example",
+    "currentValue": "他在操场上跑了一圈。 — 彼は運動場を一輪走った。",
+    "suggestedValue": "他在操场上跑了一圈。 — 彼は運動場を一周走った。",
+    "reason": "量詞「一圈」は『一周（1周）』の意。和訳の『一輪』は誤り（『一輪』は花や車輪を数える語で、走る周回には用いない）。英訳 'ran one lap' とも矛盾する。",
+    "confidence": 0.9,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-02755",
+    "language": "zh",
+    "headword": "热心",
+    "sourceAuditFiles": [
+      "chinese/issues-L4b.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_false_friend",
+    "severity": "medium",
+    "field": "answer",
+    "currentValue": "熱心な",
+    "suggestedValue": "親切な／世話好きな",
+    "reason": "日中同形異義。中国語『热心』は主に『（人のために）親切・世話好き・献身的』の意で、英訳も 'warmhearted' となっている。日本語『熱心』は『物事に打ち込む・ひたむき』の意で語義がずれる。例文『他是一个热心的人』は『親切な人』の意。",
+    "confidence": 0.85,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-02716",
+    "language": "zh",
+    "headword": "平稳",
+    "sourceAuditFiles": [
+      "chinese/issues-L4b.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_false_friend",
+    "severity": "medium",
+    "field": "answer",
+    "currentValue": "平穏な",
+    "suggestedValue": "安定した／揺れの少ない",
+    "reason": "日中同形異義。中国語『平稳』は『（揺れず）安定している・スムーズ』の意（英訳 'steadily'）。日本語『平穏』は『穏やかで無事』の意でニュアンスが異なる。例文和訳『飛行機はとても平穏に飛んでいる』も不自然で、『安定して飛んでいる／揺れずに飛んでいる』が適切。",
+    "confidence": 0.8,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03107",
+    "language": "zh",
+    "headword": "智能",
+    "sourceAuditFiles": [
+      "chinese/issues-L4b.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "low",
+    "field": "example",
+    "currentValue": "他买了一部智能手机。 — 彼は知能を持つ携帯を一台買った。",
+    "suggestedValue": "他买了一部智能手机。 — 彼はスマートフォンを一台買った。",
+    "reason": "『智能手机』は定訳『スマートフォン（スマホ）』。和訳の『知能を持つ携帯』は直訳的で不自然（英訳も 'smart phone'）。見出し語訳『知能』自体は名詞義として許容範囲。",
+    "confidence": 0.75,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03386",
+    "language": "zh",
+    "headword": "风度",
+    "sourceAuditFiles": [
+      "chinese/issues-L5a.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "low",
+    "field": "answer",
+    "currentValue": "風格",
+    "suggestedValue": "立ち居振る舞い／気品",
+    "reason": "『风度』は優雅な物腰・気品の意。『風格』は日本語で威厳・持ち味に寄り、ややニュアンスがずれる。",
+    "confidence": 0.6,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03518",
+    "language": "zh",
+    "headword": "检验",
+    "sourceAuditFiles": [
+      "chinese/issues-L5a.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "medium",
+    "field": "answer",
+    "currentValue": "検証する",
+    "suggestedValue": "検査する",
+    "reason": "『检验』は品質などを調べる(=検査)。例文も製品検査。日本語『検証する』は仮説の確認寄りで、gloss 'to inspect' とも整合しない。",
+    "confidence": 0.78,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03641",
+    "language": "zh",
+    "headword": "面貌",
+    "sourceAuditFiles": [
+      "chinese/issues-L5a.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "medium",
+    "field": "answer",
+    "currentValue": "顔立ち",
+    "suggestedValue": "様相／姿",
+    "reason": "例文は都市の『面貌』(=様相・姿)。和訳『顔立ち』は人の顔限定で、都市の比喩用法・例文和訳と不一致。",
+    "confidence": 0.7,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03283",
+    "language": "zh",
+    "headword": "辞职",
+    "sourceAuditFiles": [
+      "chinese/issues-L5a.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "medium",
+    "field": "example",
+    "currentValue": "他上个月向公司辞职了。",
+    "suggestedValue": "他上个月向公司提出辞职了。／他上个月辞职了。",
+    "reason": "『辞职』は自動詞。『向公司辞职』は不自然で、『提出辞职』または目的語なしが自然。",
+    "confidence": 0.7,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03154",
+    "language": "zh",
+    "headword": "版",
+    "sourceAuditFiles": [
+      "chinese/issues-L5a.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "low",
+    "field": "example",
+    "currentValue": "这本书出了新的版。",
+    "suggestedValue": "这本书出了新版。／新版本。",
+    "reason": "『出了新的版』は不自然。『新版』『新版本』が自然。",
+    "confidence": 0.6,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03601",
+    "language": "zh",
+    "headword": "礼",
+    "sourceAuditFiles": [
+      "chinese/issues-L5a.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "low",
+    "field": "glosses.en",
+    "currentValue": "gift",
+    "suggestedValue": "etiquette",
+    "reason": "gloss.en='gift'だが、和訳『礼儀』・例文『见面时应该先行礼』(=礼をする)は礼儀の意。英語glossのみ不一致。",
+    "confidence": 0.7,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03808",
+    "language": "zh",
+    "headword": "声",
+    "sourceAuditFiles": [
+      "chinese/issues-L5b.json",
+      "audit-errors.json",
+      "proposed-fixes.json"
+    ],
+    "issueCategory": "missing_example",
+    "severity": "high",
+    "field": "example",
+    "currentValue": "",
+    "suggestedValue": "远处传来一声鸟叫。 — 遠くから鳥の鳴き声が一声聞こえた。",
+    "reason": "example/exampleForm/exampleTranslations フィールドが完全に欠落。他の全語には例文があり構造的欠陥。suggestedValueは提案例文（要ネイティブ確認）。",
+    "confidence": 1,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "zh-03822",
+    "language": "zh",
+    "headword": "使得",
+    "sourceAuditFiles": [
+      "chinese/issues-L5b.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "medium",
+    "field": "exampleTranslation",
+    "currentValue": "雨が道をとても滑りやすくもたらした。",
+    "suggestedValue": "雨で道がとても滑りやすくなった。",
+    "reason": "使得（〜させる/〜という結果をもたらす）の和訳が非文法的。「〜をもたらした」の目的語が形容詞句で日本語として破綻。",
+    "confidence": 0.9,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03824",
+    "language": "zh",
+    "headword": "式",
+    "sourceAuditFiles": [
+      "chinese/issues-L5b.json",
+      "audit-errors.json",
+      "proposed-fixes.json"
+    ],
+    "issueCategory": "missing_example",
+    "severity": "high",
+    "field": "example",
+    "currentValue": "",
+    "suggestedValue": "他喜欢中式的房子。 — 彼は中国式の家が好きだ。",
+    "reason": "example/exampleForm/exampleTranslations フィールドが完全に欠落。suggestedValueは提案例文（要ネイティブ確認）。",
+    "confidence": 1,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-00596",
+    "language": "en",
+    "headword": "single",
+    "sourceAuditFiles": [
+      "english/issues-L1.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "medium",
+    "field": "example",
+    "currentValue": "My uncle is still single. — おじはまだ独身だ。",
+    "suggestedValue": null,
+    "reason": "answer は『たった一つの，単一の』だが例文の single は『独身の』の別語義。主要義と例文が不一致。",
+    "confidence": 0.85,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-02092",
+    "language": "en",
+    "headword": "ultimately",
+    "sourceAuditFiles": [
+      "english/issues-L3a.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "low",
+    "field": "example",
+    "currentValue": "Ultimately, we chose the cheaper hotel. — 最後に、私たちはより安いホテルを選んだ。",
+    "suggestedValue": "…— 最終的に（結局）、私たちはより安いホテルを選んだ。",
+    "reason": "見出し語 ultimately の主要義は『最終的に・結局』。例文和訳が『最後に』となっており語義とずれる。",
+    "confidence": 0.6,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-02570",
+    "language": "en",
+    "headword": "gallery",
+    "sourceAuditFiles": [
+      "english/issues-L3b.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "medium",
+    "field": "example",
+    "currentValue": "We walked along the long gallery of the castle. — 城の長い回廊を歩いた。",
+    "suggestedValue": null,
+    "reason": "answerは「画廊，美術館」だが、例文の『gallery』は回廊（城の長い通路）の意で用いられており、提示語義と一致しない。",
+    "confidence": 0.8,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-02716",
+    "language": "en",
+    "headword": "attraction",
+    "sourceAuditFiles": [
+      "english/issues-L3b.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "medium",
+    "field": "example",
+    "currentValue": "The moon's attraction moves the sea. — 月の引力が海を動かす。",
+    "suggestedValue": null,
+    "reason": "answerは「魅力，呼び物」だが、例文の『attraction』は引力（重力）の意で用いられており、提示語義と一致しない。",
+    "confidence": 0.85,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-02892",
+    "language": "en",
+    "headword": "john",
+    "sourceAuditFiles": [
+      "english/issues-L4a.json",
+      "audit-errors.json",
+      "proposed-fixes.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "high",
+    "field": "example",
+    "currentValue": "John is as old as I. — ジョンは私と同い年です。",
+    "suggestedValue": "May I use the john? — お手洗いを使ってもいいですか。",
+    "reason": "例文が固有名詞Johnを使い、answer「手洗い」の語義を示していない",
+    "confidence": 0.98,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-02925",
+    "language": "en",
+    "headword": "yahoo",
+    "sourceAuditFiles": [
+      "english/issues-L4a.json",
+      "audit-errors.json",
+      "proposed-fixes.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "high",
+    "field": "example",
+    "currentValue": "I use \"Yahoo\" to browse the internet. — インターネットの閲覧にYahooを使っている。",
+    "suggestedValue": "That loud yahoo shouted at everyone. — あの乱暴者はみんなに怒鳴った。",
+    "reason": "例文がブランド名Yahooを使い、answer「乱暴者」の語義を示していない",
+    "confidence": 0.98,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-02944",
+    "language": "en",
+    "headword": "august",
+    "sourceAuditFiles": [
+      "english/issues-L4a.json",
+      "audit-errors.json",
+      "proposed-fixes.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "high",
+    "field": "example",
+    "currentValue": "August is coming to an end. — 8月が終わろうとしています。",
+    "suggestedValue": "The king had an august presence. — その王には威厳のある雰囲気があった。",
+    "reason": "例文が月名Augustを使い、answer「威厳のある」の語義を示していない",
+    "confidence": 0.98,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-03104",
+    "language": "en",
+    "headword": "japan",
+    "sourceAuditFiles": [
+      "english/issues-L4a.json",
+      "audit-errors.json",
+      "proposed-fixes.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "high",
+    "field": "example",
+    "currentValue": "Japan was hard up for oil. — 日本は石油が不足して困っていた。",
+    "suggestedValue": "The box is coated with black japan. — その箱は黒い漆で塗られている。",
+    "reason": "例文が国名Japanを使い、answer「黒い漆」の語義を示していない",
+    "confidence": 0.98,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-03158",
+    "language": "en",
+    "headword": "zip",
+    "sourceAuditFiles": [
+      "english/issues-L4a.json",
+      "audit-errors.json",
+      "proposed-fixes.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "high",
+    "field": "example",
+    "currentValue": "He's beating me, three to zip. — ３対０で彼には負けています。",
+    "suggestedValue": "The arrow flew past with a zip. — 矢がビュッという音を立てて飛び過ぎた。",
+    "reason": "例文のzipは「ゼロ(3対0)」の意で、answer「ビュッという音」と不一致",
+    "confidence": 0.98,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-03215",
+    "language": "en",
+    "headword": "smith",
+    "sourceAuditFiles": [
+      "english/issues-L4a.json",
+      "audit-errors.json",
+      "proposed-fixes.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "high",
+    "field": "example",
+    "currentValue": "Smith replied that he was sorry. — スミスは残念だと答えた。",
+    "suggestedValue": "The smith made a horseshoe. — かじ屋は蹄鉄を作った。",
+    "reason": "例文が姓Smithを使い、answer「かじ屋」の語義を示していない",
+    "confidence": 0.98,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-03318",
+    "language": "en",
+    "headword": "pacific",
+    "sourceAuditFiles": [
+      "english/issues-L4a.json",
+      "audit-errors.json",
+      "proposed-fixes.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "high",
+    "field": "example",
+    "currentValue": "He crossed the immense pacific on a raft. — 彼は広大な太平洋をいかだで横断した。",
+    "suggestedValue": "He has a pacific nature. — 彼は平和的な性質だ。",
+    "reason": "例文のpacificは太平洋(the Pacific)を指し、answer「平和的な」と不一致",
+    "confidence": 0.98,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-03381",
+    "language": "en",
+    "headword": "martin",
+    "sourceAuditFiles": [
+      "english/issues-L4a.json",
+      "audit-errors.json",
+      "proposed-fixes.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "high",
+    "field": "example",
+    "currentValue": "Martin seemed very tired, didn't he? — マーティンはとても疲れているようでしたね。",
+    "suggestedValue": "A martin built a nest under the roof. — イワツバメが屋根の下に巣を作った。",
+    "reason": "例文が人名Martinを使い、answer「イワツバメ」の語義を示していない",
+    "confidence": 0.98,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-03412",
+    "language": "en",
+    "headword": "tom",
+    "sourceAuditFiles": [
+      "english/issues-L4a.json",
+      "audit-errors.json",
+      "proposed-fixes.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "high",
+    "field": "example",
+    "currentValue": "Tom is in a bad mood. — トムは機嫌が悪い。",
+    "suggestedValue": "The tom fought another cat. — その雄猫は別の猫とけんかした。",
+    "reason": "例文が人名Tomを使い、answer「雄」の語義を示していない",
+    "confidence": 0.98,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-03469",
+    "language": "en",
+    "headword": "lee",
+    "sourceAuditFiles": [
+      "english/issues-L4a.json",
+      "audit-errors.json",
+      "proposed-fixes.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "high",
+    "field": "example",
+    "currentValue": "Mrs. Lee is a great talker. — リイさんは話上手です。",
+    "suggestedValue": "We rested in the lee of the wall. — 私たちは壁の物陰で休んだ。",
+    "reason": "例文が姓Leeを使い、answer「物陰」の語義を示していない",
+    "confidence": 0.98,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-03505",
+    "language": "en",
+    "headword": "bob",
+    "sourceAuditFiles": [
+      "english/issues-L4a.json",
+      "audit-errors.json",
+      "proposed-fixes.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "high",
+    "field": "example",
+    "currentValue": "Bob will be home at six. — ボブは６時には帰っています。",
+    "suggestedValue": "The bob hung at the end of the line. — おもりが糸の先に下がっていた。",
+    "reason": "例文が人名Bobを使い、answer「おもり」の語義を示していない",
+    "confidence": 0.98,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-03520",
+    "language": "en",
+    "headword": "ford",
+    "sourceAuditFiles": [
+      "english/issues-L4a.json",
+      "audit-errors.json",
+      "proposed-fixes.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "high",
+    "field": "example",
+    "currentValue": "Mr Ford is all right now. — フォード氏はもう大丈夫です。",
+    "suggestedValue": "We crossed the river at the ford. — 私たちは浅瀬で川を渡った。",
+    "reason": "例文が姓Fordを使い、answer「浅瀬」の語義を示していない",
+    "confidence": 0.98,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-03969",
+    "language": "en",
+    "headword": "toll",
+    "sourceAuditFiles": [
+      "english/issues-L4a.json",
+      "audit-errors.json",
+      "proposed-fixes.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "high",
+    "field": "example",
+    "currentValue": "Call us toll-free at 1-800-446-2581. — フリーダイヤル１—８００—４４６—２５８１にお電話ください。",
+    "suggestedValue": "The church bells toll for the dead. — 教会の鐘が死者のために鳴る。",
+    "reason": "例文のtollは「通行料(toll-free)」の意で、answer「鳴る」と不一致",
+    "confidence": 0.98,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-04012",
+    "language": "en",
+    "headword": "phoenix",
+    "sourceAuditFiles": [
+      "english/issues-L4a.json",
+      "audit-errors.json",
+      "proposed-fixes.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "high",
+    "field": "example",
+    "currentValue": "Phoenix is the capital of Arizona. — フェニックスはアリゾナの州都である。",
+    "suggestedValue": "The phoenix rose from the ashes. — 不死鳥は灰から蘇った。",
+    "reason": "例文が都市名Phoenixを使い、answer「不死鳥」の語義を示していない",
+    "confidence": 0.98,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-04080",
+    "language": "en",
+    "headword": "victoria",
+    "sourceAuditFiles": [
+      "english/issues-L4a.json",
+      "audit-errors.json",
+      "proposed-fixes.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "high",
+    "field": "example",
+    "currentValue": "Queen Victoria was the sovereign of Great Britain. — ビクトリア女王は英国の君主だった。",
+    "suggestedValue": "They rode through the park in a victoria. — 彼らは四輪馬車で公園を進んだ。",
+    "reason": "例文が人名Victoria(女王)を使い、answer「四輪ほろ馬車」の語義を示していない",
+    "confidence": 0.98,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-04361",
+    "language": "en",
+    "headword": "safari",
+    "sourceAuditFiles": [
+      "english/issues-L4a.json",
+      "audit-errors.json",
+      "proposed-fixes.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "high",
+    "field": "example",
+    "currentValue": "A translation widget compatible with the Safari browser is required. — Safariブラウザに対応した翻訳ウィジェットが必要です。",
+    "suggestedValue": "We went on a safari in Africa. — 私たちはアフリカへ遠征旅行に行った。",
+    "reason": "例文がブラウザ名Safariを使い、answer「遠征旅行」の語義を示していない",
+    "confidence": 0.98,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-04490",
+    "language": "en",
+    "headword": "guinea",
+    "sourceAuditFiles": [
+      "english/issues-L4a.json",
+      "audit-errors.json",
+      "proposed-fixes.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "high",
+    "field": "example",
+    "currentValue": "I have a guinea pig. — モルモットを飼ってるんだ。",
+    "suggestedValue": "The suit cost twenty guineas. — そのスーツは20ギニーだった。",
+    "reason": "例文のguinea pig(モルモット)はanswer「ギニー金貨」と不一致",
+    "confidence": 0.98,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-04506",
+    "language": "en",
+    "headword": "vat",
+    "sourceAuditFiles": [
+      "english/issues-L4a.json",
+      "audit-errors.json",
+      "proposed-fixes.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "high",
+    "field": "example",
+    "currentValue": "Does that price include VAT? — その価格って、付加価値税も入ってる？",
+    "suggestedValue": "The wine is stored in a large vat. — ワインは大きなおけに貯蔵されている。",
+    "reason": "例文のVATは付加価値税の意で、answer「大おけ」と不一致",
+    "confidence": 0.98,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-03805",
+    "language": "en",
+    "headword": "vintage",
+    "sourceAuditFiles": [
+      "english/issues-L4a.json",
+      "audit-errors.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "high",
+    "field": "example",
+    "currentValue": "Is this a vintage car? — 旧車ですか。",
+    "suggestedValue": "1990 was a great vintage. — 1990年は優良ぶどう酒の当たり年だった。",
+    "reason": "例文のvintageは「年代物の(vintage car)」の意で、answer「優良ぶどう酒」と不一致",
+    "confidence": 0.9,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-03929",
+    "language": "en",
+    "headword": "removed",
+    "sourceAuditFiles": [
+      "english/issues-L4a.json",
+      "audit-errors.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "high",
+    "field": "example",
+    "currentValue": "The plaque has to be removed. — 歯垢をとらなければなりません。",
+    "suggestedValue": "Their view is far removed from mine. — 彼らの考えは私のとは遠くかけ離れている。",
+    "reason": "例文のremovedは動詞受動「取り除かれる(歯垢)」で、answer「遠く離れた」と不一致",
+    "confidence": 0.9,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-03750",
+    "language": "en",
+    "headword": "stated",
+    "sourceAuditFiles": [
+      "english/issues-L4a.json",
+      "audit-errors.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "high",
+    "field": "example",
+    "currentValue": "I only stated the obvious. — 当然のことを言ったまでよ。",
+    "suggestedValue": "We meet at the stated time. — 私たちは決まった時刻に会う。",
+    "reason": "例文のstatedは動詞過去「述べた」で、answer「決まった」と不一致",
+    "confidence": 0.9,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-03755",
+    "language": "en",
+    "headword": "decided",
+    "sourceAuditFiles": [
+      "english/issues-L4a.json",
+      "audit-errors.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "high",
+    "field": "example",
+    "currentValue": "I decided to buy a car. — 車を買うことに決めた。",
+    "suggestedValue": "There is a decided difference between them. — 両者には明白な違いがある。",
+    "reason": "例文のdecidedは動詞過去「決めた」で、answer「明白な」と不一致",
+    "confidence": 0.9,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-03282",
+    "language": "en",
+    "headword": "valid",
+    "sourceAuditFiles": [
+      "english/issues-L4a.json",
+      "audit-errors.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "high",
+    "field": "example",
+    "currentValue": "This ticket is valid for one week. — この切符は1週間有効だ。",
+    "suggestedValue": "That is my considered opinion. — それは私のよく考えた意見だ。",
+    "reason": "例文のconsideredは動詞「思った/みなした」で、answer「よく考えた」と不一致",
+    "confidence": 0.9,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-03602",
+    "language": "en",
+    "headword": "informed",
+    "sourceAuditFiles": [
+      "english/issues-L4a.json",
+      "audit-errors.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "high",
+    "field": "example",
+    "currentValue": "I informed him of the result. — 私は彼に結果を知らせた。",
+    "suggestedValue": "She is a well-informed reader. — 彼女は情報に通じた読者だ。",
+    "reason": "例文のinformedは動詞「知らせた」で、answer「情報に通じた」と不一致",
+    "confidence": 0.9,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-03616",
+    "language": "en",
+    "headword": "covered",
+    "sourceAuditFiles": [
+      "english/issues-L4a.json",
+      "audit-errors.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "high",
+    "field": "example",
+    "currentValue": "It was all covered with dust. — それはすっかり埃で覆われていた。",
+    "suggestedValue": "They crossed the plains in a covered wagon. — 彼らはおおいのある幌馬車で平原を渡った。",
+    "reason": "例文のcoveredは動詞受動「覆われた」で、answer「おおいのある」と不一致",
+    "confidence": 0.9,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-03894",
+    "language": "en",
+    "headword": "contained",
+    "sourceAuditFiles": [
+      "english/issues-L4a.json",
+      "audit-errors.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "high",
+    "field": "example",
+    "currentValue": "His speech contained many fine phrases. — 彼の演説には数々のすばらしい言い回しが含まれていた。",
+    "suggestedValue": "She stayed calm and contained. — 彼女は落ち着いて物静かなままだった。",
+    "reason": "例文のcontainedは動詞「含んでいた」で、answer「物静かな」と不一致",
+    "confidence": 0.9,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-04360",
+    "language": "en",
+    "headword": "becoming",
+    "sourceAuditFiles": [
+      "english/issues-L4a.json",
+      "audit-errors.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "high",
+    "field": "example",
+    "currentValue": "He is afraid of becoming sick. — 彼は病気になるのではないかと恐れている。",
+    "suggestedValue": "That dress is very becoming on you. — そのドレスはあなたにとても似合っている。",
+    "reason": "例文のbecomingは動名詞「〜になること」で、answer「似合った」と不一致",
+    "confidence": 0.9,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-04192",
+    "language": "en",
+    "headword": "holding",
+    "sourceAuditFiles": [
+      "english/issues-L4a.json",
+      "audit-errors.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "high",
+    "field": "example",
+    "currentValue": "He is holding up her work. — 彼は彼女の仕事を妨げている。",
+    "suggestedValue": "Keep a firm holding on the rope. — ロープをしっかり握っていなさい。",
+    "reason": "例文のholding upは「妨げる」の意で、answer「しっかり握ること」と不一致",
+    "confidence": 0.9,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-04486",
+    "language": "en",
+    "headword": "collected",
+    "sourceAuditFiles": [
+      "english/issues-L4a.json",
+      "audit-errors.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "high",
+    "field": "example",
+    "currentValue": "He collected a lot of stamps. — 彼は切手をたくさん集めた。",
+    "suggestedValue": "She remained calm and collected. — 彼女は落ち着いたままだった。",
+    "reason": "例文のcollectedは動詞過去「集めた」で、answer「落ち着いた」と不一致",
+    "confidence": 0.9,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-04541",
+    "language": "en",
+    "headword": "ordered",
+    "sourceAuditFiles": [
+      "english/issues-L4a.json",
+      "audit-errors.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "high",
+    "field": "example",
+    "currentValue": "He ordered a cup of tea. — 彼は紅茶を注文した。",
+    "suggestedValue": "He keeps an ordered desk. — 彼は整然とした机を保っている。",
+    "reason": "例文のorderedは動詞過去「注文した」で、answer「整然とした」と不一致",
+    "confidence": 0.9,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-03820",
+    "language": "en",
+    "headword": "con",
+    "sourceAuditFiles": [
+      "english/issues-L4a.json",
+      "audit-errors.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "high",
+    "field": "example",
+    "currentValue": "There are pros and cons to anything. — なんにでも、長所と短所の両方がある。",
+    "suggestedValue": "He voted con on the motion. — 彼はその動議に反対票を投じた。",
+    "reason": "例文のconsは「短所」の意で、answer「反対投票」とずれる(訳も長所と短所)",
+    "confidence": 0.9,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-04411",
+    "language": "en",
+    "headword": "ultra",
+    "sourceAuditFiles": [
+      "english/issues-L4a.json",
+      "audit-errors.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "high",
+    "field": "example",
+    "currentValue": "Infrared and ultra-violet rays are types of light invisible to the human eye. — 赤外線や紫外線は、人の目には見えない光である。",
+    "suggestedValue": "His political views are too ultra for me. — 彼の政治的な考えは私には極端すぎる。",
+    "reason": "例文はultra-violet(接頭辞)の用法で、answer「極端な(形容詞)」を単独で示していない",
+    "confidence": 0.9,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-04673",
+    "language": "en",
+    "headword": "nick",
+    "sourceAuditFiles": [
+      "english/issues-L4b.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "medium",
+    "field": "example",
+    "currentValue": "Nick hurried to catch the bus.",
+    "suggestedValue": null,
+    "reason": "例文が固有名詞「Nick」の用法で、和訳「刻み目」の語義を示していない。学習用例文として不適切。",
+    "confidence": 0.9,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-04832",
+    "language": "en",
+    "headword": "jay",
+    "sourceAuditFiles": [
+      "english/issues-L4b.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "medium",
+    "field": "example",
+    "currentValue": "Jay picked up the old scissors.",
+    "suggestedValue": null,
+    "reason": "例文が固有名詞「Jay」の用法で、和訳「カケス」の語義を示していない。学習用例文として不適切。",
+    "confidence": 0.9,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-04862",
+    "language": "en",
+    "headword": "franklin",
+    "sourceAuditFiles": [
+      "english/issues-L4b.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "medium",
+    "field": "example",
+    "currentValue": "Franklin was known for his common sense.",
+    "suggestedValue": null,
+    "reason": "例文が固有名詞「Franklin」の用法で、和訳「自由土地保有者」の語義を示していない。学習用例文として不適切。",
+    "confidence": 0.9,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-04932",
+    "language": "en",
+    "headword": "ken",
+    "sourceAuditFiles": [
+      "english/issues-L4b.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "medium",
+    "field": "example",
+    "currentValue": "Ken hit on a good idea.",
+    "suggestedValue": null,
+    "reason": "例文が固有名詞「Ken」の用法で、和訳「理解」の語義を示していない。学習用例文として不適切。",
+    "confidence": 0.9,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-05081",
+    "language": "en",
+    "headword": "roger",
+    "sourceAuditFiles": [
+      "english/issues-L4b.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "medium",
+    "field": "example",
+    "currentValue": "Roger works from dawn to dusk.",
+    "suggestedValue": null,
+    "reason": "例文が固有名詞「Roger」の用法で、和訳「了解」の語義を示していない。学習用例文として不適切。",
+    "confidence": 0.9,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-05125",
+    "language": "en",
+    "headword": "nelson",
+    "sourceAuditFiles": [
+      "english/issues-L4b.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "medium",
+    "field": "example",
+    "currentValue": "He is acting like Nelson tonight.",
+    "suggestedValue": null,
+    "reason": "例文が固有名詞「Nelson」の用法で、和訳「首固め」の語義を示していない。学習用例文として不適切。",
+    "confidence": 0.9,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-05338",
+    "language": "en",
+    "headword": "rick",
+    "sourceAuditFiles": [
+      "english/issues-L4b.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "medium",
+    "field": "example",
+    "currentValue": "Rick is my nickname.",
+    "suggestedValue": null,
+    "reason": "例文が固有名詞「Rick」の用法で、和訳「積み山」の語義を示していない。学習用例文として不適切。",
+    "confidence": 0.9,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-05389",
+    "language": "en",
+    "headword": "billy",
+    "sourceAuditFiles": [
+      "english/issues-L4b.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "medium",
+    "field": "example",
+    "currentValue": "Billy is good at sport.",
+    "suggestedValue": null,
+    "reason": "例文が固有名詞「Billy」の用法で、和訳「警棒」の語義を示していない。学習用例文として不適切。",
+    "confidence": 0.9,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-05443",
+    "language": "en",
+    "headword": "carter",
+    "sourceAuditFiles": [
+      "english/issues-L4b.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "medium",
+    "field": "example",
+    "currentValue": "...have you seen anything of Carter lately?",
+    "suggestedValue": null,
+    "reason": "例文が固有名詞「Carter」の用法で、和訳「荷馬車を引く人」の語義を示していない。学習用例文として不適切。",
+    "confidence": 0.9,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-05485",
+    "language": "en",
+    "headword": "graham",
+    "sourceAuditFiles": [
+      "english/issues-L4b.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "medium",
+    "field": "example",
+    "currentValue": "Graham Greene is my favorite author.",
+    "suggestedValue": null,
+    "reason": "例文が固有名詞「Graham」の用法で、和訳「全麦の」の語義を示していない。学習用例文として不適切。",
+    "confidence": 0.9,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-05507",
+    "language": "en",
+    "headword": "wright",
+    "sourceAuditFiles": [
+      "english/issues-L4b.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "medium",
+    "field": "example",
+    "currentValue": "Mr. Wright speaks Japanese like a native speaker.",
+    "suggestedValue": null,
+    "reason": "例文が固有名詞「Wright」の用法で、和訳「職人，製作者」の語義を示していない。学習用例文として不適切。",
+    "confidence": 0.9,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-05604",
+    "language": "en",
+    "headword": "rev",
+    "sourceAuditFiles": [
+      "english/issues-L4b.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "medium",
+    "field": "example",
+    "currentValue": "Rev. King and his supporters were threatened.",
+    "suggestedValue": null,
+    "reason": "例文が固有名詞「Rev」の用法で、和訳「回転」の語義を示していない。学習用例文として不適切。",
+    "confidence": 0.9,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-05718",
+    "language": "en",
+    "headword": "morris",
+    "sourceAuditFiles": [
+      "english/issues-L4b.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "medium",
+    "field": "example",
+    "currentValue": "...from Mr Morris of Digital Com Company.",
+    "suggestedValue": null,
+    "reason": "例文が固有名詞「Morris」の用法で、和訳「モリスダンス」の語義を示していない。学習用例文として不適切。",
+    "confidence": 0.9,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-05060",
+    "language": "en",
+    "headword": "filing",
+    "sourceAuditFiles": [
+      "english/issues-L4b.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "medium",
+    "field": "example",
+    "currentValue": "Tom is filing his nails.",
+    "suggestedValue": null,
+    "reason": "「爪にやすりをかける」の意で、答え「とじ込み(書類整理)」の語義と不一致。",
+    "confidence": 0.85,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-05410",
+    "language": "en",
+    "headword": "facing",
+    "sourceAuditFiles": [
+      "english/issues-L4b.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "medium",
+    "field": "example",
+    "currentValue": "We are facing a crucial time.",
+    "suggestedValue": null,
+    "reason": "「直面する」動詞用法で、答え「表面仕上げ」の名詞語義と不一致。",
+    "confidence": 0.85,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-05646",
+    "language": "en",
+    "headword": "wearing",
+    "sourceAuditFiles": [
+      "english/issues-L4b.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "medium",
+    "field": "example",
+    "currentValue": "She was wearing a new hat.",
+    "suggestedValue": null,
+    "reason": "「身につける」の意で、答え「疲労させる」の語義と不一致。",
+    "confidence": 0.85,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-05650",
+    "language": "en",
+    "headword": "mounted",
+    "sourceAuditFiles": [
+      "english/issues-L4b.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "medium",
+    "field": "example",
+    "currentValue": "Cold-war tension has mounted.",
+    "suggestedValue": null,
+    "reason": "「高まる」の意で、答え「馬に乗った」の語義と不一致。",
+    "confidence": 0.85,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-05723",
+    "language": "en",
+    "headword": "picked",
+    "sourceAuditFiles": [
+      "english/issues-L4b.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "medium",
+    "field": "example",
+    "currentValue": "He picked up a red stone.",
+    "suggestedValue": null,
+    "reason": "「拾い上げる」動詞用法で、答え「精選された」の形容詞語義と不一致。",
+    "confidence": 0.85,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-05237",
+    "language": "en",
+    "headword": "knowing",
+    "sourceAuditFiles": [
+      "english/issues-L4b.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "medium",
+    "field": "example",
+    "currentValue": "He did it without me knowing.",
+    "suggestedValue": null,
+    "reason": "動名詞用法で、答えの形容詞語義（意味ありげな）を示していない。",
+    "confidence": 0.85,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-05120",
+    "language": "en",
+    "headword": "rolling",
+    "sourceAuditFiles": [
+      "english/issues-L4b.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "medium",
+    "field": "example",
+    "currentValue": "The summer heat is rolling in.",
+    "suggestedValue": null,
+    "reason": "「押し寄せる」動詞用法で、答え「転がり」の名詞語義と不一致。",
+    "confidence": 0.85,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-05515",
+    "language": "en",
+    "headword": "studied",
+    "sourceAuditFiles": [
+      "english/issues-L4b.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "medium",
+    "field": "example",
+    "currentValue": "He studied the way birds fly.",
+    "suggestedValue": null,
+    "reason": "「研究した」動詞用法で、答え「熟慮した(意図的な)」の形容詞語義と不一致。",
+    "confidence": 0.85,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-05801",
+    "language": "en",
+    "headword": "polyphonic",
+    "sourceAuditFiles": [
+      "english/issues-L4b.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "low",
+    "field": "answer",
+    "currentValue": "対位法の",
+    "suggestedValue": "多声の",
+    "reason": "polyphonicは「多声の・複音の」が主要義。「対位法の」はcounterpoint寄りで別概念。要確認。",
+    "confidence": 0.6,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-06006",
+    "language": "en",
+    "headword": "chi",
+    "sourceAuditFiles": [
+      "english/issues-L5a.json",
+      "audit-errors.json",
+      "proposed-fixes.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "high",
+    "field": "example",
+    "currentValue": "Ho Chi Minh City is the largest city in Vietnam. — ホーチミン市はベトナムで最も大きな都市だ。",
+    "suggestedValue": null,
+    "reason": "例文の「Chi」は地名Ho Chi Minh（ホーチミン）の一部の固有名詞であり、見出し語chi（ギリシャ文字カイ/気）の語義を例示していない。",
+    "confidence": 0.98,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-06100",
+    "language": "en",
+    "headword": "rap",
+    "sourceAuditFiles": [
+      "english/issues-L5a.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "medium",
+    "field": "example",
+    "currentValue": "I don't care a rap. — 私は少しも気にしていない。",
+    "suggestedValue": null,
+    "reason": "例文『I don't care a rap.』はイディオム（少しも～ない）のrapで、答えの語義（ラップ/コツンと叩くこと）を例示していない。",
+    "confidence": 0.9,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-06154",
+    "language": "en",
+    "headword": "brad",
+    "sourceAuditFiles": [
+      "english/issues-L5a.json",
+      "audit-errors.json",
+      "proposed-fixes.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "high",
+    "field": "example",
+    "currentValue": "Brad Pitt is an actor. — ブラッド・ピット様は俳優です。",
+    "suggestedValue": null,
+    "reason": "例文の「Brad」は人名Brad Pitt（固有名詞）であり、見出し語brad（鉄線くぎ）の語義を例示していない。",
+    "confidence": 0.98,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-06173",
+    "language": "en",
+    "headword": "dimensional",
+    "sourceAuditFiles": [
+      "english/issues-L5a.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "medium",
+    "field": "answer",
+    "currentValue": "寸法の",
+    "suggestedValue": "次元の",
+    "reason": "dimensionalの主要義は『次元の』。『寸法の』は限定的で誤解を招きやすい。tagsも名詞だが形容詞。例文欠落。",
+    "confidence": 0.8,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-06173",
+    "language": "en",
+    "headword": "dimensional",
+    "sourceAuditFiles": [
+      "english/issues-L5a.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "missing_example",
+    "severity": "low",
+    "field": "example",
+    "currentValue": null,
+    "suggestedValue": null,
+    "reason": "dimensional は example / exampleForm が null で例文が欠落している。",
+    "confidence": 0.99,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-06181",
+    "language": "en",
+    "headword": "latex",
+    "sourceAuditFiles": [
+      "english/issues-L5a.json",
+      "audit-errors.json",
+      "proposed-fixes.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "high",
+    "field": "example",
+    "currentValue": "I transcribed the original mimeographed edition into LATEX. — ガリ版刷りの原書をLATEXで清書した。",
+    "suggestedValue": null,
+    "reason": "例文の「LATEX」は組版システムLaTeXを指し、見出し語latex（ラテックス＝ゴム乳液）の語義を例示していない。",
+    "confidence": 0.98,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-06240",
+    "language": "en",
+    "headword": "turner",
+    "sourceAuditFiles": [
+      "english/issues-L5a.json",
+      "audit-errors.json",
+      "proposed-fixes.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "high",
+    "field": "example",
+    "currentValue": "Turner stands out among the painters of his time. — ターナーは同時代の画家の中でも傑出している。",
+    "suggestedValue": null,
+    "reason": "例文の「Turner」は画家ターナー（固有名詞）であり、見出し語turner（回す人・旋盤工）の語義を例示していない。",
+    "confidence": 0.98,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-06247",
+    "language": "en",
+    "headword": "omega",
+    "sourceAuditFiles": [
+      "english/issues-L5a.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "missing_example",
+    "severity": "low",
+    "field": "example",
+    "currentValue": null,
+    "suggestedValue": null,
+    "reason": "omega は example / exampleForm が null で例文が欠落している。",
+    "confidence": 0.99,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-06272",
+    "language": "en",
+    "headword": "macintosh",
+    "sourceAuditFiles": [
+      "english/issues-L5a.json",
+      "audit-errors.json",
+      "proposed-fixes.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "high",
+    "field": "example",
+    "currentValue": "The first Macintosh PC was released in 1984. — 初代Macは1984年にリリースされた。",
+    "suggestedValue": null,
+    "reason": "例文の「Macintosh」はコンピュータのMacを指し、見出し語（防水コート）の語義を例示していない。雨具の綴りは通常mackintosh。",
+    "confidence": 0.98,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-06279",
+    "language": "en",
+    "headword": "mart",
+    "sourceAuditFiles": [
+      "english/issues-L5a.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "missing_example",
+    "severity": "low",
+    "field": "example",
+    "currentValue": null,
+    "suggestedValue": null,
+    "reason": "mart は example / exampleForm が null で例文が欠落している。",
+    "confidence": 0.99,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-06281",
+    "language": "en",
+    "headword": "hanging",
+    "sourceAuditFiles": [
+      "english/issues-L5a.json",
+      "audit-errors.json",
+      "proposed-fixes.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "high",
+    "field": "example",
+    "currentValue": "I am hanging up my shirts. — シャツを掛けているところです。",
+    "suggestedValue": null,
+    "reason": "例文の「hanging up my shirts」は『掛ける』の意で、見出し語hanging（絞首刑）の語義を例示していない。",
+    "confidence": 0.98,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-06351",
+    "language": "en",
+    "headword": "logistics",
+    "sourceAuditFiles": [
+      "english/issues-L5a.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "missing_example",
+    "severity": "low",
+    "field": "example",
+    "currentValue": null,
+    "suggestedValue": null,
+    "reason": "logistics は example / exampleForm が null で例文が欠落している。",
+    "confidence": 0.99,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-06388",
+    "language": "en",
+    "headword": "deviant",
+    "sourceAuditFiles": [
+      "english/issues-L5a.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "missing_example",
+    "severity": "low",
+    "field": "example",
+    "currentValue": null,
+    "suggestedValue": null,
+    "reason": "deviant は example / exampleForm が null で例文が欠落している。",
+    "confidence": 0.99,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-06459",
+    "language": "en",
+    "headword": "isle",
+    "sourceAuditFiles": [
+      "english/issues-L5a.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "missing_example",
+    "severity": "low",
+    "field": "example",
+    "currentValue": null,
+    "suggestedValue": null,
+    "reason": "isle は example / exampleForm が null で例文が欠落している。",
+    "confidence": 0.99,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-06466",
+    "language": "en",
+    "headword": "governing",
+    "sourceAuditFiles": [
+      "english/issues-L5a.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "missing_example",
+    "severity": "low",
+    "field": "example",
+    "currentValue": null,
+    "suggestedValue": null,
+    "reason": "governing は example / exampleForm が null で例文が欠落している。",
+    "confidence": 0.99,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-06480",
+    "language": "en",
+    "headword": "spec",
+    "sourceAuditFiles": [
+      "english/issues-L5a.json",
+      "audit-errors.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "high",
+    "field": "example",
+    "currentValue": "Does he wear specs? — メガネをしてますか？",
+    "suggestedValue": null,
+    "reason": "例文の「specs」は眼鏡（spectacles）の意で、見出し語spec（仕様・スペック）の語義を例示していない。",
+    "confidence": 0.96,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-06491",
+    "language": "en",
+    "headword": "midi",
+    "sourceAuditFiles": [
+      "english/issues-L5a.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "missing_example",
+    "severity": "low",
+    "field": "example",
+    "currentValue": null,
+    "suggestedValue": null,
+    "reason": "midi は example / exampleForm が null で例文が欠落している。",
+    "confidence": 0.99,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-06500",
+    "language": "en",
+    "headword": "outreach",
+    "sourceAuditFiles": [
+      "english/issues-L5a.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "missing_example",
+    "severity": "low",
+    "field": "example",
+    "currentValue": null,
+    "suggestedValue": null,
+    "reason": "outreach は example / exampleForm が null で例文が欠落している。",
+    "confidence": 0.99,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-06502",
+    "language": "en",
+    "headword": "mounting",
+    "sourceAuditFiles": [
+      "english/issues-L5a.json",
+      "audit-errors.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "high",
+    "field": "example",
+    "currentValue": "Signs of social unrest are mounting. — 社会不安の兆候が高まりつつある。",
+    "suggestedValue": null,
+    "reason": "例文の「mounting」は『高まる』という動詞用法で、見出し語mounting（据えつけ）の名詞義を例示していない。",
+    "confidence": 0.96,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-06515",
+    "language": "en",
+    "headword": "dale",
+    "sourceAuditFiles": [
+      "english/issues-L5a.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "missing_example",
+    "severity": "low",
+    "field": "example",
+    "currentValue": null,
+    "suggestedValue": null,
+    "reason": "dale は example / exampleForm が null で例文が欠落している。",
+    "confidence": 0.99,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-06558",
+    "language": "en",
+    "headword": "stud",
+    "sourceAuditFiles": [
+      "english/issues-L5a.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "missing_example",
+    "severity": "low",
+    "field": "example",
+    "currentValue": null,
+    "suggestedValue": null,
+    "reason": "stud は example / exampleForm が null で例文が欠落している。",
+    "confidence": 0.99,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-06560",
+    "language": "en",
+    "headword": "designing",
+    "sourceAuditFiles": [
+      "english/issues-L5a.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "missing_example",
+    "severity": "low",
+    "field": "example",
+    "currentValue": null,
+    "suggestedValue": null,
+    "reason": "designing は example / exampleForm が null で例文が欠落している。",
+    "confidence": 0.99,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-06599",
+    "language": "en",
+    "headword": "syndicate",
+    "sourceAuditFiles": [
+      "english/issues-L5a.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "missing_example",
+    "severity": "low",
+    "field": "example",
+    "currentValue": null,
+    "suggestedValue": null,
+    "reason": "syndicate は example / exampleForm が null で例文が欠落している。",
+    "confidence": 0.99,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-06658",
+    "language": "en",
+    "headword": "lambda",
+    "sourceAuditFiles": [
+      "english/issues-L5a.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "missing_example",
+    "severity": "low",
+    "field": "example",
+    "currentValue": null,
+    "suggestedValue": null,
+    "reason": "lambda は example / exampleForm が null で例文が欠落している。",
+    "confidence": 0.99,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-06704",
+    "language": "en",
+    "headword": "heather",
+    "sourceAuditFiles": [
+      "english/issues-L5a.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "missing_example",
+    "severity": "low",
+    "field": "example",
+    "currentValue": null,
+    "suggestedValue": null,
+    "reason": "heather は example / exampleForm が null で例文が欠落している。",
+    "confidence": 0.99,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-06714",
+    "language": "en",
+    "headword": "josh",
+    "sourceAuditFiles": [
+      "english/issues-L5a.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "missing_example",
+    "severity": "low",
+    "field": "example",
+    "currentValue": null,
+    "suggestedValue": null,
+    "reason": "josh は example / exampleForm が null で例文が欠落している。",
+    "confidence": 0.99,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-06740",
+    "language": "en",
+    "headword": "enabling",
+    "sourceAuditFiles": [
+      "english/issues-L5a.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "missing_example",
+    "severity": "low",
+    "field": "example",
+    "currentValue": null,
+    "suggestedValue": null,
+    "reason": "enabling は example / exampleForm が null で例文が欠落している。",
+    "confidence": 0.99,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-06772",
+    "language": "en",
+    "headword": "respondent",
+    "sourceAuditFiles": [
+      "english/issues-L5a.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "missing_example",
+    "severity": "low",
+    "field": "example",
+    "currentValue": null,
+    "suggestedValue": null,
+    "reason": "respondent は example / exampleForm が null で例文が欠落している。",
+    "confidence": 0.99,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-06938",
+    "language": "en",
+    "headword": "compiler",
+    "sourceAuditFiles": [
+      "english/issues-L5a.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "missing_example",
+    "severity": "low",
+    "field": "example",
+    "currentValue": null,
+    "suggestedValue": null,
+    "reason": "compiler は example / exampleForm が null で例文が欠落している。",
+    "confidence": 0.99,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-06960",
+    "language": "en",
+    "headword": "validation",
+    "sourceAuditFiles": [
+      "english/issues-L5a.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "missing_example",
+    "severity": "low",
+    "field": "example",
+    "currentValue": null,
+    "suggestedValue": null,
+    "reason": "validation は example / exampleForm が null で例文が欠落している。",
+    "confidence": 0.99,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-06970",
+    "language": "en",
+    "headword": "differential",
+    "sourceAuditFiles": [
+      "english/issues-L5a.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "medium",
+    "field": "answer",
+    "currentValue": "差別的な",
+    "suggestedValue": "差の／微分の",
+    "reason": "例文は『differential equation＝微分方程式』の数学義だが、答えは『差別的な』で不一致。主要義は『差の・差動の・微分の』。",
+    "confidence": 0.8,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-06997",
+    "language": "en",
+    "headword": "stylus",
+    "sourceAuditFiles": [
+      "english/issues-L5a.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "missing_example",
+    "severity": "low",
+    "field": "example",
+    "currentValue": null,
+    "suggestedValue": null,
+    "reason": "stylus は example / exampleForm が null で例文が欠落している。",
+    "confidence": 0.99,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-07011",
+    "language": "en",
+    "headword": "rover",
+    "sourceAuditFiles": [
+      "english/issues-L5a.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "missing_example",
+    "severity": "low",
+    "field": "example",
+    "currentValue": null,
+    "suggestedValue": null,
+    "reason": "rover は example / exampleForm が null で例文が欠落している。",
+    "confidence": 0.99,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-07015",
+    "language": "en",
+    "headword": "reload",
+    "sourceAuditFiles": [
+      "english/issues-L5a.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "missing_example",
+    "severity": "low",
+    "field": "example",
+    "currentValue": null,
+    "suggestedValue": null,
+    "reason": "reload は example / exampleForm が null で例文が欠落している。",
+    "confidence": 0.99,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-07020",
+    "language": "en",
+    "headword": "assuming",
+    "sourceAuditFiles": [
+      "english/issues-L5a.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "medium",
+    "field": "example",
+    "currentValue": "Assuming it rains tomorrow, what should I do? — 明日雨が降ったらどうしようか。",
+    "suggestedValue": null,
+    "reason": "例文の『Assuming it rains tomorrow』は接続詞的用法（～と仮定すれば）で、答えの語義『ごう慢な』を例示していない。",
+    "confidence": 0.9,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-07051",
+    "language": "en",
+    "headword": "affecting",
+    "sourceAuditFiles": [
+      "english/issues-L5a.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "medium",
+    "field": "example",
+    "currentValue": "The serious job shortage is also affecting those illegal foreign workers. — 深刻な就職難のしわ寄せが、そういった不法就労の外国人労働者にまで及んでいる。",
+    "suggestedValue": null,
+    "reason": "例文のaffectingは動詞affect（影響を及ぼす）の現在分詞で、答えの語義『心を打つ（形容詞）』を例示していない。",
+    "confidence": 0.9,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-07067",
+    "language": "en",
+    "headword": "ciao",
+    "sourceAuditFiles": [
+      "english/issues-L5a.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "missing_example",
+    "severity": "low",
+    "field": "example",
+    "currentValue": null,
+    "suggestedValue": null,
+    "reason": "ciao は example / exampleForm が null で例文が欠落している。",
+    "confidence": 0.99,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-07069",
+    "language": "en",
+    "headword": "prep",
+    "sourceAuditFiles": [
+      "english/issues-L5a.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "missing_example",
+    "severity": "low",
+    "field": "example",
+    "currentValue": null,
+    "suggestedValue": null,
+    "reason": "prep は example / exampleForm が null で例文が欠落している。",
+    "confidence": 0.99,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-07111",
+    "language": "en",
+    "headword": "letting",
+    "sourceAuditFiles": [
+      "english/issues-L5a.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "medium",
+    "field": "example",
+    "currentValue": "Thank you for letting me know. — 教えていただいてありがとう。",
+    "suggestedValue": null,
+    "reason": "例文『letting me know』は動詞let（～させる）の用法で、答えの語義『貸家』を例示していない。",
+    "confidence": 0.9,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-07144",
+    "language": "en",
+    "headword": "phi",
+    "sourceAuditFiles": [
+      "english/issues-L5a.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "missing_example",
+    "severity": "low",
+    "field": "example",
+    "currentValue": null,
+    "suggestedValue": null,
+    "reason": "phi は example / exampleForm が null で例文が欠落している。",
+    "confidence": 0.99,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-07185",
+    "language": "en",
+    "headword": "registrar",
+    "sourceAuditFiles": [
+      "english/issues-L5a.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "missing_example",
+    "severity": "low",
+    "field": "example",
+    "currentValue": null,
+    "suggestedValue": null,
+    "reason": "registrar は example / exampleForm が null で例文が欠落している。",
+    "confidence": 0.99,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-07252",
+    "language": "en",
+    "headword": "casting",
+    "sourceAuditFiles": [
+      "english/issues-L5b.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "medium",
+    "field": "example",
+    "currentValue": "It is like casting pearls before swine. — それじゃ猫に小判だ。",
+    "suggestedValue": "The casting for the new movie took several weeks. — 新しい映画の配役決定に数週間かかった。",
+    "reason": "答えの語義『配役決定』は演劇・映画の名詞用法だが、例文の casting は動詞 cast の動名詞（投げる）で、ことわざ中の用法。学習対象の語義を例示していない。",
+    "confidence": 0.9,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-07394",
+    "language": "en",
+    "headword": "fitted",
+    "sourceAuditFiles": [
+      "english/issues-L5b.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "low",
+    "field": "example",
+    "currentValue": "He fitted his schedule to mine. — 彼は自分の予定を私のに合わせてくれた。",
+    "suggestedValue": "The room has fitted cupboards along one wall. — その部屋には片側の壁に沿って取り付けの戸棚がある。",
+    "reason": "答えの語義『ぴったり合った，取り付けの』は形容詞用法だが、例文の fitted は動詞 fit の過去形『合わせた』で、形容詞としての語義を示していない。",
+    "confidence": 0.75,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-07592",
+    "language": "en",
+    "headword": "wanting",
+    "sourceAuditFiles": [
+      "english/issues-L5b.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "medium",
+    "field": "example",
+    "currentValue": "I've been wanting to see you. — 君に会いたかったよ。",
+    "suggestedValue": "The plan was found wanting in several ways. — その計画はいくつかの点で欠けていることがわかった。",
+    "reason": "答えの語義『欠けている』に対し、例文の wanting は動詞 want の現在分詞『〜したいと思っている』で、まったく別の語義。学習語義を例示していない。",
+    "confidence": 0.9,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-07673",
+    "language": "en",
+    "headword": "disturbed",
+    "sourceAuditFiles": [
+      "english/issues-L5b.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "medium",
+    "field": "example",
+    "currentValue": "I don't like to be disturbed. — 私は邪魔されたくない。",
+    "suggestedValue": "She was deeply disturbed by the sad news. — 彼女はその悲しい知らせに深く動揺した。",
+    "reason": "答えの語義『動揺した，心を乱された』に対し、例文の disturbed は disturb『邪魔する』の受動で『邪魔される』の意。学習語義（感情面）を示していない。",
+    "confidence": 0.85,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-08076",
+    "language": "en",
+    "headword": "failing",
+    "sourceAuditFiles": [
+      "english/issues-L5b.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "medium",
+    "field": "example",
+    "currentValue": "I'm failing at my job. — 仕事を失敗している。",
+    "suggestedValue": "Laziness is his only failing. — 怠惰が彼の唯一の欠点だ。",
+    "reason": "答えの語義『欠点』は名詞用法だが、例文の failing は動詞 fail の進行形『失敗している』。名詞としての語義を例示していない。",
+    "confidence": 0.9,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-08235",
+    "language": "en",
+    "headword": "floppy",
+    "sourceAuditFiles": [
+      "english/issues-L5b.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "medium",
+    "field": "example",
+    "currentValue": "You mustn't format this floppy disk. — このフロッピーをフォーマットしてはいけません。",
+    "suggestedValue": "The puppy has long, floppy ears. — その子犬は長くてだらりと垂れた耳をしている。",
+    "reason": "答えの語義『だらりと垂れた』に対し、例文の floppy は『フロッピー（ディスク）』の名詞的用法で、形容詞の学習語義を示していない。",
+    "confidence": 0.9,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-08300",
+    "language": "en",
+    "headword": "pushed",
+    "sourceAuditFiles": [
+      "english/issues-L5b.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "medium",
+    "field": "example",
+    "currentValue": "I'm a bit pushed for money. — 私はお金がなくて困っている。",
+    "suggestedValue": "He pushed the heavy door open. — 彼は重いドアを押して開けた。",
+    "reason": "答えの語義『押した』に対し、例文は熟語 be pushed for（〜が不足して困る）で、動詞 push の基本義を示していない。",
+    "confidence": 0.85,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-08404",
+    "language": "en",
+    "headword": "gore",
+    "sourceAuditFiles": [
+      "english/issues-L5b.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "medium",
+    "field": "example",
+    "currentValue": "Will Gore stand as presidential candidate? — 果たして、ゴア氏は大統領候補として立つのか？",
+    "suggestedValue": "The floor of the battlefield was covered in gore. — 戦場の地面は流血で覆われていた。",
+    "reason": "答えの語義『血』に対し、例文の Gore は固有名詞（人名ゴア氏）で、普通名詞 gore（流血）の学習語義をまったく示していない。",
+    "confidence": 0.92,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-08435",
+    "language": "en",
+    "headword": "ping",
+    "sourceAuditFiles": [
+      "english/issues-L5b.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "medium",
+    "field": "example",
+    "currentValue": "Ping pong is also called table tennis. — ピンポンは卓球とも呼ばれている。",
+    "suggestedValue": "The elevator made a soft ping when it reached our floor. — エレベーターは私たちの階に着くと軽くピンと鳴った。",
+    "reason": "例文の Ping は複合語 ping pong の一部で、答えの語義（甲高い音）を示していない。加えて答え『ピューという音』も ping（短く高い金属的な音）より『ピン／カチッ』が適切で、語義自体の再検討も要する。",
+    "confidence": 0.85,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-08448",
+    "language": "en",
+    "headword": "derby",
+    "sourceAuditFiles": [
+      "english/issues-L5b.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "medium",
+    "field": "example",
+    "currentValue": "His horse ran in the Derby. — 彼の馬はダービーに出走した。",
+    "suggestedValue": "The gentleman wore a black derby on his head. — その紳士は頭に黒い山高帽をかぶっていた。",
+    "reason": "答えの語義『山高帽』に対し、例文の Derby は競馬レース（ダービー）の意で、学習語義を示していない。",
+    "confidence": 0.9,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-07236",
+    "language": "en",
+    "headword": "proprietary",
+    "sourceAuditFiles": [
+      "english/issues-L5b.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "low",
+    "field": "example",
+    "currentValue": "I've come here today to talk about the dangers of proprietary software. — 今回はプロプライエタリソフトウェアの危険性について話すべくに参りました。",
+    "suggestedValue": "I've come here today to talk about the dangers of proprietary software. — 今回はプロプライエタリソフトウェアの危険性について話すべく参りました。",
+    "reason": "和訳の『話すべくに参りました』は非文。文語の目的表現は『話すべく』で助詞『に』は不要。",
+    "confidence": 0.8,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-07705",
+    "language": "en",
+    "headword": "providence",
+    "sourceAuditFiles": [
+      "english/issues-L5b.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "low",
+    "field": "example",
+    "currentValue": "Chance is a nickname for Providence. — 機会とは神意を表す一つのあだ名である。",
+    "suggestedValue": "Chance is a nickname for Providence. — 偶然とは神意の別名である。",
+    "reason": "この文脈の Chance は『偶然』の意で、和訳の『機会』は不適切。語義対象の providence（神意）は正しく訳されている。",
+    "confidence": 0.7,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-08158",
+    "language": "en",
+    "headword": "aqua",
+    "sourceAuditFiles": [
+      "english/issues-L5b.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "low",
+    "field": "example",
+    "currentValue": "Aqua expresses the colour of clear water, it is a bright, and light, blue. — 水色は澄んだ水の色を表し、明るく淡い青色のことである。",
+    "suggestedValue": "Aqua is a bright, light blue, the colour of clear water. — アクアは澄んだ水の色である明るく淡い青色だ。",
+    "reason": "英文がコンマスプライス（clear water, it is ...）で、また bright, and light, blue のコンマ配置が不自然。加えて答え『水』に対し例文は色（水色）を説明しており語義の焦点がややずれる。",
+    "confidence": 0.7,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-08590",
+    "language": "en",
+    "headword": "jenny",
+    "sourceAuditFiles": [
+      "english/issues-L5c.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "medium",
+    "field": "example",
+    "currentValue": "Jenny thanked me for the gift. — ジェニーは贈り物をありがとうと言った。",
+    "suggestedValue": "The spinning jenny helped make cloth faster in the old factory. — 紡績機は昔の工場で布をより速く作るのに役立った。",
+    "reason": "answerは『紡績機』だが、例文は固有名詞の人名 Jenny を使っており、見出し語の語義を全く示していない。exampleFormも『Jenny』。",
+    "confidence": 0.9,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-08625",
+    "language": "en",
+    "headword": "clearing",
+    "sourceAuditFiles": [
+      "english/issues-L5c.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "medium",
+    "field": "example",
+    "currentValue": "It seems to be clearing up. — 晴れてきたようですね。",
+    "suggestedValue": "The deer stood in a grassy clearing in the forest. — シカは森の中の草の生えた開墾地に立っていた。",
+    "reason": "answerは名詞『開墾地』だが、例文は句動詞 clear up（天気が晴れる）で、名詞の語義を示していない。",
+    "confidence": 0.9,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-08712",
+    "language": "en",
+    "headword": "picking",
+    "sourceAuditFiles": [
+      "english/issues-L5c.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "medium",
+    "field": "example",
+    "currentValue": "Thank you for picking me up. — 迎えに来てくれてありがとうございます。",
+    "suggestedValue": "The careful picking of ripe fruit takes a lot of time. — 熟した果物を入念に選ぶことには多くの時間がかかる。",
+    "reason": "answerは『入念に選ぶこと』だが、例文は句動詞 pick up（迎えに行く）で語義が一致しない。",
+    "confidence": 0.9,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-08767",
+    "language": "en",
+    "headword": "dame",
+    "sourceAuditFiles": [
+      "english/issues-L5c.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "medium",
+    "field": "example",
+    "currentValue": "A fire broke out inside Notre-Dame Cathedral in Paris. — パリのノートルダム大聖堂で火事が起きました。",
+    "suggestedValue": "The old dame greeted her guests with a warm smile. — その年配の貴婦人は温かいほほえみで客を迎えた。",
+    "reason": "answerは『貴婦人』だが、例文中の Dame は固有名詞 Notre-Dame の一部であり、見出し語の語義を示していない。exampleFormも『Dame』。",
+    "confidence": 0.9,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-08768",
+    "language": "en",
+    "headword": "sally",
+    "sourceAuditFiles": [
+      "english/issues-L5c.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "medium",
+    "field": "example",
+    "currentValue": "Sally was constantly changing her hairstyle. — サリーはしょっちゅう髪型を変えていた。",
+    "suggestedValue": "The soldiers made a sudden sally from the fort. — 兵士たちは要塞から突然の出撃を行った。",
+    "reason": "answerは『出撃』だが、例文は固有名詞の人名 Sally を使っており語義が一致しない。exampleFormも『Sally』。",
+    "confidence": 0.9,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-08791",
+    "language": "en",
+    "headword": "mustang",
+    "sourceAuditFiles": [
+      "english/issues-L5c.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "medium",
+    "field": "example",
+    "currentValue": "Didn't I show you my new Mustang? — 私の新しいムスタングを見せてなかったっけ？",
+    "suggestedValue": "A wild mustang ran freely across the open plain. — 野生馬が開けた平原を自由に駆け抜けた。",
+    "reason": "answerは『野生馬』だが、例文は車名（固有名詞）Mustang を指しており語義が一致しない。exampleFormも『Mustang』。",
+    "confidence": 0.9,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-08881",
+    "language": "en",
+    "headword": "hash",
+    "sourceAuditFiles": [
+      "english/issues-L5c.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "medium",
+    "field": "example",
+    "currentValue": "Let's hash it all out. — とことん話し合ってわかりあおうよ。",
+    "suggestedValue": "We ate corned beef hash for breakfast. — 私たちは朝食にコンビーフの刻み肉料理を食べた。",
+    "reason": "answerは名詞『刻み肉料理』だが、例文は句動詞 hash out（徹底的に議論する）で語義が一致しない。",
+    "confidence": 0.9,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-09052",
+    "language": "en",
+    "headword": "rendering",
+    "sourceAuditFiles": [
+      "english/issues-L5c.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "medium",
+    "field": "example",
+    "currentValue": "She came completely naked into the room, rendering him speechless. — 彼女は素っ裸で部屋へ入り込んで彼を絶句させた。",
+    "suggestedValue": "The artist's rendering of the old town was beautiful. — その画家による旧市街の描写は美しかった。",
+    "reason": "answerは『表現，描写』だが、例文の rendering は動詞 render（～の状態にする）の分詞用法で、名詞の語義を示していない。内容も辞書例文として不適切。",
+    "confidence": 0.88,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-09291",
+    "language": "en",
+    "headword": "figured",
+    "sourceAuditFiles": [
+      "english/issues-L5c.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "medium",
+    "field": "example",
+    "currentValue": "They figured there was no hope. — 彼らは望みがないと判断した。",
+    "suggestedValue": "She wore a dress made of figured silk. — 彼女は模様入りの絹で作られたドレスを着ていた。",
+    "reason": "answerは形容詞『模様入りの』だが、例文は動詞 figure（判断する）の過去形で語義が一致しない。",
+    "confidence": 0.9,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-09321",
+    "language": "en",
+    "headword": "pressed",
+    "sourceAuditFiles": [
+      "english/issues-L5c.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "medium",
+    "field": "example",
+    "currentValue": "He is always pressed for money. — 彼はいつも金に困っている。",
+    "suggestedValue": "The pressed steel panel was smooth and flat. — プレス加工の鋼板はなめらかで平らだった。",
+    "reason": "answerは『プレス加工の』だが、例文は成句 be pressed for（～に困っている）で語義が一致しない。",
+    "confidence": 0.9,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-09398",
+    "language": "en",
+    "headword": "wan",
+    "sourceAuditFiles": [
+      "english/issues-L5c.json",
+      "audit-errors.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "high",
+    "field": "example",
+    "currentValue": "His strength is waning. — 彼の体力は弱まりつつある。",
+    "suggestedValue": "Her wan face showed how tired she was. — 彼女の青白い顔は、どれほど疲れているかを表していた。",
+    "reason": "見出し語は形容詞 wan（青白い）だが、例文は別語の動詞 wane の現在分詞『waning』を使用しており、exampleFormも『waning』。見出し語そのものが例文に現れていない。",
+    "confidence": 0.95,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-08873",
+    "language": "en",
+    "headword": "centered",
+    "sourceAuditFiles": [
+      "english/issues-L5c.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "low",
+    "field": "example",
+    "currentValue": "Their talks centered on their trip. — 彼らの話は旅行のことに集中した。",
+    "suggestedValue": "The vase was centered on the table. — 花瓶はテーブルの中心に置かれていた。",
+    "reason": "answerは『中心に置かれた』だが、例文は center on（～に集中する／焦点を当てる）で、和訳も『集中した』となっており与えられた語義とずれる。",
+    "confidence": 0.72,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-09229",
+    "language": "en",
+    "headword": "yang",
+    "sourceAuditFiles": [
+      "english/issues-L5c.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "low",
+    "field": "example",
+    "currentValue": "The Ying Yang diviner may not predict his own fate. — 陰陽師身の上知らず。",
+    "suggestedValue": "The Yin Yang diviner may not predict his own fate. — 陰陽師身の上知らず。",
+    "reason": "例文中の『Ying』は『Yin』（陰）の綴り誤り。見出し語 Yang 自体は正しい。",
+    "confidence": 0.7,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-20057",
+    "language": "en",
+    "headword": "butt",
+    "sourceAuditFiles": [
+      "english/issues-L6a.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "medium",
+    "field": "example",
+    "currentValue": "Why do you always butt in? — なんでいつもちょっかい出すの？",
+    "suggestedValue": "",
+    "reason": "answer『頭で突く』に対し、例文の『butt in』は『口をはさむ・干渉する』の意で、語義が一致しない。",
+    "confidence": 0.72,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-20059",
+    "language": "en",
+    "headword": "jerk",
+    "sourceAuditFiles": [
+      "english/issues-L6a.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "medium",
+    "field": "example",
+    "currentValue": "My boss is a jerk. — 私のボスは最低なやつだ。",
+    "suggestedValue": "",
+    "reason": "answer『ぐいっと引っぱる』(動詞)に対し、例文のjerkは名詞『最低なやつ』で品詞・語義とも不一致。",
+    "confidence": 0.8,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-20098",
+    "language": "en",
+    "headword": "firing",
+    "sourceAuditFiles": [
+      "english/issues-L6a.json",
+      "audit-errors.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "high",
+    "field": "example",
+    "currentValue": "The scandal could lead to the firing of some senior officials. — このスキャンダルで一部の高官が罷免される可能性がある。",
+    "suggestedValue": "",
+    "reason": "answer『発射』に対し、例文のfiringは『解雇・罷免』の意で語義が完全に異なる。学習者に誤った語義連想を与える。",
+    "confidence": 0.82,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-20115",
+    "language": "en",
+    "headword": "bust",
+    "sourceAuditFiles": [
+      "english/issues-L6a.json",
+      "audit-errors.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "high",
+    "field": "example",
+    "currentValue": "He got busted. — あいつ捕まったんだよ。",
+    "suggestedValue": "",
+    "reason": "answer『半身像』(名詞)に対し、例文のbusted(get busted=捕まる)は全く別語義。語義・用法とも不一致。",
+    "confidence": 0.8,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-20196",
+    "language": "en",
+    "headword": "humming",
+    "sourceAuditFiles": [
+      "english/issues-L6a.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "medium",
+    "field": "example",
+    "currentValue": "Kyoko went away, humming a song. — 恭子は鼻歌を歌いながら行ってしまった。",
+    "suggestedValue": "",
+    "reason": "answer『ブンブンいう』に対し、例文のhummingは『鼻歌を歌う』の意で語義が一致しない。",
+    "confidence": 0.7,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-20212",
+    "language": "en",
+    "headword": "catching",
+    "sourceAuditFiles": [
+      "english/issues-L6a.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "medium",
+    "field": "example",
+    "currentValue": "You must guard against catching cold. — かぜをひかないよう用心しなければなりません。",
+    "suggestedValue": "",
+    "reason": "answer『うつりやすい』(形容詞)に対し、例文のcatchingは動名詞『(かぜを)ひくこと』で品詞・語義が一致しない。",
+    "confidence": 0.72,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-20274",
+    "language": "en",
+    "headword": "hooked",
+    "sourceAuditFiles": [
+      "english/issues-L6a.json",
+      "audit-errors.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "high",
+    "field": "example",
+    "currentValue": "I'm hooked on yachts now. — 今はヨットにハマっています。",
+    "suggestedValue": "",
+    "reason": "answer『かぎ形の』に対し、例文の『be hooked on』は『夢中になる・ハマる』の意で語義が完全に異なる。加えてtagsが名詞だが形容詞的用法。",
+    "confidence": 0.8,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-20363",
+    "language": "en",
+    "headword": "scotch",
+    "sourceAuditFiles": [
+      "english/issues-L6a.json",
+      "audit-errors.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "high",
+    "field": "example",
+    "currentValue": "This Scotch tape doesn't stick. — このセロテープ、くっつかないんだけど。",
+    "suggestedValue": "",
+    "reason": "answer『押しつぶす』(動詞)に対し、例文の『Scotch tape』は商標(セロテープ)で語義・品詞とも全く無関係。",
+    "confidence": 0.85,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-20434",
+    "language": "en",
+    "headword": "smashed",
+    "sourceAuditFiles": [
+      "english/issues-L6a.json",
+      "audit-errors.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "high",
+    "field": "example",
+    "currentValue": "The bottle smashed to pieces. — 瓶は粉々に割れた。",
+    "suggestedValue": "",
+    "reason": "answer『酔っぱらった』(俗語)に対し、例文のsmashedは『粉々に割れた』で語義が完全に異なる。",
+    "confidence": 0.82,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-20483",
+    "language": "en",
+    "headword": "cracking",
+    "sourceAuditFiles": [
+      "english/issues-L6a.json",
+      "audit-errors.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "high",
+    "field": "example",
+    "currentValue": "Let's get cracking at 8. — ８時から始めよう。",
+    "suggestedValue": "",
+    "reason": "answer『ひび割れ，割れること』に対し、例文の『get cracking』は『始める・取りかかる』の慣用句で語義が完全に異なる。",
+    "confidence": 0.8,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-20863",
+    "language": "en",
+    "headword": "madman",
+    "sourceAuditFiles": [
+      "english/issues-L6b.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "inappropriate_content",
+    "severity": "medium",
+    "field": "answer",
+    "currentValue": "気違い",
+    "suggestedValue": "狂人",
+    "reason": "『気違い』は差別的・放送不適切とされる語。学習アプリでは『狂人』等が無難。例文和訳では既に『狂人』を使用。",
+    "confidence": 0.8,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-20971",
+    "language": "en",
+    "headword": "drone",
+    "sourceAuditFiles": [
+      "english/issues-L6b.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "low",
+    "field": "example",
+    "currentValue": "Well, unmanned drones likely lack style, right. — 無人機じゃ味気ないだろ。",
+    "suggestedValue": "自然な英文例へ差し替え（例: A small drone flew over the field.）",
+    "reason": "英文が不自然（口語的破綻気味）。文法誤りではないが例文品質が低い。",
+    "confidence": 0.7,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-20995",
+    "language": "en",
+    "headword": "biting",
+    "sourceAuditFiles": [
+      "english/issues-L6b.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "medium",
+    "field": "example",
+    "currentValue": "They were biting like crazy yesterday. — いやぁ、昨日は入れ食いでねえ。",
+    "suggestedValue": "答え『鋭い』の語義を示す例文へ差し替え",
+    "reason": "answer『鋭い』はbiting=刺すような（寒さ・風・皮肉）の意。例文は魚が食いつく別義（入れ食い）で語義不一致。",
+    "confidence": 0.85,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-21103",
+    "language": "en",
+    "headword": "bender",
+    "sourceAuditFiles": [
+      "english/issues-L6c.json",
+      "audit-errors.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "high",
+    "field": "example",
+    "currentValue": "It was just a fender bender. — 軽い接触事故だったんだ。",
+    "suggestedValue": "After the party he went on a three-day bender.",
+    "reason": "見出し語の語義は「酒を飲んでの大騒ぎ(binge)」だが、例文は複合語 fender bender(軽い接触事故)で別義。語義を示していない。",
+    "confidence": 0.9,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-21117",
+    "language": "en",
+    "headword": "warmer",
+    "sourceAuditFiles": [
+      "english/issues-L6c.json",
+      "audit-errors.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "high",
+    "field": "example",
+    "currentValue": "It will get warmer and warmer. — だんだん暖かくなります。",
+    "suggestedValue": "In winter she uses a foot warmer under her desk.",
+    "reason": "見出し語の語義は名詞「暖めるもの」だが、例文の warmer は形容詞 warm の比較級で別用法。",
+    "confidence": 0.9,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-21128",
+    "language": "en",
+    "headword": "wheeler",
+    "sourceAuditFiles": [
+      "english/issues-L6c.json",
+      "audit-errors.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "high",
+    "field": "example",
+    "currentValue": "He is a real wheeler-dealer. — 彼はやり手です。",
+    "suggestedValue": "The eighteen-wheeler carried steel across the country.",
+    "reason": "和訳「トラック運搬者」に対し例文は wheeler-dealer(やり手)で無関係。語義を示していない。",
+    "confidence": 0.9,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-21180",
+    "language": "en",
+    "headword": "commanding",
+    "sourceAuditFiles": [
+      "english/issues-L6c.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "medium",
+    "field": "example",
+    "currentValue": "He's got a commanding manner about him. — 彼は人に命令するようなところがある。",
+    "suggestedValue": "The general is commanding the troops from the hill.",
+    "reason": "和訳は動詞「指揮する」だが例文の commanding は形容詞(威圧的な態度)。品詞・語義がずれている。",
+    "confidence": 0.7,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-21268",
+    "language": "en",
+    "headword": "tongs",
+    "sourceAuditFiles": [
+      "english/issues-L6c.json",
+      "audit-errors.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "high",
+    "field": "example",
+    "currentValue": "I burned my forefinger on fire tongs. — 火ばさみで人差し指をやけどした。",
+    "suggestedValue": "The tong controlled several shops in Chinatown.",
+    "reason": "和訳「在米中国人の友愛団体(tong)」に対し、例文は別語 tongs(火ばさみ)。exampleFormも tongs で見出し語 tong と不一致。",
+    "confidence": 0.92,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-21293",
+    "language": "en",
+    "headword": "blasted",
+    "sourceAuditFiles": [
+      "english/issues-L6c.json",
+      "audit-errors.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "high",
+    "field": "example",
+    "currentValue": "The rocket blasted out of the atmosphere. — ロケットは大気圏外へ飛んでいった。",
+    "suggestedValue": "Where is that blasted key of mine?",
+    "reason": "和訳「いまいましい，のろわれた(形容詞)」に対し、例文の blasted は動詞 blast の過去形(発射・飛ぶ)で別義。",
+    "confidence": 0.88,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-21406",
+    "language": "en",
+    "headword": "bouncing",
+    "sourceAuditFiles": [
+      "english/issues-L6c.json",
+      "audit-errors.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "high",
+    "field": "example",
+    "currentValue": "The children started bouncing up and down on the couch. — 子供たちはソファの上で跳び始めた。",
+    "suggestedValue": "She is a bouncing, healthy baby.",
+    "reason": "和訳「健康な(bouncing baby)」に対し、例文の bouncing は動詞 bounce の進行形(跳ねる)で別義。",
+    "confidence": 0.88,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-21432",
+    "language": "en",
+    "headword": "weasel",
+    "sourceAuditFiles": [
+      "english/issues-L6c.json",
+      "audit-errors.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "high",
+    "field": "example",
+    "currentValue": "The weasel is noted for its bad smell. — いたちはその悪臭で知られている。",
+    "suggestedValue": "He tried to weasel out of his promise.",
+    "reason": "和訳「言い逃れる(動詞)」・tag動詞に対し、例文の weasel は名詞(動物のイタチ)で別品詞・別義。",
+    "confidence": 0.9,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-21453",
+    "language": "en",
+    "headword": "punishing",
+    "sourceAuditFiles": [
+      "english/issues-L6c.json",
+      "audit-errors.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "high",
+    "field": "example",
+    "currentValue": "I became hardened to punishing pupils. — 生徒を罰することをなんとも思わなかった。",
+    "suggestedValue": "The team faced a punishing training schedule.",
+    "reason": "和訳「へとへとにさせる(形容詞 grueling)」に対し、例文の punishing は動詞 punish の動名詞(罰すること)で別義。",
+    "confidence": 0.88,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-21935",
+    "language": "en",
+    "headword": "ting",
+    "sourceAuditFiles": [
+      "english/issues-L7a.json",
+      "audit-errors.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "high",
+    "field": "example",
+    "currentValue": "Her cheeks were tinged with pink. — 彼女のほおは薄く桃色に染まっていた。 (exampleForm: \"tinged\")",
+    "suggestedValue": "見出し語 ting（チリンと鳴る／鳴らす）を用いた例文に差し替える",
+    "reason": "例文と exampleForm が別語 tinge の過去形 'tinged'（染める）になっており、見出し語 ting（チリンと鳴る）を全く例示していない。品詞・語義とも例文が一致しない。",
+    "confidence": 0.95,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-21536",
+    "language": "en",
+    "headword": "jumper",
+    "sourceAuditFiles": [
+      "english/issues-L7a.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "medium",
+    "field": "answer",
+    "currentValue": "跳躍する人 / 例文: I like that jumper. — そのジャンバー好きだな。",
+    "suggestedValue": "セーター（ジャンパー）の語義を主義にするか、跳躍する人に合う例文へ",
+    "reason": "answer は「跳躍する人」だが、例文の訳は衣類の「ジャンバー(=jumper)」を指しており、主要義と例文の語義が食い違う。",
+    "confidence": 0.85,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-21734",
+    "language": "en",
+    "headword": "observing",
+    "sourceAuditFiles": [
+      "english/issues-L7a.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "medium",
+    "field": "example",
+    "currentValue": "Bob derives pleasure from observing insects. — ボブは昆虫の観察に楽しみを感じている。",
+    "suggestedValue": "形容詞 observing（注意ぶかい）の用法を示す例文へ",
+    "reason": "answer/tags は形容詞「注意ぶかい」だが、例文の observing は動名詞「観察すること」で用いられ、見出しの語義・品詞を例示していない。",
+    "confidence": 0.8,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-21845",
+    "language": "en",
+    "headword": "tit",
+    "sourceAuditFiles": [
+      "english/issues-L7a.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "medium",
+    "field": "example",
+    "currentValue": "Tit for tat. — しっぺ返しだよ。",
+    "suggestedValue": "鳥のシジュウカラ(tit)を示す例文へ",
+    "reason": "answer は鳥の「シジュウカラ」だが、例文は慣用句 'tit for tat' で見出し語の語義を例示していない。",
+    "confidence": 0.8,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-21588",
+    "language": "en",
+    "headword": "troll",
+    "sourceAuditFiles": [
+      "english/issues-L7a.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "low",
+    "field": "example",
+    "currentValue": "Don't feed the troll! — ネタにマジレスするな。",
+    "suggestedValue": "動詞 troll（荒らす／流し釣りする）の用法を示す例文へ",
+    "reason": "answer/tags は動詞だが、例文の troll は名詞（荒らす人）で、品詞が一致しない。",
+    "confidence": 0.7,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22571",
+    "language": "en",
+    "headword": "erection",
+    "sourceAuditFiles": [
+      "english/issues-L7c.json",
+      "audit-errors.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "high",
+    "field": "example",
+    "currentValue": "I have an erection. — 僕は勃起しています。",
+    "suggestedValue": null,
+    "reason": "answerは「建設」だが、例文『I have an erection. — 僕は勃起しています。』は解剖学的/性的な別義を示しており、提示義と一致しない。例文の差し替えが必要。",
+    "confidence": 0.95,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22638",
+    "language": "en",
+    "headword": "blinking",
+    "sourceAuditFiles": [
+      "english/issues-L7c.json",
+      "audit-errors.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "high",
+    "field": "example",
+    "currentValue": "Little lights were blinking on and off in the distance. — 遠くで小さな明かりがちらちらしていた。",
+    "suggestedValue": null,
+    "reason": "answerは「まったくひどい」(英俗の強意)だが、例文『Little lights were blinking...ちらちらしていた』は動詞blink(点滅する)の意味で、提示義と一致しない。",
+    "confidence": 0.9,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22639",
+    "language": "en",
+    "headword": "jag",
+    "sourceAuditFiles": [
+      "english/issues-L7c.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "medium",
+    "field": "example",
+    "currentValue": "The jagged edge ripped a hole in his trousers. — ぎざぎざのかどが彼のズボンに引っかかって穴を空けた。",
+    "suggestedValue": null,
+    "reason": "見出し語は『jag』(answer とがった部分)だが、exampleFormと例文は別語『jagged』(形容詞)。例文が見出し語を用いていない。IPAもnull。",
+    "confidence": 0.9,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22747",
+    "language": "en",
+    "headword": "dickens",
+    "sourceAuditFiles": [
+      "english/issues-L7c.json",
+      "audit-errors.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "high",
+    "field": "example",
+    "currentValue": "Dickens was the author of 'Oliver Twist'. — ディケンズは『オリバー・ツイスト』の著者です。",
+    "suggestedValue": null,
+    "reason": "answerは「悪魔」(the dickens=悪魔・一体全体)だが、例文『Dickens was the author of Oliver Twist』は作家チャールズ・ディケンズ(固有名詞)の話で、見出し語義と無関係。",
+    "confidence": 0.95,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22829",
+    "language": "en",
+    "headword": "geezer",
+    "sourceAuditFiles": [
+      "english/issues-L7c.json",
+      "audit-errors.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "inappropriate_content",
+    "severity": "high",
+    "field": "example",
+    "currentValue": "When is the slant-eyed geezer coming? — つり目のおじさんはいつ来るの？",
+    "suggestedValue": null,
+    "reason": "例文『When is the slant-eyed geezer coming?』に人種差別的表現(slant-eyed)が含まれ学習用例文として不適切。IPAもnull。差し替え推奨。",
+    "confidence": 0.9,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22854",
+    "language": "en",
+    "headword": "brewing",
+    "sourceAuditFiles": [
+      "english/issues-L7c.json",
+      "audit-errors.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "high",
+    "field": "example",
+    "currentValue": "A storm is brewing. — 今にも嵐になりそうだ。",
+    "suggestedValue": null,
+    "reason": "answerは「ビール醸造」だが、例文『A storm is brewing. — 今にも嵐になりそうだ』はbrew(兆す/起ころうとする)の意味で、提示義と一致しない。",
+    "confidence": 0.9,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22855",
+    "language": "en",
+    "headword": "tat",
+    "sourceAuditFiles": [
+      "english/issues-L7c.json",
+      "audit-errors.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "high",
+    "field": "example",
+    "currentValue": "Tit for tat. — しっぺ返しだよ。",
+    "suggestedValue": null,
+    "reason": "answerは「タッチングで作る」だが、例文『Tit for tat. — しっぺ返しだよ』は成句tit for tat内のtatで、提示義(タッチング)と無関係。",
+    "confidence": 0.92,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22963",
+    "language": "en",
+    "headword": "contracted",
+    "sourceAuditFiles": [
+      "english/issues-L7c.json",
+      "audit-errors.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "high",
+    "field": "example",
+    "currentValue": "My father contracted pneumonia last month. — 私の父は先月肺炎にかかった。",
+    "suggestedValue": null,
+    "reason": "answerは「縮めた」だが、例文『My father contracted pneumonia — 肺炎にかかった』はcontract(病気にかかる)の別義で、提示義と一致しない。tagも名詞で不整合。",
+    "confidence": 0.9,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22971",
+    "language": "en",
+    "headword": "gaga",
+    "sourceAuditFiles": [
+      "english/issues-L7c.json",
+      "audit-errors.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "high",
+    "field": "example",
+    "currentValue": "I wish I could sing as well as Lady Gaga. — レディ・ガガみたいに上手く歌えたらなあ。",
+    "suggestedValue": null,
+    "reason": "answerは「夢中の，ぼけた」(形容詞gaga)だが、例文『I wish I could sing as well as Lady Gaga』は固有名詞レディ・ガガで、見出し語義と無関係。",
+    "confidence": 0.92,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22977",
+    "language": "en",
+    "headword": "disposed",
+    "sourceAuditFiles": [
+      "english/issues-L7c.json",
+      "audit-errors.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "high",
+    "field": "example",
+    "currentValue": "I disposed of my old coat. — 古いコートを処分した。",
+    "suggestedValue": null,
+    "reason": "answerは「する気がある，傾向がある」(形容詞disposed=inclined)だが、例文『I disposed of my old coat — 処分した』はdispose of(処分する)の別義で一致しない。",
+    "confidence": 0.9,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "fr-00092",
+    "language": "fr",
+    "headword": "ensemble",
+    "sourceAuditFiles": [
+      "french/issues-L1.json",
+      "audit-errors.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "high",
+    "field": "answer",
+    "currentValue": "set",
+    "suggestedValue": "together",
+    "reason": "英訳 answer/glosses.en は名詞義『set（集合・ひとそろい）』だが、和訳 glosses.ja は副詞義『一緒に』で、両者の品詞・語義が食い違う。見出し ensemble の最頻用法は副詞『一緒に(together)』であり、ja に合わせて英訳を 'together' とするのが自然。名詞義を採るなら ja を『集合・全体』に直す必要がある。いずれにせよ現状は英和不整合。",
+    "confidence": 0.95,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "fr-00260",
+    "language": "fr",
+    "headword": "devoir",
+    "sourceAuditFiles": [
+      "french/issues-L1.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "other",
+    "severity": "medium",
+    "field": "answer",
+    "currentValue": "to must",
+    "suggestedValue": "to have to (must)",
+    "reason": "英語 'to must' は非文（must に不定詞形は存在しない）。語義自体は ja『〜しなければならない』で正しいので、英訳を 'to have to' もしくは 'must' に修正すべき。学習アプリの英語表記として不適切。",
+    "confidence": 0.96,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "fr-00332",
+    "language": "fr",
+    "headword": "pièce",
+    "sourceAuditFiles": [
+      "french/issues-L1.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "medium",
+    "field": "answer",
+    "currentValue": "piece",
+    "suggestedValue": "room",
+    "reason": "英訳 'piece（断片・一片）' と和訳『部屋』が別語義を指しており不整合。pièce は多義（部屋／硬貨／部品／戯曲）。ja が『部屋』を採用しているので、英訳も 'room' に揃えるのが妥当。",
+    "confidence": 0.9,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "fr-00186",
+    "language": "fr",
+    "headword": "meilleur",
+    "sourceAuditFiles": [
+      "french/issues-L1.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "low",
+    "field": "answer",
+    "currentValue": "best",
+    "suggestedValue": "better (best = le meilleur)",
+    "reason": "meilleur は bon の比較級『より良い(better)』。最上級『best』は定冠詞を伴う le meilleur。同ファイルの mieux(fr-00033) は正しく 'better' としており内部一貫性の観点でも 'better' が望ましい。ja『最良』も最上級寄りで英訳と共に要検討。",
+    "confidence": 0.8,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "fr-00204",
+    "language": "fr",
+    "headword": "capitaine",
+    "sourceAuditFiles": [
+      "french/issues-L1.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "low",
+    "field": "glosses.ja",
+    "currentValue": "船長",
+    "suggestedValue": "隊長，船長，キャプテン",
+    "reason": "英訳 'captain' は軍の大尉・チームの主将・船長を広く含むが、ja『船長』は海事義に限定され過ぎ。英和整合の観点で ja を広義に。",
+    "confidence": 0.75,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "fr-00645",
+    "language": "fr",
+    "headword": "expérience",
+    "sourceAuditFiles": [
+      "french/issues-L2.json",
+      "audit-errors.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "high",
+    "field": "glosses.en / answer",
+    "currentValue": "experiment",
+    "suggestedValue": "experience",
+    "reason": "「expérience」の第一義は『経験(experience)』であり、『実験(experiment)』は第二義。英語側が experiment 単独だと主要義を取り違えている。和訳は『経験，実験』と経験を先頭に置いており、英和が不整合。answer/glosses.en を experience 主義へ修正すべき。",
+    "confidence": 0.9,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "fr-00157",
+    "language": "fr",
+    "headword": "intérêt",
+    "sourceAuditFiles": [
+      "french/issues-L2.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "missing_gloss",
+    "severity": "medium",
+    "field": "glosses.ja",
+    "currentValue": "利益",
+    "suggestedValue": "興味，関心（利益）",
+    "reason": "「intérêt」の最頻義は『興味・関心』。和訳が『利益』のみだと学習者が主要義を誤解しうる。英語 interest は両義を包含するが、和訳が benefit 系に限定され英和のニュアンスがずれる。",
+    "confidence": 0.85,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "fr-00583",
+    "language": "fr",
+    "headword": "servir",
+    "sourceAuditFiles": [
+      "french/issues-L2.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "medium",
+    "field": "glosses.ja",
+    "currentValue": "仕える",
+    "suggestedValue": "役立つ，給仕する",
+    "reason": "「servir」の中核義は『役立つ／(食事を)出す・給仕する』。和訳『仕える』は主君に仕える狭義で、主要用法とずれ誤解を招く。英語 to serve は妥当だが和訳が不自然。",
+    "confidence": 0.8,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "fr-00263",
+    "language": "fr",
+    "headword": "sol",
+    "sourceAuditFiles": [
+      "french/issues-L2.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "medium",
+    "field": "glosses.en / answer",
+    "currentValue": "soil",
+    "suggestedValue": "ground, floor",
+    "reason": "「sol」の日常主要義は『地面・床』。英語 soil は『土壌』(=terre)寄りで、和訳『地面』とも整合しない。英語を ground/floor 寄りに修正するのが自然。",
+    "confidence": 0.75,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "fr-00414",
+    "language": "fr",
+    "headword": "système",
+    "sourceAuditFiles": [
+      "french/issues-L2.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "low",
+    "field": "glosses.ja",
+    "currentValue": "系統",
+    "suggestedValue": "システム，体系，制度",
+    "reason": "「système」の自然な和訳は『システム／体系／制度』。『系統』は生物学・血統寄りで一般義としては不自然。英語 system は妥当。",
+    "confidence": 0.7,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "fr-00638",
+    "language": "fr",
+    "headword": "empêcher",
+    "sourceAuditFiles": [
+      "french/issues-L2.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "low",
+    "field": "glosses.en / answer",
+    "currentValue": "to stop",
+    "suggestedValue": "to prevent",
+    "reason": "「empêcher」は『妨げる・防ぐ(prevent)』が正確。英語 to stop は口語的で曖昧。和訳『妨げる』は適切。",
+    "confidence": 0.75,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "fr-00520",
+    "language": "fr",
+    "headword": "voler",
+    "sourceAuditFiles": [
+      "french/issues-L2.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "missing_gloss",
+    "severity": "low",
+    "field": "glosses.en / glosses.ja",
+    "currentValue": "to fly / 飛ぶ",
+    "suggestedValue": "to fly; to steal / 飛ぶ；盗む",
+    "reason": "「voler」は『飛ぶ』と『盗む』が同程度に高頻度な同綴多義語。片方のみだと学習者が主要義を取りこぼす恐れ。誤りではないが補完が望ましい。",
+    "confidence": 0.85,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "fr-00601",
+    "language": "fr",
+    "headword": "vol",
+    "sourceAuditFiles": [
+      "french/issues-L2.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "missing_gloss",
+    "severity": "low",
+    "field": "glosses.en / glosses.ja",
+    "currentValue": "flight / 飛行",
+    "suggestedValue": "flight; theft / 飛行；盗み",
+    "reason": "「vol」は『飛行』と『盗み・窃盗』の高頻度同綴多義語(voler と対応)。『盗み』義の欠落は学習上の取りこぼしになりうる。誤りではないが補完推奨。",
+    "confidence": 0.85,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "fr-01022",
+    "language": "fr",
+    "headword": "émission",
+    "sourceAuditFiles": [
+      "french/issues-L3.json",
+      "audit-errors.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_false_friend",
+    "severity": "high",
+    "field": "answer & glosses.en",
+    "currentValue": "emission",
+    "suggestedValue": "broadcast; (TV/radio) program",
+    "reason": "ネイティブ校閲: « émission » の最頻義は「テレビ/ラジオの放送・番組」であり、和訳 glosses.ja の「放送」と一致する。英語 'emission'（気体・光の放出）は false friend で「放送」と整合しない。answer と glosses.en の両方が要修正。",
+    "confidence": 0.9,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "fr-01014",
+    "language": "fr",
+    "headword": "tombée",
+    "sourceAuditFiles": [
+      "french/issues-L3.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "medium",
+    "field": "answer & glosses.en",
+    "currentValue": "fall",
+    "suggestedValue": "nightfall (as in « tombée de la nuit »)",
+    "reason": "« tombée » はほぼ « tombée de la nuit / du jour »（日暮れ・夕暮れ）の形でのみ使われ、和訳の「暮れ」と一致する。英語 'fall' は単独では「秋・落下」を想起させ誤解を招く。'nightfall/dusk' が適切。",
+    "confidence": 0.7,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "fr-00801",
+    "language": "fr",
+    "headword": "course",
+    "sourceAuditFiles": [
+      "french/issues-L3.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "low",
+    "field": "answer & glosses.en",
+    "currentValue": "run",
+    "suggestedValue": "race (also: errand/shopping — les courses)",
+    "reason": "和訳 glosses.ja は「競走」。« course » の主要義は race（競走）および errand/買い物（faire les courses）。英語 'run' は弱く、和訳の「競走」とニュアンスがずれる。'race' が中心義。",
+    "confidence": 0.6,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "fr-01228",
+    "language": "fr",
+    "headword": "rentrée",
+    "sourceAuditFiles": [
+      "french/issues-L4.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "low",
+    "field": "glosses.en",
+    "currentValue": "return",
+    "suggestedValue": "return (esp. back-to-school / start of new term)",
+    "reason": "英訳 answer/glosses.en は総称的な 'return' だが、和訳 glosses.ja は '新学期' と学校の年度開始という別義に限定しており、英仏和で指し示す語義がずれている。『la rentrée』は『(休暇後の)復帰』と『新学期・新年度の始まり』の双方を持つ多義語。どちらか一方に寄せず両義を明示するのが望ましい。",
+    "confidence": 0.6,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "fr-01928",
+    "language": "fr",
+    "headword": "écart",
+    "sourceAuditFiles": [
+      "french/issues-L5.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "medium",
+    "field": "answer / glosses.en",
+    "currentValue": "space",
+    "suggestedValue": "gap, distance, discrepancy",
+    "reason": "「écart」は隔たり・差・ずれの意で、日本語gloss「隔たり」とは整合するが、英訳「space」は誤解を招く（空間=espace）。より正確には gap / distance / discrepancy。英和不一致。",
+    "confidence": 0.85,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "fr-01892",
+    "language": "fr",
+    "headword": "rigole",
+    "sourceAuditFiles": [
+      "french/issues-L5.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "low",
+    "field": "answer / glosses.en",
+    "currentValue": "furrow",
+    "suggestedValue": "channel, ditch, runnel",
+    "reason": "「rigole」は排水・灌漑用の小さな水路。日本語gloss「溝，用水路」は妥当だが、英訳「furrow」（畝の溝=sillon）はややずれる。channel/ditch が適切。",
+    "confidence": 0.7,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "fr-01769",
+    "language": "fr",
+    "headword": "plateau",
+    "sourceAuditFiles": [
+      "french/issues-L5.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "low",
+    "field": "answer / glosses.en",
+    "currentValue": "flat area",
+    "suggestedValue": "tray; plateau (highland)",
+    "reason": "日本語glossは「お盆，高原」の順で第一義が『お盆(tray)』だが、英訳「flat area」は地形の高原義のみを表し、tray義が欠落。英和で主要義の対応がずれている。",
+    "confidence": 0.7,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "fr-01723",
+    "language": "fr",
+    "headword": "sire",
+    "sourceAuditFiles": [
+      "french/issues-L5.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "low",
+    "field": "answer / glosses.en",
+    "currentValue": "lord",
+    "suggestedValue": "sire (Your Majesty)",
+    "reason": "現代仏語の「Sire」は君主への呼びかけで、日本語gloss「陛下」に一致。英訳「lord」（=seigneur）は敬称レベルがずれる。sire / Your Majesty が妥当。",
+    "confidence": 0.68,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "fr-01864",
+    "language": "fr",
+    "headword": "rage",
+    "sourceAuditFiles": [
+      "french/issues-L5.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "low",
+    "field": "answer / glosses.en",
+    "currentValue": "rage",
+    "suggestedValue": "rage; rabies",
+    "reason": "日本語glossは「激怒，狂犬病」の二義を含むが、英訳は「rage」のみで『狂犬病(rabies)』義が欠落。英和で多義の対応が不完全。",
+    "confidence": 0.7,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "fr-01815",
+    "language": "fr",
+    "headword": "ranger",
+    "sourceAuditFiles": [
+      "french/issues-L5.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "low",
+    "field": "answer / glosses.en",
+    "currentValue": "to order",
+    "suggestedValue": "to tidy, to put away, to arrange",
+    "reason": "「ranger」は片付ける・整理する意（日本語gloss「整理する」と一致）。英訳「to order」は fr-01870『commander』(命令する/注文する)と同一英語で紛らわしく、命令義と誤認される恐れ。to tidy / to arrange が明確。",
+    "confidence": 0.65,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "de-00253",
+    "language": "de",
+    "headword": "stellen",
+    "sourceAuditFiles": [
+      "german/issues-L1.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "medium",
+    "field": "glosses.en",
+    "currentValue": "to pose",
+    "suggestedValue": "to put, to place",
+    "reason": "stellenの中心義は『(立てて)置く・据える』。ja『置く，立てる』は妥当だが、en『to pose』はeine Frage stellen等の派生義で主要義として不適切、英和も不整合。",
+    "confidence": 0.85,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "de-00380",
+    "language": "de",
+    "headword": "Opfer",
+    "sourceAuditFiles": [
+      "german/issues-L1.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "medium",
+    "field": "glosses.en",
+    "currentValue": "sacrifice",
+    "suggestedValue": "victim, sacrifice",
+    "reason": "das Opferは『犠牲者(victim)』と『いけにえ(sacrifice)』の両義。ja『犠牲者』はvictim義を採るが、en『sacrifice』はいけにえ義で英和不整合。少なくともvictimを併記すべき。",
+    "confidence": 0.8,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "de-00065",
+    "language": "de",
+    "headword": "Ordnung",
+    "sourceAuditFiles": [
+      "german/issues-L1.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "low",
+    "field": "glosses.en",
+    "currentValue": "arrangement",
+    "suggestedValue": "order",
+    "reason": "die Ordnungの主要義は『秩序・整頓(order)』。ja『秩序』と整合するenは'order'。'arrangement'は副次的で弱い。",
+    "confidence": 0.8,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "de-00125",
+    "language": "de",
+    "headword": "Fall",
+    "sourceAuditFiles": [
+      "german/issues-L1.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "low",
+    "field": "glosses.en",
+    "currentValue": "fall",
+    "suggestedValue": "case, fall",
+    "reason": "ja『場合(case)』に対しen『fall(落下)』は別義で英和不整合。der Fallは場合／格／落下の多義のため'case'を主要義にするか併記が望ましい。",
+    "confidence": 0.75,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "de-00096",
+    "language": "de",
+    "headword": "Herr",
+    "sourceAuditFiles": [
+      "german/issues-L1.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "low",
+    "field": "glosses.en",
+    "currentValue": "man",
+    "suggestedValue": "gentleman, Mr., sir",
+    "reason": "en『man』はMann(de-00011)と混同を招く。Herrは紳士・〜氏・主人の意。ja『紳士，〜氏』は妥当。",
+    "confidence": 0.7,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "de-00293",
+    "language": "de",
+    "headword": "Pass",
+    "sourceAuditFiles": [
+      "german/issues-L1.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "low",
+    "field": "glosses.en",
+    "currentValue": "pass",
+    "suggestedValue": "passport",
+    "reason": "ja『パスポート』に対しen『pass』は峠・パス等の多義で曖昧。ja義に合わせ'passport'が明確。",
+    "confidence": 0.7,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "de-00272",
+    "language": "de",
+    "headword": "Platz",
+    "sourceAuditFiles": [
+      "german/issues-L1.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "low",
+    "field": "glosses.en",
+    "currentValue": "square",
+    "suggestedValue": "place, square",
+    "reason": "ja『場所』とen『square(広場)』が別義寄り。der Platzは場所／席／空間／広場の多義。整合には'place'を主要義に。",
+    "confidence": 0.65,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "de-00170",
+    "language": "de",
+    "headword": "darum",
+    "sourceAuditFiles": [
+      "german/issues-L1.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "low",
+    "field": "glosses.en",
+    "currentValue": "around it",
+    "suggestedValue": "therefore, around it",
+    "reason": "darumの高頻度義は『だから(therefore)』でja『だから，その周りに』の筆頭と一致。en『around it』は字義的副次義のみで不整合。",
+    "confidence": 0.65,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "de-00190",
+    "language": "de",
+    "headword": "Grund",
+    "sourceAuditFiles": [
+      "german/issues-L1.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "low",
+    "field": "glosses.en",
+    "currentValue": "ground",
+    "suggestedValue": "reason, ground",
+    "reason": "ja筆頭『理由』とen『ground』が別義寄り。der Grundは理由／根拠／地面／底の多義。整合には'reason'を主要義に。",
+    "confidence": 0.6,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "de-00382",
+    "language": "de",
+    "headword": "Mist",
+    "sourceAuditFiles": [
+      "german/issues-L1.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "low",
+    "field": "glosses.en",
+    "currentValue": "manure",
+    "suggestedValue": "crap, damn (colloq.); manure",
+    "reason": "字義はmanure(肥やし・堆肥)だが口語では『くそ(damn/crap)』の間投詞。ja『くそ，がらくた』は口語義を採用しており、enに口語義併記が整合的。",
+    "confidence": 0.6,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "de-00117",
+    "language": "de",
+    "headword": "Kind",
+    "sourceAuditFiles": [
+      "german/issues-L1.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "low",
+    "field": "glosses.en",
+    "currentValue": "kid",
+    "suggestedValue": "child",
+    "reason": "en『kid』は口語。das Kindの中立訳は'child'が適切。ja『子供』は妥当。",
+    "confidence": 0.7,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "de-00703",
+    "language": "de",
+    "headword": "Gesellschaft",
+    "sourceAuditFiles": [
+      "german/issues-L2.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "low",
+    "field": "glosses.en",
+    "currentValue": "company",
+    "suggestedValue": "society, company",
+    "reason": "英訳 'company' と和訳 '社会'(society) が指す語義が一致していない。Gesellschaft は『社会』が第一義で『会社・交際』も持つ多義語。英訳を society を含む形に補うと英和整合が取れる。",
+    "confidence": 0.75,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "de-00726",
+    "language": "de",
+    "headword": "allerdings",
+    "sourceAuditFiles": [
+      "german/issues-L2.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "low",
+    "field": "glosses.en",
+    "currentValue": "but",
+    "suggestedValue": "however, though",
+    "reason": "allerdings は『however / though / admittedly（もっとも・ただし）』。単純な逆接『but』は aber に相当し、ニュアンスがずれる。和訳『だが』も同様にやや大まかで、『もっとも，ただし』が近い。",
+    "confidence": 0.8,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "de-00471",
+    "language": "de",
+    "headword": "Antwort",
+    "sourceAuditFiles": [
+      "german/issues-L2.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "low",
+    "field": "glosses.ja",
+    "currentValue": "解答",
+    "suggestedValue": "答え，返事",
+    "reason": "Antwort は一般的な『答え・返事（reply）』。和訳『解答』は試験・設問の解に限定される語感で、日常的な返答の意味を取りこぼす。英訳 answer は妥当。",
+    "confidence": 0.7,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "de-00984",
+    "language": "de",
+    "headword": "Karten",
+    "sourceAuditFiles": [
+      "german/issues-L3.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "medium",
+    "field": "glosses.en",
+    "currentValue": "card game",
+    "suggestedValue": "cards (plural of Karte)",
+    "reason": "「Karten」はKarte（カード／切符／地図）の複数形であり「cards / tickets」。「card game」はKartenspiel。en「card game」は和訳「カード，切符（複数）」とも不一致。",
+    "confidence": 0.9,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "de-01113",
+    "language": "de",
+    "headword": "überlebt",
+    "sourceAuditFiles": [
+      "german/issues-L3.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "medium",
+    "field": "glosses.en",
+    "currentValue": "outdated",
+    "suggestedValue": "survived",
+    "reason": "「überlebt」はüberleben（生き延びる）の過去分詞で第一義は「survived（生き延びた）」。和訳も「生き延びた，時代遅れの」と生存義を先頭に置く。「outdated（時代遅れの）」は形容詞überlebtの二次的・やや古風な用法で、en主要義としては誤導的。当レベルの他語（erklärt/entdeckt等の過去分詞）とも整合しない。",
+    "confidence": 0.85,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "de-01196",
+    "language": "de",
+    "headword": "Star",
+    "sourceAuditFiles": [
+      "german/issues-L3.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "medium",
+    "field": "glosses.en",
+    "currentValue": "starling",
+    "suggestedValue": "star (celebrity); starling (bird)",
+    "reason": "和訳は「スター，（鳥の）ムクドリ」と有名人義を先頭に置くが、enは「starling（ムクドリ）」のみ。現代独語で最頻の語義は「star（有名人）」。enが主要義を欠き、和訳と不一致。（医学の grauer Star=白内障 もあり）。",
+    "confidence": 0.85,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "de-00910",
+    "language": "de",
+    "headword": "Schloss",
+    "sourceAuditFiles": [
+      "german/issues-L3.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "low",
+    "field": "glosses.en",
+    "currentValue": "lock",
+    "suggestedValue": "castle; lock",
+    "reason": "「Schloss」は「城」と「錠」の二義。和訳は「城，錠」と両義（城が先頭）だが、enは「lock」のみで「castle」を欠く。en-ja不一致。",
+    "confidence": 0.9,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "de-00846",
+    "language": "de",
+    "headword": "reichen",
+    "sourceAuditFiles": [
+      "german/issues-L3.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "low",
+    "field": "glosses",
+    "currentValue": "en=to reach / ja=足りる",
+    "suggestedValue": "en=to suffice; to reach / ja=足りる，手渡す",
+    "reason": "enは「to reach」、和訳は「足りる（to suffice）」で別語義を指しており不一致。reichenは「足りる」「手渡す」「届く」の多義。少なくとも両言語で同一の主要義を揃えるのが望ましい。",
+    "confidence": 0.8,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "de-00818",
+    "language": "de",
+    "headword": "daher",
+    "sourceAuditFiles": [
+      "german/issues-L3.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "low",
+    "field": "glosses.en",
+    "currentValue": "from there",
+    "suggestedValue": "therefore, hence; from there",
+    "reason": "和訳は「それゆえ，そこから」と因果義（therefore）を先頭に置くが、enは「from there」のみで主要義「therefore/hence」を欠く。en-ja不一致。",
+    "confidence": 0.8,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "de-00973",
+    "language": "de",
+    "headword": "zeugen",
+    "sourceAuditFiles": [
+      "german/issues-L3.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "low",
+    "field": "glosses.en",
+    "currentValue": "to beget",
+    "suggestedValue": "to beget; to testify (zeugen von)",
+    "reason": "和訳は「子をもうける，証言する」と二義を示すが、enは「to beget」のみで「to testify」を欠く。en-ja不一致（軽微）。",
+    "confidence": 0.8,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "de-01355",
+    "language": "de",
+    "headword": "Ton",
+    "sourceAuditFiles": [
+      "german/issues-L4.json",
+      "audit-errors.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "high",
+    "field": "answer / glosses.en",
+    "currentValue": "clay",
+    "suggestedValue": "sound / tone (primary); clay (secondary)",
+    "reason": "『der Ton』の最頻義は「音・音色・トーン」であり、「粘土」は同綴の第二義です。英訳(answer/glosses.en)が『clay』のみを採用しているため、最も一般的な意味が欠落しています。和訳glosses.jaは『音，粘土』と音を先頭に置いており、英和で主要義の順序が食い違っています(英和不整合)。学習者を誤誘導する恐れがあります。",
+    "confidence": 0.92,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "de-01502",
+    "language": "de",
+    "headword": "mittel",
+    "sourceAuditFiles": [
+      "german/issues-L4.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "low",
+    "field": "glosses.en",
+    "currentValue": "middle",
+    "suggestedValue": "medium / average",
+    "reason": "形容詞『mittel』は「中程度の・並の」の意で、和訳『中くらいの』は適切ですが、英訳『middle』はやや不正確です(『middle』は名詞Mitteや形容詞mittlereに対応)。『medium／average』がより自然かと存じます。確信度は中程度、外部辞書未照合。",
+    "confidence": 0.6,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "de-01858",
+    "language": "de",
+    "headword": "klingen",
+    "sourceAuditFiles": [
+      "german/issues-L5.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "medium",
+    "field": "en",
+    "currentValue": "to ring",
+    "suggestedValue": "to sound",
+    "reason": "『klingen』は「(音が)響く・鳴る・〜のように聞こえる」の意で、英語では 'to sound' が主要義。'to ring'(ベルが鳴る)は独語では 'klingeln' に対応し不正確。和訳『響く』は klingen に適合しており、英訳のみ要修正。answer フィールドも同様。",
+    "confidence": 0.7,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00512",
+    "language": "ko",
+    "headword": "목",
+    "sourceAuditFiles": [
+      "korean/issues-p2.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "low",
+    "field": "example",
+    "currentValue": "나는 감기 때문에 목이 아프다. — 私は風邪のせいで首が痛い。",
+    "suggestedValue": "感기 문맥では『목이 아프다』は通常『喉が痛い』の意。訳を『風邪のせいで喉が痛い。』に。",
+    "reason": "見出し語 목 の主要義『首』自体は妥当だが、例文の『감기 때문에 목이 아프다』は慣用的に『喉が痛い』を指すため、和訳『首が痛い』は不自然。外部辞書未照合。",
+    "confidence": 0.6,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00707",
+    "language": "ko",
+    "headword": "늘다",
+    "sourceAuditFiles": [
+      "korean/issues-p2.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "medium",
+    "field": "example",
+    "currentValue": "요즘 외국인이 많이 늘어난다. — 最近外国人がたくさん増える。",
+    "suggestedValue": "見出し語 늘다 を用いた例文へ差し替え(例: 요즘 외국인이 많이 는다.) または見出し語を 늘어나다 に統一",
+    "reason": "見出し語は 늘다 だが、例文・exampleForm(늘어난다)は別語彙 늘어나다 の活用形。例文が見出し語を提示していない。",
+    "confidence": 0.9,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00708",
+    "language": "ko",
+    "headword": "줄다",
+    "sourceAuditFiles": [
+      "korean/issues-p2.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "example_sense_mismatch",
+    "severity": "medium",
+    "field": "example",
+    "currentValue": "이 도시의 인구가 점점 줄어든다. — この都市の人口がだんだん減る。",
+    "suggestedValue": "見出し語 줄다 を用いた例文へ差し替え(例: 이 도시의 인구가 점점 준다.) または見出し語を 줄어들다 に統一",
+    "reason": "見出し語は 줄다 だが、例文・exampleForm(줄어든다)は別語彙 줄어들다 の活用形。例文が見出し語を提示していない。",
+    "confidence": 0.9,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-01097",
+    "language": "ko",
+    "headword": "게으르다",
+    "sourceAuditFiles": [
+      "korean/issues-p3.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "low",
+    "field": "answer",
+    "currentValue": "怠けている",
+    "suggestedValue": "怠惰だ／無精だ",
+    "reason": "게으르다は恒常的な性質を表す形容詞で、辞書義は「怠惰だ・無精だ」。「怠けている」は進行の動作的訳で品詞ニュアンスがずれる。",
+    "confidence": 0.9,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "pt-00047",
+    "language": "pt",
+    "headword": "cão",
+    "sourceAuditFiles": [
+      "portuguese/issues-all.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "medium",
+    "field": "prompt/headword",
+    "currentValue": "cão = dog / 犬",
+    "suggestedValue": "cachorro (mais representativo do uso cotidiano no Brasil)",
+    "reason": "綴り・英訳・和訳はいずれも正しい。ただしブラジル基準では日常語の『dog（犬）』は圧倒的に『cachorro』が一般的で、『cão』は理解はされるものの、単独名詞としてはやや形式的・欧州ポルトガル語寄りの響きになる（cão-guia, cão de guarda 等の複合語では自然）。学習者に提示する見出し語としては『cachorro』の方がブラジルの実用に即す。誤りではないため入れ替えは要人手判断。",
+    "confidence": "not_verified",
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "pt-00034",
+    "language": "pt",
+    "headword": "mau",
+    "sourceAuditFiles": [
+      "portuguese/issues-all.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "low",
+    "field": "answer/glosses.ja",
+    "currentValue": "mau = bad / 悪い",
+    "suggestedValue": "文脈次第で『ruim』が日常の『bad（品質が悪い）』に相当（mau は道徳的・人柄の『悪い』が中心）",
+    "reason": "『mau』は正しく『bad/悪い』だが、ブラジルの日常会話で品質が悪い意味の『bad』は『ruim』が一般的。『mau』は人柄・道徳（mau homem 等）や副詞『mal』との対で使われることが多い。bom↔mau のペアとして提示する分には妥当だが、意味ラベルとしてニュアンス差の注記があると学習上より正確。",
+    "confidence": "not_verified",
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "pt-00097",
+    "language": "pt",
+    "headword": "quente",
+    "sourceAuditFiles": [
+      "portuguese/issues-all.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "low",
+    "field": "glosses.ja",
+    "currentValue": "quente = hot / 熱い",
+    "suggestedValue": "熱い・暑い（気温にも用いるため『暑い』の語義も併記が望ましい）",
+    "reason": "『quente』は触れて熱い（熱い）と気候が暑い（暑い）の両義をカバーするが、和訳は『熱い』のみで気温の『暑い』が欠落。frio（cold/寒い）との対で気候文脈も想定されるため、語義カバレッジがやや不足。誤りではないため軽微。",
+    "confidence": "not_verified",
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ru-00098",
+    "language": "ru",
+    "headword": "жить",
+    "sourceAuditFiles": [
+      "russian/issues-all.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "low",
+    "field": "glosses.ja",
+    "currentValue": "住む",
+    "suggestedValue": "生きる／住む",
+    "reason": "жить の第一義は『生きる・存在する』（例: жить долго）。『住む・居住する』は派生的な一義にすぎず、英訳 to live も本来は『生存する』が中心義。和訳を『住む』のみとすると主要義が抜け、en/ja 間の指す範囲がずれる。",
+    "confidence": 0.6,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "es-00125",
+    "language": "es",
+    "headword": "encontrar",
+    "sourceAuditFiles": [
+      "spanish/issues-L1.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "low",
+    "field": "glosses.en / answer",
+    "currentValue": "to meet",
+    "suggestedValue": "to find (to meet)",
+    "reason": "encontrar の第一義は「見つける（to find）」で、和訳 glosses.ja も「見つける」となっている。英訳 answer/glosses.en が「to meet」だと第二義（出会う, encontrarse con）に寄っており、英訳と和訳の主要義がずれている。誤りとまでは言えないが整合性の観点で要確認。",
+    "confidence": 0.7,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "es-00432",
+    "language": "es",
+    "headword": "dulce",
+    "sourceAuditFiles": [
+      "spanish/issues-L2.json",
+      "audit-errors.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "high",
+    "field": "glosses.en / answer vs glosses.ja",
+    "currentValue": "answer/en: \"candy\" ; ja: \"甘い\"",
+    "suggestedValue": "en: \"sweet (adj.); candy (n.)\" ; ja: \"甘い；お菓子\"",
+    "reason": "英訳(answer/glosses.en)は名詞 candy(お菓子)だが和訳(glosses.ja)は形容詞 甘い(sweet)で、別品詞・別義を指し英和が不整合。dulce の第一義は形容詞 甘い/sweet、名詞では お菓子/candy。どちらかに揃えるべき。",
+    "confidence": 0.95,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "es-00443",
+    "language": "es",
+    "headword": "principio",
+    "sourceAuditFiles": [
+      "spanish/issues-L2.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "low",
+    "field": "answer / glosses.en",
+    "currentValue": "\"principle\"",
+    "suggestedValue": "\"beginning; principle\"",
+    "reason": "principio の高頻度義は『初め/beginning』(al principio 等)。glosses.ja は『初め，原則』と両義を含むが、英訳 answer は principle のみで主要義 beginning が欠落し、英和で強調点がずれる。",
+    "confidence": 0.6,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "es-00975",
+    "language": "es",
+    "headword": "deber",
+    "sourceAuditFiles": [
+      "spanish/issues-L3.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "medium",
+    "field": "answer",
+    "currentValue": "to owe",
+    "suggestedValue": "must, should; to owe",
+    "reason": "「deber」の最頻用法は助動詞的な「〜すべきである／〜に違いない」であり、英訳 answer が二次的意味「to owe」のみを示している。日本語 gloss は「〜すべきである，借りている」と両義を含むため、英日間で主要義がずれている。学習者が主要用法を取り違える恐れがある。",
+    "confidence": 0.72,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "es-01160",
+    "language": "es",
+    "headword": "controlar",
+    "sourceAuditFiles": [
+      "spanish/issues-L3.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "low",
+    "field": "glosses.ja",
+    "currentValue": "抑制する",
+    "suggestedValue": "管理する，制御する，抑制する",
+    "reason": "「controlar」は「管理する・制御する・監視する」を広く指すが、日本語 gloss「抑制する」は suppress/restrain の狭義に偏る。英訳 answer は「to control」であり、英日の語幅が一致していない。",
+    "confidence": 0.6,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "es-01405",
+    "language": "es",
+    "headword": "cristo",
+    "sourceAuditFiles": [
+      "spanish/issues-L4.json",
+      "audit-errors.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "high",
+    "field": "answer / glosses.en",
+    "currentValue": "jesus",
+    "suggestedValue": "Christ",
+    "reason": "「Cristo」は『キリスト（＝救世主・称号）』であり、個人名の Jesus とは概念が異なります。日本語 glosses は「キリスト」と正しく Christ を指しているため、英語のみ不整合。英語を Christ に統一すべきかと存じます。",
+    "confidence": 0.9,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "es-01458",
+    "language": "es",
+    "headword": "caro",
+    "sourceAuditFiles": [
+      "spanish/issues-L4.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "medium",
+    "field": "answer / glosses.en",
+    "currentValue": "dear",
+    "suggestedValue": "expensive",
+    "reason": "日本語 glosses は「高価な」＝expensive。英語 dear は英国的・二次的語義で、主要義 expensive とずれます。英日を expensive に揃えるのが自然かと存じます。",
+    "confidence": 0.9,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "es-01502",
+    "language": "es",
+    "headword": "anuncio",
+    "sourceAuditFiles": [
+      "spanish/issues-L4.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "medium",
+    "field": "answer / glosses.en / glosses.ja",
+    "currentValue": "announcement / 広告",
+    "suggestedValue": "advertisement（広告）または announcement（お知らせ）で英日を統一",
+    "reason": "英語は announcement（お知らせ）、日本語は「広告」（advertisement）で語義がずれています。anuncio は両義を持ちますが、英日で別々の義を採っているため不整合。どちらかに統一が必要かと存じます。",
+    "confidence": 0.85,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "es-01409",
+    "language": "es",
+    "headword": "socorro",
+    "sourceAuditFiles": [
+      "spanish/issues-L4.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "low",
+    "field": "answer / glosses.en",
+    "currentValue": "relief",
+    "suggestedValue": "help / aid（救助・助け）",
+    "reason": "socorro は『助け・救援・救助（叫びとしての Help!）』が主要義。relief は『安堵・軽減』の含みが強く、日本語「救助」とのニュアンス差があります。help/aid が無難かと存じます。",
+    "confidence": 0.75,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "es-01502b",
+    "language": "es",
+    "headword": "agencia",
+    "sourceAuditFiles": [
+      "spanish/issues-L4.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "low",
+    "field": "glosses.ja",
+    "currentValue": "仲介",
+    "suggestedValue": "代理店，機関",
+    "reason": "agencia は『代理店・（政府）機関』が主要義。英語 agency とも整合。「仲介」は行為（mediación）寄りで、名詞 agencia の訳としてはやや不自然かと存じます。",
+    "confidence": 0.7,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "es-01592",
+    "language": "es",
+    "headword": "cierre",
+    "sourceAuditFiles": [
+      "spanish/issues-L4.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "low",
+    "field": "answer / glosses.en",
+    "currentValue": "shutting",
+    "suggestedValue": "closure / fastener / zipper",
+    "reason": "英語 shutting は動名詞的で名詞 cierre の訳として不自然。closure（閉鎖）や fastener/zipper（ファスナー）が適切。日本語「閉鎖，ファスナー」とも整合します。",
+    "confidence": 0.75,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "es-01364",
+    "language": "es",
+    "headword": "muñeca",
+    "sourceAuditFiles": [
+      "spanish/issues-L4.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "missing_gloss",
+    "severity": "low",
+    "field": "answer / glosses",
+    "currentValue": "wrist / 手首",
+    "suggestedValue": "wrist; doll（手首；人形）",
+    "reason": "muñeca は『手首』と『人形（doll）』の同頻度の二大義。現状 wrist のみで誤りではありませんが、四択学習では doll 側の欠落が気になります。人間校閲での方針確認を推奨いたします。",
+    "confidence": 0.7,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "es-01398",
+    "language": "es",
+    "headword": "coma",
+    "sourceAuditFiles": [
+      "spanish/issues-L4.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "low",
+    "field": "glosses.ja",
+    "currentValue": "コンマ，昏睡",
+    "suggestedValue": "英語 comma のみに合わせるか、英語へ coma も追記して整合",
+    "reason": "英語は comma のみ、日本語は「コンマ，昏睡」で ja 側に coma（昏睡）が追加され不整合。coma は語形上 comma(f) と coma(m 昏睡) の同綴異義のため、英日の義を揃えるのが望ましいかと存じます。",
+    "confidence": 0.7,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "es-01507",
+    "language": "es",
+    "headword": "mina",
+    "sourceAuditFiles": [
+      "spanish/issues-L4.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "low",
+    "field": "glosses.ja",
+    "currentValue": "地雷",
+    "suggestedValue": "鉱山，地雷",
+    "reason": "mina の第一義は『鉱山（採掘場）』で、次いで『地雷』。英語 mine は両義を含みますが、日本語が「地雷」のみだと主要義の鉱山が欠落。文脈により判断が必要かと存じます。",
+    "confidence": 0.65,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "es-01531",
+    "language": "es",
+    "headword": "conferencia",
+    "sourceAuditFiles": [
+      "spanish/issues-L4.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "low",
+    "field": "answer / glosses",
+    "currentValue": "conference / 講演",
+    "suggestedValue": "英日を lecture／講演 か conference／会議 に統一",
+    "reason": "英語は conference（会議）、日本語は「講演」（lecture）で語義がずれています。conferencia は両義を持ちますが、英日で別義を採っており不整合。",
+    "confidence": 0.65,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "es-01238",
+    "language": "es",
+    "headword": "fumar",
+    "sourceAuditFiles": [
+      "spanish/issues-L4.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "low",
+    "field": "glosses.ja",
+    "currentValue": "吸う",
+    "suggestedValue": "（タバコを）吸う，喫煙する",
+    "reason": "「吸う」単独では呼吸・吸引と紛れます。fumar は『喫煙する』の意なので「タバコを吸う／喫煙する」がより明確かと存じます。",
+    "confidence": 0.6,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "es-01315",
+    "language": "es",
+    "headword": "vigilancia",
+    "sourceAuditFiles": [
+      "spanish/issues-L4.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "low",
+    "field": "glosses.ja",
+    "currentValue": "警戒",
+    "suggestedValue": "監視，警戒",
+    "reason": "vigilancia は『監視・見張り（surveillance）』が主要義。「警戒」も可ですが、監視のニュアンスを補うとより正確かと存じます。",
+    "confidence": 0.6,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "es-01909",
+    "language": "es",
+    "headword": "explotar",
+    "sourceAuditFiles": [
+      "spanish/issues-L5.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "medium",
+    "field": "glosses.en",
+    "currentValue": "to exploit",
+    "suggestedValue": "to exploit; to explode",
+    "reason": "『explotar』は「搾取する」と「爆発する」の二義を持つ多義語。日本語glossは『搾取する，爆発する』と両義を記すが、英語glossおよびanswerは『to exploit』のみで「爆発する(to explode)」が欠落。英和が不整合。",
+    "confidence": 0.9,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "es-01908",
+    "language": "es",
+    "headword": "revés",
+    "sourceAuditFiles": [
+      "spanish/issues-L5.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "medium",
+    "field": "glosses.en",
+    "currentValue": "back",
+    "suggestedValue": "reverse, other side, setback",
+    "reason": "『revés』は「裏，逆，(手の)甲側，(運命の)逆転・挫折」を意味する。英語『back』は単独では『espalda(背中)』と紛らわしく主要義を的確に伝えない。日本語『逆』は妥当。英訳の精度に難あり。",
+    "confidence": 0.72,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "es-01793",
+    "language": "es",
+    "headword": "preocupación",
+    "sourceAuditFiles": [
+      "spanish/issues-L5.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_false_friend",
+    "severity": "medium",
+    "field": "glosses.en",
+    "currentValue": "preoccupation",
+    "suggestedValue": "worry, concern",
+    "reason": "『preocupación』は「心配・懸念」。英語『preoccupation』は主に「(心を奪われた)没頭」を指す空似言葉(false friend)で語義がずれる。日本語『心配，懸念』は正確。英訳を worry/concern に是正すべき。",
+    "confidence": 0.78,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "es-01803",
+    "language": "es",
+    "headword": "verdaderamente",
+    "sourceAuditFiles": [
+      "spanish/issues-L5.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "low",
+    "field": "glosses.en",
+    "currentValue": "truthfully",
+    "suggestedValue": "truly, really",
+    "reason": "『verdaderamente』は「本当に，真に(truly/really)」。英語『truthfully(正直に=con sinceridad)』は語義がややずれる。日本語『本当に，真に』は正確。英訳を truly/really に寄せるのが望ましい。",
+    "confidence": 0.68,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "es-01851",
+    "language": "es",
+    "headword": "tarta",
+    "sourceAuditFiles": [
+      "spanish/issues-L5.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "low",
+    "field": "glosses.en",
+    "currentValue": "pie",
+    "suggestedValue": "cake, tart",
+    "reason": "スペイン(スペイン語圏)では『tarta』は主に「ケーキ・タルト」(例: tarta de cumpleaños=誕生日ケーキ)。英語『pie』と日本語『ケーキ』が不整合。英訳は cake/tart が適切。",
+    "confidence": 0.62,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "es-01752",
+    "language": "es",
+    "headword": "prima",
+    "sourceAuditFiles": [
+      "spanish/issues-L5.json",
+      "audit-warnings.json",
+      "audit-human-review.json"
+    ],
+    "issueCategory": "translation_issue",
+    "severity": "low",
+    "field": "glosses.ja",
+    "currentValue": "いとこ",
+    "suggestedValue": "いとこ（女性）；割増金，保険料",
+    "reason": "英語glossは『(female) cousin; premium』と二義を示すが、日本語glossは『いとこ』のみで「割増金・保険料(premium)」の義が欠落。英和が不整合(日本語が不足)。",
+    "confidence": 0.6,
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  }
+]
