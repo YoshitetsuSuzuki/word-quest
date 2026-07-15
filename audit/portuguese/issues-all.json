@@ -1,0 +1,44 @@
+[
+  {
+    "id": "pt-00047",
+    "language": "pt",
+    "headword": "cão",
+    "field": "prompt/headword",
+    "currentValue": "cão = dog / 犬",
+    "suggestedValue": "cachorro (mais representativo do uso cotidiano no Brasil)",
+    "issueType": "regional_variant_brazil",
+    "severity": "medium",
+    "confidence": "not_verified",
+    "reason": "綴り・英訳・和訳はいずれも正しい。ただしブラジル基準では日常語の『dog（犬）』は圧倒的に『cachorro』が一般的で、『cão』は理解はされるものの、単独名詞としてはやや形式的・欧州ポルトガル語寄りの響きになる（cão-guia, cão de guarda 等の複合語では自然）。学習者に提示する見出し語としては『cachorro』の方がブラジルの実用に即す。誤りではないため入れ替えは要人手判断。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "pt-00034",
+    "language": "pt",
+    "headword": "mau",
+    "field": "answer/glosses.ja",
+    "currentValue": "mau = bad / 悪い",
+    "suggestedValue": "文脈次第で『ruim』が日常の『bad（品質が悪い）』に相当（mau は道徳的・人柄の『悪い』が中心）",
+    "issueType": "usage_nuance_brazil",
+    "severity": "low",
+    "confidence": "not_verified",
+    "reason": "『mau』は正しく『bad/悪い』だが、ブラジルの日常会話で品質が悪い意味の『bad』は『ruim』が一般的。『mau』は人柄・道徳（mau homem 等）や副詞『mal』との対で使われることが多い。bom↔mau のペアとして提示する分には妥当だが、意味ラベルとしてニュアンス差の注記があると学習上より正確。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "pt-00097",
+    "language": "pt",
+    "headword": "quente",
+    "field": "glosses.ja",
+    "currentValue": "quente = hot / 熱い",
+    "suggestedValue": "熱い・暑い（気温にも用いるため『暑い』の語義も併記が望ましい）",
+    "issueType": "gloss_sense_coverage",
+    "severity": "low",
+    "confidence": "not_verified",
+    "reason": "『quente』は触れて熱い（熱い）と気候が暑い（暑い）の両義をカバーするが、和訳は『熱い』のみで気温の『暑い』が欠落。frio（cold/寒い）との対で気候文脈も想定されるため、語義カバレッジがやや不足。誤りではないため軽微。",
+    "evidence": [],
+    "requiresHumanReview": true
+  }
+]

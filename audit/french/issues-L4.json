@@ -1,0 +1,58 @@
+[
+  {
+    "id": "fr-01228",
+    "language": "fr",
+    "headword": "rentrée",
+    "field": "glosses.en",
+    "currentValue": "return",
+    "suggestedValue": "return (esp. back-to-school / start of new term)",
+    "issueType": "en_ja_consistency",
+    "severity": "low",
+    "confidence": 0.6,
+    "reason": "英訳 answer/glosses.en は総称的な 'return' だが、和訳 glosses.ja は '新学期' と学校の年度開始という別義に限定しており、英仏和で指し示す語義がずれている。『la rentrée』は『(休暇後の)復帰』と『新学期・新年度の始まり』の双方を持つ多義語。どちらか一方に寄せず両義を明示するのが望ましい。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "fr-01301",
+    "language": "fr",
+    "headword": "billet",
+    "field": "glosses.en",
+    "currentValue": "note",
+    "suggestedValue": "ticket; (bank)note",
+    "issueType": "en_ja_consistency",
+    "severity": "low",
+    "confidence": 0.55,
+    "reason": "英訳 'note'(=紙幣/短信)と和訳 '券'(=切符/チケット)が別の語義を指しており不整合。『billet』は『切符・チケット』『紙幣(billet de banque)』『短い手紙(billet doux)』の多義。英和で同一語義に揃えるか、代表義を明示すべき。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "fr-01225",
+    "language": "fr",
+    "headword": "pousse",
+    "field": "glosses.en",
+    "currentValue": "growth",
+    "suggestedValue": "shoot; sprout",
+    "issueType": "translation_accuracy",
+    "severity": "low",
+    "confidence": 0.55,
+    "reason": "和訳 '芽' は名詞『新芽・若芽』を的確に表すが、英訳 'growth'(=成長・生育)は過程を指す抽象語で、和訳の指す具象名詞とずれる。『la pousse』の具象義は 'shoot/sprout'(例: pousse de soja=もやし)。'growth' も生育過程の意では誤りではないため低重要度。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "fr-01371",
+    "language": "fr",
+    "headword": "pis",
+    "field": "glosses.en",
+    "currentValue": "udder",
+    "suggestedValue": "udder (name sense); note: more frequent sense is 'worse'",
+    "issueType": "sense_ambiguity",
+    "severity": "low",
+    "confidence": 0.5,
+    "reason": "『le pis』=(牛などの)乳房 は正しい名詞義で、英 'udder'・和 '乳房' は整合。ただし『pis』の高頻度義は副詞『より悪く』(tant pis, de mal en pis)であり、学習者が混同しやすい。データ自体は誤りではないが人手確認を推奨。外部辞書未照合のため断定は避ける。",
+    "evidence": [],
+    "requiresHumanReview": true
+  }
+]

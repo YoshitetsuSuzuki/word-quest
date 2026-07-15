@@ -2,36 +2,61 @@
   "generatedAt": "2026-07-15",
   "method": "expert linguistic review (native-speaker knowledge). externalSourcesChecked=[] — 外部辞書へ全件照合していない。確信不足は not_verified。",
   "auditedLanguages": [
-    "spanish"
-  ],
-  "pendingLanguages": [
-    "english",
-    "chinese",
-    "korean",
+    "spanish",
     "german",
     "french",
     "portuguese",
     "polish",
     "russian"
   ],
+  "pendingLanguages": [
+    "english",
+    "chinese",
+    "korean"
+  ],
   "totalEntriesAllTargets": 20131,
-  "checkedEntries": 1948,
+  "checkedEntries": 6265,
   "perLanguage": {
     "spanish": {
       "total": 1948,
       "checked": 1948,
       "batches": 5
+    },
+    "german": {
+      "total": 1919,
+      "checked": 1919,
+      "batches": 5
+    },
+    "french": {
+      "total": 1948,
+      "checked": 1948,
+      "batches": 5
+    },
+    "portuguese": {
+      "total": 150,
+      "checked": 150,
+      "batches": 1
+    },
+    "polish": {
+      "total": 150,
+      "checked": 150,
+      "batches": 1
+    },
+    "russian": {
+      "total": 150,
+      "checked": 150,
+      "batches": 1
     }
   },
   "severity": {
     "critical": 0,
-    "high": 2,
-    "medium": 7,
-    "low": 27,
-    "uncertain": 1
+    "high": 11,
+    "medium": 23,
+    "low": 96,
+    "uncertain": 10
   },
-  "issuesTotal": 37,
-  "humanReviewTotal": 37,
-  "proposedFixesTotal": 0,
+  "issuesTotal": 140,
+  "humanReviewTotal": 137,
+  "proposedFixesTotal": 3,
   "dataMutated": false
 }

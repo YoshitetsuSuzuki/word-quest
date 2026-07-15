@@ -1,0 +1,14 @@
+{
+  "batchId": "pt_all",
+  "language": "pt",
+  "file": "level-1..3.json",
+  "totalEntries": 150,
+  "checkedEntries": 150,
+  "errors": 0,
+  "warnings": 3,
+  "needsHumanReview": 3,
+  "notVerified": 3,
+  "passed": 147,
+  "externalSourcesChecked": [],
+  "status": "completed"
+}

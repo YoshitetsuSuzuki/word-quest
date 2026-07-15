@@ -1,0 +1,13 @@
+{
+  "batchId": "de_L2",
+  "language": "de",
+  "file": "level-2.json",
+  "totalEntries": 390,
+  "checkedEntries": 390,
+  "errors": 3,
+  "warnings": 3,
+  "needsHumanReview": 3,
+  "notVerified": 0,
+  "passed": 384,
+  "status": "completed"
+}

@@ -1,0 +1,15 @@
+{
+  "batchId": "pl_all",
+  "language": "pl",
+  "file": "level-1..3.json",
+  "totalEntries": 150,
+  "checkedEntries": 150,
+  "errors": 0,
+  "warnings": 6,
+  "needsHumanReview": 6,
+  "notVerified": 0,
+  "passed": 144,
+  "status": "completed",
+  "externalSourcesChecked": [],
+  "note": "ネイティブ知識ベースの非破壊監査。外部辞書未照合（externalSourcesChecked=[]）。綴り・英訳主要義・和訳（品詞一致）・英和整合は150語すべて妥当。警告6件はいずれも発音表記に非ローマ字「ń」が残存する系統的な低重要度の整合性問題で、意味・訳語には影響しない。"
+}

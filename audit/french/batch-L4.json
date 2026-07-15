@@ -1,0 +1,15 @@
+{
+  "batchId": "fr_L4",
+  "language": "fr",
+  "file": "level-4.json",
+  "totalEntries": 386,
+  "checkedEntries": 386,
+  "errors": 0,
+  "warnings": 4,
+  "needsHumanReview": 4,
+  "notVerified": 4,
+  "passed": 382,
+  "status": "completed",
+  "externalSourcesChecked": [],
+  "note": "外部辞書との照合は未実施(ネイティブ校閲者の内的知識のみ)。綴り・アクセント・アポストロフィに誤りは検出されず。活用形混入・性数不整合・avoir/être取り違えも検出されず。指摘は全て英和の語義整合に関する低重要度の警告。"
+}

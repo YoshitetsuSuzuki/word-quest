@@ -1,0 +1,13 @@
+{
+  "batchId": "fr_L3",
+  "language": "fr",
+  "file": "level-3.json",
+  "totalEntries": 388,
+  "checkedEntries": 388,
+  "errors": 1,
+  "warnings": 4,
+  "needsHumanReview": 5,
+  "notVerified": 5,
+  "passed": 383,
+  "status": "completed"
+}

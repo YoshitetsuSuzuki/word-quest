@@ -1,0 +1,72 @@
+[
+  {
+    "id": "fr-01022",
+    "language": "fr",
+    "headword": "émission",
+    "field": "answer & glosses.en",
+    "currentValue": "emission",
+    "suggestedValue": "broadcast; (TV/radio) program",
+    "issueType": "mistranslation_false_friend",
+    "severity": "high",
+    "confidence": 0.9,
+    "reason": "ネイティブ校閲: « émission » の最頻義は「テレビ/ラジオの放送・番組」であり、和訳 glosses.ja の「放送」と一致する。英語 'emission'（気体・光の放出）は false friend で「放送」と整合しない。answer と glosses.en の両方が要修正。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "fr-01014",
+    "language": "fr",
+    "headword": "tombée",
+    "field": "answer & glosses.en",
+    "currentValue": "fall",
+    "suggestedValue": "nightfall (as in « tombée de la nuit »)",
+    "issueType": "imprecise_gloss",
+    "severity": "medium",
+    "confidence": 0.7,
+    "reason": "« tombée » はほぼ « tombée de la nuit / du jour »（日暮れ・夕暮れ）の形でのみ使われ、和訳の「暮れ」と一致する。英語 'fall' は単独では「秋・落下」を想起させ誤解を招く。'nightfall/dusk' が適切。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "fr-00801",
+    "language": "fr",
+    "headword": "course",
+    "field": "answer & glosses.en",
+    "currentValue": "run",
+    "suggestedValue": "race (also: errand/shopping — les courses)",
+    "issueType": "imprecise_gloss",
+    "severity": "low",
+    "confidence": 0.6,
+    "reason": "和訳 glosses.ja は「競走」。« course » の主要義は race（競走）および errand/買い物（faire les courses）。英語 'run' は弱く、和訳の「競走」とニュアンスがずれる。'race' が中心義。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "fr-00961",
+    "language": "fr",
+    "headword": "unité",
+    "field": "answer & glosses.en",
+    "currentValue": "unity",
+    "suggestedValue": "unit; unity",
+    "issueType": "incomplete_sense",
+    "severity": "low",
+    "confidence": 0.55,
+    "reason": "和訳 glosses.ja は「単位，統一」で「単位(unit)」が先頭。英語は 'unity' のみで unit の義が欠落。« unité » は unité de mesure 等「単位」の意味が非常に一般的で、英和の主要義が不整合。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "fr-01030",
+    "language": "fr",
+    "headword": "sentiment",
+    "field": "answer & glosses.en",
+    "currentValue": "sentiment",
+    "suggestedValue": "feeling",
+    "issueType": "imprecise_gloss",
+    "severity": "low",
+    "confidence": 0.5,
+    "reason": "« sentiment » = feeling（感情）。和訳「感情」に対し英語 'sentiment' も許容だが、'feeling' の方が中心義で自然。誤りではないが精度向上の余地あり。",
+    "evidence": [],
+    "requiresHumanReview": true
+  }
+]

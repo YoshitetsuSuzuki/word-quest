@@ -4,5 +4,35 @@
     "flagged": 0,
     "passed": 1948,
     "note": "passed=母集合ID − 問題ID。全IDが検査対象として捕捉されていることを ids.json で担保"
+  },
+  "german": {
+    "total": 1919,
+    "flagged": 0,
+    "passed": 1919,
+    "note": "passed=母集合ID − 問題ID。全IDが検査対象として捕捉されていることを ids.json で担保"
+  },
+  "french": {
+    "total": 1948,
+    "flagged": 31,
+    "passed": 1917,
+    "note": "passed=母集合ID − 問題ID。全IDが検査対象として捕捉されていることを ids.json で担保"
+  },
+  "portuguese": {
+    "total": 150,
+    "flagged": 0,
+    "passed": 150,
+    "note": "passed=母集合ID − 問題ID。全IDが検査対象として捕捉されていることを ids.json で担保"
+  },
+  "polish": {
+    "total": 150,
+    "flagged": 0,
+    "passed": 150,
+    "note": "passed=母集合ID − 問題ID。全IDが検査対象として捕捉されていることを ids.json で担保"
+  },
+  "russian": {
+    "total": 150,
+    "flagged": 6,
+    "passed": 144,
+    "note": "passed=母集合ID − 問題ID。全IDが検査対象として捕捉されていることを ids.json で担保"
   }
 }
