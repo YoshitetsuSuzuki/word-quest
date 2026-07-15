@@ -1,0 +1,14 @@
+{
+  "batchId": "en_L2a",
+  "language": "en",
+  "file": "level-2.json[0:434)",
+  "totalEntries": 434,
+  "checkedEntries": 434,
+  "errors": 56,
+  "warnings": 16,
+  "needsHumanReview": 31,
+  "notVerified": 2,
+  "passed": 362,
+  "status": "completed",
+  "externalSourcesChecked": []
+}

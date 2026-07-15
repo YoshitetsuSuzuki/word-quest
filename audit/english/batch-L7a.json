@@ -1,0 +1,14 @@
+{
+  "batchId": "en_L7a",
+  "language": "en",
+  "file": "level-7.json[0:500)",
+  "totalEntries": 500,
+  "checkedEntries": 500,
+  "errors": 1,
+  "warnings": 40,
+  "needsHumanReview": 41,
+  "notVerified": 5,
+  "passed": 459,
+  "status": "completed",
+  "externalSourcesChecked": []
+}

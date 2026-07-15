@@ -1,0 +1,1414 @@
+[
+  {
+    "id": "en-22006",
+    "language": "en",
+    "headword": "horribly",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "horribly は副詞。和訳「恐ろしく」も副詞だが tag は「動詞」で品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22009",
+    "language": "en",
+    "headword": "liberated",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.94,
+    "reason": "liberated は形容詞。和訳「解放された」も形容詞だが tag は「名詞」で品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22010",
+    "language": "en",
+    "headword": "fluffy",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.94,
+    "reason": "fluffy は形容詞。和訳「ふわふわした」も形容詞だが tag は「名詞」で品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22012",
+    "language": "en",
+    "headword": "anal",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.94,
+    "reason": "anal は形容詞。和訳「肛門の」も形容詞だが tag は「名詞」で品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22018",
+    "language": "en",
+    "headword": "brutally",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "brutally は副詞。和訳「残酷に」も副詞だが tag は「名詞」で品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22021",
+    "language": "en",
+    "headword": "senseless",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.94,
+    "reason": "senseless は形容詞。和訳「意識を失った」も形容詞だが tag は「名詞」で品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22026",
+    "language": "en",
+    "headword": "professionally",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "professionally は副詞。和訳「職業的に」も副詞だが tag は「名詞」で品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22027",
+    "language": "en",
+    "headword": "faded",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.94,
+    "reason": "faded は形容詞。和訳「色あせた」も形容詞だが tag は「名詞」で品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22044",
+    "language": "en",
+    "headword": "victorious",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.94,
+    "reason": "victorious は形容詞。和訳「勝利を得た」も形容詞だが tag は「名詞」で品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22051",
+    "language": "en",
+    "headword": "backward",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.85,
+    "reason": "backward は形容詞/副詞。名詞用法は乏しく和訳「後方への」は形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22058",
+    "language": "en",
+    "headword": "smug",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.94,
+    "reason": "smug は形容詞。和訳「自己満足した」も形容詞だが tag は「名詞」で品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22060",
+    "language": "en",
+    "headword": "descended",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "descended は descend の過去(分詞)形。和訳「由来した」は動詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22071",
+    "language": "en",
+    "headword": "wedded",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.94,
+    "reason": "wedded は形容詞。和訳「結婚した」も形容詞だが tag は「名詞」で品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22077",
+    "language": "en",
+    "headword": "handicapped",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.94,
+    "reason": "handicapped は形容詞。和訳「身体に障害のある」も形容詞だが tag は「動詞」で品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22079",
+    "language": "en",
+    "headword": "voluntarily",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "voluntarily は副詞。和訳「自発的に」も副詞だが tag は「名詞」で品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22082",
+    "language": "en",
+    "headword": "thine",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "代名詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.85,
+    "reason": "thine は古語の所有代名詞/限定詞。名詞ではない。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22093",
+    "language": "en",
+    "headword": "shaky",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.94,
+    "reason": "shaky は形容詞。和訳「揺れる」も形容詞だが tag は「動詞」で品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22093",
+    "language": "en",
+    "headword": "shaky",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.88,
+    "reason": "shaky は形容詞(不安定な/ぐらつく)。tag 動詞は不適。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22094",
+    "language": "en",
+    "headword": "barren",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.94,
+    "reason": "barren は形容詞。和訳「不毛の」も形容詞だが tag は「名詞」で品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22115",
+    "language": "en",
+    "headword": "reversed",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.94,
+    "reason": "reversed は形容詞。和訳「逆にした」も形容詞だが tag は「名詞」で品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22116",
+    "language": "en",
+    "headword": "beforehand",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "beforehand は副詞。和訳「前もって」も副詞だが tag は「名詞」で品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22122",
+    "language": "en",
+    "headword": "patriotic",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.94,
+    "reason": "patriotic は形容詞。和訳「愛国の」も形容詞だが tag は「名詞」で品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22131",
+    "language": "en",
+    "headword": "oddly",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "oddly は副詞。和訳「奇妙に」も副詞だが tag は「名詞」で品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22134",
+    "language": "en",
+    "headword": "drought",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "名詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "drought(干ばつ)は名詞。動詞用法はない。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22142",
+    "language": "en",
+    "headword": "wen",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "名詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "wen(こぶ)は名詞。動詞用法はない。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22148",
+    "language": "en",
+    "headword": "covert",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.94,
+    "reason": "covert は形容詞。和訳「秘密の」も形容詞だが tag は「名詞」で品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22149",
+    "language": "en",
+    "headword": "insignificant",
+    "field": "pronunciation",
+    "currentValue": "/ˌɪnsɪɡˈnjɪfɪkənt/",
+    "suggestedValue": "/ˌɪnsɪɡˈnɪfɪkənt/",
+    "issueType": "ipa_error",
+    "severity": "medium",
+    "confidence": 0.7,
+    "reason": "IPA に不要な /j/ が混入(…ɡˈnjɪ…)。insignificant に /j/ 音は無く転写誤りの可能性。外部辞書未照合のため要確認。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22156",
+    "language": "en",
+    "headword": "ladyship",
+    "field": "pronunciation",
+    "currentValue": null,
+    "suggestedValue": null,
+    "issueType": "missing_field",
+    "severity": "low",
+    "confidence": 0.99,
+    "reason": "pronunciation が null。IPA 未設定。外部辞書未照合のため補完値は未確定。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22157",
+    "language": "en",
+    "headword": "allegedly",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "allegedly は副詞。和訳「申し立てによれば」も副詞だが tag は「名詞」で品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22162",
+    "language": "en",
+    "headword": "overdue",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.94,
+    "reason": "overdue は形容詞。和訳「期限を過ぎた」も形容詞だが tag は「名詞」で品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22181",
+    "language": "en",
+    "headword": "winding",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.94,
+    "reason": "winding は形容詞。和訳「曲がりくねった」も形容詞だが tag は「名詞」で品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22186",
+    "language": "en",
+    "headword": "trustworthy",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.94,
+    "reason": "trustworthy は形容詞。和訳「信頼できる」も形容詞だが tag は「動詞」で品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22189",
+    "language": "en",
+    "headword": "unexpectedly",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "unexpectedly は副詞。和訳「思いがけなく」も副詞だが tag は「動詞」で品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22199",
+    "language": "en",
+    "headword": "tripping",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.94,
+    "reason": "tripping は形容詞。和訳「軽快な足どりの」も形容詞だが tag は「名詞」で品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22200",
+    "language": "en",
+    "headword": "mellow",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.94,
+    "reason": "mellow は形容詞。和訳「円熟した」も形容詞だが tag は「名詞」で品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22209",
+    "language": "en",
+    "headword": "soaking",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.94,
+    "reason": "soaking は形容詞。和訳「ずぶぬれの」も形容詞だが tag は「名詞」で品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22218",
+    "language": "en",
+    "headword": "whacked",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.94,
+    "reason": "whacked は形容詞。和訳「疲れ果てた」も形容詞だが tag は「名詞」で品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22231",
+    "language": "en",
+    "headword": "elevated",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.94,
+    "reason": "elevated は形容詞。和訳「高く上げられた」も形容詞だが tag は「名詞」で品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22235",
+    "language": "en",
+    "headword": "seemingly",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "seemingly は副詞。和訳「一見したところ」も副詞だが tag は「名詞」で品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22242",
+    "language": "en",
+    "headword": "preferably",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "preferably は副詞。和訳「できれば」も副詞だが tag は「名詞」で品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22244",
+    "language": "en",
+    "headword": "electromagnetic",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.94,
+    "reason": "electromagnetic は形容詞。和訳「電磁の」も形容詞だが tag は「名詞」で品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22249",
+    "language": "en",
+    "headword": "socially",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "socially は副詞。和訳「社会的に」も副詞だが tag は「名詞」で品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22259",
+    "language": "en",
+    "headword": "signora",
+    "field": "pronunciation",
+    "currentValue": null,
+    "suggestedValue": null,
+    "issueType": "missing_field",
+    "severity": "low",
+    "confidence": 0.99,
+    "reason": "pronunciation が null。IPA 未設定。外部辞書未照合のため補完値は未確定。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22284",
+    "language": "en",
+    "headword": "witty",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.94,
+    "reason": "witty は形容詞。和訳「機知に富んだ」も形容詞だが tag は「名詞」で品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22285",
+    "language": "en",
+    "headword": "wonderfully",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "wonderfully は副詞。和訳「驚くほど」も副詞だが tag は「名詞」で品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22290",
+    "language": "en",
+    "headword": "wraith",
+    "field": "pronunciation",
+    "currentValue": null,
+    "suggestedValue": null,
+    "issueType": "missing_field",
+    "severity": "low",
+    "confidence": 0.99,
+    "reason": "pronunciation が null。IPA 未設定。外部辞書未照合のため補完値は未確定。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22293",
+    "language": "en",
+    "headword": "wildly",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "wildly は副詞。和訳「乱暴に」も副詞だが tag は「名詞」で品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22312",
+    "language": "en",
+    "headword": "eta",
+    "field": "pronunciation",
+    "currentValue": null,
+    "suggestedValue": null,
+    "issueType": "missing_field",
+    "severity": "low",
+    "confidence": 0.99,
+    "reason": "pronunciation が null。IPA 未設定。外部辞書未照合のため補完値は未確定。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22314",
+    "language": "en",
+    "headword": "earthly",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.94,
+    "reason": "earthly は形容詞。和訳「この世の」も形容詞だが tag は「名詞」で品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22317",
+    "language": "en",
+    "headword": "gravitational",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.94,
+    "reason": "gravitational は形容詞。和訳「重力の」も形容詞だが tag は「名詞」で品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22320",
+    "language": "en",
+    "headword": "credible",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.94,
+    "reason": "credible は形容詞。和訳「信用できる」も形容詞だが tag は「動詞」で品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22325",
+    "language": "en",
+    "headword": "chaotic",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.94,
+    "reason": "chaotic は形容詞。和訳「混沌とした」も形容詞だが tag は「名詞」で品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22327",
+    "language": "en",
+    "headword": "pinched",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.94,
+    "reason": "pinched は形容詞。和訳「困って」も形容詞だが tag は「名詞」で品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22329",
+    "language": "en",
+    "headword": "bulletproof",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.94,
+    "reason": "bulletproof は形容詞。和訳「防弾の」も形容詞だが tag は「名詞」で品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22331",
+    "language": "en",
+    "headword": "overly",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "overly は副詞。和訳「過度に」も副詞だが tag は「名詞」で品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22343",
+    "language": "en",
+    "headword": "rosy",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.94,
+    "reason": "rosy は形容詞。和訳「バラ色の」も形容詞だが tag は「名詞」で品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22344",
+    "language": "en",
+    "headword": "unsolved",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.94,
+    "reason": "unsolved は形容詞。和訳「未解決の」も形容詞だが tag は「名詞」で品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22363",
+    "language": "en",
+    "headword": "rightly",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "rightly は副詞。和訳「正しく」も副詞だが tag は「動詞」で品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22369",
+    "language": "en",
+    "headword": "espresso",
+    "field": "pronunciation",
+    "currentValue": "/ˌɛksˈpɹɛˌsoʊ/",
+    "suggestedValue": "/ɛˈspɹɛsoʊ/",
+    "issueType": "ipa_error",
+    "severity": "medium",
+    "confidence": 0.6,
+    "reason": "IPA が /ɛksˈprɛsoʊ/ 相当で誤読 'expresso' を反映。正しくは /k/ を含まない。外部辞書未照合のため要確認。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22379",
+    "language": "en",
+    "headword": "comfortably",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "comfortably は副詞。和訳「心地よく」も副詞だが tag は「動詞」で品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22382",
+    "language": "en",
+    "headword": "barefoot",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.85,
+    "reason": "barefoot は形容詞/副詞。和訳「はだしの」は形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22386",
+    "language": "en",
+    "headword": "drastic",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.94,
+    "reason": "drastic は形容詞。和訳「思い切った」も形容詞だが tag は「名詞」で品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22389",
+    "language": "en",
+    "headword": "foremost",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.85,
+    "reason": "foremost は形容詞/副詞。名詞ではない。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22403",
+    "language": "en",
+    "headword": "hallo",
+    "field": "pronunciation",
+    "currentValue": null,
+    "suggestedValue": null,
+    "issueType": "missing_field",
+    "severity": "low",
+    "confidence": 0.99,
+    "reason": "pronunciation が null。IPA 未設定。外部辞書未照合のため補完値は未確定。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22403",
+    "language": "en",
+    "headword": "hallo",
+    "field": "tags",
+    "currentValue": [
+      "形容詞"
+    ],
+    "suggestedValue": [
+      "間投詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "hallo は間投詞(おーい)。形容詞ではない。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22431",
+    "language": "en",
+    "headword": "slimy",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.94,
+    "reason": "slimy は形容詞。和訳「ぬめぬめした」も形容詞だが tag は「名詞」で品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22433",
+    "language": "en",
+    "headword": "jumpy",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.94,
+    "reason": "jumpy は形容詞。和訳「びくびくした」も形容詞だが tag は「名詞」で品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22437",
+    "language": "en",
+    "headword": "wisely",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "wisely は副詞。和訳「賢明にも」も副詞だが tag は「名詞」で品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22445",
+    "language": "en",
+    "headword": "ghastly",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.94,
+    "reason": "ghastly は形容詞。和訳「ぞっとする」も形容詞だが tag は「動詞」で品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22454",
+    "language": "en",
+    "headword": "flushed",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.94,
+    "reason": "flushed は形容詞。和訳「上気して」も形容詞だが tag は「名詞」で品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22458",
+    "language": "en",
+    "headword": "lifelong",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.94,
+    "reason": "lifelong は形容詞。和訳「生涯の」も形容詞だが tag は「名詞」で品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22460",
+    "language": "en",
+    "headword": "theoretically",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "theoretically は副詞。和訳「理論上」も副詞だが tag は「名詞」で品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22471",
+    "language": "en",
+    "headword": "lest",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "接続詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "lest は接続詞(〜しないように)。名詞ではない。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22472",
+    "language": "en",
+    "headword": "speechless",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.94,
+    "reason": "speechless は形容詞。和訳「言葉を失った」も形容詞だが tag は「名詞」で品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22474",
+    "language": "en",
+    "headword": "accountable",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.94,
+    "reason": "accountable は形容詞。和訳「説明責任のある」も形容詞だが tag は「動詞」で品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22480",
+    "language": "en",
+    "headword": "underage",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.94,
+    "reason": "underage は形容詞。和訳「未成年の」も形容詞だが tag は「名詞」で品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22489",
+    "language": "en",
+    "headword": "tacky",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.94,
+    "reason": "tacky は形容詞。和訳「ねばねばする」も形容詞だが tag は「動詞」で品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22491",
+    "language": "en",
+    "headword": "yonder",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.85,
+    "reason": "yonder は副詞/形容詞(あそこに/あの)。名詞ではない。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22498",
+    "language": "en",
+    "headword": "aloud",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "aloud は副詞。和訳「声を出して」も副詞だが tag は「名詞」で品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22499",
+    "language": "en",
+    "headword": "nauseous",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.94,
+    "reason": "nauseous は形容詞。和訳「吐き気がする」も形容詞だが tag は「動詞」で品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "batchId": "en_L1",
+  "language": "en",
+  "file": "level-1.json",
+  "totalEntries": 576,
+  "checkedEntries": 576,
+  "errors": 48,
+  "warnings": 65,
+  "needsHumanReview": 119,
+  "notVerified": 12,
+  "passed": 462,
+  "status": "completed",
+  "externalSourcesChecked": [],
+  "issueCount": 119,
+  "flaggedEntries": 114,
+  "notes": "IPA/発音は外部辞書未照合(not_verified)。品詞タグは3種(動詞/名詞/形容詞)のみで、副詞・前置詞・接続詞・代名詞は名詞に集約される系統的パターンあり。和訳(主要義)自体の誤りは検出されず。"
+}

@@ -2,6 +2,7 @@
   "generatedAt": "2026-07-15",
   "method": "expert linguistic review (native-speaker knowledge). externalSourcesChecked=[] — 外部辞書へ全件照合していない。確信不足は not_verified。",
   "auditedLanguages": [
+    "english",
     "chinese",
     "korean",
     "spanish",
@@ -11,12 +12,15 @@
     "polish",
     "russian"
   ],
-  "pendingLanguages": [
-    "english"
-  ],
+  "pendingLanguages": [],
   "totalEntriesAllTargets": 20131,
-  "checkedEntries": 11995,
+  "checkedEntries": 20131,
   "perLanguage": {
+    "english": {
+      "total": 8136,
+      "checked": 8136,
+      "batches": 16
+    },
     "chinese": {
       "total": 4201,
       "checked": 4201,
@@ -60,13 +64,13 @@
   },
   "severity": {
     "critical": 0,
-    "high": 17,
-    "medium": 206,
-    "low": 392,
-    "uncertain": 11
+    "high": 177,
+    "medium": 658,
+    "low": 848,
+    "uncertain": 17
   },
-  "issuesTotal": 626,
-  "humanReviewTotal": 618,
-  "proposedFixesTotal": 8,
+  "issuesTotal": 1700,
+  "humanReviewTotal": 1603,
+  "proposedFixesTotal": 96,
   "dataMutated": false
 }

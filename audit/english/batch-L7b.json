@@ -1,0 +1,15 @@
+{
+  "batchId": "en_L7b",
+  "language": "en",
+  "file": "level-7.json[500:1000)",
+  "totalEntries": 1500,
+  "checkedEntries": 500,
+  "errors": 0,
+  "warnings": 80,
+  "needsHumanReview": 80,
+  "notVerified": 7,
+  "passed": 422,
+  "status": "completed",
+  "externalSourcesChecked": [],
+  "note": "example/exampleForm フィールドは本データに存在せず検査(4)(5)は非該当。IPA は外部辞書未照合で内部整合性のみ判定(全IPAは未検証扱い)。綴り誤りは検出されず。"
+}

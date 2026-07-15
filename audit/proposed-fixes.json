@@ -1,5 +1,1329 @@
 [
   {
+    "id": "en-00701",
+    "language": "en",
+    "headword": "exactly",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "副詞",
+    "issueType": "pos_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "品詞タグ「名詞」が誤り。和訳・例文の用法から品詞は「副詞」。",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-00703",
+    "language": "en",
+    "headword": "everyone",
+    "field": "tags",
+    "currentValue": "形容詞",
+    "suggestedValue": "代名詞",
+    "issueType": "pos_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "品詞タグ「形容詞」が誤り。和訳・例文の用法から品詞は「代名詞」。",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-00752",
+    "language": "en",
+    "headword": "indeed",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "副詞",
+    "issueType": "pos_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "品詞タグ「名詞」が誤り。和訳・例文の用法から品詞は「副詞」。",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-00776",
+    "language": "en",
+    "headword": "alone",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "副詞",
+    "issueType": "pos_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "品詞タグ「名詞」が誤り。和訳・例文の用法から品詞は「副詞」。",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-00777",
+    "language": "en",
+    "headword": "below",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "前置詞",
+    "issueType": "pos_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "品詞タグ「名詞」が誤り。和訳・例文の用法から品詞は「前置詞」。",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-00810",
+    "language": "en",
+    "headword": "clearly",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "副詞",
+    "issueType": "pos_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "品詞タグ「名詞」が誤り。和訳・例文の用法から品詞は「副詞」。",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-00815",
+    "language": "en",
+    "headword": "despite",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "前置詞",
+    "issueType": "pos_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "品詞タグ「名詞」が誤り。和訳・例文の用法から品詞は「前置詞」。",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-00820",
+    "language": "en",
+    "headword": "popular",
+    "field": "tags",
+    "currentValue": "動詞",
+    "suggestedValue": "形容詞",
+    "issueType": "pos_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "品詞タグ「動詞」が誤り。和訳・例文の用法から品詞は「形容詞」。",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-00836",
+    "language": "en",
+    "headword": "nearly",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "副詞",
+    "issueType": "pos_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "品詞タグ「名詞」が誤り。和訳・例文の用法から品詞は「副詞」。",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-00846",
+    "language": "en",
+    "headword": "quickly",
+    "field": "tags",
+    "currentValue": "動詞",
+    "suggestedValue": "副詞",
+    "issueType": "pos_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "品詞タグ「動詞」が誤り。和訳・例文の用法から品詞は「副詞」。",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-00858",
+    "language": "en",
+    "headword": "generally",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "副詞",
+    "issueType": "pos_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "品詞タグ「名詞」が誤り。和訳・例文の用法から品詞は「副詞」。",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-00860",
+    "language": "en",
+    "headword": "yourself",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "代名詞",
+    "issueType": "pos_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "品詞タグ「名詞」が誤り。和訳・例文の用法から品詞は「代名詞」。",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-00872",
+    "language": "en",
+    "headword": "everybody",
+    "field": "tags",
+    "currentValue": "形容詞",
+    "suggestedValue": "代名詞",
+    "issueType": "pos_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "品詞タグ「形容詞」が誤り。和訳・例文の用法から品詞は「代名詞」。",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-00873",
+    "language": "en",
+    "headword": "beyond",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "前置詞",
+    "issueType": "pos_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "品詞タグ「名詞」が誤り。和訳・例文の用法から品詞は「前置詞」。",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-00886",
+    "language": "en",
+    "headword": "except",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "前置詞",
+    "issueType": "pos_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "品詞タグ「名詞」が誤り。和訳・例文の用法から品詞は「前置詞」。",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-00891",
+    "language": "en",
+    "headword": "worth",
+    "field": "tags",
+    "currentValue": "動詞",
+    "suggestedValue": "形容詞",
+    "issueType": "pos_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "品詞タグ「動詞」が誤り。和訳・例文の用法から品詞は「形容詞」。",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-00896",
+    "language": "en",
+    "headword": "somebody",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "代名詞",
+    "issueType": "pos_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "品詞タグ「名詞」が誤り。和訳・例文の用法から品詞は「代名詞」。",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-00906",
+    "language": "en",
+    "headword": "obviously",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "副詞",
+    "issueType": "pos_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "品詞タグ「名詞」が誤り。和訳・例文の用法から品詞は「副詞」。",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-00919",
+    "language": "en",
+    "headword": "useful",
+    "field": "tags",
+    "currentValue": "動詞",
+    "suggestedValue": "形容詞",
+    "issueType": "pos_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "品詞タグ「動詞」が誤り。和訳・例文の用法から品詞は「形容詞」。",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-00928",
+    "language": "en",
+    "headword": "successful",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "形容詞",
+    "issueType": "pos_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "品詞タグ「名詞」が誤り。和訳・例文の用法から品詞は「形容詞」。",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-00932",
+    "language": "en",
+    "headword": "throughout",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "前置詞",
+    "issueType": "pos_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "品詞タグ「名詞」が誤り。和訳・例文の用法から品詞は「前置詞」。",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-00946",
+    "language": "en",
+    "headword": "doubt",
+    "field": "tags",
+    "currentValue": "形容詞",
+    "suggestedValue": "名詞",
+    "issueType": "pos_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "品詞タグ「形容詞」が誤り。和訳・例文の用法から品詞は「名詞」。",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-00951",
+    "language": "en",
+    "headword": "suddenly",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "副詞",
+    "issueType": "pos_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "品詞タグ「名詞」が誤り。和訳・例文の用法から品詞は「副詞」。",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-00981",
+    "language": "en",
+    "headword": "whom",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "代名詞",
+    "issueType": "pos_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "品詞タグ「名詞」が誤り。和訳・例文の用法から品詞は「代名詞」。",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-00984",
+    "language": "en",
+    "headword": "ahead",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "副詞",
+    "issueType": "pos_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "品詞タグ「名詞」が誤り。和訳・例文の用法から品詞は「副詞」。",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-01011",
+    "language": "en",
+    "headword": "easily",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "副詞",
+    "issueType": "pos_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "品詞タグ「名詞」が誤り。和訳・例文の用法から品詞は「副詞」。",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-01028",
+    "language": "en",
+    "headword": "completely",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "副詞",
+    "issueType": "pos_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "品詞タグ「名詞」が誤り。和訳・例文の用法から品詞は「副詞」。",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-01035",
+    "language": "en",
+    "headword": "absolutely",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "副詞",
+    "issueType": "pos_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "品詞タグ「名詞」が誤り。和訳・例文の用法から品詞は「副詞」。",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-01042",
+    "language": "en",
+    "headword": "laughter",
+    "field": "tags",
+    "currentValue": "形容詞",
+    "suggestedValue": "名詞",
+    "issueType": "pos_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "品詞タグ「形容詞」が誤り。和訳・例文の用法から品詞は「名詞」。",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-01059",
+    "language": "en",
+    "headword": "immediately",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "副詞",
+    "issueType": "pos_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "品詞タグ「名詞」が誤り。和訳・例文の用法から品詞は「副詞」。",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-01060",
+    "language": "en",
+    "headword": "unless",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "接続詞",
+    "issueType": "pos_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "品詞タグ「名詞」が誤り。和訳・例文の用法から品詞は「接続詞」。",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-01070",
+    "language": "en",
+    "headword": "chair",
+    "field": "tags",
+    "currentValue": "動詞",
+    "suggestedValue": "名詞",
+    "issueType": "pos_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "品詞タグ「動詞」が誤り。和訳・例文の用法から品詞は「名詞」。",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-01078",
+    "language": "en",
+    "headword": "none",
+    "field": "tags",
+    "currentValue": "形容詞",
+    "suggestedValue": "代名詞",
+    "issueType": "pos_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "品詞タグ「形容詞」が誤り。和訳・例文の用法から品詞は「代名詞」。",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-01084",
+    "language": "en",
+    "headword": "payment",
+    "field": "tags",
+    "currentValue": "形容詞",
+    "suggestedValue": "名詞",
+    "issueType": "pos_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "品詞タグ「形容詞」が誤り。和訳・例文の用法から品詞は「名詞」。",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-01093",
+    "language": "en",
+    "headword": "directly",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "副詞",
+    "issueType": "pos_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "品詞タグ「名詞」が誤り。和訳・例文の用法から品詞は「副詞」。",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-01101",
+    "language": "en",
+    "headword": "highly",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "副詞",
+    "issueType": "pos_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "品詞タグ「名詞」が誤り。和訳・例文の用法から品詞は「副詞」。",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-01115",
+    "language": "en",
+    "headword": "otherwise",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "副詞",
+    "issueType": "pos_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "品詞タグ「名詞」が誤り。和訳・例文の用法から品詞は「副詞」。",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-01116",
+    "language": "en",
+    "headword": "nobody",
+    "field": "tags",
+    "currentValue": "形容詞",
+    "suggestedValue": "代名詞",
+    "issueType": "pos_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "品詞タグ「形容詞」が誤り。和訳・例文の用法から品詞は「代名詞」。",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-01117",
+    "language": "en",
+    "headword": "aware",
+    "field": "tags",
+    "currentValue": "動詞",
+    "suggestedValue": "形容詞",
+    "issueType": "pos_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "品詞タグ「動詞」が誤り。和訳・例文の用法から品詞は「形容詞」。",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-01141",
+    "language": "en",
+    "headword": "moreover",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "副詞",
+    "issueType": "pos_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "品詞タグ「名詞」が誤り。和訳・例文の用法から品詞は「副詞」。",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-01147",
+    "language": "en",
+    "headword": "responsible",
+    "field": "tags",
+    "currentValue": "動詞",
+    "suggestedValue": "形容詞",
+    "issueType": "pos_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "品詞タグ「動詞」が誤り。和訳・例文の用法から品詞は「形容詞」。",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-02892",
+    "language": "en",
+    "headword": "john",
+    "field": "example",
+    "currentValue": "John is as old as I. — ジョンは私と同い年です。",
+    "suggestedValue": "May I use the john? — お手洗いを使ってもいいですか。",
+    "issueType": "example_sense_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "例文が固有名詞Johnを使い、answer「手洗い」の語義を示していない",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-02925",
+    "language": "en",
+    "headword": "yahoo",
+    "field": "example",
+    "currentValue": "I use \"Yahoo\" to browse the internet. — インターネットの閲覧にYahooを使っている。",
+    "suggestedValue": "That loud yahoo shouted at everyone. — あの乱暴者はみんなに怒鳴った。",
+    "issueType": "example_sense_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "例文がブランド名Yahooを使い、answer「乱暴者」の語義を示していない",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-02944",
+    "language": "en",
+    "headword": "august",
+    "field": "example",
+    "currentValue": "August is coming to an end. — 8月が終わろうとしています。",
+    "suggestedValue": "The king had an august presence. — その王には威厳のある雰囲気があった。",
+    "issueType": "example_sense_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "例文が月名Augustを使い、answer「威厳のある」の語義を示していない",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-03104",
+    "language": "en",
+    "headword": "japan",
+    "field": "example",
+    "currentValue": "Japan was hard up for oil. — 日本は石油が不足して困っていた。",
+    "suggestedValue": "The box is coated with black japan. — その箱は黒い漆で塗られている。",
+    "issueType": "example_sense_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "例文が国名Japanを使い、answer「黒い漆」の語義を示していない",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-03158",
+    "language": "en",
+    "headword": "zip",
+    "field": "example",
+    "currentValue": "He's beating me, three to zip. — ３対０で彼には負けています。",
+    "suggestedValue": "The arrow flew past with a zip. — 矢がビュッという音を立てて飛び過ぎた。",
+    "issueType": "example_sense_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "例文のzipは「ゼロ(3対0)」の意で、answer「ビュッという音」と不一致",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-03215",
+    "language": "en",
+    "headword": "smith",
+    "field": "example",
+    "currentValue": "Smith replied that he was sorry. — スミスは残念だと答えた。",
+    "suggestedValue": "The smith made a horseshoe. — かじ屋は蹄鉄を作った。",
+    "issueType": "example_sense_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "例文が姓Smithを使い、answer「かじ屋」の語義を示していない",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-03318",
+    "language": "en",
+    "headword": "pacific",
+    "field": "example",
+    "currentValue": "He crossed the immense pacific on a raft. — 彼は広大な太平洋をいかだで横断した。",
+    "suggestedValue": "He has a pacific nature. — 彼は平和的な性質だ。",
+    "issueType": "example_sense_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "例文のpacificは太平洋(the Pacific)を指し、answer「平和的な」と不一致",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-03381",
+    "language": "en",
+    "headword": "martin",
+    "field": "example",
+    "currentValue": "Martin seemed very tired, didn't he? — マーティンはとても疲れているようでしたね。",
+    "suggestedValue": "A martin built a nest under the roof. — イワツバメが屋根の下に巣を作った。",
+    "issueType": "example_sense_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "例文が人名Martinを使い、answer「イワツバメ」の語義を示していない",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-03412",
+    "language": "en",
+    "headword": "tom",
+    "field": "example",
+    "currentValue": "Tom is in a bad mood. — トムは機嫌が悪い。",
+    "suggestedValue": "The tom fought another cat. — その雄猫は別の猫とけんかした。",
+    "issueType": "example_sense_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "例文が人名Tomを使い、answer「雄」の語義を示していない",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-03469",
+    "language": "en",
+    "headword": "lee",
+    "field": "example",
+    "currentValue": "Mrs. Lee is a great talker. — リイさんは話上手です。",
+    "suggestedValue": "We rested in the lee of the wall. — 私たちは壁の物陰で休んだ。",
+    "issueType": "example_sense_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "例文が姓Leeを使い、answer「物陰」の語義を示していない",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-03505",
+    "language": "en",
+    "headword": "bob",
+    "field": "example",
+    "currentValue": "Bob will be home at six. — ボブは６時には帰っています。",
+    "suggestedValue": "The bob hung at the end of the line. — おもりが糸の先に下がっていた。",
+    "issueType": "example_sense_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "例文が人名Bobを使い、answer「おもり」の語義を示していない",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-03520",
+    "language": "en",
+    "headword": "ford",
+    "field": "example",
+    "currentValue": "Mr Ford is all right now. — フォード氏はもう大丈夫です。",
+    "suggestedValue": "We crossed the river at the ford. — 私たちは浅瀬で川を渡った。",
+    "issueType": "example_sense_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "例文が姓Fordを使い、answer「浅瀬」の語義を示していない",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-03969",
+    "language": "en",
+    "headword": "toll",
+    "field": "example",
+    "currentValue": "Call us toll-free at 1-800-446-2581. — フリーダイヤル１—８００—４４６—２５８１にお電話ください。",
+    "suggestedValue": "The church bells toll for the dead. — 教会の鐘が死者のために鳴る。",
+    "issueType": "example_sense_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "例文のtollは「通行料(toll-free)」の意で、answer「鳴る」と不一致",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-04012",
+    "language": "en",
+    "headword": "phoenix",
+    "field": "example",
+    "currentValue": "Phoenix is the capital of Arizona. — フェニックスはアリゾナの州都である。",
+    "suggestedValue": "The phoenix rose from the ashes. — 不死鳥は灰から蘇った。",
+    "issueType": "example_sense_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "例文が都市名Phoenixを使い、answer「不死鳥」の語義を示していない",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-04080",
+    "language": "en",
+    "headword": "victoria",
+    "field": "example",
+    "currentValue": "Queen Victoria was the sovereign of Great Britain. — ビクトリア女王は英国の君主だった。",
+    "suggestedValue": "They rode through the park in a victoria. — 彼らは四輪馬車で公園を進んだ。",
+    "issueType": "example_sense_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "例文が人名Victoria(女王)を使い、answer「四輪ほろ馬車」の語義を示していない",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-04361",
+    "language": "en",
+    "headword": "safari",
+    "field": "example",
+    "currentValue": "A translation widget compatible with the Safari browser is required. — Safariブラウザに対応した翻訳ウィジェットが必要です。",
+    "suggestedValue": "We went on a safari in Africa. — 私たちはアフリカへ遠征旅行に行った。",
+    "issueType": "example_sense_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "例文がブラウザ名Safariを使い、answer「遠征旅行」の語義を示していない",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-04490",
+    "language": "en",
+    "headword": "guinea",
+    "field": "example",
+    "currentValue": "I have a guinea pig. — モルモットを飼ってるんだ。",
+    "suggestedValue": "The suit cost twenty guineas. — そのスーツは20ギニーだった。",
+    "issueType": "example_sense_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "例文のguinea pig(モルモット)はanswer「ギニー金貨」と不一致",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-04506",
+    "language": "en",
+    "headword": "vat",
+    "field": "example",
+    "currentValue": "Does that price include VAT? — その価格って、付加価値税も入ってる？",
+    "suggestedValue": "The wine is stored in a large vat. — ワインは大きなおけに貯蔵されている。",
+    "issueType": "example_sense_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "例文のVATは付加価値税の意で、answer「大おけ」と不一致",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-06006",
+    "language": "en",
+    "headword": "chi",
+    "field": "example",
+    "currentValue": "Ho Chi Minh City is the largest city in Vietnam. — ホーチミン市はベトナムで最も大きな都市だ。",
+    "suggestedValue": null,
+    "issueType": "example_sense_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "例文の「Chi」は地名Ho Chi Minh（ホーチミン）の一部の固有名詞であり、見出し語chi（ギリシャ文字カイ/気）の語義を例示していない。",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-06154",
+    "language": "en",
+    "headword": "brad",
+    "field": "example",
+    "currentValue": "Brad Pitt is an actor. — ブラッド・ピット様は俳優です。",
+    "suggestedValue": null,
+    "issueType": "example_sense_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "例文の「Brad」は人名Brad Pitt（固有名詞）であり、見出し語brad（鉄線くぎ）の語義を例示していない。",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-06181",
+    "language": "en",
+    "headword": "latex",
+    "field": "example",
+    "currentValue": "I transcribed the original mimeographed edition into LATEX. — ガリ版刷りの原書をLATEXで清書した。",
+    "suggestedValue": null,
+    "issueType": "example_sense_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "例文の「LATEX」は組版システムLaTeXを指し、見出し語latex（ラテックス＝ゴム乳液）の語義を例示していない。",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-06240",
+    "language": "en",
+    "headword": "turner",
+    "field": "example",
+    "currentValue": "Turner stands out among the painters of his time. — ターナーは同時代の画家の中でも傑出している。",
+    "suggestedValue": null,
+    "issueType": "example_sense_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "例文の「Turner」は画家ターナー（固有名詞）であり、見出し語turner（回す人・旋盤工）の語義を例示していない。",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-06272",
+    "language": "en",
+    "headword": "macintosh",
+    "field": "example",
+    "currentValue": "The first Macintosh PC was released in 1984. — 初代Macは1984年にリリースされた。",
+    "suggestedValue": null,
+    "issueType": "example_sense_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "例文の「Macintosh」はコンピュータのMacを指し、見出し語（防水コート）の語義を例示していない。雨具の綴りは通常mackintosh。",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-06281",
+    "language": "en",
+    "headword": "hanging",
+    "field": "example",
+    "currentValue": "I am hanging up my shirts. — シャツを掛けているところです。",
+    "suggestedValue": null,
+    "issueType": "example_sense_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "例文の「hanging up my shirts」は『掛ける』の意で、見出し語hanging（絞首刑）の語義を例示していない。",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-20527",
+    "language": "en",
+    "headword": "convincing",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "訳「説得力のある」は形容詞。品詞タグ『動詞』は不一致。",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-20535",
+    "language": "en",
+    "headword": "crowded",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "訳「込み合った」は形容詞。品詞タグ『名詞』は不一致。",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-20556",
+    "language": "en",
+    "headword": "hostile",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "訳「敵意のある」は形容詞。品詞タグ『動詞』は不一致。",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-20567",
+    "language": "en",
+    "headword": "magician",
+    "field": "tags",
+    "currentValue": [
+      "形容詞"
+    ],
+    "suggestedValue": [
+      "名詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "訳「魔法使い」は名詞。品詞タグ『形容詞』は不一致。magician=手品師/魔術師（名詞）",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-20576",
+    "language": "en",
+    "headword": "sensible",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "訳「分別がある」は形容詞。品詞タグ『動詞』は不一致。",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-20617",
+    "language": "en",
+    "headword": "vengeance",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "名詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "訳「復しゅう」は名詞。品詞タグ『動詞』は不一致。vengeance=復しゅう（名詞）",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-20633",
+    "language": "en",
+    "headword": "wheelchair",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "名詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "訳「車いす」は名詞。品詞タグ『動詞』は不一致。wheelchair=車いす（名詞）",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-20642",
+    "language": "en",
+    "headword": "ambitious",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "訳「野心のある」は形容詞。品詞タグ『動詞』は不一致。",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-20663",
+    "language": "en",
+    "headword": "wardrobe",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "名詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "訳「衣装だんす」は名詞。品詞タグ『動詞』は不一致。wardrobe=衣装だんす（名詞）",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-20668",
+    "language": "en",
+    "headword": "thankful",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "訳「感謝している」は形容詞。品詞タグ『動詞』は不一致。",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-20681",
+    "language": "en",
+    "headword": "respectable",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "訳「ちゃんとした」は形容詞。品詞タグ『名詞』は不一致。",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-20713",
+    "language": "en",
+    "headword": "lethal",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "訳「致死の」は形容詞。品詞タグ『名詞』は不一致。",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-20729",
+    "language": "en",
+    "headword": "thoughtful",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "訳「思いやりのある」は形容詞。品詞タグ『動詞』は不一致。",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-20735",
+    "language": "en",
+    "headword": "drunken",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "訳「酒に酔った」は形容詞。品詞タグ『名詞』は不一致。",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-20837",
+    "language": "en",
+    "headword": "cosmic",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "訳「宇宙の」は形容詞。品詞タグ『名詞』は不一致。",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-20855",
+    "language": "en",
+    "headword": "beggar",
+    "field": "tags",
+    "currentValue": [
+      "形容詞"
+    ],
+    "suggestedValue": [
+      "名詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "訳「物乞い」は名詞。品詞タグ『形容詞』は不一致。beggar=物乞い（名詞）",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-20863",
+    "language": "en",
+    "headword": "madman",
+    "field": "tags",
+    "currentValue": [
+      "形容詞"
+    ],
+    "suggestedValue": [
+      "名詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "訳「気違い」は名詞。品詞タグ『形容詞』は不一致。madman=気違い（名詞）",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-20870",
+    "language": "en",
+    "headword": "hysterical",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "訳「ヒステリーの」は形容詞。品詞タグ『名詞』は不一致。",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-20891",
+    "language": "en",
+    "headword": "irrelevant",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "訳「見当違いの」は形容詞。品詞タグ『名詞』は不一致。",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-20898",
+    "language": "en",
+    "headword": "sweaty",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "訳「汗をかいている」は形容詞。品詞タグ『動詞』は不一致。",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-20904",
+    "language": "en",
+    "headword": "acquaintance",
+    "field": "tags",
+    "currentValue": [
+      "形容詞"
+    ],
+    "suggestedValue": [
+      "名詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "訳「知り合い」は名詞。品詞タグ『形容詞』は不一致。acquaintance=知り合い（名詞）",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-20909",
+    "language": "en",
+    "headword": "cupboard",
+    "field": "tags",
+    "currentValue": [
+      "形容詞"
+    ],
+    "suggestedValue": [
+      "名詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "訳「食器だな」は名詞。品詞タグ『形容詞』は不一致。cupboard=食器だな（名詞）",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-20991",
+    "language": "en",
+    "headword": "gifted",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "訳「才能のある」は形容詞。品詞タグ『動詞』は不一致。",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
     "id": "zh-00426",
     "language": "zh",
     "headword": "「一边」の意味は？",

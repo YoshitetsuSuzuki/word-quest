@@ -1,0 +1,14 @@
+{
+  "batchId": "en_L6b",
+  "language": "en",
+  "file": "level-6.json[500:1000)",
+  "totalEntries": 500,
+  "checkedEntries": 500,
+  "errors": 39,
+  "warnings": 31,
+  "needsHumanReview": 46,
+  "notVerified": 4,
+  "passed": 432,
+  "externalSourcesChecked": [],
+  "status": "completed"
+}

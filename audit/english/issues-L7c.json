@@ -1,0 +1,1494 @@
+[
+  {
+    "id": "en-22505",
+    "language": "en",
+    "headword": "astray",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.88,
+    "reason": "tagsが品詞と不一致: astray=迷って は副詞。ただし本ファイル該当範囲に『副詞』タグの使用例が無く、スキーマ制約の可能性あり要確認。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22507",
+    "language": "en",
+    "headword": "sterile",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "tagsが品詞と不一致: sterile=不妊の は形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22518",
+    "language": "en",
+    "headword": "violently",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.88,
+    "reason": "tagsが品詞と不一致: violently=激しく は副詞(現tag=動詞)。ただし本ファイル該当範囲に『副詞』タグの使用例が無く、スキーマ制約の可能性あり要確認。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22523",
+    "language": "en",
+    "headword": "abdominal",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "tagsが品詞と不一致: abdominal=腹部の は形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22525",
+    "language": "en",
+    "headword": "dishwasher",
+    "field": "tags",
+    "currentValue": [
+      "形容詞"
+    ],
+    "suggestedValue": [
+      "名詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "tagsが品詞と不一致: dishwasher=皿洗い(機) は名詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22528",
+    "language": "en",
+    "headword": "loony",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "tagsが品詞と不一致: loony=気の狂った は形容詞(提示義)。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22533",
+    "language": "en",
+    "headword": "sorcerer",
+    "field": "tags",
+    "currentValue": [
+      "形容詞"
+    ],
+    "suggestedValue": [
+      "名詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "tagsが品詞と不一致: sorcerer=魔法使い は名詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22536",
+    "language": "en",
+    "headword": "marital",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "tagsが品詞と不一致: marital=結婚の は形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22545",
+    "language": "en",
+    "headword": "amused",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "tagsが品詞と不一致: amused=おもしろがった は形容詞(過去分詞形容詞)。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22556",
+    "language": "en",
+    "headword": "disobey",
+    "field": "tags",
+    "currentValue": [
+      "形容詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "tagsが品詞と不一致: disobey=服従しない は動詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22564",
+    "language": "en",
+    "headword": "blazing",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "tagsが品詞と不一致: blazing=赤々と燃え上がる は形容詞(例文でattributive)。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22568",
+    "language": "en",
+    "headword": "circumstantial",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "tagsが品詞と不一致: circumstantial=状況証拠の は形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22571",
+    "language": "en",
+    "headword": "erection",
+    "field": "example",
+    "currentValue": "I have an erection. — 僕は勃起しています。",
+    "suggestedValue": null,
+    "issueType": "example_sense_mismatch",
+    "severity": "high",
+    "confidence": 0.95,
+    "reason": "answerは「建設」だが、例文『I have an erection. — 僕は勃起しています。』は解剖学的/性的な別義を示しており、提示義と一致しない。例文の差し替えが必要。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22588",
+    "language": "en",
+    "headword": "dangerously",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.88,
+    "reason": "tagsが品詞と不一致: dangerously=危険なほど は副詞。ただし本ファイル該当範囲に『副詞』タグの使用例が無く、スキーマ制約の可能性あり要確認。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22594",
+    "language": "en",
+    "headword": "morally",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.88,
+    "reason": "tagsが品詞と不一致: morally=道徳的に は副詞。ただし本ファイル該当範囲に『副詞』タグの使用例が無く、スキーマ制約の可能性あり要確認。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22600",
+    "language": "en",
+    "headword": "unnecessarily",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.88,
+    "reason": "tagsが品詞と不一致: unnecessarily=不必要に は副詞。ただし本ファイル該当範囲に『副詞』タグの使用例が無く、スキーマ制約の可能性あり要確認。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22601",
+    "language": "en",
+    "headword": "upstate",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "tagsが品詞と不一致: upstate=州の北部の は形容詞/副詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22608",
+    "language": "en",
+    "headword": "casually",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.88,
+    "reason": "tagsが品詞と不一致: casually=なにげなく は副詞(現tag=動詞)。ただし本ファイル該当範囲に『副詞』タグの使用例が無く、スキーマ制約の可能性あり要確認。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22614",
+    "language": "en",
+    "headword": "lawful",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "tagsが品詞と不一致: lawful=合法の は形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22633",
+    "language": "en",
+    "headword": "knack",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "名詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "tagsが品詞と不一致: knack=こつ は名詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22638",
+    "language": "en",
+    "headword": "blinking",
+    "field": "example",
+    "currentValue": "Little lights were blinking on and off in the distance. — 遠くで小さな明かりがちらちらしていた。",
+    "suggestedValue": null,
+    "issueType": "example_sense_mismatch",
+    "severity": "high",
+    "confidence": 0.9,
+    "reason": "answerは「まったくひどい」(英俗の強意)だが、例文『Little lights were blinking...ちらちらしていた』は動詞blink(点滅する)の意味で、提示義と一致しない。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22639",
+    "language": "en",
+    "headword": "jag",
+    "field": "example",
+    "currentValue": "The jagged edge ripped a hole in his trousers. — ぎざぎざのかどが彼のズボンに引っかかって穴を空けた。",
+    "suggestedValue": null,
+    "issueType": "example_sense_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "見出し語は『jag』(answer とがった部分)だが、exampleFormと例文は別語『jagged』(形容詞)。例文が見出し語を用いていない。IPAもnull。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22639",
+    "language": "en",
+    "headword": "jag",
+    "field": "pronunciation",
+    "currentValue": null,
+    "suggestedValue": null,
+    "issueType": "missing_pronunciation",
+    "severity": "low",
+    "confidence": 0.99,
+    "reason": "pronunciation(IPA)がnull。正しいIPAは外部辞書未照合のため補完値は not_verified。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22648",
+    "language": "en",
+    "headword": "radiant",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "tagsが品詞と不一致: radiant=輝く は形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22660",
+    "language": "en",
+    "headword": "unusually",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.88,
+    "reason": "tagsが品詞と不一致: unusually=異常に は副詞。ただし本ファイル該当範囲に『副詞』タグの使用例が無く、スキーマ制約の可能性あり要確認。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22666",
+    "language": "en",
+    "headword": "furry",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "tagsが品詞と不一致: furry=毛で覆われた は形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22667",
+    "language": "en",
+    "headword": "pronto",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.88,
+    "reason": "tagsが品詞と不一致: pronto=すぐに は副詞。ただし本ファイル該当範囲に『副詞』タグの使用例が無く、スキーマ制約の可能性あり要確認。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22669",
+    "language": "en",
+    "headword": "edible",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "tagsが品詞と不一致: edible=食べられる は形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22671",
+    "language": "en",
+    "headword": "delusion",
+    "field": "tags",
+    "currentValue": [
+      "形容詞"
+    ],
+    "suggestedValue": [
+      "名詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "tagsが品詞と不一致: delusion=思い違い は名詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22691",
+    "language": "en",
+    "headword": "ironically",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.88,
+    "reason": "tagsが品詞と不一致: ironically=皮肉にも は副詞。ただし本ファイル該当範囲に『副詞』タグの使用例が無く、スキーマ制約の可能性あり要確認。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22692",
+    "language": "en",
+    "headword": "bodily",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "tagsが品詞と不一致: bodily=身体上の は形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22694",
+    "language": "en",
+    "headword": "secretive",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "tagsが品詞と不一致: secretive=隠しだてする は形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22707",
+    "language": "en",
+    "headword": "unbelievably",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.88,
+    "reason": "tagsが品詞と不一致: unbelievably=信じられないほど は副詞。ただし本ファイル該当範囲に『副詞』タグの使用例が無く、スキーマ制約の可能性あり要確認。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22712",
+    "language": "en",
+    "headword": "dignified",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "tagsが品詞と不一致: dignified=威厳のある は形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22715",
+    "language": "en",
+    "headword": "pretentious",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "tagsが品詞と不一致: pretentious=気取った は形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22717",
+    "language": "en",
+    "headword": "overdo",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "tagsが品詞と不一致: shabby=古ぼけた は形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22731",
+    "language": "en",
+    "headword": "blooming",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "tagsが品詞と不一致: blooming=花盛りの は形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22734",
+    "language": "en",
+    "headword": "stormy",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "tagsが品詞と不一致: stormy=嵐の は形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22741",
+    "language": "en",
+    "headword": "keg",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "名詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "tagsが品詞と不一致: keg=小さなたる は名詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22747",
+    "language": "en",
+    "headword": "dickens",
+    "field": "example",
+    "currentValue": "Dickens was the author of 'Oliver Twist'. — ディケンズは『オリバー・ツイスト』の著者です。",
+    "suggestedValue": null,
+    "issueType": "example_sense_mismatch",
+    "severity": "high",
+    "confidence": 0.95,
+    "reason": "answerは「悪魔」(the dickens=悪魔・一体全体)だが、例文『Dickens was the author of Oliver Twist』は作家チャールズ・ディケンズ(固有名詞)の話で、見出し語義と無関係。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22754",
+    "language": "en",
+    "headword": "inland",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "tagsが品詞と不一致: inland=内陸の は形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22755",
+    "language": "en",
+    "headword": "humbly",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.88,
+    "reason": "tagsが品詞と不一致: humbly=謙遜して は副詞。ただし本ファイル該当範囲に『副詞』タグの使用例が無く、スキーマ制約の可能性あり要確認。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22765",
+    "language": "en",
+    "headword": "dashing",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "tagsが品詞と不一致: dashing=さっそうとした は形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22768",
+    "language": "en",
+    "headword": "senile",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "tagsが品詞と不一致: senile=もうろくした は形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22777",
+    "language": "en",
+    "headword": "wreckage",
+    "field": "tags",
+    "currentValue": [
+      "形容詞"
+    ],
+    "suggestedValue": [
+      "名詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "tagsが品詞と不一致: wreckage=残がい は名詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22780",
+    "language": "en",
+    "headword": "faulty",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "tagsが品詞と不一致: faulty=欠陥のある は形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22782",
+    "language": "en",
+    "headword": "staggering",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "tagsが品詞と不一致: staggering=驚くほどの は形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22787",
+    "language": "en",
+    "headword": "galactic",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "tagsが品詞と不一致: galactic=銀河の は形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22792",
+    "language": "en",
+    "headword": "hardcore",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "tagsが品詞と不一致: hardcore=筋金入りの は形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22796",
+    "language": "en",
+    "headword": "murderous",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "tagsが品詞と不一致: murderous=殺人の は形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22800",
+    "language": "en",
+    "headword": "bravely",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.88,
+    "reason": "tagsが品詞と不一致: bravely=勇敢に は副詞。ただし本ファイル該当範囲に『副詞』タグの使用例が無く、スキーマ制約の可能性あり要確認。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22802",
+    "language": "en",
+    "headword": "triumphant",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "tagsが品詞と不一致: triumphant=勝ち誇った は形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22803",
+    "language": "en",
+    "headword": "steadily",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.88,
+    "reason": "tagsが品詞と不一致: steadily=着実に は副詞。ただし本ファイル該当範囲に『副詞』タグの使用例が無く、スキーマ制約の可能性あり要確認。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22819",
+    "language": "en",
+    "headword": "bumpy",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "tagsが品詞と不一致: bumpy=でこぼこの は形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22825",
+    "language": "en",
+    "headword": "festive",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "tagsが品詞と不一致: festive=祭りの は形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22827",
+    "language": "en",
+    "headword": "fleeting",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "tagsが品詞と不一致: fleeting=つかの間の は形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22829",
+    "language": "en",
+    "headword": "geezer",
+    "field": "example",
+    "currentValue": "When is the slant-eyed geezer coming? — つり目のおじさんはいつ来るの？",
+    "suggestedValue": null,
+    "issueType": "inappropriate_example",
+    "severity": "high",
+    "confidence": 0.9,
+    "reason": "例文『When is the slant-eyed geezer coming?』に人種差別的表現(slant-eyed)が含まれ学習用例文として不適切。IPAもnull。差し替え推奨。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22829",
+    "language": "en",
+    "headword": "geezer",
+    "field": "pronunciation",
+    "currentValue": null,
+    "suggestedValue": null,
+    "issueType": "missing_pronunciation",
+    "severity": "low",
+    "confidence": 0.99,
+    "reason": "pronunciation(IPA)がnull。正しいIPAは外部辞書未照合のため補完値は not_verified。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22838",
+    "language": "en",
+    "headword": "affectionate",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "tagsが品詞と不一致: affectionate=愛情のこもった は形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22850",
+    "language": "en",
+    "headword": "evolutionary",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "tagsが品詞と不一致: evolutionary=進化の は形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22851",
+    "language": "en",
+    "headword": "saline",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "tagsが品詞と不一致: saline=塩の は形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22852",
+    "language": "en",
+    "headword": "edgy",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "tagsが品詞と不一致: edgy=いらいらした は形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22854",
+    "language": "en",
+    "headword": "brewing",
+    "field": "example",
+    "currentValue": "A storm is brewing. — 今にも嵐になりそうだ。",
+    "suggestedValue": null,
+    "issueType": "example_sense_mismatch",
+    "severity": "high",
+    "confidence": 0.9,
+    "reason": "answerは「ビール醸造」だが、例文『A storm is brewing. — 今にも嵐になりそうだ』はbrew(兆す/起ころうとする)の意味で、提示義と一致しない。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22855",
+    "language": "en",
+    "headword": "tat",
+    "field": "example",
+    "currentValue": "Tit for tat. — しっぺ返しだよ。",
+    "suggestedValue": null,
+    "issueType": "example_sense_mismatch",
+    "severity": "high",
+    "confidence": 0.92,
+    "reason": "answerは「タッチングで作る」だが、例文『Tit for tat. — しっぺ返しだよ』は成句tit for tat内のtatで、提示義(タッチング)と無関係。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22860",
+    "language": "en",
+    "headword": "thunderclap",
+    "field": "pronunciation",
+    "currentValue": null,
+    "suggestedValue": null,
+    "issueType": "missing_pronunciation",
+    "severity": "low",
+    "confidence": 0.99,
+    "reason": "pronunciation(IPA)がnull。正しいIPAは外部辞書未照合のため補完値は not_verified。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22865",
+    "language": "en",
+    "headword": "inevitably",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.88,
+    "reason": "tagsが品詞と不一致: inevitably=必然的に は副詞。ただし本ファイル該当範囲に『副詞』タグの使用例が無く、スキーマ制約の可能性あり要確認。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22874",
+    "language": "en",
+    "headword": "bleak",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "tagsが品詞と不一致: bleak=荒涼とした は形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22889",
+    "language": "en",
+    "headword": "straightaway",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.88,
+    "reason": "tagsが品詞と不一致: straightaway=直ちに は副詞。ただし本ファイル該当範囲に『副詞』タグの使用例が無く、スキーマ制約の可能性あり要確認。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22891",
+    "language": "en",
+    "headword": "indefinitely",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.88,
+    "reason": "tagsが品詞と不一致: indefinitely=無期限に は副詞。ただし本ファイル該当範囲に『副詞』タグの使用例が無く、スキーマ制約の可能性あり要確認。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22894",
+    "language": "en",
+    "headword": "worldly",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "tagsが品詞と不一致: worldly=この世の は形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22903",
+    "language": "en",
+    "headword": "hateful",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "tagsが品詞と不一致: hateful=憎むべき は形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22905",
+    "language": "en",
+    "headword": "frontal",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "tagsが品詞と不一致: frontal=正面の は形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22912",
+    "language": "en",
+    "headword": "culinary",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "tagsが品詞と不一致: culinary=料理の は形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22914",
+    "language": "en",
+    "headword": "nonstop",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "tagsが品詞と不一致: nonstop=直行の は形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22915",
+    "language": "en",
+    "headword": "giddy",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "tagsが品詞と不一致: giddy=めまいがする は形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22933",
+    "language": "en",
+    "headword": "prone",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "tagsが品詞と不一致: prone=傾向がある は形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22934",
+    "language": "en",
+    "headword": "blindly",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.88,
+    "reason": "tagsが品詞と不一致: blindly=盲目的に は副詞。ただし本ファイル該当範囲に『副詞』タグの使用例が無く、スキーマ制約の可能性あり要確認。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22938",
+    "language": "en",
+    "headword": "considerably",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.88,
+    "reason": "tagsが品詞と不一致: considerably=かなり は副詞。ただし本ファイル該当範囲に『副詞』タグの使用例が無く、スキーマ制約の可能性あり要確認。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22940",
+    "language": "en",
+    "headword": "diabetic",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "tagsが品詞と不一致: diabetic=糖尿病の は形容詞(名詞用法もあるが提示義は形容詞)。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22941",
+    "language": "en",
+    "headword": "muscular",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "tagsが品詞と不一致: muscular=筋肉の は形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22948",
+    "language": "en",
+    "headword": "enlightened",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "tagsが品詞と不一致: enlightened=啓発された は形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22955",
+    "language": "en",
+    "headword": "dodgy",
+    "field": "pronunciation",
+    "currentValue": null,
+    "suggestedValue": null,
+    "issueType": "missing_pronunciation",
+    "severity": "low",
+    "confidence": 0.99,
+    "reason": "pronunciation(IPA)がnull。正しいIPAは外部辞書未照合のため補完値は not_verified。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22961",
+    "language": "en",
+    "headword": "strained",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "tagsが品詞と不一致: strained=緊張した は形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22963",
+    "language": "en",
+    "headword": "contracted",
+    "field": "example",
+    "currentValue": "My father contracted pneumonia last month. — 私の父は先月肺炎にかかった。",
+    "suggestedValue": null,
+    "issueType": "example_sense_mismatch",
+    "severity": "high",
+    "confidence": 0.9,
+    "reason": "answerは「縮めた」だが、例文『My father contracted pneumonia — 肺炎にかかった』はcontract(病気にかかる)の別義で、提示義と一致しない。tagも名詞で不整合。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22971",
+    "language": "en",
+    "headword": "gaga",
+    "field": "example",
+    "currentValue": "I wish I could sing as well as Lady Gaga. — レディ・ガガみたいに上手く歌えたらなあ。",
+    "suggestedValue": null,
+    "issueType": "example_sense_mismatch",
+    "severity": "high",
+    "confidence": 0.92,
+    "reason": "answerは「夢中の，ぼけた」(形容詞gaga)だが、例文『I wish I could sing as well as Lady Gaga』は固有名詞レディ・ガガで、見出し語義と無関係。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-22977",
+    "language": "en",
+    "headword": "disposed",
+    "field": "example",
+    "currentValue": "I disposed of my old coat. — 古いコートを処分した。",
+    "suggestedValue": null,
+    "issueType": "example_sense_mismatch",
+    "severity": "high",
+    "confidence": 0.9,
+    "reason": "answerは「する気がある，傾向がある」(形容詞disposed=inclined)だが、例文『I disposed of my old coat — 処分した』はdispose of(処分する)の別義で一致しない。",
+    "evidence": [],
+    "requiresHumanReview": true
+  }
+]

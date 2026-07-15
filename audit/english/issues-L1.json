@@ -1,0 +1,2092 @@
+[
+  {
+    "id": "en-00048",
+    "language": "en",
+    "headword": "their",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "代名詞/限定詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "their は代名詞/限定詞であり名詞ではない。3タグ体系に該当スロットがないための便宜的タグと推測。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00059",
+    "language": "en",
+    "headword": "out",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "out は副詞であり名詞ではない。3タグ体系に該当スロットがないための便宜的タグと推測。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00066",
+    "language": "en",
+    "headword": "very",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "very は副詞であり名詞ではない。3タグ体系に該当スロットがないための便宜的タグと推測。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00074",
+    "language": "en",
+    "headword": "use",
+    "field": "pronunciation",
+    "currentValue": "/ˈjus/",
+    "suggestedValue": "/ˈjuz/",
+    "issueType": "ipa_heteronym_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "動詞 use(使う)は /juːz/。現行 /juːs/ は名詞 use の発音。 ※外部辞書未照合(not_verified)。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00094",
+    "language": "en",
+    "headword": "right",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "uncertain",
+    "confidence": 0.55,
+    "reason": "answer『右の』は形容詞義。名詞/副詞義もあり要確認。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00098",
+    "language": "en",
+    "headword": "where",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "where は副詞であり名詞ではない。3タグ体系に該当スロットがないための便宜的タグと推測。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00109",
+    "language": "en",
+    "headword": "here",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "here は副詞であり名詞ではない。3タグ体系に該当スロットがないための便宜的タグと推測。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00110",
+    "language": "en",
+    "headword": "really",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "really は副詞であり名詞ではない。3タグ体系に該当スロットがないための便宜的タグと推測。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00113",
+    "language": "en",
+    "headword": "those",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "代名詞/限定詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "those は代名詞/限定詞であり名詞ではない。3タグ体系に該当スロットがないための便宜的タグと推測。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00117",
+    "language": "en",
+    "headword": "last",
+    "field": "pronunciation",
+    "currentValue": "/ˈɫæs/",
+    "suggestedValue": "/ˈɫæst/",
+    "issueType": "ipa_missing_or_odd_phoneme",
+    "severity": "medium",
+    "confidence": 0.85,
+    "reason": "last の語末 /t/ が欠落。現行 /ˈɫæs/。 ※外部辞書未照合(not_verified)。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00117",
+    "language": "en",
+    "headword": "last",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "last(最後の)は形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00119",
+    "language": "en",
+    "headword": "down",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "down は副詞であり名詞ではない。3タグ体系に該当スロットがないための便宜的タグと推測。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00121",
+    "language": "en",
+    "headword": "before",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "前置詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "before は前置詞であり名詞ではない。3タグ体系に該当スロットがないための便宜的タグと推測。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00126",
+    "language": "en",
+    "headword": "between",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "前置詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "between は前置詞であり名詞ではない。3タグ体系に該当スロットがないための便宜的タグと推測。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00132",
+    "language": "en",
+    "headword": "too",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "too は副詞であり名詞ではない。3タグ体系に該当スロットがないための便宜的タグと推測。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00134",
+    "language": "en",
+    "headword": "still",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "still は副詞であり名詞ではない。3タグ体系に該当スロットがないための便宜的タグと推測。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00139",
+    "language": "en",
+    "headword": "something",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "代名詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "something は代名詞であり名詞ではない。3タグ体系に該当スロットがないための便宜的タグと推測。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00162",
+    "language": "en",
+    "headword": "another",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "限定詞/代名詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "another は限定詞/代名詞であり名詞ではない。3タグ体系に該当スロットがないための便宜的タグと推測。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00163",
+    "language": "en",
+    "headword": "different",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "different は形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00165",
+    "language": "en",
+    "headword": "next",
+    "field": "pronunciation",
+    "currentValue": "/ˈnɛks/",
+    "suggestedValue": "/ˈnɛkst/",
+    "issueType": "ipa_missing_or_odd_phoneme",
+    "severity": "medium",
+    "confidence": 0.85,
+    "reason": "next の語末 /t/ が欠落。現行 /ˈnɛks/。 ※外部辞書未照合(not_verified)。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00165",
+    "language": "en",
+    "headword": "next",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "next(次の)は形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00169",
+    "language": "en",
+    "headword": "live",
+    "field": "pronunciation",
+    "currentValue": "/ˈɫaɪv/",
+    "suggestedValue": "/ˈɫɪv/",
+    "issueType": "ipa_heteronym_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "動詞 live(住む)は /lɪv/。現行は形容詞/名詞義 live(生の)/laɪv/ の発音で不一致。例文も動詞用法。 ※外部辞書未照合(not_verified)。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00174",
+    "language": "en",
+    "headword": "while",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "接続詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "uncertain",
+    "confidence": 0.55,
+    "reason": "while は接続詞。名詞用法(a while)もあり要確認。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00175",
+    "language": "en",
+    "headword": "never",
+    "field": "tags",
+    "currentValue": [
+      "形容詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "never は副詞。形容詞ではない。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00188",
+    "language": "en",
+    "headword": "again",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "again は副詞であり名詞ではない。3タグ体系に該当スロットがないための便宜的タグと推測。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00193",
+    "language": "en",
+    "headword": "seem",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "seem は動詞。名詞ではない。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00194",
+    "language": "en",
+    "headword": "around",
+    "field": "pronunciation",
+    "currentValue": "/ɝˈaʊn/",
+    "suggestedValue": "/əˈɹaʊnd/",
+    "issueType": "ipa_missing_or_odd_phoneme",
+    "severity": "medium",
+    "confidence": 0.8,
+    "reason": "around の語末 /d/ 欠落・語頭 /ɝ/ も不自然。現行 /ɝˈaʊn/。 ※外部辞書未照合(not_verified)。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00194",
+    "language": "en",
+    "headword": "around",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "前置詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "around は前置詞/副詞であり名詞ではない。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00195",
+    "language": "en",
+    "headword": "during",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "前置詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "during は前置詞であり名詞ではない。3タグ体系に該当スロットがないための便宜的タグと推測。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00201",
+    "language": "en",
+    "headword": "under",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "前置詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "under は前置詞であり名詞ではない。3タグ体系に該当スロットがないための便宜的タグと推測。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00203",
+    "language": "en",
+    "headword": "always",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "always は副詞であり名詞ではない。3タグ体系に該当スロットがないための便宜的タグと推測。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00205",
+    "language": "en",
+    "headword": "however",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "however は副詞であり名詞ではない。3タグ体系に該当スロットがないための便宜的タグと推測。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00214",
+    "language": "en",
+    "headword": "since",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "接続詞/前置詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "since は接続詞/前置詞であり名詞ではない。3タグ体系に該当スロットがないための便宜的タグと推測。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00231",
+    "language": "en",
+    "headword": "read",
+    "field": "pronunciation",
+    "currentValue": "/ˈɹɛd/",
+    "suggestedValue": "/ˈɹid/",
+    "issueType": "ipa_heteronym_mismatch",
+    "severity": "medium",
+    "confidence": 0.85,
+    "reason": "見出し語 read の現在形は /riːd/。現行 /ɹɛd/ は過去形の発音。例文 reads は現在形。 ※外部辞書未照合(not_verified)。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00234",
+    "language": "en",
+    "headword": "increase",
+    "field": "pronunciation",
+    "currentValue": "/ˈɪnˌkɹis/",
+    "suggestedValue": "/ɪnˈkɹis/",
+    "issueType": "ipa_heteronym_mismatch",
+    "severity": "medium",
+    "confidence": 0.85,
+    "reason": "動詞 increase は第2音節強勢 /ɪnˈkriːs/。現行は名詞の強勢型。tags は動詞。 ※外部辞書未照合(not_verified)。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00246",
+    "language": "en",
+    "headword": "against",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "前置詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "against は前置詞であり名詞ではない。3タグ体系に該当スロットがないための便宜的タグと推測。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00247",
+    "language": "en",
+    "headword": "away",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "away は副詞であり名詞ではない。3タグ体系に該当スロットがないための便宜的タグと推測。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00250",
+    "language": "en",
+    "headword": "though",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "接続詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "though は接続詞であり名詞ではない。3タグ体系に該当スロットがないための便宜的タグと推測。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00260",
+    "language": "en",
+    "headword": "lead",
+    "field": "pronunciation",
+    "currentValue": "/ˈɫɛd/",
+    "suggestedValue": "/ˈɫid/",
+    "issueType": "ipa_heteronym_mismatch",
+    "severity": "medium",
+    "confidence": 0.8,
+    "reason": "見出し語 lead(導く・現在形)は /liːd/。現行 /ɫɛd/ は過去形 led/名詞 lead(鉛)の発音。 ※外部辞書未照合(not_verified)。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00262",
+    "language": "en",
+    "headword": "close",
+    "field": "pronunciation",
+    "currentValue": "/ˈkɫoʊs/",
+    "suggestedValue": "/ˈkɫoʊz/",
+    "issueType": "ipa_heteronym_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "動詞 close(閉じる)は /kloʊz/(語尾有声)。現行 /kloʊs/ は形容詞/副詞 close(近い)の発音。 ※外部辞書未照合(not_verified)。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00270",
+    "language": "en",
+    "headword": "far",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "far は副詞であり名詞ではない。3タグ体系に該当スロットがないための便宜的タグと推測。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00271",
+    "language": "en",
+    "headword": "actually",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "actually は副詞であり名詞ではない。3タグ体系に該当スロットがないための便宜的タグと推測。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00280",
+    "language": "en",
+    "headword": "until",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "前置詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "until は前置詞であり名詞ではない。3タグ体系に該当スロットがないための便宜的タグと推測。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00287",
+    "language": "en",
+    "headword": "sure",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "sure は形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00289",
+    "language": "en",
+    "headword": "quite",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "quite は副詞であり名詞ではない。3タグ体系に該当スロットがないための便宜的タグと推測。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00293",
+    "language": "en",
+    "headword": "although",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "接続詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "although は接続詞であり名詞ではない。3タグ体系に該当スロットがないための便宜的タグと推測。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00297",
+    "language": "en",
+    "headword": "whether",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "接続詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "whether は接続詞であり名詞ではない。3タグ体系に該当スロットがないための便宜的タグと推測。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00298",
+    "language": "en",
+    "headword": "able",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "able は形容詞(be able to)。動詞ではない。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00305",
+    "language": "en",
+    "headword": "soon",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "soon は副詞。動詞タグは誤り。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00308",
+    "language": "en",
+    "headword": "public",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "public(公の)は形容詞義。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00309",
+    "language": "en",
+    "headword": "often",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "often は副詞であり名詞ではない。3タグ体系に該当スロットがないための便宜的タグと推測。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00315",
+    "language": "en",
+    "headword": "rather",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "rather は副詞であり名詞ではない。3タグ体系に該当スロットがないための便宜的タグと推測。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00319",
+    "language": "en",
+    "headword": "local",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "local は形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00320",
+    "language": "en",
+    "headword": "anything",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "代名詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "anything は代名詞であり名詞ではない。3タグ体系に該当スロットがないための便宜的タグと推測。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00321",
+    "language": "en",
+    "headword": "together",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "together は副詞であり名詞ではない。3タグ体系に該当スロットがないための便宜的タグと推測。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00331",
+    "language": "en",
+    "headword": "ever",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "ever は副詞であり名詞ではない。3タグ体系に該当スロットがないための便宜的タグと推測。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00338",
+    "language": "en",
+    "headword": "yet",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "yet は副詞であり名詞ではない。3タグ体系に該当スロットがないための便宜的タグと推測。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00339",
+    "language": "en",
+    "headword": "almost",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "almost は副詞であり名詞ではない。3タグ体系に該当スロットがないための便宜的タグと推測。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00341",
+    "language": "en",
+    "headword": "already",
+    "field": "pronunciation",
+    "currentValue": "/ɔˈɹɛdi/",
+    "suggestedValue": "/ɔɫˈɹɛdi/",
+    "issueType": "ipa_missing_or_odd_phoneme",
+    "severity": "uncertain",
+    "confidence": 0.6,
+    "reason": "already は /ɔːlˈrɛdi/。現行 /ɔˈɹɛdi/ は /l/ 欠落の可能性。 ※外部辞書未照合(not_verified)。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00341",
+    "language": "en",
+    "headword": "already",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "already は副詞。動詞タグは誤り。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00343",
+    "language": "en",
+    "headword": "probably",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "probably は副詞であり名詞ではない。3タグ体系に該当スロットがないための便宜的タグと推測。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00346",
+    "language": "en",
+    "headword": "nothing",
+    "field": "tags",
+    "currentValue": [
+      "形容詞"
+    ],
+    "suggestedValue": [
+      "代名詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "nothing は代名詞。形容詞ではない。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00347",
+    "language": "en",
+    "headword": "whole",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "whole(全体の)は形容詞。名詞タグは誤り。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00378",
+    "language": "en",
+    "headword": "several",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "限定詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "several は限定詞であり名詞ではない。3タグ体系に該当スロットがないための便宜的タグと推測。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00383",
+    "language": "en",
+    "headword": "social",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "social は形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00385",
+    "language": "en",
+    "headword": "political",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "political は形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00390",
+    "language": "en",
+    "headword": "real",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "real(現実の)は形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00396",
+    "language": "en",
+    "headword": "ago",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "ago は副詞であり名詞ではない。3タグ体系に該当スロットがないための便宜的タグと推測。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00413",
+    "language": "en",
+    "headword": "individual",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "individual(個々の)は当該語義では形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00415",
+    "language": "en",
+    "headword": "either",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "限定詞/代名詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "either は限定詞/代名詞であり名詞ではない。3タグ体系に該当スロットがないための便宜的タグと推測。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00417",
+    "language": "en",
+    "headword": "further",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "further は副詞であり名詞ではない。3タグ体系に該当スロットがないための便宜的タグと推測。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00419",
+    "language": "en",
+    "headword": "clear",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "clear(はっきりした)は形容詞義。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00425",
+    "language": "en",
+    "headword": "along",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "前置詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "along は前置詞であり名詞ではない。3タグ体系に該当スロットがないための便宜的タグと推測。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00431",
+    "language": "en",
+    "headword": "produce",
+    "field": "pronunciation",
+    "currentValue": "/ˈpɹoʊdus/",
+    "suggestedValue": "/pɹəˈdus/",
+    "issueType": "ipa_heteronym_mismatch",
+    "severity": "medium",
+    "confidence": 0.85,
+    "reason": "動詞 produce は /prəˈd(j)uːs/。現行 /ˈpɹoʊdus/ は名詞 produce(農産物)の型。tags は動詞。 ※外部辞書未照合(not_verified)。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00435",
+    "language": "en",
+    "headword": "toward",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "前置詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "toward は前置詞であり名詞ではない。3タグ体系に該当スロットがないための便宜的タグと推測。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00436",
+    "language": "en",
+    "headword": "please",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞/間投詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "please は副詞/間投詞であり名詞ではない。3タグ体系に該当スロットがないための便宜的タグと推測。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00438",
+    "language": "en",
+    "headword": "perhaps",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "perhaps は副詞。動詞タグは誤り。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00444",
+    "language": "en",
+    "headword": "full",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "full(いっぱいの)は形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00448",
+    "language": "en",
+    "headword": "forward",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "forward は副詞であり名詞ではない。3タグ体系に該当スロットがないための便宜的タグと推測。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00450",
+    "language": "en",
+    "headword": "maybe",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "maybe は副詞であり名詞ではない。3タグ体系に該当スロットがないための便宜的タグと推測。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00455",
+    "language": "en",
+    "headword": "near",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "前置詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "near は前置詞であり名詞ではない。3タグ体系に該当スロットがないための便宜的タグと推測。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00457",
+    "language": "en",
+    "headword": "human",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "uncertain",
+    "confidence": 0.55,
+    "reason": "answer『人間の』は形容詞義。名詞義もあり要確認。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00458",
+    "language": "en",
+    "headword": "above",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞/前置詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "above は副詞/前置詞であり名詞ではない。3タグ体系に該当スロットがないための便宜的タグと推測。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00459",
+    "language": "en",
+    "headword": "available",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "available は形容詞。動詞ではない。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00473",
+    "language": "en",
+    "headword": "someone",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "代名詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "someone は代名詞であり名詞ではない。3タグ体系に該当スロットがないための便宜的タグと推測。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00481",
+    "language": "en",
+    "headword": "else",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "else は副詞であり名詞ではない。3タグ体系に該当スロットがないための便宜的タグと推測。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00490",
+    "language": "en",
+    "headword": "particular",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "particular は形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00492",
+    "language": "en",
+    "headword": "difference",
+    "field": "tags",
+    "currentValue": [
+      "形容詞"
+    ],
+    "suggestedValue": [
+      "名詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "difference は名詞。形容詞タグは誤り。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00497",
+    "language": "en",
+    "headword": "especially",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "especially は副詞であり名詞ではない。3タグ体系に該当スロットがないための便宜的タグと推測。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00509",
+    "language": "en",
+    "headword": "economic",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "economic は形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00520",
+    "language": "en",
+    "headword": "behind",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "前置詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "behind は前置詞であり名詞ではない。3タグ体系に該当スロットがないための便宜的タグと推測。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00524",
+    "language": "en",
+    "headword": "true",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "true(本当の)は形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00528",
+    "language": "en",
+    "headword": "themselves",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "代名詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "themselves は代名詞であり名詞ではない。3タグ体系に該当スロットがないための便宜的タグと推測。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00534",
+    "language": "en",
+    "headword": "therefore",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "therefore は副詞であり名詞ではない。3タグ体系に該当スロットがないための便宜的タグと推測。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00535",
+    "language": "en",
+    "headword": "finally",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "finally は副詞であり名詞ではない。3タグ体系に該当スロットがないための便宜的タグと推測。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00554",
+    "language": "en",
+    "headword": "national",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "national は形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00570",
+    "language": "en",
+    "headword": "certainly",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "certainly は副詞であり名詞ではない。3タグ体系に該当スロットがないための便宜的タグと推測。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00574",
+    "language": "en",
+    "headword": "arrive",
+    "field": "pronunciation",
+    "currentValue": "/ɝˈaɪv/",
+    "suggestedValue": "/əˈɹaɪv/",
+    "issueType": "ipa_missing_or_odd_phoneme",
+    "severity": "uncertain",
+    "confidence": 0.6,
+    "reason": "arrive は /əˈraɪv/。現行 /ɝˈaɪv/ は語頭 /r/ が不明瞭。 ※外部辞書未照合(not_verified)。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00578",
+    "language": "en",
+    "headword": "due",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "due(支払われるべき)は形容詞。名詞タグは誤り。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00583",
+    "language": "en",
+    "headword": "current",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "current は形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00585",
+    "language": "en",
+    "headword": "financial",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "financial は形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00593",
+    "language": "en",
+    "headword": "usually",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "usually は副詞であり名詞ではない。3タグ体系に該当スロットがないための便宜的タグと推測。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00596",
+    "language": "en",
+    "headword": "single",
+    "field": "example",
+    "currentValue": "My uncle is still single. — おじはまだ独身だ。",
+    "suggestedValue": null,
+    "issueType": "example_sense_mismatch",
+    "severity": "medium",
+    "confidence": 0.85,
+    "reason": "answer は『たった一つの，単一の』だが例文の single は『独身の』の別語義。主要義と例文が不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00596",
+    "language": "en",
+    "headword": "single",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "single(たった一つの)は形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00597",
+    "language": "en",
+    "headword": "common",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "common は形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00600",
+    "language": "en",
+    "headword": "former",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "former は形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00602",
+    "language": "en",
+    "headword": "instead",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "instead は副詞であり名詞ではない。3タグ体系に該当スロットがないための便宜的タグと推測。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00603",
+    "language": "en",
+    "headword": "similar",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "similar は形容詞。動詞ではない。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00604",
+    "language": "en",
+    "headword": "thus",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "thus は副詞であり名詞ではない。3タグ体系に該当スロットがないための便宜的タグと推測。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00621",
+    "language": "en",
+    "headword": "wrong",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "wrong(間違った)は形容詞。名詞タグは誤り。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00639",
+    "language": "en",
+    "headword": "foreign",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "foreign は形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00641",
+    "language": "en",
+    "headword": "personal",
+    "field": "tags",
+    "currentValue": [
+      "形容詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "personal は形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00642",
+    "language": "en",
+    "headword": "particularly",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "particularly は副詞であり名詞ではない。3タグ体系に該当スロットがないための便宜的タグと推測。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00647",
+    "language": "en",
+    "headword": "official",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "uncertain",
+    "confidence": 0.55,
+    "reason": "answer『公式の』は形容詞義。名詞義もあり要確認。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00668",
+    "language": "en",
+    "headword": "recent",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "recent は形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00681",
+    "language": "en",
+    "headword": "simply",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "simply は副詞であり名詞ではない。3タグ体系に該当スロットがないための便宜的タグと推測。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00682",
+    "language": "en",
+    "headword": "recently",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "recently は副詞であり名詞ではない。3タグ体系に該当スロットがないための便宜的タグと推測。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00693",
+    "language": "en",
+    "headword": "myself",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "代名詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "myself は代名詞であり名詞ではない。3タグ体系に該当スロットがないための便宜的タグと推測。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-00695",
+    "language": "en",
+    "headword": "whatever",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "代名詞/限定詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "whatever は代名詞/限定詞であり名詞ではない。3タグ体系に該当スロットがないための便宜的タグと推測。",
+    "evidence": [],
+    "requiresHumanReview": true
+  }
+]

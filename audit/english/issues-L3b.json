@@ -1,0 +1,1746 @@
+[
+  {
+    "id": "en-02227",
+    "language": "en",
+    "headword": "steady",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "『steady』の品詞は形容詞だが、tagsが「名詞」で不一致。answer「安定した」および例文中の用法も形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-02228",
+    "language": "en",
+    "headword": "heavily",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "『heavily』の品詞は副詞だが、tagsが「動詞」で不一致。answer「重く」および例文中の用法も副詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-02232",
+    "language": "en",
+    "headword": "random",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "『random』の品詞は形容詞だが、tagsが「名詞」で不一致。answer「無作為の」および例文中の用法も形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-02235",
+    "language": "en",
+    "headword": "rarely",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "『rarely』の品詞は副詞だが、tagsが「名詞」で不一致。answer「めったに」および例文中の用法も副詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-02238",
+    "language": "en",
+    "headword": "western",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "『western』の品詞は形容詞だが、tagsが「名詞」で不一致。answer「西の」および例文中の用法も形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-02240",
+    "language": "en",
+    "headword": "spare",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "『spare』の品詞は形容詞だが、tagsが「名詞」で不一致。answer「予備の」および例文中の用法も形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-02242",
+    "language": "en",
+    "headword": "mature",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "『mature』の品詞は形容詞だが、tagsが「名詞」で不一致。answer「成熟した」および例文中の用法も形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-02245",
+    "language": "en",
+    "headword": "guilty",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "『guilty』の品詞は形容詞だが、tagsが「名詞」で不一致。answer「有罪の」および例文中の用法も形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-02247",
+    "language": "en",
+    "headword": "false",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "『false』の品詞は形容詞だが、tagsが「名詞」で不一致。answer「偽の」および例文中の用法も形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-02274",
+    "language": "en",
+    "headword": "naturally",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "『naturally』の品詞は副詞だが、tagsが「名詞」で不一致。answer「自然に」および例文中の用法も副詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-02279",
+    "language": "en",
+    "headword": "mutual",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "『mutual』の品詞は形容詞だが、tagsが「名詞」で不一致。answer「相互の」および例文中の用法も形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-02287",
+    "language": "en",
+    "headword": "whenever",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "接続詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "『whenever』の品詞は接続詞だが、tagsが「名詞」で不一致。answer「するときはいつでも」および例文中の用法も接続詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-02289",
+    "language": "en",
+    "headword": "conventional",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "『conventional』の品詞は形容詞だが、tagsが「名詞」で不一致。answer「型にはまった」および例文中の用法も形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-02291",
+    "language": "en",
+    "headword": "reverse",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.7,
+    "reason": "『reverse』の品詞は形容詞だが、tagsが「名詞」で不一致。answer「逆の」および例文中の用法も形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-02303",
+    "language": "en",
+    "headword": "gradually",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "『gradually』の品詞は副詞だが、tagsが「名詞」で不一致。answer「徐々に」および例文中の用法も副詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-02307",
+    "language": "en",
+    "headword": "visual",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.75,
+    "reason": "『visual』の品詞は形容詞だが、tagsが「名詞」で不一致。answer「視覚の」および例文中の用法も形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-02311",
+    "language": "en",
+    "headword": "trap",
+    "field": "tags",
+    "currentValue": [
+      "形容詞"
+    ],
+    "suggestedValue": [
+      "名詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "『trap』の品詞は名詞だが、tagsが「形容詞」で不一致。answer「わな」および例文中の用法も名詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-02312",
+    "language": "en",
+    "headword": "badly",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "『badly』の品詞は副詞だが、tagsが「動詞」で不一致。answer「悪く」および例文中の用法も副詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-02314",
+    "language": "en",
+    "headword": "crazy",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "『crazy』の品詞は形容詞だが、tagsが「名詞」で不一致。answer「狂気の」および例文中の用法も形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-02320",
+    "language": "en",
+    "headword": "extraordinary",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "『extraordinary』の品詞は形容詞だが、tagsが「名詞」で不一致。answer「並はずれた」および例文中の用法も形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-02323",
+    "language": "en",
+    "headword": "creative",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "『creative』の品詞は形容詞だが、tagsが「動詞」で不一致。answer「創造力のある」および例文中の用法も形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-02328",
+    "language": "en",
+    "headword": "remarkable",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "『remarkable』の品詞は形容詞だが、tagsが「名詞」で不一致。answer「注目すべき」および例文中の用法も形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-02330",
+    "language": "en",
+    "headword": "dependent",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "『dependent』の品詞は形容詞だが、tagsが「動詞」で不一致。answer「頼っている」および例文中の用法も形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-02346",
+    "language": "en",
+    "headword": "inner",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "『inner』の品詞は形容詞だが、tagsが「名詞」で不一致。answer「内側の」および例文中の用法も形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-02357",
+    "language": "en",
+    "headword": "occasionally",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "『occasionally』の品詞は副詞だが、tagsが「名詞」で不一致。answer「たまに」および例文中の用法も副詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-02362",
+    "language": "en",
+    "headword": "newly",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "『newly』の品詞は副詞だが、tagsが「名詞」で不一致。answer「最近」および例文中の用法も副詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-02367",
+    "language": "en",
+    "headword": "confident",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "『confident』の品詞は形容詞だが、tagsが「動詞」で不一致。answer「自信のある」および例文中の用法も形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-02369",
+    "language": "en",
+    "headword": "briefly",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "『briefly』の品詞は副詞だが、tagsが「名詞」で不一致。answer「手短に」および例文中の用法も副詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-02371",
+    "language": "en",
+    "headword": "regularly",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "『regularly』の品詞は副詞だが、tagsが「動詞」で不一致。answer「規則正しく」および例文中の用法も副詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-02385",
+    "language": "en",
+    "headword": "eastern",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "『eastern』の品詞は形容詞だが、tagsが「名詞」で不一致。answer「東の」および例文中の用法も形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-02399",
+    "language": "en",
+    "headword": "illegal",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "『illegal』の品詞は形容詞だが、tagsが「名詞」で不一致。answer「不法の」および例文中の用法も形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-02405",
+    "language": "en",
+    "headword": "moderate",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "『moderate』の品詞は形容詞だが、tagsが「名詞」で不一致。answer「適度の」および例文中の用法も形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-02436",
+    "language": "en",
+    "headword": "overseas",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.85,
+    "reason": "『overseas』の品詞は形容詞だが、tagsが「名詞」で不一致。answer「海外の」および例文中の用法も形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-02437",
+    "language": "en",
+    "headword": "literary",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "『literary』の品詞は形容詞だが、tagsが「名詞」で不一致。answer「文学の」および例文中の用法も形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-02438",
+    "language": "en",
+    "headword": "experimental",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "『experimental』の品詞は形容詞だが、tagsが「名詞」で不一致。answer「実験の」および例文中の用法も形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-02444",
+    "language": "en",
+    "headword": "versus",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "前置詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.7,
+    "reason": "『versus』の品詞は前置詞だが、tagsが「名詞」で不一致。answer「対」および例文中の用法も前置詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-02450",
+    "language": "en",
+    "headword": "distinct",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "『distinct』の品詞は形容詞だが、tagsが「名詞」で不一致。answer「別の」および例文中の用法も形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-02456",
+    "language": "en",
+    "headword": "quietly",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "『quietly』の品詞は副詞だが、tagsが「名詞」で不一致。answer「静かに」および例文中の用法も副詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-02466",
+    "language": "en",
+    "headword": "precisely",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "『precisely』の品詞は副詞だが、tagsが「名詞」で不一致。answer「正確に」および例文中の用法も副詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-02472",
+    "language": "en",
+    "headword": "mad",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "『mad』の品詞は形容詞だが、tagsが「名詞」で不一致。answer「腹を立てた」および例文中の用法も形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-02488",
+    "language": "en",
+    "headword": "consequently",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "『consequently』の品詞は副詞だが、tagsが「名詞」で不一致。answer「その結果として」および例文中の用法も副詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-02489",
+    "language": "en",
+    "headword": "democratic",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "『democratic』の品詞は形容詞だが、tagsが「名詞」で不一致。answer「民主主義の」および例文中の用法も形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-02500",
+    "language": "en",
+    "headword": "visible",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "『visible』の品詞は形容詞だが、tagsが「動詞」で不一致。answer「目に見える」および例文中の用法も形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-02502",
+    "language": "en",
+    "headword": "classical",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "『classical』の品詞は形容詞だが、tagsが「名詞」で不一致。answer「古典の」および例文中の用法も形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-02518",
+    "language": "en",
+    "headword": "greatly",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "『greatly』の品詞は副詞だが、tagsが「名詞」で不一致。answer「大いに」および例文中の用法も副詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-02519",
+    "language": "en",
+    "headword": "inflation",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "『inflation』の品詞は副詞だが、tagsが「名詞」で不一致。answer「インフレーション」および例文中の用法も副詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-02520",
+    "language": "en",
+    "headword": "psychological",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "『psychological』の品詞は形容詞だが、tagsが「名詞」で不一致。answer「心理学の」および例文中の用法も形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-02521",
+    "language": "en",
+    "headword": "institutional",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "『institutional』の品詞は形容詞だが、tagsが「名詞」で不一致。answer「制度の」および例文中の用法も形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-02525",
+    "language": "en",
+    "headword": "functional",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "『functional』の品詞は形容詞だが、tagsが「名詞」で不一致。answer「機能上の」および例文中の用法も形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-02537",
+    "language": "en",
+    "headword": "wooden",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "『wooden』の品詞は形容詞だが、tagsが「名詞」で不一致。answer「木製の」および例文中の用法も形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-02543",
+    "language": "en",
+    "headword": "automatically",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "『automatically』の品詞は副詞だが、tagsが「名詞」で不一致。answer「自動的に」および例文中の用法も副詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-02547",
+    "language": "en",
+    "headword": "contest",
+    "field": "tags",
+    "currentValue": [
+      "形容詞"
+    ],
+    "suggestedValue": [
+      "名詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "『contest』の品詞は名詞だが、tagsが「形容詞」で不一致。answer「争い」および例文中の用法も名詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-02549",
+    "language": "en",
+    "headword": "violent",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "『violent』の品詞は形容詞だが、tagsが「動詞」で不一致。answer「暴力による」および例文中の用法も形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-02559",
+    "language": "en",
+    "headword": "acceptable",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "『acceptable』の品詞は形容詞だが、tagsが「動詞」で不一致。answer「受け入れられる」および例文中の用法も形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-02560",
+    "language": "en",
+    "headword": "literally",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "『literally』の品詞は副詞だが、tagsが「名詞」で不一致。answer「文字通り」および例文中の用法も副詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-02569",
+    "language": "en",
+    "headword": "historic",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "『historic』の品詞は形容詞だが、tagsが「動詞」で不一致。answer「歴史に残る」および例文中の用法も形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-02582",
+    "language": "en",
+    "headword": "roughly",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "『roughly』の品詞は副詞だが、tagsが「名詞」で不一致。answer「およそ」および例文中の用法も副詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-02588",
+    "language": "en",
+    "headword": "disagree",
+    "field": "tags",
+    "currentValue": [
+      "形容詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "『disagree』の品詞は動詞だが、tagsが「形容詞」で不一致。answer「一致しない」および例文中の用法も動詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-02589",
+    "language": "en",
+    "headword": "electric",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "『electric』の品詞は形容詞だが、tagsが「名詞」で不一致。answer「電気の」および例文中の用法も形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-02606",
+    "language": "en",
+    "headword": "racial",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "『racial』の品詞は形容詞だが、tagsが「名詞」で不一致。answer「人種の」および例文中の用法も形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-02611",
+    "language": "en",
+    "headword": "potentially",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "『potentially』の品詞は副詞だが、tagsが「名詞」で不一致。answer「潜在的に」および例文中の用法も副詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-02612",
+    "language": "en",
+    "headword": "mere",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "『mere』の品詞は形容詞だが、tagsが「名詞」で不一致。answer「ほんの」および例文中の用法も形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-02614",
+    "language": "en",
+    "headword": "gently",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "『gently』の品詞は副詞だが、tagsが「動詞」で不一致。answer「優しく」および例文中の用法も副詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-02630",
+    "language": "en",
+    "headword": "reliable",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "『reliable』の品詞は形容詞だが、tagsが「動詞」で不一致。answer「信頼できる」および例文中の用法も形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-02635",
+    "language": "en",
+    "headword": "forever",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "『forever』の品詞は副詞だが、tagsが「名詞」で不一致。answer「永久に」および例文中の用法も副詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-02640",
+    "language": "en",
+    "headword": "dramatically",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "『dramatically』の品詞は副詞だが、tagsが「名詞」で不一致。answer「劇的に」および例文中の用法も副詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-02644",
+    "language": "en",
+    "headword": "structural",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "『structural』の品詞は形容詞だが、tagsが「名詞」で不一致。answer「構造の」および例文中の用法も形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-02668",
+    "language": "en",
+    "headword": "barely",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "『barely』の品詞は副詞だが、tagsが「名詞」で不一致。answer「かろうじて」および例文中の用法も副詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-02670",
+    "language": "en",
+    "headword": "firmly",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "『firmly』の品詞は副詞だが、tagsが「名詞」で不一致。answer「しっかりと」および例文中の用法も副詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-02673",
+    "language": "en",
+    "headword": "hopefully",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "『hopefully』の品詞は副詞だが、tagsが「名詞」で不一致。answer「うまくいけば」および例文中の用法も副詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-02679",
+    "language": "en",
+    "headword": "pregnant",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "『pregnant』の品詞は形容詞だが、tagsが「動詞」で不一致。answer「妊娠している」および例文中の用法も形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-02682",
+    "language": "en",
+    "headword": "subsequently",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "『subsequently』の品詞は副詞だが、tagsが「名詞」で不一致。answer「その後」および例文中の用法も副詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-02683",
+    "language": "en",
+    "headword": "presumably",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "『presumably』の品詞は副詞だが、tagsが「名詞」で不一致。answer「たぶん」および例文中の用法も副詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-02710",
+    "language": "en",
+    "headword": "organic",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "『organic』の品詞は形容詞だが、tagsが「名詞」で不一致。answer「有機体の」および例文中の用法も形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-02713",
+    "language": "en",
+    "headword": "surprisingly",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "『surprisingly』の品詞は副詞だが、tagsが「名詞」で不一致。answer「驚くほどに」および例文中の用法も副詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-02714",
+    "language": "en",
+    "headword": "regardless",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "『regardless』の品詞は副詞だが、tagsが「動詞」で不一致。answer「関係なく」および例文中の用法も副詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-02726",
+    "language": "en",
+    "headword": "reasonably",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "『reasonably』の品詞は副詞だが、tagsが「名詞」で不一致。answer「かなり，合理的に」および例文中の用法も副詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-02733",
+    "language": "en",
+    "headword": "golden",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "『golden』の品詞は形容詞だが、tagsが「名詞」で不一致。answer「金の」および例文中の用法も形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-02739",
+    "language": "en",
+    "headword": "controversial",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "『controversial』の品詞は形容詞だが、tagsが「動詞」で不一致。answer「物議を醸す」および例文中の用法も形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-02747",
+    "language": "en",
+    "headword": "nowhere",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "『nowhere』の品詞は副詞だが、tagsが「名詞」で不一致。answer「どこにも」および例文中の用法も副詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-02770",
+    "language": "en",
+    "headword": "altogether",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "『altogether』の品詞は副詞だが、tagsが「動詞」で不一致。answer「まったく」および例文中の用法も副詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-02771",
+    "language": "en",
+    "headword": "differently",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "『differently』の品詞は副詞だが、tagsが「名詞」で不一致。answer「異なって」および例文中の用法も副詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-02773",
+    "language": "en",
+    "headword": "weekly",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.8,
+    "reason": "『weekly』の品詞は形容詞だが、tagsが「名詞」で不一致。answer「毎週の」および例文中の用法も形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-02775",
+    "language": "en",
+    "headword": "royal",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "『royal』の品詞は形容詞だが、tagsが「名詞」で不一致。answer「王の」および例文中の用法も形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-02776",
+    "language": "en",
+    "headword": "fence",
+    "field": "tags",
+    "currentValue": [
+      "形容詞"
+    ],
+    "suggestedValue": [
+      "名詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "『fence』の品詞は名詞だが、tagsが「形容詞」で不一致。answer「囲い」および例文中の用法も名詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-02777",
+    "language": "en",
+    "headword": "luxury",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "名詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "『luxury』の品詞は名詞だが、tagsが「動詞」で不一致。answer「ぜいたく」および例文中の用法も名詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-02784",
+    "language": "en",
+    "headword": "innocent",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "『innocent』の品詞は形容詞だが、tagsが「名詞」で不一致。answer「無罪の」および例文中の用法も形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-02789",
+    "language": "en",
+    "headword": "genuine",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "『genuine』の品詞は形容詞だが、tagsが「名詞」で不一致。answer「本物の」および例文中の用法も形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-02796",
+    "language": "en",
+    "headword": "raw",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "『raw』の品詞は形容詞だが、tagsが「名詞」で不一致。answer「生の」および例文中の用法も形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-02797",
+    "language": "en",
+    "headword": "wherever",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "接続詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "『wherever』の品詞は接続詞だが、tagsが「名詞」で不一致。answer「する所はどこでも」および例文中の用法も接続詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-02809",
+    "language": "en",
+    "headword": "alongside",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "前置詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "『alongside』の品詞は前置詞だが、tagsが「名詞」で不一致。answer「そばに」および例文中の用法も前置詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-02816",
+    "language": "en",
+    "headword": "ashamed",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "『ashamed』の品詞は形容詞だが、tagsが「名詞」で不一致。answer「恥じて」および例文中の用法も形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-02238",
+    "language": "en",
+    "headword": "western",
+    "field": "pronunciation",
+    "currentValue": "/ˈhwɛstɝn/",
+    "suggestedValue": "/ˈwɛstɝn/",
+    "issueType": "ipa",
+    "severity": "medium",
+    "confidence": 0.6,
+    "reason": "『western』に/hw/音は存在しない。語頭のhは誤挿入と思われる。外部辞書未照合のためnot_verified。",
+    "evidence": [],
+    "requiresHumanReview": true,
+    "notVerified": true
+  },
+  {
+    "id": "en-02430",
+    "language": "en",
+    "headword": "incentive",
+    "field": "pronunciation",
+    "currentValue": "/ˌɪnˈsɛnɪv/",
+    "suggestedValue": "/ɪnˈsɛntɪv/",
+    "issueType": "ipa",
+    "severity": "medium",
+    "confidence": 0.6,
+    "reason": "『incentive』の/t/が脱落している。外部辞書未照合のためnot_verified。",
+    "evidence": [],
+    "requiresHumanReview": true,
+    "notVerified": true
+  },
+  {
+    "id": "en-02730",
+    "language": "en",
+    "headword": "piano",
+    "field": "pronunciation",
+    "currentValue": "/piˈænə/",
+    "suggestedValue": "/piˈænoʊ/",
+    "issueType": "ipa",
+    "severity": "low",
+    "confidence": 0.4,
+    "reason": "語末の/oʊ/が/ə/に弱化している可能性。外部辞書未照合のためnot_verified。",
+    "evidence": [],
+    "requiresHumanReview": true,
+    "notVerified": true
+  },
+  {
+    "id": "en-02789",
+    "language": "en",
+    "headword": "genuine",
+    "field": "pronunciation",
+    "currentValue": "/ˈdʒɛnˈjuˌwaɪn/",
+    "suggestedValue": "/ˈdʒɛnjuɪn/",
+    "issueType": "ipa",
+    "severity": "low",
+    "confidence": 0.4,
+    "reason": "標準的発音は/ˈdʒɛnjuɪn/。/waɪn/語尾は非標準変種。外部辞書未照合のためnot_verified。",
+    "evidence": [],
+    "requiresHumanReview": true,
+    "notVerified": true
+  },
+  {
+    "id": "en-02570",
+    "language": "en",
+    "headword": "gallery",
+    "field": "example",
+    "currentValue": "We walked along the long gallery of the castle. — 城の長い回廊を歩いた。",
+    "suggestedValue": null,
+    "issueType": "example_sense_mismatch",
+    "severity": "medium",
+    "confidence": 0.8,
+    "reason": "answerは「画廊，美術館」だが、例文の『gallery』は回廊（城の長い通路）の意で用いられており、提示語義と一致しない。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-02716",
+    "language": "en",
+    "headword": "attraction",
+    "field": "example",
+    "currentValue": "The moon's attraction moves the sea. — 月の引力が海を動かす。",
+    "suggestedValue": null,
+    "issueType": "example_sense_mismatch",
+    "severity": "medium",
+    "confidence": 0.85,
+    "reason": "answerは「魅力，呼び物」だが、例文の『attraction』は引力（重力）の意で用いられており、提示語義と一致しない。",
+    "evidence": [],
+    "requiresHumanReview": true
+  }
+]

@@ -1,0 +1,1666 @@
+[
+  {
+    "id": "en-04612",
+    "language": "en",
+    "headword": "mechanical",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "和訳が形容詞相当だが品詞タグが「名詞」。形容詞に修正が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-04689",
+    "language": "en",
+    "headword": "legislative",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "和訳が形容詞相当だが品詞タグが「名詞」。形容詞に修正が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-04700",
+    "language": "en",
+    "headword": "willing",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "和訳が形容詞相当だが品詞タグが「名詞」。形容詞に修正が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-04702",
+    "language": "en",
+    "headword": "molecular",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "和訳が形容詞相当だが品詞タグが「名詞」。形容詞に修正が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-04715",
+    "language": "en",
+    "headword": "statistical",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "和訳が形容詞相当だが品詞タグが「名詞」。形容詞に修正が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-04757",
+    "language": "en",
+    "headword": "organized",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "和訳が形容詞相当だが品詞タグが「名詞」。形容詞に修正が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-04827",
+    "language": "en",
+    "headword": "appointed",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "和訳が形容詞相当だが品詞タグが「名詞」。形容詞に修正が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-04829",
+    "language": "en",
+    "headword": "operational",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "和訳が形容詞相当だが品詞タグが「名詞」。形容詞に修正が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-04909",
+    "language": "en",
+    "headword": "underground",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "和訳が形容詞相当だが品詞タグが「名詞」。形容詞に修正が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-04915",
+    "language": "en",
+    "headword": "calculated",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "和訳が形容詞相当だが品詞タグが「名詞」。形容詞に修正が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-04921",
+    "language": "en",
+    "headword": "incorporated",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "和訳が形容詞相当だが品詞タグが「名詞」。形容詞に修正が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-04928",
+    "language": "en",
+    "headword": "gross",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "和訳が形容詞相当だが品詞タグが「名詞」。形容詞に修正が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-05018",
+    "language": "en",
+    "headword": "surrounding",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "和訳が形容詞相当だが品詞タグが「名詞」。形容詞に修正が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-05023",
+    "language": "en",
+    "headword": "checked",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "和訳が形容詞相当だが品詞タグが「名詞」。形容詞に修正が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-05086",
+    "language": "en",
+    "headword": "confirmed",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "和訳が形容詞相当だが品詞タグが「名詞」。形容詞に修正が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-05229",
+    "language": "en",
+    "headword": "supposed",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "和訳が形容詞相当だが品詞タグが「名詞」。形容詞に修正が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-05237",
+    "language": "en",
+    "headword": "knowing",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "和訳が形容詞相当だが品詞タグが「名詞」。形容詞に修正が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-05240",
+    "language": "en",
+    "headword": "cloudy",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "和訳が形容詞相当だが品詞タグが「名詞」。形容詞に修正が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-05275",
+    "language": "en",
+    "headword": "thermal",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "和訳が形容詞相当だが品詞タグが「名詞」。形容詞に修正が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-05278",
+    "language": "en",
+    "headword": "coastal",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "和訳が形容詞相当だが品詞タグが「名詞」。形容詞に修正が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-05295",
+    "language": "en",
+    "headword": "restricted",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "和訳が形容詞相当だが品詞タグが「名詞」。形容詞に修正が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-05296",
+    "language": "en",
+    "headword": "republican",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "和訳が形容詞相当だが品詞タグが「名詞」。形容詞に修正が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-05321",
+    "language": "en",
+    "headword": "casual",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "和訳が形容詞相当だが品詞タグが「名詞」。形容詞に修正が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-05331",
+    "language": "en",
+    "headword": "armed",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "和訳が形容詞相当だが品詞タグが「名詞」。形容詞に修正が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-05357",
+    "language": "en",
+    "headword": "sealed",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "和訳が形容詞相当だが品詞タグが「名詞」。形容詞に修正が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-05361",
+    "language": "en",
+    "headword": "loaded",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "和訳が形容詞相当だが品詞タグが「名詞」。形容詞に修正が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-05372",
+    "language": "en",
+    "headword": "chronic",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "和訳が形容詞相当だが品詞タグが「名詞」。形容詞に修正が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-05406",
+    "language": "en",
+    "headword": "sole",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "和訳が形容詞相当だが品詞タグが「名詞」。形容詞に修正が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-05446",
+    "language": "en",
+    "headword": "pleased",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "和訳が形容詞相当だが品詞タグが「名詞」。形容詞に修正が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-05456",
+    "language": "en",
+    "headword": "intermediate",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "和訳が形容詞相当だが品詞タグが「名詞」。形容詞に修正が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-05471",
+    "language": "en",
+    "headword": "preliminary",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "和訳が形容詞相当だが品詞タグが「名詞」。形容詞に修正が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-05474",
+    "language": "en",
+    "headword": "promotional",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "和訳が形容詞相当だが品詞タグが「名詞」。形容詞に修正が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-05515",
+    "language": "en",
+    "headword": "studied",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "和訳が形容詞相当だが品詞タグが「名詞」。形容詞に修正が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-05527",
+    "language": "en",
+    "headword": "continental",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "和訳が形容詞相当だが品詞タグが「名詞」。形容詞に修正が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-05528",
+    "language": "en",
+    "headword": "alternate",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "和訳が形容詞相当だが品詞タグが「名詞」。形容詞に修正が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-05565",
+    "language": "en",
+    "headword": "dated",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "和訳が形容詞相当だが品詞タグが「名詞」。形容詞に修正が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-05650",
+    "language": "en",
+    "headword": "mounted",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "和訳が形容詞相当だが品詞タグが「名詞」。形容詞に修正が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-05657",
+    "language": "en",
+    "headword": "occupational",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "和訳が形容詞相当だが品詞タグが「名詞」。形容詞に修正が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-05658",
+    "language": "en",
+    "headword": "animated",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "和訳が形容詞相当だが品詞タグが「名詞」。形容詞に修正が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-05659",
+    "language": "en",
+    "headword": "judicial",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "和訳が形容詞相当だが品詞タグが「名詞」。形容詞に修正が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-05671",
+    "language": "en",
+    "headword": "binary",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "和訳が形容詞相当だが品詞タグが「名詞」。形容詞に修正が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-05675",
+    "language": "en",
+    "headword": "collective",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "和訳が形容詞相当だが品詞タグが「名詞」。形容詞に修正が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-05723",
+    "language": "en",
+    "headword": "picked",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "和訳が形容詞相当だが品詞タグが「名詞」。形容詞に修正が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-05724",
+    "language": "en",
+    "headword": "assumed",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "和訳が形容詞相当だが品詞タグが「名詞」。形容詞に修正が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-05761",
+    "language": "en",
+    "headword": "younger",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "和訳が形容詞相当だが品詞タグが「名詞」。形容詞に修正が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-05779",
+    "language": "en",
+    "headword": "metropolitan",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "和訳が形容詞相当だが品詞タグが「名詞」。形容詞に修正が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-05800",
+    "language": "en",
+    "headword": "minimal",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "和訳が形容詞相当だが品詞タグが「名詞」。形容詞に修正が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-05801",
+    "language": "en",
+    "headword": "polyphonic",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "和訳が形容詞相当だが品詞タグが「名詞」。形容詞に修正が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-05814",
+    "language": "en",
+    "headword": "alphabetical",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "和訳が形容詞相当だが品詞タグが「名詞」。形容詞に修正が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-05816",
+    "language": "en",
+    "headword": "declared",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "和訳が形容詞相当だが品詞タグが「名詞」。形容詞に修正が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-05929",
+    "language": "en",
+    "headword": "outer",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "和訳が形容詞相当だが品詞タグが「名詞」。形容詞に修正が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-05933",
+    "language": "en",
+    "headword": "pharmaceutical",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "和訳が形容詞相当だが品詞タグが「名詞」。形容詞に修正が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-05947",
+    "language": "en",
+    "headword": "organizational",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "和訳が形容詞相当だが品詞タグが「名詞」。形容詞に修正が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-05954",
+    "language": "en",
+    "headword": "tired",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "和訳が形容詞相当だが品詞タグが「名詞」。形容詞に修正が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-05956",
+    "language": "en",
+    "headword": "adverse",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "和訳が形容詞相当だが品詞タグが「名詞」。形容詞に修正が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-05964",
+    "language": "en",
+    "headword": "acute",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "和訳が形容詞相当だが品詞タグが「名詞」。形容詞に修正が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-04963",
+    "language": "en",
+    "headword": "anytime",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "和訳が副詞相当だが品詞タグが「名詞」。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-05465",
+    "language": "en",
+    "headword": "overnight",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "和訳が副詞相当だが品詞タグが「名詞」。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-05656",
+    "language": "en",
+    "headword": "herein",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "和訳が副詞相当だが品詞タグが「名詞」。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-05833",
+    "language": "en",
+    "headword": "commonly",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "和訳が副詞相当だが品詞タグが「名詞」。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-04778",
+    "language": "en",
+    "headword": "considering",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "前置詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.8,
+    "reason": "「～を考慮すれば」は前置詞・接続詞用法。品詞タグ「名詞」は不適切。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-04775",
+    "language": "en",
+    "headword": "measured",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.7,
+    "reason": "和訳「正確に測った」は動詞（過去分詞）相当。名詞は不適切だが形容詞用法の可能性もあり要確認。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-05090",
+    "language": "en",
+    "headword": "hist",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "間投詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.75,
+    "reason": "「シーッ」は間投詞。品詞タグ「名詞」は不適切。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-05251",
+    "language": "en",
+    "headword": "brass",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "名詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "「真ちゅう」は名詞。品詞タグ「動詞」は誤り。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-05432",
+    "language": "en",
+    "headword": "correctly",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "「正しく」は副詞。品詞タグ「動詞」は誤り。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-05507",
+    "language": "en",
+    "headword": "wright",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "名詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "「職人・製作者」は名詞。品詞タグ「動詞」は誤り。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-05716",
+    "language": "en",
+    "headword": "liable",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "「責任のある」は形容詞。品詞タグ「動詞」は誤り。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-05807",
+    "language": "en",
+    "headword": "adjustable",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "「調節できる」は形容詞。品詞タグ「動詞」は誤り。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-05883",
+    "language": "en",
+    "headword": "cad",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "名詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "「きたないやつ」は名詞。品詞タグ「動詞」は誤り。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-05977",
+    "language": "en",
+    "headword": "resistant",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "「抵抗力のある」は形容詞。品詞タグ「動詞」は誤り。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-04744",
+    "language": "en",
+    "headword": "pursuant",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.7,
+    "reason": "pursuant(to)は形容詞・前置詞的用法。品詞タグ「動詞」は不適切。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-05711",
+    "language": "en",
+    "headword": "wizard",
+    "field": "tags",
+    "currentValue": [
+      "形容詞"
+    ],
+    "suggestedValue": [
+      "名詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "「魔法使い」は名詞。品詞タグ「形容詞」は誤り。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-05056",
+    "language": "en",
+    "headword": "covering",
+    "field": "tags",
+    "currentValue": [
+      "形容詞"
+    ],
+    "suggestedValue": [
+      "名詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "和訳「覆い」は名詞。品詞タグ「形容詞」は不適切。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-04673",
+    "language": "en",
+    "headword": "nick",
+    "field": "example",
+    "currentValue": "Nick hurried to catch the bus.",
+    "suggestedValue": null,
+    "issueType": "example_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "例文が固有名詞「Nick」の用法で、和訳「刻み目」の語義を示していない。学習用例文として不適切。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-04832",
+    "language": "en",
+    "headword": "jay",
+    "field": "example",
+    "currentValue": "Jay picked up the old scissors.",
+    "suggestedValue": null,
+    "issueType": "example_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "例文が固有名詞「Jay」の用法で、和訳「カケス」の語義を示していない。学習用例文として不適切。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-04862",
+    "language": "en",
+    "headword": "franklin",
+    "field": "example",
+    "currentValue": "Franklin was known for his common sense.",
+    "suggestedValue": null,
+    "issueType": "example_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "例文が固有名詞「Franklin」の用法で、和訳「自由土地保有者」の語義を示していない。学習用例文として不適切。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-04932",
+    "language": "en",
+    "headword": "ken",
+    "field": "example",
+    "currentValue": "Ken hit on a good idea.",
+    "suggestedValue": null,
+    "issueType": "example_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "例文が固有名詞「Ken」の用法で、和訳「理解」の語義を示していない。学習用例文として不適切。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-05081",
+    "language": "en",
+    "headword": "roger",
+    "field": "example",
+    "currentValue": "Roger works from dawn to dusk.",
+    "suggestedValue": null,
+    "issueType": "example_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "例文が固有名詞「Roger」の用法で、和訳「了解」の語義を示していない。学習用例文として不適切。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-05125",
+    "language": "en",
+    "headword": "nelson",
+    "field": "example",
+    "currentValue": "He is acting like Nelson tonight.",
+    "suggestedValue": null,
+    "issueType": "example_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "例文が固有名詞「Nelson」の用法で、和訳「首固め」の語義を示していない。学習用例文として不適切。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-05338",
+    "language": "en",
+    "headword": "rick",
+    "field": "example",
+    "currentValue": "Rick is my nickname.",
+    "suggestedValue": null,
+    "issueType": "example_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "例文が固有名詞「Rick」の用法で、和訳「積み山」の語義を示していない。学習用例文として不適切。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-05389",
+    "language": "en",
+    "headword": "billy",
+    "field": "example",
+    "currentValue": "Billy is good at sport.",
+    "suggestedValue": null,
+    "issueType": "example_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "例文が固有名詞「Billy」の用法で、和訳「警棒」の語義を示していない。学習用例文として不適切。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-05443",
+    "language": "en",
+    "headword": "carter",
+    "field": "example",
+    "currentValue": "...have you seen anything of Carter lately?",
+    "suggestedValue": null,
+    "issueType": "example_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "例文が固有名詞「Carter」の用法で、和訳「荷馬車を引く人」の語義を示していない。学習用例文として不適切。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-05485",
+    "language": "en",
+    "headword": "graham",
+    "field": "example",
+    "currentValue": "Graham Greene is my favorite author.",
+    "suggestedValue": null,
+    "issueType": "example_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "例文が固有名詞「Graham」の用法で、和訳「全麦の」の語義を示していない。学習用例文として不適切。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-05507",
+    "language": "en",
+    "headword": "wright",
+    "field": "example",
+    "currentValue": "Mr. Wright speaks Japanese like a native speaker.",
+    "suggestedValue": null,
+    "issueType": "example_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "例文が固有名詞「Wright」の用法で、和訳「職人，製作者」の語義を示していない。学習用例文として不適切。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-05604",
+    "language": "en",
+    "headword": "rev",
+    "field": "example",
+    "currentValue": "Rev. King and his supporters were threatened.",
+    "suggestedValue": null,
+    "issueType": "example_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "例文が固有名詞「Rev」の用法で、和訳「回転」の語義を示していない。学習用例文として不適切。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-05718",
+    "language": "en",
+    "headword": "morris",
+    "field": "example",
+    "currentValue": "...from Mr Morris of Digital Com Company.",
+    "suggestedValue": null,
+    "issueType": "example_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "例文が固有名詞「Morris」の用法で、和訳「モリスダンス」の語義を示していない。学習用例文として不適切。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-05060",
+    "language": "en",
+    "headword": "filing",
+    "field": "example",
+    "currentValue": "Tom is filing his nails.",
+    "suggestedValue": null,
+    "issueType": "example_mismatch",
+    "severity": "medium",
+    "confidence": 0.85,
+    "reason": "「爪にやすりをかける」の意で、答え「とじ込み(書類整理)」の語義と不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-05410",
+    "language": "en",
+    "headword": "facing",
+    "field": "example",
+    "currentValue": "We are facing a crucial time.",
+    "suggestedValue": null,
+    "issueType": "example_mismatch",
+    "severity": "medium",
+    "confidence": 0.85,
+    "reason": "「直面する」動詞用法で、答え「表面仕上げ」の名詞語義と不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-05646",
+    "language": "en",
+    "headword": "wearing",
+    "field": "example",
+    "currentValue": "She was wearing a new hat.",
+    "suggestedValue": null,
+    "issueType": "example_mismatch",
+    "severity": "medium",
+    "confidence": 0.85,
+    "reason": "「身につける」の意で、答え「疲労させる」の語義と不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-05650",
+    "language": "en",
+    "headword": "mounted",
+    "field": "example",
+    "currentValue": "Cold-war tension has mounted.",
+    "suggestedValue": null,
+    "issueType": "example_mismatch",
+    "severity": "medium",
+    "confidence": 0.85,
+    "reason": "「高まる」の意で、答え「馬に乗った」の語義と不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-05723",
+    "language": "en",
+    "headword": "picked",
+    "field": "example",
+    "currentValue": "He picked up a red stone.",
+    "suggestedValue": null,
+    "issueType": "example_mismatch",
+    "severity": "medium",
+    "confidence": 0.85,
+    "reason": "「拾い上げる」動詞用法で、答え「精選された」の形容詞語義と不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-05237",
+    "language": "en",
+    "headword": "knowing",
+    "field": "example",
+    "currentValue": "He did it without me knowing.",
+    "suggestedValue": null,
+    "issueType": "example_mismatch",
+    "severity": "medium",
+    "confidence": 0.85,
+    "reason": "動名詞用法で、答えの形容詞語義（意味ありげな）を示していない。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-05120",
+    "language": "en",
+    "headword": "rolling",
+    "field": "example",
+    "currentValue": "The summer heat is rolling in.",
+    "suggestedValue": null,
+    "issueType": "example_mismatch",
+    "severity": "medium",
+    "confidence": 0.85,
+    "reason": "「押し寄せる」動詞用法で、答え「転がり」の名詞語義と不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-05515",
+    "language": "en",
+    "headword": "studied",
+    "field": "example",
+    "currentValue": "He studied the way birds fly.",
+    "suggestedValue": null,
+    "issueType": "example_mismatch",
+    "severity": "medium",
+    "confidence": 0.85,
+    "reason": "「研究した」動詞用法で、答え「熟慮した(意図的な)」の形容詞語義と不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-04741",
+    "language": "en",
+    "headword": "duration",
+    "field": "pronunciation",
+    "currentValue": "/ˈdʊˈɹeɪʃən/",
+    "suggestedValue": "/dʊˈɹeɪʃən/",
+    "issueType": "ipa_error",
+    "severity": "medium",
+    "confidence": 0.85,
+    "reason": "第1音節に不要な主強勢記号が付き強勢が二重。第2音節強勢が正。外部辞書未照合につき要確認。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-04897",
+    "language": "en",
+    "headword": "hurricane",
+    "field": "pronunciation",
+    "currentValue": "/ˈhəɹəˌkeɪnz/",
+    "suggestedValue": "/ˈhəɹəˌkeɪn/",
+    "issueType": "ipa_error",
+    "severity": "medium",
+    "confidence": 0.8,
+    "reason": "見出し語は単数だがIPAが複数形(語尾/z/)を転写。外部辞書未照合につき要確認。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-05969",
+    "language": "en",
+    "headword": "perfume",
+    "field": "pronunciation",
+    "currentValue": "/pɝfˈjum/",
+    "suggestedValue": "/ˈpɝˌfjum/",
+    "issueType": "ipa_uncertain",
+    "severity": "low",
+    "confidence": 0.6,
+    "reason": "名詞は第1音節強勢が通例だがIPAは第2音節強勢。外部辞書未照合につき要確認。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-05801",
+    "language": "en",
+    "headword": "polyphonic",
+    "field": "answer",
+    "currentValue": "対位法の",
+    "suggestedValue": "多声の",
+    "issueType": "translation_nuance",
+    "severity": "low",
+    "confidence": 0.6,
+    "reason": "polyphonicは「多声の・複音の」が主要義。「対位法の」はcounterpoint寄りで別概念。要確認。",
+    "evidence": [],
+    "requiresHumanReview": true
+  }
+]

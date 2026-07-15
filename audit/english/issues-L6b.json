@@ -1,0 +1,1230 @@
+[
+  {
+    "id": "en-20527",
+    "language": "en",
+    "headword": "convincing",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "訳「説得力のある」は形容詞。品詞タグ『動詞』は不一致。",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-20530",
+    "language": "en",
+    "headword": "torch",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "名詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "high",
+    "confidence": 0.97,
+    "reason": "訳「たいまつ」は名詞。品詞タグ『動詞』は不一致。torch=たいまつ（名詞）。動詞用法もあるが訳・例文は名詞",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-20535",
+    "language": "en",
+    "headword": "crowded",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "訳「込み合った」は形容詞。品詞タグ『名詞』は不一致。",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-20546",
+    "language": "en",
+    "headword": "sadly",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "訳「悲しそうに」は副詞。品詞タグ『名詞』は不一致。正しくは副詞（当データセット未使用タグのため導入判断が必要）。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-20553",
+    "language": "en",
+    "headword": "perimeter",
+    "field": "pronunciation",
+    "currentValue": "/pɝˈɪmətɝ/",
+    "suggestedValue": null,
+    "issueType": "ipa_unverified",
+    "severity": "low",
+    "confidence": 0.4,
+    "reason": "機械生成の音声表記。第1音節が/pɝ/だが通常/pə/。要辞書照合。外部発音辞書未照合のため誤りと断定せず要人手確認。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-20556",
+    "language": "en",
+    "headword": "hostile",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "訳「敵意のある」は形容詞。品詞タグ『動詞』は不一致。",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-20561",
+    "language": "en",
+    "headword": "shiny",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "訳「光る」は形容詞。品詞タグ『動詞』は不一致。 訳『光る』は動詞的。shinyは形容詞（光沢のある/ぴかぴかの）",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-20566",
+    "language": "en",
+    "headword": "howdy",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "間投詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.85,
+    "reason": "「howdy」は間投詞（訳「よう」）。品詞タグ『動詞』は不一致。未使用タグのため要判断。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-20567",
+    "language": "en",
+    "headword": "magician",
+    "field": "tags",
+    "currentValue": [
+      "形容詞"
+    ],
+    "suggestedValue": [
+      "名詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "訳「魔法使い」は名詞。品詞タグ『形容詞』は不一致。magician=手品師/魔術師（名詞）",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-20567",
+    "language": "en",
+    "headword": "magician",
+    "field": "answer",
+    "currentValue": "魔法使い",
+    "suggestedValue": "手品師，マジシャン",
+    "issueType": "meaning_precision",
+    "severity": "low",
+    "confidence": 0.55,
+    "reason": "magicianの第一義は手品師/マジシャン。『魔法使い』はwizard/sorcerer寄り（例文は童話文脈で許容）。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-20576",
+    "language": "en",
+    "headword": "sensible",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "訳「分別がある」は形容詞。品詞タグ『動詞』は不一致。",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-20581",
+    "language": "en",
+    "headword": "awhile",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "訳「しばらく」は副詞。品詞タグ『動詞』は不一致。正しくは副詞（当データセット未使用タグのため導入判断が必要）。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-20582",
+    "language": "en",
+    "headword": "deliberately",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "訳「故意に」は副詞。品詞タグ『名詞』は不一致。正しくは副詞（当データセット未使用タグのため導入判断が必要）。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-20597",
+    "language": "en",
+    "headword": "mentally",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "訳「精神的に」は副詞。品詞タグ『名詞』は不一致。正しくは副詞（当データセット未使用タグのため導入判断が必要）。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-20617",
+    "language": "en",
+    "headword": "vengeance",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "名詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "訳「復しゅう」は名詞。品詞タグ『動詞』は不一致。vengeance=復しゅう（名詞）",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-20619",
+    "language": "en",
+    "headword": "corrupt",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.85,
+    "reason": "訳「腐敗した」は形容詞。品詞タグ『名詞』は不一致。 corruptは動詞用法もあり",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-20621",
+    "language": "en",
+    "headword": "immortal",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.8,
+    "reason": "訳「不死の」は形容詞。品詞タグ『名詞』は不一致。 immortalは名詞（不死者）用法もあり得る",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-20626",
+    "language": "en",
+    "headword": "emotionally",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "訳「感情的に」は副詞。品詞タグ『名詞』は不一致。正しくは副詞（当データセット未使用タグのため導入判断が必要）。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-20633",
+    "language": "en",
+    "headword": "wheelchair",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "名詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "訳「車いす」は名詞。品詞タグ『動詞』は不一致。wheelchair=車いす（名詞）",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-20634",
+    "language": "en",
+    "headword": "underwater",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.85,
+    "reason": "訳「水面下の」は形容詞。品詞タグ『名詞』は不一致。 underwaterは形容詞/副詞。名詞用法は稀",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-20642",
+    "language": "en",
+    "headword": "ambitious",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "訳「野心のある」は形容詞。品詞タグ『動詞』は不一致。",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-20654",
+    "language": "en",
+    "headword": "suspenseful",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.97,
+    "reason": "訳「ハラハラする」は形容詞。品詞タグ『動詞』は不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-20656",
+    "language": "en",
+    "headword": "precinct",
+    "field": "pronunciation",
+    "currentValue": "/ˈpɹiˌsɪŋk/",
+    "suggestedValue": null,
+    "issueType": "ipa_unverified",
+    "severity": "low",
+    "confidence": 0.4,
+    "reason": "機械生成の音声表記。語末/t/欠落の可能性（通常/ˈpriːsɪŋkt/）。外部発音辞書未照合のため誤りと断定せず要人手確認。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-20662",
+    "language": "en",
+    "headword": "sharply",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "訳「鋭く」は副詞。品詞タグ『動詞』は不一致。正しくは副詞（当データセット未使用タグのため導入判断が必要）。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-20663",
+    "language": "en",
+    "headword": "wardrobe",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "名詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "訳「衣装だんす」は名詞。品詞タグ『動詞』は不一致。wardrobe=衣装だんす（名詞）",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-20668",
+    "language": "en",
+    "headword": "thankful",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "訳「感謝している」は形容詞。品詞タグ『動詞』は不一致。",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-20676",
+    "language": "en",
+    "headword": "heavenly",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.97,
+    "reason": "訳「天の」は形容詞。品詞タグ『名詞』は不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-20681",
+    "language": "en",
+    "headword": "respectable",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "訳「ちゃんとした」は形容詞。品詞タグ『名詞』は不一致。",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-20705",
+    "language": "en",
+    "headword": "pretended",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "訳「ふりをした，見せかけの」は形容詞。品詞タグ『名詞』は不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-20710",
+    "language": "en",
+    "headword": "lightly",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "訳「軽く」は副詞。品詞タグ『動詞』は不一致。正しくは副詞（当データセット未使用タグのため導入判断が必要）。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-20713",
+    "language": "en",
+    "headword": "lethal",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "訳「致死の」は形容詞。品詞タグ『名詞』は不一致。",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-20720",
+    "language": "en",
+    "headword": "gladly",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "訳「喜んで」は副詞。品詞タグ『名詞』は不一致。正しくは副詞（当データセット未使用タグのため導入判断が必要）。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-20727",
+    "language": "en",
+    "headword": "supposedly",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "訳「おそらく」は副詞。品詞タグ『動詞』は不一致。正しくは副詞（当データセット未使用タグのため導入判断が必要）。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-20729",
+    "language": "en",
+    "headword": "thoughtful",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "訳「思いやりのある」は形容詞。品詞タグ『動詞』は不一致。",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-20733",
+    "language": "en",
+    "headword": "exploded",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "explodedは動詞explodeの過去形/過去分詞。訳「爆発した」。名詞タグは不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-20735",
+    "language": "en",
+    "headword": "drunken",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "訳「酒に酔った」は形容詞。品詞タグ『名詞』は不一致。",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-20740",
+    "language": "en",
+    "headword": "forensic",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.97,
+    "reason": "訳「法医学の」は形容詞。品詞タグ『名詞』は不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-20747",
+    "language": "en",
+    "headword": "yah",
+    "field": "tags",
+    "currentValue": [
+      "形容詞"
+    ],
+    "suggestedValue": [
+      "間投詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.85,
+    "reason": "「yah」は間投詞（訳「やあい」）。品詞タグ『形容詞』は不一致。未使用タグのため要判断。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-20749",
+    "language": "en",
+    "headword": "arresting",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "訳「人の注意をひく」は形容詞。品詞タグ『動詞』は不一致。 arresting=人の注意をひく（形容詞用法）",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-20771",
+    "language": "en",
+    "headword": "destined",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.97,
+    "reason": "訳「運命づけられた」は形容詞。品詞タグ『名詞』は不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-20774",
+    "language": "en",
+    "headword": "utterly",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "訳「全く」は副詞。品詞タグ『動詞』は不一致。正しくは副詞（当データセット未使用タグのため導入判断が必要）。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-20775",
+    "language": "en",
+    "headword": "farther",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "訳「さらに遠く」は副詞。品詞タグ『動詞』は不一致。正しくは副詞（当データセット未使用タグのため導入判断が必要）。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-20808",
+    "language": "en",
+    "headword": "condemned",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "訳「有罪を宣告された」は形容詞。品詞タグ『名詞』は不一致。 condemned=有罪を宣告された（過去分詞/形容詞）",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-20818",
+    "language": "en",
+    "headword": "lively",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.97,
+    "reason": "訳「生気にあふれた」は形容詞。品詞タグ『名詞』は不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-20820",
+    "language": "en",
+    "headword": "primitive",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "訳「原始の」は形容詞。品詞タグ『名詞』は不一致。 primitiveは名詞用法もあり",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-20823",
+    "language": "en",
+    "headword": "peculiar",
+    "field": "pronunciation",
+    "currentValue": "/pəkˈjuɫjɝ/",
+    "suggestedValue": null,
+    "issueType": "ipa_unverified",
+    "severity": "low",
+    "confidence": 0.4,
+    "reason": "機械生成の音声表記。音節区切り・強勢が非典型。外部発音辞書未照合のため誤りと断定せず要人手確認。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-20833",
+    "language": "en",
+    "headword": "classy",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "訳「高級な」は形容詞。品詞タグ『名詞』は不一致。 tidyは動詞用法もあり要確認",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-20837",
+    "language": "en",
+    "headword": "cosmic",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "訳「宇宙の」は形容詞。品詞タグ『名詞』は不一致。",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-20841",
+    "language": "en",
+    "headword": "alas",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "間投詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.85,
+    "reason": "「alas」は間投詞（訳「ああ」）。品詞タグ『名詞』は不一致。未使用タグのため要判断。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-20855",
+    "language": "en",
+    "headword": "beggar",
+    "field": "tags",
+    "currentValue": [
+      "形容詞"
+    ],
+    "suggestedValue": [
+      "名詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "訳「物乞い」は名詞。品詞タグ『形容詞』は不一致。beggar=物乞い（名詞）",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-20862",
+    "language": "en",
+    "headword": "sincerely",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "訳「心から」は副詞。品詞タグ『名詞』は不一致。正しくは副詞（当データセット未使用タグのため導入判断が必要）。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-20863",
+    "language": "en",
+    "headword": "madman",
+    "field": "tags",
+    "currentValue": [
+      "形容詞"
+    ],
+    "suggestedValue": [
+      "名詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "訳「気違い」は名詞。品詞タグ『形容詞』は不一致。madman=気違い（名詞）",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-20863",
+    "language": "en",
+    "headword": "madman",
+    "field": "answer",
+    "currentValue": "気違い",
+    "suggestedValue": "狂人",
+    "issueType": "inappropriate_term",
+    "severity": "medium",
+    "confidence": 0.8,
+    "reason": "『気違い』は差別的・放送不適切とされる語。学習アプリでは『狂人』等が無難。例文和訳では既に『狂人』を使用。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-20868",
+    "language": "en",
+    "headword": "unemployed",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "訳「失業した」は形容詞。品詞タグ『名詞』は不一致。 the unemployedの名詞用法もあるが例文は形容詞",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-20870",
+    "language": "en",
+    "headword": "hysterical",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "訳「ヒステリーの」は形容詞。品詞タグ『名詞』は不一致。",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-20881",
+    "language": "en",
+    "headword": "underestimate",
+    "field": "pronunciation",
+    "currentValue": "/ˈəndɝˈɛstəˌmeɪt/",
+    "suggestedValue": null,
+    "issueType": "ipa_unverified",
+    "severity": "low",
+    "confidence": 0.4,
+    "reason": "機械生成の音声表記。第1強勢が二重付与。外部発音辞書未照合のため誤りと断定せず要人手確認。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-20891",
+    "language": "en",
+    "headword": "irrelevant",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "訳「見当違いの」は形容詞。品詞タグ『名詞』は不一致。",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-20898",
+    "language": "en",
+    "headword": "sweaty",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "訳「汗をかいている」は形容詞。品詞タグ『動詞』は不一致。",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-20904",
+    "language": "en",
+    "headword": "acquaintance",
+    "field": "tags",
+    "currentValue": [
+      "形容詞"
+    ],
+    "suggestedValue": [
+      "名詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "訳「知り合い」は名詞。品詞タグ『形容詞』は不一致。acquaintance=知り合い（名詞）",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-20909",
+    "language": "en",
+    "headword": "cupboard",
+    "field": "tags",
+    "currentValue": [
+      "形容詞"
+    ],
+    "suggestedValue": [
+      "名詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "訳「食器だな」は名詞。品詞タグ『形容詞』は不一致。cupboard=食器だな（名詞）",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-20911",
+    "language": "en",
+    "headword": "purely",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "訳「純粋に」は副詞。品詞タグ『名詞』は不一致。正しくは副詞（当データセット未使用タグのため導入判断が必要）。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-20936",
+    "language": "en",
+    "headword": "massacre",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.97,
+    "reason": "訳「大虐殺」は形容詞。品詞タグ『名詞』は不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-20965",
+    "language": "en",
+    "headword": "strangely",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "訳「奇妙に」は副詞。品詞タグ『名詞』は不一致。正しくは副詞（当データセット未使用タグのため導入判断が必要）。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-20966",
+    "language": "en",
+    "headword": "utter",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "訳「全くの」は形容詞。品詞タグ『名詞』は不一致。 utterは動詞用法もあるが訳『全くの』は形容詞",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-20971",
+    "language": "en",
+    "headword": "drone",
+    "field": "example",
+    "currentValue": "Well, unmanned drones likely lack style, right. — 無人機じゃ味気ないだろ。",
+    "suggestedValue": "自然な英文例へ差し替え（例: A small drone flew over the field.）",
+    "issueType": "unnatural_english",
+    "severity": "low",
+    "confidence": 0.7,
+    "reason": "英文が不自然（口語的破綻気味）。文法誤りではないが例文品質が低い。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-20973",
+    "language": "en",
+    "headword": "permanently",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "訳「永久に」は副詞。品詞タグ『名詞』は不一致。正しくは副詞（当データセット未使用タグのため導入判断が必要）。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-20991",
+    "language": "en",
+    "headword": "gifted",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "high",
+    "confidence": 0.98,
+    "reason": "訳「才能のある」は形容詞。品詞タグ『動詞』は不一致。",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "en-20993",
+    "language": "en",
+    "headword": "solitary",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.97,
+    "reason": "訳「ひとりぼっちの」は形容詞。品詞タグ『名詞』は不一致。 solitaryは名詞（独房）用法もあり",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-20995",
+    "language": "en",
+    "headword": "biting",
+    "field": "example",
+    "currentValue": "They were biting like crazy yesterday. — いやぁ、昨日は入れ食いでねえ。",
+    "suggestedValue": "答え『鋭い』の語義を示す例文へ差し替え",
+    "issueType": "example_sense_mismatch",
+    "severity": "medium",
+    "confidence": 0.85,
+    "reason": "answer『鋭い』はbiting=刺すような（寒さ・風・皮肉）の意。例文は魚が食いつく別義（入れ食い）で語義不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-20997",
+    "language": "en",
+    "headword": "slack",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.85,
+    "reason": "訳「緩んだ」は形容詞。品詞タグ『名詞』は不一致。 slackは名詞（たるみ）用法もあるが例文・訳は形容詞",
+    "evidence": [],
+    "requiresHumanReview": true
+  }
+]

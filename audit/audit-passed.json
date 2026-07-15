@@ -1,4 +1,10 @@
 {
+  "english": {
+    "total": 8136,
+    "flagged": 1051,
+    "passed": 7085,
+    "note": "passed=母集合ID − 問題ID。全IDが検査対象として捕捉されていることを ids.json で担保"
+  },
   "chinese": {
     "total": 4201,
     "flagged": 0,

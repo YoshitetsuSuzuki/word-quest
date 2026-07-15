@@ -1,0 +1,15 @@
+{
+  "batchId": "en_L5c",
+  "language": "en",
+  "file": "level-5.json[978:)",
+  "totalEntries": 484,
+  "checkedEntries": 484,
+  "errors": 1,
+  "warnings": 11,
+  "needsHumanReview": 13,
+  "notVerified": 0,
+  "passed": 471,
+  "status": "completed",
+  "externalSourcesChecked": [],
+  "notes": "IPAは外部辞書と照合していないため綴り・語義・例文の内的整合のみで判定。IPAに断定的な誤り指摘は行っていない。tagsフィールド（品詞メタ）に名詞デフォルトの誤りが多数あるが、検査5項目（綴り/IPA/和訳の主要義・品詞/例文用法/例文和訳）の範囲外のため個別issue化していない。"
+}

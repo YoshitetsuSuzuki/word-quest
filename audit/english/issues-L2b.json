@@ -1,0 +1,928 @@
+[
+  {
+    "id": "en-01173",
+    "language": "en",
+    "headword": "slightly",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "「slightly」(和訳「わずかに」・例文中の用法)は副詞であり、tagの名詞は品詞不一致",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-01176",
+    "language": "en",
+    "headword": "nuclear",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "「nuclear」(和訳「核の」・例文中の用法)は形容詞であり、tagの名詞は品詞不一致",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-01212",
+    "language": "en",
+    "headword": "conflict",
+    "field": "tags",
+    "currentValue": [
+      "形容詞"
+    ],
+    "suggestedValue": [
+      "名詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "「conflict」(和訳「争い」・例文中の用法)は名詞であり、tagの形容詞は品詞不一致",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-01213",
+    "language": "en",
+    "headword": "excellent",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "「excellent」(和訳「すぐれた」・例文中の用法)は形容詞であり、tagの名詞は品詞不一致",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-01225",
+    "language": "en",
+    "headword": "emerge",
+    "field": "pronunciation",
+    "currentValue": "/ˈimɝdʒ/",
+    "suggestedValue": "/ɪˈmɝdʒ/",
+    "issueType": "ipa_not_verified",
+    "severity": "medium",
+    "confidence": 0.7,
+    "reason": "動詞emergeは第2音節に強勢、第1音節母音は/ɪ/。現行は第1音節強勢で誤り(外部辞書未照合のため要確認)",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-01233",
+    "language": "en",
+    "headword": "decrease",
+    "field": "pronunciation",
+    "currentValue": "/ˈdiˌkɹis/",
+    "suggestedValue": "/dɪˈkɹis/",
+    "issueType": "ipa_not_verified",
+    "severity": "medium",
+    "confidence": 0.7,
+    "reason": "動詞decreaseは第2音節に強勢。現行は名詞形の強勢パターン(外部辞書未照合のため要確認)",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-01255",
+    "language": "en",
+    "headword": "entire",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "「entire」(和訳「全体の」・例文中の用法)は形容詞であり、tagの名詞は品詞不一致",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-01271",
+    "language": "en",
+    "headword": "currently",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "「currently」(和訳「現在は」・例文中の用法)は副詞であり、tagの名詞は品詞不一致",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-01275",
+    "language": "en",
+    "headword": "commercial",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "「commercial」(和訳「商業上の」・例文中の用法)は形容詞であり、tagの名詞は品詞不一致",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-01276",
+    "language": "en",
+    "headword": "basically",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "「basically」(和訳「基本的に」・例文中の用法)は副詞であり、tagの名詞は品詞不一致",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-01302",
+    "language": "en",
+    "headword": "unfortunately",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "「unfortunately」(和訳「残念ながら」・例文中の用法)は副詞であり、tagの名詞は品詞不一致",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-01314",
+    "language": "en",
+    "headword": "relatively",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "「relatively」(和訳「比較的」・例文中の用法)は副詞であり、tagの名詞は品詞不一致",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-01319",
+    "language": "en",
+    "headword": "somewhere",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "「somewhere」(和訳「どこかに」・例文中の用法)は副詞であり、tagの名詞は品詞不一致",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-01334",
+    "language": "en",
+    "headword": "secret",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "「secret」(和訳「秘密の」・例文中の用法)は形容詞であり、tagの名詞は品詞不一致",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-01343",
+    "language": "en",
+    "headword": "afraid",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "「afraid」(和訳「恐れて」・例文中の用法)は形容詞であり、tagの名詞は品詞不一致",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-01344",
+    "language": "en",
+    "headword": "environmental",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "「environmental」(和訳「環境の」・例文中の用法)は形容詞であり、tagの名詞は品詞不一致",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-01359",
+    "language": "en",
+    "headword": "extremely",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "「extremely」(和訳「極端に」・例文中の用法)は副詞であり、tagの名詞は品詞不一致",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-01362",
+    "language": "en",
+    "headword": "apparently",
+    "field": "tags",
+    "currentValue": [
+      "形容詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "「apparently」(和訳「どうやら〜らしい」・例文中の用法)は副詞であり、tagの形容詞は品詞不一致",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-01372",
+    "language": "en",
+    "headword": "hardly",
+    "field": "tags",
+    "currentValue": [
+      "形容詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "「hardly」(和訳「ほとんど〜ない」・例文中の用法)は副詞であり、tagの形容詞は品詞不一致",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-01374",
+    "language": "en",
+    "headword": "religious",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "「religious」(和訳「宗教の」・例文中の用法)は形容詞であり、tagの名詞は品詞不一致",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-01388",
+    "language": "en",
+    "headword": "historical",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "「historical」(和訳「歴史の」・例文中の用法)は形容詞であり、tagの名詞は品詞不一致",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-01392",
+    "language": "en",
+    "headword": "mostly",
+    "field": "tags",
+    "currentValue": [
+      "形容詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "「mostly」(和訳「たいてい」・例文中の用法)は副詞であり、tagの形容詞は品詞不一致",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-01403",
+    "language": "en",
+    "headword": "furthermore",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "「furthermore」(和訳「さらに」・例文中の用法)は副詞であり、tagの名詞は品詞不一致",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-01411",
+    "language": "en",
+    "headword": "export",
+    "field": "pronunciation",
+    "currentValue": "/ˈɛkspɔɹt/",
+    "suggestedValue": "/ɪkˈspɔɹt/",
+    "issueType": "ipa_not_verified",
+    "severity": "medium",
+    "confidence": 0.7,
+    "reason": "動詞exportは第2音節に強勢。現行は名詞形の強勢パターン(外部辞書未照合のため要確認)",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-01429",
+    "language": "en",
+    "headword": "actual",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "「actual」(和訳「現実の」・例文中の用法)は形容詞であり、tagの名詞は品詞不一致",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-01431",
+    "language": "en",
+    "headword": "corporate",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "「corporate」(和訳「法人の」・例文中の用法)は形容詞であり、tagの名詞は品詞不一致",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-01445",
+    "language": "en",
+    "headword": "recall",
+    "field": "pronunciation",
+    "currentValue": "/ˈɹiˌkɔɫ/",
+    "suggestedValue": "/ɹɪˈkɔɫ/",
+    "issueType": "ipa_not_verified",
+    "severity": "medium",
+    "confidence": 0.7,
+    "reason": "動詞recallは第2音節に強勢。現行は名詞寄りの強勢(外部辞書未照合のため要確認)",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-01451",
+    "language": "en",
+    "headword": "usual",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "「usual」(和訳「いつもの」・例文中の用法)は形容詞であり、tagの名詞は品詞不一致",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-01453",
+    "language": "en",
+    "headword": "opposite",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "「opposite」(和訳「反対の」・例文中の用法)は形容詞であり、tagの名詞は品詞不一致",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-01458",
+    "language": "en",
+    "headword": "carefully",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "「carefully」(和訳「注意深く」・例文中の用法)は副詞であり、tagの動詞は品詞不一致",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-01460",
+    "language": "en",
+    "headword": "possibly",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "「possibly」(和訳「ひょっとしたら」・例文中の用法)は副詞であり、tagの名詞は品詞不一致",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-01466",
+    "language": "en",
+    "headword": "slowly",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "「slowly」(和訳「ゆっくり」・例文中の用法)は副詞であり、tagの名詞は品詞不一致",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-01467",
+    "language": "en",
+    "headword": "relevant",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "「relevant」(和訳「関連する」・例文中の用法)は形容詞であり、tagの動詞は品詞不一致",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-01476",
+    "language": "en",
+    "headword": "domestic",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "「domestic」(和訳「家庭の」・例文中の用法)は形容詞であり、tagの名詞は品詞不一致",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-01484",
+    "language": "en",
+    "headword": "civil",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "「civil」(和訳「市民の」・例文中の用法)は形容詞であり、tagの名詞は品詞不一致",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-01486",
+    "language": "en",
+    "headword": "mainly",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "「mainly」(和訳「おもに」・例文中の用法)は副詞であり、tagの名詞は品詞不一致",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-01489",
+    "language": "en",
+    "headword": "totally",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "「totally」(和訳「全く」・例文中の用法)は副詞であり、tagの動詞は品詞不一致",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-01492",
+    "language": "en",
+    "headword": "industrial",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "「industrial」(和訳「産業の」・例文中の用法)は形容詞であり、tagの名詞は品詞不一致",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-01493",
+    "language": "en",
+    "headword": "significantly",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "「significantly」(和訳「著しく」・例文中の用法)は副詞であり、tagの動詞は品詞不一致",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-01503",
+    "language": "en",
+    "headword": "normally",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "「normally」(和訳「通常は」・例文中の用法)は副詞であり、tagの名詞は品詞不一致",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-01517",
+    "language": "en",
+    "headword": "previously",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "「previously」(和訳「以前に」・例文中の用法)は副詞であり、tagの名詞は品詞不一致",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-01525",
+    "language": "en",
+    "headword": "mobile",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "「mobile」(和訳「移動できる」・例文中の用法)は形容詞であり、tagの動詞は品詞不一致",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-01533",
+    "language": "en",
+    "headword": "internal",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "「internal」(和訳「内部の」・例文中の用法)は形容詞であり、tagの名詞は品詞不一致",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-01534",
+    "language": "en",
+    "headword": "suitable",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "「suitable」(和訳「適した」・例文中の用法)は形容詞であり、tagの名詞は品詞不一致",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-01542",
+    "language": "en",
+    "headword": "suspect",
+    "field": "pronunciation",
+    "currentValue": "/ˈsəsˌpɛkt/",
+    "suggestedValue": "/səˈspɛkt/",
+    "issueType": "ipa_not_verified",
+    "severity": "medium",
+    "confidence": 0.7,
+    "reason": "動詞suspectは第2音節に強勢。現行は名詞形の強勢パターン(外部辞書未照合のため要確認)",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-01546",
+    "language": "en",
+    "headword": "largely",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "「largely」(和訳「主として」・例文中の用法)は副詞であり、tagの名詞は品詞不一致",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-01552",
+    "language": "en",
+    "headword": "familiar",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "「familiar」(和訳「なじみのある」・例文中の用法)は形容詞であり、tagの動詞は品詞不一致",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-01565",
+    "language": "en",
+    "headword": "fairly",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "「fairly」(和訳「かなり」・例文中の用法)は副詞であり、tagの名詞は品詞不一致",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-01567",
+    "language": "en",
+    "headword": "permit",
+    "field": "pronunciation",
+    "currentValue": "/ˈpɝˌmɪt/",
+    "suggestedValue": "/pɚˈmɪt/",
+    "issueType": "ipa_not_verified",
+    "severity": "medium",
+    "confidence": 0.7,
+    "reason": "動詞permitは第2音節に強勢。現行は名詞形の強勢パターン(外部辞書未照合のため要確認)",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-01568",
+    "language": "en",
+    "headword": "import",
+    "field": "pronunciation",
+    "currentValue": "/ˈɪmˌpɔɹt/",
+    "suggestedValue": "/ɪmˈpɔɹt/",
+    "issueType": "ipa_not_verified",
+    "severity": "medium",
+    "confidence": 0.7,
+    "reason": "動詞importは第2音節に強勢。現行は名詞形の強勢パターン(外部辞書未照合のため要確認)",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-01579",
+    "language": "en",
+    "headword": "definitely",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "「definitely」(和訳「間違いなく」・例文中の用法)は副詞であり、tagの動詞は品詞不一致",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-01582",
+    "language": "en",
+    "headword": "necessarily",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "「necessarily」(和訳「必ず」・例文中の用法)は副詞であり、tagの名詞は品詞不一致",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "en-01592",
+    "language": "en",
+    "headword": "nevertheless",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "「nevertheless」(和訳「それでもやはり」・例文中の用法)は副詞であり、tagの名詞は品詞不一致",
+    "evidence": [],
+    "requiresHumanReview": true
+  }
+]

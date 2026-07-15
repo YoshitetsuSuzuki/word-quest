@@ -1,0 +1,14 @@
+{
+  "batchId": "en_L5a",
+  "language": "en",
+  "file": "level-5.json[0:489)",
+  "totalEntries": 489,
+  "checkedEntries": 489,
+  "errors": 8,
+  "warnings": 90,
+  "needsHumanReview": 92,
+  "notVerified": 1,
+  "passed": 393,
+  "status": "completed",
+  "externalSourcesChecked": []
+}
