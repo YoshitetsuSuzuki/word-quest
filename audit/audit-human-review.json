@@ -1,5 +1,7880 @@
 [
   {
+    "id": "zh-00105",
+    "language": "zh",
+    "headword": "分",
+    "field": "glosses.en",
+    "currentValue": "to divide",
+    "suggestedValue": "minute",
+    "issueType": "gloss_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "見出し『分』の answer=『分(=時間の分)』・例文『现在是八点十分』(時刻)は時間の『分』。しかし glosses.en='to divide'(分ける)で別義。和訳・例文は正しく、英語グロスのみ不整合。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00223",
+    "language": "zh",
+    "headword": "毛",
+    "field": "glosses.en",
+    "currentValue": "hair",
+    "suggestedValue": "mao (0.1 yuan / colloquial for 角)",
+    "issueType": "gloss_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "answer=『毛，角』・例文『这个东西五毛钱』は貨幣単位(0.1元=1角)。しかし glosses.en='hair'(毛髪)で別義。和訳・例文は正しく英語グロスのみ不整合。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00166",
+    "language": "zh",
+    "headword": "间",
+    "field": "answer",
+    "currentValue": "部屋",
+    "suggestedValue": "（部屋・家を数える）量詞『間』",
+    "issueType": "meaning_precision",
+    "severity": "medium",
+    "confidence": 0.75,
+    "reason": "例文『这是一间大房子』の『间』は建物を数える量詞。単独見出しの『间』は『部屋(room)』そのものではなく量詞用法が主。answer=部屋・和訳『一部屋の大きな家』はやや不正確。学習上の誤解の可能性。要人手確認。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00021",
+    "language": "zh",
+    "headword": "本",
+    "field": "glosses.en",
+    "currentValue": null,
+    "suggestedValue": "measure word for books (volume)",
+    "issueType": "missing_gloss",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "glosses.en 欠落。見出し『本』は書籍の量詞。answer=冊は妥当。英語グロス補完が望ましい。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00043",
+    "language": "zh",
+    "headword": "车上",
+    "field": "glosses.en",
+    "currentValue": null,
+    "suggestedValue": "on/in the vehicle",
+    "issueType": "missing_gloss",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "glosses.en 欠落。answer=車内は妥当。英語グロス補完が望ましい。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00036",
+    "language": "zh",
+    "headword": "差",
+    "field": "tags",
+    "currentValue": "動詞",
+    "suggestedValue": "形容詞",
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.85,
+    "reason": "『差(chà)=劣る』は例文『他的成绩很差』で形容詞用法。tag=動詞は不一致。answer/例文自体は妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00433",
+    "language": "zh",
+    "headword": "有名",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "形容詞",
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.8,
+    "reason": "『有名』answer=有名な・例文『这家饭店很有名』は形容詞(状態述語)。tag=名詞は不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00435",
+    "language": "zh",
+    "headword": "有用",
+    "field": "tags",
+    "currentValue": "動詞",
+    "suggestedValue": "形容詞",
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.75,
+    "reason": "『有用』answer=役に立つ・例文『这本书很有用』は形容詞(状態述語)。tag=動詞は不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00013",
+    "language": "zh",
+    "headword": "帮忙",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "動詞",
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.8,
+    "reason": "『帮忙』(answer=『手伝う』)は動詞/動賓(離合)構造で、例文でも動詞として機能。tag=名詞は品詞不一致。意味・例文自体は妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00040",
+    "language": "zh",
+    "headword": "唱歌",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "動詞",
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.8,
+    "reason": "『唱歌』(answer=『歌を歌う』)は動詞/動賓(離合)構造で、例文でも動詞として機能。tag=名詞は品詞不一致。意味・例文自体は妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00046",
+    "language": "zh",
+    "headword": "吃饭",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "動詞",
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.8,
+    "reason": "『吃饭』(answer=『食事する』)は動詞/動賓(離合)構造で、例文でも動詞として機能。tag=名詞は品詞不一致。意味・例文自体は妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00048",
+    "language": "zh",
+    "headword": "出来",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "動詞",
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.8,
+    "reason": "『出来』(answer=『出てくる』)は動詞/動賓(離合)構造で、例文でも動詞として機能。tag=名詞は品詞不一致。意味・例文自体は妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00049",
+    "language": "zh",
+    "headword": "出去",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "動詞",
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.8,
+    "reason": "『出去』(answer=『出ていく』)は動詞/動賓(離合)構造で、例文でも動詞として機能。tag=名詞は品詞不一致。意味・例文自体は妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00056",
+    "language": "zh",
+    "headword": "打车",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "動詞",
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.8,
+    "reason": "『打车』(answer=『タクシーに乗る』)は動詞/動賓(離合)構造で、例文でも動詞として機能。tag=名詞は品詞不一致。意味・例文自体は妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00057",
+    "language": "zh",
+    "headword": "打电话",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "動詞",
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.8,
+    "reason": "『打电话』(answer=『電話をかける』)は動詞/動賓(離合)構造で、例文でも動詞として機能。tag=名詞は品詞不一致。意味・例文自体は妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00058",
+    "language": "zh",
+    "headword": "打开",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "動詞",
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.8,
+    "reason": "『打开』(answer=『開ける』)は動詞/動賓(離合)構造で、例文でも動詞として機能。tag=名詞は品詞不一致。意味・例文自体は妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00059",
+    "language": "zh",
+    "headword": "打球",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "動詞",
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.8,
+    "reason": "『打球』(answer=『球技をする』)は動詞/動賓(離合)構造で、例文でも動詞として機能。tag=名詞は品詞不一致。意味・例文自体は妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00064",
+    "language": "zh",
+    "headword": "得到",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "動詞",
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.8,
+    "reason": "『得到』(answer=『得る』)は動詞/動賓(離合)構造で、例文でも動詞として機能。tag=名詞は品詞不一致。意味・例文自体は妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00087",
+    "language": "zh",
+    "headword": "读书",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "動詞",
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.8,
+    "reason": "『读书』(answer=『勉強する』)は動詞/動賓(離合)構造で、例文でも動詞として機能。tag=名詞は品詞不一致。意味・例文自体は妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00121",
+    "language": "zh",
+    "headword": "关上",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "動詞",
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.8,
+    "reason": "『关上』(answer=『閉める』)は動詞/動賓(離合)構造で、例文でも動詞として機能。tag=名詞は品詞不一致。意味・例文自体は妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00151",
+    "language": "zh",
+    "headword": "回家",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "動詞",
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.8,
+    "reason": "『回家』(answer=『家に帰る』)は動詞/動賓(離合)構造で、例文でも動詞として機能。tag=名詞は品詞不一致。意味・例文自体は妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00152",
+    "language": "zh",
+    "headword": "回来",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "動詞",
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.8,
+    "reason": "『回来』(answer=『帰ってくる』)は動詞/動賓(離合)構造で、例文でも動詞として機能。tag=名詞は品詞不一致。意味・例文自体は妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00153",
+    "language": "zh",
+    "headword": "回去",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "動詞",
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.8,
+    "reason": "『回去』(answer=『帰っていく』)は動詞/動賓(離合)構造で、例文でも動詞として機能。tag=名詞は品詞不一致。意味・例文自体は妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00162",
+    "language": "zh",
+    "headword": "记住",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "動詞",
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.8,
+    "reason": "『记住』(answer=『しっかり覚える』)は動詞/動賓(離合)構造で、例文でも動詞として機能。tag=名詞は品詞不一致。意味・例文自体は妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00168",
+    "language": "zh",
+    "headword": "见面",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "動詞",
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.8,
+    "reason": "『见面』(answer=『会う』)は動詞/動賓(離合)構造で、例文でも動詞として機能。tag=名詞は品詞不一致。意味・例文自体は妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00177",
+    "language": "zh",
+    "headword": "进来",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "動詞",
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.8,
+    "reason": "『进来』(answer=『入ってくる』)は動詞/動賓(離合)構造で、例文でも動詞として機能。tag=名詞は品詞不一致。意味・例文自体は妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00178",
+    "language": "zh",
+    "headword": "进去",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "動詞",
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.8,
+    "reason": "『进去』(answer=『入っていく』)は動詞/動賓(離合)構造で、例文でも動詞として機能。tag=名詞は品詞不一致。意味・例文自体は妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00183",
+    "language": "zh",
+    "headword": "开车",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "動詞",
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.8,
+    "reason": "『开车』(answer=『車を運転する』)は動詞/動賓(離合)構造で、例文でも動詞として機能。tag=名詞は品詞不一致。意味・例文自体は妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00184",
+    "language": "zh",
+    "headword": "开会",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "動詞",
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.8,
+    "reason": "『开会』(answer=『会議をする』)は動詞/動賓(離合)構造で、例文でも動詞として機能。tag=名詞は品詞不一致。意味・例文自体は妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00185",
+    "language": "zh",
+    "headword": "开玩笑",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "動詞",
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.8,
+    "reason": "『开玩笑』(answer=『冗談を言う』)は動詞/動賓(離合)構造で、例文でも動詞として機能。tag=名詞は品詞不一致。意味・例文自体は妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00187",
+    "language": "zh",
+    "headword": "看病",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "動詞",
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.8,
+    "reason": "『看病』(answer=『診察を受ける』)は動詞/動賓(離合)構造で、例文でも動詞として機能。tag=名詞は品詞不一致。意味・例文自体は妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00188",
+    "language": "zh",
+    "headword": "看到",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "動詞",
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.8,
+    "reason": "『看到』(answer=『見える』)は動詞/動賓(離合)構造で、例文でも動詞として機能。tag=名詞は品詞不一致。意味・例文自体は妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00189",
+    "language": "zh",
+    "headword": "看见",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "動詞",
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.8,
+    "reason": "『看见』(answer=『見える』)は動詞/動賓(離合)構造で、例文でも動詞として機能。tag=名詞は品詞不一致。意味・例文自体は妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00278",
+    "language": "zh",
+    "headword": "起床",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "動詞",
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.8,
+    "reason": "『起床』(answer=『起床する』)は動詞/動賓(離合)構造で、例文でも動詞として機能。tag=名詞は品詞不一致。意味・例文自体は妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00279",
+    "language": "zh",
+    "headword": "起来",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "動詞",
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.8,
+    "reason": "『起来』(answer=『起き上がる』)は動詞/動賓(離合)構造で、例文でも動詞として機能。tag=名詞は品詞不一致。意味・例文自体は妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00306",
+    "language": "zh",
+    "headword": "上班",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "動詞",
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.8,
+    "reason": "『上班』(answer=『出勤する』)は動詞/動賓(離合)構造で、例文でも動詞として機能。tag=名詞は品詞不一致。意味・例文自体は妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00308",
+    "language": "zh",
+    "headword": "上车",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "動詞",
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.8,
+    "reason": "『上车』(answer=『車に乗る』)は動詞/動賓(離合)構造で、例文でも動詞として機能。tag=名詞は品詞不一致。意味・例文自体は妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00310",
+    "language": "zh",
+    "headword": "上课",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "動詞",
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.8,
+    "reason": "『上课』(answer=『授業を受ける』)は動詞/動賓(離合)構造で、例文でも動詞として機能。tag=名詞は品詞不一致。意味・例文自体は妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00311",
+    "language": "zh",
+    "headword": "上网",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "動詞",
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.8,
+    "reason": "『上网』(answer=『ネットをする』)は動詞/動賓(離合)構造で、例文でも動詞として機能。tag=名詞は品詞不一致。意味・例文自体は妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00313",
+    "language": "zh",
+    "headword": "上学",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "動詞",
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.8,
+    "reason": "『上学』(answer=『登校する』)は動詞/動賓(離合)構造で、例文でも動詞として機能。tag=名詞は品詞不一致。意味・例文自体は妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00319",
+    "language": "zh",
+    "headword": "生病",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "動詞",
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.8,
+    "reason": "『生病』(answer=『病気になる』)は動詞/動賓(離合)構造で、例文でも動詞として機能。tag=名詞は品詞不一致。意味・例文自体は妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00320",
+    "language": "zh",
+    "headword": "生气",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "動詞",
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.8,
+    "reason": "『生气』(answer=『怒る』)は動詞/動賓(離合)構造で、例文でも動詞として機能。tag=名詞は品詞不一致。意味・例文自体は妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00338",
+    "language": "zh",
+    "headword": "睡觉",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "動詞",
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.8,
+    "reason": "『睡觉』(answer=『寝る』)は動詞/動賓(離合)構造で、例文でも動詞として機能。tag=名詞は品詞不一致。意味・例文自体は妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00340",
+    "language": "zh",
+    "headword": "说话",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "動詞",
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.8,
+    "reason": "『说话』(answer=『話をする』)は動詞/動賓(離合)構造で、例文でも動詞として機能。tag=名詞は品詞不一致。意味・例文自体は妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00352",
+    "language": "zh",
+    "headword": "听到",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "動詞",
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.8,
+    "reason": "『听到』(answer=『聞こえる』)は動詞/動賓(離合)構造で、例文でも動詞として機能。tag=名詞は品詞不一致。意味・例文自体は妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00353",
+    "language": "zh",
+    "headword": "听见",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "動詞",
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.8,
+    "reason": "『听见』(answer=『聞こえる』)は動詞/動賓(離合)構造で、例文でも動詞として機能。tag=名詞は品詞不一致。意味・例文自体は妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00380",
+    "language": "zh",
+    "headword": "下班",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "動詞",
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.8,
+    "reason": "『下班』(answer=『退勤する』)は動詞/動賓(離合)構造で、例文でも動詞として機能。tag=名詞は品詞不一致。意味・例文自体は妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00382",
+    "language": "zh",
+    "headword": "下车",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "動詞",
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.8,
+    "reason": "『下车』(answer=『車を降りる』)は動詞/動賓(離合)構造で、例文でも動詞として機能。tag=名詞は品詞不一致。意味・例文自体は妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00384",
+    "language": "zh",
+    "headword": "下课",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "動詞",
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.8,
+    "reason": "『下课』(answer=『授業が終わる』)は動詞/動賓(離合)構造で、例文でも動詞として機能。tag=名詞は品詞不一致。意味・例文自体は妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00386",
+    "language": "zh",
+    "headword": "下雨",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "動詞",
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.8,
+    "reason": "『下雨』(answer=『雨が降る』)は動詞/動賓(離合)構造で、例文でも動詞として機能。tag=名詞は品詞不一致。意味・例文自体は妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00452",
+    "language": "zh",
+    "headword": "找到",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "動詞",
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.8,
+    "reason": "『找到』(answer=『見つける』)は動詞/動賓(離合)構造で、例文でも動詞として機能。tag=名詞は品詞不一致。意味・例文自体は妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00478",
+    "language": "zh",
+    "headword": "走路",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "動詞",
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.8,
+    "reason": "『走路』(answer=『歩く』)は動詞/動賓(離合)構造で、例文でも動詞として機能。tag=名詞は品詞不一致。意味・例文自体は妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00486",
+    "language": "zh",
+    "headword": "坐下",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "動詞",
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.8,
+    "reason": "『坐下』(answer=『座る』)は動詞/動賓(離合)構造で、例文でも動詞として機能。tag=名詞は品詞不一致。意味・例文自体は妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00031",
+    "language": "zh",
+    "headword": "不客气",
+    "field": "pronunciation",
+    "currentValue": "bù kèqì",
+    "suggestedValue": "bù kèqi",
+    "issueType": "pinyin_not_verified",
+    "severity": "uncertain",
+    "confidence": 0.5,
+    "reason": "『客气』の『气』は通常軽声(kèqi)。現データは kèqì(第4声)。規範辞書未照合のため not_verified。声調表記の慣習差の可能性あり。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00500",
+    "language": "zh",
+    "headword": "报名",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "動作を表す動詞（和訳も『〜する』系）だが名詞と分類されている。品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00512",
+    "language": "zh",
+    "headword": "变成",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "動作を表す動詞（和訳も『〜する』系）だが名詞と分類されている。品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00554",
+    "language": "zh",
+    "headword": "出国",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "動作を表す動詞（和訳も『〜する』系）だが名詞と分類されている。品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00556",
+    "language": "zh",
+    "headword": "出门",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "動作を表す動詞（和訳も『〜する』系）だが名詞と分類されている。品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00559",
+    "language": "zh",
+    "headword": "出院",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "動作を表す動詞（和訳も『〜する』系）だが名詞と分類されている。品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00571",
+    "language": "zh",
+    "headword": "打工",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "動作を表す動詞（和訳も『〜する』系）だが名詞と分類されている。品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00587",
+    "language": "zh",
+    "headword": "带来",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "動作を表す動詞（和訳も『〜する』系）だが名詞と分類されている。品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00600",
+    "language": "zh",
+    "headword": "得出",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "動作を表す動詞（和訳も『〜する』系）だが名詞と分類されている。品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00608",
+    "language": "zh",
+    "headword": "点头",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "動作を表す動詞（和訳も『〜する』系）だが名詞と分類されている。品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00641",
+    "language": "zh",
+    "headword": "放下",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "動作を表す動詞（和訳も『〜する』系）だが名詞と分類されている。品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00642",
+    "language": "zh",
+    "headword": "放心",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "動作を表す動詞（和訳も『〜する』系）だが名詞と分類されている。品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00643",
+    "language": "zh",
+    "headword": "分开",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "動作を表す動詞（和訳も『〜する』系）だが名詞と分類されている。品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00653",
+    "language": "zh",
+    "headword": "干杯",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "動作を表す動詞（和訳も『〜する』系）だが名詞と分類されている。品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00658",
+    "language": "zh",
+    "headword": "干活儿",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "動作を表す動詞（和訳も『〜する』系）だが名詞と分類されている。品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00679",
+    "language": "zh",
+    "headword": "关机",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "動作を表す動詞（和訳も『〜する』系）だが名詞と分類されている。品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00686",
+    "language": "zh",
+    "headword": "过年",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "動作を表す動詞（和訳も『〜する』系）だが名詞と分類されている。品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00718",
+    "language": "zh",
+    "headword": "回国",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "動作を表す動詞（和訳も『〜する』系）だが名詞と分類されている。品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00735",
+    "language": "zh",
+    "headword": "见到",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "動作を表す動詞（和訳も『〜する』系）だが名詞と分類されている。品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00742",
+    "language": "zh",
+    "headword": "交给",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "動作を表す動詞（和訳も『〜する』系）だが名詞と分類されている。品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00755",
+    "language": "zh",
+    "headword": "接到",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "動作を表す動詞（和訳も『〜する』系）だが名詞と分類されている。品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00782",
+    "language": "zh",
+    "headword": "开机",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "動作を表す動詞（和訳も『〜する』系）だが名詞と分類されている。品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00784",
+    "language": "zh",
+    "headword": "开学",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "動作を表す動詞（和訳も『〜する』系）だが名詞と分類されている。品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00815",
+    "language": "zh",
+    "headword": "离开",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "動作を表す動詞（和訳も『〜する』系）だが名詞と分類されている。品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00830",
+    "language": "zh",
+    "headword": "留下",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "動作を表す動詞（和訳も『〜する』系）だが名詞と分類されている。品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00852",
+    "language": "zh",
+    "headword": "拿出",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "動作を表す動詞（和訳も『〜する』系）だが名詞と分類されている。品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00853",
+    "language": "zh",
+    "headword": "拿到",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "動作を表す動詞（和訳も『〜する』系）だが名詞と分類されている。品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00503",
+    "language": "zh",
+    "headword": "背",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "名詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.85,
+    "reason": "和訳『背中』・拼音bèiは身体の『背』（名詞）。動詞と分類されているが名詞が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00626",
+    "language": "zh",
+    "headword": "对话",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "名詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.8,
+    "reason": "和訳『対話』・例文も名詞用法（这段对话）。動詞分類は不一致、名詞が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00526",
+    "language": "zh",
+    "headword": "不少",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.85,
+    "reason": "状態・性質を表す形容詞（和訳も形容詞的）だが名詞と分類されている。品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00527",
+    "language": "zh",
+    "headword": "不同",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.85,
+    "reason": "状態・性質を表す形容詞（和訳も形容詞的）だが名詞と分類されている。品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00542",
+    "language": "zh",
+    "headword": "常见",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.85,
+    "reason": "状態・性質を表す形容詞（和訳も形容詞的）だが名詞と分類されている。品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00543",
+    "language": "zh",
+    "headword": "常用",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.85,
+    "reason": "状態・性質を表す形容詞（和訳も形容詞的）だが名詞と分類されている。品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00517",
+    "language": "zh",
+    "headword": "不但",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "接続詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.6,
+    "reason": "接続詞（しかし／あるいは／しかも等）だが名詞と分類。ただし本データの品詞体系が接続詞を持つか未確認のため要人手確認。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00519",
+    "language": "zh",
+    "headword": "不过",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "接続詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.6,
+    "reason": "接続詞（しかし／あるいは／しかも等）だが名詞と分類。ただし本データの品詞体系が接続詞を持つか未確認のため要人手確認。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00589",
+    "language": "zh",
+    "headword": "但",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "接続詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.6,
+    "reason": "接続詞（しかし／あるいは／しかも等）だが名詞と分類。ただし本データの品詞体系が接続詞を持つか未確認のため要人手確認。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00590",
+    "language": "zh",
+    "headword": "但是",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "接続詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.6,
+    "reason": "接続詞（しかし／あるいは／しかも等）だが名詞と分類。ただし本データの品詞体系が接続詞を持つか未確認のため要人手確認。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00632",
+    "language": "zh",
+    "headword": "而且",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "接続詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.6,
+    "reason": "接続詞（しかし／あるいは／しかも等）だが名詞と分類。ただし本データの品詞体系が接続詞を持つか未確認のため要人手確認。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00720",
+    "language": "zh",
+    "headword": "或",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "接続詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.6,
+    "reason": "接続詞（しかし／あるいは／しかも等）だが名詞と分類。ただし本データの品詞体系が接続詞を持つか未確認のため要人手確認。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00721",
+    "language": "zh",
+    "headword": "或者",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "接続詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.6,
+    "reason": "接続詞（しかし／あるいは／しかも等）だが名詞と分類。ただし本データの品詞体系が接続詞を持つか未確認のため要人手確認。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00793",
+    "language": "zh",
+    "headword": "可是",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "接続詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.6,
+    "reason": "接続詞（しかし／あるいは／しかも等）だが名詞と分類。ただし本データの品詞体系が接続詞を持つか未確認のため要人手確認。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00752",
+    "language": "zh",
+    "headword": "教学",
+    "field": "example",
+    "currentValue": "老师的教学很认真。 — 先生の教育はとてもまじめだ。",
+    "suggestedValue": "老师的教学很认真。 — 先生の教え方（授業）はとても真剣だ。",
+    "issueType": "translation_mismatch",
+    "severity": "low",
+    "confidence": 0.7,
+    "reason": "見出し語は『教学（教えること／授業）』だが和訳が『教育』になっており見出しとずれる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00960",
+    "language": "zh",
+    "headword": "收入",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "名詞",
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "answer「収入」は名詞だが tags が『動詞』。例文『他的收入很高』も名詞用法。tagsを名詞へ。",
+    "evidence": [],
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01057",
+    "language": "zh",
+    "headword": "响",
+    "field": "tags",
+    "currentValue": "形容詞",
+    "suggestedValue": "動詞",
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.92,
+    "reason": "answer「鳴る」・例文『电话响了』は動詞用法だが tags が『形容詞』。動詞へ。",
+    "evidence": [],
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01071",
+    "language": "zh",
+    "headword": "笑话",
+    "field": "tags",
+    "currentValue": "動詞",
+    "suggestedValue": "名詞",
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "answer「冗談」・例文『他讲了一个笑话』は名詞だが tags が『動詞』。名詞へ。",
+    "evidence": [],
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01192",
+    "language": "zh",
+    "headword": "中级",
+    "field": "tags",
+    "currentValue": "形容詞",
+    "suggestedValue": "名詞",
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.88,
+    "reason": "answer「中級」・例文『他考过了中级』は名詞用法だが tags が『形容詞』。名詞へ。",
+    "evidence": [],
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01216",
+    "language": "zh",
+    "headword": "组",
+    "field": "tags",
+    "currentValue": "動詞",
+    "suggestedValue": "名詞",
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.85,
+    "reason": "answer「グループ」・例文『分成了三个组』は名詞（量詞的）だが tags が『動詞』。名詞へ。",
+    "evidence": [],
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01023",
+    "language": "zh",
+    "headword": "晚安",
+    "field": "tags",
+    "currentValue": "動詞",
+    "suggestedValue": "感嘆詞",
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.8,
+    "reason": "「晚安（おやすみなさい）」は挨拶語（感嘆詞相当）だが tags が『動詞』。",
+    "evidence": [],
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00988",
+    "language": "zh",
+    "headword": "疼",
+    "field": "tags",
+    "currentValue": "動詞",
+    "suggestedValue": "形容詞",
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.6,
+    "reason": "answer「痛い」は日本語では形容詞だが tags『動詞』。中国語では状態動詞/形容詞の境界的語で、判定は確信度中。",
+    "evidence": [],
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00925",
+    "language": "zh",
+    "headword": "然后",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "接続詞",
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "「然后（それから）」は接続詞（連詞）だが tags が『名詞』。後述の系統的タグ誤りの一部。",
+    "evidence": [],
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00934",
+    "language": "zh",
+    "headword": "如果",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "接続詞",
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "「如果（もし）」は接続詞（連詞）だが tags が『名詞』。後述の系統的タグ誤りの一部。",
+    "evidence": [],
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00974",
+    "language": "zh",
+    "headword": "虽然",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "接続詞",
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "「虽然（〜だけれども）」は接続詞（連詞）だが tags が『名詞』。後述の系統的タグ誤りの一部。",
+    "evidence": [],
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00977",
+    "language": "zh",
+    "headword": "所以",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "接続詞",
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "「所以（だから）」は接続詞（連詞）だが tags が『名詞』。後述の系統的タグ誤りの一部。",
+    "evidence": [],
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01127",
+    "language": "zh",
+    "headword": "因为",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "接続詞",
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "「因为（なぜなら）」は接続詞（連詞）だが tags が『名詞』。後述の系統的タグ誤りの一部。",
+    "evidence": [],
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01189",
+    "language": "zh",
+    "headword": "只要",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "接続詞",
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "「只要（〜さえすれば）」は接続詞（連詞）だが tags が『名詞』。後述の系統的タグ誤りの一部。",
+    "evidence": [],
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00979",
+    "language": "zh",
+    "headword": "它",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "代名詞",
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.85,
+    "reason": "「它（それ）」は代名詞（代詞）だが tags が『名詞』。系統的タグ誤りの一部。",
+    "evidence": [],
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00980",
+    "language": "zh",
+    "headword": "它们",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "代名詞",
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.85,
+    "reason": "「它们（それら）」は代名詞（代詞）だが tags が『名詞』。系統的タグ誤りの一部。",
+    "evidence": [],
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01208",
+    "language": "zh",
+    "headword": "自己",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "代名詞",
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.85,
+    "reason": "「自己（自分）」は代名詞（代詞）だが tags が『名詞』。系統的タグ誤りの一部。",
+    "evidence": [],
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01032",
+    "language": "zh",
+    "headword": "往",
+    "field": "tags",
+    "currentValue": "動詞",
+    "suggestedValue": "前置詞",
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.8,
+    "reason": "「往（〜へ）」は前置詞（介詞）だが tags が『動詞』。系統的タグ誤りの一部。",
+    "evidence": [],
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01033",
+    "language": "zh",
+    "headword": "为",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "前置詞",
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.8,
+    "reason": "「为（〜のために）」は前置詞（介詞）だが tags が『名詞』。系統的タグ誤りの一部。",
+    "evidence": [],
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01061",
+    "language": "zh",
+    "headword": "向",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "前置詞",
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.8,
+    "reason": "「向（〜へ）」は前置詞（介詞）だが tags が『名詞』。系統的タグ誤りの一部。",
+    "evidence": [],
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00992",
+    "language": "zh",
+    "headword": "提高",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "動詞",
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.85,
+    "reason": "「提高（高める）」は動詞（動詞句）だが tags が『名詞』。範囲内で同種（動詞を名詞タグ）が計25件以上あり系統的。代表例として計上。",
+    "evidence": [],
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01021",
+    "language": "zh",
+    "headword": "完成",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "動詞",
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.85,
+    "reason": "「完成（完成する）」は動詞（動詞句）だが tags が『名詞』。範囲内で同種（動詞を名詞タグ）が計25件以上あり系統的。代表例として計上。",
+    "evidence": [],
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00877",
+    "language": "zh",
+    "headword": "碰到",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "動詞",
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.85,
+    "reason": "「碰到（出会う）」は動詞（動詞句）だが tags が『名詞』。範囲内で同種（動詞を名詞タグ）が計25件以上あり系統的。代表例として計上。",
+    "evidence": [],
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01229",
+    "language": "zh",
+    "headword": "做饭",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "動詞",
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.85,
+    "reason": "「做饭（料理する）」は動詞（動詞句）だが tags が『名詞』。範囲内で同種（動詞を名詞タグ）が計25件以上あり系統的。代表例として計上。",
+    "evidence": [],
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01052",
+    "language": "zh",
+    "headword": "下雪",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "動詞",
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.85,
+    "reason": "「下雪（雪が降る）」は動詞（動詞句）だが tags が『名詞』。範囲内で同種（動詞を名詞タグ）が計25件以上あり系統的。代表例として計上。",
+    "evidence": [],
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01150",
+    "language": "zh",
+    "headword": "原来",
+    "field": "answer",
+    "currentValue": "もともと",
+    "suggestedValue": "もともと／なんだ〜だったのか",
+    "issueType": "translation_nuance",
+    "severity": "low",
+    "confidence": 0.55,
+    "reason": "「原来」は①もともと②（気づき）なんだ〜だったのか の2義。例文『原来他是你的朋友』は②の気づき用法で、answer/訳『もともと』は①寄り。要確認。",
+    "evidence": [],
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01196",
+    "language": "zh",
+    "headword": "中医",
+    "field": "answer",
+    "currentValue": "漢方医",
+    "suggestedValue": "漢方（中国医学）／漢方医",
+    "issueType": "translation_nuance",
+    "severity": "low",
+    "confidence": 0.55,
+    "reason": "「中医」は①漢方医学（体系）②漢方医（人）。例文『他相信中医』は①の体系を指すため、answer『漢方医』は文脈とやや不一致。",
+    "evidence": [],
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01211",
+    "language": "zh",
+    "headword": "字典",
+    "field": "answer",
+    "currentValue": "字書",
+    "suggestedValue": "字典／辞書",
+    "issueType": "naturalness",
+    "severity": "low",
+    "confidence": 0.6,
+    "reason": "answer『字書』は現代日本語で不自然。『字典』または『辞書』が自然。",
+    "evidence": [],
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00881",
+    "language": "zh",
+    "headword": "片",
+    "field": "exampleTranslations",
+    "currentValue": "薬を一枚飲んだ",
+    "suggestedValue": "薬を一錠飲んだ",
+    "issueType": "naturalness",
+    "severity": "low",
+    "confidence": 0.6,
+    "reason": "量詞『片』の例文和訳『薬を一枚飲んだ』は日本語の助数詞として不自然。錠剤なら『一錠』が自然。",
+    "evidence": [],
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-00907",
+    "language": "zh",
+    "headword": "晴",
+    "field": "example",
+    "currentValue": "今天天气很晴。",
+    "suggestedValue": "今天天气很晴朗。／今天是晴天。",
+    "issueType": "grammar",
+    "severity": "low",
+    "confidence": 0.55,
+    "reason": "『很+晴』はやや不自然。中国語では『晴朗』を用いるか『晴天』の名詞化が自然。要ネイティブ確認。",
+    "evidence": [],
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01017",
+    "language": "zh",
+    "headword": "腿",
+    "field": "answer",
+    "currentValue": "足",
+    "suggestedValue": "脚（あし・レッグ）",
+    "issueType": "translation_nuance",
+    "severity": "low",
+    "confidence": 0.5,
+    "reason": "「腿」は膝を含む『脚（leg）』。answer『足』は foot と紛らわしい。軽微。",
+    "evidence": [],
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01027",
+    "language": "zh",
+    "headword": "碗",
+    "field": "answer",
+    "currentValue": "茶碗",
+    "suggestedValue": "椀／ボウル",
+    "issueType": "translation_nuance",
+    "severity": "low",
+    "confidence": 0.5,
+    "reason": "「碗」は椀・ボウル全般。例文『一碗米饭』はご飯茶碗だが、語義としては『椀』が広く適切。軽微。",
+    "evidence": [],
+    "externalSourcesChecked": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01234",
+    "language": "zh",
+    "headword": "按照",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "介詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "「按照」は「〜に従って」を表す介詞。名詞ではない",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01235",
+    "language": "zh",
+    "headword": "把",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "介詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "処置文をつくる介詞「把」。名詞ではない",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01249",
+    "language": "zh",
+    "headword": "保险",
+    "field": "tags",
+    "currentValue": [
+      "形容詞"
+    ],
+    "suggestedValue": [
+      "名詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "答え・例文とも名詞「保険」。形容詞タグは不適",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01257",
+    "language": "zh",
+    "headword": "被",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "介詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "受身をつくる介詞「被」。名詞ではない",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01268",
+    "language": "zh",
+    "headword": "变为",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "「変わる」を表す動詞。名詞ではない",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01278",
+    "language": "zh",
+    "headword": "并且",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "連詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "「そして」を表す接続詞（連詞）。名詞ではない",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01279",
+    "language": "zh",
+    "headword": "播出",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "「放映する」を表す動詞。名詞ではない",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01283",
+    "language": "zh",
+    "headword": "不论",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "連詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "「〜を問わず」を表す接続詞。名詞ではない",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01287",
+    "language": "zh",
+    "headword": "不得不",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "「〜せざるを得ない」を表す副詞的表現。名詞ではない",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01289",
+    "language": "zh",
+    "headword": "不仅",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "連詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "「〜だけでなく」を表す接続詞。名詞ではない",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01308",
+    "language": "zh",
+    "headword": "朝",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "介詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "方向を表す介詞「朝」。名詞ではない",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01330",
+    "language": "zh",
+    "headword": "除了",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "介詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "「〜を除いて」を表す介詞。名詞ではない",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01347",
+    "language": "zh",
+    "headword": "达到",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "「達する」を表す動詞。名詞ではない",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01348",
+    "language": "zh",
+    "headword": "打破",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "「打ち破る／割る」を表す動詞。名詞ではない",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01379",
+    "language": "zh",
+    "headword": "定期",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "「定期の」を表す区別詞／連体修飾。動詞ではない",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01415",
+    "language": "zh",
+    "headword": "放到",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "「〜に置く」を表す動詞。名詞ではない",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01421",
+    "language": "zh",
+    "headword": "分组",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "「グループ分けする」を表す動詞。名詞ではない",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01439",
+    "language": "zh",
+    "headword": "赶到",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "「駆けつける」を表す動詞。名詞ではない",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01449",
+    "language": "zh",
+    "headword": "告别",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "「別れを告げる」を表す動詞。名詞ではない",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01504",
+    "language": "zh",
+    "headword": "害怕",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "「怖がる」を表す動詞。名詞ではない",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01547",
+    "language": "zh",
+    "headword": "加工",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "「加工する」を表す動詞。名詞ではない",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01563",
+    "language": "zh",
+    "headword": "建成",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "「完成させる／完成する」を表す動詞。名詞ではない",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01582",
+    "language": "zh",
+    "headword": "结婚",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "「結婚する」を表す離合動詞。名詞ではない",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01585",
+    "language": "zh",
+    "headword": "解开",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "「解く」を表す動詞。名詞ではない",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01611",
+    "language": "zh",
+    "headword": "就是",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "「まさに〜である」を表す副詞・繋辞用法。名詞ではない",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01612",
+    "language": "zh",
+    "headword": "就业",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "「就職する」を表す動詞。名詞ではない",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01626",
+    "language": "zh",
+    "headword": "开业",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "「開業する」を表す動詞。名詞ではない",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01628",
+    "language": "zh",
+    "headword": "看起来",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "「見たところ」を表す動詞句。名詞ではない",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01629",
+    "language": "zh",
+    "headword": "看上去",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "「見た目には」を表す動詞句。名詞ではない",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01654",
+    "language": "zh",
+    "headword": "离婚",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "「離婚する」を表す離合動詞。名詞ではない",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01656",
+    "language": "zh",
+    "headword": "理发",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "「散髪する」を表す離合動詞。名詞ではない",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01665",
+    "language": "zh",
+    "headword": "连忙",
+    "field": "tags",
+    "currentValue": [
+      "副詞"
+    ],
+    "suggestedValue": [
+      "介詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "「〜さえも」を表す介詞。動詞ではない",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01674",
+    "language": "zh",
+    "headword": "领先",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "「リードする」を表す動詞。名詞ではない",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01677",
+    "language": "zh",
+    "headword": "留学",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "「留学する」を表す動詞。名詞ではない",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01686",
+    "language": "zh",
+    "headword": "落后",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "「遅れている」を表す動詞・形容詞。名詞ではない",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01690",
+    "language": "zh",
+    "headword": "慢慢",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "「ゆっくりと」を表す副詞（畳語）。名詞ではない",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01692",
+    "language": "zh",
+    "headword": "没用",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "「役に立たない」を表す形容詞。動詞ではない",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01421",
+    "language": "zh",
+    "headword": "分组",
+    "field": "pronunciation",
+    "currentValue": "fēn zǔ",
+    "suggestedValue": "fēnzǔ",
+    "issueType": "pinyin_format",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "二音節一語の拼音は分かち書きせず連結表記が標準",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01497",
+    "language": "zh",
+    "headword": "国内",
+    "field": "pronunciation",
+    "currentValue": "guó nèi",
+    "suggestedValue": "guónèi",
+    "issueType": "pinyin_format",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "二音節一語の拼音は分かち書きせず連結表記が標準",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01586",
+    "language": "zh",
+    "headword": "金",
+    "field": "example",
+    "currentValue": "这是一块金。 — これは金の塊だ。",
+    "suggestedValue": "这是一块金子。 — これは金の塊だ。",
+    "issueType": "example_usage",
+    "severity": "medium",
+    "confidence": 0.82,
+    "reason": "名詞「金（gold）」は通常「金子／黄金」を用いる。「一块金」は不自然",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01650",
+    "language": "zh",
+    "headword": "乐",
+    "field": "example",
+    "currentValue": "听到这个消息他很乐。 — この知らせを聞いて彼はとても楽しんだ。",
+    "suggestedValue": "听到这个消息他很高兴。 — この知らせを聞いて彼はとても喜んだ。",
+    "issueType": "example_usage",
+    "severity": "medium",
+    "confidence": 0.8,
+    "reason": "「很乐」は現代中国語として不自然。単独形容詞「乐」の程度修飾は口語的に不自然",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01967",
+    "language": "zh",
+    "headword": "文明",
+    "field": "exampleTranslation",
+    "currentValue": "私たちは文明な人にならなければならない。",
+    "suggestedValue": "私たちはマナーを守る人にならなければならない。",
+    "issueType": "translation_naturalness",
+    "severity": "medium",
+    "confidence": 0.75,
+    "reason": "例文の文明は形容詞用法(礼儀正しい/教養ある)だが、answerは名詞『文明』。訳語『文明な人』は日本語として不自然。日中同形異義の可能性。外部辞書未照合のため要確認。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-02160",
+    "language": "zh",
+    "headword": "自觉",
+    "field": "answer",
+    "currentValue": "自覚している",
+    "suggestedValue": "自主的だ／自発的だ",
+    "issueType": "meaning_sense_mismatch",
+    "severity": "medium",
+    "confidence": 0.7,
+    "reason": "例文『他学习很自觉』の自觉は『自律的/自発的』の意。日本語『自覚』(self-awareness)とは意味がずれる日中同形異義。訳『自覚的だ』も不自然。要確認。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-02091",
+    "language": "zh",
+    "headword": "整",
+    "field": "example",
+    "currentValue": "(null)",
+    "suggestedValue": "例文を補う(例: 他工作了整整一天。)",
+    "issueType": "missing_data",
+    "severity": "medium",
+    "confidence": 0.6,
+    "reason": "exampleがnullで用例欠落。またanswer『整っている』はglosses(whole/complete/entire)や典型用法(整个/整天/十点整=まるごと・ちょうど)とずれる可能性。確信なし・要確認。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01741",
+    "language": "zh",
+    "headword": "跑步",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "動詞",
+    "issueType": "part_of_speech_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "headword『跑步』は動詞(離合詞/趨向動詞等)でanswer『ランニングする』も動詞。tagsが名詞で品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01807",
+    "language": "zh",
+    "headword": "认出",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "動詞",
+    "issueType": "part_of_speech_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "headword『认出』は動詞(離合詞/趨向動詞等)でanswer『見分ける』も動詞。tagsが名詞で品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01818",
+    "language": "zh",
+    "headword": "散步",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "動詞",
+    "issueType": "part_of_speech_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "headword『散步』は動詞(離合詞/趨向動詞等)でanswer『散歩する』も動詞。tagsが名詞で品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01825",
+    "language": "zh",
+    "headword": "上来",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "動詞",
+    "issueType": "part_of_speech_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "headword『上来』は動詞(離合詞/趨向動詞等)でanswer『上がってくる』も動詞。tagsが名詞で品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01827",
+    "language": "zh",
+    "headword": "上去",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "動詞",
+    "issueType": "part_of_speech_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "headword『上去』は動詞(離合詞/趨向動詞等)でanswer『上がっていく』も動詞。tagsが名詞で品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01886",
+    "language": "zh",
+    "headword": "受伤",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "動詞",
+    "issueType": "part_of_speech_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "headword『受伤』は動詞(離合詞/趨向動詞等)でanswer『けがをする』も動詞。tagsが名詞で品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01921",
+    "language": "zh",
+    "headword": "跳舞",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "動詞",
+    "issueType": "part_of_speech_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "headword『跳舞』は動詞(離合詞/趨向動詞等)でanswer『ダンスをする』も動詞。tagsが名詞で品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01929",
+    "language": "zh",
+    "headword": "通信",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "動詞",
+    "issueType": "part_of_speech_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "headword『通信』は動詞(離合詞/趨向動詞等)でanswer『通信する』も動詞。tagsが名詞で品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01942",
+    "language": "zh",
+    "headword": "推动",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "動詞",
+    "issueType": "part_of_speech_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "headword『推动』は動詞(離合詞/趨向動詞等)でanswer『推し進める』も動詞。tagsが名詞で品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01945",
+    "language": "zh",
+    "headword": "推开",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "動詞",
+    "issueType": "part_of_speech_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "headword『推开』は動詞(離合詞/趨向動詞等)でanswer『押し開ける』も動詞。tagsが名詞で品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01948",
+    "language": "zh",
+    "headword": "退休",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "動詞",
+    "issueType": "part_of_speech_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "headword『退休』は動詞(離合詞/趨向動詞等)でanswer『定年退職する』も動詞。tagsが名詞で品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01971",
+    "language": "zh",
+    "headword": "握手",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "動詞",
+    "issueType": "part_of_speech_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "headword『握手』は動詞(離合詞/趨向動詞等)でanswer『握手する』も動詞。tagsが名詞で品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01979",
+    "language": "zh",
+    "headword": "下来",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "動詞",
+    "issueType": "part_of_speech_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "headword『下来』は動詞(離合詞/趨向動詞等)でanswer『下りてくる』も動詞。tagsが名詞で品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01981",
+    "language": "zh",
+    "headword": "下去",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "動詞",
+    "issueType": "part_of_speech_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "headword『下去』は動詞(離合詞/趨向動詞等)でanswer『下りていく』も動詞。tagsが名詞で品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-02085",
+    "language": "zh",
+    "headword": "展开",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "動詞",
+    "issueType": "part_of_speech_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "headword『展开』は動詞(離合詞/趨向動詞等)でanswer『繰り広げる』も動詞。tagsが名詞で品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-02117",
+    "language": "zh",
+    "headword": "指出",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "動詞",
+    "issueType": "part_of_speech_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "headword『指出』は動詞(離合詞/趨向動詞等)でanswer『指摘する』も動詞。tagsが名詞で品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-02144",
+    "language": "zh",
+    "headword": "抓住",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "動詞",
+    "issueType": "part_of_speech_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "headword『抓住』は動詞(離合詞/趨向動詞等)でanswer『つかまえる』も動詞。tagsが名詞で品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01822",
+    "language": "zh",
+    "headword": "伤心",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "形容詞",
+    "issueType": "part_of_speech_mismatch",
+    "severity": "low",
+    "confidence": 0.85,
+    "reason": "伤心は形容詞(心を痛める/悲しい)。answer『悲しむ』。tagsが名詞で品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01963",
+    "language": "zh",
+    "headword": "为了",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "前置詞",
+    "issueType": "part_of_speech_mismatch",
+    "severity": "low",
+    "confidence": 0.85,
+    "reason": "『为了』は前置詞(answer『〜のために』)。tagsが名詞で品詞不一致(機能語を名詞で一括りにする傾向)。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-02037",
+    "language": "zh",
+    "headword": "要是",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "接続詞",
+    "issueType": "part_of_speech_mismatch",
+    "severity": "low",
+    "confidence": 0.85,
+    "reason": "『要是』は接続詞(answer『もし〜なら』)。tagsが名詞で品詞不一致(機能語を名詞で一括りにする傾向)。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-02046",
+    "language": "zh",
+    "headword": "因此",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "接続詞",
+    "issueType": "part_of_speech_mismatch",
+    "severity": "low",
+    "confidence": 0.85,
+    "reason": "『因此』は接続詞(answer『したがって』)。tagsが名詞で品詞不一致(機能語を名詞で一括りにする傾向)。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-02059",
+    "language": "zh",
+    "headword": "由于",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "接続詞",
+    "issueType": "part_of_speech_mismatch",
+    "severity": "low",
+    "confidence": 0.85,
+    "reason": "『由于』は接続詞(answer『〜により』)。tagsが名詞で品詞不一致(機能語を名詞で一括りにする傾向)。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-02115",
+    "language": "zh",
+    "headword": "只有",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "接続詞",
+    "issueType": "part_of_speech_mismatch",
+    "severity": "low",
+    "confidence": 0.85,
+    "reason": "『只有』は接続詞(answer『〜してこそ』)。tagsが名詞で品詞不一致(機能語を名詞で一括りにする傾向)。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-02158",
+    "language": "zh",
+    "headword": "自从",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "前置詞",
+    "issueType": "part_of_speech_mismatch",
+    "severity": "low",
+    "confidence": 0.85,
+    "reason": "『自从』は前置詞(answer『〜以来』)。tagsが名詞で品詞不一致(機能語を名詞で一括りにする傾向)。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-02175",
+    "language": "zh",
+    "headword": "啊",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "感嘆詞",
+    "issueType": "part_of_speech_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "「啊(ā)」は感嘆詞/語気助詞。名詞タグは不適。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-02191",
+    "language": "zh",
+    "headword": "办事",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "動詞",
+    "issueType": "part_of_speech_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "「办事」は動詞(離合詞)。名詞タグは不適。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-02201",
+    "language": "zh",
+    "headword": "保密",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "動詞",
+    "issueType": "part_of_speech_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "「保密」は動詞(離合詞)。名詞タグは不適。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-02202",
+    "language": "zh",
+    "headword": "保守",
+    "field": "tags",
+    "currentValue": "動詞",
+    "suggestedValue": "形容詞",
+    "issueType": "part_of_speech_mismatch",
+    "severity": "medium",
+    "confidence": 0.85,
+    "reason": "和訳「保守的な」は形容詞。動詞タグは不整合。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-02225",
+    "language": "zh",
+    "headword": "不管",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "接続詞",
+    "issueType": "part_of_speech_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "「不管」は接続詞。名詞タグは不適。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-02226",
+    "language": "zh",
+    "headword": "不然",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "接続詞",
+    "issueType": "part_of_speech_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "「不然」は接続詞。名詞タグは不適。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-02264",
+    "language": "zh",
+    "headword": "吃惊",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "動詞",
+    "issueType": "part_of_speech_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "「吃惊」は動詞(離合詞)。名詞タグは不適。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-02270",
+    "language": "zh",
+    "headword": "充电",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "動詞",
+    "issueType": "part_of_speech_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "「充电」は動詞。名詞タグは不適(例文も動詞用法)。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-02275",
+    "language": "zh",
+    "headword": "抽奖",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "動詞",
+    "issueType": "part_of_speech_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "「抽奖」は動詞(離合詞)。名詞タグは不適。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-02282",
+    "language": "zh",
+    "headword": "穿上",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "動詞",
+    "issueType": "part_of_speech_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "「穿上」は動詞。名詞タグは不適。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-02304",
+    "language": "zh",
+    "headword": "打雷",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "動詞",
+    "issueType": "part_of_speech_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "「打雷」は動詞(離合詞)。名詞タグは不適。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-02306",
+    "language": "zh",
+    "headword": "打折",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "動詞",
+    "issueType": "part_of_speech_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "「打折」は動詞(離合詞)。名詞タグは不適。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-02307",
+    "language": "zh",
+    "headword": "打针",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "動詞",
+    "issueType": "part_of_speech_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "「打针」は動詞(離合詞)。名詞タグは不適。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-02327",
+    "language": "zh",
+    "headword": "担心",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "動詞",
+    "issueType": "part_of_speech_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "「担心」は動詞。名詞タグは不適。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-02336",
+    "language": "zh",
+    "headword": "倒车",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "動詞",
+    "issueType": "part_of_speech_mismatch",
+    "severity": "medium",
+    "confidence": 0.85,
+    "reason": "「倒车(乗り換える)」は動詞。名詞タグは不適。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-02340",
+    "language": "zh",
+    "headword": "登记",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "動詞",
+    "issueType": "part_of_speech_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "「登记」は動詞。名詞タグは不適。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-02342",
+    "language": "zh",
+    "headword": "登山",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "動詞",
+    "issueType": "part_of_speech_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "「登山」は動詞(離合詞)。名詞タグは不適。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-02351",
+    "language": "zh",
+    "headword": "点名",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "動詞",
+    "issueType": "part_of_speech_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "「点名」は動詞(離合詞)。名詞タグは不適。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-02372",
+    "language": "zh",
+    "headword": "对于",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "介詞",
+    "issueType": "part_of_speech_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "「对于」は介詞(前置詞)。名詞タグは不適。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-02379",
+    "language": "zh",
+    "headword": "而",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "接続詞",
+    "issueType": "part_of_speech_mismatch",
+    "severity": "medium",
+    "confidence": 0.85,
+    "reason": "「而」は接続詞。名詞タグは不適。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-02380",
+    "language": "zh",
+    "headword": "而是",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "接続詞",
+    "issueType": "part_of_speech_mismatch",
+    "severity": "medium",
+    "confidence": 0.85,
+    "reason": "「而是」は接続詞相当。名詞タグは不適。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-02385",
+    "language": "zh",
+    "headword": "发烧",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "動詞",
+    "issueType": "part_of_speech_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "「发烧」は動詞(離合詞)。名詞タグは不適。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-02404",
+    "language": "zh",
+    "headword": "分手",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "動詞",
+    "issueType": "part_of_speech_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "「分手」は動詞(離合詞)。名詞タグは不適。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-02405",
+    "language": "zh",
+    "headword": "分为",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "動詞",
+    "issueType": "part_of_speech_mismatch",
+    "severity": "medium",
+    "confidence": 0.85,
+    "reason": "「分为」は動詞。名詞タグは不適。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-02413",
+    "language": "zh",
+    "headword": "否则",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "接続詞",
+    "issueType": "part_of_speech_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "「否则」は接続詞。名詞タグは不適。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-02420",
+    "language": "zh",
+    "headword": "负担",
+    "field": "tags",
+    "currentValue": "動詞",
+    "suggestedValue": "名詞",
+    "issueType": "part_of_speech_mismatch",
+    "severity": "medium",
+    "confidence": 0.8,
+    "reason": "例文・和訳とも名詞用法「負担」。動詞タグは不整合。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-02427",
+    "language": "zh",
+    "headword": "感兴趣",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "動詞",
+    "issueType": "part_of_speech_mismatch",
+    "severity": "medium",
+    "confidence": 0.85,
+    "reason": "「感兴趣」は動詞句(対…感兴趣)。名詞タグは不適。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-02464",
+    "language": "zh",
+    "headword": "过分",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "形容詞",
+    "issueType": "part_of_speech_mismatch",
+    "severity": "medium",
+    "confidence": 0.8,
+    "reason": "「过分」は形容詞/動詞。名詞タグは不適。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-02475",
+    "language": "zh",
+    "headword": "航空",
+    "field": "tags",
+    "currentValue": "動詞",
+    "suggestedValue": "名詞",
+    "issueType": "part_of_speech_mismatch",
+    "severity": "medium",
+    "confidence": 0.85,
+    "reason": "「航空」は名詞(修飾語)。動詞タグは不適。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-02514",
+    "language": "zh",
+    "headword": "及格",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "動詞",
+    "issueType": "part_of_speech_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "「及格」は動詞(離合詞)。名詞タグは不適。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-02527",
+    "language": "zh",
+    "headword": "既然",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "接続詞",
+    "issueType": "part_of_speech_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "「既然」は接続詞。名詞タグは不適。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-02529",
+    "language": "zh",
+    "headword": "加班",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "動詞",
+    "issueType": "part_of_speech_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "「加班」は動詞(離合詞)。名詞タグは不適。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-02533",
+    "language": "zh",
+    "headword": "假如",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "接続詞",
+    "issueType": "part_of_speech_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "「假如」は接続詞。名詞タグは不適。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-02537",
+    "language": "zh",
+    "headword": "减肥",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "動詞",
+    "issueType": "part_of_speech_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "「减肥」は動詞(離合詞)。名詞タグは不適。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-02550",
+    "language": "zh",
+    "headword": "降价",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "動詞",
+    "issueType": "part_of_speech_mismatch",
+    "severity": "medium",
+    "confidence": 0.85,
+    "reason": "「降价」は動詞(離合詞)。名詞タグは不適。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-02552",
+    "language": "zh",
+    "headword": "降温",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "動詞",
+    "issueType": "part_of_speech_mismatch",
+    "severity": "medium",
+    "confidence": 0.85,
+    "reason": "「降温」は動詞(離合詞)。名詞タグは不適。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-02567",
+    "language": "zh",
+    "headword": "尽力",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "動詞",
+    "issueType": "part_of_speech_mismatch",
+    "severity": "medium",
+    "confidence": 0.85,
+    "reason": "「尽力」は動詞(離合詞)。名詞タグは不適。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-02583",
+    "language": "zh",
+    "headword": "距离",
+    "field": "tags",
+    "currentValue": "動詞",
+    "suggestedValue": "名詞",
+    "issueType": "part_of_speech_mismatch",
+    "severity": "medium",
+    "confidence": 0.8,
+    "reason": "例文は名詞用法「距离很远」。動詞タグは不整合。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-02588",
+    "language": "zh",
+    "headword": "开花",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "動詞",
+    "issueType": "part_of_speech_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "「开花」は動詞(離合詞)。名詞タグは不適。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-02596",
+    "language": "zh",
+    "headword": "可见",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "接続詞",
+    "issueType": "part_of_speech_mismatch",
+    "severity": "medium",
+    "confidence": 0.75,
+    "reason": "「可见」は接続詞(由此可见)。名詞タグは不適。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-02610",
+    "language": "zh",
+    "headword": "拉开",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "動詞",
+    "issueType": "part_of_speech_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "「拉开」は動詞。名詞タグは不適。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-02625",
+    "language": "zh",
+    "headword": "离不开",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "動詞",
+    "issueType": "part_of_speech_mismatch",
+    "severity": "medium",
+    "confidence": 0.85,
+    "reason": "「离不开」は動詞(可能補語)。名詞タグは不適。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-02642",
+    "language": "zh",
+    "headword": "列为",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "動詞",
+    "issueType": "part_of_speech_mismatch",
+    "severity": "medium",
+    "confidence": 0.85,
+    "reason": "「列为」は動詞。名詞タグは不適。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-02660",
+    "language": "zh",
+    "headword": "没错",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "動詞",
+    "issueType": "part_of_speech_mismatch",
+    "severity": "medium",
+    "confidence": 0.75,
+    "reason": "「没错」は動詞/形容詞句。名詞タグは不適。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-02178",
+    "language": "zh",
+    "headword": "爱国",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "動詞",
+    "issueType": "part_of_speech_mismatch",
+    "severity": "low",
+    "confidence": 0.6,
+    "reason": "和訳「国を愛する」は動詞的。名詞タグは要検討(爱国は形容詞的用法もあり)。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-02373",
+    "language": "zh",
+    "headword": "多次",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "副詞",
+    "issueType": "part_of_speech_mismatch",
+    "severity": "low",
+    "confidence": 0.65,
+    "reason": "「多次」は連用修飾(副詞的)。名詞タグは要検討。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-02376",
+    "language": "zh",
+    "headword": "多种",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "形容詞",
+    "issueType": "part_of_speech_mismatch",
+    "severity": "low",
+    "confidence": 0.55,
+    "reason": "「多种」は数量修飾(形容詞/数量詞的)。名詞タグは要検討。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-02406",
+    "language": "zh",
+    "headword": "…分之…",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "数詞",
+    "issueType": "part_of_speech_mismatch",
+    "severity": "low",
+    "confidence": 0.55,
+    "reason": "「…分之…」は分数表現(数詞的)。名詞タグは要検討。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-02591",
+    "language": "zh",
+    "headword": "看来",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "副詞",
+    "issueType": "part_of_speech_mismatch",
+    "severity": "low",
+    "confidence": 0.6,
+    "reason": "「看来」は挿入的な副詞/接続表現。名詞タグは要検討。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-02512",
+    "language": "zh",
+    "headword": "激动",
+    "field": "answer",
+    "currentValue": "感激する",
+    "suggestedValue": "興奮する / 感動する",
+    "issueType": "translation_nuance",
+    "severity": "low",
+    "confidence": 0.5,
+    "reason": "「激动」の中核義は感情の高ぶり(興奮・感動)。「感激する(感謝)」はやや不正確だが辞書によっては許容。要人手確認。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-02289",
+    "language": "zh",
+    "headword": "纯净水",
+    "field": "answer",
+    "currentValue": "純水",
+    "suggestedValue": "精製水 / ピュアウォーター",
+    "issueType": "translation_nuance",
+    "severity": "low",
+    "confidence": 0.5,
+    "reason": "「纯净水」は飲用の精製水。「純水」は化学的な純水を指しやすく語感差あり。要検討。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-02312",
+    "language": "zh",
+    "headword": "大规模",
+    "field": "example",
+    "currentValue": "这是一次大规模的活动。 — これは一度の大規模な活動だ。",
+    "suggestedValue": "これは大規模な活動だ。",
+    "issueType": "example_naturalness",
+    "severity": "low",
+    "confidence": 0.6,
+    "reason": "和訳「一度の大規模な活動」は不自然。「一次」を「一度の」と直訳しており日本語として硬い。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-02747",
+    "language": "zh",
+    "headword": "圈",
+    "field": "example",
+    "currentValue": "他在操场上跑了一圈。 — 彼は運動場を一輪走った。",
+    "suggestedValue": "他在操场上跑了一圈。 — 彼は運動場を一周走った。",
+    "issueType": "exampleTranslationError",
+    "severity": "high",
+    "confidence": 0.9,
+    "reason": "量詞「一圈」は『一周（1周）』の意。和訳の『一輪』は誤り（『一輪』は花や車輪を数える語で、走る周回には用いない）。英訳 'ran one lap' とも矛盾する。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-02755",
+    "language": "zh",
+    "headword": "热心",
+    "field": "answer",
+    "currentValue": "熱心な",
+    "suggestedValue": "親切な／世話好きな",
+    "issueType": "falseFriend",
+    "severity": "medium",
+    "confidence": 0.85,
+    "reason": "日中同形異義。中国語『热心』は主に『（人のために）親切・世話好き・献身的』の意で、英訳も 'warmhearted' となっている。日本語『熱心』は『物事に打ち込む・ひたむき』の意で語義がずれる。例文『他是一个热心的人』は『親切な人』の意。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-02716",
+    "language": "zh",
+    "headword": "平稳",
+    "field": "answer",
+    "currentValue": "平穏な",
+    "suggestedValue": "安定した／揺れの少ない",
+    "issueType": "falseFriend",
+    "severity": "medium",
+    "confidence": 0.8,
+    "reason": "日中同形異義。中国語『平稳』は『（揺れず）安定している・スムーズ』の意（英訳 'steadily'）。日本語『平穏』は『穏やかで無事』の意でニュアンスが異なる。例文和訳『飛行機はとても平穏に飛んでいる』も不自然で、『安定して飛んでいる／揺れずに飛んでいる』が適切。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03107",
+    "language": "zh",
+    "headword": "智能",
+    "field": "example",
+    "currentValue": "他买了一部智能手机。 — 彼は知能を持つ携帯を一台買った。",
+    "suggestedValue": "他买了一部智能手机。 — 彼はスマートフォンを一台買った。",
+    "issueType": "exampleTranslationError",
+    "severity": "low",
+    "confidence": 0.75,
+    "reason": "『智能手机』は定訳『スマートフォン（スマホ）』。和訳の『知能を持つ携帯』は直訳的で不自然（英訳も 'smart phone'）。見出し語訳『知能』自体は名詞義として許容範囲。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-02676",
+    "language": "zh",
+    "headword": "描述",
+    "field": "answer",
+    "currentValue": "叙述する",
+    "suggestedValue": "描写する／述べる",
+    "issueType": "nuance",
+    "severity": "low",
+    "confidence": 0.5,
+    "reason": "『描述』は『（様子・状況を）描写・記述する』が中心義。『叙述』でも通じるが、より的確なのは『描写する』。外部辞書未照合につき確信は限定的（not_verified）。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-02764",
+    "language": "zh",
+    "headword": "色",
+    "field": "example",
+    "currentValue": "这件衣服的色很好看。",
+    "suggestedValue": "这件衣服的颜色很好看。",
+    "issueType": "naturalness",
+    "severity": "low",
+    "confidence": 0.55,
+    "reason": "単独名詞『色』を『的色』の形で用いるのは口語的に不自然で、通常は『颜色』を用いる。見出し語『色』自体は妥当。外部照合なし（not_verified）。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-02780",
+    "language": "zh",
+    "headword": "设置",
+    "field": "example",
+    "currentValue": "老师在教室里设置了一个问题。",
+    "suggestedValue": "老师在教室里提出了一个问题。",
+    "issueType": "naturalness",
+    "severity": "low",
+    "confidence": 0.5,
+    "reason": "『设置一个问题』はやや不自然な連語。『问题』には『提出』『设计』が自然。『设置』は設備・パラメータ等の設定に多用。外部照合なし（not_verified）。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03162",
+    "language": "zh",
+    "headword": "报警",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.95,
+    "reason": "例文・和訳・英語gloss('to report to the police')の用法から品詞は動詞が妥当。現在のタグ['名詞']と不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03178",
+    "language": "zh",
+    "headword": "闭幕",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.95,
+    "reason": "例文・和訳・英語gloss('to close (a ceremony)')の用法から品詞は動詞が妥当。現在のタグ['名詞']と不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03198",
+    "language": "zh",
+    "headword": "不耐烦",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.95,
+    "reason": "例文・和訳・英語gloss('impatient')の用法から品詞は形容詞が妥当。現在のタグ['名詞']と不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03208",
+    "language": "zh",
+    "headword": "不能不",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.95,
+    "reason": "例文・和訳・英語gloss('cannot but')の用法から品詞は副詞が妥当。現在のタグ['名詞']と不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03210",
+    "language": "zh",
+    "headword": "不停",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.95,
+    "reason": "例文・和訳・英語gloss('incessantly')の用法から品詞は副詞が妥当。現在のタグ['名詞']と不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03217",
+    "language": "zh",
+    "headword": "裁判",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "名詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.95,
+    "reason": "例文・和訳・英語gloss('referee')の用法から品詞は名詞が妥当。現在のタグ['動詞']と不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03247",
+    "language": "zh",
+    "headword": "成交",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.95,
+    "reason": "例文・和訳・英語gloss('to close a deal')の用法から品詞は動詞が妥当。現在のタグ['名詞']と不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03253",
+    "language": "zh",
+    "headword": "乘车",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.95,
+    "reason": "例文・和訳・英語gloss('to ride (in a vehicle)')の用法から品詞は動詞が妥当。現在のタグ['名詞']と不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03266",
+    "language": "zh",
+    "headword": "出差",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.95,
+    "reason": "例文・和訳・英語gloss('to go on a business trip')の用法から品詞は動詞が妥当。現在のタグ['名詞']と不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03267",
+    "language": "zh",
+    "headword": "出汗",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.95,
+    "reason": "例文・和訳・英語gloss('to sweat')の用法から品詞は動詞が妥当。現在のタグ['名詞']と不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03270",
+    "language": "zh",
+    "headword": "除非",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "接続詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.95,
+    "reason": "例文・和訳・英語gloss('unless')の用法から品詞は接続詞が妥当。現在のタグ['名詞']と不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03288",
+    "language": "zh",
+    "headword": "从而",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "接続詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.95,
+    "reason": "例文・和訳・英語gloss('thereby')の用法から品詞は接続詞が妥当。現在のタグ['名詞']と不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03297",
+    "language": "zh",
+    "headword": "打包",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.95,
+    "reason": "例文・和訳・英語gloss('to pack')の用法から品詞は動詞が妥当。現在のタグ['名詞']と不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03299",
+    "language": "zh",
+    "headword": "打架",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.95,
+    "reason": "例文・和訳・英語gloss('to fight')の用法から品詞は動詞が妥当。現在のタグ['名詞']と不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03312",
+    "language": "zh",
+    "headword": "大致",
+    "field": "tags",
+    "currentValue": [
+      "形容詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.95,
+    "reason": "例文・和訳・英語gloss('roughly')の用法から品詞は副詞が妥当。現在のタグ['形容詞']と不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03317",
+    "language": "zh",
+    "headword": "带有",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.95,
+    "reason": "例文・和訳・英語gloss('to carry')の用法から品詞は動詞が妥当。現在のタグ['名詞']と不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03336",
+    "language": "zh",
+    "headword": "低于",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.95,
+    "reason": "例文・和訳・英語gloss('lower than')の用法から品詞は動詞が妥当。現在のタグ['名詞']と不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03341",
+    "language": "zh",
+    "headword": "递给",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.95,
+    "reason": "例文・和訳・英語gloss('to hand to')の用法から品詞は動詞が妥当。現在のタグ['名詞']と不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03350",
+    "language": "zh",
+    "headword": "动手",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.95,
+    "reason": "例文・和訳・英語gloss('to set about')の用法から品詞は動詞が妥当。現在のタグ['名詞']と不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03379",
+    "language": "zh",
+    "headword": "分成",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.95,
+    "reason": "例文・和訳・英語gloss('to divide into')の用法から品詞は動詞が妥当。現在のタグ['名詞']と不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03381",
+    "language": "zh",
+    "headword": "分类",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.95,
+    "reason": "例文・和訳・英語gloss('to classify')の用法から品詞は動詞が妥当。現在のタグ['名詞']と不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03412",
+    "language": "zh",
+    "headword": "搞好",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.95,
+    "reason": "例文・和訳・英語gloss('to do well')の用法から品詞は動詞が妥当。現在のタグ['名詞']と不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03434",
+    "language": "zh",
+    "headword": "鼓掌",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.95,
+    "reason": "例文・和訳・英語gloss('to applaud')の用法から品詞は動詞が妥当。現在のタグ['名詞']と不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03483",
+    "language": "zh",
+    "headword": "回头",
+    "field": "tags",
+    "currentValue": [
+      "副詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.95,
+    "reason": "例文・和訳・英語gloss('to turn one's head')の用法から品詞は動詞が妥当。現在のタグ['副詞']と不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03486",
+    "language": "zh",
+    "headword": "汇款",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.95,
+    "reason": "例文・和訳・英語gloss('to remit money')の用法から品詞は動詞が妥当。現在のタグ['名詞']と不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03493",
+    "language": "zh",
+    "headword": "或是",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "接続詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.95,
+    "reason": "例文・和訳・英語gloss('or')の用法から品詞は接続詞が妥当。現在のタグ['名詞']と不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03499",
+    "language": "zh",
+    "headword": "即使",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "接続詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.95,
+    "reason": "例文・和訳・英語gloss('even if')の用法から品詞は接続詞が妥当。現在のタグ['名詞']と不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03505",
+    "language": "zh",
+    "headword": "加热",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.95,
+    "reason": "例文・和訳・英語gloss('to heat')の用法から品詞は動詞が妥当。現在のタグ['名詞']と不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03545",
+    "language": "zh",
+    "headword": "紧紧",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.95,
+    "reason": "例文・和訳・英語gloss('tightly')の用法から品詞は副詞が妥当。現在のタグ['名詞']と不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03546",
+    "language": "zh",
+    "headword": "尽可能",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.95,
+    "reason": "例文・和訳・英語gloss('as far as possible')の用法から品詞は副詞が妥当。現在のタグ['名詞']と不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03555",
+    "language": "zh",
+    "headword": "救灾",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.95,
+    "reason": "例文・和訳・英語gloss('to relieve disaster')の用法から品詞は動詞が妥当。現在のタグ['名詞']と不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03563",
+    "language": "zh",
+    "headword": "决不",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.95,
+    "reason": "例文・和訳・英語gloss('by no means')の用法から品詞は副詞が妥当。現在のタグ['名詞']と不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03564",
+    "language": "zh",
+    "headword": "绝望",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.95,
+    "reason": "例文・和訳・英語gloss('to despair')の用法から品詞は動詞が妥当。現在のタグ['名詞']と不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03566",
+    "language": "zh",
+    "headword": "开幕",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.95,
+    "reason": "例文・和訳・英語gloss('to open (a ceremony)')の用法から品詞は動詞が妥当。現在のタグ['名詞']と不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03568",
+    "language": "zh",
+    "headword": "看成",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.95,
+    "reason": "例文・和訳・英語gloss('to regard as')の用法から品詞は動詞が妥当。現在のタグ['名詞']と不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03569",
+    "language": "zh",
+    "headword": "看出",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.95,
+    "reason": "例文・和訳・英語gloss('to make out')の用法から品詞は動詞が妥当。現在のタグ['名詞']と不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03608",
+    "language": "zh",
+    "headword": "例外",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "名詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.95,
+    "reason": "例文・和訳・英語gloss('exception')の用法から品詞は名詞が妥当。現在のタグ['動詞']と不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03638",
+    "language": "zh",
+    "headword": "门诊",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "名詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.95,
+    "reason": "例文・和訳・英語gloss('outpatient service')の用法から品詞は名詞が妥当。現在のタグ['動詞']と不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03386",
+    "language": "zh",
+    "headword": "风度",
+    "field": "answer",
+    "currentValue": "風格",
+    "suggestedValue": "立ち居振る舞い／気品",
+    "issueType": "translation_nuance",
+    "severity": "low",
+    "confidence": 0.6,
+    "reason": "『风度』は優雅な物腰・気品の意。『風格』は日本語で威厳・持ち味に寄り、ややニュアンスがずれる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03470",
+    "language": "zh",
+    "headword": "滑",
+    "field": "answer",
+    "currentValue": "滑る",
+    "suggestedValue": "滑りやすい",
+    "issueType": "pos_translation",
+    "severity": "low",
+    "confidence": 0.6,
+    "reason": "例文『雨后的路很滑』は形容詞用法(滑りやすい)。和訳『滑る』は動詞で、例文の形容詞用法と齟齬。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03502",
+    "language": "zh",
+    "headword": "记忆",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "名詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.85,
+    "reason": "例文『这段记忆很美好』は名詞用法。現タグ動詞と不一致(動詞義もあるが例文は名詞)。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03518",
+    "language": "zh",
+    "headword": "检验",
+    "field": "answer",
+    "currentValue": "検証する",
+    "suggestedValue": "検査する",
+    "issueType": "translation",
+    "severity": "medium",
+    "confidence": 0.78,
+    "reason": "『检验』は品質などを調べる(=検査)。例文も製品検査。日本語『検証する』は仮説の確認寄りで、gloss 'to inspect' とも整合しない。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03641",
+    "language": "zh",
+    "headword": "面貌",
+    "field": "answer",
+    "currentValue": "顔立ち",
+    "suggestedValue": "様相／姿",
+    "issueType": "translation",
+    "severity": "medium",
+    "confidence": 0.7,
+    "reason": "例文は都市の『面貌』(=様相・姿)。和訳『顔立ち』は人の顔限定で、都市の比喩用法・例文和訳と不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03283",
+    "language": "zh",
+    "headword": "辞职",
+    "field": "example",
+    "currentValue": "他上个月向公司辞职了。",
+    "suggestedValue": "他上个月向公司提出辞职了。／他上个月辞职了。",
+    "issueType": "grammar_usage",
+    "severity": "medium",
+    "confidence": 0.7,
+    "reason": "『辞职』は自動詞。『向公司辞职』は不自然で、『提出辞职』または目的語なしが自然。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03154",
+    "language": "zh",
+    "headword": "版",
+    "field": "example",
+    "currentValue": "这本书出了新的版。",
+    "suggestedValue": "这本书出了新版。／新版本。",
+    "issueType": "grammar_usage",
+    "severity": "low",
+    "confidence": 0.6,
+    "reason": "『出了新的版』は不自然。『新版』『新版本』が自然。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03175",
+    "language": "zh",
+    "headword": "必",
+    "field": "example",
+    "currentValue": "明天你必来开会。",
+    "suggestedValue": "明天你务必来开会。／一定要来。",
+    "issueType": "grammar_usage",
+    "severity": "low",
+    "confidence": 0.55,
+    "reason": "単独副詞『必』は現代口語では硬く不自然。『务必/一定要』が自然。見出し語自体は保持可。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03601",
+    "language": "zh",
+    "headword": "礼",
+    "field": "glosses.en",
+    "currentValue": "gift",
+    "suggestedValue": "etiquette",
+    "issueType": "inconsistency",
+    "severity": "low",
+    "confidence": 0.7,
+    "reason": "gloss.en='gift'だが、和訳『礼儀』・例文『见面时应该先行礼』(=礼をする)は礼儀の意。英語glossのみ不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03711",
+    "language": "zh",
+    "headword": "起到",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "tags が「名詞」だが、answer と例文中の用法は「動詞」が妥当。品詞不一致。",
+    "evidence": [
+      "运动对健康起到很大作用。"
+    ],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03718",
+    "language": "zh",
+    "headword": "签约",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.85,
+    "reason": "tags が「名詞」だが、answer と例文中の用法は「動詞」が妥当。品詞不一致。",
+    "evidence": [
+      "这位运动员刚刚签约了。"
+    ],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03719",
+    "language": "zh",
+    "headword": "签证",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "名詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.92,
+    "reason": "tags が「動詞」だが、answer と例文中の用法は「名詞」が妥当。品詞不一致。",
+    "evidence": [
+      "去那个国家要办签证。"
+    ],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03720",
+    "language": "zh",
+    "headword": "签字",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.85,
+    "reason": "tags が「名詞」だが、answer と例文中の用法は「動詞」が妥当。品詞不一致。",
+    "evidence": [
+      "请在合同上签字。"
+    ],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03732",
+    "language": "zh",
+    "headword": "敲门",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.85,
+    "reason": "tags が「名詞」だが、answer と例文中の用法は「動詞」が妥当。品詞不一致。",
+    "evidence": [
+      "进来以前请先敲门。"
+    ],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03769",
+    "language": "zh",
+    "headword": "入门",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.8,
+    "reason": "tags が「名詞」だが、answer と例文中の用法は「動詞」が妥当。品詞不一致。",
+    "evidence": [
+      "学画画要先入门。"
+    ],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03806",
+    "language": "zh",
+    "headword": "升高",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.85,
+    "reason": "tags が「名詞」だが、answer と例文中の用法は「動詞」が妥当。品詞不一致。",
+    "evidence": [
+      "下午气温慢慢升高了。"
+    ],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03812",
+    "language": "zh",
+    "headword": "失误",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "名詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.8,
+    "reason": "tags が「動詞」だが、answer と例文中の用法は「名詞」が妥当。品詞不一致。",
+    "evidence": [
+      "他工作时出现了一个失误。"
+    ],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03822",
+    "language": "zh",
+    "headword": "使得",
+    "field": "exampleTranslation",
+    "currentValue": "雨が道をとても滑りやすくもたらした。",
+    "suggestedValue": "雨で道がとても滑りやすくなった。",
+    "issueType": "unnatural_translation",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "使得（〜させる/〜という結果をもたらす）の和訳が非文法的。「〜をもたらした」の目的語が形容詞句で日本語として破綻。",
+    "evidence": [
+      "下雨使得道路很滑。 — 雨が道をとても滑りやすくもたらした。"
+    ],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03828",
+    "language": "zh",
+    "headword": "视为",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.88,
+    "reason": "tags が「名詞」だが、answer と例文中の用法は「動詞」が妥当。品詞不一致。",
+    "evidence": [
+      "大家把他视为最好的朋友。"
+    ],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03835",
+    "language": "zh",
+    "headword": "受灾",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.85,
+    "reason": "tags が「名詞」だが、answer と例文中の用法は「動詞」が妥当。品詞不一致。",
+    "evidence": [
+      "很多人在那次大雨中受灾。"
+    ],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03847",
+    "language": "zh",
+    "headword": "摔倒",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.85,
+    "reason": "tags が「名詞」だが、answer と例文中の用法は「動詞」が妥当。品詞不一致。",
+    "evidence": [
+      "老人在雪地上摔倒了。"
+    ],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03875",
+    "language": "zh",
+    "headword": "抬头",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.8,
+    "reason": "tags が「名詞」だが、answer と例文中の用法は「動詞」が妥当。品詞不一致。",
+    "evidence": [
+      "他抬头看了看天空。"
+    ],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03935",
+    "language": "zh",
+    "headword": "无疑",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.85,
+    "reason": "tags が「動詞」だが、answer と例文中の用法は「副詞」が妥当。品詞不一致。",
+    "evidence": [
+      "这无疑是最好的办法。"
+    ],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03969",
+    "language": "zh",
+    "headword": "消毒",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.8,
+    "reason": "tags が「名詞」だが、answer と例文中の用法は「動詞」が妥当。品詞不一致。",
+    "evidence": [
+      "护士给伤口消毒了。"
+    ],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03970",
+    "language": "zh",
+    "headword": "消防",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "名詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.85,
+    "reason": "tags が「動詞」だが、answer と例文中の用法は「名詞」が妥当。品詞不一致。",
+    "evidence": [
+      "楼里有一支消防队。"
+    ],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03975",
+    "language": "zh",
+    "headword": "协议",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "名詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.88,
+    "reason": "tags が「動詞」だが、answer と例文中の用法は「名詞」が妥当。品詞不一致。",
+    "evidence": [
+      "两家公司达成了协议。"
+    ],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-04085",
+    "language": "zh",
+    "headword": "再也",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.8,
+    "reason": "tags が「名詞」だが、answer と例文中の用法は「副詞」が妥当。品詞不一致。",
+    "evidence": [
+      "他再也不想迟到了。"
+    ],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-04089",
+    "language": "zh",
+    "headword": "暂停",
+    "field": "example",
+    "currentValue": "因为下雨,比赛暂停了。 — 雨のため試合が一時停止した。",
+    "suggestedValue": "因为下雨，比赛暂停了。 — 雨のため試合が一時停止した。",
+    "issueType": "punctuation",
+    "severity": "low",
+    "confidence": 0.97,
+    "reason": "中国語文中に半角カンマ ',' を使用。中国語正書法では全角読点「，」を用いる。",
+    "evidence": [
+      "因为下雨,比赛暂停了。"
+    ],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-04094",
+    "language": "zh",
+    "headword": "增产",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.8,
+    "reason": "tags が「名詞」だが、answer と例文中の用法は「動詞」が妥当。品詞不一致。",
+    "evidence": [
+      "今年这个村子粮食增产。"
+    ],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-04107",
+    "language": "zh",
+    "headword": "涨价",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.82,
+    "reason": "tags が「名詞」だが、answer と例文中の用法は「動詞」が妥当。品詞不一致。",
+    "evidence": [
+      "最近水果又涨价了。"
+    ],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-04109",
+    "language": "zh",
+    "headword": "招生",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.85,
+    "reason": "tags が「名詞」だが、answer と例文中の用法は「動詞」が妥当。品詞不一致。",
+    "evidence": [
+      "这所学校每年九月招生。"
+    ],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-04110",
+    "language": "zh",
+    "headword": "招手",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.85,
+    "reason": "tags が「名詞」だが、answer と例文中の用法は「動詞」が妥当。品詞不一致。",
+    "evidence": [
+      "他站在门口向我招手。"
+    ],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-04120",
+    "language": "zh",
+    "headword": "争议",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "名詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.88,
+    "reason": "tags が「動詞」だが、answer と例文中の用法は「名詞」が妥当。品詞不一致。",
+    "evidence": [
+      "这个话题引起了很多争议。"
+    ],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-04127",
+    "language": "zh",
+    "headword": "挣",
+    "field": "example",
+    "currentValue": "他工作努力,挣了很多。 — 彼はよく働き、たくさん稼いだ。",
+    "suggestedValue": "他工作努力，挣了很多。 — 彼はよく働き、たくさん稼いだ。",
+    "issueType": "punctuation",
+    "severity": "low",
+    "confidence": 0.97,
+    "reason": "中国語文中に半角カンマ ',' を使用。中国語正書法では全角読点「，」を用いる。",
+    "evidence": [
+      "他工作努力,挣了很多。"
+    ],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-04128",
+    "language": "zh",
+    "headword": "挣钱",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.85,
+    "reason": "tags が「名詞」だが、answer と例文中の用法は「動詞」が妥当。品詞不一致。",
+    "evidence": [
+      "父母每天辛苦地挣钱。"
+    ],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-04131",
+    "language": "zh",
+    "headword": "之下",
+    "field": "example",
+    "currentValue": "在大家帮助之下,他成功了。 — みんなの助けの下、彼は成功した。",
+    "suggestedValue": "在大家帮助之下，他成功了。 — みんなの助けの下、彼は成功した。",
+    "issueType": "punctuation",
+    "severity": "low",
+    "confidence": 0.97,
+    "reason": "中国語文中に半角カンマ ',' を使用。中国語正書法では全角読点「，」を用いる。",
+    "evidence": [
+      "在大家帮助之下,他成功了。"
+    ],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-04137",
+    "language": "zh",
+    "headword": "值班",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.8,
+    "reason": "tags が「名詞」だが、answer と例文中の用法は「動詞」が妥当。品詞不一致。",
+    "evidence": [
+      "今天晚上是他值班。"
+    ],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-04142",
+    "language": "zh",
+    "headword": "只见",
+    "field": "example",
+    "currentValue": "打开门,只见地上都是水。 — ドアを開けると、ふと見ると床は水だらけだった。",
+    "suggestedValue": "打开门，只见地上都是水。 — ドアを開けると、ふと見ると床は水だらけだった。",
+    "issueType": "punctuation",
+    "severity": "low",
+    "confidence": 0.97,
+    "reason": "中国語文中に半角カンマ ',' を使用。中国語正書法では全角読点「，」を用いる。",
+    "evidence": [
+      "打开门,只见地上都是水。"
+    ],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-04148",
+    "language": "zh",
+    "headword": "制成",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.78,
+    "reason": "tags が「名詞」だが、answer と例文中の用法は「動詞」が妥当。品詞不一致。",
+    "evidence": [
+      "这个桌子用木头制成。"
+    ],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-04159",
+    "language": "zh",
+    "headword": "中毒",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.8,
+    "reason": "tags が「名詞」だが、answer と例文中の用法は「動詞」が妥当。品詞不一致。",
+    "evidence": [
+      "吃坏东西容易中毒。"
+    ],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-04170",
+    "language": "zh",
+    "headword": "注册",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.8,
+    "reason": "tags が「名詞」だが、answer と例文中の用法は「動詞」が妥当。品詞不一致。",
+    "evidence": [
+      "使用这个网站需要先注册。"
+    ],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-04194",
+    "language": "zh",
+    "headword": "总算",
+    "field": "example",
+    "currentValue": "等了很久,他总算来了。 — 長く待って、彼はやっとのことで来た。",
+    "suggestedValue": "等了很久，他总算来了。 — 長く待って、彼はやっとのことで来た。",
+    "issueType": "punctuation",
+    "severity": "low",
+    "confidence": 0.97,
+    "reason": "中国語文中に半角カンマ ',' を使用。中国語正書法では全角読点「，」を用いる。",
+    "evidence": [
+      "等了很久,他总算来了。"
+    ],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-04195",
+    "language": "zh",
+    "headword": "总体",
+    "field": "example",
+    "currentValue": "总体来看,今年不错。 — 全体で見ると、今年は悪くない。",
+    "suggestedValue": "总体来看，今年不错。 — 全体で見ると、今年は悪くない。",
+    "issueType": "punctuation",
+    "severity": "low",
+    "confidence": 0.97,
+    "reason": "中国語文中に半角カンマ ',' を使用。中国語正書法では全角読点「，」を用いる。",
+    "evidence": [
+      "总体来看,今年不错。"
+    ],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-04198",
+    "language": "zh",
+    "headword": "醉",
+    "field": "example",
+    "currentValue": "他喝了很多酒,有点醉了。 — 彼はたくさん酒を飲んで、少し酔った。",
+    "suggestedValue": "他喝了很多酒，有点醉了。 — 彼はたくさん酒を飲んで、少し酔った。",
+    "issueType": "punctuation",
+    "severity": "low",
+    "confidence": 0.97,
+    "reason": "中国語文中に半角カンマ ',' を使用。中国語正書法では全角読点「，」を用いる。",
+    "evidence": [
+      "他喝了很多酒,有点醉了。"
+    ],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00181",
+    "language": "ko",
+    "headword": "하나",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "数詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "하나は固有数詞（一つ）であり動詞ではない。数詞（または名詞）が妥当。例文『사과를 하나 산다』も数詞用法。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00182",
+    "language": "ko",
+    "headword": "둘",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "数詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "둘は固有数詞（二つ）。動詞タグは誤り。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00183",
+    "language": "ko",
+    "headword": "셋",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "数詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "셋は固有数詞（三つ）。動詞タグは誤り。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00184",
+    "language": "ko",
+    "headword": "넷",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "数詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "넷は固有数詞（四つ）。動詞タグは誤り。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00185",
+    "language": "ko",
+    "headword": "다섯",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "数詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "다섯は固有数詞（五つ）。動詞タグは誤り。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00296",
+    "language": "ko",
+    "headword": "여섯",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "数詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "여섯は固有数詞（六つ）。動詞タグは誤り。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00297",
+    "language": "ko",
+    "headword": "일곱",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "数詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "일곱は固有数詞（七つ）。動詞タグは誤り。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00298",
+    "language": "ko",
+    "headword": "여덟",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "数詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "여덟は固有数詞（八つ）。動詞タグは誤り。発音yeodeolは妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00299",
+    "language": "ko",
+    "headword": "아홉",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "数詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "아홉は固有数詞（九つ）。動詞タグは誤り。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00300",
+    "language": "ko",
+    "headword": "열",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "数詞"
+    ],
+    "issueType": "pos_inconsistency",
+    "severity": "low",
+    "confidence": 0.7,
+    "reason": "열（十）は固有数詞。名詞タグでも許容範囲だが、하나〜아홉との一貫性のため数詞が望ましい（他の数詞は動詞タグの別問題あり）。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00007",
+    "language": "ko",
+    "headword": "네",
+    "field": "tags",
+    "currentValue": [
+      "形容詞"
+    ],
+    "suggestedValue": [
+      "感嘆詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "네（はい）は応答の感嘆詞。形容詞タグは誤り。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00008",
+    "language": "ko",
+    "headword": "아니요",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "感嘆詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "아니요（いいえ）は応答の感嘆詞。名詞タグは誤り。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00009",
+    "language": "ko",
+    "headword": "괜찮아요",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.85,
+    "reason": "基本形괜찮다は形容詞（大丈夫だ）。動詞タグは誤り。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00018",
+    "language": "ko",
+    "headword": "언제",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.85,
+    "reason": "언제（いつ）は疑問副詞。動詞タグは誤り。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00157",
+    "language": "ko",
+    "headword": "예쁘다",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "예쁘다は形容詞（きれいだ）。다で終わる用言で名詞ではない。和訳・発音は妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00174",
+    "language": "ko",
+    "headword": "행복하다",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "행복하다は形容詞（幸せだ）。名詞タグは誤り。語根행복は名詞だが見出しは하다形容詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00178",
+    "language": "ko",
+    "headword": "빨리",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "빨리（早く）は副詞。動詞タグは誤り（近接語천천히は副詞で正しい）。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00336",
+    "language": "ko",
+    "headword": "모르다",
+    "field": "tags",
+    "currentValue": [
+      "形容詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.85,
+    "reason": "모르다は動詞（知らない・分からない）。形容詞タグは誤り。르変則活用の動詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00001",
+    "language": "ko",
+    "headword": "안녕하세요",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "感嘆詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.6,
+    "reason": "挨拶表現（안녕하다の敬語終止形）。名詞ではなく感嘆詞/慣用表現が妥当だが、アプリ設計上の緩いタグ付けの可能性。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00002",
+    "language": "ko",
+    "headword": "안녕히 가세요",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "感嘆詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.6,
+    "reason": "別れの挨拶表現（句）。名詞ではなく感嘆詞/慣用表現が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00004",
+    "language": "ko",
+    "headword": "고맙습니다",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.6,
+    "reason": "基本形고맙다は形容詞。動詞タグはやや不正確（감사하다は動詞的で別扱い可）。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00005",
+    "language": "ko",
+    "headword": "죄송합니다",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.6,
+    "reason": "基本形죄송하다は形容詞（申し訳ない）。名詞タグは不正確。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00019",
+    "language": "ko",
+    "headword": "왜",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.6,
+    "reason": "왜（なぜ）は疑問副詞。名詞タグは不正確。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00180",
+    "language": "ko",
+    "headword": "조금",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.55,
+    "reason": "조금は副詞用法が主（少し）。例文『조금 마신다』も副詞。名詞用法もあり許容範囲だが近接語群は副詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00131",
+    "language": "ko",
+    "headword": "앉다",
+    "field": "pronunciation",
+    "currentValue": "anda",
+    "suggestedValue": "antta",
+    "issueType": "pronunciation",
+    "severity": "low",
+    "confidence": 0.5,
+    "reason": "앉다の標準発音は[안따]。andaは終声ㄵと濃音化を反映せず、別語안다（抱く/知る）と紛らわしい。外部辞書未照合のため要確認。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00397",
+    "language": "ko",
+    "headword": "깨끗하다",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "깨끗하다は韓国語では形容詞(형용사)。品詞タグが「名詞」となっているが形容詞が正しい。同レンジ内の他の하다形容詞(강하다/약하다/똑똑하다/심하다等)は形容詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00399",
+    "language": "ko",
+    "headword": "조용하다",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "조용하다は韓国語では形容詞(형용사)。品詞タグが「名詞」となっているが形容詞が正しい。同レンジ内の他の하다形容詞(강하다/약하다/똑똑하다/심하다等)は形容詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00401",
+    "language": "ko",
+    "headword": "유명하다",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "유명하다は韓国語では形容詞(형용사)。品詞タグが「名詞」となっているが形容詞が正しい。同レンジ内の他の하다形容詞(강하다/약하다/똑똑하다/심하다等)は形容詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00402",
+    "language": "ko",
+    "headword": "중요하다",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "중요하다は韓国語では形容詞(형용사)。品詞タグが「名詞」となっているが形容詞が正しい。同レンジ内の他の하다形容詞(강하다/약하다/똑똑하다/심하다等)は形容詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00403",
+    "language": "ko",
+    "headword": "필요하다",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "필요하다は韓国語では形容詞(형용사)。品詞タグが「名詞」となっているが形容詞が正しい。同レンジ内の他の하다形容詞(강하다/약하다/똑똑하다/심하다等)は形容詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00404",
+    "language": "ko",
+    "headword": "같다",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "같다は韓国語では形容詞(형용사)。品詞タグが「名詞」となっているが形容詞が正しい。同レンジ内の他の하다形容詞(강하다/약하다/똑똑하다/심하다等)は形容詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00405",
+    "language": "ko",
+    "headword": "다르다",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "다르다は韓国語では形容詞(형용사)。品詞タグが「動詞」となっているが形容詞が正しい。同レンジ内の他の하다形容詞(강하다/약하다/똑똑하다/심하다等)は形容詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00411",
+    "language": "ko",
+    "headword": "피곤하다",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "피곤하다は韓国語では形容詞(형용사)。品詞タグが「動詞」となっているが形容詞が正しい。同レンジ内の他の하다形容詞(강하다/약하다/똑똑하다/심하다等)は形容詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00412",
+    "language": "ko",
+    "headword": "건강하다",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "건강하다は韓国語では形容詞(형용사)。品詞タグが「名詞」となっているが形容詞が正しい。同レンジ内の他の하다形容詞(강하다/약하다/똑똑하다/심하다等)は形容詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00413",
+    "language": "ko",
+    "headword": "친절하다",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "친절하다は韓国語では形容詞(형용사)。品詞タグが「名詞」となっているが形容詞が正しい。同レンジ内の他の하다形容詞(강하다/약하다/똑똑하다/심하다等)は形容詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00419",
+    "language": "ko",
+    "headword": "불편하다",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "불편하다は韓国語では形容詞(형용사)。品詞タグが「名詞」となっているが形容詞が正しい。同レンジ内の他の하다形容詞(강하다/약하다/똑똑하다/심하다等)は形容詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00420",
+    "language": "ko",
+    "headword": "편리하다",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "편리하다は韓国語では形容詞(형용사)。品詞タグが「名詞」となっているが形容詞が正しい。同レンジ内の他の하다形容詞(강하다/약하다/똑똑하다/심하다等)は形容詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00421",
+    "language": "ko",
+    "headword": "안전하다",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "안전하다は韓国語では形容詞(형용사)。品詞タグが「名詞」となっているが形容詞が正しい。同レンジ内の他の하다形容詞(강하다/약하다/똑똑하다/심하다等)は形容詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00422",
+    "language": "ko",
+    "headword": "위험하다",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "위험하다は韓国語では形容詞(형용사)。品詞タグが「名詞」となっているが形容詞が正しい。同レンジ内の他の하다形容詞(강하다/약하다/똑똑하다/심하다等)は形容詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00423",
+    "language": "ko",
+    "headword": "복잡하다",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "복잡하다は韓国語では形容詞(형용사)。品詞タグが「名詞」となっているが形容詞が正しい。同レンジ内の他の하다形容詞(강하다/약하다/똑똑하다/심하다等)は形容詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00424",
+    "language": "ko",
+    "headword": "맑다",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "맑다は韓国語では形容詞(형용사)。品詞タグが「動詞」となっているが形容詞が正しい。同レンジ内の他の하다形容詞(강하다/약하다/똑똑하다/심하다等)は形容詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00425",
+    "language": "ko",
+    "headword": "흐리다",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "흐리다は韓国語では形容詞(형용사)。品詞タグが「動詞」となっているが形容詞が正しい。同レンジ内の他の하다形容詞(강하다/약하다/똑똑하다/심하다等)は形容詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00428",
+    "language": "ko",
+    "headword": "많이",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "많이は副詞(부사)。品詞タグが「名詞」となっているが副詞が正しい。同レンジ内の他の副詞(매우/너무/항상/일찍等)は副詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00430",
+    "language": "ko",
+    "headword": "다시",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "다시は副詞(부사)。品詞タグが「名詞」となっているが副詞が正しい。同レンジ内の他の副詞(매우/너무/항상/일찍等)は副詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00431",
+    "language": "ko",
+    "headword": "또",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "또は副詞(부사)。品詞タグが「名詞」となっているが副詞が正しい。同レンジ内の他の副詞(매우/너무/항상/일찍等)は副詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00432",
+    "language": "ko",
+    "headword": "자주",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "자주は副詞(부사)。品詞タグが「名詞」となっているが副詞が正しい。同レンジ内の他の副詞(매우/너무/항상/일찍等)は副詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00433",
+    "language": "ko",
+    "headword": "가끔",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "가끔は副詞(부사)。品詞タグが「名詞」となっているが副詞が正しい。同レンジ内の他の副詞(매우/너무/항상/일찍等)は副詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00437",
+    "language": "ko",
+    "headword": "벌써",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "벌써は副詞(부사)。品詞タグが「動詞」となっているが副詞が正しい。同レンジ内の他の副詞(매우/너무/항상/일찍等)は副詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00438",
+    "language": "ko",
+    "headword": "아직",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "아직は副詞(부사)。品詞タグが「名詞」となっているが副詞が正しい。同レンジ内の他の副詞(매우/너무/항상/일찍等)は副詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00439",
+    "language": "ko",
+    "headword": "곧",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "곧は副詞(부사)。品詞タグが「動詞」となっているが副詞が正しい。同レンジ内の他の副詞(매우/너무/항상/일찍等)は副詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00441",
+    "language": "ko",
+    "headword": "갑자기",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "갑자기は副詞(부사)。品詞タグが「名詞」となっているが副詞が正しい。同レンジ内の他の副詞(매우/너무/항상/일찍等)は副詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00445",
+    "language": "ko",
+    "headword": "다",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.8,
+    "reason": "다は副詞(부사)。品詞タグが「名詞」となっているが副詞が正しい。同レンジ内の他の副詞(매우/너무/항상/일찍等)は副詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00446",
+    "language": "ko",
+    "headword": "모두",
+    "field": "tags",
+    "currentValue": [
+      "形容詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.85,
+    "reason": "모두は副詞または名詞(みんな/全部)。品詞タグ「形容詞」は明白な誤り。文脈(우리는 모두 학생이다)では副詞的用法。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00447",
+    "language": "ko",
+    "headword": "꼭",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "꼭は副詞(부사)。品詞タグが「名詞」となっているが副詞が正しい。同レンジ内の他の副詞(매우/너무/항상/일찍等)は副詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00448",
+    "language": "ko",
+    "headword": "제일",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "low",
+    "confidence": 0.72,
+    "reason": "제일は名詞にもなるが、例文(봄을 제일 좋아한다)では『一番/最も』の副詞用法。名詞タグは文脈に不一致。外部辞書未照合のため確信は中程度。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00451",
+    "language": "ko",
+    "headword": "늦게",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "늦게は副詞(부사)。品詞タグが「動詞」となっているが副詞が正しい。同レンジ内の他の副詞(매우/너무/항상/일찍等)は副詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00452",
+    "language": "ko",
+    "headword": "어떻게",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "어떻게は副詞(부사)。品詞タグが「名詞」となっているが副詞が正しい。同レンジ内の他の副詞(매우/너무/항상/일찍等)は副詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00453",
+    "language": "ko",
+    "headword": "그리고",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "接続詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "그리고は接続詞(접속사)。品詞タグが「名詞」となっているが接続詞が正しい。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00454",
+    "language": "ko",
+    "headword": "그래서",
+    "field": "tags",
+    "currentValue": [
+      "副詞"
+    ],
+    "suggestedValue": [
+      "接続詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "그래서は接続詞(접속사)。品詞タグが「副詞」となっているが接続詞が正しい。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00455",
+    "language": "ko",
+    "headword": "하지만",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "接続詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "하지만は接続詞(접속사)。品詞タグが「名詞」となっているが接続詞が正しい。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00512",
+    "language": "ko",
+    "headword": "목",
+    "field": "example",
+    "currentValue": "나는 감기 때문에 목이 아프다. — 私は風邪のせいで首が痛い。",
+    "suggestedValue": "感기 문맥では『목이 아프다』は通常『喉が痛い』の意。訳を『風邪のせいで喉が痛い。』に。",
+    "issueType": "translation",
+    "severity": "low",
+    "confidence": 0.6,
+    "reason": "見出し語 목 の主要義『首』自体は妥当だが、例文の『감기 때문에 목이 아프다』は慣用的に『喉が痛い』を指すため、和訳『首が痛い』は不自然。外部辞書未照合。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00707",
+    "language": "ko",
+    "headword": "늘다",
+    "field": "example",
+    "currentValue": "요즘 외국인이 많이 늘어난다. — 最近外国人がたくさん増える。",
+    "suggestedValue": "見出し語 늘다 を用いた例文へ差し替え(例: 요즘 외국인이 많이 는다.) または見出し語を 늘어나다 に統一",
+    "issueType": "example",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "見出し語は 늘다 だが、例文・exampleForm(늘어난다)は別語彙 늘어나다 の活用形。例文が見出し語を提示していない。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00708",
+    "language": "ko",
+    "headword": "줄다",
+    "field": "example",
+    "currentValue": "이 도시의 인구가 점점 줄어든다. — この都市の人口がだんだん減る。",
+    "suggestedValue": "見出し語 줄다 を用いた例文へ差し替え(例: 이 도시의 인구가 점점 준다.) または見出し語を 줄어들다 に統一",
+    "issueType": "example",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "見出し語は 줄다 だが、例文・exampleForm(줄어든다)は別語彙 줄어들다 の活用形。例文が見出し語を提示していない。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00726",
+    "language": "ko",
+    "headword": "비슷하다",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "비슷하다は韓国語では形容詞(형용사)。品詞タグが「動詞」となっているが形容詞が正しい。同レンジ内の他の하다形容詞(강하다/약하다/똑똑하다/심하다等)は形容詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00727",
+    "language": "ko",
+    "headword": "익숙하다",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "익숙하다は韓国語では形容詞(형용사)。品詞タグが「動詞」となっているが形容詞が正しい。同レンジ内の他の하다形容詞(강하다/약하다/똑똑하다/심하다等)は形容詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00728",
+    "language": "ko",
+    "headword": "특별하다",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "특별하다は韓国語では形容詞(형용사)。品詞タグが「名詞」となっているが形容詞が正しい。同レンジ内の他の하다形容詞(강하다/약하다/똑똑하다/심하다等)は形容詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00729",
+    "language": "ko",
+    "headword": "이상하다",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "이상하다は韓国語では形容詞(형용사)。品詞タグが「名詞」となっているが形容詞が正しい。同レンジ内の他の하다形容詞(강하다/약하다/똑똑하다/심하다等)は形容詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00730",
+    "language": "ko",
+    "headword": "신기하다",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "신기하다は韓国語では形容詞(형용사)。品詞タグが「名詞」となっているが形容詞が正しい。同レンジ内の他の하다形容詞(강하다/약하다/똑똑하다/심하다等)は形容詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00736",
+    "language": "ko",
+    "headword": "지루하다",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "지루하다は韓国語では形容詞(형용사)。品詞タグが「名詞」となっているが形容詞が正しい。同レンジ内の他の하다形容詞(강하다/약하다/똑똑하다/심하다等)は形容詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00737",
+    "language": "ko",
+    "headword": "궁금하다",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "궁금하다は韓国語では形容詞(형용사)。品詞タグが「動詞」となっているが形容詞が正しい。同レンジ内の他の하다形容詞(강하다/약하다/똑똑하다/심하다等)は形容詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00738",
+    "language": "ko",
+    "headword": "편하다",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "편하다は韓国語では形容詞(형용사)。品詞タグが「名詞」となっているが形容詞が正しい。同レンジ内の他の하다形容詞(강하다/약하다/똑똑하다/심하다等)は形容詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00739",
+    "language": "ko",
+    "headword": "힘들다",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "힘들다は韓国語では形容詞(형용사)。品詞タグが「名詞」となっているが形容詞が正しい。同レンジ内の他の하다形容詞(강하다/약하다/똑똑하다/심하다等)は形容詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00740",
+    "language": "ko",
+    "headword": "부지런하다",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "부지런하다は韓国語では形容詞(형용사)。品詞タグが「名詞」となっているが形容詞が正しい。同レンジ内の他の하다形容詞(강하다/약하다/똑똑하다/심하다等)は形容詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00751",
+    "language": "ko",
+    "headword": "뚱뚱하다",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "뚱뚱하다は韓国語では形容詞(형용사)。品詞タグが「動詞」となっているが形容詞が正しい。同レンジ内の他の하다形容詞(강하다/약하다/똑똑하다/심하다等)は形容詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00752",
+    "language": "ko",
+    "headword": "배고프다",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "배고프다は韓国語では形容詞(형용사)。品詞タグが「動詞」となっているが形容詞が正しい。同レンジ内の他の하다形容詞(강하다/약하다/똑똑하다/심하다等)は形容詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00753",
+    "language": "ko",
+    "headword": "배부르다",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "배부르다は韓国語では形容詞(형용사)。品詞タグが「名詞」となっているが形容詞が正しい。同レンジ内の他の하다形容詞(강하다/약하다/똑똑하다/심하다等)は形容詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00754",
+    "language": "ko",
+    "headword": "목마르다",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "목마르다は韓国語では形容詞(형용사)。品詞タグが「動詞」となっているが形容詞が正しい。同レンジ内の他の하다形容詞(강하다/약하다/똑똑하다/심하다等)は形容詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00757",
+    "language": "ko",
+    "headword": "심각하다",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "심각하다は韓国語では形容詞(형용사)。品詞タグが「名詞」となっているが形容詞が正しい。同レンジ内の他の하다形容詞(강하다/약하다/똑똑하다/심하다等)は形容詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00758",
+    "language": "ko",
+    "headword": "확실하다",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "확실하다は韓国語では形容詞(형용사)。品詞タグが「名詞」となっているが形容詞が正しい。同レンジ内の他の하다形容詞(강하다/약하다/똑똑하다/심하다等)は形容詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00759",
+    "language": "ko",
+    "headword": "분명하다",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "분명하다は韓国語では形容詞(형용사)。品詞タグが「名詞」となっているが形容詞が正しい。同レンジ内の他の하다形容詞(강하다/약하다/똑똑하다/심하다等)は形容詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00760",
+    "language": "ko",
+    "headword": "정확하다",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "정확하다は韓国語では形容詞(형용사)。品詞タグが「名詞」となっているが形容詞が正しい。同レンジ内の他の하다形容詞(강하다/약하다/똑똑하다/심하다等)は形容詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00761",
+    "language": "ko",
+    "headword": "충분하다",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "충분하다は韓国語では形容詞(형용사)。品詞タグが「名詞」となっているが形容詞が正しい。同レンジ内の他の하다形容詞(강하다/약하다/똑똑하다/심하다等)は形容詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00763",
+    "language": "ko",
+    "headword": "다양하다",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "다양하다は韓国語では形容詞(형용사)。品詞タグが「名詞」となっているが形容詞が正しい。同レンジ内の他の하다形容詞(강하다/약하다/똑똑하다/심하다等)は形容詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00764",
+    "language": "ko",
+    "headword": "자유롭다",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "자유롭다は韓国語では形容詞(형용사)。品詞タグが「名詞」となっているが形容詞が正しい。同レンジ内の他の하다形容詞(강하다/약하다/똑똑하다/심하다等)は形容詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00766",
+    "language": "ko",
+    "headword": "자연스럽다",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "자연스럽다は韓国語では形容詞(형용사)。品詞タグが「名詞」となっているが形容詞が正しい。同レンジ内の他の하다形容詞(강하다/약하다/똑똑하다/심하다等)は形容詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00767",
+    "language": "ko",
+    "headword": "당연하다",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.97,
+    "reason": "당연하다は「하다」形容詞（叙述形で状態を表す）。和訳「当然だ」も形容詞であり、tagsの「名詞」は品詞不一致。「形容詞」が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00768",
+    "language": "ko",
+    "headword": "솔직하다",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.97,
+    "reason": "솔직하다は「하다」形容詞（叙述形で状態を表す）。和訳「率直だ」も形容詞であり、tagsの「名詞」は品詞不一致。「形容詞」が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00769",
+    "language": "ko",
+    "headword": "성실하다",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.97,
+    "reason": "성실하다は「하다」形容詞（叙述形で状態を表す）。和訳「誠実だ」も形容詞であり、tagsの「名詞」は品詞不一致。「形容詞」が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00770",
+    "language": "ko",
+    "headword": "활발하다",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.97,
+    "reason": "활발하다は「하다」形容詞（叙述形で状態を表す）。和訳「活発だ」も形容詞であり、tagsの「名詞」は品詞不一致。「形容詞」が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-01083",
+    "language": "ko",
+    "headword": "명확하다",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.97,
+    "reason": "명확하다は「하다」形容詞（叙述形で状態を表す）。和訳「明確だ」も形容詞であり、tagsの「名詞」は品詞不一致。「形容詞」が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-01084",
+    "language": "ko",
+    "headword": "모호하다",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.97,
+    "reason": "모호하다は「하다」形容詞（叙述形で状態を表す）。和訳「曖昧だ」も形容詞であり、tagsの「名詞」は品詞不一致。「形容詞」が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-01085",
+    "language": "ko",
+    "headword": "엄격하다",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.97,
+    "reason": "엄격하다は「하다」形容詞（叙述形で状態を表す）。和訳「厳格だ」も形容詞であり、tagsの「名詞」は品詞不一致。「形容詞」が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-01086",
+    "language": "ko",
+    "headword": "성급하다",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.97,
+    "reason": "성급하다は「하다」形容詞（叙述形で状態を表す）。和訳「せっかちだ」も形容詞であり、tagsの「名詞」は品詞不一致。「形容詞」が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-01087",
+    "language": "ko",
+    "headword": "신중하다",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.97,
+    "reason": "신중하다は「하다」形容詞（叙述形で状態を表す）。和訳「慎重だ」も形容詞であり、tagsの「名詞」は品詞不一致。「形容詞」が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-01088",
+    "language": "ko",
+    "headword": "용감하다",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.97,
+    "reason": "용감하다は「하다」形容詞（叙述形で状態を表す）。和訳「勇敢だ」も形容詞であり、tagsの「名詞」は品詞不一致。「形容詞」が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-01089",
+    "language": "ko",
+    "headword": "비겁하다",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.97,
+    "reason": "비겁하다は「하다」形容詞（叙述形で状態を表す）。和訳「卑怯だ」も形容詞であり、tagsの「名詞」は品詞不一致。「形容詞」が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-01090",
+    "language": "ko",
+    "headword": "겸손하다",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.97,
+    "reason": "겸손하다は「하다」形容詞（叙述形で状態を表す）。和訳「謙虚だ」も形容詞であり、tagsの「名詞」は品詞不一致。「形容詞」が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-01091",
+    "language": "ko",
+    "headword": "거만하다",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.97,
+    "reason": "거만하다は「하다」形容詞（叙述形で状態を表す）。和訳「傲慢だ」も形容詞であり、tagsの「名詞」は品詞不一致。「形容詞」が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-01092",
+    "language": "ko",
+    "headword": "예민하다",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.97,
+    "reason": "예민하다は「하다」形容詞（叙述形で状態を表す）。和訳「敏感だ」も形容詞であり、tagsの「名詞」は品詞不一致。「形容詞」が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-01094",
+    "language": "ko",
+    "headword": "영리하다",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.97,
+    "reason": "영리하다は「하다」形容詞（叙述形で状態を表す）。和訳「利口だ」も形容詞であり、tagsの「名詞」は品詞不一致。「形容詞」が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-01095",
+    "language": "ko",
+    "headword": "현명하다",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.97,
+    "reason": "현명하다は「하다」形容詞（叙述形で状態を表す）。和訳「賢明だ」も形容詞であり、tagsの「名詞」は品詞不一致。「形容詞」が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-01096",
+    "language": "ko",
+    "headword": "어리석다",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.97,
+    "reason": "어리석다は「하다」形容詞（叙述形で状態を表す）。和訳「愚かだ」も形容詞であり、tagsの「名詞」は品詞不一致。「形容詞」が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00936",
+    "language": "ko",
+    "headword": "저장하다",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.97,
+    "reason": "저장하다は「하다」動詞（動作）。和訳「保存する（データを）」も動詞。周辺の同型語は全て「動詞」タグで、本語のみ「名詞」となっており不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-01033",
+    "language": "ko",
+    "headword": "맹세하다",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.97,
+    "reason": "맹세하다は「하다」動詞（動作）。和訳「誓う（宣誓）」も動詞。周辺の同型語は全て「動詞」タグで、本語のみ「名詞」となっており不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-01097",
+    "language": "ko",
+    "headword": "게으르다",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.96,
+    "reason": "게으르다は状態を表す形容詞（怠惰だ）。活用も形容詞型で、tagsの「動詞」は品詞不一致。「形容詞」が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-01097",
+    "language": "ko",
+    "headword": "게으르다",
+    "field": "answer",
+    "currentValue": "怠けている",
+    "suggestedValue": "怠惰だ／無精だ",
+    "issueType": "translation_nuance",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "게으르다は恒常的な性質を表す形容詞で、辞書義は「怠惰だ・無精だ」。「怠けている」は進行の動作的訳で品詞ニュアンスがずれる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00776",
+    "language": "ko",
+    "headword": "별로",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "별로は副詞（用言を修飾）。例文でも述語修飾の副詞用法。tagsの「名詞」は不一致で「副詞」が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00777",
+    "language": "ko",
+    "headword": "전혀",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "전혀は副詞（用言を修飾）。例文でも述語修飾の副詞用法。tagsの「名詞」は不一致で「副詞」が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00778",
+    "language": "ko",
+    "headword": "거의",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "거의は副詞（用言を修飾）。例文でも述語修飾の副詞用法。tagsの「名詞」は不一致で「副詞」が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00780",
+    "language": "ko",
+    "headword": "아마",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "아마は副詞（用言を修飾）。例文でも述語修飾の副詞用法。tagsの「名詞」は不一致で「副詞」が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00783",
+    "language": "ko",
+    "headword": "미리",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "미리は副詞（用言を修飾）。例文でも述語修飾の副詞用法。tagsの「名詞」は不一致で「副詞」が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00788",
+    "language": "ko",
+    "headword": "점점",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "점점は副詞（用言を修飾）。例文でも述語修飾の副詞用法。tagsの「名詞」は不一致で「副詞」が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00795",
+    "language": "ko",
+    "headword": "오히려",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "오히려は副詞（用言を修飾）。例文でも述語修飾の副詞用法。tagsの「名詞」は不一致で「副詞」が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00797",
+    "language": "ko",
+    "headword": "혹시",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "혹시は副詞（用言を修飾）。例文でも述語修飾の副詞用法。tagsの「名詞」は不一致で「副詞」が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00771",
+    "language": "ko",
+    "headword": "그러나",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "接続詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "그러나は接続（副）詞で文をつなぐ語。tagsの「名詞」は明確な品詞不一致（少なくとも名詞ではない）。「接続詞」（または副詞）が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00773",
+    "language": "ko",
+    "headword": "그러면",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "接続詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "그러면は接続（副）詞で文をつなぐ語。tagsの「名詞」は明確な品詞不一致（少なくとも名詞ではない）。「接続詞」（または副詞）が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00774",
+    "language": "ko",
+    "headword": "그러니까",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "接続詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "그러니까は接続（副）詞で文をつなぐ語。tagsの「名詞」は明確な品詞不一致（少なくとも名詞ではない）。「接続詞」（または副詞）が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00775",
+    "language": "ko",
+    "headword": "왜냐하면",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "接続詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "왜냐하면は接続（副）詞で文をつなぐ語。tagsの「名詞」は明確な品詞不一致（少なくとも名詞ではない）。「接続詞」（または副詞）が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00842",
+    "language": "ko",
+    "headword": "모임",
+    "field": "tags",
+    "currentValue": [
+      "副詞"
+    ],
+    "suggestedValue": [
+      "名詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.96,
+    "reason": "모임（集まり）は名詞。助詞を伴い主語・目的語になる。tagsの「副詞」は品詞不一致で「名詞」が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00844",
+    "language": "ko",
+    "headword": "축제",
+    "field": "tags",
+    "currentValue": [
+      "副詞"
+    ],
+    "suggestedValue": [
+      "名詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.96,
+    "reason": "축제（祭り）は名詞。助詞を伴い主語・目的語になる。tagsの「副詞」は品詞不一致で「名詞」が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-01110",
+    "language": "ko",
+    "headword": "신입",
+    "field": "tags",
+    "currentValue": [
+      "副詞"
+    ],
+    "suggestedValue": [
+      "名詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.96,
+    "reason": "신입（新入り）は名詞。助詞を伴い主語・目的語になる。tagsの「副詞」は品詞不一致で「名詞」が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00877",
+    "language": "ko",
+    "headword": "차이",
+    "field": "tags",
+    "currentValue": [
+      "形容詞"
+    ],
+    "suggestedValue": [
+      "名詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.96,
+    "reason": "차이（違い）は名詞。助詞を伴い主語・目的語になる。tagsの「形容詞」は品詞不一致で「名詞」が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-01318",
+    "language": "ko",
+    "headword": "설거지",
+    "field": "tags",
+    "currentValue": "形容詞",
+    "suggestedValue": "名詞",
+    "issueType": "posMismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "설거지（皿洗い）は動作性名詞。形容詞ではない。和訳「皿洗い」も名詞であり品詞不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-01360",
+    "language": "ko",
+    "headword": "분노",
+    "field": "tags",
+    "currentValue": "副詞",
+    "suggestedValue": "名詞",
+    "issueType": "posMismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "분노（怒り）は名詞。副詞タグは誤り。和訳「怒り」も名詞。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-01364",
+    "language": "ko",
+    "headword": "여유",
+    "field": "tags",
+    "currentValue": "副詞",
+    "suggestedValue": "名詞",
+    "issueType": "posMismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "여유（ゆとり・余裕）は名詞。副詞タグは誤り。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-01374",
+    "language": "ko",
+    "headword": "보람",
+    "field": "tags",
+    "currentValue": "形容詞",
+    "suggestedValue": "名詞",
+    "issueType": "posMismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "보람（やりがい・甲斐）は名詞。形容詞タグは誤り。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-01378",
+    "language": "ko",
+    "headword": "배려",
+    "field": "tags",
+    "currentValue": "副詞",
+    "suggestedValue": "名詞",
+    "issueType": "posMismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "배려（思いやり・配慮）は名詞（하다用言化可の動作性名詞）。副詞タグは誤り。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-01483",
+    "language": "ko",
+    "headword": "후추",
+    "field": "tags",
+    "currentValue": "動詞",
+    "suggestedValue": "名詞",
+    "issueType": "posMismatch",
+    "severity": "medium",
+    "confidence": 0.97,
+    "reason": "후추（こしょう）は名詞。動詞タグは明白な誤り。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-01499",
+    "language": "ko",
+    "headword": "간식",
+    "field": "tags",
+    "currentValue": "動詞",
+    "suggestedValue": "名詞",
+    "issueType": "posMismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "간식（おやつ・間食）は名詞。動詞タグは誤り。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-01522",
+    "language": "ko",
+    "headword": "당장",
+    "field": "tags",
+    "currentValue": "動詞",
+    "suggestedValue": "副詞",
+    "issueType": "posMismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "당장（今すぐ）は副詞（名詞用法もあるが動詞ではない）。動詞タグは誤り。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-01519",
+    "language": "ko",
+    "headword": "도저히",
+    "field": "tags",
+    "currentValue": "形容詞",
+    "suggestedValue": "副詞",
+    "issueType": "posMismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "도저히（とうてい）は副詞。否定と呼応する副詞であり形容詞ではない。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-01504",
+    "language": "ko",
+    "headword": "대체로",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "副詞",
+    "issueType": "posMismatch",
+    "severity": "low",
+    "confidence": 0.92,
+    "reason": "대체로（おおむね・大体）は副詞。名詞タグは誤り。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-01505",
+    "language": "ko",
+    "headword": "도대체",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "副詞",
+    "issueType": "posMismatch",
+    "severity": "low",
+    "confidence": 0.92,
+    "reason": "도대체（一体）は副詞。名詞タグは誤り。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-01507",
+    "language": "ko",
+    "headword": "차라리",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "副詞",
+    "issueType": "posMismatch",
+    "severity": "low",
+    "confidence": 0.92,
+    "reason": "차라리（いっそ・むしろ）は副詞。名詞タグは誤り。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-01508",
+    "language": "ko",
+    "headword": "게다가",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "副詞",
+    "issueType": "posMismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "게다가（その上・さらに）は接続副詞。名詞タグは誤り。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-01509",
+    "language": "ko",
+    "headword": "따라서",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "副詞",
+    "issueType": "posMismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "따라서（したがって）は接続副詞。名詞タグは誤り。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-01510",
+    "language": "ko",
+    "headword": "그렇지만",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "副詞",
+    "issueType": "posMismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "그렇지만（そうだけれど・しかし）は接続副詞。名詞タグは誤り。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-01510",
+    "language": "ko",
+    "headword": "그렇지만",
+    "field": "answer",
+    "currentValue": "そうだけれど",
+    "suggestedValue": "しかし／だが／でも",
+    "issueType": "translationNaturalness",
+    "severity": "low",
+    "confidence": 0.5,
+    "reason": "「そうだけれど」は逐語的で接続詞としてはやや不自然。一般的な訳語は「しかし・だが・でも」。意味自体は誤りではない。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-01512",
+    "language": "ko",
+    "headword": "즉",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "副詞",
+    "issueType": "posMismatch",
+    "severity": "low",
+    "confidence": 0.88,
+    "reason": "즉（すなわち）は副詞。名詞タグは誤り。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-01513",
+    "language": "ko",
+    "headword": "예를 들어",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "副詞",
+    "issueType": "posMismatch",
+    "severity": "low",
+    "confidence": 0.85,
+    "reason": "예를 들어（例えば）は副詞句（慣用句）。名詞タグは誤り。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-01514",
+    "language": "ko",
+    "headword": "반면에",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "副詞",
+    "issueType": "posMismatch",
+    "severity": "low",
+    "confidence": 0.85,
+    "reason": "반면에（反面・その一方で）は副詞的接続表現。名詞タグは誤り。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-01516",
+    "language": "ko",
+    "headword": "결코",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "副詞",
+    "issueType": "posMismatch",
+    "severity": "low",
+    "confidence": 0.92,
+    "reason": "결코（決して）は否定と呼応する副詞。名詞タグは誤り。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-01517",
+    "language": "ko",
+    "headword": "과연",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "副詞",
+    "issueType": "posMismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "과연（果たして・さすが）は副詞。名詞タグは誤り。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-01520",
+    "language": "ko",
+    "headword": "하필",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "副詞",
+    "issueType": "posMismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "하필（よりによって）は副詞。名詞タグは誤り。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-01521",
+    "language": "ko",
+    "headword": "어차피",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "副詞",
+    "issueType": "posMismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "어차피（どうせ）は副詞。名詞タグは誤り。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-01515",
+    "language": "ko",
+    "headword": "한편",
+    "field": "tags",
+    "currentValue": "名詞",
+    "suggestedValue": "副詞",
+    "issueType": "posMismatch",
+    "severity": "low",
+    "confidence": 0.6,
+    "reason": "한편は「一方（＝他方で）」の談話標識としては副詞的だが、「一つの側・味方」の名詞用法も存在する。和訳「一方」の語義では副詞が適切と考えられるが、名詞用法も許容されるため確信は低い。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
     "id": "es-00125",
     "language": "es",
     "headword": "encontrar",

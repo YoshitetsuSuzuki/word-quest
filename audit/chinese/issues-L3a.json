@@ -1,0 +1,724 @@
+[
+  {
+    "id": "zh-01234",
+    "language": "zh",
+    "headword": "按照",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "介詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "「按照」は「〜に従って」を表す介詞。名詞ではない",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01235",
+    "language": "zh",
+    "headword": "把",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "介詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "処置文をつくる介詞「把」。名詞ではない",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01249",
+    "language": "zh",
+    "headword": "保险",
+    "field": "tags",
+    "currentValue": [
+      "形容詞"
+    ],
+    "suggestedValue": [
+      "名詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "答え・例文とも名詞「保険」。形容詞タグは不適",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01257",
+    "language": "zh",
+    "headword": "被",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "介詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "受身をつくる介詞「被」。名詞ではない",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01268",
+    "language": "zh",
+    "headword": "变为",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "「変わる」を表す動詞。名詞ではない",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01278",
+    "language": "zh",
+    "headword": "并且",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "連詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "「そして」を表す接続詞（連詞）。名詞ではない",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01279",
+    "language": "zh",
+    "headword": "播出",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "「放映する」を表す動詞。名詞ではない",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01283",
+    "language": "zh",
+    "headword": "不论",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "連詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "「〜を問わず」を表す接続詞。名詞ではない",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01287",
+    "language": "zh",
+    "headword": "不得不",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "「〜せざるを得ない」を表す副詞的表現。名詞ではない",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01289",
+    "language": "zh",
+    "headword": "不仅",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "連詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "「〜だけでなく」を表す接続詞。名詞ではない",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01308",
+    "language": "zh",
+    "headword": "朝",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "介詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "方向を表す介詞「朝」。名詞ではない",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01330",
+    "language": "zh",
+    "headword": "除了",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "介詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "「〜を除いて」を表す介詞。名詞ではない",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01347",
+    "language": "zh",
+    "headword": "达到",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "「達する」を表す動詞。名詞ではない",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01348",
+    "language": "zh",
+    "headword": "打破",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "「打ち破る／割る」を表す動詞。名詞ではない",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01379",
+    "language": "zh",
+    "headword": "定期",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "「定期の」を表す区別詞／連体修飾。動詞ではない",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01415",
+    "language": "zh",
+    "headword": "放到",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "「〜に置く」を表す動詞。名詞ではない",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01421",
+    "language": "zh",
+    "headword": "分组",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "「グループ分けする」を表す動詞。名詞ではない",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01439",
+    "language": "zh",
+    "headword": "赶到",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "「駆けつける」を表す動詞。名詞ではない",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01449",
+    "language": "zh",
+    "headword": "告别",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "「別れを告げる」を表す動詞。名詞ではない",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01504",
+    "language": "zh",
+    "headword": "害怕",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "「怖がる」を表す動詞。名詞ではない",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01547",
+    "language": "zh",
+    "headword": "加工",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "「加工する」を表す動詞。名詞ではない",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01563",
+    "language": "zh",
+    "headword": "建成",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "「完成させる／完成する」を表す動詞。名詞ではない",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01582",
+    "language": "zh",
+    "headword": "结婚",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "「結婚する」を表す離合動詞。名詞ではない",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01585",
+    "language": "zh",
+    "headword": "解开",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "「解く」を表す動詞。名詞ではない",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01611",
+    "language": "zh",
+    "headword": "就是",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "「まさに〜である」を表す副詞・繋辞用法。名詞ではない",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01612",
+    "language": "zh",
+    "headword": "就业",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "「就職する」を表す動詞。名詞ではない",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01626",
+    "language": "zh",
+    "headword": "开业",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "「開業する」を表す動詞。名詞ではない",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01628",
+    "language": "zh",
+    "headword": "看起来",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "「見たところ」を表す動詞句。名詞ではない",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01629",
+    "language": "zh",
+    "headword": "看上去",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "「見た目には」を表す動詞句。名詞ではない",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01654",
+    "language": "zh",
+    "headword": "离婚",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "「離婚する」を表す離合動詞。名詞ではない",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01656",
+    "language": "zh",
+    "headword": "理发",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "「散髪する」を表す離合動詞。名詞ではない",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01665",
+    "language": "zh",
+    "headword": "连忙",
+    "field": "tags",
+    "currentValue": [
+      "副詞"
+    ],
+    "suggestedValue": [
+      "介詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "「〜さえも」を表す介詞。動詞ではない",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01674",
+    "language": "zh",
+    "headword": "领先",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "「リードする」を表す動詞。名詞ではない",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01677",
+    "language": "zh",
+    "headword": "留学",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "「留学する」を表す動詞。名詞ではない",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01686",
+    "language": "zh",
+    "headword": "落后",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "「遅れている」を表す動詞・形容詞。名詞ではない",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01690",
+    "language": "zh",
+    "headword": "慢慢",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "「ゆっくりと」を表す副詞（畳語）。名詞ではない",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01692",
+    "language": "zh",
+    "headword": "没用",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "「役に立たない」を表す形容詞。動詞ではない",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01421",
+    "language": "zh",
+    "headword": "分组",
+    "field": "pronunciation",
+    "currentValue": "fēn zǔ",
+    "suggestedValue": "fēnzǔ",
+    "issueType": "pinyin_format",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "二音節一語の拼音は分かち書きせず連結表記が標準",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01497",
+    "language": "zh",
+    "headword": "国内",
+    "field": "pronunciation",
+    "currentValue": "guó nèi",
+    "suggestedValue": "guónèi",
+    "issueType": "pinyin_format",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "二音節一語の拼音は分かち書きせず連結表記が標準",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01586",
+    "language": "zh",
+    "headword": "金",
+    "field": "example",
+    "currentValue": "这是一块金。 — これは金の塊だ。",
+    "suggestedValue": "这是一块金子。 — これは金の塊だ。",
+    "issueType": "example_usage",
+    "severity": "medium",
+    "confidence": 0.82,
+    "reason": "名詞「金（gold）」は通常「金子／黄金」を用いる。「一块金」は不自然",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-01650",
+    "language": "zh",
+    "headword": "乐",
+    "field": "example",
+    "currentValue": "听到这个消息他很乐。 — この知らせを聞いて彼はとても楽しんだ。",
+    "suggestedValue": "听到这个消息他很高兴。 — この知らせを聞いて彼はとても喜んだ。",
+    "issueType": "example_usage",
+    "severity": "medium",
+    "confidence": 0.8,
+    "reason": "「很乐」は現代中国語として不自然。単独形容詞「乐」の程度修飾は口語的に不自然",
+    "evidence": [],
+    "requiresHumanReview": true
+  }
+]

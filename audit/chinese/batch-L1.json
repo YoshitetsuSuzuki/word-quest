@@ -1,0 +1,16 @@
+{
+  "batchId": "zh_L1",
+  "language": "zh",
+  "file": "level-1.json",
+  "totalEntries": 487,
+  "checkedEntries": 487,
+  "errors": 1,
+  "warnings": 3,
+  "needsHumanReview": 54,
+  "notVerified": 1,
+  "passed": 432,
+  "status": "completed",
+  "externalSourcesChecked": [],
+  "issueEntries": 55,
+  "totalIssues": 55
+}

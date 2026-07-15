@@ -1,0 +1,816 @@
+[
+  {
+    "id": "zh-03162",
+    "language": "zh",
+    "headword": "报警",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.95,
+    "reason": "例文・和訳・英語gloss('to report to the police')の用法から品詞は動詞が妥当。現在のタグ['名詞']と不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03178",
+    "language": "zh",
+    "headword": "闭幕",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.95,
+    "reason": "例文・和訳・英語gloss('to close (a ceremony)')の用法から品詞は動詞が妥当。現在のタグ['名詞']と不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03198",
+    "language": "zh",
+    "headword": "不耐烦",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.95,
+    "reason": "例文・和訳・英語gloss('impatient')の用法から品詞は形容詞が妥当。現在のタグ['名詞']と不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03208",
+    "language": "zh",
+    "headword": "不能不",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.95,
+    "reason": "例文・和訳・英語gloss('cannot but')の用法から品詞は副詞が妥当。現在のタグ['名詞']と不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03210",
+    "language": "zh",
+    "headword": "不停",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.95,
+    "reason": "例文・和訳・英語gloss('incessantly')の用法から品詞は副詞が妥当。現在のタグ['名詞']と不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03217",
+    "language": "zh",
+    "headword": "裁判",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "名詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.95,
+    "reason": "例文・和訳・英語gloss('referee')の用法から品詞は名詞が妥当。現在のタグ['動詞']と不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03247",
+    "language": "zh",
+    "headword": "成交",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.95,
+    "reason": "例文・和訳・英語gloss('to close a deal')の用法から品詞は動詞が妥当。現在のタグ['名詞']と不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03253",
+    "language": "zh",
+    "headword": "乘车",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.95,
+    "reason": "例文・和訳・英語gloss('to ride (in a vehicle)')の用法から品詞は動詞が妥当。現在のタグ['名詞']と不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03266",
+    "language": "zh",
+    "headword": "出差",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.95,
+    "reason": "例文・和訳・英語gloss('to go on a business trip')の用法から品詞は動詞が妥当。現在のタグ['名詞']と不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03267",
+    "language": "zh",
+    "headword": "出汗",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.95,
+    "reason": "例文・和訳・英語gloss('to sweat')の用法から品詞は動詞が妥当。現在のタグ['名詞']と不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03270",
+    "language": "zh",
+    "headword": "除非",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "接続詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.95,
+    "reason": "例文・和訳・英語gloss('unless')の用法から品詞は接続詞が妥当。現在のタグ['名詞']と不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03288",
+    "language": "zh",
+    "headword": "从而",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "接続詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.95,
+    "reason": "例文・和訳・英語gloss('thereby')の用法から品詞は接続詞が妥当。現在のタグ['名詞']と不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03297",
+    "language": "zh",
+    "headword": "打包",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.95,
+    "reason": "例文・和訳・英語gloss('to pack')の用法から品詞は動詞が妥当。現在のタグ['名詞']と不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03299",
+    "language": "zh",
+    "headword": "打架",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.95,
+    "reason": "例文・和訳・英語gloss('to fight')の用法から品詞は動詞が妥当。現在のタグ['名詞']と不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03312",
+    "language": "zh",
+    "headword": "大致",
+    "field": "tags",
+    "currentValue": [
+      "形容詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.95,
+    "reason": "例文・和訳・英語gloss('roughly')の用法から品詞は副詞が妥当。現在のタグ['形容詞']と不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03317",
+    "language": "zh",
+    "headword": "带有",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.95,
+    "reason": "例文・和訳・英語gloss('to carry')の用法から品詞は動詞が妥当。現在のタグ['名詞']と不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03336",
+    "language": "zh",
+    "headword": "低于",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.95,
+    "reason": "例文・和訳・英語gloss('lower than')の用法から品詞は動詞が妥当。現在のタグ['名詞']と不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03341",
+    "language": "zh",
+    "headword": "递给",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.95,
+    "reason": "例文・和訳・英語gloss('to hand to')の用法から品詞は動詞が妥当。現在のタグ['名詞']と不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03350",
+    "language": "zh",
+    "headword": "动手",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.95,
+    "reason": "例文・和訳・英語gloss('to set about')の用法から品詞は動詞が妥当。現在のタグ['名詞']と不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03379",
+    "language": "zh",
+    "headword": "分成",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.95,
+    "reason": "例文・和訳・英語gloss('to divide into')の用法から品詞は動詞が妥当。現在のタグ['名詞']と不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03381",
+    "language": "zh",
+    "headword": "分类",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.95,
+    "reason": "例文・和訳・英語gloss('to classify')の用法から品詞は動詞が妥当。現在のタグ['名詞']と不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03412",
+    "language": "zh",
+    "headword": "搞好",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.95,
+    "reason": "例文・和訳・英語gloss('to do well')の用法から品詞は動詞が妥当。現在のタグ['名詞']と不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03434",
+    "language": "zh",
+    "headword": "鼓掌",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.95,
+    "reason": "例文・和訳・英語gloss('to applaud')の用法から品詞は動詞が妥当。現在のタグ['名詞']と不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03483",
+    "language": "zh",
+    "headword": "回头",
+    "field": "tags",
+    "currentValue": [
+      "副詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.95,
+    "reason": "例文・和訳・英語gloss('to turn one's head')の用法から品詞は動詞が妥当。現在のタグ['副詞']と不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03486",
+    "language": "zh",
+    "headword": "汇款",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.95,
+    "reason": "例文・和訳・英語gloss('to remit money')の用法から品詞は動詞が妥当。現在のタグ['名詞']と不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03493",
+    "language": "zh",
+    "headword": "或是",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "接続詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.95,
+    "reason": "例文・和訳・英語gloss('or')の用法から品詞は接続詞が妥当。現在のタグ['名詞']と不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03499",
+    "language": "zh",
+    "headword": "即使",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "接続詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.95,
+    "reason": "例文・和訳・英語gloss('even if')の用法から品詞は接続詞が妥当。現在のタグ['名詞']と不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03505",
+    "language": "zh",
+    "headword": "加热",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.95,
+    "reason": "例文・和訳・英語gloss('to heat')の用法から品詞は動詞が妥当。現在のタグ['名詞']と不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03545",
+    "language": "zh",
+    "headword": "紧紧",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.95,
+    "reason": "例文・和訳・英語gloss('tightly')の用法から品詞は副詞が妥当。現在のタグ['名詞']と不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03546",
+    "language": "zh",
+    "headword": "尽可能",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.95,
+    "reason": "例文・和訳・英語gloss('as far as possible')の用法から品詞は副詞が妥当。現在のタグ['名詞']と不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03555",
+    "language": "zh",
+    "headword": "救灾",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.95,
+    "reason": "例文・和訳・英語gloss('to relieve disaster')の用法から品詞は動詞が妥当。現在のタグ['名詞']と不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03563",
+    "language": "zh",
+    "headword": "决不",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.95,
+    "reason": "例文・和訳・英語gloss('by no means')の用法から品詞は副詞が妥当。現在のタグ['名詞']と不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03564",
+    "language": "zh",
+    "headword": "绝望",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.95,
+    "reason": "例文・和訳・英語gloss('to despair')の用法から品詞は動詞が妥当。現在のタグ['名詞']と不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03566",
+    "language": "zh",
+    "headword": "开幕",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.95,
+    "reason": "例文・和訳・英語gloss('to open (a ceremony)')の用法から品詞は動詞が妥当。現在のタグ['名詞']と不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03568",
+    "language": "zh",
+    "headword": "看成",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.95,
+    "reason": "例文・和訳・英語gloss('to regard as')の用法から品詞は動詞が妥当。現在のタグ['名詞']と不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03569",
+    "language": "zh",
+    "headword": "看出",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.95,
+    "reason": "例文・和訳・英語gloss('to make out')の用法から品詞は動詞が妥当。現在のタグ['名詞']と不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03608",
+    "language": "zh",
+    "headword": "例外",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "名詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.95,
+    "reason": "例文・和訳・英語gloss('exception')の用法から品詞は名詞が妥当。現在のタグ['動詞']と不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03638",
+    "language": "zh",
+    "headword": "门诊",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "名詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.95,
+    "reason": "例文・和訳・英語gloss('outpatient service')の用法から品詞は名詞が妥当。現在のタグ['動詞']と不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03386",
+    "language": "zh",
+    "headword": "风度",
+    "field": "answer",
+    "currentValue": "風格",
+    "suggestedValue": "立ち居振る舞い／気品",
+    "issueType": "translation_nuance",
+    "severity": "low",
+    "confidence": 0.6,
+    "reason": "『风度』は優雅な物腰・気品の意。『風格』は日本語で威厳・持ち味に寄り、ややニュアンスがずれる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03470",
+    "language": "zh",
+    "headword": "滑",
+    "field": "answer",
+    "currentValue": "滑る",
+    "suggestedValue": "滑りやすい",
+    "issueType": "pos_translation",
+    "severity": "low",
+    "confidence": 0.6,
+    "reason": "例文『雨后的路很滑』は形容詞用法(滑りやすい)。和訳『滑る』は動詞で、例文の形容詞用法と齟齬。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03502",
+    "language": "zh",
+    "headword": "记忆",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "名詞"
+    ],
+    "issueType": "part_of_speech",
+    "severity": "low",
+    "confidence": 0.85,
+    "reason": "例文『这段记忆很美好』は名詞用法。現タグ動詞と不一致(動詞義もあるが例文は名詞)。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03518",
+    "language": "zh",
+    "headword": "检验",
+    "field": "answer",
+    "currentValue": "検証する",
+    "suggestedValue": "検査する",
+    "issueType": "translation",
+    "severity": "medium",
+    "confidence": 0.78,
+    "reason": "『检验』は品質などを調べる(=検査)。例文も製品検査。日本語『検証する』は仮説の確認寄りで、gloss 'to inspect' とも整合しない。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03641",
+    "language": "zh",
+    "headword": "面貌",
+    "field": "answer",
+    "currentValue": "顔立ち",
+    "suggestedValue": "様相／姿",
+    "issueType": "translation",
+    "severity": "medium",
+    "confidence": 0.7,
+    "reason": "例文は都市の『面貌』(=様相・姿)。和訳『顔立ち』は人の顔限定で、都市の比喩用法・例文和訳と不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03283",
+    "language": "zh",
+    "headword": "辞职",
+    "field": "example",
+    "currentValue": "他上个月向公司辞职了。",
+    "suggestedValue": "他上个月向公司提出辞职了。／他上个月辞职了。",
+    "issueType": "grammar_usage",
+    "severity": "medium",
+    "confidence": 0.7,
+    "reason": "『辞职』は自動詞。『向公司辞职』は不自然で、『提出辞职』または目的語なしが自然。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03154",
+    "language": "zh",
+    "headword": "版",
+    "field": "example",
+    "currentValue": "这本书出了新的版。",
+    "suggestedValue": "这本书出了新版。／新版本。",
+    "issueType": "grammar_usage",
+    "severity": "low",
+    "confidence": 0.6,
+    "reason": "『出了新的版』は不自然。『新版』『新版本』が自然。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03175",
+    "language": "zh",
+    "headword": "必",
+    "field": "example",
+    "currentValue": "明天你必来开会。",
+    "suggestedValue": "明天你务必来开会。／一定要来。",
+    "issueType": "grammar_usage",
+    "severity": "low",
+    "confidence": 0.55,
+    "reason": "単独副詞『必』は現代口語では硬く不自然。『务必/一定要』が自然。見出し語自体は保持可。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03601",
+    "language": "zh",
+    "headword": "礼",
+    "field": "glosses.en",
+    "currentValue": "gift",
+    "suggestedValue": "etiquette",
+    "issueType": "inconsistency",
+    "severity": "low",
+    "confidence": 0.7,
+    "reason": "gloss.en='gift'だが、和訳『礼儀』・例文『见面时应该先行礼』(=礼をする)は礼儀の意。英語glossのみ不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  }
+]

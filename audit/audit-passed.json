@@ -1,4 +1,16 @@
 {
+  "chinese": {
+    "total": 4201,
+    "flagged": 0,
+    "passed": 4201,
+    "note": "passed=母集合ID − 問題ID。全IDが検査対象として捕捉されていることを ids.json で担保"
+  },
+  "korean": {
+    "total": 1529,
+    "flagged": 144,
+    "passed": 1385,
+    "note": "passed=母集合ID − 問題ID。全IDが検査対象として捕捉されていることを ids.json で担保"
+  },
   "spanish": {
     "total": 1948,
     "flagged": 0,

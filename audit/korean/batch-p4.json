@@ -1,0 +1,15 @@
+{
+  "batchId": "ko_p4",
+  "language": "ko",
+  "file": "level-1.json[1149:)",
+  "totalEntries": 380,
+  "checkedEntries": 380,
+  "errors": 0,
+  "warnings": 24,
+  "needsHumanReview": 24,
+  "notVerified": 2,
+  "passed": 357,
+  "status": "completed",
+  "externalSourcesChecked": [],
+  "notes": "元ファイルは非破壊（未変更）。検査対象は index 1149〜1528（ko-01150〜ko-01529）。全項目に example フィールドは存在せず（例文検査は該当なし）。ハングル表記・和訳・ローマ字（Revised Romanization、音変化含む）は概ね正確で、辞書形/活用形の混入も無し。検出された問題は主に tags（品詞）の不一致に集中。外部辞書未照合のため confidence は保守的に設定、確信の低い2件は notVerified。"
+}

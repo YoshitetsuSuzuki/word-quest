@@ -1,0 +1,702 @@
+[
+  {
+    "id": "zh-03711",
+    "language": "zh",
+    "headword": "起到",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "tags が「名詞」だが、answer と例文中の用法は「動詞」が妥当。品詞不一致。",
+    "evidence": [
+      "运动对健康起到很大作用。"
+    ],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03718",
+    "language": "zh",
+    "headword": "签约",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.85,
+    "reason": "tags が「名詞」だが、answer と例文中の用法は「動詞」が妥当。品詞不一致。",
+    "evidence": [
+      "这位运动员刚刚签约了。"
+    ],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03719",
+    "language": "zh",
+    "headword": "签证",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "名詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.92,
+    "reason": "tags が「動詞」だが、answer と例文中の用法は「名詞」が妥当。品詞不一致。",
+    "evidence": [
+      "去那个国家要办签证。"
+    ],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03720",
+    "language": "zh",
+    "headword": "签字",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.85,
+    "reason": "tags が「名詞」だが、answer と例文中の用法は「動詞」が妥当。品詞不一致。",
+    "evidence": [
+      "请在合同上签字。"
+    ],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03732",
+    "language": "zh",
+    "headword": "敲门",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.85,
+    "reason": "tags が「名詞」だが、answer と例文中の用法は「動詞」が妥当。品詞不一致。",
+    "evidence": [
+      "进来以前请先敲门。"
+    ],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03769",
+    "language": "zh",
+    "headword": "入门",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.8,
+    "reason": "tags が「名詞」だが、answer と例文中の用法は「動詞」が妥当。品詞不一致。",
+    "evidence": [
+      "学画画要先入门。"
+    ],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03806",
+    "language": "zh",
+    "headword": "升高",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.85,
+    "reason": "tags が「名詞」だが、answer と例文中の用法は「動詞」が妥当。品詞不一致。",
+    "evidence": [
+      "下午气温慢慢升高了。"
+    ],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03808",
+    "language": "zh",
+    "headword": "声",
+    "field": "example",
+    "currentValue": "",
+    "suggestedValue": "远处传来一声鸟叫。 — 遠くから鳥の鳴き声が一声聞こえた。",
+    "issueType": "missing_field",
+    "severity": "high",
+    "confidence": 1.0,
+    "reason": "example/exampleForm/exampleTranslations フィールドが完全に欠落。他の全語には例文があり構造的欠陥。suggestedValueは提案例文（要ネイティブ確認）。",
+    "evidence": [
+      "entry has no 'example' key"
+    ],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "zh-03812",
+    "language": "zh",
+    "headword": "失误",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "名詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.8,
+    "reason": "tags が「動詞」だが、answer と例文中の用法は「名詞」が妥当。品詞不一致。",
+    "evidence": [
+      "他工作时出现了一个失误。"
+    ],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03822",
+    "language": "zh",
+    "headword": "使得",
+    "field": "exampleTranslation",
+    "currentValue": "雨が道をとても滑りやすくもたらした。",
+    "suggestedValue": "雨で道がとても滑りやすくなった。",
+    "issueType": "unnatural_translation",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "使得（〜させる/〜という結果をもたらす）の和訳が非文法的。「〜をもたらした」の目的語が形容詞句で日本語として破綻。",
+    "evidence": [
+      "下雨使得道路很滑。 — 雨が道をとても滑りやすくもたらした。"
+    ],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03824",
+    "language": "zh",
+    "headword": "式",
+    "field": "example",
+    "currentValue": "",
+    "suggestedValue": "他喜欢中式的房子。 — 彼は中国式の家が好きだ。",
+    "issueType": "missing_field",
+    "severity": "high",
+    "confidence": 1.0,
+    "reason": "example/exampleForm/exampleTranslations フィールドが完全に欠落。suggestedValueは提案例文（要ネイティブ確認）。",
+    "evidence": [
+      "entry has no 'example' key"
+    ],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "zh-03828",
+    "language": "zh",
+    "headword": "视为",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.88,
+    "reason": "tags が「名詞」だが、answer と例文中の用法は「動詞」が妥当。品詞不一致。",
+    "evidence": [
+      "大家把他视为最好的朋友。"
+    ],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03835",
+    "language": "zh",
+    "headword": "受灾",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.85,
+    "reason": "tags が「名詞」だが、answer と例文中の用法は「動詞」が妥当。品詞不一致。",
+    "evidence": [
+      "很多人在那次大雨中受灾。"
+    ],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03847",
+    "language": "zh",
+    "headword": "摔倒",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.85,
+    "reason": "tags が「名詞」だが、answer と例文中の用法は「動詞」が妥当。品詞不一致。",
+    "evidence": [
+      "老人在雪地上摔倒了。"
+    ],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03875",
+    "language": "zh",
+    "headword": "抬头",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.8,
+    "reason": "tags が「名詞」だが、answer と例文中の用法は「動詞」が妥当。品詞不一致。",
+    "evidence": [
+      "他抬头看了看天空。"
+    ],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03935",
+    "language": "zh",
+    "headword": "无疑",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.85,
+    "reason": "tags が「動詞」だが、answer と例文中の用法は「副詞」が妥当。品詞不一致。",
+    "evidence": [
+      "这无疑是最好的办法。"
+    ],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03969",
+    "language": "zh",
+    "headword": "消毒",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.8,
+    "reason": "tags が「名詞」だが、answer と例文中の用法は「動詞」が妥当。品詞不一致。",
+    "evidence": [
+      "护士给伤口消毒了。"
+    ],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03970",
+    "language": "zh",
+    "headword": "消防",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "名詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.85,
+    "reason": "tags が「動詞」だが、answer と例文中の用法は「名詞」が妥当。品詞不一致。",
+    "evidence": [
+      "楼里有一支消防队。"
+    ],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-03975",
+    "language": "zh",
+    "headword": "协议",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "名詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.88,
+    "reason": "tags が「動詞」だが、answer と例文中の用法は「名詞」が妥当。品詞不一致。",
+    "evidence": [
+      "两家公司达成了协议。"
+    ],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-04085",
+    "language": "zh",
+    "headword": "再也",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.8,
+    "reason": "tags が「名詞」だが、answer と例文中の用法は「副詞」が妥当。品詞不一致。",
+    "evidence": [
+      "他再也不想迟到了。"
+    ],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-04089",
+    "language": "zh",
+    "headword": "暂停",
+    "field": "example",
+    "currentValue": "因为下雨,比赛暂停了。 — 雨のため試合が一時停止した。",
+    "suggestedValue": "因为下雨，比赛暂停了。 — 雨のため試合が一時停止した。",
+    "issueType": "punctuation",
+    "severity": "low",
+    "confidence": 0.97,
+    "reason": "中国語文中に半角カンマ ',' を使用。中国語正書法では全角読点「，」を用いる。",
+    "evidence": [
+      "因为下雨,比赛暂停了。"
+    ],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-04094",
+    "language": "zh",
+    "headword": "增产",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.8,
+    "reason": "tags が「名詞」だが、answer と例文中の用法は「動詞」が妥当。品詞不一致。",
+    "evidence": [
+      "今年这个村子粮食增产。"
+    ],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-04107",
+    "language": "zh",
+    "headword": "涨价",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.82,
+    "reason": "tags が「名詞」だが、answer と例文中の用法は「動詞」が妥当。品詞不一致。",
+    "evidence": [
+      "最近水果又涨价了。"
+    ],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-04109",
+    "language": "zh",
+    "headword": "招生",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.85,
+    "reason": "tags が「名詞」だが、answer と例文中の用法は「動詞」が妥当。品詞不一致。",
+    "evidence": [
+      "这所学校每年九月招生。"
+    ],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-04110",
+    "language": "zh",
+    "headword": "招手",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.85,
+    "reason": "tags が「名詞」だが、answer と例文中の用法は「動詞」が妥当。品詞不一致。",
+    "evidence": [
+      "他站在门口向我招手。"
+    ],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-04120",
+    "language": "zh",
+    "headword": "争议",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "名詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.88,
+    "reason": "tags が「動詞」だが、answer と例文中の用法は「名詞」が妥当。品詞不一致。",
+    "evidence": [
+      "这个话题引起了很多争议。"
+    ],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-04127",
+    "language": "zh",
+    "headword": "挣",
+    "field": "example",
+    "currentValue": "他工作努力,挣了很多。 — 彼はよく働き、たくさん稼いだ。",
+    "suggestedValue": "他工作努力，挣了很多。 — 彼はよく働き、たくさん稼いだ。",
+    "issueType": "punctuation",
+    "severity": "low",
+    "confidence": 0.97,
+    "reason": "中国語文中に半角カンマ ',' を使用。中国語正書法では全角読点「，」を用いる。",
+    "evidence": [
+      "他工作努力,挣了很多。"
+    ],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-04128",
+    "language": "zh",
+    "headword": "挣钱",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.85,
+    "reason": "tags が「名詞」だが、answer と例文中の用法は「動詞」が妥当。品詞不一致。",
+    "evidence": [
+      "父母每天辛苦地挣钱。"
+    ],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-04131",
+    "language": "zh",
+    "headword": "之下",
+    "field": "example",
+    "currentValue": "在大家帮助之下,他成功了。 — みんなの助けの下、彼は成功した。",
+    "suggestedValue": "在大家帮助之下，他成功了。 — みんなの助けの下、彼は成功した。",
+    "issueType": "punctuation",
+    "severity": "low",
+    "confidence": 0.97,
+    "reason": "中国語文中に半角カンマ ',' を使用。中国語正書法では全角読点「，」を用いる。",
+    "evidence": [
+      "在大家帮助之下,他成功了。"
+    ],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-04137",
+    "language": "zh",
+    "headword": "值班",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.8,
+    "reason": "tags が「名詞」だが、answer と例文中の用法は「動詞」が妥当。品詞不一致。",
+    "evidence": [
+      "今天晚上是他值班。"
+    ],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-04142",
+    "language": "zh",
+    "headword": "只见",
+    "field": "example",
+    "currentValue": "打开门,只见地上都是水。 — ドアを開けると、ふと見ると床は水だらけだった。",
+    "suggestedValue": "打开门，只见地上都是水。 — ドアを開けると、ふと見ると床は水だらけだった。",
+    "issueType": "punctuation",
+    "severity": "low",
+    "confidence": 0.97,
+    "reason": "中国語文中に半角カンマ ',' を使用。中国語正書法では全角読点「，」を用いる。",
+    "evidence": [
+      "打开门,只见地上都是水。"
+    ],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-04148",
+    "language": "zh",
+    "headword": "制成",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.78,
+    "reason": "tags が「名詞」だが、answer と例文中の用法は「動詞」が妥当。品詞不一致。",
+    "evidence": [
+      "这个桌子用木头制成。"
+    ],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-04159",
+    "language": "zh",
+    "headword": "中毒",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.8,
+    "reason": "tags が「名詞」だが、answer と例文中の用法は「動詞」が妥当。品詞不一致。",
+    "evidence": [
+      "吃坏东西容易中毒。"
+    ],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-04170",
+    "language": "zh",
+    "headword": "注册",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "low",
+    "confidence": 0.8,
+    "reason": "tags が「名詞」だが、answer と例文中の用法は「動詞」が妥当。品詞不一致。",
+    "evidence": [
+      "使用这个网站需要先注册。"
+    ],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-04194",
+    "language": "zh",
+    "headword": "总算",
+    "field": "example",
+    "currentValue": "等了很久,他总算来了。 — 長く待って、彼はやっとのことで来た。",
+    "suggestedValue": "等了很久，他总算来了。 — 長く待って、彼はやっとのことで来た。",
+    "issueType": "punctuation",
+    "severity": "low",
+    "confidence": 0.97,
+    "reason": "中国語文中に半角カンマ ',' を使用。中国語正書法では全角読点「，」を用いる。",
+    "evidence": [
+      "等了很久,他总算来了。"
+    ],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-04195",
+    "language": "zh",
+    "headword": "总体",
+    "field": "example",
+    "currentValue": "总体来看,今年不错。 — 全体で見ると、今年は悪くない。",
+    "suggestedValue": "总体来看，今年不错。 — 全体で見ると、今年は悪くない。",
+    "issueType": "punctuation",
+    "severity": "low",
+    "confidence": 0.97,
+    "reason": "中国語文中に半角カンマ ',' を使用。中国語正書法では全角読点「，」を用いる。",
+    "evidence": [
+      "总体来看,今年不错。"
+    ],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "zh-04198",
+    "language": "zh",
+    "headword": "醉",
+    "field": "example",
+    "currentValue": "他喝了很多酒,有点醉了。 — 彼はたくさん酒を飲んで、少し酔った。",
+    "suggestedValue": "他喝了很多酒，有点醉了。 — 彼はたくさん酒を飲んで、少し酔った。",
+    "issueType": "punctuation",
+    "severity": "low",
+    "confidence": 0.97,
+    "reason": "中国語文中に半角カンマ ',' を使用。中国語正書法では全角読点「，」を用いる。",
+    "evidence": [
+      "他喝了很多酒,有点醉了。"
+    ],
+    "requiresHumanReview": true
+  }
+]

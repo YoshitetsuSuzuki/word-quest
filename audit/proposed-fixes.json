@@ -1,5 +1,81 @@
 [
   {
+    "id": "zh-00426",
+    "language": "zh",
+    "headword": "「一边」の意味は？",
+    "field": "example",
+    "currentValue": null,
+    "suggestedValue": "（例文と見出しフィールドexampleForm欠落。他エントリと同形式の中文例文＋和訳を補う必要）",
+    "issueType": "missing_data",
+    "severity": "high",
+    "confidence": 0.99,
+    "reason": "exampleと exampleFormが null。全487件中この1件のみ例文が欠落しており、学習・出題に支障。見出し『一边』自体は簡体字で妥当、拼音 yībiān も妥当。",
+    "evidence": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "zh-01158",
+    "language": "zh",
+    "headword": "越",
+    "field": "example",
+    "currentValue": "",
+    "suggestedValue": "他越跑越快。 — 彼は走れば走るほど速くなる。",
+    "issueType": "missing_example",
+    "severity": "high",
+    "confidence": 0.99,
+    "reason": "example フィールドが空。「越」は例文・例文和訳ともに欠落しており学習データとして不完全。提案例文は要確認。",
+    "evidence": [],
+    "externalSourcesChecked": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "zh-01162",
+    "language": "zh",
+    "headword": "咱",
+    "field": "example",
+    "currentValue": "",
+    "suggestedValue": "咱一起去吧。 — 私たち、一緒に行こう。",
+    "issueType": "missing_example",
+    "severity": "high",
+    "confidence": 0.99,
+    "reason": "example フィールドが空。「咱」（口語・北方方言の一人称）に例文・例文和訳が欠落。提案例文は要確認。",
+    "evidence": [],
+    "externalSourcesChecked": [],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "zh-03808",
+    "language": "zh",
+    "headword": "声",
+    "field": "example",
+    "currentValue": "",
+    "suggestedValue": "远处传来一声鸟叫。 — 遠くから鳥の鳴き声が一声聞こえた。",
+    "issueType": "missing_field",
+    "severity": "high",
+    "confidence": 1,
+    "reason": "example/exampleForm/exampleTranslations フィールドが完全に欠落。他の全語には例文があり構造的欠陥。suggestedValueは提案例文（要ネイティブ確認）。",
+    "evidence": [
+      "entry has no 'example' key"
+    ],
+    "requiresHumanReview": false
+  },
+  {
+    "id": "zh-03824",
+    "language": "zh",
+    "headword": "式",
+    "field": "example",
+    "currentValue": "",
+    "suggestedValue": "他喜欢中式的房子。 — 彼は中国式の家が好きだ。",
+    "issueType": "missing_field",
+    "severity": "high",
+    "confidence": 1,
+    "reason": "example/exampleForm/exampleTranslations フィールドが完全に欠落。suggestedValueは提案例文（要ネイティブ確認）。",
+    "evidence": [
+      "entry has no 'example' key"
+    ],
+    "requiresHumanReview": false
+  },
+  {
     "id": "de-00539",
     "language": "de",
     "headword": "raum",

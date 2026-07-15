@@ -1,0 +1,664 @@
+[
+  {
+    "id": "ko-00767",
+    "language": "ko",
+    "headword": "당연하다",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.97,
+    "reason": "당연하다は「하다」形容詞（叙述形で状態を表す）。和訳「当然だ」も形容詞であり、tagsの「名詞」は品詞不一致。「形容詞」が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00768",
+    "language": "ko",
+    "headword": "솔직하다",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.97,
+    "reason": "솔직하다は「하다」形容詞（叙述形で状態を表す）。和訳「率直だ」も形容詞であり、tagsの「名詞」は品詞不一致。「形容詞」が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00769",
+    "language": "ko",
+    "headword": "성실하다",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.97,
+    "reason": "성실하다は「하다」形容詞（叙述形で状態を表す）。和訳「誠実だ」も形容詞であり、tagsの「名詞」は品詞不一致。「形容詞」が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00770",
+    "language": "ko",
+    "headword": "활발하다",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.97,
+    "reason": "활발하다は「하다」形容詞（叙述形で状態を表す）。和訳「活発だ」も形容詞であり、tagsの「名詞」は品詞不一致。「形容詞」が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-01083",
+    "language": "ko",
+    "headword": "명확하다",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.97,
+    "reason": "명확하다は「하다」形容詞（叙述形で状態を表す）。和訳「明確だ」も形容詞であり、tagsの「名詞」は品詞不一致。「形容詞」が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-01084",
+    "language": "ko",
+    "headword": "모호하다",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.97,
+    "reason": "모호하다は「하다」形容詞（叙述形で状態を表す）。和訳「曖昧だ」も形容詞であり、tagsの「名詞」は品詞不一致。「形容詞」が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-01085",
+    "language": "ko",
+    "headword": "엄격하다",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.97,
+    "reason": "엄격하다は「하다」形容詞（叙述形で状態を表す）。和訳「厳格だ」も形容詞であり、tagsの「名詞」は品詞不一致。「形容詞」が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-01086",
+    "language": "ko",
+    "headword": "성급하다",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.97,
+    "reason": "성급하다は「하다」形容詞（叙述形で状態を表す）。和訳「せっかちだ」も形容詞であり、tagsの「名詞」は品詞不一致。「形容詞」が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-01087",
+    "language": "ko",
+    "headword": "신중하다",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.97,
+    "reason": "신중하다は「하다」形容詞（叙述形で状態を表す）。和訳「慎重だ」も形容詞であり、tagsの「名詞」は品詞不一致。「形容詞」が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-01088",
+    "language": "ko",
+    "headword": "용감하다",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.97,
+    "reason": "용감하다は「하다」形容詞（叙述形で状態を表す）。和訳「勇敢だ」も形容詞であり、tagsの「名詞」は品詞不一致。「形容詞」が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-01089",
+    "language": "ko",
+    "headword": "비겁하다",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.97,
+    "reason": "비겁하다は「하다」形容詞（叙述形で状態を表す）。和訳「卑怯だ」も形容詞であり、tagsの「名詞」は品詞不一致。「形容詞」が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-01090",
+    "language": "ko",
+    "headword": "겸손하다",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.97,
+    "reason": "겸손하다は「하다」形容詞（叙述形で状態を表す）。和訳「謙虚だ」も形容詞であり、tagsの「名詞」は品詞不一致。「形容詞」が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-01091",
+    "language": "ko",
+    "headword": "거만하다",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.97,
+    "reason": "거만하다は「하다」形容詞（叙述形で状態を表す）。和訳「傲慢だ」も形容詞であり、tagsの「名詞」は品詞不一致。「形容詞」が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-01092",
+    "language": "ko",
+    "headword": "예민하다",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.97,
+    "reason": "예민하다は「하다」形容詞（叙述形で状態を表す）。和訳「敏感だ」も形容詞であり、tagsの「名詞」は品詞不一致。「形容詞」が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-01094",
+    "language": "ko",
+    "headword": "영리하다",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.97,
+    "reason": "영리하다は「하다」形容詞（叙述形で状態を表す）。和訳「利口だ」も形容詞であり、tagsの「名詞」は品詞不一致。「形容詞」が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-01095",
+    "language": "ko",
+    "headword": "현명하다",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.97,
+    "reason": "현명하다は「하다」形容詞（叙述形で状態を表す）。和訳「賢明だ」も形容詞であり、tagsの「名詞」は品詞不一致。「形容詞」が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-01096",
+    "language": "ko",
+    "headword": "어리석다",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.97,
+    "reason": "어리석다は「하다」形容詞（叙述形で状態を表す）。和訳「愚かだ」も形容詞であり、tagsの「名詞」は品詞不一致。「形容詞」が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00936",
+    "language": "ko",
+    "headword": "저장하다",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.97,
+    "reason": "저장하다は「하다」動詞（動作）。和訳「保存する（データを）」も動詞。周辺の同型語は全て「動詞」タグで、本語のみ「名詞」となっており不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-01033",
+    "language": "ko",
+    "headword": "맹세하다",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "動詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.97,
+    "reason": "맹세하다は「하다」動詞（動作）。和訳「誓う（宣誓）」も動詞。周辺の同型語は全て「動詞」タグで、本語のみ「名詞」となっており不一致。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-01097",
+    "language": "ko",
+    "headword": "게으르다",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.96,
+    "reason": "게으르다は状態を表す形容詞（怠惰だ）。活用も形容詞型で、tagsの「動詞」は品詞不一致。「形容詞」が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-01097",
+    "language": "ko",
+    "headword": "게으르다",
+    "field": "answer",
+    "currentValue": "怠けている",
+    "suggestedValue": "怠惰だ／無精だ",
+    "issueType": "translation_nuance",
+    "severity": "low",
+    "confidence": 0.9,
+    "reason": "게으르다は恒常的な性質を表す形容詞で、辞書義は「怠惰だ・無精だ」。「怠けている」は進行の動作的訳で品詞ニュアンスがずれる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00776",
+    "language": "ko",
+    "headword": "별로",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "별로は副詞（用言を修飾）。例文でも述語修飾の副詞用法。tagsの「名詞」は不一致で「副詞」が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00777",
+    "language": "ko",
+    "headword": "전혀",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "전혀は副詞（用言を修飾）。例文でも述語修飾の副詞用法。tagsの「名詞」は不一致で「副詞」が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00778",
+    "language": "ko",
+    "headword": "거의",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "거의は副詞（用言を修飾）。例文でも述語修飾の副詞用法。tagsの「名詞」は不一致で「副詞」が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00780",
+    "language": "ko",
+    "headword": "아마",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "아마は副詞（用言を修飾）。例文でも述語修飾の副詞用法。tagsの「名詞」は不一致で「副詞」が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00783",
+    "language": "ko",
+    "headword": "미리",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "미리は副詞（用言を修飾）。例文でも述語修飾の副詞用法。tagsの「名詞」は不一致で「副詞」が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00788",
+    "language": "ko",
+    "headword": "점점",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "점점は副詞（用言を修飾）。例文でも述語修飾の副詞用法。tagsの「名詞」は不一致で「副詞」が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00795",
+    "language": "ko",
+    "headword": "오히려",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "오히려は副詞（用言を修飾）。例文でも述語修飾の副詞用法。tagsの「名詞」は不一致で「副詞」が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00797",
+    "language": "ko",
+    "headword": "혹시",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "혹시は副詞（用言を修飾）。例文でも述語修飾の副詞用法。tagsの「名詞」は不一致で「副詞」が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00771",
+    "language": "ko",
+    "headword": "그러나",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "接続詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "그러나は接続（副）詞で文をつなぐ語。tagsの「名詞」は明確な品詞不一致（少なくとも名詞ではない）。「接続詞」（または副詞）が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00773",
+    "language": "ko",
+    "headword": "그러면",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "接続詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "그러면は接続（副）詞で文をつなぐ語。tagsの「名詞」は明確な品詞不一致（少なくとも名詞ではない）。「接続詞」（または副詞）が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00774",
+    "language": "ko",
+    "headword": "그러니까",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "接続詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "그러니까は接続（副）詞で文をつなぐ語。tagsの「名詞」は明確な品詞不一致（少なくとも名詞ではない）。「接続詞」（または副詞）が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00775",
+    "language": "ko",
+    "headword": "왜냐하면",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "接続詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "왜냐하면は接続（副）詞で文をつなぐ語。tagsの「名詞」は明確な品詞不一致（少なくとも名詞ではない）。「接続詞」（または副詞）が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00842",
+    "language": "ko",
+    "headword": "모임",
+    "field": "tags",
+    "currentValue": [
+      "副詞"
+    ],
+    "suggestedValue": [
+      "名詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.96,
+    "reason": "모임（集まり）は名詞。助詞を伴い主語・目的語になる。tagsの「副詞」は品詞不一致で「名詞」が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00844",
+    "language": "ko",
+    "headword": "축제",
+    "field": "tags",
+    "currentValue": [
+      "副詞"
+    ],
+    "suggestedValue": [
+      "名詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.96,
+    "reason": "축제（祭り）は名詞。助詞を伴い主語・目的語になる。tagsの「副詞」は品詞不一致で「名詞」が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-01110",
+    "language": "ko",
+    "headword": "신입",
+    "field": "tags",
+    "currentValue": [
+      "副詞"
+    ],
+    "suggestedValue": [
+      "名詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.96,
+    "reason": "신입（新入り）は名詞。助詞を伴い主語・目的語になる。tagsの「副詞」は品詞不一致で「名詞」が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00877",
+    "language": "ko",
+    "headword": "차이",
+    "field": "tags",
+    "currentValue": [
+      "形容詞"
+    ],
+    "suggestedValue": [
+      "名詞"
+    ],
+    "issueType": "pos_mismatch",
+    "severity": "medium",
+    "confidence": 0.96,
+    "reason": "차이（違い）は名詞。助詞を伴い主語・目的語になる。tagsの「形容詞」は品詞不一致で「名詞」が妥当。",
+    "evidence": [],
+    "requiresHumanReview": true
+  }
+]

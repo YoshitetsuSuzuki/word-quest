@@ -1,0 +1,103 @@
+{
+  "externalSourcesChecked": [],
+  "issues": [
+    {
+      "id": "zh-02747",
+      "language": "zh",
+      "headword": "圈",
+      "field": "example",
+      "currentValue": "他在操场上跑了一圈。 — 彼は運動場を一輪走った。",
+      "suggestedValue": "他在操场上跑了一圈。 — 彼は運動場を一周走った。",
+      "issueType": "exampleTranslationError",
+      "severity": "high",
+      "confidence": 0.9,
+      "reason": "量詞「一圈」は『一周（1周）』の意。和訳の『一輪』は誤り（『一輪』は花や車輪を数える語で、走る周回には用いない）。英訳 'ran one lap' とも矛盾する。",
+      "evidence": [],
+      "requiresHumanReview": true
+    },
+    {
+      "id": "zh-02755",
+      "language": "zh",
+      "headword": "热心",
+      "field": "answer",
+      "currentValue": "熱心な",
+      "suggestedValue": "親切な／世話好きな",
+      "issueType": "falseFriend",
+      "severity": "medium",
+      "confidence": 0.85,
+      "reason": "日中同形異義。中国語『热心』は主に『（人のために）親切・世話好き・献身的』の意で、英訳も 'warmhearted' となっている。日本語『熱心』は『物事に打ち込む・ひたむき』の意で語義がずれる。例文『他是一个热心的人』は『親切な人』の意。",
+      "evidence": [],
+      "requiresHumanReview": true
+    },
+    {
+      "id": "zh-02716",
+      "language": "zh",
+      "headword": "平稳",
+      "field": "answer",
+      "currentValue": "平穏な",
+      "suggestedValue": "安定した／揺れの少ない",
+      "issueType": "falseFriend",
+      "severity": "medium",
+      "confidence": 0.8,
+      "reason": "日中同形異義。中国語『平稳』は『（揺れず）安定している・スムーズ』の意（英訳 'steadily'）。日本語『平穏』は『穏やかで無事』の意でニュアンスが異なる。例文和訳『飛行機はとても平穏に飛んでいる』も不自然で、『安定して飛んでいる／揺れずに飛んでいる』が適切。",
+      "evidence": [],
+      "requiresHumanReview": true
+    },
+    {
+      "id": "zh-03107",
+      "language": "zh",
+      "headword": "智能",
+      "field": "example",
+      "currentValue": "他买了一部智能手机。 — 彼は知能を持つ携帯を一台買った。",
+      "suggestedValue": "他买了一部智能手机。 — 彼はスマートフォンを一台買った。",
+      "issueType": "exampleTranslationError",
+      "severity": "low",
+      "confidence": 0.75,
+      "reason": "『智能手机』は定訳『スマートフォン（スマホ）』。和訳の『知能を持つ携帯』は直訳的で不自然（英訳も 'smart phone'）。見出し語訳『知能』自体は名詞義として許容範囲。",
+      "evidence": [],
+      "requiresHumanReview": true
+    },
+    {
+      "id": "zh-02676",
+      "language": "zh",
+      "headword": "描述",
+      "field": "answer",
+      "currentValue": "叙述する",
+      "suggestedValue": "描写する／述べる",
+      "issueType": "nuance",
+      "severity": "low",
+      "confidence": 0.5,
+      "reason": "『描述』は『（様子・状況を）描写・記述する』が中心義。『叙述』でも通じるが、より的確なのは『描写する』。外部辞書未照合につき確信は限定的（not_verified）。",
+      "evidence": [],
+      "requiresHumanReview": true
+    },
+    {
+      "id": "zh-02764",
+      "language": "zh",
+      "headword": "色",
+      "field": "example",
+      "currentValue": "这件衣服的色很好看。",
+      "suggestedValue": "这件衣服的颜色很好看。",
+      "issueType": "naturalness",
+      "severity": "low",
+      "confidence": 0.55,
+      "reason": "単独名詞『色』を『的色』の形で用いるのは口語的に不自然で、通常は『颜色』を用いる。見出し語『色』自体は妥当。外部照合なし（not_verified）。",
+      "evidence": [],
+      "requiresHumanReview": true
+    },
+    {
+      "id": "zh-02780",
+      "language": "zh",
+      "headword": "设置",
+      "field": "example",
+      "currentValue": "老师在教室里设置了一个问题。",
+      "suggestedValue": "老师在教室里提出了一个问题。",
+      "issueType": "naturalness",
+      "severity": "low",
+      "confidence": 0.5,
+      "reason": "『设置一个问题』はやや不自然な連語。『问题』には『提出』『设计』が自然。『设置』は設備・パラメータ等の設定に多用。外部照合なし（not_verified）。",
+      "evidence": [],
+      "requiresHumanReview": true
+    }
+  ]
+}

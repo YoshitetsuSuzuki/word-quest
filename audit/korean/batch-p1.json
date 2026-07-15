@@ -1,0 +1,14 @@
+{
+  "batchId": "ko_p1",
+  "language": "ko",
+  "file": "level-1.json[0:383)",
+  "totalEntries": 383,
+  "checkedEntries": 383,
+  "errors": 17,
+  "warnings": 8,
+  "needsHumanReview": 25,
+  "notVerified": 1,
+  "passed": 358,
+  "externalSourcesChecked": [],
+  "status": "completed"
+}

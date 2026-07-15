@@ -1,0 +1,1070 @@
+[
+  {
+    "id": "ko-00397",
+    "language": "ko",
+    "headword": "깨끗하다",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "깨끗하다は韓国語では形容詞(형용사)。品詞タグが「名詞」となっているが形容詞が正しい。同レンジ内の他の하다形容詞(강하다/약하다/똑똑하다/심하다等)は形容詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00399",
+    "language": "ko",
+    "headword": "조용하다",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "조용하다は韓国語では形容詞(형용사)。品詞タグが「名詞」となっているが形容詞が正しい。同レンジ内の他の하다形容詞(강하다/약하다/똑똑하다/심하다等)は形容詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00401",
+    "language": "ko",
+    "headword": "유명하다",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "유명하다は韓国語では形容詞(형용사)。品詞タグが「名詞」となっているが形容詞が正しい。同レンジ内の他の하다形容詞(강하다/약하다/똑똑하다/심하다等)は形容詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00402",
+    "language": "ko",
+    "headword": "중요하다",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "중요하다は韓国語では形容詞(형용사)。品詞タグが「名詞」となっているが形容詞が正しい。同レンジ内の他の하다形容詞(강하다/약하다/똑똑하다/심하다等)は形容詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00403",
+    "language": "ko",
+    "headword": "필요하다",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "필요하다は韓国語では形容詞(형용사)。品詞タグが「名詞」となっているが形容詞が正しい。同レンジ内の他の하다形容詞(강하다/약하다/똑똑하다/심하다等)は形容詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00404",
+    "language": "ko",
+    "headword": "같다",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "같다は韓国語では形容詞(형용사)。品詞タグが「名詞」となっているが形容詞が正しい。同レンジ内の他の하다形容詞(강하다/약하다/똑똑하다/심하다等)は形容詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00405",
+    "language": "ko",
+    "headword": "다르다",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "다르다は韓国語では形容詞(형용사)。品詞タグが「動詞」となっているが形容詞が正しい。同レンジ内の他の하다形容詞(강하다/약하다/똑똑하다/심하다等)は形容詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00411",
+    "language": "ko",
+    "headword": "피곤하다",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "피곤하다は韓国語では形容詞(형용사)。品詞タグが「動詞」となっているが形容詞が正しい。同レンジ内の他の하다形容詞(강하다/약하다/똑똑하다/심하다等)は形容詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00412",
+    "language": "ko",
+    "headword": "건강하다",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "건강하다は韓国語では形容詞(형용사)。品詞タグが「名詞」となっているが形容詞が正しい。同レンジ内の他の하다形容詞(강하다/약하다/똑똑하다/심하다等)は形容詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00413",
+    "language": "ko",
+    "headword": "친절하다",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "친절하다は韓国語では形容詞(형용사)。品詞タグが「名詞」となっているが形容詞が正しい。同レンジ内の他の하다形容詞(강하다/약하다/똑똑하다/심하다等)は形容詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00419",
+    "language": "ko",
+    "headword": "불편하다",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "불편하다は韓国語では形容詞(형용사)。品詞タグが「名詞」となっているが形容詞が正しい。同レンジ内の他の하다形容詞(강하다/약하다/똑똑하다/심하다等)は形容詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00420",
+    "language": "ko",
+    "headword": "편리하다",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "편리하다は韓国語では形容詞(형용사)。品詞タグが「名詞」となっているが形容詞が正しい。同レンジ内の他の하다形容詞(강하다/약하다/똑똑하다/심하다等)は形容詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00421",
+    "language": "ko",
+    "headword": "안전하다",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "안전하다は韓国語では形容詞(형용사)。品詞タグが「名詞」となっているが形容詞が正しい。同レンジ内の他の하다形容詞(강하다/약하다/똑똑하다/심하다等)は形容詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00422",
+    "language": "ko",
+    "headword": "위험하다",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "위험하다は韓国語では形容詞(형용사)。品詞タグが「名詞」となっているが形容詞が正しい。同レンジ内の他の하다形容詞(강하다/약하다/똑똑하다/심하다等)は形容詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00423",
+    "language": "ko",
+    "headword": "복잡하다",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "복잡하다は韓国語では形容詞(형용사)。品詞タグが「名詞」となっているが形容詞が正しい。同レンジ内の他の하다形容詞(강하다/약하다/똑똑하다/심하다等)は形容詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00424",
+    "language": "ko",
+    "headword": "맑다",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "맑다は韓国語では形容詞(형용사)。品詞タグが「動詞」となっているが形容詞が正しい。同レンジ内の他の하다形容詞(강하다/약하다/똑똑하다/심하다等)は形容詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00425",
+    "language": "ko",
+    "headword": "흐리다",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "흐리다は韓国語では形容詞(형용사)。品詞タグが「動詞」となっているが形容詞が正しい。同レンジ内の他の하다形容詞(강하다/약하다/똑똑하다/심하다等)は形容詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00428",
+    "language": "ko",
+    "headword": "많이",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "많이は副詞(부사)。品詞タグが「名詞」となっているが副詞が正しい。同レンジ内の他の副詞(매우/너무/항상/일찍等)は副詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00430",
+    "language": "ko",
+    "headword": "다시",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "다시は副詞(부사)。品詞タグが「名詞」となっているが副詞が正しい。同レンジ内の他の副詞(매우/너무/항상/일찍等)は副詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00431",
+    "language": "ko",
+    "headword": "또",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "또は副詞(부사)。品詞タグが「名詞」となっているが副詞が正しい。同レンジ内の他の副詞(매우/너무/항상/일찍等)は副詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00432",
+    "language": "ko",
+    "headword": "자주",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "자주は副詞(부사)。品詞タグが「名詞」となっているが副詞が正しい。同レンジ内の他の副詞(매우/너무/항상/일찍等)は副詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00433",
+    "language": "ko",
+    "headword": "가끔",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "가끔は副詞(부사)。品詞タグが「名詞」となっているが副詞が正しい。同レンジ内の他の副詞(매우/너무/항상/일찍等)は副詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00437",
+    "language": "ko",
+    "headword": "벌써",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "벌써は副詞(부사)。品詞タグが「動詞」となっているが副詞が正しい。同レンジ内の他の副詞(매우/너무/항상/일찍等)は副詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00438",
+    "language": "ko",
+    "headword": "아직",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "아직は副詞(부사)。品詞タグが「名詞」となっているが副詞が正しい。同レンジ内の他の副詞(매우/너무/항상/일찍等)は副詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00439",
+    "language": "ko",
+    "headword": "곧",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "곧は副詞(부사)。品詞タグが「動詞」となっているが副詞が正しい。同レンジ内の他の副詞(매우/너무/항상/일찍等)は副詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00441",
+    "language": "ko",
+    "headword": "갑자기",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "갑자기は副詞(부사)。品詞タグが「名詞」となっているが副詞が正しい。同レンジ内の他の副詞(매우/너무/항상/일찍等)は副詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00445",
+    "language": "ko",
+    "headword": "다",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.8,
+    "reason": "다は副詞(부사)。品詞タグが「名詞」となっているが副詞が正しい。同レンジ内の他の副詞(매우/너무/항상/일찍等)は副詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00446",
+    "language": "ko",
+    "headword": "모두",
+    "field": "tags",
+    "currentValue": [
+      "形容詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.85,
+    "reason": "모두は副詞または名詞(みんな/全部)。品詞タグ「形容詞」は明白な誤り。文脈(우리는 모두 학생이다)では副詞的用法。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00447",
+    "language": "ko",
+    "headword": "꼭",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "꼭は副詞(부사)。品詞タグが「名詞」となっているが副詞が正しい。同レンジ内の他の副詞(매우/너무/항상/일찍等)は副詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00448",
+    "language": "ko",
+    "headword": "제일",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "low",
+    "confidence": 0.72,
+    "reason": "제일は名詞にもなるが、例文(봄을 제일 좋아한다)では『一番/最も』の副詞用法。名詞タグは文脈に不一致。外部辞書未照合のため確信は中程度。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00451",
+    "language": "ko",
+    "headword": "늦게",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "늦게は副詞(부사)。品詞タグが「動詞」となっているが副詞が正しい。同レンジ内の他の副詞(매우/너무/항상/일찍等)は副詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00452",
+    "language": "ko",
+    "headword": "어떻게",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "副詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "어떻게は副詞(부사)。品詞タグが「名詞」となっているが副詞が正しい。同レンジ内の他の副詞(매우/너무/항상/일찍等)は副詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00453",
+    "language": "ko",
+    "headword": "그리고",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "接続詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "그리고は接続詞(접속사)。品詞タグが「名詞」となっているが接続詞が正しい。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00454",
+    "language": "ko",
+    "headword": "그래서",
+    "field": "tags",
+    "currentValue": [
+      "副詞"
+    ],
+    "suggestedValue": [
+      "接続詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "그래서は接続詞(접속사)。品詞タグが「副詞」となっているが接続詞が正しい。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00455",
+    "language": "ko",
+    "headword": "하지만",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "接続詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "하지만は接続詞(접속사)。品詞タグが「名詞」となっているが接続詞が正しい。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00512",
+    "language": "ko",
+    "headword": "목",
+    "field": "example",
+    "currentValue": "나는 감기 때문에 목이 아프다. — 私は風邪のせいで首が痛い。",
+    "suggestedValue": "感기 문맥では『목이 아프다』は通常『喉が痛い』の意。訳を『風邪のせいで喉が痛い。』に。",
+    "issueType": "translation",
+    "severity": "low",
+    "confidence": 0.6,
+    "reason": "見出し語 목 の主要義『首』自体は妥当だが、例文の『감기 때문에 목이 아프다』は慣用的に『喉が痛い』を指すため、和訳『首が痛い』は不自然。外部辞書未照合。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00707",
+    "language": "ko",
+    "headword": "늘다",
+    "field": "example",
+    "currentValue": "요즘 외국인이 많이 늘어난다. — 最近外国人がたくさん増える。",
+    "suggestedValue": "見出し語 늘다 を用いた例文へ差し替え(例: 요즘 외국인이 많이 는다.) または見出し語を 늘어나다 に統一",
+    "issueType": "example",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "見出し語は 늘다 だが、例文・exampleForm(늘어난다)は別語彙 늘어나다 の活用形。例文が見出し語を提示していない。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00708",
+    "language": "ko",
+    "headword": "줄다",
+    "field": "example",
+    "currentValue": "이 도시의 인구가 점점 줄어든다. — この都市の人口がだんだん減る。",
+    "suggestedValue": "見出し語 줄다 を用いた例文へ差し替え(例: 이 도시의 인구가 점점 준다.) または見出し語を 줄어들다 に統一",
+    "issueType": "example",
+    "severity": "medium",
+    "confidence": 0.9,
+    "reason": "見出し語は 줄다 だが、例文・exampleForm(줄어든다)は別語彙 줄어들다 の活用形。例文が見出し語を提示していない。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00726",
+    "language": "ko",
+    "headword": "비슷하다",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "비슷하다は韓国語では形容詞(형용사)。品詞タグが「動詞」となっているが形容詞が正しい。同レンジ内の他の하다形容詞(강하다/약하다/똑똑하다/심하다等)は形容詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00727",
+    "language": "ko",
+    "headword": "익숙하다",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "익숙하다は韓国語では形容詞(형용사)。品詞タグが「動詞」となっているが形容詞が正しい。同レンジ内の他の하다形容詞(강하다/약하다/똑똑하다/심하다等)は形容詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00728",
+    "language": "ko",
+    "headword": "특별하다",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "특별하다は韓国語では形容詞(형용사)。品詞タグが「名詞」となっているが形容詞が正しい。同レンジ内の他の하다形容詞(강하다/약하다/똑똑하다/심하다等)は形容詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00729",
+    "language": "ko",
+    "headword": "이상하다",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "이상하다は韓国語では形容詞(형용사)。品詞タグが「名詞」となっているが形容詞が正しい。同レンジ内の他の하다形容詞(강하다/약하다/똑똑하다/심하다等)は形容詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00730",
+    "language": "ko",
+    "headword": "신기하다",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "신기하다は韓国語では形容詞(형용사)。品詞タグが「名詞」となっているが形容詞が正しい。同レンジ内の他の하다形容詞(강하다/약하다/똑똑하다/심하다等)は形容詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00736",
+    "language": "ko",
+    "headword": "지루하다",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "지루하다は韓国語では形容詞(형용사)。品詞タグが「名詞」となっているが形容詞が正しい。同レンジ内の他の하다形容詞(강하다/약하다/똑똑하다/심하다等)は形容詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00737",
+    "language": "ko",
+    "headword": "궁금하다",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "궁금하다は韓国語では形容詞(형용사)。品詞タグが「動詞」となっているが形容詞が正しい。同レンジ内の他の하다形容詞(강하다/약하다/똑똑하다/심하다等)は形容詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00738",
+    "language": "ko",
+    "headword": "편하다",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "편하다は韓国語では形容詞(형용사)。品詞タグが「名詞」となっているが形容詞が正しい。同レンジ内の他の하다形容詞(강하다/약하다/똑똑하다/심하다等)は形容詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00739",
+    "language": "ko",
+    "headword": "힘들다",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "힘들다は韓国語では形容詞(형용사)。品詞タグが「名詞」となっているが形容詞が正しい。同レンジ内の他の하다形容詞(강하다/약하다/똑똑하다/심하다等)は形容詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00740",
+    "language": "ko",
+    "headword": "부지런하다",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "부지런하다は韓国語では形容詞(형용사)。品詞タグが「名詞」となっているが形容詞が正しい。同レンジ内の他の하다形容詞(강하다/약하다/똑똑하다/심하다等)は形容詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00751",
+    "language": "ko",
+    "headword": "뚱뚱하다",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "뚱뚱하다は韓国語では形容詞(형용사)。品詞タグが「動詞」となっているが形容詞が正しい。同レンジ内の他の하다形容詞(강하다/약하다/똑똑하다/심하다等)は形容詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00752",
+    "language": "ko",
+    "headword": "배고프다",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "배고프다は韓国語では形容詞(형용사)。品詞タグが「動詞」となっているが形容詞が正しい。同レンジ内の他の하다形容詞(강하다/약하다/똑똑하다/심하다等)は形容詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00753",
+    "language": "ko",
+    "headword": "배부르다",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "배부르다は韓国語では形容詞(형용사)。品詞タグが「名詞」となっているが形容詞が正しい。同レンジ内の他の하다形容詞(강하다/약하다/똑똑하다/심하다等)は形容詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00754",
+    "language": "ko",
+    "headword": "목마르다",
+    "field": "tags",
+    "currentValue": [
+      "動詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "목마르다は韓国語では形容詞(형용사)。品詞タグが「動詞」となっているが形容詞が正しい。同レンジ内の他の하다形容詞(강하다/약하다/똑똑하다/심하다等)は形容詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00757",
+    "language": "ko",
+    "headword": "심각하다",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "심각하다は韓国語では形容詞(형용사)。品詞タグが「名詞」となっているが形容詞が正しい。同レンジ内の他の하다形容詞(강하다/약하다/똑똑하다/심하다等)は形容詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00758",
+    "language": "ko",
+    "headword": "확실하다",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "확실하다は韓国語では形容詞(형용사)。品詞タグが「名詞」となっているが形容詞が正しい。同レンジ内の他の하다形容詞(강하다/약하다/똑똑하다/심하다等)は形容詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00759",
+    "language": "ko",
+    "headword": "분명하다",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "분명하다は韓国語では形容詞(형용사)。品詞タグが「名詞」となっているが形容詞が正しい。同レンジ内の他の하다形容詞(강하다/약하다/똑똑하다/심하다等)は形容詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00760",
+    "language": "ko",
+    "headword": "정확하다",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "정확하다は韓国語では形容詞(형용사)。品詞タグが「名詞」となっているが形容詞が正しい。同レンジ内の他の하다形容詞(강하다/약하다/똑똑하다/심하다等)は形容詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00761",
+    "language": "ko",
+    "headword": "충분하다",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "충분하다は韓国語では形容詞(형용사)。品詞タグが「名詞」となっているが形容詞が正しい。同レンジ内の他の하다形容詞(강하다/약하다/똑똑하다/심하다等)は形容詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00763",
+    "language": "ko",
+    "headword": "다양하다",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "다양하다は韓国語では形容詞(형용사)。品詞タグが「名詞」となっているが形容詞が正しい。同レンジ内の他の하다形容詞(강하다/약하다/똑똑하다/심하다等)は形容詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00764",
+    "language": "ko",
+    "headword": "자유롭다",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "자유롭다は韓国語では形容詞(형용사)。品詞タグが「名詞」となっているが形容詞が正しい。同レンジ内の他の하다形容詞(강하다/약하다/똑똑하다/심하다等)は形容詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  },
+  {
+    "id": "ko-00766",
+    "language": "ko",
+    "headword": "자연스럽다",
+    "field": "tags",
+    "currentValue": [
+      "名詞"
+    ],
+    "suggestedValue": [
+      "形容詞"
+    ],
+    "issueType": "partOfSpeech",
+    "severity": "medium",
+    "confidence": 0.95,
+    "reason": "자연스럽다は韓国語では形容詞(형용사)。品詞タグが「名詞」となっているが形容詞が正しい。同レンジ内の他の하다形容詞(강하다/약하다/똑똑하다/심하다等)は形容詞と正しく付与されており内部不整合が確認できる。",
+    "evidence": [],
+    "requiresHumanReview": true
+  }
+]
