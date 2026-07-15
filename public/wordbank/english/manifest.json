@@ -1,7 +1,7 @@
 {
   "category": "english",
-  "total": 8145,
-  "verified": 7460,
+  "total": 8136,
+  "verified": 8136,
   "levels": [
     {
       "level": 1,
@@ -21,17 +21,17 @@
     {
       "level": 4,
       "file": "level-4.json",
-      "count": 1069
+      "count": 1066
     },
     {
       "level": 5,
       "file": "level-5.json",
-      "count": 1465
+      "count": 1462
     },
     {
       "level": 6,
       "file": "level-6.json",
-      "count": 1500
+      "count": 1497
     },
     {
       "level": 7,
@@ -39,6 +39,7 @@
       "count": 1500
     }
   ],
-  "source": "EJDict (Public Domain) + NGSL + google-10000-english + FrequencyWords en_50k (CC-BY 4.0, Lv6-7 candidates)",
-  "generatedAt": "2026-07-05T17:51:52.347Z"
+  "source": "EJDict (Public Domain) + NGSL + google-10000-english + FrequencyWords en_50k (CC-BY 4.0, Lv6-7 candidates) + 人手検証(2026-07)",
+  "generatedAt": "2026-07-05T17:51:52.347Z",
+  "jaVerified": 8136
 }
