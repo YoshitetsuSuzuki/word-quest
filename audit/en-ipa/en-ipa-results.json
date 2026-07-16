@@ -1,0 +1,12 @@
+{
+  "source": "Kaikki English (Wiktextract, CC-BY-SA)",
+  "total": 8136,
+  "byStatus": {
+    "matched": 7771,
+    "different": 17,
+    "variant": 190,
+    "dict_no_ipa": 139,
+    "app_no_ipa": 19
+  },
+  "note": "GA(米)/RP(英)の転写差は正規化で吸収。different=明白な逸脱(音素欠落/別発音)候補。"
+}
