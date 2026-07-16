@@ -3,11 +3,13 @@ import { useGame } from '../state/GameContext'
 import { useNav } from '../state/nav'
 import { getRaidView } from '../modules/raid/raidLogic'
 import { ProgressBar } from '../components/ProgressBar'
+import { useInterstitial } from '../services/useInterstitial'
 import type { Question } from '../types'
 
 export function RaidScreen() {
   const { user, engine, answerQuestion, claimRaid, ensureCategory, isCategoryReady } = useGame()
   const { navigate, category, t } = useNav()
+  const showInterstitial = useInterstitial()
   const raid = getRaidView(user)
   const ready = isCategoryReady(category)
 
@@ -20,6 +22,8 @@ export function RaidScreen() {
   const [q, setQ] = useState<Question | null>(null)
   const [selected, setSelected] = useState<string | null>(null)
   const [hit, setHit] = useState(false)
+  /** この訪問で実際に攻撃したか。覗いただけの人に広告を出さないためのガード */
+  const [didAttack, setDidAttack] = useState(false)
 
   const beginAttack = () => {
     if (!ready) return
@@ -33,6 +37,7 @@ export function RaidScreen() {
     if (!q || selected) return
     const res = answerQuestion(q, choice, 1)
     setSelected(choice)
+    setDidAttack(true)
     if (res.correct) setHit(true)
     window.setTimeout(() => setAttacking(false), 900)
   }
@@ -109,7 +114,13 @@ export function RaidScreen() {
           {ready ? t('raid.attack') : t('quiz.preparing')}
         </button>
       )}
-      <button className="btn-ghost w-full py-3" onClick={() => navigate('home')}>
+      <button
+        className="btn-ghost w-full py-3"
+        onClick={async () => {
+          if (didAttack) await showInterstitial('raid')
+          navigate('home')
+        }}
+      >
         {t('common.back')}
       </button>
     </div>

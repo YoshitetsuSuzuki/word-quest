@@ -44,6 +44,26 @@ const PROD_IDS = {
  */
 const USE_TEST_ADS = true
 
+/**
+ * インタースティシャルを出す頻度（その場所を N 回終えるごとに1回）。
+ * 場所ごとに独立カウント。0 にするとその場所では出さない。
+ * 学習アプリは「また明日開く」ことが収益の源泉なので、出しすぎないこと。
+ */
+export const INTERSTITIAL_EVERY = {
+  /** クイズ(通常/スピード/リスニング/表現/復習)の結果→ホーム */
+  quiz: 1, // TODO(実機検証後): 3 に戻す
+  /** クイズ結果→もう1回 */
+  quizAgain: 5,
+  /** ペア合わせの結果→ホーム / もう一回 */
+  match: 5,
+  /** バトルの結果→ホーム */
+  battle: 5,
+  /** レイドで実際に攻撃した後の離脱 */
+  raid: 5,
+} as const
+
+export type InterstitialPlace = keyof typeof INTERSTITIAL_EVERY
+
 function isNative(): boolean {
   try {
     return Capacitor.isNativePlatform()
@@ -103,6 +123,25 @@ export const AdService = {
     } catch (e) {
       console.warn('[AdService] rewarded failed', e)
       return false
+    }
+  },
+
+  /**
+   * セッション終了地点から呼ぶ。場所ごとに独立カウントし、N回に1回だけ全画面広告を出す。
+   * 表示可否(広告ON・プレミアム未購入)の判定は呼び出し側（useInterstitial）で行う。
+   */
+  async maybeShowInterstitial(place: InterstitialPlace): Promise<void> {
+    if (!isNative()) return
+    const everyN = INTERSTITIAL_EVERY[place]
+    if (!everyN || everyN <= 0) return
+    try {
+      const key = `wordquest.adCount.${place}`
+      const n = (Number(localStorage.getItem(key)) || 0) + 1
+      localStorage.setItem(key, String(n))
+      if (n % everyN !== 0) return
+      await this.showInterstitial()
+    } catch (e) {
+      console.warn('[AdService] maybeShowInterstitial failed', e)
     }
   },
 

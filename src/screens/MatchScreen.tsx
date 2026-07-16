@@ -5,6 +5,7 @@ import { Loading } from '../components/Loading'
 import { wordFromPrompt } from '../utils/speech'
 import { playCorrect, playWrong, playCombo } from '../utils/audio'
 import { hapticCorrect, hapticWrong, hapticCombo } from '../utils/haptics'
+import { useInterstitial } from '../services/useInterstitial'
 import type { Question } from '../types'
 
 const PAIRS = 5
@@ -22,6 +23,7 @@ function shuffle<T>(a: T[]): T[] {
 export function MatchScreen() {
   const { engine, isCategoryReady, ensureCategory, applyRewardXp } = useGame()
   const { category, navigate, studyLevel, locale, sfxEnabled, sfxVolume } = useNav()
+  const showInterstitial = useInterstitial()
   const ready = isCategoryReady(category)
   useEffect(() => { if (!ready) void ensureCategory(category) }, [ready, ensureCategory, category])
 
@@ -67,8 +69,8 @@ export function MatchScreen() {
         <h2 className="text-2xl font-black">ぜんぶ そろった！</h2>
         <div className="card mt-5 p-4 text-gold font-black">+{qs.length * 6} XP</div>
         <div className="mt-6 grid grid-cols-2 gap-3">
-          <button className="btn-ghost py-3" onClick={() => navigate('home')}>ホーム</button>
-          <button className="btn-primary py-3" onClick={() => window.location.reload()}>もう一回</button>
+          <button className="btn-ghost py-3" onClick={async () => { await showInterstitial('match'); navigate('home') }}>ホーム</button>
+          <button className="btn-primary py-3" onClick={async () => { await showInterstitial('match'); window.location.reload() }}>もう一回</button>
         </div>
       </div>
     )

@@ -9,6 +9,7 @@ import {
   computeScore,
   type BattleAnswerLog,
 } from '../modules/battle/battleLogic'
+import { useInterstitial } from '../services/useInterstitial'
 import type { BattleResult, Question } from '../types'
 
 type Phase = 'intro' | 'playing' | 'result'
@@ -16,6 +17,7 @@ type Phase = 'intro' | 'playing' | 'result'
 export function BattleScreen() {
   const { user, engine, finishBattle, chargeBattleFee, ensureCategory, isCategoryReady } = useGame()
   const { navigate, category, t } = useNav()
+  const showInterstitial = useInterstitial()
   const opponent = useMemo(() => pickOpponent(user.eloRating), [user.eloRating])
   const ready = isCategoryReady(category)
 
@@ -155,7 +157,7 @@ export function BattleScreen() {
         <Row label={t('quiz.gainedCoins')} value={`🪙 +${result?.gainedCoin}`} />
       </div>
       <div className="mt-6 grid grid-cols-2 gap-3">
-        <button className="btn-ghost py-3" onClick={() => navigate('home')}>
+        <button className="btn-ghost py-3" onClick={async () => { await showInterstitial('battle'); navigate('home') }}>
           {t('quiz.toHome')}
         </button>
         <button className="btn-primary py-3" onClick={() => setPhase('intro')}>

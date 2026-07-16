@@ -12,6 +12,7 @@ import { petBonus } from '../core/PetEngine'
 import { todayStr } from '../state/dateUtils'
 import { wordErrorReportUrl } from '../utils/report'
 import { AdService } from '../services/AdService'
+import { useInterstitial } from '../services/useInterstitial'
 import { featureFlags } from '../config/featureFlags'
 import type { Question, AnswerOutcome } from '../types'
 
@@ -23,6 +24,7 @@ export function QuizScreen() {
   const { user, engine, answerQuestion, ensureCategory, isCategoryReady, toggleDeck } = game
   const { quizMode, navigate, category, customIds, setCustomIds, soundEnabled, studyLevel, sfxEnabled, sfxVolume, t, locale } = useNav()
 
+  const showInterstitial = useInterstitial()
   const ready = isCategoryReady(category)
   const [questions, setQuestions] = useState<Question[]>([])
   const [built, setBuilt] = useState(false) // セッション構築を試みたか(空プールで無限ロードにしないため)
@@ -193,15 +195,14 @@ export function QuizScreen() {
         setRewardClaimed(true)
       }
     }
-    // インタースティシャル: ホーム遷移時に数回に1回だけ表示（出しすぎ防止）
+    // インタースティシャル: セッション終了地点で数回に1回だけ表示（出しすぎ防止）
     const goHome = async () => {
-      if (adsOn) {
-        const key = 'wordquest.adCount'
-        const n = (Number(localStorage.getItem(key)) || 0) + 1
-        localStorage.setItem(key, String(n))
-        if (n % 3 === 0) await AdService.showInterstitial()
-      }
+      await showInterstitial('quiz')
       navigate('home')
+    }
+    const playAgain = async () => {
+      await showInterstitial('quizAgain')
+      window.location.reload()
     }
 
     return (
@@ -222,7 +223,7 @@ export function QuizScreen() {
           <button className="btn-ghost py-3" onClick={goHome}>
             {t('quiz.toHome')}
           </button>
-          <button className="btn-primary py-3" onClick={() => window.location.reload()}>
+          <button className="btn-primary py-3" onClick={playAgain}>
             {t('quiz.again')}
           </button>
         </div>
