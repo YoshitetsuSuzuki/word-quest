@@ -17,7 +17,7 @@ import { featureFlags } from '../config/featureFlags'
 import type { Question, AnswerOutcome } from '../types'
 
 const SESSION_SIZE = 10
-const SPEED_MS = 8000 // スピードモードの1問あたり制限時間
+const SPEED_MS = 4000 // スピードモードの1問あたり制限時間（8秒では余裕がありすぎたため半減）
 
 export function QuizScreen() {
   const game = useGame()
