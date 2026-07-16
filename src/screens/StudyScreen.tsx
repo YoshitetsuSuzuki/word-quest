@@ -24,7 +24,7 @@ type Tab = 'weak' | 'learned' | 'deck'
  * ・覗いただけ／少し触っただけの人には出さない（レイドの didAttack と同じ考え方）
  * ・作業中には割り込まず、必ず離脱時のみ
  */
-const STUDY_AD_AFTER = 100
+const STUDY_AD_AFTER = 40
 
 const CAT_PREFIX: Record<string, string> = { english: 'en', chinese: 'zh', korean: 'ko', japanese: 'jp', spanish: 'es', french: 'fr', german: 'de', portuguese: 'pt', russian: 'ru', polish: 'pl' }
 const catNameKey = (id: string) => `cat.${id}` as keyof Strings
