@@ -1,6 +1,6 @@
 # ローカル辞書照合(全件): french
 
-生成: 2026-07-15 / 辞書: kaikki-french / 版: {"kaikki-french":"kaikki wiktextract dump 2026-07-06"} / **元データ変更なし**
+生成: 2026-07-16 / 辞書: kaikki-french / 版: {"kaikki-french":"kaikki wiktextract dump 2026-07-06"} / **元データ変更なし**
 
 - 総件数: 1948　照合: 1948
 - verified:1905 likely_correct:17 review:26 conflicting:0 critical:0 not_checked:0

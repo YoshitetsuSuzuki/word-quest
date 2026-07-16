@@ -1,0 +1,35 @@
+[
+  {
+    "id": "en-00126",
+    "language": "english",
+    "headword": "between",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "の間に",
+    "example": "The park is between the school and the bank. — 公園は学校と銀行の間にある。",
+    "exampleForm": "between",
+    "pronunciation": "/bitˈwin/",
+    "difficulty": 1,
+    "dict1Pos": [
+      "adverb"
+    ],
+    "dict2Pos": [
+      "preposition",
+      "noun"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adverb",
+      "preposition",
+      "noun"
+    ],
+    "answerPos": "adverb",
+    "examplePos": "adjective",
+    "decisionStatus": "dictionary_sources_conflict",
+    "category": "F",
+    "adoptedTag": null,
+    "confidence": 0,
+    "reason": "例文文法(形容詞)が辞書品詞[adverb,preposition,noun]に無い→人手(辞書体系差/例文特殊)"
+  }
+]

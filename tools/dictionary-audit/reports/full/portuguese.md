@@ -1,6 +1,6 @@
 # ローカル辞書照合(全件): portuguese
 
-生成: 2026-07-15 / 辞書: kaikki-portuguese / 版: {"kaikki-portuguese":"kaikki wiktextract dump 2026-07-06"} / **元データ変更なし**
+生成: 2026-07-16 / 辞書: kaikki-portuguese / 版: {"kaikki-portuguese":"kaikki wiktextract dump 2026-07-06"} / **元データ変更なし**
 
 - 総件数: 150　照合: 150
 - verified:149 likely_correct:1 review:0 conflicting:0 critical:0 not_checked:0

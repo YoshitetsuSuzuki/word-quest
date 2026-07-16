@@ -1,0 +1,3034 @@
+[
+  {
+    "id": "en-00193",
+    "headword": "seem",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "動詞"
+    ],
+    "answer": "のようだ",
+    "exampleEvidence": "He seems very tired today.",
+    "dictionaryEvidence": [
+      {
+        "source": "OEWN",
+        "pos": [
+          "verb"
+        ]
+      },
+      {
+        "source": "Kaikki-en subset",
+        "pos": [
+          "verb"
+        ]
+      }
+    ],
+    "reason": "例文で見出し語は動詞として使用・辞書和集合[verb]に動詞あり・現タグ『名詞』不一致・2辞書確認",
+    "confidence": 0.997
+  },
+  {
+    "id": "en-00492",
+    "headword": "difference",
+    "field": "tags",
+    "before": [
+      "形容詞"
+    ],
+    "after": [
+      "名詞"
+    ],
+    "answer": "違い",
+    "exampleEvidence": "Can you see the difference between these two pictures?",
+    "dictionaryEvidence": [
+      {
+        "source": "OEWN",
+        "pos": [
+          "noun"
+        ]
+      },
+      {
+        "source": "Kaikki-en subset",
+        "pos": [
+          "noun",
+          "verb"
+        ]
+      }
+    ],
+    "reason": "例文で見出し語は名詞として使用・辞書和集合[noun,verb]に名詞あり・現タグ『形容詞』不一致・2辞書確認",
+    "confidence": 0.997
+  },
+  {
+    "id": "en-00919",
+    "headword": "useful",
+    "field": "tags",
+    "before": [
+      "動詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "answer": "役に立つ",
+    "exampleEvidence": "A dictionary is useful for learning words.",
+    "dictionaryEvidence": [
+      {
+        "source": "OEWN",
+        "pos": [
+          "adjective"
+        ]
+      },
+      {
+        "source": "Kaikki-en subset",
+        "pos": [
+          "adjective"
+        ]
+      }
+    ],
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective]に形容詞あり・現タグ『動詞』不一致・2辞書確認",
+    "confidence": 0.997
+  },
+  {
+    "id": "en-00928",
+    "headword": "successful",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "answer": "成功した",
+    "exampleEvidence": "The event was successful thanks to everyone.",
+    "dictionaryEvidence": [
+      {
+        "source": "OEWN",
+        "pos": [
+          "adjective"
+        ]
+      },
+      {
+        "source": "Kaikki-en subset",
+        "pos": [
+          "adjective"
+        ]
+      }
+    ],
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective]に形容詞あり・現タグ『名詞』不一致・2辞書確認",
+    "confidence": 0.997
+  },
+  {
+    "id": "en-01084",
+    "headword": "payment",
+    "field": "tags",
+    "before": [
+      "形容詞"
+    ],
+    "after": [
+      "名詞"
+    ],
+    "answer": "支払い",
+    "exampleEvidence": "You can make a payment by card.",
+    "dictionaryEvidence": [
+      {
+        "source": "OEWN",
+        "pos": [
+          "noun"
+        ]
+      },
+      {
+        "source": "Kaikki-en subset",
+        "pos": [
+          "noun",
+          "proper noun"
+        ]
+      }
+    ],
+    "reason": "例文で見出し語は名詞として使用・辞書和集合[noun,proper noun]に名詞あり・現タグ『形容詞』不一致・2辞書確認",
+    "confidence": 0.997
+  },
+  {
+    "id": "en-01147",
+    "headword": "responsible",
+    "field": "tags",
+    "before": [
+      "動詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "answer": "責任のある",
+    "exampleEvidence": "Parents are responsible for their children.",
+    "dictionaryEvidence": [
+      {
+        "source": "OEWN",
+        "pos": [
+          "adjective"
+        ]
+      },
+      {
+        "source": "Kaikki-en subset",
+        "pos": [
+          "adjective",
+          "noun"
+        ]
+      }
+    ],
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,noun]に形容詞あり・現タグ『動詞』不一致・2辞書確認",
+    "confidence": 0.997
+  },
+  {
+    "id": "en-01343",
+    "headword": "afraid",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "answer": "恐れて",
+    "exampleEvidence": "My little sister is afraid of dogs.",
+    "dictionaryEvidence": [
+      {
+        "source": "OEWN",
+        "pos": [
+          "adjective"
+        ]
+      },
+      {
+        "source": "Kaikki-en subset",
+        "pos": [
+          "adjective"
+        ]
+      }
+    ],
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective]に形容詞あり・現タグ『名詞』不一致・2辞書確認",
+    "confidence": 0.997
+  },
+  {
+    "id": "en-01467",
+    "headword": "relevant",
+    "field": "tags",
+    "before": [
+      "動詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "answer": "関連する",
+    "exampleEvidence": "Your question is relevant to today's topic.",
+    "dictionaryEvidence": [
+      {
+        "source": "OEWN",
+        "pos": [
+          "adjective"
+        ]
+      },
+      {
+        "source": "Kaikki-en subset",
+        "pos": [
+          "adjective"
+        ]
+      }
+    ],
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective]に形容詞あり・現タグ『動詞』不一致・2辞書確認",
+    "confidence": 0.997
+  },
+  {
+    "id": "en-01534",
+    "headword": "suitable",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "answer": "適した",
+    "exampleEvidence": "These shoes are suitable for long walks.",
+    "dictionaryEvidence": [
+      {
+        "source": "OEWN",
+        "pos": [
+          "adjective"
+        ]
+      },
+      {
+        "source": "Kaikki-en subset",
+        "pos": [
+          "adjective"
+        ]
+      }
+    ],
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective]に形容詞あり・現タグ『名詞』不一致・2辞書確認",
+    "confidence": 0.997
+  },
+  {
+    "id": "en-01753",
+    "headword": "helpful",
+    "field": "tags",
+    "before": [
+      "動詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "answer": "助けになる",
+    "exampleEvidence": "Your advice was very helpful to me.",
+    "dictionaryEvidence": [
+      {
+        "source": "OEWN",
+        "pos": [
+          "adjective"
+        ]
+      },
+      {
+        "source": "Kaikki-en subset",
+        "pos": [
+          "adjective"
+        ]
+      }
+    ],
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective]に形容詞あり・現タグ『動詞』不一致・2辞書確認",
+    "confidence": 0.997
+  },
+  {
+    "id": "en-01764",
+    "headword": "lip",
+    "field": "tags",
+    "before": [
+      "動詞"
+    ],
+    "after": [
+      "名詞"
+    ],
+    "answer": "くちびる",
+    "exampleEvidence": "He touched his lip with his finger.",
+    "dictionaryEvidence": [
+      {
+        "source": "OEWN",
+        "pos": [
+          "noun"
+        ]
+      },
+      {
+        "source": "Kaikki-en subset",
+        "pos": [
+          "noun",
+          "verb"
+        ]
+      }
+    ],
+    "reason": "例文で見出し語は名詞として使用・辞書和集合[noun,verb]に名詞あり・現タグ『動詞』不一致・2辞書確認",
+    "confidence": 0.997
+  },
+  {
+    "id": "en-01837",
+    "headword": "consistent",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "answer": "一貫した",
+    "exampleEvidence": "Her answers were consistent from start to finish.",
+    "dictionaryEvidence": [
+      {
+        "source": "OEWN",
+        "pos": [
+          "adjective"
+        ]
+      },
+      {
+        "source": "Kaikki-en subset",
+        "pos": [
+          "adjective",
+          "noun"
+        ]
+      }
+    ],
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,noun]に形容詞あり・現タグ『名詞』不一致・2辞書確認",
+    "confidence": 0.997
+  },
+  {
+    "id": "en-02048",
+    "headword": "capable",
+    "field": "tags",
+    "before": [
+      "動詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "answer": "能力のある",
+    "exampleEvidence": "She is capable of teaching three languages.",
+    "dictionaryEvidence": [
+      {
+        "source": "OEWN",
+        "pos": [
+          "adjective"
+        ]
+      },
+      {
+        "source": "Kaikki-en subset",
+        "pos": [
+          "adjective"
+        ]
+      }
+    ],
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective]に形容詞あり・現タグ『動詞』不一致・2辞書確認",
+    "confidence": 0.997
+  },
+  {
+    "id": "en-02203",
+    "headword": "nervous",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "answer": "緊張した",
+    "exampleEvidence": "I was nervous before my first speech.",
+    "dictionaryEvidence": [
+      {
+        "source": "OEWN",
+        "pos": [
+          "adjective"
+        ]
+      },
+      {
+        "source": "Kaikki-en subset",
+        "pos": [
+          "adjective"
+        ]
+      }
+    ],
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective]に形容詞あり・現タグ『名詞』不一致・2辞書確認",
+    "confidence": 0.997
+  },
+  {
+    "id": "en-02367",
+    "headword": "confident",
+    "field": "tags",
+    "before": [
+      "動詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "answer": "自信のある",
+    "exampleEvidence": "She is confident about tomorrow's test.",
+    "dictionaryEvidence": [
+      {
+        "source": "OEWN",
+        "pos": [
+          "adjective"
+        ]
+      },
+      {
+        "source": "Kaikki-en subset",
+        "pos": [
+          "adjective",
+          "noun"
+        ]
+      }
+    ],
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,noun]に形容詞あり・現タグ『動詞』不一致・2辞書確認",
+    "confidence": 0.997
+  },
+  {
+    "id": "en-02472",
+    "headword": "mad",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "answer": "腹を立てた",
+    "exampleEvidence": "He was mad at me for losing his book.",
+    "dictionaryEvidence": [
+      {
+        "source": "OEWN",
+        "pos": [
+          "adjective"
+        ]
+      },
+      {
+        "source": "Kaikki-en subset",
+        "pos": [
+          "adjective",
+          "adverb",
+          "verb",
+          "noun",
+          "proper noun"
+        ]
+      }
+    ],
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,adverb,verb,noun,proper noun]に形容詞あり・現タグ『名詞』不一致・2辞書確認",
+    "confidence": 0.997
+  },
+  {
+    "id": "en-02500",
+    "headword": "visible",
+    "field": "tags",
+    "before": [
+      "動詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "answer": "目に見える",
+    "exampleEvidence": "The tower is visible from my window.",
+    "dictionaryEvidence": [
+      {
+        "source": "OEWN",
+        "pos": [
+          "adjective"
+        ]
+      },
+      {
+        "source": "Kaikki-en subset",
+        "pos": [
+          "adjective"
+        ]
+      }
+    ],
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective]に形容詞あり・現タグ『動詞』不一致・2辞書確認",
+    "confidence": 0.997
+  },
+  {
+    "id": "en-02559",
+    "headword": "acceptable",
+    "field": "tags",
+    "before": [
+      "動詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "answer": "受け入れられる",
+    "exampleEvidence": "This plan is acceptable to all the members.",
+    "dictionaryEvidence": [
+      {
+        "source": "OEWN",
+        "pos": [
+          "adjective"
+        ]
+      },
+      {
+        "source": "Kaikki-en subset",
+        "pos": [
+          "adjective",
+          "noun"
+        ]
+      }
+    ],
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,noun]に形容詞あり・現タグ『動詞』不一致・2辞書確認",
+    "confidence": 0.997
+  },
+  {
+    "id": "en-02739",
+    "headword": "controversial",
+    "field": "tags",
+    "before": [
+      "動詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "answer": "物議を醸す",
+    "exampleEvidence": "The new rule was controversial among the students.",
+    "dictionaryEvidence": [
+      {
+        "source": "OEWN",
+        "pos": [
+          "adjective"
+        ]
+      },
+      {
+        "source": "Kaikki-en subset",
+        "pos": [
+          "adjective",
+          "noun"
+        ]
+      }
+    ],
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,noun]に形容詞あり・現タグ『動詞』不一致・2辞書確認",
+    "confidence": 0.997
+  },
+  {
+    "id": "en-02777",
+    "headword": "luxury",
+    "field": "tags",
+    "before": [
+      "動詞"
+    ],
+    "after": [
+      "名詞"
+    ],
+    "answer": "ぜいたく",
+    "exampleEvidence": "Eating out every day is a luxury for us.",
+    "dictionaryEvidence": [
+      {
+        "source": "OEWN",
+        "pos": [
+          "noun"
+        ]
+      },
+      {
+        "source": "Kaikki-en subset",
+        "pos": [
+          "noun",
+          "adjective"
+        ]
+      }
+    ],
+    "reason": "例文で見出し語は名詞として使用・辞書和集合[noun,adjective]に名詞あり・現タグ『動詞』不一致・2辞書確認",
+    "confidence": 0.997
+  },
+  {
+    "id": "en-02816",
+    "headword": "ashamed",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "answer": "恥じて",
+    "exampleEvidence": "He was ashamed of his careless mistake.",
+    "dictionaryEvidence": [
+      {
+        "source": "OEWN",
+        "pos": [
+          "adjective"
+        ]
+      },
+      {
+        "source": "Kaikki-en subset",
+        "pos": [
+          "adjective",
+          "verb"
+        ]
+      }
+    ],
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,verb]に形容詞あり・現タグ『名詞』不一致・2辞書確認",
+    "confidence": 0.997
+  },
+  {
+    "id": "en-02871",
+    "headword": "related",
+    "field": "tags",
+    "before": [
+      "動詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "answer": "関係のある",
+    "exampleEvidence": "This question is related to our lesson.",
+    "dictionaryEvidence": [
+      {
+        "source": "OEWN",
+        "pos": [
+          "adjective"
+        ]
+      },
+      {
+        "source": "Kaikki-en subset",
+        "pos": [
+          "adjective",
+          "verb"
+        ]
+      }
+    ],
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,verb]に形容詞あり・現タグ『動詞』不一致・2辞書確認",
+    "confidence": 0.997
+  },
+  {
+    "id": "en-03054",
+    "headword": "included",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "answer": "含めて",
+    "exampleEvidence": "He was included in the deal.",
+    "dictionaryEvidence": [
+      {
+        "source": "OEWN",
+        "pos": [
+          "adjective"
+        ]
+      },
+      {
+        "source": "Kaikki-en subset",
+        "pos": [
+          "verb",
+          "adjective"
+        ]
+      }
+    ],
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,verb]に形容詞あり・現タグ『名詞』不一致・2辞書確認",
+    "confidence": 0.997
+  },
+  {
+    "id": "en-03068",
+    "headword": "registered",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "answer": "登録された",
+    "exampleEvidence": "Her name is registered at the sports club.",
+    "dictionaryEvidence": [
+      {
+        "source": "OEWN",
+        "pos": [
+          "adjective"
+        ]
+      },
+      {
+        "source": "Kaikki-en subset",
+        "pos": [
+          "adjective",
+          "verb"
+        ]
+      }
+    ],
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,verb]に形容詞あり・現タグ『名詞』不一致・2辞書確認",
+    "confidence": 0.997
+  },
+  {
+    "id": "en-03342",
+    "headword": "born",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "answer": "生まれた",
+    "exampleEvidence": "The baby was born early this morning.",
+    "dictionaryEvidence": [
+      {
+        "source": "OEWN",
+        "pos": [
+          "adjective"
+        ]
+      },
+      {
+        "source": "Kaikki-en subset",
+        "pos": [
+          "verb",
+          "adjective",
+          "noun",
+          "proper noun"
+        ]
+      }
+    ],
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,verb,noun,proper noun]に形容詞あり・現タグ『名詞』不一致・2辞書確認",
+    "confidence": 0.997
+  },
+  {
+    "id": "en-03349",
+    "headword": "moving",
+    "field": "tags",
+    "before": [
+      "動詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "answer": "動く",
+    "exampleEvidence": "Thank you, that was very moving.",
+    "dictionaryEvidence": [
+      {
+        "source": "OEWN",
+        "pos": [
+          "adjective"
+        ]
+      },
+      {
+        "source": "Kaikki-en subset",
+        "pos": [
+          "adjective",
+          "verb",
+          "noun"
+        ]
+      }
+    ],
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,verb,noun]に形容詞あり・現タグ『動詞』不一致・2辞書確認",
+    "confidence": 0.997
+  },
+  {
+    "id": "en-03388",
+    "headword": "fixed",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "answer": "固定した",
+    "exampleEvidence": "The shelf is fixed to the wall.",
+    "dictionaryEvidence": [
+      {
+        "source": "OEWN",
+        "pos": [
+          "adjective"
+        ]
+      },
+      {
+        "source": "Kaikki-en subset",
+        "pos": [
+          "verb",
+          "adjective"
+        ]
+      }
+    ],
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,verb]に形容詞あり・現タグ『名詞』不一致・2辞書確認",
+    "confidence": 0.997
+  },
+  {
+    "id": "en-03638",
+    "headword": "intended",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "answer": "意図された",
+    "exampleEvidence": "This book is intended for young readers.",
+    "dictionaryEvidence": [
+      {
+        "source": "OEWN",
+        "pos": [
+          "adjective"
+        ]
+      },
+      {
+        "source": "Kaikki-en subset",
+        "pos": [
+          "adjective",
+          "noun",
+          "verb"
+        ]
+      }
+    ],
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,noun,verb]に形容詞あり・現タグ『名詞』不一致・2辞書確認",
+    "confidence": 0.997
+  },
+  {
+    "id": "en-03775",
+    "headword": "prepared",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "answer": "準備ができた",
+    "exampleEvidence": "We are prepared for the long trip.",
+    "dictionaryEvidence": [
+      {
+        "source": "OEWN",
+        "pos": [
+          "adjective"
+        ]
+      },
+      {
+        "source": "Kaikki-en subset",
+        "pos": [
+          "adjective",
+          "verb"
+        ]
+      }
+    ],
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,verb]に形容詞あり・現タグ『名詞』不一致・2辞書確認",
+    "confidence": 0.997
+  },
+  {
+    "id": "en-03808",
+    "headword": "eligible",
+    "field": "tags",
+    "before": [
+      "動詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "answer": "資格のある",
+    "exampleEvidence": "Students over fifteen are eligible for the contest.",
+    "dictionaryEvidence": [
+      {
+        "source": "OEWN",
+        "pos": [
+          "adjective"
+        ]
+      },
+      {
+        "source": "Kaikki-en subset",
+        "pos": [
+          "adjective",
+          "noun"
+        ]
+      }
+    ],
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,noun]に形容詞あり・現タグ『動詞』不一致・2辞書確認",
+    "confidence": 0.997
+  },
+  {
+    "id": "en-03851",
+    "headword": "compatible",
+    "field": "tags",
+    "before": [
+      "動詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "answer": "互換性のある",
+    "exampleEvidence": "This printer is compatible with my old computer.",
+    "dictionaryEvidence": [
+      {
+        "source": "OEWN",
+        "pos": [
+          "adjective"
+        ]
+      },
+      {
+        "source": "Kaikki-en subset",
+        "pos": [
+          "adjective",
+          "noun"
+        ]
+      }
+    ],
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,noun]に形容詞あり・現タグ『動詞』不一致・2辞書確認",
+    "confidence": 0.997
+  },
+  {
+    "id": "en-03990",
+    "headword": "connected",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "answer": "連結した",
+    "exampleEvidence": "She is connected with that company.",
+    "dictionaryEvidence": [
+      {
+        "source": "OEWN",
+        "pos": [
+          "adjective"
+        ]
+      },
+      {
+        "source": "Kaikki-en subset",
+        "pos": [
+          "adjective",
+          "verb"
+        ]
+      }
+    ],
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,verb]に形容詞あり・現タグ『名詞』不一致・2辞書確認",
+    "confidence": 0.997
+  },
+  {
+    "id": "en-04209",
+    "headword": "affected",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "answer": "影響された",
+    "exampleEvidence": "I was affected by the heat.",
+    "dictionaryEvidence": [
+      {
+        "source": "OEWN",
+        "pos": [
+          "adjective"
+        ]
+      },
+      {
+        "source": "Kaikki-en subset",
+        "pos": [
+          "adjective",
+          "noun",
+          "verb"
+        ]
+      }
+    ],
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,noun,verb]に形容詞あり・現タグ『名詞』不一致・2辞書確認",
+    "confidence": 0.997
+  },
+  {
+    "id": "en-04880",
+    "headword": "exciting",
+    "field": "tags",
+    "before": [
+      "動詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "answer": "わくわくする",
+    "exampleEvidence": "The soccer game was exciting from the start.",
+    "dictionaryEvidence": [
+      {
+        "source": "OEWN",
+        "pos": [
+          "adjective"
+        ]
+      },
+      {
+        "source": "Kaikki-en subset",
+        "pos": [
+          "verb",
+          "adjective",
+          "noun"
+        ]
+      }
+    ],
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,verb,noun]に形容詞あり・現タグ『動詞』不一致・2辞書確認",
+    "confidence": 0.997
+  },
+  {
+    "id": "en-04921",
+    "headword": "incorporated",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "answer": "法人組織の，組み込まれた",
+    "exampleEvidence": "Her business was incorporated.",
+    "dictionaryEvidence": [
+      {
+        "source": "OEWN",
+        "pos": [
+          "adjective"
+        ]
+      },
+      {
+        "source": "Kaikki-en subset",
+        "pos": [
+          "adjective",
+          "verb"
+        ]
+      }
+    ],
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,verb]に形容詞あり・現タグ『名詞』不一致・2辞書確認",
+    "confidence": 0.997
+  },
+  {
+    "id": "en-05213",
+    "headword": "satisfied",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "answer": "満足した",
+    "exampleEvidence": "She was satisfied with her test score.",
+    "dictionaryEvidence": [
+      {
+        "source": "OEWN",
+        "pos": [
+          "adjective"
+        ]
+      },
+      {
+        "source": "Kaikki-en subset",
+        "pos": [
+          "verb",
+          "adjective"
+        ]
+      }
+    ],
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,verb]に形容詞あり・現タグ『名詞』不一致・2辞書確認",
+    "confidence": 0.997
+  },
+  {
+    "id": "en-05295",
+    "headword": "restricted",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "answer": "制限された",
+    "exampleEvidence": "Entry to this area is restricted to staff.",
+    "dictionaryEvidence": [
+      {
+        "source": "OEWN",
+        "pos": [
+          "adjective"
+        ]
+      },
+      {
+        "source": "Kaikki-en subset",
+        "pos": [
+          "verb",
+          "adjective"
+        ]
+      }
+    ],
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,verb]に形容詞あり・現タグ『名詞』不一致・2辞書確認",
+    "confidence": 0.997
+  },
+  {
+    "id": "en-05716",
+    "headword": "liable",
+    "field": "tags",
+    "before": [
+      "動詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "answer": "責任のある",
+    "exampleEvidence": "Drivers are liable for any damage they cause.",
+    "dictionaryEvidence": [
+      {
+        "source": "OEWN",
+        "pos": [
+          "adjective"
+        ]
+      },
+      {
+        "source": "Kaikki-en subset",
+        "pos": [
+          "adjective"
+        ]
+      }
+    ],
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective]に形容詞あり・現タグ『動詞』不一致・2辞書確認",
+    "confidence": 0.997
+  },
+  {
+    "id": "en-05954",
+    "headword": "tired",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "answer": "疲れた",
+    "exampleEvidence": "I was tired after the long walk.",
+    "dictionaryEvidence": [
+      {
+        "source": "OEWN",
+        "pos": [
+          "adjective"
+        ]
+      },
+      {
+        "source": "Kaikki-en subset",
+        "pos": [
+          "verb",
+          "adjective"
+        ]
+      }
+    ],
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,verb]に形容詞あり・現タグ『名詞』不一致・2辞書確認",
+    "confidence": 0.997
+  },
+  {
+    "id": "en-05977",
+    "headword": "resistant",
+    "field": "tags",
+    "before": [
+      "動詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "answer": "抵抗力のある",
+    "exampleEvidence": "This plant is resistant to cold weather.",
+    "dictionaryEvidence": [
+      {
+        "source": "OEWN",
+        "pos": [
+          "adjective"
+        ]
+      },
+      {
+        "source": "Kaikki-en subset",
+        "pos": [
+          "noun",
+          "adjective"
+        ]
+      }
+    ],
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,noun]に形容詞あり・現タグ『動詞』不一致・2辞書確認",
+    "confidence": 0.997
+  },
+  {
+    "id": "en-06241",
+    "headword": "sucking",
+    "field": "tags",
+    "before": [
+      "動詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "answer": "吸い込む",
+    "exampleEvidence": "The baby is sucking his finger.",
+    "dictionaryEvidence": [
+      {
+        "source": "OEWN",
+        "pos": [
+          "noun"
+        ]
+      },
+      {
+        "source": "Kaikki-en subset",
+        "pos": [
+          "verb",
+          "noun",
+          "adjective"
+        ]
+      }
+    ],
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[noun,verb,adjective]に形容詞あり・現タグ『動詞』不一致・2辞書確認",
+    "confidence": 0.997
+  },
+  {
+    "id": "en-06298",
+    "headword": "surprised",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "answer": "驚いた",
+    "exampleEvidence": "She was surprised at the sudden news.",
+    "dictionaryEvidence": [
+      {
+        "source": "OEWN",
+        "pos": [
+          "adjective"
+        ]
+      },
+      {
+        "source": "Kaikki-en subset",
+        "pos": [
+          "adjective",
+          "verb"
+        ]
+      }
+    ],
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,verb]に形容詞あり・現タグ『名詞』不一致・2辞書確認",
+    "confidence": 0.997
+  },
+  {
+    "id": "en-06374",
+    "headword": "faced",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "answer": "面した",
+    "exampleEvidence": "We are faced with many difficulties.",
+    "dictionaryEvidence": [
+      {
+        "source": "OEWN",
+        "pos": [
+          "adjective"
+        ]
+      },
+      {
+        "source": "Kaikki-en subset",
+        "pos": [
+          "verb",
+          "adjective"
+        ]
+      }
+    ],
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,verb]に形容詞あり・現タグ『名詞』不一致・2辞書確認",
+    "confidence": 0.997
+  },
+  {
+    "id": "en-06411",
+    "headword": "adjacent",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "answer": "隣接した",
+    "exampleEvidence": "Our school is adjacent to a large park.",
+    "dictionaryEvidence": [
+      {
+        "source": "OEWN",
+        "pos": [
+          "adjective"
+        ]
+      },
+      {
+        "source": "Kaikki-en subset",
+        "pos": [
+          "adjective",
+          "noun",
+          "preposition"
+        ]
+      }
+    ],
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,noun,preposition]に形容詞あり・現タグ『名詞』不一致・2辞書確認",
+    "confidence": 0.997
+  },
+  {
+    "id": "en-06499",
+    "headword": "excited",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "answer": "興奮した",
+    "exampleEvidence": "The children were excited about the school trip.",
+    "dictionaryEvidence": [
+      {
+        "source": "OEWN",
+        "pos": [
+          "adjective"
+        ]
+      },
+      {
+        "source": "Kaikki-en subset",
+        "pos": [
+          "adjective",
+          "verb"
+        ]
+      }
+    ],
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,verb]に形容詞あり・現タグ『名詞』不一致・2辞書確認",
+    "confidence": 0.997
+  },
+  {
+    "id": "en-06683",
+    "headword": "wondering",
+    "field": "tags",
+    "before": [
+      "動詞"
+    ],
+    "after": [
+      "名詞"
+    ],
+    "answer": "不思議に思う",
+    "exampleEvidence": "The picture set her wondering.",
+    "dictionaryEvidence": [
+      {
+        "source": "OEWN",
+        "pos": [
+          "adjective"
+        ]
+      },
+      {
+        "source": "Kaikki-en subset",
+        "pos": [
+          "verb",
+          "noun",
+          "adjective"
+        ]
+      }
+    ],
+    "reason": "例文で見出し語は名詞として使用・辞書和集合[adjective,verb,noun]に名詞あり・現タグ『動詞』不一致・2辞書確認",
+    "confidence": 0.997
+  },
+  {
+    "id": "en-06725",
+    "headword": "ripe",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "answer": "熟した",
+    "exampleEvidence": "These bananas are ripe and sweet.",
+    "dictionaryEvidence": [
+      {
+        "source": "OEWN",
+        "pos": [
+          "adjective"
+        ]
+      },
+      {
+        "source": "Kaikki-en subset",
+        "pos": [
+          "adjective",
+          "noun",
+          "verb",
+          "proper noun"
+        ]
+      }
+    ],
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,noun,verb,proper noun]に形容詞あり・現タグ『名詞』不一致・2辞書確認",
+    "confidence": 0.997
+  },
+  {
+    "id": "en-06784",
+    "headword": "accredited",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "answer": "一般に認められた",
+    "exampleEvidence": "He was accredited with these words.",
+    "dictionaryEvidence": [
+      {
+        "source": "OEWN",
+        "pos": [
+          "adjective"
+        ]
+      },
+      {
+        "source": "Kaikki-en subset",
+        "pos": [
+          "verb",
+          "adjective"
+        ]
+      }
+    ],
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,verb]に形容詞あり・現タグ『名詞』不一致・2辞書確認",
+    "confidence": 0.997
+  },
+  {
+    "id": "en-06937",
+    "headword": "confused",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "answer": "混乱した",
+    "exampleEvidence": "I was confused by the difficult question.",
+    "dictionaryEvidence": [
+      {
+        "source": "OEWN",
+        "pos": [
+          "adjective"
+        ]
+      },
+      {
+        "source": "Kaikki-en subset",
+        "pos": [
+          "verb",
+          "adjective"
+        ]
+      }
+    ],
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,verb]に形容詞あり・現タグ『名詞』不一致・2辞書確認",
+    "confidence": 0.997
+  },
+  {
+    "id": "en-07036",
+    "headword": "alleged",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "answer": "申し立てられた",
+    "exampleEvidence": "He is alleged to have been a thief.",
+    "dictionaryEvidence": [
+      {
+        "source": "OEWN",
+        "pos": [
+          "adjective"
+        ]
+      },
+      {
+        "source": "Kaikki-en subset",
+        "pos": [
+          "verb",
+          "adjective"
+        ]
+      }
+    ],
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,verb]に形容詞あり・現タグ『名詞』不一致・2辞書確認",
+    "confidence": 0.997
+  },
+  {
+    "id": "en-07567",
+    "headword": "durable",
+    "field": "tags",
+    "before": [
+      "動詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "answer": "耐久性のある",
+    "exampleEvidence": "These boots are durable and last for years.",
+    "dictionaryEvidence": [
+      {
+        "source": "OEWN",
+        "pos": [
+          "adjective"
+        ]
+      },
+      {
+        "source": "Kaikki-en subset",
+        "pos": [
+          "adjective",
+          "noun"
+        ]
+      }
+    ],
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,noun]に形容詞あり・現タグ『動詞』不一致・2辞書確認",
+    "confidence": 0.997
+  },
+  {
+    "id": "en-07673",
+    "headword": "disturbed",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "answer": "動揺した，心を乱された",
+    "exampleEvidence": "I don't like to be disturbed.",
+    "dictionaryEvidence": [
+      {
+        "source": "OEWN",
+        "pos": [
+          "adjective"
+        ]
+      },
+      {
+        "source": "Kaikki-en subset",
+        "pos": [
+          "adjective",
+          "verb"
+        ]
+      }
+    ],
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,verb]に形容詞あり・現タグ『名詞』不一致・2辞書確認",
+    "confidence": 0.997
+  },
+  {
+    "id": "en-08050",
+    "headword": "satisfactory",
+    "field": "tags",
+    "before": [
+      "動詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "answer": "満足のいく",
+    "exampleEvidence": "Her test results were satisfactory this term.",
+    "dictionaryEvidence": [
+      {
+        "source": "OEWN",
+        "pos": [
+          "adjective"
+        ]
+      },
+      {
+        "source": "Kaikki-en subset",
+        "pos": [
+          "adjective",
+          "noun"
+        ]
+      }
+    ],
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,noun]に形容詞あり・現タグ『動詞』不一致・2辞書確認",
+    "confidence": 0.997
+  },
+  {
+    "id": "en-08102",
+    "headword": "instrumental",
+    "field": "tags",
+    "before": [
+      "動詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "answer": "役立つ",
+    "exampleEvidence": "Her advice was instrumental in our success.",
+    "dictionaryEvidence": [
+      {
+        "source": "OEWN",
+        "pos": [
+          "adjective"
+        ]
+      },
+      {
+        "source": "Kaikki-en subset",
+        "pos": [
+          "adjective",
+          "noun"
+        ]
+      }
+    ],
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,noun]に形容詞あり・現タグ『動詞』不一致・2辞書確認",
+    "confidence": 0.997
+  },
+  {
+    "id": "en-08660",
+    "headword": "assured",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "answer": "保証された",
+    "exampleEvidence": "Every guest is assured of a warm room.",
+    "dictionaryEvidence": [
+      {
+        "source": "OEWN",
+        "pos": [
+          "adjective"
+        ]
+      },
+      {
+        "source": "Kaikki-en subset",
+        "pos": [
+          "verb",
+          "adjective",
+          "noun"
+        ]
+      }
+    ],
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,verb,noun]に形容詞あり・現タグ『名詞』不一致・2辞書確認",
+    "confidence": 0.997
+  },
+  {
+    "id": "en-08663",
+    "headword": "conscious",
+    "field": "tags",
+    "before": [
+      "動詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "answer": "意識のある",
+    "exampleEvidence": "The patient was conscious and able to speak.",
+    "dictionaryEvidence": [
+      {
+        "source": "OEWN",
+        "pos": [
+          "adjective"
+        ]
+      },
+      {
+        "source": "Kaikki-en subset",
+        "pos": [
+          "adjective",
+          "noun"
+        ]
+      }
+    ],
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,noun]に形容詞あり・現タグ『動詞』不一致・2辞書確認",
+    "confidence": 0.997
+  },
+  {
+    "id": "en-08992",
+    "headword": "sticky",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "answer": "ねばねばした",
+    "exampleEvidence": "My hands became sticky from the honey.",
+    "dictionaryEvidence": [
+      {
+        "source": "OEWN",
+        "pos": [
+          "adjective"
+        ]
+      },
+      {
+        "source": "Kaikki-en subset",
+        "pos": [
+          "adjective",
+          "noun",
+          "verb"
+        ]
+      }
+    ],
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,noun,verb]に形容詞あり・現タグ『名詞』不一致・2辞書確認",
+    "confidence": 0.997
+  },
+  {
+    "id": "en-09399",
+    "headword": "disappointed",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "answer": "失望した",
+    "exampleEvidence": "She was disappointed with the test results.",
+    "dictionaryEvidence": [
+      {
+        "source": "OEWN",
+        "pos": [
+          "adjective"
+        ]
+      },
+      {
+        "source": "Kaikki-en subset",
+        "pos": [
+          "adjective",
+          "verb"
+        ]
+      }
+    ],
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,verb]に形容詞あり・現タグ『名詞』不一致・2辞書確認",
+    "confidence": 0.997
+  },
+  {
+    "id": "en-09440",
+    "headword": "fuzzy",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "answer": "ぼやけた",
+    "exampleEvidence": "The old photo is too fuzzy to see the faces.",
+    "dictionaryEvidence": [
+      {
+        "source": "OEWN",
+        "pos": [
+          "adjective"
+        ]
+      },
+      {
+        "source": "Kaikki-en subset",
+        "pos": [
+          "adjective",
+          "noun"
+        ]
+      }
+    ],
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,noun]に形容詞あり・現タグ『名詞』不一致・2辞書確認",
+    "confidence": 0.997
+  },
+  {
+    "id": "en-20044",
+    "headword": "ruined",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "answer": "破滅した",
+    "exampleEvidence": "He will be ruined for life.",
+    "dictionaryEvidence": [
+      {
+        "source": "OEWN",
+        "pos": [
+          "adjective"
+        ]
+      },
+      {
+        "source": "Kaikki-en subset",
+        "pos": [
+          "verb",
+          "adjective"
+        ]
+      }
+    ],
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,verb]に形容詞あり・現タグ『名詞』不一致・2辞書確認",
+    "confidence": 0.997
+  },
+  {
+    "id": "en-20178",
+    "headword": "exhausted",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "answer": "疲れ果てた",
+    "exampleEvidence": "The runners were exhausted after the long race.",
+    "dictionaryEvidence": [
+      {
+        "source": "OEWN",
+        "pos": [
+          "adjective"
+        ]
+      },
+      {
+        "source": "Kaikki-en subset",
+        "pos": [
+          "adjective",
+          "verb"
+        ]
+      }
+    ],
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,verb]に形容詞あり・現タグ『名詞』不一致・2辞書確認",
+    "confidence": 0.997
+  },
+  {
+    "id": "en-20227",
+    "headword": "fond",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "answer": "〜が好きで",
+    "exampleEvidence": "My aunt is fond of classical music.",
+    "dictionaryEvidence": [
+      {
+        "source": "OEWN",
+        "pos": [
+          "adjective"
+        ]
+      },
+      {
+        "source": "Kaikki-en subset",
+        "pos": [
+          "adjective",
+          "verb",
+          "noun"
+        ]
+      }
+    ],
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,verb,noun]に形容詞あり・現タグ『名詞』不一致・2辞書確認",
+    "confidence": 0.997
+  },
+  {
+    "id": "en-20315",
+    "headword": "relieved",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "answer": "ほっとした",
+    "exampleEvidence": "I was relieved to find my lost wallet.",
+    "dictionaryEvidence": [
+      {
+        "source": "OEWN",
+        "pos": [
+          "adjective"
+        ]
+      },
+      {
+        "source": "Kaikki-en subset",
+        "pos": [
+          "adjective",
+          "verb"
+        ]
+      }
+    ],
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,verb]に形容詞あり・現タグ『名詞』不一致・2辞書確認",
+    "confidence": 0.997
+  },
+  {
+    "id": "en-20477",
+    "headword": "inviting",
+    "field": "tags",
+    "before": [
+      "動詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "answer": "心を引く",
+    "exampleEvidence": "The warm cafe looked inviting on the cold day.",
+    "dictionaryEvidence": [
+      {
+        "source": "OEWN",
+        "pos": [
+          "adjective"
+        ]
+      },
+      {
+        "source": "Kaikki-en subset",
+        "pos": [
+          "adjective",
+          "verb",
+          "noun"
+        ]
+      }
+    ],
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,verb,noun]に形容詞あり・現タグ『動詞』不一致・2辞書確認",
+    "confidence": 0.997
+  },
+  {
+    "id": "en-20485",
+    "headword": "possessed",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "answer": "とりつかれた",
+    "exampleEvidence": "In the story, the old doll seemed possessed.",
+    "dictionaryEvidence": [
+      {
+        "source": "OEWN",
+        "pos": [
+          "adjective"
+        ]
+      },
+      {
+        "source": "Kaikki-en subset",
+        "pos": [
+          "verb",
+          "adjective"
+        ]
+      }
+    ],
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,verb]に形容詞あり・現タグ『名詞』不一致・2辞書確認",
+    "confidence": 0.997
+  },
+  {
+    "id": "en-20654",
+    "headword": "suspenseful",
+    "field": "tags",
+    "before": [
+      "動詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "answer": "ハラハラする",
+    "exampleEvidence": "The last part of the movie was very suspenseful.",
+    "dictionaryEvidence": [
+      {
+        "source": "OEWN",
+        "pos": [
+          "adjective"
+        ]
+      },
+      {
+        "source": "Kaikki-en subset",
+        "pos": [
+          "adjective"
+        ]
+      }
+    ],
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective]に形容詞あり・現タグ『動詞』不一致・2辞書確認",
+    "confidence": 0.997
+  },
+  {
+    "id": "en-20771",
+    "headword": "destined",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "answer": "運命づけられた",
+    "exampleEvidence": "She seemed destined to become a great singer.",
+    "dictionaryEvidence": [
+      {
+        "source": "OEWN",
+        "pos": [
+          "adjective"
+        ]
+      },
+      {
+        "source": "Kaikki-en subset",
+        "pos": [
+          "adjective",
+          "verb"
+        ]
+      }
+    ],
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,verb]に形容詞あり・現タグ『名詞』不一致・2辞書確認",
+    "confidence": 0.997
+  },
+  {
+    "id": "en-20904",
+    "headword": "acquaintance",
+    "field": "tags",
+    "before": [
+      "形容詞"
+    ],
+    "after": [
+      "名詞"
+    ],
+    "answer": "知り合い",
+    "exampleEvidence": "He is an acquaintance from my old job.",
+    "dictionaryEvidence": [
+      {
+        "source": "OEWN",
+        "pos": [
+          "noun"
+        ]
+      },
+      {
+        "source": "Kaikki-en subset",
+        "pos": [
+          "noun"
+        ]
+      }
+    ],
+    "reason": "例文で見出し語は名詞として使用・辞書和集合[noun]に名詞あり・現タグ『形容詞』不一致・2辞書確認",
+    "confidence": 0.997
+  },
+  {
+    "id": "en-20909",
+    "headword": "cupboard",
+    "field": "tags",
+    "before": [
+      "形容詞"
+    ],
+    "after": [
+      "名詞"
+    ],
+    "answer": "食器だな",
+    "exampleEvidence": "The clean plates are in the cupboard.",
+    "dictionaryEvidence": [
+      {
+        "source": "OEWN",
+        "pos": [
+          "noun"
+        ]
+      },
+      {
+        "source": "Kaikki-en subset",
+        "pos": [
+          "noun",
+          "verb"
+        ]
+      }
+    ],
+    "reason": "例文で見出し語は名詞として使用・辞書和集合[noun,verb]に名詞あり・現タグ『形容詞』不一致・2辞書確認",
+    "confidence": 0.997
+  },
+  {
+    "id": "en-21181",
+    "headword": "relaxing",
+    "field": "tags",
+    "before": [
+      "動詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "answer": "リラックスさせる",
+    "exampleEvidence": "A warm bath is relaxing after work.",
+    "dictionaryEvidence": [
+      {
+        "source": "OEWN",
+        "pos": [
+          "adjective"
+        ]
+      },
+      {
+        "source": "Kaikki-en subset",
+        "pos": [
+          "adjective",
+          "verb",
+          "noun"
+        ]
+      }
+    ],
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,verb,noun]に形容詞あり・現タグ『動詞』不一致・2辞書確認",
+    "confidence": 0.997
+  },
+  {
+    "id": "en-21225",
+    "headword": "errand",
+    "field": "tags",
+    "before": [
+      "形容詞"
+    ],
+    "after": [
+      "名詞"
+    ],
+    "answer": "使い",
+    "exampleEvidence": "Mother sent me on an errand to the store.",
+    "dictionaryEvidence": [
+      {
+        "source": "OEWN",
+        "pos": [
+          "noun"
+        ]
+      },
+      {
+        "source": "Kaikki-en subset",
+        "pos": [
+          "noun",
+          "verb"
+        ]
+      }
+    ],
+    "reason": "例文で見出し語は名詞として使用・辞書和集合[noun,verb]に名詞あり・現タグ『形容詞』不一致・2辞書確認",
+    "confidence": 0.997
+  },
+  {
+    "id": "en-21265",
+    "headword": "shoo",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "動詞"
+    ],
+    "answer": "シイ!",
+    "exampleEvidence": "He shooed the flies away.",
+    "dictionaryEvidence": [
+      {
+        "source": "OEWN",
+        "pos": [
+          "verb"
+        ]
+      },
+      {
+        "source": "Kaikki-en subset",
+        "pos": [
+          "verb",
+          "interjection",
+          "pronoun"
+        ]
+      }
+    ],
+    "reason": "例文で見出し語は動詞として使用・辞書和集合[verb,interjection,pronoun]に動詞あり・現タグ『名詞』不一致・2辞書確認",
+    "confidence": 0.997
+  },
+  {
+    "id": "en-21314",
+    "headword": "astonishing",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "answer": "驚くべき",
+    "exampleEvidence": "The magician's last trick was astonishing.",
+    "dictionaryEvidence": [
+      {
+        "source": "OEWN",
+        "pos": [
+          "adjective"
+        ]
+      },
+      {
+        "source": "Kaikki-en subset",
+        "pos": [
+          "adjective",
+          "verb"
+        ]
+      }
+    ],
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,verb]に形容詞あり・現タグ『名詞』不一致・2辞書確認",
+    "confidence": 0.997
+  },
+  {
+    "id": "en-21327",
+    "headword": "concussion",
+    "field": "tags",
+    "before": [
+      "動詞"
+    ],
+    "after": [
+      "名詞"
+    ],
+    "answer": "脳震とう",
+    "exampleEvidence": "The player rested for weeks after a concussion.",
+    "dictionaryEvidence": [
+      {
+        "source": "OEWN",
+        "pos": [
+          "noun"
+        ]
+      },
+      {
+        "source": "Kaikki-en subset",
+        "pos": [
+          "noun"
+        ]
+      }
+    ],
+    "reason": "例文で見出し語は名詞として使用・辞書和集合[noun]に名詞あり・現タグ『動詞』不一致・2辞書確認",
+    "confidence": 0.997
+  },
+  {
+    "id": "en-21409",
+    "headword": "refreshing",
+    "field": "tags",
+    "before": [
+      "動詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "answer": "気分を一新させる",
+    "exampleEvidence": "A cold shower is refreshing after exercise.",
+    "dictionaryEvidence": [
+      {
+        "source": "OEWN",
+        "pos": [
+          "adjective"
+        ]
+      },
+      {
+        "source": "Kaikki-en subset",
+        "pos": [
+          "adjective",
+          "noun",
+          "verb"
+        ]
+      }
+    ],
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,noun,verb]に形容詞あり・現タグ『動詞』不一致・2辞書確認",
+    "confidence": 0.997
+  },
+  {
+    "id": "en-21422",
+    "headword": "inspiring",
+    "field": "tags",
+    "before": [
+      "動詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "answer": "人を鼓舞する",
+    "exampleEvidence": "Her speech about the sea was inspiring.",
+    "dictionaryEvidence": [
+      {
+        "source": "OEWN",
+        "pos": [
+          "adjective"
+        ]
+      },
+      {
+        "source": "Kaikki-en subset",
+        "pos": [
+          "adjective",
+          "verb",
+          "noun"
+        ]
+      }
+    ],
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,verb,noun]に形容詞あり・現タグ『動詞』不一致・2辞書確認",
+    "confidence": 0.997
+  },
+  {
+    "id": "en-21429",
+    "headword": "hangover",
+    "field": "tags",
+    "before": [
+      "形容詞"
+    ],
+    "after": [
+      "名詞"
+    ],
+    "answer": "二日酔い",
+    "exampleEvidence": "He drank too much and had a hangover.",
+    "dictionaryEvidence": [
+      {
+        "source": "OEWN",
+        "pos": [
+          "noun"
+        ]
+      },
+      {
+        "source": "Kaikki-en subset",
+        "pos": [
+          "noun"
+        ]
+      }
+    ],
+    "reason": "例文で見出し語は名詞として使用・辞書和集合[noun]に名詞あり・現タグ『形容詞』不一致・2辞書確認",
+    "confidence": 0.997
+  },
+  {
+    "id": "en-21484",
+    "headword": "restroom",
+    "field": "tags",
+    "before": [
+      "形容詞"
+    ],
+    "after": [
+      "名詞"
+    ],
+    "answer": "お手洗い",
+    "exampleEvidence": "The restroom is at the end of the hall.",
+    "dictionaryEvidence": [
+      {
+        "source": "OEWN",
+        "pos": [
+          "noun"
+        ]
+      },
+      {
+        "source": "Kaikki-en subset",
+        "pos": [
+          "noun"
+        ]
+      }
+    ],
+    "reason": "例文で見出し語は名詞として使用・辞書和集合[noun]に名詞あり・現タグ『形容詞』不一致・2辞書確認",
+    "confidence": 0.997
+  },
+  {
+    "id": "en-21538",
+    "headword": "neglected",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "answer": "無視された",
+    "exampleEvidence": "Her warning was neglected by everyone.",
+    "dictionaryEvidence": [
+      {
+        "source": "OEWN",
+        "pos": [
+          "adjective"
+        ]
+      },
+      {
+        "source": "Kaikki-en subset",
+        "pos": [
+          "verb",
+          "adjective"
+        ]
+      }
+    ],
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,verb]に形容詞あり・現タグ『名詞』不一致・2辞書確認",
+    "confidence": 0.997
+  },
+  {
+    "id": "en-21577",
+    "headword": "uptight",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "answer": "緊張した",
+    "exampleEvidence": "He was uptight before the piano contest.",
+    "dictionaryEvidence": [
+      {
+        "source": "OEWN",
+        "pos": [
+          "adjective"
+        ]
+      },
+      {
+        "source": "Kaikki-en subset",
+        "pos": [
+          "adjective",
+          "noun"
+        ]
+      }
+    ],
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,noun]に形容詞あり・現タグ『名詞』不一致・2辞書確認",
+    "confidence": 0.997
+  },
+  {
+    "id": "en-21672",
+    "headword": "extinct",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "answer": "絶滅した",
+    "exampleEvidence": "Dinosaurs became extinct a long time ago.",
+    "dictionaryEvidence": [
+      {
+        "source": "OEWN",
+        "pos": [
+          "adjective"
+        ]
+      },
+      {
+        "source": "Kaikki-en subset",
+        "pos": [
+          "adjective",
+          "verb",
+          "noun"
+        ]
+      }
+    ],
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,verb,noun]に形容詞あり・現タグ『名詞』不一致・2辞書確認",
+    "confidence": 0.997
+  },
+  {
+    "id": "en-21766",
+    "headword": "disconnected",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "answer": "切断された",
+    "exampleEvidence": "The phone line was disconnected during the storm.",
+    "dictionaryEvidence": [
+      {
+        "source": "OEWN",
+        "pos": [
+          "adjective"
+        ]
+      },
+      {
+        "source": "Kaikki-en subset",
+        "pos": [
+          "adjective",
+          "verb"
+        ]
+      }
+    ],
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,verb]に形容詞あり・現タグ『名詞』不一致・2辞書確認",
+    "confidence": 0.997
+  },
+  {
+    "id": "en-21783",
+    "headword": "accustomed",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "answer": "慣れた",
+    "exampleEvidence": "She is accustomed to getting up early.",
+    "dictionaryEvidence": [
+      {
+        "source": "OEWN",
+        "pos": [
+          "adjective"
+        ]
+      },
+      {
+        "source": "Kaikki-en subset",
+        "pos": [
+          "adjective",
+          "verb"
+        ]
+      }
+    ],
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,verb]に形容詞あり・現タグ『名詞』不一致・2辞書確認",
+    "confidence": 0.997
+  },
+  {
+    "id": "en-21801",
+    "headword": "justified",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "answer": "正当化された",
+    "exampleEvidence": "The extra cost was justified by the good results.",
+    "dictionaryEvidence": [
+      {
+        "source": "OEWN",
+        "pos": [
+          "adjective"
+        ]
+      },
+      {
+        "source": "Kaikki-en subset",
+        "pos": [
+          "adjective",
+          "verb"
+        ]
+      }
+    ],
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,verb]に形容詞あり・現タグ『名詞』不一致・2辞書確認",
+    "confidence": 0.997
+  },
+  {
+    "id": "en-21833",
+    "headword": "admirable",
+    "field": "tags",
+    "before": [
+      "動詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "answer": "賞賛に値する",
+    "exampleEvidence": "Her patience with the children is admirable.",
+    "dictionaryEvidence": [
+      {
+        "source": "OEWN",
+        "pos": [
+          "adjective"
+        ]
+      },
+      {
+        "source": "Kaikki-en subset",
+        "pos": [
+          "adjective",
+          "noun"
+        ]
+      }
+    ],
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,noun]に形容詞あり・現タグ『動詞』不一致・2辞書確認",
+    "confidence": 0.997
+  },
+  {
+    "id": "en-21841",
+    "headword": "irritating",
+    "field": "tags",
+    "before": [
+      "動詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "answer": "いらだたせる",
+    "exampleEvidence": "The constant noise from the road is irritating.",
+    "dictionaryEvidence": [
+      {
+        "source": "OEWN",
+        "pos": [
+          "adjective"
+        ]
+      },
+      {
+        "source": "Kaikki-en subset",
+        "pos": [
+          "adjective",
+          "verb"
+        ]
+      }
+    ],
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,verb]に形容詞あり・現タグ『動詞』不一致・2辞書確認",
+    "confidence": 0.997
+  },
+  {
+    "id": "en-21921",
+    "headword": "dresser",
+    "field": "tags",
+    "before": [
+      "動詞"
+    ],
+    "after": [
+      "名詞"
+    ],
+    "answer": "整理だんす",
+    "exampleEvidence": "She keeps her sweaters in the dresser.",
+    "dictionaryEvidence": [
+      {
+        "source": "OEWN",
+        "pos": [
+          "noun"
+        ]
+      },
+      {
+        "source": "Kaikki-en subset",
+        "pos": [
+          "noun",
+          "proper noun"
+        ]
+      }
+    ],
+    "reason": "例文で見出し語は名詞として使用・辞書和集合[noun,proper noun]に名詞あり・現タグ『動詞』不一致・2辞書確認",
+    "confidence": 0.997
+  },
+  {
+    "id": "en-22093",
+    "headword": "shaky",
+    "field": "tags",
+    "before": [
+      "動詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "answer": "揺れる",
+    "exampleEvidence": "The old ladder feels shaky, so be careful.",
+    "dictionaryEvidence": [
+      {
+        "source": "OEWN",
+        "pos": [
+          "adjective"
+        ]
+      },
+      {
+        "source": "Kaikki-en subset",
+        "pos": [
+          "adjective"
+        ]
+      }
+    ],
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective]に形容詞あり・現タグ『動詞』不一致・2辞書確認",
+    "confidence": 0.997
+  },
+  {
+    "id": "en-22194",
+    "headword": "satisfying",
+    "field": "tags",
+    "before": [
+      "動詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "answer": "満足を与える",
+    "exampleEvidence": "A warm meal is satisfying after hard work.",
+    "dictionaryEvidence": [
+      {
+        "source": "OEWN",
+        "pos": [
+          "adjective"
+        ]
+      },
+      {
+        "source": "Kaikki-en subset",
+        "pos": [
+          "adjective",
+          "verb"
+        ]
+      }
+    ],
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,verb]に形容詞あり・現タグ『動詞』不一致・2辞書確認",
+    "confidence": 0.997
+  },
+  {
+    "id": "en-22325",
+    "headword": "chaotic",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "answer": "混沌とした",
+    "exampleEvidence": "The station was chaotic during the holiday rush.",
+    "dictionaryEvidence": [
+      {
+        "source": "OEWN",
+        "pos": [
+          "adjective"
+        ]
+      },
+      {
+        "source": "Kaikki-en subset",
+        "pos": [
+          "adjective",
+          "noun"
+        ]
+      }
+    ],
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,noun]に形容詞あり・現タグ『名詞』不一致・2辞書確認",
+    "confidence": 0.997
+  },
+  {
+    "id": "en-22394",
+    "headword": "kinky",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "answer": "よじれた",
+    "exampleEvidence": "My hair got kinky.",
+    "dictionaryEvidence": [
+      {
+        "source": "OEWN",
+        "pos": [
+          "adjective"
+        ]
+      },
+      {
+        "source": "Kaikki-en subset",
+        "pos": [
+          "adjective"
+        ]
+      }
+    ],
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective]に形容詞あり・現タグ『名詞』不一致・2辞書確認",
+    "confidence": 0.997
+  },
+  {
+    "id": "en-22454",
+    "headword": "flushed",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "answer": "上気して",
+    "exampleEvidence": "He was flushed with excitement.",
+    "dictionaryEvidence": [
+      {
+        "source": "OEWN",
+        "pos": [
+          "adjective"
+        ]
+      },
+      {
+        "source": "Kaikki-en subset",
+        "pos": [
+          "adjective",
+          "verb"
+        ]
+      }
+    ],
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,verb]に形容詞あり・現タグ『名詞』不一致・2辞書確認",
+    "confidence": 0.997
+  },
+  {
+    "id": "en-22474",
+    "headword": "accountable",
+    "field": "tags",
+    "before": [
+      "動詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "answer": "説明責任のある",
+    "exampleEvidence": "Leaders are accountable for their decisions.",
+    "dictionaryEvidence": [
+      {
+        "source": "OEWN",
+        "pos": [
+          "adjective"
+        ]
+      },
+      {
+        "source": "Kaikki-en subset",
+        "pos": [
+          "adjective"
+        ]
+      }
+    ],
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective]に形容詞あり・現タグ『動詞』不一致・2辞書確認",
+    "confidence": 0.997
+  },
+  {
+    "id": "en-22489",
+    "headword": "tacky",
+    "field": "tags",
+    "before": [
+      "動詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "answer": "ねばねばする",
+    "exampleEvidence": "Because he thought Fred's comment was tacky, Larry got up on his high horse.",
+    "dictionaryEvidence": [
+      {
+        "source": "OEWN",
+        "pos": [
+          "adjective"
+        ]
+      },
+      {
+        "source": "Kaikki-en subset",
+        "pos": [
+          "adjective",
+          "noun"
+        ]
+      }
+    ],
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,noun]に形容詞あり・現タグ『動詞』不一致・2辞書確認",
+    "confidence": 0.997
+  },
+  {
+    "id": "en-22533",
+    "headword": "sorcerer",
+    "field": "tags",
+    "before": [
+      "形容詞"
+    ],
+    "after": [
+      "名詞"
+    ],
+    "answer": "魔法使い",
+    "exampleEvidence": "The sorcerer in the tale turns stones into gold.",
+    "dictionaryEvidence": [
+      {
+        "source": "OEWN",
+        "pos": [
+          "noun"
+        ]
+      },
+      {
+        "source": "Kaikki-en subset",
+        "pos": [
+          "noun"
+        ]
+      }
+    ],
+    "reason": "例文で見出し語は名詞として使用・辞書和集合[noun]に名詞あり・現タグ『形容詞』不一致・2辞書確認",
+    "confidence": 0.997
+  },
+  {
+    "id": "en-22633",
+    "headword": "knack",
+    "field": "tags",
+    "before": [
+      "動詞"
+    ],
+    "after": [
+      "名詞"
+    ],
+    "answer": "こつ",
+    "exampleEvidence": "She has a knack for remembering names.",
+    "dictionaryEvidence": [
+      {
+        "source": "OEWN",
+        "pos": [
+          "noun"
+        ]
+      },
+      {
+        "source": "Kaikki-en subset",
+        "pos": [
+          "noun",
+          "verb",
+          "proper noun"
+        ]
+      }
+    ],
+    "reason": "例文で見出し語は名詞として使用・辞書和集合[noun,verb,proper noun]に名詞あり・現タグ『動詞』不一致・2辞書確認",
+    "confidence": 0.997
+  },
+  {
+    "id": "en-22671",
+    "headword": "delusion",
+    "field": "tags",
+    "before": [
+      "形容詞"
+    ],
+    "after": [
+      "名詞"
+    ],
+    "answer": "思い違い",
+    "exampleEvidence": "His belief that everyone hates him is a delusion.",
+    "dictionaryEvidence": [
+      {
+        "source": "OEWN",
+        "pos": [
+          "noun"
+        ]
+      },
+      {
+        "source": "Kaikki-en subset",
+        "pos": [
+          "noun"
+        ]
+      }
+    ],
+    "reason": "例文で見出し語は名詞として使用・辞書和集合[noun]に名詞あり・現タグ『形容詞』不一致・2辞書確認",
+    "confidence": 0.997
+  },
+  {
+    "id": "en-22694",
+    "headword": "secretive",
+    "field": "tags",
+    "before": [
+      "動詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "answer": "隠しだてする",
+    "exampleEvidence": "He is secretive about his weekend plans.",
+    "dictionaryEvidence": [
+      {
+        "source": "OEWN",
+        "pos": [
+          "adjective"
+        ]
+      },
+      {
+        "source": "Kaikki-en subset",
+        "pos": [
+          "adjective"
+        ]
+      }
+    ],
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective]に形容詞あり・現タグ『動詞』不一致・2辞書確認",
+    "confidence": 0.997
+  },
+  {
+    "id": "en-22777",
+    "headword": "wreckage",
+    "field": "tags",
+    "before": [
+      "形容詞"
+    ],
+    "after": [
+      "名詞"
+    ],
+    "answer": "残がい",
+    "exampleEvidence": "Rescue workers searched the wreckage for survivors.",
+    "dictionaryEvidence": [
+      {
+        "source": "OEWN",
+        "pos": [
+          "noun"
+        ]
+      },
+      {
+        "source": "Kaikki-en subset",
+        "pos": [
+          "noun"
+        ]
+      }
+    ],
+    "reason": "例文で見出し語は名詞として使用・辞書和集合[noun]に名詞あり・現タグ『形容詞』不一致・2辞書確認",
+    "confidence": 0.997
+  },
+  {
+    "id": "en-22852",
+    "headword": "edgy",
+    "field": "tags",
+    "before": [
+      "名詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "answer": "いらいらした",
+    "exampleEvidence": "He gets edgy before every big exam.",
+    "dictionaryEvidence": [
+      {
+        "source": "OEWN",
+        "pos": [
+          "adjective"
+        ]
+      },
+      {
+        "source": "Kaikki-en subset",
+        "pos": [
+          "adjective"
+        ]
+      }
+    ],
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective]に形容詞あり・現タグ『名詞』不一致・2辞書確認",
+    "confidence": 0.997
+  },
+  {
+    "id": "en-22915",
+    "headword": "giddy",
+    "field": "tags",
+    "before": [
+      "動詞"
+    ],
+    "after": [
+      "形容詞"
+    ],
+    "answer": "めまいがする",
+    "exampleEvidence": "The high bridge made me feel giddy.",
+    "dictionaryEvidence": [
+      {
+        "source": "OEWN",
+        "pos": [
+          "adjective"
+        ]
+      },
+      {
+        "source": "Kaikki-en subset",
+        "pos": [
+          "adjective",
+          "noun",
+          "verb",
+          "proper noun"
+        ]
+      }
+    ],
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,noun,verb,proper noun]に形容詞あり・現タグ『動詞』不一致・2辞書確認",
+    "confidence": 0.997
+  }
+]

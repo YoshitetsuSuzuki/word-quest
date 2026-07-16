@@ -1,0 +1,2700 @@
+[
+  {
+    "id": "en-00121",
+    "language": "english",
+    "headword": "before",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "の前に",
+    "example": "Wash your hands before dinner. — 夕食の前に手を洗いなさい。",
+    "exampleForm": "before",
+    "pronunciation": "/ˌbiˈfɔɹ/",
+    "difficulty": 1,
+    "dict1Pos": [
+      "adverb"
+    ],
+    "dict2Pos": [
+      "preposition",
+      "adverb",
+      "conjunction",
+      "noun"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adverb",
+      "preposition",
+      "conjunction",
+      "noun"
+    ],
+    "answerPos": "adverb",
+    "examplePos": null,
+    "decisionStatus": "current_tag_correct",
+    "category": "C",
+    "adoptedTag": null,
+    "confidence": 0,
+    "reason": "例文なし。現タグ『名詞』は辞書品詞集合[adverb,preposition,conjunction,noun]に含まれ多品詞で妥当→変更不要"
+  },
+  {
+    "id": "en-00685",
+    "language": "english",
+    "headword": "sorry",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "申し訳なく思う",
+    "example": "I am sorry for coming late. — 遅れて来て申し訳なく思っています。",
+    "exampleForm": "sorry",
+    "pronunciation": "/ˈsɑɹi/",
+    "difficulty": 1,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective",
+      "interjection",
+      "noun",
+      "verb"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "interjection",
+      "noun",
+      "verb"
+    ],
+    "answerPos": "verb",
+    "examplePos": null,
+    "decisionStatus": "current_tag_correct",
+    "category": "C",
+    "adoptedTag": null,
+    "confidence": 0,
+    "reason": "例文なし。現タグ『動詞』は辞書品詞集合[adjective,interjection,noun,verb]に含まれ多品詞で妥当→変更不要"
+  },
+  {
+    "id": "en-00695",
+    "language": "english",
+    "headword": "whatever",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "何でも",
+    "example": "You can order whatever you like. — 好きなものを何でも注文していいですよ。",
+    "exampleForm": "whatever",
+    "pronunciation": "/ˌhwəˈtɛvɝ/",
+    "difficulty": 1,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "noun",
+      "determiner",
+      "pronoun",
+      "adverb",
+      "interjection",
+      "adjective"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "noun",
+      "determiner",
+      "pronoun",
+      "adverb",
+      "interjection"
+    ],
+    "answerPos": "noun",
+    "examplePos": null,
+    "decisionStatus": "current_tag_correct",
+    "category": "C",
+    "adoptedTag": null,
+    "confidence": 0,
+    "reason": "例文なし。現タグ『名詞』は辞書品詞集合[adjective,noun,determiner,pronoun,adverb,interjection]に含まれ多品詞で妥当→変更不要"
+  },
+  {
+    "id": "en-01826",
+    "language": "english",
+    "headword": "unlike",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "〜と違って",
+    "example": "Unlike my sister, I get up very early. — 姉と違って、私はとても早く起きる。",
+    "exampleForm": "Unlike",
+    "pronunciation": "/ənˈɫaɪk/",
+    "difficulty": 3,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective",
+      "preposition",
+      "noun",
+      "verb"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "preposition",
+      "noun",
+      "verb"
+    ],
+    "answerPos": "noun",
+    "examplePos": null,
+    "decisionStatus": "current_tag_correct",
+    "category": "C",
+    "adoptedTag": null,
+    "confidence": 0,
+    "reason": "例文なし。現タグ『名詞』は辞書品詞集合[adjective,preposition,noun,verb]に含まれ多品詞で妥当→変更不要"
+  },
+  {
+    "id": "en-02320",
+    "language": "english",
+    "headword": "extraordinary",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "並はずれた",
+    "example": "She has an extraordinary memory for numbers. — 彼女は数字について並はずれた記憶力を持っている。",
+    "exampleForm": "extraordinary",
+    "pronunciation": "/ˌɛkstɹəˈɔɹdəˌnɛɹi/",
+    "difficulty": 3,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective",
+      "noun"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "noun"
+    ],
+    "answerPos": "noun",
+    "examplePos": null,
+    "decisionStatus": "current_tag_correct",
+    "category": "C",
+    "adoptedTag": null,
+    "confidence": 0,
+    "reason": "例文なし。現タグ『名詞』は辞書品詞集合[adjective,noun]に含まれ多品詞で妥当→変更不要"
+  },
+  {
+    "id": "en-02549",
+    "language": "english",
+    "headword": "violent",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "暴力による",
+    "example": "The film was banned for its violent scenes. — その映画は暴力による場面のため上映禁止になった。",
+    "exampleForm": "violent",
+    "pronunciation": "/ˈvaɪəɫənt/",
+    "difficulty": 3,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective",
+      "verb",
+      "noun"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "verb",
+      "noun"
+    ],
+    "answerPos": "verb",
+    "examplePos": null,
+    "decisionStatus": "current_tag_correct",
+    "category": "C",
+    "adoptedTag": null,
+    "confidence": 0,
+    "reason": "例文なし。現タグ『動詞』は辞書品詞集合[adjective,verb,noun]に含まれ多品詞で妥当→変更不要"
+  },
+  {
+    "id": "en-02944",
+    "language": "english",
+    "headword": "august",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "威厳のある",
+    "example": "The judge had an august manner. — その裁判官は威厳のある物腰だった。",
+    "exampleForm": "august",
+    "pronunciation": "/ˈɑɡəst/",
+    "difficulty": 4,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective",
+      "verb",
+      "noun",
+      "proper noun"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "verb",
+      "noun",
+      "proper noun"
+    ],
+    "answerPos": "verb",
+    "examplePos": null,
+    "decisionStatus": "current_tag_correct",
+    "category": "C",
+    "adoptedTag": null,
+    "confidence": 0,
+    "reason": "例文なし。現タグ『動詞』は辞書品詞集合[adjective,verb,noun,proper noun]に含まれ多品詞で妥当→変更不要"
+  },
+  {
+    "id": "en-03361",
+    "language": "english",
+    "headword": "interested",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "興味のある",
+    "example": "I am interested in old movies. — 私は古い映画に興味がある。",
+    "exampleForm": "interested",
+    "pronunciation": "/ˈɪntɝəstəd/",
+    "difficulty": 4,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective",
+      "verb"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "verb"
+    ],
+    "answerPos": "verb",
+    "examplePos": null,
+    "decisionStatus": "current_tag_correct",
+    "category": "C",
+    "adoptedTag": null,
+    "confidence": 0,
+    "reason": "例文なし。現タグ『動詞』は辞書品詞集合[adjective,verb]に含まれ多品詞で妥当→変更不要"
+  },
+  {
+    "id": "en-03616",
+    "language": "english",
+    "headword": "covered",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "おおいのある",
+    "example": "We waited under the covered walkway. — 私たちはおおいのある通路の下で待った。",
+    "exampleForm": "covered",
+    "pronunciation": "/ˈkəvɝd/",
+    "difficulty": 4,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective",
+      "verb"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "verb"
+    ],
+    "answerPos": "verb",
+    "examplePos": null,
+    "decisionStatus": "current_tag_correct",
+    "category": "C",
+    "adoptedTag": null,
+    "confidence": 0,
+    "reason": "例文なし。現タグ『動詞』は辞書品詞集合[adjective,verb]に含まれ多品詞で妥当→変更不要"
+  },
+  {
+    "id": "en-04079",
+    "language": "english",
+    "headword": "hidden",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "隠された",
+    "example": "They found a hidden door behind the shelf. — 彼らは棚の後ろに隠された扉を見つけた。",
+    "exampleForm": "hidden",
+    "pronunciation": "/ˈhɪdən/",
+    "difficulty": 4,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "verb",
+      "adjective",
+      "noun",
+      "proper noun"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "verb",
+      "noun",
+      "proper noun"
+    ],
+    "answerPos": "noun",
+    "examplePos": null,
+    "decisionStatus": "current_tag_correct",
+    "category": "C",
+    "adoptedTag": null,
+    "confidence": 0,
+    "reason": "例文なし。現タグ『名詞』は辞書品詞集合[adjective,verb,noun,proper noun]に含まれ多品詞で妥当→変更不要"
+  },
+  {
+    "id": "en-04339",
+    "language": "english",
+    "headword": "qualified",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "資格のある",
+    "example": "Only qualified teachers can give this test. — 資格のある教師だけがこの試験を行える。",
+    "exampleForm": "qualified",
+    "pronunciation": "/ˈkwɑɫəˌfaɪd/",
+    "difficulty": 4,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective",
+      "verb"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "verb"
+    ],
+    "answerPos": "verb",
+    "examplePos": null,
+    "decisionStatus": "current_tag_correct",
+    "category": "C",
+    "adoptedTag": null,
+    "confidence": 0,
+    "reason": "例文なし。現タグ『動詞』は辞書品詞集合[adjective,verb]に含まれ多品詞で妥当→変更不要"
+  },
+  {
+    "id": "en-04541",
+    "language": "english",
+    "headword": "ordered",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "整然とした",
+    "example": "She keeps an ordered and tidy desk. — 彼女は整然とした机を保っている。",
+    "exampleForm": "ordered",
+    "pronunciation": "/ˈɔɹdɝd/",
+    "difficulty": 4,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective",
+      "verb"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "verb"
+    ],
+    "answerPos": "noun",
+    "examplePos": "noun",
+    "decisionStatus": "current_tag_correct",
+    "category": "C",
+    "adoptedTag": null,
+    "confidence": 0,
+    "reason": "例文で見出し語は名詞として使用・現タグ『名詞』と一致→変更不要"
+  },
+  {
+    "id": "en-04836",
+    "language": "english",
+    "headword": "corresponding",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "対応する",
+    "example": "Write the corresponding answer next to each question. — 各問題の横に対応する答えを書きなさい。",
+    "exampleForm": "corresponding",
+    "pronunciation": "/ˌkɔɹəˈspɑndɪŋ/",
+    "difficulty": 4,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "verb",
+      "noun",
+      "adjective"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "verb",
+      "noun"
+    ],
+    "answerPos": "verb",
+    "examplePos": null,
+    "decisionStatus": "current_tag_correct",
+    "category": "C",
+    "adoptedTag": null,
+    "confidence": 0,
+    "reason": "例文なし。現タグ『動詞』は辞書品詞集合[adjective,verb,noun]に含まれ多品詞で妥当→変更不要"
+  },
+  {
+    "id": "en-05251",
+    "language": "english",
+    "headword": "brass",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "真ちゅう",
+    "example": "The door handle is made of brass. — ドアの取っ手は真ちゅうでできている。",
+    "exampleForm": "brass",
+    "pronunciation": "/ˈbɹæs/",
+    "difficulty": 4,
+    "dict1Pos": [
+      "noun"
+    ],
+    "dict2Pos": [
+      "noun",
+      "adjective",
+      "verb"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "noun",
+      "adjective",
+      "verb"
+    ],
+    "answerPos": "verb",
+    "examplePos": null,
+    "decisionStatus": "current_tag_correct",
+    "category": "C",
+    "adoptedTag": null,
+    "confidence": 0,
+    "reason": "例文なし。現タグ『動詞』は辞書品詞集合[noun,adjective,verb]に含まれ多品詞で妥当→変更不要"
+  },
+  {
+    "id": "en-05321",
+    "language": "english",
+    "headword": "casual",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "くだけた",
+    "example": "You can wear casual clothes to the party. — パーティーにはくだけた服装で来てよい。",
+    "exampleForm": "casual",
+    "pronunciation": "/ˈkæʒəwəɫ/",
+    "difficulty": 4,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective",
+      "noun"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "noun"
+    ],
+    "answerPos": "noun",
+    "examplePos": null,
+    "decisionStatus": "current_tag_correct",
+    "category": "C",
+    "adoptedTag": null,
+    "confidence": 0,
+    "reason": "例文なし。現タグ『名詞』は辞書品詞集合[adjective,noun]に含まれ多品詞で妥当→変更不要"
+  },
+  {
+    "id": "en-05883",
+    "language": "english",
+    "headword": "cad",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "きたないやつ",
+    "example": null,
+    "exampleForm": null,
+    "pronunciation": "/ˈkæd/",
+    "difficulty": 4,
+    "dict1Pos": [
+      "noun"
+    ],
+    "dict2Pos": [
+      "noun",
+      "verb"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "noun",
+      "verb"
+    ],
+    "answerPos": "verb",
+    "examplePos": null,
+    "decisionStatus": "current_tag_correct",
+    "category": "C",
+    "adoptedTag": null,
+    "confidence": 0,
+    "reason": "例文なし。現タグ『動詞』は辞書品詞集合[noun,verb]に含まれ多品詞で妥当→変更不要"
+  },
+  {
+    "id": "en-06491",
+    "language": "english",
+    "headword": "midi",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "ミディスカート",
+    "example": null,
+    "exampleForm": null,
+    "pronunciation": "/ˈmidi/",
+    "difficulty": 5,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "proper noun",
+      "noun",
+      "adjective"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "proper noun",
+      "noun"
+    ],
+    "answerPos": "noun",
+    "examplePos": null,
+    "decisionStatus": "current_tag_correct",
+    "category": "C",
+    "adoptedTag": null,
+    "confidence": 0,
+    "reason": "例文なし。現タグ『名詞』は辞書品詞集合[adjective,proper noun,noun]に含まれ多品詞で妥当→変更不要"
+  },
+  {
+    "id": "en-06500",
+    "language": "english",
+    "headword": "outreach",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "支援活動，手を差し伸べること",
+    "example": null,
+    "exampleForm": null,
+    "pronunciation": "/ˈaʊˌtɹitʃ/",
+    "difficulty": 5,
+    "dict1Pos": [
+      "noun"
+    ],
+    "dict2Pos": [
+      "noun",
+      "verb"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "noun",
+      "verb"
+    ],
+    "answerPos": "adverb",
+    "examplePos": null,
+    "decisionStatus": "current_tag_correct",
+    "category": "C",
+    "adoptedTag": null,
+    "confidence": 0,
+    "reason": "例文なし。現タグ『動詞』は辞書品詞集合[noun,verb]に含まれ多品詞で妥当→変更不要"
+  },
+  {
+    "id": "en-06640",
+    "language": "english",
+    "headword": "greeting",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "あいさつ",
+    "example": "She gave me a warm greeting this morning. — 彼女は今朝、わたしに温かいあいさつをしてくれた。",
+    "exampleForm": "greeting",
+    "pronunciation": "/ˈɡɹitɪŋ/",
+    "difficulty": 5,
+    "dict1Pos": [
+      "noun"
+    ],
+    "dict2Pos": [
+      "noun",
+      "verb"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "noun",
+      "verb"
+    ],
+    "answerPos": "verb",
+    "examplePos": null,
+    "decisionStatus": "current_tag_correct",
+    "category": "C",
+    "adoptedTag": null,
+    "confidence": 0,
+    "reason": "例文なし。現タグ『動詞』は辞書品詞集合[noun,verb]に含まれ多品詞で妥当→変更不要"
+  },
+  {
+    "id": "en-07051",
+    "language": "english",
+    "headword": "affecting",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "心を打つ",
+    "example": "The serious job shortage is also affecting those illegal foreign workers. — 深刻な就職難のしわ寄せが、そういった不法就労の外国人労働者にまで及んでいる。",
+    "exampleForm": "affecting",
+    "pronunciation": "/əˈfɛktɪŋ/",
+    "difficulty": 5,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective",
+      "verb"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "verb"
+    ],
+    "answerPos": "verb",
+    "examplePos": null,
+    "decisionStatus": "current_tag_correct",
+    "category": "C",
+    "adoptedTag": null,
+    "confidence": 0,
+    "reason": "例文なし。現タグ『動詞』は辞書品詞集合[adjective,verb]に含まれ多品詞で妥当→変更不要"
+  },
+  {
+    "id": "en-07771",
+    "language": "english",
+    "headword": "encouraging",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "励みになる",
+    "example": "The doctor gave us encouraging news about grandfather. — 医師は祖父について励みになる知らせをくれた。",
+    "exampleForm": "encouraging",
+    "pronunciation": "/ɛnˈkɝɪdʒɪŋ/",
+    "difficulty": 5,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective",
+      "verb",
+      "noun"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "verb",
+      "noun"
+    ],
+    "answerPos": "verb",
+    "examplePos": null,
+    "decisionStatus": "current_tag_correct",
+    "category": "C",
+    "adoptedTag": null,
+    "confidence": 0,
+    "reason": "例文なし。現タグ『動詞』は辞書品詞集合[adjective,verb,noun]に含まれ多品詞で妥当→変更不要"
+  },
+  {
+    "id": "en-08293",
+    "language": "english",
+    "headword": "lasting",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "永続する",
+    "example": "The trip left a lasting memory in my heart. — その旅はわたしの心に永続する思い出を残した。",
+    "exampleForm": "lasting",
+    "pronunciation": "/ˈɫæstɪŋ/",
+    "difficulty": 5,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective",
+      "verb",
+      "noun"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "verb",
+      "noun"
+    ],
+    "answerPos": "verb",
+    "examplePos": null,
+    "decisionStatus": "current_tag_correct",
+    "category": "C",
+    "adoptedTag": null,
+    "confidence": 0,
+    "reason": "例文なし。現タグ『動詞』は辞書品詞集合[adjective,verb,noun]に含まれ多品詞で妥当→変更不要"
+  },
+  {
+    "id": "en-08329",
+    "language": "english",
+    "headword": "preceding",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "先行する",
+    "example": "Read the preceding page before this chapter. — この章の前に先行するページを読みなさい。",
+    "exampleForm": "preceding",
+    "pronunciation": "/pɹiˈsidɪŋ/",
+    "difficulty": 5,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective",
+      "verb"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "verb"
+    ],
+    "answerPos": "verb",
+    "examplePos": null,
+    "decisionStatus": "current_tag_correct",
+    "category": "C",
+    "adoptedTag": null,
+    "confidence": 0,
+    "reason": "例文なし。現タグ『動詞』は辞書品詞集合[adjective,verb]に含まれ多品詞で妥当→変更不要"
+  },
+  {
+    "id": "en-08371",
+    "language": "english",
+    "headword": "blessed",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "祝福された",
+    "example": "The priest spoke of a blessed and peaceful life. — 聖職者は祝福された平和な暮らしについて語った。",
+    "exampleForm": "blessed",
+    "pronunciation": "/ˈbɫɛst/",
+    "difficulty": 5,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective",
+      "verb",
+      "proper noun"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "verb",
+      "proper noun"
+    ],
+    "answerPos": "noun",
+    "examplePos": "noun",
+    "decisionStatus": "current_tag_correct",
+    "category": "C",
+    "adoptedTag": null,
+    "confidence": 0,
+    "reason": "例文で見出し語は名詞として使用・現タグ『名詞』と一致→変更不要"
+  },
+  {
+    "id": "en-08495",
+    "language": "english",
+    "headword": "refined",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "精製された",
+    "example": "This factory produces refined sugar from plants. — この工場は植物から精製された砂糖を作っている。",
+    "exampleForm": "refined",
+    "pronunciation": "/ɹəˈfaɪnd/",
+    "difficulty": 5,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "verb",
+      "adjective",
+      "noun"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "verb",
+      "noun"
+    ],
+    "answerPos": "noun",
+    "examplePos": null,
+    "decisionStatus": "current_tag_correct",
+    "category": "C",
+    "adoptedTag": null,
+    "confidence": 0,
+    "reason": "例文なし。現タグ『名詞』は辞書品詞集合[adjective,verb,noun]に含まれ多品詞で妥当→変更不要"
+  },
+  {
+    "id": "en-08873",
+    "language": "english",
+    "headword": "centered",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "中心に置かれた",
+    "example": "Their talks centered on their trip. — 彼らの話は旅行のことに集中した。",
+    "exampleForm": "centered",
+    "pronunciation": "/ˈsɛntɝd/",
+    "difficulty": 5,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective",
+      "verb"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "verb"
+    ],
+    "answerPos": "noun",
+    "examplePos": null,
+    "decisionStatus": "current_tag_correct",
+    "category": "C",
+    "adoptedTag": null,
+    "confidence": 0,
+    "reason": "例文なし。現タグ『動詞』は辞書品詞集合[adjective,verb]に含まれ多品詞で妥当→変更不要"
+  },
+  {
+    "id": "en-09045",
+    "language": "english",
+    "headword": "educated",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "教養のある",
+    "example": "The educated woman taught the children to read. — その教養のある女性は子どもたちに読み方を教えた。",
+    "exampleForm": "educated",
+    "pronunciation": "/ˈɛdʒəˌkeɪtɪd/",
+    "difficulty": 5,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective",
+      "verb"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "verb"
+    ],
+    "answerPos": "verb",
+    "examplePos": null,
+    "decisionStatus": "current_tag_correct",
+    "category": "C",
+    "adoptedTag": null,
+    "confidence": 0,
+    "reason": "例文なし。現タグ『動詞』は辞書品詞集合[adjective,verb]に含まれ多品詞で妥当→変更不要"
+  },
+  {
+    "id": "en-09170",
+    "language": "english",
+    "headword": "titled",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "肩書きのある",
+    "example": null,
+    "exampleForm": null,
+    "pronunciation": "/ˈtaɪtəɫd/",
+    "difficulty": 5,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective",
+      "verb"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "verb"
+    ],
+    "answerPos": "verb",
+    "examplePos": null,
+    "decisionStatus": "current_tag_correct",
+    "category": "C",
+    "adoptedTag": null,
+    "confidence": 0,
+    "reason": "例文なし。現タグ『動詞』は辞書品詞集合[adjective,verb]に含まれ多品詞で妥当→変更不要"
+  },
+  {
+    "id": "en-09179",
+    "language": "english",
+    "headword": "surprising",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "驚くべき",
+    "example": "The quiz had a surprising number of hard questions. — そのクイズには驚くべき数の難問があった。",
+    "exampleForm": "surprising",
+    "pronunciation": "/səˈpɹaɪzɪŋ/",
+    "difficulty": 5,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "verb",
+      "adjective",
+      "noun"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "verb",
+      "noun"
+    ],
+    "answerPos": "noun",
+    "examplePos": null,
+    "decisionStatus": "current_tag_correct",
+    "category": "C",
+    "adoptedTag": null,
+    "confidence": 0,
+    "reason": "例文なし。現タグ『名詞』は辞書品詞集合[adjective,verb,noun]に含まれ多品詞で妥当→変更不要"
+  },
+  {
+    "id": "en-09213",
+    "language": "english",
+    "headword": "engaging",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "魅力のある",
+    "example": "The speaker told an engaging story about his travels. — 講演者は旅についての魅力のある話をした。",
+    "exampleForm": "engaging",
+    "pronunciation": "/ɛnˈɡeɪdʒɪŋ/",
+    "difficulty": 5,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective",
+      "verb",
+      "noun"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "verb",
+      "noun"
+    ],
+    "answerPos": "verb",
+    "examplePos": null,
+    "decisionStatus": "current_tag_correct",
+    "category": "C",
+    "adoptedTag": null,
+    "confidence": 0,
+    "reason": "例文なし。現タグ『動詞』は辞書品詞集合[adjective,verb,noun]に含まれ多品詞で妥当→変更不要"
+  },
+  {
+    "id": "en-09455",
+    "language": "english",
+    "headword": "thereafter",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "その後",
+    "example": "He moved to the coast and lived there thereafter. — 彼は海岸へ移り、その後そこで暮らした。",
+    "exampleForm": "thereafter",
+    "pronunciation": "/ðɛˈɹæftɝ/",
+    "difficulty": 5,
+    "dict1Pos": [
+      "adverb"
+    ],
+    "dict2Pos": [
+      "adverb",
+      "noun"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adverb",
+      "noun"
+    ],
+    "answerPos": "noun",
+    "examplePos": null,
+    "decisionStatus": "current_tag_correct",
+    "category": "C",
+    "adoptedTag": null,
+    "confidence": 0,
+    "reason": "例文なし。現タグ『名詞』は辞書品詞集合[adverb,noun]に含まれ多品詞で妥当→変更不要"
+  },
+  {
+    "id": "en-20072",
+    "language": "english",
+    "headword": "staring",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "じっと見つめる",
+    "example": "Stop staring at me like that. — そんなふうにジロジロ見るのはやめてくれ。",
+    "exampleForm": "staring",
+    "pronunciation": "/ˈstɛɹɪŋ/",
+    "difficulty": 6,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "verb",
+      "noun",
+      "adjective",
+      "proper noun"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "verb",
+      "noun",
+      "proper noun"
+    ],
+    "answerPos": "verb",
+    "examplePos": null,
+    "decisionStatus": "current_tag_correct",
+    "category": "C",
+    "adoptedTag": null,
+    "confidence": 0,
+    "reason": "例文なし。現タグ『動詞』は辞書品詞集合[adjective,verb,noun,proper noun]に含まれ多品詞で妥当→変更不要"
+  },
+  {
+    "id": "en-20092",
+    "language": "english",
+    "headword": "wasting",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "浪費する，無駄にする",
+    "example": "He didn't approve of wasting time. — 彼は時間を浪費する気にはなれなかった。",
+    "exampleForm": "wasting",
+    "pronunciation": "/ˈweɪstɪŋ/",
+    "difficulty": 6,
+    "dict1Pos": [
+      "noun"
+    ],
+    "dict2Pos": [
+      "verb",
+      "adjective",
+      "noun"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "noun",
+      "verb",
+      "adjective"
+    ],
+    "answerPos": "verb",
+    "examplePos": null,
+    "decisionStatus": "current_tag_correct",
+    "category": "C",
+    "adoptedTag": null,
+    "confidence": 0,
+    "reason": "例文なし。現タグ『動詞』は辞書品詞集合[noun,verb,adjective]に含まれ多品詞で妥当→変更不要"
+  },
+  {
+    "id": "en-20129",
+    "language": "english",
+    "headword": "underneath",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "〜の下に",
+    "example": "The cat is hiding underneath the table. — ネコがテーブルの下に隠れている。",
+    "exampleForm": "underneath",
+    "pronunciation": "/ˌəndɝˈniθ/",
+    "difficulty": 6,
+    "dict1Pos": [
+      "adverb"
+    ],
+    "dict2Pos": [
+      "adverb",
+      "preposition",
+      "adjective",
+      "noun"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adverb",
+      "preposition",
+      "adjective",
+      "noun"
+    ],
+    "answerPos": "adverb",
+    "examplePos": null,
+    "decisionStatus": "current_tag_correct",
+    "category": "C",
+    "adoptedTag": null,
+    "confidence": 0,
+    "reason": "例文なし。現タグ『名詞』は辞書品詞集合[adverb,preposition,adjective,noun]に含まれ多品詞で妥当→変更不要"
+  },
+  {
+    "id": "en-20158",
+    "language": "english",
+    "headword": "landed",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "着陸した",
+    "example": "The plane landed with a bump. — 飛行機はどすんと着陸した。",
+    "exampleForm": "landed",
+    "pronunciation": "/ˈɫændəd/",
+    "difficulty": 6,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective",
+      "verb"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "verb"
+    ],
+    "answerPos": "noun",
+    "examplePos": null,
+    "decisionStatus": "current_tag_correct",
+    "category": "C",
+    "adoptedTag": null,
+    "confidence": 0,
+    "reason": "例文なし。現タグ『動詞』は辞書品詞集合[adjective,verb]に含まれ多品詞で妥当→変更不要"
+  },
+  {
+    "id": "en-20194",
+    "language": "english",
+    "headword": "thirsty",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "のどの渇いた",
+    "example": "The thirsty runners drank cold water quickly. — のどの渇いた走者たちは冷たい水を素早く飲んだ。",
+    "exampleForm": "thirsty",
+    "pronunciation": "/ˈθɝsti/",
+    "difficulty": 6,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective",
+      "noun"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "noun"
+    ],
+    "answerPos": "noun",
+    "examplePos": null,
+    "decisionStatus": "current_tag_correct",
+    "category": "C",
+    "adoptedTag": null,
+    "confidence": 0,
+    "reason": "例文なし。現タグ『名詞』は辞書品詞集合[adjective,noun]に含まれ多品詞で妥当→変更不要"
+  },
+  {
+    "id": "en-20196",
+    "language": "english",
+    "headword": "humming",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "ブンブンいう",
+    "example": "Kyoko went away, humming a song. — 恭子は鼻歌を歌いながら行ってしまった。",
+    "exampleForm": "humming",
+    "pronunciation": "/ˈhəmɪŋ/",
+    "difficulty": 6,
+    "dict1Pos": [
+      "noun"
+    ],
+    "dict2Pos": [
+      "verb",
+      "adjective",
+      "noun"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "noun",
+      "verb",
+      "adjective"
+    ],
+    "answerPos": "verb",
+    "examplePos": null,
+    "decisionStatus": "current_tag_correct",
+    "category": "C",
+    "adoptedTag": null,
+    "confidence": 0,
+    "reason": "例文なし。現タグ『動詞』は辞書品詞集合[noun,verb,adjective]に含まれ多品詞で妥当→変更不要"
+  },
+  {
+    "id": "en-20224",
+    "language": "english",
+    "headword": "freezing",
+    "currentTags": [
+      "形容詞"
+    ],
+    "answer": "凍るように寒い",
+    "example": "The lake water is freezing in December. — 十二月の湖の水は凍るように冷たい。",
+    "exampleForm": "freezing",
+    "pronunciation": "/ˈfɹizɪŋ/",
+    "difficulty": 6,
+    "dict1Pos": [
+      "noun"
+    ],
+    "dict2Pos": [
+      "adjective",
+      "noun",
+      "verb"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "noun",
+      "adjective",
+      "verb"
+    ],
+    "answerPos": "adjective",
+    "examplePos": "adjective",
+    "decisionStatus": "current_tag_correct",
+    "category": "C",
+    "adoptedTag": null,
+    "confidence": 0,
+    "reason": "例文で見出し語は形容詞として使用・現タグ『形容詞』と一致→変更不要"
+  },
+  {
+    "id": "en-20275",
+    "language": "english",
+    "headword": "crashing",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "衝突する，墜落する",
+    "example": "We all jumped at the crashing noise. — ガチャンと言う音で私達はびっくりした。",
+    "exampleForm": "crashing",
+    "pronunciation": "/ˈkɹæʃɪŋ/",
+    "difficulty": 6,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "verb",
+      "noun",
+      "adjective"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "verb",
+      "noun"
+    ],
+    "answerPos": "verb",
+    "examplePos": null,
+    "decisionStatus": "current_tag_correct",
+    "category": "C",
+    "adoptedTag": null,
+    "confidence": 0,
+    "reason": "例文なし。現タグ『名詞』は辞書品詞集合[adjective,verb,noun]に含まれ多品詞で妥当→変更不要"
+  },
+  {
+    "id": "en-20317",
+    "language": "english",
+    "headword": "spotted",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "斑点のある",
+    "example": "A spotted dog ran across the yard. — 斑点のある犬が庭を走って横切った。",
+    "exampleForm": "spotted",
+    "pronunciation": "/ˈspɑtɪd/",
+    "difficulty": 6,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective",
+      "verb"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "verb"
+    ],
+    "answerPos": "verb",
+    "examplePos": null,
+    "decisionStatus": "current_tag_correct",
+    "category": "C",
+    "adoptedTag": null,
+    "confidence": 0,
+    "reason": "例文なし。現タグ『動詞』は辞書品詞集合[adjective,verb]に含まれ多品詞で妥当→変更不要"
+  },
+  {
+    "id": "en-20338",
+    "language": "english",
+    "headword": "rusty",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "さびた",
+    "example": "Would you scrape that rusty pan? — そのなべを磨いていただけませんか。",
+    "exampleForm": "rusty",
+    "pronunciation": "/ˈɹəsti/",
+    "difficulty": 6,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective",
+      "noun",
+      "proper noun"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "noun",
+      "proper noun"
+    ],
+    "answerPos": "noun",
+    "examplePos": null,
+    "decisionStatus": "current_tag_correct",
+    "category": "C",
+    "adoptedTag": null,
+    "confidence": 0,
+    "reason": "例文なし。現タグ『名詞』は辞書品詞集合[adjective,noun,proper noun]に含まれ多品詞で妥当→変更不要"
+  },
+  {
+    "id": "en-20432",
+    "language": "english",
+    "headword": "haunted",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "幽霊のよく出る",
+    "example": "The children told stories about the haunted house. — 子供たちは幽霊のよく出る家についての話をした。",
+    "exampleForm": "haunted",
+    "pronunciation": "/ˈhɔntɪd/",
+    "difficulty": 6,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective",
+      "verb"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "verb"
+    ],
+    "answerPos": "verb",
+    "examplePos": null,
+    "decisionStatus": "current_tag_correct",
+    "category": "C",
+    "adoptedTag": null,
+    "confidence": 0,
+    "reason": "例文なし。現タグ『動詞』は辞書品詞集合[adjective,verb]に含まれ多品詞で妥当→変更不要"
+  },
+  {
+    "id": "en-20527",
+    "language": "english",
+    "headword": "convincing",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "説得力のある",
+    "example": "Her speech was clear and convincing. — 彼女の演説は明快で説得力のあるものだった。",
+    "exampleForm": "convincing",
+    "pronunciation": "/kənˈvɪnsɪŋ/",
+    "difficulty": 6,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective",
+      "verb",
+      "noun"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "verb",
+      "noun"
+    ],
+    "answerPos": "verb",
+    "examplePos": null,
+    "decisionStatus": "current_tag_correct",
+    "category": "C",
+    "adoptedTag": null,
+    "confidence": 0,
+    "reason": "例文なし。現タグ『動詞』は辞書品詞集合[adjective,verb,noun]に含まれ多品詞で妥当→変更不要"
+  },
+  {
+    "id": "en-20566",
+    "language": "english",
+    "headword": "howdy",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "よう",
+    "example": null,
+    "exampleForm": null,
+    "pronunciation": "/ˈhaʊdi/",
+    "difficulty": 6,
+    "dict1Pos": [
+      "noun"
+    ],
+    "dict2Pos": [
+      "interjection",
+      "verb",
+      "noun"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "noun",
+      "interjection",
+      "verb"
+    ],
+    "answerPos": "verb",
+    "examplePos": null,
+    "decisionStatus": "current_tag_correct",
+    "category": "C",
+    "adoptedTag": null,
+    "confidence": 0,
+    "reason": "例文なし。現タグ『動詞』は辞書品詞集合[noun,interjection,verb]に含まれ多品詞で妥当→変更不要"
+  },
+  {
+    "id": "en-20591",
+    "language": "english",
+    "headword": "sneaking",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "こそこそする",
+    "example": "Tom was caught sneaking out of the room. — トムは部屋からこっそり抜け出した所をつかまった。",
+    "exampleForm": "sneaking",
+    "pronunciation": "/ˈsnikɪŋ/",
+    "difficulty": 6,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "noun",
+      "adjective",
+      "verb"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "noun",
+      "verb"
+    ],
+    "answerPos": "verb",
+    "examplePos": null,
+    "decisionStatus": "current_tag_correct",
+    "category": "C",
+    "adoptedTag": null,
+    "confidence": 0,
+    "reason": "例文なし。現タグ『動詞』は辞書品詞集合[adjective,noun,verb]に含まれ多品詞で妥当→変更不要"
+  },
+  {
+    "id": "en-20633",
+    "language": "english",
+    "headword": "wheelchair",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "車いす",
+    "example": "The new library has wide doors for wheelchair users. — 新しい図書館には車いすを使う人のための広いドアがある。",
+    "exampleForm": "wheelchair",
+    "pronunciation": "/ˈhwiɫˌtʃɛɹ/",
+    "difficulty": 6,
+    "dict1Pos": [
+      "noun"
+    ],
+    "dict2Pos": [
+      "noun",
+      "verb"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "noun",
+      "verb"
+    ],
+    "answerPos": "verb",
+    "examplePos": null,
+    "decisionStatus": "current_tag_correct",
+    "category": "C",
+    "adoptedTag": null,
+    "confidence": 0,
+    "reason": "例文なし。現タグ『動詞』は辞書品詞集合[noun,verb]に含まれ多品詞で妥当→変更不要"
+  },
+  {
+    "id": "en-20663",
+    "language": "english",
+    "headword": "wardrobe",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "衣装だんす",
+    "example": "She keeps her dresses in a large wardrobe. — 彼女はドレスを大きな衣装だんすにしまっている。",
+    "exampleForm": "wardrobe",
+    "pronunciation": "/ˈwɔɹˌdɹoʊb/",
+    "difficulty": 6,
+    "dict1Pos": [
+      "noun"
+    ],
+    "dict2Pos": [
+      "noun",
+      "verb"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "noun",
+      "verb"
+    ],
+    "answerPos": "verb",
+    "examplePos": null,
+    "decisionStatus": "current_tag_correct",
+    "category": "C",
+    "adoptedTag": null,
+    "confidence": 0,
+    "reason": "例文なし。現タグ『動詞』は辞書品詞集合[noun,verb]に含まれ多品詞で妥当→変更不要"
+  },
+  {
+    "id": "en-20681",
+    "language": "english",
+    "headword": "respectable",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "ちゃんとした",
+    "example": "He wore a respectable suit to the interview. — 彼は面接にちゃんとしたスーツを着て行った。",
+    "exampleForm": "respectable",
+    "pronunciation": "/ɹiˈspɛktəbəɫ/",
+    "difficulty": 6,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective",
+      "noun"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "noun"
+    ],
+    "answerPos": "noun",
+    "examplePos": null,
+    "decisionStatus": "current_tag_correct",
+    "category": "C",
+    "adoptedTag": null,
+    "confidence": 0,
+    "reason": "例文なし。現タグ『名詞』は辞書品詞集合[adjective,noun]に含まれ多品詞で妥当→変更不要"
+  },
+  {
+    "id": "en-20716",
+    "language": "english",
+    "headword": "scattered",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "散在する",
+    "example": "Scattered toys covered the living room floor. — 散らばったおもちゃが居間の床をおおっていた。",
+    "exampleForm": "Scattered",
+    "pronunciation": "/ˈskætɝd/",
+    "difficulty": 6,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "verb",
+      "adjective"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "verb"
+    ],
+    "answerPos": "verb",
+    "examplePos": null,
+    "decisionStatus": "current_tag_correct",
+    "category": "C",
+    "adoptedTag": null,
+    "confidence": 0,
+    "reason": "例文なし。現タグ『動詞』は辞書品詞集合[adjective,verb]に含まれ多品詞で妥当→変更不要"
+  },
+  {
+    "id": "en-20717",
+    "language": "english",
+    "headword": "trusting",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "信頼する",
+    "example": "I am sure of his trusting you. — きっと彼はあなたを信じると思いますよ。",
+    "exampleForm": "trusting",
+    "pronunciation": "/ˈtɹəstɪŋ/",
+    "difficulty": 6,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "verb",
+      "adjective"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "verb"
+    ],
+    "answerPos": "verb",
+    "examplePos": null,
+    "decisionStatus": "current_tag_correct",
+    "category": "C",
+    "adoptedTag": null,
+    "confidence": 0,
+    "reason": "例文なし。現タグ『動詞』は辞書品詞集合[adjective,verb]に含まれ多品詞で妥当→変更不要"
+  },
+  {
+    "id": "en-20749",
+    "language": "english",
+    "headword": "arresting",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "人の注意をひく",
+    "example": null,
+    "exampleForm": null,
+    "pronunciation": "/ɝˈɛstɪŋ/",
+    "difficulty": 6,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective",
+      "verb"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "verb"
+    ],
+    "answerPos": "adverb",
+    "examplePos": null,
+    "decisionStatus": "current_tag_correct",
+    "category": "C",
+    "adoptedTag": null,
+    "confidence": 0,
+    "reason": "例文なし。現タグ『動詞』は辞書品詞集合[adjective,verb]に含まれ多品詞で妥当→変更不要"
+  },
+  {
+    "id": "en-20759",
+    "language": "english",
+    "headword": "stinking",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "悪臭を放つ",
+    "example": "I'll bid farewell to this stinking school. — このひどい学校にはおさらばだ。",
+    "exampleForm": "stinking",
+    "pronunciation": "/ˈstɪŋkɪŋ/",
+    "difficulty": 6,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective",
+      "verb",
+      "noun"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "verb",
+      "noun"
+    ],
+    "answerPos": "verb",
+    "examplePos": null,
+    "decisionStatus": "current_tag_correct",
+    "category": "C",
+    "adoptedTag": null,
+    "confidence": 0,
+    "reason": "例文なし。現タグ『動詞』は辞書品詞集合[adjective,verb,noun]に含まれ多品詞で妥当→変更不要"
+  },
+  {
+    "id": "en-20818",
+    "language": "english",
+    "headword": "lively",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "生気にあふれた",
+    "example": "The lively puppy jumped around the garden. — 生気にあふれた子犬は庭を跳ね回った。",
+    "exampleForm": "lively",
+    "pronunciation": "/ˈɫaɪvɫi/",
+    "difficulty": 6,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective",
+      "noun",
+      "adverb",
+      "proper noun"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "noun",
+      "adverb",
+      "proper noun"
+    ],
+    "answerPos": "noun",
+    "examplePos": null,
+    "decisionStatus": "current_tag_correct",
+    "category": "C",
+    "adoptedTag": null,
+    "confidence": 0,
+    "reason": "例文なし。現タグ『名詞』は辞書品詞集合[adjective,noun,adverb,proper noun]に含まれ多品詞で妥当→変更不要"
+  },
+  {
+    "id": "en-20991",
+    "language": "english",
+    "headword": "gifted",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "才能のある",
+    "example": "The gifted child solved the puzzle in seconds. — その才能のある子供は数秒でパズルを解いた。",
+    "exampleForm": "gifted",
+    "pronunciation": "/ˈɡɪftəd/",
+    "difficulty": 6,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective",
+      "verb",
+      "noun"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "verb",
+      "noun"
+    ],
+    "answerPos": "verb",
+    "examplePos": null,
+    "decisionStatus": "current_tag_correct",
+    "category": "C",
+    "adoptedTag": null,
+    "confidence": 0,
+    "reason": "例文なし。現タグ『動詞』は辞書品詞集合[adjective,verb,noun]に含まれ多品詞で妥当→変更不要"
+  },
+  {
+    "id": "en-21057",
+    "language": "english",
+    "headword": "curly",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "カールした",
+    "example": "The baby has soft curly hair. — その赤ちゃんは柔らかいカールした髪をしている。",
+    "exampleForm": "curly",
+    "pronunciation": "/ˈkɝɫi/",
+    "difficulty": 6,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective",
+      "noun",
+      "proper noun"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "noun",
+      "proper noun"
+    ],
+    "answerPos": "noun",
+    "examplePos": null,
+    "decisionStatus": "current_tag_correct",
+    "category": "C",
+    "adoptedTag": null,
+    "confidence": 0,
+    "reason": "例文なし。現タグ『名詞』は辞書品詞集合[adjective,noun,proper noun]に含まれ多品詞で妥当→変更不要"
+  },
+  {
+    "id": "en-21180",
+    "language": "english",
+    "headword": "commanding",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "指揮する",
+    "example": "He's got a commanding manner about him. — 彼は人に命令するようなところがある。",
+    "exampleForm": "commanding",
+    "pronunciation": "/kəˈmændɪŋ/",
+    "difficulty": 6,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective",
+      "verb",
+      "noun"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "verb",
+      "noun"
+    ],
+    "answerPos": "verb",
+    "examplePos": null,
+    "decisionStatus": "current_tag_correct",
+    "category": "C",
+    "adoptedTag": null,
+    "confidence": 0,
+    "reason": "例文なし。現タグ『動詞』は辞書品詞集合[adjective,verb,noun]に含まれ多品詞で妥当→変更不要"
+  },
+  {
+    "id": "en-21388",
+    "language": "english",
+    "headword": "diaper",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "おむつ",
+    "example": "The father changed the baby's diaper quickly. — 父親は手早く赤ちゃんのおむつを替えた。",
+    "exampleForm": "diaper",
+    "pronunciation": "/ˈdaɪpɝ/",
+    "difficulty": 6,
+    "dict1Pos": [
+      "noun"
+    ],
+    "dict2Pos": [
+      "noun",
+      "verb",
+      "proper noun"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "noun",
+      "verb",
+      "proper noun"
+    ],
+    "answerPos": "verb",
+    "examplePos": null,
+    "decisionStatus": "current_tag_correct",
+    "category": "C",
+    "adoptedTag": null,
+    "confidence": 0,
+    "reason": "例文なし。現タグ『動詞』は辞書品詞集合[noun,verb,proper noun]に含まれ多品詞で妥当→変更不要"
+  },
+  {
+    "id": "en-21432",
+    "language": "english",
+    "headword": "weasel",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "言い逃れる",
+    "example": "He tried to weasel out of the deal. — 彼は取引から言い逃れようとした。",
+    "exampleForm": "weasel",
+    "pronunciation": "/ˈwizəɫ/",
+    "difficulty": 6,
+    "dict1Pos": [
+      "noun"
+    ],
+    "dict2Pos": [
+      "noun",
+      "verb"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "noun",
+      "verb"
+    ],
+    "answerPos": "verb",
+    "examplePos": "verb",
+    "decisionStatus": "current_tag_correct",
+    "category": "C",
+    "adoptedTag": null,
+    "confidence": 0,
+    "reason": "例文で見出し語は動詞として使用・現タグ『動詞』と一致→変更不要"
+  },
+  {
+    "id": "en-21453",
+    "language": "english",
+    "headword": "punishing",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "へとへとにさせる",
+    "example": "He kept a punishing work schedule. — 彼はへとへとになる仕事日程を続けた。",
+    "exampleForm": "punishing",
+    "pronunciation": "/ˈpənɪʃɪŋ/",
+    "difficulty": 6,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective",
+      "noun",
+      "verb"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "noun",
+      "verb"
+    ],
+    "answerPos": "verb",
+    "examplePos": null,
+    "decisionStatus": "current_tag_correct",
+    "category": "C",
+    "adoptedTag": null,
+    "confidence": 0,
+    "reason": "例文なし。現タグ『動詞』は辞書品詞集合[adjective,noun,verb]に含まれ多品詞で妥当→変更不要"
+  },
+  {
+    "id": "en-21563",
+    "language": "english",
+    "headword": "overdose",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "薬の過剰摂取",
+    "example": "An overdose of this medicine is dangerous. — この薬の過剰摂取は危険だ。",
+    "exampleForm": "overdose",
+    "pronunciation": "/ˈoʊvɝˌdoʊs/",
+    "difficulty": 7,
+    "dict1Pos": [
+      "verb"
+    ],
+    "dict2Pos": [
+      "noun",
+      "verb"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "verb",
+      "noun"
+    ],
+    "answerPos": "noun",
+    "examplePos": "noun",
+    "decisionStatus": "current_tag_correct",
+    "category": "C",
+    "adoptedTag": null,
+    "confidence": 0,
+    "reason": "例文で見出し語は名詞として使用・現タグ『名詞』と一致→変更不要"
+  },
+  {
+    "id": "en-21648",
+    "language": "english",
+    "headword": "privileged",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "特権のある",
+    "example": "Only privileged members can enter this room. — 特権のある会員だけがこの部屋に入れる。",
+    "exampleForm": "privileged",
+    "pronunciation": "/ˈpɹɪvɪɫədʒd/",
+    "difficulty": 7,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "verb",
+      "adjective"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "verb"
+    ],
+    "answerPos": "verb",
+    "examplePos": null,
+    "decisionStatus": "current_tag_correct",
+    "category": "C",
+    "adoptedTag": null,
+    "confidence": 0,
+    "reason": "例文なし。現タグ『動詞』は辞書品詞集合[adjective,verb]に含まれ多品詞で妥当→変更不要"
+  },
+  {
+    "id": "en-21725",
+    "language": "english",
+    "headword": "considerate",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "思いやりのある",
+    "example": "A considerate person listens carefully to others. — 思いやりのある人は他人の話を注意深く聞く。",
+    "exampleForm": "considerate",
+    "pronunciation": "/kənˈsɪdɝət/",
+    "difficulty": 7,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective",
+      "verb"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "verb"
+    ],
+    "answerPos": "verb",
+    "examplePos": null,
+    "decisionStatus": "current_tag_correct",
+    "category": "C",
+    "adoptedTag": null,
+    "confidence": 0,
+    "reason": "例文なし。現タグ『動詞』は辞書品詞集合[adjective,verb]に含まれ多品詞で妥当→変更不要"
+  },
+  {
+    "id": "en-21770",
+    "language": "english",
+    "headword": "bladder",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "ぼうこう",
+    "example": "The bladder stores water inside the body. — ぼうこうは体の中で水分をためる。",
+    "exampleForm": "bladder",
+    "pronunciation": "/ˈbɫædɝ/",
+    "difficulty": 7,
+    "dict1Pos": [
+      "noun"
+    ],
+    "dict2Pos": [
+      "noun",
+      "verb"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "noun",
+      "verb"
+    ],
+    "answerPos": "verb",
+    "examplePos": null,
+    "decisionStatus": "current_tag_correct",
+    "category": "C",
+    "adoptedTag": null,
+    "confidence": 0,
+    "reason": "例文なし。現タグ『動詞』は辞書品詞集合[noun,verb]に含まれ多品詞で妥当→変更不要"
+  },
+  {
+    "id": "en-21773",
+    "language": "english",
+    "headword": "grape",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "ぶどう",
+    "example": "This grape tastes very sweet. — このぶどうはとても甘い。",
+    "exampleForm": "grape",
+    "pronunciation": "/ˈɡɹeɪp/",
+    "difficulty": 7,
+    "dict1Pos": [
+      "noun"
+    ],
+    "dict2Pos": [
+      "noun",
+      "adjective",
+      "verb"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "noun",
+      "adjective",
+      "verb"
+    ],
+    "answerPos": "verb",
+    "examplePos": null,
+    "decisionStatus": "current_tag_correct",
+    "category": "C",
+    "adoptedTag": null,
+    "confidence": 0,
+    "reason": "例文なし。現タグ『動詞』は辞書品詞集合[noun,adjective,verb]に含まれ多品詞で妥当→変更不要"
+  },
+  {
+    "id": "en-21799",
+    "language": "english",
+    "headword": "hoover",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "電気掃除機",
+    "example": "She bought a Hoover at the supermarket. — 彼女はスーパーで掃除機を買った。",
+    "exampleForm": "Hoover",
+    "pronunciation": "/ˈhuvɝ/",
+    "difficulty": 7,
+    "dict1Pos": [
+      "verb"
+    ],
+    "dict2Pos": [
+      "proper noun",
+      "noun",
+      "verb"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "verb",
+      "proper noun",
+      "noun"
+    ],
+    "answerPos": "noun",
+    "examplePos": "noun",
+    "decisionStatus": "current_tag_correct",
+    "category": "C",
+    "adoptedTag": null,
+    "confidence": 0,
+    "reason": "例文で見出し語は名詞として使用・現タグ『名詞』と一致→変更不要"
+  },
+  {
+    "id": "en-21809",
+    "language": "english",
+    "headword": "haunting",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "絶えず心に浮かぶ",
+    "example": "The haunting melody stayed with me for days. — その絶えず心に浮かぶ旋律は何日も私から離れなかった。",
+    "exampleForm": "haunting",
+    "pronunciation": "/ˈhɔntɪŋ/",
+    "difficulty": 7,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "verb",
+      "adjective",
+      "noun"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "verb",
+      "noun"
+    ],
+    "answerPos": "verb",
+    "examplePos": null,
+    "decisionStatus": "current_tag_correct",
+    "category": "C",
+    "adoptedTag": null,
+    "confidence": 0,
+    "reason": "例文なし。現タグ『動詞』は辞書品詞集合[adjective,verb,noun]に含まれ多品詞で妥当→変更不要"
+  },
+  {
+    "id": "en-21867",
+    "language": "english",
+    "headword": "thrilling",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "わくわくさせる",
+    "example": "The movie has a thrilling car chase. — その映画には観客をわくわくさせるカーチェイスがある。",
+    "exampleForm": "thrilling",
+    "pronunciation": "/ˈθɹɪɫɪŋ/",
+    "difficulty": 7,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "verb",
+      "adjective",
+      "noun"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "verb",
+      "noun"
+    ],
+    "answerPos": "verb",
+    "examplePos": null,
+    "decisionStatus": "current_tag_correct",
+    "category": "C",
+    "adoptedTag": null,
+    "confidence": 0,
+    "reason": "例文なし。現タグ『動詞』は辞書品詞集合[adjective,verb,noun]に含まれ多品詞で妥当→変更不要"
+  },
+  {
+    "id": "en-21998",
+    "language": "english",
+    "headword": "ducky",
+    "currentTags": [
+      "形容詞"
+    ],
+    "answer": "すてきな",
+    "example": null,
+    "exampleForm": null,
+    "pronunciation": "/ˈdəˌki/",
+    "difficulty": 7,
+    "dict1Pos": [
+      "noun"
+    ],
+    "dict2Pos": [
+      "adjective",
+      "noun"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "noun",
+      "adjective"
+    ],
+    "answerPos": "adjective",
+    "examplePos": null,
+    "decisionStatus": "current_tag_correct",
+    "category": "C",
+    "adoptedTag": null,
+    "confidence": 0,
+    "reason": "例文なし。現タグ『形容詞』は辞書品詞集合[noun,adjective]に含まれ多品詞で妥当→変更不要"
+  },
+  {
+    "id": "en-22010",
+    "language": "english",
+    "headword": "fluffy",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "ふわふわした",
+    "example": "The fluffy kitten slept on the sofa. — ふわふわした子ネコがソファで眠っていた。",
+    "exampleForm": "fluffy",
+    "pronunciation": "/ˈfɫəfi/",
+    "difficulty": 7,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective",
+      "noun",
+      "proper noun"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "noun",
+      "proper noun"
+    ],
+    "answerPos": "noun",
+    "examplePos": null,
+    "decisionStatus": "current_tag_correct",
+    "category": "C",
+    "adoptedTag": null,
+    "confidence": 0,
+    "reason": "例文なし。現タグ『名詞』は辞書品詞集合[adjective,noun,proper noun]に含まれ多品詞で妥当→変更不要"
+  },
+  {
+    "id": "en-22058",
+    "language": "english",
+    "headword": "smug",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "自己満足した",
+    "example": "His smug smile annoyed his classmates. — 彼の自己満足した笑みは級友たちをいらだたせた。",
+    "exampleForm": "smug",
+    "pronunciation": "/ˈsməɡ/",
+    "difficulty": 7,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective",
+      "verb",
+      "noun"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "verb",
+      "noun"
+    ],
+    "answerPos": "noun",
+    "examplePos": null,
+    "decisionStatus": "current_tag_correct",
+    "category": "C",
+    "adoptedTag": null,
+    "confidence": 0,
+    "reason": "例文なし。現タグ『名詞』は辞書品詞集合[adjective,verb,noun]に含まれ多品詞で妥当→変更不要"
+  },
+  {
+    "id": "en-22080",
+    "language": "english",
+    "headword": "creeping",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "はう",
+    "example": null,
+    "exampleForm": null,
+    "pronunciation": "/ˈkɹipɪŋ/",
+    "difficulty": 7,
+    "dict1Pos": [
+      "noun"
+    ],
+    "dict2Pos": [
+      "verb",
+      "noun"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "noun",
+      "verb"
+    ],
+    "answerPos": "verb",
+    "examplePos": null,
+    "decisionStatus": "current_tag_correct",
+    "category": "C",
+    "adoptedTag": null,
+    "confidence": 0,
+    "reason": "例文なし。現タグ『動詞』は辞書品詞集合[noun,verb]に含まれ多品詞で妥当→変更不要"
+  },
+  {
+    "id": "en-22162",
+    "language": "english",
+    "headword": "overdue",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "期限を過ぎた",
+    "example": "This library book is three days overdue. — この図書館の本は期限を3日過ぎている。",
+    "exampleForm": "overdue",
+    "pronunciation": "/ˈoʊvɝˈdu/",
+    "difficulty": 7,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective",
+      "noun"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "noun"
+    ],
+    "answerPos": "noun",
+    "examplePos": null,
+    "decisionStatus": "current_tag_correct",
+    "category": "C",
+    "adoptedTag": null,
+    "confidence": 0,
+    "reason": "例文なし。現タグ『名詞』は辞書品詞集合[adjective,noun]に含まれ多品詞で妥当→変更不要"
+  },
+  {
+    "id": "en-22431",
+    "language": "english",
+    "headword": "slimy",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "ぬめぬめした",
+    "example": "The slimy fish slipped out of my hands. — ぬめぬめした魚が手から滑り落ちた。",
+    "exampleForm": "slimy",
+    "pronunciation": "/ˈsɫaɪmi/",
+    "difficulty": 7,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective",
+      "noun"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "noun"
+    ],
+    "answerPos": "noun",
+    "examplePos": null,
+    "decisionStatus": "current_tag_correct",
+    "category": "C",
+    "adoptedTag": null,
+    "confidence": 0,
+    "reason": "例文なし。現タグ『名詞』は辞書品詞集合[adjective,noun]に含まれ多品詞で妥当→変更不要"
+  },
+  {
+    "id": "en-22666",
+    "language": "english",
+    "headword": "furry",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "毛で覆われた",
+    "example": "The furry rabbit felt warm in my arms. — 毛で覆われたウサギは腕の中で温かかった。",
+    "exampleForm": "furry",
+    "pronunciation": "/ˈfɝi/",
+    "difficulty": 7,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective",
+      "noun",
+      "proper noun"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "noun",
+      "proper noun"
+    ],
+    "answerPos": "noun",
+    "examplePos": null,
+    "decisionStatus": "current_tag_correct",
+    "category": "C",
+    "adoptedTag": null,
+    "confidence": 0,
+    "reason": "例文なし。現タグ『名詞』は辞書品詞集合[adjective,noun,proper noun]に含まれ多品詞で妥当→変更不要"
+  },
+  {
+    "id": "en-22712",
+    "language": "english",
+    "headword": "dignified",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "威厳のある",
+    "example": "The old professor has a dignified manner. — その老教授には威厳のある物腰がある。",
+    "exampleForm": "dignified",
+    "pronunciation": "/ˈdɪɡnəˌfaɪd/",
+    "difficulty": 7,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective",
+      "verb"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "verb"
+    ],
+    "answerPos": "verb",
+    "examplePos": null,
+    "decisionStatus": "current_tag_correct",
+    "category": "C",
+    "adoptedTag": null,
+    "confidence": 0,
+    "reason": "例文なし。現タグ『動詞』は辞書品詞集合[adjective,verb]に含まれ多品詞で妥当→変更不要"
+  },
+  {
+    "id": "en-22741",
+    "language": "english",
+    "headword": "keg",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "小さなたる",
+    "example": "The shop sold juice from a wooden keg. — その店は木の小さなたるからジュースを売っていた。",
+    "exampleForm": "keg",
+    "pronunciation": "/ˈkɛɡ/",
+    "difficulty": 7,
+    "dict1Pos": [
+      "noun"
+    ],
+    "dict2Pos": [
+      "noun",
+      "verb"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "noun",
+      "verb"
+    ],
+    "answerPos": "verb",
+    "examplePos": null,
+    "decisionStatus": "current_tag_correct",
+    "category": "C",
+    "adoptedTag": null,
+    "confidence": 0,
+    "reason": "例文なし。現タグ『動詞』は辞書品詞集合[noun,verb]に含まれ多品詞で妥当→変更不要"
+  },
+  {
+    "id": "en-22765",
+    "language": "english",
+    "headword": "dashing",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "さっそうとした",
+    "example": "The dashing officer greeted us politely. — さっそうとした将校が私たちに丁寧にあいさつした。",
+    "exampleForm": "dashing",
+    "pronunciation": "/ˈdæʃɪŋ/",
+    "difficulty": 7,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective",
+      "verb",
+      "noun"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "verb",
+      "noun"
+    ],
+    "answerPos": "noun",
+    "examplePos": null,
+    "decisionStatus": "current_tag_correct",
+    "category": "C",
+    "adoptedTag": null,
+    "confidence": 0,
+    "reason": "例文なし。現タグ『名詞』は辞書品詞集合[adjective,verb,noun]に含まれ多品詞で妥当→変更不要"
+  },
+  {
+    "id": "en-22768",
+    "language": "english",
+    "headword": "senile",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "もうろくした",
+    "example": "His senile grandfather sometimes forgets names. — もうろくした祖父は時々名前を忘れる。",
+    "exampleForm": "senile",
+    "pronunciation": "/ˈsiˌnaɪɫ/",
+    "difficulty": 7,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective",
+      "noun"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "noun"
+    ],
+    "answerPos": "noun",
+    "examplePos": null,
+    "decisionStatus": "current_tag_correct",
+    "category": "C",
+    "adoptedTag": null,
+    "confidence": 0,
+    "reason": "例文なし。現タグ『名詞』は辞書品詞集合[adjective,noun]に含まれ多品詞で妥当→変更不要"
+  },
+  {
+    "id": "en-22874",
+    "language": "english",
+    "headword": "bleak",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "荒涼とした",
+    "example": "The bleak field stretched under the gray sky. — 荒涼とした野原が灰色の空の下に広がっていた。",
+    "exampleForm": "bleak",
+    "pronunciation": "/ˈbɫik/",
+    "difficulty": 7,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective",
+      "noun"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "noun"
+    ],
+    "answerPos": "noun",
+    "examplePos": null,
+    "decisionStatus": "current_tag_correct",
+    "category": "C",
+    "adoptedTag": null,
+    "confidence": 0,
+    "reason": "例文なし。現タグ『名詞』は辞書品詞集合[adjective,noun]に含まれ多品詞で妥当→変更不要"
+  },
+  {
+    "id": "en-22902",
+    "language": "english",
+    "headword": "soothing",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "心を和らげる",
+    "example": "The soothing music helped the baby sleep. — 心を和らげる音楽が赤ちゃんの眠りを助けた。",
+    "exampleForm": "soothing",
+    "pronunciation": "/ˈsuðɪŋ/",
+    "difficulty": 7,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective",
+      "verb",
+      "noun"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "verb",
+      "noun"
+    ],
+    "answerPos": "verb",
+    "examplePos": null,
+    "decisionStatus": "current_tag_correct",
+    "category": "C",
+    "adoptedTag": null,
+    "confidence": 0,
+    "reason": "例文なし。現タグ『動詞』は辞書品詞集合[adjective,verb,noun]に含まれ多品詞で妥当→変更不要"
+  },
+  {
+    "id": "en-22971",
+    "language": "english",
+    "headword": "gaga",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "夢中の，ぼけた",
+    "example": "",
+    "exampleForm": "",
+    "pronunciation": "/ˈɡɑˌɡə/",
+    "difficulty": 7,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective",
+      "noun"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "noun"
+    ],
+    "answerPos": "noun",
+    "examplePos": null,
+    "decisionStatus": "current_tag_correct",
+    "category": "C",
+    "adoptedTag": null,
+    "confidence": 0,
+    "reason": "例文なし。現タグ『名詞』は辞書品詞集合[adjective,noun]に含まれ多品詞で妥当→変更不要"
+  }
+]

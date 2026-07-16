@@ -7,10 +7,11 @@
     "batchSize": 500,
     "status": "done",
     "dictionaryVersions": {
-      "oewn": "downloaded-2026-07-15"
+      "oewn": "downloaded-2026-07-15",
+      "kaikki-english-subset": ""
     },
     "startedAt": "2026-07-15T16:07:28.821Z",
-    "updatedAt": "2026-07-15T17:52:30.972Z"
+    "updatedAt": "2026-07-16T03:40:22.827Z"
   },
   "chinese": {
     "language": "chinese",
@@ -23,7 +24,7 @@
       "cedict": "downloaded-2026-07-15"
     },
     "startedAt": "2026-07-15T16:07:29.255Z",
-    "updatedAt": "2026-07-15T17:52:31.498Z"
+    "updatedAt": "2026-07-16T03:40:23.408Z"
   },
   "korean": {
     "language": "korean",
@@ -36,7 +37,7 @@
       "kaikki-korean": "kaikki wiktextract dump 2026-07-06"
     },
     "startedAt": "2026-07-15T16:09:42.784Z",
-    "updatedAt": "2026-07-15T17:52:31.582Z"
+    "updatedAt": "2026-07-16T03:40:23.499Z"
   },
   "spanish": {
     "language": "spanish",
@@ -49,7 +50,7 @@
       "kaikki-spanish": "kaikki wiktextract dump 2026-07-06"
     },
     "startedAt": "2026-07-15T16:09:42.789Z",
-    "updatedAt": "2026-07-15T17:52:31.653Z"
+    "updatedAt": "2026-07-16T03:40:23.588Z"
   },
   "german": {
     "language": "german",
@@ -62,7 +63,7 @@
       "kaikki-german": "kaikki wiktextract dump 2026-07-06"
     },
     "startedAt": "2026-07-15T16:09:42.794Z",
-    "updatedAt": "2026-07-15T17:52:31.737Z"
+    "updatedAt": "2026-07-16T03:40:23.682Z"
   },
   "french": {
     "language": "french",
@@ -75,7 +76,7 @@
       "kaikki-french": "kaikki wiktextract dump 2026-07-06"
     },
     "startedAt": "2026-07-15T16:09:42.798Z",
-    "updatedAt": "2026-07-15T17:52:31.770Z"
+    "updatedAt": "2026-07-16T03:40:23.718Z"
   },
   "portuguese": {
     "language": "portuguese",
@@ -88,7 +89,7 @@
       "kaikki-portuguese": "kaikki wiktextract dump 2026-07-06"
     },
     "startedAt": "2026-07-15T16:09:42.799Z",
-    "updatedAt": "2026-07-15T17:52:31.779Z"
+    "updatedAt": "2026-07-16T03:40:23.728Z"
   },
   "polish": {
     "language": "polish",
@@ -101,7 +102,7 @@
       "kaikki-polish": "kaikki wiktextract dump 2026-07-06"
     },
     "startedAt": "2026-07-15T16:09:42.800Z",
-    "updatedAt": "2026-07-15T17:52:31.788Z"
+    "updatedAt": "2026-07-16T03:40:23.739Z"
   },
   "russian": {
     "language": "russian",
@@ -114,6 +115,6 @@
       "kaikki-russian": "kaikki wiktextract dump 2026-07-06"
     },
     "startedAt": "2026-07-15T16:09:42.801Z",
-    "updatedAt": "2026-07-15T17:52:31.793Z"
+    "updatedAt": "2026-07-16T03:40:23.745Z"
   }
 }

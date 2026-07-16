@@ -1,12 +1,12 @@
 # ローカル辞書照合(全件) サマリー
 
-生成: 2026-07-15 / **元データ変更: 0件**
+生成: 2026-07-16 / **元データ変更: 0件**
 
 監査対象 20131 / 照合 20131
 
 | 言語 | 総件数 | 照合 | verified | likely | review | conflicting | critical | not_checked | 辞書 |
 |---|---|---|---|---|---|---|---|---|---|
-| english | 8136 | 8136 | 0 | 7580 | 255 | 0 | 301 | 0 | oewn |
+| english | 8136 | 8136 | 53 | 7708 | 339 | 0 | 36 | 0 | oewn,kaikki-english-subset |
 | chinese | 4201 | 4201 | 4188 | 0 | 13 | 0 | 0 | 0 | cedict |
 | korean | 1529 | 1529 | 4 | 1374 | 111 | 0 | 40 | 0 | kaikki-korean |
 | spanish | 1948 | 1948 | 1912 | 22 | 14 | 0 | 0 | 0 | kaikki-spanish |
@@ -20,7 +20,7 @@
 
 | 言語 | 見出し | 品詞 | 語義 | 発音 | 和訳 |
 |---|---|---|---|---|---|
-| english | 8136 | 8015 | 0 | 0 | 0 |
+| english | 8136 | 8023 | 0 | 99 | 0 |
 | chinese | 4201 | 0 | 4179 | 4189 | 0 |
 | korean | 1529 | 1434 | 0 | 1438 | 0 |
 | spanish | 1948 | 0 | 1948 | 0 | 0 |
@@ -30,6 +30,6 @@
 | polish | 150 | 0 | 150 | 0 | 0 |
 | russian | 150 | 0 | 150 | 0 | 0 |
 
-問題別: critical 341 / conflicting 0 / review 438 / not-found 214 / not-checked 0
+問題別: critical 76 / conflicting 0 / review 522 / not-found 214 / not-checked 0
 
 > 和訳照合は0(JA辞書未配置)。発音照合は中国語(CC-CEDICT拼音)のみ。英語は見出し・品詞をOEWNで照合、語義は和訳構造のため直接照合不可。**未確認を一致として扱わない。**

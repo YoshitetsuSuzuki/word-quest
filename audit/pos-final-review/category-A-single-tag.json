@@ -1,0 +1,3440 @@
+[
+  {
+    "id": "en-00193",
+    "language": "english",
+    "headword": "seem",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "のようだ",
+    "example": "He seems very tired today. — 彼は今日とても疲れているようだ。",
+    "exampleForm": "seems",
+    "pronunciation": "/ˈsim/",
+    "difficulty": 1,
+    "dict1Pos": [
+      "verb"
+    ],
+    "dict2Pos": [
+      "verb"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "verb"
+    ],
+    "answerPos": "adjective",
+    "examplePos": "verb",
+    "decisionStatus": "single_pos_confirmed",
+    "category": "A",
+    "adoptedTag": [
+      "動詞"
+    ],
+    "confidence": 0.997,
+    "reason": "例文で見出し語は動詞として使用・辞書和集合[verb]に動詞あり・現タグ『名詞』不一致・2辞書確認"
+  },
+  {
+    "id": "en-00492",
+    "language": "english",
+    "headword": "difference",
+    "currentTags": [
+      "形容詞"
+    ],
+    "answer": "違い",
+    "example": "Can you see the difference between these two pictures? — この2枚の絵の違いがわかりますか。",
+    "exampleForm": "difference",
+    "pronunciation": "/ˈdɪfɝəns/",
+    "difficulty": 1,
+    "dict1Pos": [
+      "noun"
+    ],
+    "dict2Pos": [
+      "noun",
+      "verb"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "noun",
+      "verb"
+    ],
+    "answerPos": "adjective",
+    "examplePos": "noun",
+    "decisionStatus": "single_pos_confirmed",
+    "category": "A",
+    "adoptedTag": [
+      "名詞"
+    ],
+    "confidence": 0.997,
+    "reason": "例文で見出し語は名詞として使用・辞書和集合[noun,verb]に名詞あり・現タグ『形容詞』不一致・2辞書確認"
+  },
+  {
+    "id": "en-00919",
+    "language": "english",
+    "headword": "useful",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "役に立つ",
+    "example": "A dictionary is useful for learning words. — 辞書は単語を学ぶのに役に立つ。",
+    "exampleForm": "useful",
+    "pronunciation": "/ˈjusfəɫ/",
+    "difficulty": 2,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective"
+    ],
+    "answerPos": "verb",
+    "examplePos": "adjective",
+    "decisionStatus": "single_pos_confirmed",
+    "category": "A",
+    "adoptedTag": [
+      "形容詞"
+    ],
+    "confidence": 0.997,
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective]に形容詞あり・現タグ『動詞』不一致・2辞書確認"
+  },
+  {
+    "id": "en-00928",
+    "language": "english",
+    "headword": "successful",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "成功した",
+    "example": "The event was successful thanks to everyone. — みんなのおかげでその行事は成功した。",
+    "exampleForm": "successful",
+    "pronunciation": "/səkˈsɛsfəɫ/",
+    "difficulty": 2,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective"
+    ],
+    "answerPos": "noun",
+    "examplePos": "adjective",
+    "decisionStatus": "single_pos_confirmed",
+    "category": "A",
+    "adoptedTag": [
+      "形容詞"
+    ],
+    "confidence": 0.997,
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective]に形容詞あり・現タグ『名詞』不一致・2辞書確認"
+  },
+  {
+    "id": "en-01084",
+    "language": "english",
+    "headword": "payment",
+    "currentTags": [
+      "形容詞"
+    ],
+    "answer": "支払い",
+    "example": "You can make a payment by card. — カードで支払いができます。",
+    "exampleForm": "payment",
+    "pronunciation": "/ˈpeɪmənt/",
+    "difficulty": 2,
+    "dict1Pos": [
+      "noun"
+    ],
+    "dict2Pos": [
+      "noun",
+      "proper noun"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "noun",
+      "proper noun"
+    ],
+    "answerPos": "adjective",
+    "examplePos": "noun",
+    "decisionStatus": "single_pos_confirmed",
+    "category": "A",
+    "adoptedTag": [
+      "名詞"
+    ],
+    "confidence": 0.997,
+    "reason": "例文で見出し語は名詞として使用・辞書和集合[noun,proper noun]に名詞あり・現タグ『形容詞』不一致・2辞書確認"
+  },
+  {
+    "id": "en-01147",
+    "language": "english",
+    "headword": "responsible",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "責任のある",
+    "example": "Parents are responsible for their children. — 親は子どもに責任がある。",
+    "exampleForm": "responsible",
+    "pronunciation": "/ɹiˈspɑnsəbəɫ/",
+    "difficulty": 2,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective",
+      "noun"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "noun"
+    ],
+    "answerPos": "verb",
+    "examplePos": "adjective",
+    "decisionStatus": "single_pos_confirmed",
+    "category": "A",
+    "adoptedTag": [
+      "形容詞"
+    ],
+    "confidence": 0.997,
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,noun]に形容詞あり・現タグ『動詞』不一致・2辞書確認"
+  },
+  {
+    "id": "en-01343",
+    "language": "english",
+    "headword": "afraid",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "恐れて",
+    "example": "My little sister is afraid of dogs. — 妹は犬を恐れている。",
+    "exampleForm": "afraid",
+    "pronunciation": "/əˈfɹeɪd/",
+    "difficulty": 2,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective"
+    ],
+    "answerPos": "noun",
+    "examplePos": "adjective",
+    "decisionStatus": "single_pos_confirmed",
+    "category": "A",
+    "adoptedTag": [
+      "形容詞"
+    ],
+    "confidence": 0.997,
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective]に形容詞あり・現タグ『名詞』不一致・2辞書確認"
+  },
+  {
+    "id": "en-01467",
+    "language": "english",
+    "headword": "relevant",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "関連する",
+    "example": "Your question is relevant to today's topic. — あなたの質問は今日の話題に関連している。",
+    "exampleForm": "relevant",
+    "pronunciation": "/ˈɹɛɫəvənt/",
+    "difficulty": 2,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective"
+    ],
+    "answerPos": "verb",
+    "examplePos": "adjective",
+    "decisionStatus": "single_pos_confirmed",
+    "category": "A",
+    "adoptedTag": [
+      "形容詞"
+    ],
+    "confidence": 0.997,
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective]に形容詞あり・現タグ『動詞』不一致・2辞書確認"
+  },
+  {
+    "id": "en-01534",
+    "language": "english",
+    "headword": "suitable",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "適した",
+    "example": "These shoes are suitable for long walks. — この靴は長い散歩に適している。",
+    "exampleForm": "suitable",
+    "pronunciation": "/ˈsutəbəɫ/",
+    "difficulty": 2,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective"
+    ],
+    "answerPos": "noun",
+    "examplePos": "adjective",
+    "decisionStatus": "single_pos_confirmed",
+    "category": "A",
+    "adoptedTag": [
+      "形容詞"
+    ],
+    "confidence": 0.997,
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective]に形容詞あり・現タグ『名詞』不一致・2辞書確認"
+  },
+  {
+    "id": "en-01753",
+    "language": "english",
+    "headword": "helpful",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "助けになる",
+    "example": "Your advice was very helpful to me. — あなたの助言は私にとても助けになった。",
+    "exampleForm": "helpful",
+    "pronunciation": "/ˈhɛɫpfəɫ/",
+    "difficulty": 3,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective"
+    ],
+    "answerPos": "verb",
+    "examplePos": "adjective",
+    "decisionStatus": "single_pos_confirmed",
+    "category": "A",
+    "adoptedTag": [
+      "形容詞"
+    ],
+    "confidence": 0.997,
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective]に形容詞あり・現タグ『動詞』不一致・2辞書確認"
+  },
+  {
+    "id": "en-01764",
+    "language": "english",
+    "headword": "lip",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "くちびる",
+    "example": "He touched his lip with his finger. — 彼は指で自分のくちびるに触れた。",
+    "exampleForm": "lip",
+    "pronunciation": "/ˈɫɪp/",
+    "difficulty": 3,
+    "dict1Pos": [
+      "noun"
+    ],
+    "dict2Pos": [
+      "noun",
+      "verb"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "noun",
+      "verb"
+    ],
+    "answerPos": "verb",
+    "examplePos": "noun",
+    "decisionStatus": "single_pos_confirmed",
+    "category": "A",
+    "adoptedTag": [
+      "名詞"
+    ],
+    "confidence": 0.997,
+    "reason": "例文で見出し語は名詞として使用・辞書和集合[noun,verb]に名詞あり・現タグ『動詞』不一致・2辞書確認"
+  },
+  {
+    "id": "en-01837",
+    "language": "english",
+    "headword": "consistent",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "一貫した",
+    "example": "Her answers were consistent from start to finish. — 彼女の答えは最初から最後まで一貫していた。",
+    "exampleForm": "consistent",
+    "pronunciation": "/kənˈsɪstənt/",
+    "difficulty": 3,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective",
+      "noun"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "noun"
+    ],
+    "answerPos": "noun",
+    "examplePos": "adjective",
+    "decisionStatus": "single_pos_confirmed",
+    "category": "A",
+    "adoptedTag": [
+      "形容詞"
+    ],
+    "confidence": 0.997,
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,noun]に形容詞あり・現タグ『名詞』不一致・2辞書確認"
+  },
+  {
+    "id": "en-02048",
+    "language": "english",
+    "headword": "capable",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "能力のある",
+    "example": "She is capable of teaching three languages. — 彼女は3つの言語を教える能力がある。",
+    "exampleForm": "capable",
+    "pronunciation": "/ˈkeɪpəbəɫ/",
+    "difficulty": 3,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective"
+    ],
+    "answerPos": "verb",
+    "examplePos": "adjective",
+    "decisionStatus": "single_pos_confirmed",
+    "category": "A",
+    "adoptedTag": [
+      "形容詞"
+    ],
+    "confidence": 0.997,
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective]に形容詞あり・現タグ『動詞』不一致・2辞書確認"
+  },
+  {
+    "id": "en-02203",
+    "language": "english",
+    "headword": "nervous",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "緊張した",
+    "example": "I was nervous before my first speech. — 初めてのスピーチの前は緊張していた。",
+    "exampleForm": "nervous",
+    "pronunciation": "/ˈnɝvəs/",
+    "difficulty": 3,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective"
+    ],
+    "answerPos": "noun",
+    "examplePos": "adjective",
+    "decisionStatus": "single_pos_confirmed",
+    "category": "A",
+    "adoptedTag": [
+      "形容詞"
+    ],
+    "confidence": 0.997,
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective]に形容詞あり・現タグ『名詞』不一致・2辞書確認"
+  },
+  {
+    "id": "en-02367",
+    "language": "english",
+    "headword": "confident",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "自信のある",
+    "example": "She is confident about tomorrow's test. — 彼女は明日のテストに自信がある。",
+    "exampleForm": "confident",
+    "pronunciation": "/ˈkɑnfədənt/",
+    "difficulty": 3,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective",
+      "noun"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "noun"
+    ],
+    "answerPos": "verb",
+    "examplePos": "adjective",
+    "decisionStatus": "single_pos_confirmed",
+    "category": "A",
+    "adoptedTag": [
+      "形容詞"
+    ],
+    "confidence": 0.997,
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,noun]に形容詞あり・現タグ『動詞』不一致・2辞書確認"
+  },
+  {
+    "id": "en-02472",
+    "language": "english",
+    "headword": "mad",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "腹を立てた",
+    "example": "He was mad at me for losing his book. — 彼は私が本をなくしたことに腹を立てた。",
+    "exampleForm": "mad",
+    "pronunciation": "/ˈmæd/",
+    "difficulty": 3,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective",
+      "adverb",
+      "verb",
+      "noun",
+      "proper noun"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "adverb",
+      "verb",
+      "noun",
+      "proper noun"
+    ],
+    "answerPos": "noun",
+    "examplePos": "adjective",
+    "decisionStatus": "single_pos_confirmed",
+    "category": "A",
+    "adoptedTag": [
+      "形容詞"
+    ],
+    "confidence": 0.997,
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,adverb,verb,noun,proper noun]に形容詞あり・現タグ『名詞』不一致・2辞書確認"
+  },
+  {
+    "id": "en-02500",
+    "language": "english",
+    "headword": "visible",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "目に見える",
+    "example": "The tower is visible from my window. — その塔は私の窓から目に見える。",
+    "exampleForm": "visible",
+    "pronunciation": "/ˈvɪzəbəɫ/",
+    "difficulty": 3,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective"
+    ],
+    "answerPos": "verb",
+    "examplePos": "adjective",
+    "decisionStatus": "single_pos_confirmed",
+    "category": "A",
+    "adoptedTag": [
+      "形容詞"
+    ],
+    "confidence": 0.997,
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective]に形容詞あり・現タグ『動詞』不一致・2辞書確認"
+  },
+  {
+    "id": "en-02559",
+    "language": "english",
+    "headword": "acceptable",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "受け入れられる",
+    "example": "This plan is acceptable to all the members. — この計画は全員に受け入れられるものだ。",
+    "exampleForm": "acceptable",
+    "pronunciation": "/ækˈsɛptəbəɫ/",
+    "difficulty": 3,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective",
+      "noun"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "noun"
+    ],
+    "answerPos": "verb",
+    "examplePos": "adjective",
+    "decisionStatus": "single_pos_confirmed",
+    "category": "A",
+    "adoptedTag": [
+      "形容詞"
+    ],
+    "confidence": 0.997,
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,noun]に形容詞あり・現タグ『動詞』不一致・2辞書確認"
+  },
+  {
+    "id": "en-02739",
+    "language": "english",
+    "headword": "controversial",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "物議を醸す",
+    "example": "The new rule was controversial among the students. — 新しい規則は生徒の間で物議を醸した。",
+    "exampleForm": "controversial",
+    "pronunciation": "/ˌkɑntɹəˈvɝʃəɫ/",
+    "difficulty": 3,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective",
+      "noun"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "noun"
+    ],
+    "answerPos": "verb",
+    "examplePos": "adjective",
+    "decisionStatus": "single_pos_confirmed",
+    "category": "A",
+    "adoptedTag": [
+      "形容詞"
+    ],
+    "confidence": 0.997,
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,noun]に形容詞あり・現タグ『動詞』不一致・2辞書確認"
+  },
+  {
+    "id": "en-02777",
+    "language": "english",
+    "headword": "luxury",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "ぜいたく",
+    "example": "Eating out every day is a luxury for us. — 毎日の外食は私たちにはぜいたくだ。",
+    "exampleForm": "luxury",
+    "pronunciation": "/ˈɫəɡʒɝi/",
+    "difficulty": 3,
+    "dict1Pos": [
+      "noun"
+    ],
+    "dict2Pos": [
+      "noun",
+      "adjective"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "noun",
+      "adjective"
+    ],
+    "answerPos": "adverb",
+    "examplePos": "noun",
+    "decisionStatus": "single_pos_confirmed",
+    "category": "A",
+    "adoptedTag": [
+      "名詞"
+    ],
+    "confidence": 0.997,
+    "reason": "例文で見出し語は名詞として使用・辞書和集合[noun,adjective]に名詞あり・現タグ『動詞』不一致・2辞書確認"
+  },
+  {
+    "id": "en-02816",
+    "language": "english",
+    "headword": "ashamed",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "恥じて",
+    "example": "He was ashamed of his careless mistake. — 彼は自分の不注意な間違いを恥じていた。",
+    "exampleForm": "ashamed",
+    "pronunciation": "/əˈʃeɪmd/",
+    "difficulty": 3,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective",
+      "verb"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "verb"
+    ],
+    "answerPos": "noun",
+    "examplePos": "adjective",
+    "decisionStatus": "single_pos_confirmed",
+    "category": "A",
+    "adoptedTag": [
+      "形容詞"
+    ],
+    "confidence": 0.997,
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,verb]に形容詞あり・現タグ『名詞』不一致・2辞書確認"
+  },
+  {
+    "id": "en-02871",
+    "language": "english",
+    "headword": "related",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "関係のある",
+    "example": "This question is related to our lesson. — この質問は私たちの授業と関係がある。",
+    "exampleForm": "related",
+    "pronunciation": "/ˌɹiˈɫeɪtɪd/",
+    "difficulty": 4,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective",
+      "verb"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "verb"
+    ],
+    "answerPos": "verb",
+    "examplePos": "adjective",
+    "decisionStatus": "single_pos_confirmed",
+    "category": "A",
+    "adoptedTag": [
+      "形容詞"
+    ],
+    "confidence": 0.997,
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,verb]に形容詞あり・現タグ『動詞』不一致・2辞書確認"
+  },
+  {
+    "id": "en-03054",
+    "language": "english",
+    "headword": "included",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "含めて",
+    "example": "He was included in the deal. — その取引に彼は加えられた。",
+    "exampleForm": "included",
+    "pronunciation": "/ˌɪnˈkɫudəd/",
+    "difficulty": 4,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "verb",
+      "adjective"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "verb"
+    ],
+    "answerPos": "noun",
+    "examplePos": "adjective",
+    "decisionStatus": "single_pos_confirmed",
+    "category": "A",
+    "adoptedTag": [
+      "形容詞"
+    ],
+    "confidence": 0.997,
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,verb]に形容詞あり・現タグ『名詞』不一致・2辞書確認"
+  },
+  {
+    "id": "en-03068",
+    "language": "english",
+    "headword": "registered",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "登録された",
+    "example": "Her name is registered at the sports club. — 彼女の名前はスポーツクラブに登録されている。",
+    "exampleForm": "registered",
+    "pronunciation": "/ˈɹɛdʒɪstɝd/",
+    "difficulty": 4,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective",
+      "verb"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "verb"
+    ],
+    "answerPos": "noun",
+    "examplePos": "adjective",
+    "decisionStatus": "single_pos_confirmed",
+    "category": "A",
+    "adoptedTag": [
+      "形容詞"
+    ],
+    "confidence": 0.997,
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,verb]に形容詞あり・現タグ『名詞』不一致・2辞書確認"
+  },
+  {
+    "id": "en-03342",
+    "language": "english",
+    "headword": "born",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "生まれた",
+    "example": "The baby was born early this morning. — 赤ちゃんは今朝早く生まれた。",
+    "exampleForm": "born",
+    "pronunciation": "/ˈbɔɹn/",
+    "difficulty": 4,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "verb",
+      "adjective",
+      "noun",
+      "proper noun"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "verb",
+      "noun",
+      "proper noun"
+    ],
+    "answerPos": "noun",
+    "examplePos": "adjective",
+    "decisionStatus": "single_pos_confirmed",
+    "category": "A",
+    "adoptedTag": [
+      "形容詞"
+    ],
+    "confidence": 0.997,
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,verb,noun,proper noun]に形容詞あり・現タグ『名詞』不一致・2辞書確認"
+  },
+  {
+    "id": "en-03349",
+    "language": "english",
+    "headword": "moving",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "動く",
+    "example": "Thank you, that was very moving. — 感動をありがとう！",
+    "exampleForm": "moving",
+    "pronunciation": "/ˈmuvɪŋ/",
+    "difficulty": 4,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective",
+      "verb",
+      "noun"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "verb",
+      "noun"
+    ],
+    "answerPos": "adverb",
+    "examplePos": "adjective",
+    "decisionStatus": "single_pos_confirmed",
+    "category": "A",
+    "adoptedTag": [
+      "形容詞"
+    ],
+    "confidence": 0.997,
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,verb,noun]に形容詞あり・現タグ『動詞』不一致・2辞書確認"
+  },
+  {
+    "id": "en-03388",
+    "language": "english",
+    "headword": "fixed",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "固定した",
+    "example": "The shelf is fixed to the wall. — その棚は壁に固定してある。",
+    "exampleForm": "fixed",
+    "pronunciation": "/ˈfɪkst/",
+    "difficulty": 4,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "verb",
+      "adjective"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "verb"
+    ],
+    "answerPos": "noun",
+    "examplePos": "adjective",
+    "decisionStatus": "single_pos_confirmed",
+    "category": "A",
+    "adoptedTag": [
+      "形容詞"
+    ],
+    "confidence": 0.997,
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,verb]に形容詞あり・現タグ『名詞』不一致・2辞書確認"
+  },
+  {
+    "id": "en-03638",
+    "language": "english",
+    "headword": "intended",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "意図された",
+    "example": "This book is intended for young readers. — この本は若い読者向けに意図されている。",
+    "exampleForm": "intended",
+    "pronunciation": "/ˌɪnˈtɛndɪd/",
+    "difficulty": 4,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective",
+      "noun",
+      "verb"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "noun",
+      "verb"
+    ],
+    "answerPos": "noun",
+    "examplePos": "adjective",
+    "decisionStatus": "single_pos_confirmed",
+    "category": "A",
+    "adoptedTag": [
+      "形容詞"
+    ],
+    "confidence": 0.997,
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,noun,verb]に形容詞あり・現タグ『名詞』不一致・2辞書確認"
+  },
+  {
+    "id": "en-03775",
+    "language": "english",
+    "headword": "prepared",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "準備ができた",
+    "example": "We are prepared for the long trip. — 私たちは長い旅行の準備ができている。",
+    "exampleForm": "prepared",
+    "pronunciation": "/pɹiˈpɛɹd/",
+    "difficulty": 4,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective",
+      "verb"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "verb"
+    ],
+    "answerPos": "noun",
+    "examplePos": "adjective",
+    "decisionStatus": "single_pos_confirmed",
+    "category": "A",
+    "adoptedTag": [
+      "形容詞"
+    ],
+    "confidence": 0.997,
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,verb]に形容詞あり・現タグ『名詞』不一致・2辞書確認"
+  },
+  {
+    "id": "en-03808",
+    "language": "english",
+    "headword": "eligible",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "資格のある",
+    "example": "Students over fifteen are eligible for the contest. — 15歳を超える生徒はそのコンテストに出る資格がある。",
+    "exampleForm": "eligible",
+    "pronunciation": "/ˈɛɫədʒəbəɫ/",
+    "difficulty": 4,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective",
+      "noun"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "noun"
+    ],
+    "answerPos": "verb",
+    "examplePos": "adjective",
+    "decisionStatus": "single_pos_confirmed",
+    "category": "A",
+    "adoptedTag": [
+      "形容詞"
+    ],
+    "confidence": 0.997,
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,noun]に形容詞あり・現タグ『動詞』不一致・2辞書確認"
+  },
+  {
+    "id": "en-03851",
+    "language": "english",
+    "headword": "compatible",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "互換性のある",
+    "example": "This printer is compatible with my old computer. — このプリンターは私の古いコンピューターと互換性がある。",
+    "exampleForm": "compatible",
+    "pronunciation": "/kəmˈpætəbəɫ/",
+    "difficulty": 4,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective",
+      "noun"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "noun"
+    ],
+    "answerPos": "verb",
+    "examplePos": "adjective",
+    "decisionStatus": "single_pos_confirmed",
+    "category": "A",
+    "adoptedTag": [
+      "形容詞"
+    ],
+    "confidence": 0.997,
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,noun]に形容詞あり・現タグ『動詞』不一致・2辞書確認"
+  },
+  {
+    "id": "en-03990",
+    "language": "english",
+    "headword": "connected",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "連結した",
+    "example": "She is connected with that company. — 彼女はあの会社と取引関係があります。",
+    "exampleForm": "connected",
+    "pronunciation": "/kəˈnɛktɪd/",
+    "difficulty": 4,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective",
+      "verb"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "verb"
+    ],
+    "answerPos": "noun",
+    "examplePos": "adjective",
+    "decisionStatus": "single_pos_confirmed",
+    "category": "A",
+    "adoptedTag": [
+      "形容詞"
+    ],
+    "confidence": 0.997,
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,verb]に形容詞あり・現タグ『名詞』不一致・2辞書確認"
+  },
+  {
+    "id": "en-04209",
+    "language": "english",
+    "headword": "affected",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "影響された",
+    "example": "I was affected by the heat. — 暑さにやられた。",
+    "exampleForm": "affected",
+    "pronunciation": "/əˈfɛktɪd/",
+    "difficulty": 4,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective",
+      "noun",
+      "verb"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "noun",
+      "verb"
+    ],
+    "answerPos": "noun",
+    "examplePos": "adjective",
+    "decisionStatus": "single_pos_confirmed",
+    "category": "A",
+    "adoptedTag": [
+      "形容詞"
+    ],
+    "confidence": 0.997,
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,noun,verb]に形容詞あり・現タグ『名詞』不一致・2辞書確認"
+  },
+  {
+    "id": "en-04880",
+    "language": "english",
+    "headword": "exciting",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "わくわくする",
+    "example": "The soccer game was exciting from the start. — そのサッカーの試合は最初からわくわくした。",
+    "exampleForm": "exciting",
+    "pronunciation": "/ɪkˈsaɪtɪŋ/",
+    "difficulty": 4,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "verb",
+      "adjective",
+      "noun"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "verb",
+      "noun"
+    ],
+    "answerPos": "verb",
+    "examplePos": "adjective",
+    "decisionStatus": "single_pos_confirmed",
+    "category": "A",
+    "adoptedTag": [
+      "形容詞"
+    ],
+    "confidence": 0.997,
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,verb,noun]に形容詞あり・現タグ『動詞』不一致・2辞書確認"
+  },
+  {
+    "id": "en-04921",
+    "language": "english",
+    "headword": "incorporated",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "法人組織の，組み込まれた",
+    "example": "Her business was incorporated. — 彼女の事業は会社の組織になった。",
+    "exampleForm": "incorporated",
+    "pronunciation": "/ˌɪnˈkɔɹpɝˌeɪtɪd/",
+    "difficulty": 4,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective",
+      "verb"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "verb"
+    ],
+    "answerPos": "noun",
+    "examplePos": "adjective",
+    "decisionStatus": "single_pos_confirmed",
+    "category": "A",
+    "adoptedTag": [
+      "形容詞"
+    ],
+    "confidence": 0.997,
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,verb]に形容詞あり・現タグ『名詞』不一致・2辞書確認"
+  },
+  {
+    "id": "en-05213",
+    "language": "english",
+    "headword": "satisfied",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "満足した",
+    "example": "She was satisfied with her test score. — 彼女は自分のテストの点数に満足した。",
+    "exampleForm": "satisfied",
+    "pronunciation": "/ˈsætəsˌfaɪd/",
+    "difficulty": 4,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "verb",
+      "adjective"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "verb"
+    ],
+    "answerPos": "noun",
+    "examplePos": "adjective",
+    "decisionStatus": "single_pos_confirmed",
+    "category": "A",
+    "adoptedTag": [
+      "形容詞"
+    ],
+    "confidence": 0.997,
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,verb]に形容詞あり・現タグ『名詞』不一致・2辞書確認"
+  },
+  {
+    "id": "en-05295",
+    "language": "english",
+    "headword": "restricted",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "制限された",
+    "example": "Entry to this area is restricted to staff. — この区域への立ち入りは職員に制限されている。",
+    "exampleForm": "restricted",
+    "pronunciation": "/ɹiˈstɹɪktəd/",
+    "difficulty": 4,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "verb",
+      "adjective"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "verb"
+    ],
+    "answerPos": "noun",
+    "examplePos": "adjective",
+    "decisionStatus": "single_pos_confirmed",
+    "category": "A",
+    "adoptedTag": [
+      "形容詞"
+    ],
+    "confidence": 0.997,
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,verb]に形容詞あり・現タグ『名詞』不一致・2辞書確認"
+  },
+  {
+    "id": "en-05716",
+    "language": "english",
+    "headword": "liable",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "責任のある",
+    "example": "Drivers are liable for any damage they cause. — 運転者は自分が起こした損害に責任がある。",
+    "exampleForm": "liable",
+    "pronunciation": "/ˈɫaɪəbəɫ/",
+    "difficulty": 4,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective"
+    ],
+    "answerPos": "verb",
+    "examplePos": "adjective",
+    "decisionStatus": "single_pos_confirmed",
+    "category": "A",
+    "adoptedTag": [
+      "形容詞"
+    ],
+    "confidence": 0.997,
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective]に形容詞あり・現タグ『動詞』不一致・2辞書確認"
+  },
+  {
+    "id": "en-05954",
+    "language": "english",
+    "headword": "tired",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "疲れた",
+    "example": "I was tired after the long walk. — 長い散歩のあとで疲れていた。",
+    "exampleForm": "tired",
+    "pronunciation": "/ˈtaɪɝd/",
+    "difficulty": 4,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "verb",
+      "adjective"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "verb"
+    ],
+    "answerPos": "noun",
+    "examplePos": "adjective",
+    "decisionStatus": "single_pos_confirmed",
+    "category": "A",
+    "adoptedTag": [
+      "形容詞"
+    ],
+    "confidence": 0.997,
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,verb]に形容詞あり・現タグ『名詞』不一致・2辞書確認"
+  },
+  {
+    "id": "en-05977",
+    "language": "english",
+    "headword": "resistant",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "抵抗力のある",
+    "example": "This plant is resistant to cold weather. — この植物は寒い天候に抵抗力がある。",
+    "exampleForm": "resistant",
+    "pronunciation": "/ɹiˈzɪstənt/",
+    "difficulty": 4,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "noun",
+      "adjective"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "noun"
+    ],
+    "answerPos": "verb",
+    "examplePos": "adjective",
+    "decisionStatus": "single_pos_confirmed",
+    "category": "A",
+    "adoptedTag": [
+      "形容詞"
+    ],
+    "confidence": 0.997,
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,noun]に形容詞あり・現タグ『動詞』不一致・2辞書確認"
+  },
+  {
+    "id": "en-06241",
+    "language": "english",
+    "headword": "sucking",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "吸い込む",
+    "example": "The baby is sucking his finger. — 赤ちゃんが指を吸ってるよ。",
+    "exampleForm": "sucking",
+    "pronunciation": "/ˈsəkɪŋ/",
+    "difficulty": 5,
+    "dict1Pos": [
+      "noun"
+    ],
+    "dict2Pos": [
+      "verb",
+      "noun",
+      "adjective"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "noun",
+      "verb",
+      "adjective"
+    ],
+    "answerPos": "verb",
+    "examplePos": "adjective",
+    "decisionStatus": "single_pos_confirmed",
+    "category": "A",
+    "adoptedTag": [
+      "形容詞"
+    ],
+    "confidence": 0.997,
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[noun,verb,adjective]に形容詞あり・現タグ『動詞』不一致・2辞書確認"
+  },
+  {
+    "id": "en-06298",
+    "language": "english",
+    "headword": "surprised",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "驚いた",
+    "example": "She was surprised at the sudden news. — 彼女は突然の知らせに驚いた。",
+    "exampleForm": "surprised",
+    "pronunciation": "/səˈpɹaɪzd/",
+    "difficulty": 5,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective",
+      "verb"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "verb"
+    ],
+    "answerPos": "noun",
+    "examplePos": "adjective",
+    "decisionStatus": "single_pos_confirmed",
+    "category": "A",
+    "adoptedTag": [
+      "形容詞"
+    ],
+    "confidence": 0.997,
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,verb]に形容詞あり・現タグ『名詞』不一致・2辞書確認"
+  },
+  {
+    "id": "en-06374",
+    "language": "english",
+    "headword": "faced",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "面した",
+    "example": "We are faced with many difficulties. — われわれは多くの困難に直面している。",
+    "exampleForm": "faced",
+    "pronunciation": "/ˈfeɪst/",
+    "difficulty": 5,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "verb",
+      "adjective"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "verb"
+    ],
+    "answerPos": "noun",
+    "examplePos": "adjective",
+    "decisionStatus": "single_pos_confirmed",
+    "category": "A",
+    "adoptedTag": [
+      "形容詞"
+    ],
+    "confidence": 0.997,
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,verb]に形容詞あり・現タグ『名詞』不一致・2辞書確認"
+  },
+  {
+    "id": "en-06411",
+    "language": "english",
+    "headword": "adjacent",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "隣接した",
+    "example": "Our school is adjacent to a large park. — わたしたちの学校は大きな公園に隣接している。",
+    "exampleForm": "adjacent",
+    "pronunciation": "/əˈdʒeɪsənt/",
+    "difficulty": 5,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective",
+      "noun",
+      "preposition"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "noun",
+      "preposition"
+    ],
+    "answerPos": "noun",
+    "examplePos": "adjective",
+    "decisionStatus": "single_pos_confirmed",
+    "category": "A",
+    "adoptedTag": [
+      "形容詞"
+    ],
+    "confidence": 0.997,
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,noun,preposition]に形容詞あり・現タグ『名詞』不一致・2辞書確認"
+  },
+  {
+    "id": "en-06499",
+    "language": "english",
+    "headword": "excited",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "興奮した",
+    "example": "The children were excited about the school trip. — 子どもたちは遠足に興奮していた。",
+    "exampleForm": "excited",
+    "pronunciation": "/ɪkˈsaɪtəd/",
+    "difficulty": 5,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective",
+      "verb"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "verb"
+    ],
+    "answerPos": "noun",
+    "examplePos": "adjective",
+    "decisionStatus": "single_pos_confirmed",
+    "category": "A",
+    "adoptedTag": [
+      "形容詞"
+    ],
+    "confidence": 0.997,
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,verb]に形容詞あり・現タグ『名詞』不一致・2辞書確認"
+  },
+  {
+    "id": "en-06683",
+    "language": "english",
+    "headword": "wondering",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "不思議に思う",
+    "example": "The picture set her wondering. — その絵を見て彼女は驚嘆した。",
+    "exampleForm": "wondering",
+    "pronunciation": "/ˈwəndɝɪŋ/",
+    "difficulty": 5,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "verb",
+      "noun",
+      "adjective"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "verb",
+      "noun"
+    ],
+    "answerPos": "verb",
+    "examplePos": "noun",
+    "decisionStatus": "single_pos_confirmed",
+    "category": "A",
+    "adoptedTag": [
+      "名詞"
+    ],
+    "confidence": 0.997,
+    "reason": "例文で見出し語は名詞として使用・辞書和集合[adjective,verb,noun]に名詞あり・現タグ『動詞』不一致・2辞書確認"
+  },
+  {
+    "id": "en-06725",
+    "language": "english",
+    "headword": "ripe",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "熟した",
+    "example": "These bananas are ripe and sweet. — このバナナは熟していて甘い。",
+    "exampleForm": "ripe",
+    "pronunciation": "/ˈɹaɪp/",
+    "difficulty": 5,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective",
+      "noun",
+      "verb",
+      "proper noun"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "noun",
+      "verb",
+      "proper noun"
+    ],
+    "answerPos": "noun",
+    "examplePos": "adjective",
+    "decisionStatus": "single_pos_confirmed",
+    "category": "A",
+    "adoptedTag": [
+      "形容詞"
+    ],
+    "confidence": 0.997,
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,noun,verb,proper noun]に形容詞あり・現タグ『名詞』不一致・2辞書確認"
+  },
+  {
+    "id": "en-06784",
+    "language": "english",
+    "headword": "accredited",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "一般に認められた",
+    "example": "He was accredited with these words. — 彼がこういうことを言ったのだと思われる。",
+    "exampleForm": "accredited",
+    "pronunciation": "/əˈkɹɛdɪtɪd/",
+    "difficulty": 5,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "verb",
+      "adjective"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "verb"
+    ],
+    "answerPos": "noun",
+    "examplePos": "adjective",
+    "decisionStatus": "single_pos_confirmed",
+    "category": "A",
+    "adoptedTag": [
+      "形容詞"
+    ],
+    "confidence": 0.997,
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,verb]に形容詞あり・現タグ『名詞』不一致・2辞書確認"
+  },
+  {
+    "id": "en-06937",
+    "language": "english",
+    "headword": "confused",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "混乱した",
+    "example": "I was confused by the difficult question. — わたしはその難しい質問に混乱した。",
+    "exampleForm": "confused",
+    "pronunciation": "/kənˈfjuzd/",
+    "difficulty": 5,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "verb",
+      "adjective"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "verb"
+    ],
+    "answerPos": "noun",
+    "examplePos": "adjective",
+    "decisionStatus": "single_pos_confirmed",
+    "category": "A",
+    "adoptedTag": [
+      "形容詞"
+    ],
+    "confidence": 0.997,
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,verb]に形容詞あり・現タグ『名詞』不一致・2辞書確認"
+  },
+  {
+    "id": "en-07036",
+    "language": "english",
+    "headword": "alleged",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "申し立てられた",
+    "example": "He is alleged to have been a thief. — 彼は泥棒だったそうだ。",
+    "exampleForm": "alleged",
+    "pronunciation": "/əˈɫɛdʒd/",
+    "difficulty": 5,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "verb",
+      "adjective"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "verb"
+    ],
+    "answerPos": "noun",
+    "examplePos": "adjective",
+    "decisionStatus": "single_pos_confirmed",
+    "category": "A",
+    "adoptedTag": [
+      "形容詞"
+    ],
+    "confidence": 0.997,
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,verb]に形容詞あり・現タグ『名詞』不一致・2辞書確認"
+  },
+  {
+    "id": "en-07567",
+    "language": "english",
+    "headword": "durable",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "耐久性のある",
+    "example": "These boots are durable and last for years. — このブーツは耐久性があり、何年ももつ。",
+    "exampleForm": "durable",
+    "pronunciation": "/ˈdʊɹəbəɫ/",
+    "difficulty": 5,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective",
+      "noun"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "noun"
+    ],
+    "answerPos": "verb",
+    "examplePos": "adjective",
+    "decisionStatus": "single_pos_confirmed",
+    "category": "A",
+    "adoptedTag": [
+      "形容詞"
+    ],
+    "confidence": 0.997,
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,noun]に形容詞あり・現タグ『動詞』不一致・2辞書確認"
+  },
+  {
+    "id": "en-07673",
+    "language": "english",
+    "headword": "disturbed",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "動揺した，心を乱された",
+    "example": "I don't like to be disturbed. — 私は邪魔されたくない。",
+    "exampleForm": "disturbed",
+    "pronunciation": "/dɪˈstɝbd/",
+    "difficulty": 5,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective",
+      "verb"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "verb"
+    ],
+    "answerPos": "noun",
+    "examplePos": "adjective",
+    "decisionStatus": "single_pos_confirmed",
+    "category": "A",
+    "adoptedTag": [
+      "形容詞"
+    ],
+    "confidence": 0.997,
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,verb]に形容詞あり・現タグ『名詞』不一致・2辞書確認"
+  },
+  {
+    "id": "en-08050",
+    "language": "english",
+    "headword": "satisfactory",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "満足のいく",
+    "example": "Her test results were satisfactory this term. — 今学期の彼女のテストの結果は満足のいくものだった。",
+    "exampleForm": "satisfactory",
+    "pronunciation": "/ˌsætəsˈfæktɹi/",
+    "difficulty": 5,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective",
+      "noun"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "noun"
+    ],
+    "answerPos": "adverb",
+    "examplePos": "adjective",
+    "decisionStatus": "single_pos_confirmed",
+    "category": "A",
+    "adoptedTag": [
+      "形容詞"
+    ],
+    "confidence": 0.997,
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,noun]に形容詞あり・現タグ『動詞』不一致・2辞書確認"
+  },
+  {
+    "id": "en-08102",
+    "language": "english",
+    "headword": "instrumental",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "役立つ",
+    "example": "Her advice was instrumental in our success. — 彼女の助言はわたしたちの成功に役立った。",
+    "exampleForm": "instrumental",
+    "pronunciation": "/ˌɪnstɹəˈmɛnəɫ/",
+    "difficulty": 5,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective",
+      "noun"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "noun"
+    ],
+    "answerPos": "verb",
+    "examplePos": "adjective",
+    "decisionStatus": "single_pos_confirmed",
+    "category": "A",
+    "adoptedTag": [
+      "形容詞"
+    ],
+    "confidence": 0.997,
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,noun]に形容詞あり・現タグ『動詞』不一致・2辞書確認"
+  },
+  {
+    "id": "en-08660",
+    "language": "english",
+    "headword": "assured",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "保証された",
+    "example": "Every guest is assured of a warm room. — すべての客に暖かい部屋が保証されている。",
+    "exampleForm": "assured",
+    "pronunciation": "/əˈʃʊɹd/",
+    "difficulty": 5,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "verb",
+      "adjective",
+      "noun"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "verb",
+      "noun"
+    ],
+    "answerPos": "noun",
+    "examplePos": "adjective",
+    "decisionStatus": "single_pos_confirmed",
+    "category": "A",
+    "adoptedTag": [
+      "形容詞"
+    ],
+    "confidence": 0.997,
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,verb,noun]に形容詞あり・現タグ『名詞』不一致・2辞書確認"
+  },
+  {
+    "id": "en-08663",
+    "language": "english",
+    "headword": "conscious",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "意識のある",
+    "example": "The patient was conscious and able to speak. — 患者は意識があり、話すことができた。",
+    "exampleForm": "conscious",
+    "pronunciation": "/ˈkɑnʃəs/",
+    "difficulty": 5,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective",
+      "noun"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "noun"
+    ],
+    "answerPos": "verb",
+    "examplePos": "adjective",
+    "decisionStatus": "single_pos_confirmed",
+    "category": "A",
+    "adoptedTag": [
+      "形容詞"
+    ],
+    "confidence": 0.997,
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,noun]に形容詞あり・現タグ『動詞』不一致・2辞書確認"
+  },
+  {
+    "id": "en-08992",
+    "language": "english",
+    "headword": "sticky",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "ねばねばした",
+    "example": "My hands became sticky from the honey. — はちみつで手がねばねばした。",
+    "exampleForm": "sticky",
+    "pronunciation": "/ˈstɪki/",
+    "difficulty": 5,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective",
+      "noun",
+      "verb"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "noun",
+      "verb"
+    ],
+    "answerPos": "noun",
+    "examplePos": "adjective",
+    "decisionStatus": "single_pos_confirmed",
+    "category": "A",
+    "adoptedTag": [
+      "形容詞"
+    ],
+    "confidence": 0.997,
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,noun,verb]に形容詞あり・現タグ『名詞』不一致・2辞書確認"
+  },
+  {
+    "id": "en-09399",
+    "language": "english",
+    "headword": "disappointed",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "失望した",
+    "example": "She was disappointed with the test results. — 彼女はテストの結果に失望した。",
+    "exampleForm": "disappointed",
+    "pronunciation": "/ˌdɪsəˈpɔɪnɪd/",
+    "difficulty": 5,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective",
+      "verb"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "verb"
+    ],
+    "answerPos": "noun",
+    "examplePos": "adjective",
+    "decisionStatus": "single_pos_confirmed",
+    "category": "A",
+    "adoptedTag": [
+      "形容詞"
+    ],
+    "confidence": 0.997,
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,verb]に形容詞あり・現タグ『名詞』不一致・2辞書確認"
+  },
+  {
+    "id": "en-09440",
+    "language": "english",
+    "headword": "fuzzy",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "ぼやけた",
+    "example": "The old photo is too fuzzy to see the faces. — その古い写真はぼやけていて顔が見えない。",
+    "exampleForm": "fuzzy",
+    "pronunciation": "/ˈfəzi/",
+    "difficulty": 5,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective",
+      "noun"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "noun"
+    ],
+    "answerPos": "noun",
+    "examplePos": "adjective",
+    "decisionStatus": "single_pos_confirmed",
+    "category": "A",
+    "adoptedTag": [
+      "形容詞"
+    ],
+    "confidence": 0.997,
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,noun]に形容詞あり・現タグ『名詞』不一致・2辞書確認"
+  },
+  {
+    "id": "en-20044",
+    "language": "english",
+    "headword": "ruined",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "破滅した",
+    "example": "He will be ruined for life. — 彼はもう一生浮かび上がれないだろう。",
+    "exampleForm": "ruined",
+    "pronunciation": "/ˈɹuənd/",
+    "difficulty": 6,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "verb",
+      "adjective"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "verb"
+    ],
+    "answerPos": "noun",
+    "examplePos": "adjective",
+    "decisionStatus": "single_pos_confirmed",
+    "category": "A",
+    "adoptedTag": [
+      "形容詞"
+    ],
+    "confidence": 0.997,
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,verb]に形容詞あり・現タグ『名詞』不一致・2辞書確認"
+  },
+  {
+    "id": "en-20178",
+    "language": "english",
+    "headword": "exhausted",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "疲れ果てた",
+    "example": "The runners were exhausted after the long race. — 走者たちは長いレースのあとで疲れ果てていた。",
+    "exampleForm": "exhausted",
+    "pronunciation": "/ɪɡˈzɔstɪd/",
+    "difficulty": 6,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective",
+      "verb"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "verb"
+    ],
+    "answerPos": "noun",
+    "examplePos": "adjective",
+    "decisionStatus": "single_pos_confirmed",
+    "category": "A",
+    "adoptedTag": [
+      "形容詞"
+    ],
+    "confidence": 0.997,
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,verb]に形容詞あり・現タグ『名詞』不一致・2辞書確認"
+  },
+  {
+    "id": "en-20227",
+    "language": "english",
+    "headword": "fond",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "〜が好きで",
+    "example": "My aunt is fond of classical music. — わたしのおばはクラシック音楽が好きだ。",
+    "exampleForm": "fond",
+    "pronunciation": "/ˈfɑnd/",
+    "difficulty": 6,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective",
+      "verb",
+      "noun"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "verb",
+      "noun"
+    ],
+    "answerPos": "noun",
+    "examplePos": "adjective",
+    "decisionStatus": "single_pos_confirmed",
+    "category": "A",
+    "adoptedTag": [
+      "形容詞"
+    ],
+    "confidence": 0.997,
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,verb,noun]に形容詞あり・現タグ『名詞』不一致・2辞書確認"
+  },
+  {
+    "id": "en-20315",
+    "language": "english",
+    "headword": "relieved",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "ほっとした",
+    "example": "I was relieved to find my lost wallet. — なくした財布が見つかってほっとした。",
+    "exampleForm": "relieved",
+    "pronunciation": "/ɹiˈɫivd/",
+    "difficulty": 6,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective",
+      "verb"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "verb"
+    ],
+    "answerPos": "noun",
+    "examplePos": "adjective",
+    "decisionStatus": "single_pos_confirmed",
+    "category": "A",
+    "adoptedTag": [
+      "形容詞"
+    ],
+    "confidence": 0.997,
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,verb]に形容詞あり・現タグ『名詞』不一致・2辞書確認"
+  },
+  {
+    "id": "en-20477",
+    "language": "english",
+    "headword": "inviting",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "心を引く",
+    "example": "The warm cafe looked inviting on the cold day. — 寒い日、その暖かいカフェは心を引く様子だった。",
+    "exampleForm": "inviting",
+    "pronunciation": "/ˌɪnˈvaɪtɪŋ/",
+    "difficulty": 6,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective",
+      "verb",
+      "noun"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "verb",
+      "noun"
+    ],
+    "answerPos": "adverb",
+    "examplePos": "adjective",
+    "decisionStatus": "single_pos_confirmed",
+    "category": "A",
+    "adoptedTag": [
+      "形容詞"
+    ],
+    "confidence": 0.997,
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,verb,noun]に形容詞あり・現タグ『動詞』不一致・2辞書確認"
+  },
+  {
+    "id": "en-20485",
+    "language": "english",
+    "headword": "possessed",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "とりつかれた",
+    "example": "In the story, the old doll seemed possessed. — 物語の中で、その古い人形はとりつかれているように見えた。",
+    "exampleForm": "possessed",
+    "pronunciation": "/pəˈzɛst/",
+    "difficulty": 6,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "verb",
+      "adjective"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "verb"
+    ],
+    "answerPos": "noun",
+    "examplePos": "adjective",
+    "decisionStatus": "single_pos_confirmed",
+    "category": "A",
+    "adoptedTag": [
+      "形容詞"
+    ],
+    "confidence": 0.997,
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,verb]に形容詞あり・現タグ『名詞』不一致・2辞書確認"
+  },
+  {
+    "id": "en-20654",
+    "language": "english",
+    "headword": "suspenseful",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "ハラハラする",
+    "example": "The last part of the movie was very suspenseful. — 映画の最後の部分はとてもハラハラするものだった。",
+    "exampleForm": "suspenseful",
+    "pronunciation": "/səˈspɛnsfəɫ/",
+    "difficulty": 6,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective"
+    ],
+    "answerPos": "verb",
+    "examplePos": "adjective",
+    "decisionStatus": "single_pos_confirmed",
+    "category": "A",
+    "adoptedTag": [
+      "形容詞"
+    ],
+    "confidence": 0.997,
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective]に形容詞あり・現タグ『動詞』不一致・2辞書確認"
+  },
+  {
+    "id": "en-20771",
+    "language": "english",
+    "headword": "destined",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "運命づけられた",
+    "example": "She seemed destined to become a great singer. — 彼女は偉大な歌手になるよう運命づけられているように思えた。",
+    "exampleForm": "destined",
+    "pronunciation": "/ˈdɛstɪnd/",
+    "difficulty": 6,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective",
+      "verb"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "verb"
+    ],
+    "answerPos": "noun",
+    "examplePos": "adjective",
+    "decisionStatus": "single_pos_confirmed",
+    "category": "A",
+    "adoptedTag": [
+      "形容詞"
+    ],
+    "confidence": 0.997,
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,verb]に形容詞あり・現タグ『名詞』不一致・2辞書確認"
+  },
+  {
+    "id": "en-20904",
+    "language": "english",
+    "headword": "acquaintance",
+    "currentTags": [
+      "形容詞"
+    ],
+    "answer": "知り合い",
+    "example": "He is an acquaintance from my old job. — 彼は前の職場からの知り合いだ。",
+    "exampleForm": "acquaintance",
+    "pronunciation": "/əˈkweɪntəns/",
+    "difficulty": 6,
+    "dict1Pos": [
+      "noun"
+    ],
+    "dict2Pos": [
+      "noun"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "noun"
+    ],
+    "answerPos": "adjective",
+    "examplePos": "noun",
+    "decisionStatus": "single_pos_confirmed",
+    "category": "A",
+    "adoptedTag": [
+      "名詞"
+    ],
+    "confidence": 0.997,
+    "reason": "例文で見出し語は名詞として使用・辞書和集合[noun]に名詞あり・現タグ『形容詞』不一致・2辞書確認"
+  },
+  {
+    "id": "en-20909",
+    "language": "english",
+    "headword": "cupboard",
+    "currentTags": [
+      "形容詞"
+    ],
+    "answer": "食器だな",
+    "example": "The clean plates are in the cupboard. — きれいな皿は食器だなの中にある。",
+    "exampleForm": "cupboard",
+    "pronunciation": "/ˈkəbɝd/",
+    "difficulty": 6,
+    "dict1Pos": [
+      "noun"
+    ],
+    "dict2Pos": [
+      "noun",
+      "verb"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "noun",
+      "verb"
+    ],
+    "answerPos": "adjective",
+    "examplePos": "noun",
+    "decisionStatus": "single_pos_confirmed",
+    "category": "A",
+    "adoptedTag": [
+      "名詞"
+    ],
+    "confidence": 0.997,
+    "reason": "例文で見出し語は名詞として使用・辞書和集合[noun,verb]に名詞あり・現タグ『形容詞』不一致・2辞書確認"
+  },
+  {
+    "id": "en-21181",
+    "language": "english",
+    "headword": "relaxing",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "リラックスさせる",
+    "example": "A warm bath is relaxing after work. — 仕事のあとの温かい風呂はリラックスさせてくれる。",
+    "exampleForm": "relaxing",
+    "pronunciation": "/ɹiˈɫæksɪŋ/",
+    "difficulty": 6,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective",
+      "verb",
+      "noun"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "verb",
+      "noun"
+    ],
+    "answerPos": "verb",
+    "examplePos": "adjective",
+    "decisionStatus": "single_pos_confirmed",
+    "category": "A",
+    "adoptedTag": [
+      "形容詞"
+    ],
+    "confidence": 0.997,
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,verb,noun]に形容詞あり・現タグ『動詞』不一致・2辞書確認"
+  },
+  {
+    "id": "en-21225",
+    "language": "english",
+    "headword": "errand",
+    "currentTags": [
+      "形容詞"
+    ],
+    "answer": "使い",
+    "example": "Mother sent me on an errand to the store. — 母はわたしを店へ使いに出した。",
+    "exampleForm": "errand",
+    "pronunciation": "/ˈɛɹənd/",
+    "difficulty": 6,
+    "dict1Pos": [
+      "noun"
+    ],
+    "dict2Pos": [
+      "noun",
+      "verb"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "noun",
+      "verb"
+    ],
+    "answerPos": "adjective",
+    "examplePos": "noun",
+    "decisionStatus": "single_pos_confirmed",
+    "category": "A",
+    "adoptedTag": [
+      "名詞"
+    ],
+    "confidence": 0.997,
+    "reason": "例文で見出し語は名詞として使用・辞書和集合[noun,verb]に名詞あり・現タグ『形容詞』不一致・2辞書確認"
+  },
+  {
+    "id": "en-21265",
+    "language": "english",
+    "headword": "shoo",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "シイ!",
+    "example": "He shooed the flies away. — 彼はハエを追い払った。",
+    "exampleForm": "shooed",
+    "pronunciation": "/ˈʃu/",
+    "difficulty": 6,
+    "dict1Pos": [
+      "verb"
+    ],
+    "dict2Pos": [
+      "verb",
+      "interjection",
+      "pronoun"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "verb",
+      "interjection",
+      "pronoun"
+    ],
+    "answerPos": "noun",
+    "examplePos": "verb",
+    "decisionStatus": "single_pos_confirmed",
+    "category": "A",
+    "adoptedTag": [
+      "動詞"
+    ],
+    "confidence": 0.997,
+    "reason": "例文で見出し語は動詞として使用・辞書和集合[verb,interjection,pronoun]に動詞あり・現タグ『名詞』不一致・2辞書確認"
+  },
+  {
+    "id": "en-21314",
+    "language": "english",
+    "headword": "astonishing",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "驚くべき",
+    "example": "The magician's last trick was astonishing. — 手品師の最後の技は驚くべきものだった。",
+    "exampleForm": "astonishing",
+    "pronunciation": "/əˈstɑnɪʃɪŋ/",
+    "difficulty": 6,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective",
+      "verb"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "verb"
+    ],
+    "answerPos": "noun",
+    "examplePos": "adjective",
+    "decisionStatus": "single_pos_confirmed",
+    "category": "A",
+    "adoptedTag": [
+      "形容詞"
+    ],
+    "confidence": 0.997,
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,verb]に形容詞あり・現タグ『名詞』不一致・2辞書確認"
+  },
+  {
+    "id": "en-21327",
+    "language": "english",
+    "headword": "concussion",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "脳震とう",
+    "example": "The player rested for weeks after a concussion. — その選手は脳震とうのあと数週間休んだ。",
+    "exampleForm": "concussion",
+    "pronunciation": "/kənˈkəʃən/",
+    "difficulty": 6,
+    "dict1Pos": [
+      "noun"
+    ],
+    "dict2Pos": [
+      "noun"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "noun"
+    ],
+    "answerPos": "verb",
+    "examplePos": "noun",
+    "decisionStatus": "single_pos_confirmed",
+    "category": "A",
+    "adoptedTag": [
+      "名詞"
+    ],
+    "confidence": 0.997,
+    "reason": "例文で見出し語は名詞として使用・辞書和集合[noun]に名詞あり・現タグ『動詞』不一致・2辞書確認"
+  },
+  {
+    "id": "en-21409",
+    "language": "english",
+    "headword": "refreshing",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "気分を一新させる",
+    "example": "A cold shower is refreshing after exercise. — 運動のあとの冷たいシャワーは気分を一新させてくれる。",
+    "exampleForm": "refreshing",
+    "pronunciation": "/ɹɪˈfɹɛʃɪŋ/",
+    "difficulty": 6,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective",
+      "noun",
+      "verb"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "noun",
+      "verb"
+    ],
+    "answerPos": "verb",
+    "examplePos": "adjective",
+    "decisionStatus": "single_pos_confirmed",
+    "category": "A",
+    "adoptedTag": [
+      "形容詞"
+    ],
+    "confidence": 0.997,
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,noun,verb]に形容詞あり・現タグ『動詞』不一致・2辞書確認"
+  },
+  {
+    "id": "en-21422",
+    "language": "english",
+    "headword": "inspiring",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "人を鼓舞する",
+    "example": "Her speech about the sea was inspiring. — 海についての彼女の演説は人を鼓舞するものだった。",
+    "exampleForm": "inspiring",
+    "pronunciation": "/ˌɪnˈspaɪɝɪŋ/",
+    "difficulty": 6,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective",
+      "verb",
+      "noun"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "verb",
+      "noun"
+    ],
+    "answerPos": "verb",
+    "examplePos": "adjective",
+    "decisionStatus": "single_pos_confirmed",
+    "category": "A",
+    "adoptedTag": [
+      "形容詞"
+    ],
+    "confidence": 0.997,
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,verb,noun]に形容詞あり・現タグ『動詞』不一致・2辞書確認"
+  },
+  {
+    "id": "en-21429",
+    "language": "english",
+    "headword": "hangover",
+    "currentTags": [
+      "形容詞"
+    ],
+    "answer": "二日酔い",
+    "example": "He drank too much and had a hangover. — 彼は飲みすぎて二日酔いになった。",
+    "exampleForm": "hangover",
+    "pronunciation": "/ˈhæˌŋoʊvɝ/",
+    "difficulty": 6,
+    "dict1Pos": [
+      "noun"
+    ],
+    "dict2Pos": [
+      "noun"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "noun"
+    ],
+    "answerPos": "adjective",
+    "examplePos": "noun",
+    "decisionStatus": "single_pos_confirmed",
+    "category": "A",
+    "adoptedTag": [
+      "名詞"
+    ],
+    "confidence": 0.997,
+    "reason": "例文で見出し語は名詞として使用・辞書和集合[noun]に名詞あり・現タグ『形容詞』不一致・2辞書確認"
+  },
+  {
+    "id": "en-21484",
+    "language": "english",
+    "headword": "restroom",
+    "currentTags": [
+      "形容詞"
+    ],
+    "answer": "お手洗い",
+    "example": "The restroom is at the end of the hall. — お手洗いは廊下の突き当たりにあります。",
+    "exampleForm": "restroom",
+    "pronunciation": "/ˈɹɛsˌtɹum/",
+    "difficulty": 6,
+    "dict1Pos": [
+      "noun"
+    ],
+    "dict2Pos": [
+      "noun"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "noun"
+    ],
+    "answerPos": "adjective",
+    "examplePos": "noun",
+    "decisionStatus": "single_pos_confirmed",
+    "category": "A",
+    "adoptedTag": [
+      "名詞"
+    ],
+    "confidence": 0.997,
+    "reason": "例文で見出し語は名詞として使用・辞書和集合[noun]に名詞あり・現タグ『形容詞』不一致・2辞書確認"
+  },
+  {
+    "id": "en-21538",
+    "language": "english",
+    "headword": "neglected",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "無視された",
+    "example": "Her warning was neglected by everyone. — 彼女の警告はみんなに無視された。",
+    "exampleForm": "neglected",
+    "pronunciation": "/nəˈɡɫɛktəd/",
+    "difficulty": 7,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "verb",
+      "adjective"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "verb"
+    ],
+    "answerPos": "noun",
+    "examplePos": "adjective",
+    "decisionStatus": "single_pos_confirmed",
+    "category": "A",
+    "adoptedTag": [
+      "形容詞"
+    ],
+    "confidence": 0.997,
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,verb]に形容詞あり・現タグ『名詞』不一致・2辞書確認"
+  },
+  {
+    "id": "en-21577",
+    "language": "english",
+    "headword": "uptight",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "緊張した",
+    "example": "He was uptight before the piano contest. — 彼はピアノコンクールの前で緊張していた。",
+    "exampleForm": "uptight",
+    "pronunciation": "/əpˈtaɪt/",
+    "difficulty": 7,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective",
+      "noun"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "noun"
+    ],
+    "answerPos": "noun",
+    "examplePos": "adjective",
+    "decisionStatus": "single_pos_confirmed",
+    "category": "A",
+    "adoptedTag": [
+      "形容詞"
+    ],
+    "confidence": 0.997,
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,noun]に形容詞あり・現タグ『名詞』不一致・2辞書確認"
+  },
+  {
+    "id": "en-21672",
+    "language": "english",
+    "headword": "extinct",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "絶滅した",
+    "example": "Dinosaurs became extinct a long time ago. — 恐竜はずっと昔に絶滅した。",
+    "exampleForm": "extinct",
+    "pronunciation": "/ɪkˈstɪŋkt/",
+    "difficulty": 7,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective",
+      "verb",
+      "noun"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "verb",
+      "noun"
+    ],
+    "answerPos": "noun",
+    "examplePos": "adjective",
+    "decisionStatus": "single_pos_confirmed",
+    "category": "A",
+    "adoptedTag": [
+      "形容詞"
+    ],
+    "confidence": 0.997,
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,verb,noun]に形容詞あり・現タグ『名詞』不一致・2辞書確認"
+  },
+  {
+    "id": "en-21766",
+    "language": "english",
+    "headword": "disconnected",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "切断された",
+    "example": "The phone line was disconnected during the storm. — 嵐の間、電話回線は切断された。",
+    "exampleForm": "disconnected",
+    "pronunciation": "/ˌdɪskəˈnɛktɪd/",
+    "difficulty": 7,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective",
+      "verb"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "verb"
+    ],
+    "answerPos": "noun",
+    "examplePos": "adjective",
+    "decisionStatus": "single_pos_confirmed",
+    "category": "A",
+    "adoptedTag": [
+      "形容詞"
+    ],
+    "confidence": 0.997,
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,verb]に形容詞あり・現タグ『名詞』不一致・2辞書確認"
+  },
+  {
+    "id": "en-21783",
+    "language": "english",
+    "headword": "accustomed",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "慣れた",
+    "example": "She is accustomed to getting up early. — 彼女は早起きに慣れている。",
+    "exampleForm": "accustomed",
+    "pronunciation": "/əˈkəstəmd/",
+    "difficulty": 7,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective",
+      "verb"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "verb"
+    ],
+    "answerPos": "noun",
+    "examplePos": "adjective",
+    "decisionStatus": "single_pos_confirmed",
+    "category": "A",
+    "adoptedTag": [
+      "形容詞"
+    ],
+    "confidence": 0.997,
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,verb]に形容詞あり・現タグ『名詞』不一致・2辞書確認"
+  },
+  {
+    "id": "en-21801",
+    "language": "english",
+    "headword": "justified",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "正当化された",
+    "example": "The extra cost was justified by the good results. — 追加の費用はよい結果によって正当化された。",
+    "exampleForm": "justified",
+    "pronunciation": "/ˈdʒəstəˌfaɪd/",
+    "difficulty": 7,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective",
+      "verb"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "verb"
+    ],
+    "answerPos": "noun",
+    "examplePos": "adjective",
+    "decisionStatus": "single_pos_confirmed",
+    "category": "A",
+    "adoptedTag": [
+      "形容詞"
+    ],
+    "confidence": 0.997,
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,verb]に形容詞あり・現タグ『名詞』不一致・2辞書確認"
+  },
+  {
+    "id": "en-21833",
+    "language": "english",
+    "headword": "admirable",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "賞賛に値する",
+    "example": "Her patience with the children is admirable. — 子供たちへの彼女の忍耐は賞賛に値する。",
+    "exampleForm": "admirable",
+    "pronunciation": "/ˈædmɝəbəɫ/",
+    "difficulty": 7,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective",
+      "noun"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "noun"
+    ],
+    "answerPos": "verb",
+    "examplePos": "adjective",
+    "decisionStatus": "single_pos_confirmed",
+    "category": "A",
+    "adoptedTag": [
+      "形容詞"
+    ],
+    "confidence": 0.997,
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,noun]に形容詞あり・現タグ『動詞』不一致・2辞書確認"
+  },
+  {
+    "id": "en-21841",
+    "language": "english",
+    "headword": "irritating",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "いらだたせる",
+    "example": "The constant noise from the road is irritating. — 道路からの絶え間ない騒音は人をいらだたせる。",
+    "exampleForm": "irritating",
+    "pronunciation": "/ˈɪɹəˌteɪtɪŋ/",
+    "difficulty": 7,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective",
+      "verb"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "verb"
+    ],
+    "answerPos": "verb",
+    "examplePos": "adjective",
+    "decisionStatus": "single_pos_confirmed",
+    "category": "A",
+    "adoptedTag": [
+      "形容詞"
+    ],
+    "confidence": 0.997,
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,verb]に形容詞あり・現タグ『動詞』不一致・2辞書確認"
+  },
+  {
+    "id": "en-21921",
+    "language": "english",
+    "headword": "dresser",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "整理だんす",
+    "example": "She keeps her sweaters in the dresser. — 彼女はセーターを整理だんすにしまっている。",
+    "exampleForm": "dresser",
+    "pronunciation": "/ˈdɹɛsɝ/",
+    "difficulty": 7,
+    "dict1Pos": [
+      "noun"
+    ],
+    "dict2Pos": [
+      "noun",
+      "proper noun"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "noun",
+      "proper noun"
+    ],
+    "answerPos": "verb",
+    "examplePos": "noun",
+    "decisionStatus": "single_pos_confirmed",
+    "category": "A",
+    "adoptedTag": [
+      "名詞"
+    ],
+    "confidence": 0.997,
+    "reason": "例文で見出し語は名詞として使用・辞書和集合[noun,proper noun]に名詞あり・現タグ『動詞』不一致・2辞書確認"
+  },
+  {
+    "id": "en-22093",
+    "language": "english",
+    "headword": "shaky",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "揺れる",
+    "example": "The old ladder feels shaky, so be careful. — その古いはしごは揺れる感じがするので注意しなさい。",
+    "exampleForm": "shaky",
+    "pronunciation": "/ˈʃeɪki/",
+    "difficulty": 7,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective"
+    ],
+    "answerPos": "verb",
+    "examplePos": "adjective",
+    "decisionStatus": "single_pos_confirmed",
+    "category": "A",
+    "adoptedTag": [
+      "形容詞"
+    ],
+    "confidence": 0.997,
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective]に形容詞あり・現タグ『動詞』不一致・2辞書確認"
+  },
+  {
+    "id": "en-22194",
+    "language": "english",
+    "headword": "satisfying",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "満足を与える",
+    "example": "A warm meal is satisfying after hard work. — 温かい食事はつらい仕事のあとに満足を与えてくれる。",
+    "exampleForm": "satisfying",
+    "pronunciation": "/ˈsætɪsˌfaɪɪŋ/",
+    "difficulty": 7,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective",
+      "verb"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "verb"
+    ],
+    "answerPos": "verb",
+    "examplePos": "adjective",
+    "decisionStatus": "single_pos_confirmed",
+    "category": "A",
+    "adoptedTag": [
+      "形容詞"
+    ],
+    "confidence": 0.997,
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,verb]に形容詞あり・現タグ『動詞』不一致・2辞書確認"
+  },
+  {
+    "id": "en-22325",
+    "language": "english",
+    "headword": "chaotic",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "混沌とした",
+    "example": "The station was chaotic during the holiday rush. — 休暇の混雑で駅は混沌としていた。",
+    "exampleForm": "chaotic",
+    "pronunciation": "/keɪˈɑtɪk/",
+    "difficulty": 7,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective",
+      "noun"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "noun"
+    ],
+    "answerPos": "noun",
+    "examplePos": "adjective",
+    "decisionStatus": "single_pos_confirmed",
+    "category": "A",
+    "adoptedTag": [
+      "形容詞"
+    ],
+    "confidence": 0.997,
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,noun]に形容詞あり・現タグ『名詞』不一致・2辞書確認"
+  },
+  {
+    "id": "en-22394",
+    "language": "english",
+    "headword": "kinky",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "よじれた",
+    "example": "My hair got kinky. — 寝癖がついちゃった。",
+    "exampleForm": "kinky",
+    "pronunciation": "/ˈkɪŋki/",
+    "difficulty": 7,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective"
+    ],
+    "answerPos": "noun",
+    "examplePos": "adjective",
+    "decisionStatus": "single_pos_confirmed",
+    "category": "A",
+    "adoptedTag": [
+      "形容詞"
+    ],
+    "confidence": 0.997,
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective]に形容詞あり・現タグ『名詞』不一致・2辞書確認"
+  },
+  {
+    "id": "en-22454",
+    "language": "english",
+    "headword": "flushed",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "上気して",
+    "example": "He was flushed with excitement. — 彼は興奮して顔が紅潮した。",
+    "exampleForm": "flushed",
+    "pronunciation": "/ˈfɫəʃt/",
+    "difficulty": 7,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective",
+      "verb"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "verb"
+    ],
+    "answerPos": "noun",
+    "examplePos": "adjective",
+    "decisionStatus": "single_pos_confirmed",
+    "category": "A",
+    "adoptedTag": [
+      "形容詞"
+    ],
+    "confidence": 0.997,
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,verb]に形容詞あり・現タグ『名詞』不一致・2辞書確認"
+  },
+  {
+    "id": "en-22474",
+    "language": "english",
+    "headword": "accountable",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "説明責任のある",
+    "example": "Leaders are accountable for their decisions. — 指導者は自分の決定に説明責任がある。",
+    "exampleForm": "accountable",
+    "pronunciation": "/əˈkaʊnəbəɫ/",
+    "difficulty": 7,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective"
+    ],
+    "answerPos": "verb",
+    "examplePos": "adjective",
+    "decisionStatus": "single_pos_confirmed",
+    "category": "A",
+    "adoptedTag": [
+      "形容詞"
+    ],
+    "confidence": 0.997,
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective]に形容詞あり・現タグ『動詞』不一致・2辞書確認"
+  },
+  {
+    "id": "en-22489",
+    "language": "english",
+    "headword": "tacky",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "ねばねばする",
+    "example": "Because he thought Fred's comment was tacky, Larry got up on his high horse. — フレッドの意見がしゃくにさわったラリーは、居丈高な態度に出た。",
+    "exampleForm": "tacky",
+    "pronunciation": "/ˈtæki/",
+    "difficulty": 7,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective",
+      "noun"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "noun"
+    ],
+    "answerPos": "verb",
+    "examplePos": "adjective",
+    "decisionStatus": "single_pos_confirmed",
+    "category": "A",
+    "adoptedTag": [
+      "形容詞"
+    ],
+    "confidence": 0.997,
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,noun]に形容詞あり・現タグ『動詞』不一致・2辞書確認"
+  },
+  {
+    "id": "en-22533",
+    "language": "english",
+    "headword": "sorcerer",
+    "currentTags": [
+      "形容詞"
+    ],
+    "answer": "魔法使い",
+    "example": "The sorcerer in the tale turns stones into gold. — 物語の魔法使いは石を金に変える。",
+    "exampleForm": "sorcerer",
+    "pronunciation": "/ˈsɔɹsɝɝ/",
+    "difficulty": 7,
+    "dict1Pos": [
+      "noun"
+    ],
+    "dict2Pos": [
+      "noun"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "noun"
+    ],
+    "answerPos": "adjective",
+    "examplePos": "noun",
+    "decisionStatus": "single_pos_confirmed",
+    "category": "A",
+    "adoptedTag": [
+      "名詞"
+    ],
+    "confidence": 0.997,
+    "reason": "例文で見出し語は名詞として使用・辞書和集合[noun]に名詞あり・現タグ『形容詞』不一致・2辞書確認"
+  },
+  {
+    "id": "en-22633",
+    "language": "english",
+    "headword": "knack",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "こつ",
+    "example": "She has a knack for remembering names. — 彼女は名前を覚えるこつを心得ている。",
+    "exampleForm": "knack",
+    "pronunciation": "/ˈnæk/",
+    "difficulty": 7,
+    "dict1Pos": [
+      "noun"
+    ],
+    "dict2Pos": [
+      "noun",
+      "verb",
+      "proper noun"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "noun",
+      "verb",
+      "proper noun"
+    ],
+    "answerPos": "verb",
+    "examplePos": "noun",
+    "decisionStatus": "single_pos_confirmed",
+    "category": "A",
+    "adoptedTag": [
+      "名詞"
+    ],
+    "confidence": 0.997,
+    "reason": "例文で見出し語は名詞として使用・辞書和集合[noun,verb,proper noun]に名詞あり・現タグ『動詞』不一致・2辞書確認"
+  },
+  {
+    "id": "en-22671",
+    "language": "english",
+    "headword": "delusion",
+    "currentTags": [
+      "形容詞"
+    ],
+    "answer": "思い違い",
+    "example": "His belief that everyone hates him is a delusion. — みんなが彼を嫌っているという考えは思い違いだ。",
+    "exampleForm": "delusion",
+    "pronunciation": "/dɪˈɫuʒən/",
+    "difficulty": 7,
+    "dict1Pos": [
+      "noun"
+    ],
+    "dict2Pos": [
+      "noun"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "noun"
+    ],
+    "answerPos": "adjective",
+    "examplePos": "noun",
+    "decisionStatus": "single_pos_confirmed",
+    "category": "A",
+    "adoptedTag": [
+      "名詞"
+    ],
+    "confidence": 0.997,
+    "reason": "例文で見出し語は名詞として使用・辞書和集合[noun]に名詞あり・現タグ『形容詞』不一致・2辞書確認"
+  },
+  {
+    "id": "en-22694",
+    "language": "english",
+    "headword": "secretive",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "隠しだてする",
+    "example": "He is secretive about his weekend plans. — 彼は週末の予定について隠しだてする。",
+    "exampleForm": "secretive",
+    "pronunciation": "/ˈsikɹətɪv/",
+    "difficulty": 7,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective"
+    ],
+    "answerPos": "verb",
+    "examplePos": "adjective",
+    "decisionStatus": "single_pos_confirmed",
+    "category": "A",
+    "adoptedTag": [
+      "形容詞"
+    ],
+    "confidence": 0.997,
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective]に形容詞あり・現タグ『動詞』不一致・2辞書確認"
+  },
+  {
+    "id": "en-22777",
+    "language": "english",
+    "headword": "wreckage",
+    "currentTags": [
+      "形容詞"
+    ],
+    "answer": "残がい",
+    "example": "Rescue workers searched the wreckage for survivors. — 救助隊員たちは生存者を求めて残がいを捜索した。",
+    "exampleForm": "wreckage",
+    "pronunciation": "/ˈɹɛkədʒ/",
+    "difficulty": 7,
+    "dict1Pos": [
+      "noun"
+    ],
+    "dict2Pos": [
+      "noun"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "noun"
+    ],
+    "answerPos": "adjective",
+    "examplePos": "noun",
+    "decisionStatus": "single_pos_confirmed",
+    "category": "A",
+    "adoptedTag": [
+      "名詞"
+    ],
+    "confidence": 0.997,
+    "reason": "例文で見出し語は名詞として使用・辞書和集合[noun]に名詞あり・現タグ『形容詞』不一致・2辞書確認"
+  },
+  {
+    "id": "en-22852",
+    "language": "english",
+    "headword": "edgy",
+    "currentTags": [
+      "名詞"
+    ],
+    "answer": "いらいらした",
+    "example": "He gets edgy before every big exam. — 彼は大きな試験の前はいつもいらいらした状態になる。",
+    "exampleForm": "edgy",
+    "pronunciation": "/ˈɛdʒi/",
+    "difficulty": 7,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective"
+    ],
+    "answerPos": "noun",
+    "examplePos": "adjective",
+    "decisionStatus": "single_pos_confirmed",
+    "category": "A",
+    "adoptedTag": [
+      "形容詞"
+    ],
+    "confidence": 0.997,
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective]に形容詞あり・現タグ『名詞』不一致・2辞書確認"
+  },
+  {
+    "id": "en-22915",
+    "language": "english",
+    "headword": "giddy",
+    "currentTags": [
+      "動詞"
+    ],
+    "answer": "めまいがする",
+    "example": "The high bridge made me feel giddy. — 高い橋の上でめまいがする気分になった。",
+    "exampleForm": "giddy",
+    "pronunciation": "/ˈɡɪdi/",
+    "difficulty": 7,
+    "dict1Pos": [
+      "adjective"
+    ],
+    "dict2Pos": [
+      "adjective",
+      "noun",
+      "verb",
+      "proper noun"
+    ],
+    "dict2Status": "exact",
+    "unionPos": [
+      "adjective",
+      "noun",
+      "verb",
+      "proper noun"
+    ],
+    "answerPos": "verb",
+    "examplePos": "adjective",
+    "decisionStatus": "single_pos_confirmed",
+    "category": "A",
+    "adoptedTag": [
+      "形容詞"
+    ],
+    "confidence": 0.997,
+    "reason": "例文で見出し語は形容詞として使用・辞書和集合[adjective,noun,verb,proper noun]に形容詞あり・現タグ『動詞』不一致・2辞書確認"
+  }
+]

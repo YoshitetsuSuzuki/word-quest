@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-07-15",
+  "generatedAt": "2026-07-16",
   "dataMutated": false,
   "totalWords": 20131,
   "totalChecked": 20131,
   "aggregateVerdicts": {
-    "verified": 10349,
-    "likely_correct": 9003,
-    "review": 438,
+    "verified": 10402,
+    "likely_correct": 9131,
+    "review": 522,
     "conflicting": 0,
-    "critical": 341,
+    "critical": 76,
     "not_checked": 0
   },
   "problems": {
-    "critical": 341,
+    "critical": 76,
     "conflicting": 0,
-    "review": 438,
+    "review": 522,
     "notFound": 214,
     "notChecked": 0
   },
@@ -23,25 +23,28 @@
       "total": 8136,
       "checked": 8136,
       "verdicts": {
-        "likely_correct": 7580,
-        "review": 255,
-        "critical": 301
+        "likely_correct": 7708,
+        "review": 339,
+        "verified": 53,
+        "critical": 36
       },
       "sources": [
-        "oewn"
+        "oewn",
+        "kaikki-english-subset"
       ],
       "dictionaryVersions": {
-        "oewn": "downloaded-2026-07-15"
+        "oewn": "downloaded-2026-07-15",
+        "kaikki-english-subset": ""
       },
       "dimChecked": {
         "headword": 8136,
-        "partOfSpeech": 8015,
+        "partOfSpeech": 8023,
         "sense": 0,
-        "pronunciation": 0,
+        "pronunciation": 99,
         "japaneseGloss": 0
       },
       "unsafeExamples": 0,
-      "ms": 107
+      "ms": 135
     },
     "chinese": {
       "total": 4201,
@@ -64,7 +67,7 @@
         "japaneseGloss": 0
       },
       "unsafeExamples": 0,
-      "ms": 156
+      "ms": 160
     },
     "korean": {
       "total": 1529,
@@ -89,7 +92,7 @@
         "japaneseGloss": 0
       },
       "unsafeExamples": 0,
-      "ms": 32
+      "ms": 33
     },
     "spanish": {
       "total": 1948,
@@ -113,7 +116,7 @@
         "japaneseGloss": 0
       },
       "unsafeExamples": 0,
-      "ms": 27
+      "ms": 15
     },
     "german": {
       "total": 1919,
@@ -137,7 +140,7 @@
         "japaneseGloss": 0
       },
       "unsafeExamples": 0,
-      "ms": 30
+      "ms": 34
     },
     "french": {
       "total": 1948,
@@ -184,7 +187,7 @@
         "japaneseGloss": 0
       },
       "unsafeExamples": 0,
-      "ms": 2
+      "ms": 1
     },
     "polish": {
       "total": 150,
@@ -207,7 +210,7 @@
         "japaneseGloss": 0
       },
       "unsafeExamples": 0,
-      "ms": 4
+      "ms": 3
     },
     "russian": {
       "total": 150,

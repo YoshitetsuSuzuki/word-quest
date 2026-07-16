@@ -1,6 +1,6 @@
 # ローカル辞書照合(全件): chinese
 
-生成: 2026-07-15 / 辞書: cedict / 版: {"cedict":"downloaded-2026-07-15"} / **元データ変更なし**
+生成: 2026-07-16 / 辞書: cedict / 版: {"cedict":"downloaded-2026-07-15"} / **元データ変更なし**
 
 - 総件数: 4201　照合: 4201
 - verified:4188 likely_correct:0 review:13 conflicting:0 critical:0 not_checked:0

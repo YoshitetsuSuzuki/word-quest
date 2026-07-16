@@ -1,6 +1,6 @@
 # ローカル辞書照合(全件): korean
 
-生成: 2026-07-15 / 辞書: kaikki-korean / 版: {"kaikki-korean":"kaikki wiktextract dump 2026-07-06"} / **元データ変更なし**
+生成: 2026-07-16 / 辞書: kaikki-korean / 版: {"kaikki-korean":"kaikki wiktextract dump 2026-07-06"} / **元データ変更なし**
 
 - 総件数: 1529　照合: 1529
 - verified:4 likely_correct:1374 review:111 conflicting:0 critical:40 not_checked:0

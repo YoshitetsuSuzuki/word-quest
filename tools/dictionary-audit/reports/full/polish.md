@@ -1,6 +1,6 @@
 # ローカル辞書照合(全件): polish
 
-生成: 2026-07-15 / 辞書: kaikki-polish / 版: {"kaikki-polish":"kaikki wiktextract dump 2026-07-06"} / **元データ変更なし**
+生成: 2026-07-16 / 辞書: kaikki-polish / 版: {"kaikki-polish":"kaikki wiktextract dump 2026-07-06"} / **元データ変更なし**
 
 - 総件数: 150　照合: 150
 - verified:148 likely_correct:0 review:2 conflicting:0 critical:0 not_checked:0

@@ -1,6 +1,6 @@
 # ローカル辞書照合(全件): german
 
-生成: 2026-07-15 / 辞書: kaikki-german / 版: {"kaikki-german":"kaikki wiktextract dump 2026-07-06"} / **元データ変更なし**
+生成: 2026-07-16 / 辞書: kaikki-german / 版: {"kaikki-german":"kaikki wiktextract dump 2026-07-06"} / **元データ変更なし**
 
 - 総件数: 1919　照合: 1919
 - verified:1894 likely_correct:9 review:16 conflicting:0 critical:0 not_checked:0

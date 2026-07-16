@@ -19,12 +19,12 @@ const fullDir = path.join(auditRoot, 'reports', 'full')
 
 // 言語 → ローカル辞書ソース
 const LOCAL_SOURCES = {
-  english: ['oewn'], chinese: ['cedict'],
+  english: ['oewn', 'kaikki-english-subset'], chinese: ['cedict'],
   korean: ['kaikki-korean'], spanish: ['kaikki-spanish'], german: ['kaikki-german'],
   french: ['kaikki-french'], portuguese: ['kaikki-portuguese'], polish: ['kaikki-polish'], russian: ['kaikki-russian'],
 }
 // Kaikki系は品詞を持つ
-const DICT_HAS_POS = new Set(['oewn', 'kaikki-korean', 'kaikki-spanish', 'kaikki-german', 'kaikki-french', 'kaikki-portuguese', 'kaikki-polish', 'kaikki-russian'])
+const DICT_HAS_POS = new Set(['oewn', 'kaikki-english-subset', 'kaikki-korean', 'kaikki-spanish', 'kaikki-german', 'kaikki-french', 'kaikki-portuguese', 'kaikki-polish', 'kaikki-russian'])
 
 const POSMAP = cfg.posMap
 const COMPAT = [['noun', 'proper noun'], ['adjective', 'determiner', 'article'], ['verb', 'auxiliary'], ['adverb', 'particle']]
@@ -186,6 +186,11 @@ export async function runLocal(langKey, opts) {
     }
     const headwordAgg = sources.length ? statHeadword(anyLook) : { status: 'not_checked' }
     const cons = sources.length ? consensus(perSource, ['headword', 'pos', 'glossEn', 'pron']) : { headword: 'not_checked', pos: 'not_checked', glossEn: 'not_checked', pron: 'not_checked' }
+    // 品詞は全ソースの品詞和集合で再判定(多品詞語でアプリタグが妥当なら誤検知にしない)
+    if (dataPos) {
+      const unionPos = [...new Set(Object.values(perSource).flatMap((p) => p.dictPos || []))].filter(Boolean)
+      if (unionPos.length) cons.pos = statPos(dataPos, { found: true, entries: [{ partsOfSpeech: unionPos }] }, true, langKey)
+    }
     const exampleRes = checkExample(e, word, langCfg.hasExample, e.exampleForm)
     const verdict = sources.length ? overallVerdict({ ...cons, pron: cons.pron }, headwordAgg, exampleRes) : 'not_checked'
 

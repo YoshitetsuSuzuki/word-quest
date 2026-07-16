@@ -27,6 +27,14 @@ const hw = (e) => String(e.prompt || '').replace(/[「」]|の意味は？/g, ''
 
 const stores = {}
 for (const [l, s] of Object.entries(SRC)) { try { const ix = loadIndex(s); if (ix) stores[l] = ix } catch {} }
+// 第2辞書(英語): Kaikki英語subset。多品詞認識のため和集合に加える
+let enSubsetIx = null; try { enSubsetIx = loadIndex('kaikki-english-subset') } catch {}
+function dictUnionPos(lang, word) {
+  const set = new Set()
+  const l1 = stores[lang]?.lookup(word); if (l1?.found) for (const e of l1.entries) for (const p of e.partsOfSpeech || []) set.add(p)
+  if (lang === 'english' && enSubsetIx) { const l2 = enSubsetIx.lookup(word); if (l2?.found) for (const e of l2.entries) for (const p of e.partsOfSpeech || []) set.add(p) }
+  return [...set]
+}
 
 const findings = []
 let checked = 0
@@ -48,13 +56,15 @@ for (const lang of LANGS) {
     if (tags.some((t) => t === '' || t == null)) findings.push({ id: e.id, language: lang, level: 'error', type: 'empty_tag', tags })
     // 辞書品詞との矛盾(pivotのword・phraseは対象外)
     if (posTags.length && !hasPhrase && lang !== 'spanish' && lang !== 'german' && lang !== 'french' && lang !== 'portuguese' && lang !== 'polish' && lang !== 'russian') {
-      const look = stores[lang]?.lookup(hw(e))
-      if (look?.found) {
-        const dictPos = [...new Set(look.entries.flatMap((x) => x.partsOfSpeech))].filter(Boolean)
-        if (dictPos.length > 1) findings.push({ id: e.id, language: lang, level: 'warning', type: 'multiple_pos', headword: hw(e), appTag: posTags, dictPos })
-        else if (dictPos.length === 1) {
+      const dictPos = dictUnionPos(lang, hw(e)).filter(Boolean) // 2辞書和集合(英)
+      if (dictPos.length) {
+        const dictJa = dictPos.map((p) => JA_LABEL[p]).filter(Boolean)
+        if (posTags.some((t) => dictJa.includes(t))) { /* アプリタグが和集合に含まれる=妥当・OK */ }
+        else if (dictPos.length > 1) findings.push({ id: e.id, language: lang, level: 'warning', type: 'multiple_pos', headword: hw(e), appTag: posTags, dictPos })
+        else {
           const target = JA_LABEL[dictPos[0]]
-          if (target && SCHEMA[lang]?.has(target) && !posTags.includes(target)) findings.push({ id: e.id, language: lang, level: 'error', type: 'pos_conflict', headword: hw(e), appTag: posTags, dictPos, answer: e.answer })
+          // 単一品詞で不一致 → 例文/answer でも矛盾するか(厳格) 。ここでは error(単一辞書一致)
+          if (target && SCHEMA[lang]?.has(target)) findings.push({ id: e.id, language: lang, level: 'error', type: 'pos_conflict', headword: hw(e), appTag: posTags, dictPos, answer: e.answer })
         }
       }
       // 辞書未収録は error にしない(記録もしない)

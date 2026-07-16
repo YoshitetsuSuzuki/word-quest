@@ -18,6 +18,14 @@
         "glossEn": "missing",
         "pron": "not_checked",
         "dictPos": []
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -45,6 +53,14 @@
           "adjective",
           "adverb"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -63,6 +79,14 @@
     },
     "sources": {
       "oewn": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      },
+      "kaikki-english-subset": {
         "headword": "not_found",
         "multiple": false,
         "pos": "not_checked",
@@ -93,58 +117,14 @@
         "glossEn": "missing",
         "pron": "not_checked",
         "dictPos": []
-      }
-    },
-    "example": "ok",
-    "exampleSafety": "safe"
-  },
-  {
-    "id": "en-00121",
-    "headword": "before",
-    "language": "english",
-    "verdict": "review",
-    "consensus": {
-      "headword": "exact",
-      "pos": "schema_gap",
-      "glossEn": "missing",
-      "pron": "missing_in_dictionary"
-    },
-    "sources": {
-      "oewn": {
-        "headword": "exact",
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
         "multiple": false,
-        "pos": "schema_gap",
+        "pos": "not_checked",
         "glossEn": "missing",
-        "pron": "missing_in_dictionary",
-        "dictPos": [
-          "adverb"
-        ]
-      }
-    },
-    "example": "ok",
-    "exampleSafety": "safe"
-  },
-  {
-    "id": "en-00126",
-    "headword": "between",
-    "language": "english",
-    "verdict": "review",
-    "consensus": {
-      "headword": "exact",
-      "pos": "schema_gap",
-      "glossEn": "missing",
-      "pron": "missing_in_dictionary"
-    },
-    "sources": {
-      "oewn": {
-        "headword": "exact",
-        "multiple": false,
-        "pos": "schema_gap",
-        "glossEn": "missing",
-        "pron": "missing_in_dictionary",
-        "dictPos": [
-          "adverb"
-        ]
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -163,6 +143,14 @@
     },
     "sources": {
       "oewn": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      },
+      "kaikki-english-subset": {
         "headword": "not_found",
         "multiple": false,
         "pos": "not_checked",
@@ -196,6 +184,14 @@
           "adjective",
           "adverb"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -208,7 +204,7 @@
     "verdict": "review",
     "consensus": {
       "headword": "exact",
-      "pos": "schema_gap",
+      "pos": "ambiguous",
       "glossEn": "missing",
       "pron": "missing_in_dictionary"
     },
@@ -220,6 +216,18 @@
         "glossEn": "missing",
         "pron": "missing_in_dictionary",
         "dictPos": [
+          "adverb"
+        ]
+      },
+      "kaikki-english-subset": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "preposition",
+          "adjective",
           "adverb"
         ]
       }
@@ -240,6 +248,14 @@
     },
     "sources": {
       "oewn": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      },
+      "kaikki-english-subset": {
         "headword": "not_found",
         "multiple": false,
         "pos": "not_checked",
@@ -273,6 +289,14 @@
           "adjective",
           "adverb"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -297,6 +321,14 @@
         "glossEn": "missing",
         "pron": "not_checked",
         "dictPos": []
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -315,6 +347,14 @@
     },
     "sources": {
       "oewn": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      },
+      "kaikki-english-subset": {
         "headword": "not_found",
         "multiple": false,
         "pos": "not_checked",
@@ -348,6 +388,14 @@
           "adjective",
           "adverb"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -375,6 +423,14 @@
           "adjective",
           "adverb"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -393,6 +449,14 @@
     },
     "sources": {
       "oewn": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      },
+      "kaikki-english-subset": {
         "headword": "not_found",
         "multiple": false,
         "pos": "not_checked",
@@ -426,6 +490,14 @@
           "adjective",
           "adverb"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -444,6 +516,14 @@
     },
     "sources": {
       "oewn": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      },
+      "kaikki-english-subset": {
         "headword": "not_found",
         "multiple": false,
         "pos": "not_checked",
@@ -474,6 +554,14 @@
         "glossEn": "missing",
         "pron": "not_checked",
         "dictPos": []
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -492,6 +580,14 @@
     },
     "sources": {
       "oewn": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      },
+      "kaikki-english-subset": {
         "headword": "not_found",
         "multiple": false,
         "pos": "not_checked",
@@ -525,6 +621,14 @@
           "adjective",
           "adverb"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -552,6 +656,14 @@
           "noun",
           "adverb"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -579,6 +691,14 @@
           "adjective",
           "adverb"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -591,7 +711,7 @@
     "verdict": "review",
     "consensus": {
       "headword": "exact",
-      "pos": "schema_gap",
+      "pos": "ambiguous",
       "glossEn": "missing",
       "pron": "missing_in_dictionary"
     },
@@ -604,6 +724,19 @@
         "pron": "missing_in_dictionary",
         "dictPos": [
           "adverb"
+        ]
+      },
+      "kaikki-english-subset": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "determiner",
+          "pronoun",
+          "adverb",
+          "conjunction"
         ]
       }
     },
@@ -633,6 +766,14 @@
           "verb",
           "adverb"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -651,6 +792,14 @@
     },
     "sources": {
       "oewn": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      },
+      "kaikki-english-subset": {
         "headword": "not_found",
         "multiple": false,
         "pos": "not_checked",
@@ -684,6 +833,14 @@
           "adverb",
           "verb"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -712,6 +869,14 @@
           "verb",
           "adverb"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -730,6 +895,14 @@
     },
     "sources": {
       "oewn": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      },
+      "kaikki-english-subset": {
         "headword": "not_found",
         "multiple": false,
         "pos": "not_checked",
@@ -760,6 +933,14 @@
         "glossEn": "missing",
         "pron": "not_checked",
         "dictPos": []
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -774,7 +955,7 @@
       "headword": "exact",
       "pos": "schema_gap",
       "glossEn": "missing",
-      "pron": "missing_in_dictionary"
+      "pron": "exact"
     },
     "sources": {
       "oewn": {
@@ -783,6 +964,16 @@
         "pos": "schema_gap",
         "glossEn": "missing",
         "pron": "missing_in_dictionary",
+        "dictPos": [
+          "adverb"
+        ]
+      },
+      "kaikki-english-subset": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "schema_gap",
+        "glossEn": "missing",
+        "pron": "exact",
         "dictPos": [
           "adverb"
         ]
@@ -810,6 +1001,14 @@
         "glossEn": "missing",
         "pron": "not_checked",
         "dictPos": []
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -828,6 +1027,14 @@
     },
     "sources": {
       "oewn": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      },
+      "kaikki-english-subset": {
         "headword": "not_found",
         "multiple": false,
         "pos": "not_checked",
@@ -861,6 +1068,14 @@
           "adjective",
           "adverb"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -873,7 +1088,7 @@
     "verdict": "review",
     "consensus": {
       "headword": "exact",
-      "pos": "schema_gap",
+      "pos": "ambiguous",
       "glossEn": "missing",
       "pron": "missing_in_dictionary"
     },
@@ -885,6 +1100,17 @@
         "glossEn": "missing",
         "pron": "missing_in_dictionary",
         "dictPos": [
+          "adverb"
+        ]
+      },
+      "kaikki-english-subset": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "preposition",
           "adverb"
         ]
       }
@@ -905,6 +1131,14 @@
     },
     "sources": {
       "oewn": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      },
+      "kaikki-english-subset": {
         "headword": "not_found",
         "multiple": false,
         "pos": "not_checked",
@@ -935,6 +1169,52 @@
         "glossEn": "missing",
         "pron": "not_checked",
         "dictPos": []
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "ok",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "en-00886",
+    "headword": "except",
+    "language": "english",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "exact"
+    },
+    "sources": {
+      "oewn": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "missing_in_dictionary",
+        "dictPos": [
+          "verb"
+        ]
+      },
+      "kaikki-english-subset": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "exact",
+        "dictPos": [
+          "verb",
+          "preposition",
+          "conjunction"
+        ]
       }
     },
     "example": "ok",
@@ -962,6 +1242,14 @@
           "adjective",
           "noun"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -989,6 +1277,14 @@
           "noun",
           "verb"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -1007,6 +1303,14 @@
     },
     "sources": {
       "oewn": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      },
+      "kaikki-english-subset": {
         "headword": "not_found",
         "multiple": false,
         "pos": "not_checked",
@@ -1040,6 +1344,14 @@
           "adjective",
           "adverb"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -1058,6 +1370,14 @@
     },
     "sources": {
       "oewn": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      },
+      "kaikki-english-subset": {
         "headword": "not_found",
         "multiple": false,
         "pos": "not_checked",
@@ -1091,6 +1411,51 @@
           "adjective",
           "adverb"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "ok",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "en-01116",
+    "headword": "nobody",
+    "language": "english",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "exact"
+    },
+    "sources": {
+      "oewn": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "missing_in_dictionary",
+        "dictPos": [
+          "noun"
+        ]
+      },
+      "kaikki-english-subset": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "exact",
+        "dictPos": [
+          "pronoun",
+          "noun"
+        ]
       }
     },
     "example": "ok",
@@ -1118,6 +1483,14 @@
           "adjective",
           "adverb"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -1145,6 +1518,51 @@
           "noun",
           "verb"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "ok",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "en-01213",
+    "headword": "excellent",
+    "language": "english",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "missing_in_dictionary"
+    },
+    "sources": {
+      "oewn": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "missing_in_dictionary",
+        "dictPos": [
+          "adjective"
+        ]
+      },
+      "kaikki-english-subset": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adjective",
+          "adverb"
+        ]
       }
     },
     "example": "ok",
@@ -1169,6 +1587,14 @@
         "glossEn": "missing",
         "pron": "not_checked",
         "dictPos": []
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -1187,6 +1613,14 @@
     },
     "sources": {
       "oewn": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      },
+      "kaikki-english-subset": {
         "headword": "not_found",
         "multiple": false,
         "pos": "not_checked",
@@ -1220,6 +1654,14 @@
           "adjective",
           "noun"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -1247,6 +1689,14 @@
           "adjective",
           "noun"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -1271,6 +1721,14 @@
         "glossEn": "missing",
         "pron": "not_checked",
         "dictPos": []
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -1289,6 +1747,14 @@
     },
     "sources": {
       "oewn": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      },
+      "kaikki-english-subset": {
         "headword": "not_found",
         "multiple": false,
         "pos": "not_checked",
@@ -1323,6 +1789,14 @@
           "verb",
           "adverb"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -1350,6 +1824,14 @@
           "adjective",
           "adverb"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -1377,6 +1859,14 @@
           "adjective",
           "adverb"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -1404,6 +1894,14 @@
           "adjective",
           "noun"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -1416,7 +1914,7 @@
     "verdict": "review",
     "consensus": {
       "headword": "exact",
-      "pos": "schema_gap",
+      "pos": "ambiguous",
       "glossEn": "missing",
       "pron": "missing_in_dictionary"
     },
@@ -1429,6 +1927,17 @@
         "pron": "missing_in_dictionary",
         "dictPos": [
           "adverb"
+        ]
+      },
+      "kaikki-english-subset": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adverb",
+          "preposition"
         ]
       }
     },
@@ -1457,6 +1966,14 @@
           "adjective",
           "verb"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -1484,6 +2001,14 @@
           "adjective",
           "adverb"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -1502,6 +2027,14 @@
     },
     "sources": {
       "oewn": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      },
+      "kaikki-english-subset": {
         "headword": "not_found",
         "multiple": false,
         "pos": "not_checked",
@@ -1535,6 +2068,51 @@
           "noun",
           "verb"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "ok",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "en-02323",
+    "headword": "creative",
+    "language": "english",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "exact"
+    },
+    "sources": {
+      "oewn": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "missing_in_dictionary",
+        "dictPos": [
+          "adjective"
+        ]
+      },
+      "kaikki-english-subset": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "exact",
+        "dictPos": [
+          "adjective",
+          "noun"
+        ]
       }
     },
     "example": "ok",
@@ -1562,6 +2140,14 @@
           "adjective",
           "noun"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -1589,6 +2175,14 @@
           "adjective",
           "adverb"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -1607,6 +2201,14 @@
     },
     "sources": {
       "oewn": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      },
+      "kaikki-english-subset": {
         "headword": "not_found",
         "multiple": false,
         "pos": "not_checked",
@@ -1640,6 +2242,51 @@
           "noun",
           "verb"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "ok",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "en-02569",
+    "headword": "historic",
+    "language": "english",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "missing_in_dictionary"
+    },
+    "sources": {
+      "oewn": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "missing_in_dictionary",
+        "dictPos": [
+          "adjective"
+        ]
+      },
+      "kaikki-english-subset": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adjective",
+          "noun"
+        ]
       }
     },
     "example": "ok",
@@ -1663,6 +2310,16 @@
         "pos": "schema_gap",
         "glossEn": "missing",
         "pron": "missing_in_dictionary",
+        "dictPos": [
+          "adverb"
+        ]
+      },
+      "kaikki-english-subset": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "schema_gap",
+        "glossEn": "missing",
+        "pron": "different",
         "dictPos": [
           "adverb"
         ]
@@ -1693,6 +2350,14 @@
           "adjective",
           "adverb"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -1720,6 +2385,14 @@
           "adverb",
           "noun"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -1747,6 +2420,51 @@
           "noun",
           "verb"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "ok",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "en-02847",
+    "headword": "united",
+    "language": "english",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "exact"
+    },
+    "sources": {
+      "oewn": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "missing_in_dictionary",
+        "dictPos": [
+          "adjective"
+        ]
+      },
+      "kaikki-english-subset": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "exact",
+        "dictPos": [
+          "verb",
+          "adjective"
+        ]
       }
     },
     "example": "ok",
@@ -1771,6 +2489,14 @@
         "glossEn": "missing",
         "pron": "not_checked",
         "dictPos": []
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -1789,6 +2515,14 @@
     },
     "sources": {
       "oewn": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      },
+      "kaikki-english-subset": {
         "headword": "not_found",
         "multiple": false,
         "pos": "not_checked",
@@ -1822,6 +2556,14 @@
           "adjective",
           "noun"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -1849,6 +2591,14 @@
           "adjective",
           "noun"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -1876,6 +2626,125 @@
           "adjective",
           "adverb"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "ok",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "en-03142",
+    "headword": "according",
+    "language": "english",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "exact"
+    },
+    "sources": {
+      "oewn": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "missing_in_dictionary",
+        "dictPos": [
+          "adjective"
+        ]
+      },
+      "kaikki-english-subset": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "exact",
+        "dictPos": [
+          "verb",
+          "adjective",
+          "adverb"
+        ]
+      }
+    },
+    "example": "ok",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "en-03191",
+    "headword": "located",
+    "language": "english",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "missing_in_dictionary"
+    },
+    "sources": {
+      "oewn": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "missing_in_dictionary",
+        "dictPos": [
+          "adjective"
+        ]
+      },
+      "kaikki-english-subset": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "verb"
+        ]
+      }
+    },
+    "example": "ok",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "en-03276",
+    "headword": "considered",
+    "language": "english",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "missing_in_dictionary"
+    },
+    "sources": {
+      "oewn": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "missing_in_dictionary",
+        "dictPos": [
+          "adjective"
+        ]
+      },
+      "kaikki-english-subset": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "verb",
+          "adjective"
+        ]
       }
     },
     "example": "ok",
@@ -1900,6 +2769,51 @@
         "glossEn": "missing",
         "pron": "not_checked",
         "dictPos": []
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "ok",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "en-03370",
+    "headword": "established",
+    "language": "english",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "missing_in_dictionary"
+    },
+    "sources": {
+      "oewn": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "missing_in_dictionary",
+        "dictPos": [
+          "adjective"
+        ]
+      },
+      "kaikki-english-subset": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "verb",
+          "adjective"
+        ]
       }
     },
     "example": "ok",
@@ -1924,6 +2838,51 @@
         "glossEn": "missing",
         "pron": "not_checked",
         "dictPos": []
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "ok",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "en-03425",
+    "headword": "accepted",
+    "language": "english",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "exact"
+    },
+    "sources": {
+      "oewn": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "missing_in_dictionary",
+        "dictPos": [
+          "adjective"
+        ]
+      },
+      "kaikki-english-subset": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "exact",
+        "dictPos": [
+          "verb",
+          "adjective"
+        ]
       }
     },
     "example": "ok",
@@ -1951,6 +2910,14 @@
           "adjective",
           "noun"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -1975,6 +2942,125 @@
         "glossEn": "missing",
         "pron": "not_checked",
         "dictPos": []
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "ok",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "en-03602",
+    "headword": "informed",
+    "language": "english",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "exact"
+    },
+    "sources": {
+      "oewn": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "missing_in_dictionary",
+        "dictPos": [
+          "adjective"
+        ]
+      },
+      "kaikki-english-subset": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "exact",
+        "dictPos": [
+          "verb",
+          "adjective"
+        ]
+      }
+    },
+    "example": "ok",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "en-03619",
+    "headword": "integrated",
+    "language": "english",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "missing_in_dictionary"
+    },
+    "sources": {
+      "oewn": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "missing_in_dictionary",
+        "dictPos": [
+          "adjective"
+        ]
+      },
+      "kaikki-english-subset": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adjective",
+          "verb"
+        ]
+      }
+    },
+    "example": "ok",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "en-03668",
+    "headword": "extended",
+    "language": "english",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "exact"
+    },
+    "sources": {
+      "oewn": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "missing_in_dictionary",
+        "dictPos": [
+          "adjective"
+        ]
+      },
+      "kaikki-english-subset": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "exact",
+        "dictPos": [
+          "verb",
+          "adjective"
+        ]
       }
     },
     "example": "ok",
@@ -1999,9 +3085,54 @@
         "glossEn": "missing",
         "pron": "not_checked",
         "dictPos": []
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "en-03702",
+    "headword": "determined",
+    "language": "english",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "missing_in_dictionary"
+    },
+    "sources": {
+      "oewn": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "missing_in_dictionary",
+        "dictPos": [
+          "adjective"
+        ]
+      },
+      "kaikki-english-subset": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adjective",
+          "verb"
+        ]
+      }
+    },
+    "example": "ok",
     "exampleSafety": "safe"
   },
   {
@@ -2017,6 +3148,14 @@
     },
     "sources": {
       "oewn": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      },
+      "kaikki-english-subset": {
         "headword": "not_found",
         "multiple": false,
         "pos": "not_checked",
@@ -2050,6 +3189,51 @@
           "adjective",
           "noun"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "ok",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "en-03850",
+    "headword": "forced",
+    "language": "english",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "exact"
+    },
+    "sources": {
+      "oewn": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "missing_in_dictionary",
+        "dictPos": [
+          "adjective"
+        ]
+      },
+      "kaikki-english-subset": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "exact",
+        "dictPos": [
+          "verb",
+          "adjective"
+        ]
       }
     },
     "example": "ok",
@@ -2068,6 +3252,14 @@
     },
     "sources": {
       "oewn": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      },
+      "kaikki-english-subset": {
         "headword": "not_found",
         "multiple": false,
         "pos": "not_checked",
@@ -2101,6 +3293,89 @@
           "adjective",
           "adverb"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "ok",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "en-03929",
+    "headword": "removed",
+    "language": "english",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "missing_in_dictionary"
+    },
+    "sources": {
+      "oewn": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "missing_in_dictionary",
+        "dictPos": [
+          "adjective"
+        ]
+      },
+      "kaikki-english-subset": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adjective",
+          "verb"
+        ]
+      }
+    },
+    "example": "ok",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "en-03978",
+    "headword": "agreed",
+    "language": "english",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "exact"
+    },
+    "sources": {
+      "oewn": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "missing_in_dictionary",
+        "dictPos": [
+          "adjective"
+        ]
+      },
+      "kaikki-english-subset": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "exact",
+        "dictPos": [
+          "verb",
+          "adjective",
+          "interjection"
+        ]
       }
     },
     "example": "ok",
@@ -2125,6 +3400,162 @@
         "glossEn": "missing",
         "pron": "not_checked",
         "dictPos": []
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "ok",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "en-04070",
+    "headword": "revised",
+    "language": "english",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "missing_in_dictionary"
+    },
+    "sources": {
+      "oewn": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "missing_in_dictionary",
+        "dictPos": [
+          "adjective"
+        ]
+      },
+      "kaikki-english-subset": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adjective",
+          "verb"
+        ]
+      }
+    },
+    "example": "ok",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "en-04073",
+    "headword": "amazing",
+    "language": "english",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "exact"
+    },
+    "sources": {
+      "oewn": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "missing_in_dictionary",
+        "dictPos": [
+          "adjective"
+        ]
+      },
+      "kaikki-english-subset": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "exact",
+        "dictPos": [
+          "verb",
+          "adjective"
+        ]
+      }
+    },
+    "example": "ok",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "en-04096",
+    "headword": "licensed",
+    "language": "english",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "missing_in_dictionary"
+    },
+    "sources": {
+      "oewn": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "missing_in_dictionary",
+        "dictPos": [
+          "adjective"
+        ]
+      },
+      "kaikki-english-subset": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adjective",
+          "verb"
+        ]
+      }
+    },
+    "example": "ok",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "en-04107",
+    "headword": "finished",
+    "language": "english",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "exact"
+    },
+    "sources": {
+      "oewn": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "missing_in_dictionary",
+        "dictPos": [
+          "adjective"
+        ]
+      },
+      "kaikki-english-subset": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "exact",
+        "dictPos": [
+          "adjective",
+          "verb"
+        ]
       }
     },
     "example": "ok",
@@ -2143,6 +3574,14 @@
     },
     "sources": {
       "oewn": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      },
+      "kaikki-english-subset": {
         "headword": "not_found",
         "multiple": false,
         "pos": "not_checked",
@@ -2173,6 +3612,14 @@
         "glossEn": "missing",
         "pron": "not_checked",
         "dictPos": []
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -2197,6 +3644,14 @@
         "glossEn": "missing",
         "pron": "not_checked",
         "dictPos": []
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -2215,6 +3670,14 @@
     },
     "sources": {
       "oewn": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      },
+      "kaikki-english-subset": {
         "headword": "not_found",
         "multiple": false,
         "pos": "not_checked",
@@ -2248,6 +3711,14 @@
           "adjective",
           "noun"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -2275,6 +3746,51 @@
           "adjective",
           "noun"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "ok",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "en-04317",
+    "headword": "authorized",
+    "language": "english",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "missing_in_dictionary"
+    },
+    "sources": {
+      "oewn": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "missing_in_dictionary",
+        "dictPos": [
+          "adjective"
+        ]
+      },
+      "kaikki-english-subset": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adjective",
+          "verb"
+        ]
       }
     },
     "example": "ok",
@@ -2299,9 +3815,202 @@
         "glossEn": "missing",
         "pron": "not_checked",
         "dictPos": []
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "en-04429",
+    "headword": "outstanding",
+    "language": "english",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "exact"
+    },
+    "sources": {
+      "oewn": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "missing_in_dictionary",
+        "dictPos": [
+          "adjective"
+        ]
+      },
+      "kaikki-english-subset": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "exact",
+        "dictPos": [
+          "verb",
+          "adjective"
+        ]
+      }
+    },
+    "example": "ok",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "en-04431",
+    "headword": "planned",
+    "language": "english",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "missing_in_dictionary"
+    },
+    "sources": {
+      "oewn": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "missing_in_dictionary",
+        "dictPos": [
+          "adjective"
+        ]
+      },
+      "kaikki-english-subset": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "verb",
+          "adjective"
+        ]
+      }
+    },
+    "example": "ok",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "en-04486",
+    "headword": "collected",
+    "language": "english",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "missing_in_dictionary"
+    },
+    "sources": {
+      "oewn": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "missing_in_dictionary",
+        "dictPos": [
+          "adjective"
+        ]
+      },
+      "kaikki-english-subset": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adjective",
+          "verb"
+        ]
+      }
+    },
+    "example": "ok",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "en-04541",
+    "headword": "ordered",
+    "language": "english",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "missing_in_dictionary"
+    },
+    "sources": {
+      "oewn": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "missing_in_dictionary",
+        "dictPos": [
+          "adjective"
+        ]
+      },
+      "kaikki-english-subset": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adjective",
+          "verb"
+        ]
+      }
+    },
+    "example": "ok",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "en-04744",
+    "headword": "pursuant",
+    "language": "english",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "missing_in_dictionary"
+    },
+    "sources": {
+      "oewn": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "missing_in_dictionary",
+        "dictPos": [
+          "adjective"
+        ]
+      },
+      "kaikki-english-subset": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adjective",
+          "adverb"
+        ]
+      }
+    },
+    "example": "missing",
     "exampleSafety": "safe"
   },
   {
@@ -2325,6 +4034,51 @@
         "dictPos": [
           "adjective",
           "noun"
+        ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "ok",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "en-04757",
+    "headword": "organized",
+    "language": "english",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "exact"
+    },
+    "sources": {
+      "oewn": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "missing_in_dictionary",
+        "dictPos": [
+          "adjective"
+        ]
+      },
+      "kaikki-english-subset": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "exact",
+        "dictPos": [
+          "adjective",
+          "verb"
         ]
       }
     },
@@ -2350,6 +4104,88 @@
         "glossEn": "missing",
         "pron": "not_checked",
         "dictPos": []
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "ok",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "en-04827",
+    "headword": "appointed",
+    "language": "english",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "exact"
+    },
+    "sources": {
+      "oewn": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "missing_in_dictionary",
+        "dictPos": [
+          "adjective"
+        ]
+      },
+      "kaikki-english-subset": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "exact",
+        "dictPos": [
+          "adjective",
+          "verb"
+        ]
+      }
+    },
+    "example": "ok",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "en-04915",
+    "headword": "calculated",
+    "language": "english",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "missing_in_dictionary"
+    },
+    "sources": {
+      "oewn": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "missing_in_dictionary",
+        "dictPos": [
+          "adjective"
+        ]
+      },
+      "kaikki-english-subset": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "verb",
+          "adjective"
+        ]
       }
     },
     "example": "ok",
@@ -2368,6 +4204,14 @@
     },
     "sources": {
       "oewn": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      },
+      "kaikki-english-subset": {
         "headword": "not_found",
         "multiple": false,
         "pos": "not_checked",
@@ -2401,6 +4245,51 @@
           "adjective",
           "noun"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "ok",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "en-05056",
+    "headword": "covering",
+    "language": "english",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "missing_in_dictionary"
+    },
+    "sources": {
+      "oewn": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "missing_in_dictionary",
+        "dictPos": [
+          "noun"
+        ]
+      },
+      "kaikki-english-subset": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "verb",
+          "noun"
+        ]
       }
     },
     "example": "ok",
@@ -2429,6 +4318,14 @@
           "noun",
           "adverb"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -2453,6 +4350,51 @@
         "glossEn": "missing",
         "pron": "not_checked",
         "dictPos": []
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "ok",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "en-05086",
+    "headword": "confirmed",
+    "language": "english",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "exact"
+    },
+    "sources": {
+      "oewn": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "missing_in_dictionary",
+        "dictPos": [
+          "adjective"
+        ]
+      },
+      "kaikki-english-subset": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "exact",
+        "dictPos": [
+          "verb",
+          "adjective"
+        ]
       }
     },
     "example": "ok",
@@ -2477,9 +4419,91 @@
         "glossEn": "missing",
         "pron": "missing_in_app",
         "dictPos": []
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "missing_in_app",
+        "dictPos": []
       }
     },
     "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "en-05331",
+    "headword": "armed",
+    "language": "english",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "exact"
+    },
+    "sources": {
+      "oewn": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "missing_in_dictionary",
+        "dictPos": [
+          "adjective"
+        ]
+      },
+      "kaikki-english-subset": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "exact",
+        "dictPos": [
+          "adjective",
+          "verb"
+        ]
+      }
+    },
+    "example": "ok",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "en-05357",
+    "headword": "sealed",
+    "language": "english",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "missing_in_dictionary"
+    },
+    "sources": {
+      "oewn": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "missing_in_dictionary",
+        "dictPos": [
+          "adjective"
+        ]
+      },
+      "kaikki-english-subset": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "verb",
+          "adjective"
+        ]
+      }
+    },
+    "example": "ok",
     "exampleSafety": "safe"
   },
   {
@@ -2504,6 +4528,51 @@
           "adjective",
           "adverb"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "ok",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "en-05515",
+    "headword": "studied",
+    "language": "english",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "missing_in_dictionary"
+    },
+    "sources": {
+      "oewn": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "missing_in_dictionary",
+        "dictPos": [
+          "adjective"
+        ]
+      },
+      "kaikki-english-subset": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "verb",
+          "adjective"
+        ]
       }
     },
     "example": "ok",
@@ -2522,6 +4591,14 @@
     },
     "sources": {
       "oewn": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      },
+      "kaikki-english-subset": {
         "headword": "not_found",
         "multiple": false,
         "pos": "not_checked",
@@ -2555,6 +4632,51 @@
           "adjective",
           "noun"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "ok",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "en-05658",
+    "headword": "animated",
+    "language": "english",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "missing_in_dictionary"
+    },
+    "sources": {
+      "oewn": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "missing_in_dictionary",
+        "dictPos": [
+          "adjective"
+        ]
+      },
+      "kaikki-english-subset": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adjective",
+          "verb"
+        ]
       }
     },
     "example": "ok",
@@ -2579,6 +4701,88 @@
         "glossEn": "missing",
         "pron": "not_checked",
         "dictPos": []
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "ok",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "en-05816",
+    "headword": "declared",
+    "language": "english",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "missing_in_dictionary"
+    },
+    "sources": {
+      "oewn": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "missing_in_dictionary",
+        "dictPos": [
+          "adjective"
+        ]
+      },
+      "kaikki-english-subset": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "verb",
+          "adjective"
+        ]
+      }
+    },
+    "example": "ok",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "en-05853",
+    "headword": "inspired",
+    "language": "english",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "missing_in_dictionary"
+    },
+    "sources": {
+      "oewn": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "missing_in_dictionary",
+        "dictPos": [
+          "adjective"
+        ]
+      },
+      "kaikki-english-subset": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adjective",
+          "verb"
+        ]
       }
     },
     "example": "ok",
@@ -2603,6 +4807,88 @@
         "glossEn": "missing",
         "pron": "not_checked",
         "dictPos": []
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "ok",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "en-06032",
+    "headword": "retired",
+    "language": "english",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "missing_in_dictionary"
+    },
+    "sources": {
+      "oewn": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "missing_in_dictionary",
+        "dictPos": [
+          "adjective"
+        ]
+      },
+      "kaikki-english-subset": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adjective",
+          "verb"
+        ]
+      }
+    },
+    "example": "ok",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "en-06177",
+    "headword": "resolved",
+    "language": "english",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "missing_in_dictionary"
+    },
+    "sources": {
+      "oewn": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "missing_in_dictionary",
+        "dictPos": [
+          "adjective"
+        ]
+      },
+      "kaikki-english-subset": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "verb",
+          "adjective"
+        ]
       }
     },
     "example": "ok",
@@ -2621,6 +4907,14 @@
     },
     "sources": {
       "oewn": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      },
+      "kaikki-english-subset": {
         "headword": "not_found",
         "multiple": false,
         "pos": "not_checked",
@@ -2651,6 +4945,51 @@
         "glossEn": "missing",
         "pron": "not_checked",
         "dictPos": []
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "ok",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "en-06348",
+    "headword": "repeated",
+    "language": "english",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "missing_in_dictionary"
+    },
+    "sources": {
+      "oewn": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "missing_in_dictionary",
+        "dictPos": [
+          "adjective"
+        ]
+      },
+      "kaikki-english-subset": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "verb",
+          "adjective"
+        ]
       }
     },
     "example": "ok",
@@ -2678,6 +5017,14 @@
           "adjective",
           "verb"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -2705,6 +5052,14 @@
           "adjective",
           "adverb"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -2732,9 +5087,91 @@
           "adjective",
           "noun"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "en-06505",
+    "headword": "balanced",
+    "language": "english",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "missing_in_dictionary"
+    },
+    "sources": {
+      "oewn": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "missing_in_dictionary",
+        "dictPos": [
+          "adjective"
+        ]
+      },
+      "kaikki-english-subset": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "verb",
+          "adjective"
+        ]
+      }
+    },
+    "example": "ok",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "en-06506",
+    "headword": "prescribed",
+    "language": "english",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "missing_in_dictionary"
+    },
+    "sources": {
+      "oewn": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "missing_in_dictionary",
+        "dictPos": [
+          "adjective"
+        ]
+      },
+      "kaikki-english-subset": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "verb",
+          "adjective"
+        ]
+      }
+    },
+    "example": "ok",
     "exampleSafety": "safe"
   },
   {
@@ -2759,6 +5196,14 @@
           "adjective",
           "adverb"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -2786,9 +5231,165 @@
           "adjective",
           "noun"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "en-06580",
+    "headword": "advised",
+    "language": "english",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "missing_in_dictionary"
+    },
+    "sources": {
+      "oewn": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "missing_in_dictionary",
+        "dictPos": [
+          "adjective"
+        ]
+      },
+      "kaikki-english-subset": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adjective",
+          "verb"
+        ]
+      }
+    },
+    "example": "ok",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "en-06590",
+    "headword": "isolated",
+    "language": "english",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "missing_in_dictionary"
+    },
+    "sources": {
+      "oewn": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "missing_in_dictionary",
+        "dictPos": [
+          "adjective"
+        ]
+      },
+      "kaikki-english-subset": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adjective",
+          "verb"
+        ]
+      }
+    },
+    "example": "ok",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "en-06660",
+    "headword": "composed",
+    "language": "english",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "exact"
+    },
+    "sources": {
+      "oewn": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "missing_in_dictionary",
+        "dictPos": [
+          "adjective"
+        ]
+      },
+      "kaikki-english-subset": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "exact",
+        "dictPos": [
+          "adjective",
+          "verb"
+        ]
+      }
+    },
+    "example": "ok",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "en-06744",
+    "headword": "sophisticated",
+    "language": "english",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "missing_in_dictionary"
+    },
+    "sources": {
+      "oewn": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "missing_in_dictionary",
+        "dictPos": [
+          "adjective"
+        ]
+      },
+      "kaikki-english-subset": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "missing_in_dictionary",
+        "dictPos": [
+          "adjective",
+          "verb"
+        ]
+      }
+    },
+    "example": "ok",
     "exampleSafety": "safe"
   },
   {
@@ -2813,6 +5414,14 @@
           "adjective",
           "noun"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "missing",
@@ -2840,6 +5449,14 @@
           "adjective",
           "verb"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -2864,6 +5481,14 @@
         "glossEn": "missing",
         "pron": "not_checked",
         "dictPos": []
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -2882,6 +5507,14 @@
     },
     "sources": {
       "oewn": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      },
+      "kaikki-english-subset": {
         "headword": "not_found",
         "multiple": false,
         "pos": "not_checked",
@@ -2915,6 +5548,14 @@
           "adjective",
           "verb"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -2941,6 +5582,51 @@
         "dictPos": [
           "adjective",
           "noun"
+        ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "ok",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "en-07075",
+    "headword": "injured",
+    "language": "english",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "missing_in_dictionary"
+    },
+    "sources": {
+      "oewn": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "missing_in_dictionary",
+        "dictPos": [
+          "adjective"
+        ]
+      },
+      "kaikki-english-subset": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "verb",
+          "adjective"
         ]
       }
     },
@@ -2969,6 +5655,14 @@
           "noun",
           "verb"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -2993,6 +5687,51 @@
         "glossEn": "missing",
         "pron": "not_checked",
         "dictPos": []
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "ok",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "en-07212",
+    "headword": "handed",
+    "language": "english",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "exact"
+    },
+    "sources": {
+      "oewn": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "missing_in_dictionary",
+        "dictPos": [
+          "adjective"
+        ]
+      },
+      "kaikki-english-subset": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "exact",
+        "dictPos": [
+          "adjective",
+          "verb"
+        ]
       }
     },
     "example": "ok",
@@ -3020,6 +5759,14 @@
           "adjective",
           "adverb"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -3043,6 +5790,88 @@
         "pos": "ambiguous",
         "glossEn": "missing",
         "pron": "missing_in_dictionary",
+        "dictPos": [
+          "adjective",
+          "verb"
+        ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "ok",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "en-07333",
+    "headword": "accomplished",
+    "language": "english",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "missing_in_dictionary"
+    },
+    "sources": {
+      "oewn": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "missing_in_dictionary",
+        "dictPos": [
+          "adjective"
+        ]
+      },
+      "kaikki-english-subset": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adjective",
+          "verb"
+        ]
+      }
+    },
+    "example": "ok",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "en-07393",
+    "headword": "skilled",
+    "language": "english",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "missing_in_dictionary"
+    },
+    "sources": {
+      "oewn": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "missing_in_dictionary",
+        "dictPos": [
+          "adjective"
+        ]
+      },
+      "kaikki-english-subset": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "different",
         "dictPos": [
           "adjective",
           "verb"
@@ -3071,6 +5900,88 @@
         "glossEn": "missing",
         "pron": "not_checked",
         "dictPos": []
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "ok",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "en-07569",
+    "headword": "allied",
+    "language": "english",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "missing_in_dictionary"
+    },
+    "sources": {
+      "oewn": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "missing_in_dictionary",
+        "dictPos": [
+          "adjective"
+        ]
+      },
+      "kaikki-english-subset": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "verb",
+          "adjective"
+        ]
+      }
+    },
+    "example": "ok",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "en-07630",
+    "headword": "attempted",
+    "language": "english",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "exact"
+    },
+    "sources": {
+      "oewn": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "missing_in_dictionary",
+        "dictPos": [
+          "adjective"
+        ]
+      },
+      "kaikki-english-subset": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "exact",
+        "dictPos": [
+          "adjective",
+          "verb"
+        ]
       }
     },
     "example": "ok",
@@ -3097,6 +6008,51 @@
         "dictPos": [
           "adjective",
           "noun"
+        ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "ok",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "en-07927",
+    "headword": "sustained",
+    "language": "english",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "exact"
+    },
+    "sources": {
+      "oewn": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "missing_in_dictionary",
+        "dictPos": [
+          "adjective"
+        ]
+      },
+      "kaikki-english-subset": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "exact",
+        "dictPos": [
+          "verb",
+          "adjective"
         ]
       }
     },
@@ -3125,6 +6081,14 @@
           "adjective",
           "verb"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -3152,6 +6116,14 @@
           "adjective",
           "noun"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -3179,6 +6151,14 @@
           "adjective",
           "noun"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -3206,6 +6186,14 @@
           "noun",
           "adverb"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "missing",
@@ -3234,6 +6222,14 @@
           "verb",
           "adverb"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -3261,6 +6257,14 @@
           "adjective",
           "adverb"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -3279,6 +6283,14 @@
     },
     "sources": {
       "oewn": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      },
+      "kaikki-english-subset": {
         "headword": "not_found",
         "multiple": false,
         "pos": "not_checked",
@@ -3309,6 +6321,88 @@
         "glossEn": "missing",
         "pron": "not_checked",
         "dictPos": []
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "ok",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "en-08371",
+    "headword": "blessed",
+    "language": "english",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "missing_in_dictionary"
+    },
+    "sources": {
+      "oewn": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "missing_in_dictionary",
+        "dictPos": [
+          "adjective"
+        ]
+      },
+      "kaikki-english-subset": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adjective",
+          "verb"
+        ]
+      }
+    },
+    "example": "ok",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "en-08397",
+    "headword": "abandoned",
+    "language": "english",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "exact"
+    },
+    "sources": {
+      "oewn": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "missing_in_dictionary",
+        "dictPos": [
+          "adjective"
+        ]
+      },
+      "kaikki-english-subset": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "exact",
+        "dictPos": [
+          "adjective",
+          "verb"
+        ]
       }
     },
     "example": "ok",
@@ -3336,6 +6430,14 @@
           "adjective",
           "adverb"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -3363,6 +6465,14 @@
           "adjective",
           "noun"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -3390,6 +6500,14 @@
           "adjective",
           "noun"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -3416,6 +6534,51 @@
         "dictPos": [
           "adjective",
           "verb"
+        ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "ok",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "en-09000",
+    "headword": "heated",
+    "language": "english",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "missing_in_dictionary"
+    },
+    "sources": {
+      "oewn": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "missing_in_dictionary",
+        "dictPos": [
+          "adjective"
+        ]
+      },
+      "kaikki-english-subset": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "verb",
+          "adjective"
         ]
       }
     },
@@ -3444,6 +6607,51 @@
           "adjective",
           "noun"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "ok",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "en-09228",
+    "headword": "polished",
+    "language": "english",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "missing_in_dictionary"
+    },
+    "sources": {
+      "oewn": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "missing_in_dictionary",
+        "dictPos": [
+          "adjective"
+        ]
+      },
+      "kaikki-english-subset": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adjective",
+          "verb"
+        ]
       }
     },
     "example": "ok",
@@ -3471,35 +6679,17 @@
           "verb",
           "adverb"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "missing",
-    "exampleSafety": "safe"
-  },
-  {
-    "id": "en-09455",
-    "headword": "thereafter",
-    "language": "english",
-    "verdict": "review",
-    "consensus": {
-      "headword": "exact",
-      "pos": "schema_gap",
-      "glossEn": "missing",
-      "pron": "missing_in_dictionary"
-    },
-    "sources": {
-      "oewn": {
-        "headword": "exact",
-        "multiple": false,
-        "pos": "schema_gap",
-        "glossEn": "missing",
-        "pron": "missing_in_dictionary",
-        "dictPos": [
-          "adverb"
-        ]
-      }
-    },
-    "example": "ok",
     "exampleSafety": "safe"
   },
   {
@@ -3524,6 +6714,14 @@
           "noun",
           "verb"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -3548,6 +6746,51 @@
         "glossEn": "missing",
         "pron": "not_checked",
         "dictPos": []
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "ok",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "en-09639",
+    "headword": "touched",
+    "language": "english",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "missing_in_dictionary"
+    },
+    "sources": {
+      "oewn": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "missing_in_dictionary",
+        "dictPos": [
+          "adjective"
+        ]
+      },
+      "kaikki-english-subset": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adjective",
+          "verb"
+        ]
       }
     },
     "example": "ok",
@@ -3572,6 +6815,14 @@
         "glossEn": "missing",
         "pron": "not_checked",
         "dictPos": []
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -3590,6 +6841,14 @@
     },
     "sources": {
       "oewn": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      },
+      "kaikki-english-subset": {
         "headword": "not_found",
         "multiple": false,
         "pos": "not_checked",
@@ -3623,6 +6882,14 @@
           "adjective",
           "noun"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -3650,6 +6917,14 @@
           "adjective",
           "noun"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -3668,6 +6943,14 @@
     },
     "sources": {
       "oewn": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      },
+      "kaikki-english-subset": {
         "headword": "not_found",
         "multiple": false,
         "pos": "not_checked",
@@ -3701,6 +6984,14 @@
           "adjective",
           "adverb"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -3728,6 +7019,14 @@
           "adjective",
           "noun"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -3746,6 +7045,14 @@
     },
     "sources": {
       "oewn": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      },
+      "kaikki-english-subset": {
         "headword": "not_found",
         "multiple": false,
         "pos": "not_checked",
@@ -3776,6 +7083,14 @@
         "glossEn": "missing",
         "pron": "not_checked",
         "dictPos": []
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -3800,6 +7115,14 @@
         "glossEn": "missing",
         "pron": "not_checked",
         "dictPos": []
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -3818,6 +7141,14 @@
     },
     "sources": {
       "oewn": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      },
+      "kaikki-english-subset": {
         "headword": "not_found",
         "multiple": false,
         "pos": "not_checked",
@@ -3851,6 +7182,14 @@
           "adjective",
           "adverb"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -3878,6 +7217,14 @@
           "adjective",
           "adverb"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -3905,6 +7252,51 @@
           "adjective",
           "noun"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "ok",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "en-20108",
+    "headword": "crossed",
+    "language": "english",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "exact"
+    },
+    "sources": {
+      "oewn": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "missing_in_dictionary",
+        "dictPos": [
+          "adjective"
+        ]
+      },
+      "kaikki-english-subset": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "exact",
+        "dictPos": [
+          "verb",
+          "adjective"
+        ]
       }
     },
     "example": "ok",
@@ -3923,6 +7315,14 @@
     },
     "sources": {
       "oewn": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      },
+      "kaikki-english-subset": {
         "headword": "not_found",
         "multiple": false,
         "pos": "not_checked",
@@ -3956,6 +7356,14 @@
           "adjective",
           "noun"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -3980,32 +7388,14 @@
         "glossEn": "missing",
         "pron": "not_checked",
         "dictPos": []
-      }
-    },
-    "example": "ok",
-    "exampleSafety": "safe"
-  },
-  {
-    "id": "en-20129",
-    "headword": "underneath",
-    "language": "english",
-    "verdict": "review",
-    "consensus": {
-      "headword": "exact",
-      "pos": "schema_gap",
-      "glossEn": "missing",
-      "pron": "missing_in_dictionary"
-    },
-    "sources": {
-      "oewn": {
-        "headword": "exact",
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
         "multiple": false,
-        "pos": "schema_gap",
+        "pos": "not_checked",
         "glossEn": "missing",
-        "pron": "missing_in_dictionary",
-        "dictPos": [
-          "adverb"
-        ]
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -4030,6 +7420,51 @@
         "glossEn": "missing",
         "pron": "not_checked",
         "dictPos": []
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "ok",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "en-20156",
+    "headword": "rotten",
+    "language": "english",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "missing_in_dictionary"
+    },
+    "sources": {
+      "oewn": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "missing_in_dictionary",
+        "dictPos": [
+          "adjective"
+        ]
+      },
+      "kaikki-english-subset": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adjective",
+          "adverb"
+        ]
       }
     },
     "example": "ok",
@@ -4057,6 +7492,14 @@
           "adjective",
           "noun"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -4084,6 +7527,14 @@
           "adjective",
           "noun"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -4111,6 +7562,14 @@
           "adjective",
           "adverb"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -4129,6 +7588,14 @@
     },
     "sources": {
       "oewn": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      },
+      "kaikki-english-subset": {
         "headword": "not_found",
         "multiple": false,
         "pos": "not_checked",
@@ -4162,6 +7629,14 @@
           "adjective",
           "noun"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -4188,6 +7663,89 @@
         "dictPos": [
           "adjective",
           "noun",
+          "adverb"
+        ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "ok",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "en-20311",
+    "headword": "oath",
+    "language": "english",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "exact"
+    },
+    "sources": {
+      "oewn": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "missing_in_dictionary",
+        "dictPos": [
+          "noun"
+        ]
+      },
+      "kaikki-english-subset": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "exact",
+        "dictPos": [
+          "noun",
+          "verb"
+        ]
+      }
+    },
+    "example": "ok",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "en-20334",
+    "headword": "cursed",
+    "language": "english",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "exact"
+    },
+    "sources": {
+      "oewn": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "missing_in_dictionary",
+        "dictPos": [
+          "adjective"
+        ]
+      },
+      "kaikki-english-subset": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "exact",
+        "dictPos": [
+          "adjective",
+          "verb",
           "adverb"
         ]
       }
@@ -4217,6 +7775,14 @@
           "adjective",
           "noun"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -4244,6 +7810,14 @@
           "adjective",
           "noun"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -4271,6 +7845,14 @@
           "noun",
           "verb"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -4295,6 +7877,51 @@
         "glossEn": "missing",
         "pron": "not_checked",
         "dictPos": []
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "ok",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "en-20411",
+    "headword": "suspicion",
+    "language": "english",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "exact"
+    },
+    "sources": {
+      "oewn": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "missing_in_dictionary",
+        "dictPos": [
+          "noun"
+        ]
+      },
+      "kaikki-english-subset": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "exact",
+        "dictPos": [
+          "noun",
+          "verb"
+        ]
       }
     },
     "example": "ok",
@@ -4313,6 +7940,14 @@
     },
     "sources": {
       "oewn": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      },
+      "kaikki-english-subset": {
         "headword": "not_found",
         "multiple": false,
         "pos": "not_checked",
@@ -4346,6 +7981,14 @@
           "noun",
           "verb"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -4364,6 +8007,14 @@
     },
     "sources": {
       "oewn": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      },
+      "kaikki-english-subset": {
         "headword": "not_found",
         "multiple": false,
         "pos": "not_checked",
@@ -4397,6 +8048,14 @@
           "adjective",
           "noun"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -4424,6 +8083,14 @@
           "adjective",
           "adverb"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -4442,6 +8109,14 @@
     },
     "sources": {
       "oewn": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      },
+      "kaikki-english-subset": {
         "headword": "not_found",
         "multiple": false,
         "pos": "not_checked",
@@ -4475,6 +8150,14 @@
           "adjective",
           "noun"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -4498,6 +8181,51 @@
         "pos": "ambiguous",
         "glossEn": "missing",
         "pron": "missing_in_dictionary",
+        "dictPos": [
+          "adjective",
+          "noun"
+        ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "ok",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "en-20561",
+    "headword": "shiny",
+    "language": "english",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "exact"
+    },
+    "sources": {
+      "oewn": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "missing_in_dictionary",
+        "dictPos": [
+          "adjective"
+        ]
+      },
+      "kaikki-english-subset": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "exact",
         "dictPos": [
           "adjective",
           "noun"
@@ -4529,6 +8257,14 @@
           "adjective",
           "verb"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -4556,6 +8292,14 @@
           "adjective",
           "noun"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -4583,6 +8327,51 @@
           "adjective",
           "noun"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "ok",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "en-20733",
+    "headword": "exploded",
+    "language": "english",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "missing_in_dictionary"
+    },
+    "sources": {
+      "oewn": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "missing_in_dictionary",
+        "dictPos": [
+          "adjective"
+        ]
+      },
+      "kaikki-english-subset": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "missing_in_dictionary",
+        "dictPos": [
+          "verb",
+          "adjective"
+        ]
       }
     },
     "example": "ok",
@@ -4601,6 +8390,14 @@
     },
     "sources": {
       "oewn": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      },
+      "kaikki-english-subset": {
         "headword": "not_found",
         "multiple": false,
         "pos": "not_checked",
@@ -4634,6 +8431,14 @@
           "adjective",
           "adverb"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -4652,6 +8457,14 @@
     },
     "sources": {
       "oewn": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      },
+      "kaikki-english-subset": {
         "headword": "not_found",
         "multiple": false,
         "pos": "not_checked",
@@ -4685,6 +8498,14 @@
           "adjective",
           "noun"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -4712,6 +8533,14 @@
           "verb",
           "noun"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -4736,6 +8565,14 @@
         "glossEn": "missing",
         "pron": "not_checked",
         "dictPos": []
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -4754,6 +8591,14 @@
     },
     "sources": {
       "oewn": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      },
+      "kaikki-english-subset": {
         "headword": "not_found",
         "multiple": false,
         "pos": "not_checked",
@@ -4787,6 +8632,14 @@
           "adjective",
           "noun"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -4814,6 +8667,14 @@
           "adjective",
           "verb"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -4838,6 +8699,14 @@
         "glossEn": "missing",
         "pron": "missing_in_app",
         "dictPos": []
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "missing_in_app",
+        "dictPos": []
       }
     },
     "example": "missing",
@@ -4856,6 +8725,14 @@
     },
     "sources": {
       "oewn": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      },
+      "kaikki-english-subset": {
         "headword": "not_found",
         "multiple": false,
         "pos": "not_checked",
@@ -4889,6 +8766,14 @@
           "adjective",
           "noun"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -4916,6 +8801,14 @@
           "adjective",
           "verb"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -4940,6 +8833,14 @@
         "glossEn": "missing",
         "pron": "not_checked",
         "dictPos": []
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -4958,6 +8859,14 @@
     },
     "sources": {
       "oewn": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "missing_in_app",
+        "dictPos": []
+      },
+      "kaikki-english-subset": {
         "headword": "not_found",
         "multiple": false,
         "pos": "not_checked",
@@ -4991,6 +8900,14 @@
           "adjective",
           "noun"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -5009,6 +8926,14 @@
     },
     "sources": {
       "oewn": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      },
+      "kaikki-english-subset": {
         "headword": "not_found",
         "multiple": false,
         "pos": "not_checked",
@@ -5039,6 +8964,14 @@
         "glossEn": "missing",
         "pron": "missing_in_app",
         "dictPos": []
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "missing_in_app",
+        "dictPos": []
       }
     },
     "example": "missing",
@@ -5057,6 +8990,14 @@
     },
     "sources": {
       "oewn": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      },
+      "kaikki-english-subset": {
         "headword": "not_found",
         "multiple": false,
         "pos": "not_checked",
@@ -5087,9 +9028,55 @@
         "glossEn": "missing",
         "pron": "not_checked",
         "dictPos": []
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "en-21293",
+    "headword": "blasted",
+    "language": "english",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "missing_in_dictionary"
+    },
+    "sources": {
+      "oewn": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "missing_in_dictionary",
+        "dictPos": [
+          "adjective"
+        ]
+      },
+      "kaikki-english-subset": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "verb",
+          "adjective",
+          "adverb"
+        ]
+      }
+    },
+    "example": "missing",
     "exampleSafety": "safe"
   },
   {
@@ -5105,6 +9092,14 @@
     },
     "sources": {
       "oewn": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      },
+      "kaikki-english-subset": {
         "headword": "not_found",
         "multiple": false,
         "pos": "not_checked",
@@ -5138,6 +9133,14 @@
           "adjective",
           "noun"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -5165,6 +9168,14 @@
           "adjective",
           "adverb"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -5192,6 +9203,14 @@
           "adjective",
           "verb"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -5216,6 +9235,51 @@
         "glossEn": "missing",
         "pron": "not_checked",
         "dictPos": []
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "ok",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "en-21368",
+    "headword": "sneaky",
+    "language": "english",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "missing_in_dictionary"
+    },
+    "sources": {
+      "oewn": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "missing_in_dictionary",
+        "dictPos": [
+          "adjective"
+        ]
+      },
+      "kaikki-english-subset": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adjective",
+          "noun"
+        ]
       }
     },
     "example": "ok",
@@ -5243,6 +9307,14 @@
           "noun",
           "adverb"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -5270,6 +9342,14 @@
           "noun",
           "verb"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -5294,6 +9374,51 @@
         "glossEn": "missing",
         "pron": "not_checked",
         "dictPos": []
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "ok",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "en-21500",
+    "headword": "stranded",
+    "language": "english",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "exact"
+    },
+    "sources": {
+      "oewn": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "missing_in_dictionary",
+        "dictPos": [
+          "adjective"
+        ]
+      },
+      "kaikki-english-subset": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "exact",
+        "dictPos": [
+          "verb",
+          "adjective"
+        ]
       }
     },
     "example": "ok",
@@ -5321,6 +9446,14 @@
           "adjective",
           "noun"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "missing",
@@ -5348,6 +9481,14 @@
           "adjective",
           "noun"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -5375,6 +9516,14 @@
           "adjective",
           "verb"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -5402,6 +9551,14 @@
           "adjective",
           "adverb"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -5420,6 +9577,14 @@
     },
     "sources": {
       "oewn": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      },
+      "kaikki-english-subset": {
         "headword": "not_found",
         "multiple": false,
         "pos": "not_checked",
@@ -5450,6 +9615,14 @@
         "glossEn": "missing",
         "pron": "not_checked",
         "dictPos": []
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "missing",
@@ -5474,6 +9647,88 @@
         "glossEn": "missing",
         "pron": "not_checked",
         "dictPos": []
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "ok",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "en-21655",
+    "headword": "pronounced",
+    "language": "english",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "exact"
+    },
+    "sources": {
+      "oewn": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "missing_in_dictionary",
+        "dictPos": [
+          "adjective"
+        ]
+      },
+      "kaikki-english-subset": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "exact",
+        "dictPos": [
+          "adjective",
+          "verb"
+        ]
+      }
+    },
+    "example": "ok",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "en-21664",
+    "headword": "scrambled",
+    "language": "english",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "missing_in_dictionary"
+    },
+    "sources": {
+      "oewn": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "missing_in_dictionary",
+        "dictPos": [
+          "adjective"
+        ]
+      },
+      "kaikki-english-subset": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "missing_in_dictionary",
+        "dictPos": [
+          "adjective",
+          "verb"
+        ]
       }
     },
     "example": "ok",
@@ -5498,6 +9753,14 @@
         "glossEn": "missing",
         "pron": "not_checked",
         "dictPos": []
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -5516,6 +9779,14 @@
     },
     "sources": {
       "oewn": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      },
+      "kaikki-english-subset": {
         "headword": "not_found",
         "multiple": false,
         "pos": "not_checked",
@@ -5549,6 +9820,14 @@
           "adjective",
           "verb"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -5567,6 +9846,14 @@
     },
     "sources": {
       "oewn": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "missing_in_app",
+        "dictPos": []
+      },
+      "kaikki-english-subset": {
         "headword": "not_found",
         "multiple": false,
         "pos": "not_checked",
@@ -5600,6 +9887,14 @@
           "noun",
           "verb"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -5627,6 +9922,14 @@
           "adjective",
           "verb"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -5645,6 +9948,14 @@
     },
     "sources": {
       "oewn": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      },
+      "kaikki-english-subset": {
         "headword": "not_found",
         "multiple": false,
         "pos": "not_checked",
@@ -5678,6 +9989,14 @@
           "adjective",
           "noun"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -5696,6 +10015,14 @@
     },
     "sources": {
       "oewn": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      },
+      "kaikki-english-subset": {
         "headword": "not_found",
         "multiple": false,
         "pos": "not_checked",
@@ -5729,6 +10056,14 @@
           "noun",
           "verb"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -5747,6 +10082,14 @@
     },
     "sources": {
       "oewn": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      },
+      "kaikki-english-subset": {
         "headword": "not_found",
         "multiple": false,
         "pos": "not_checked",
@@ -5777,6 +10120,14 @@
         "glossEn": "missing",
         "pron": "not_checked",
         "dictPos": []
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -5801,9 +10152,54 @@
         "glossEn": "missing",
         "pron": "not_checked",
         "dictPos": []
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "en-21955",
+    "headword": "concentrated",
+    "language": "english",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "exact"
+    },
+    "sources": {
+      "oewn": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "missing_in_dictionary",
+        "dictPos": [
+          "adjective"
+        ]
+      },
+      "kaikki-english-subset": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "exact",
+        "dictPos": [
+          "adjective",
+          "verb"
+        ]
+      }
+    },
+    "example": "ok",
     "exampleSafety": "safe"
   },
   {
@@ -5827,6 +10223,51 @@
         "dictPos": [
           "adjective",
           "noun"
+        ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "ok",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "en-21978",
+    "headword": "roasted",
+    "language": "english",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "missing_in_dictionary"
+    },
+    "sources": {
+      "oewn": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "missing_in_dictionary",
+        "dictPos": [
+          "adjective"
+        ]
+      },
+      "kaikki-english-subset": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adjective",
+          "verb"
         ]
       }
     },
@@ -5855,6 +10296,14 @@
           "adjective",
           "adverb"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -5879,6 +10328,51 @@
         "glossEn": "missing",
         "pron": "not_checked",
         "dictPos": []
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "ok",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "en-22009",
+    "headword": "liberated",
+    "language": "english",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "missing_in_dictionary"
+    },
+    "sources": {
+      "oewn": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "missing_in_dictionary",
+        "dictPos": [
+          "adjective"
+        ]
+      },
+      "kaikki-english-subset": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "missing_in_dictionary",
+        "dictPos": [
+          "adjective",
+          "verb"
+        ]
       }
     },
     "example": "ok",
@@ -5905,6 +10399,51 @@
         "dictPos": [
           "adjective",
           "noun"
+        ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "ok",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "en-22027",
+    "headword": "faded",
+    "language": "english",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "missing_in_dictionary"
+    },
+    "sources": {
+      "oewn": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "missing_in_dictionary",
+        "dictPos": [
+          "adjective"
+        ]
+      },
+      "kaikki-english-subset": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adjective",
+          "verb"
         ]
       }
     },
@@ -5933,6 +10472,14 @@
           "adjective",
           "adverb"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -5957,6 +10504,51 @@
         "glossEn": "missing",
         "pron": "not_checked",
         "dictPos": []
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "ok",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "en-22071",
+    "headword": "wedded",
+    "language": "english",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "missing_in_dictionary"
+    },
+    "sources": {
+      "oewn": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "missing_in_dictionary",
+        "dictPos": [
+          "adjective"
+        ]
+      },
+      "kaikki-english-subset": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adjective",
+          "verb"
+        ]
       }
     },
     "example": "ok",
@@ -5984,6 +10576,14 @@
           "adjective",
           "noun"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -6008,9 +10608,54 @@
         "glossEn": "missing",
         "pron": "not_checked",
         "dictPos": []
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "en-22115",
+    "headword": "reversed",
+    "language": "english",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "missing_in_dictionary"
+    },
+    "sources": {
+      "oewn": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "missing_in_dictionary",
+        "dictPos": [
+          "adjective"
+        ]
+      },
+      "kaikki-english-subset": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "missing_in_dictionary",
+        "dictPos": [
+          "verb",
+          "adjective"
+        ]
+      }
+    },
+    "example": "ok",
     "exampleSafety": "safe"
   },
   {
@@ -6035,6 +10680,14 @@
           "adjective",
           "adverb"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -6053,6 +10706,14 @@
     },
     "sources": {
       "oewn": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      },
+      "kaikki-english-subset": {
         "headword": "not_found",
         "multiple": false,
         "pos": "not_checked",
@@ -6083,6 +10744,53 @@
         "glossEn": "missing",
         "pron": "not_checked",
         "dictPos": []
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "en-22142",
+    "headword": "wen",
+    "language": "english",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "exact"
+    },
+    "sources": {
+      "oewn": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "missing_in_dictionary",
+        "dictPos": [
+          "noun"
+        ]
+      },
+      "kaikki-english-subset": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "exact",
+        "dictPos": [
+          "noun",
+          "adverb",
+          "conjunction",
+          "pronoun"
+        ]
       }
     },
     "example": "missing",
@@ -6111,6 +10819,88 @@
           "verb",
           "adverb"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "ok",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "en-22218",
+    "headword": "whacked",
+    "language": "english",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "missing_in_dictionary"
+    },
+    "sources": {
+      "oewn": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "missing_in_dictionary",
+        "dictPos": [
+          "adjective"
+        ]
+      },
+      "kaikki-english-subset": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "missing_in_dictionary",
+        "dictPos": [
+          "verb",
+          "adjective"
+        ]
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "en-22327",
+    "headword": "pinched",
+    "language": "english",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "missing_in_dictionary"
+    },
+    "sources": {
+      "oewn": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "missing_in_dictionary",
+        "dictPos": [
+          "adjective"
+        ]
+      },
+      "kaikki-english-subset": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "missing_in_dictionary",
+        "dictPos": [
+          "verb",
+          "adjective"
+        ]
       }
     },
     "example": "ok",
@@ -6138,6 +10928,14 @@
           "adjective",
           "verb"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -6165,6 +10963,14 @@
           "adjective",
           "adverb"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -6192,6 +10998,14 @@
           "adjective",
           "adverb"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -6210,6 +11024,14 @@
     },
     "sources": {
       "oewn": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "missing_in_app",
+        "dictPos": []
+      },
+      "kaikki-english-subset": {
         "headword": "not_found",
         "multiple": false,
         "pos": "not_checked",
@@ -6240,6 +11062,51 @@
         "glossEn": "missing",
         "pron": "not_checked",
         "dictPos": []
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      }
+    },
+    "example": "ok",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "en-22445",
+    "headword": "ghastly",
+    "language": "english",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "missing_in_dictionary"
+    },
+    "sources": {
+      "oewn": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "missing_in_dictionary",
+        "dictPos": [
+          "adjective"
+        ]
+      },
+      "kaikki-english-subset": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adjective",
+          "adverb"
+        ]
       }
     },
     "example": "ok",
@@ -6264,6 +11131,14 @@
         "glossEn": "missing",
         "pron": "not_checked",
         "dictPos": []
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -6282,6 +11157,14 @@
     },
     "sources": {
       "oewn": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      },
+      "kaikki-english-subset": {
         "headword": "not_found",
         "multiple": false,
         "pos": "not_checked",
@@ -6315,6 +11198,14 @@
           "adjective",
           "adverb"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -6333,6 +11224,14 @@
     },
     "sources": {
       "oewn": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      },
+      "kaikki-english-subset": {
         "headword": "not_found",
         "multiple": false,
         "pos": "not_checked",
@@ -6366,6 +11265,14 @@
           "adjective",
           "noun"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -6390,9 +11297,91 @@
         "glossEn": "missing",
         "pron": "not_checked",
         "dictPos": []
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "en-22642",
+    "headword": "persuasive",
+    "language": "english",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "missing_in_dictionary"
+    },
+    "sources": {
+      "oewn": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "missing_in_dictionary",
+        "dictPos": [
+          "adjective"
+        ]
+      },
+      "kaikki-english-subset": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adjective",
+          "noun"
+        ]
+      }
+    },
+    "example": "ok",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "en-22648",
+    "headword": "radiant",
+    "language": "english",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "exact"
+    },
+    "sources": {
+      "oewn": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "missing_in_dictionary",
+        "dictPos": [
+          "adjective"
+        ]
+      },
+      "kaikki-english-subset": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "exact",
+        "dictPos": [
+          "adjective",
+          "noun"
+        ]
+      }
+    },
+    "example": "ok",
     "exampleSafety": "safe"
   },
   {
@@ -6417,6 +11406,14 @@
           "adjective",
           "noun"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -6444,6 +11441,14 @@
           "adjective",
           "adverb"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -6468,9 +11473,54 @@
         "glossEn": "missing",
         "pron": "not_checked",
         "dictPos": []
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "en-22716",
+    "headword": "shabby",
+    "language": "english",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "exact"
+    },
+    "sources": {
+      "oewn": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "missing_in_dictionary",
+        "dictPos": [
+          "adjective"
+        ]
+      },
+      "kaikki-english-subset": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "exact",
+        "dictPos": [
+          "adjective",
+          "verb"
+        ]
+      }
+    },
+    "example": "ok",
     "exampleSafety": "safe"
   },
   {
@@ -6486,6 +11536,14 @@
     },
     "sources": {
       "oewn": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
+      },
+      "kaikki-english-subset": {
         "headword": "not_found",
         "multiple": false,
         "pos": "not_checked",
@@ -6519,6 +11577,14 @@
           "adjective",
           "adverb"
         ]
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "ok",
@@ -6543,9 +11609,129 @@
         "glossEn": "missing",
         "pron": "not_checked",
         "dictPos": []
+      },
+      "kaikki-english-subset": {
+        "headword": "not_found",
+        "multiple": false,
+        "pos": "not_checked",
+        "glossEn": "missing",
+        "pron": "not_checked",
+        "dictPos": []
       }
     },
     "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "en-22792",
+    "headword": "hardcore",
+    "language": "english",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "missing_in_dictionary"
+    },
+    "sources": {
+      "oewn": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "missing_in_dictionary",
+        "dictPos": [
+          "adjective"
+        ]
+      },
+      "kaikki-english-subset": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adjective",
+          "noun",
+          "adverb"
+        ]
+      }
+    },
+    "example": "missing",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "en-22961",
+    "headword": "strained",
+    "language": "english",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "missing_in_dictionary"
+    },
+    "sources": {
+      "oewn": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "missing_in_dictionary",
+        "dictPos": [
+          "adjective"
+        ]
+      },
+      "kaikki-english-subset": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adjective",
+          "verb"
+        ]
+      }
+    },
+    "example": "ok",
+    "exampleSafety": "safe"
+  },
+  {
+    "id": "en-22963",
+    "headword": "contracted",
+    "language": "english",
+    "verdict": "review",
+    "consensus": {
+      "headword": "exact",
+      "pos": "ambiguous",
+      "glossEn": "missing",
+      "pron": "missing_in_dictionary"
+    },
+    "sources": {
+      "oewn": {
+        "headword": "exact",
+        "multiple": false,
+        "pos": "different",
+        "glossEn": "missing",
+        "pron": "missing_in_dictionary",
+        "dictPos": [
+          "adjective"
+        ]
+      },
+      "kaikki-english-subset": {
+        "headword": "exact",
+        "multiple": true,
+        "pos": "ambiguous",
+        "glossEn": "missing",
+        "pron": "different",
+        "dictPos": [
+          "adjective",
+          "verb"
+        ]
+      }
+    },
+    "example": "ok",
     "exampleSafety": "safe"
   },
   {

@@ -1,0 +1,1895 @@
+{
+  "summary": {
+    "basis": "pos-decisions(第2ソース併用・適用後)+構造チェックは既存validate",
+    "checked": 353,
+    "errors": 0,
+    "warnings": 171,
+    "byType": {
+      "dictionary_taxonomy_or_conflict/warning": 1,
+      "multiple_pos_or_ambiguous/warning": 170
+    }
+  },
+  "findings": [
+    {
+      "id": "en-00126",
+      "language": "english",
+      "level": "warning",
+      "type": "dictionary_taxonomy_or_conflict",
+      "headword": "between",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文文法(形容詞)が辞書品詞[adverb,preposition,noun]に無い→人手(辞書体系差/例文特殊)"
+    },
+    {
+      "id": "en-00194",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "around",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[adverb,preposition,adjective]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-00415",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "either",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[adverb,determiner,pronoun,conjunction]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-00602",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "instead",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[adverb]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-00777",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "below",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[adverb,preposition,proper noun]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-00886",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "except",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[verb,preposition,conjunction]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-01042",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "laughter",
+      "currentTags": [
+        "形容詞"
+      ],
+      "reason": "例文なし。多品詞[noun,proper noun]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-01116",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "nobody",
+      "currentTags": [
+        "形容詞"
+      ],
+      "reason": "例文なし。多品詞[noun,pronoun]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-01213",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "excellent",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[adjective,adverb]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-01795",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "attractive",
+      "currentTags": [
+        "動詞"
+      ],
+      "reason": "例文なし。多品詞[adjective]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-02099",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "assistance",
+      "currentTags": [
+        "形容詞"
+      ],
+      "reason": "例文なし。多品詞[noun]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-02198",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "beneath",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[adverb,preposition]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-02323",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "creative",
+      "currentTags": [
+        "動詞"
+      ],
+      "reason": "例文なし。多品詞[adjective,noun]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-02328",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "remarkable",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[adjective]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-02569",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "historic",
+      "currentTags": [
+        "動詞"
+      ],
+      "reason": "例文なし。多品詞[adjective,noun]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-02588",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "disagree",
+      "currentTags": [
+        "形容詞"
+      ],
+      "reason": "例文なし。多品詞[verb]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-02682",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "subsequently",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[adverb]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-02847",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "united",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[adjective,verb,proper noun]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-02892",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "john",
+      "currentTags": [
+        "形容詞"
+      ],
+      "reason": "例文なし。多品詞[noun,proper noun]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-03142",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "according",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[adjective,verb,adverb]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-03191",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "located",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[adjective,verb]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-03276",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "considered",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "分詞(considered)は動詞義/形容詞義の両方あり(辞書にadjective)・例文は動詞だがレコード採用義要確認→人手"
+    },
+    {
+      "id": "en-03370",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "established",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[adjective,verb]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-03425",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "accepted",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "分詞(accepted)は動詞義/形容詞義の両方あり(辞書にadjective)・例文は動詞だがレコード採用義要確認→人手"
+    },
+    {
+      "id": "en-03602",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "informed",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[adjective,verb]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-03619",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "integrated",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[adjective,verb]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-03668",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "extended",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[adjective,verb]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-03702",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "determined",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[adjective,verb]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-03850",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "forced",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[adjective,verb]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-03929",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "removed",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[adjective,verb]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-03978",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "agreed",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "分詞(agreed)は動詞義/形容詞義の両方あり(辞書にadjective)・例文は動詞だがレコード採用義要確認→人手"
+    },
+    {
+      "id": "en-04070",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "revised",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[adjective,verb]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-04073",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "amazing",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[adjective,verb]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-04096",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "licensed",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[adjective,verb]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-04107",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "finished",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[adjective,verb]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-04317",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "authorized",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[adjective,verb]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-04429",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "outstanding",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[adjective,verb]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-04431",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "planned",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[adjective,verb]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-04486",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "collected",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[adjective,verb]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-04744",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "pursuant",
+      "currentTags": [
+        "動詞"
+      ],
+      "reason": "例文なし。多品詞[adjective,adverb]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-04757",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "organized",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[adjective,verb]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-04827",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "appointed",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[adjective,verb]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-04915",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "calculated",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[adjective,verb]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-05056",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "covering",
+      "currentTags": [
+        "形容詞"
+      ],
+      "reason": "例文なし。多品詞[noun,verb]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-05086",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "confirmed",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[adjective,verb]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-05331",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "armed",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[adjective,verb]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-05357",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "sealed",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[adjective,verb]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-05515",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "studied",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "分詞(studied)は動詞義/形容詞義の両方あり(辞書にadjective)・例文は動詞だがレコード採用義要確認→人手"
+    },
+    {
+      "id": "en-05658",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "animated",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[adjective,verb]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-05816",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "declared",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "分詞(declared)は動詞義/形容詞義の両方あり(辞書にadjective)・例文は動詞だがレコード採用義要確認→人手"
+    },
+    {
+      "id": "en-05853",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "inspired",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[adjective,verb]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-06032",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "retired",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[adjective,verb]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-06177",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "resolved",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "分詞(resolved)は動詞義/形容詞義の両方あり(辞書にadjective)・例文は動詞だがレコード採用義要確認→人手"
+    },
+    {
+      "id": "en-06348",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "repeated",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[adjective,verb]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-06505",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "balanced",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[adjective,verb]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-06506",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "prescribed",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[adjective,verb]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-06580",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "advised",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "分詞(advised)は動詞義/形容詞義の両方あり(辞書にadjective)・例文は動詞だがレコード採用義要確認→人手"
+    },
+    {
+      "id": "en-06590",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "isolated",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[adjective,verb]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-06660",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "composed",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[adjective,verb]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-06744",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "sophisticated",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[adjective,verb]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-07075",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "injured",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[adjective,verb]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-07212",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "handed",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "分詞(handed)は動詞義/形容詞義の両方あり(辞書にadjective)・例文は動詞だがレコード採用義要確認→人手"
+    },
+    {
+      "id": "en-07333",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "accomplished",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[adjective,verb]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-07393",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "skilled",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[adjective,verb]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-07569",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "allied",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[adjective,verb]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-07630",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "attempted",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "分詞(attempted)は動詞義/形容詞義の両方あり(辞書にadjective)・例文は動詞だがレコード採用義要確認→人手"
+    },
+    {
+      "id": "en-07927",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "sustained",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[adjective,verb]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-08397",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "abandoned",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[adjective,verb]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-08482",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "talented",
+      "currentTags": [
+        "動詞"
+      ],
+      "reason": "例文なし。多品詞[adjective]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-08796",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "momentum",
+      "currentTags": [
+        "形容詞"
+      ],
+      "reason": "例文なし。多品詞[noun]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-08980",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "adaptive",
+      "currentTags": [
+        "動詞"
+      ],
+      "reason": "例文なし。多品詞[adjective]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-09000",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "heated",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[adjective,verb]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-09113",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "funky",
+      "currentTags": [
+        "動詞"
+      ],
+      "reason": "例文なし。多品詞[adjective]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-09228",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "polished",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[adjective,verb]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-09373",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "enclosure",
+      "currentTags": [
+        "形容詞"
+      ],
+      "reason": "例文なし。多品詞[noun]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-09639",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "touched",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "分詞(touched)は動詞義/形容詞義の両方あり(辞書にadjective)・例文は動詞だがレコード採用義要確認→人手"
+    },
+    {
+      "id": "en-20108",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "crossed",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "分詞(crossed)は動詞義/形容詞義の両方あり(辞書にadjective)・例文は動詞だがレコード採用義要確認→人手"
+    },
+    {
+      "id": "en-20156",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "rotten",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[adjective,adverb]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-20311",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "oath",
+      "currentTags": [
+        "形容詞"
+      ],
+      "reason": "例文なし。多品詞[noun,verb]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-20334",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "cursed",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[adjective,verb,adverb]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-20361",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "glorious",
+      "currentTags": [
+        "動詞"
+      ],
+      "reason": "例文なし。多品詞[adjective]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-20411",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "suspicion",
+      "currentTags": [
+        "形容詞"
+      ],
+      "reason": "例文なし。多品詞[noun,verb]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-20488",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "vicious",
+      "currentTags": [
+        "動詞"
+      ],
+      "reason": "例文なし。多品詞[adjective,proper noun]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-20561",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "shiny",
+      "currentTags": [
+        "動詞"
+      ],
+      "reason": "例文なし。多品詞[adjective,noun]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-20567",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "magician",
+      "currentTags": [
+        "形容詞"
+      ],
+      "reason": "例文なし。多品詞[noun]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-20617",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "vengeance",
+      "currentTags": [
+        "動詞"
+      ],
+      "reason": "例文なし。多品詞[noun]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-20642",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "ambitious",
+      "currentTags": [
+        "動詞"
+      ],
+      "reason": "例文なし。多品詞[adjective]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-20729",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "thoughtful",
+      "currentTags": [
+        "動詞"
+      ],
+      "reason": "例文なし。多品詞[adjective]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-20733",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "exploded",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "分詞(exploded)は動詞義/形容詞義の両方あり(辞書にadjective)・例文は動詞だがレコード採用義要確認→人手"
+    },
+    {
+      "id": "en-21063",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "contempt",
+      "currentTags": [
+        "動詞"
+      ],
+      "reason": "例文なし。多品詞[noun]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-21293",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "blasted",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[adjective,verb,adverb]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-21294",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "courageous",
+      "currentTags": [
+        "動詞"
+      ],
+      "reason": "例文なし。多品詞[adjective]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-21325",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "redemption",
+      "currentTags": [
+        "形容詞"
+      ],
+      "reason": "例文なし。多品詞[noun]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-21344",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "shameful",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[adjective]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-21368",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "sneaky",
+      "currentTags": [
+        "動詞"
+      ],
+      "reason": "例文なし。多品詞[adjective,noun]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-21500",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "stranded",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[adjective,verb]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-21580",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "sensational",
+      "currentTags": [
+        "動詞"
+      ],
+      "reason": "例文なし。多品詞[adjective]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-21598",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "idiotic",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[adjective]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-21655",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "pronounced",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[adjective,verb]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-21664",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "scrambled",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "分詞(scrambled)は動詞義/形容詞義の両方あり(辞書にadjective)・例文は動詞だがレコード採用義要確認→人手"
+    },
+    {
+      "id": "en-21923",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "profitable",
+      "currentTags": [
+        "動詞"
+      ],
+      "reason": "例文なし。多品詞[adjective]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-21955",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "concentrated",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[adjective,verb]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-21978",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "roasted",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[adjective,verb]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-21988",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "hesitation",
+      "currentTags": [
+        "形容詞"
+      ],
+      "reason": "例文なし。多品詞[noun]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-22009",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "liberated",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[adjective,verb]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-22027",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "faded",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[adjective,verb]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-22044",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "victorious",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[adjective]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-22071",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "wedded",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[adjective,verb]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-22115",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "reversed",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "分詞(reversed)は動詞義/形容詞義の両方あり(辞書にadjective)・例文は動詞だがレコード採用義要確認→人手"
+    },
+    {
+      "id": "en-22134",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "drought",
+      "currentTags": [
+        "動詞"
+      ],
+      "reason": "例文なし。多品詞[noun,proper noun]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-22142",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "wen",
+      "currentTags": [
+        "動詞"
+      ],
+      "reason": "例文なし。多品詞[noun,adverb,conjunction,pronoun,proper noun]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-22218",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "whacked",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[adjective,verb]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-22327",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "pinched",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "分詞(pinched)は動詞義/形容詞義の両方あり(辞書にadjective)・例文は動詞だがレコード採用義要確認→人手"
+    },
+    {
+      "id": "en-22433",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "jumpy",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[adjective]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-22445",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "ghastly",
+      "currentTags": [
+        "動詞"
+      ],
+      "reason": "例文なし。多品詞[adjective,adverb]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-22467",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "preposterous",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[adjective]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-22478",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "heartbroken",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[adjective]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-22499",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "nauseous",
+      "currentTags": [
+        "動詞"
+      ],
+      "reason": "例文なし。多品詞[adjective]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-22525",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "dishwasher",
+      "currentTags": [
+        "形容詞"
+      ],
+      "reason": "例文なし。多品詞[noun]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-22556",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "disobey",
+      "currentTags": [
+        "形容詞"
+      ],
+      "reason": "例文なし。多品詞[verb]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-22642",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "persuasive",
+      "currentTags": [
+        "動詞"
+      ],
+      "reason": "例文なし。多品詞[adjective,noun]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-22648",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "radiant",
+      "currentTags": [
+        "動詞"
+      ],
+      "reason": "例文なし。多品詞[adjective,noun]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-22716",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "shabby",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[adjective,verb]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-22780",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "faulty",
+      "currentTags": [
+        "動詞"
+      ],
+      "reason": "例文なし。多品詞[adjective]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-22792",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "hardcore",
+      "currentTags": [
+        "動詞"
+      ],
+      "reason": "例文なし。多品詞[adjective,noun,adverb]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-22799",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "delirious",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[adjective]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-22903",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "hateful",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[adjective]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-22961",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "strained",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[adjective,verb]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "en-22963",
+      "language": "english",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "contracted",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[adjective,verb]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "ko-00336",
+      "language": "korean",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "모르다",
+      "currentTags": [
+        "形容詞"
+      ],
+      "reason": "例文なし。多品詞[verb]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "ko-00405",
+      "language": "korean",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "다르다",
+      "currentTags": [
+        "動詞"
+      ],
+      "reason": "例文なし。多品詞[adjective]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "ko-00428",
+      "language": "korean",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "많이",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[adverb]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "ko-00431",
+      "language": "korean",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "또",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[adverb]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "ko-00433",
+      "language": "korean",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "가끔",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[adverb]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "ko-00437",
+      "language": "korean",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "벌써",
+      "currentTags": [
+        "動詞"
+      ],
+      "reason": "例文なし。多品詞[adverb]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "ko-00438",
+      "language": "korean",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "아직",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[adverb]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "ko-00441",
+      "language": "korean",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "갑자기",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[adverb]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "ko-00447",
+      "language": "korean",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "꼭",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[adverb]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "ko-00452",
+      "language": "korean",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "어떻게",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[adverb]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "ko-00453",
+      "language": "korean",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "그리고",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[adverb]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "ko-00459",
+      "language": "korean",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "여기",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[pronoun]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "ko-00460",
+      "language": "korean",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "거기",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[pronoun]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "ko-00479",
+      "language": "korean",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "매년",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[adverb]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "ko-00737",
+      "language": "korean",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "궁금하다",
+      "currentTags": [
+        "動詞"
+      ],
+      "reason": "例文なし。多品詞[adjective]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "ko-00771",
+      "language": "korean",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "그러나",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[adverb]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "ko-00773",
+      "language": "korean",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "그러면",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[adverb]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "ko-00775",
+      "language": "korean",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "왜냐하면",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[adverb]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "ko-00777",
+      "language": "korean",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "전혀",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[adverb]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "ko-00781",
+      "language": "korean",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "물론",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[adverb]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "ko-00786",
+      "language": "korean",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "결국",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[adverb]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "ko-00795",
+      "language": "korean",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "오히려",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[adverb]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "ko-00797",
+      "language": "korean",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "혹시",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[adverb]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "ko-00798",
+      "language": "korean",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "만약",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[adverb]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "ko-00877",
+      "language": "korean",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "차이",
+      "currentTags": [
+        "形容詞"
+      ],
+      "reason": "例文なし。多品詞[noun]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "ko-00936",
+      "language": "korean",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "저장하다",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[verb]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "ko-01033",
+      "language": "korean",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "맹세하다",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[verb]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "ko-01318",
+      "language": "korean",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "설거지",
+      "currentTags": [
+        "形容詞"
+      ],
+      "reason": "例文なし。多品詞[noun]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "ko-01373",
+      "language": "korean",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "설렘",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[verb]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "ko-01483",
+      "language": "korean",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "후추",
+      "currentTags": [
+        "動詞"
+      ],
+      "reason": "例文なし。多品詞[noun]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "ko-01499",
+      "language": "korean",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "간식",
+      "currentTags": [
+        "動詞"
+      ],
+      "reason": "例文なし。多品詞[noun]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "ko-01504",
+      "language": "korean",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "대체로",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[adverb]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "ko-01505",
+      "language": "korean",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "도대체",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[adverb]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "ko-01507",
+      "language": "korean",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "차라리",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[adverb]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "ko-01508",
+      "language": "korean",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "게다가",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[adverb]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "ko-01510",
+      "language": "korean",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "그렇지만",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[adverb]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "ko-01515",
+      "language": "korean",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "한편",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[adverb]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "ko-01516",
+      "language": "korean",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "결코",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[adverb]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "ko-01517",
+      "language": "korean",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "과연",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[adverb]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "ko-01519",
+      "language": "korean",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "도저히",
+      "currentTags": [
+        "形容詞"
+      ],
+      "reason": "例文なし。多品詞[adverb]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "ko-01520",
+      "language": "korean",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "하필",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[adverb]/answer曖昧/慎重語→人手"
+    },
+    {
+      "id": "ko-01521",
+      "language": "korean",
+      "level": "warning",
+      "type": "multiple_pos_or_ambiguous",
+      "headword": "어차피",
+      "currentTags": [
+        "名詞"
+      ],
+      "reason": "例文なし。多品詞[adverb]/answer曖昧/慎重語→人手"
+    }
+  ]
+}
