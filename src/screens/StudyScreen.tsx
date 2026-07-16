@@ -1,6 +1,7 @@
-import { useEffect, useMemo, useState, type ReactNode } from 'react'
+import { useEffect, useMemo, useRef, useState, type ReactNode } from 'react'
 import { useGame } from '../state/GameContext'
 import { useNav } from '../state/nav'
+import { useInterstitial } from '../services/useInterstitial'
 import { ReviewScheduler } from '../core/ReviewScheduler'
 import { speakWord, canSpeak } from '../utils/speech'
 import { ProgressBar } from '../components/ProgressBar'
@@ -17,12 +18,42 @@ function wordOf(q: Question): string {
 
 type Tab = 'weak' | 'learned' | 'deck'
 
+/**
+ * まなびで「単語をチェックした」回数がこの数に達した人だけ、画面を離れるときに広告を1回出す。
+ * ・チェック＝「✓覚えた」またはマイ単語帳への追加/削除（意図的な1語ごとの操作）
+ * ・覗いただけ／少し触っただけの人には出さない（レイドの didAttack と同じ考え方）
+ * ・作業中には割り込まず、必ず離脱時のみ
+ */
+const STUDY_AD_AFTER = 100
+
 const CAT_PREFIX: Record<string, string> = { english: 'en', chinese: 'zh', korean: 'ko', japanese: 'jp', spanish: 'es', french: 'fr', german: 'de', portuguese: 'pt', russian: 'ru', polish: 'pl' }
 const catNameKey = (id: string) => `cat.${id}` as keyof Strings
 
 export function StudyScreen() {
   const { user, engine, isCategoryReady, ensureCategory, toggleDeck, toggleMastered } = useGame()
   const { navigate, setQuizMode, setCustomIds, setStudyLevel, category, setCategory, locale, t } = useNav()
+
+  // まなびを離れるときに、十分チェックした人だけ広告を1回。作業中は割り込まない。
+  const showInterstitial = useInterstitial()
+  const showRef = useRef(showInterstitial)
+  showRef.current = showInterstitial
+  const checksRef = useRef(0)
+  const bumpCheck = () => {
+    checksRef.current += 1
+  }
+  const checkDeck = (id: string) => {
+    bumpCheck()
+    toggleDeck(id)
+  }
+  const checkMastered = (id: string) => {
+    bumpCheck()
+    toggleMastered(id)
+  }
+  useEffect(() => {
+    return () => {
+      if (checksRef.current >= STUDY_AD_AFTER) void showRef.current('study')
+    }
+  }, [])
   // まなびでも学習ジャンルを切り替えられる(ホームと同じく母語で使えるジャンルのみ)
   const localeCats = categories.filter((c) => c.availableLocales.includes(locale) && c.available)
   const ready = isCategoryReady(category)
@@ -343,7 +374,7 @@ export function StudyScreen() {
                 q={q}
                 gloss={glossOf(q)}
                 inDeck={deckSet.has(id)}
-                onToggle={() => toggleDeck(id)}
+                onToggle={() => checkDeck(id)}
                 right={
                   <span className={`text-xs font-bold tabular-nums ${rate < 0.5 ? 'text-danger' : rate < 0.8 ? 'text-gold' : 'text-success'}`}>
                     {Math.round(rate * 100)}%
@@ -380,18 +411,18 @@ export function StudyScreen() {
                 q={q}
                 gloss={glossOf(q)}
                 inDeck={deckSet.has(q.id)}
-                onToggle={() => toggleDeck(q.id)}
+                onToggle={() => checkDeck(q.id)}
                 masterBtn={
                   masteredSet.has(q.id) ? (
                     <button
-                      onClick={() => toggleMastered(q.id)}
+                      onClick={() => checkMastered(q.id)}
                       className="shrink-0 text-[11px] font-bold text-accent2 px-2 py-1.5 rounded-lg bg-accent2/10 active:scale-95 transition"
                     >
                       {t('study.restore')}
                     </button>
                   ) : (
                     <button
-                      onClick={() => toggleMastered(q.id)}
+                      onClick={() => checkMastered(q.id)}
                       aria-label={t('study.markMastered')}
                       className="shrink-0 text-lg w-8 h-8 grid place-items-center rounded-lg text-white/25 active:text-success transition"
                     >
@@ -425,7 +456,7 @@ export function StudyScreen() {
               </button>
             </div>
             {shuffledDeck.map((q) => (
-              <FlashCard key={q.id} q={q} gloss={glossOf(q)} category={category} onRemove={() => toggleDeck(q.id)} />
+              <FlashCard key={q.id} q={q} gloss={glossOf(q)} category={category} onRemove={() => checkDeck(q.id)} />
             ))}
           </div>
         ))}

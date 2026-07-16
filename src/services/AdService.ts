@@ -60,6 +60,11 @@ export const INTERSTITIAL_EVERY = {
   battle: 10,
   /** レイドで実際に攻撃した後の離脱 */
   raid: 10,
+  /**
+   * まなびで一定数の単語をチェックした人が画面を離れるとき。
+   * 発火自体を STUDY_AD_AFTER 件のチェックで絞っているため、ここは 1(=離脱毎) でよい。
+   */
+  study: 1,
 } as const
 
 export type InterstitialPlace = keyof typeof INTERSTITIAL_EVERY
