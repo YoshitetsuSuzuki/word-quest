@@ -52,6 +52,10 @@ interface GameApi {
   /** 「今日の単語」を既読にする */
   markTodayWordSeen: () => void
   applyRewardXp: (xp: number) => void
+  /** リワード広告の見返りにコイン(残高)を付与。ランキング汚染を避けるため coin のみ加算 */
+  grantCoins: (n: number) => void
+  /** 広告除去＋プレミアムの購入状態を反映（購入成功・復元時に呼ぶ） */
+  setAdsRemoved: (v: boolean) => void
   finishBattle: (result: BattleResult) => void
   chargeBattleFee: (fee: number) => boolean
   claimMission: (id: string) => { ok: boolean; rewardCoin: number; rewardXp: number }
@@ -100,6 +104,7 @@ function migrate(u: User): User {
     todayCoin: num(u.todayCoin),
     // 既存ユーザーは最低でも現残高分は稼いでいるので、それを初期累計とする
     lifetimeCoin: num(u.lifetimeCoin ?? u.coin),
+    adsRemoved: u.adsRemoved ?? false,
     level: num(u.level, 1) || 1,
     wordStats: u.wordStats ?? {},
     customDeck: u.customDeck ?? [],
@@ -392,6 +397,17 @@ export function GameProvider({ children }: { children: ReactNode }) {
         const r = grantXp(user, xp)
         setUser(r.user)
         if (r.leveledUp) setCelebration({ kind: 'levelup', level: r.newLevel })
+      },
+
+      grantCoins: (n) => {
+        const add = Math.max(0, Math.floor(n))
+        if (!add) return
+        setUser({ ...user, coin: user.coin + add })
+      },
+
+      setAdsRemoved: (v) => {
+        if (user.adsRemoved === v) return
+        setUser({ ...user, adsRemoved: v })
       },
 
       chargeBattleFee: (fee) => {

@@ -12,6 +12,9 @@ export const featureFlags: FeatureFlags = {
   missionsEnabled: true,
   achievementsEnabled: true,
   reviewEnabled: true,
+  // 広告・課金はネイティブ(iOS/Android)アプリのみ実動作。Web(PWA)では自動スキップされる。
+  adsEnabled: true,
+  purchaseEnabled: true,
   // 確実な訳の語だけを出題（レビュー拡大に伴い対象が増える）。品質最優先のため既定ON。
   verifiedOnly: true,
 }

@@ -91,6 +91,8 @@ export interface User {
   lifetimeCoin: number
   /** 購入済みショップアイテムID */
   ownedItemIds: string[]
+  /** 広告除去＋プレミアムを購入済みか（買い切りIAP。ネイティブのみ） */
+  adsRemoved: boolean
   /** 装備中の項目（正解エフェクト・アイコン枠など） */
   equipped: EquippedItems
   /** デイリーミッションの進捗（日付ごとにリセット） */
@@ -275,6 +277,10 @@ export interface FeatureFlags {
   missionsEnabled: boolean
   achievementsEnabled: boolean
   reviewEnabled: boolean
+  /** 動画広告（リワード/インタースティシャル）を有効化。ネイティブのみ実表示 */
+  adsEnabled: boolean
+  /** 買い切り課金（広告除去＋プレミアム）を有効化。ネイティブのみ */
+  purchaseEnabled: boolean
   /** true の間は人手レビュー済み(verified)の語だけを出題する */
   verifiedOnly: boolean
 }

@@ -5,6 +5,7 @@ import { detectLocale, setLocale as persistLocale, makeT } from './i18n'
 import type { Locale } from './i18n/types'
 import { primeSpeech } from './utils/speech'
 import { primeAudio, bgm } from './utils/audio'
+import { AdService } from './services/AdService'
 
 const numFromLS = (k: string, d: number) => {
   const v = localStorage.getItem(k)
@@ -82,6 +83,11 @@ export default function App() {
   }
 
   // BGMは初回タップ以降にONなら開始（自動再生ポリシー対策）
+  // 起動時にAdMobを初期化（ネイティブのみ・Webでは no-op）
+  useEffect(() => {
+    void AdService.init()
+  }, [])
+
   useEffect(() => {
     if (!bgmEnabled) return
     const start = () => {

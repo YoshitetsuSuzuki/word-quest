@@ -26,6 +26,7 @@ export function createDefaultUser(name = 'Player'): User {
     todayCoinDate: today,
     lifetimeCoin: 0,
     ownedItemIds: [],
+    adsRemoved: false,
     equipped: {},
     missionState: { date: today, progress: {}, claimed: [] },
     raidState: { date: today, bossId: getTodaysBoss(today).id, myContribution: 0, claimed: false },

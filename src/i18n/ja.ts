@@ -55,6 +55,8 @@ export const ja: Strings = {
   'missions.title': '🎯 デイリーミッション', 'missions.subtitle': '毎日リセット。クリアして報酬を受け取ろう。', 'missions.claimed': '✅ 受取済み', 'missions.claim': '報酬を受け取る', 'missions.locked': '未達成',
   'shop.title': '🛍️ ショップ', 'shop.subtitle': '見た目のみ販売。Pay to Winなし。', 'shop.freeze': 'ストリークフリーズ', 'shop.freezeDesc': '1日休んでも🔥が守られる(自動使用)', 'shop.owned': '所持',
   'shop.full': '満タン', 'shop.titles': '称号', 'shop.frames': 'アイコン枠', 'shop.effects': '正解エフェクト', 'shop.equip': '装備', 'shop.equipped': '装備中',
+  'shop.premium': '✨ プレミアム（広告除去）', 'shop.premiumDesc': '一度の購入で広告をすべて非表示。ずっと快適に学習できます。', 'shop.premiumActive': '購入済み・プレミアム有効', 'shop.buy': '購入', 'shop.restore': '購入を復元', 'shop.premiumAppOnly': 'アプリ版で購入できます', 'shop.restoreFail': '復元できる購入が見つかりませんでした',
+  'quiz.watchAd2x': '📺 動画を見てコイン2倍',
   'onboard.welcome': 'WordQuest へようこそ', 'onboard.intro': '英単語・中国語を、', 'onboard.introAccent': '遊びながら', 'onboard.introRest': '覚える学習ゲームです。クイズで正解するとXP・コインが増え、レベルが上がります。',
   'onboard.bullet1': '📝 クイズで学ぶ（発音も聞ける）', 'onboard.bullet2': '📚 まなびで苦手を復習・単語帳を作る', 'onboard.bullet3': '⚔️ バトルやレイドでゲーム感覚に', 'onboard.start': 'はじめる',
   'onboard.nameTitle': 'あなたの名前は？', 'onboard.nameDesc': 'ランキングやプロフィールに表示されます（後で変更可）。', 'onboard.namePlaceholder': '名前を入力', 'onboard.startWithName': 'スタート！', 'onboard.startNoName': '名前なしで始める',

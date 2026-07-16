@@ -1,5 +1,6 @@
 import { useGame } from '../state/GameContext'
 import { useNav } from '../state/nav'
+import { PremiumCard } from '../components/PremiumCard'
 import { shopItems } from '../data/shop.config'
 import { streakConfig } from '../data/streak.config'
 import type { ShopItemKind } from '../types'
@@ -24,6 +25,9 @@ export function ShopScreen() {
         <span className="bg-black/30 rounded-full px-3 py-1 text-sm font-black">🪙 {user.coin.toLocaleString()}</span>
       </div>
       <p className="text-xs text-white/45">{t('shop.subtitle')}</p>
+
+      {/* 広告除去＋プレミアム(買い切りIAP) */}
+      <PremiumCard />
 
       {/* ストリークフリーズ(消耗品) */}
       <div className="card p-3 flex items-center gap-3">

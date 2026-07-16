@@ -55,6 +55,8 @@ export const en: Strings = {
   'missions.title': '🎯 Daily missions', 'missions.subtitle': 'Resets daily. Complete them to claim rewards.', 'missions.claimed': '✅ Claimed', 'missions.claim': 'Claim reward', 'missions.locked': 'Incomplete',
   'shop.title': '🛍️ Shop', 'shop.subtitle': 'Cosmetics only. No pay-to-win.', 'shop.freeze': 'Streak freeze', 'shop.freezeDesc': 'Protects your 🔥 for one missed day (auto-used)', 'shop.owned': 'Owned',
   'shop.full': 'Full', 'shop.titles': 'Titles', 'shop.frames': 'Frames', 'shop.effects': 'Correct effects', 'shop.equip': 'Equip', 'shop.equipped': 'Equipped',
+  'shop.premium': '✨ Premium (Remove Ads)', 'shop.premiumDesc': 'One-time purchase removes all ads. Study without interruptions, forever.', 'shop.premiumActive': 'Purchased · Premium active', 'shop.buy': 'Buy', 'shop.restore': 'Restore purchase', 'shop.premiumAppOnly': 'Available in the app', 'shop.restoreFail': 'No restorable purchase was found',
+  'quiz.watchAd2x': '📺 Watch a video for 2× coins',
   'onboard.welcome': 'Welcome to WordQuest', 'onboard.intro': 'A learning game for mastering vocabulary ', 'onboard.introAccent': 'while playing', 'onboard.introRest': '. Answer quizzes correctly to earn XP and coins and level up.',
   'onboard.bullet1': '📝 Learn with quizzes (with audio)', 'onboard.bullet2': '📚 Review weak spots and build word decks in Learn', 'onboard.bullet3': '⚔️ Make it a game with battles and raids', 'onboard.start': 'Start',
   'onboard.nameTitle': "What's your name?", 'onboard.nameDesc': 'Shown on rankings and your profile (changeable later).', 'onboard.namePlaceholder': 'Enter your name', 'onboard.startWithName': 'Start!', 'onboard.startNoName': 'Start without a name',

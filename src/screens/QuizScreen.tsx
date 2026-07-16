@@ -11,6 +11,8 @@ import { comboTierOf, isComboMilestone } from '../core/comboTier'
 import { petBonus } from '../core/PetEngine'
 import { todayStr } from '../state/dateUtils'
 import { wordErrorReportUrl } from '../utils/report'
+import { AdService } from '../services/AdService'
+import { featureFlags } from '../config/featureFlags'
 import type { Question, AnswerOutcome } from '../types'
 
 const SESSION_SIZE = 10
@@ -24,6 +26,7 @@ export function QuizScreen() {
   const ready = isCategoryReady(category)
   const [questions, setQuestions] = useState<Question[]>([])
   const [built, setBuilt] = useState(false) // セッション構築を試みたか(空プールで無限ロードにしないため)
+  const [rewardClaimed, setRewardClaimed] = useState(false) // 結果画面のリワード広告(コイン2倍)を受領済みか
 
   // カテゴリのデータをロード
   useEffect(() => {
@@ -180,6 +183,27 @@ export function QuizScreen() {
   }
 
   if (finished) {
+    const adsOn = featureFlags.adsEnabled && !user.adsRemoved && AdService.isSupported()
+
+    // リワード広告: 動画を見ると今セッションのコインをもう一度付与（＝2倍）
+    const watchForDouble = async () => {
+      const earned = await AdService.showRewarded()
+      if (earned) {
+        game.grantCoins(sessionCoin)
+        setRewardClaimed(true)
+      }
+    }
+    // インタースティシャル: ホーム遷移時に数回に1回だけ表示（出しすぎ防止）
+    const goHome = async () => {
+      if (adsOn) {
+        const key = 'wordquest.adCount'
+        const n = (Number(localStorage.getItem(key)) || 0) + 1
+        localStorage.setItem(key, String(n))
+        if (n % 3 === 0) await AdService.showInterstitial()
+      }
+      navigate('home')
+    }
+
     return (
       <div className="text-center py-10 animate-slideUp">
         <div className="text-6xl mb-3">🎓</div>
@@ -189,8 +213,13 @@ export function QuizScreen() {
           <Row label={t('quiz.gainedCoins')} value={`🪙 ${sessionCoin}`} />
           <Row label={t('quiz.maxCombo')} value={`🔥 ${combo}`} />
         </div>
+        {adsOn && sessionCoin > 0 && !rewardClaimed && (
+          <button className="btn-primary w-full py-3 mt-4" onClick={watchForDouble}>
+            {t('quiz.watchAd2x')}
+          </button>
+        )}
         <div className="mt-6 grid grid-cols-2 gap-3">
-          <button className="btn-ghost py-3" onClick={() => navigate('home')}>
+          <button className="btn-ghost py-3" onClick={goHome}>
             {t('quiz.toHome')}
           </button>
           <button className="btn-primary py-3" onClick={() => window.location.reload()}>
