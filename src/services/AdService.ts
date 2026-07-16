@@ -24,13 +24,24 @@ const TEST_IDS = {
   },
 }
 
-// TODO(本番): AdMobで発行した本番の広告ユニットIDを記入し、USE_TEST_ADS を false にする
+// 本番の広告ユニットID（AdMob発行済み）。USE_TEST_ADS = false のときに使われる
 const PROD_IDS = {
-  ios: { rewarded: '', interstitial: '' },
-  android: { rewarded: '', interstitial: '' },
+  ios: {
+    rewarded: 'ca-app-pub-2458111871576392/3190419474',
+    interstitial: 'ca-app-pub-2458111871576392/2180590137',
+  },
+  android: {
+    rewarded: 'ca-app-pub-2458111871576392/6558818840',
+    interstitial: 'ca-app-pub-2458111871576392/3651931394',
+  },
 }
 
-/** 本番リリース前に false へ。true の間は常にテスト広告を出す（審査・自己クリック対策） */
+/**
+ * ストア公開までは true（＝テスト広告）のままにする。
+ *   - AdMobのアプリ審査はストア公開後に通るため、公開前は本番広告が配信されない
+ *   - 開発中に本番広告を出して自分でタップすると規約違反（無効トラフィック）になる
+ * ストア公開・AdMob承認後に false へ変更すれば、本番広告＝収益化が始まる。
+ */
 const USE_TEST_ADS = true
 
 function isNative(): boolean {
