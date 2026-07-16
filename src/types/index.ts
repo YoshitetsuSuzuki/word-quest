@@ -93,6 +93,11 @@ export interface User {
   ownedItemIds: string[]
   /** 広告除去＋プレミアムを購入済みか（買い切りIAP。ネイティブのみ） */
   adsRemoved: boolean
+  /** 動画広告でストリークフリーズをもらった最後の日(YYYY-MM-DD)。1日1回まで */
+  freezeAdDate: string
+  /** 動画広告でジェムをもらった日と、その日の回数(1日 GEM_AD_DAILY_MAX 回まで) */
+  gemAdDate: string
+  gemAdCount: number
   /** 装備中の項目（正解エフェクト・アイコン枠など） */
   equipped: EquippedItems
   /** デイリーミッションの進捗（日付ごとにリセット） */

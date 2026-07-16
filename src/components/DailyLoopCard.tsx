@@ -3,6 +3,8 @@ import { useGame } from '../state/GameContext'
 import { useNav } from '../state/nav'
 import { todayStr } from '../state/dateUtils'
 import { speakWord, wordFromPrompt, canSpeak } from '../utils/speech'
+import { AdService } from '../services/AdService'
+import { featureFlags } from '../config/featureFlags'
 import type { Strings } from '../i18n/types'
 
 const GOALS = [5, 10, 20, 30, 50]
@@ -19,10 +21,12 @@ const TASK_LABEL: Record<string, keyof Strings> = {
 
 /** ホーム最上部の「今日の一式」カード。項目・目標問数は自分で設定できる。 */
 export function DailyLoopCard() {
-  const { user, engine, isCategoryReady, markTodayWordSeen, markDailyTask } = useGame()
+  const { user, engine, isCategoryReady, markTodayWordSeen, markDailyTask, grantFreezeByAd, canGetFreezeByAd } = useGame()
   const { category, navigate, setQuizMode, setCustomIds, t } = useNav()
   const [wordOpen, setWordOpen] = useState(false)
   const [editOpen, setEditOpen] = useState(false)
+  const [freezeBusy, setFreezeBusy] = useState(false)
+  const [freezeGot, setFreezeGot] = useState(false)
 
   const today = todayStr()
   const goal = user.dailyGoal || 10
@@ -65,6 +69,7 @@ export function DailyLoopCard() {
   })
   const allDone = loginDone && rows.every((r) => r.done)
   const streakAtRisk = user.studyStreak >= 3 && !quizDone && tasks.includes('quiz')
+  const adsAvailable = featureFlags.adsEnabled && !user.adsRemoved && AdService.isSupported()
 
   return (
     <div className={`card p-4 space-y-3 ${allDone ? 'ring-1 ring-success/50' : ''}`}>
@@ -79,8 +84,29 @@ export function DailyLoopCard() {
       </div>
 
       {streakAtRisk && (
-        <div className="text-xs font-bold text-danger bg-danger/10 rounded-lg px-3 py-2">
-          {t('daily.streakWarnPre')}{user.studyStreak}{t('daily.streakWarnMid')}{goal - answered}{t('daily.streakWarnPost')}
+        <div className="text-xs font-bold text-danger bg-danger/10 rounded-lg px-3 py-2 space-y-2">
+          <div>
+            {t('daily.streakWarnPre')}{user.studyStreak}{t('daily.streakWarnMid')}{goal - answered}{t('daily.streakWarnPost')}
+          </div>
+          {/* ストリーク救済: 動画1本でフリーズを1個(1日1回)。連続記録は失うと戻らないため最も価値が高い */}
+          {freezeGot ? (
+            <div className="text-success">{t('ad.saveStreakDone')}</div>
+          ) : (
+            adsAvailable && canGetFreezeByAd() && (
+              <button
+                className="btn-primary w-full py-2 text-[11px]"
+                disabled={freezeBusy}
+                onClick={async () => {
+                  setFreezeBusy(true)
+                  const earned = await AdService.showRewarded()
+                  if (earned && grantFreezeByAd()) setFreezeGot(true)
+                  setFreezeBusy(false)
+                }}
+              >
+                {freezeBusy ? '…' : t('ad.saveStreak')}
+              </button>
+            )
+          )}
         </div>
       )}
 

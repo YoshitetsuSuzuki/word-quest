@@ -10,6 +10,8 @@ import {
   type BattleAnswerLog,
 } from '../modules/battle/battleLogic'
 import { useInterstitial } from '../services/useInterstitial'
+import { AdService } from '../services/AdService'
+import { featureFlags } from '../config/featureFlags'
 import type { BattleResult, Question } from '../types'
 
 type Phase = 'intro' | 'playing' | 'result'
@@ -33,10 +35,12 @@ export function BattleScreen() {
   const [selected, setSelected] = useState<string | null>(null)
   const [shownAt, setShownAt] = useState(0)
   const [result, setResult] = useState<BattleResult | null>(null)
+  const [retryBusy, setRetryBusy] = useState(false)
 
-  const start = () => {
+  /** @param free 動画広告による再挑戦のとき true（参加料を徴収しない） */
+  const start = (free = false) => {
     if (!ready) return
-    if (!chargeBattleFee(BATTLE_ENTRY_FEE)) return
+    if (!free && !chargeBattleFee(BATTLE_ENTRY_FEE)) return
     setQuestions(engine.buildSession(category, BATTLE_QUESTIONS))
     setIndex(0)
     setLogs([])
@@ -93,7 +97,8 @@ export function BattleScreen() {
           <li>{t('battle.ruleReward')}</li>
           <li>{t('battle.ruleFeePre')}{BATTLE_ENTRY_FEE}</li>
         </ul>
-        <button className="btn-primary w-full py-4" disabled={!canAfford || !ready} onClick={start}>
+        {/* onClick={start} だとクリックイベントが free 引数に渡り無料になるため、必ずラップする */}
+        <button className="btn-primary w-full py-4" disabled={!canAfford || !ready} onClick={() => start()}>
           {!ready ? t('quiz.preparing') : canAfford ? `${t('battle.joinPre')}${BATTLE_ENTRY_FEE}${t('battle.joinPost')}` : t('battle.notEnough')}
         </button>
         <button className="btn-ghost w-full py-3" onClick={() => navigate('home')}>
@@ -156,6 +161,21 @@ export function BattleScreen() {
         <Row label={t('battle.eloDelta')} value={`${(result?.eloDelta ?? 0) >= 0 ? '+' : ''}${result?.eloDelta}`} />
         <Row label={t('quiz.gainedCoins')} value={`🪙 +${result?.gainedCoin}`} />
       </div>
+      {/* 参加料なしの再挑戦: 動画1本で即リマッチ */}
+      {featureFlags.adsEnabled && !user.adsRemoved && AdService.isSupported() && (
+        <button
+          className="btn-ghost w-full py-3 mt-4 ring-1 ring-gold/50 text-gold"
+          disabled={retryBusy}
+          onClick={async () => {
+            setRetryBusy(true)
+            const earned = await AdService.showRewarded()
+            setRetryBusy(false)
+            if (earned) start(true)
+          }}
+        >
+          {retryBusy ? '…' : t('ad.battleRetry')}
+        </button>
+      )}
       <div className="mt-6 grid grid-cols-2 gap-3">
         <button className="btn-ghost py-3" onClick={async () => { await showInterstitial('battle'); navigate('home') }}>
           {t('quiz.toHome')}

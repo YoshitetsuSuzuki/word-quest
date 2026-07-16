@@ -50,16 +50,16 @@ const USE_TEST_ADS = true
  * 学習アプリは「また明日開く」ことが収益の源泉なので、出しすぎないこと。
  */
 export const INTERSTITIAL_EVERY = {
-  /** クイズ(通常/スピード/リスニング/表現/復習)の結果→ホーム */
-  quiz: 1, // TODO(実機検証後): 3 に戻す
-  /** クイズ結果→もう1回 */
-  quizAgain: 5,
+  /** クイズ(通常/スピード/リスニング/表現/復習)の結果→ホーム。主要導線なので控えめに */
+  quiz: 5,
+  /** クイズ結果→もう1回。連続プレイの勢いを削がないよう更に控えめ */
+  quizAgain: 10,
   /** ペア合わせの結果→ホーム / もう一回 */
-  match: 5,
+  match: 10,
   /** バトルの結果→ホーム */
-  battle: 5,
+  battle: 10,
   /** レイドで実際に攻撃した後の離脱 */
-  raid: 5,
+  raid: 10,
 } as const
 
 export type InterstitialPlace = keyof typeof INTERSTITIAL_EVERY

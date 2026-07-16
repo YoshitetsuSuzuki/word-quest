@@ -71,6 +71,9 @@ export function QuizScreen() {
   const [milestone, setMilestone] = useState<{ label: string; emoji: string; color: string; key: number } | null>(null)
   const isSpeed = quizMode === 'speed'
   const [timeLeft, setTimeLeft] = useState(SPEED_MS)
+  /** 時間切れで失ったコンボ数。動画1本で復活できる（セッション中1回まで） */
+  const [lostCombo, setLostCombo] = useState(0)
+  const [revivedOnce, setRevivedOnce] = useState(false)
 
   // 問題が切り替わったら自動で発音を再生（音声ONのとき）
   useEffect(() => {
@@ -95,6 +98,7 @@ export function QuizScreen() {
         const res = answerQuestion(q, '__timeout__', combo + 1)
         setSelected('__timeout__')
         setOutcome(res)
+        setLostCombo(combo) // 復活用に、失う直前のコンボ数を控える
         setCombo(0)
         if (sfxEnabled) playWrong(sfxVolume)
         hapticWrong()
@@ -339,6 +343,28 @@ export function QuizScreen() {
       {/* 解説 & 次へ（「次へ」は最上部に置いてスクロール不要に） */}
       {selected && (
         <div className="animate-slideUp space-y-3">
+          {/* コンボ復活: 時間切れで失ったコンボを動画1本で戻す（積み上げた手応えを守る） */}
+          {selected === '__timeout__' &&
+            lostCombo >= 3 &&
+            !revivedOnce &&
+            featureFlags.adsEnabled &&
+            !user.adsRemoved &&
+            AdService.isSupported() && (
+              <button
+                className="btn-ghost w-full py-3 ring-1 ring-gold/50 text-gold"
+                onClick={async () => {
+                  const earned = await AdService.showRewarded()
+                  if (earned) {
+                    setCombo(lostCombo)
+                    setLostCombo(0)
+                    setRevivedOnce(true)
+                  }
+                }}
+              >
+                {t('ad.reviveCombo')} 🔥{lostCombo}
+              </button>
+            )}
+
           <button className="btn-primary w-full py-4" onClick={next}>
             {index + 1 >= questions.length ? t('quiz.result') : t('quiz.next')}
           </button>

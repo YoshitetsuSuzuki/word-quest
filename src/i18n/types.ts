@@ -59,6 +59,10 @@ export interface Strings {
   'shop.full': string; 'shop.titles': string; 'shop.frames': string; 'shop.effects': string; 'shop.equip': string; 'shop.equipped': string
   'shop.premium': string; 'shop.premiumDesc': string; 'shop.premiumActive': string; 'shop.buy': string; 'shop.restore': string; 'shop.premiumAppOnly': string; 'shop.restoreFail': string
   'quiz.watchAd2x': string
+  'ad.saveStreak': string; 'ad.saveStreakDone': string
+  'ad.getGem': string; 'ad.getGemDesc': string; 'ad.getGemDone': string
+  'ad.reviveCombo': string
+  'ad.battleRetry': string
   'onboard.welcome': string; 'onboard.intro': string; 'onboard.introAccent': string; 'onboard.introRest': string
   'onboard.bullet1': string; 'onboard.bullet2': string; 'onboard.bullet3': string; 'onboard.start': string
   'onboard.nameTitle': string; 'onboard.nameDesc': string; 'onboard.namePlaceholder': string; 'onboard.startWithName': string; 'onboard.startNoName': string

@@ -1,6 +1,7 @@
 import { useGame } from '../state/GameContext'
 import { useNav } from '../state/nav'
 import { PremiumCard } from '../components/PremiumCard'
+import { GemAdCard } from '../components/GemAdCard'
 import { shopItems } from '../data/shop.config'
 import { streakConfig } from '../data/streak.config'
 import type { ShopItemKind } from '../types'
@@ -28,6 +29,9 @@ export function ShopScreen() {
 
       {/* 広告除去＋プレミアム(買い切りIAP) */}
       <PremiumCard />
+
+      {/* 動画広告で💎を無料入手(1日上限あり) */}
+      <GemAdCard />
 
       {/* ストリークフリーズ(消耗品) */}
       <div className="card p-3 flex items-center gap-3">

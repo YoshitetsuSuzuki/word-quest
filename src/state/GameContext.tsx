@@ -22,6 +22,12 @@ import { streakConfig } from '../data/streak.config'
 
 const questionEngine = new QuestionEngine(questionRepository)
 
+/**
+ * 動画広告でジェムをもらえる1日の上限。
+ * ジェムは伝説の相棒に使う希少通貨。無制限にすると希少性が壊れるため少なめに保つ。
+ */
+export const GEM_AD_DAILY_MAX = 2
+
 /** 画面横断の演出通知 */
 export interface Celebration {
   kind: 'levelup' | 'raidClear' | 'achievement' | 'streak'
@@ -54,6 +60,14 @@ interface GameApi {
   applyRewardXp: (xp: number) => void
   /** リワード広告の見返りにコイン(残高)を付与。ランキング汚染を避けるため coin のみ加算 */
   grantCoins: (n: number) => void
+  /** 動画広告の見返りにストリークフリーズを1個付与(1日1回・上限まで)。付与できたら true */
+  grantFreezeByAd: () => boolean
+  /** 動画広告の見返りにジェムを1個付与(1日GEM_AD_DAILY_MAXまで)。付与できたら true */
+  grantGemByAd: () => boolean
+  /** 今日まだ広告でフリーズをもらえるか（上限・所持数を考慮） */
+  canGetFreezeByAd: () => boolean
+  /** 今日あと何回、広告でジェムをもらえるか */
+  gemAdRemaining: () => number
   /** 広告除去＋プレミアムの購入状態を反映（購入成功・復元時に呼ぶ） */
   setAdsRemoved: (v: boolean) => void
   finishBattle: (result: BattleResult) => void
@@ -105,6 +119,9 @@ function migrate(u: User): User {
     // 既存ユーザーは最低でも現残高分は稼いでいるので、それを初期累計とする
     lifetimeCoin: num(u.lifetimeCoin ?? u.coin),
     adsRemoved: u.adsRemoved ?? false,
+    freezeAdDate: u.freezeAdDate ?? '',
+    gemAdDate: u.gemAdDate ?? '',
+    gemAdCount: num(u.gemAdCount ?? 0),
     level: num(u.level, 1) || 1,
     wordStats: u.wordStats ?? {},
     customDeck: u.customDeck ?? [],
@@ -403,6 +420,37 @@ export function GameProvider({ children }: { children: ReactNode }) {
         const add = Math.max(0, Math.floor(n))
         if (!add) return
         setUser({ ...user, coin: user.coin + add })
+      },
+
+      canGetFreezeByAd: () =>
+        user.freezeAdDate !== todayStr() && user.streakFreezes < streakConfig.freezeMax,
+
+      grantFreezeByAd: () => {
+        // 1日1回・所持上限まで。二重付与を防ぐため付与時に日付を刻む
+        if (user.freezeAdDate === todayStr()) return false
+        if (user.streakFreezes >= streakConfig.freezeMax) return false
+        setUser({
+          ...user,
+          streakFreezes: user.streakFreezes + 1,
+          freezeAdDate: todayStr(),
+        })
+        return true
+      },
+
+      gemAdRemaining: () =>
+        user.gemAdDate === todayStr() ? Math.max(0, GEM_AD_DAILY_MAX - user.gemAdCount) : GEM_AD_DAILY_MAX,
+
+      grantGemByAd: () => {
+        const today = todayStr()
+        const usedToday = user.gemAdDate === today ? user.gemAdCount : 0
+        if (usedToday >= GEM_AD_DAILY_MAX) return false
+        setUser({
+          ...user,
+          gems: user.gems + 1,
+          gemAdDate: today,
+          gemAdCount: usedToday + 1,
+        })
+        return true
       },
 
       setAdsRemoved: (v) => {
