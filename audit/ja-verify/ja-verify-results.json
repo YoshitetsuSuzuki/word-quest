@@ -1,0 +1,57 @@
+{
+  "source": "JMdict (EDRDG, CC-BY-SA 4.0)",
+  "total": 20131,
+  "byStatus": {
+    "matched": 13754,
+    "conflicting": 2728,
+    "not_found": 2103,
+    "not_checked": 1546
+  },
+  "byLanguage": {
+    "english": {
+      "matched": 5583,
+      "conflicting": 1373,
+      "not_found": 1180
+    },
+    "chinese": {
+      "matched": 2901,
+      "not_checked": 17,
+      "conflicting": 758,
+      "not_found": 525
+    },
+    "korean": {
+      "not_checked": 1529
+    },
+    "spanish": {
+      "matched": 1663,
+      "not_found": 114,
+      "conflicting": 171
+    },
+    "german": {
+      "matched": 1515,
+      "conflicting": 217,
+      "not_found": 187
+    },
+    "french": {
+      "matched": 1675,
+      "conflicting": 190,
+      "not_found": 83
+    },
+    "portuguese": {
+      "matched": 138,
+      "conflicting": 9,
+      "not_found": 3
+    },
+    "polish": {
+      "matched": 137,
+      "conflicting": 5,
+      "not_found": 8
+    },
+    "russian": {
+      "matched": 142,
+      "conflicting": 5,
+      "not_found": 3
+    }
+  },
+  "note": "not_found=日本語訳が辞書見出しに無い(活用/句/未収録)であり誤りとは限らない。conflicting=日本語語は実在だが辞書義が英語意味とズレる=誤訳候補。"
+}

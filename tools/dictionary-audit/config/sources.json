@@ -214,6 +214,28 @@
       "unpackedFile": "data/raw/kaikki-german.jsonl",
       "normalizer": "kaikki",
       "note": "全ダンプを保存せず、ストリームしてアプリ見出し語一致行のみ抽出"
+    },
+    "jmdict": {
+      "language": "japanese-bilingual",
+      "name": "JMdict (EDRDG) 英日辞書",
+      "url": "http://ftp.edrdg.org/pub/Nihongo/JMdict_e.gz",
+      "officialPage": "https://www.edrdg.org/jmdict/j_jmdict.html",
+      "format": "gzip -> XML(JMdict)",
+      "compression": "gzip",
+      "sizeBytes": 10501635,
+      "sizeHuman": "~10.5MB",
+      "license": "CC-BY-SA 4.0 (EDRDG Licence)",
+      "licenseVerifiedFrom": "https://www.edrdg.org/edrdg/licence.html (Creative Commons Attribution-ShareAlike V4.0 を確認)",
+      "commercialUse": "可",
+      "attribution": "必要(EDRDG)",
+      "shareAlike": "あり",
+      "verificationOnlyCondition": "照合のみ・本文非転載",
+      "redistribution": "取り込みは継承注意",
+      "download": true,
+      "rawFile": "data/raw/jmdict_e.xml.gz",
+      "unpackedFile": "data/raw/jmdict_e.xml",
+      "normalizer": "jmdict",
+      "note": "日本語訳の外部照合用。英↔日。"
     }
   },
   "futureSources": {
