@@ -16,3 +16,6 @@ DerivedData/
 *.jks
 *.keystore
 android/keystore.properties
+
+# App Store撮影の生成物(大きいバイナリ・スクリプトで再生成可)
+appstore-screenshots/

@@ -4,13 +4,24 @@ import './index.css'
 import App from './App'
 import { GameProvider } from './state/GameContext'
 
-// Service Worker 登録（オフライン動作 / 自動更新）
-registerSW({ immediate: true })
+async function boot() {
+  // App Store撮影用のデモ状態を投入（VITE_DEMO=1 のビルドのみ）。
+  // 動的importなので、本番ビルドではこの分岐ごとバンドルから除外される。
+  if (import.meta.env.VITE_DEMO === '1') {
+    const { applyDemoSeedIfEnabled } = await import('./devSeed')
+    applyDemoSeedIfEnabled()
+  }
 
-// 注: StrictMode は付けない。ゲームロジックの副作用ある操作を
-// 開発時に二重実行させないため（報酬の二重加算防止）。
-createRoot(document.getElementById('root')!).render(
-  <GameProvider>
-    <App />
-  </GameProvider>,
-)
+  // Service Worker 登録（オフライン動作 / 自動更新）
+  registerSW({ immediate: true })
+
+  // 注: StrictMode は付けない。ゲームロジックの副作用ある操作を
+  // 開発時に二重実行させないため（報酬の二重加算防止）。
+  createRoot(document.getElementById('root')!).render(
+    <GameProvider>
+      <App />
+    </GameProvider>,
+  )
+}
+
+void boot()

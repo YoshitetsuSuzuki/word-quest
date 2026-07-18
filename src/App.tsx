@@ -33,7 +33,8 @@ import { MatchScreen } from './screens/MatchScreen'
 const CATEGORY_KEY = 'wordquest.category'
 
 export default function App() {
-  const [screen, setScreen] = useState<Screen>('home')
+  // 撮影用: VITE_DEMO_SCREEN で初期画面を指定できる（本番ビルドでは undefined→'home'）
+  const [screen, setScreen] = useState<Screen>((import.meta.env.VITE_DEMO_SCREEN as Screen) || 'home')
   const [quizMode, setQuizMode] = useState<'normal' | 'review' | 'listening' | 'example' | 'phrase' | 'speed'>('normal')
   // 前回選んだ学習ジャンルを記憶（中国語で遊んでいたら次回も中国語のまま）
   const [category, setCategoryState] = useState<Category>(
