@@ -8,7 +8,8 @@ BASE = "/Users/yoshitetsu/英単語資産アプリ/appstore-screenshots"
 OUT = os.path.join(BASE, "enhanced")
 os.makedirs(OUT, exist_ok=True)
 
-W, H = 1320, 2868
+# 出力サイズ: (接尾辞, 幅, 高さ)。6.9=1320x2868 / 6.5=1284x2778
+SIZES = [("6.9", 1320, 2868), ("6.5", 1284, 2778)]
 JP = "/System/Library/Fonts/ヒラギノ丸ゴ ProN W4.ttc"
 
 # ブランド配色（アプリのダーク＋アクセント紫/ティール）
@@ -59,48 +60,53 @@ def draw_center(draw, cx, y, text, font, fill, stroke=0, stroke_fill=None):
     return bbox[3] - bbox[1]
 
 
+def render(src, lines, W, H):
+    s = W / 1320.0  # 1320基準からの拡大率（幅で比例スケール）
+    canvas = gradient(W, H, TOP, BOT).convert("RGBA")
+    glow(canvas, W // 2, int(120 * s), int(620 * s), (108, 92, 231), 90)
+    glow(canvas, W // 2, H - int(108 * s), int(520 * s), (51, 224, 192), 40)
+
+    # --- キャッチコピー ---
+    fh = ImageFont.truetype(JP, int(108 * s))
+    d = ImageDraw.Draw(canvas)
+    y = int(150 * s)
+    for i, ln in enumerate(lines):
+        col = WHITE if i == 0 else TEAL
+        draw_center(d, W // 2, y, ln, fh, col, stroke=3, stroke_fill=col)
+        y += int(150 * s)
+    d.rounded_rectangle([W // 2 - int(70 * s), y + int(8 * s), W // 2 + int(70 * s), y + int(20 * s)], radius=int(6 * s), fill=TEAL)
+
+    # --- 端末スクショ（角丸＋影） ---
+    shot = Image.open(src).convert("RGBA")
+    dw = int(902 * s)
+    dh = int(dw * shot.size[1] / shot.size[0])
+    shot = shot.resize((dw, dh), Image.LANCZOS)
+    rad = int(76 * s)
+    shot = rounded(shot, rad)
+
+    dx = (W - dw) // 2
+    dy = int(690 * s)
+    shadow = Image.new("RGBA", canvas.size, (0, 0, 0, 0))
+    ImageDraw.Draw(shadow).rounded_rectangle([dx, dy + int(26 * s), dx + dw, dy + dh + int(26 * s)], radius=rad, fill=(0, 0, 0, 150))
+    shadow = shadow.filter(ImageFilter.GaussianBlur(int(40 * s)))
+    canvas.alpha_composite(shadow)
+    border = Image.new("RGBA", canvas.size, (0, 0, 0, 0))
+    ImageDraw.Draw(border).rounded_rectangle([dx - 3, dy - 3, dx + dw + 3, dy + dh + 3], radius=rad + 3, outline=(255, 255, 255, 40), width=3)
+    canvas.alpha_composite(border)
+    canvas.alpha_composite(shot, (dx, dy))
+    return canvas.convert("RGB")
+
+
 for fname, lines, _ in SHOTS:
     src = os.path.join(BASE, fname)
     if not os.path.exists(src):
         print("skip (not found):", fname); continue
-
-    canvas = gradient(W, H, TOP, BOT).convert("RGBA")
-    glow(canvas, W // 2, 120, 620, (108, 92, 231), 90)   # 上部に紫の光
-    glow(canvas, W // 2, 2760, 520, (51, 224, 192), 40)  # 下部に淡いティール
-
-    # --- キャッチコピー ---
-    fh = ImageFont.truetype(JP, 108)
-    d = ImageDraw.Draw(canvas)
-    y = 150
-    for i, ln in enumerate(lines):
-        col = WHITE if i == 0 else TEAL
-        h_line = draw_center(d, W // 2, y, ln, fh, col, stroke=3, stroke_fill=col)
-        y += 150
-    # アクセント下線
-    d.rounded_rectangle([W // 2 - 70, y + 8, W // 2 + 70, y + 20], radius=6, fill=TEAL)
-
-    # --- 端末スクショ（角丸＋影） ---
-    shot = Image.open(src).convert("RGBA")
-    dw = 902
-    dh = int(dw * shot.size[1] / shot.size[0])
-    shot = shot.resize((dw, dh), Image.LANCZOS)
-    shot = rounded(shot, 76)
-
-    dx = (W - dw) // 2
-    dy = 690
-    # 影
-    shadow = Image.new("RGBA", canvas.size, (0, 0, 0, 0))
-    ImageDraw.Draw(shadow).rounded_rectangle([dx, dy + 26, dx + dw, dy + dh + 26], radius=76, fill=(0, 0, 0, 150))
-    shadow = shadow.filter(ImageFilter.GaussianBlur(40))
-    canvas.alpha_composite(shadow)
-    # 枠(細いライン)
-    border = Image.new("RGBA", canvas.size, (0, 0, 0, 0))
-    ImageDraw.Draw(border).rounded_rectangle([dx - 3, dy - 3, dx + dw + 3, dy + dh + 3], radius=79, outline=(255, 255, 255, 40), width=3)
-    canvas.alpha_composite(border)
-    canvas.alpha_composite(shot, (dx, dy))
-
-    out = os.path.join(OUT, fname)
-    canvas.convert("RGB").save(out, "PNG")
-    print("made:", out, canvas.size)
+    stem, ext = os.path.splitext(fname)
+    for label, w, h in SIZES:
+        # 6.9はそのまま(01-home.png)、6.5は名前に明示(01-home_6.5inch.png)
+        out_name = fname if label == "6.9" else f"{stem}_6.5inch{ext}"
+        out = os.path.join(OUT, out_name)
+        render(src, lines, w, h).save(out, "PNG")
+        print("made:", out_name, f"({w}x{h})")
 
 print("DONE")
