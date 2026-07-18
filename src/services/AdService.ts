@@ -121,7 +121,9 @@ export const AdService = {
           earned = true
         },
       )
-      await AdMob.prepareRewardVideoAd({ adId: currentIds().rewarded, isTesting: USE_TEST_ADS })
+      // npa=true: 非パーソナライズ広告。ATT(トラッキング許可)を実装しない方針のため、
+      // 広告のパーソナライズを行わない＝プライバシー申告で「トラッキングなし」で通せる。
+      await AdMob.prepareRewardVideoAd({ adId: currentIds().rewarded, isTesting: USE_TEST_ADS, npa: true })
       await AdMob.showRewardVideoAd()
       await handle.remove()
       return earned
@@ -155,7 +157,7 @@ export const AdService = {
     if (!isNative()) return
     try {
       await ensureInit()
-      await AdMob.prepareInterstitial({ adId: currentIds().interstitial, isTesting: USE_TEST_ADS })
+      await AdMob.prepareInterstitial({ adId: currentIds().interstitial, isTesting: USE_TEST_ADS, npa: true })
       await AdMob.showInterstitial()
     } catch (e) {
       console.warn('[AdService] interstitial failed', e)
