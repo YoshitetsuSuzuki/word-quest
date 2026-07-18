@@ -12,6 +12,15 @@ body,
   height: 100%;
 }
 
+/* iOSセーフエリア対応: ノッチ/ステータスバー・ホームインジケータを避ける。
+   viewport-fit=cover と併せて、上部バー・下部ナビが端末UIに潜り込まないようにする。 */
+.safe-top {
+  padding-top: calc(env(safe-area-inset-top) + 0.75rem);
+}
+.safe-bottom {
+  padding-bottom: env(safe-area-inset-bottom);
+}
+
 body {
   margin: 0;
   background: radial-gradient(1200px 600px at 50% -10%, #22263f 0%, #0e1020 55%);

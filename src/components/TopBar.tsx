@@ -11,7 +11,7 @@ export function TopBar() {
   const frame = equippedFrameClass(user)
 
   return (
-    <div className="sticky top-0 z-20 bg-night/80 backdrop-blur px-4 pt-3 pb-2 border-b border-white/5">
+    <div className="safe-top sticky top-0 z-20 bg-night/80 backdrop-blur px-4 pb-2 border-b border-white/5">
       <div className="flex items-center gap-3">
         <div
           className={`w-11 h-11 shrink-0 rounded-full bg-accent/30 grid place-items-center text-lg font-black ring-2 ${frame ?? 'ring-accent/40'}`}

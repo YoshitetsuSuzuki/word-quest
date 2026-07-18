@@ -13,7 +13,7 @@ const items: { screen: Screen; labelKey: keyof Strings; icon: string }[] = [
 export function BottomNav() {
   const { screen, navigate, t } = useNav()
   return (
-    <nav className="sticky bottom-0 z-20 bg-night/90 backdrop-blur border-t border-white/10 flex">
+    <nav className="safe-bottom sticky bottom-0 z-20 bg-night/90 backdrop-blur border-t border-white/10 flex">
       {items.map((it) => {
         const active = screen === it.screen
         return (
