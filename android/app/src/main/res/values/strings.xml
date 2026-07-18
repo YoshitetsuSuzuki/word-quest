@@ -2,6 +2,6 @@
 <resources>
     <string name="app_name">WordQuest</string>
     <string name="title_activity_main">WordQuest</string>
-    <string name="package_name">com.wordquest.app</string>
-    <string name="custom_url_scheme">com.wordquest.app</string>
+    <string name="package_name">com.infinitygames.wordquest</string>
+    <string name="custom_url_scheme">com.infinitygames.wordquest</string>
 </resources>

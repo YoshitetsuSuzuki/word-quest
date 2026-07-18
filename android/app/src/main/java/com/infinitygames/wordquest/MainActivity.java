@@ -1,4 +1,4 @@
-package com.wordquest.app;
+package com.infinitygames.wordquest;
 
 import com.getcapacitor.BridgeActivity;
 
