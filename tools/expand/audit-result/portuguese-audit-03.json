@@ -1,0 +1,11 @@
+[
+  {"word":"adversário","issue":"訳が不正確。adversário は競技・議論の「対戦相手/対抗者」。「敵」は inimigo に当たり、4択で inimigo と衝突して誤答を誘発する","suggest":"対戦相手"},
+  {"word":"orientação","issue":"訳が周辺義。orientação の中心義は「指導・方針・オリエンテーション」。「方向」は direção に当たり4択で衝突する","suggest":"指導"},
+  {"word":"fruta","issue":"fruta は食用の「果物」。「果実」は植物学的な fruto に対応し、日本語としてもやや硬い","suggest":"果物"},
+  {"word":"dignidade","issue":"「威厳」は態度・風格の意で majestade 寄り。dignidade の中心義は人としての「尊厳」","suggest":"尊厳"},
+  {"word":"mentor","issue":"「指導者」は líder / dirigente と衝突する。mentor は助言者・師の意","suggest":"助言者"},
+  {"word":"seita","issue":"seita は否定的含意を持つ「分派・カルト」。「宗派」は中立語の denominação/confissão に当たる","suggest":"分派"},
+  {"word":"manto","issue":"en と ja の不整合。ja「マント」は衣服だが en \"mantle\" は地質学の層とも読め曖昧","suggest":"cloak"},
+  {"word":"alavanca","issue":"カタカナ「レバー」は肝臓(fígado)・操作桿と同綴りで4択の選択肢として曖昧","suggest":"てこ"},
+  {"word":"organismo","issue":"「生物」は ser vivo に当たる。organismo は「有機体・生物体」で、体系・機構の意も持つ","suggest":"有機体"}
+]

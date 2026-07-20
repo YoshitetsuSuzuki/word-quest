@@ -1,0 +1,12 @@
+[
+  {"word":"avaria","issue":"en/ja不整合。avariaの中心義は「故障・破損」で、en\"damage\"は広すぎる（正しくはbreakdown/malfunction）。jaは妥当","suggest":"故障"},
+  {"word":"bronzeado","issue":"enが誤り。bronzeadoは「日焼けした(tanned)」であって\"bronze\"(青銅)ではない。jaは正しいのでen側の修正が必要","suggest":"日焼けした"},
+  {"word":"ponderar","issue":"enが誤り。\"weight\"(名詞・重さ)は動詞ponderar「熟考する」と品詞・意味ともに不一致。正しくはponder/weigh up","suggest":"熟考する"},
+  {"word":"geleira","issue":"enが誤り。geleira=glacier(氷河)であり\"iceberg\"(氷山=iceberg)ではない。jaは正しい","suggest":"氷河"},
+  {"word":"afugentar","issue":"enが不正確。\"chase\"(追いかける)では逆の意味に取れる。正しくはchase away/drive off。jaは正しい","suggest":"追い払う"},
+  {"word":"individualidade","issue":"enが誤り。individualidade=individuality。\"personality\"はpersonalidadeの訳で別語と衝突する","suggest":"個性"},
+  {"word":"expressamente","issue":"訳が不正確。expressamente=「明示的に・はっきりと指定して」。「明確に」はclaramenteと区別がつかず4択で曖昧","suggest":"明示的に"},
+  {"word":"erva","issue":"訳が曖昧。「草」では一般名詞すぎて4択問題として成立しにくい。en\"herb\"に合わせるべき","suggest":"薬草"},
+  {"word":"supremacia","issue":"同一データ内のsuperioridade(優越)と訳語が完全重複し、4択で正解が二つになる","suggest":"覇権"},
+  {"word":"negociante","issue":"enが不正確。negocianteは「商人・業者(dealer/trader)」で、店番を意味する\"shopkeeper\"(=lojista)とはずれる。jaは妥当","suggest":"商人"}
+]

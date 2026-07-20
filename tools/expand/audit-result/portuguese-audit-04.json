@@ -1,0 +1,11 @@
+[
+  {"word":"interrogação","issue":"訳が誤り。ポルトガル語の interrogação の中心義は「疑問・問い/疑問符(ponto de interrogação)」。「尋問」は interrogatório であり別語","suggest":"疑問"},
+  {"word":"antibiótico","issue":"品詞不一致。pos が adj だが ja「抗生物質」は名詞訳。学習アプリで品詞表示が矛盾する","suggest":"抗生物質（pos を noun に修正）"},
+  {"word":"capitalista","issue":"品詞不一致。pos が adj だが ja「資本家」は名詞訳。形容詞なら「資本主義の」","suggest":"資本家（pos を noun に修正）"},
+  {"word":"preferível","issue":"4択で成立しない。ja「望ましい」は desejável（同ファイル内 #101 が「好ましい」）と衝突し、区別不能","suggest":"より好ましい"},
+  {"word":"advertência","issue":"en と ja が不整合。en「admonition」は訓戒・忠告の意で、ja「警告」に対応する語は warning","suggest":"警告（en を warning に修正）"},
+  {"word":"bruços","issue":"句でのみ用いる語＋地域差。単独の bruços は「うつ伏せ」で、de bruços / nadar de bruços の形で使う。ブラジルで平泳ぎは nado peito が一般的で、単語単体の出題に適さない","suggest":null},
+  {"word":"espaçoso","issue":"訳が漠然。「広い」は largo/amplo/grande と区別できず4択が破綻する","suggest":"広々とした"},
+  {"word":"eleitorado","issue":"訳がずれる。eleitorado は集合名詞で「選挙民・有権者層」。個々の「有権者」は eleitor","suggest":"有権者層"},
+  {"word":"chinelo","issue":"訳語のずれ。ブラジルの chinelo は主にビーチサンダル型の履物で、日本語「スリッパ」（屋内用）とイメージが一致しない","suggest":"サンダル"}
+]

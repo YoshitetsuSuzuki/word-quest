@@ -1,0 +1,14 @@
+[
+ {"word":"atirar","issue":"中心義が誤り。現代ポルトガル語(特にブラジル)のatirarは第一義が「(銃を)撃つ」。「投げる」はjogar/lançarが通常で、en=throw/ja=投げるは中心義を外している","suggest":"撃つ"},
+ {"word":"aula","issue":"enが誤り。aulaは「授業・講義」であり、教室はsala de aula。ja=授業は正しいがen=classroomと不整合で、4択の選択肢生成時に「教室」と競合する","suggest":"授業"},
+ {"word":"colega","issue":"enが誤り。colegaは「同僚・仲間」全般で、classmateはcolega de turma。en=classmateとja=同僚が不整合","suggest":"同僚"},
+ {"word":"herói","issue":"enが誤り。herói=hero。en=protagonistは別語(protagonista)で、ja=英雄と不整合","suggest":"英雄"},
+ {"word":"sentar","issue":"enが名詞形。sentarは動詞「座る」なのでen=seat(名詞)は品詞不整合。ja=座るは正しい","suggest":"座る"},
+ {"word":"avaliação","issue":"enが誤り。avaliação=evaluation/assessment。valuationは資産査定に限定される語義で、ja=評価と範囲がずれる","suggest":"評価"},
+ {"word":"demissão","issue":"中心義が誤り。demissãoは第一義が「解雇・免職」(ser demitido)。自発的辞職はdemissão voluntária/pedido de demissão。ja=辞職は主要語義を外す","suggest":"解雇"},
+ {"word":"ligeiramente","issue":"enが不正確。ligeiramente=slightly。en=lightlyはlevementeに近く、ja=わずかにと不整合","suggest":"わずかに"},
+ {"word":"motivo","issue":"enが不正確。motivo=reason/cause が中心義。en=motive(動機)はja=理由と不整合で、4択で「動機」と紛れる","suggest":"理由"},
+ {"word":"ouro","issue":"訳語が曖昧。ja=「金」は日本語で「かね(貨幣)」とも読め、dinheiroと4択で衝突する","suggest":"黄金"},
+ {"word":"ringue","issue":"訳語が曖昧。ja=「リング」は指輪(anel)とも解釈され4択で不成立。ringueはボクシング等の競技用リングに限定","suggest":"ボクシングのリング"},
+ {"word":"santuário","issue":"en/jaの不整合。santuário=sanctuary(聖所・保護区)が中心義で、en=shrineは狭すぎる","suggest":"聖域"}
+]

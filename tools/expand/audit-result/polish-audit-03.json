@@ -1,0 +1,7 @@
+[
+  {"word":"zapalniczka","issue":"訳語「ライター」が日本語の同音異義語（writer=ライター）と衝突し、4択問題として曖昧","suggest":"ライター（点火器）"},
+  {"word":"czynność","issue":"czynność は「行為・動作・機能」が中心義。「活動」は działalność / aktywność に対応し、ずれている","suggest":"行為"},
+  {"word":"użytkownik","issue":"「使用者」は日本語（特に労働法文脈）で employer の意味が強く誤解を招く","suggest":"利用者"},
+  {"word":"kondom","issue":"ポーランド語の標準語は prezerwatywa。kondom は稀な借用形で学習語彙として不適切","suggest":null},
+  {"word":"dźwignia","issue":"訳語「レバー」は日本語で liver（食材）と同綴の同音異義語となり曖昧。lever の中心義は「てこ」","suggest":"てこ"}
+]

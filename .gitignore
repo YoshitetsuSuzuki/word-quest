@@ -19,3 +19,7 @@ android/keystore.properties
 
 # App Store撮影の生成物(大きいバイナリ・スクリプトで再生成可)
 appstore-screenshots/
+
+# 語彙拡張の中間生成物(再生成可能・大容量)
+tools/expand/chunks/
+tools/expand/audit/

@@ -1,0 +1,13 @@
+[
+  {"word":"pedał","issue":"辞書義は「ペダル」で正しいが、現代ポーランド語では同語形が同性愛者への強い侮蔑語として日常的に使われる。学習アプリの出題語としては不適切","suggest":null},
+  {"word":"nasienie","issue":"現代ポーランド語では第一義が「精液」。植物の「種子」は通常 nasiono を用いる。en/ja とも中心義とずれ、かつ出題語として不適","suggest":null},
+  {"word":"setka","issue":"数詞ではなく口語の「100単位のもの（100点/100km/h/ウォッカ100g）」。ja「百」は数詞 sto と衝突し、4択で誤答不能","suggest":null},
+  {"word":"rozkosz","issue":"ja が不正確。rozkosz は官能的・肉体的な「快楽・悦楽」で、歓喜(zachwyt/radość)とは別語","suggest":"快楽"},
+  {"word":"wydawca","issue":"品詞的には人を指す名詞（発行者・出版人）。ja「出版社」は組織を指し wydawnictwo に相当、対応がずれる","suggest":"発行者"},
+  {"word":"akwarium","issue":"中心義は「水槽」。「水族館」も用法としてはあるが第一義ではなく、4択で誤解を招く","suggest":"水槽"},
+  {"word":"lądowisko","issue":"「（ヘリ等の）発着場・着陸地点」。ja「飛行場」は lotnisko と重複し、同ファイル内 lotnisko(空港) と選択肢が競合する","suggest":"発着場"},
+  {"word":"osobowość","issue":"osobowość は「人格・個性」。ja「性格」は charakter に相当し対応がずれる","suggest":"人格"},
+  {"word":"nawóz","issue":"en が不正確。nawóz は化学肥料を含む「肥料」全般で、manure（厩肥）は obornik。ja は妥当なので en を修正","suggest":"fertilizer"},
+  {"word":"pożyczyć","issue":"「借りる」と「貸す」の両義を持つ多義動詞。ja が片方のみで、4択問題として判定が不安定","suggest":"借りる／貸す"},
+  {"word":"autograf","issue":"ja「サイン」が曖昧（署名・記号・合図とも取れる）。有名人の直筆サインの意を明示すべき","suggest":"直筆サイン"}
+]

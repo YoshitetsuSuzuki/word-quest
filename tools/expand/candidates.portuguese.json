@@ -1,0 +1,6995 @@
+[
+ {
+  "word": "sempre",
+  "pos": "adv",
+  "en": "always",
+  "ja": "常に",
+  "rank": 122
+ },
+ {
+  "word": "pouco",
+  "pos": "adv",
+  "en": "little",
+  "ja": "幼い",
+  "rank": 171
+ },
+ {
+  "word": "nome",
+  "pos": "noun",
+  "en": "name",
+  "ja": "姓名",
+  "rank": 202
+ },
+ {
+  "word": "lado",
+  "pos": "noun",
+  "en": "side",
+  "ja": "わき",
+  "rank": 227
+ },
+ {
+  "word": "dentro",
+  "pos": "adv",
+  "en": "inside",
+  "ja": "内面",
+  "rank": 246
+ },
+ {
+  "word": "caso",
+  "pos": "noun",
+  "en": "case",
+  "ja": "事例",
+  "rank": 264
+ },
+ {
+  "word": "pessoa",
+  "pos": "noun",
+  "en": "person",
+  "ja": "身体",
+  "rank": 271
+ },
+ {
+  "word": "frente",
+  "pos": "noun",
+  "en": "front",
+  "ja": "正面",
+  "rank": 293
+ },
+ {
+  "word": "sorte",
+  "pos": "noun",
+  "en": "fate",
+  "ja": "宿命",
+  "rank": 351
+ },
+ {
+  "word": "arma",
+  "pos": "noun",
+  "en": "weapon",
+  "ja": "兵器",
+  "rank": 359
+ },
+ {
+  "word": "manhã",
+  "pos": "noun",
+  "en": "morning",
+  "ja": "午前",
+  "rank": 372
+ },
+ {
+  "word": "festa",
+  "pos": "noun",
+  "en": "party",
+  "ja": "パーティー",
+  "rank": 454
+ },
+ {
+  "word": "pedir",
+  "pos": "verb",
+  "en": "order",
+  "ja": "指令",
+  "rank": 496
+ },
+ {
+  "word": "deixa",
+  "pos": "noun",
+  "en": "cue",
+  "ja": "合図",
+  "rank": 528
+ },
+ {
+  "word": "casamento",
+  "pos": "noun",
+  "en": "wedding",
+  "ja": "結婚式",
+  "rank": 533
+ },
+ {
+  "word": "palavra",
+  "pos": "noun",
+  "en": "word",
+  "ja": "単語",
+  "rank": 558
+ },
+ {
+  "word": "prisão",
+  "pos": "noun",
+  "en": "prison",
+  "ja": "監獄",
+  "rank": 588
+ },
+ {
+  "word": "rei",
+  "pos": "noun",
+  "en": "king",
+  "ja": "国王",
+  "rank": 595
+ },
+ {
+  "word": "resto",
+  "pos": "noun",
+  "en": "rest",
+  "ja": "休憩",
+  "rank": 599
+ },
+ {
+  "word": "ar",
+  "pos": "noun",
+  "en": "air",
+  "ja": "大気",
+  "rank": 600
+ },
+ {
+  "word": "sexo",
+  "pos": "noun",
+  "en": "sex",
+  "ja": "性別",
+  "rank": 630
+ },
+ {
+  "word": "situação",
+  "pos": "noun",
+  "en": "situation",
+  "ja": "境遇",
+  "rank": 666
+ },
+ {
+  "word": "sistema",
+  "pos": "noun",
+  "en": "system",
+  "ja": "系統",
+  "rank": 668
+ },
+ {
+  "word": "negócio",
+  "pos": "noun",
+  "en": "affair",
+  "ja": "事柄",
+  "rank": 684
+ },
+ {
+  "word": "mensagem",
+  "pos": "noun",
+  "en": "message",
+  "ja": "メッセージ",
+  "rank": 690
+ },
+ {
+  "word": "crime",
+  "pos": "noun",
+  "en": "crime",
+  "ja": "罪",
+  "rank": 694
+ },
+ {
+  "word": "novamente",
+  "pos": "adv",
+  "en": "again",
+  "ja": "もう一度",
+  "rank": 701
+ },
+ {
+  "word": "perguntar",
+  "pos": "verb",
+  "en": "ask",
+  "ja": "問う",
+  "rank": 704
+ },
+ {
+  "word": "cabelo",
+  "pos": "noun",
+  "en": "hair",
+  "ja": "毛",
+  "rank": 712
+ },
+ {
+  "word": "escritório",
+  "pos": "noun",
+  "en": "office",
+  "ja": "事務室",
+  "rank": 731
+ },
+ {
+  "word": "respeito",
+  "pos": "noun",
+  "en": "submission",
+  "ja": "服従",
+  "rank": 746
+ },
+ {
+  "word": "carta",
+  "pos": "noun",
+  "en": "letter",
+  "ja": "字",
+  "rank": 854
+ },
+ {
+  "word": "barco",
+  "pos": "noun",
+  "en": "boat",
+  "ja": "ボート",
+  "rank": 856
+ },
+ {
+  "word": "energia",
+  "pos": "noun",
+  "en": "energy",
+  "ja": "気力",
+  "rank": 858
+ },
+ {
+  "word": "vítima",
+  "pos": "noun",
+  "en": "victim",
+  "ja": "被害者",
+  "rank": 860
+ },
+ {
+  "word": "câmara",
+  "pos": "noun",
+  "en": "chamber",
+  "ja": "部屋",
+  "rank": 865
+ },
+ {
+  "word": "fome",
+  "pos": "noun",
+  "en": "hunger",
+  "ja": "空腹",
+  "rank": 867
+ },
+ {
+  "word": "professor",
+  "pos": "noun",
+  "en": "teacher",
+  "ja": "教師",
+  "rank": 868
+ },
+ {
+  "word": "hipótese",
+  "pos": "noun",
+  "en": "hypothesis",
+  "ja": "仮説",
+  "rank": 872
+ },
+ {
+  "word": "banco",
+  "pos": "noun",
+  "en": "bank",
+  "ja": "堤",
+  "rank": 890
+ },
+ {
+  "word": "sonho",
+  "pos": "noun",
+  "en": "dream",
+  "ja": "幻想",
+  "rank": 909
+ },
+ {
+  "word": "tenente",
+  "pos": "noun",
+  "en": "lieutenant",
+  "ja": "大尉",
+  "rank": 919
+ },
+ {
+  "word": "interessante",
+  "pos": "adj",
+  "en": "interesting",
+  "ja": "おもしろい",
+  "rank": 947
+ },
+ {
+  "word": "guarda",
+  "pos": "noun",
+  "en": "police officer",
+  "ja": "警官",
+  "rank": 964
+ },
+ {
+  "word": "controlo",
+  "pos": "noun",
+  "en": "control",
+  "ja": "制御",
+  "rank": 965
+ },
+ {
+  "word": "céu",
+  "pos": "noun",
+  "en": "sky",
+  "ja": "上空",
+  "rank": 975
+ },
+ {
+  "word": "motivo",
+  "pos": "noun",
+  "en": "motive",
+  "ja": "誘因",
+  "rank": 979
+ },
+ {
+  "word": "imediatamente",
+  "pos": "adv",
+  "en": "immediately",
+  "ja": "即座に",
+  "rank": 980
+ },
+ {
+  "word": "namorado",
+  "pos": "noun",
+  "en": "boyfriend",
+  "ja": "ボーイフレンド",
+  "rank": 1006
+ },
+ {
+  "word": "norte",
+  "pos": "noun",
+  "en": "north",
+  "ja": "北方",
+  "rank": 1007
+ },
+ {
+  "word": "ouro",
+  "pos": "noun",
+  "en": "gold",
+  "ja": "黄金",
+  "rank": 1020
+ },
+ {
+  "word": "contente",
+  "pos": "adj",
+  "en": "happy",
+  "ja": "めでたい",
+  "rank": 1045
+ },
+ {
+  "word": "sul",
+  "pos": "noun",
+  "en": "south",
+  "ja": "南方",
+  "rank": 1062
+ },
+ {
+  "word": "mar",
+  "pos": "noun",
+  "en": "sea",
+  "ja": "海洋",
+  "rank": 1131
+ },
+ {
+  "word": "dançar",
+  "pos": "verb",
+  "en": "dance",
+  "ja": "舞う",
+  "rank": 1132
+ },
+ {
+  "word": "serão",
+  "pos": "noun",
+  "en": "evening",
+  "ja": "夕刻",
+  "rank": 1152
+ },
+ {
+  "word": "investigação",
+  "pos": "noun",
+  "en": "investigation",
+  "ja": "取り調べ",
+  "rank": 1160
+ },
+ {
+  "word": "almoço",
+  "pos": "noun",
+  "en": "lunch",
+  "ja": "昼ごはん",
+  "rank": 1246
+ },
+ {
+  "word": "cartão",
+  "pos": "noun",
+  "en": "cardboard",
+  "ja": "厚紙",
+  "rank": 1248
+ },
+ {
+  "word": "comboio",
+  "pos": "noun",
+  "en": "convoy",
+  "ja": "護衛",
+  "rank": 1307
+ },
+ {
+  "word": "escolher",
+  "pos": "verb",
+  "en": "choose",
+  "ja": "選ぶ",
+  "rank": 1328
+ },
+ {
+  "word": "cheia",
+  "pos": "noun",
+  "en": "flood",
+  "ja": "大水",
+  "rank": 1331
+ },
+ {
+  "word": "rabo",
+  "pos": "noun",
+  "en": "tail",
+  "ja": "しっぽ",
+  "rank": 1356
+ },
+ {
+  "word": "estação",
+  "pos": "noun",
+  "en": "season",
+  "ja": "季節",
+  "rank": 1368
+ },
+ {
+  "word": "magia",
+  "pos": "noun",
+  "en": "magic",
+  "ja": "魔術",
+  "rank": 1398
+ },
+ {
+  "word": "copo",
+  "pos": "noun",
+  "en": "glass",
+  "ja": "グラス",
+  "rank": 1403
+ },
+ {
+  "word": "parque",
+  "pos": "noun",
+  "en": "park",
+  "ja": "庭園",
+  "rank": 1409
+ },
+ {
+  "word": "infelizmente",
+  "pos": "adv",
+  "en": "unfortunately",
+  "ja": "あいにく",
+  "rank": 1426
+ },
+ {
+  "word": "herói",
+  "pos": "noun",
+  "en": "protagonist",
+  "ja": "主人公",
+  "rank": 1430
+ },
+ {
+  "word": "batalha",
+  "pos": "noun",
+  "en": "battle",
+  "ja": "戦い",
+  "rank": 1434
+ },
+ {
+  "word": "enviar",
+  "pos": "verb",
+  "en": "send",
+  "ja": "届ける",
+  "rank": 1465
+ },
+ {
+  "word": "imaginar",
+  "pos": "verb",
+  "en": "imagine",
+  "ja": "思い描く",
+  "rank": 1480
+ },
+ {
+  "word": "valor",
+  "pos": "noun",
+  "en": "value",
+  "ja": "値打ち",
+  "rank": 1485
+ },
+ {
+  "word": "faca",
+  "pos": "noun",
+  "en": "knife",
+  "ja": "小刀",
+  "rank": 1524
+ },
+ {
+  "word": "fé",
+  "pos": "noun",
+  "en": "faith",
+  "ja": "信用",
+  "rank": 1528
+ },
+ {
+  "word": "árvore",
+  "pos": "noun",
+  "en": "tree",
+  "ja": "樹木",
+  "rank": 1539
+ },
+ {
+  "word": "faculdade",
+  "pos": "noun",
+  "en": "faculty",
+  "ja": "能力",
+  "rank": 1554
+ },
+ {
+  "word": "sobreviver",
+  "pos": "verb",
+  "en": "survive",
+  "ja": "助かる",
+  "rank": 1568
+ },
+ {
+  "word": "canção",
+  "pos": "noun",
+  "en": "song",
+  "ja": "唱歌",
+  "rank": 1604
+ },
+ {
+  "word": "corrida",
+  "pos": "noun",
+  "en": "race",
+  "ja": "競走",
+  "rank": 1606
+ },
+ {
+  "word": "barulho",
+  "pos": "noun",
+  "en": "noise",
+  "ja": "物音",
+  "rank": 1619
+ },
+ {
+  "word": "ponte",
+  "pos": "noun",
+  "en": "bridge",
+  "ja": "橋",
+  "rank": 1651
+ },
+ {
+  "word": "confusão",
+  "pos": "noun",
+  "en": "confusion",
+  "ja": "混同",
+  "rank": 1652
+ },
+ {
+  "word": "língua",
+  "pos": "noun",
+  "en": "tongue",
+  "ja": "タン",
+  "rank": 1662
+ },
+ {
+  "word": "ouvido",
+  "pos": "noun",
+  "en": "hearing",
+  "ja": "聴覚",
+  "rank": 1683
+ },
+ {
+  "word": "atirar",
+  "pos": "verb",
+  "en": "throw",
+  "ja": "ほうる",
+  "rank": 1686
+ },
+ {
+  "word": "aula",
+  "pos": "noun",
+  "en": "classroom",
+  "ja": "教室",
+  "rank": 1709
+ },
+ {
+  "word": "beleza",
+  "pos": "noun",
+  "en": "beauty",
+  "ja": "美",
+  "rank": 1718
+ },
+ {
+  "word": "dono",
+  "pos": "noun",
+  "en": "owner",
+  "ja": "所有者",
+  "rank": 1725
+ },
+ {
+  "word": "colega",
+  "pos": "noun",
+  "en": "classmate",
+  "ja": "同級生",
+  "rank": 1744
+ },
+ {
+  "word": "teoria",
+  "pos": "noun",
+  "en": "theory",
+  "ja": "学説",
+  "rank": 1781
+ },
+ {
+  "word": "crescer",
+  "pos": "verb",
+  "en": "grow",
+  "ja": "育つ",
+  "rank": 1790
+ },
+ {
+  "word": "uso",
+  "pos": "noun",
+  "en": "use",
+  "ja": "用いる",
+  "rank": 1795
+ },
+ {
+  "word": "impedir",
+  "pos": "verb",
+  "en": "prevent",
+  "ja": "妨げる",
+  "rank": 1831
+ },
+ {
+  "word": "orgulho",
+  "pos": "noun",
+  "en": "pride",
+  "ja": "自尊",
+  "rank": 1840
+ },
+ {
+  "word": "tecnologia",
+  "pos": "noun",
+  "en": "technology",
+  "ja": "科学技術",
+  "rank": 1848
+ },
+ {
+  "word": "bilhete",
+  "pos": "noun",
+  "en": "ticket",
+  "ja": "乗車券",
+  "rank": 1855
+ },
+ {
+  "word": "vingança",
+  "pos": "noun",
+  "en": "revenge",
+  "ja": "復讐",
+  "rank": 1873
+ },
+ {
+  "word": "treino",
+  "pos": "noun",
+  "en": "training",
+  "ja": "調教",
+  "rank": 1885
+ },
+ {
+  "word": "oeste",
+  "pos": "noun",
+  "en": "west",
+  "ja": "西部",
+  "rank": 1895
+ },
+ {
+  "word": "aeroporto",
+  "pos": "noun",
+  "en": "airport",
+  "ja": "空港",
+  "rank": 1914
+ },
+ {
+  "word": "contrato",
+  "pos": "noun",
+  "en": "contract",
+  "ja": "請負",
+  "rank": 1975
+ },
+ {
+  "word": "leste",
+  "pos": "noun",
+  "en": "east",
+  "ja": "東部",
+  "rank": 1984
+ },
+ {
+  "word": "costa",
+  "pos": "noun",
+  "en": "coast",
+  "ja": "沿岸",
+  "rank": 2012
+ },
+ {
+  "word": "vitória",
+  "pos": "noun",
+  "en": "victory",
+  "ja": "戦勝",
+  "rank": 2062
+ },
+ {
+  "word": "membro",
+  "pos": "noun",
+  "en": "member",
+  "ja": "会員",
+  "rank": 2069
+ },
+ {
+  "word": "camisa",
+  "pos": "noun",
+  "en": "shirt",
+  "ja": "ワイシャツ",
+  "rank": 2070
+ },
+ {
+  "word": "explosão",
+  "pos": "noun",
+  "en": "explosion",
+  "ja": "破裂",
+  "rank": 2074
+ },
+ {
+  "word": "vencer",
+  "pos": "verb",
+  "en": "win",
+  "ja": "勝つ",
+  "rank": 2093
+ },
+ {
+  "word": "caça",
+  "pos": "noun",
+  "en": "hunting",
+  "ja": "狩り",
+  "rank": 2154
+ },
+ {
+  "word": "muda",
+  "pos": "noun",
+  "en": "seedling",
+  "ja": "苗木",
+  "rank": 2176
+ },
+ {
+  "word": "violência",
+  "pos": "noun",
+  "en": "violence",
+  "ja": "暴力",
+  "rank": 2179
+ },
+ {
+  "word": "montanha",
+  "pos": "noun",
+  "en": "mountain",
+  "ja": "山",
+  "rank": 2188
+ },
+ {
+  "word": "topo",
+  "pos": "noun",
+  "en": "top",
+  "ja": "頂上",
+  "rank": 2198
+ },
+ {
+  "word": "prémio",
+  "pos": "noun",
+  "en": "prize",
+  "ja": "賞品",
+  "rank": 2200
+ },
+ {
+  "word": "chuva",
+  "pos": "noun",
+  "en": "rain",
+  "ja": "雨降り",
+  "rank": 2205
+ },
+ {
+  "word": "comunidade",
+  "pos": "noun",
+  "en": "community",
+  "ja": "社会",
+  "rank": 2223
+ },
+ {
+  "word": "autorização",
+  "pos": "noun",
+  "en": "authorization",
+  "ja": "委任",
+  "rank": 2257
+ },
+ {
+  "word": "zero",
+  "pos": "noun",
+  "en": "zero",
+  "ja": "ゼロ",
+  "rank": 2264
+ },
+ {
+  "word": "nota",
+  "pos": "noun",
+  "en": "note",
+  "ja": "メモ",
+  "rank": 2291
+ },
+ {
+  "word": "armadilha",
+  "pos": "noun",
+  "en": "trap",
+  "ja": "わな",
+  "rank": 2294
+ },
+ {
+  "word": "torre",
+  "pos": "noun",
+  "en": "tower",
+  "ja": "タワー",
+  "rank": 2336
+ },
+ {
+  "word": "artigo",
+  "pos": "noun",
+  "en": "article",
+  "ja": "条項",
+  "rank": 2337
+ },
+ {
+  "word": "carga",
+  "pos": "noun",
+  "en": "charge",
+  "ja": "料金",
+  "rank": 2349
+ },
+ {
+  "word": "incêndio",
+  "pos": "noun",
+  "en": "arson",
+  "ja": "放火",
+  "rank": 2405
+ },
+ {
+  "word": "regra",
+  "pos": "noun",
+  "en": "rule",
+  "ja": "法則",
+  "rank": 2417
+ },
+ {
+  "word": "atender",
+  "pos": "verb",
+  "en": "answer",
+  "ja": "回答",
+  "rank": 2452
+ },
+ {
+  "word": "demónio",
+  "pos": "noun",
+  "en": "demon",
+  "ja": "悪魔",
+  "rank": 2460
+ },
+ {
+  "word": "sentar",
+  "pos": "verb",
+  "en": "seat",
+  "ja": "席",
+  "rank": 2465
+ },
+ {
+  "word": "página",
+  "pos": "noun",
+  "en": "page",
+  "ja": "欄",
+  "rank": 2490
+ },
+ {
+  "word": "ambulância",
+  "pos": "noun",
+  "en": "ambulance",
+  "ja": "救急車",
+  "rank": 2491
+ },
+ {
+  "word": "discussão",
+  "pos": "noun",
+  "en": "discussion",
+  "ja": "討論",
+  "rank": 2496
+ },
+ {
+  "word": "artista",
+  "pos": "noun",
+  "en": "artist",
+  "ja": "画家",
+  "rank": 2515
+ },
+ {
+  "word": "experimentar",
+  "pos": "verb",
+  "en": "experience",
+  "ja": "体験",
+  "rank": 2528
+ },
+ {
+  "word": "bruxa",
+  "pos": "noun",
+  "en": "witch",
+  "ja": "魔女",
+  "rank": 2546
+ },
+ {
+  "word": "sinceramente",
+  "pos": "adv",
+  "en": "sincerely",
+  "ja": "心から",
+  "rank": 2547
+ },
+ {
+  "word": "amizade",
+  "pos": "noun",
+  "en": "friendship",
+  "ja": "親交",
+  "rank": 2571
+ },
+ {
+  "word": "governador",
+  "pos": "noun",
+  "en": "governor",
+  "ja": "総裁",
+  "rank": 2572
+ },
+ {
+  "word": "pesadelo",
+  "pos": "noun",
+  "en": "nightmare",
+  "ja": "悪夢",
+  "rank": 2593
+ },
+ {
+  "word": "milagre",
+  "pos": "noun",
+  "en": "miracle",
+  "ja": "神わざ",
+  "rank": 2605
+ },
+ {
+  "word": "erva",
+  "pos": "noun",
+  "en": "herb",
+  "ja": "草",
+  "rank": 2657
+ },
+ {
+  "word": "obra",
+  "pos": "noun",
+  "en": "work",
+  "ja": "労働",
+  "rank": 2731
+ },
+ {
+  "word": "crise",
+  "pos": "noun",
+  "en": "crisis",
+  "ja": "危機",
+  "rank": 2736
+ },
+ {
+  "word": "coincidência",
+  "pos": "noun",
+  "en": "coincidence",
+  "ja": "符合",
+  "rank": 2739
+ },
+ {
+  "word": "veneno",
+  "pos": "noun",
+  "en": "poison",
+  "ja": "毒薬",
+  "rank": 2740
+ },
+ {
+  "word": "paciência",
+  "pos": "noun",
+  "en": "patience",
+  "ja": "しんぼう",
+  "rank": 2741
+ },
+ {
+  "word": "biblioteca",
+  "pos": "noun",
+  "en": "library",
+  "ja": "図書室",
+  "rank": 2815
+ },
+ {
+  "word": "armazém",
+  "pos": "noun",
+  "en": "warehouse",
+  "ja": "倉庫",
+  "rank": 2817
+ },
+ {
+  "word": "cavalheiro",
+  "pos": "noun",
+  "en": "gentleman",
+  "ja": "君子",
+  "rank": 2818
+ },
+ {
+  "word": "cópia",
+  "pos": "noun",
+  "en": "copy",
+  "ja": "複写",
+  "rank": 2857
+ },
+ {
+  "word": "queixa",
+  "pos": "noun",
+  "en": "complaint",
+  "ja": "苦情",
+  "rank": 2861
+ },
+ {
+  "word": "criado",
+  "pos": "noun",
+  "en": "servant",
+  "ja": "使用人",
+  "rank": 2868
+ },
+ {
+  "word": "ministro",
+  "pos": "noun",
+  "en": "minister",
+  "ja": "牧師",
+  "rank": 2873
+ },
+ {
+  "word": "autoridade",
+  "pos": "noun",
+  "en": "authority",
+  "ja": "権限",
+  "rank": 2881
+ },
+ {
+  "word": "esforço",
+  "pos": "noun",
+  "en": "stress",
+  "ja": "ストレス",
+  "rank": 2883
+ },
+ {
+  "word": "oceano",
+  "pos": "noun",
+  "en": "ocean",
+  "ja": "大海",
+  "rank": 2887
+ },
+ {
+  "word": "estúdio",
+  "pos": "noun",
+  "en": "studio",
+  "ja": "アトリエ",
+  "rank": 2890
+ },
+ {
+  "word": "estacionamento",
+  "pos": "noun",
+  "en": "parking",
+  "ja": "駐車",
+  "rank": 2946
+ },
+ {
+  "word": "máscara",
+  "pos": "noun",
+  "en": "mask",
+  "ja": "覆面",
+  "rank": 2961
+ },
+ {
+  "word": "champanhe",
+  "pos": "noun",
+  "en": "champagne",
+  "ja": "シャンペン",
+  "rank": 2980
+ },
+ {
+  "word": "portão",
+  "pos": "noun",
+  "en": "gate",
+  "ja": "とびら",
+  "rank": 3000
+ },
+ {
+  "word": "cigarro",
+  "pos": "noun",
+  "en": "locust",
+  "ja": "セミ",
+  "rank": 3033
+ },
+ {
+  "word": "ritmo",
+  "pos": "noun",
+  "en": "rhythm",
+  "ja": "韻律",
+  "rank": 3036
+ },
+ {
+  "word": "ódio",
+  "pos": "noun",
+  "en": "hatred",
+  "ja": "憎悪",
+  "rank": 3053
+ },
+ {
+  "word": "pagamento",
+  "pos": "noun",
+  "en": "payment",
+  "ja": "納入",
+  "rank": 3054
+ },
+ {
+  "word": "pizza",
+  "pos": "noun",
+  "en": "pizza",
+  "ja": "ピッツァ",
+  "rank": 3079
+ },
+ {
+  "word": "amostra",
+  "pos": "noun",
+  "en": "sample",
+  "ja": "標本",
+  "rank": 3099
+ },
+ {
+  "word": "castigo",
+  "pos": "noun",
+  "en": "punishment",
+  "ja": "刑罰",
+  "rank": 3153
+ },
+ {
+  "word": "barriga",
+  "pos": "noun",
+  "en": "belly",
+  "ja": "腹部",
+  "rank": 3181
+ },
+ {
+  "word": "falhar",
+  "pos": "verb",
+  "en": "fail",
+  "ja": "しくじる",
+  "rank": 3199
+ },
+ {
+  "word": "pistola",
+  "pos": "noun",
+  "en": "pistol",
+  "ja": "拳銃",
+  "rank": 3253
+ },
+ {
+  "word": "refeição",
+  "pos": "noun",
+  "en": "meal",
+  "ja": "食事",
+  "rank": 3305
+ },
+ {
+  "word": "produto",
+  "pos": "noun",
+  "en": "product",
+  "ja": "製品",
+  "rank": 3316
+ },
+ {
+  "word": "destruição",
+  "pos": "noun",
+  "en": "destruction",
+  "ja": "破滅",
+  "rank": 3321
+ },
+ {
+  "word": "heroína",
+  "pos": "noun",
+  "en": "heroin",
+  "ja": "ヘロイン",
+  "rank": 3331
+ },
+ {
+  "word": "cinto",
+  "pos": "noun",
+  "en": "belt",
+  "ja": "帯",
+  "rank": 3360
+ },
+ {
+  "word": "origem",
+  "pos": "noun",
+  "en": "origin",
+  "ja": "もと",
+  "rank": 3379
+ },
+ {
+  "word": "trânsito",
+  "pos": "noun",
+  "en": "transit",
+  "ja": "通過",
+  "rank": 3382
+ },
+ {
+  "word": "sorrir",
+  "pos": "verb",
+  "en": "smile",
+  "ja": "微笑",
+  "rank": 3405
+ },
+ {
+  "word": "moeda",
+  "pos": "noun",
+  "en": "coin",
+  "ja": "硬貨",
+  "rank": 3416
+ },
+ {
+  "word": "terrorista",
+  "pos": "noun",
+  "en": "terrorist",
+  "ja": "テロリスト",
+  "rank": 3474
+ },
+ {
+  "word": "endereço",
+  "pos": "noun",
+  "en": "address",
+  "ja": "住所",
+  "rank": 3483
+ },
+ {
+  "word": "fantasia",
+  "pos": "noun",
+  "en": "fantasy",
+  "ja": "空想",
+  "rank": 3524
+ },
+ {
+  "word": "brinde",
+  "pos": "noun",
+  "en": "toast",
+  "ja": "トースト",
+  "rank": 3529
+ },
+ {
+  "word": "título",
+  "pos": "noun",
+  "en": "title",
+  "ja": "題",
+  "rank": 3543
+ },
+ {
+  "word": "suspeita",
+  "pos": "noun",
+  "en": "suspicion",
+  "ja": "疑惑",
+  "rank": 3560
+ },
+ {
+  "word": "prata",
+  "pos": "noun",
+  "en": "silver",
+  "ja": "銀",
+  "rank": 3566
+ },
+ {
+  "word": "jornalista",
+  "pos": "noun",
+  "en": "journalist",
+  "ja": "ジャーナリスト",
+  "rank": 3582
+ },
+ {
+  "word": "vampiro",
+  "pos": "noun",
+  "en": "vampire",
+  "ja": "吸血鬼",
+  "rank": 3639
+ },
+ {
+  "word": "meritíssimo",
+  "pos": "noun",
+  "en": "judge",
+  "ja": "判事",
+  "rank": 3657
+ },
+ {
+  "word": "estudante",
+  "pos": "noun",
+  "en": "student",
+  "ja": "学生",
+  "rank": 3674
+ },
+ {
+  "word": "beco",
+  "pos": "noun",
+  "en": "alley",
+  "ja": "路地",
+  "rank": 3699
+ },
+ {
+  "word": "invasão",
+  "pos": "noun",
+  "en": "invasion",
+  "ja": "侵略",
+  "rank": 3730
+ },
+ {
+  "word": "acompanhar",
+  "pos": "verb",
+  "en": "accompany",
+  "ja": "ついて行く",
+  "rank": 3772
+ },
+ {
+  "word": "manteiga",
+  "pos": "noun",
+  "en": "lard",
+  "ja": "ラード",
+  "rank": 3784
+ },
+ {
+  "word": "nascimento",
+  "pos": "noun",
+  "en": "birth",
+  "ja": "出生",
+  "rank": 3800
+ },
+ {
+  "word": "renda",
+  "pos": "noun",
+  "en": "income",
+  "ja": "所得",
+  "rank": 3817
+ },
+ {
+  "word": "profundo",
+  "pos": "adj",
+  "en": "deep",
+  "ja": "深い",
+  "rank": 3863
+ },
+ {
+  "word": "bandeira",
+  "pos": "noun",
+  "en": "flag",
+  "ja": "旗",
+  "rank": 3897
+ },
+ {
+  "word": "feira",
+  "pos": "noun",
+  "en": "market",
+  "ja": "市",
+  "rank": 3903
+ },
+ {
+  "word": "influência",
+  "pos": "noun",
+  "en": "influence",
+  "ja": "感化",
+  "rank": 3933
+ },
+ {
+  "word": "símbolo",
+  "pos": "noun",
+  "en": "symbol",
+  "ja": "シンボル",
+  "rank": 3936
+ },
+ {
+  "word": "cobrir",
+  "pos": "verb",
+  "en": "cover",
+  "ja": "かぶせる",
+  "rank": 3941
+ },
+ {
+  "word": "gatilho",
+  "pos": "noun",
+  "en": "trigger",
+  "ja": "引き金",
+  "rank": 3943
+ },
+ {
+  "word": "selva",
+  "pos": "noun",
+  "en": "jungle",
+  "ja": "ジャングル",
+  "rank": 3951
+ },
+ {
+  "word": "nojo",
+  "pos": "noun",
+  "en": "disgust",
+  "ja": "嫌悪",
+  "rank": 3959
+ },
+ {
+  "word": "acertar",
+  "pos": "verb",
+  "en": "hit",
+  "ja": "なぐる",
+  "rank": 4010
+ },
+ {
+  "word": "escritor",
+  "pos": "noun",
+  "en": "writer",
+  "ja": "著者",
+  "rank": 4020
+ },
+ {
+  "word": "tubo",
+  "pos": "noun",
+  "en": "tube",
+  "ja": "管",
+  "rank": 4022
+ },
+ {
+  "word": "praticar",
+  "pos": "verb",
+  "en": "practice",
+  "ja": "けいこ",
+  "rank": 4037
+ },
+ {
+  "word": "indústria",
+  "pos": "noun",
+  "en": "industry",
+  "ja": "実業",
+  "rank": 4085
+ },
+ {
+  "word": "ação",
+  "pos": "noun",
+  "en": "action",
+  "ja": "活動",
+  "rank": 4091
+ },
+ {
+  "word": "aparência",
+  "pos": "noun",
+  "en": "appearance",
+  "ja": "出演",
+  "rank": 4142
+ },
+ {
+  "word": "progresso",
+  "pos": "noun",
+  "en": "progress",
+  "ja": "進展",
+  "rank": 4156
+ },
+ {
+  "word": "radiação",
+  "pos": "noun",
+  "en": "radiation",
+  "ja": "放射",
+  "rank": 4157
+ },
+ {
+  "word": "dólar",
+  "pos": "noun",
+  "en": "dollar",
+  "ja": "ドル",
+  "rank": 4159
+ },
+ {
+  "word": "privacidade",
+  "pos": "noun",
+  "en": "privacy",
+  "ja": "プライバシー",
+  "rank": 4179
+ },
+ {
+  "word": "combinação",
+  "pos": "noun",
+  "en": "combination",
+  "ja": "組み合わせ",
+  "rank": 4291
+ },
+ {
+  "word": "função",
+  "pos": "noun",
+  "en": "function",
+  "ja": "機能",
+  "rank": 4297
+ },
+ {
+  "word": "pintura",
+  "pos": "noun",
+  "en": "painting",
+  "ja": "絵画",
+  "rank": 4301
+ },
+ {
+  "word": "consulta",
+  "pos": "noun",
+  "en": "consultation",
+  "ja": "協議",
+  "rank": 4406
+ },
+ {
+  "word": "ocasião",
+  "pos": "noun",
+  "en": "occasion",
+  "ja": "場合",
+  "rank": 4424
+ },
+ {
+  "word": "passaporte",
+  "pos": "noun",
+  "en": "passport",
+  "ja": "パスポート",
+  "rank": 4466
+ },
+ {
+  "word": "ténis",
+  "pos": "noun",
+  "en": "tennis",
+  "ja": "庭球",
+  "rank": 4468
+ },
+ {
+  "word": "álibi",
+  "pos": "noun",
+  "en": "alibi",
+  "ja": "アリバイ",
+  "rank": 4481
+ },
+ {
+  "word": "cenário",
+  "pos": "noun",
+  "en": "scenario",
+  "ja": "台本",
+  "rank": 4491
+ },
+ {
+  "word": "habilidade",
+  "pos": "noun",
+  "en": "ability",
+  "ja": "力量",
+  "rank": 4540
+ },
+ {
+  "word": "caixão",
+  "pos": "noun",
+  "en": "coffin",
+  "ja": "ひつぎ",
+  "rank": 4550
+ },
+ {
+  "word": "festival",
+  "pos": "noun",
+  "en": "festival",
+  "ja": "祝い",
+  "rank": 4601
+ },
+ {
+  "word": "álbum",
+  "pos": "noun",
+  "en": "album",
+  "ja": "アルバム",
+  "rank": 4606
+ },
+ {
+  "word": "viúva",
+  "pos": "noun",
+  "en": "widow",
+  "ja": "寡婦",
+  "rank": 4610
+ },
+ {
+  "word": "refém",
+  "pos": "noun",
+  "en": "hostage",
+  "ja": "人質",
+  "rank": 4793
+ },
+ {
+  "word": "processar",
+  "pos": "verb",
+  "en": "process",
+  "ja": "過程",
+  "rank": 4794
+ },
+ {
+  "word": "juramento",
+  "pos": "noun",
+  "en": "oath",
+  "ja": "誓約",
+  "rank": 4820
+ },
+ {
+  "word": "piso",
+  "pos": "noun",
+  "en": "surface",
+  "ja": "表面",
+  "rank": 4828
+ },
+ {
+  "word": "pontapé",
+  "pos": "noun",
+  "en": "kick",
+  "ja": "ける",
+  "rank": 4831
+ },
+ {
+  "word": "hábito",
+  "pos": "noun",
+  "en": "habit",
+  "ja": "習性",
+  "rank": 4841
+ },
+ {
+  "word": "pescar",
+  "pos": "verb",
+  "en": "fish",
+  "ja": "魚類",
+  "rank": 4864
+ },
+ {
+  "word": "fruta",
+  "pos": "noun",
+  "en": "fruit",
+  "ja": "果実",
+  "rank": 4869
+ },
+ {
+  "word": "tornado",
+  "pos": "noun",
+  "en": "tornado",
+  "ja": "竜巻",
+  "rank": 4873
+ },
+ {
+  "word": "desgraça",
+  "pos": "noun",
+  "en": "disgrace",
+  "ja": "恥辱",
+  "rank": 4879
+ },
+ {
+  "word": "rebentar",
+  "pos": "verb",
+  "en": "sprout",
+  "ja": "芽",
+  "rank": 4884
+ },
+ {
+  "word": "mota",
+  "pos": "noun",
+  "en": "motorcycle",
+  "ja": "オートバイ",
+  "rank": 4885
+ },
+ {
+  "word": "túmulo",
+  "pos": "noun",
+  "en": "grave",
+  "ja": "墓",
+  "rank": 4930
+ },
+ {
+  "word": "cidadão",
+  "pos": "noun",
+  "en": "citizen",
+  "ja": "公民",
+  "rank": 4972
+ },
+ {
+  "word": "avaliação",
+  "pos": "noun",
+  "en": "valuation",
+  "ja": "見積り",
+  "rank": 5003
+ },
+ {
+  "word": "método",
+  "pos": "noun",
+  "en": "method",
+  "ja": "方式",
+  "rank": 5031
+ },
+ {
+  "word": "medalha",
+  "pos": "noun",
+  "en": "medal",
+  "ja": "勲章",
+  "rank": 5035
+ },
+ {
+  "word": "execução",
+  "pos": "noun",
+  "en": "execution",
+  "ja": "遂行",
+  "rank": 5042
+ },
+ {
+  "word": "trauma",
+  "pos": "noun",
+  "en": "trauma",
+  "ja": "外傷",
+  "rank": 5055
+ },
+ {
+  "word": "promoção",
+  "pos": "noun",
+  "en": "promotion",
+  "ja": "進級",
+  "rank": 5077
+ },
+ {
+  "word": "martelo",
+  "pos": "noun",
+  "en": "hammer",
+  "ja": "ハンマー",
+  "rank": 5146
+ },
+ {
+  "word": "senso",
+  "pos": "noun",
+  "en": "sense",
+  "ja": "感覚",
+  "rank": 5164
+ },
+ {
+  "word": "documento",
+  "pos": "noun",
+  "en": "document",
+  "ja": "書類",
+  "rank": 5175
+ },
+ {
+  "word": "gene",
+  "pos": "noun",
+  "en": "gene",
+  "ja": "遺伝子",
+  "rank": 5210
+ },
+ {
+  "word": "reforma",
+  "pos": "noun",
+  "en": "retirement",
+  "ja": "引退",
+  "rank": 5220
+ },
+ {
+  "word": "formar",
+  "pos": "verb",
+  "en": "form",
+  "ja": "形状",
+  "rank": 5244
+ },
+ {
+  "word": "ausência",
+  "pos": "noun",
+  "en": "absence",
+  "ja": "不在",
+  "rank": 5264
+ },
+ {
+  "word": "dignidade",
+  "pos": "noun",
+  "en": "dignity",
+  "ja": "威厳",
+  "rank": 5354
+ },
+ {
+  "word": "tremer",
+  "pos": "verb",
+  "en": "shake",
+  "ja": "揺する",
+  "rank": 5438
+ },
+ {
+  "word": "plataforma",
+  "pos": "noun",
+  "en": "platform",
+  "ja": "教壇",
+  "rank": 5442
+ },
+ {
+  "word": "toalha",
+  "pos": "noun",
+  "en": "towel",
+  "ja": "手ぬぐい",
+  "rank": 5497
+ },
+ {
+  "word": "lanterna",
+  "pos": "noun",
+  "en": "flashlight",
+  "ja": "懐中電灯",
+  "rank": 5567
+ },
+ {
+  "word": "mansão",
+  "pos": "noun",
+  "en": "mansion",
+  "ja": "邸宅",
+  "rank": 5592
+ },
+ {
+  "word": "murro",
+  "pos": "noun",
+  "en": "punch",
+  "ja": "パンチ",
+  "rank": 5667
+ },
+ {
+  "word": "autor",
+  "pos": "noun",
+  "en": "author",
+  "ja": "作家",
+  "rank": 5670
+ },
+ {
+  "word": "conceito",
+  "pos": "noun",
+  "en": "concept",
+  "ja": "概念",
+  "rank": 5681
+ },
+ {
+  "word": "capacete",
+  "pos": "noun",
+  "en": "helmet",
+  "ja": "かぶと",
+  "rank": 5683
+ },
+ {
+  "word": "diamante",
+  "pos": "noun",
+  "en": "diamond",
+  "ja": "ダイヤ",
+  "rank": 5690
+ },
+ {
+  "word": "balcão",
+  "pos": "noun",
+  "en": "counter",
+  "ja": "カウンター",
+  "rank": 5699
+ },
+ {
+  "word": "reabilitação",
+  "pos": "noun",
+  "en": "rehabilitation",
+  "ja": "社会復帰",
+  "rank": 5708
+ },
+ {
+  "word": "pensão",
+  "pos": "noun",
+  "en": "pension",
+  "ja": "恩給",
+  "rank": 5711
+ },
+ {
+  "word": "robô",
+  "pos": "noun",
+  "en": "robot",
+  "ja": "ロボット",
+  "rank": 5718
+ },
+ {
+  "word": "cicatriz",
+  "pos": "noun",
+  "en": "scar",
+  "ja": "傷跡",
+  "rank": 5747
+ },
+ {
+  "word": "chávena",
+  "pos": "noun",
+  "en": "cup",
+  "ja": "カップ",
+  "rank": 5749
+ },
+ {
+  "word": "barata",
+  "pos": "noun",
+  "en": "cockroach",
+  "ja": "ゴキブリ",
+  "rank": 5780
+ },
+ {
+  "word": "forno",
+  "pos": "noun",
+  "en": "oven",
+  "ja": "オーブン",
+  "rank": 5790
+ },
+ {
+  "word": "depressão",
+  "pos": "noun",
+  "en": "depression",
+  "ja": "くぼみ",
+  "rank": 5835
+ },
+ {
+  "word": "crescimento",
+  "pos": "noun",
+  "en": "growth",
+  "ja": "発育",
+  "rank": 5858
+ },
+ {
+  "word": "aranha",
+  "pos": "noun",
+  "en": "spider",
+  "ja": "クモ",
+  "rank": 5867
+ },
+ {
+  "word": "observação",
+  "pos": "noun",
+  "en": "observation",
+  "ja": "観察",
+  "rank": 5875
+ },
+ {
+  "word": "escândalo",
+  "pos": "noun",
+  "en": "scandal",
+  "ja": "スキャンダル",
+  "rank": 5878
+ },
+ {
+  "word": "gordura",
+  "pos": "noun",
+  "en": "fat",
+  "ja": "あぶら身",
+  "rank": 5887
+ },
+ {
+  "word": "dentista",
+  "pos": "noun",
+  "en": "dentist",
+  "ja": "歯医者",
+  "rank": 5902
+ },
+ {
+  "word": "punho",
+  "pos": "noun",
+  "en": "fist",
+  "ja": "げんこつ",
+  "rank": 5945
+ },
+ {
+  "word": "adormecer",
+  "pos": "verb",
+  "en": "oversleep",
+  "ja": "寝過ごす",
+  "rank": 6032
+ },
+ {
+  "word": "urina",
+  "pos": "noun",
+  "en": "urine",
+  "ja": "尿",
+  "rank": 6033
+ },
+ {
+  "word": "inspiração",
+  "pos": "noun",
+  "en": "inspiration",
+  "ja": "インスピレーション",
+  "rank": 6049
+ },
+ {
+  "word": "manutenção",
+  "pos": "noun",
+  "en": "maintenance",
+  "ja": "維持",
+  "rank": 6055
+ },
+ {
+  "word": "urgência",
+  "pos": "noun",
+  "en": "urgency",
+  "ja": "緊急",
+  "rank": 6183
+ },
+ {
+  "word": "abuso",
+  "pos": "noun",
+  "en": "abuse",
+  "ja": "悪用",
+  "rank": 6224
+ },
+ {
+  "word": "ficção",
+  "pos": "noun",
+  "en": "fiction",
+  "ja": "虚構",
+  "rank": 6233
+ },
+ {
+  "word": "massagem",
+  "pos": "noun",
+  "en": "massage",
+  "ja": "マッサージ",
+  "rank": 6265
+ },
+ {
+  "word": "colete",
+  "pos": "noun",
+  "en": "waistcoat",
+  "ja": "チョッキ",
+  "rank": 6279
+ },
+ {
+  "word": "ópera",
+  "pos": "noun",
+  "en": "opera",
+  "ja": "歌劇",
+  "rank": 6293
+ },
+ {
+  "word": "volume",
+  "pos": "noun",
+  "en": "volume",
+  "ja": "書物",
+  "rank": 6313
+ },
+ {
+  "word": "particularmente",
+  "pos": "adv",
+  "en": "particularly",
+  "ja": "とりわけ",
+  "rank": 6330
+ },
+ {
+  "word": "frágil",
+  "pos": "adj",
+  "en": "fragile",
+  "ja": "もろい",
+  "rank": 6345
+ },
+ {
+  "word": "lava",
+  "pos": "noun",
+  "en": "lava",
+  "ja": "溶岩",
+  "rank": 6479
+ },
+ {
+  "word": "ego",
+  "pos": "noun",
+  "en": "ego",
+  "ja": "主観",
+  "rank": 6501
+ },
+ {
+  "word": "balão",
+  "pos": "noun",
+  "en": "balloon",
+  "ja": "風船",
+  "rank": 6553
+ },
+ {
+  "word": "fazenda",
+  "pos": "noun",
+  "en": "farm",
+  "ja": "農園",
+  "rank": 6559
+ },
+ {
+  "word": "federação",
+  "pos": "noun",
+  "en": "federation",
+  "ja": "連盟",
+  "rank": 6572
+ },
+ {
+  "word": "barreira",
+  "pos": "noun",
+  "en": "barrier",
+  "ja": "関門",
+  "rank": 6687
+ },
+ {
+  "word": "vapor",
+  "pos": "noun",
+  "en": "steam",
+  "ja": "湯気",
+  "rank": 6704
+ },
+ {
+  "word": "humilde",
+  "pos": "adj",
+  "en": "humble",
+  "ja": "卑しい",
+  "rank": 6748
+ },
+ {
+  "word": "orientação",
+  "pos": "noun",
+  "en": "orientation",
+  "ja": "方向",
+  "rank": 6761
+ },
+ {
+  "word": "cápsula",
+  "pos": "noun",
+  "en": "capsule",
+  "ja": "カプセル",
+  "rank": 6808
+ },
+ {
+  "word": "estádio",
+  "pos": "noun",
+  "en": "stadium",
+  "ja": "スタジアム",
+  "rank": 6826
+ },
+ {
+  "word": "entusiasmo",
+  "pos": "noun",
+  "en": "enthusiasm",
+  "ja": "熱意",
+  "rank": 6846
+ },
+ {
+  "word": "adversário",
+  "pos": "noun",
+  "en": "adversary",
+  "ja": "敵",
+  "rank": 6870
+ },
+ {
+  "word": "amendoim",
+  "pos": "noun",
+  "en": "peanut",
+  "ja": "ピーナッツ",
+  "rank": 6916
+ },
+ {
+  "word": "demonstração",
+  "pos": "noun",
+  "en": "demonstration",
+  "ja": "立証",
+  "rank": 6926
+ },
+ {
+  "word": "poeta",
+  "pos": "noun",
+  "en": "poet",
+  "ja": "歌人",
+  "rank": 6934
+ },
+ {
+  "word": "ansiedade",
+  "pos": "noun",
+  "en": "anxiety",
+  "ja": "気がかり",
+  "rank": 6974
+ },
+ {
+  "word": "limão",
+  "pos": "noun",
+  "en": "lemon",
+  "ja": "レモン",
+  "rank": 7002
+ },
+ {
+  "word": "relativamente",
+  "pos": "adv",
+  "en": "relatively",
+  "ja": "比較的",
+  "rank": 7008
+ },
+ {
+  "word": "software",
+  "pos": "noun",
+  "en": "software",
+  "ja": "ソフトウェア",
+  "rank": 7024
+ },
+ {
+  "word": "rim",
+  "pos": "noun",
+  "en": "kidney",
+  "ja": "腎臓",
+  "rank": 7106
+ },
+ {
+  "word": "senha",
+  "pos": "noun",
+  "en": "password",
+  "ja": "合い言葉",
+  "rank": 7123
+ },
+ {
+  "word": "evacuação",
+  "pos": "noun",
+  "en": "evacuation",
+  "ja": "疎開",
+  "rank": 7138
+ },
+ {
+  "word": "fotógrafo",
+  "pos": "noun",
+  "en": "photographer",
+  "ja": "写真家",
+  "rank": 7143
+ },
+ {
+  "word": "comprador",
+  "pos": "noun",
+  "en": "buyer",
+  "ja": "買い手",
+  "rank": 7180
+ },
+ {
+  "word": "campus",
+  "pos": "noun",
+  "en": "campus",
+  "ja": "キャンパス",
+  "rank": 7191
+ },
+ {
+  "word": "bónus",
+  "pos": "noun",
+  "en": "bonus",
+  "ja": "ボーナス",
+  "rank": 7259
+ },
+ {
+  "word": "ringue",
+  "pos": "noun",
+  "en": "ring",
+  "ja": "環",
+  "rank": 7265
+ },
+ {
+  "word": "coro",
+  "pos": "noun",
+  "en": "choir",
+  "ja": "合唱団",
+  "rank": 7272
+ },
+ {
+  "word": "comparar",
+  "pos": "verb",
+  "en": "compare",
+  "ja": "比べる",
+  "rank": 7274
+ },
+ {
+  "word": "santuário",
+  "pos": "noun",
+  "en": "shrine",
+  "ja": "神殿",
+  "rank": 7303
+ },
+ {
+  "word": "bunker",
+  "pos": "noun",
+  "en": "bunker",
+  "ja": "バンカー",
+  "rank": 7306
+ },
+ {
+  "word": "altar",
+  "pos": "noun",
+  "en": "altar",
+  "ja": "祭壇",
+  "rank": 7316
+ },
+ {
+  "word": "cacifo",
+  "pos": "noun",
+  "en": "locker",
+  "ja": "ロッカー",
+  "rank": 7355
+ },
+ {
+  "word": "ambição",
+  "pos": "noun",
+  "en": "ambition",
+  "ja": "野心",
+  "rank": 7376
+ },
+ {
+  "word": "pacto",
+  "pos": "noun",
+  "en": "pact",
+  "ja": "協定",
+  "rank": 7423
+ },
+ {
+  "word": "pentágono",
+  "pos": "noun",
+  "en": "pentagon",
+  "ja": "ペンタゴン",
+  "rank": 7454
+ },
+ {
+  "word": "expedição",
+  "pos": "noun",
+  "en": "expedition",
+  "ja": "探検",
+  "rank": 7491
+ },
+ {
+  "word": "bastão",
+  "pos": "noun",
+  "en": "walking stick",
+  "ja": "つえ",
+  "rank": 7497
+ },
+ {
+  "word": "editora",
+  "pos": "noun",
+  "en": "publisher",
+  "ja": "出版社",
+  "rank": 7530
+ },
+ {
+  "word": "escova",
+  "pos": "noun",
+  "en": "brush",
+  "ja": "毛筆",
+  "rank": 7538
+ },
+ {
+  "word": "vacina",
+  "pos": "noun",
+  "en": "vaccine",
+  "ja": "ワクチン",
+  "rank": 7548
+ },
+ {
+  "word": "tendência",
+  "pos": "noun",
+  "en": "tendency",
+  "ja": "癖",
+  "rank": 7592
+ },
+ {
+  "word": "demissão",
+  "pos": "noun",
+  "en": "resignation",
+  "ja": "辞任",
+  "rank": 7593
+ },
+ {
+  "word": "poeira",
+  "pos": "noun",
+  "en": "dust",
+  "ja": "ほこり",
+  "rank": 7679
+ },
+ {
+  "word": "calendário",
+  "pos": "noun",
+  "en": "calendar",
+  "ja": "カレンダー",
+  "rank": 7699
+ },
+ {
+  "word": "batalhão",
+  "pos": "noun",
+  "en": "battalion",
+  "ja": "大隊",
+  "rank": 7723
+ },
+ {
+  "word": "maldade",
+  "pos": "noun",
+  "en": "malice",
+  "ja": "悪意",
+  "rank": 7735
+ },
+ {
+  "word": "porão",
+  "pos": "noun",
+  "en": "basement",
+  "ja": "地下室",
+  "rank": 7740
+ },
+ {
+  "word": "corrupção",
+  "pos": "noun",
+  "en": "corruption",
+  "ja": "汚職",
+  "rank": 7781
+ },
+ {
+  "word": "desempenho",
+  "pos": "noun",
+  "en": "achievement",
+  "ja": "達成",
+  "rank": 7857
+ },
+ {
+  "word": "cantor",
+  "pos": "noun",
+  "en": "singer",
+  "ja": "歌手",
+  "rank": 7869
+ },
+ {
+  "word": "cartaz",
+  "pos": "noun",
+  "en": "poster",
+  "ja": "ポスター",
+  "rank": 7887
+ },
+ {
+  "word": "contabilista",
+  "pos": "noun",
+  "en": "accountant",
+  "ja": "会計士",
+  "rank": 7929
+ },
+ {
+  "word": "arena",
+  "pos": "noun",
+  "en": "arena",
+  "ja": "競技場",
+  "rank": 7958
+ },
+ {
+  "word": "inesperado",
+  "pos": "adj",
+  "en": "unexpected",
+  "ja": "思いがけない",
+  "rank": 7963
+ },
+ {
+  "word": "marina",
+  "pos": "noun",
+  "en": "marina",
+  "ja": "マリーナ",
+  "rank": 7988
+ },
+ {
+  "word": "jipe",
+  "pos": "noun",
+  "en": "jeep",
+  "ja": "ジープ",
+  "rank": 7998
+ },
+ {
+  "word": "distribuição",
+  "pos": "noun",
+  "en": "distribution",
+  "ja": "配布",
+  "rank": 8057
+ },
+ {
+  "word": "luva",
+  "pos": "noun",
+  "en": "glove",
+  "ja": "グラブ",
+  "rank": 8073
+ },
+ {
+  "word": "abrandar",
+  "pos": "verb",
+  "en": "soften",
+  "ja": "和らげる",
+  "rank": 8084
+ },
+ {
+  "word": "cãozinho",
+  "pos": "noun",
+  "en": "puppy",
+  "ja": "子犬",
+  "rank": 8120
+ },
+ {
+  "word": "pope",
+  "pos": "noun",
+  "en": "pope",
+  "ja": "法王",
+  "rank": 8136
+ },
+ {
+  "word": "flecha",
+  "pos": "noun",
+  "en": "arrow",
+  "ja": "矢印",
+  "rank": 8174
+ },
+ {
+  "word": "flutuar",
+  "pos": "verb",
+  "en": "float",
+  "ja": "浮かぶ",
+  "rank": 8185
+ },
+ {
+  "word": "artéria",
+  "pos": "noun",
+  "en": "artery",
+  "ja": "動脈",
+  "rank": 8195
+ },
+ {
+  "word": "batom",
+  "pos": "noun",
+  "en": "lipstick",
+  "ja": "口紅",
+  "rank": 8200
+ },
+ {
+  "word": "furacão",
+  "pos": "noun",
+  "en": "hurricane",
+  "ja": "ハリケーン",
+  "rank": 8206
+ },
+ {
+  "word": "gestão",
+  "pos": "noun",
+  "en": "management",
+  "ja": "運営",
+  "rank": 8240
+ },
+ {
+  "word": "falência",
+  "pos": "noun",
+  "en": "bankruptcy",
+  "ja": "倒産",
+  "rank": 8254
+ },
+ {
+  "word": "expressar",
+  "pos": "verb",
+  "en": "express",
+  "ja": "言い表す",
+  "rank": 8262
+ },
+ {
+  "word": "digressão",
+  "pos": "noun",
+  "en": "digression",
+  "ja": "余談",
+  "rank": 8286
+ },
+ {
+  "word": "acontecimento",
+  "pos": "noun",
+  "en": "event",
+  "ja": "行事",
+  "rank": 8315
+ },
+ {
+  "word": "magro",
+  "pos": "adj",
+  "en": "thin",
+  "ja": "細い",
+  "rank": 8374
+ },
+ {
+  "word": "aplicação",
+  "pos": "noun",
+  "en": "application",
+  "ja": "応用",
+  "rank": 8450
+ },
+ {
+  "word": "paisagem",
+  "pos": "noun",
+  "en": "landscape",
+  "ja": "けしき",
+  "rank": 8451
+ },
+ {
+  "word": "comentar",
+  "pos": "verb",
+  "en": "comment",
+  "ja": "注釈",
+  "rank": 8461
+ },
+ {
+  "word": "ligeiramente",
+  "pos": "adv",
+  "en": "lightly",
+  "ja": "そっと",
+  "rank": 8478
+ },
+ {
+  "word": "interferência",
+  "pos": "noun",
+  "en": "interference",
+  "ja": "口出し",
+  "rank": 8480
+ },
+ {
+  "word": "organismo",
+  "pos": "noun",
+  "en": "organism",
+  "ja": "生物",
+  "rank": 8538
+ },
+ {
+  "word": "semente",
+  "pos": "noun",
+  "en": "seed",
+  "ja": "種子",
+  "rank": 8549
+ },
+ {
+  "word": "crack",
+  "pos": "noun",
+  "en": "crack",
+  "ja": "ひび",
+  "rank": 8564
+ },
+ {
+  "word": "imigração",
+  "pos": "noun",
+  "en": "immigration",
+  "ja": "移住",
+  "rank": 8613
+ },
+ {
+  "word": "pano",
+  "pos": "noun",
+  "en": "cloth",
+  "ja": "生地",
+  "rank": 8624
+ },
+ {
+  "word": "oposição",
+  "pos": "noun",
+  "en": "opposition",
+  "ja": "対立",
+  "rank": 8629
+ },
+ {
+  "word": "ventilação",
+  "pos": "noun",
+  "en": "ventilation",
+  "ja": "換気",
+  "rank": 8633
+ },
+ {
+  "word": "blusa",
+  "pos": "noun",
+  "en": "blouse",
+  "ja": "ブラウス",
+  "rank": 8634
+ },
+ {
+  "word": "regimento",
+  "pos": "noun",
+  "en": "regiment",
+  "ja": "連隊",
+  "rank": 8661
+ },
+ {
+  "word": "transição",
+  "pos": "noun",
+  "en": "transition",
+  "ja": "変遷",
+  "rank": 8728
+ },
+ {
+  "word": "monge",
+  "pos": "noun",
+  "en": "monk",
+  "ja": "僧侶",
+  "rank": 8797
+ },
+ {
+  "word": "labirinto",
+  "pos": "noun",
+  "en": "labyrinth",
+  "ja": "迷宮",
+  "rank": 8801
+ },
+ {
+  "word": "consultor",
+  "pos": "noun",
+  "en": "consultant",
+  "ja": "顧問",
+  "rank": 8817
+ },
+ {
+  "word": "broche",
+  "pos": "noun",
+  "en": "brooch",
+  "ja": "ブローチ",
+  "rank": 8823
+ },
+ {
+  "word": "veterinário",
+  "pos": "noun",
+  "en": "veterinarian",
+  "ja": "獣医",
+  "rank": 8897
+ },
+ {
+  "word": "crença",
+  "pos": "noun",
+  "en": "belief",
+  "ja": "確信",
+  "rank": 8906
+ },
+ {
+  "word": "contexto",
+  "pos": "noun",
+  "en": "context",
+  "ja": "文脈",
+  "rank": 8990
+ },
+ {
+  "word": "boom",
+  "pos": "noun",
+  "en": "boom",
+  "ja": "ブーム",
+  "rank": 9036
+ },
+ {
+  "word": "participação",
+  "pos": "noun",
+  "en": "participation",
+  "ja": "参加",
+  "rank": 9058
+ },
+ {
+  "word": "foguete",
+  "pos": "noun",
+  "en": "rocket",
+  "ja": "ロケット弾",
+  "rank": 9069
+ },
+ {
+  "word": "conquista",
+  "pos": "noun",
+  "en": "conquest",
+  "ja": "克服",
+  "rank": 9117
+ },
+ {
+  "word": "penteado",
+  "pos": "noun",
+  "en": "hairdo",
+  "ja": "髪型",
+  "rank": 9133
+ },
+ {
+  "word": "horizonte",
+  "pos": "noun",
+  "en": "horizon",
+  "ja": "水平線",
+  "rank": 9145
+ },
+ {
+  "word": "alho",
+  "pos": "noun",
+  "en": "garlic",
+  "ja": "ニンニク",
+  "rank": 9159
+ },
+ {
+  "word": "parlamento",
+  "pos": "noun",
+  "en": "parliament",
+  "ja": "議会",
+  "rank": 9183
+ },
+ {
+  "word": "músculo",
+  "pos": "noun",
+  "en": "muscle",
+  "ja": "筋",
+  "rank": 9306
+ },
+ {
+  "word": "sacerdote",
+  "pos": "noun",
+  "en": "priest",
+  "ja": "僧",
+  "rank": 9318
+ },
+ {
+  "word": "isqueiro",
+  "pos": "noun",
+  "en": "lighter",
+  "ja": "ライター",
+  "rank": 9364
+ },
+ {
+  "word": "prego",
+  "pos": "noun",
+  "en": "nail",
+  "ja": "つめ",
+  "rank": 9370
+ },
+ {
+  "word": "espuma",
+  "pos": "noun",
+  "en": "spittle",
+  "ja": "つば",
+  "rank": 9376
+ },
+ {
+  "word": "brinco",
+  "pos": "noun",
+  "en": "earring",
+  "ja": "イヤリング",
+  "rank": 9433
+ },
+ {
+  "word": "mentor",
+  "pos": "noun",
+  "en": "mentor",
+  "ja": "指導者",
+  "rank": 9496
+ },
+ {
+  "word": "trigo",
+  "pos": "noun",
+  "en": "wheat",
+  "ja": "小麦",
+  "rank": 9512
+ },
+ {
+  "word": "hospitalidade",
+  "pos": "noun",
+  "en": "hospitality",
+  "ja": "歓待",
+  "rank": 9546
+ },
+ {
+  "word": "província",
+  "pos": "noun",
+  "en": "province",
+  "ja": "県",
+  "rank": 9561
+ },
+ {
+  "word": "compartimento",
+  "pos": "noun",
+  "en": "compartment",
+  "ja": "仕切り",
+  "rank": 9593
+ },
+ {
+  "word": "porcento",
+  "pos": "noun",
+  "en": "percentage",
+  "ja": "割合",
+  "rank": 9615
+ },
+ {
+  "word": "ocidente",
+  "pos": "noun",
+  "en": "occident",
+  "ja": "西洋",
+  "rank": 9641
+ },
+ {
+  "word": "surf",
+  "pos": "noun",
+  "en": "surfing",
+  "ja": "サーフィン",
+  "rank": 9671
+ },
+ {
+  "word": "item",
+  "pos": "noun",
+  "en": "item",
+  "ja": "品目",
+  "rank": 9715
+ },
+ {
+  "word": "proveito",
+  "pos": "noun",
+  "en": "advantage",
+  "ja": "利点",
+  "rank": 9725
+ },
+ {
+  "word": "prostituição",
+  "pos": "noun",
+  "en": "prostitution",
+  "ja": "売春",
+  "rank": 9753
+ },
+ {
+  "word": "aquário",
+  "pos": "noun",
+  "en": "aquarium",
+  "ja": "水族館",
+  "rank": 9758
+ },
+ {
+  "word": "ferver",
+  "pos": "verb",
+  "en": "boil",
+  "ja": "沸く",
+  "rank": 9777
+ },
+ {
+  "word": "colaboração",
+  "pos": "noun",
+  "en": "collaboration",
+  "ja": "協力",
+  "rank": 9780
+ },
+ {
+  "word": "determinação",
+  "pos": "noun",
+  "en": "determination",
+  "ja": "決意",
+  "rank": 9862
+ },
+ {
+  "word": "secretamente",
+  "pos": "adv",
+  "en": "secretly",
+  "ja": "こっそり",
+  "rank": 9901
+ },
+ {
+  "word": "protótipo",
+  "pos": "noun",
+  "en": "prototype",
+  "ja": "原型",
+  "rank": 9961
+ },
+ {
+  "word": "livraria",
+  "pos": "noun",
+  "en": "bookshop",
+  "ja": "書店",
+  "rank": 9963
+ },
+ {
+  "word": "mostarda",
+  "pos": "noun",
+  "en": "mustard",
+  "ja": "カラシ",
+  "rank": 9991
+ },
+ {
+  "word": "ignição",
+  "pos": "noun",
+  "en": "ignition",
+  "ja": "発火",
+  "rank": 9998
+ },
+ {
+  "word": "confronto",
+  "pos": "noun",
+  "en": "confrontation",
+  "ja": "対決",
+  "rank": 10015
+ },
+ {
+  "word": "entrevistar",
+  "pos": "verb",
+  "en": "interview",
+  "ja": "面接",
+  "rank": 10016
+ },
+ {
+  "word": "bilhar",
+  "pos": "noun",
+  "en": "billiards",
+  "ja": "ビリヤード",
+  "rank": 10088
+ },
+ {
+  "word": "amuleto",
+  "pos": "noun",
+  "en": "amulet",
+  "ja": "お守り",
+  "rank": 10096
+ },
+ {
+  "word": "triângulo",
+  "pos": "noun",
+  "en": "triangle",
+  "ja": "三角形",
+  "rank": 10134
+ },
+ {
+  "word": "viola",
+  "pos": "noun",
+  "en": "viola",
+  "ja": "ビオラ",
+  "rank": 10175
+ },
+ {
+  "word": "transcrição",
+  "pos": "noun",
+  "en": "transcript",
+  "ja": "写し",
+  "rank": 10270
+ },
+ {
+  "word": "comediante",
+  "pos": "noun",
+  "en": "comedian",
+  "ja": "コメディアン",
+  "rank": 10296
+ },
+ {
+  "word": "gorila",
+  "pos": "noun",
+  "en": "gorilla",
+  "ja": "ゴリラ",
+  "rank": 10311
+ },
+ {
+  "word": "orquestra",
+  "pos": "noun",
+  "en": "orchestra",
+  "ja": "管弦楽団",
+  "rank": 10433
+ },
+ {
+  "word": "parasita",
+  "pos": "noun",
+  "en": "parasite",
+  "ja": "寄生虫",
+  "rank": 10469
+ },
+ {
+  "word": "esqueleto",
+  "pos": "noun",
+  "en": "skeleton",
+  "ja": "がい骨",
+  "rank": 10500
+ },
+ {
+  "word": "percepção",
+  "pos": "noun",
+  "en": "perception",
+  "ja": "知覚",
+  "rank": 10559
+ },
+ {
+  "word": "infantaria",
+  "pos": "noun",
+  "en": "infantry",
+  "ja": "歩兵",
+  "rank": 10564
+ },
+ {
+  "word": "puzzle",
+  "pos": "noun",
+  "en": "jigsaw puzzle",
+  "ja": "ジグソーパズル",
+  "rank": 10577
+ },
+ {
+  "word": "reboque",
+  "pos": "noun",
+  "en": "trailer",
+  "ja": "トレーラー",
+  "rank": 10589
+ },
+ {
+  "word": "pílula",
+  "pos": "noun",
+  "en": "pill",
+  "ja": "ピル",
+  "rank": 10597
+ },
+ {
+  "word": "arrependimento",
+  "pos": "noun",
+  "en": "regret",
+  "ja": "悲しむ",
+  "rank": 10671
+ },
+ {
+  "word": "colisão",
+  "pos": "noun",
+  "en": "collision",
+  "ja": "衝突",
+  "rank": 10737
+ },
+ {
+  "word": "melhora",
+  "pos": "noun",
+  "en": "improvement",
+  "ja": "改善",
+  "rank": 10861
+ },
+ {
+  "word": "doação",
+  "pos": "noun",
+  "en": "donation",
+  "ja": "寄贈",
+  "rank": 10874
+ },
+ {
+  "word": "capuz",
+  "pos": "noun",
+  "en": "hood",
+  "ja": "フード",
+  "rank": 10890
+ },
+ {
+  "word": "observador",
+  "pos": "noun",
+  "en": "observer",
+  "ja": "オブザーバー",
+  "rank": 10911
+ },
+ {
+  "word": "ketchup",
+  "pos": "noun",
+  "en": "ketchup",
+  "ja": "ケチャップ",
+  "rank": 10936
+ },
+ {
+  "word": "desordem",
+  "pos": "noun",
+  "en": "disorder",
+  "ja": "混乱",
+  "rank": 10938
+ },
+ {
+  "word": "negligência",
+  "pos": "noun",
+  "en": "negligence",
+  "ja": "不注意",
+  "rank": 10960
+ },
+ {
+  "word": "injustiça",
+  "pos": "noun",
+  "en": "injustice",
+  "ja": "不公平",
+  "rank": 10970
+ },
+ {
+  "word": "equação",
+  "pos": "noun",
+  "en": "equation",
+  "ja": "方程式",
+  "rank": 10993
+ },
+ {
+  "word": "desgosto",
+  "pos": "noun",
+  "en": "chagrin",
+  "ja": "無念",
+  "rank": 11009
+ },
+ {
+  "word": "ressonância",
+  "pos": "noun",
+  "en": "resonance",
+  "ja": "共鳴",
+  "rank": 11037
+ },
+ {
+  "word": "zoom",
+  "pos": "noun",
+  "en": "zoom lens",
+  "ja": "ズームレンズ",
+  "rank": 11121
+ },
+ {
+  "word": "cachimbo",
+  "pos": "noun",
+  "en": "pipe",
+  "ja": "パイプ",
+  "rank": 11204
+ },
+ {
+  "word": "árbitro",
+  "pos": "noun",
+  "en": "referee",
+  "ja": "レフェリー",
+  "rank": 11382
+ },
+ {
+  "word": "dilema",
+  "pos": "noun",
+  "en": "dilemma",
+  "ja": "窮地",
+  "rank": 11563
+ },
+ {
+  "word": "esparguete",
+  "pos": "noun",
+  "en": "spaghetti",
+  "ja": "スパゲッティ",
+  "rank": 11578
+ },
+ {
+  "word": "crachá",
+  "pos": "noun",
+  "en": "badge",
+  "ja": "バッジ",
+  "rank": 11616
+ },
+ {
+  "word": "mero",
+  "pos": "adj",
+  "en": "mere",
+  "ja": "単なる",
+  "rank": 11631
+ },
+ {
+  "word": "sobrenome",
+  "pos": "noun",
+  "en": "surname",
+  "ja": "姓",
+  "rank": 11684
+ },
+ {
+  "word": "asma",
+  "pos": "noun",
+  "en": "asthma",
+  "ja": "喘息",
+  "rank": 11714
+ },
+ {
+  "word": "esponja",
+  "pos": "noun",
+  "en": "sponge",
+  "ja": "スポンジ",
+  "rank": 11880
+ },
+ {
+  "word": "sogra",
+  "pos": "noun",
+  "en": "mother-in-law",
+  "ja": "義母",
+  "rank": 11893
+ },
+ {
+  "word": "trocado",
+  "pos": "noun",
+  "en": "change",
+  "ja": "改める",
+  "rank": 11964
+ },
+ {
+  "word": "intensidade",
+  "pos": "noun",
+  "en": "intensity",
+  "ja": "強度",
+  "rank": 11978
+ },
+ {
+  "word": "alavanca",
+  "pos": "noun",
+  "en": "lever",
+  "ja": "レバー",
+  "rank": 11984
+ },
+ {
+  "word": "travão",
+  "pos": "noun",
+  "en": "brake",
+  "ja": "歯止め",
+  "rank": 12001
+ },
+ {
+  "word": "avaria",
+  "pos": "noun",
+  "en": "damage",
+  "ja": "損傷",
+  "rank": 12007
+ },
+ {
+  "word": "smoking",
+  "pos": "noun",
+  "en": "tuxedo",
+  "ja": "タキシード",
+  "rank": 12011
+ },
+ {
+  "word": "urânio",
+  "pos": "noun",
+  "en": "uranium",
+  "ja": "ウラン",
+  "rank": 12043
+ },
+ {
+  "word": "redução",
+  "pos": "noun",
+  "en": "reduction",
+  "ja": "減少",
+  "rank": 12101
+ },
+ {
+  "word": "mercúrio",
+  "pos": "noun",
+  "en": "mercury",
+  "ja": "水星",
+  "rank": 12115
+ },
+ {
+  "word": "reconsiderar",
+  "pos": "verb",
+  "en": "reconsider",
+  "ja": "考え直す",
+  "rank": 12134
+ },
+ {
+  "word": "enfermeiro",
+  "pos": "noun",
+  "en": "nurse",
+  "ja": "看護婦",
+  "rank": 12150
+ },
+ {
+  "word": "clone",
+  "pos": "noun",
+  "en": "clone",
+  "ja": "クローン",
+  "rank": 12175
+ },
+ {
+  "word": "turista",
+  "pos": "noun",
+  "en": "tourist",
+  "ja": "観光客",
+  "rank": 12190
+ },
+ {
+  "word": "caligrafia",
+  "pos": "noun",
+  "en": "handwriting",
+  "ja": "手書き",
+  "rank": 12224
+ },
+ {
+  "word": "manto",
+  "pos": "noun",
+  "en": "mantle",
+  "ja": "マント",
+  "rank": 12226
+ },
+ {
+  "word": "pinto",
+  "pos": "noun",
+  "en": "chick",
+  "ja": "ひよこ",
+  "rank": 12270
+ },
+ {
+  "word": "genro",
+  "pos": "noun",
+  "en": "son-in-law",
+  "ja": "娘婿",
+  "rank": 12350
+ },
+ {
+  "word": "boletim",
+  "pos": "noun",
+  "en": "bulletin",
+  "ja": "速報",
+  "rank": 12373
+ },
+ {
+  "word": "delícia",
+  "pos": "noun",
+  "en": "delight",
+  "ja": "歓喜",
+  "rank": 12388
+ },
+ {
+  "word": "cumprimento",
+  "pos": "noun",
+  "en": "compliment",
+  "ja": "おせじ",
+  "rank": 12407
+ },
+ {
+  "word": "fragmento",
+  "pos": "noun",
+  "en": "fragment",
+  "ja": "断片",
+  "rank": 12414
+ },
+ {
+  "word": "compor",
+  "pos": "verb",
+  "en": "compose",
+  "ja": "書く",
+  "rank": 12422
+ },
+ {
+  "word": "múmia",
+  "pos": "noun",
+  "en": "mummy",
+  "ja": "ミイラ",
+  "rank": 12461
+ },
+ {
+  "word": "intestino",
+  "pos": "noun",
+  "en": "intestine",
+  "ja": "腸",
+  "rank": 12506
+ },
+ {
+  "word": "camuflagem",
+  "pos": "noun",
+  "en": "camouflage",
+  "ja": "擬装",
+  "rank": 12569
+ },
+ {
+  "word": "apagão",
+  "pos": "noun",
+  "en": "blackout",
+  "ja": "停電",
+  "rank": 12583
+ },
+ {
+  "word": "constipação",
+  "pos": "noun",
+  "en": "cold",
+  "ja": "冷たい",
+  "rank": 12589
+ },
+ {
+  "word": "lábio",
+  "pos": "noun",
+  "en": "lip",
+  "ja": "くちびる",
+  "rank": 12592
+ },
+ {
+  "word": "indicação",
+  "pos": "noun",
+  "en": "indication",
+  "ja": "徴候",
+  "rank": 12620
+ },
+ {
+  "word": "mascote",
+  "pos": "noun",
+  "en": "mascot",
+  "ja": "マスコット",
+  "rank": 12668
+ },
+ {
+  "word": "doador",
+  "pos": "noun",
+  "en": "donor",
+  "ja": "提供者",
+  "rank": 12696
+ },
+ {
+  "word": "maternidade",
+  "pos": "noun",
+  "en": "motherhood",
+  "ja": "母性",
+  "rank": 12759
+ },
+ {
+  "word": "bruxaria",
+  "pos": "noun",
+  "en": "witchcraft",
+  "ja": "魔法",
+  "rank": 12859
+ },
+ {
+  "word": "incentivo",
+  "pos": "noun",
+  "en": "incentive",
+  "ja": "動機",
+  "rank": 12897
+ },
+ {
+  "word": "excursão",
+  "pos": "noun",
+  "en": "excursion",
+  "ja": "遠足",
+  "rank": 12940
+ },
+ {
+  "word": "padaria",
+  "pos": "noun",
+  "en": "bakery",
+  "ja": "パン屋",
+  "rank": 12976
+ },
+ {
+  "word": "rejeição",
+  "pos": "noun",
+  "en": "rejection",
+  "ja": "拒絶",
+  "rank": 13001
+ },
+ {
+  "word": "reforço",
+  "pos": "noun",
+  "en": "reinforcement",
+  "ja": "補強",
+  "rank": 13014
+ },
+ {
+  "word": "creche",
+  "pos": "noun",
+  "en": "nursery",
+  "ja": "苗床",
+  "rank": 13034
+ },
+ {
+  "word": "seita",
+  "pos": "noun",
+  "en": "sect",
+  "ja": "宗派",
+  "rank": 13099
+ },
+ {
+  "word": "compensação",
+  "pos": "noun",
+  "en": "compensation",
+  "ja": "代償",
+  "rank": 13160
+ },
+ {
+  "word": "faísca",
+  "pos": "noun",
+  "en": "spark",
+  "ja": "スパーク",
+  "rank": 13203
+ },
+ {
+  "word": "especulação",
+  "pos": "noun",
+  "en": "speculation",
+  "ja": "投機",
+  "rank": 13235
+ },
+ {
+  "word": "sódio",
+  "pos": "noun",
+  "en": "sodium",
+  "ja": "ソジウム",
+  "rank": 13456
+ },
+ {
+  "word": "costura",
+  "pos": "noun",
+  "en": "sewing",
+  "ja": "裁縫",
+  "rank": 13485
+ },
+ {
+  "word": "espiral",
+  "pos": "noun",
+  "en": "spiral",
+  "ja": "らせん",
+  "rank": 13549
+ },
+ {
+  "word": "meditação",
+  "pos": "noun",
+  "en": "meditation",
+  "ja": "瞑想",
+  "rank": 13617
+ },
+ {
+  "word": "bombardeamento",
+  "pos": "noun",
+  "en": "bombardment",
+  "ja": "砲撃",
+  "rank": 13621
+ },
+ {
+  "word": "ajuste",
+  "pos": "noun",
+  "en": "adjustment",
+  "ja": "調節",
+  "rank": 13772
+ },
+ {
+  "word": "salsa",
+  "pos": "noun",
+  "en": "parsley",
+  "ja": "パセリ",
+  "rank": 13875
+ },
+ {
+  "word": "admiração",
+  "pos": "noun",
+  "en": "admiration",
+  "ja": "感嘆",
+  "rank": 13891
+ },
+ {
+  "word": "sarcasmo",
+  "pos": "noun",
+  "en": "sarcasm",
+  "ja": "風刺",
+  "rank": 13903
+ },
+ {
+  "word": "decepção",
+  "pos": "noun",
+  "en": "disappointment",
+  "ja": "落胆",
+  "rank": 13908
+ },
+ {
+  "word": "caramelo",
+  "pos": "noun",
+  "en": "caramel",
+  "ja": "カラメル",
+  "rank": 13965
+ },
+ {
+  "word": "algoritmo",
+  "pos": "noun",
+  "en": "algorithm",
+  "ja": "アルゴリズム",
+  "rank": 14027
+ },
+ {
+  "word": "cambada",
+  "pos": "noun",
+  "en": "bunch",
+  "ja": "束",
+  "rank": 14034
+ },
+ {
+  "word": "ladrar",
+  "pos": "verb",
+  "en": "bark",
+  "ja": "樹皮",
+  "rank": 14126
+ },
+ {
+  "word": "marechal",
+  "pos": "noun",
+  "en": "marshal",
+  "ja": "元帥",
+  "rank": 14149
+ },
+ {
+  "word": "cachecol",
+  "pos": "noun",
+  "en": "scarf",
+  "ja": "えり巻き",
+  "rank": 14267
+ },
+ {
+  "word": "centena",
+  "pos": "noun",
+  "en": "hundred",
+  "ja": "百",
+  "rank": 14307
+ },
+ {
+  "word": "impasse",
+  "pos": "noun",
+  "en": "impasse",
+  "ja": "行き詰まり",
+  "rank": 14320
+ },
+ {
+  "word": "sucção",
+  "pos": "noun",
+  "en": "absorption",
+  "ja": "吸収",
+  "rank": 14323
+ },
+ {
+  "word": "playboy",
+  "pos": "noun",
+  "en": "playboy",
+  "ja": "プレイボーイ",
+  "rank": 14413
+ },
+ {
+  "word": "polvo",
+  "pos": "noun",
+  "en": "octopus",
+  "ja": "タコ",
+  "rank": 14510
+ },
+ {
+  "word": "esboço",
+  "pos": "noun",
+  "en": "sketch",
+  "ja": "素描",
+  "rank": 14520
+ },
+ {
+  "word": "infelicidade",
+  "pos": "noun",
+  "en": "misfortune",
+  "ja": "災難",
+  "rank": 14589
+ },
+ {
+  "word": "traficar",
+  "pos": "verb",
+  "en": "traffic",
+  "ja": "通行",
+  "rank": 14635
+ },
+ {
+  "word": "lençol",
+  "pos": "noun",
+  "en": "sheet",
+  "ja": "シーツ",
+  "rank": 14638
+ },
+ {
+  "word": "mafioso",
+  "pos": "adj",
+  "en": "mafia",
+  "ja": "マフィア",
+  "rank": 14682
+ },
+ {
+  "word": "barracão",
+  "pos": "noun",
+  "en": "shed",
+  "ja": "こぼす",
+  "rank": 14704
+ },
+ {
+  "word": "paisana",
+  "pos": "noun",
+  "en": "civilian",
+  "ja": "文民",
+  "rank": 14754
+ },
+ {
+  "word": "sabonete",
+  "pos": "noun",
+  "en": "reprimand",
+  "ja": "懲戒",
+  "rank": 14815
+ },
+ {
+  "word": "negociante",
+  "pos": "noun",
+  "en": "shopkeeper",
+  "ja": "店主",
+  "rank": 14817
+ },
+ {
+  "word": "jardinagem",
+  "pos": "noun",
+  "en": "gardening",
+  "ja": "園芸",
+  "rank": 14839
+ },
+ {
+  "word": "velhice",
+  "pos": "noun",
+  "en": "old age",
+  "ja": "老年",
+  "rank": 14924
+ },
+ {
+  "word": "popularidade",
+  "pos": "noun",
+  "en": "popularity",
+  "ja": "好評",
+  "rank": 15044
+ },
+ {
+  "word": "caráter",
+  "pos": "noun",
+  "en": "character",
+  "ja": "人格",
+  "rank": 15065
+ },
+ {
+  "word": "toupeira",
+  "pos": "noun",
+  "en": "mole",
+  "ja": "ほくろ",
+  "rank": 15093
+ },
+ {
+  "word": "mendigo",
+  "pos": "noun",
+  "en": "beggar",
+  "ja": "こじき",
+  "rank": 15105
+ },
+ {
+  "word": "trepar",
+  "pos": "verb",
+  "en": "climb",
+  "ja": "登る",
+  "rank": 15132
+ },
+ {
+  "word": "utilizador",
+  "pos": "noun",
+  "en": "user",
+  "ja": "使用者",
+  "rank": 15139
+ },
+ {
+  "word": "indemnização",
+  "pos": "noun",
+  "en": "indemnity",
+  "ja": "賠償",
+  "rank": 15214
+ },
+ {
+  "word": "bug",
+  "pos": "noun",
+  "en": "bug",
+  "ja": "昆虫",
+  "rank": 15241
+ },
+ {
+  "word": "elegância",
+  "pos": "noun",
+  "en": "elegance",
+  "ja": "優美",
+  "rank": 15285
+ },
+ {
+  "word": "eliminação",
+  "pos": "noun",
+  "en": "elimination",
+  "ja": "削除",
+  "rank": 15324
+ },
+ {
+  "word": "peido",
+  "pos": "noun",
+  "en": "fart",
+  "ja": "おなら",
+  "rank": 15370
+ },
+ {
+  "word": "intoxicação",
+  "pos": "noun",
+  "en": "intoxication",
+  "ja": "酔い",
+  "rank": 15461
+ },
+ {
+  "word": "escavação",
+  "pos": "noun",
+  "en": "excavation",
+  "ja": "発掘",
+  "rank": 15488
+ },
+ {
+  "word": "bilião",
+  "pos": "noun",
+  "en": "trillion",
+  "ja": "兆",
+  "rank": 15576
+ },
+ {
+  "word": "ouvinte",
+  "pos": "noun",
+  "en": "listener",
+  "ja": "聞き手",
+  "rank": 15578
+ },
+ {
+  "word": "diplomata",
+  "pos": "noun",
+  "en": "diplomat",
+  "ja": "外交官",
+  "rank": 15584
+ },
+ {
+  "word": "bronzeado",
+  "pos": "adj",
+  "en": "bronze",
+  "ja": "ブロンズ",
+  "rank": 15592
+ },
+ {
+  "word": "remar",
+  "pos": "verb",
+  "en": "row",
+  "ja": "並び",
+  "rank": 15593
+ },
+ {
+  "word": "trincheira",
+  "pos": "noun",
+  "en": "trench",
+  "ja": "みぞ",
+  "rank": 15649
+ },
+ {
+  "word": "plausível",
+  "pos": "adj",
+  "en": "plausible",
+  "ja": "もっともらしい",
+  "rank": 15653
+ },
+ {
+  "word": "lápide",
+  "pos": "noun",
+  "en": "tombstone",
+  "ja": "墓石",
+  "rank": 15695
+ },
+ {
+  "word": "pinça",
+  "pos": "noun",
+  "en": "tweezers",
+  "ja": "ピンセット",
+  "rank": 15793
+ },
+ {
+  "word": "caução",
+  "pos": "noun",
+  "en": "bail",
+  "ja": "保釈",
+  "rank": 15816
+ },
+ {
+  "word": "incapacidade",
+  "pos": "noun",
+  "en": "inability",
+  "ja": "無能",
+  "rank": 15817
+ },
+ {
+  "word": "rifle",
+  "pos": "noun",
+  "en": "rifle",
+  "ja": "小銃",
+  "rank": 15864
+ },
+ {
+  "word": "javali",
+  "pos": "noun",
+  "en": "wild boar",
+  "ja": "イノシシ",
+  "rank": 15876
+ },
+ {
+  "word": "hipnose",
+  "pos": "noun",
+  "en": "hypnosis",
+  "ja": "催眠",
+  "rank": 15932
+ },
+ {
+  "word": "trilha",
+  "pos": "noun",
+  "en": "hiking",
+  "ja": "ハイキング",
+  "rank": 16050
+ },
+ {
+  "word": "cavidade",
+  "pos": "noun",
+  "en": "cavity",
+  "ja": "へこみ",
+  "rank": 16051
+ },
+ {
+  "word": "compositor",
+  "pos": "noun",
+  "en": "composer",
+  "ja": "作曲家",
+  "rank": 16053
+ },
+ {
+  "word": "pólen",
+  "pos": "noun",
+  "en": "pollen",
+  "ja": "花粉",
+  "rank": 16080
+ },
+ {
+  "word": "colesterol",
+  "pos": "noun",
+  "en": "cholesterol",
+  "ja": "コレステロール",
+  "rank": 16107
+ },
+ {
+  "word": "torradeira",
+  "pos": "noun",
+  "en": "toaster",
+  "ja": "トースター",
+  "rank": 16151
+ },
+ {
+  "word": "designer",
+  "pos": "noun",
+  "en": "designer",
+  "ja": "デザイナー",
+  "rank": 16252
+ },
+ {
+  "word": "mineral",
+  "pos": "noun",
+  "en": "mineral",
+  "ja": "鉱石",
+  "rank": 16253
+ },
+ {
+  "word": "tremor",
+  "pos": "noun",
+  "en": "tremor",
+  "ja": "震動",
+  "rank": 16271
+ },
+ {
+  "word": "porcelana",
+  "pos": "noun",
+  "en": "porcelain",
+  "ja": "磁器",
+  "rank": 16350
+ },
+ {
+  "word": "ocorrência",
+  "pos": "noun",
+  "en": "occurrence",
+  "ja": "発生",
+  "rank": 16369
+ },
+ {
+  "word": "champô",
+  "pos": "noun",
+  "en": "shampoo",
+  "ja": "シャンプー",
+  "rank": 16426
+ },
+ {
+  "word": "publicação",
+  "pos": "noun",
+  "en": "publication",
+  "ja": "発行",
+  "rank": 16427
+ },
+ {
+  "word": "bruxo",
+  "pos": "noun",
+  "en": "wizard",
+  "ja": "鬼才",
+  "rank": 16433
+ },
+ {
+  "word": "gengibre",
+  "pos": "noun",
+  "en": "ginger",
+  "ja": "ショウガ",
+  "rank": 16436
+ },
+ {
+  "word": "trégua",
+  "pos": "noun",
+  "en": "truce",
+  "ja": "休戦",
+  "rank": 16491
+ },
+ {
+  "word": "fungo",
+  "pos": "noun",
+  "en": "fungus",
+  "ja": "菌",
+  "rank": 16544
+ },
+ {
+  "word": "despertador",
+  "pos": "noun",
+  "en": "alarm clock",
+  "ja": "目覚まし時計",
+  "rank": 16549
+ },
+ {
+  "word": "acumular",
+  "pos": "verb",
+  "en": "accumulate",
+  "ja": "ためる",
+  "rank": 16633
+ },
+ {
+  "word": "vocabulário",
+  "pos": "noun",
+  "en": "language",
+  "ja": "言葉",
+  "rank": 16688
+ },
+ {
+  "word": "infantário",
+  "pos": "noun",
+  "en": "nursery school",
+  "ja": "保育園",
+  "rank": 16695
+ },
+ {
+  "word": "tuberculose",
+  "pos": "noun",
+  "en": "tuberculosis",
+  "ja": "結核",
+  "rank": 16746
+ },
+ {
+  "word": "maturidade",
+  "pos": "noun",
+  "en": "maturity",
+  "ja": "成熟",
+  "rank": 16810
+ },
+ {
+  "word": "estrume",
+  "pos": "noun",
+  "en": "manure",
+  "ja": "肥料",
+  "rank": 16829
+ },
+ {
+  "word": "sucessão",
+  "pos": "noun",
+  "en": "succession",
+  "ja": "連続",
+  "rank": 16873
+ },
+ {
+  "word": "reembolso",
+  "pos": "noun",
+  "en": "reimbursement",
+  "ja": "返済",
+  "rank": 16876
+ },
+ {
+  "word": "discernimento",
+  "pos": "noun",
+  "en": "discernment",
+  "ja": "識別",
+  "rank": 16888
+ },
+ {
+  "word": "malária",
+  "pos": "noun",
+  "en": "malaria",
+  "ja": "マラリア",
+  "rank": 16892
+ },
+ {
+  "word": "monopólio",
+  "pos": "noun",
+  "en": "monopoly",
+  "ja": "独占",
+  "rank": 16902
+ },
+ {
+  "word": "aceleração",
+  "pos": "noun",
+  "en": "acceleration",
+  "ja": "加速",
+  "rank": 16908
+ },
+ {
+  "word": "parteira",
+  "pos": "noun",
+  "en": "midwife",
+  "ja": "助産婦",
+  "rank": 16928
+ },
+ {
+  "word": "encorajar",
+  "pos": "verb",
+  "en": "encourage",
+  "ja": "励ます",
+  "rank": 16934
+ },
+ {
+  "word": "perjúrio",
+  "pos": "noun",
+  "en": "perjury",
+  "ja": "偽証",
+  "rank": 16963
+ },
+ {
+  "word": "mamilo",
+  "pos": "noun",
+  "en": "nipple",
+  "ja": "乳首",
+  "rank": 17097
+ },
+ {
+  "word": "florista",
+  "pos": "noun",
+  "en": "florist",
+  "ja": "花屋",
+  "rank": 17143
+ },
+ {
+  "word": "carcaça",
+  "pos": "noun",
+  "en": "carcass",
+  "ja": "死体",
+  "rank": 17145
+ },
+ {
+  "word": "secretaria",
+  "pos": "noun",
+  "en": "registry",
+  "ja": "登記",
+  "rank": 17166
+ },
+ {
+  "word": "fazendeiro",
+  "pos": "noun",
+  "en": "landowner",
+  "ja": "地主",
+  "rank": 17213
+ },
+ {
+  "word": "cegueira",
+  "pos": "noun",
+  "en": "blindness",
+  "ja": "盲目",
+  "rank": 17238
+ },
+ {
+  "word": "demência",
+  "pos": "noun",
+  "en": "dementia",
+  "ja": "痴呆",
+  "rank": 17328
+ },
+ {
+  "word": "principiante",
+  "pos": "noun",
+  "en": "beginner",
+  "ja": "初心者",
+  "rank": 17331
+ },
+ {
+  "word": "lucrar",
+  "pos": "verb",
+  "en": "profit",
+  "ja": "もうけ",
+  "rank": 17404
+ },
+ {
+  "word": "aorta",
+  "pos": "noun",
+  "en": "aorta",
+  "ja": "大動脈",
+  "rank": 17511
+ },
+ {
+  "word": "estilista",
+  "pos": "noun",
+  "en": "stylist",
+  "ja": "スタイリスト",
+  "rank": 17522
+ },
+ {
+  "word": "aquecedor",
+  "pos": "noun",
+  "en": "heater",
+  "ja": "ヒーター",
+  "rank": 17558
+ },
+ {
+  "word": "puberdade",
+  "pos": "noun",
+  "en": "puberty",
+  "ja": "思春期",
+  "rank": 17611
+ },
+ {
+  "word": "ponderar",
+  "pos": "verb",
+  "en": "weight",
+  "ja": "重量",
+  "rank": 17674
+ },
+ {
+  "word": "pavilhão",
+  "pos": "noun",
+  "en": "pavilion",
+  "ja": "パビリオン",
+  "rank": 17690
+ },
+ {
+  "word": "slogan",
+  "pos": "noun",
+  "en": "slogan",
+  "ja": "標語",
+  "rank": 17707
+ },
+ {
+  "word": "cateter",
+  "pos": "noun",
+  "en": "catheter",
+  "ja": "カテーテル",
+  "rank": 17774
+ },
+ {
+  "word": "objeção",
+  "pos": "noun",
+  "en": "objection",
+  "ja": "異議",
+  "rank": 17778
+ },
+ {
+  "word": "vegetação",
+  "pos": "noun",
+  "en": "vegetation",
+  "ja": "植物",
+  "rank": 17801
+ },
+ {
+  "word": "casulo",
+  "pos": "noun",
+  "en": "cocoon",
+  "ja": "まゆ",
+  "rank": 17806
+ },
+ {
+  "word": "mídia",
+  "pos": "noun",
+  "en": "multimedia",
+  "ja": "マルチメディア",
+  "rank": 17868
+ },
+ {
+  "word": "biquíni",
+  "pos": "noun",
+  "en": "bikini",
+  "ja": "ビキニ",
+  "rank": 17878
+ },
+ {
+  "word": "cartucho",
+  "pos": "noun",
+  "en": "cartridge",
+  "ja": "カートリッジ",
+  "rank": 17945
+ },
+ {
+  "word": "socapa",
+  "pos": "noun",
+  "en": "cunning",
+  "ja": "悪賢い",
+  "rank": 17970
+ },
+ {
+  "word": "combustão",
+  "pos": "noun",
+  "en": "combustion",
+  "ja": "燃焼",
+  "rank": 17988
+ },
+ {
+  "word": "cilindro",
+  "pos": "noun",
+  "en": "cylinder",
+  "ja": "円柱",
+  "rank": 18022
+ },
+ {
+  "word": "restauração",
+  "pos": "noun",
+  "en": "restoration",
+  "ja": "修復",
+  "rank": 18024
+ },
+ {
+  "word": "platina",
+  "pos": "noun",
+  "en": "platinum",
+  "ja": "プラチナ",
+  "rank": 18059
+ },
+ {
+  "word": "suplemento",
+  "pos": "noun",
+  "en": "supplement",
+  "ja": "追加",
+  "rank": 18245
+ },
+ {
+  "word": "seleção",
+  "pos": "noun",
+  "en": "selection",
+  "ja": "選抜",
+  "rank": 18254
+ },
+ {
+  "word": "seção",
+  "pos": "noun",
+  "en": "section",
+  "ja": "部分",
+  "rank": 18293
+ },
+ {
+  "word": "cristianismo",
+  "pos": "noun",
+  "en": "christianity",
+  "ja": "キリスト教",
+  "rank": 18348
+ },
+ {
+  "word": "pegado",
+  "pos": "adj",
+  "en": "next",
+  "ja": "来",
+  "rank": 18375
+ },
+ {
+  "word": "superioridade",
+  "pos": "noun",
+  "en": "superiority",
+  "ja": "優勢",
+  "rank": 18376
+ },
+ {
+  "word": "titânio",
+  "pos": "noun",
+  "en": "titanium",
+  "ja": "チタン",
+  "rank": 18429
+ },
+ {
+  "word": "compressão",
+  "pos": "noun",
+  "en": "compression",
+  "ja": "圧縮",
+  "rank": 18486
+ },
+ {
+  "word": "concepção",
+  "pos": "noun",
+  "en": "conception",
+  "ja": "観念",
+  "rank": 18517
+ },
+ {
+  "word": "estrangulamento",
+  "pos": "noun",
+  "en": "strangulation",
+  "ja": "絞殺",
+  "rank": 18548
+ },
+ {
+  "word": "esfaquear",
+  "pos": "verb",
+  "en": "stab",
+  "ja": "突き刺す",
+  "rank": 18553
+ },
+ {
+  "word": "hamster",
+  "pos": "noun",
+  "en": "hamster",
+  "ja": "ハムスター",
+  "rank": 18624
+ },
+ {
+  "word": "injeção",
+  "pos": "noun",
+  "en": "injection",
+  "ja": "注入",
+  "rank": 18724
+ },
+ {
+  "word": "lástima",
+  "pos": "noun",
+  "en": "pity",
+  "ja": "同情",
+  "rank": 18761
+ },
+ {
+  "word": "frigideira",
+  "pos": "noun",
+  "en": "frying pan",
+  "ja": "フライパン",
+  "rank": 18777
+ },
+ {
+  "word": "adoração",
+  "pos": "noun",
+  "en": "adoration",
+  "ja": "崇拝",
+  "rank": 18782
+ },
+ {
+  "word": "boate",
+  "pos": "noun",
+  "en": "nightclub",
+  "ja": "ナイトクラブ",
+  "rank": 18789
+ },
+ {
+  "word": "metano",
+  "pos": "noun",
+  "en": "methane",
+  "ja": "メタン",
+  "rank": 18913
+ },
+ {
+  "word": "travessia",
+  "pos": "noun",
+  "en": "crossing",
+  "ja": "横断",
+  "rank": 18944
+ },
+ {
+  "word": "embaraço",
+  "pos": "noun",
+  "en": "embarrassment",
+  "ja": "当惑",
+  "rank": 18953
+ },
+ {
+  "word": "advertência",
+  "pos": "noun",
+  "en": "admonition",
+  "ja": "警告",
+  "rank": 18990
+ },
+ {
+  "word": "detecção",
+  "pos": "noun",
+  "en": "detection",
+  "ja": "発見",
+  "rank": 19203
+ },
+ {
+  "word": "preservação",
+  "pos": "noun",
+  "en": "preservation",
+  "ja": "保存",
+  "rank": 19265
+ },
+ {
+  "word": "possessão",
+  "pos": "noun",
+  "en": "possession",
+  "ja": "所持",
+  "rank": 19267
+ },
+ {
+  "word": "girafa",
+  "pos": "noun",
+  "en": "giraffe",
+  "ja": "ジラフ",
+  "rank": 19276
+ },
+ {
+  "word": "meteorologia",
+  "pos": "noun",
+  "en": "meteorology",
+  "ja": "気象学",
+  "rank": 19294
+ },
+ {
+  "word": "aspirar",
+  "pos": "verb",
+  "en": "vacuum",
+  "ja": "真空",
+  "rank": 19428
+ },
+ {
+  "word": "experimento",
+  "pos": "noun",
+  "en": "experiment",
+  "ja": "試み",
+  "rank": 19443
+ },
+ {
+  "word": "gargalhada",
+  "pos": "noun",
+  "en": "laughter",
+  "ja": "笑い声",
+  "rank": 19450
+ },
+ {
+  "word": "aeronave",
+  "pos": "noun",
+  "en": "aircraft",
+  "ja": "航空機",
+  "rank": 19537
+ },
+ {
+  "word": "desembarque",
+  "pos": "noun",
+  "en": "disembarkation",
+  "ja": "上陸",
+  "rank": 19592
+ },
+ {
+  "word": "precedente",
+  "pos": "noun",
+  "en": "precedent",
+  "ja": "前例",
+  "rank": 19639
+ },
+ {
+  "word": "radiador",
+  "pos": "noun",
+  "en": "radiator",
+  "ja": "ラジエーター",
+  "rank": 19672
+ },
+ {
+  "word": "rena",
+  "pos": "noun",
+  "en": "reindeer",
+  "ja": "トナカイ",
+  "rank": 19681
+ },
+ {
+  "word": "zangar",
+  "pos": "verb",
+  "en": "anger",
+  "ja": "立腹",
+  "rank": 19742
+ },
+ {
+  "word": "interrogação",
+  "pos": "noun",
+  "en": "interrogation",
+  "ja": "尋問",
+  "rank": 19799
+ },
+ {
+  "word": "coreografia",
+  "pos": "noun",
+  "en": "choreography",
+  "ja": "振付け",
+  "rank": 19832
+ },
+ {
+  "word": "pepino",
+  "pos": "noun",
+  "en": "cucumber",
+  "ja": "キュウリ",
+  "rank": 19849
+ },
+ {
+  "word": "suco",
+  "pos": "noun",
+  "en": "juice",
+  "ja": "ジュース",
+  "rank": 19856
+ },
+ {
+  "word": "acompanhamento",
+  "pos": "noun",
+  "en": "accompaniment",
+  "ja": "伴奏",
+  "rank": 19996
+ },
+ {
+  "word": "controvérsia",
+  "pos": "noun",
+  "en": "controversy",
+  "ja": "議論",
+  "rank": 20043
+ },
+ {
+  "word": "amnistia",
+  "pos": "noun",
+  "en": "amnesty",
+  "ja": "恩赦",
+  "rank": 20046
+ },
+ {
+  "word": "presságio",
+  "pos": "noun",
+  "en": "omen",
+  "ja": "きざし",
+  "rank": 20139
+ },
+ {
+  "word": "melancia",
+  "pos": "noun",
+  "en": "watermelon",
+  "ja": "スイカ",
+  "rank": 20154
+ },
+ {
+  "word": "preferível",
+  "pos": "adj",
+  "en": "preferable",
+  "ja": "望ましい",
+  "rank": 20222
+ },
+ {
+  "word": "estatura",
+  "pos": "noun",
+  "en": "stature",
+  "ja": "身長",
+  "rank": 20230
+ },
+ {
+  "word": "críquete",
+  "pos": "noun",
+  "en": "cricket",
+  "ja": "クリケット",
+  "rank": 20311
+ },
+ {
+  "word": "lazer",
+  "pos": "noun",
+  "en": "leisure",
+  "ja": "余暇",
+  "rank": 20334
+ },
+ {
+  "word": "loção",
+  "pos": "noun",
+  "en": "lotion",
+  "ja": "ローション",
+  "rank": 20337
+ },
+ {
+  "word": "limusine",
+  "pos": "noun",
+  "en": "limousine",
+  "ja": "リムジーン",
+  "rank": 20369
+ },
+ {
+  "word": "ágil",
+  "pos": "adj",
+  "en": "agile",
+  "ja": "すばやい",
+  "rank": 20374
+ },
+ {
+  "word": "patologia",
+  "pos": "noun",
+  "en": "pathology",
+  "ja": "病状",
+  "rank": 20405
+ },
+ {
+  "word": "maleta",
+  "pos": "noun",
+  "en": "suitcase",
+  "ja": "スーツケース",
+  "rank": 20492
+ },
+ {
+  "word": "canguru",
+  "pos": "noun",
+  "en": "kangaroo",
+  "ja": "カンガルー",
+  "rank": 20569
+ },
+ {
+  "word": "inspeção",
+  "pos": "noun",
+  "en": "inspection",
+  "ja": "視察",
+  "rank": 20594
+ },
+ {
+  "word": "inflação",
+  "pos": "noun",
+  "en": "inflation",
+  "ja": "インフレ",
+  "rank": 20632
+ },
+ {
+  "word": "sanatório",
+  "pos": "noun",
+  "en": "sanatorium",
+  "ja": "療養所",
+  "rank": 20686
+ },
+ {
+  "word": "recompensar",
+  "pos": "verb",
+  "en": "reward",
+  "ja": "ほうび",
+  "rank": 20694
+ },
+ {
+  "word": "alegação",
+  "pos": "noun",
+  "en": "allegation",
+  "ja": "申し立て",
+  "rank": 20719
+ },
+ {
+  "word": "nicotina",
+  "pos": "noun",
+  "en": "nicotine",
+  "ja": "ニコチン",
+  "rank": 20776
+ },
+ {
+  "word": "sinfonia",
+  "pos": "noun",
+  "en": "symphony",
+  "ja": "シンフォニー",
+  "rank": 20800
+ },
+ {
+  "word": "rivalidade",
+  "pos": "noun",
+  "en": "rivalry",
+  "ja": "競争",
+  "rank": 20865
+ },
+ {
+  "word": "adoção",
+  "pos": "noun",
+  "en": "adoption",
+  "ja": "採用",
+  "rank": 20895
+ },
+ {
+  "word": "hérnia",
+  "pos": "noun",
+  "en": "hernia",
+  "ja": "ヘルニア",
+  "rank": 20931
+ },
+ {
+  "word": "escapatória",
+  "pos": "noun",
+  "en": "way out",
+  "ja": "出口",
+  "rank": 21102
+ },
+ {
+  "word": "penicilina",
+  "pos": "noun",
+  "en": "penicillin",
+  "ja": "ペニシリン",
+  "rank": 21135
+ },
+ {
+  "word": "cogumelo",
+  "pos": "noun",
+  "en": "mushroom",
+  "ja": "キノコ",
+  "rank": 21171
+ },
+ {
+  "word": "presunção",
+  "pos": "noun",
+  "en": "presumption",
+  "ja": "推定",
+  "rank": 21254
+ },
+ {
+  "word": "coligação",
+  "pos": "noun",
+  "en": "coalition",
+  "ja": "連立",
+  "rank": 21407
+ },
+ {
+  "word": "drogar",
+  "pos": "verb",
+  "en": "drug",
+  "ja": "薬品",
+  "rank": 21412
+ },
+ {
+  "word": "lixa",
+  "pos": "noun",
+  "en": "sandpaper",
+  "ja": "サンドペーパー",
+  "rank": 21424
+ },
+ {
+  "word": "malte",
+  "pos": "noun",
+  "en": "malt",
+  "ja": "麦芽",
+  "rank": 21471
+ },
+ {
+  "word": "mural",
+  "pos": "noun",
+  "en": "mural",
+  "ja": "壁画",
+  "rank": 21518
+ },
+ {
+  "word": "baliza",
+  "pos": "noun",
+  "en": "boundary",
+  "ja": "境",
+  "rank": 21583
+ },
+ {
+  "word": "proporção",
+  "pos": "noun",
+  "en": "proportion",
+  "ja": "比率",
+  "rank": 21591
+ },
+ {
+  "word": "insígnia",
+  "pos": "noun",
+  "en": "insignia",
+  "ja": "記章",
+  "rank": 21683
+ },
+ {
+  "word": "gaze",
+  "pos": "noun",
+  "en": "gauze",
+  "ja": "ガーゼ",
+  "rank": 21735
+ },
+ {
+  "word": "quiosque",
+  "pos": "noun",
+  "en": "kiosk",
+  "ja": "キオスク",
+  "rank": 21738
+ },
+ {
+  "word": "pioneiro",
+  "pos": "noun",
+  "en": "pioneer",
+  "ja": "開拓者",
+  "rank": 21829
+ },
+ {
+  "word": "missionário",
+  "pos": "noun",
+  "en": "missionary",
+  "ja": "宣教師",
+  "rank": 21845
+ },
+ {
+  "word": "grua",
+  "pos": "noun",
+  "en": "crane",
+  "ja": "ツル",
+  "rank": 21910
+ },
+ {
+  "word": "goela",
+  "pos": "noun",
+  "en": "gullet",
+  "ja": "食道",
+  "rank": 21990
+ },
+ {
+  "word": "oásis",
+  "pos": "noun",
+  "en": "oasis",
+  "ja": "オアシス",
+  "rank": 22034
+ },
+ {
+  "word": "alvorada",
+  "pos": "noun",
+  "en": "dawn",
+  "ja": "暁",
+  "rank": 22040
+ },
+ {
+  "word": "dorsal",
+  "pos": "noun",
+  "en": "ridge",
+  "ja": "尾根",
+  "rank": 22084
+ },
+ {
+  "word": "palito",
+  "pos": "noun",
+  "en": "toothpick",
+  "ja": "つまようじ",
+  "rank": 22238
+ },
+ {
+  "word": "voltagem",
+  "pos": "noun",
+  "en": "voltage",
+  "ja": "電圧",
+  "rank": 22239
+ },
+ {
+  "word": "panorama",
+  "pos": "noun",
+  "en": "panorama",
+  "ja": "パノラマ",
+  "rank": 22279
+ },
+ {
+  "word": "corrimão",
+  "pos": "noun",
+  "en": "handrail",
+  "ja": "手すり",
+  "rank": 22356
+ },
+ {
+  "word": "diálise",
+  "pos": "noun",
+  "en": "dialysis",
+  "ja": "透析",
+  "rank": 22369
+ },
+ {
+  "word": "purificação",
+  "pos": "noun",
+  "en": "purification",
+  "ja": "浄化",
+  "rank": 22377
+ },
+ {
+  "word": "espirrar",
+  "pos": "verb",
+  "en": "sneeze",
+  "ja": "くしゃみ",
+  "rank": 22412
+ },
+ {
+  "word": "amargura",
+  "pos": "noun",
+  "en": "bitterness",
+  "ja": "苦み",
+  "rank": 22463
+ },
+ {
+  "word": "dedução",
+  "pos": "noun",
+  "en": "deduction",
+  "ja": "推論",
+  "rank": 22533
+ },
+ {
+  "word": "camaleão",
+  "pos": "noun",
+  "en": "chameleon",
+  "ja": "カメレオン",
+  "rank": 22638
+ },
+ {
+  "word": "utopia",
+  "pos": "noun",
+  "en": "utopia",
+  "ja": "ユートピア",
+  "rank": 22699
+ },
+ {
+  "word": "heresia",
+  "pos": "noun",
+  "en": "heresy",
+  "ja": "異端",
+  "rank": 22754
+ },
+ {
+  "word": "benfeitor",
+  "pos": "noun",
+  "en": "benefactor",
+  "ja": "恩人",
+  "rank": 22826
+ },
+ {
+  "word": "fóssil",
+  "pos": "noun",
+  "en": "fossil",
+  "ja": "化石",
+  "rank": 22841
+ },
+ {
+  "word": "antibiótico",
+  "pos": "adj",
+  "en": "antibiotic",
+  "ja": "抗生物質",
+  "rank": 22870
+ },
+ {
+  "word": "prece",
+  "pos": "noun",
+  "en": "prayer",
+  "ja": "祈り",
+  "rank": 22888
+ },
+ {
+  "word": "contradição",
+  "pos": "noun",
+  "en": "contradiction",
+  "ja": "矛盾",
+  "rank": 22892
+ },
+ {
+  "word": "capitalista",
+  "pos": "adj",
+  "en": "capitalist",
+  "ja": "資本家",
+  "rank": 22897
+ },
+ {
+  "word": "nostalgia",
+  "pos": "noun",
+  "en": "nostalgia",
+  "ja": "ノスタルジア",
+  "rank": 22914
+ },
+ {
+  "word": "cloro",
+  "pos": "noun",
+  "en": "chlorine",
+  "ja": "塩素",
+  "rank": 22936
+ },
+ {
+  "word": "placenta",
+  "pos": "noun",
+  "en": "placenta",
+  "ja": "胎盤",
+  "rank": 22950
+ },
+ {
+  "word": "reeleição",
+  "pos": "noun",
+  "en": "reelection",
+  "ja": "再選",
+  "rank": 23049
+ },
+ {
+  "word": "atestado",
+  "pos": "noun",
+  "en": "certificate",
+  "ja": "証券",
+  "rank": 23114
+ },
+ {
+  "word": "mola",
+  "pos": "noun",
+  "en": "money",
+  "ja": "金銭",
+  "rank": 23211
+ },
+ {
+  "word": "coldre",
+  "pos": "noun",
+  "en": "holster",
+  "ja": "ホルスター",
+  "rank": 23382
+ },
+ {
+  "word": "látex",
+  "pos": "noun",
+  "en": "latex",
+  "ja": "ラテックス",
+  "rank": 23437
+ },
+ {
+  "word": "espectador",
+  "pos": "noun",
+  "en": "spectator",
+  "ja": "見物人",
+  "rank": 23581
+ },
+ {
+  "word": "povoação",
+  "pos": "noun",
+  "en": "settlement",
+  "ja": "定住",
+  "rank": 23653
+ },
+ {
+  "word": "resina",
+  "pos": "noun",
+  "en": "resin",
+  "ja": "樹脂",
+  "rank": 23672
+ },
+ {
+  "word": "piranha",
+  "pos": "noun",
+  "en": "piranha",
+  "ja": "ピラニア",
+  "rank": 23846
+ },
+ {
+  "word": "abençoar",
+  "pos": "verb",
+  "en": "bless",
+  "ja": "恵む",
+  "rank": 23920
+ },
+ {
+  "word": "enjoo",
+  "pos": "noun",
+  "en": "nausea",
+  "ja": "吐き気",
+  "rank": 24084
+ },
+ {
+  "word": "plural",
+  "pos": "noun",
+  "en": "plural",
+  "ja": "複数",
+  "rank": 24085
+ },
+ {
+  "word": "patrono",
+  "pos": "noun",
+  "en": "patron",
+  "ja": "保護者",
+  "rank": 24115
+ },
+ {
+  "word": "esgrima",
+  "pos": "noun",
+  "en": "fencing",
+  "ja": "フェンシング",
+  "rank": 24158
+ },
+ {
+  "word": "desidratação",
+  "pos": "noun",
+  "en": "dehydration",
+  "ja": "脱水",
+  "rank": 24238
+ },
+ {
+  "word": "pretender",
+  "pos": "verb",
+  "en": "want",
+  "ja": "望む",
+  "rank": 24244
+ },
+ {
+  "word": "talco",
+  "pos": "noun",
+  "en": "talc",
+  "ja": "タルク",
+  "rank": 24274
+ },
+ {
+  "word": "antecipadamente",
+  "pos": "adv",
+  "en": "previously",
+  "ja": "前もって",
+  "rank": 24401
+ },
+ {
+  "word": "guilhotina",
+  "pos": "noun",
+  "en": "guillotine",
+  "ja": "ギロチン",
+  "rank": 24419
+ },
+ {
+  "word": "conversação",
+  "pos": "noun",
+  "en": "conversation",
+  "ja": "談話",
+  "rank": 24429
+ },
+ {
+  "word": "altifalante",
+  "pos": "noun",
+  "en": "loudspeaker",
+  "ja": "ラウドスピーカー",
+  "rank": 24558
+ },
+ {
+  "word": "pedal",
+  "pos": "noun",
+  "en": "pedal",
+  "ja": "ペダル",
+  "rank": 24565
+ },
+ {
+  "word": "cassino",
+  "pos": "noun",
+  "en": "casino",
+  "ja": "カジノ",
+  "rank": 24580
+ },
+ {
+  "word": "obesidade",
+  "pos": "noun",
+  "en": "obesity",
+  "ja": "肥満",
+  "rank": 24737
+ },
+ {
+  "word": "antecipação",
+  "pos": "noun",
+  "en": "anticipation",
+  "ja": "期待",
+  "rank": 24774
+ },
+ {
+  "word": "enzima",
+  "pos": "noun",
+  "en": "enzyme",
+  "ja": "酵素",
+  "rank": 24815
+ },
+ {
+  "word": "irrigação",
+  "pos": "noun",
+  "en": "irrigation",
+  "ja": "潅漑",
+  "rank": 25048
+ },
+ {
+  "word": "ecossistema",
+  "pos": "noun",
+  "en": "ecosystem",
+  "ja": "生態系",
+  "rank": 25131
+ },
+ {
+  "word": "rastilho",
+  "pos": "noun",
+  "en": "fuse",
+  "ja": "ヒューズ",
+  "rank": 25179
+ },
+ {
+  "word": "terceiros",
+  "pos": "noun",
+  "en": "third party",
+  "ja": "第三者",
+  "rank": 25203
+ },
+ {
+  "word": "tempero",
+  "pos": "noun",
+  "en": "seasoning",
+  "ja": "調味料",
+  "rank": 25345
+ },
+ {
+  "word": "convívio",
+  "pos": "noun",
+  "en": "cohabitation",
+  "ja": "同棲",
+  "rank": 25372
+ },
+ {
+  "word": "rodeio",
+  "pos": "noun",
+  "en": "detour",
+  "ja": "回り道",
+  "rank": 25505
+ },
+ {
+  "word": "fobia",
+  "pos": "noun",
+  "en": "phobia",
+  "ja": "恐怖症",
+  "rank": 25508
+ },
+ {
+  "word": "cidra",
+  "pos": "noun",
+  "en": "citron",
+  "ja": "シトロン",
+  "rank": 25540
+ },
+ {
+  "word": "silo",
+  "pos": "noun",
+  "en": "silo",
+  "ja": "サイロ",
+  "rank": 25563
+ },
+ {
+  "word": "paraquedas",
+  "pos": "noun",
+  "en": "parachute",
+  "ja": "パラシュート",
+  "rank": 25566
+ },
+ {
+  "word": "consequentemente",
+  "pos": "adv",
+  "en": "consequently",
+  "ja": "従って",
+  "rank": 25635
+ },
+ {
+  "word": "horóscopo",
+  "pos": "noun",
+  "en": "horoscope",
+  "ja": "星占い",
+  "rank": 25639
+ },
+ {
+  "word": "encurtar",
+  "pos": "verb",
+  "en": "shorten",
+  "ja": "縮める",
+  "rank": 25705
+ },
+ {
+  "word": "chibo",
+  "pos": "noun",
+  "en": "kid",
+  "ja": "キッド",
+  "rank": 25766
+ },
+ {
+  "word": "enguia",
+  "pos": "noun",
+  "en": "eel",
+  "ja": "ウナギ",
+  "rank": 25767
+ },
+ {
+  "word": "mandamento",
+  "pos": "noun",
+  "en": "commandment",
+  "ja": "戒律",
+  "rank": 25768
+ },
+ {
+  "word": "vinil",
+  "pos": "noun",
+  "en": "vinyl",
+  "ja": "ビニール",
+  "rank": 25772
+ },
+ {
+  "word": "insistente",
+  "pos": "adj",
+  "en": "insistent",
+  "ja": "しつこい",
+  "rank": 25851
+ },
+ {
+  "word": "gongo",
+  "pos": "noun",
+  "en": "gong",
+  "ja": "ゴング",
+  "rank": 25901
+ },
+ {
+  "word": "espadachim",
+  "pos": "noun",
+  "en": "swordsman",
+  "ja": "剣士",
+  "rank": 26066
+ },
+ {
+  "word": "estimulação",
+  "pos": "noun",
+  "en": "stimulation",
+  "ja": "刺激",
+  "rank": 26073
+ },
+ {
+  "word": "tag",
+  "pos": "noun",
+  "en": "tag",
+  "ja": "荷札",
+  "rank": 26203
+ },
+ {
+  "word": "desejável",
+  "pos": "adj",
+  "en": "desirable",
+  "ja": "好ましい",
+  "rank": 26238
+ },
+ {
+  "word": "cantil",
+  "pos": "noun",
+  "en": "canteen",
+  "ja": "水筒",
+  "rank": 26320
+ },
+ {
+  "word": "cetim",
+  "pos": "noun",
+  "en": "satin",
+  "ja": "サテン",
+  "rank": 26413
+ },
+ {
+  "word": "afinidade",
+  "pos": "noun",
+  "en": "affinity",
+  "ja": "親近感",
+  "rank": 26487
+ },
+ {
+  "word": "gabardina",
+  "pos": "noun",
+  "en": "trench coat",
+  "ja": "トレンチコート",
+  "rank": 26531
+ },
+ {
+  "word": "compulsão",
+  "pos": "noun",
+  "en": "compulsion",
+  "ja": "強制",
+  "rank": 26771
+ },
+ {
+  "word": "plâncton",
+  "pos": "noun",
+  "en": "plankton",
+  "ja": "プランクトン",
+  "rank": 26801
+ },
+ {
+  "word": "arritmia",
+  "pos": "noun",
+  "en": "arrhythmia",
+  "ja": "不整脈",
+  "rank": 26928
+ },
+ {
+  "word": "cupão",
+  "pos": "noun",
+  "en": "coupon",
+  "ja": "クーポン",
+  "rank": 26966
+ },
+ {
+  "word": "autonomia",
+  "pos": "noun",
+  "en": "autonomy",
+  "ja": "自治権",
+  "rank": 27058
+ },
+ {
+  "word": "participante",
+  "pos": "noun",
+  "en": "participant",
+  "ja": "参加者",
+  "rank": 27064
+ },
+ {
+  "word": "alquimia",
+  "pos": "noun",
+  "en": "alchemy",
+  "ja": "錬金術",
+  "rank": 27123
+ },
+ {
+  "word": "gim",
+  "pos": "noun",
+  "en": "gin",
+  "ja": "ジン",
+  "rank": 27204
+ },
+ {
+  "word": "soberania",
+  "pos": "noun",
+  "en": "sovereignty",
+  "ja": "主権",
+  "rank": 27215
+ },
+ {
+  "word": "aipo",
+  "pos": "noun",
+  "en": "celery",
+  "ja": "セロリ",
+  "rank": 27233
+ },
+ {
+  "word": "supremacia",
+  "pos": "noun",
+  "en": "supremacy",
+  "ja": "至上",
+  "rank": 27243
+ },
+ {
+  "word": "afugentar",
+  "pos": "verb",
+  "en": "chase",
+  "ja": "追撃",
+  "rank": 27572
+ },
+ {
+  "word": "coagulação",
+  "pos": "noun",
+  "en": "coagulation",
+  "ja": "凝固",
+  "rank": 27713
+ },
+ {
+  "word": "harmónica",
+  "pos": "noun",
+  "en": "harmonica",
+  "ja": "ハーモニカ",
+  "rank": 27715
+ },
+ {
+  "word": "especiaria",
+  "pos": "noun",
+  "en": "spice",
+  "ja": "スパイス",
+  "rank": 27766
+ },
+ {
+  "word": "borrifar",
+  "pos": "verb",
+  "en": "spray",
+  "ja": "小枝",
+  "rank": 27775
+ },
+ {
+  "word": "paródia",
+  "pos": "noun",
+  "en": "parody",
+  "ja": "パロディ",
+  "rank": 27819
+ },
+ {
+  "word": "autobiografia",
+  "pos": "noun",
+  "en": "autobiography",
+  "ja": "自叙伝",
+  "rank": 28143
+ },
+ {
+  "word": "fascismo",
+  "pos": "noun",
+  "en": "fascism",
+  "ja": "ファシズム",
+  "rank": 28478
+ },
+ {
+  "word": "noitada",
+  "pos": "noun",
+  "en": "night",
+  "ja": "晩",
+  "rank": 28499
+ },
+ {
+  "word": "pôquer",
+  "pos": "noun",
+  "en": "poker",
+  "ja": "ポーカー",
+  "rank": 28509
+ },
+ {
+  "word": "ozono",
+  "pos": "noun",
+  "en": "ozone",
+  "ja": "オゾン",
+  "rank": 28532
+ },
+ {
+  "word": "habitante",
+  "pos": "noun",
+  "en": "inhabitant",
+  "ja": "居住者",
+  "rank": 28605
+ },
+ {
+  "word": "mamute",
+  "pos": "noun",
+  "en": "mammoth",
+  "ja": "マンモス",
+  "rank": 28615
+ },
+ {
+  "word": "acne",
+  "pos": "noun",
+  "en": "acne",
+  "ja": "にきび",
+  "rank": 28635
+ },
+ {
+  "word": "aprofundar",
+  "pos": "verb",
+  "en": "deepen",
+  "ja": "深める",
+  "rank": 28638
+ },
+ {
+  "word": "planalto",
+  "pos": "noun",
+  "en": "plateau",
+  "ja": "台地",
+  "rank": 28782
+ },
+ {
+  "word": "geleira",
+  "pos": "noun",
+  "en": "iceberg",
+  "ja": "氷山",
+  "rank": 28957
+ },
+ {
+  "word": "organizador",
+  "pos": "noun",
+  "en": "organizer",
+  "ja": "オルグ",
+  "rank": 29011
+ },
+ {
+  "word": "despojos",
+  "pos": "noun",
+  "en": "remains",
+  "ja": "遺物",
+  "rank": 29039
+ },
+ {
+  "word": "agendar",
+  "pos": "verb",
+  "en": "schedule",
+  "ja": "時刻表",
+  "rank": 29134
+ },
+ {
+  "word": "violinista",
+  "pos": "noun",
+  "en": "violinist",
+  "ja": "バイオリニスト",
+  "rank": 29141
+ },
+ {
+  "word": "cordilheira",
+  "pos": "noun",
+  "en": "mountain range",
+  "ja": "山脈",
+  "rank": 29146
+ },
+ {
+  "word": "sari",
+  "pos": "noun",
+  "en": "sari",
+  "ja": "サリー",
+  "rank": 29296
+ },
+ {
+  "word": "toga",
+  "pos": "noun",
+  "en": "gown",
+  "ja": "ガウン",
+  "rank": 29297
+ },
+ {
+  "word": "camaradagem",
+  "pos": "noun",
+  "en": "camaraderie",
+  "ja": "友情",
+  "rank": 29754
+ },
+ {
+  "word": "membrana",
+  "pos": "noun",
+  "en": "membrane",
+  "ja": "膜",
+  "rank": 29850
+ },
+ {
+  "word": "tacho",
+  "pos": "noun",
+  "en": "pot",
+  "ja": "鉢",
+  "rank": 29853
+ },
+ {
+  "word": "ampulheta",
+  "pos": "noun",
+  "en": "hourglass",
+  "ja": "砂時計",
+  "rank": 29910
+ },
+ {
+  "word": "pilhar",
+  "pos": "verb",
+  "en": "pillage",
+  "ja": "略奪",
+  "rank": 29958
+ },
+ {
+  "word": "romancista",
+  "pos": "noun",
+  "en": "novelist",
+  "ja": "小説家",
+  "rank": 30088
+ },
+ {
+  "word": "aterrorizante",
+  "pos": "adj",
+  "en": "terrifying",
+  "ja": "恐ろしい",
+  "rank": 30113
+ },
+ {
+  "word": "propagação",
+  "pos": "noun",
+  "en": "propagation",
+  "ja": "増殖",
+  "rank": 30145
+ },
+ {
+  "word": "dominação",
+  "pos": "noun",
+  "en": "domination",
+  "ja": "支配",
+  "rank": 30153
+ },
+ {
+  "word": "exclamação",
+  "pos": "noun",
+  "en": "exclamation",
+  "ja": "絶叫",
+  "rank": 30171
+ },
+ {
+  "word": "toranja",
+  "pos": "noun",
+  "en": "grapefruit",
+  "ja": "グレープフルーツ",
+  "rank": 30328
+ },
+ {
+  "word": "trombone",
+  "pos": "noun",
+  "en": "trombone",
+  "ja": "トロンボーン",
+  "rank": 30386
+ },
+ {
+  "word": "inalação",
+  "pos": "noun",
+  "en": "inhalation",
+  "ja": "吸入",
+  "rank": 30417
+ },
+ {
+  "word": "produtividade",
+  "pos": "noun",
+  "en": "productivity",
+  "ja": "生産性",
+  "rank": 30646
+ },
+ {
+  "word": "morteiro",
+  "pos": "noun",
+  "en": "mortar",
+  "ja": "モルタル",
+  "rank": 30689
+ },
+ {
+  "word": "judaísmo",
+  "pos": "noun",
+  "en": "judaism",
+  "ja": "ユダヤ教",
+  "rank": 30761
+ },
+ {
+  "word": "clipe",
+  "pos": "noun",
+  "en": "clip",
+  "ja": "クリップ",
+  "rank": 30780
+ },
+ {
+  "word": "pipoca",
+  "pos": "noun",
+  "en": "popcorn",
+  "ja": "ポップコーン",
+  "rank": 30804
+ },
+ {
+  "word": "funil",
+  "pos": "noun",
+  "en": "funnel",
+  "ja": "煙突",
+  "rank": 30871
+ },
+ {
+  "word": "posteridade",
+  "pos": "noun",
+  "en": "posterity",
+  "ja": "後世",
+  "rank": 30889
+ },
+ {
+  "word": "eutanásia",
+  "pos": "noun",
+  "en": "euthanasia",
+  "ja": "安楽死",
+  "rank": 30932
+ },
+ {
+  "word": "veleiro",
+  "pos": "noun",
+  "en": "sailboat",
+  "ja": "ヨット",
+  "rank": 31085
+ },
+ {
+  "word": "esfinge",
+  "pos": "noun",
+  "en": "sphinx",
+  "ja": "スフィンクス",
+  "rank": 31182
+ },
+ {
+  "word": "espaçoso",
+  "pos": "adj",
+  "en": "spacious",
+  "ja": "広い",
+  "rank": 31218
+ },
+ {
+  "word": "erosão",
+  "pos": "noun",
+  "en": "erosion",
+  "ja": "腐食",
+  "rank": 31266
+ },
+ {
+  "word": "camisinha",
+  "pos": "noun",
+  "en": "condom",
+  "ja": "コンドーム",
+  "rank": 31357
+ },
+ {
+  "word": "flutuação",
+  "pos": "noun",
+  "en": "fluctuation",
+  "ja": "変動",
+  "rank": 31363
+ },
+ {
+  "word": "longevidade",
+  "pos": "noun",
+  "en": "longevity",
+  "ja": "長生き",
+  "rank": 31377
+ },
+ {
+  "word": "descontentamento",
+  "pos": "noun",
+  "en": "discontent",
+  "ja": "不平",
+  "rank": 31422
+ },
+ {
+  "word": "budismo",
+  "pos": "noun",
+  "en": "buddhism",
+  "ja": "仏教",
+  "rank": 31471
+ },
+ {
+  "word": "quiçá",
+  "pos": "adv",
+  "en": "perhaps",
+  "ja": "ひょっとしたら",
+  "rank": 31613
+ },
+ {
+  "word": "calda",
+  "pos": "noun",
+  "en": "syrup",
+  "ja": "シロップ",
+  "rank": 31719
+ },
+ {
+  "word": "digitar",
+  "pos": "verb",
+  "en": "type",
+  "ja": "タイプ",
+  "rank": 31736
+ },
+ {
+  "word": "amoníaco",
+  "pos": "noun",
+  "en": "ammonia",
+  "ja": "アンモニア",
+  "rank": 31751
+ },
+ {
+  "word": "saltador",
+  "pos": "noun",
+  "en": "jumper",
+  "ja": "ジャンパー",
+  "rank": 31961
+ },
+ {
+  "word": "espátula",
+  "pos": "noun",
+  "en": "spatula",
+  "ja": "へら",
+  "rank": 32001
+ },
+ {
+  "word": "lavador",
+  "pos": "noun",
+  "en": "washer",
+  "ja": "洗濯機",
+  "rank": 32258
+ },
+ {
+  "word": "ciclismo",
+  "pos": "noun",
+  "en": "cycling",
+  "ja": "サイクリング",
+  "rank": 32306
+ },
+ {
+  "word": "supressão",
+  "pos": "noun",
+  "en": "suppression",
+  "ja": "鎮圧",
+  "rank": 32328
+ },
+ {
+  "word": "fuselagem",
+  "pos": "noun",
+  "en": "fuselage",
+  "ja": "機体",
+  "rank": 32450
+ },
+ {
+  "word": "adereço",
+  "pos": "noun",
+  "en": "ornament",
+  "ja": "飾り",
+  "rank": 32453
+ },
+ {
+  "word": "coquetel",
+  "pos": "noun",
+  "en": "cocktail",
+  "ja": "カクテル",
+  "rank": 33010
+ },
+ {
+  "word": "passarela",
+  "pos": "noun",
+  "en": "footbridge",
+  "ja": "歩道橋",
+  "rank": 33147
+ },
+ {
+  "word": "quest",
+  "pos": "noun",
+  "en": "quest",
+  "ja": "探求",
+  "rank": 33407
+ },
+ {
+  "word": "proclamação",
+  "pos": "noun",
+  "en": "proclamation",
+  "ja": "布告",
+  "rank": 33517
+ },
+ {
+  "word": "simpósio",
+  "pos": "noun",
+  "en": "symposium",
+  "ja": "シンポジウム",
+  "rank": 33519
+ },
+ {
+  "word": "livrete",
+  "pos": "noun",
+  "en": "booklet",
+  "ja": "小冊子",
+  "rank": 33573
+ },
+ {
+  "word": "ingestão",
+  "pos": "noun",
+  "en": "ingestion",
+  "ja": "摂取",
+  "rank": 33670
+ },
+ {
+  "word": "manusear",
+  "pos": "verb",
+  "en": "handle",
+  "ja": "柄",
+  "rank": 33674
+ },
+ {
+  "word": "discrepância",
+  "pos": "noun",
+  "en": "discrepancy",
+  "ja": "相違",
+  "rank": 33988
+ },
+ {
+  "word": "suturar",
+  "pos": "verb",
+  "en": "suture",
+  "ja": "縫い目",
+  "rank": 34049
+ },
+ {
+  "word": "personalizado",
+  "pos": "adj",
+  "en": "custom",
+  "ja": "慣例",
+  "rank": 34051
+ },
+ {
+  "word": "inconveniência",
+  "pos": "noun",
+  "en": "inconvenience",
+  "ja": "不自由",
+  "rank": 34102
+ },
+ {
+  "word": "autografar",
+  "pos": "verb",
+  "en": "autograph",
+  "ja": "サイン",
+  "rank": 34138
+ },
+ {
+  "word": "short",
+  "pos": "noun",
+  "en": "shorts",
+  "ja": "ショートパンツ",
+  "rank": 34162
+ },
+ {
+  "word": "omitir",
+  "pos": "verb",
+  "en": "omit",
+  "ja": "省く",
+  "rank": 34303
+ },
+ {
+  "word": "drogaria",
+  "pos": "noun",
+  "en": "drugstore",
+  "ja": "ドラッグストア",
+  "rank": 34321
+ },
+ {
+  "word": "quartzo",
+  "pos": "noun",
+  "en": "quartz",
+  "ja": "石英",
+  "rank": 34379
+ },
+ {
+  "word": "individualidade",
+  "pos": "noun",
+  "en": "personality",
+  "ja": "性格",
+  "rank": 34486
+ },
+ {
+  "word": "heliporto",
+  "pos": "noun",
+  "en": "heliport",
+  "ja": "ヘリポート",
+  "rank": 34554
+ },
+ {
+  "word": "adoçante",
+  "pos": "noun",
+  "en": "sweetener",
+  "ja": "甘味料",
+  "rank": 34911
+ },
+ {
+  "word": "realismo",
+  "pos": "noun",
+  "en": "realism",
+  "ja": "リアリズム",
+  "rank": 35037
+ },
+ {
+  "word": "atualizar",
+  "pos": "verb",
+  "en": "update",
+  "ja": "最新情報",
+  "rank": 35127
+ },
+ {
+  "word": "garçonete",
+  "pos": "noun",
+  "en": "waitress",
+  "ja": "ウエートレス",
+  "rank": 35206
+ },
+ {
+  "word": "pêndulo",
+  "pos": "noun",
+  "en": "pendulum",
+  "ja": "振り子",
+  "rank": 35489
+ },
+ {
+  "word": "fermento",
+  "pos": "noun",
+  "en": "yeast",
+  "ja": "イースト",
+  "rank": 35570
+ },
+ {
+  "word": "excremento",
+  "pos": "noun",
+  "en": "excrement",
+  "ja": "大便",
+  "rank": 35621
+ },
+ {
+  "word": "ralhar",
+  "pos": "verb",
+  "en": "scold",
+  "ja": "しかる",
+  "rank": 35761
+ },
+ {
+  "word": "liberação",
+  "pos": "noun",
+  "en": "liberation",
+  "ja": "釈放",
+  "rank": 35830
+ },
+ {
+  "word": "litígio",
+  "pos": "noun",
+  "en": "litigation",
+  "ja": "訴訟",
+  "rank": 35903
+ },
+ {
+  "word": "réstia",
+  "pos": "noun",
+  "en": "shade",
+  "ja": "日陰",
+  "rank": 35963
+ },
+ {
+  "word": "isenção",
+  "pos": "noun",
+  "en": "exemption",
+  "ja": "免除",
+  "rank": 35967
+ },
+ {
+  "word": "otimismo",
+  "pos": "noun",
+  "en": "optimism",
+  "ja": "楽観",
+  "rank": 36261
+ },
+ {
+  "word": "escaldar",
+  "pos": "verb",
+  "en": "scald",
+  "ja": "やけど",
+  "rank": 36334
+ },
+ {
+  "word": "desigualdade",
+  "pos": "noun",
+  "en": "inequality",
+  "ja": "不平等",
+  "rank": 36405
+ },
+ {
+  "word": "megafone",
+  "pos": "noun",
+  "en": "megaphone",
+  "ja": "メガホン",
+  "rank": 36467
+ },
+ {
+  "word": "acordeão",
+  "pos": "noun",
+  "en": "accordion",
+  "ja": "アコーディオン",
+  "rank": 36512
+ },
+ {
+  "word": "merengue",
+  "pos": "noun",
+  "en": "meringue",
+  "ja": "メレンゲ",
+  "rank": 37009
+ },
+ {
+  "word": "ovário",
+  "pos": "noun",
+  "en": "ovary",
+  "ja": "卵巣",
+  "rank": 37100
+ },
+ {
+  "word": "domo",
+  "pos": "noun",
+  "en": "dome",
+  "ja": "ドーム",
+  "rank": 37333
+ },
+ {
+  "word": "irresponsabilidade",
+  "pos": "noun",
+  "en": "irresponsibility",
+  "ja": "無責任",
+  "rank": 37377
+ },
+ {
+  "word": "vergar",
+  "pos": "verb",
+  "en": "bow",
+  "ja": "弓",
+  "rank": 37385
+ },
+ {
+  "word": "oftalmologista",
+  "pos": "noun",
+  "en": "ophthalmologist",
+  "ja": "眼科医",
+  "rank": 37467
+ },
+ {
+  "word": "penalidade",
+  "pos": "noun",
+  "en": "penalty",
+  "ja": "処罰",
+  "rank": 37548
+ },
+ {
+  "word": "monotonia",
+  "pos": "noun",
+  "en": "monotony",
+  "ja": "単調",
+  "rank": 37691
+ },
+ {
+  "word": "expressamente",
+  "pos": "adv",
+  "en": "expressly",
+  "ja": "特に",
+  "rank": 37726
+ },
+ {
+  "word": "estrogénio",
+  "pos": "noun",
+  "en": "estrogen",
+  "ja": "エストロゲン",
+  "rank": 37870
+ },
+ {
+  "word": "guinchar",
+  "pos": "verb",
+  "en": "shriek",
+  "ja": "悲鳴",
+  "rank": 38242
+ },
+ {
+  "word": "ondulação",
+  "pos": "noun",
+  "en": "undulation",
+  "ja": "うねり",
+  "rank": 38545
+ },
+ {
+  "word": "chinelo",
+  "pos": "noun",
+  "en": "slipper",
+  "ja": "スリッパ",
+  "rank": 38562
+ },
+ {
+  "word": "eleitorado",
+  "pos": "noun",
+  "en": "electorate",
+  "ja": "有権者",
+  "rank": 38567
+ },
+ {
+  "word": "hormona",
+  "pos": "noun",
+  "en": "hormone",
+  "ja": "ホルモン",
+  "rank": 38656
+ },
+ {
+  "word": "toxicidade",
+  "pos": "noun",
+  "en": "toxicity",
+  "ja": "毒性",
+  "rank": 38695
+ },
+ {
+  "word": "contentamento",
+  "pos": "noun",
+  "en": "contentment",
+  "ja": "満足",
+  "rank": 38744
+ },
+ {
+  "word": "berro",
+  "pos": "noun",
+  "en": "shout",
+  "ja": "どなる",
+  "rank": 38757
+ },
+ {
+  "word": "demasiadamente",
+  "pos": "adv",
+  "en": "overly",
+  "ja": "あまりに",
+  "rank": 38822
+ },
+ {
+  "word": "mediação",
+  "pos": "noun",
+  "en": "mediation",
+  "ja": "調停",
+  "rank": 39148
+ },
+ {
+  "word": "roncar",
+  "pos": "verb",
+  "en": "snore",
+  "ja": "いびき",
+  "rank": 39151
+ },
+ {
+  "word": "tricô",
+  "pos": "noun",
+  "en": "knitting",
+  "ja": "編み物",
+  "rank": 39202
+ },
+ {
+  "word": "serenata",
+  "pos": "noun",
+  "en": "serenade",
+  "ja": "セレナード",
+  "rank": 39406
+ },
+ {
+  "word": "vetor",
+  "pos": "noun",
+  "en": "vector",
+  "ja": "ベクトル",
+  "rank": 39436
+ },
+ {
+  "word": "sátira",
+  "pos": "noun",
+  "en": "satire",
+  "ja": "皮肉",
+  "rank": 39477
+ },
+ {
+  "word": "sundae",
+  "pos": "noun",
+  "en": "sundae",
+  "ja": "サンデー",
+  "rank": 39567
+ },
+ {
+  "word": "domiciliar",
+  "pos": "adj",
+  "en": "household",
+  "ja": "世帯",
+  "rank": 39645
+ },
+ {
+  "word": "espinafre",
+  "pos": "noun",
+  "en": "spinach",
+  "ja": "ホウレンソウ",
+  "rank": 39682
+ },
+ {
+  "word": "apropriação",
+  "pos": "noun",
+  "en": "appropriation",
+  "ja": "盗用",
+  "rank": 39720
+ },
+ {
+  "word": "cronometrar",
+  "pos": "verb",
+  "en": "time",
+  "ja": "時",
+  "rank": 39900
+ },
+ {
+  "word": "burguesia",
+  "pos": "noun",
+  "en": "bourgeoisie",
+  "ja": "中産階級",
+  "rank": 39918
+ },
+ {
+  "word": "monção",
+  "pos": "noun",
+  "en": "monsoon",
+  "ja": "モンスーン",
+  "rank": 39971
+ },
+ {
+  "word": "métrica",
+  "pos": "noun",
+  "en": "meter",
+  "ja": "メーター",
+  "rank": 40083
+ },
+ {
+  "word": "gravilha",
+  "pos": "noun",
+  "en": "gravel",
+  "ja": "砂利",
+  "rank": 40118
+ },
+ {
+  "word": "cirrose",
+  "pos": "noun",
+  "en": "cirrhosis",
+  "ja": "肝硬変",
+  "rank": 40521
+ },
+ {
+  "word": "superestrela",
+  "pos": "noun",
+  "en": "superstar",
+  "ja": "スーパースター",
+  "rank": 40642
+ },
+ {
+  "word": "prelúdio",
+  "pos": "noun",
+  "en": "preface",
+  "ja": "前置き",
+  "rank": 40983
+ },
+ {
+  "word": "rumar",
+  "pos": "verb",
+  "en": "head",
+  "ja": "頭部",
+  "rank": 41087
+ },
+ {
+  "word": "caridoso",
+  "pos": "adj",
+  "en": "charitable",
+  "ja": "情け深い",
+  "rank": 41463
+ },
+ {
+  "word": "dedinho",
+  "pos": "noun",
+  "en": "little finger",
+  "ja": "小指",
+  "rank": 41690
+ },
+ {
+  "word": "desesperar",
+  "pos": "verb",
+  "en": "despair",
+  "ja": "失望",
+  "rank": 42012
+ },
+ {
+  "word": "circunferência",
+  "pos": "noun",
+  "en": "circumference",
+  "ja": "円周",
+  "rank": 42192
+ },
+ {
+  "word": "alquimista",
+  "pos": "noun",
+  "en": "alchemist",
+  "ja": "錬金術師",
+  "rank": 42579
+ },
+ {
+  "word": "peta",
+  "pos": "noun",
+  "en": "fib",
+  "ja": "うそ",
+  "rank": 42616
+ },
+ {
+  "word": "quimera",
+  "pos": "noun",
+  "en": "chimera",
+  "ja": "キメラ",
+  "rank": 42625
+ },
+ {
+  "word": "sonata",
+  "pos": "noun",
+  "en": "sonata",
+  "ja": "ソナタ",
+  "rank": 42666
+ },
+ {
+  "word": "condensação",
+  "pos": "noun",
+  "en": "condensation",
+  "ja": "濃縮",
+  "rank": 42684
+ },
+ {
+  "word": "oboé",
+  "pos": "noun",
+  "en": "oboe",
+  "ja": "オーボエ",
+  "rank": 43218
+ },
+ {
+  "word": "papelaria",
+  "pos": "noun",
+  "en": "stationery",
+  "ja": "文房具",
+  "rank": 43223
+ },
+ {
+  "word": "exterminação",
+  "pos": "noun",
+  "en": "extermination",
+  "ja": "絶滅",
+  "rank": 43276
+ },
+ {
+  "word": "boxeur",
+  "pos": "noun",
+  "en": "boxer",
+  "ja": "ボクサー",
+  "rank": 43331
+ },
+ {
+  "word": "imoralidade",
+  "pos": "noun",
+  "en": "immorality",
+  "ja": "不倫",
+  "rank": 43733
+ },
+ {
+  "word": "elasticidade",
+  "pos": "noun",
+  "en": "elasticity",
+  "ja": "弾力",
+  "rank": 43739
+ },
+ {
+  "word": "condensador",
+  "pos": "noun",
+  "en": "condenser",
+  "ja": "コンデンサー",
+  "rank": 43746
+ },
+ {
+  "word": "neutralidade",
+  "pos": "noun",
+  "en": "neutrality",
+  "ja": "中立",
+  "rank": 43787
+ },
+ {
+  "word": "sombrinha",
+  "pos": "noun",
+  "en": "umbrella",
+  "ja": "傘",
+  "rank": 44200
+ },
+ {
+  "word": "andaime",
+  "pos": "noun",
+  "en": "scaffold",
+  "ja": "足場",
+  "rank": 44209
+ },
+ {
+  "word": "limitação",
+  "pos": "noun",
+  "en": "limitation",
+  "ja": "制約",
+  "rank": 44370
+ },
+ {
+  "word": "bruços",
+  "pos": "noun",
+  "en": "breaststroke",
+  "ja": "平泳ぎ",
+  "rank": 44557
+ },
+ {
+  "word": "culpabilidade",
+  "pos": "noun",
+  "en": "culpability",
+  "ja": "有罪",
+  "rank": 44662
+ },
+ {
+  "word": "islamismo",
+  "pos": "noun",
+  "en": "islam",
+  "ja": "イスラム教",
+  "rank": 44693
+ },
+ {
+  "word": "gôndola",
+  "pos": "noun",
+  "en": "gondola",
+  "ja": "ゴンドラ",
+  "rank": 44819
+ },
+ {
+  "word": "inimizade",
+  "pos": "noun",
+  "en": "enmity",
+  "ja": "敵意",
+  "rank": 45086
+ },
+ {
+  "word": "murchar",
+  "pos": "verb",
+  "en": "wither",
+  "ja": "しおれる",
+  "rank": 45149
+ },
+ {
+  "word": "umidade",
+  "pos": "noun",
+  "en": "humidity",
+  "ja": "湿気",
+  "rank": 45188
+ },
+ {
+  "word": "desfalque",
+  "pos": "noun",
+  "en": "embezzlement",
+  "ja": "横領",
+  "rank": 45310
+ },
+ {
+  "word": "alforreca",
+  "pos": "noun",
+  "en": "jellyfish",
+  "ja": "クラゲ",
+  "rank": 45485
+ },
+ {
+  "word": "arquipélago",
+  "pos": "noun",
+  "en": "archipelago",
+  "ja": "群島",
+  "rank": 45535
+ },
+ {
+  "word": "proveniência",
+  "pos": "noun",
+  "en": "provenance",
+  "ja": "出所",
+  "rank": 45737
+ },
+ {
+  "word": "caloteiro",
+  "pos": "noun",
+  "en": "swindler",
+  "ja": "詐欺師",
+  "rank": 45749
+ },
+ {
+  "word": "divergência",
+  "pos": "noun",
+  "en": "divergence",
+  "ja": "分岐",
+  "rank": 45817
+ },
+ {
+  "word": "ecologia",
+  "pos": "noun",
+  "en": "ecology",
+  "ja": "生態学",
+  "rank": 45844
+ },
+ {
+  "word": "pétala",
+  "pos": "noun",
+  "en": "petal",
+  "ja": "花弁",
+  "rank": 46343
+ },
+ {
+  "word": "nutricionista",
+  "pos": "noun",
+  "en": "nutritionist",
+  "ja": "栄養士",
+  "rank": 46411
+ },
+ {
+  "word": "lustre",
+  "pos": "noun",
+  "en": "chandelier",
+  "ja": "シャンデリア",
+  "rank": 46588
+ },
+ {
+  "word": "estola",
+  "pos": "noun",
+  "en": "stole",
+  "ja": "ストール",
+  "rank": 46742
+ },
+ {
+  "word": "campista",
+  "pos": "noun",
+  "en": "camper",
+  "ja": "キャンパー",
+  "rank": 46820
+ },
+ {
+  "word": "ebulição",
+  "pos": "noun",
+  "en": "boiling",
+  "ja": "沸騰",
+  "rank": 47216
+ },
+ {
+  "word": "aditivo",
+  "pos": "noun",
+  "en": "additive",
+  "ja": "添加物",
+  "rank": 47233
+ },
+ {
+  "word": "coesão",
+  "pos": "noun",
+  "en": "cohesion",
+  "ja": "粘着",
+  "rank": 47315
+ },
+ {
+  "word": "hipotecar",
+  "pos": "verb",
+  "en": "mortgage",
+  "ja": "担保",
+  "rank": 47348
+ },
+ {
+  "word": "ilustração",
+  "pos": "noun",
+  "en": "illustration",
+  "ja": "実例",
+  "rank": 47440
+ },
+ {
+  "word": "equivalência",
+  "pos": "noun",
+  "en": "equivalence",
+  "ja": "等価",
+  "rank": 47733
+ },
+ {
+  "word": "propagar",
+  "pos": "verb",
+  "en": "propagate",
+  "ja": "広める",
+  "rank": 47981
+ },
+ {
+  "word": "sêmen",
+  "pos": "noun",
+  "en": "semen",
+  "ja": "精液",
+  "rank": 48225
+ },
+ {
+  "word": "presídio",
+  "pos": "noun",
+  "en": "penitentiary",
+  "ja": "刑務所",
+  "rank": 48634
+ },
+ {
+  "word": "azulejo",
+  "pos": "noun",
+  "en": "tile",
+  "ja": "タイル",
+  "rank": 48645
+ },
+ {
+  "word": "vitral",
+  "pos": "noun",
+  "en": "stained glass",
+  "ja": "ステンドグラス",
+  "rank": 48832
+ },
+ {
+  "word": "grinalda",
+  "pos": "noun",
+  "en": "wreath",
+  "ja": "花輪",
+  "rank": 48869
+ },
+ {
+  "word": "alienação",
+  "pos": "noun",
+  "en": "alienation",
+  "ja": "疎遠",
+  "rank": 48925
+ },
+ {
+  "word": "margarina",
+  "pos": "noun",
+  "en": "margarine",
+  "ja": "マーガリン",
+  "rank": 49176
+ },
+ {
+  "word": "clamor",
+  "pos": "noun",
+  "en": "din",
+  "ja": "騒音",
+  "rank": 49369
+ },
+ {
+  "word": "contorcer",
+  "pos": "verb",
+  "en": "contort",
+  "ja": "ゆがむ",
+  "rank": 49688
+ },
+ {
+  "word": "date",
+  "pos": "noun",
+  "en": "date",
+  "ja": "年月日",
+  "rank": 49787
+ },
+ {
+  "word": "plumagem",
+  "pos": "noun",
+  "en": "plumage",
+  "ja": "羽毛",
+  "rank": 49920
+ }
+]

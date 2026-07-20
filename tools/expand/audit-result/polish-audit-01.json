@@ -1,0 +1,14 @@
+[
+{"word":"wschód","issue":"en が誤り。wschód の中心義は「東」(または日の出)。en:\"rise\" は ja:東 と不整合","suggest":"東"},
+{"word":"kupiec","issue":"en が誤り。kupiec は「商人/仲買人」。en:\"buyer\" と ja:商人 が不整合","suggest":"商人"},
+{"word":"kontrola","issue":"ja が中心義とずれ。kontrola は「管理/統制/検査」。en:control に対し ja:検査 は狭い","suggest":"管理"},
+{"word":"bunkier","issue":"ja が誤り。bunkier は掩体壕/バンカー。防空壕は schron に相当","suggest":"地下壕"},
+{"word":"kamuflaż","issue":"日本語表記が不自然。一般表記は「カモフラージュ」","suggest":"カモフラージュ"},
+{"word":"profesor","issue":"en が不正確。profesor は「教授」。en:\"teacher\" は ja:教授 と不整合","suggest":"教授"},
+{"word":"nazwisko","issue":"en が曖昧。nazwisko は「姓/名字」。en:\"name\" では imię 等と区別できず4択で曖昧","suggest":"名字"},
+{"word":"zyskać","issue":"en が不正確。zyskać は「得る/獲得する」。en:\"profit\" は名詞的で ja:得る と不整合","suggest":"得る"},
+{"word":"łódź","issue":"ja がやや狭い。łódź は一般に「ボート/小型船」。小舟は限定的","suggest":"ボート"},
+{"word":"łom","issue":"ja が不自然・古風。工具としては「バール」が一般的","suggest":"バール"},
+{"word":"żartowniś","issue":"ja が古語的で不自然。「おどけ者」は現代語として不自然","suggest":"冗談好き"},
+{"word":"karzeł","issue":"現代ポーランド語では侮蔑的含意があり学習語彙として不適切","suggest":null}
+]
