@@ -1,0 +1,6952 @@
+{
+ "source": "FreeDict (TEI)",
+ "total": 957,
+ "counts": {
+  "matched": 544,
+  "conflicting": 66,
+  "not_found": 347
+ },
+ "results": [
+  {
+   "id": "pt-00001",
+   "word": "sim",
+   "en": "yes",
+   "ja": "はい",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00002",
+   "word": "não",
+   "en": "no",
+   "ja": "いいえ",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00003",
+   "word": "um",
+   "en": "one",
+   "ja": "一",
+   "status": "conflicting",
+   "freedict": [
+    "some kind of",
+    "one",
+    "a",
+    "an"
+   ]
+  },
+  {
+   "id": "pt-00004",
+   "word": "dois",
+   "en": "two",
+   "ja": "二",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00005",
+   "word": "três",
+   "en": "three",
+   "ja": "三",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00006",
+   "word": "quatro",
+   "en": "four",
+   "ja": "四",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00007",
+   "word": "cinco",
+   "en": "five",
+   "ja": "五",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00008",
+   "word": "seis",
+   "en": "six",
+   "ja": "六",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00009",
+   "word": "sete",
+   "en": "seven",
+   "ja": "七",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00010",
+   "word": "oito",
+   "en": "eight",
+   "ja": "八",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00011",
+   "word": "nove",
+   "en": "nine",
+   "ja": "九",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00012",
+   "word": "dez",
+   "en": "ten",
+   "ja": "十",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00013",
+   "word": "eu",
+   "en": "I",
+   "ja": "私",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00014",
+   "word": "você",
+   "en": "you",
+   "ja": "あなた",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00015",
+   "word": "ele",
+   "en": "he",
+   "ja": "彼",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00016",
+   "word": "ela",
+   "en": "she",
+   "ja": "彼女",
+   "status": "conflicting",
+   "freedict": [
+    "it"
+   ]
+  },
+  {
+   "id": "pt-00017",
+   "word": "nós",
+   "en": "we",
+   "ja": "私たち",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00018",
+   "word": "água",
+   "en": "water",
+   "ja": "水",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00019",
+   "word": "pão",
+   "en": "bread",
+   "ja": "パン",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00020",
+   "word": "casa",
+   "en": "house",
+   "ja": "家",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00021",
+   "word": "dia",
+   "en": "day",
+   "ja": "日",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00022",
+   "word": "noite",
+   "en": "night",
+   "ja": "夜",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00023",
+   "word": "homem",
+   "en": "man",
+   "ja": "男性",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00024",
+   "word": "mulher",
+   "en": "woman",
+   "ja": "女性",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00025",
+   "word": "amigo",
+   "en": "friend",
+   "ja": "友達",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00026",
+   "word": "comer",
+   "en": "to eat",
+   "ja": "食べる",
+   "status": "conflicting",
+   "freedict": [
+    "relish"
+   ]
+  },
+  {
+   "id": "pt-00027",
+   "word": "beber",
+   "en": "to drink",
+   "ja": "飲む",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00028",
+   "word": "falar",
+   "en": "to speak",
+   "ja": "話す",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00029",
+   "word": "ir",
+   "en": "to go",
+   "ja": "行く",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00030",
+   "word": "ver",
+   "en": "to see",
+   "ja": "見る",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00031",
+   "word": "grande",
+   "en": "big",
+   "ja": "大きい",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00032",
+   "word": "pequeno",
+   "en": "small",
+   "ja": "小さい",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00033",
+   "word": "bom",
+   "en": "good",
+   "ja": "良い",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00034",
+   "word": "mau",
+   "en": "bad",
+   "ja": "悪い",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00035",
+   "word": "novo",
+   "en": "new",
+   "ja": "新しい",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00036",
+   "word": "hoje",
+   "en": "today",
+   "ja": "今日",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00037",
+   "word": "amanhã",
+   "en": "tomorrow",
+   "ja": "明日",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00038",
+   "word": "ontem",
+   "en": "yesterday",
+   "ja": "昨日",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00039",
+   "word": "leite",
+   "en": "milk",
+   "ja": "牛乳",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00040",
+   "word": "café",
+   "en": "coffee",
+   "ja": "コーヒー",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00041",
+   "word": "carne",
+   "en": "meat",
+   "ja": "肉",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00042",
+   "word": "peixe",
+   "en": "fish",
+   "ja": "魚",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00043",
+   "word": "mãe",
+   "en": "mother",
+   "ja": "母",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00044",
+   "word": "pai",
+   "en": "father",
+   "ja": "父",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00045",
+   "word": "filho",
+   "en": "son",
+   "ja": "息子",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00046",
+   "word": "gato",
+   "en": "cat",
+   "ja": "猫",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00047",
+   "word": "cão",
+   "en": "dog",
+   "ja": "犬",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00048",
+   "word": "livro",
+   "en": "book",
+   "ja": "本",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00049",
+   "word": "sol",
+   "en": "sun",
+   "ja": "太陽",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00050",
+   "word": "tempo",
+   "en": "time",
+   "ja": "時間",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00151",
+   "word": "sempre",
+   "en": "always",
+   "ja": "常に",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00152",
+   "word": "pouco",
+   "en": "little",
+   "ja": "少し",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00153",
+   "word": "nome",
+   "en": "name",
+   "ja": "名前",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00154",
+   "word": "lado",
+   "en": "side",
+   "ja": "側",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00155",
+   "word": "dentro",
+   "en": "inside",
+   "ja": "中に",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00156",
+   "word": "caso",
+   "en": "case",
+   "ja": "事例",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00157",
+   "word": "pessoa",
+   "en": "person",
+   "ja": "人",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00158",
+   "word": "frente",
+   "en": "front",
+   "ja": "正面",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00159",
+   "word": "arma",
+   "en": "weapon",
+   "ja": "武器",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00160",
+   "word": "manhã",
+   "en": "morning",
+   "ja": "朝",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00161",
+   "word": "festa",
+   "en": "party",
+   "ja": "パーティー",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00162",
+   "word": "casamento",
+   "en": "wedding",
+   "ja": "結婚式",
+   "status": "conflicting",
+   "freedict": [
+    "marriage",
+    "matrimony"
+   ]
+  },
+  {
+   "id": "pt-00163",
+   "word": "palavra",
+   "en": "word",
+   "ja": "単語",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00164",
+   "word": "prisão",
+   "en": "prison",
+   "ja": "刑務所",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00165",
+   "word": "rei",
+   "en": "king",
+   "ja": "国王",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00166",
+   "word": "resto",
+   "en": "rest",
+   "ja": "残り",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00167",
+   "word": "ar",
+   "en": "air",
+   "ja": "空気",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00168",
+   "word": "situação",
+   "en": "situation",
+   "ja": "状況",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00169",
+   "word": "sistema",
+   "en": "system",
+   "ja": "システム",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00170",
+   "word": "mensagem",
+   "en": "message",
+   "ja": "メッセージ",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00171",
+   "word": "crime",
+   "en": "crime",
+   "ja": "犯罪",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00172",
+   "word": "novamente",
+   "en": "again",
+   "ja": "もう一度",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00173",
+   "word": "perguntar",
+   "en": "ask",
+   "ja": "尋ねる",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00174",
+   "word": "cabelo",
+   "en": "hair",
+   "ja": "髪",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00175",
+   "word": "escritório",
+   "en": "office",
+   "ja": "事務所",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00176",
+   "word": "carta",
+   "en": "letter",
+   "ja": "手紙",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00177",
+   "word": "barco",
+   "en": "boat",
+   "ja": "ボート",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00178",
+   "word": "energia",
+   "en": "energy",
+   "ja": "エネルギー",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00179",
+   "word": "vítima",
+   "en": "victim",
+   "ja": "被害者",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00180",
+   "word": "fome",
+   "en": "hunger",
+   "ja": "空腹",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00181",
+   "word": "professor",
+   "en": "teacher",
+   "ja": "教師",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00182",
+   "word": "hipótese",
+   "en": "hypothesis",
+   "ja": "仮説",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00183",
+   "word": "sonho",
+   "en": "dream",
+   "ja": "夢",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00184",
+   "word": "interessante",
+   "en": "interesting",
+   "ja": "おもしろい",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00185",
+   "word": "céu",
+   "en": "sky",
+   "ja": "空",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00186",
+   "word": "imediatamente",
+   "en": "immediately",
+   "ja": "即座に",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00187",
+   "word": "namorado",
+   "en": "boyfriend",
+   "ja": "ボーイフレンド",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00188",
+   "word": "norte",
+   "en": "north",
+   "ja": "北",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00189",
+   "word": "ouro",
+   "en": "gold",
+   "ja": "黄金",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00190",
+   "word": "contente",
+   "en": "happy",
+   "ja": "満足した",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00191",
+   "word": "sul",
+   "en": "south",
+   "ja": "南",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00192",
+   "word": "mar",
+   "en": "sea",
+   "ja": "海",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00193",
+   "word": "dançar",
+   "en": "dance",
+   "ja": "踊る",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00194",
+   "word": "investigação",
+   "en": "investigation",
+   "ja": "調査",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00195",
+   "word": "almoço",
+   "en": "lunch",
+   "ja": "昼ごはん",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00196",
+   "word": "escolher",
+   "en": "choose",
+   "ja": "選ぶ",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00197",
+   "word": "magia",
+   "en": "magic",
+   "ja": "魔法",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00198",
+   "word": "copo",
+   "en": "glass",
+   "ja": "グラス",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00199",
+   "word": "parque",
+   "en": "park",
+   "ja": "公園",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00200",
+   "word": "infelizmente",
+   "en": "unfortunately",
+   "ja": "残念ながら",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00201",
+   "word": "herói",
+   "en": "protagonist",
+   "ja": "英雄",
+   "status": "conflicting",
+   "freedict": [
+    "hero"
+   ]
+  },
+  {
+   "id": "pt-00202",
+   "word": "batalha",
+   "en": "battle",
+   "ja": "戦い",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00203",
+   "word": "enviar",
+   "en": "send",
+   "ja": "送る",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00204",
+   "word": "imaginar",
+   "en": "imagine",
+   "ja": "想像する",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00205",
+   "word": "valor",
+   "en": "value",
+   "ja": "価値",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00206",
+   "word": "faca",
+   "en": "knife",
+   "ja": "ナイフ",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00207",
+   "word": "fé",
+   "en": "faith",
+   "ja": "信仰",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00208",
+   "word": "árvore",
+   "en": "tree",
+   "ja": "木",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00209",
+   "word": "sobreviver",
+   "en": "survive",
+   "ja": "生き残る",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00210",
+   "word": "canção",
+   "en": "song",
+   "ja": "歌",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00211",
+   "word": "corrida",
+   "en": "race",
+   "ja": "競走",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00212",
+   "word": "barulho",
+   "en": "noise",
+   "ja": "騒音",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00213",
+   "word": "ponte",
+   "en": "bridge",
+   "ja": "橋",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00214",
+   "word": "confusão",
+   "en": "confusion",
+   "ja": "混乱",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00215",
+   "word": "atirar",
+   "en": "throw",
+   "ja": "撃つ",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00216",
+   "word": "aula",
+   "en": "classroom",
+   "ja": "授業",
+   "status": "conflicting",
+   "freedict": [
+    "lesson",
+    "lecture"
+   ]
+  },
+  {
+   "id": "pt-00217",
+   "word": "beleza",
+   "en": "beauty",
+   "ja": "美しさ",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00218",
+   "word": "dono",
+   "en": "owner",
+   "ja": "所有者",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00219",
+   "word": "colega",
+   "en": "classmate",
+   "ja": "同僚",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00220",
+   "word": "teoria",
+   "en": "theory",
+   "ja": "理論",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00221",
+   "word": "crescer",
+   "en": "grow",
+   "ja": "成長する",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00222",
+   "word": "uso",
+   "en": "use",
+   "ja": "使用",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00223",
+   "word": "impedir",
+   "en": "prevent",
+   "ja": "妨げる",
+   "status": "conflicting",
+   "freedict": [
+    "oppose"
+   ]
+  },
+  {
+   "id": "pt-00224",
+   "word": "orgulho",
+   "en": "pride",
+   "ja": "誇り",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00225",
+   "word": "tecnologia",
+   "en": "technology",
+   "ja": "技術",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00226",
+   "word": "bilhete",
+   "en": "ticket",
+   "ja": "切符",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00227",
+   "word": "vingança",
+   "en": "revenge",
+   "ja": "復讐",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00228",
+   "word": "treino",
+   "en": "training",
+   "ja": "訓練",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00229",
+   "word": "oeste",
+   "en": "west",
+   "ja": "西",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00230",
+   "word": "aeroporto",
+   "en": "airport",
+   "ja": "空港",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00231",
+   "word": "contrato",
+   "en": "contract",
+   "ja": "契約",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00232",
+   "word": "leste",
+   "en": "east",
+   "ja": "東",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00233",
+   "word": "costa",
+   "en": "coast",
+   "ja": "海岸",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00234",
+   "word": "vitória",
+   "en": "victory",
+   "ja": "勝利",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00235",
+   "word": "membro",
+   "en": "member",
+   "ja": "メンバー",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00236",
+   "word": "camisa",
+   "en": "shirt",
+   "ja": "シャツ",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00237",
+   "word": "explosão",
+   "en": "explosion",
+   "ja": "爆発",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00238",
+   "word": "caça",
+   "en": "hunting",
+   "ja": "狩り",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00239",
+   "word": "violência",
+   "en": "violence",
+   "ja": "暴力",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00240",
+   "word": "montanha",
+   "en": "mountain",
+   "ja": "山",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00241",
+   "word": "topo",
+   "en": "top",
+   "ja": "頂上",
+   "status": "conflicting",
+   "freedict": [
+    "end",
+    "tip"
+   ]
+  },
+  {
+   "id": "pt-00242",
+   "word": "chuva",
+   "en": "rain",
+   "ja": "雨",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00243",
+   "word": "comunidade",
+   "en": "community",
+   "ja": "共同体",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00244",
+   "word": "autorização",
+   "en": "authorization",
+   "ja": "許可",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00245",
+   "word": "zero",
+   "en": "zero",
+   "ja": "ゼロ",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00246",
+   "word": "armadilha",
+   "en": "trap",
+   "ja": "罠",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00247",
+   "word": "torre",
+   "en": "tower",
+   "ja": "塔",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00248",
+   "word": "artigo",
+   "en": "article",
+   "ja": "記事",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00249",
+   "word": "regra",
+   "en": "rule",
+   "ja": "規則",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00250",
+   "word": "sentar",
+   "en": "seat",
+   "ja": "座る",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00251",
+   "word": "página",
+   "en": "page",
+   "ja": "ページ",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00252",
+   "word": "ambulância",
+   "en": "ambulance",
+   "ja": "救急車",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00253",
+   "word": "discussão",
+   "en": "discussion",
+   "ja": "議論",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00254",
+   "word": "artista",
+   "en": "artist",
+   "ja": "芸術家",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00255",
+   "word": "bruxa",
+   "en": "witch",
+   "ja": "魔女",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00256",
+   "word": "sinceramente",
+   "en": "sincerely",
+   "ja": "心から",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00257",
+   "word": "amizade",
+   "en": "friendship",
+   "ja": "友情",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00258",
+   "word": "governador",
+   "en": "governor",
+   "ja": "知事",
+   "status": "conflicting",
+   "freedict": [
+    "ruler"
+   ]
+  },
+  {
+   "id": "pt-00259",
+   "word": "pesadelo",
+   "en": "nightmare",
+   "ja": "悪夢",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00260",
+   "word": "milagre",
+   "en": "miracle",
+   "ja": "奇跡",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00261",
+   "word": "erva",
+   "en": "herb",
+   "ja": "薬草",
+   "status": "conflicting",
+   "freedict": [
+    "grass"
+   ]
+  },
+  {
+   "id": "pt-00262",
+   "word": "obra",
+   "en": "work",
+   "ja": "作品",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00263",
+   "word": "crise",
+   "en": "crisis",
+   "ja": "危機",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00264",
+   "word": "coincidência",
+   "en": "coincidence",
+   "ja": "偶然の一致",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00265",
+   "word": "veneno",
+   "en": "poison",
+   "ja": "毒",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00266",
+   "word": "paciência",
+   "en": "patience",
+   "ja": "忍耐",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00267",
+   "word": "biblioteca",
+   "en": "library",
+   "ja": "図書館",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00268",
+   "word": "armazém",
+   "en": "warehouse",
+   "ja": "倉庫",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00269",
+   "word": "cavalheiro",
+   "en": "gentleman",
+   "ja": "紳士",
+   "status": "conflicting",
+   "freedict": [
+    "courteous",
+    "polite",
+    "well-mannered"
+   ]
+  },
+  {
+   "id": "pt-00270",
+   "word": "cópia",
+   "en": "copy",
+   "ja": "コピー",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00271",
+   "word": "queixa",
+   "en": "complaint",
+   "ja": "苦情",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00272",
+   "word": "ministro",
+   "en": "minister",
+   "ja": "大臣",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00273",
+   "word": "autoridade",
+   "en": "authority",
+   "ja": "権限",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00274",
+   "word": "oceano",
+   "en": "ocean",
+   "ja": "海洋",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00275",
+   "word": "estúdio",
+   "en": "studio",
+   "ja": "スタジオ",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00276",
+   "word": "estacionamento",
+   "en": "parking",
+   "ja": "駐車場",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00277",
+   "word": "máscara",
+   "en": "mask",
+   "ja": "仮面",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00278",
+   "word": "champanhe",
+   "en": "champagne",
+   "ja": "シャンパン",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00279",
+   "word": "portão",
+   "en": "gate",
+   "ja": "門",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00280",
+   "word": "ritmo",
+   "en": "rhythm",
+   "ja": "リズム",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00281",
+   "word": "ódio",
+   "en": "hatred",
+   "ja": "憎悪",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00282",
+   "word": "pagamento",
+   "en": "payment",
+   "ja": "支払い",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00283",
+   "word": "pizza",
+   "en": "pizza",
+   "ja": "ピザ",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00284",
+   "word": "amostra",
+   "en": "sample",
+   "ja": "見本",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00285",
+   "word": "castigo",
+   "en": "punishment",
+   "ja": "罰",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00286",
+   "word": "barriga",
+   "en": "belly",
+   "ja": "お腹",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00287",
+   "word": "falhar",
+   "en": "fail",
+   "ja": "失敗する",
+   "status": "conflicting",
+   "freedict": [
+    "miss",
+    "be lacking",
+    "be missing"
+   ]
+  },
+  {
+   "id": "pt-00288",
+   "word": "pistola",
+   "en": "pistol",
+   "ja": "拳銃",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00289",
+   "word": "refeição",
+   "en": "meal",
+   "ja": "食事",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00290",
+   "word": "produto",
+   "en": "product",
+   "ja": "製品",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00291",
+   "word": "destruição",
+   "en": "destruction",
+   "ja": "破壊",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00292",
+   "word": "cinto",
+   "en": "belt",
+   "ja": "ベルト",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00293",
+   "word": "origem",
+   "en": "origin",
+   "ja": "起源",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00294",
+   "word": "sorrir",
+   "en": "smile",
+   "ja": "微笑む",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00295",
+   "word": "moeda",
+   "en": "coin",
+   "ja": "硬貨",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00296",
+   "word": "terrorista",
+   "en": "terrorist",
+   "ja": "テロリスト",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00297",
+   "word": "endereço",
+   "en": "address",
+   "ja": "住所",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00298",
+   "word": "fantasia",
+   "en": "fantasy",
+   "ja": "空想",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00299",
+   "word": "brinde",
+   "en": "toast",
+   "ja": "乾杯",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00300",
+   "word": "título",
+   "en": "title",
+   "ja": "題名",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00301",
+   "word": "suspeita",
+   "en": "suspicion",
+   "ja": "疑惑",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00302",
+   "word": "prata",
+   "en": "silver",
+   "ja": "銀",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00303",
+   "word": "jornalista",
+   "en": "journalist",
+   "ja": "ジャーナリスト",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00304",
+   "word": "vampiro",
+   "en": "vampire",
+   "ja": "吸血鬼",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00305",
+   "word": "estudante",
+   "en": "student",
+   "ja": "学生",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00306",
+   "word": "beco",
+   "en": "alley",
+   "ja": "路地",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00307",
+   "word": "invasão",
+   "en": "invasion",
+   "ja": "侵略",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00308",
+   "word": "acompanhar",
+   "en": "accompany",
+   "ja": "同行する",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00309",
+   "word": "nascimento",
+   "en": "birth",
+   "ja": "出生",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00310",
+   "word": "renda",
+   "en": "income",
+   "ja": "収入",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00311",
+   "word": "profundo",
+   "en": "deep",
+   "ja": "深い",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00312",
+   "word": "bandeira",
+   "en": "flag",
+   "ja": "旗",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00313",
+   "word": "feira",
+   "en": "market",
+   "ja": "市場",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00314",
+   "word": "influência",
+   "en": "influence",
+   "ja": "影響",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00315",
+   "word": "símbolo",
+   "en": "symbol",
+   "ja": "シンボル",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00316",
+   "word": "cobrir",
+   "en": "cover",
+   "ja": "覆う",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00317",
+   "word": "gatilho",
+   "en": "trigger",
+   "ja": "引き金",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00318",
+   "word": "selva",
+   "en": "jungle",
+   "ja": "ジャングル",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00319",
+   "word": "nojo",
+   "en": "disgust",
+   "ja": "嫌悪",
+   "status": "conflicting",
+   "freedict": [
+    "mourning"
+   ]
+  },
+  {
+   "id": "pt-00320",
+   "word": "escritor",
+   "en": "writer",
+   "ja": "作家",
+   "status": "conflicting",
+   "freedict": [
+    "author"
+   ]
+  },
+  {
+   "id": "pt-00321",
+   "word": "tubo",
+   "en": "tube",
+   "ja": "管",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00322",
+   "word": "praticar",
+   "en": "practice",
+   "ja": "練習する",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00323",
+   "word": "indústria",
+   "en": "industry",
+   "ja": "産業",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00324",
+   "word": "ação",
+   "en": "action",
+   "ja": "行動",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00325",
+   "word": "aparência",
+   "en": "appearance",
+   "ja": "外見",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00326",
+   "word": "progresso",
+   "en": "progress",
+   "ja": "進歩",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00327",
+   "word": "radiação",
+   "en": "radiation",
+   "ja": "放射線",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00328",
+   "word": "dólar",
+   "en": "dollar",
+   "ja": "ドル",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00329",
+   "word": "privacidade",
+   "en": "privacy",
+   "ja": "プライバシー",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00330",
+   "word": "combinação",
+   "en": "combination",
+   "ja": "組み合わせ",
+   "status": "conflicting",
+   "freedict": [
+    "undergarment"
+   ]
+  },
+  {
+   "id": "pt-00331",
+   "word": "função",
+   "en": "function",
+   "ja": "機能",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00332",
+   "word": "pintura",
+   "en": "painting",
+   "ja": "絵画",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00333",
+   "word": "consulta",
+   "en": "consultation",
+   "ja": "相談",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00334",
+   "word": "ocasião",
+   "en": "occasion",
+   "ja": "機会",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00335",
+   "word": "passaporte",
+   "en": "passport",
+   "ja": "パスポート",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00336",
+   "word": "álibi",
+   "en": "alibi",
+   "ja": "アリバイ",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00337",
+   "word": "cenário",
+   "en": "scenario",
+   "ja": "シナリオ",
+   "status": "conflicting",
+   "freedict": [
+    "stage"
+   ]
+  },
+  {
+   "id": "pt-00338",
+   "word": "habilidade",
+   "en": "ability",
+   "ja": "能力",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00339",
+   "word": "caixão",
+   "en": "coffin",
+   "ja": "棺",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00340",
+   "word": "festival",
+   "en": "festival",
+   "ja": "祭り",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00341",
+   "word": "álbum",
+   "en": "album",
+   "ja": "アルバム",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00342",
+   "word": "viúva",
+   "en": "widow",
+   "ja": "未亡人",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00343",
+   "word": "refém",
+   "en": "hostage",
+   "ja": "人質",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00344",
+   "word": "juramento",
+   "en": "oath",
+   "ja": "誓約",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00345",
+   "word": "pontapé",
+   "en": "kick",
+   "ja": "蹴り",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00346",
+   "word": "hábito",
+   "en": "habit",
+   "ja": "習慣",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00347",
+   "word": "pescar",
+   "en": "fish",
+   "ja": "釣る",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00348",
+   "word": "fruta",
+   "en": "fruit",
+   "ja": "果物",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00349",
+   "word": "tornado",
+   "en": "tornado",
+   "ja": "竜巻",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00350",
+   "word": "túmulo",
+   "en": "grave",
+   "ja": "墓",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00351",
+   "word": "cidadão",
+   "en": "citizen",
+   "ja": "市民",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00352",
+   "word": "avaliação",
+   "en": "valuation",
+   "ja": "評価",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00353",
+   "word": "método",
+   "en": "method",
+   "ja": "方法",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00354",
+   "word": "medalha",
+   "en": "medal",
+   "ja": "メダル",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00355",
+   "word": "execução",
+   "en": "execution",
+   "ja": "実行",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00356",
+   "word": "trauma",
+   "en": "trauma",
+   "ja": "トラウマ",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00357",
+   "word": "promoção",
+   "en": "promotion",
+   "ja": "昇進",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00358",
+   "word": "martelo",
+   "en": "hammer",
+   "ja": "ハンマー",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00359",
+   "word": "documento",
+   "en": "document",
+   "ja": "書類",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00360",
+   "word": "gene",
+   "en": "gene",
+   "ja": "遺伝子",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00361",
+   "word": "formar",
+   "en": "form",
+   "ja": "形成する",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00362",
+   "word": "ausência",
+   "en": "absence",
+   "ja": "不在",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00363",
+   "word": "dignidade",
+   "en": "dignity",
+   "ja": "尊厳",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00364",
+   "word": "tremer",
+   "en": "shake",
+   "ja": "震える",
+   "status": "conflicting",
+   "freedict": [
+    "quiver",
+    "shiver",
+    "tremble"
+   ]
+  },
+  {
+   "id": "pt-00365",
+   "word": "plataforma",
+   "en": "platform",
+   "ja": "プラットフォーム",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00366",
+   "word": "toalha",
+   "en": "towel",
+   "ja": "タオル",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00367",
+   "word": "lanterna",
+   "en": "flashlight",
+   "ja": "懐中電灯",
+   "status": "conflicting",
+   "freedict": [
+    "lantern"
+   ]
+  },
+  {
+   "id": "pt-00368",
+   "word": "mansão",
+   "en": "mansion",
+   "ja": "邸宅",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00369",
+   "word": "murro",
+   "en": "punch",
+   "ja": "パンチ",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00370",
+   "word": "autor",
+   "en": "author",
+   "ja": "著者",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00371",
+   "word": "conceito",
+   "en": "concept",
+   "ja": "概念",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00372",
+   "word": "capacete",
+   "en": "helmet",
+   "ja": "ヘルメット",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00373",
+   "word": "diamante",
+   "en": "diamond",
+   "ja": "ダイヤモンド",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00374",
+   "word": "balcão",
+   "en": "counter",
+   "ja": "カウンター",
+   "status": "conflicting",
+   "freedict": [
+    "balcony"
+   ]
+  },
+  {
+   "id": "pt-00375",
+   "word": "reabilitação",
+   "en": "rehabilitation",
+   "ja": "リハビリ",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00376",
+   "word": "pensão",
+   "en": "pension",
+   "ja": "年金",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00377",
+   "word": "robô",
+   "en": "robot",
+   "ja": "ロボット",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00378",
+   "word": "cicatriz",
+   "en": "scar",
+   "ja": "傷跡",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00379",
+   "word": "barata",
+   "en": "cockroach",
+   "ja": "ゴキブリ",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00380",
+   "word": "forno",
+   "en": "oven",
+   "ja": "オーブン",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00381",
+   "word": "depressão",
+   "en": "depression",
+   "ja": "うつ病",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00382",
+   "word": "crescimento",
+   "en": "growth",
+   "ja": "成長",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00383",
+   "word": "aranha",
+   "en": "spider",
+   "ja": "クモ",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00384",
+   "word": "observação",
+   "en": "observation",
+   "ja": "観察",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00385",
+   "word": "escândalo",
+   "en": "scandal",
+   "ja": "スキャンダル",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00386",
+   "word": "gordura",
+   "en": "fat",
+   "ja": "脂肪",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00387",
+   "word": "dentista",
+   "en": "dentist",
+   "ja": "歯医者",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00388",
+   "word": "punho",
+   "en": "fist",
+   "ja": "こぶし",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00389",
+   "word": "urina",
+   "en": "urine",
+   "ja": "尿",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00390",
+   "word": "inspiração",
+   "en": "inspiration",
+   "ja": "インスピレーション",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00391",
+   "word": "manutenção",
+   "en": "maintenance",
+   "ja": "維持",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00392",
+   "word": "urgência",
+   "en": "urgency",
+   "ja": "緊急",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00393",
+   "word": "abuso",
+   "en": "abuse",
+   "ja": "乱用",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00394",
+   "word": "ficção",
+   "en": "fiction",
+   "ja": "フィクション",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00395",
+   "word": "massagem",
+   "en": "massage",
+   "ja": "マッサージ",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00396",
+   "word": "colete",
+   "en": "waistcoat",
+   "ja": "ベスト",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00397",
+   "word": "ópera",
+   "en": "opera",
+   "ja": "オペラ",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00398",
+   "word": "particularmente",
+   "en": "particularly",
+   "ja": "とりわけ",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00399",
+   "word": "frágil",
+   "en": "fragile",
+   "ja": "もろい",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00400",
+   "word": "ego",
+   "en": "ego",
+   "ja": "自我",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00401",
+   "word": "balão",
+   "en": "balloon",
+   "ja": "風船",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00402",
+   "word": "federação",
+   "en": "federation",
+   "ja": "連盟",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00403",
+   "word": "barreira",
+   "en": "barrier",
+   "ja": "障壁",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00404",
+   "word": "vapor",
+   "en": "steam",
+   "ja": "蒸気",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00405",
+   "word": "humilde",
+   "en": "humble",
+   "ja": "謙虚な",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00406",
+   "word": "orientação",
+   "en": "orientation",
+   "ja": "指導",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00407",
+   "word": "cápsula",
+   "en": "capsule",
+   "ja": "カプセル",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00408",
+   "word": "estádio",
+   "en": "stadium",
+   "ja": "スタジアム",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00409",
+   "word": "entusiasmo",
+   "en": "enthusiasm",
+   "ja": "熱意",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00410",
+   "word": "adversário",
+   "en": "adversary",
+   "ja": "対戦相手",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00411",
+   "word": "amendoim",
+   "en": "peanut",
+   "ja": "ピーナッツ",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00412",
+   "word": "demonstração",
+   "en": "demonstration",
+   "ja": "実演",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00413",
+   "word": "poeta",
+   "en": "poet",
+   "ja": "詩人",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00414",
+   "word": "ansiedade",
+   "en": "anxiety",
+   "ja": "不安",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00415",
+   "word": "limão",
+   "en": "lemon",
+   "ja": "レモン",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00416",
+   "word": "relativamente",
+   "en": "relatively",
+   "ja": "比較的",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00417",
+   "word": "software",
+   "en": "software",
+   "ja": "ソフトウェア",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00418",
+   "word": "rim",
+   "en": "kidney",
+   "ja": "腎臓",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00419",
+   "word": "senha",
+   "en": "password",
+   "ja": "パスワード",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00420",
+   "word": "evacuação",
+   "en": "evacuation",
+   "ja": "避難",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00051",
+   "word": "cidade",
+   "en": "city",
+   "ja": "都市",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00052",
+   "word": "país",
+   "en": "country",
+   "ja": "国",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00053",
+   "word": "rua",
+   "en": "street",
+   "ja": "通り",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00054",
+   "word": "trabalho",
+   "en": "work",
+   "ja": "仕事",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00055",
+   "word": "escola",
+   "en": "school",
+   "ja": "学校",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00056",
+   "word": "dinheiro",
+   "en": "money",
+   "ja": "お金",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00057",
+   "word": "hora",
+   "en": "hour",
+   "ja": "時刻",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00058",
+   "word": "semana",
+   "en": "week",
+   "ja": "週",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00059",
+   "word": "mês",
+   "en": "month",
+   "ja": "月（暦）",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00060",
+   "word": "ano",
+   "en": "year",
+   "ja": "年",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00061",
+   "word": "mundo",
+   "en": "world",
+   "ja": "世界",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00062",
+   "word": "vida",
+   "en": "life",
+   "ja": "人生",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00063",
+   "word": "amor",
+   "en": "love",
+   "ja": "愛",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00064",
+   "word": "comida",
+   "en": "food",
+   "ja": "食べ物",
+   "status": "conflicting",
+   "freedict": [
+    "meal"
+   ]
+  },
+  {
+   "id": "pt-00065",
+   "word": "carro",
+   "en": "car",
+   "ja": "車",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00066",
+   "word": "porta",
+   "en": "door",
+   "ja": "ドア",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00067",
+   "word": "janela",
+   "en": "window",
+   "ja": "窓",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00068",
+   "word": "mesa",
+   "en": "table",
+   "ja": "テーブル",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00069",
+   "word": "cadeira",
+   "en": "chair",
+   "ja": "椅子",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00070",
+   "word": "cama",
+   "en": "bed",
+   "ja": "ベッド",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00071",
+   "word": "roupa",
+   "en": "clothes",
+   "ja": "服",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00072",
+   "word": "sapato",
+   "en": "shoe",
+   "ja": "靴",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00073",
+   "word": "cabeça",
+   "en": "head",
+   "ja": "頭",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00074",
+   "word": "mão",
+   "en": "hand",
+   "ja": "手",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00075",
+   "word": "olho",
+   "en": "eye",
+   "ja": "目",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00076",
+   "word": "coração",
+   "en": "heart",
+   "ja": "心臓",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00077",
+   "word": "comprar",
+   "en": "to buy",
+   "ja": "買う",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00078",
+   "word": "vender",
+   "en": "to sell",
+   "ja": "売る",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00079",
+   "word": "abrir",
+   "en": "to open",
+   "ja": "開ける",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00080",
+   "word": "fechar",
+   "en": "to close",
+   "ja": "閉める",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00081",
+   "word": "escrever",
+   "en": "to write",
+   "ja": "書く",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00082",
+   "word": "ler",
+   "en": "to read",
+   "ja": "読む",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00083",
+   "word": "dormir",
+   "en": "to sleep",
+   "ja": "寝る",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00084",
+   "word": "andar",
+   "en": "to walk",
+   "ja": "歩く",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00085",
+   "word": "correr",
+   "en": "to run",
+   "ja": "走る",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00086",
+   "word": "trabalhar",
+   "en": "to work",
+   "ja": "働く",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00087",
+   "word": "gostar",
+   "en": "to like",
+   "ja": "好む",
+   "status": "conflicting",
+   "freedict": [
+    "esteem",
+    "think well of"
+   ]
+  },
+  {
+   "id": "pt-00088",
+   "word": "saber",
+   "en": "to know",
+   "ja": "知る",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00089",
+   "word": "querer",
+   "en": "to want",
+   "ja": "欲する",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00090",
+   "word": "poder",
+   "en": "to be able to",
+   "ja": "できる",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00091",
+   "word": "bonito",
+   "en": "beautiful",
+   "ja": "きれいな",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00092",
+   "word": "feio",
+   "en": "ugly",
+   "ja": "醜い",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00093",
+   "word": "caro",
+   "en": "expensive",
+   "ja": "（値段が）高い",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00094",
+   "word": "barato",
+   "en": "cheap",
+   "ja": "安い",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00095",
+   "word": "rápido",
+   "en": "fast",
+   "ja": "速い",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00096",
+   "word": "lento",
+   "en": "slow",
+   "ja": "遅い",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00097",
+   "word": "quente",
+   "en": "hot",
+   "ja": "熱い",
+   "status": "conflicting",
+   "freedict": [
+    "warm"
+   ]
+  },
+  {
+   "id": "pt-00098",
+   "word": "frio",
+   "en": "cold",
+   "ja": "寒い",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00099",
+   "word": "difícil",
+   "en": "difficult",
+   "ja": "難しい",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00100",
+   "word": "fácil",
+   "en": "easy",
+   "ja": "簡単な",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00421",
+   "word": "fotógrafo",
+   "en": "photographer",
+   "ja": "写真家",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00422",
+   "word": "comprador",
+   "en": "buyer",
+   "ja": "買い手",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00423",
+   "word": "campus",
+   "en": "campus",
+   "ja": "キャンパス",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00424",
+   "word": "ringue",
+   "en": "ring",
+   "ja": "ボクシングのリング",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00425",
+   "word": "coro",
+   "en": "choir",
+   "ja": "合唱団",
+   "status": "conflicting",
+   "freedict": [
+    "coir loft",
+    "chorus",
+    "coir"
+   ]
+  },
+  {
+   "id": "pt-00426",
+   "word": "comparar",
+   "en": "compare",
+   "ja": "比べる",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00427",
+   "word": "santuário",
+   "en": "shrine",
+   "ja": "聖域",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00428",
+   "word": "altar",
+   "en": "altar",
+   "ja": "祭壇",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00429",
+   "word": "ambição",
+   "en": "ambition",
+   "ja": "野心",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00430",
+   "word": "pacto",
+   "en": "pact",
+   "ja": "協定",
+   "status": "conflicting",
+   "freedict": [
+    "contract"
+   ]
+  },
+  {
+   "id": "pt-00431",
+   "word": "pentágono",
+   "en": "pentagon",
+   "ja": "五角形",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00432",
+   "word": "expedição",
+   "en": "expedition",
+   "ja": "探検",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00433",
+   "word": "editora",
+   "en": "publisher",
+   "ja": "出版社",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00434",
+   "word": "escova",
+   "en": "brush",
+   "ja": "ブラシ",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00435",
+   "word": "vacina",
+   "en": "vaccine",
+   "ja": "ワクチン",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00436",
+   "word": "tendência",
+   "en": "tendency",
+   "ja": "傾向",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00437",
+   "word": "demissão",
+   "en": "resignation",
+   "ja": "解雇",
+   "status": "conflicting",
+   "freedict": [
+    "abdication"
+   ]
+  },
+  {
+   "id": "pt-00438",
+   "word": "poeira",
+   "en": "dust",
+   "ja": "ほこり",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00439",
+   "word": "calendário",
+   "en": "calendar",
+   "ja": "カレンダー",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00440",
+   "word": "batalhão",
+   "en": "battalion",
+   "ja": "大隊",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00441",
+   "word": "maldade",
+   "en": "malice",
+   "ja": "悪意",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00442",
+   "word": "porão",
+   "en": "basement",
+   "ja": "地下室",
+   "status": "conflicting",
+   "freedict": [
+    "hold"
+   ]
+  },
+  {
+   "id": "pt-00443",
+   "word": "corrupção",
+   "en": "corruption",
+   "ja": "汚職",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00444",
+   "word": "cantor",
+   "en": "singer",
+   "ja": "歌手",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00445",
+   "word": "cartaz",
+   "en": "poster",
+   "ja": "ポスター",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00446",
+   "word": "arena",
+   "en": "arena",
+   "ja": "競技場",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00447",
+   "word": "inesperado",
+   "en": "unexpected",
+   "ja": "思いがけない",
+   "status": "conflicting",
+   "freedict": [
+    "abrupt"
+   ]
+  },
+  {
+   "id": "pt-00448",
+   "word": "marina",
+   "en": "marina",
+   "ja": "マリーナ",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00449",
+   "word": "jipe",
+   "en": "jeep",
+   "ja": "ジープ",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00450",
+   "word": "distribuição",
+   "en": "distribution",
+   "ja": "分配",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00451",
+   "word": "luva",
+   "en": "glove",
+   "ja": "手袋",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00452",
+   "word": "abrandar",
+   "en": "soften",
+   "ja": "和らげる",
+   "status": "conflicting",
+   "freedict": [
+    "moderate"
+   ]
+  },
+  {
+   "id": "pt-00453",
+   "word": "flecha",
+   "en": "arrow",
+   "ja": "矢",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00454",
+   "word": "flutuar",
+   "en": "float",
+   "ja": "浮かぶ",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00455",
+   "word": "artéria",
+   "en": "artery",
+   "ja": "動脈",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00456",
+   "word": "batom",
+   "en": "lipstick",
+   "ja": "口紅",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00457",
+   "word": "furacão",
+   "en": "hurricane",
+   "ja": "ハリケーン",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00458",
+   "word": "gestão",
+   "en": "management",
+   "ja": "経営",
+   "status": "conflicting",
+   "freedict": [
+    "steering"
+   ]
+  },
+  {
+   "id": "pt-00459",
+   "word": "falência",
+   "en": "bankruptcy",
+   "ja": "倒産",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00460",
+   "word": "expressar",
+   "en": "express",
+   "ja": "表現する",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00461",
+   "word": "acontecimento",
+   "en": "event",
+   "ja": "出来事",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00462",
+   "word": "magro",
+   "en": "thin",
+   "ja": "やせた",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00463",
+   "word": "aplicação",
+   "en": "application",
+   "ja": "応用",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00464",
+   "word": "paisagem",
+   "en": "landscape",
+   "ja": "景色",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00465",
+   "word": "comentar",
+   "en": "comment",
+   "ja": "コメントする",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00466",
+   "word": "ligeiramente",
+   "en": "lightly",
+   "ja": "わずかに",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00467",
+   "word": "interferência",
+   "en": "interference",
+   "ja": "干渉",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00468",
+   "word": "organismo",
+   "en": "organism",
+   "ja": "有機体",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00469",
+   "word": "semente",
+   "en": "seed",
+   "ja": "種子",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00470",
+   "word": "imigração",
+   "en": "immigration",
+   "ja": "移民",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00471",
+   "word": "pano",
+   "en": "cloth",
+   "ja": "布",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00472",
+   "word": "oposição",
+   "en": "opposition",
+   "ja": "反対",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00473",
+   "word": "ventilação",
+   "en": "ventilation",
+   "ja": "換気",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00474",
+   "word": "blusa",
+   "en": "blouse",
+   "ja": "ブラウス",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00475",
+   "word": "regimento",
+   "en": "regiment",
+   "ja": "連隊",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00476",
+   "word": "transição",
+   "en": "transition",
+   "ja": "移行",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00477",
+   "word": "monge",
+   "en": "monk",
+   "ja": "僧侶",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00478",
+   "word": "labirinto",
+   "en": "labyrinth",
+   "ja": "迷路",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00479",
+   "word": "consultor",
+   "en": "consultant",
+   "ja": "コンサルタント",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00480",
+   "word": "broche",
+   "en": "brooch",
+   "ja": "ブローチ",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00481",
+   "word": "veterinário",
+   "en": "veterinarian",
+   "ja": "獣医",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00482",
+   "word": "crença",
+   "en": "belief",
+   "ja": "信念",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00483",
+   "word": "contexto",
+   "en": "context",
+   "ja": "文脈",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00484",
+   "word": "participação",
+   "en": "participation",
+   "ja": "参加",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00485",
+   "word": "foguete",
+   "en": "rocket",
+   "ja": "ロケット",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00486",
+   "word": "conquista",
+   "en": "conquest",
+   "ja": "征服",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00487",
+   "word": "penteado",
+   "en": "hairdo",
+   "ja": "髪型",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00488",
+   "word": "horizonte",
+   "en": "horizon",
+   "ja": "地平線",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00489",
+   "word": "alho",
+   "en": "garlic",
+   "ja": "ニンニク",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00490",
+   "word": "parlamento",
+   "en": "parliament",
+   "ja": "議会",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00491",
+   "word": "músculo",
+   "en": "muscle",
+   "ja": "筋肉",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00492",
+   "word": "sacerdote",
+   "en": "priest",
+   "ja": "司祭",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00493",
+   "word": "isqueiro",
+   "en": "lighter",
+   "ja": "ライター",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00494",
+   "word": "prego",
+   "en": "nail",
+   "ja": "釘",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00495",
+   "word": "brinco",
+   "en": "earring",
+   "ja": "イヤリング",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00496",
+   "word": "mentor",
+   "en": "mentor",
+   "ja": "助言者",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00497",
+   "word": "trigo",
+   "en": "wheat",
+   "ja": "小麦",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00498",
+   "word": "hospitalidade",
+   "en": "hospitality",
+   "ja": "もてなし",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00499",
+   "word": "província",
+   "en": "province",
+   "ja": "州",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00500",
+   "word": "compartimento",
+   "en": "compartment",
+   "ja": "区画",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00501",
+   "word": "ocidente",
+   "en": "occident",
+   "ja": "西洋",
+   "status": "conflicting",
+   "freedict": [
+    "west",
+    "West"
+   ]
+  },
+  {
+   "id": "pt-00502",
+   "word": "surf",
+   "en": "surfing",
+   "ja": "サーフィン",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00503",
+   "word": "item",
+   "en": "item",
+   "ja": "項目",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00504",
+   "word": "proveito",
+   "en": "advantage",
+   "ja": "利点",
+   "status": "conflicting",
+   "freedict": [
+    "gain",
+    "profit"
+   ]
+  },
+  {
+   "id": "pt-00505",
+   "word": "aquário",
+   "en": "aquarium",
+   "ja": "水族館",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00506",
+   "word": "ferver",
+   "en": "boil",
+   "ja": "沸く",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00507",
+   "word": "colaboração",
+   "en": "collaboration",
+   "ja": "協力",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00508",
+   "word": "determinação",
+   "en": "determination",
+   "ja": "決意",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00509",
+   "word": "secretamente",
+   "en": "secretly",
+   "ja": "こっそり",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00510",
+   "word": "protótipo",
+   "en": "prototype",
+   "ja": "試作品",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00511",
+   "word": "livraria",
+   "en": "bookshop",
+   "ja": "書店",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00512",
+   "word": "mostarda",
+   "en": "mustard",
+   "ja": "マスタード",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00513",
+   "word": "ignição",
+   "en": "ignition",
+   "ja": "点火",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00514",
+   "word": "confronto",
+   "en": "confrontation",
+   "ja": "対決",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00515",
+   "word": "entrevistar",
+   "en": "interview",
+   "ja": "インタビューする",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00516",
+   "word": "bilhar",
+   "en": "billiards",
+   "ja": "ビリヤード",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00517",
+   "word": "amuleto",
+   "en": "amulet",
+   "ja": "お守り",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00518",
+   "word": "triângulo",
+   "en": "triangle",
+   "ja": "三角形",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00519",
+   "word": "transcrição",
+   "en": "transcript",
+   "ja": "書き起こし",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00520",
+   "word": "comediante",
+   "en": "comedian",
+   "ja": "コメディアン",
+   "status": "conflicting",
+   "freedict": [
+    "actor"
+   ]
+  },
+  {
+   "id": "pt-00521",
+   "word": "gorila",
+   "en": "gorilla",
+   "ja": "ゴリラ",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00522",
+   "word": "orquestra",
+   "en": "orchestra",
+   "ja": "管弦楽団",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00523",
+   "word": "parasita",
+   "en": "parasite",
+   "ja": "寄生虫",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00524",
+   "word": "esqueleto",
+   "en": "skeleton",
+   "ja": "骸骨",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00525",
+   "word": "percepção",
+   "en": "perception",
+   "ja": "知覚",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00526",
+   "word": "infantaria",
+   "en": "infantry",
+   "ja": "歩兵",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00527",
+   "word": "pílula",
+   "en": "pill",
+   "ja": "錠剤",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00528",
+   "word": "arrependimento",
+   "en": "regret",
+   "ja": "後悔",
+   "status": "conflicting",
+   "freedict": [
+    "repentance"
+   ]
+  },
+  {
+   "id": "pt-00529",
+   "word": "colisão",
+   "en": "collision",
+   "ja": "衝突",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00530",
+   "word": "melhora",
+   "en": "improvement",
+   "ja": "改善",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00531",
+   "word": "doação",
+   "en": "donation",
+   "ja": "寄付",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00532",
+   "word": "capuz",
+   "en": "hood",
+   "ja": "フード",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00533",
+   "word": "observador",
+   "en": "observer",
+   "ja": "観察者",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00534",
+   "word": "ketchup",
+   "en": "ketchup",
+   "ja": "ケチャップ",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00535",
+   "word": "negligência",
+   "en": "negligence",
+   "ja": "怠慢",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00536",
+   "word": "injustiça",
+   "en": "injustice",
+   "ja": "不公平",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00537",
+   "word": "equação",
+   "en": "equation",
+   "ja": "方程式",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00538",
+   "word": "ressonância",
+   "en": "resonance",
+   "ja": "共鳴",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00539",
+   "word": "cachimbo",
+   "en": "pipe",
+   "ja": "喫煙パイプ",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00540",
+   "word": "árbitro",
+   "en": "referee",
+   "ja": "審判",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00541",
+   "word": "dilema",
+   "en": "dilemma",
+   "ja": "ジレンマ",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00542",
+   "word": "crachá",
+   "en": "badge",
+   "ja": "名札",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00543",
+   "word": "mero",
+   "en": "mere",
+   "ja": "単なる",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00544",
+   "word": "sobrenome",
+   "en": "surname",
+   "ja": "姓",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00545",
+   "word": "asma",
+   "en": "asthma",
+   "ja": "喘息",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00546",
+   "word": "esponja",
+   "en": "sponge",
+   "ja": "スポンジ",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00547",
+   "word": "sogra",
+   "en": "mother-in-law",
+   "ja": "義母",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00548",
+   "word": "intensidade",
+   "en": "intensity",
+   "ja": "強度",
+   "status": "conflicting",
+   "freedict": [
+    "force",
+    "strength",
+    "vigour"
+   ]
+  },
+  {
+   "id": "pt-00549",
+   "word": "alavanca",
+   "en": "lever",
+   "ja": "てこ",
+   "status": "conflicting",
+   "freedict": [
+    "crowbar"
+   ]
+  },
+  {
+   "id": "pt-00550",
+   "word": "avaria",
+   "en": "damage",
+   "ja": "故障",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00551",
+   "word": "smoking",
+   "en": "tuxedo",
+   "ja": "タキシード",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00552",
+   "word": "urânio",
+   "en": "uranium",
+   "ja": "ウラン",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00553",
+   "word": "redução",
+   "en": "reduction",
+   "ja": "削減",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00554",
+   "word": "reconsiderar",
+   "en": "reconsider",
+   "ja": "考え直す",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00555",
+   "word": "enfermeiro",
+   "en": "nurse",
+   "ja": "看護師",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00556",
+   "word": "clone",
+   "en": "clone",
+   "ja": "クローン",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00557",
+   "word": "turista",
+   "en": "tourist",
+   "ja": "観光客",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00558",
+   "word": "caligrafia",
+   "en": "handwriting",
+   "ja": "筆跡",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00559",
+   "word": "manto",
+   "en": "mantle",
+   "ja": "マント",
+   "status": "conflicting",
+   "freedict": [
+    "veil"
+   ]
+  },
+  {
+   "id": "pt-00560",
+   "word": "genro",
+   "en": "son-in-law",
+   "ja": "娘婿",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00561",
+   "word": "fragmento",
+   "en": "fragment",
+   "ja": "断片",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00562",
+   "word": "compor",
+   "en": "compose",
+   "ja": "構成する",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00563",
+   "word": "múmia",
+   "en": "mummy",
+   "ja": "ミイラ",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00564",
+   "word": "intestino",
+   "en": "intestine",
+   "ja": "腸",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00565",
+   "word": "camuflagem",
+   "en": "camouflage",
+   "ja": "迷彩",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00566",
+   "word": "apagão",
+   "en": "blackout",
+   "ja": "停電",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00567",
+   "word": "lábio",
+   "en": "lip",
+   "ja": "唇",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00568",
+   "word": "mascote",
+   "en": "mascot",
+   "ja": "マスコット",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00569",
+   "word": "doador",
+   "en": "donor",
+   "ja": "提供者",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00570",
+   "word": "maternidade",
+   "en": "motherhood",
+   "ja": "母性",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00571",
+   "word": "bruxaria",
+   "en": "witchcraft",
+   "ja": "魔術",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00572",
+   "word": "incentivo",
+   "en": "incentive",
+   "ja": "奨励",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00573",
+   "word": "excursão",
+   "en": "excursion",
+   "ja": "遠足",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00574",
+   "word": "padaria",
+   "en": "bakery",
+   "ja": "パン屋",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00575",
+   "word": "rejeição",
+   "en": "rejection",
+   "ja": "拒絶",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00576",
+   "word": "reforço",
+   "en": "reinforcement",
+   "ja": "補強",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00577",
+   "word": "creche",
+   "en": "nursery",
+   "ja": "保育所",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00578",
+   "word": "seita",
+   "en": "sect",
+   "ja": "分派",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00579",
+   "word": "compensação",
+   "en": "compensation",
+   "ja": "補償",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00580",
+   "word": "faísca",
+   "en": "spark",
+   "ja": "火花",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00581",
+   "word": "especulação",
+   "en": "speculation",
+   "ja": "憶測",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00582",
+   "word": "sódio",
+   "en": "sodium",
+   "ja": "ナトリウム",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00583",
+   "word": "costura",
+   "en": "sewing",
+   "ja": "裁縫",
+   "status": "conflicting",
+   "freedict": [
+    "seam"
+   ]
+  },
+  {
+   "id": "pt-00584",
+   "word": "espiral",
+   "en": "spiral",
+   "ja": "らせん",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00585",
+   "word": "meditação",
+   "en": "meditation",
+   "ja": "瞑想",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00586",
+   "word": "ajuste",
+   "en": "adjustment",
+   "ja": "調節",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00587",
+   "word": "salsa",
+   "en": "parsley",
+   "ja": "パセリ",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00588",
+   "word": "admiração",
+   "en": "admiration",
+   "ja": "賞賛",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00589",
+   "word": "sarcasmo",
+   "en": "sarcasm",
+   "ja": "皮肉",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00590",
+   "word": "decepção",
+   "en": "disappointment",
+   "ja": "落胆",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00591",
+   "word": "caramelo",
+   "en": "caramel",
+   "ja": "カラメル",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00592",
+   "word": "algoritmo",
+   "en": "algorithm",
+   "ja": "アルゴリズム",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00593",
+   "word": "ladrar",
+   "en": "bark",
+   "ja": "吠える",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00594",
+   "word": "marechal",
+   "en": "marshal",
+   "ja": "元帥",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00595",
+   "word": "cachecol",
+   "en": "scarf",
+   "ja": "マフラー",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00596",
+   "word": "impasse",
+   "en": "impasse",
+   "ja": "行き詰まり",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00597",
+   "word": "polvo",
+   "en": "octopus",
+   "ja": "タコ",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00598",
+   "word": "esboço",
+   "en": "sketch",
+   "ja": "下書き",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00599",
+   "word": "infelicidade",
+   "en": "misfortune",
+   "ja": "不幸",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00600",
+   "word": "traficar",
+   "en": "traffic",
+   "ja": "密売する",
+   "status": "conflicting",
+   "freedict": [
+    "peddle"
+   ]
+  },
+  {
+   "id": "pt-00601",
+   "word": "lençol",
+   "en": "sheet",
+   "ja": "シーツ",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00602",
+   "word": "barracão",
+   "en": "shed",
+   "ja": "小屋",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00603",
+   "word": "negociante",
+   "en": "shopkeeper",
+   "ja": "商人",
+   "status": "conflicting",
+   "freedict": [
+    "businessman",
+    "merchant"
+   ]
+  },
+  {
+   "id": "pt-00604",
+   "word": "jardinagem",
+   "en": "gardening",
+   "ja": "園芸",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00605",
+   "word": "velhice",
+   "en": "old age",
+   "ja": "老年",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00606",
+   "word": "popularidade",
+   "en": "popularity",
+   "ja": "人気",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00607",
+   "word": "caráter",
+   "en": "character",
+   "ja": "性格",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00608",
+   "word": "toupeira",
+   "en": "mole",
+   "ja": "モグラ",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00609",
+   "word": "mendigo",
+   "en": "beggar",
+   "ja": "物乞い",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00610",
+   "word": "elegância",
+   "en": "elegance",
+   "ja": "優美",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00611",
+   "word": "eliminação",
+   "en": "elimination",
+   "ja": "排除",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00612",
+   "word": "intoxicação",
+   "en": "intoxication",
+   "ja": "中毒",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00613",
+   "word": "escavação",
+   "en": "excavation",
+   "ja": "発掘",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00614",
+   "word": "ouvinte",
+   "en": "listener",
+   "ja": "聞き手",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00615",
+   "word": "diplomata",
+   "en": "diplomat",
+   "ja": "外交官",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00616",
+   "word": "bronzeado",
+   "en": "bronze",
+   "ja": "日焼けした",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00617",
+   "word": "remar",
+   "en": "row",
+   "ja": "こぐ",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00618",
+   "word": "trincheira",
+   "en": "trench",
+   "ja": "塹壕",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00619",
+   "word": "plausível",
+   "en": "plausible",
+   "ja": "もっともらしい",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00620",
+   "word": "lápide",
+   "en": "tombstone",
+   "ja": "墓石",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00621",
+   "word": "pinça",
+   "en": "tweezers",
+   "ja": "ピンセット",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00622",
+   "word": "caução",
+   "en": "bail",
+   "ja": "保釈金",
+   "status": "conflicting",
+   "freedict": [
+    "guarantee",
+    "warrant"
+   ]
+  },
+  {
+   "id": "pt-00623",
+   "word": "incapacidade",
+   "en": "inability",
+   "ja": "無能力",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00624",
+   "word": "rifle",
+   "en": "rifle",
+   "ja": "ライフル",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00625",
+   "word": "javali",
+   "en": "wild boar",
+   "ja": "イノシシ",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00626",
+   "word": "hipnose",
+   "en": "hypnosis",
+   "ja": "催眠",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00627",
+   "word": "cavidade",
+   "en": "cavity",
+   "ja": "空洞",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00628",
+   "word": "compositor",
+   "en": "composer",
+   "ja": "作曲家",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00629",
+   "word": "pólen",
+   "en": "pollen",
+   "ja": "花粉",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00630",
+   "word": "colesterol",
+   "en": "cholesterol",
+   "ja": "コレステロール",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00631",
+   "word": "torradeira",
+   "en": "toaster",
+   "ja": "トースター",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00632",
+   "word": "designer",
+   "en": "designer",
+   "ja": "デザイナー",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00633",
+   "word": "mineral",
+   "en": "mineral",
+   "ja": "鉱物",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00634",
+   "word": "tremor",
+   "en": "tremor",
+   "ja": "震え",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00635",
+   "word": "porcelana",
+   "en": "porcelain",
+   "ja": "磁器",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00636",
+   "word": "ocorrência",
+   "en": "occurrence",
+   "ja": "発生",
+   "status": "conflicting",
+   "freedict": [
+    "fact",
+    "event",
+    "occasion",
+    "occurence",
+    "opportunity"
+   ]
+  },
+  {
+   "id": "pt-00637",
+   "word": "publicação",
+   "en": "publication",
+   "ja": "出版",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00638",
+   "word": "bruxo",
+   "en": "wizard",
+   "ja": "魔法使い",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00639",
+   "word": "gengibre",
+   "en": "ginger",
+   "ja": "ショウガ",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00640",
+   "word": "trégua",
+   "en": "truce",
+   "ja": "休戦",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00641",
+   "word": "fungo",
+   "en": "fungus",
+   "ja": "菌類",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00642",
+   "word": "despertador",
+   "en": "alarm clock",
+   "ja": "目覚まし時計",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00643",
+   "word": "acumular",
+   "en": "accumulate",
+   "ja": "ためる",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00644",
+   "word": "tuberculose",
+   "en": "tuberculosis",
+   "ja": "結核",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00645",
+   "word": "maturidade",
+   "en": "maturity",
+   "ja": "成熟",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00646",
+   "word": "reembolso",
+   "en": "reimbursement",
+   "ja": "払い戻し",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00647",
+   "word": "discernimento",
+   "en": "discernment",
+   "ja": "識別",
+   "status": "conflicting",
+   "freedict": [
+    "criticism"
+   ]
+  },
+  {
+   "id": "pt-00648",
+   "word": "malária",
+   "en": "malaria",
+   "ja": "マラリア",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00649",
+   "word": "monopólio",
+   "en": "monopoly",
+   "ja": "独占",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00650",
+   "word": "aceleração",
+   "en": "acceleration",
+   "ja": "加速",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00651",
+   "word": "parteira",
+   "en": "midwife",
+   "ja": "助産師",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00652",
+   "word": "encorajar",
+   "en": "encourage",
+   "ja": "励ます",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00653",
+   "word": "perjúrio",
+   "en": "perjury",
+   "ja": "偽証",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00654",
+   "word": "florista",
+   "en": "florist",
+   "ja": "花屋",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00655",
+   "word": "carcaça",
+   "en": "carcass",
+   "ja": "死骸",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00656",
+   "word": "cegueira",
+   "en": "blindness",
+   "ja": "盲目",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00657",
+   "word": "demência",
+   "en": "dementia",
+   "ja": "認知症",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00658",
+   "word": "principiante",
+   "en": "beginner",
+   "ja": "初心者",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00659",
+   "word": "lucrar",
+   "en": "profit",
+   "ja": "もうける",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00660",
+   "word": "aorta",
+   "en": "aorta",
+   "ja": "大動脈",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00661",
+   "word": "aquecedor",
+   "en": "heater",
+   "ja": "ヒーター",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00662",
+   "word": "puberdade",
+   "en": "puberty",
+   "ja": "思春期",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00663",
+   "word": "ponderar",
+   "en": "weight",
+   "ja": "熟考する",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00664",
+   "word": "pavilhão",
+   "en": "pavilion",
+   "ja": "パビリオン",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00665",
+   "word": "slogan",
+   "en": "slogan",
+   "ja": "スローガン",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00666",
+   "word": "objeção",
+   "en": "objection",
+   "ja": "異議",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00667",
+   "word": "vegetação",
+   "en": "vegetation",
+   "ja": "植生",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00668",
+   "word": "casulo",
+   "en": "cocoon",
+   "ja": "まゆ",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00669",
+   "word": "biquíni",
+   "en": "bikini",
+   "ja": "ビキニ",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00670",
+   "word": "cartucho",
+   "en": "cartridge",
+   "ja": "カートリッジ",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00671",
+   "word": "combustão",
+   "en": "combustion",
+   "ja": "燃焼",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00672",
+   "word": "cilindro",
+   "en": "cylinder",
+   "ja": "円柱",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00673",
+   "word": "restauração",
+   "en": "restoration",
+   "ja": "修復",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00674",
+   "word": "platina",
+   "en": "platinum",
+   "ja": "プラチナ",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00675",
+   "word": "suplemento",
+   "en": "supplement",
+   "ja": "補足",
+   "status": "conflicting",
+   "freedict": [
+    "addition",
+    "adjunct"
+   ]
+  },
+  {
+   "id": "pt-00676",
+   "word": "seleção",
+   "en": "selection",
+   "ja": "選択",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00677",
+   "word": "cristianismo",
+   "en": "christianity",
+   "ja": "キリスト教",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00678",
+   "word": "superioridade",
+   "en": "superiority",
+   "ja": "優越",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00679",
+   "word": "titânio",
+   "en": "titanium",
+   "ja": "チタン",
+   "status": "conflicting",
+   "freedict": [
+    "Titan"
+   ]
+  },
+  {
+   "id": "pt-00680",
+   "word": "compressão",
+   "en": "compression",
+   "ja": "圧縮",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00681",
+   "word": "esfaquear",
+   "en": "stab",
+   "ja": "ナイフで刺す",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00682",
+   "word": "hamster",
+   "en": "hamster",
+   "ja": "ハムスター",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00683",
+   "word": "injeção",
+   "en": "injection",
+   "ja": "注射",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00684",
+   "word": "frigideira",
+   "en": "frying pan",
+   "ja": "フライパン",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00685",
+   "word": "adoração",
+   "en": "adoration",
+   "ja": "崇拝",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00686",
+   "word": "boate",
+   "en": "nightclub",
+   "ja": "ナイトクラブ",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00687",
+   "word": "metano",
+   "en": "methane",
+   "ja": "メタン",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00688",
+   "word": "travessia",
+   "en": "crossing",
+   "ja": "横断",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00689",
+   "word": "embaraço",
+   "en": "embarrassment",
+   "ja": "当惑",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00101",
+   "word": "governo",
+   "en": "government",
+   "ja": "政府",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00102",
+   "word": "empresa",
+   "en": "company",
+   "ja": "会社",
+   "status": "conflicting",
+   "freedict": [
+    "enterprise"
+   ]
+  },
+  {
+   "id": "pt-00103",
+   "word": "história",
+   "en": "history",
+   "ja": "歴史",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00104",
+   "word": "natureza",
+   "en": "nature",
+   "ja": "自然",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00105",
+   "word": "saúde",
+   "en": "health",
+   "ja": "健康",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00106",
+   "word": "viagem",
+   "en": "trip",
+   "ja": "旅行",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00107",
+   "word": "notícia",
+   "en": "news",
+   "ja": "ニュース",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00108",
+   "word": "resposta",
+   "en": "answer",
+   "ja": "答え",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00109",
+   "word": "pergunta",
+   "en": "question",
+   "ja": "質問",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00110",
+   "word": "verdade",
+   "en": "truth",
+   "ja": "真実",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00111",
+   "word": "exemplo",
+   "en": "example",
+   "ja": "例",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00112",
+   "word": "razão",
+   "en": "reason",
+   "ja": "理由",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00113",
+   "word": "ideia",
+   "en": "idea",
+   "ja": "考え",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00114",
+   "word": "lembrar",
+   "en": "to remember",
+   "ja": "思い出す",
+   "status": "conflicting",
+   "freedict": [
+    "caution",
+    "remind",
+    "warn",
+    "advance",
+    "suggest"
+   ]
+  },
+  {
+   "id": "pt-00115",
+   "word": "esquecer",
+   "en": "to forget",
+   "ja": "忘れる",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00116",
+   "word": "aprender",
+   "en": "to learn",
+   "ja": "学ぶ",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00117",
+   "word": "ensinar",
+   "en": "to teach",
+   "ja": "教える",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00118",
+   "word": "entender",
+   "en": "to understand",
+   "ja": "理解する",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00119",
+   "word": "explicar",
+   "en": "to explain",
+   "ja": "説明する",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00120",
+   "word": "decidir",
+   "en": "to decide",
+   "ja": "決める",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00121",
+   "word": "mudar",
+   "en": "to change",
+   "ja": "変える",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00122",
+   "word": "acontecer",
+   "en": "to happen",
+   "ja": "起こる",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00123",
+   "word": "precisar",
+   "en": "to need",
+   "ja": "必要とする",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00124",
+   "word": "ajudar",
+   "en": "to help",
+   "ja": "助ける",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00125",
+   "word": "tentar",
+   "en": "to try",
+   "ja": "試す",
+   "status": "conflicting",
+   "freedict": [
+    "entice",
+    "tempt"
+   ]
+  },
+  {
+   "id": "pt-00126",
+   "word": "encontrar",
+   "en": "to find",
+   "ja": "見つける",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00127",
+   "word": "perder",
+   "en": "to lose",
+   "ja": "失う",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00128",
+   "word": "ganhar",
+   "en": "to win",
+   "ja": "勝つ",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00129",
+   "word": "importante",
+   "en": "important",
+   "ja": "重要な",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00130",
+   "word": "possível",
+   "en": "possible",
+   "ja": "可能な",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00131",
+   "word": "verdadeiro",
+   "en": "true",
+   "ja": "本当の",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00132",
+   "word": "perigoso",
+   "en": "dangerous",
+   "ja": "危険な",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00133",
+   "word": "tranquilo",
+   "en": "calm",
+   "ja": "穏やかな",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00134",
+   "word": "forte",
+   "en": "strong",
+   "ja": "強い",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00135",
+   "word": "fraco",
+   "en": "weak",
+   "ja": "弱い",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00136",
+   "word": "alto",
+   "en": "tall",
+   "ja": "（背が）高い",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00137",
+   "word": "baixo",
+   "en": "short",
+   "ja": "低い",
+   "status": "conflicting",
+   "freedict": [
+    "bass",
+    "bass voice",
+    "low",
+    "shallow",
+    "superficial"
+   ]
+  },
+  {
+   "id": "pt-00138",
+   "word": "limpo",
+   "en": "clean",
+   "ja": "清潔な",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00139",
+   "word": "sujo",
+   "en": "dirty",
+   "ja": "汚い",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00140",
+   "word": "cheio",
+   "en": "full",
+   "ja": "満ちた",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00141",
+   "word": "vazio",
+   "en": "empty",
+   "ja": "空の",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00142",
+   "word": "próximo",
+   "en": "next",
+   "ja": "次の",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00143",
+   "word": "último",
+   "en": "last",
+   "ja": "最後の",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00144",
+   "word": "primeiro",
+   "en": "first",
+   "ja": "最初の",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00145",
+   "word": "inteligente",
+   "en": "intelligent",
+   "ja": "賢い",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00146",
+   "word": "feliz",
+   "en": "happy",
+   "ja": "幸せな",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00147",
+   "word": "triste",
+   "en": "sad",
+   "ja": "悲しい",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00148",
+   "word": "cansado",
+   "en": "tired",
+   "ja": "疲れた",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00149",
+   "word": "doente",
+   "en": "sick",
+   "ja": "病気の",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00150",
+   "word": "ocupado",
+   "en": "busy",
+   "ja": "忙しい",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00690",
+   "word": "detecção",
+   "en": "detection",
+   "ja": "検出",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00691",
+   "word": "preservação",
+   "en": "preservation",
+   "ja": "保存",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00692",
+   "word": "possessão",
+   "en": "possession",
+   "ja": "所有",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00693",
+   "word": "girafa",
+   "en": "giraffe",
+   "ja": "キリン",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00694",
+   "word": "meteorologia",
+   "en": "meteorology",
+   "ja": "気象学",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00695",
+   "word": "experimento",
+   "en": "experiment",
+   "ja": "実験",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00696",
+   "word": "gargalhada",
+   "en": "laughter",
+   "ja": "大笑い",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00697",
+   "word": "aeronave",
+   "en": "aircraft",
+   "ja": "航空機",
+   "status": "conflicting",
+   "freedict": [
+    "airship"
+   ]
+  },
+  {
+   "id": "pt-00698",
+   "word": "precedente",
+   "en": "precedent",
+   "ja": "前例",
+   "status": "conflicting",
+   "freedict": [
+    "former",
+    "last",
+    "previous",
+    "prior"
+   ]
+  },
+  {
+   "id": "pt-00699",
+   "word": "radiador",
+   "en": "radiator",
+   "ja": "ラジエーター",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00700",
+   "word": "rena",
+   "en": "reindeer",
+   "ja": "トナカイ",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00701",
+   "word": "zangar",
+   "en": "anger",
+   "ja": "怒らせる",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00702",
+   "word": "interrogação",
+   "en": "interrogation",
+   "ja": "疑問",
+   "status": "conflicting",
+   "freedict": [
+    "question"
+   ]
+  },
+  {
+   "id": "pt-00703",
+   "word": "coreografia",
+   "en": "choreography",
+   "ja": "振付け",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00704",
+   "word": "pepino",
+   "en": "cucumber",
+   "ja": "キュウリ",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00705",
+   "word": "controvérsia",
+   "en": "controversy",
+   "ja": "論争",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00706",
+   "word": "presságio",
+   "en": "omen",
+   "ja": "前兆",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00707",
+   "word": "melancia",
+   "en": "watermelon",
+   "ja": "スイカ",
+   "status": "conflicting",
+   "freedict": [
+    "water-melon"
+   ]
+  },
+  {
+   "id": "pt-00708",
+   "word": "preferível",
+   "en": "preferable",
+   "ja": "より好ましい",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00709",
+   "word": "estatura",
+   "en": "stature",
+   "ja": "身長",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00710",
+   "word": "lazer",
+   "en": "leisure",
+   "ja": "余暇",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00711",
+   "word": "loção",
+   "en": "lotion",
+   "ja": "ローション",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00712",
+   "word": "limusine",
+   "en": "limousine",
+   "ja": "リムジン",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00713",
+   "word": "ágil",
+   "en": "agile",
+   "ja": "すばやい",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00714",
+   "word": "patologia",
+   "en": "pathology",
+   "ja": "病理学",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00715",
+   "word": "canguru",
+   "en": "kangaroo",
+   "ja": "カンガルー",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00716",
+   "word": "inspeção",
+   "en": "inspection",
+   "ja": "検査",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00717",
+   "word": "inflação",
+   "en": "inflation",
+   "ja": "インフレ",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00718",
+   "word": "sanatório",
+   "en": "sanatorium",
+   "ja": "療養所",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00719",
+   "word": "recompensar",
+   "en": "reward",
+   "ja": "報いる",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00720",
+   "word": "alegação",
+   "en": "allegation",
+   "ja": "申し立て",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00721",
+   "word": "nicotina",
+   "en": "nicotine",
+   "ja": "ニコチン",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00722",
+   "word": "sinfonia",
+   "en": "symphony",
+   "ja": "交響曲",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00723",
+   "word": "rivalidade",
+   "en": "rivalry",
+   "ja": "ライバル関係",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00724",
+   "word": "hérnia",
+   "en": "hernia",
+   "ja": "ヘルニア",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00725",
+   "word": "escapatória",
+   "en": "way out",
+   "ja": "逃げ道",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00726",
+   "word": "penicilina",
+   "en": "penicillin",
+   "ja": "ペニシリン",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00727",
+   "word": "cogumelo",
+   "en": "mushroom",
+   "ja": "キノコ",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00728",
+   "word": "presunção",
+   "en": "presumption",
+   "ja": "推定",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00729",
+   "word": "coligação",
+   "en": "coalition",
+   "ja": "連立",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00730",
+   "word": "lixa",
+   "en": "sandpaper",
+   "ja": "紙やすり",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00731",
+   "word": "malte",
+   "en": "malt",
+   "ja": "麦芽",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00732",
+   "word": "mural",
+   "en": "mural",
+   "ja": "壁画",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00733",
+   "word": "proporção",
+   "en": "proportion",
+   "ja": "比率",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00734",
+   "word": "insígnia",
+   "en": "insignia",
+   "ja": "記章",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00735",
+   "word": "gaze",
+   "en": "gauze",
+   "ja": "ガーゼ",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00736",
+   "word": "quiosque",
+   "en": "kiosk",
+   "ja": "キオスク",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00737",
+   "word": "pioneiro",
+   "en": "pioneer",
+   "ja": "開拓者",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00738",
+   "word": "missionário",
+   "en": "missionary",
+   "ja": "宣教師",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00739",
+   "word": "grua",
+   "en": "crane",
+   "ja": "クレーン",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00740",
+   "word": "oásis",
+   "en": "oasis",
+   "ja": "オアシス",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00741",
+   "word": "alvorada",
+   "en": "dawn",
+   "ja": "夜明け",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00742",
+   "word": "palito",
+   "en": "toothpick",
+   "ja": "つまようじ",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00743",
+   "word": "voltagem",
+   "en": "voltage",
+   "ja": "電圧",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00744",
+   "word": "panorama",
+   "en": "panorama",
+   "ja": "パノラマ",
+   "status": "conflicting",
+   "freedict": [
+    "view"
+   ]
+  },
+  {
+   "id": "pt-00745",
+   "word": "corrimão",
+   "en": "handrail",
+   "ja": "手すり",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00746",
+   "word": "diálise",
+   "en": "dialysis",
+   "ja": "透析",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00747",
+   "word": "purificação",
+   "en": "purification",
+   "ja": "浄化",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00748",
+   "word": "espirrar",
+   "en": "sneeze",
+   "ja": "くしゃみをする",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00749",
+   "word": "camaleão",
+   "en": "chameleon",
+   "ja": "カメレオン",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00750",
+   "word": "utopia",
+   "en": "utopia",
+   "ja": "ユートピア",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00751",
+   "word": "heresia",
+   "en": "heresy",
+   "ja": "異端",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00752",
+   "word": "benfeitor",
+   "en": "benefactor",
+   "ja": "恩人",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00753",
+   "word": "fóssil",
+   "en": "fossil",
+   "ja": "化石",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00754",
+   "word": "prece",
+   "en": "prayer",
+   "ja": "祈り",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00755",
+   "word": "contradição",
+   "en": "contradiction",
+   "ja": "矛盾",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00756",
+   "word": "nostalgia",
+   "en": "nostalgia",
+   "ja": "郷愁",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00757",
+   "word": "cloro",
+   "en": "chlorine",
+   "ja": "塩素",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00758",
+   "word": "placenta",
+   "en": "placenta",
+   "ja": "胎盤",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00759",
+   "word": "reeleição",
+   "en": "reelection",
+   "ja": "再選",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00760",
+   "word": "atestado",
+   "en": "certificate",
+   "ja": "証明書",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00761",
+   "word": "coldre",
+   "en": "holster",
+   "ja": "ホルスター",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00762",
+   "word": "látex",
+   "en": "latex",
+   "ja": "ラテックス",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00763",
+   "word": "espectador",
+   "en": "spectator",
+   "ja": "観客",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00764",
+   "word": "povoação",
+   "en": "settlement",
+   "ja": "集落",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00765",
+   "word": "resina",
+   "en": "resin",
+   "ja": "樹脂",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00766",
+   "word": "piranha",
+   "en": "piranha",
+   "ja": "ピラニア",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00767",
+   "word": "abençoar",
+   "en": "bless",
+   "ja": "祝福する",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00768",
+   "word": "enjoo",
+   "en": "nausea",
+   "ja": "吐き気",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00769",
+   "word": "plural",
+   "en": "plural",
+   "ja": "複数",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00770",
+   "word": "patrono",
+   "en": "patron",
+   "ja": "後援者",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00771",
+   "word": "esgrima",
+   "en": "fencing",
+   "ja": "フェンシング",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00772",
+   "word": "desidratação",
+   "en": "dehydration",
+   "ja": "脱水",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00773",
+   "word": "talco",
+   "en": "talc",
+   "ja": "タルク",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00774",
+   "word": "guilhotina",
+   "en": "guillotine",
+   "ja": "ギロチン",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00775",
+   "word": "conversação",
+   "en": "conversation",
+   "ja": "会話",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00776",
+   "word": "pedal",
+   "en": "pedal",
+   "ja": "ペダル",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00777",
+   "word": "cassino",
+   "en": "casino",
+   "ja": "カジノ",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00778",
+   "word": "obesidade",
+   "en": "obesity",
+   "ja": "肥満",
+   "status": "conflicting",
+   "freedict": [
+    "adipose"
+   ]
+  },
+  {
+   "id": "pt-00779",
+   "word": "antecipação",
+   "en": "anticipation",
+   "ja": "予期",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00780",
+   "word": "enzima",
+   "en": "enzyme",
+   "ja": "酵素",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00781",
+   "word": "irrigação",
+   "en": "irrigation",
+   "ja": "灌漑",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00782",
+   "word": "ecossistema",
+   "en": "ecosystem",
+   "ja": "生態系",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00783",
+   "word": "rastilho",
+   "en": "fuse",
+   "ja": "導火線",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00784",
+   "word": "tempero",
+   "en": "seasoning",
+   "ja": "調味料",
+   "status": "conflicting",
+   "freedict": [
+    "gravy",
+    "sauce"
+   ]
+  },
+  {
+   "id": "pt-00785",
+   "word": "rodeio",
+   "en": "detour",
+   "ja": "回り道",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00786",
+   "word": "fobia",
+   "en": "phobia",
+   "ja": "恐怖症",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00787",
+   "word": "silo",
+   "en": "silo",
+   "ja": "サイロ",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00788",
+   "word": "paraquedas",
+   "en": "parachute",
+   "ja": "パラシュート",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00789",
+   "word": "consequentemente",
+   "en": "consequently",
+   "ja": "従って",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00790",
+   "word": "horóscopo",
+   "en": "horoscope",
+   "ja": "星占い",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00791",
+   "word": "encurtar",
+   "en": "shorten",
+   "ja": "縮める",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00792",
+   "word": "enguia",
+   "en": "eel",
+   "ja": "ウナギ",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00793",
+   "word": "mandamento",
+   "en": "commandment",
+   "ja": "戒律",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00794",
+   "word": "vinil",
+   "en": "vinyl",
+   "ja": "ビニール",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00795",
+   "word": "insistente",
+   "en": "insistent",
+   "ja": "しつこい",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00796",
+   "word": "gongo",
+   "en": "gong",
+   "ja": "ゴング",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00797",
+   "word": "espadachim",
+   "en": "swordsman",
+   "ja": "剣士",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00798",
+   "word": "estimulação",
+   "en": "stimulation",
+   "ja": "刺激",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00799",
+   "word": "desejável",
+   "en": "desirable",
+   "ja": "好ましい",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00800",
+   "word": "cantil",
+   "en": "canteen",
+   "ja": "水筒",
+   "status": "conflicting",
+   "freedict": [
+    "flask"
+   ]
+  },
+  {
+   "id": "pt-00801",
+   "word": "cetim",
+   "en": "satin",
+   "ja": "サテン",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00802",
+   "word": "afinidade",
+   "en": "affinity",
+   "ja": "親近感",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00803",
+   "word": "compulsão",
+   "en": "compulsion",
+   "ja": "強制",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00804",
+   "word": "plâncton",
+   "en": "plankton",
+   "ja": "プランクトン",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00805",
+   "word": "arritmia",
+   "en": "arrhythmia",
+   "ja": "不整脈",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00806",
+   "word": "autonomia",
+   "en": "autonomy",
+   "ja": "自治権",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00807",
+   "word": "participante",
+   "en": "participant",
+   "ja": "参加者",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00808",
+   "word": "alquimia",
+   "en": "alchemy",
+   "ja": "錬金術",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00809",
+   "word": "soberania",
+   "en": "sovereignty",
+   "ja": "主権",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00810",
+   "word": "aipo",
+   "en": "celery",
+   "ja": "セロリ",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00811",
+   "word": "supremacia",
+   "en": "supremacy",
+   "ja": "覇権",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00812",
+   "word": "afugentar",
+   "en": "chase",
+   "ja": "追い払う",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00813",
+   "word": "coagulação",
+   "en": "coagulation",
+   "ja": "凝固",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00814",
+   "word": "especiaria",
+   "en": "spice",
+   "ja": "香辛料",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00815",
+   "word": "borrifar",
+   "en": "spray",
+   "ja": "吹きかける",
+   "status": "conflicting",
+   "freedict": [
+    "sprinkle",
+    "water"
+   ]
+  },
+  {
+   "id": "pt-00816",
+   "word": "paródia",
+   "en": "parody",
+   "ja": "パロディ",
+   "status": "conflicting",
+   "freedict": [
+    "travesty"
+   ]
+  },
+  {
+   "id": "pt-00817",
+   "word": "autobiografia",
+   "en": "autobiography",
+   "ja": "自叙伝",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00818",
+   "word": "fascismo",
+   "en": "fascism",
+   "ja": "ファシズム",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00819",
+   "word": "habitante",
+   "en": "inhabitant",
+   "ja": "居住者",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00820",
+   "word": "mamute",
+   "en": "mammoth",
+   "ja": "マンモス",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00821",
+   "word": "acne",
+   "en": "acne",
+   "ja": "にきび",
+   "status": "conflicting",
+   "freedict": [
+    "pimple"
+   ]
+  },
+  {
+   "id": "pt-00822",
+   "word": "aprofundar",
+   "en": "deepen",
+   "ja": "深める",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00823",
+   "word": "planalto",
+   "en": "plateau",
+   "ja": "高原",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00824",
+   "word": "geleira",
+   "en": "iceberg",
+   "ja": "氷河",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00825",
+   "word": "organizador",
+   "en": "organizer",
+   "ja": "主催者",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00826",
+   "word": "agendar",
+   "en": "schedule",
+   "ja": "予定を入れる",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00827",
+   "word": "violinista",
+   "en": "violinist",
+   "ja": "バイオリニスト",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00828",
+   "word": "cordilheira",
+   "en": "mountain range",
+   "ja": "山脈",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00829",
+   "word": "camaradagem",
+   "en": "camaraderie",
+   "ja": "仲間意識",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00830",
+   "word": "membrana",
+   "en": "membrane",
+   "ja": "膜",
+   "status": "conflicting",
+   "freedict": [
+    "tunic"
+   ]
+  },
+  {
+   "id": "pt-00831",
+   "word": "tacho",
+   "en": "pot",
+   "ja": "鍋",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00832",
+   "word": "ampulheta",
+   "en": "hourglass",
+   "ja": "砂時計",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00833",
+   "word": "pilhar",
+   "en": "pillage",
+   "ja": "略奪する",
+   "status": "conflicting",
+   "freedict": [
+    "plunder",
+    "rob"
+   ]
+  },
+  {
+   "id": "pt-00834",
+   "word": "romancista",
+   "en": "novelist",
+   "ja": "小説家",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00835",
+   "word": "aterrorizante",
+   "en": "terrifying",
+   "ja": "恐ろしい",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00836",
+   "word": "propagação",
+   "en": "propagation",
+   "ja": "伝播",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00837",
+   "word": "dominação",
+   "en": "domination",
+   "ja": "支配",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00838",
+   "word": "exclamação",
+   "en": "exclamation",
+   "ja": "感嘆",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00839",
+   "word": "toranja",
+   "en": "grapefruit",
+   "ja": "グレープフルーツ",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00840",
+   "word": "trombone",
+   "en": "trombone",
+   "ja": "トロンボーン",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00841",
+   "word": "inalação",
+   "en": "inhalation",
+   "ja": "吸入",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00842",
+   "word": "produtividade",
+   "en": "productivity",
+   "ja": "生産性",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00843",
+   "word": "judaísmo",
+   "en": "judaism",
+   "ja": "ユダヤ教",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00844",
+   "word": "clipe",
+   "en": "clip",
+   "ja": "クリップ",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00845",
+   "word": "pipoca",
+   "en": "popcorn",
+   "ja": "ポップコーン",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00846",
+   "word": "funil",
+   "en": "funnel",
+   "ja": "じょうご",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00847",
+   "word": "posteridade",
+   "en": "posterity",
+   "ja": "後世",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00848",
+   "word": "eutanásia",
+   "en": "euthanasia",
+   "ja": "安楽死",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00849",
+   "word": "veleiro",
+   "en": "sailboat",
+   "ja": "帆船",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00850",
+   "word": "esfinge",
+   "en": "sphinx",
+   "ja": "スフィンクス",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00851",
+   "word": "espaçoso",
+   "en": "spacious",
+   "ja": "広々とした",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00852",
+   "word": "erosão",
+   "en": "erosion",
+   "ja": "侵食",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00853",
+   "word": "flutuação",
+   "en": "fluctuation",
+   "ja": "変動",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00854",
+   "word": "longevidade",
+   "en": "longevity",
+   "ja": "長寿",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00855",
+   "word": "descontentamento",
+   "en": "discontent",
+   "ja": "不満",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00856",
+   "word": "budismo",
+   "en": "buddhism",
+   "ja": "仏教",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00857",
+   "word": "calda",
+   "en": "syrup",
+   "ja": "シロップ",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00858",
+   "word": "digitar",
+   "en": "type",
+   "ja": "入力する",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00859",
+   "word": "espátula",
+   "en": "spatula",
+   "ja": "へら",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00860",
+   "word": "ciclismo",
+   "en": "cycling",
+   "ja": "サイクリング",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00861",
+   "word": "supressão",
+   "en": "suppression",
+   "ja": "抑制",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00862",
+   "word": "adereço",
+   "en": "ornament",
+   "ja": "飾り",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00863",
+   "word": "coquetel",
+   "en": "cocktail",
+   "ja": "カクテル",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00864",
+   "word": "passarela",
+   "en": "footbridge",
+   "ja": "歩道橋",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00865",
+   "word": "proclamação",
+   "en": "proclamation",
+   "ja": "布告",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00866",
+   "word": "simpósio",
+   "en": "symposium",
+   "ja": "シンポジウム",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00867",
+   "word": "ingestão",
+   "en": "ingestion",
+   "ja": "摂取",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00868",
+   "word": "manusear",
+   "en": "handle",
+   "ja": "扱う",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00869",
+   "word": "discrepância",
+   "en": "discrepancy",
+   "ja": "相違",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00870",
+   "word": "suturar",
+   "en": "suture",
+   "ja": "縫合する",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00871",
+   "word": "personalizado",
+   "en": "custom",
+   "ja": "カスタマイズされた",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00872",
+   "word": "inconveniência",
+   "en": "inconvenience",
+   "ja": "不便",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00873",
+   "word": "autografar",
+   "en": "autograph",
+   "ja": "サインする",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00874",
+   "word": "omitir",
+   "en": "omit",
+   "ja": "省く",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00875",
+   "word": "drogaria",
+   "en": "drugstore",
+   "ja": "ドラッグストア",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00876",
+   "word": "quartzo",
+   "en": "quartz",
+   "ja": "石英",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00877",
+   "word": "individualidade",
+   "en": "personality",
+   "ja": "個性",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00878",
+   "word": "heliporto",
+   "en": "heliport",
+   "ja": "ヘリポート",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00879",
+   "word": "adoçante",
+   "en": "sweetener",
+   "ja": "甘味料",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00880",
+   "word": "realismo",
+   "en": "realism",
+   "ja": "リアリズム",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00881",
+   "word": "atualizar",
+   "en": "update",
+   "ja": "更新する",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00882",
+   "word": "pêndulo",
+   "en": "pendulum",
+   "ja": "振り子",
+   "status": "conflicting",
+   "freedict": [
+    "clock",
+    "watch"
+   ]
+  },
+  {
+   "id": "pt-00883",
+   "word": "fermento",
+   "en": "yeast",
+   "ja": "イースト",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00884",
+   "word": "ralhar",
+   "en": "scold",
+   "ja": "しかる",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00885",
+   "word": "litígio",
+   "en": "litigation",
+   "ja": "訴訟",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00886",
+   "word": "isenção",
+   "en": "exemption",
+   "ja": "免除",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00887",
+   "word": "otimismo",
+   "en": "optimism",
+   "ja": "楽観",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00888",
+   "word": "escaldar",
+   "en": "scald",
+   "ja": "やけどさせる",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00889",
+   "word": "desigualdade",
+   "en": "inequality",
+   "ja": "不平等",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00890",
+   "word": "megafone",
+   "en": "megaphone",
+   "ja": "メガホン",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00891",
+   "word": "acordeão",
+   "en": "accordion",
+   "ja": "アコーディオン",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00892",
+   "word": "merengue",
+   "en": "meringue",
+   "ja": "メレンゲ",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00893",
+   "word": "ovário",
+   "en": "ovary",
+   "ja": "卵巣",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00894",
+   "word": "irresponsabilidade",
+   "en": "irresponsibility",
+   "ja": "無責任",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00895",
+   "word": "oftalmologista",
+   "en": "ophthalmologist",
+   "ja": "眼科医",
+   "status": "conflicting",
+   "freedict": [
+    "oculist",
+    "ophtalmologist"
+   ]
+  },
+  {
+   "id": "pt-00896",
+   "word": "penalidade",
+   "en": "penalty",
+   "ja": "処罰",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00897",
+   "word": "monotonia",
+   "en": "monotony",
+   "ja": "単調",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00898",
+   "word": "expressamente",
+   "en": "expressly",
+   "ja": "明示的に",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00899",
+   "word": "guinchar",
+   "en": "shriek",
+   "ja": "金切り声をあげる",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00900",
+   "word": "ondulação",
+   "en": "undulation",
+   "ja": "うねり",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00901",
+   "word": "chinelo",
+   "en": "slipper",
+   "ja": "サンダル",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00902",
+   "word": "eleitorado",
+   "en": "electorate",
+   "ja": "有権者層",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00903",
+   "word": "toxicidade",
+   "en": "toxicity",
+   "ja": "毒性",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00904",
+   "word": "contentamento",
+   "en": "contentment",
+   "ja": "満足",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00905",
+   "word": "berro",
+   "en": "shout",
+   "ja": "叫び声",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00906",
+   "word": "demasiadamente",
+   "en": "overly",
+   "ja": "あまりに",
+   "status": "conflicting",
+   "freedict": [
+    "too",
+    "too much"
+   ]
+  },
+  {
+   "id": "pt-00907",
+   "word": "mediação",
+   "en": "mediation",
+   "ja": "調停",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00908",
+   "word": "roncar",
+   "en": "snore",
+   "ja": "いびきをかく",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00909",
+   "word": "tricô",
+   "en": "knitting",
+   "ja": "編み物",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00910",
+   "word": "serenata",
+   "en": "serenade",
+   "ja": "セレナード",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00911",
+   "word": "vetor",
+   "en": "vector",
+   "ja": "ベクトル",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00912",
+   "word": "sátira",
+   "en": "satire",
+   "ja": "風刺",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00913",
+   "word": "espinafre",
+   "en": "spinach",
+   "ja": "ホウレンソウ",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00914",
+   "word": "cronometrar",
+   "en": "time",
+   "ja": "時間を計る",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00915",
+   "word": "burguesia",
+   "en": "bourgeoisie",
+   "ja": "ブルジョワジー",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00916",
+   "word": "monção",
+   "en": "monsoon",
+   "ja": "モンスーン",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00917",
+   "word": "cirrose",
+   "en": "cirrhosis",
+   "ja": "肝硬変",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00918",
+   "word": "superestrela",
+   "en": "superstar",
+   "ja": "スーパースター",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00919",
+   "word": "caridoso",
+   "en": "charitable",
+   "ja": "情け深い",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00920",
+   "word": "desesperar",
+   "en": "despair",
+   "ja": "絶望する",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00921",
+   "word": "circunferência",
+   "en": "circumference",
+   "ja": "円周",
+   "status": "conflicting",
+   "freedict": [
+    "circle"
+   ]
+  },
+  {
+   "id": "pt-00922",
+   "word": "alquimista",
+   "en": "alchemist",
+   "ja": "錬金術師",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00923",
+   "word": "sonata",
+   "en": "sonata",
+   "ja": "ソナタ",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00924",
+   "word": "condensação",
+   "en": "condensation",
+   "ja": "凝縮",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00925",
+   "word": "oboé",
+   "en": "oboe",
+   "ja": "オーボエ",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00926",
+   "word": "papelaria",
+   "en": "stationery",
+   "ja": "文房具店",
+   "status": "conflicting",
+   "freedict": [
+    "stationer's shop"
+   ]
+  },
+  {
+   "id": "pt-00927",
+   "word": "imoralidade",
+   "en": "immorality",
+   "ja": "不道徳",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00928",
+   "word": "elasticidade",
+   "en": "elasticity",
+   "ja": "弾力",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00929",
+   "word": "neutralidade",
+   "en": "neutrality",
+   "ja": "中立",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00930",
+   "word": "andaime",
+   "en": "scaffold",
+   "ja": "足場",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00931",
+   "word": "limitação",
+   "en": "limitation",
+   "ja": "制約",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00932",
+   "word": "islamismo",
+   "en": "islam",
+   "ja": "イスラム教",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00933",
+   "word": "gôndola",
+   "en": "gondola",
+   "ja": "ゴンドラ",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00934",
+   "word": "inimizade",
+   "en": "enmity",
+   "ja": "敵意",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00935",
+   "word": "murchar",
+   "en": "wither",
+   "ja": "しおれる",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00936",
+   "word": "desfalque",
+   "en": "embezzlement",
+   "ja": "横領",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00937",
+   "word": "arquipélago",
+   "en": "archipelago",
+   "ja": "群島",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00938",
+   "word": "proveniência",
+   "en": "provenance",
+   "ja": "由来",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00939",
+   "word": "ecologia",
+   "en": "ecology",
+   "ja": "生態学",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00940",
+   "word": "pétala",
+   "en": "petal",
+   "ja": "花弁",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00941",
+   "word": "nutricionista",
+   "en": "nutritionist",
+   "ja": "栄養士",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00942",
+   "word": "estola",
+   "en": "stole",
+   "ja": "ストール（肩掛け）",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00943",
+   "word": "campista",
+   "en": "camper",
+   "ja": "キャンプをする人",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00944",
+   "word": "ebulição",
+   "en": "boiling",
+   "ja": "沸騰",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00945",
+   "word": "aditivo",
+   "en": "additive",
+   "ja": "添加物",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00946",
+   "word": "coesão",
+   "en": "cohesion",
+   "ja": "結束",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00947",
+   "word": "hipotecar",
+   "en": "mortgage",
+   "ja": "抵当に入れる",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00948",
+   "word": "ilustração",
+   "en": "illustration",
+   "ja": "挿絵",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00949",
+   "word": "equivalência",
+   "en": "equivalence",
+   "ja": "等価",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00950",
+   "word": "propagar",
+   "en": "propagate",
+   "ja": "広める",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00951",
+   "word": "azulejo",
+   "en": "tile",
+   "ja": "タイル",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00952",
+   "word": "vitral",
+   "en": "stained glass",
+   "ja": "ステンドグラス",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00953",
+   "word": "grinalda",
+   "en": "wreath",
+   "ja": "花輪",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00954",
+   "word": "alienação",
+   "en": "alienation",
+   "ja": "疎外",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00955",
+   "word": "margarina",
+   "en": "margarine",
+   "ja": "マーガリン",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00956",
+   "word": "contorcer",
+   "en": "contort",
+   "ja": "ねじる",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00957",
+   "word": "plumagem",
+   "en": "plumage",
+   "ja": "羽毛",
+   "status": "not_found"
+  }
+ ]
+}

@@ -1,0 +1,5029 @@
+{
+ "source": "FreeDict (TEI)",
+ "total": 707,
+ "counts": {
+  "matched": 617,
+  "conflicting": 15,
+  "not_found": 75
+ },
+ "results": [
+  {
+   "id": "ru-00001",
+   "word": "да",
+   "en": "yes",
+   "ja": "はい",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00002",
+   "word": "нет",
+   "en": "no",
+   "ja": "いいえ",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00003",
+   "word": "спасибо",
+   "en": "thank you",
+   "ja": "ありがとう",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00004",
+   "word": "привет",
+   "en": "hi",
+   "ja": "やあ",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00005",
+   "word": "здравствуйте",
+   "en": "hello",
+   "ja": "こんにちは",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00006",
+   "word": "вода",
+   "en": "water",
+   "ja": "水",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00007",
+   "word": "хлеб",
+   "en": "bread",
+   "ja": "パン",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00008",
+   "word": "молоко",
+   "en": "milk",
+   "ja": "牛乳",
+   "status": "not_found"
+  },
+  {
+   "id": "ru-00009",
+   "word": "чай",
+   "en": "tea",
+   "ja": "お茶",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00010",
+   "word": "кофе",
+   "en": "coffee",
+   "ja": "コーヒー",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00011",
+   "word": "дом",
+   "en": "house",
+   "ja": "家",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00012",
+   "word": "кот",
+   "en": "cat",
+   "ja": "猫",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00013",
+   "word": "собака",
+   "en": "dog",
+   "ja": "犬",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00014",
+   "word": "человек",
+   "en": "person",
+   "ja": "人",
+   "status": "not_found"
+  },
+  {
+   "id": "ru-00015",
+   "word": "друг",
+   "en": "friend",
+   "ja": "友達",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00016",
+   "word": "мама",
+   "en": "mom",
+   "ja": "お母さん",
+   "status": "conflicting",
+   "freedict": [
+    "mum",
+    "mother",
+    "mummy",
+    "ma",
+    "mamma"
+   ]
+  },
+  {
+   "id": "ru-00017",
+   "word": "папа",
+   "en": "dad",
+   "ja": "お父さん",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00018",
+   "word": "сын",
+   "en": "son",
+   "ja": "息子",
+   "status": "not_found"
+  },
+  {
+   "id": "ru-00019",
+   "word": "дочь",
+   "en": "daughter",
+   "ja": "娘",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00020",
+   "word": "книга",
+   "en": "book",
+   "ja": "本",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00021",
+   "word": "стол",
+   "en": "table",
+   "ja": "テーブル",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00022",
+   "word": "стул",
+   "en": "chair",
+   "ja": "椅子",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00023",
+   "word": "окно",
+   "en": "window",
+   "ja": "窓",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00024",
+   "word": "дверь",
+   "en": "door",
+   "ja": "ドア",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00025",
+   "word": "город",
+   "en": "city",
+   "ja": "都市",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00026",
+   "word": "страна",
+   "en": "country",
+   "ja": "国",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00027",
+   "word": "солнце",
+   "en": "sun",
+   "ja": "太陽",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00028",
+   "word": "луна",
+   "en": "moon",
+   "ja": "月（天体）",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00029",
+   "word": "небо",
+   "en": "sky",
+   "ja": "空",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00030",
+   "word": "глаз",
+   "en": "eye",
+   "ja": "目",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00031",
+   "word": "голова",
+   "en": "head",
+   "ja": "頭",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00032",
+   "word": "рот",
+   "en": "mouth",
+   "ja": "口",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00033",
+   "word": "хороший",
+   "en": "good",
+   "ja": "良い",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00034",
+   "word": "плохой",
+   "en": "bad",
+   "ja": "悪い",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00035",
+   "word": "большой",
+   "en": "big",
+   "ja": "大きい",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00036",
+   "word": "маленький",
+   "en": "small",
+   "ja": "小さい",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00037",
+   "word": "новый",
+   "en": "new",
+   "ja": "新しい",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00038",
+   "word": "старый",
+   "en": "old",
+   "ja": "古い",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00039",
+   "word": "красный",
+   "en": "red",
+   "ja": "赤い",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00040",
+   "word": "белый",
+   "en": "white",
+   "ja": "白い",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00041",
+   "word": "чёрный",
+   "en": "black",
+   "ja": "黒い",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00042",
+   "word": "один",
+   "en": "one",
+   "ja": "一",
+   "status": "conflicting",
+   "freedict": [
+    "Odin",
+    "one",
+    "a",
+    "alone",
+    "single"
+   ]
+  },
+  {
+   "id": "ru-00043",
+   "word": "два",
+   "en": "two",
+   "ja": "二",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00044",
+   "word": "три",
+   "en": "three",
+   "ja": "三",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00045",
+   "word": "четыре",
+   "en": "four",
+   "ja": "四",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00046",
+   "word": "пять",
+   "en": "five",
+   "ja": "五",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00047",
+   "word": "сегодня",
+   "en": "today",
+   "ja": "今日",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00048",
+   "word": "завтра",
+   "en": "tomorrow",
+   "ja": "明日",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00049",
+   "word": "вчера",
+   "en": "yesterday",
+   "ja": "昨日",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00050",
+   "word": "сейчас",
+   "en": "now",
+   "ja": "今",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00151",
+   "word": "всегда",
+   "en": "always",
+   "ja": "常に",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00152",
+   "word": "женщина",
+   "en": "woman",
+   "ja": "女性",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00153",
+   "word": "опять",
+   "en": "again",
+   "ja": "また",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00154",
+   "word": "жена",
+   "en": "wife",
+   "ja": "妻",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00155",
+   "word": "дать",
+   "en": "give",
+   "ja": "与える",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00156",
+   "word": "тело",
+   "en": "body",
+   "ja": "体",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00157",
+   "word": "семья",
+   "en": "family",
+   "ja": "家族",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00158",
+   "word": "спросить",
+   "en": "ask",
+   "ja": "尋ねる",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00159",
+   "word": "детектив",
+   "en": "detective",
+   "ja": "探偵",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00160",
+   "word": "убийца",
+   "en": "murderer",
+   "ja": "殺人者",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00161",
+   "word": "письмо",
+   "en": "letter",
+   "ja": "手紙",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00162",
+   "word": "идиот",
+   "en": "idiot",
+   "ja": "ばか",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00163",
+   "word": "плевать",
+   "en": "spit",
+   "ja": "つばを吐く",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00164",
+   "word": "король",
+   "en": "king",
+   "ja": "国王",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00165",
+   "word": "офис",
+   "en": "office",
+   "ja": "オフィス",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00166",
+   "word": "лейтенант",
+   "en": "lieutenant",
+   "ja": "中尉",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00167",
+   "word": "бизнес",
+   "en": "business",
+   "ja": "ビジネス",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00168",
+   "word": "кольцо",
+   "en": "ring",
+   "ja": "指輪",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00169",
+   "word": "сигнал",
+   "en": "signal",
+   "ja": "信号",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00170",
+   "word": "бросить",
+   "en": "throw",
+   "ja": "投げる",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00171",
+   "word": "ситуация",
+   "en": "situation",
+   "ja": "状況",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00172",
+   "word": "платить",
+   "en": "pay",
+   "ja": "支払う",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00173",
+   "word": "песня",
+   "en": "song",
+   "ja": "歌",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00174",
+   "word": "система",
+   "en": "system",
+   "ja": "システム",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00175",
+   "word": "нож",
+   "en": "knife",
+   "ja": "ナイフ",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00176",
+   "word": "долг",
+   "en": "debt",
+   "ja": "負債",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00177",
+   "word": "герой",
+   "en": "hero",
+   "ja": "英雄",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00178",
+   "word": "интервью",
+   "en": "interview",
+   "ja": "インタビュー",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00179",
+   "word": "танцевать",
+   "en": "dance",
+   "ja": "踊る",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00180",
+   "word": "колледж",
+   "en": "college",
+   "ja": "大学（単科大学）",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00181",
+   "word": "банк",
+   "en": "bank",
+   "ja": "銀行",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00182",
+   "word": "билет",
+   "en": "ticket",
+   "ja": "切符",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00183",
+   "word": "выиграть",
+   "en": "win",
+   "ja": "勝つ",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00184",
+   "word": "учиться",
+   "en": "learn",
+   "ja": "学ぶ",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00185",
+   "word": "контроль",
+   "en": "control",
+   "ja": "制御",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00186",
+   "word": "создать",
+   "en": "create",
+   "ja": "創造する",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00187",
+   "word": "процесс",
+   "en": "process",
+   "ja": "過程",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00188",
+   "word": "кошмар",
+   "en": "nightmare",
+   "ja": "悪夢",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00189",
+   "word": "совпадение",
+   "en": "coincidence",
+   "ja": "偶然の一致",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00190",
+   "word": "пригласить",
+   "en": "invite",
+   "ja": "招待する",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00191",
+   "word": "праздник",
+   "en": "holiday",
+   "ja": "祝日",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00192",
+   "word": "выжить",
+   "en": "survive",
+   "ja": "生き残る",
+   "status": "not_found"
+  },
+  {
+   "id": "ru-00193",
+   "word": "парк",
+   "en": "park",
+   "ja": "公園",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00194",
+   "word": "ощущение",
+   "en": "sensation",
+   "ja": "感覚",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00195",
+   "word": "одновременно",
+   "en": "simultaneously",
+   "ja": "同時に",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00196",
+   "word": "статус",
+   "en": "status",
+   "ja": "地位",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00197",
+   "word": "свадьба",
+   "en": "wedding",
+   "ja": "結婚式",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00198",
+   "word": "звезда",
+   "en": "star",
+   "ja": "星",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00199",
+   "word": "меч",
+   "en": "sword",
+   "ja": "剣",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00200",
+   "word": "алиби",
+   "en": "alibi",
+   "ja": "アリバイ",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00201",
+   "word": "золото",
+   "en": "gold",
+   "ja": "金",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00202",
+   "word": "личность",
+   "en": "personality",
+   "ja": "人格",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00203",
+   "word": "животное",
+   "en": "animal",
+   "ja": "動物",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00204",
+   "word": "взрыв",
+   "en": "explosion",
+   "ja": "爆発",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00205",
+   "word": "добавить",
+   "en": "add",
+   "ja": "加える",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00206",
+   "word": "сок",
+   "en": "juice",
+   "ja": "ジュース",
+   "status": "not_found"
+  },
+  {
+   "id": "ru-00207",
+   "word": "заказ",
+   "en": "order",
+   "ja": "注文",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00208",
+   "word": "ворота",
+   "en": "gate",
+   "ja": "門",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00209",
+   "word": "штат",
+   "en": "state",
+   "ja": "州",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00210",
+   "word": "наказание",
+   "en": "punishment",
+   "ja": "罰",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00211",
+   "word": "владелец",
+   "en": "owner",
+   "ja": "所有者",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00212",
+   "word": "безопасность",
+   "en": "safety",
+   "ja": "安全",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00213",
+   "word": "сознание",
+   "en": "consciousness",
+   "ja": "意識",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00214",
+   "word": "доверие",
+   "en": "trust",
+   "ja": "信頼",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00215",
+   "word": "пуля",
+   "en": "bullet",
+   "ja": "銃弾",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00216",
+   "word": "теория",
+   "en": "theory",
+   "ja": "理論",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00217",
+   "word": "победа",
+   "en": "victory",
+   "ja": "勝利",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00218",
+   "word": "фотография",
+   "en": "photograph",
+   "ja": "写真",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00219",
+   "word": "образец",
+   "en": "specimen",
+   "ja": "見本",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00220",
+   "word": "кожа",
+   "en": "skin",
+   "ja": "肌",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00221",
+   "word": "аэропорт",
+   "en": "airport",
+   "ja": "空港",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00222",
+   "word": "относительно",
+   "en": "relatively",
+   "ja": "比較的",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00223",
+   "word": "счастливый",
+   "en": "happy",
+   "ja": "幸せな",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00224",
+   "word": "стакан",
+   "en": "beaker",
+   "ja": "コップ",
+   "status": "conflicting",
+   "freedict": [
+    "glass",
+    "glassful"
+   ]
+  },
+  {
+   "id": "ru-00225",
+   "word": "министр",
+   "en": "minister",
+   "ja": "大臣",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00226",
+   "word": "север",
+   "en": "north",
+   "ja": "北",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00227",
+   "word": "ведьма",
+   "en": "witch",
+   "ja": "魔女",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00228",
+   "word": "вес",
+   "en": "weight",
+   "ja": "重量",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00229",
+   "word": "казино",
+   "en": "casino",
+   "ja": "カジノ",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00230",
+   "word": "автор",
+   "en": "author",
+   "ja": "著者",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00231",
+   "word": "научить",
+   "en": "teach",
+   "ja": "教える",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00232",
+   "word": "искренне",
+   "en": "sincerely",
+   "ja": "心から",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00233",
+   "word": "хвост",
+   "en": "tail",
+   "ja": "しっぽ",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00234",
+   "word": "температура",
+   "en": "temperature",
+   "ja": "温度",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00235",
+   "word": "тост",
+   "en": "toast",
+   "ja": "トースト",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00236",
+   "word": "объект",
+   "en": "object",
+   "ja": "物体",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00237",
+   "word": "собственность",
+   "en": "property",
+   "ja": "財産",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00238",
+   "word": "стекло",
+   "en": "glass",
+   "ja": "ガラス",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00239",
+   "word": "морской",
+   "en": "sea",
+   "ja": "海の",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00240",
+   "word": "ноль",
+   "en": "zero",
+   "ja": "ゼロ",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00241",
+   "word": "юг",
+   "en": "south",
+   "ja": "南",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00242",
+   "word": "океан",
+   "en": "ocean",
+   "ja": "海洋",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00243",
+   "word": "паспорт",
+   "en": "passport",
+   "ja": "パスポート",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00244",
+   "word": "шампанское",
+   "en": "champagne",
+   "ja": "シャンパン",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00245",
+   "word": "горячий",
+   "en": "hot",
+   "ja": "熱い",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00246",
+   "word": "пароль",
+   "en": "password",
+   "ja": "パスワード",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00247",
+   "word": "потеря",
+   "en": "loss",
+   "ja": "損失",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00248",
+   "word": "приз",
+   "en": "prize",
+   "ja": "賞品",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00249",
+   "word": "альбом",
+   "en": "album",
+   "ja": "アルバム",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00250",
+   "word": "грязь",
+   "en": "dirt",
+   "ja": "泥",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00251",
+   "word": "символ",
+   "en": "symbol",
+   "ja": "象徴",
+   "status": "not_found"
+  },
+  {
+   "id": "ru-00252",
+   "word": "губернатор",
+   "en": "governor",
+   "ja": "知事",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00253",
+   "word": "писатель",
+   "en": "writer",
+   "ja": "作家",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00254",
+   "word": "рост",
+   "en": "growth",
+   "ja": "成長",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00255",
+   "word": "измениться",
+   "en": "change",
+   "ja": "変わる",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00256",
+   "word": "аллергия",
+   "en": "allergy",
+   "ja": "アレルギー",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00257",
+   "word": "карьера",
+   "en": "career",
+   "ja": "経歴",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00258",
+   "word": "кризис",
+   "en": "crisis",
+   "ja": "危機",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00259",
+   "word": "гордость",
+   "en": "pride",
+   "ja": "誇り",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00260",
+   "word": "коктейль",
+   "en": "cocktail",
+   "ja": "カクテル",
+   "status": "not_found"
+  },
+  {
+   "id": "ru-00261",
+   "word": "ущерб",
+   "en": "damage",
+   "ja": "損害",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00262",
+   "word": "джентльмен",
+   "en": "gentleman",
+   "ja": "紳士",
+   "status": "not_found"
+  },
+  {
+   "id": "ru-00263",
+   "word": "расписание",
+   "en": "timetable",
+   "ja": "予定表",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00264",
+   "word": "запад",
+   "en": "west",
+   "ja": "西",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00265",
+   "word": "фонд",
+   "en": "fund",
+   "ja": "基金",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00266",
+   "word": "интересный",
+   "en": "interesting",
+   "ja": "おもしろい",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00267",
+   "word": "беспорядок",
+   "en": "disorder",
+   "ja": "混乱",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00268",
+   "word": "хаос",
+   "en": "chaos",
+   "ja": "混沌",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00269",
+   "word": "эксперимент",
+   "en": "experiment",
+   "ja": "実験",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00270",
+   "word": "скандал",
+   "en": "scandal",
+   "ja": "スキャンダル",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00271",
+   "word": "улыбка",
+   "en": "smile",
+   "ja": "笑顔",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00272",
+   "word": "статья",
+   "en": "article",
+   "ja": "記事",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00273",
+   "word": "восток",
+   "en": "east",
+   "ja": "東",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00274",
+   "word": "дата",
+   "en": "date",
+   "ja": "日付",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00275",
+   "word": "массаж",
+   "en": "massage",
+   "ja": "マッサージ",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00276",
+   "word": "пыль",
+   "en": "dust",
+   "ja": "ほこり",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00277",
+   "word": "значок",
+   "en": "badge",
+   "ja": "バッジ",
+   "status": "not_found"
+  },
+  {
+   "id": "ru-00278",
+   "word": "шок",
+   "en": "shock",
+   "ja": "ショック",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00279",
+   "word": "доллар",
+   "en": "dollar",
+   "ja": "ドル",
+   "status": "not_found"
+  },
+  {
+   "id": "ru-00280",
+   "word": "вампир",
+   "en": "vampire",
+   "ja": "吸血鬼",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00281",
+   "word": "случайность",
+   "en": "chance",
+   "ja": "偶然",
+   "status": "not_found"
+  },
+  {
+   "id": "ru-00282",
+   "word": "комплимент",
+   "en": "compliment",
+   "ja": "賛辞",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00283",
+   "word": "запрос",
+   "en": "inquiry",
+   "ja": "問い合わせ",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00284",
+   "word": "наблюдение",
+   "en": "observation",
+   "ja": "観察",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00285",
+   "word": "ожерелье",
+   "en": "necklace",
+   "ja": "ネックレス",
+   "status": "not_found"
+  },
+  {
+   "id": "ru-00286",
+   "word": "полотенце",
+   "en": "towel",
+   "ja": "タオル",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00287",
+   "word": "тайно",
+   "en": "secretly",
+   "ja": "密かに",
+   "status": "not_found"
+  },
+  {
+   "id": "ru-00288",
+   "word": "пицца",
+   "en": "pizza",
+   "ja": "ピザ",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00289",
+   "word": "робот",
+   "en": "robot",
+   "ja": "ロボット",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00290",
+   "word": "холодный",
+   "en": "cold",
+   "ja": "冷たい",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00291",
+   "word": "император",
+   "en": "emperor",
+   "ja": "皇帝",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00292",
+   "word": "прогресс",
+   "en": "progress",
+   "ja": "進歩",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00293",
+   "word": "лаборатория",
+   "en": "laboratory",
+   "ja": "実験室",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00294",
+   "word": "сомневаться",
+   "en": "doubt",
+   "ja": "疑う",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00295",
+   "word": "бок",
+   "en": "side",
+   "ja": "脇腹",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00296",
+   "word": "журналист",
+   "en": "journalist",
+   "ja": "ジャーナリスト",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00297",
+   "word": "шлем",
+   "en": "helmet",
+   "ja": "ヘルメット",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00298",
+   "word": "слуга",
+   "en": "servant",
+   "ja": "使用人",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00299",
+   "word": "покер",
+   "en": "poker",
+   "ja": "ポーカー",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00300",
+   "word": "сиденье",
+   "en": "seat",
+   "ja": "座席",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00301",
+   "word": "ритм",
+   "en": "rhythm",
+   "ja": "リズム",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00302",
+   "word": "гроб",
+   "en": "coffin",
+   "ja": "棺",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00303",
+   "word": "совещание",
+   "en": "discussion",
+   "ja": "会議",
+   "status": "conflicting",
+   "freedict": [
+    "conference",
+    "meeting"
+   ]
+  },
+  {
+   "id": "ru-00304",
+   "word": "няня",
+   "en": "nurse",
+   "ja": "ベビーシッター",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00305",
+   "word": "барбекю",
+   "en": "barbecue",
+   "ja": "バーベキュー",
+   "status": "not_found"
+  },
+  {
+   "id": "ru-00306",
+   "word": "поток",
+   "en": "stream",
+   "ja": "流れ",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00307",
+   "word": "медаль",
+   "en": "medal",
+   "ja": "メダル",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00308",
+   "word": "пятница",
+   "en": "friday",
+   "ja": "金曜日",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00309",
+   "word": "проиграть",
+   "en": "lose",
+   "ja": "負ける",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00310",
+   "word": "сирена",
+   "en": "siren",
+   "ja": "サイレン",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00311",
+   "word": "конфликт",
+   "en": "conflict",
+   "ja": "対立",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00312",
+   "word": "фестиваль",
+   "en": "festival",
+   "ja": "フェスティバル",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00313",
+   "word": "вдова",
+   "en": "widow",
+   "ja": "未亡人",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00314",
+   "word": "продукт",
+   "en": "product",
+   "ja": "製品",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00315",
+   "word": "инфекция",
+   "en": "infection",
+   "ja": "感染",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00316",
+   "word": "прослушивание",
+   "en": "audition",
+   "ja": "オーディション",
+   "status": "not_found"
+  },
+  {
+   "id": "ru-00317",
+   "word": "казнь",
+   "en": "execution",
+   "ja": "処刑",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00318",
+   "word": "игрушка",
+   "en": "toy",
+   "ja": "おもちゃ",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00319",
+   "word": "маска",
+   "en": "mask",
+   "ja": "仮面",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00320",
+   "word": "организм",
+   "en": "organism",
+   "ja": "生体（有機体）",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00321",
+   "word": "прислать",
+   "en": "send",
+   "ja": "送る",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00322",
+   "word": "туман",
+   "en": "fog",
+   "ja": "霧",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00323",
+   "word": "эго",
+   "en": "ego",
+   "ja": "自我",
+   "status": "not_found"
+  },
+  {
+   "id": "ru-00324",
+   "word": "трава",
+   "en": "grass",
+   "ja": "草",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00325",
+   "word": "запереть",
+   "en": "lock",
+   "ja": "鍵をかける",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00326",
+   "word": "герцог",
+   "en": "duke",
+   "ja": "公爵",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00327",
+   "word": "рождение",
+   "en": "birth",
+   "ja": "誕生",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00328",
+   "word": "практика",
+   "en": "practice",
+   "ja": "実践",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00329",
+   "word": "цепь",
+   "en": "chain",
+   "ja": "鎖",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00330",
+   "word": "бойфренд",
+   "en": "boyfriend",
+   "ja": "ボーイフレンド",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00331",
+   "word": "консультант",
+   "en": "consultant",
+   "ja": "コンサルタント",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00332",
+   "word": "плод",
+   "en": "fruit",
+   "ja": "果実",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00333",
+   "word": "ковбой",
+   "en": "cowboy",
+   "ja": "カウボーイ",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00334",
+   "word": "ракета",
+   "en": "rocket",
+   "ja": "ロケット",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00335",
+   "word": "мероприятие",
+   "en": "event",
+   "ja": "行事",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00336",
+   "word": "спагетти",
+   "en": "spaghetti",
+   "ja": "スパゲッティ",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00051",
+   "word": "работа",
+   "en": "work",
+   "ja": "仕事",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00052",
+   "word": "работать",
+   "en": "to work",
+   "ja": "働く",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00053",
+   "word": "школа",
+   "en": "school",
+   "ja": "学校",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00054",
+   "word": "учитель",
+   "en": "teacher",
+   "ja": "先生",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00055",
+   "word": "студент",
+   "en": "student",
+   "ja": "学生",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00056",
+   "word": "врач",
+   "en": "doctor",
+   "ja": "医者",
+   "status": "not_found"
+  },
+  {
+   "id": "ru-00057",
+   "word": "больница",
+   "en": "hospital",
+   "ja": "病院",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00058",
+   "word": "магазин",
+   "en": "shop",
+   "ja": "店",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00059",
+   "word": "деньги",
+   "en": "money",
+   "ja": "お金",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00060",
+   "word": "время",
+   "en": "time",
+   "ja": "時間",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00061",
+   "word": "день",
+   "en": "day",
+   "ja": "日",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00062",
+   "word": "ночь",
+   "en": "night",
+   "ja": "夜",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00063",
+   "word": "утро",
+   "en": "morning",
+   "ja": "朝",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00064",
+   "word": "вечер",
+   "en": "evening",
+   "ja": "夕方",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00065",
+   "word": "неделя",
+   "en": "week",
+   "ja": "週",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00066",
+   "word": "месяц",
+   "en": "month",
+   "ja": "月（暦）",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00067",
+   "word": "год",
+   "en": "year",
+   "ja": "年",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00068",
+   "word": "еда",
+   "en": "food",
+   "ja": "食べ物",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00069",
+   "word": "мясо",
+   "en": "meat",
+   "ja": "肉",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00070",
+   "word": "рыба",
+   "en": "fish",
+   "ja": "魚",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00071",
+   "word": "яблоко",
+   "en": "apple",
+   "ja": "りんご",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00072",
+   "word": "овощи",
+   "en": "vegetables",
+   "ja": "野菜",
+   "status": "not_found"
+  },
+  {
+   "id": "ru-00073",
+   "word": "сыр",
+   "en": "cheese",
+   "ja": "チーズ",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00074",
+   "word": "сахар",
+   "en": "sugar",
+   "ja": "砂糖",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00075",
+   "word": "соль",
+   "en": "salt",
+   "ja": "塩",
+   "status": "conflicting",
+   "freedict": [
+    "sol",
+    "G",
+    "soh"
+   ]
+  },
+  {
+   "id": "ru-00076",
+   "word": "машина",
+   "en": "car",
+   "ja": "車",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00077",
+   "word": "поезд",
+   "en": "train",
+   "ja": "電車",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00078",
+   "word": "самолёт",
+   "en": "airplane",
+   "ja": "飛行機",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00079",
+   "word": "улица",
+   "en": "street",
+   "ja": "通り",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00080",
+   "word": "дорога",
+   "en": "road",
+   "ja": "道",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00081",
+   "word": "мост",
+   "en": "bridge",
+   "ja": "橋",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00082",
+   "word": "река",
+   "en": "river",
+   "ja": "川",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00083",
+   "word": "море",
+   "en": "sea",
+   "ja": "海",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00084",
+   "word": "гора",
+   "en": "mountain",
+   "ja": "山",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00085",
+   "word": "лес",
+   "en": "forest",
+   "ja": "森",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00086",
+   "word": "дерево",
+   "en": "tree",
+   "ja": "木",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00087",
+   "word": "цветок",
+   "en": "flower",
+   "ja": "花",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00088",
+   "word": "погода",
+   "en": "weather",
+   "ja": "天気",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00089",
+   "word": "дождь",
+   "en": "rain",
+   "ja": "雨",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00090",
+   "word": "снег",
+   "en": "snow",
+   "ja": "雪",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00091",
+   "word": "ветер",
+   "en": "wind",
+   "ja": "風",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00092",
+   "word": "говорить",
+   "en": "to speak",
+   "ja": "話す",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00093",
+   "word": "читать",
+   "en": "to read",
+   "ja": "読む",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00094",
+   "word": "писать",
+   "en": "to write",
+   "ja": "書く",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00095",
+   "word": "знать",
+   "en": "to know",
+   "ja": "知る",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00096",
+   "word": "думать",
+   "en": "to think",
+   "ja": "考える",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00097",
+   "word": "любить",
+   "en": "to love",
+   "ja": "愛する",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00098",
+   "word": "жить",
+   "en": "to live",
+   "ja": "住む",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00099",
+   "word": "идти",
+   "en": "to go",
+   "ja": "行く",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00100",
+   "word": "хотеть",
+   "en": "to want",
+   "ja": "欲しい",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00337",
+   "word": "тренироваться",
+   "en": "train",
+   "ja": "トレーニングする",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00338",
+   "word": "голод",
+   "en": "hunger",
+   "ja": "空腹",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00339",
+   "word": "жирный",
+   "en": "fat",
+   "ja": "脂っこい",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00340",
+   "word": "титул",
+   "en": "title",
+   "ja": "称号",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00341",
+   "word": "ферма",
+   "en": "farm",
+   "ja": "農場",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00342",
+   "word": "технология",
+   "en": "technology",
+   "ja": "技術",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00343",
+   "word": "страница",
+   "en": "page",
+   "ja": "ページ",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00344",
+   "word": "пение",
+   "en": "singing",
+   "ja": "歌唱",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00345",
+   "word": "ванная",
+   "en": "bathroom",
+   "ja": "浴室",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00346",
+   "word": "фотограф",
+   "en": "photographer",
+   "ja": "写真家",
+   "status": "not_found"
+  },
+  {
+   "id": "ru-00347",
+   "word": "бренди",
+   "en": "brandy",
+   "ja": "ブランデー",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00348",
+   "word": "террорист",
+   "en": "terrorist",
+   "ja": "テロリスト",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00349",
+   "word": "шахматы",
+   "en": "chess",
+   "ja": "チェス",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00350",
+   "word": "зима",
+   "en": "winter",
+   "ja": "冬",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00351",
+   "word": "спальня",
+   "en": "bedroom",
+   "ja": "寝室",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00352",
+   "word": "ураган",
+   "en": "hurricane",
+   "ja": "ハリケーン",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00353",
+   "word": "разочарование",
+   "en": "disappointment",
+   "ja": "落胆",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00354",
+   "word": "студия",
+   "en": "studio",
+   "ja": "スタジオ",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00355",
+   "word": "серебро",
+   "en": "silver",
+   "ja": "銀",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00356",
+   "word": "сопровождать",
+   "en": "accompany",
+   "ja": "同行する",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00357",
+   "word": "акула",
+   "en": "shark",
+   "ja": "サメ",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00358",
+   "word": "забор",
+   "en": "fence",
+   "ja": "塀",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00359",
+   "word": "теннис",
+   "en": "tennis",
+   "ja": "テニス",
+   "status": "not_found"
+  },
+  {
+   "id": "ru-00360",
+   "word": "кулак",
+   "en": "fist",
+   "ja": "こぶし",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00361",
+   "word": "контейнер",
+   "en": "container",
+   "ja": "コンテナ",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00362",
+   "word": "щенок",
+   "en": "puppy",
+   "ja": "子犬",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00363",
+   "word": "будущий",
+   "en": "future",
+   "ja": "未来の",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00364",
+   "word": "поэт",
+   "en": "poet",
+   "ja": "詩人",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00365",
+   "word": "фантазия",
+   "en": "fantasy",
+   "ja": "空想",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00366",
+   "word": "закрывать",
+   "en": "cover",
+   "ja": "閉める",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00367",
+   "word": "сравнить",
+   "en": "compare",
+   "ja": "比べる",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00368",
+   "word": "сообщество",
+   "en": "community",
+   "ja": "共同体",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00369",
+   "word": "библиотека",
+   "en": "library",
+   "ja": "図書館",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00370",
+   "word": "зависимость",
+   "en": "dependence",
+   "ja": "依存",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00371",
+   "word": "выживание",
+   "en": "survival",
+   "ja": "生存",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00372",
+   "word": "крюк",
+   "en": "hook",
+   "ja": "フック",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00373",
+   "word": "восстановление",
+   "en": "reinstatement",
+   "ja": "回復",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00374",
+   "word": "сотня",
+   "en": "hundred",
+   "ja": "百",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00375",
+   "word": "джунгли",
+   "en": "jungle",
+   "ja": "ジャングル",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00376",
+   "word": "международный",
+   "en": "international",
+   "ja": "国際的な",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00377",
+   "word": "крот",
+   "en": "mole",
+   "ja": "モグラ",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00378",
+   "word": "могила",
+   "en": "grave",
+   "ja": "墓",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00379",
+   "word": "бикини",
+   "en": "bikini",
+   "ja": "ビキニ",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00380",
+   "word": "башня",
+   "en": "tower",
+   "ja": "塔",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00381",
+   "word": "бриллиант",
+   "en": "diamond",
+   "ja": "ダイヤモンド",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00382",
+   "word": "недвижимость",
+   "en": "real estate",
+   "ja": "不動産",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00383",
+   "word": "пик",
+   "en": "peak",
+   "ja": "頂点",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00384",
+   "word": "аргумент",
+   "en": "argument",
+   "ja": "論拠",
+   "status": "not_found"
+  },
+  {
+   "id": "ru-00385",
+   "word": "клан",
+   "en": "clan",
+   "ja": "氏族",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00386",
+   "word": "канун",
+   "en": "eve",
+   "ja": "前夜",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00387",
+   "word": "барьер",
+   "en": "barrier",
+   "ja": "障壁",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00388",
+   "word": "головной",
+   "en": "head",
+   "ja": "頭の",
+   "status": "conflicting",
+   "freedict": [
+    "cephalic"
+   ]
+  },
+  {
+   "id": "ru-00389",
+   "word": "отчаяние",
+   "en": "despair",
+   "ja": "絶望",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00390",
+   "word": "паук",
+   "en": "spider",
+   "ja": "クモ",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00391",
+   "word": "лимузин",
+   "en": "limousine",
+   "ja": "リムジン",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00392",
+   "word": "книжный",
+   "en": "book",
+   "ja": "本の",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00393",
+   "word": "закат",
+   "en": "sunset",
+   "ja": "日没",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00394",
+   "word": "холм",
+   "en": "hill",
+   "ja": "丘",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00395",
+   "word": "вдохновение",
+   "en": "inspiration",
+   "ja": "インスピレーション",
+   "status": "not_found"
+  },
+  {
+   "id": "ru-00396",
+   "word": "макароны",
+   "en": "macaroni",
+   "ja": "マカロニ",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00397",
+   "word": "независимость",
+   "en": "independence",
+   "ja": "独立",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00398",
+   "word": "календарь",
+   "en": "calendar",
+   "ja": "カレンダー",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00399",
+   "word": "полк",
+   "en": "regiment",
+   "ja": "連隊",
+   "status": "not_found"
+  },
+  {
+   "id": "ru-00400",
+   "word": "чашка",
+   "en": "cup",
+   "ja": "カップ",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00401",
+   "word": "певец",
+   "en": "singer",
+   "ja": "歌手",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00402",
+   "word": "маяк",
+   "en": "lighthouse",
+   "ja": "灯台",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00403",
+   "word": "столкновение",
+   "en": "collision",
+   "ja": "衝突",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00404",
+   "word": "умение",
+   "en": "ability",
+   "ja": "能力",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00405",
+   "word": "происхождение",
+   "en": "origin",
+   "ja": "起源",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00406",
+   "word": "бонус",
+   "en": "bonus",
+   "ja": "ボーナス",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00407",
+   "word": "тактика",
+   "en": "tactics",
+   "ja": "戦術",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00408",
+   "word": "сарказм",
+   "en": "sarcasm",
+   "ja": "皮肉",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00409",
+   "word": "порох",
+   "en": "gunpowder",
+   "ja": "火薬",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00410",
+   "word": "зять",
+   "en": "son-in-law",
+   "ja": "娘婿",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00411",
+   "word": "статуя",
+   "en": "statue",
+   "ja": "彫像",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00412",
+   "word": "монах",
+   "en": "monk",
+   "ja": "僧侶",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00413",
+   "word": "танк",
+   "en": "tank",
+   "ja": "戦車",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00414",
+   "word": "карантин",
+   "en": "quarantine",
+   "ja": "隔離",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00415",
+   "word": "дизайнер",
+   "en": "designer",
+   "ja": "デザイナー",
+   "status": "not_found"
+  },
+  {
+   "id": "ru-00416",
+   "word": "будильник",
+   "en": "alarm clock",
+   "ja": "目覚まし時計",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00417",
+   "word": "бригада",
+   "en": "brigade",
+   "ja": "旅団",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00418",
+   "word": "имидж",
+   "en": "image",
+   "ja": "イメージ",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00419",
+   "word": "смокинг",
+   "en": "tuxedo",
+   "ja": "タキシード",
+   "status": "not_found"
+  },
+  {
+   "id": "ru-00420",
+   "word": "фактор",
+   "en": "factor",
+   "ja": "要因",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00421",
+   "word": "стадион",
+   "en": "stadium",
+   "ja": "スタジアム",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00422",
+   "word": "экспресс",
+   "en": "express",
+   "ja": "急行",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00423",
+   "word": "стальной",
+   "en": "steel",
+   "ja": "鋼鉄の",
+   "status": "not_found"
+  },
+  {
+   "id": "ru-00424",
+   "word": "комбинация",
+   "en": "combination",
+   "ja": "組み合わせ",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00425",
+   "word": "панда",
+   "en": "panda",
+   "ja": "パンダ",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00426",
+   "word": "увеличение",
+   "en": "enlargement",
+   "ja": "増大",
+   "status": "conflicting",
+   "freedict": [
+    "increase",
+    "expansion",
+    "extension",
+    "augmentation",
+    "magnification"
+   ]
+  },
+  {
+   "id": "ru-00427",
+   "word": "скелет",
+   "en": "skeleton",
+   "ja": "骸骨",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00428",
+   "word": "семя",
+   "en": "seed",
+   "ja": "種子",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00429",
+   "word": "паразит",
+   "en": "parasite",
+   "ja": "寄生虫",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00430",
+   "word": "мафия",
+   "en": "mafia",
+   "ja": "マフィア",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00431",
+   "word": "пассажир",
+   "en": "passenger",
+   "ja": "乗客",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00432",
+   "word": "треугольник",
+   "en": "triangle",
+   "ja": "三角形",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00433",
+   "word": "зонтик",
+   "en": "umbrella",
+   "ja": "傘",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00434",
+   "word": "энтузиазм",
+   "en": "enthusiasm",
+   "ja": "熱意",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00435",
+   "word": "прототип",
+   "en": "prototype",
+   "ja": "原型",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00436",
+   "word": "лимон",
+   "en": "lemon",
+   "ja": "レモン",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00437",
+   "word": "молитва",
+   "en": "prayer",
+   "ja": "祈り",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00438",
+   "word": "сравнение",
+   "en": "comparison",
+   "ja": "比較",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00439",
+   "word": "гостеприимство",
+   "en": "hospitality",
+   "ja": "歓待",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00440",
+   "word": "вилла",
+   "en": "villa",
+   "ja": "別荘",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00441",
+   "word": "динамит",
+   "en": "dynamite",
+   "ja": "ダイナマイト",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00442",
+   "word": "парковка",
+   "en": "parking",
+   "ja": "駐車",
+   "status": "not_found"
+  },
+  {
+   "id": "ru-00443",
+   "word": "эвакуация",
+   "en": "evacuation",
+   "ja": "避難",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00444",
+   "word": "популярность",
+   "en": "popularity",
+   "ja": "人気",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00445",
+   "word": "алгоритм",
+   "en": "algorithm",
+   "ja": "アルゴリズム",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00446",
+   "word": "кислота",
+   "en": "acid",
+   "ja": "酸",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00447",
+   "word": "сироп",
+   "en": "syrup",
+   "ja": "シロップ",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00448",
+   "word": "помада",
+   "en": "lipstick",
+   "ja": "口紅",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00449",
+   "word": "батальон",
+   "en": "battalion",
+   "ja": "大隊",
+   "status": "not_found"
+  },
+  {
+   "id": "ru-00450",
+   "word": "комментарий",
+   "en": "comment",
+   "ja": "コメント",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00451",
+   "word": "заложник",
+   "en": "hostage",
+   "ja": "人質",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00452",
+   "word": "демонстрация",
+   "en": "demonstration",
+   "ja": "デモ",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00453",
+   "word": "тюремный",
+   "en": "prison",
+   "ja": "刑務所の",
+   "status": "not_found"
+  },
+  {
+   "id": "ru-00454",
+   "word": "кетчуп",
+   "en": "ketchup",
+   "ja": "ケチャップ",
+   "status": "not_found"
+  },
+  {
+   "id": "ru-00455",
+   "word": "стандартный",
+   "en": "standard",
+   "ja": "標準的な",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00456",
+   "word": "винтовка",
+   "en": "rifle",
+   "ja": "ライフル銃",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00457",
+   "word": "дантист",
+   "en": "dentist",
+   "ja": "歯医者",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00458",
+   "word": "фрагмент",
+   "en": "fragment",
+   "ja": "断片",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00459",
+   "word": "шампунь",
+   "en": "shampoo",
+   "ja": "シャンプー",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00460",
+   "word": "наблюдатель",
+   "en": "observer",
+   "ja": "観察者",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00461",
+   "word": "парламент",
+   "en": "parliament",
+   "ja": "議会",
+   "status": "not_found"
+  },
+  {
+   "id": "ru-00462",
+   "word": "издание",
+   "en": "publication",
+   "ja": "出版物",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00463",
+   "word": "симптом",
+   "en": "symptom",
+   "ja": "症状",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00464",
+   "word": "горизонт",
+   "en": "horizon",
+   "ja": "地平線",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00465",
+   "word": "зажигалка",
+   "en": "lighter",
+   "ja": "ライター",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00466",
+   "word": "рыбак",
+   "en": "fisherman",
+   "ja": "漁師",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00467",
+   "word": "донор",
+   "en": "donor",
+   "ja": "提供者",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00468",
+   "word": "опера",
+   "en": "opera",
+   "ja": "オペラ",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00469",
+   "word": "выгода",
+   "en": "profit",
+   "ja": "利益",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00470",
+   "word": "талия",
+   "en": "waist",
+   "ja": "ウエスト",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00471",
+   "word": "превосходство",
+   "en": "superiority",
+   "ja": "優越",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00472",
+   "word": "презентация",
+   "en": "presentation",
+   "ja": "プレゼンテーション",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00473",
+   "word": "парашют",
+   "en": "parachute",
+   "ja": "パラシュート",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00474",
+   "word": "кобра",
+   "en": "cobra",
+   "ja": "コブラ",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00475",
+   "word": "спрос",
+   "en": "demand",
+   "ja": "需要",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00476",
+   "word": "долина",
+   "en": "valley",
+   "ja": "谷",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00477",
+   "word": "маникюр",
+   "en": "manicure",
+   "ja": "マニキュア",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00478",
+   "word": "обои",
+   "en": "wallpaper",
+   "ja": "壁紙",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00479",
+   "word": "диабет",
+   "en": "diabetes",
+   "ja": "糖尿病",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00480",
+   "word": "крикет",
+   "en": "cricket",
+   "ja": "クリケット",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00481",
+   "word": "ложка",
+   "en": "spoon",
+   "ja": "スプーン",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00482",
+   "word": "ветеран",
+   "en": "veteran",
+   "ja": "退役軍人",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00483",
+   "word": "коньяк",
+   "en": "cognac",
+   "ja": "コニャック",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00484",
+   "word": "страдание",
+   "en": "suffering",
+   "ja": "苦しみ",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00485",
+   "word": "жалоба",
+   "en": "complaint",
+   "ja": "苦情",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00486",
+   "word": "союзник",
+   "en": "ally",
+   "ja": "同盟者",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00487",
+   "word": "сожаление",
+   "en": "regret",
+   "ja": "後悔",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00488",
+   "word": "пейзаж",
+   "en": "landscape",
+   "ja": "風景",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00489",
+   "word": "ожог",
+   "en": "scald",
+   "ja": "やけど",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00490",
+   "word": "монета",
+   "en": "coin",
+   "ja": "硬貨",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00491",
+   "word": "аквариум",
+   "en": "aquarium",
+   "ja": "水族館",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00492",
+   "word": "администратор",
+   "en": "administrator",
+   "ja": "管理者",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00493",
+   "word": "тошнота",
+   "en": "loathing",
+   "ja": "吐き気",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00494",
+   "word": "ошейник",
+   "en": "collar",
+   "ja": "首輪",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00495",
+   "word": "алхимик",
+   "en": "alchemist",
+   "ja": "錬金術師",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00496",
+   "word": "вакцина",
+   "en": "vaccine",
+   "ja": "ワクチン",
+   "status": "not_found"
+  },
+  {
+   "id": "ru-00497",
+   "word": "радиус",
+   "en": "radius",
+   "ja": "半径",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00498",
+   "word": "близнец",
+   "en": "twin",
+   "ja": "双子",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00499",
+   "word": "барабан",
+   "en": "drum",
+   "ja": "ドラム",
+   "status": "not_found"
+  },
+  {
+   "id": "ru-00500",
+   "word": "кредитка",
+   "en": "credit card",
+   "ja": "クレジットカード",
+   "status": "not_found"
+  },
+  {
+   "id": "ru-00501",
+   "word": "поклон",
+   "en": "bow",
+   "ja": "お辞儀",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00502",
+   "word": "порция",
+   "en": "portion",
+   "ja": "一人分",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00503",
+   "word": "слоган",
+   "en": "slogan",
+   "ja": "標語",
+   "status": "not_found"
+  },
+  {
+   "id": "ru-00504",
+   "word": "холостяк",
+   "en": "bachelor",
+   "ja": "独身男性",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00505",
+   "word": "пингвин",
+   "en": "penguin",
+   "ja": "ペンギン",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00506",
+   "word": "платформа",
+   "en": "platform",
+   "ja": "プラットフォーム",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00507",
+   "word": "завершение",
+   "en": "completion",
+   "ja": "完成",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00508",
+   "word": "артерия",
+   "en": "artery",
+   "ja": "動脈",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00509",
+   "word": "старость",
+   "en": "old age",
+   "ja": "老年",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00510",
+   "word": "живопись",
+   "en": "painting",
+   "ja": "絵画",
+   "status": "not_found"
+  },
+  {
+   "id": "ru-00511",
+   "word": "сочельник",
+   "en": "christmas eve",
+   "ja": "クリスマスイブ",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00512",
+   "word": "секция",
+   "en": "section",
+   "ja": "セクション",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00513",
+   "word": "турист",
+   "en": "tourist",
+   "ja": "観光客",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00514",
+   "word": "повязка",
+   "en": "bandage",
+   "ja": "包帯",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00515",
+   "word": "механика",
+   "en": "mechanics",
+   "ja": "力学",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00516",
+   "word": "любовный",
+   "en": "love",
+   "ja": "恋愛の",
+   "status": "not_found"
+  },
+  {
+   "id": "ru-00517",
+   "word": "глубина",
+   "en": "depth",
+   "ja": "深さ",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00518",
+   "word": "чувствительность",
+   "en": "sensitivity",
+   "ja": "感受性",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00519",
+   "word": "преступность",
+   "en": "crime",
+   "ja": "犯罪",
+   "status": "conflicting",
+   "freedict": [
+    "criminal nature",
+    "criminality",
+    "criminals"
+   ]
+  },
+  {
+   "id": "ru-00520",
+   "word": "трясти",
+   "en": "shake",
+   "ja": "揺する",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00521",
+   "word": "терроризм",
+   "en": "terrorism",
+   "ja": "テロリズム",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00522",
+   "word": "федерация",
+   "en": "federation",
+   "ja": "連邦",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00101",
+   "word": "любовь",
+   "en": "love",
+   "ja": "愛",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00102",
+   "word": "счастье",
+   "en": "happiness",
+   "ja": "幸せ",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00103",
+   "word": "здоровье",
+   "en": "health",
+   "ja": "健康",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00104",
+   "word": "жизнь",
+   "en": "life",
+   "ja": "人生",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00105",
+   "word": "смерть",
+   "en": "death",
+   "ja": "死",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00106",
+   "word": "правда",
+   "en": "truth",
+   "ja": "真実",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00107",
+   "word": "вопрос",
+   "en": "question",
+   "ja": "質問",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00108",
+   "word": "ответ",
+   "en": "answer",
+   "ja": "答え",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00109",
+   "word": "проблема",
+   "en": "problem",
+   "ja": "問題",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00110",
+   "word": "будущее",
+   "en": "future",
+   "ja": "未来",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00111",
+   "word": "прошлое",
+   "en": "past",
+   "ja": "過去",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00112",
+   "word": "надежда",
+   "en": "hope",
+   "ja": "希望",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00113",
+   "word": "мечта",
+   "en": "dream",
+   "ja": "夢（願望）",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00114",
+   "word": "память",
+   "en": "memory",
+   "ja": "記憶",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00115",
+   "word": "внимание",
+   "en": "attention",
+   "ja": "注意",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00116",
+   "word": "успех",
+   "en": "success",
+   "ja": "成功",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00117",
+   "word": "ошибка",
+   "en": "mistake",
+   "ja": "間違い",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00118",
+   "word": "опыт",
+   "en": "experience",
+   "ja": "経験",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00119",
+   "word": "знание",
+   "en": "knowledge",
+   "ja": "知識",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00120",
+   "word": "сила",
+   "en": "strength",
+   "ja": "力",
+   "status": "conflicting",
+   "freedict": [
+    "Sila",
+    "force",
+    "power",
+    "might",
+    "p&lt;u&gt;o&lt;/u&gt;wer"
+   ]
+  },
+  {
+   "id": "ru-00121",
+   "word": "власть",
+   "en": "power",
+   "ja": "権力",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00122",
+   "word": "закон",
+   "en": "law",
+   "ja": "法律",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00123",
+   "word": "свобода",
+   "en": "freedom",
+   "ja": "自由",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00124",
+   "word": "государство",
+   "en": "state",
+   "ja": "国家",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00125",
+   "word": "общество",
+   "en": "society",
+   "ja": "社会",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00126",
+   "word": "история",
+   "en": "history",
+   "ja": "歴史",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00127",
+   "word": "наука",
+   "en": "science",
+   "ja": "科学",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00128",
+   "word": "искусство",
+   "en": "art",
+   "ja": "芸術",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00129",
+   "word": "музыка",
+   "en": "music",
+   "ja": "音楽",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00130",
+   "word": "природа",
+   "en": "nature",
+   "ja": "自然",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00131",
+   "word": "развитие",
+   "en": "development",
+   "ja": "発展",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00132",
+   "word": "изменение",
+   "en": "change",
+   "ja": "変化",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00133",
+   "word": "причина",
+   "en": "reason",
+   "ja": "理由",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00134",
+   "word": "результат",
+   "en": "result",
+   "ja": "結果",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00135",
+   "word": "цель",
+   "en": "goal",
+   "ja": "目標",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00136",
+   "word": "пример",
+   "en": "example",
+   "ja": "例",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00137",
+   "word": "качество",
+   "en": "quality",
+   "ja": "質",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00138",
+   "word": "количество",
+   "en": "quantity",
+   "ja": "量",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00139",
+   "word": "понимать",
+   "en": "to understand",
+   "ja": "理解する",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00140",
+   "word": "объяснять",
+   "en": "to explain",
+   "ja": "説明する",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00141",
+   "word": "помогать",
+   "en": "to help",
+   "ja": "助ける",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00142",
+   "word": "создавать",
+   "en": "to create",
+   "ja": "創る",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00143",
+   "word": "предлагать",
+   "en": "to suggest",
+   "ja": "提案する",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00144",
+   "word": "получать",
+   "en": "to receive",
+   "ja": "受け取る",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00145",
+   "word": "менять",
+   "en": "to change",
+   "ja": "変える",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00146",
+   "word": "решать",
+   "en": "to decide",
+   "ja": "決める",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00147",
+   "word": "важный",
+   "en": "important",
+   "ja": "重要な",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00148",
+   "word": "трудный",
+   "en": "difficult",
+   "ja": "難しい",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00149",
+   "word": "возможный",
+   "en": "possible",
+   "ja": "可能な",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00150",
+   "word": "необходимый",
+   "en": "necessary",
+   "ja": "必要な",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00523",
+   "word": "издатель",
+   "en": "publisher",
+   "ja": "出版者",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00524",
+   "word": "манго",
+   "en": "mango",
+   "ja": "マンゴー",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00525",
+   "word": "функция",
+   "en": "function",
+   "ja": "機能",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00526",
+   "word": "рояль",
+   "en": "grand piano",
+   "ja": "グランドピアノ",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00527",
+   "word": "седан",
+   "en": "sedan",
+   "ja": "セダン",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00528",
+   "word": "клон",
+   "en": "clone",
+   "ja": "クローン",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00529",
+   "word": "тостер",
+   "en": "toaster",
+   "ja": "トースター",
+   "status": "not_found"
+  },
+  {
+   "id": "ru-00530",
+   "word": "капсула",
+   "en": "capsule",
+   "ja": "カプセル",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00531",
+   "word": "клерк",
+   "en": "clerk",
+   "ja": "事務員",
+   "status": "conflicting",
+   "freedict": [
+    "salaryman",
+    "white-collar"
+   ]
+  },
+  {
+   "id": "ru-00532",
+   "word": "организатор",
+   "en": "organizer",
+   "ja": "主催者",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00533",
+   "word": "уравнение",
+   "en": "equation",
+   "ja": "方程式",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00534",
+   "word": "насекомое",
+   "en": "insect",
+   "ja": "昆虫",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00535",
+   "word": "горилла",
+   "en": "gorilla",
+   "ja": "ゴリラ",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00536",
+   "word": "гипс",
+   "en": "plaster cast",
+   "ja": "ギプス",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00537",
+   "word": "уран",
+   "en": "uranium",
+   "ja": "ウラン",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00538",
+   "word": "индустрия",
+   "en": "industry",
+   "ja": "産業",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00539",
+   "word": "горный",
+   "en": "mountain",
+   "ja": "山の",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00540",
+   "word": "астма",
+   "en": "asthma",
+   "ja": "喘息",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00541",
+   "word": "свинина",
+   "en": "pork",
+   "ja": "豚肉",
+   "status": "not_found"
+  },
+  {
+   "id": "ru-00542",
+   "word": "морфий",
+   "en": "morphine",
+   "ja": "モルヒネ",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00543",
+   "word": "гипноз",
+   "en": "hypnosis",
+   "ja": "催眠",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00544",
+   "word": "потомство",
+   "en": "posterity",
+   "ja": "子孫",
+   "status": "conflicting",
+   "freedict": [
+    "offspring"
+   ]
+  },
+  {
+   "id": "ru-00545",
+   "word": "рукопожатие",
+   "en": "handshake",
+   "ja": "握手",
+   "status": "not_found"
+  },
+  {
+   "id": "ru-00546",
+   "word": "дефицит",
+   "en": "deficit",
+   "ja": "不足",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00547",
+   "word": "капюшон",
+   "en": "hood",
+   "ja": "フード",
+   "status": "not_found"
+  },
+  {
+   "id": "ru-00548",
+   "word": "климат",
+   "en": "climate",
+   "ja": "気候",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00549",
+   "word": "восход",
+   "en": "rise",
+   "ja": "日の出",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00550",
+   "word": "ягуар",
+   "en": "jaguar",
+   "ja": "ジャガー",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00551",
+   "word": "сантиметр",
+   "en": "tape measure",
+   "ja": "センチメートル",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00552",
+   "word": "мессия",
+   "en": "messiah",
+   "ja": "救世主",
+   "status": "not_found"
+  },
+  {
+   "id": "ru-00553",
+   "word": "поселение",
+   "en": "settlement",
+   "ja": "集落",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00554",
+   "word": "обвинитель",
+   "en": "accuser",
+   "ja": "告発者",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00555",
+   "word": "виза",
+   "en": "visa",
+   "ja": "査証",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00556",
+   "word": "гипотеза",
+   "en": "hypothesis",
+   "ja": "仮説",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00557",
+   "word": "компенсация",
+   "en": "compensation",
+   "ja": "補償",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00558",
+   "word": "трактор",
+   "en": "tractor",
+   "ja": "トラクター",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00559",
+   "word": "скутер",
+   "en": "scooter",
+   "ja": "スクーター",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00560",
+   "word": "акушерка",
+   "en": "midwife",
+   "ja": "助産師",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00561",
+   "word": "вечерний",
+   "en": "evening",
+   "ja": "夕方の",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00562",
+   "word": "улучшение",
+   "en": "improvement",
+   "ja": "改善",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00563",
+   "word": "раскопки",
+   "en": "excavation",
+   "ja": "発掘",
+   "status": "not_found"
+  },
+  {
+   "id": "ru-00564",
+   "word": "постер",
+   "en": "poster",
+   "ja": "ポスター",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00565",
+   "word": "алтарь",
+   "en": "altar",
+   "ja": "祭壇",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00566",
+   "word": "спора",
+   "en": "spore",
+   "ja": "胞子",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00567",
+   "word": "исследователь",
+   "en": "researcher",
+   "ja": "研究者",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00568",
+   "word": "строение",
+   "en": "building",
+   "ja": "建造物",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00569",
+   "word": "губка",
+   "en": "sponge",
+   "ja": "スポンジ",
+   "status": "conflicting",
+   "freedict": [
+    "lip"
+   ]
+  },
+  {
+   "id": "ru-00570",
+   "word": "рыбный",
+   "en": "fish",
+   "ja": "魚の",
+   "status": "not_found"
+  },
+  {
+   "id": "ru-00571",
+   "word": "вытирать",
+   "en": "wipe",
+   "ja": "拭く",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00572",
+   "word": "полость",
+   "en": "cavity",
+   "ja": "空洞",
+   "status": "not_found"
+  },
+  {
+   "id": "ru-00573",
+   "word": "блузка",
+   "en": "blouse",
+   "ja": "ブラウス",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00574",
+   "word": "библиотекарь",
+   "en": "librarian",
+   "ja": "司書",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00575",
+   "word": "суперзвезда",
+   "en": "superstar",
+   "ja": "スーパースター",
+   "status": "not_found"
+  },
+  {
+   "id": "ru-00576",
+   "word": "срочность",
+   "en": "urgency",
+   "ja": "緊急性",
+   "status": "not_found"
+  },
+  {
+   "id": "ru-00577",
+   "word": "неудобство",
+   "en": "inconvenience",
+   "ja": "不便",
+   "status": "not_found"
+  },
+  {
+   "id": "ru-00578",
+   "word": "пехота",
+   "en": "infantry",
+   "ja": "歩兵",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00579",
+   "word": "прецедент",
+   "en": "precedent",
+   "ja": "前例",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00580",
+   "word": "мизинец",
+   "en": "little finger",
+   "ja": "小指",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00581",
+   "word": "ускорение",
+   "en": "acceleration",
+   "ja": "加速",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00582",
+   "word": "тормозить",
+   "en": "brake",
+   "ja": "ブレーキをかける",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00583",
+   "word": "лава",
+   "en": "lava",
+   "ja": "溶岩",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00584",
+   "word": "каменный",
+   "en": "stone",
+   "ja": "石の",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00585",
+   "word": "ингредиент",
+   "en": "ingredient",
+   "ja": "材料",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00586",
+   "word": "астероид",
+   "en": "asteroid",
+   "ja": "小惑星",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00587",
+   "word": "пневмония",
+   "en": "pneumonia",
+   "ja": "肺炎",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00588",
+   "word": "христианство",
+   "en": "christianity",
+   "ja": "キリスト教",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00589",
+   "word": "коррупция",
+   "en": "corruption",
+   "ja": "汚職",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00590",
+   "word": "солидарность",
+   "en": "solidarity",
+   "ja": "連帯",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00591",
+   "word": "титан",
+   "en": "titanium",
+   "ja": "チタン",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00592",
+   "word": "гонг",
+   "en": "gong",
+   "ja": "ゴング",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00593",
+   "word": "ризотто",
+   "en": "risotto",
+   "ja": "リゾット",
+   "status": "not_found"
+  },
+  {
+   "id": "ru-00594",
+   "word": "плейбой",
+   "en": "playboy",
+   "ja": "プレイボーイ",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00595",
+   "word": "арбуз",
+   "en": "watermelon",
+   "ja": "スイカ",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00596",
+   "word": "бас",
+   "en": "bass",
+   "ja": "バス（低音）",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00597",
+   "word": "пародия",
+   "en": "parody",
+   "ja": "パロディ",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00598",
+   "word": "пенсия",
+   "en": "pension",
+   "ja": "年金",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00599",
+   "word": "мудрец",
+   "en": "sage",
+   "ja": "賢人",
+   "status": "not_found"
+  },
+  {
+   "id": "ru-00600",
+   "word": "пинать",
+   "en": "kick",
+   "ja": "蹴る",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00601",
+   "word": "изоляция",
+   "en": "isolation",
+   "ja": "孤立",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00602",
+   "word": "таракан",
+   "en": "cockroach",
+   "ja": "ゴキブリ",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00603",
+   "word": "брасс",
+   "en": "breaststroke",
+   "ja": "平泳ぎ",
+   "status": "not_found"
+  },
+  {
+   "id": "ru-00604",
+   "word": "горчица",
+   "en": "mustard",
+   "ja": "カラシ",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00605",
+   "word": "студенческий",
+   "en": "student",
+   "ja": "学生の",
+   "status": "not_found"
+  },
+  {
+   "id": "ru-00606",
+   "word": "охотничий",
+   "en": "hunting",
+   "ja": "狩猟の",
+   "status": "not_found"
+  },
+  {
+   "id": "ru-00607",
+   "word": "спектр",
+   "en": "spectrum",
+   "ja": "スペクトル",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00608",
+   "word": "сафари",
+   "en": "safari",
+   "ja": "サファリ",
+   "status": "not_found"
+  },
+  {
+   "id": "ru-00609",
+   "word": "брокер",
+   "en": "broker",
+   "ja": "ブローカー",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00610",
+   "word": "дилемма",
+   "en": "dilemma",
+   "ja": "ジレンマ",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00611",
+   "word": "анонимность",
+   "en": "anonymity",
+   "ja": "匿名性",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00612",
+   "word": "ислам",
+   "en": "islam",
+   "ja": "イスラム教",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00613",
+   "word": "регион",
+   "en": "region",
+   "ja": "地域",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00614",
+   "word": "светить",
+   "en": "shine",
+   "ja": "光る",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00615",
+   "word": "брошь",
+   "en": "brooch",
+   "ja": "ブローチ",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00616",
+   "word": "силуэт",
+   "en": "silhouette",
+   "ja": "シルエット",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00617",
+   "word": "бампер",
+   "en": "bumper",
+   "ja": "バンパー",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00618",
+   "word": "оазис",
+   "en": "oasis",
+   "ja": "オアシス",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00619",
+   "word": "оптимист",
+   "en": "optimist",
+   "ja": "楽天家",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00620",
+   "word": "реабилитационный",
+   "en": "rehabilitation",
+   "ja": "リハビリの",
+   "status": "not_found"
+  },
+  {
+   "id": "ru-00621",
+   "word": "брюхо",
+   "en": "belly",
+   "ja": "腹",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00622",
+   "word": "отрава",
+   "en": "poison",
+   "ja": "毒",
+   "status": "not_found"
+  },
+  {
+   "id": "ru-00623",
+   "word": "обезвоживание",
+   "en": "dehydration",
+   "ja": "脱水",
+   "status": "not_found"
+  },
+  {
+   "id": "ru-00624",
+   "word": "гриб",
+   "en": "mushroom",
+   "ja": "キノコ",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00625",
+   "word": "джокер",
+   "en": "joker",
+   "ja": "ジョーカー",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00626",
+   "word": "хрупкий",
+   "en": "fragile",
+   "ja": "もろい",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00627",
+   "word": "вихрь",
+   "en": "whirlwind",
+   "ja": "旋風",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00628",
+   "word": "оружейный",
+   "en": "weapon",
+   "ja": "武器の",
+   "status": "not_found"
+  },
+  {
+   "id": "ru-00629",
+   "word": "обогреватель",
+   "en": "heater",
+   "ja": "ヒーター",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00630",
+   "word": "огурец",
+   "en": "cucumber",
+   "ja": "キュウリ",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00631",
+   "word": "цилиндр",
+   "en": "cylinder",
+   "ja": "円柱",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00632",
+   "word": "лейкемия",
+   "en": "leukemia",
+   "ja": "白血病",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00633",
+   "word": "вакуум",
+   "en": "vacuum",
+   "ja": "真空",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00634",
+   "word": "виновник",
+   "en": "culprit",
+   "ja": "犯人",
+   "status": "conflicting",
+   "freedict": [
+    "author",
+    "initiator"
+   ]
+  },
+  {
+   "id": "ru-00635",
+   "word": "траектория",
+   "en": "trajectory",
+   "ja": "軌道",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00636",
+   "word": "надзор",
+   "en": "supervision",
+   "ja": "監視",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00637",
+   "word": "жираф",
+   "en": "giraffe",
+   "ja": "キリン",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00638",
+   "word": "наводнение",
+   "en": "flood",
+   "ja": "洪水",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00639",
+   "word": "викинг",
+   "en": "viking",
+   "ja": "ヴァイキング(北欧の海賊)",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00640",
+   "word": "осьминог",
+   "en": "octopus",
+   "ja": "タコ",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00641",
+   "word": "мумия",
+   "en": "mummy",
+   "ja": "ミイラ",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00642",
+   "word": "балерина",
+   "en": "ballerina",
+   "ja": "バレリーナ",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00643",
+   "word": "пыльца",
+   "en": "pollen",
+   "ja": "花粉",
+   "status": "not_found"
+  },
+  {
+   "id": "ru-00644",
+   "word": "заповедь",
+   "en": "commandment",
+   "ja": "戒律",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00645",
+   "word": "риф",
+   "en": "reef",
+   "ja": "岩礁",
+   "status": "not_found"
+  },
+  {
+   "id": "ru-00646",
+   "word": "благословить",
+   "en": "bless",
+   "ja": "祝福する",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00647",
+   "word": "ностальгия",
+   "en": "nostalgia",
+   "ja": "郷愁",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00648",
+   "word": "вентиляция",
+   "en": "ventilation",
+   "ja": "換気",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00649",
+   "word": "средневековье",
+   "en": "middle ages",
+   "ja": "中世",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00650",
+   "word": "бровь",
+   "en": "eyebrow",
+   "ja": "まゆ毛",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00651",
+   "word": "контекст",
+   "en": "context",
+   "ja": "文脈",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00652",
+   "word": "пазл",
+   "en": "jigsaw puzzle",
+   "ja": "ジグソーパズル",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00653",
+   "word": "инспекция",
+   "en": "inspection",
+   "ja": "検査",
+   "status": "not_found"
+  },
+  {
+   "id": "ru-00654",
+   "word": "ересь",
+   "en": "heresy",
+   "ja": "異端",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00655",
+   "word": "ртуть",
+   "en": "mercury",
+   "ja": "水銀",
+   "status": "not_found"
+  },
+  {
+   "id": "ru-00656",
+   "word": "пакт",
+   "en": "pact",
+   "ja": "協定",
+   "status": "not_found"
+  },
+  {
+   "id": "ru-00657",
+   "word": "лавина",
+   "en": "avalanche",
+   "ja": "なだれ",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00658",
+   "word": "инъекция",
+   "en": "injection",
+   "ja": "注射",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00659",
+   "word": "шпинат",
+   "en": "spinach",
+   "ja": "ホウレンソウ",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00660",
+   "word": "кокон",
+   "en": "cocoon",
+   "ja": "繭",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00661",
+   "word": "симфония",
+   "en": "symphony",
+   "ja": "交響曲",
+   "status": "not_found"
+  },
+  {
+   "id": "ru-00662",
+   "word": "взвесить",
+   "en": "weigh",
+   "ja": "量る",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00663",
+   "word": "плато",
+   "en": "plateau",
+   "ja": "高原",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00664",
+   "word": "пенициллин",
+   "en": "penicillin",
+   "ja": "ペニシリン",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00665",
+   "word": "холера",
+   "en": "cholera",
+   "ja": "コレラ",
+   "status": "not_found"
+  },
+  {
+   "id": "ru-00666",
+   "word": "фантом",
+   "en": "phantom",
+   "ja": "幻影",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00667",
+   "word": "стилист",
+   "en": "stylist",
+   "ja": "スタイリスト",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00668",
+   "word": "аритмия",
+   "en": "arrhythmia",
+   "ja": "不整脈",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00669",
+   "word": "вмятина",
+   "en": "dent",
+   "ja": "へこみ",
+   "status": "not_found"
+  },
+  {
+   "id": "ru-00670",
+   "word": "арена",
+   "en": "arena",
+   "ja": "競技場",
+   "status": "not_found"
+  },
+  {
+   "id": "ru-00671",
+   "word": "лаять",
+   "en": "bark",
+   "ja": "吠える",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00672",
+   "word": "градус",
+   "en": "degree",
+   "ja": "度",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00673",
+   "word": "адаптация",
+   "en": "adaptation",
+   "ja": "順応",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00674",
+   "word": "династия",
+   "en": "dynasty",
+   "ja": "王朝",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00675",
+   "word": "некомпетентность",
+   "en": "incompetence",
+   "ja": "無能",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00676",
+   "word": "протеин",
+   "en": "protein",
+   "ja": "タンパク質",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00677",
+   "word": "гильдия",
+   "en": "guild",
+   "ja": "ギルド",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00678",
+   "word": "нота",
+   "en": "note",
+   "ja": "音符",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00679",
+   "word": "грыжа",
+   "en": "hernia",
+   "ja": "ヘルニア",
+   "status": "not_found"
+  },
+  {
+   "id": "ru-00680",
+   "word": "губной",
+   "en": "lip",
+   "ja": "唇の",
+   "status": "not_found"
+  },
+  {
+   "id": "ru-00681",
+   "word": "пиар",
+   "en": "public relations",
+   "ja": "広報",
+   "status": "conflicting",
+   "freedict": [
+    "PR"
+   ]
+  },
+  {
+   "id": "ru-00682",
+   "word": "алхимия",
+   "en": "alchemy",
+   "ja": "錬金術",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00683",
+   "word": "потереть",
+   "en": "rub",
+   "ja": "こする",
+   "status": "not_found"
+  },
+  {
+   "id": "ru-00684",
+   "word": "дренаж",
+   "en": "drainage",
+   "ja": "排水",
+   "status": "not_found"
+  },
+  {
+   "id": "ru-00685",
+   "word": "аналогия",
+   "en": "analogy",
+   "ja": "類推",
+   "status": "not_found"
+  },
+  {
+   "id": "ru-00686",
+   "word": "гороскоп",
+   "en": "horoscope",
+   "ja": "星占い",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00687",
+   "word": "айсберг",
+   "en": "iceberg",
+   "ja": "氷山",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00688",
+   "word": "лжесвидетельство",
+   "en": "perjury",
+   "ja": "偽証",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00689",
+   "word": "вектор",
+   "en": "vector",
+   "ja": "ベクトル",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00690",
+   "word": "резонанс",
+   "en": "resonance",
+   "ja": "共鳴",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00691",
+   "word": "пекарня",
+   "en": "bakery",
+   "ja": "パン屋",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00692",
+   "word": "мусс",
+   "en": "mousse",
+   "ja": "ムース",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00693",
+   "word": "бестселлер",
+   "en": "bestseller",
+   "ja": "ベストセラー",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00694",
+   "word": "этикет",
+   "en": "etiquette",
+   "ja": "エチケット",
+   "status": "not_found"
+  },
+  {
+   "id": "ru-00695",
+   "word": "убийственный",
+   "en": "killing",
+   "ja": "殺人的な",
+   "status": "conflicting",
+   "freedict": [
+    "murderous"
+   ]
+  },
+  {
+   "id": "ru-00696",
+   "word": "нейтралитет",
+   "en": "neutrality",
+   "ja": "中立",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00697",
+   "word": "бухгалтерия",
+   "en": "bookkeeping",
+   "ja": "簿記",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00698",
+   "word": "небоскрёб",
+   "en": "skyscraper",
+   "ja": "摩天楼",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00699",
+   "word": "торс",
+   "en": "trunk",
+   "ja": "胴体",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00700",
+   "word": "щётка",
+   "en": "brush",
+   "ja": "ブラシ",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00701",
+   "word": "малярия",
+   "en": "malaria",
+   "ja": "マラリア",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00702",
+   "word": "надгробие",
+   "en": "tombstone",
+   "ja": "墓石",
+   "status": "not_found"
+  },
+  {
+   "id": "ru-00703",
+   "word": "боксёр",
+   "en": "boxer",
+   "ja": "ボクサー",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00704",
+   "word": "пользователь",
+   "en": "user",
+   "ja": "ユーザー",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00705",
+   "word": "менопауза",
+   "en": "menopause",
+   "ja": "閉経",
+   "status": "not_found"
+  },
+  {
+   "id": "ru-00706",
+   "word": "торпеда",
+   "en": "torpedo",
+   "ja": "魚雷",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00707",
+   "word": "мышца",
+   "en": "muscle",
+   "ja": "筋肉",
+   "status": "matched"
+  }
+ ]
+}

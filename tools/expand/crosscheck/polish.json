@@ -1,0 +1,4398 @@
+{
+ "source": "FreeDict (TEI)",
+ "total": 616,
+ "counts": {
+  "matched": 573,
+  "conflicting": 19,
+  "not_found": 24
+ },
+ "results": [
+  {
+   "id": "pl-00001",
+   "word": "tak",
+   "en": "yes",
+   "ja": "はい",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00002",
+   "word": "nie",
+   "en": "no",
+   "ja": "いいえ",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00003",
+   "word": "dzień",
+   "en": "day",
+   "ja": "日",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00004",
+   "word": "noc",
+   "en": "night",
+   "ja": "夜",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00005",
+   "word": "woda",
+   "en": "water",
+   "ja": "水",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00006",
+   "word": "chleb",
+   "en": "bread",
+   "ja": "パン",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00007",
+   "word": "mleko",
+   "en": "milk",
+   "ja": "牛乳",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00008",
+   "word": "dom",
+   "en": "house",
+   "ja": "家",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00009",
+   "word": "kot",
+   "en": "cat",
+   "ja": "猫",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00010",
+   "word": "pies",
+   "en": "dog",
+   "ja": "犬",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00011",
+   "word": "matka",
+   "en": "mother",
+   "ja": "母",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00012",
+   "word": "ojciec",
+   "en": "father",
+   "ja": "父",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00013",
+   "word": "kobieta",
+   "en": "woman",
+   "ja": "女性",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00014",
+   "word": "mężczyzna",
+   "en": "man",
+   "ja": "男性",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00015",
+   "word": "dziecko",
+   "en": "child",
+   "ja": "子供",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00016",
+   "word": "ręka",
+   "en": "hand",
+   "ja": "手",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00017",
+   "word": "noga",
+   "en": "leg",
+   "ja": "脚",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00018",
+   "word": "głowa",
+   "en": "head",
+   "ja": "頭",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00019",
+   "word": "oko",
+   "en": "eye",
+   "ja": "目",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00020",
+   "word": "serce",
+   "en": "heart",
+   "ja": "心臓",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00021",
+   "word": "słońce",
+   "en": "sun",
+   "ja": "太陽",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00022",
+   "word": "księżyc",
+   "en": "moon",
+   "ja": "月（天体）",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00023",
+   "word": "niebo",
+   "en": "sky",
+   "ja": "空",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00024",
+   "word": "morze",
+   "en": "sea",
+   "ja": "海",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00025",
+   "word": "góra",
+   "en": "mountain",
+   "ja": "山",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00026",
+   "word": "drzewo",
+   "en": "tree",
+   "ja": "木",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00027",
+   "word": "kwiat",
+   "en": "flower",
+   "ja": "花",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00028",
+   "word": "miasto",
+   "en": "city",
+   "ja": "都市",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00029",
+   "word": "ulica",
+   "en": "street",
+   "ja": "通り",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00030",
+   "word": "szkoła",
+   "en": "school",
+   "ja": "学校",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00031",
+   "word": "książka",
+   "en": "book",
+   "ja": "本",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00032",
+   "word": "stół",
+   "en": "table",
+   "ja": "テーブル",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00033",
+   "word": "krzesło",
+   "en": "chair",
+   "ja": "椅子",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00034",
+   "word": "okno",
+   "en": "window",
+   "ja": "窓",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00035",
+   "word": "samochód",
+   "en": "car",
+   "ja": "車",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00036",
+   "word": "czas",
+   "en": "time",
+   "ja": "時間",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00037",
+   "word": "rok",
+   "en": "year",
+   "ja": "年",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00038",
+   "word": "miesiąc",
+   "en": "month",
+   "ja": "月（暦）",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00039",
+   "word": "tydzień",
+   "en": "week",
+   "ja": "週",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00040",
+   "word": "godzina",
+   "en": "hour",
+   "ja": "時間（1時間）",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00041",
+   "word": "rano",
+   "en": "morning",
+   "ja": "朝",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00042",
+   "word": "wieczór",
+   "en": "evening",
+   "ja": "夕方",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00043",
+   "word": "herbata",
+   "en": "tea",
+   "ja": "お茶",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00044",
+   "word": "kawa",
+   "en": "coffee",
+   "ja": "コーヒー",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00045",
+   "word": "jabłko",
+   "en": "apple",
+   "ja": "りんご",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00046",
+   "word": "ryba",
+   "en": "fish",
+   "ja": "魚",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00047",
+   "word": "mięso",
+   "en": "meat",
+   "ja": "肉",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00048",
+   "word": "sól",
+   "en": "salt",
+   "ja": "塩",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00049",
+   "word": "imię",
+   "en": "name",
+   "ja": "名前",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00050",
+   "word": "rodzina",
+   "en": "family",
+   "ja": "家族",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00151",
+   "word": "bardzo",
+   "en": "very",
+   "ja": "とても",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00152",
+   "word": "zawsze",
+   "en": "always",
+   "ja": "常に",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00153",
+   "word": "trochę",
+   "en": "little",
+   "ja": "少し",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00154",
+   "word": "żona",
+   "en": "wife",
+   "ja": "妻",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00155",
+   "word": "nazwisko",
+   "en": "name",
+   "ja": "名字",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00156",
+   "word": "reszta",
+   "en": "rest",
+   "ja": "残り",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00157",
+   "word": "ślub",
+   "en": "wedding",
+   "ja": "結婚式",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00158",
+   "word": "list",
+   "en": "letter",
+   "ja": "手紙",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00159",
+   "word": "przyszłość",
+   "en": "future",
+   "ja": "将来",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00160",
+   "word": "sen",
+   "en": "dream",
+   "ja": "夢",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00161",
+   "word": "laboratorium",
+   "en": "laboratory",
+   "ja": "実験室",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00162",
+   "word": "uczucie",
+   "en": "feeling",
+   "ja": "感情",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00163",
+   "word": "detektyw",
+   "en": "detective",
+   "ja": "探偵",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00164",
+   "word": "lunch",
+   "en": "lunch",
+   "ja": "昼食",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00165",
+   "word": "rana",
+   "en": "wound",
+   "ja": "傷",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00166",
+   "word": "wygrać",
+   "en": "win",
+   "ja": "勝つ",
+   "status": "not_found"
+  },
+  {
+   "id": "pl-00167",
+   "word": "sygnał",
+   "en": "signal",
+   "ja": "信号",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00168",
+   "word": "wybrać",
+   "en": "choose",
+   "ja": "選ぶ",
+   "status": "not_found"
+  },
+  {
+   "id": "pl-00169",
+   "word": "zaufać",
+   "en": "trust",
+   "ja": "信頼する",
+   "status": "not_found"
+  },
+  {
+   "id": "pl-00170",
+   "word": "budynek",
+   "en": "building",
+   "ja": "建物",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00171",
+   "word": "łódź",
+   "en": "boat",
+   "ja": "ボート",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00172",
+   "word": "park",
+   "en": "park",
+   "ja": "公園",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00173",
+   "word": "uczyć",
+   "en": "teach",
+   "ja": "教える",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00174",
+   "word": "bank",
+   "en": "bank",
+   "ja": "銀行",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00175",
+   "word": "śledztwo",
+   "en": "investigation",
+   "ja": "捜査",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00176",
+   "word": "piątek",
+   "en": "friday",
+   "ja": "金曜日",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00177",
+   "word": "biznes",
+   "en": "business",
+   "ja": "ビジネス",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00178",
+   "word": "uśmiech",
+   "en": "smile",
+   "ja": "笑顔",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00179",
+   "word": "miecz",
+   "en": "sword",
+   "ja": "剣",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00180",
+   "word": "sędzia",
+   "en": "judge",
+   "ja": "裁判官",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00181",
+   "word": "morderca",
+   "en": "murderer",
+   "ja": "殺人者",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00182",
+   "word": "bilet",
+   "en": "ticket",
+   "ja": "切符",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00183",
+   "word": "poprzednio",
+   "en": "previously",
+   "ja": "以前に",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00184",
+   "word": "piosenka",
+   "en": "song",
+   "ja": "歌",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00185",
+   "word": "cud",
+   "en": "miracle",
+   "ja": "奇跡",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00186",
+   "word": "profesor",
+   "en": "teacher",
+   "ja": "教授",
+   "status": "conflicting",
+   "freedict": [
+    "professor"
+   ]
+  },
+  {
+   "id": "pl-00187",
+   "word": "taniec",
+   "en": "dance",
+   "ja": "踊り",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00188",
+   "word": "kradzież",
+   "en": "theft",
+   "ja": "盗み",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00189",
+   "word": "pogrzeb",
+   "en": "funeral",
+   "ja": "葬儀",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00190",
+   "word": "gwiazda",
+   "en": "star",
+   "ja": "星",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00191",
+   "word": "deszcz",
+   "en": "rain",
+   "ja": "雨",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00192",
+   "word": "koszmar",
+   "en": "nightmare",
+   "ja": "悪夢",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00193",
+   "word": "tytuł",
+   "en": "title",
+   "ja": "題名",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00194",
+   "word": "pożyczyć",
+   "en": "borrow",
+   "ja": "借りる／貸す",
+   "status": "not_found"
+  },
+  {
+   "id": "pl-00195",
+   "word": "lotnisko",
+   "en": "airport",
+   "ja": "空港",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00196",
+   "word": "kontrakt",
+   "en": "contract",
+   "ja": "契約",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00197",
+   "word": "wschód",
+   "en": "rise",
+   "ja": "東",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00198",
+   "word": "lekko",
+   "en": "lightly",
+   "ja": "軽く",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00199",
+   "word": "krzyczeć",
+   "en": "shout",
+   "ja": "叫ぶ",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00200",
+   "word": "zaprosić",
+   "en": "invite",
+   "ja": "招待する",
+   "status": "not_found"
+  },
+  {
+   "id": "pl-00201",
+   "word": "most",
+   "en": "bridge",
+   "ja": "橋",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00202",
+   "word": "dług",
+   "en": "debt",
+   "ja": "借金",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00203",
+   "word": "teoria",
+   "en": "theory",
+   "ja": "理論",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00204",
+   "word": "święto",
+   "en": "holiday",
+   "ja": "祝日",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00205",
+   "word": "wartość",
+   "en": "value",
+   "ja": "価値",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00206",
+   "word": "trop",
+   "en": "clue",
+   "ja": "手がかり",
+   "status": "conflicting",
+   "freedict": [
+    "track",
+    "trail",
+    "trope"
+   ]
+  },
+  {
+   "id": "pl-00207",
+   "word": "szczyt",
+   "en": "peak",
+   "ja": "頂上",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00208",
+   "word": "wybuch",
+   "en": "explosion",
+   "ja": "爆発",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00209",
+   "word": "pułapka",
+   "en": "trap",
+   "ja": "罠",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00210",
+   "word": "trening",
+   "en": "training",
+   "ja": "訓練",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00211",
+   "word": "skóra",
+   "en": "skin",
+   "ja": "肌",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00212",
+   "word": "zauważyć",
+   "en": "notice",
+   "ja": "気づく",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00213",
+   "word": "hasło",
+   "en": "password",
+   "ja": "パスワード",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00214",
+   "word": "kryzys",
+   "en": "crisis",
+   "ja": "危機",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00215",
+   "word": "dno",
+   "en": "bottom",
+   "ja": "底",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00216",
+   "word": "studio",
+   "en": "studio",
+   "ja": "スタジオ",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00217",
+   "word": "sok",
+   "en": "juice",
+   "ja": "ジュース",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00218",
+   "word": "ocean",
+   "en": "ocean",
+   "ja": "海洋",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00219",
+   "word": "zamówienie",
+   "en": "order",
+   "ja": "注文",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00220",
+   "word": "symbol",
+   "en": "symbol",
+   "ja": "象徴",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00221",
+   "word": "własność",
+   "en": "ownership",
+   "ja": "所有",
+   "status": "conflicting",
+   "freedict": [
+    "property"
+   ]
+  },
+  {
+   "id": "pl-00222",
+   "word": "kontrola",
+   "en": "control",
+   "ja": "管理",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00223",
+   "word": "przemoc",
+   "en": "violence",
+   "ja": "暴力",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00224",
+   "word": "temperatura",
+   "en": "temperature",
+   "ja": "温度",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00225",
+   "word": "nienawiść",
+   "en": "hatred",
+   "ja": "憎しみ",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00226",
+   "word": "demon",
+   "en": "demon",
+   "ja": "悪魔",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00227",
+   "word": "grób",
+   "en": "grave",
+   "ja": "墓",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00228",
+   "word": "nora",
+   "en": "den",
+   "ja": "巣穴",
+   "status": "conflicting",
+   "freedict": [
+    "burrow"
+   ]
+  },
+  {
+   "id": "pl-00229",
+   "word": "cierpienie",
+   "en": "suffering",
+   "ja": "苦しみ",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00230",
+   "word": "awans",
+   "en": "promotion",
+   "ja": "昇進",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00231",
+   "word": "zdolność",
+   "en": "ability",
+   "ja": "能力",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00232",
+   "word": "śmiech",
+   "en": "laughter",
+   "ja": "笑い",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00233",
+   "word": "energia",
+   "en": "energy",
+   "ja": "エネルギー",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00234",
+   "word": "wzrost",
+   "en": "growth",
+   "ja": "成長",
+   "status": "conflicting",
+   "freedict": [
+    "height",
+    "increase",
+    "grow"
+   ]
+  },
+  {
+   "id": "pl-00235",
+   "word": "eksperyment",
+   "en": "experiment",
+   "ja": "実験",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00236",
+   "word": "stypendium",
+   "en": "scholarship",
+   "ja": "奨学金",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00237",
+   "word": "torba",
+   "en": "bag",
+   "ja": "かばん",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00238",
+   "word": "paszport",
+   "en": "passport",
+   "ja": "パスポート",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00239",
+   "word": "pielęgniarka",
+   "en": "nurse",
+   "ja": "看護師",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00240",
+   "word": "rodzinny",
+   "en": "family",
+   "ja": "家族の",
+   "status": "conflicting",
+   "freedict": [
+    "familial"
+   ]
+  },
+  {
+   "id": "pl-00241",
+   "word": "pizza",
+   "en": "pizza",
+   "ja": "ピザ",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00242",
+   "word": "żałować",
+   "en": "regret",
+   "ja": "後悔する",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00243",
+   "word": "zastrzyk",
+   "en": "injection",
+   "ja": "注射",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00244",
+   "word": "pojazd",
+   "en": "vehicle",
+   "ja": "乗り物",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00245",
+   "word": "rządzić",
+   "en": "rule",
+   "ja": "統治する",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00246",
+   "word": "status",
+   "en": "status",
+   "ja": "地位",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00247",
+   "word": "medal",
+   "en": "medal",
+   "ja": "メダル",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00248",
+   "word": "kariera",
+   "en": "career",
+   "ja": "キャリア",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00249",
+   "word": "osobowość",
+   "en": "personality",
+   "ja": "人格",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00250",
+   "word": "dział",
+   "en": "section",
+   "ja": "部門",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00251",
+   "word": "szkło",
+   "en": "glass",
+   "ja": "ガラス",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00252",
+   "word": "łazienka",
+   "en": "bathroom",
+   "ja": "浴室",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00253",
+   "word": "trucizna",
+   "en": "poison",
+   "ja": "毒",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00254",
+   "word": "ręcznik",
+   "en": "towel",
+   "ja": "タオル",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00255",
+   "word": "masaż",
+   "en": "massage",
+   "ja": "マッサージ",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00256",
+   "word": "nieszczęście",
+   "en": "calamity",
+   "ja": "不幸",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00257",
+   "word": "siedzenie",
+   "en": "seat",
+   "ja": "席",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00258",
+   "word": "przetrwanie",
+   "en": "survival",
+   "ja": "生存",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00259",
+   "word": "terapia",
+   "en": "therapy",
+   "ja": "療法",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00260",
+   "word": "utrata",
+   "en": "loss",
+   "ja": "喪失",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00261",
+   "word": "słuch",
+   "en": "hearing",
+   "ja": "聴覚",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00262",
+   "word": "interesujący",
+   "en": "interesting",
+   "ja": "おもしろい",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00263",
+   "word": "konflikt",
+   "en": "conflict",
+   "ja": "対立",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00264",
+   "word": "robot",
+   "en": "robot",
+   "ja": "ロボット",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00265",
+   "word": "karabin",
+   "en": "rifle",
+   "ja": "ライフル",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00266",
+   "word": "głód",
+   "en": "hunger",
+   "ja": "空腹",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00267",
+   "word": "wojownik",
+   "en": "warrior",
+   "ja": "戦士",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00268",
+   "word": "skandal",
+   "en": "scandal",
+   "ja": "スキャンダル",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00269",
+   "word": "karetka",
+   "en": "ambulance",
+   "ja": "救急車",
+   "status": "conflicting",
+   "freedict": [
+    "carriage"
+   ]
+  },
+  {
+   "id": "pl-00270",
+   "word": "zyskać",
+   "en": "profit",
+   "ja": "得る",
+   "status": "conflicting",
+   "freedict": [
+    "gain"
+   ]
+  },
+  {
+   "id": "pl-00271",
+   "word": "tempo",
+   "en": "tempo",
+   "ja": "テンポ",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00272",
+   "word": "wieża",
+   "en": "tower",
+   "ja": "塔",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00273",
+   "word": "festiwal",
+   "en": "festival",
+   "ja": "フェスティバル",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00274",
+   "word": "makaron",
+   "en": "pasta",
+   "ja": "パスタ",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00275",
+   "word": "technika",
+   "en": "technology",
+   "ja": "技術",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00276",
+   "word": "szampan",
+   "en": "champagne",
+   "ja": "シャンパン",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00277",
+   "word": "użycie",
+   "en": "use",
+   "ja": "使用",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00278",
+   "word": "zwyczaj",
+   "en": "habit",
+   "ja": "習慣",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00279",
+   "word": "promieniowanie",
+   "en": "radiation",
+   "ja": "放射線",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00280",
+   "word": "trup",
+   "en": "corpse",
+   "ja": "死体",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00281",
+   "word": "artysta",
+   "en": "artist",
+   "ja": "芸術家",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00282",
+   "word": "organizm",
+   "en": "organism",
+   "ja": "有機体",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00283",
+   "word": "społeczność",
+   "en": "community",
+   "ja": "共同体",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00284",
+   "word": "wysyłać",
+   "en": "send",
+   "ja": "送る",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00285",
+   "word": "dżentelmen",
+   "en": "gentleman",
+   "ja": "紳士",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00286",
+   "word": "autograf",
+   "en": "autograph",
+   "ja": "直筆サイン",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00287",
+   "word": "fundusz",
+   "en": "fund",
+   "ja": "基金",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00288",
+   "word": "pastor",
+   "en": "pastor",
+   "ja": "牧師",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00289",
+   "word": "zabawka",
+   "en": "toy",
+   "ja": "おもちゃ",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00290",
+   "word": "wynagrodzić",
+   "en": "reward",
+   "ja": "報いる",
+   "status": "not_found"
+  },
+  {
+   "id": "pl-00291",
+   "word": "diament",
+   "en": "diamond",
+   "ja": "ダイヤモンド",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00292",
+   "word": "formularz",
+   "en": "form",
+   "ja": "用紙",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00293",
+   "word": "narkotyk",
+   "en": "drug",
+   "ja": "麻薬",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00294",
+   "word": "skrzydło",
+   "en": "wing",
+   "ja": "翼",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00295",
+   "word": "zima",
+   "en": "winter",
+   "ja": "冬",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00296",
+   "word": "spaghetti",
+   "en": "spaghetti",
+   "ja": "スパゲッティ",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00297",
+   "word": "niepokój",
+   "en": "anxiety",
+   "ja": "不安",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00298",
+   "word": "towarzyszyć",
+   "en": "accompany",
+   "ja": "同行する",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00299",
+   "word": "szachy",
+   "en": "chess",
+   "ja": "チェス",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00300",
+   "word": "koktajl",
+   "en": "cocktail",
+   "ja": "カクテル",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00301",
+   "word": "krwotok",
+   "en": "hemorrhage",
+   "ja": "出血",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00302",
+   "word": "cesarz",
+   "en": "emperor",
+   "ja": "皇帝",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00303",
+   "word": "sypialnia",
+   "en": "bedroom",
+   "ja": "寝室",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00304",
+   "word": "kwas",
+   "en": "acid",
+   "ja": "酸",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00305",
+   "word": "wybrzeże",
+   "en": "coast",
+   "ja": "海岸",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00306",
+   "word": "prywatność",
+   "en": "privacy",
+   "ja": "プライバシー",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00051",
+   "word": "czerwony",
+   "en": "red",
+   "ja": "赤い",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00052",
+   "word": "niebieski",
+   "en": "blue",
+   "ja": "青い",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00053",
+   "word": "zielony",
+   "en": "green",
+   "ja": "緑の",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00054",
+   "word": "żółty",
+   "en": "yellow",
+   "ja": "黄色い",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00055",
+   "word": "czarny",
+   "en": "black",
+   "ja": "黒い",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00056",
+   "word": "biały",
+   "en": "white",
+   "ja": "白い",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00057",
+   "word": "duży",
+   "en": "big",
+   "ja": "大きい",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00058",
+   "word": "mały",
+   "en": "small",
+   "ja": "小さい",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00059",
+   "word": "nowy",
+   "en": "new",
+   "ja": "新しい",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00060",
+   "word": "stary",
+   "en": "old",
+   "ja": "古い",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00061",
+   "word": "dobry",
+   "en": "good",
+   "ja": "良い",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00062",
+   "word": "zły",
+   "en": "bad",
+   "ja": "悪い",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00063",
+   "word": "długi",
+   "en": "long",
+   "ja": "長い",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00064",
+   "word": "krótki",
+   "en": "short",
+   "ja": "短い",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00065",
+   "word": "wysoki",
+   "en": "tall",
+   "ja": "高い（背）",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00066",
+   "word": "niski",
+   "en": "low",
+   "ja": "低い",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00067",
+   "word": "szybki",
+   "en": "fast",
+   "ja": "速い",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00068",
+   "word": "ciepły",
+   "en": "warm",
+   "ja": "暖かい",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00069",
+   "word": "zimny",
+   "en": "cold",
+   "ja": "冷たい",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00070",
+   "word": "gorący",
+   "en": "hot",
+   "ja": "熱い",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00071",
+   "word": "łatwy",
+   "en": "easy",
+   "ja": "簡単な",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00072",
+   "word": "trudny",
+   "en": "difficult",
+   "ja": "難しい",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00073",
+   "word": "ładny",
+   "en": "pretty",
+   "ja": "きれいな",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00074",
+   "word": "brzydki",
+   "en": "ugly",
+   "ja": "醜い",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00075",
+   "word": "młody",
+   "en": "young",
+   "ja": "若い",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00076",
+   "word": "szczęśliwy",
+   "en": "happy",
+   "ja": "幸せな",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00077",
+   "word": "smutny",
+   "en": "sad",
+   "ja": "悲しい",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00078",
+   "word": "głodny",
+   "en": "hungry",
+   "ja": "空腹の",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00079",
+   "word": "zmęczony",
+   "en": "tired",
+   "ja": "疲れた",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00080",
+   "word": "chory",
+   "en": "sick",
+   "ja": "病気の",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00081",
+   "word": "zdrowy",
+   "en": "healthy",
+   "ja": "健康な",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00082",
+   "word": "silny",
+   "en": "strong",
+   "ja": "強い",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00083",
+   "word": "słaby",
+   "en": "weak",
+   "ja": "弱い",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00084",
+   "word": "tani",
+   "en": "cheap",
+   "ja": "安い",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00085",
+   "word": "czysty",
+   "en": "clean",
+   "ja": "清潔な",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00086",
+   "word": "brudny",
+   "en": "dirty",
+   "ja": "汚い",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00087",
+   "word": "pełny",
+   "en": "full",
+   "ja": "満杯の",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00088",
+   "word": "pusty",
+   "en": "empty",
+   "ja": "空の",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00089",
+   "word": "ciężki",
+   "en": "heavy",
+   "ja": "重い",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00090",
+   "word": "lekki",
+   "en": "light",
+   "ja": "軽い",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00091",
+   "word": "jasny",
+   "en": "bright",
+   "ja": "明るい",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00092",
+   "word": "ciemny",
+   "en": "dark",
+   "ja": "暗い",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00093",
+   "word": "głośny",
+   "en": "loud",
+   "ja": "うるさい",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00094",
+   "word": "cichy",
+   "en": "quiet",
+   "ja": "静かな",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00095",
+   "word": "jeść",
+   "en": "to eat",
+   "ja": "食べる",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00096",
+   "word": "pić",
+   "en": "to drink",
+   "ja": "飲む",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00097",
+   "word": "spać",
+   "en": "to sleep",
+   "ja": "眠る",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00098",
+   "word": "iść",
+   "en": "to go",
+   "ja": "行く（歩いて）",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00099",
+   "word": "mówić",
+   "en": "to speak",
+   "ja": "話す",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00100",
+   "word": "stać",
+   "en": "to stand",
+   "ja": "立つ",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00307",
+   "word": "groźba",
+   "en": "threat",
+   "ja": "脅し",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00308",
+   "word": "bikini",
+   "en": "bikini",
+   "ja": "ビキニ",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00309",
+   "word": "kalendarz",
+   "en": "calendar",
+   "ja": "カレンダー",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00310",
+   "word": "nieobecność",
+   "en": "absence",
+   "ja": "不在",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00311",
+   "word": "terroryzm",
+   "en": "terrorism",
+   "ja": "テロリズム",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00312",
+   "word": "skała",
+   "en": "rock",
+   "ja": "岩",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00313",
+   "word": "torebka",
+   "en": "handbag",
+   "ja": "ハンドバッグ",
+   "status": "conflicting",
+   "freedict": [
+    "bag",
+    "sachet",
+    "bagful",
+    "capsule",
+    "boll"
+   ]
+  },
+  {
+   "id": "pl-00314",
+   "word": "ciekawość",
+   "en": "curiosity",
+   "ja": "好奇心",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00315",
+   "word": "pierś",
+   "en": "breast",
+   "ja": "胸",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00316",
+   "word": "kasyno",
+   "en": "casino",
+   "ja": "カジノ",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00317",
+   "word": "wzgórze",
+   "en": "hill",
+   "ja": "丘",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00318",
+   "word": "pisarz",
+   "en": "writer",
+   "ja": "作家",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00319",
+   "word": "zaplanować",
+   "en": "plan",
+   "ja": "計画する",
+   "status": "conflicting",
+   "freedict": [
+    "program",
+    "programme",
+    "schedule"
+   ]
+  },
+  {
+   "id": "pl-00320",
+   "word": "rekin",
+   "en": "shark",
+   "ja": "サメ",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00321",
+   "word": "komisariat",
+   "en": "police station",
+   "ja": "警察署",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00322",
+   "word": "komentarz",
+   "en": "comment",
+   "ja": "コメント",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00323",
+   "word": "wdowa",
+   "en": "widow",
+   "ja": "未亡人",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00324",
+   "word": "trawa",
+   "en": "grass",
+   "ja": "草",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00325",
+   "word": "dziennikarz",
+   "en": "journalist",
+   "ja": "ジャーナリスト",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00326",
+   "word": "trofeum",
+   "en": "trophy",
+   "ja": "トロフィー",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00327",
+   "word": "pakt",
+   "en": "pact",
+   "ja": "協定",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00328",
+   "word": "zioło",
+   "en": "herb",
+   "ja": "ハーブ",
+   "status": "conflicting",
+   "freedict": [
+    "weed"
+   ]
+  },
+  {
+   "id": "pl-00329",
+   "word": "gin",
+   "en": "gin",
+   "ja": "ジン",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00330",
+   "word": "biblioteka",
+   "en": "library",
+   "ja": "図書館",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00331",
+   "word": "mocz",
+   "en": "urine",
+   "ja": "尿",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00332",
+   "word": "młotek",
+   "en": "hammer",
+   "ja": "ハンマー",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00333",
+   "word": "przysięga",
+   "en": "oath",
+   "ja": "誓い",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00334",
+   "word": "kurz",
+   "en": "dust",
+   "ja": "ほこり",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00335",
+   "word": "trójkąt",
+   "en": "triangle",
+   "ja": "三角形",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00336",
+   "word": "mafia",
+   "en": "mafia",
+   "ja": "マフィア",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00337",
+   "word": "odliczanie",
+   "en": "countdown",
+   "ja": "カウントダウン",
+   "status": "not_found"
+  },
+  {
+   "id": "pl-00338",
+   "word": "farma",
+   "en": "farm",
+   "ja": "農場",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00339",
+   "word": "mieszanka",
+   "en": "mixture",
+   "ja": "混合物",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00340",
+   "word": "kask",
+   "en": "helmet",
+   "ja": "ヘルメット",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00341",
+   "word": "gonić",
+   "en": "pursue",
+   "ja": "追う",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00342",
+   "word": "przyjemny",
+   "en": "pleasant",
+   "ja": "心地よい",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00343",
+   "word": "wątpić",
+   "en": "doubt",
+   "ja": "疑う",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00344",
+   "word": "piękność",
+   "en": "beauty",
+   "ja": "美しさ",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00345",
+   "word": "klimat",
+   "en": "climate",
+   "ja": "気候",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00346",
+   "word": "argument",
+   "en": "argument",
+   "ja": "論拠",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00347",
+   "word": "modlitwa",
+   "en": "prayer",
+   "ja": "祈り",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00348",
+   "word": "balon",
+   "en": "balloon",
+   "ja": "風船",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00349",
+   "word": "pająk",
+   "en": "spider",
+   "ja": "クモ",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00350",
+   "word": "łuk",
+   "en": "bow",
+   "ja": "弓",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00351",
+   "word": "strzała",
+   "en": "arrow",
+   "ja": "矢",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00352",
+   "word": "pięść",
+   "en": "fist",
+   "ja": "拳",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00353",
+   "word": "akwarium",
+   "en": "aquarium",
+   "ja": "水槽",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00354",
+   "word": "świt",
+   "en": "dawn",
+   "ja": "夜明け",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00355",
+   "word": "dolar",
+   "en": "dollar",
+   "ja": "ドル",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00356",
+   "word": "tłuszcz",
+   "en": "fat",
+   "ja": "脂肪",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00357",
+   "word": "srebro",
+   "en": "silver",
+   "ja": "銀",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00358",
+   "word": "czołg",
+   "en": "tank",
+   "ja": "戦車",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00359",
+   "word": "kolczyk",
+   "en": "earring",
+   "ja": "イヤリング",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00360",
+   "word": "konwój",
+   "en": "convoy",
+   "ja": "護送隊",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00361",
+   "word": "terrorysta",
+   "en": "terrorist",
+   "ja": "テロリスト",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00362",
+   "word": "rozczarowanie",
+   "en": "disappointment",
+   "ja": "落胆",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00363",
+   "word": "świadectwo",
+   "en": "certificate",
+   "ja": "証明書",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00364",
+   "word": "polo",
+   "en": "polo",
+   "ja": "ポロ",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00365",
+   "word": "sługa",
+   "en": "servant",
+   "ja": "召使い",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00366",
+   "word": "przypływ",
+   "en": "high tide",
+   "ja": "満潮",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00367",
+   "word": "zapłata",
+   "en": "payment",
+   "ja": "支払い",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00368",
+   "word": "specjalista",
+   "en": "specialist",
+   "ja": "専門家",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00369",
+   "word": "uszkodzić",
+   "en": "damage",
+   "ja": "損傷させる",
+   "status": "not_found"
+  },
+  {
+   "id": "pl-00370",
+   "word": "podatek",
+   "en": "tax",
+   "ja": "税金",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00371",
+   "word": "zgon",
+   "en": "death",
+   "ja": "死亡",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00372",
+   "word": "wnuczka",
+   "en": "granddaughter",
+   "ja": "孫娘",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00373",
+   "word": "fotograf",
+   "en": "photographer",
+   "ja": "写真家",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00374",
+   "word": "ogrzewanie",
+   "en": "heating",
+   "ja": "暖房",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00375",
+   "word": "stadion",
+   "en": "stadium",
+   "ja": "スタジアム",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00376",
+   "word": "funkcjonować",
+   "en": "function",
+   "ja": "機能する",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00377",
+   "word": "kanapa",
+   "en": "sofa",
+   "ja": "ソファー",
+   "status": "conflicting",
+   "freedict": [
+    "couch"
+   ]
+  },
+  {
+   "id": "pl-00378",
+   "word": "rosnąć",
+   "en": "grow",
+   "ja": "育つ",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00379",
+   "word": "ruda",
+   "en": "ore",
+   "ja": "鉱石",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00380",
+   "word": "rodeo",
+   "en": "rodeo",
+   "ja": "ロデオ",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00381",
+   "word": "posąg",
+   "en": "statue",
+   "ja": "彫像",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00382",
+   "word": "amulet",
+   "en": "amulet",
+   "ja": "お守り",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00383",
+   "word": "siedziba",
+   "en": "headquarters",
+   "ja": "本部",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00384",
+   "word": "ewakuacja",
+   "en": "evacuation",
+   "ja": "避難",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00385",
+   "word": "równocześnie",
+   "en": "simultaneously",
+   "ja": "同時に",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00386",
+   "word": "szkic",
+   "en": "sketch",
+   "ja": "スケッチ",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00387",
+   "word": "sarkazm",
+   "en": "sarcasm",
+   "ja": "皮肉",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00388",
+   "word": "inwestycja",
+   "en": "investment",
+   "ja": "投資",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00389",
+   "word": "aria",
+   "en": "aria",
+   "ja": "アリア",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00390",
+   "word": "standard",
+   "en": "standard",
+   "ja": "標準",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00391",
+   "word": "zakażenie",
+   "en": "infection",
+   "ja": "感染",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00392",
+   "word": "autorytet",
+   "en": "authority",
+   "ja": "権威",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00393",
+   "word": "poeta",
+   "en": "poet",
+   "ja": "詩人",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00394",
+   "word": "entuzjazm",
+   "en": "enthusiasm",
+   "ja": "熱意",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00395",
+   "word": "targ",
+   "en": "market",
+   "ja": "市場",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00396",
+   "word": "przeziębienie",
+   "en": "cold",
+   "ja": "風邪",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00397",
+   "word": "głośnik",
+   "en": "loudspeaker",
+   "ja": "スピーカー",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00398",
+   "word": "kowboj",
+   "en": "cowboy",
+   "ja": "カウボーイ",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00399",
+   "word": "obserwacja",
+   "en": "observation",
+   "ja": "観察",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00400",
+   "word": "taktyka",
+   "en": "tactics",
+   "ja": "戦術",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00401",
+   "word": "wydawca",
+   "en": "publisher",
+   "ja": "発行者",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00402",
+   "word": "głębokość",
+   "en": "depth",
+   "ja": "深さ",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00403",
+   "word": "starość",
+   "en": "old age",
+   "ja": "老年",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00404",
+   "word": "mechanika",
+   "en": "mechanics",
+   "ja": "力学",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00405",
+   "word": "szczeniak",
+   "en": "puppy",
+   "ja": "子犬",
+   "status": "not_found"
+  },
+  {
+   "id": "pl-00406",
+   "word": "fikcja",
+   "en": "fiction",
+   "ja": "虚構",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00407",
+   "word": "inwazja",
+   "en": "invasion",
+   "ja": "侵略",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00408",
+   "word": "opera",
+   "en": "opera",
+   "ja": "オペラ",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00409",
+   "word": "gen",
+   "en": "gene",
+   "ja": "遺伝子",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00410",
+   "word": "kupiec",
+   "en": "buyer",
+   "ja": "商人",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00411",
+   "word": "pasażer",
+   "en": "passenger",
+   "ja": "乗客",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00412",
+   "word": "poker",
+   "en": "poker",
+   "ja": "ポーカー",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00413",
+   "word": "parasol",
+   "en": "umbrella",
+   "ja": "傘",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00414",
+   "word": "budzik",
+   "en": "alarm clock",
+   "ja": "目覚まし時計",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00415",
+   "word": "składnik",
+   "en": "ingredient",
+   "ja": "成分",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00416",
+   "word": "podziękowanie",
+   "en": "thanks",
+   "ja": "感謝",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00417",
+   "word": "algorytm",
+   "en": "algorithm",
+   "ja": "アルゴリズム",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00418",
+   "word": "pieniądz",
+   "en": "currency",
+   "ja": "貨幣",
+   "status": "conflicting",
+   "freedict": [
+    "money"
+   ]
+  },
+  {
+   "id": "pl-00419",
+   "word": "szalik",
+   "en": "scarf",
+   "ja": "マフラー",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00420",
+   "word": "limuzyna",
+   "en": "limousine",
+   "ja": "リムジン",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00421",
+   "word": "spadochron",
+   "en": "parachute",
+   "ja": "パラシュート",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00422",
+   "word": "dentysta",
+   "en": "dentist",
+   "ja": "歯医者",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00423",
+   "word": "smakować",
+   "en": "taste",
+   "ja": "味がする",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00424",
+   "word": "przeoczyć",
+   "en": "overlook",
+   "ja": "見逃す",
+   "status": "not_found"
+  },
+  {
+   "id": "pl-00425",
+   "word": "mięsień",
+   "en": "muscle",
+   "ja": "筋肉",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00426",
+   "word": "szal",
+   "en": "shawl",
+   "ja": "ショール",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00427",
+   "word": "imprezować",
+   "en": "party",
+   "ja": "パーティーをする",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00428",
+   "word": "arcydzieło",
+   "en": "masterpiece",
+   "ja": "傑作",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00429",
+   "word": "szampon",
+   "en": "shampoo",
+   "ja": "シャンプー",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00430",
+   "word": "bunkier",
+   "en": "bunker",
+   "ja": "地下壕",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00431",
+   "word": "pub",
+   "en": "pub",
+   "ja": "パブ",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00432",
+   "word": "powierzchnia",
+   "en": "surface",
+   "ja": "表面",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00433",
+   "word": "manicure",
+   "en": "manicure",
+   "ja": "マニキュア",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00434",
+   "word": "czerpać",
+   "en": "draw",
+   "ja": "汲む",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00435",
+   "word": "dylemat",
+   "en": "dilemma",
+   "ja": "ジレンマ",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00436",
+   "word": "objaw",
+   "en": "symptom",
+   "ja": "症状",
+   "status": "not_found"
+  },
+  {
+   "id": "pl-00437",
+   "word": "szminka",
+   "en": "lipstick",
+   "ja": "口紅",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00438",
+   "word": "rozkosz",
+   "en": "delight",
+   "ja": "快楽",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00439",
+   "word": "świecić",
+   "en": "shine",
+   "ja": "輝く",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00440",
+   "word": "dopływ",
+   "en": "tributary",
+   "ja": "支流",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00441",
+   "word": "krajobraz",
+   "en": "landscape",
+   "ja": "風景",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00442",
+   "word": "rzecznik",
+   "en": "spokesman",
+   "ja": "スポークスマン",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00443",
+   "word": "żądać",
+   "en": "demand",
+   "ja": "要求する",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00444",
+   "word": "otoczyć",
+   "en": "surround",
+   "ja": "取り巻く",
+   "status": "not_found"
+  },
+  {
+   "id": "pl-00445",
+   "word": "bluzka",
+   "en": "blouse",
+   "ja": "ブラウス",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00446",
+   "word": "średni",
+   "en": "average",
+   "ja": "平均の",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00447",
+   "word": "dawca",
+   "en": "donor",
+   "ja": "提供者",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00448",
+   "word": "pułk",
+   "en": "regiment",
+   "ja": "連隊",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00449",
+   "word": "lotniczy",
+   "en": "aviation",
+   "ja": "航空の",
+   "status": "conflicting",
+   "freedict": [
+    "aerial",
+    "air",
+    "flying"
+   ]
+  },
+  {
+   "id": "pl-00450",
+   "word": "pasożyt",
+   "en": "parasite",
+   "ja": "寄生虫",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00451",
+   "word": "czosnek",
+   "en": "garlic",
+   "ja": "ニンニク",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00452",
+   "word": "federacja",
+   "en": "federation",
+   "ja": "連邦",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00453",
+   "word": "fotografia",
+   "en": "photograph",
+   "ja": "写真",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00454",
+   "word": "nieruchomość",
+   "en": "real estate",
+   "ja": "不動産",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00455",
+   "word": "brygada",
+   "en": "brigade",
+   "ja": "旅団",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00456",
+   "word": "teściowa",
+   "en": "mother-in-law",
+   "ja": "義母",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00457",
+   "word": "iskra",
+   "en": "spark",
+   "ja": "火花",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00458",
+   "word": "kaptur",
+   "en": "hood",
+   "ja": "頭巾",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00459",
+   "word": "horyzont",
+   "en": "horizon",
+   "ja": "水平線",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00460",
+   "word": "zięć",
+   "en": "son-in-law",
+   "ja": "娘婿",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00461",
+   "word": "kamuflaż",
+   "en": "camouflage",
+   "ja": "カモフラージュ",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00101",
+   "word": "czytać",
+   "en": "to read",
+   "ja": "読む",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00102",
+   "word": "pisać",
+   "en": "to write",
+   "ja": "書く",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00103",
+   "word": "widzieć",
+   "en": "to see",
+   "ja": "見える",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00104",
+   "word": "słyszeć",
+   "en": "to hear",
+   "ja": "聞こえる",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00105",
+   "word": "wiedzieć",
+   "en": "to know",
+   "ja": "知っている",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00106",
+   "word": "rozumieć",
+   "en": "to understand",
+   "ja": "理解する",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00107",
+   "word": "myśleć",
+   "en": "to think",
+   "ja": "考える",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00108",
+   "word": "chcieć",
+   "en": "to want",
+   "ja": "欲しい",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00109",
+   "word": "musieć",
+   "en": "must",
+   "ja": "〜しなければならない",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00110",
+   "word": "robić",
+   "en": "to do",
+   "ja": "する",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00111",
+   "word": "mieć",
+   "en": "to have",
+   "ja": "持っている",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00112",
+   "word": "dać",
+   "en": "to give",
+   "ja": "与える",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00113",
+   "word": "brać",
+   "en": "to take",
+   "ja": "取る",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00114",
+   "word": "kupować",
+   "en": "to buy",
+   "ja": "買う",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00115",
+   "word": "sprzedawać",
+   "en": "to sell",
+   "ja": "売る",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00116",
+   "word": "otwierać",
+   "en": "to open",
+   "ja": "開ける",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00117",
+   "word": "zamykać",
+   "en": "to close",
+   "ja": "閉める",
+   "status": "not_found"
+  },
+  {
+   "id": "pl-00118",
+   "word": "kochać",
+   "en": "to love",
+   "ja": "愛する",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00119",
+   "word": "lubić",
+   "en": "to like",
+   "ja": "好む",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00120",
+   "word": "pracować",
+   "en": "to work",
+   "ja": "働く",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00121",
+   "word": "odpoczywać",
+   "en": "to rest",
+   "ja": "休む",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00122",
+   "word": "biegać",
+   "en": "to run",
+   "ja": "走る",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00123",
+   "word": "pływać",
+   "en": "to swim",
+   "ja": "泳ぐ",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00124",
+   "word": "śpiewać",
+   "en": "to sing",
+   "ja": "歌う",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00125",
+   "word": "tańczyć",
+   "en": "to dance",
+   "ja": "踊る",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00126",
+   "word": "gotować",
+   "en": "to cook",
+   "ja": "料理する",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00127",
+   "word": "myć",
+   "en": "to wash",
+   "ja": "洗う",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00128",
+   "word": "płacić",
+   "en": "to pay",
+   "ja": "支払う",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00129",
+   "word": "czekać",
+   "en": "to wait",
+   "ja": "待つ",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00130",
+   "word": "pomagać",
+   "en": "to help",
+   "ja": "助ける",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00131",
+   "word": "pytać",
+   "en": "to ask",
+   "ja": "尋ねる",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00132",
+   "word": "odpowiadać",
+   "en": "to answer",
+   "ja": "答える",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00133",
+   "word": "rozmawiać",
+   "en": "to talk",
+   "ja": "会話する",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00134",
+   "word": "dziękować",
+   "en": "to thank",
+   "ja": "感謝する",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00135",
+   "word": "kupić",
+   "en": "to purchase",
+   "ja": "購入する",
+   "status": "not_found"
+  },
+  {
+   "id": "pl-00136",
+   "word": "wracać",
+   "en": "to return",
+   "ja": "戻る",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00137",
+   "word": "zaczynać",
+   "en": "to begin",
+   "ja": "始める",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00138",
+   "word": "kończyć",
+   "en": "to finish",
+   "ja": "終える",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00139",
+   "word": "miłość",
+   "en": "love",
+   "ja": "愛",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00140",
+   "word": "przyjaźń",
+   "en": "friendship",
+   "ja": "友情",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00141",
+   "word": "praca",
+   "en": "work",
+   "ja": "仕事",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00142",
+   "word": "pieniądze",
+   "en": "money",
+   "ja": "お金",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00143",
+   "word": "życie",
+   "en": "life",
+   "ja": "人生",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00144",
+   "word": "śmierć",
+   "en": "death",
+   "ja": "死",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00145",
+   "word": "prawda",
+   "en": "truth",
+   "ja": "真実",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00146",
+   "word": "świat",
+   "en": "world",
+   "ja": "世界",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00147",
+   "word": "język",
+   "en": "language",
+   "ja": "言語",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00148",
+   "word": "słowo",
+   "en": "word",
+   "ja": "単語",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00149",
+   "word": "przyjaciel",
+   "en": "friend",
+   "ja": "友達",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00150",
+   "word": "pytanie",
+   "en": "question",
+   "ja": "質問",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00462",
+   "word": "posłuszeństwo",
+   "en": "obedience",
+   "ja": "服従",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00463",
+   "word": "zapłon",
+   "en": "ignition",
+   "ja": "点火",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00464",
+   "word": "zakryć",
+   "en": "cover",
+   "ja": "覆う",
+   "status": "not_found"
+  },
+  {
+   "id": "pl-00465",
+   "word": "toster",
+   "en": "toaster",
+   "ja": "トースター",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00466",
+   "word": "wierzący",
+   "en": "believer",
+   "ja": "信者",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00467",
+   "word": "wykop",
+   "en": "excavation",
+   "ja": "掘削",
+   "status": "not_found"
+  },
+  {
+   "id": "pl-00468",
+   "word": "klon",
+   "en": "clone",
+   "ja": "クローン",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00469",
+   "word": "szczepionka",
+   "en": "vaccine",
+   "ja": "ワクチン",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00470",
+   "word": "gniewać",
+   "en": "anger",
+   "ja": "怒らせる",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00471",
+   "word": "gleba",
+   "en": "soil",
+   "ja": "土壌",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00472",
+   "word": "safari",
+   "en": "safari",
+   "ja": "サファリ",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00473",
+   "word": "oskarżyciel",
+   "en": "accuser",
+   "ja": "告発者",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00474",
+   "word": "żartowniś",
+   "en": "joker",
+   "ja": "冗談好き",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00475",
+   "word": "kołnierz",
+   "en": "collar",
+   "ja": "襟",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00476",
+   "word": "skopiować",
+   "en": "copy",
+   "ja": "コピーする",
+   "status": "not_found"
+  },
+  {
+   "id": "pl-00477",
+   "word": "piechota",
+   "en": "infantry",
+   "ja": "歩兵",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00478",
+   "word": "lądowisko",
+   "en": "airfield",
+   "ja": "発着場",
+   "status": "not_found"
+  },
+  {
+   "id": "pl-00479",
+   "word": "kanion",
+   "en": "canyon",
+   "ja": "峡谷",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00480",
+   "word": "piekarnik",
+   "en": "oven",
+   "ja": "オーブン",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00481",
+   "word": "wytworzyć",
+   "en": "manufacture",
+   "ja": "製造する",
+   "status": "not_found"
+  },
+  {
+   "id": "pl-00482",
+   "word": "nawóz",
+   "en": "manure",
+   "ja": "肥料",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00483",
+   "word": "weteran",
+   "en": "veteran",
+   "ja": "退役軍人",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00484",
+   "word": "alergia",
+   "en": "allergy",
+   "ja": "アレルギー",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00485",
+   "word": "koniak",
+   "en": "cognac",
+   "ja": "コニャック",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00486",
+   "word": "obserwator",
+   "en": "observer",
+   "ja": "オブザーバー",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00487",
+   "word": "wykres",
+   "en": "graph",
+   "ja": "グラフ",
+   "status": "conflicting",
+   "freedict": [
+    "diagram",
+    "chart",
+    "plot"
+   ]
+  },
+  {
+   "id": "pl-00488",
+   "word": "mumia",
+   "en": "mummy",
+   "ja": "ミイラ",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00489",
+   "word": "optymizm",
+   "en": "optimism",
+   "ja": "楽観",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00490",
+   "word": "łyżka",
+   "en": "spoon",
+   "ja": "スプーン",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00491",
+   "word": "tętnica",
+   "en": "artery",
+   "ja": "動脈",
+   "status": "not_found"
+  },
+  {
+   "id": "pl-00492",
+   "word": "demonstracja",
+   "en": "demonstration",
+   "ja": "デモ",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00493",
+   "word": "myśliwiec",
+   "en": "fighter",
+   "ja": "戦闘機",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00494",
+   "word": "platforma",
+   "en": "platform",
+   "ja": "プラットフォーム",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00495",
+   "word": "uliczka",
+   "en": "alley",
+   "ja": "路地",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00496",
+   "word": "uran",
+   "en": "uranium",
+   "ja": "ウラン",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00497",
+   "word": "sylwester",
+   "en": "new year's eve",
+   "ja": "大みそか",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00498",
+   "word": "wieprzowina",
+   "en": "pork",
+   "ja": "豚肉",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00499",
+   "word": "kobra",
+   "en": "cobra",
+   "ja": "コブラ",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00500",
+   "word": "obywatelstwo",
+   "en": "citizenship",
+   "ja": "市民権",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00501",
+   "word": "podziw",
+   "en": "admiration",
+   "ja": "賞賛",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00502",
+   "word": "cywil",
+   "en": "civilian",
+   "ja": "民間人",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00503",
+   "word": "hipoteza",
+   "en": "hypothesis",
+   "ja": "仮説",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00504",
+   "word": "rubin",
+   "en": "ruby",
+   "ja": "ルビー",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00505",
+   "word": "antena",
+   "en": "antenna",
+   "ja": "アンテナ",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00506",
+   "word": "wyzwolenie",
+   "en": "liberation",
+   "ja": "解放",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00507",
+   "word": "literatura",
+   "en": "literature",
+   "ja": "文学",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00508",
+   "word": "monopol",
+   "en": "monopoly",
+   "ja": "独占",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00509",
+   "word": "mentor",
+   "en": "mentor",
+   "ja": "指導者",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00510",
+   "word": "nadużycie",
+   "en": "abuse",
+   "ja": "悪用",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00511",
+   "word": "zapalniczka",
+   "en": "lighter",
+   "ja": "ライター（点火器）",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00512",
+   "word": "przekąska",
+   "en": "snack",
+   "ja": "軽食",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00513",
+   "word": "kaucja",
+   "en": "bail",
+   "ja": "保釈金",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00514",
+   "word": "łom",
+   "en": "crowbar",
+   "ja": "バール",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00515",
+   "word": "horoskop",
+   "en": "horoscope",
+   "ja": "星占い",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00516",
+   "word": "turysta",
+   "en": "tourist",
+   "ja": "観光客",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00517",
+   "word": "prostytucja",
+   "en": "prostitution",
+   "ja": "売春",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00518",
+   "word": "opuchlizna",
+   "en": "swelling",
+   "ja": "腫れ",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00519",
+   "word": "wentylacyjny",
+   "en": "ventilation",
+   "ja": "換気の",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00520",
+   "word": "precedens",
+   "en": "precedent",
+   "ja": "前例",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00521",
+   "word": "mesjasz",
+   "en": "messiah",
+   "ja": "メシア",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00522",
+   "word": "traktor",
+   "en": "tractor",
+   "ja": "トラクター",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00523",
+   "word": "poślizg",
+   "en": "skid",
+   "ja": "スリップ",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00524",
+   "word": "niespodziewany",
+   "en": "unexpected",
+   "ja": "思いがけない",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00525",
+   "word": "ołtarz",
+   "en": "altar",
+   "ja": "祭壇",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00526",
+   "word": "premia",
+   "en": "bonus",
+   "ja": "ボーナス",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00527",
+   "word": "żebrak",
+   "en": "beggar",
+   "ja": "物乞い",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00528",
+   "word": "zakątek",
+   "en": "nook",
+   "ja": "片隅",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00529",
+   "word": "skarga",
+   "en": "complaint",
+   "ja": "苦情",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00530",
+   "word": "tenis",
+   "en": "tennis",
+   "ja": "テニス",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00531",
+   "word": "kwarantanna",
+   "en": "quarantine",
+   "ja": "隔離",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00532",
+   "word": "lawina",
+   "en": "avalanche",
+   "ja": "雪崩",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00533",
+   "word": "projektant",
+   "en": "designer",
+   "ja": "デザイナー",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00534",
+   "word": "drżenie",
+   "en": "tremor",
+   "ja": "震え",
+   "status": "conflicting",
+   "freedict": [
+    "thrill",
+    "tremble"
+   ]
+  },
+  {
+   "id": "pl-00535",
+   "word": "inspiracja",
+   "en": "inspiration",
+   "ja": "インスピレーション",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00536",
+   "word": "kontekst",
+   "en": "context",
+   "ja": "文脈",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00537",
+   "word": "otrzymywać",
+   "en": "receive",
+   "ja": "受け取る",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00538",
+   "word": "trauma",
+   "en": "trauma",
+   "ja": "トラウマ",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00539",
+   "word": "arena",
+   "en": "arena",
+   "ja": "競技場",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00540",
+   "word": "przedsiębiorca",
+   "en": "entrepreneur",
+   "ja": "企業家",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00541",
+   "word": "rozmnażać",
+   "en": "propagate",
+   "ja": "繁殖させる",
+   "status": "conflicting",
+   "freedict": [
+    "procreate",
+    "breed"
+   ]
+  },
+  {
+   "id": "pl-00542",
+   "word": "pryszcz",
+   "en": "pimple",
+   "ja": "にきび",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00543",
+   "word": "asteroida",
+   "en": "asteroid",
+   "ja": "小惑星",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00544",
+   "word": "zmierzać",
+   "en": "head",
+   "ja": "向かう",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00545",
+   "word": "atut",
+   "en": "trump card",
+   "ja": "切り札",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00546",
+   "word": "gąbka",
+   "en": "sponge",
+   "ja": "スポンジ",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00547",
+   "word": "torpeda",
+   "en": "torpedo",
+   "ja": "魚雷",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00548",
+   "word": "rękawica",
+   "en": "glove",
+   "ja": "手袋",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00549",
+   "word": "cesarzowa",
+   "en": "empress",
+   "ja": "皇后",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00550",
+   "word": "szczekać",
+   "en": "bark",
+   "ja": "吠える",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00551",
+   "word": "łabędź",
+   "en": "swan",
+   "ja": "白鳥",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00552",
+   "word": "parter",
+   "en": "ground floor",
+   "ja": "一階",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00553",
+   "word": "czynność",
+   "en": "action",
+   "ja": "行為",
+   "status": "conflicting",
+   "freedict": [
+    "act"
+   ]
+  },
+  {
+   "id": "pl-00554",
+   "word": "hipnoza",
+   "en": "hypnosis",
+   "ja": "催眠",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00555",
+   "word": "użytkownik",
+   "en": "user",
+   "ja": "利用者",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00556",
+   "word": "ośmiornica",
+   "en": "octopus",
+   "ja": "タコ",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00557",
+   "word": "pępek",
+   "en": "navel",
+   "ja": "へそ",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00558",
+   "word": "wieczorny",
+   "en": "evening",
+   "ja": "夕方の",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00559",
+   "word": "determinacja",
+   "en": "determination",
+   "ja": "決意",
+   "status": "not_found"
+  },
+  {
+   "id": "pl-00560",
+   "word": "obrzydzenie",
+   "en": "disgust",
+   "ja": "嫌悪",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00561",
+   "word": "termometr",
+   "en": "thermometer",
+   "ja": "温度計",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00562",
+   "word": "ogórek",
+   "en": "cucumber",
+   "ja": "キュウリ",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00563",
+   "word": "meduza",
+   "en": "jellyfish",
+   "ja": "クラゲ",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00564",
+   "word": "piosenkarz",
+   "en": "singer",
+   "ja": "歌手",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00565",
+   "word": "rtęć",
+   "en": "mercury",
+   "ja": "水銀",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00566",
+   "word": "kameleon",
+   "en": "chameleon",
+   "ja": "カメレオン",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00567",
+   "word": "płatek",
+   "en": "petal",
+   "ja": "花弁",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00568",
+   "word": "konfrontacja",
+   "en": "confrontation",
+   "ja": "対決",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00569",
+   "word": "pobliże",
+   "en": "vicinity",
+   "ja": "近辺",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00570",
+   "word": "mikser",
+   "en": "mixer",
+   "ja": "ミキサー",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00571",
+   "word": "klika",
+   "en": "clique",
+   "ja": "派閥",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00572",
+   "word": "wiza",
+   "en": "visa",
+   "ja": "ビザ",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00573",
+   "word": "lotniskowiec",
+   "en": "aircraft carrier",
+   "ja": "航空母艦",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00574",
+   "word": "sympozjum",
+   "en": "symposium",
+   "ja": "シンポジウム",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00575",
+   "word": "dźwignia",
+   "en": "lever",
+   "ja": "てこ",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00576",
+   "word": "pralka",
+   "en": "washing machine",
+   "ja": "洗濯機",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00577",
+   "word": "szczotka",
+   "en": "brush",
+   "ja": "ブラシ",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00578",
+   "word": "ochotnik",
+   "en": "volunteer",
+   "ja": "志願者",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00579",
+   "word": "wahanie",
+   "en": "hesitation",
+   "ja": "ためらい",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00580",
+   "word": "przykazanie",
+   "en": "commandment",
+   "ja": "戒律",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00581",
+   "word": "metan",
+   "en": "methane",
+   "ja": "メタン",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00582",
+   "word": "trudność",
+   "en": "difficulty",
+   "ja": "困難",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00583",
+   "word": "cukrzyca",
+   "en": "diabetes",
+   "ja": "糖尿病",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00584",
+   "word": "kamienny",
+   "en": "stone",
+   "ja": "石の",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00585",
+   "word": "solidarność",
+   "en": "solidarity",
+   "ja": "連帯",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00586",
+   "word": "uprzedzenie",
+   "en": "prejudice",
+   "ja": "偏見",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00587",
+   "word": "utopia",
+   "en": "utopia",
+   "ja": "ユートピア",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00588",
+   "word": "krykiet",
+   "en": "cricket",
+   "ja": "クリケット",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00589",
+   "word": "oświecenie",
+   "en": "enlightenment",
+   "ja": "啓蒙",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00590",
+   "word": "aktualizacja",
+   "en": "update",
+   "ja": "更新",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00591",
+   "word": "macica",
+   "en": "uterus",
+   "ja": "子宮",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00592",
+   "word": "owad",
+   "en": "insect",
+   "ja": "昆虫",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00593",
+   "word": "keczup",
+   "en": "ketchup",
+   "ja": "ケチャップ",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00594",
+   "word": "parodia",
+   "en": "parody",
+   "ja": "パロディ",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00595",
+   "word": "dojrzałość",
+   "en": "maturity",
+   "ja": "成熟",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00596",
+   "word": "zamaskować",
+   "en": "mask",
+   "ja": "覆い隠す",
+   "status": "not_found"
+  },
+  {
+   "id": "pl-00597",
+   "word": "uczestnik",
+   "en": "participant",
+   "ja": "参加者",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00598",
+   "word": "uczestnictwo",
+   "en": "participation",
+   "ja": "参加",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00599",
+   "word": "ulewa",
+   "en": "downpour",
+   "ja": "豪雨",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00600",
+   "word": "sympatia",
+   "en": "fondness",
+   "ja": "好意",
+   "status": "conflicting",
+   "freedict": [
+    "boyfriend",
+    "girlfriend",
+    "liking"
+   ]
+  },
+  {
+   "id": "pl-00601",
+   "word": "rakietowy",
+   "en": "rocket",
+   "ja": "ロケットの",
+   "status": "not_found"
+  },
+  {
+   "id": "pl-00602",
+   "word": "piekarnia",
+   "en": "bakery",
+   "ja": "パン屋",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00603",
+   "word": "podkoszulek",
+   "en": "undershirt",
+   "ja": "肌着",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00604",
+   "word": "wilgotność",
+   "en": "humidity",
+   "ja": "湿度",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00605",
+   "word": "sojusznik",
+   "en": "ally",
+   "ja": "同盟者",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00606",
+   "word": "położna",
+   "en": "midwife",
+   "ja": "助産師",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00607",
+   "word": "kompresja",
+   "en": "compression",
+   "ja": "圧縮",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00608",
+   "word": "układanka",
+   "en": "jigsaw puzzle",
+   "ja": "ジグソーパズル",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00609",
+   "word": "grzywna",
+   "en": "fine",
+   "ja": "罰金",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00610",
+   "word": "książeczka",
+   "en": "booklet",
+   "ja": "小冊子",
+   "status": "not_found"
+  },
+  {
+   "id": "pl-00611",
+   "word": "surfing",
+   "en": "surfing",
+   "ja": "サーフィン",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00612",
+   "word": "enzym",
+   "en": "enzyme",
+   "ja": "酵素",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00613",
+   "word": "wieniec",
+   "en": "wreath",
+   "ja": "花輪",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00614",
+   "word": "żeglarz",
+   "en": "sailor",
+   "ja": "船乗り",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00615",
+   "word": "hormon",
+   "en": "hormone",
+   "ja": "ホルモン",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00616",
+   "word": "cytryna",
+   "en": "lemon",
+   "ja": "レモン",
+   "status": "matched"
+  }
+ ]
+}
