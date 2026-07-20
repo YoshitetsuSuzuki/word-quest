@@ -1,0 +1,842 @@
+[
+ {
+  "word": "este",
+  "pos": "noun",
+  "en": "east",
+  "ja": "東部",
+  "rank": 88,
+  "posOptions": "noun/adj"
+ },
+ {
+  "word": "fora",
+  "pos": "adv",
+  "en": "outside",
+  "ja": "外部",
+  "rank": 188,
+  "posOptions": "adv/noun"
+ },
+ {
+  "word": "gosto",
+  "pos": "noun",
+  "en": "taste",
+  "ja": "風味",
+  "rank": 265,
+  "posOptions": "noun/noun"
+ },
+ {
+  "word": "sentido",
+  "pos": "noun",
+  "en": "sense",
+  "ja": "感覚",
+  "rank": 610,
+  "posOptions": "noun/adj"
+ },
+ {
+  "word": "visto",
+  "pos": "noun",
+  "en": "visa",
+  "ja": "査証",
+  "rank": 619,
+  "posOptions": "noun/adj"
+ },
+ {
+  "word": "futuro",
+  "pos": "noun",
+  "en": "future",
+  "ja": "将来",
+  "rank": 702,
+  "posOptions": "adj/noun"
+ },
+ {
+  "word": "vale",
+  "pos": "noun",
+  "en": "valley",
+  "ja": "谷間",
+  "rank": 776,
+  "posOptions": "noun/noun"
+ },
+ {
+  "word": "fundo",
+  "pos": "noun",
+  "en": "bottom",
+  "ja": "底",
+  "rank": 786,
+  "posOptions": "adj/noun"
+ },
+ {
+  "word": "guarda",
+  "pos": "noun",
+  "en": "police officer",
+  "ja": "警官",
+  "rank": 964,
+  "posOptions": "noun/noun"
+ },
+ {
+  "word": "cerca",
+  "pos": "noun",
+  "en": "fence",
+  "ja": "垣根",
+  "rank": 974,
+  "posOptions": "noun/adv"
+ },
+ {
+  "word": "parecer",
+  "pos": "verb",
+  "en": "seem",
+  "ja": "思われる",
+  "rank": 1038,
+  "posOptions": "verb/noun"
+ },
+ {
+  "word": "cavalo",
+  "pos": "noun",
+  "en": "knight",
+  "ja": "ナイト",
+  "rank": 1075,
+  "posOptions": "noun/noun"
+ },
+ {
+  "word": "branco",
+  "pos": "noun",
+  "en": "white",
+  "ja": "白色",
+  "rank": 1099,
+  "posOptions": "adj/noun/noun"
+ },
+ {
+  "word": "seguinte",
+  "pos": "adj",
+  "en": "next",
+  "ja": "来",
+  "rank": 1185,
+  "posOptions": "adj/noun"
+ },
+ {
+  "word": "junto",
+  "pos": "adv",
+  "en": "together",
+  "ja": "共に",
+  "rank": 1310,
+  "posOptions": "adj/adv"
+ },
+ {
+  "word": "mala",
+  "pos": "noun",
+  "en": "suitcase",
+  "ja": "スーツケース",
+  "rank": 1351,
+  "posOptions": "noun/noun"
+ },
+ {
+  "word": "animal",
+  "pos": "noun",
+  "en": "animal",
+  "ja": "けだもの",
+  "rank": 1449,
+  "posOptions": "adj/noun"
+ },
+ {
+  "word": "venda",
+  "pos": "noun",
+  "en": "sale",
+  "ja": "売却",
+  "rank": 2208,
+  "posOptions": "noun/noun"
+ },
+ {
+  "word": "terreno",
+  "pos": "noun",
+  "en": "terrain",
+  "ja": "地形",
+  "rank": 2526,
+  "posOptions": "adj/noun"
+ },
+ {
+  "word": "ambiente",
+  "pos": "noun",
+  "en": "environment",
+  "ja": "自然環境",
+  "rank": 2637,
+  "posOptions": "adj/noun"
+ },
+ {
+  "word": "padrão",
+  "pos": "adj",
+  "en": "standard",
+  "ja": "水準",
+  "rank": 2709,
+  "posOptions": "adj/noun/noun"
+ },
+ {
+  "word": "rota",
+  "pos": "noun",
+  "en": "combat",
+  "ja": "戦闘",
+  "rank": 3238,
+  "posOptions": "noun/noun/noun/noun"
+ },
+ {
+  "word": "média",
+  "pos": "noun",
+  "en": "average",
+  "ja": "並み",
+  "rank": 3487,
+  "posOptions": "noun/noun"
+ },
+ {
+  "word": "meritíssimo",
+  "pos": "noun",
+  "en": "judge",
+  "ja": "判事",
+  "rank": 3657,
+  "posOptions": "noun/adj"
+ },
+ {
+  "word": "capa",
+  "pos": "noun",
+  "en": "cover",
+  "ja": "かぶせる",
+  "rank": 3728,
+  "posOptions": "noun/noun"
+ },
+ {
+  "word": "horário",
+  "pos": "noun",
+  "en": "timetable",
+  "ja": "時間割り",
+  "rank": 3945,
+  "posOptions": "noun/adj"
+ },
+ {
+  "word": "aço",
+  "pos": "noun",
+  "en": "steel",
+  "ja": "鋼",
+  "rank": 4219,
+  "posOptions": "noun/adj"
+ },
+ {
+  "word": "amanhecer",
+  "pos": "verb",
+  "en": "dawn",
+  "ja": "暁",
+  "rank": 4797,
+  "posOptions": "verb/noun"
+ },
+ {
+  "word": "ala",
+  "pos": "noun",
+  "en": "flank",
+  "ja": "わき",
+  "rank": 4815,
+  "posOptions": "noun/noun"
+ },
+ {
+  "word": "técnico",
+  "pos": "noun",
+  "en": "specialist",
+  "ja": "専門医",
+  "rank": 5178,
+  "posOptions": "adj/noun"
+ },
+ {
+  "word": "xadrez",
+  "pos": "noun",
+  "en": "chess",
+  "ja": "チェス",
+  "rank": 5369,
+  "posOptions": "noun/adj"
+ },
+ {
+  "word": "colina",
+  "pos": "noun",
+  "en": "hill",
+  "ja": "小山",
+  "rank": 5407,
+  "posOptions": "noun/noun"
+ },
+ {
+  "word": "ácido",
+  "pos": "noun",
+  "en": "acid",
+  "ja": "すっぱい",
+  "rank": 5514,
+  "posOptions": "noun/adj"
+ },
+ {
+  "word": "colher",
+  "pos": "noun",
+  "en": "spoon",
+  "ja": "さじ",
+  "rank": 5705,
+  "posOptions": "noun/verb"
+ },
+ {
+  "word": "dano",
+  "pos": "noun",
+  "en": "damage",
+  "ja": "損傷",
+  "rank": 6753,
+  "posOptions": "noun/adj/noun"
+ },
+ {
+  "word": "voluntário",
+  "pos": "noun",
+  "en": "volunteer",
+  "ja": "有志",
+  "rank": 7225,
+  "posOptions": "noun/adj"
+ },
+ {
+  "word": "fino",
+  "pos": "adj",
+  "en": "thin",
+  "ja": "細い",
+  "rank": 7241,
+  "posOptions": "adj/noun/adj/noun"
+ },
+ {
+  "word": "acompanhante",
+  "pos": "noun",
+  "en": "companion",
+  "ja": "友",
+  "rank": 7467,
+  "posOptions": "adj/noun"
+ },
+ {
+  "word": "réu",
+  "pos": "noun",
+  "en": "defendant",
+  "ja": "被告",
+  "rank": 8122,
+  "posOptions": "noun/adj"
+ },
+ {
+  "word": "anão",
+  "pos": "noun",
+  "en": "dwarf",
+  "ja": "こびと",
+  "rank": 8822,
+  "posOptions": "noun/noun"
+ },
+ {
+  "word": "expresso",
+  "pos": "noun",
+  "en": "express",
+  "ja": "言い表す",
+  "rank": 9412,
+  "posOptions": "adj/noun"
+ },
+ {
+  "word": "pregar",
+  "pos": "verb",
+  "en": "nail",
+  "ja": "つめ",
+  "rank": 9631,
+  "posOptions": "verb/verb"
+ },
+ {
+  "word": "pesar",
+  "pos": "verb",
+  "en": "weigh",
+  "ja": "計る",
+  "rank": 9752,
+  "posOptions": "verb/noun"
+ },
+ {
+  "word": "autógrafo",
+  "pos": "noun",
+  "en": "autograph",
+  "ja": "サイン",
+  "rank": 9860,
+  "posOptions": "noun/adj"
+ },
+ {
+  "word": "pilar",
+  "pos": "noun",
+  "en": "pillar",
+  "ja": "柱",
+  "rank": 10104,
+  "posOptions": "noun/verb"
+ },
+ {
+  "word": "leitor",
+  "pos": "noun",
+  "en": "reader",
+  "ja": "読本",
+  "rank": 10186,
+  "posOptions": "adj/noun/noun"
+ },
+ {
+  "word": "veterano",
+  "pos": "adj",
+  "en": "veteran",
+  "ja": "ベテラン",
+  "rank": 10571,
+  "posOptions": "adj/noun"
+ },
+ {
+  "word": "acelerador",
+  "pos": "noun",
+  "en": "accelerator",
+  "ja": "アクセル",
+  "rank": 10600,
+  "posOptions": "noun/adj"
+ },
+ {
+  "word": "administrador",
+  "pos": "noun",
+  "en": "administrator",
+  "ja": "為政者",
+  "rank": 10649,
+  "posOptions": "adj/noun"
+ },
+ {
+  "word": "coleira",
+  "pos": "noun",
+  "en": "collar",
+  "ja": "カラー",
+  "rank": 11457,
+  "posOptions": "noun/noun"
+ },
+ {
+  "word": "tóxico",
+  "pos": "noun",
+  "en": "poison",
+  "ja": "毒薬",
+  "rank": 11720,
+  "posOptions": "noun/adj"
+ },
+ {
+  "word": "lima",
+  "pos": "noun",
+  "en": "lime",
+  "ja": "石灰",
+  "rank": 11907,
+  "posOptions": "noun/noun"
+ },
+ {
+  "word": "vácuo",
+  "pos": "noun",
+  "en": "vacuum",
+  "ja": "真空",
+  "rank": 12709,
+  "posOptions": "noun/adj"
+ },
+ {
+  "word": "embalar",
+  "pos": "verb",
+  "en": "rock",
+  "ja": "岩石",
+  "rank": 13209,
+  "posOptions": "verb/verb/verb"
+ },
+ {
+  "word": "panda",
+  "pos": "noun",
+  "en": "panda",
+  "ja": "パンダ",
+  "rank": 14085,
+  "posOptions": "noun/noun"
+ },
+ {
+  "word": "ambulante",
+  "pos": "adj",
+  "en": "walking",
+  "ja": "歩行",
+  "rank": 14559,
+  "posOptions": "adj/noun"
+ },
+ {
+  "word": "crente",
+  "pos": "noun",
+  "en": "believer",
+  "ja": "信者",
+  "rank": 14642,
+  "posOptions": "adj/noun"
+ },
+ {
+  "word": "prodígio",
+  "pos": "noun",
+  "en": "prodigy",
+  "ja": "天才",
+  "rank": 15940,
+  "posOptions": "noun/adj"
+ },
+ {
+  "word": "oca",
+  "pos": "noun",
+  "en": "cavity",
+  "ja": "へこみ",
+  "rank": 16551,
+  "posOptions": "noun/noun"
+ },
+ {
+  "word": "zen",
+  "pos": "adj",
+  "en": "zen",
+  "ja": "禅宗",
+  "rank": 16563,
+  "posOptions": "noun/adj"
+ },
+ {
+  "word": "construtor",
+  "pos": "adj",
+  "en": "construction",
+  "ja": "建築",
+  "rank": 16584,
+  "posOptions": "adj/noun"
+ },
+ {
+  "word": "pobrezinho",
+  "pos": "noun",
+  "en": "beggar",
+  "ja": "こじき",
+  "rank": 17101,
+  "posOptions": "noun/adj"
+ },
+ {
+  "word": "salgado",
+  "pos": "adj",
+  "en": "salty",
+  "ja": "塩辛い",
+  "rank": 17371,
+  "posOptions": "adj/noun"
+ },
+ {
+  "word": "jato",
+  "pos": "noun",
+  "en": "jet",
+  "ja": "噴射",
+  "rank": 17372,
+  "posOptions": "noun/noun"
+ },
+ {
+  "word": "gate",
+  "pos": "noun",
+  "en": "gate",
+  "ja": "とびら",
+  "rank": 17541,
+  "posOptions": "noun/noun"
+ },
+ {
+  "word": "montante",
+  "pos": "noun",
+  "en": "high tide",
+  "ja": "満潮",
+  "rank": 18723,
+  "posOptions": "noun/noun"
+ },
+ {
+  "word": "pseudónimo",
+  "pos": "noun",
+  "en": "pseudonym",
+  "ja": "筆名",
+  "rank": 18847,
+  "posOptions": "noun/adj"
+ },
+ {
+  "word": "detergente",
+  "pos": "noun",
+  "en": "detergent",
+  "ja": "洗剤",
+  "rank": 19169,
+  "posOptions": "adj/noun"
+ },
+ {
+  "word": "rubi",
+  "pos": "noun",
+  "en": "ruby",
+  "ja": "ルビー",
+  "rank": 19468,
+  "posOptions": "noun/adj"
+ },
+ {
+  "word": "chino",
+  "pos": "noun",
+  "en": "knife",
+  "ja": "小刀",
+  "rank": 19772,
+  "posOptions": "adj/noun/noun"
+ },
+ {
+  "word": "publicitário",
+  "pos": "adj",
+  "en": "advertising",
+  "ja": "広告",
+  "rank": 20049,
+  "posOptions": "adj/noun"
+ },
+ {
+  "word": "âmbar",
+  "pos": "noun",
+  "en": "amber",
+  "ja": "こはく",
+  "rank": 20051,
+  "posOptions": "noun/adj"
+ },
+ {
+  "word": "bibliotecário",
+  "pos": "noun",
+  "en": "librarian",
+  "ja": "司書",
+  "rank": 20636,
+  "posOptions": "noun/adj"
+ },
+ {
+  "word": "adesivo",
+  "pos": "noun",
+  "en": "sticker",
+  "ja": "ステッカー",
+  "rank": 21914,
+  "posOptions": "adj/noun"
+ },
+ {
+  "word": "capitalista",
+  "pos": "noun",
+  "en": "capitalist",
+  "ja": "資本家",
+  "rank": 22897,
+  "posOptions": "noun/adj"
+ },
+ {
+  "word": "chiclete",
+  "pos": "noun",
+  "en": "gum",
+  "ja": "ゴム",
+  "rank": 23851,
+  "posOptions": "noun/adj"
+ },
+ {
+  "word": "placar",
+  "pos": "noun",
+  "en": "scoreboard",
+  "ja": "スコアボード",
+  "rank": 24574,
+  "posOptions": "verb/noun"
+ },
+ {
+  "word": "simulador",
+  "pos": "adj",
+  "en": "simulator",
+  "ja": "シミュレーター",
+  "rank": 25429,
+  "posOptions": "adj/noun"
+ },
+ {
+  "word": "patamar",
+  "pos": "noun",
+  "en": "landing",
+  "ja": "上陸",
+  "rank": 25783,
+  "posOptions": "noun/noun"
+ },
+ {
+  "word": "mambo",
+  "pos": "noun",
+  "en": "mambo",
+  "ja": "マンボ",
+  "rank": 27410,
+  "posOptions": "noun/noun"
+ },
+ {
+  "word": "manicure",
+  "pos": "noun",
+  "en": "manicure",
+  "ja": "マニキュア",
+  "rank": 27784,
+  "posOptions": "noun/noun"
+ },
+ {
+  "word": "seiva",
+  "pos": "noun",
+  "en": "saliva",
+  "ja": "つば",
+  "rank": 27941,
+  "posOptions": "noun/noun"
+ },
+ {
+  "word": "galante",
+  "pos": "adj",
+  "en": "gallant",
+  "ja": "勇ましい",
+  "rank": 28512,
+  "posOptions": "adj/noun"
+ },
+ {
+  "word": "bis",
+  "pos": "noun",
+  "en": "encore",
+  "ja": "アンコール",
+  "rank": 31071,
+  "posOptions": "adv/noun"
+ },
+ {
+  "word": "velocista",
+  "pos": "adj",
+  "en": "sprinter",
+  "ja": "スプリンター",
+  "rank": 32680,
+  "posOptions": "adj/noun"
+ },
+ {
+  "word": "calcinha",
+  "pos": "noun",
+  "en": "panties",
+  "ja": "パンティー",
+  "rank": 32890,
+  "posOptions": "noun/noun"
+ },
+ {
+  "word": "onça",
+  "pos": "noun",
+  "en": "jaguar",
+  "ja": "ジャガー",
+  "rank": 33173,
+  "posOptions": "noun/noun"
+ },
+ {
+  "word": "suplementar",
+  "pos": "verb",
+  "en": "supplement",
+  "ja": "追加",
+  "rank": 33337,
+  "posOptions": "adj/verb"
+ },
+ {
+  "word": "lilás",
+  "pos": "noun",
+  "en": "lilac",
+  "ja": "リラ",
+  "rank": 33664,
+  "posOptions": "adj/noun"
+ },
+ {
+  "word": "símio",
+  "pos": "adj",
+  "en": "ape",
+  "ja": "サル",
+  "rank": 33946,
+  "posOptions": "adj/noun"
+ },
+ {
+  "word": "fiar",
+  "pos": "verb",
+  "en": "trust",
+  "ja": "信任",
+  "rank": 34217,
+  "posOptions": "verb/verb"
+ },
+ {
+  "word": "recesso",
+  "pos": "noun",
+  "en": "recess",
+  "ja": "休憩",
+  "rank": 35376,
+  "posOptions": "noun/adj"
+ },
+ {
+  "word": "asteroide",
+  "pos": "noun",
+  "en": "asteroid",
+  "ja": "小惑星",
+  "rank": 36263,
+  "posOptions": "noun/adj"
+ },
+ {
+  "word": "denominador",
+  "pos": "noun",
+  "en": "denominator",
+  "ja": "分母",
+  "rank": 37050,
+  "posOptions": "adj/noun"
+ },
+ {
+  "word": "padroeiro",
+  "pos": "adj",
+  "en": "patron",
+  "ja": "保護者",
+  "rank": 37876,
+  "posOptions": "adj/noun"
+ },
+ {
+  "word": "pontão",
+  "pos": "noun",
+  "en": "pontoon",
+  "ja": "フロート",
+  "rank": 39721,
+  "posOptions": "noun/noun"
+ },
+ {
+  "word": "excedente",
+  "pos": "noun",
+  "en": "surplus",
+  "ja": "剰余金",
+  "rank": 40255,
+  "posOptions": "adj/noun"
+ },
+ {
+  "word": "misturador",
+  "pos": "noun",
+  "en": "mixer",
+  "ja": "ミキサー",
+  "rank": 40679,
+  "posOptions": "noun/noun/noun"
+ },
+ {
+  "word": "grafite",
+  "pos": "noun",
+  "en": "graphite",
+  "ja": "黒鉛",
+  "rank": 41265,
+  "posOptions": "noun/noun"
+ },
+ {
+  "word": "atentar",
+  "pos": "verb",
+  "en": "tempt",
+  "ja": "そそのかす",
+  "rank": 43488,
+  "posOptions": "verb/verb"
+ },
+ {
+  "word": "vogal",
+  "pos": "noun",
+  "en": "vowel",
+  "ja": "母音",
+  "rank": 44611,
+  "posOptions": "adj/noun"
+ },
+ {
+  "word": "leigo",
+  "pos": "noun",
+  "en": "layman",
+  "ja": "しろうと",
+  "rank": 44625,
+  "posOptions": "noun/adj"
+ },
+ {
+  "word": "vassalo",
+  "pos": "noun",
+  "en": "vassal",
+  "ja": "家来",
+  "rank": 45461,
+  "posOptions": "noun/adj"
+ },
+ {
+  "word": "craque",
+  "pos": "adj",
+  "en": "crack",
+  "ja": "ひび",
+  "rank": 45489,
+  "posOptions": "adj/noun/noun"
+ },
+ {
+  "word": "gêmeo",
+  "pos": "adj",
+  "en": "twin",
+  "ja": "ふたご",
+  "rank": 48260,
+  "posOptions": "adj/noun/noun"
+ }
+]

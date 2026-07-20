@@ -1,0 +1,218 @@
+[
+ {
+  "word": "раз",
+  "pos": "noun",
+  "en": "time",
+  "ja": "時",
+  "rank": 90,
+  "posOptions": "noun/adv"
+ },
+ {
+  "word": "легко",
+  "pos": "adv",
+  "en": "lightly",
+  "ja": "そっと",
+  "rank": 825,
+  "posOptions": "adv/adj"
+ },
+ {
+  "word": "адрес",
+  "pos": "noun",
+  "en": "address",
+  "ja": "住所",
+  "rank": 1336,
+  "posOptions": "noun/noun"
+ },
+ {
+  "word": "воздух",
+  "pos": "noun",
+  "en": "air",
+  "ja": "大気",
+  "rank": 2133,
+  "posOptions": "noun/noun"
+ },
+ {
+  "word": "правило",
+  "pos": "noun",
+  "en": "rule",
+  "ja": "法則",
+  "rank": 2238,
+  "posOptions": "noun/noun"
+ },
+ {
+  "word": "замок",
+  "pos": "noun",
+  "en": "lock",
+  "ja": "錠",
+  "rank": 2405,
+  "posOptions": "noun/noun"
+ },
+ {
+  "word": "тень",
+  "pos": "noun",
+  "en": "shade",
+  "ja": "日陰",
+  "rank": 4589,
+  "posOptions": "noun/noun"
+ },
+ {
+  "word": "демон",
+  "pos": "noun",
+  "en": "demon",
+  "ja": "悪魔",
+  "rank": 5601,
+  "posOptions": "noun/noun"
+ },
+ {
+  "word": "лист",
+  "pos": "noun",
+  "en": "sheet",
+  "ja": "シーツ",
+  "rank": 7963,
+  "posOptions": "noun/noun"
+ },
+ {
+  "word": "печь",
+  "pos": "noun",
+  "en": "stove",
+  "ja": "暖炉",
+  "rank": 12295,
+  "posOptions": "verb/noun"
+ },
+ {
+  "word": "бунт",
+  "pos": "noun",
+  "en": "riot",
+  "ja": "騒動",
+  "rank": 14443,
+  "posOptions": "noun/noun"
+ },
+ {
+  "word": "прилив",
+  "pos": "noun",
+  "en": "tide",
+  "ja": "潮流",
+  "rank": 20186,
+  "posOptions": "noun/verb"
+ },
+ {
+  "word": "кулон",
+  "pos": "noun",
+  "en": "pendant",
+  "ja": "ペンダント",
+  "rank": 21249,
+  "posOptions": "noun/noun"
+ },
+ {
+  "word": "почка",
+  "pos": "noun",
+  "en": "kidney",
+  "ja": "腎臓",
+  "rank": 23384,
+  "posOptions": "noun/noun"
+ },
+ {
+  "word": "сокол",
+  "pos": "noun",
+  "en": "falcon",
+  "ja": "タカ",
+  "rank": 23769,
+  "posOptions": "noun/noun"
+ },
+ {
+  "word": "полис",
+  "pos": "noun",
+  "en": "policy",
+  "ja": "政策",
+  "rank": 24051,
+  "posOptions": "noun/noun/noun"
+ },
+ {
+  "word": "каньон",
+  "pos": "noun",
+  "en": "canyon",
+  "ja": "峡谷",
+  "rank": 25155,
+  "posOptions": "noun/noun"
+ },
+ {
+  "word": "попадать",
+  "pos": "verb",
+  "en": "hit",
+  "ja": "なぐる",
+  "rank": 25614,
+  "posOptions": "verb/verb"
+ },
+ {
+  "word": "пат",
+  "pos": "noun",
+  "en": "stalemate",
+  "ja": "行き詰まり",
+  "rank": 25684,
+  "posOptions": "noun/noun"
+ },
+ {
+  "word": "бан",
+  "pos": "noun",
+  "en": "ban",
+  "ja": "禁制",
+  "rank": 29489,
+  "posOptions": "noun/noun/noun"
+ },
+ {
+  "word": "ирис",
+  "pos": "noun",
+  "en": "iris",
+  "ja": "アイリス",
+  "rank": 31724,
+  "posOptions": "noun/noun"
+ },
+ {
+  "word": "присяжный",
+  "pos": "adj",
+  "en": "oath",
+  "ja": "誓約",
+  "rank": 35284,
+  "posOptions": "adj/noun"
+ },
+ {
+  "word": "губа",
+  "pos": "noun",
+  "en": "lip",
+  "ja": "くちびる",
+  "rank": 41907,
+  "posOptions": "noun/noun"
+ },
+ {
+  "word": "штрафной",
+  "pos": "adj",
+  "en": "penalty",
+  "ja": "処罰",
+  "rank": 46424,
+  "posOptions": "adj/noun"
+ },
+ {
+  "word": "начинающий",
+  "pos": "noun",
+  "en": "beginner",
+  "ja": "初心者",
+  "rank": 48077,
+  "posOptions": "noun/adj"
+ },
+ {
+  "word": "киви",
+  "pos": "noun",
+  "en": "kiwi",
+  "ja": "キウィ",
+  "rank": 48421,
+  "posOptions": "noun/noun"
+ },
+ {
+  "word": "угорь",
+  "pos": "noun",
+  "en": "eel",
+  "ja": "ウナギ",
+  "rank": 48540,
+  "posOptions": "noun/noun"
+ }
+]

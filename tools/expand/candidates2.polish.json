@@ -1,0 +1,322 @@
+[
+ {
+  "word": "ale",
+  "pos": "noun",
+  "en": "but",
+  "ja": "けれども",
+  "rank": 15,
+  "posOptions": "noun/noun"
+ },
+ {
+  "word": "raz",
+  "pos": "noun",
+  "en": "case",
+  "ja": "事例",
+  "rank": 146,
+  "posOptions": "noun/noun/adv"
+ },
+ {
+  "word": "jutro",
+  "pos": "noun",
+  "en": "tomorrow",
+  "ja": "あした",
+  "rank": 290,
+  "posOptions": "noun/adv"
+ },
+ {
+  "word": "wczoraj",
+  "pos": "adv",
+  "en": "yesterday",
+  "ja": "昨日",
+  "rank": 436,
+  "posOptions": "adv/noun"
+ },
+ {
+  "word": "pora",
+  "pos": "noun",
+  "en": "time",
+  "ja": "時",
+  "rank": 1472,
+  "posOptions": "noun/verb"
+ },
+ {
+  "word": "król",
+  "pos": "noun",
+  "en": "king",
+  "ja": "国王",
+  "rank": 1478,
+  "posOptions": "noun/noun"
+ },
+ {
+  "word": "rząd",
+  "pos": "noun",
+  "en": "row",
+  "ja": "並び",
+  "rank": 1600,
+  "posOptions": "noun/noun"
+ },
+ {
+  "word": "wysłać",
+  "pos": "verb",
+  "en": "send",
+  "ja": "届ける",
+  "rank": 1770,
+  "posOptions": "verb/verb"
+ },
+ {
+  "word": "kontrolować",
+  "pos": "verb",
+  "en": "control",
+  "ja": "制御",
+  "rank": 2505,
+  "posOptions": "verb/verb"
+ },
+ {
+  "word": "złoto",
+  "pos": "noun",
+  "en": "gold",
+  "ja": "黄金",
+  "rank": 3000,
+  "posOptions": "noun/adv"
+ },
+ {
+  "word": "zamek",
+  "pos": "noun",
+  "en": "lock",
+  "ja": "錠",
+  "rank": 3762,
+  "posOptions": "noun/noun"
+ },
+ {
+  "word": "pas",
+  "pos": "noun",
+  "en": "belt",
+  "ja": "帯",
+  "rank": 4394,
+  "posOptions": "noun/noun/noun"
+ },
+ {
+  "word": "magazyn",
+  "pos": "noun",
+  "en": "warehouse",
+  "ja": "倉庫",
+  "rank": 4845,
+  "posOptions": "noun/noun"
+ },
+ {
+  "word": "pilot",
+  "pos": "noun",
+  "en": "remote control",
+  "ja": "リモコン",
+  "rank": 4933,
+  "posOptions": "noun/noun"
+ },
+ {
+  "word": "znajomy",
+  "pos": "noun",
+  "en": "acquaintance",
+  "ja": "知人",
+  "rank": 5472,
+  "posOptions": "noun/adj"
+ },
+ {
+  "word": "kopać",
+  "pos": "verb",
+  "en": "kick",
+  "ja": "ける",
+  "rank": 7184,
+  "posOptions": "verb/verb"
+ },
+ {
+  "word": "wampir",
+  "pos": "noun",
+  "en": "vampire",
+  "ja": "吸血鬼",
+  "rank": 10337,
+  "posOptions": "noun/noun"
+ },
+ {
+  "word": "kopia",
+  "pos": "noun",
+  "en": "copy",
+  "ja": "複写",
+  "rank": 10687,
+  "posOptions": "noun/noun"
+ },
+ {
+  "word": "powodować",
+  "pos": "verb",
+  "en": "head",
+  "ja": "頭部",
+  "rank": 18286,
+  "posOptions": "verb/verb"
+ },
+ {
+  "word": "księgowy",
+  "pos": "noun",
+  "en": "accountant",
+  "ja": "会計士",
+  "rank": 18655,
+  "posOptions": "noun/adj"
+ },
+ {
+  "word": "batalion",
+  "pos": "noun",
+  "en": "battalion",
+  "ja": "大隊",
+  "rank": 18920,
+  "posOptions": "noun/noun"
+ },
+ {
+  "word": "talia",
+  "pos": "noun",
+  "en": "waist",
+  "ja": "腰部",
+  "rank": 26121,
+  "posOptions": "noun/noun"
+ },
+ {
+  "word": "kret",
+  "pos": "noun",
+  "en": "mole",
+  "ja": "ほくろ",
+  "rank": 26305,
+  "posOptions": "noun/noun/noun"
+ },
+ {
+  "word": "bak",
+  "pos": "noun",
+  "en": "tank",
+  "ja": "タンク",
+  "rank": 26429,
+  "posOptions": "noun/noun"
+ },
+ {
+  "word": "goryl",
+  "pos": "noun",
+  "en": "gorilla",
+  "ja": "ゴリラ",
+  "rank": 27234,
+  "posOptions": "noun/noun"
+ },
+ {
+  "word": "niszczyciel",
+  "pos": "noun",
+  "en": "destroyer",
+  "ja": "駆逐艦",
+  "rank": 27287,
+  "posOptions": "noun/noun"
+ },
+ {
+  "word": "ładować",
+  "pos": "verb",
+  "en": "charge",
+  "ja": "料金",
+  "rank": 27525,
+  "posOptions": "verb/verb/verb/verb"
+ },
+ {
+  "word": "karo",
+  "pos": "noun",
+  "en": "diamond",
+  "ja": "ダイヤ",
+  "rank": 29607,
+  "posOptions": "noun/adj"
+ },
+ {
+  "word": "biel",
+  "pos": "noun",
+  "en": "white",
+  "ja": "白色",
+  "rank": 30746,
+  "posOptions": "noun/noun"
+ },
+ {
+  "word": "skoczek",
+  "pos": "noun",
+  "en": "knight",
+  "ja": "ナイト",
+  "rank": 31244,
+  "posOptions": "noun/noun/noun"
+ },
+ {
+  "word": "mus",
+  "pos": "noun",
+  "en": "mousse",
+  "ja": "ムース",
+  "rank": 31779,
+  "posOptions": "noun/noun"
+ },
+ {
+  "word": "bariera",
+  "pos": "noun",
+  "en": "barrier",
+  "ja": "関門",
+  "rank": 33867,
+  "posOptions": "noun/noun"
+ },
+ {
+  "word": "jaguar",
+  "pos": "noun",
+  "en": "jaguar",
+  "ja": "ジャガー",
+  "rank": 34047,
+  "posOptions": "noun/noun"
+ },
+ {
+  "word": "kora",
+  "pos": "noun",
+  "en": "bark",
+  "ja": "樹皮",
+  "rank": 37364,
+  "posOptions": "noun/noun/noun"
+ },
+ {
+  "word": "manekin",
+  "pos": "noun",
+  "en": "mannequin",
+  "ja": "マネキン",
+  "rank": 37626,
+  "posOptions": "noun/noun"
+ },
+ {
+  "word": "fantasy",
+  "pos": "noun",
+  "en": "fantasy",
+  "ja": "空想",
+  "rank": 38161,
+  "posOptions": "noun/adj"
+ },
+ {
+  "word": "bas",
+  "pos": "noun",
+  "en": "bass",
+  "ja": "低音",
+  "rank": 41069,
+  "posOptions": "noun/noun"
+ },
+ {
+  "word": "biegacz",
+  "pos": "noun",
+  "en": "runner",
+  "ja": "走者",
+  "rank": 45508,
+  "posOptions": "noun/noun/noun"
+ },
+ {
+  "word": "myśliwski",
+  "pos": "adj",
+  "en": "hunting",
+  "ja": "狩り",
+  "rank": 46418,
+  "posOptions": "adj/adj"
+ },
+ {
+  "word": "dzik",
+  "pos": "noun",
+  "en": "wild boar",
+  "ja": "イノシシ",
+  "rank": 46711,
+  "posOptions": "noun/noun"
+ }
+]
