@@ -73,14 +73,21 @@ function loadLinks(idSetA, idSetB) {
   return map
 }
 
-/** 文が学習例文としてふさわしいか */
+/**
+ * 文が学習例文としてふさわしいか。
+ * 厳しすぎるとカバレッジが落ちるため、学習の妨げになる要素(引用符・記号・数字の羅列)
+ * だけを弾き、長さは 3〜16語まで許容する。
+ */
 function goodSentence(s) {
   if (!s) return false
   const len = s.trim().split(/\s+/).length
-  if (len < 3 || len > 12) return false
-  if (/[«»"“”()\[\]{}<>@#$%^*_=|\\/]/.test(s)) return false
-  if (/\d/.test(s)) return false
-  if ((s.match(/,/g) || []).length > 1) return false
+  if (len < 3 || len > 16) return false
+  if (/[«»"“”\[\]{}<>@#$%^*_=|\\/]/.test(s)) return false
+  if (/\d{2,}/.test(s)) return false // 年号や番号の羅列は避ける(1桁の数は許容)
+  // ダッシュを含む文は除外する。example は "原文 — 和訳" 形式で、アプリ側は
+  // 最初の " — " で分割するため、原文内のダッシュ(露: Том — человек)があると
+  // 和訳が途中で切れて壊れる。
+  if (/[—–]/.test(s)) return false
   return true
 }
 
@@ -108,7 +115,8 @@ for (const L of LANGS) {
       if (seen.has(w)) continue
       seen.add(w)
       if (!byWord.has(w)) byWord.set(w, [])
-      if (byWord.get(w).length < 40) byWord.get(w).push({ text, ja, words })
+      // 短い文を優先したいので多めに保持してから後段で選ぶ
+      if (byWord.get(w).length < 120) byWord.get(w).push({ text, ja, words })
     }
   }
 
@@ -125,9 +133,11 @@ for (const L of LANGS) {
       const word = String(e.prompt || '').replace(/[「」]|の意味は？/g, '').toLowerCase()
       const cands = byWord.get(word)
       if (!cands || !cands.length) continue
-      // 対象語をちょうど1回だけ含む文を選ぶ(穴埋めの一意性)
-      const pick = cands.find((c) => c.words.filter((w) => w === word).length === 1)
-      if (!pick) continue
+      // 対象語をちょうど1回だけ含む文の中から、最も短いものを選ぶ
+      // (穴埋めの一意性を保ちつつ、短い文の方が学習効果が高い)
+      const ok = cands.filter((c) => c.words.filter((w) => w === word).length === 1)
+      if (!ok.length) continue
+      const pick = ok.reduce((a, b) => (b.words.length < a.words.length ? b : a))
       e.example = `${pick.text} — ${pick.ja}`
       e.exampleForm = word
       added++
