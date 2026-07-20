@@ -1,0 +1,602 @@
+[
+ {
+  "word": "sabor",
+  "en": "flavor",
+  "ja": "味，風味"
+ },
+ {
+  "word": "reserva",
+  "en": "reservation",
+  "ja": "予約，備蓄"
+ },
+ {
+  "word": "escondido",
+  "en": "hidden",
+  "ja": "隠れた，隠された"
+ },
+ {
+  "word": "chiste",
+  "en": "joke",
+  "ja": "冗談，ジョーク"
+ },
+ {
+  "word": "sinceramente",
+  "en": "sincerely",
+  "ja": "心から，誠実に"
+ },
+ {
+  "word": "prisionero",
+  "en": "prisoner",
+  "ja": "囚人"
+ },
+ {
+  "word": "investigar",
+  "en": "to investigate",
+  "ja": "調査する，捜査する"
+ },
+ {
+  "word": "despertar",
+  "en": "to wake",
+  "ja": "目を覚ます，目覚めさせる"
+ },
+ {
+  "word": "instante",
+  "en": "instant",
+  "ja": "瞬間"
+ },
+ {
+  "word": "sentada",
+  "en": "sitting",
+  "ja": "座っている，座り込み"
+ },
+ {
+  "word": "dormitorio",
+  "en": "bedroom",
+  "ja": "寝室"
+ },
+ {
+  "word": "pulso",
+  "en": "pulse",
+  "ja": "脈拍"
+ },
+ {
+  "word": "partida",
+  "en": "departure",
+  "ja": "出発，（試合の）一局"
+ },
+ {
+  "word": "excelencia",
+  "en": "excellency",
+  "ja": "閣下，卓越"
+ },
+ {
+  "word": "despedido",
+  "en": "laid off",
+  "ja": "解雇された"
+ },
+ {
+  "word": "moral",
+  "en": "morals",
+  "ja": "道徳，モラル"
+ },
+ {
+  "word": "asalto",
+  "en": "assault",
+  "ja": "襲撃"
+ },
+ {
+  "word": "decente",
+  "en": "decent",
+  "ja": "まともな，きちんとした"
+ },
+ {
+  "word": "combustible",
+  "en": "fuel",
+  "ja": "燃料"
+ },
+ {
+  "word": "discusión",
+  "en": "discussion",
+  "ja": "議論，口論"
+ },
+ {
+  "word": "pata",
+  "en": "paw",
+  "ja": "（動物の）足，脚"
+ },
+ {
+  "word": "jean",
+  "en": "jeans",
+  "ja": "ジーンズ"
+ },
+ {
+  "word": "antiguos",
+  "en": "ancient, old",
+  "ja": "古い"
+ },
+ {
+  "word": "cogido",
+  "en": "taken, caught, grabbed",
+  "ja": "取られた，捕まえられた"
+ },
+ {
+  "word": "joyas",
+  "en": "jewelry",
+  "ja": "宝石，宝飾品"
+ },
+ {
+  "word": "traidor",
+  "en": "traitor",
+  "ja": "裏切り者"
+ },
+ {
+  "word": "letra",
+  "en": "letter",
+  "ja": "文字"
+ },
+ {
+  "word": "resistencia",
+  "en": "resistance",
+  "ja": "抵抗"
+ },
+ {
+  "word": "arreglado",
+  "en": "tidy",
+  "ja": "整った，きちんとした"
+ },
+ {
+  "word": "mínimo",
+  "en": "minimum",
+  "ja": "最小限，最低"
+ },
+ {
+  "word": "planeado",
+  "en": "planned",
+  "ja": "計画された"
+ },
+ {
+  "word": "comprobar",
+  "en": "to check",
+  "ja": "確認する"
+ },
+ {
+  "word": "forense",
+  "en": "forensic examiner",
+  "ja": "監察医，法医学者"
+ },
+ {
+  "word": "involucrado",
+  "en": "involved",
+  "ja": "関与した"
+ },
+ {
+  "word": "abandonado",
+  "en": "abandoned",
+  "ja": "見捨てられた，放棄された"
+ },
+ {
+  "word": "pinta",
+  "en": "look",
+  "ja": "見た目"
+ },
+ {
+  "word": "helicóptero",
+  "en": "helicopter",
+  "ja": "ヘリコプター"
+ },
+ {
+  "word": "escape",
+  "en": "escape",
+  "ja": "逃走"
+ },
+ {
+  "word": "caída",
+  "en": "fall",
+  "ja": "落下"
+ },
+ {
+  "word": "lealtad",
+  "en": "loyalty",
+  "ja": "忠誠"
+ },
+ {
+  "word": "invitación",
+  "en": "invitation",
+  "ja": "招待"
+ },
+ {
+  "word": "diamantes",
+  "en": "diamonds",
+  "ja": "ダイヤモンド"
+ },
+ {
+  "word": "leyenda",
+  "en": "legend",
+  "ja": "伝説"
+ },
+ {
+  "word": "paraíso",
+  "en": "paradise",
+  "ja": "楽園"
+ },
+ {
+  "word": "cabaña",
+  "en": "cabin",
+  "ja": "小屋"
+ },
+ {
+  "word": "lentamente",
+  "en": "slowly",
+  "ja": "ゆっくりと"
+ },
+ {
+  "word": "ensayo",
+  "en": "essay",
+  "ja": "エッセイ"
+ },
+ {
+  "word": "gimnasio",
+  "en": "gym",
+  "ja": "ジム，体育館"
+ },
+ {
+  "word": "lenguaje",
+  "en": "language",
+  "ja": "言語"
+ },
+ {
+  "word": "científico",
+  "en": "scientist",
+  "ja": "科学者"
+ },
+ {
+  "word": "actividad",
+  "en": "activity",
+  "ja": "活動"
+ },
+ {
+  "word": "dragón",
+  "en": "dragon",
+  "ja": "竜，ドラゴン"
+ },
+ {
+  "word": "aguantar",
+  "en": "to hold",
+  "ja": "耐える，我慢する"
+ },
+ {
+  "word": "generación",
+  "en": "generation",
+  "ja": "世代"
+ },
+ {
+  "word": "escritor",
+  "en": "writer",
+  "ja": "作家"
+ },
+ {
+  "word": "solitario",
+  "en": "solitary, lonely",
+  "ja": "孤独な"
+ },
+ {
+  "word": "sonar",
+  "en": "to sound",
+  "ja": "鳴る"
+ },
+ {
+  "word": "publicidad",
+  "en": "advertisement",
+  "ja": "広告，宣伝"
+ },
+ {
+  "word": "temporal",
+  "en": "storm",
+  "ja": "嵐"
+ },
+ {
+  "word": "probado",
+  "en": "proven",
+  "ja": "証明された，実証済みの"
+ },
+ {
+  "word": "barra",
+  "en": "bar",
+  "ja": "バー"
+ },
+ {
+  "word": "aniversario",
+  "en": "anniversary",
+  "ja": "記念日"
+ },
+ {
+  "word": "niñera",
+  "en": "babysitter",
+  "ja": "ベビーシッター，子守"
+ },
+ {
+  "word": "muro",
+  "en": "wall",
+  "ja": "壁"
+ },
+ {
+  "word": "abrazo",
+  "en": "hug",
+  "ja": "抱擁，ハグ"
+ },
+ {
+  "word": "demanda",
+  "en": "demand",
+  "ja": "需要，要求，訴訟"
+ },
+ {
+  "word": "internacional",
+  "en": "international",
+  "ja": "国際的"
+ },
+ {
+  "word": "perfil",
+  "en": "profile",
+  "ja": "横顔"
+ },
+ {
+  "word": "vecindario",
+  "en": "neighbourhood",
+  "ja": "近所，地域"
+ },
+ {
+  "word": "izquierdo",
+  "en": "left",
+  "ja": "左"
+ },
+ {
+  "word": "personalidad",
+  "en": "personality",
+  "ja": "人柄"
+ },
+ {
+  "word": "secretario",
+  "en": "secretary",
+  "ja": "秘書"
+ },
+ {
+  "word": "rueda",
+  "en": "wheel",
+  "ja": "車輪，タイヤ"
+ },
+ {
+  "word": "sorprendido",
+  "en": "surprised",
+  "ja": "驚いた"
+ },
+ {
+  "word": "profundamente",
+  "en": "profoundly",
+  "ja": "深く"
+ },
+ {
+  "word": "grano",
+  "en": "grain",
+  "ja": "粒"
+ },
+ {
+  "word": "pagaré",
+  "en": "promissory note",
+  "ja": "約束手形"
+ },
+ {
+  "word": "super",
+  "en": "very",
+  "ja": "とても"
+ },
+ {
+  "word": "piedad",
+  "en": "piety",
+  "ja": "慈悲，敬虔"
+ },
+ {
+  "word": "tocado",
+  "en": "headdress",
+  "ja": "髪飾り，頭飾り"
+ },
+ {
+  "word": "creado",
+  "en": "created",
+  "ja": "作られた"
+ },
+ {
+  "word": "encerrado",
+  "en": "locked up, confined",
+  "ja": "閉じ込められた"
+ },
+ {
+  "word": "expresión",
+  "en": "expression",
+  "ja": "表現"
+ },
+ {
+  "word": "escándalo",
+  "en": "scandal",
+  "ja": "スキャンダル"
+ },
+ {
+  "word": "oficialmente",
+  "en": "officially",
+  "ja": "公式に，正式に"
+ },
+ {
+  "word": "perdedor",
+  "en": "loser",
+  "ja": "敗者，負け犬"
+ },
+ {
+  "word": "rumbo",
+  "en": "course",
+  "ja": "方向"
+ },
+ {
+  "word": "preocupación",
+  "en": "preoccupation",
+  "ja": "心配，懸念"
+ },
+ {
+  "word": "heroína",
+  "en": "heroine",
+  "ja": "女性主人公，ヒロイン，ヘロイン"
+ },
+ {
+  "word": "estupidez",
+  "en": "stupidity",
+  "ja": "愚かさ，ばかげたこと"
+ },
+ {
+  "word": "sorprendente",
+  "en": "surprising",
+  "ja": "驚くべき"
+ },
+ {
+  "word": "enhorabuena",
+  "en": "congratulation",
+  "ja": "おめでとう，祝福"
+ },
+ {
+  "word": "ánimo",
+  "en": "spirits, encouragement",
+  "ja": "元気、励まし"
+ },
+ {
+  "word": "despejado",
+  "en": "clear",
+  "ja": "晴れた，澄んだ"
+ },
+ {
+  "word": "corona",
+  "en": "crown",
+  "ja": "王冠"
+ },
+ {
+  "word": "dispositivo",
+  "en": "device",
+  "ja": "装置、デバイス"
+ },
+ {
+  "word": "inmunidad",
+  "en": "immunity",
+  "ja": "免疫"
+ },
+ {
+  "word": "grabación",
+  "en": "recording",
+  "ja": "録音，録画"
+ },
+ {
+  "word": "nuclear",
+  "en": "nuclear",
+  "ja": "核の、原子力の"
+ },
+ {
+  "word": "puesta",
+  "en": "setting (of the sun), laying",
+  "ja": "日没、（卵を）産むこと"
+ },
+ {
+  "word": "carácter",
+  "en": "character",
+  "ja": "性格，性質"
+ },
+ {
+  "word": "máscara",
+  "en": "mask",
+  "ja": "仮面"
+ },
+ {
+  "word": "alianza",
+  "en": "alliance",
+  "ja": "同盟"
+ },
+ {
+  "word": "positivo",
+  "en": "positive",
+  "ja": "肯定的な，前向きな"
+ },
+ {
+  "word": "desafortunadamente",
+  "en": "unfortunately",
+  "ja": "残念ながら"
+ },
+ {
+  "word": "guitarra",
+  "en": "guitar",
+  "ja": "ギター"
+ },
+ {
+  "word": "estrategia",
+  "en": "strategy",
+  "ja": "戦略"
+ },
+ {
+  "word": "frecuencia",
+  "en": "frequency",
+  "ja": "頻度"
+ },
+ {
+  "word": "prohibido",
+  "en": "forbidden",
+  "ja": "禁止された"
+ },
+ {
+  "word": "industria",
+  "en": "industry",
+  "ja": "産業"
+ },
+ {
+  "word": "colección",
+  "en": "collection",
+  "ja": "収集"
+ },
+ {
+  "word": "expediente",
+  "en": "case",
+  "ja": "記録"
+ },
+ {
+  "word": "cerebral",
+  "en": "cerebral",
+  "ja": "脳の，頭脳の"
+ },
+ {
+  "word": "coraje",
+  "en": "courage",
+  "ja": "勇気"
+ },
+ {
+  "word": "adulto",
+  "en": "adult",
+  "ja": "成人"
+ },
+ {
+  "word": "rubia",
+  "en": "blonde",
+  "ja": "金髪の女性"
+ },
+ {
+  "word": "caridad",
+  "en": "charity",
+  "ja": "慈善，思いやり"
+ },
+ {
+  "word": "capítulo",
+  "en": "chapter",
+  "ja": "章"
+ },
+ {
+  "word": "tarta",
+  "en": "pie",
+  "ja": "ケーキ"
+ },
+ {
+  "word": "jersey",
+  "en": "sweater",
+  "ja": "セーター"
+ }
+]

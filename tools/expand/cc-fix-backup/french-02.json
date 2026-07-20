@@ -1,0 +1,11 @@
+[
+ {"word":"conférence","issue":"en と ja が不整合。仏語 conférence の中心義は「講演」で、ja は正しいが en の \"conference\"（会議）とずれる","suggest_ja":"講演","suggest_en":"lecture"},
+ {"word":"fiancé","issue":"品詞不一致。ja は名詞「婚約者」なのに en が形容詞 \"engaged\"","suggest_ja":"婚約者","suggest_en":"fiancé"},
+ {"word":"valise","issue":"en \"case\" が曖昧すぎて 4択の選択肢として ja「スーツケース」と対応しない","suggest_ja":"スーツケース","suggest_en":"suitcase"},
+ {"word":"diriger","issue":"en \"to run\" が多義で曖昧。ja「指揮する」と対応が取りにくい","suggest_ja":"指揮する，率いる","suggest_en":"to direct"},
+ {"word":"plateau","issue":"en \"flat area\" は ja の第一義「お盆」を全くカバーせず不整合","suggest_ja":"お盆，高原","suggest_en":"tray"},
+ {"word":"enregistrement","issue":"訳が中心義を外している。enregistrement の第一義は「録音・記録」。\"registration\"/「登録」は副次的","suggest_ja":"録音，記録","suggest_en":"recording"},
+ {"word":"bourse","issue":"en \"coin purse\" が ja の「奨学金」および主要義の「証券取引所」をカバーせず不整合","suggest_ja":"財布，奨学金","suggest_en":"purse; scholarship"},
+ {"word":"interne","issue":"品詞・語義不整合。ja の第一義は形容詞「内部の」だが en は名詞 \"intern\" のみ","suggest_ja":"内部の","suggest_en":"internal"},
+ {"word":"couler","issue":"中心義のずれ。couler の第一義は「流れる」で、\"to sink\"（沈む）は副次的","suggest_ja":"流れる，沈む","suggest_en":"to flow"}
+]

@@ -1,0 +1,602 @@
+[
+ {
+  "word": "gars",
+  "en": "guy",
+  "ja": "男，やつ"
+ },
+ {
+  "word": "truc",
+  "en": "thing",
+  "ja": "物"
+ },
+ {
+  "word": "mec",
+  "en": "guy",
+  "ja": "男，やつ"
+ },
+ {
+  "word": "super",
+  "en": "great",
+  "ja": "すごい，最高の"
+ },
+ {
+  "word": "demande",
+  "en": "request",
+  "ja": "依頼"
+ },
+ {
+  "word": "compris",
+  "en": "understood",
+  "ja": "わかった，理解した"
+ },
+ {
+  "word": "écoute",
+  "en": "listening",
+  "ja": "傾聴，聞くこと"
+ },
+ {
+  "word": "perdu",
+  "en": "lost",
+  "ja": "失った，道に迷った"
+ },
+ {
+  "word": "première",
+  "en": "first",
+  "ja": "最初の（女性形）"
+ },
+ {
+  "word": "belle",
+  "en": "beautiful",
+  "ja": "美しい（女性形）"
+ },
+ {
+  "word": "boulot",
+  "en": "work",
+  "ja": "仕事"
+ },
+ {
+  "word": "ben",
+  "en": "well (interjection)",
+  "ja": "ええと，まあ"
+ },
+ {
+  "word": "génial",
+  "en": "great, brilliant",
+  "ja": "すばらしい，最高の"
+ },
+ {
+  "word": "rentrer",
+  "en": "to go back",
+  "ja": "帰る"
+ },
+ {
+  "word": "faute",
+  "en": "error",
+  "ja": "過ち"
+ },
+ {
+  "word": "sorte",
+  "en": "sort",
+  "ja": "種類"
+ },
+ {
+  "word": "nouvelles",
+  "en": "news",
+  "ja": "知らせ"
+ },
+ {
+  "word": "meurtre",
+  "en": "murder",
+  "ja": "殺人"
+ },
+ {
+  "word": "cool",
+  "en": "cool",
+  "ja": "かっこいい，いい"
+ },
+ {
+  "word": "écrit",
+  "en": "written",
+  "ja": "書かれた，文書"
+ },
+ {
+  "word": "chéri",
+  "en": "dear",
+  "ja": "いとしい人，あなた"
+ },
+ {
+  "word": "sinon",
+  "en": "otherwise",
+  "ja": "さもなければ"
+ },
+ {
+  "word": "mets",
+  "en": "dish",
+  "ja": "料理"
+ },
+ {
+  "word": "appel",
+  "en": "call",
+  "ja": "呼びかけ"
+ },
+ {
+  "word": "envoyé",
+  "en": "envoy",
+  "ja": "使者"
+ },
+ {
+  "word": "acheter",
+  "en": "to purchase",
+  "ja": "購入する"
+ },
+ {
+  "word": "noël",
+  "en": "Christmas",
+  "ja": "クリスマス"
+ },
+ {
+  "word": "armes",
+  "en": "weapons",
+  "ja": "武器"
+ },
+ {
+  "word": "retrouver",
+  "en": "to find",
+  "ja": "再び見つける，再会する"
+ },
+ {
+  "word": "disparu",
+  "en": "disappeared",
+  "ja": "消えた，行方不明の"
+ },
+ {
+  "word": "utiliser",
+  "en": "to use",
+  "ja": "用いる"
+ },
+ {
+  "word": "libre",
+  "en": "free",
+  "ja": "自由な"
+ },
+ {
+  "word": "contrôle",
+  "en": "control",
+  "ja": "管理，検査"
+ },
+ {
+  "word": "colère",
+  "en": "anger",
+  "ja": "怒り"
+ },
+ {
+  "word": "pote",
+  "en": "mate",
+  "ja": "友達，仲間"
+ },
+ {
+  "word": "pied",
+  "en": "foot",
+  "ja": "足"
+ },
+ {
+  "word": "grosse",
+  "en": "big",
+  "ja": "太った，大きい"
+ },
+ {
+  "word": "doucement",
+  "en": "softly",
+  "ja": "そっと，ゆっくり"
+ },
+ {
+  "word": "tueur",
+  "en": "killer",
+  "ja": "殺し屋"
+ },
+ {
+  "word": "folle",
+  "en": "crazy",
+  "ja": "狂った"
+ },
+ {
+  "word": "télé",
+  "en": "TV",
+  "ja": "テレビ"
+ },
+ {
+  "word": "change",
+  "en": "exchange",
+  "ja": "両替，交換"
+ },
+ {
+  "word": "droite",
+  "en": "right",
+  "ja": "右"
+ },
+ {
+  "word": "travers",
+  "en": "through",
+  "ja": "横切って，〜を通して"
+ },
+ {
+  "word": "flic",
+  "en": "police officer",
+  "ja": "警官"
+ },
+ {
+  "word": "enfer",
+  "en": "hell",
+  "ja": "地獄"
+ },
+ {
+  "word": "honte",
+  "en": "shame",
+  "ja": "恥"
+ },
+ {
+  "word": "base",
+  "en": "base",
+  "ja": "基地"
+ },
+ {
+  "word": "ouvert",
+  "en": "open",
+  "ja": "開いた"
+ },
+ {
+  "word": "assis",
+  "en": "seated",
+  "ja": "座った"
+ },
+ {
+  "word": "prévu",
+  "en": "planned",
+  "ja": "予定された"
+ },
+ {
+  "word": "vol",
+  "en": "flight",
+  "ja": "飛行"
+ },
+ {
+  "word": "ramener",
+  "en": "to take back",
+  "ja": "連れ戻す，持ち帰る"
+ },
+ {
+  "word": "justice",
+  "en": "justice",
+  "ja": "正義"
+ },
+ {
+  "word": "découvert",
+  "en": "discovered",
+  "ja": "発見された"
+ },
+ {
+  "word": "enceinte",
+  "en": "pregnant",
+  "ja": "妊娠した"
+ },
+ {
+  "word": "excuse",
+  "en": "excuse",
+  "ja": "口実"
+ },
+ {
+  "word": "œil",
+  "en": "eye",
+  "ja": "目"
+ },
+ {
+  "word": "sérieusement",
+  "en": "seriously",
+  "ja": "真剣に，本気で"
+ },
+ {
+  "word": "bravo",
+  "en": "bravo (well done)",
+  "ja": "ブラボー，お見事"
+ },
+ {
+  "word": "fric",
+  "en": "dosh",
+  "ja": "金，カネ"
+ },
+ {
+  "word": "pose",
+  "en": "installation",
+  "ja": "設置，ポーズ"
+ },
+ {
+  "word": "toilettes",
+  "en": "toilet",
+  "ja": "トイレ"
+ },
+ {
+  "word": "occupé",
+  "en": "busy",
+  "ja": "忙しい，ふさがった"
+ },
+ {
+  "word": "censé",
+  "en": "supposed to",
+  "ja": "〜するはずの"
+ },
+ {
+  "word": "code",
+  "en": "code",
+  "ja": "コード，暗号"
+ },
+ {
+  "word": "vidéo",
+  "en": "video",
+  "ja": "ビデオ，動画"
+ },
+ {
+  "word": "match",
+  "en": "match",
+  "ja": "試合"
+ },
+ {
+  "word": "ravi",
+  "en": "thrilled",
+  "ja": "大喜びの"
+ },
+ {
+  "word": "mien",
+  "en": "mine",
+  "ja": "私のもの"
+ },
+ {
+  "word": "remettre",
+  "en": "to put back",
+  "ja": "戻す，手渡す"
+ },
+ {
+  "word": "solution",
+  "en": "solution",
+  "ja": "解決策，溶液"
+ },
+ {
+  "word": "sexy",
+  "en": "sexy",
+  "ja": "セクシーな"
+ },
+ {
+  "word": "portable",
+  "en": "portable",
+  "ja": "携帯"
+ },
+ {
+  "word": "envers",
+  "en": "reverse",
+  "ja": "裏側，〜に対して"
+ },
+ {
+  "word": "charge",
+  "en": "load",
+  "ja": "負担"
+ },
+ {
+  "word": "test",
+  "en": "test",
+  "ja": "テスト，検査"
+ },
+ {
+  "word": "copain",
+  "en": "friend",
+  "ja": "友人"
+ },
+ {
+  "word": "épouser",
+  "en": "to marry",
+  "ja": "結婚する"
+ },
+ {
+  "word": "stop",
+  "en": "stop sign",
+  "ja": "ストップ，停止"
+ },
+ {
+  "word": "suspect",
+  "en": "suspicious",
+  "ja": "怪しい"
+ },
+ {
+  "word": "invité",
+  "en": "guest",
+  "ja": "客"
+ },
+ {
+  "word": "urgence",
+  "en": "emergency",
+  "ja": "緊急"
+ },
+ {
+  "word": "bus",
+  "en": "bus",
+  "ja": "バス"
+ },
+ {
+  "word": "carrière",
+  "en": "career",
+  "ja": "経歴，キャリア"
+ },
+ {
+  "word": "vécu",
+  "en": "experience",
+  "ja": "体験"
+ },
+ {
+  "word": "course",
+  "en": "run",
+  "ja": "競走"
+ },
+ {
+  "word": "cible",
+  "en": "target",
+  "ja": "標的，的"
+ },
+ {
+  "word": "bonheur",
+  "en": "happiness",
+  "ja": "幸福"
+ },
+ {
+  "word": "marrant",
+  "en": "funny",
+  "ja": "面白い，愉快な"
+ },
+ {
+  "word": "quitte",
+  "en": "even (settled)",
+  "ja": "貸し借りのない"
+ },
+ {
+  "word": "suivi",
+  "en": "follow-up",
+  "ja": "追跡，フォローアップ"
+ },
+ {
+  "word": "troisième",
+  "en": "third",
+  "ja": "第三"
+ },
+ {
+  "word": "destin",
+  "en": "destiny",
+  "ja": "運命"
+ },
+ {
+  "word": "paie",
+  "en": "pay",
+  "ja": "給料"
+ },
+ {
+  "word": "partenaire",
+  "en": "partner",
+  "ja": "相棒"
+ },
+ {
+  "word": "préféré",
+  "en": "favorite",
+  "ja": "お気に入りの"
+ },
+ {
+  "word": "données",
+  "en": "data",
+  "ja": "データ"
+ },
+ {
+  "word": "obligé",
+  "en": "obligated",
+  "ja": "やむを得ない，義務づけられた"
+ },
+ {
+  "word": "identité",
+  "en": "identity",
+  "ja": "身元，アイデンティティ"
+ },
+ {
+  "word": "lettres",
+  "en": "humanities",
+  "ja": "人文学，文学"
+ },
+ {
+  "word": "job",
+  "en": "job",
+  "ja": "仕事，バイト"
+ },
+ {
+  "word": "vendu",
+  "en": "sold",
+  "ja": "売られた，裏切り者"
+ },
+ {
+  "word": "labo",
+  "en": "lab",
+  "ja": "研究室，ラボ"
+ },
+ {
+  "word": "parfaitement",
+  "en": "perfectly",
+  "ja": "完全に，見事に"
+ },
+ {
+  "word": "gérer",
+  "en": "to manage",
+  "ja": "管理する，切り盛りする"
+ },
+ {
+  "word": "échange",
+  "en": "exchange",
+  "ja": "交換"
+ },
+ {
+  "word": "fermé",
+  "en": "closed",
+  "ja": "閉まった，閉じた"
+ },
+ {
+  "word": "aise",
+  "en": "ease, comfort",
+  "ja": "くつろぎ，安楽"
+ },
+ {
+  "word": "faveur",
+  "en": "favour",
+  "ja": "好意，恩恵"
+ },
+ {
+  "word": "surpris",
+  "en": "surprised",
+  "ja": "驚いた"
+ },
+ {
+  "word": "fac",
+  "en": "university",
+  "ja": "大学"
+ },
+ {
+  "word": "attendu",
+  "en": "awaited",
+  "ja": "待たれた，予期された"
+ },
+ {
+  "word": "folie",
+  "en": "madness",
+  "ja": "狂気"
+ },
+ {
+  "word": "extérieur",
+  "en": "exterior",
+  "ja": "外側"
+ },
+ {
+  "word": "cache",
+  "en": "cache",
+  "ja": "隠し場所"
+ },
+ {
+  "word": "inquiéter",
+  "en": "to worry",
+  "ja": "心配させる"
+ },
+ {
+  "word": "frappe",
+  "en": "hit",
+  "ja": "打撃"
+ },
+ {
+  "word": "enchanté",
+  "en": "enchanted",
+  "ja": "魅了された，はじめまして"
+ },
+ {
+  "word": "changement",
+  "en": "change",
+  "ja": "変化"
+ }
+]

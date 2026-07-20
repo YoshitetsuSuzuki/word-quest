@@ -1,0 +1,22 @@
+[
+ {"word": "tape", "issue": "taper の活用形と同形。名詞「軽くたたくこと」は低頻度で、英語 tape との混同も招く", "suggest_ja": null},
+ {"word": "rigole", "issue": "rigoler の活用形（tu rigoles「冗談だろ」）と同形で字幕では動詞が圧倒的。名詞「用水路」は誤答を誘発", "suggest_ja": null},
+ {"word": "assise", "issue": "活用形（assis の女性形）。名詞「土台」は建築・地質の専門義", "suggest_ja": null},
+ {"word": "nationale", "issue": "活用形（national の女性形）。ja「国道」は la nationale 限定の周辺義", "suggest_ja": null},
+ {"word": "suivante", "issue": "活用形（suivant の女性形）", "suggest_ja": null},
+ {"word": "blonde", "issue": "活用形（blond の女性形）", "suggest_ja": null},
+ {"word": "donnée", "issue": "活用形（donner の女性過去分詞）。かつ french-01 の「données」と重複", "suggest_ja": null},
+ {"word": "ressenti", "issue": "ressentir の過去分詞と同形。名詞用法は Wiktionary でも neologism 扱いで学習語彙に不適", "suggest_ja": null},
+ {"word": "sire", "issue": "古語・王への呼びかけ限定の語で、現代語彙として成立しない", "suggest_ja": null},
+ {"word": "gus", "issue": "低頻度の俗語。gars / mec / pote と重複し学習価値が薄い", "suggest_ja": null},
+ {"word": "porno", "issue": "学習アプリの出題語彙として不適切", "suggest_ja": null},
+ {"word": "conduite", "issue": "en「behavior」と ja「運転，行い」が不整合。中心義は「運転」および「品行」", "suggest_ja": "運転；品行", "suggest_en": "driving; conduct"},
+ {"word": "maudit", "issue": "en「damn」は品詞不整合（間投詞的）。形容詞として揃えるべき", "suggest_ja": "呪われた，いまいましい", "suggest_en": "cursed, damned"},
+ {"word": "exécution", "issue": "ja が周辺義のみ。中心義は「実行，遂行」", "suggest_ja": "実行，遂行；処刑", "suggest_en": "execution, carrying out"},
+ {"word": "pratiquement", "issue": "en「in practice」が不正確。中心義は「ほとんど，事実上」", "suggest_ja": "ほとんど，事実上", "suggest_en": "practically, almost"},
+ {"word": "écart", "issue": "en「space」が不正確。中心義は「差，隔たり」", "suggest_ja": "差，隔たり", "suggest_en": "gap, difference"},
+ {"word": "négatif", "issue": "ja「否定的」が形容詞として日本語が不自然", "suggest_ja": "否定的な", "suggest_en": "negative"},
+ {"word": "urgences", "issue": "ja に単数義「緊急事態」が混入。複数形 les urgences は「救急外来」", "suggest_ja": "救急外来，救急科", "suggest_en": "emergency department"},
+ {"word": "caution", "issue": "ja「敷金」が不正確（敷金は dépôt de garantie）。中心義は「保証（人），保釈金」", "suggest_ja": "保証，保釈金", "suggest_en": "surety, bail"},
+ {"word": "personnalité", "issue": "ja「人柄」がやや狭い。中心義は「性格，個性」および「著名人」", "suggest_ja": "性格，個性", "suggest_en": "personality"}
+]

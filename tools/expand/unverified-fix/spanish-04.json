@@ -1,0 +1,19 @@
+[
+  {"word":"convertido","issue":"convertirの過去分詞（活用形）。独立した見出し語としての中心義がなく4択に不適","suggest_ja":null},
+  {"word":"clave","issue":"訳が誤解を招く。claveは物理的な鍵ではなく、比喩的な「鍵＝手がかり」「暗証番号・暗号」の意。物理的な鍵はllave","suggest_ja":"手がかり，暗証番号","suggest_en":"key (clue), password, code"},
+  {"word":"caído","issue":"caerの過去分詞（活用形）","suggest_ja":null},
+  {"word":"comido","issue":"comerの過去分詞（活用形）","suggest_ja":null},
+  {"word":"limpia","issue":"形容詞limpioの女性形／動詞limpiarの直説法現在3人称単数。見出し語形でない","suggest_ja":null},
+  {"word":"pescado","issue":"pezとの区別が必要。pescadoは食用（獲られた）魚。単に「魚」だとpezと衝突し4択が破綻する","suggest_ja":"（食用の）魚","suggest_en":"fish (as food)"},
+  {"word":"vueltas","issue":"名詞vueltaの複数形。見出し語形でない","suggest_ja":null},
+  {"word":"descubierto","issue":"descubrirの過去分詞（活用形）","suggest_ja":null},
+  {"word":"lord","issue":"英語からの借用語で英国の称号。スペイン語学習語彙として不適","suggest_ja":null},
+  {"word":"parado","issue":"訳が周辺義。中心義は「止まっている／立っている」で、「失業者」はスペインでの派生義","suggest_ja":"止まった，立ち止まった","suggest_en":"stopped, standing"},
+  {"word":"medios","issue":"名詞medioの複数形。見出し語形でない","suggest_ja":null},
+  {"word":"consigo","issue":"前置詞con＋再帰代名詞の融合形で機能語。かつconseguirの1人称単数現在と同形。4択に不適","suggest_ja":null},
+  {"word":"elegido","issue":"elegirの過去分詞（活用形）","suggest_ja":null},
+  {"word":"lady","issue":"英語からの借用語で英国の称号。スペイン語学習語彙として不適","suggest_ja":null},
+  {"word":"pene","issue":"性器を指す解剖学的・下品な語。学習アプリの出題語として不適","suggest_ja":null},
+  {"word":"vivido","issue":"vivirの過去分詞（活用形）。別語のvívido（鮮やかな）とも紛らわしい","suggest_ja":null},
+  {"word":"privada","issue":"形容詞privadoの女性形。見出し語形でない","suggest_ja":null}
+]

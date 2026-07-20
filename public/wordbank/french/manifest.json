@@ -6,27 +6,27 @@
     {
       "level": 1,
       "file": "level-1.json",
-      "count": 398
+      "count": 391
     },
     {
       "level": 2,
       "file": "level-2.json",
-      "count": 390
+      "count": 384
     },
     {
       "level": 3,
       "file": "level-3.json",
-      "count": 388
+      "count": 376
     },
     {
       "level": 4,
       "file": "level-4.json",
-      "count": 386
+      "count": 378
     },
     {
       "level": 5,
       "file": "level-5.json",
-      "count": 386
+      "count": 377
     }
   ],
   "source": "FrequencyWords fr_50k (hermitdave, CC BY 4.0) + Wiktionary/Wiktextract 英語義 (kaikki.org) + 人手検証(2026-07)",

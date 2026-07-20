@@ -1,0 +1,8 @@
+[
+  {"word":"reçu","issue":"品詞不一致（recevoir の過去分詞を英語義にしている）。名詞として出題すべき","suggest_ja":"領収書","suggest_en":"receipt"},
+  {"word":"bout","issue":"en と ja が不整合（en \"bit\" に対し ja は「端」）","suggest_ja":"端，先端","suggest_en":"end, tip"},
+  {"word":"touche","issue":"品詞不一致。名詞 touche は「（鍵盤・機器の）キー」。ja「触れる」は動詞 toucher の訳で誤り","suggest_ja":"キー，ボタン","suggest_en":"key"},
+  {"word":"rappeler","issue":"en と ja が不整合。中心義は「思い出させる／電話をかけ直す」で、en \"to call again\" は不正確","suggest_ja":"思い出させる，電話をかけ直す","suggest_en":"to remind, to call back"},
+  {"word":"lors","issue":"単独では用いず lors de（〜の時に）の形。en \"then\" は誤解を招く","suggest_ja":"〜の時に，その際","suggest_en":"at the time of (lors de)"},
+  {"word":"falloir","issue":"ja が不自然。非人称動詞で「必要である／〜しなければならない」","suggest_ja":"必要である，〜しなければならない","suggest_en":"to be necessary, must"}
+]

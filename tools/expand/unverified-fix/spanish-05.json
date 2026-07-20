@@ -1,0 +1,17 @@
+[
+  {"word":"volando","issue":"活用形（volar の現在分詞）。見出し語ではない","suggest_ja":null},
+  {"word":"pagado","issue":"活用形（pagar の過去分詞）","suggest_ja":null},
+  {"word":"arrestado","issue":"活用形（arrestar の過去分詞）","suggest_ja":null},
+  {"word":"nacido","issue":"活用形（nacer の過去分詞）","suggest_ja":null},
+  {"word":"entrado","issue":"活用形（entrar の過去分詞）。単独の語彙として成立しない","suggest_ja":null},
+  {"word":"salvado","issue":"活用形（salvar の過去分詞）。名詞 salvado は「ふすま（麦ぬか）」で訳と別義","suggest_ja":null},
+  {"word":"esperado","issue":"活用形（esperar の過去分詞）","suggest_ja":null},
+  {"word":"suelta","issue":"名詞義もあるが実際は soltar の活用形／suelto の女性形として現れる多機能語。4択に不適","suggest_ja":null},
+  {"word":"pare","issue":"活用形（parar の接続法現在／命令形）。見出し語ではない","suggest_ja":null},
+  {"word":"corazones","issue":"複数形（corazón の複数）。単数を見出しにすべき","suggest_ja":null},
+  {"word":"mina","issue":"中心義は「鉱山」。「地雷」は第2義（mina terrestre）で周辺義","suggest_ja":"鉱山","suggest_en":"mine (excavation)"},
+  {"word":"coma","issue":"en と ja が不整合。la coma=コンマ／el coma=昏睡で別語。en に合わせて一義に絞るべき","suggest_ja":"コンマ"},
+  {"word":"aprecio","issue":"訳ずれ。aprecio は「敬意・好意（estima, consideración）」で、日本語の「評価（評定）」は誤解を招く","suggest_ja":"敬意，好意","suggest_en":"esteem, regard"},
+  {"word":"mate","issue":"en の \"mate\" が英語では「仲間／詰み」と混同され、ja「マテ茶」と対応しない","suggest_ja":"マテ茶","suggest_en":"maté (South American herbal tea)"},
+  {"word":"harto","issue":"en \"tired\" が不正確。harto は「飽き飽きした・うんざりした」","suggest_ja":"うんざりした","suggest_en":"fed up"}
+]

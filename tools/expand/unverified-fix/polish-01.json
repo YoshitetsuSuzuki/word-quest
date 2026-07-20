@@ -1,0 +1,14 @@
+[
+ {
+  "word": "pożyczyć",
+  "issue": "「借りる／貸す」の併記は4択の正誤判定が曖昧。第一義は「借りる」",
+  "suggest_ja": "借りる",
+  "suggest_en": "to borrow"
+ },
+ {
+  "word": "wykop",
+  "issue": "行為ではなく掘った結果の穴・溝を指す（「掘削」は動作寄りでずれる）",
+  "suggest_ja": "掘った穴，溝",
+  "suggest_en": "excavation, pit"
+ }
+]

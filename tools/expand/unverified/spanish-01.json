@@ -1,0 +1,602 @@
+[
+ {
+  "word": "señor",
+  "en": "mister",
+  "ja": "男性，〜さん，紳士"
+ },
+ {
+  "word": "espera",
+  "en": "wait",
+  "ja": "待機，待つこと"
+ },
+ {
+  "word": "tipo",
+  "en": "kind",
+  "ja": "種類，タイプ（口語で「やつ」）"
+ },
+ {
+  "word": "conmigo",
+  "en": "with me",
+  "ja": "私と一緒に"
+ },
+ {
+  "word": "mal",
+  "en": "badly, bad",
+  "ja": "悪く，悪い"
+ },
+ {
+  "word": "realmente",
+  "en": "really",
+  "ja": "実に"
+ },
+ {
+  "word": "visto",
+  "en": "seen",
+  "ja": "見られた，見た（verの過去分詞）"
+ },
+ {
+  "word": "contigo",
+  "en": "with you",
+  "ja": "君と一緒に"
+ },
+ {
+  "word": "razón",
+  "en": "reason",
+  "ja": "理由"
+ },
+ {
+  "word": "problema",
+  "en": "problem",
+  "ja": "問題"
+ },
+ {
+  "word": "todavía",
+  "en": "still",
+  "ja": "まだ"
+ },
+ {
+  "word": "cariño",
+  "en": "affection",
+  "ja": "愛情，親愛（呼びかけで「いとしい人」）"
+ },
+ {
+  "word": "forma",
+  "en": "shape",
+  "ja": "形"
+ },
+ {
+  "word": "mientras",
+  "en": "meanwhile",
+  "ja": "〜する間に，その間"
+ },
+ {
+  "word": "genial",
+  "en": "great, awesome",
+  "ja": "素晴らしい，最高の"
+ },
+ {
+  "word": "supuesto",
+  "en": "assumption",
+  "ja": "仮定"
+ },
+ {
+  "word": "señora",
+  "en": "lady, madam, Mrs.",
+  "ja": "婦人，奥様"
+ },
+ {
+  "word": "quizá",
+  "en": "perhaps",
+  "ja": "たぶん，おそらく"
+ },
+ {
+  "word": "manera",
+  "en": "way",
+  "ja": "方法，やり方"
+ },
+ {
+  "word": "semana",
+  "en": "week",
+  "ja": "週間"
+ },
+ {
+  "word": "siquiera",
+  "en": "at least",
+  "ja": "せめて，少なくとも"
+ },
+ {
+  "word": "feliz",
+  "en": "happy",
+  "ja": "幸せ"
+ },
+ {
+  "word": "realidad",
+  "en": "reality",
+  "ja": "現実"
+ },
+ {
+  "word": "justo",
+  "en": "just",
+  "ja": "公正"
+ },
+ {
+  "word": "escucha",
+  "en": "listening",
+  "ja": "傾聴，聞くこと"
+ },
+ {
+  "word": "suficiente",
+  "en": "sufficient",
+  "ja": "十分な"
+ },
+ {
+  "word": "equipo",
+  "en": "team",
+  "ja": "チーム，装備"
+ },
+ {
+  "word": "incluso",
+  "en": "even, including",
+  "ja": "〜さえ，含めて"
+ },
+ {
+  "word": "difícil",
+  "en": "difficult",
+  "ja": "難しい"
+ },
+ {
+  "word": "loco",
+  "en": "crazy, mad",
+  "ja": "狂った，ばかげた"
+ },
+ {
+  "word": "vuelta",
+  "en": "turn",
+  "ja": "回転，一周，おつり"
+ },
+ {
+  "word": "oportunidad",
+  "en": "opportunity",
+  "ja": "機会，チャンス"
+ },
+ {
+  "word": "auto",
+  "en": "car",
+  "ja": "車，自動車"
+ },
+ {
+  "word": "exactamente",
+  "en": "exactly",
+  "ja": "ちょうど"
+ },
+ {
+  "word": "habla",
+  "en": "speech",
+  "ja": "話し方，言葉"
+ },
+ {
+  "word": "mayor",
+  "en": "major",
+  "ja": "より大きい，年上の，主要な"
+ },
+ {
+  "word": "vino",
+  "en": "wine",
+  "ja": "ワイン"
+ },
+ {
+  "word": "simplemente",
+  "en": "simply",
+  "ja": "単に，ただ"
+ },
+ {
+  "word": "sentido",
+  "en": "sense",
+  "ja": "感覚"
+ },
+ {
+  "word": "oído",
+  "en": "hearing",
+  "ja": "耳"
+ },
+ {
+  "word": "demonios",
+  "en": "hell",
+  "ja": "悪魔たち（罵りで「くそっ，一体」）"
+ },
+ {
+  "word": "idiota",
+  "en": "idiotic",
+  "ja": "ばか，まぬけ（形容詞で「ばかげた」）"
+ },
+ {
+  "word": "plan",
+  "en": "plan",
+  "ja": "計画"
+ },
+ {
+  "word": "dado",
+  "en": "die or dice",
+  "ja": "さいころ"
+ },
+ {
+  "word": "basta",
+  "en": "enough!, stop!",
+  "ja": "もう十分，やめて"
+ },
+ {
+  "word": "perdón",
+  "en": "pardon",
+  "ja": "ごめんなさい，許し"
+ },
+ {
+  "word": "niña",
+  "en": "girl",
+  "ja": "女の子，少女"
+ },
+ {
+  "word": "maldito",
+  "en": "cursed",
+  "ja": "呪われた，いまいましい"
+ },
+ {
+  "word": "llamado",
+  "en": "call",
+  "ja": "呼びかけ"
+ },
+ {
+  "word": "real",
+  "en": "real",
+  "ja": "本当の，現実の（「王の」の意も）"
+ },
+ {
+  "word": "afuera",
+  "en": "out",
+  "ja": "外"
+ },
+ {
+  "word": "querida",
+  "en": "dear",
+  "ja": "いとしい人，恋人（女性）；親愛なる"
+ },
+ {
+  "word": "libre",
+  "en": "free",
+  "ja": "自由な，空いている"
+ },
+ {
+  "word": "resto",
+  "en": "rest",
+  "ja": "残り"
+ },
+ {
+  "word": "extraño",
+  "en": "strange; stranger",
+  "ja": "奇妙な；見知らぬ人"
+ },
+ {
+  "word": "perfecto",
+  "en": "perfect",
+  "ja": "完璧な"
+ },
+ {
+  "word": "modo",
+  "en": "way",
+  "ja": "方法，やり方"
+ },
+ {
+  "word": "asesino",
+  "en": "murderer",
+  "ja": "殺人者"
+ },
+ {
+  "word": "encontrado",
+  "en": "found",
+  "ja": "見つけられた"
+ },
+ {
+  "word": "control",
+  "en": "control",
+  "ja": "抑制"
+ },
+ {
+  "word": "encima",
+  "en": "on top of something",
+  "ja": "上に，その上"
+ },
+ {
+  "word": "pena",
+  "en": "pity, shame; sorrow",
+  "ja": "残念，気の毒；悲しみ"
+ },
+ {
+  "word": "futuro",
+  "en": "future",
+  "ja": "将来"
+ },
+ {
+  "word": "novia",
+  "en": "girlfriend, bride",
+  "ja": "恋人（女性），花嫁"
+ },
+ {
+  "word": "vuelto",
+  "en": "change",
+  "ja": "お釣り"
+ },
+ {
+  "word": "pie",
+  "en": "foot",
+  "ja": "足"
+ },
+ {
+  "word": "lamento",
+  "en": "lament",
+  "ja": "嘆き，哀悼"
+ },
+ {
+  "word": "asesinato",
+  "en": "assassination",
+  "ja": "暗殺"
+ },
+ {
+  "word": "llegado",
+  "en": "arrived",
+  "ja": "到着した"
+ },
+ {
+  "word": "mente",
+  "en": "mind",
+  "ja": "精神"
+ },
+ {
+  "word": "situación",
+  "en": "situation",
+  "ja": "状況"
+ },
+ {
+  "word": "abogado",
+  "en": "lawyer",
+  "ja": "弁護士"
+ },
+ {
+  "word": "alrededor",
+  "en": "surroundings",
+  "ja": "周りに，周囲"
+ },
+ {
+  "word": "mitad",
+  "en": "half",
+  "ja": "半分"
+ },
+ {
+  "word": "pelo",
+  "en": "hair",
+  "ja": "毛"
+ },
+ {
+  "word": "pase",
+  "en": "pass",
+  "ja": "通行証，パス"
+ },
+ {
+  "word": "montón",
+  "en": "heap",
+  "ja": "山，たくさん"
+ },
+ {
+  "word": "estúpido",
+  "en": "stupid",
+  "ja": "ばかな，愚かな"
+ },
+ {
+  "word": "comprar",
+  "en": "to buy",
+  "ja": "買う"
+ },
+ {
+  "word": "entendido",
+  "en": "understood, agreed",
+  "ja": "わかった，了解"
+ },
+ {
+  "word": "totalmente",
+  "en": "totally",
+  "ja": "完全に，まったく"
+ },
+ {
+  "word": "profesor",
+  "en": "professor",
+  "ja": "教師，教授"
+ },
+ {
+  "word": "programa",
+  "en": "programme",
+  "ja": "番組，プログラム"
+ },
+ {
+  "word": "cualquiera",
+  "en": "anyone; whichever",
+  "ja": "誰でも、どれでも"
+ },
+ {
+  "word": "sala",
+  "en": "room",
+  "ja": "部屋，広間"
+ },
+ {
+  "word": "don",
+  "en": "Sir (courtesy title); talent, gift",
+  "ja": "敬称（〜様・ドン）；才能"
+ },
+ {
+  "word": "sal",
+  "en": "salt",
+  "ja": "塩"
+ },
+ {
+  "word": "embargo",
+  "en": "embargo",
+  "ja": "差し押さえ，禁輸"
+ },
+ {
+  "word": "cárcel",
+  "en": "prison",
+  "ja": "監獄"
+ },
+ {
+  "word": "maldición",
+  "en": "curse",
+  "ja": "呪い"
+ },
+ {
+  "word": "terrible",
+  "en": "terrible",
+  "ja": "すさまじい"
+ },
+ {
+  "word": "investigación",
+  "en": "investigation",
+  "ja": "取り調べ"
+ },
+ {
+  "word": "mantener",
+  "en": "to keep",
+  "ja": "保つ"
+ },
+ {
+  "word": "teniente",
+  "en": "lieutenant",
+  "ja": "中尉"
+ },
+ {
+  "word": "nave",
+  "en": "ship",
+  "ja": "船"
+ },
+ {
+  "word": "basura",
+  "en": "trash",
+  "ja": "ごみ"
+ },
+ {
+  "word": "tuya",
+  "en": "yours (feminine)",
+  "ja": "あなたのもの"
+ },
+ {
+  "word": "junto",
+  "en": "together",
+  "ja": "共に"
+ },
+ {
+  "word": "locura",
+  "en": "madness",
+  "ja": "狂気"
+ },
+ {
+  "word": "libertad",
+  "en": "liberty",
+  "ja": "自由"
+ },
+ {
+  "word": "derecha",
+  "en": "right",
+  "ja": "右"
+ },
+ {
+  "word": "maravilloso",
+  "en": "wonderful",
+  "ja": "素晴らしい"
+ },
+ {
+  "word": "rato",
+  "en": "while",
+  "ja": "しばらくの間"
+ },
+ {
+  "word": "infierno",
+  "en": "hell",
+  "ja": "地獄"
+ },
+ {
+  "word": "intento",
+  "en": "attempt",
+  "ja": "試み"
+ },
+ {
+  "word": "escena",
+  "en": "scene",
+  "ja": "場面"
+ },
+ {
+  "word": "veras",
+  "en": "truth",
+  "ja": "真実，本気"
+ },
+ {
+  "word": "inteligente",
+  "en": "intelligent",
+  "ja": "賢い，知的な"
+ },
+ {
+  "word": "corte",
+  "en": "cut",
+  "ja": "カット"
+ },
+ {
+  "word": "adentro",
+  "en": "inside, indoors",
+  "ja": "中に、内側へ"
+ },
+ {
+  "word": "enseguida",
+  "en": "immediately",
+  "ja": "即座に"
+ },
+ {
+  "word": "busca",
+  "en": "search",
+  "ja": "捜索，探索"
+ },
+ {
+  "word": "conocer",
+  "en": "to know",
+  "ja": "知る，知り合う"
+ },
+ {
+  "word": "víctima",
+  "en": "victim",
+  "ja": "被害者"
+ },
+ {
+  "word": "energía",
+  "en": "energy",
+  "ja": "精力"
+ },
+ {
+  "word": "misión",
+  "en": "mission",
+  "ja": "使命"
+ },
+ {
+  "word": "izquierda",
+  "en": "left",
+  "ja": "左"
+ },
+ {
+  "word": "regresar",
+  "en": "to return",
+  "ja": "帰る"
+ },
+ {
+  "word": "mirar",
+  "en": "to look at",
+  "ja": "見る，眺める"
+ },
+ {
+  "word": "sacar",
+  "en": "to put out",
+  "ja": "取り出す，出す"
+ }
+]

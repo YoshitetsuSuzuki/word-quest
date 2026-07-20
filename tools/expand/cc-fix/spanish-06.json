@@ -1,0 +1,23 @@
+[
+{"word":"sentada","issue":"sentado の女性形（屈折形）と同形。en \"sitting\" が曖昧で名詞義（座り込み抗議）が伝わらない","suggest_ja":"座り込み（抗議）","suggest_en":"sit-in"},
+{"word":"jean","issue":"英語借用語の単数形で中南米の口語。標準は vaqueros / jeans。学習語彙として不適","suggest_ja":null},
+{"word":"antiguos","issue":"複数形。見出し語は単数 antiguo であるべき","suggest_ja":"古い","suggest_en":"ancient, old"},
+{"word":"cogido","issue":"coger の過去分詞（活用形）。かつ coger はメキシコ・中南米の大部分で卑語（性的意味）","suggest_ja":null},
+{"word":"joyas","issue":"複数形。見出し語は単数 joya であるべき","suggest_ja":"宝石，宝飾品"},
+{"word":"forense","issue":"中心的な意味は形容詞「法医学の」。名詞義（監察医）は派生的","suggest_ja":"法医学の，鑑識の","suggest_en":"forensic"},
+{"word":"diamantes","issue":"複数形。見出し語は単数 diamante であるべき","suggest_ja":"ダイヤモンド"},
+{"word":"ensayo","issue":"主要義の欠落。「リハーサル」「試み・試験」が日常的な中心義で、エッセイのみでは不十分","suggest_ja":"リハーサル，試み，随筆","suggest_en":"rehearsal, trial, essay"},
+{"word":"aguantar","issue":"en と ja の不一致。\"to hold\" では「耐える・我慢する」の意が出ない","suggest_ja":"耐える，我慢する","suggest_en":"to endure, to put up with"},
+{"word":"temporal","issue":"中心的な意味は形容詞「一時的な」。名詞「嵐」は周辺義","suggest_ja":"一時的な，仮の","suggest_en":"temporary"},
+{"word":"izquierdo","issue":"品詞不一致。形容詞なので名詞的な「左」ではなく「左の」","suggest_ja":"左の"},
+{"word":"pagaré","issue":"pagar の直説法未来一人称単数と同形で紛らわしい。かつ金融の専門用語","suggest_ja":null},
+{"word":"super","issue":"口語の接頭辞・強意副詞（正書法は súper）。見出し語として不安定で4択に不適","suggest_ja":null},
+{"word":"tocado","issue":"tocar の過去分詞と同形。名詞「頭飾り」は低頻度の周辺義（形容詞では「いかれた・傷んだ」）","suggest_ja":null},
+{"word":"pinta","issue":"中心義は「斑点・しみ」。「見た目」は口語の周辺義","suggest_ja":"斑点，しみ","suggest_en":"spot, mark"},
+{"word":"preocupación","issue":"en が不適切。preoccupation ではなく worry / concern","suggest_ja":"心配，懸念","suggest_en":"worry, concern"},
+{"word":"enhorabuena","issue":"en の形が誤り（単数 congratulation）","suggest_ja":"おめでとう，祝福","suggest_en":"congratulations"},
+{"word":"puesta","issue":"poner の過去分詞女性形と同形。単独では意味が定まらず puesta de sol 等の連語を要する多義語","suggest_ja":null},
+{"word":"colección","issue":"訳がやや不正確。行為「収集」より集合体「コレクション・収集品」","suggest_ja":"コレクション，収集品"},
+{"word":"expediente","issue":"en \"case\" / ja「記録」ともに不正確。書類一式・調書の意","suggest_ja":"（案件の）書類一式，調書","suggest_en":"file, dossier, record"},
+{"word":"tarta","issue":"en と ja の不一致。基本義はタルト／（スペインで）ケーキ","suggest_ja":"タルト，ケーキ","suggest_en":"tart, cake"}
+]

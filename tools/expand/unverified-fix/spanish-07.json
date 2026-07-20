@@ -1,0 +1,7 @@
+[
+  {"word":"figura","issue":"中心義とずれ（figura は「姿・形・人物像」。「図形」は周辺義で誤解を招く）","suggest_ja":"姿，形，人物","suggest_en":"figure, shape"},
+  {"word":"físico","issue":"1語に形容詞義と名詞義が混在（en=physique と ja の「物理学者」が不整合）","suggest_ja":"体格，肉体","suggest_en":"physique"},
+  {"word":"prestado","issue":"日本語訳が「借りた，貸した」と正反対の両義併記で4択として成立しない","suggest_ja":"借り物の，貸し出された","suggest_en":"lent, borrowed"},
+  {"word":"lidiar","issue":"en と ja が不整合（ja「対処する」に対し en が to fight）","suggest_ja":"対処する，立ち向かう","suggest_en":"to deal with, to cope with"},
+  {"word":"porquería","issue":"俗語・軽度の下品語。学習語彙として不適","suggest_ja":null}
+]

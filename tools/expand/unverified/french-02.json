@@ -1,0 +1,602 @@
+[
+ {
+  "word": "compliqué",
+  "en": "complicated",
+  "ja": "複雑な"
+ },
+ {
+  "word": "conduit",
+  "en": "pipe",
+  "ja": "導管"
+ },
+ {
+  "word": "fantôme",
+  "en": "ghost",
+  "ja": "幽霊"
+ },
+ {
+  "word": "franchement",
+  "en": "frankly",
+  "ja": "率直に，正直言って"
+ },
+ {
+  "word": "fantastique",
+  "en": "fantastic",
+  "ja": "素晴らしい，幻想的な"
+ },
+ {
+  "word": "tombée",
+  "en": "fall",
+  "ja": "暮れ"
+ },
+ {
+  "word": "émission",
+  "en": "broadcast",
+  "ja": "放送"
+ },
+ {
+  "word": "lance",
+  "en": "spear",
+  "ja": "槍"
+ },
+ {
+  "word": "victoire",
+  "en": "victory",
+  "ja": "勝利"
+ },
+ {
+  "word": "coupé",
+  "en": "cut",
+  "ja": "切られた"
+ },
+ {
+  "word": "reposer",
+  "en": "to rest",
+  "ja": "休む，置く"
+ },
+ {
+  "word": "flingue",
+  "en": "gun",
+  "ja": "銃，拳銃"
+ },
+ {
+  "word": "contrôler",
+  "en": "to control",
+  "ja": "制御する"
+ },
+ {
+  "word": "internet",
+  "en": "Internet",
+  "ja": "インターネット"
+ },
+ {
+  "word": "semblant",
+  "en": "semblance",
+  "ja": "見せかけ，ふり"
+ },
+ {
+  "word": "détective",
+  "en": "detective",
+  "ja": "探偵"
+ },
+ {
+  "word": "coincé",
+  "en": "stuck",
+  "ja": "詰まった，動けない"
+ },
+ {
+  "word": "crétin",
+  "en": "cretin",
+  "ja": "ばか，まぬけ"
+ },
+ {
+  "word": "surveillance",
+  "en": "surveillance",
+  "ja": "監視"
+ },
+ {
+  "word": "suicide",
+  "en": "suicide",
+  "ja": "自殺"
+ },
+ {
+  "word": "casse",
+  "en": "breakage, heist",
+  "ja": "破損，強盗"
+ },
+ {
+  "word": "pilote",
+  "en": "pilot",
+  "ja": "パイロット，操縦士"
+ },
+ {
+  "word": "battu",
+  "en": "beaten",
+  "ja": "打ち負かされた，殴られた"
+ },
+ {
+  "word": "assassin",
+  "en": "murderer",
+  "ja": "殺人者，暗殺者"
+ },
+ {
+  "word": "épisode",
+  "en": "episode",
+  "ja": "エピソード，挿話"
+ },
+ {
+  "word": "talent",
+  "en": "talent",
+  "ja": "才能"
+ },
+ {
+  "word": "site",
+  "en": "site",
+  "ja": "用地，サイト"
+ },
+ {
+  "word": "précédemment",
+  "en": "previously",
+  "ja": "先に"
+ },
+ {
+  "word": "réfléchi",
+  "en": "thoughtful",
+  "ja": "思慮深い，熟考した"
+ },
+ {
+  "word": "jury",
+  "en": "jury",
+  "ja": "陪審，審査員"
+ },
+ {
+  "word": "voleur",
+  "en": "robber",
+  "ja": "泥棒"
+ },
+ {
+  "word": "clairement",
+  "en": "clearly",
+  "ja": "はっきりと，明確に"
+ },
+ {
+  "word": "traduction",
+  "en": "translation",
+  "ja": "翻訳"
+ },
+ {
+  "word": "major",
+  "en": "major",
+  "ja": "首席，少佐"
+ },
+ {
+  "word": "explosion",
+  "en": "explosion",
+  "ja": "爆発"
+ },
+ {
+  "word": "responsabilité",
+  "en": "responsibility",
+  "ja": "責任"
+ },
+ {
+  "word": "épée",
+  "en": "sword",
+  "ja": "剣"
+ },
+ {
+  "word": "commis",
+  "en": "clerk",
+  "ja": "店員"
+ },
+ {
+  "word": "rock",
+  "en": "rock",
+  "ja": "ロック"
+ },
+ {
+  "word": "réveillé",
+  "en": "awake",
+  "ja": "目を覚ました"
+ },
+ {
+  "word": "cardiaque",
+  "en": "cardiac",
+  "ja": "心臓の"
+ },
+ {
+  "word": "minuit",
+  "en": "midnight",
+  "ja": "真夜中，午前0時"
+ },
+ {
+  "word": "humeur",
+  "en": "mood",
+  "ja": "機嫌，気分"
+ },
+ {
+  "word": "prof",
+  "en": "teacher",
+  "ja": "教師"
+ },
+ {
+  "word": "top",
+  "en": "top",
+  "ja": "最高の，トップ"
+ },
+ {
+  "word": "vente",
+  "en": "sale",
+  "ja": "販売"
+ },
+ {
+  "word": "courses",
+  "en": "shopping",
+  "ja": "買い物"
+ },
+ {
+  "word": "version",
+  "en": "version",
+  "ja": "版，バージョン"
+ },
+ {
+  "word": "démon",
+  "en": "demon",
+  "ja": "悪魔"
+ },
+ {
+  "word": "pousse",
+  "en": "growth",
+  "ja": "芽"
+ },
+ {
+  "word": "cesse",
+  "en": "end",
+  "ja": "休止，中断"
+ },
+ {
+  "word": "traverser",
+  "en": "to cross",
+  "ja": "横切る"
+ },
+ {
+  "word": "criminel",
+  "en": "criminal",
+  "ja": "犯罪の，犯人"
+ },
+ {
+  "word": "comportement",
+  "en": "behaviour",
+  "ja": "行動，振る舞い"
+ },
+ {
+  "word": "bosser",
+  "en": "to work",
+  "ja": "働く"
+ },
+ {
+  "word": "gouverneur",
+  "en": "governor",
+  "ja": "知事，総督"
+ },
+ {
+  "word": "paroles",
+  "en": "lyrics",
+  "ja": "歌詞"
+ },
+ {
+  "word": "chaleur",
+  "en": "heat",
+  "ja": "熱"
+ },
+ {
+  "word": "tournée",
+  "en": "tour",
+  "ja": "巡業，ツアー"
+ },
+ {
+  "word": "anciens",
+  "en": "forefathers",
+  "ja": "昔の人々，先人"
+ },
+ {
+  "word": "forcément",
+  "en": "inevitably",
+  "ja": "必然的に，どうしても"
+ },
+ {
+  "word": "lendemain",
+  "en": "day after",
+  "ja": "翌日"
+ },
+ {
+  "word": "coach",
+  "en": "coach",
+  "ja": "コーチ"
+ },
+ {
+  "word": "enfance",
+  "en": "childhood",
+  "ja": "幼少期"
+ },
+ {
+  "word": "scientifique",
+  "en": "scientific",
+  "ja": "科学的な"
+ },
+ {
+  "word": "traité",
+  "en": "treatise",
+  "ja": "条約，論文"
+ },
+ {
+  "word": "sénateur",
+  "en": "senator",
+  "ja": "上院議員"
+ },
+ {
+  "word": "département",
+  "en": "department",
+  "ja": "部門"
+ },
+ {
+  "word": "honnêtement",
+  "en": "honestly",
+  "ja": "正直に"
+ },
+ {
+  "word": "gaffe",
+  "en": "gaffe",
+  "ja": "失敗，へま"
+ },
+ {
+  "word": "pizza",
+  "en": "pizza",
+  "ja": "ピザ"
+ },
+ {
+  "word": "fan",
+  "en": "fan",
+  "ja": "ファン"
+ },
+ {
+  "word": "jean",
+  "en": "pair of jeans",
+  "ja": "ジーンズ"
+ },
+ {
+  "word": "cauchemar",
+  "en": "nightmare",
+  "ja": "悪夢"
+ },
+ {
+  "word": "commissaire",
+  "en": "commissioner",
+  "ja": "警視"
+ },
+ {
+  "word": "entraînement",
+  "en": "training",
+  "ja": "訓練"
+ },
+ {
+  "word": "calmer",
+  "en": "to calm",
+  "ja": "静める"
+ },
+ {
+  "word": "joueur",
+  "en": "player",
+  "ja": "選手，プレーヤー"
+ },
+ {
+  "word": "pub",
+  "en": "ad",
+  "ja": "広告"
+ },
+ {
+  "word": "débile",
+  "en": "stupid",
+  "ja": "ばかげた，間抜けな"
+ },
+ {
+  "word": "humanité",
+  "en": "humanity",
+  "ja": "人類，人間性"
+ },
+ {
+  "word": "marine",
+  "en": "navy",
+  "ja": "海軍"
+ },
+ {
+  "word": "uniquement",
+  "en": "only",
+  "ja": "ただ〜だけ，もっぱら"
+ },
+ {
+  "word": "parking",
+  "en": "car park",
+  "ja": "駐車場"
+ },
+ {
+  "word": "américaine",
+  "en": "American",
+  "ja": "アメリカの，アメリカ人女性"
+ },
+ {
+  "word": "doué",
+  "en": "gifted",
+  "ja": "才能のある"
+ },
+ {
+  "word": "gang",
+  "en": "gang",
+  "ja": "ギャング"
+ },
+ {
+  "word": "communauté",
+  "en": "community",
+  "ja": "共同体，地域社会"
+ },
+ {
+  "word": "liaison",
+  "en": "link",
+  "ja": "関係，つながり"
+ },
+ {
+  "word": "show",
+  "en": "show",
+  "ja": "ショー"
+ },
+ {
+  "word": "juré",
+  "en": "juror",
+  "ja": "陪審員"
+ },
+ {
+  "word": "médecine",
+  "en": "medicine",
+  "ja": "医学"
+ },
+ {
+  "word": "chargé",
+  "en": "busy",
+  "ja": "忙しい，担当の"
+ },
+ {
+  "word": "baisse",
+  "en": "drop",
+  "ja": "下落"
+ },
+ {
+  "word": "filer",
+  "en": "to spin",
+  "ja": "紡ぐ，急いで去る"
+ },
+ {
+  "word": "rompu",
+  "en": "broken",
+  "ja": "壊れた，疲れ果てた"
+ },
+ {
+  "word": "rempli",
+  "en": "filled",
+  "ja": "いっぱいの，満ちた"
+ },
+ {
+  "word": "équipage",
+  "en": "crew",
+  "ja": "乗組員"
+ },
+ {
+  "word": "vengeance",
+  "en": "revenge",
+  "ja": "復讐"
+ },
+ {
+  "word": "lutte",
+  "en": "struggle",
+  "ja": "闘争，戦い"
+ },
+ {
+  "word": "opportunité",
+  "en": "opportunity",
+  "ja": "好機，機会"
+ },
+ {
+  "word": "boss",
+  "en": "boss",
+  "ja": "ボス"
+ },
+ {
+  "word": "convaincu",
+  "en": "convinced",
+  "ja": "確信した"
+ },
+ {
+  "word": "technologie",
+  "en": "technology",
+  "ja": "技術，テクノロジー"
+ },
+ {
+  "word": "explication",
+  "en": "explanation",
+  "ja": "説明"
+ },
+ {
+  "word": "professionnel",
+  "en": "professional",
+  "ja": "専門的な，プロの"
+ },
+ {
+  "word": "étonnant",
+  "en": "amazing",
+  "ja": "驚くべき"
+ },
+ {
+  "word": "nana",
+  "en": "chick",
+  "ja": "女の子，女"
+ },
+ {
+  "word": "incident",
+  "en": "incident",
+  "ja": "事件，出来事"
+ },
+ {
+  "word": "haine",
+  "en": "hatred",
+  "ja": "憎しみ"
+ },
+ {
+  "word": "portée",
+  "en": "reach",
+  "ja": "範囲"
+ },
+ {
+  "word": "lady",
+  "en": "lady",
+  "ja": "貴婦人，レディー"
+ },
+ {
+  "word": "abruti",
+  "en": "moronic",
+  "ja": "ばか，まぬけ"
+ },
+ {
+  "word": "normalement",
+  "en": "normally",
+  "ja": "普通は，通常"
+ },
+ {
+  "word": "entretien",
+  "en": "upkeep",
+  "ja": "手入れ，面接"
+ },
+ {
+  "word": "gêne",
+  "en": "embarrassment",
+  "ja": "当惑，気まずさ"
+ },
+ {
+  "word": "final",
+  "en": "final",
+  "ja": "最終の"
+ },
+ {
+  "word": "business",
+  "en": "business",
+  "ja": "仕事"
+ },
+ {
+  "word": "sauté",
+  "en": "sauté",
+  "ja": "炒めた，ソテー"
+ },
+ {
+  "word": "rencard",
+  "en": "appointment",
+  "ja": "デート，待ち合わせ"
+ }
+]

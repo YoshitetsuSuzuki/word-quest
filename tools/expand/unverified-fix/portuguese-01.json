@@ -1,0 +1,9 @@
+[
+  {"word":"colega","issue":"en(classmate)とja(同僚)が不整合。Wiktionaryではcolleague/classmate/buddy。中心義はcolleague","suggest_ja":"同僚","suggest_en":"colleague"},
+  {"word":"sentar","issue":"品詞不一致。en\"seat\"が名詞に読める（jaは動詞）","suggest_ja":"座る","suggest_en":"to sit"},
+  {"word":"avaliação","issue":"en\"valuation\"は金銭的査定に限定。中心義はevaluation/assessmentで、ja\"評価\"と整合しない","suggest_ja":"評価","suggest_en":"evaluation"},
+  {"word":"amanhecer","issue":"品詞不一致。jaは動詞「夜が明ける」、enは名詞dawn","suggest_ja":"夜が明ける","suggest_en":"to dawn"},
+  {"word":"santuário","issue":"en(shrine)とja(聖域)が不整合","suggest_ja":"聖域","suggest_en":"sanctuary"},
+  {"word":"ligeiramente","issue":"en\"lightly\"は誤り。ligeiramente=slightly（ja「わずかに」は正しい）","suggest_ja":"わずかに","suggest_en":"slightly"},
+  {"word":"caramelo","issue":"ja「カラメル」はソース状のもの。菓子のcaramelは通常「キャラメル」","suggest_ja":"キャラメル","suggest_en":"caramel"}
+]

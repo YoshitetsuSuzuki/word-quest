@@ -1,0 +1,13 @@
+[
+  {"word":"behauptet","issue":"活用形（behaupten の過去分詞／3人称単数形）。原形 behaupten が別項に存在し重複","suggest_ja":null},
+  {"word":"vorgestellt","issue":"活用形（vorstellen の過去分詞）。独立した形容詞用法に乏しい","suggest_ja":null},
+  {"word":"eingestellt","issue":"活用形（einstellen の過去分詞）。訳も「設定された／採用された／中止された」と多義で4択問題として成立しない","suggest_ja":null},
+  {"word":"versetzt","issue":"活用形（versetzen の過去分詞）。見出し語として不適","suggest_ja":null},
+  {"word":"Mäuse","issue":"複数形（Maus の複数）かつ「金」は俗語。見出し語として不適","suggest_ja":null},
+  {"word":"rechtzeitig","issue":"英語義の誤り。punctual は pünktlich。rechtzeitig は「間に合って／適時の」","suggest_ja":"間に合って，適時の","suggest_en":"in time; timely"},
+  {"word":"kürzlich","issue":"品詞不一致。kürzlich は副詞だが en が形容詞 recent になっている","suggest_ja":"最近，先ごろ","suggest_en":"recently"},
+  {"word":"Angel","issue":"英語義の誤り。tackle（釣り具一式）ではなく釣りざお。ja の「釣りざお」が正しい","suggest_ja":"釣りざお","suggest_en":"fishing rod"},
+  {"word":"mittel","issue":"英語義の誤り。形容詞 mittel は「中位の」であって middle（中央）ではない。ja は正しい","suggest_ja":"中くらいの","suggest_en":"medium"},
+  {"word":"Sendung","issue":"en と ja の不整合。en が delivery のみだが ja は「番組」が主。中心義は放送番組","suggest_ja":"番組，放送","suggest_en":"broadcast; TV/radio programme"},
+  {"word":"SMS","issue":"英語義が語形そのまま（sms）で訳になっていない","suggest_ja":"ショートメッセージ","suggest_en":"text message"}
+]

@@ -1,0 +1,20 @@
+[
+  {"word":"juego","issue":"中心義ずれ（juegoの中心は「ゲーム・試合」。「遊び」は周辺義で4択の識別が弱い）","suggest_ja":"ゲーム，試合","suggest_en":"game"},
+  {"word":"personal","issue":"en/ja不整合（enは名詞personnel、jaは形容詞「個人の」が主）","suggest_ja":"個人の，人事の（名詞で「職員，スタッフ」）","suggest_en":"personal; staff"},
+  {"word":"dulce","issue":"品詞ずれ（中心は形容詞「甘い」。enをcandyとしたためja「菓子」が先行）","suggest_ja":"甘い（名詞で「菓子，甘いもの」）","suggest_en":"sweet"},
+  {"word":"maestro","issue":"中心義ずれ（maestroの中心は「教師・先生」。「師匠」は限定的）","suggest_ja":"先生，教師","suggest_en":"teacher"},
+  {"word":"duda","issue":"訳語不適切（「疑惑」はスキャンダル的含みで、dudaの「疑い・疑問」とずれる）","suggest_ja":"疑い，疑問"},
+  {"word":"culpable","issue":"品詞ずれ（中心は形容詞「有罪の」。enの\"culpable person\"は不自然な英語）","suggest_ja":"有罪の（名詞で「犯人」）","suggest_en":"guilty"},
+  {"word":"santa","issue":"英語義が不自然（\"saintess\"は非標準語）","suggest_ja":"聖なる，聖女","suggest_en":"holy; saint (female)"},
+  {"word":"subir","issue":"自他不一致（en \"to raise\"は他動詞だがjaは自動詞「上がる」。subirの中心は自動詞「上がる・登る」）","suggest_ja":"上がる，登る","suggest_en":"to go up"},
+  {"word":"borracho","issue":"品詞ずれ（enが名詞drunkard、jaは形容詞「酔った」が主）","suggest_ja":"酔った（名詞で「酔っ払い」）","suggest_en":"drunk"},
+  {"word":"china","issue":"訳が誤り／中心義ずれ（小文字chinaの中心義は「中国人女性・中国の」。「小石」は地域的・周辺義で4択として成立しにくい）","suggest_ja":"中国の，中国人女性","suggest_en":"Chinese (feminine)"},
+  {"word":"sabido","issue":"活用形（saberの過去分詞。単語カードとして不適）","suggest_ja":null},
+  {"word":"gracia","issue":"訳が不適切（「恩恵」はgraciaの宗教的周辺義。中心は「優雅さ・面白み・愛嬌」）","suggest_ja":"優雅さ，面白み","suggest_en":"grace, charm"},
+  {"word":"tomo","issue":"英語義が難語（\"tome\"は稀。標準はvolume）","suggest_ja":"(本の)巻","suggest_en":"volume"},
+  {"word":"disco","issue":"中心義ずれ（discoの中心は「円盤・レコード」。「ディスコ」を先頭にするのは不適）","suggest_ja":"レコード盤，ディスク","suggest_en":"disc, record"},
+  {"word":"controlar","issue":"訳が狭い（controlarの中心は「管理する・制御する」。「抑制する」は周辺義）","suggest_ja":"管理する，制御する"},
+  {"word":"asistente","issue":"en/ja不整合（enが\"attendee\"だがjaは「助手」が主。中心義はassistant）","suggest_ja":"助手，アシスタント","suggest_en":"assistant"},
+  {"word":"particular","issue":"日本語として不自然（形容詞なのに「個人的」と語尾が欠落）","suggest_ja":"特定の，個人的な"},
+  {"word":"competencia","issue":"en/ja不整合（enはcompetenceのみ、jaは「競争」が先頭。両義を併記すべき）","suggest_ja":"競争，能力","suggest_en":"competition; competence"}
+]
