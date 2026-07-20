@@ -26,3 +26,6 @@ tools/expand/audit/
 
 # Tatoeba/FreeDict の生データ(再取得可能・大容量)
 .cache/tatoeba/
+
+# 認証レポート(再生成可能・大容量)
+tools/certify/report/
