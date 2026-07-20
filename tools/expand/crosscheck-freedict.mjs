@@ -25,6 +25,9 @@ const LANGS = [
   { key: 'portuguese', tei: 'por-eng/por-eng.tei' },
   { key: 'russian', tei: 'rus-eng/rus-eng.tei' },
   { key: 'polish', tei: 'pol-eng/pol-eng.tei' },
+  { key: 'spanish', tei: 'spa-eng/spa-eng.tei' },
+  { key: 'french', tei: 'fra-eng/fra-eng.tei' },
+  { key: 'german', tei: 'deu-eng/deu-eng.tei' },
 ]
 
 const STOP = new Set(['a', 'an', 'the', 'to', 'of', 'be', 'in', 'on', 'for', 'with', 'and', 'or', 'sth', 'sb', 'one', 'something', 'someone'])
@@ -48,23 +51,55 @@ function tokenSet(s) {
   return out
 }
 
-/** TEI を読み、見出し語 -> 英訳の集合 を作る */
-function loadTei(file) {
-  const xml = fs.readFileSync(path.join(fdDir, file), 'utf8')
-  const map = new Map()
-  const entryRe = /<entry>([\s\S]*?)<\/entry>/g
-  let m
-  while ((m = entryRe.exec(xml))) {
-    const body = m[1]
-    const orths = [...body.matchAll(/<orth[^>]*>([^<]+)<\/orth>/g)].map((x) => x[1].trim())
-    const quotes = [...body.matchAll(/<quote[^>]*>([^<]+)<\/quote>/g)].map((x) => x[1].trim())
-    if (!orths.length || !quotes.length) continue
-    for (const o of orths) {
-      const key = o.toLowerCase()
-      if (!map.has(key)) map.set(key, new Set())
-      for (const q of quotes) map.get(key).add(q)
+/**
+ * TEI を読み、見出し語 -> 英訳の集合 を作る。
+ * 独語(Ding由来)は 429MB あり readFileSync では文字列長上限に達するため、
+ * また <entry xml:id="..."> と属性が付く形式なので、行ストリームで解析する。
+ */
+function* readLines(filePath) {
+  const fd = fs.openSync(filePath, 'r')
+  const buf = Buffer.alloc(1 << 20)
+  let rest = ''
+  try {
+    for (;;) {
+      const n = fs.readSync(fd, buf, 0, buf.length, null)
+      if (n <= 0) break
+      const chunk = rest + buf.toString('utf8', 0, n)
+      const parts = chunk.split('\n')
+      rest = parts.pop() ?? ''
+      for (const p of parts) yield p
     }
+    if (rest) yield rest
+  } finally {
+    fs.closeSync(fd)
   }
+}
+
+function loadTei(file) {
+  const map = new Map()
+  let inEntry = false
+  let orths = []
+  let quotes = []
+  const flush = () => {
+    if (orths.length && quotes.length) {
+      for (const o of orths) {
+        const key = o.toLowerCase()
+        if (!map.has(key)) map.set(key, new Set())
+        const set = map.get(key)
+        if (set.size < 12) for (const q of quotes) set.add(q)
+      }
+    }
+    orths = []
+    quotes = []
+  }
+  for (const line of readLines(path.join(fdDir, file))) {
+    if (/<entry\b/.test(line)) { flush(); inEntry = true }
+    if (!inEntry) continue
+    for (const m of line.matchAll(/<orth[^>]*>([^<]+)<\/orth>/g)) orths.push(m[1].trim())
+    for (const m of line.matchAll(/<quote[^>]*>([^<]+)<\/quote>/g)) quotes.push(m[1].trim())
+    if (/<\/entry>/.test(line)) { flush(); inEntry = false }
+  }
+  flush()
   return map
 }
 

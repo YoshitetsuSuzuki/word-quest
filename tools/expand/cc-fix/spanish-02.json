@@ -1,0 +1,26 @@
+[
+  {
+    "word": "egoísta",
+    "issue": "品詞不一致: en が名詞 egotist だが ja は形容詞「利己的な，わがままな」。egoísta の中心用法は形容詞。",
+    "suggest_ja": "利己的な，わがままな",
+    "suggest_en": "selfish"
+  },
+  {
+    "word": "judío",
+    "issue": "英語義の表記誤り: 民族・宗教名は大文字 Jew が正。小文字 jew は不適切表記。",
+    "suggest_ja": "ユダヤ人，ユダヤの",
+    "suggest_en": "Jew, Jewish"
+  },
+  {
+    "word": "verdaderamente",
+    "issue": "en が不正確: truthfully は「正直に」で ja「本当に，真に」と不整合。verdaderamente は truly/really。",
+    "suggest_ja": "本当に，真に",
+    "suggest_en": "truly, really"
+  },
+  {
+    "word": "frase",
+    "issue": "en と ja が不整合: ja の「文」は sentence であり phrase のみでは対応しない。frase は文・句の両義。",
+    "suggest_ja": "文，フレーズ",
+    "suggest_en": "phrase, sentence"
+  }
+]

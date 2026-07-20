@@ -1,10 +1,10 @@
 {
  "source": "FreeDict (TEI)",
- "total": 957,
+ "total": 1014,
  "counts": {
-  "matched": 544,
-  "conflicting": 66,
-  "not_found": 347
+  "matched": 575,
+  "conflicting": 74,
+  "not_found": 365
  },
  "results": [
   {
@@ -2315,6 +2315,158 @@
    "en": "evacuation",
    "ja": "避難",
    "status": "not_found"
+  },
+  {
+   "id": "pt-00958",
+   "word": "futuro",
+   "en": "future",
+   "ja": "将来",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00959",
+   "word": "fundo",
+   "en": "bottom",
+   "ja": "底",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00960",
+   "word": "parecer",
+   "en": "seem",
+   "ja": "思われる",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00961",
+   "word": "branco",
+   "en": "white",
+   "ja": "白色",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00962",
+   "word": "junto",
+   "en": "together",
+   "ja": "共に",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00963",
+   "word": "mala",
+   "en": "suitcase",
+   "ja": "スーツケース",
+   "status": "conflicting",
+   "freedict": [
+    "box",
+    "chest",
+    "luggage"
+   ]
+  },
+  {
+   "id": "pt-00964",
+   "word": "animal",
+   "en": "animal",
+   "ja": "動物",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00965",
+   "word": "venda",
+   "en": "sale",
+   "ja": "販売",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00966",
+   "word": "terreno",
+   "en": "terrain",
+   "ja": "土地",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00967",
+   "word": "ambiente",
+   "en": "environment",
+   "ja": "環境",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00968",
+   "word": "média",
+   "en": "average",
+   "ja": "平均",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00969",
+   "word": "horário",
+   "en": "timetable",
+   "ja": "時刻表",
+   "status": "conflicting",
+   "freedict": [
+    "schedule",
+    "time-table"
+   ]
+  },
+  {
+   "id": "pt-00970",
+   "word": "aço",
+   "en": "steel",
+   "ja": "鋼",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00971",
+   "word": "amanhecer",
+   "en": "dawn",
+   "ja": "夜が明ける",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00972",
+   "word": "técnico",
+   "en": "specialist",
+   "ja": "技術者",
+   "status": "conflicting",
+   "freedict": [
+    "technical"
+   ]
+  },
+  {
+   "id": "pt-00973",
+   "word": "xadrez",
+   "en": "chess",
+   "ja": "チェス",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00974",
+   "word": "colina",
+   "en": "hill",
+   "ja": "丘",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00975",
+   "word": "ácido",
+   "en": "acid",
+   "ja": "酸",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00976",
+   "word": "colher",
+   "en": "spoon",
+   "ja": "スプーン",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00977",
+   "word": "dano",
+   "en": "damage",
+   "ja": "損傷",
+   "status": "matched"
   },
   {
    "id": "pt-00051",
@@ -4639,6 +4791,152 @@
    "status": "matched"
   },
   {
+   "id": "pt-00978",
+   "word": "voluntário",
+   "en": "volunteer",
+   "ja": "ボランティア",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00979",
+   "word": "fino",
+   "en": "thin",
+   "ja": "細い",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00980",
+   "word": "acompanhante",
+   "en": "companion",
+   "ja": "同伴者",
+   "status": "conflicting",
+   "freedict": [
+    "accompanist",
+    "companian"
+   ]
+  },
+  {
+   "id": "pt-00981",
+   "word": "réu",
+   "en": "defendant",
+   "ja": "被告",
+   "status": "conflicting",
+   "freedict": [
+    "culprit"
+   ]
+  },
+  {
+   "id": "pt-00982",
+   "word": "anão",
+   "en": "dwarf",
+   "ja": "こびと",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00983",
+   "word": "pesar",
+   "en": "weigh",
+   "ja": "重さを量る",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00984",
+   "word": "autógrafo",
+   "en": "autograph",
+   "ja": "サイン",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00985",
+   "word": "pilar",
+   "en": "pillar",
+   "ja": "柱",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00986",
+   "word": "leitor",
+   "en": "reader",
+   "ja": "読者",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00987",
+   "word": "acelerador",
+   "en": "accelerator",
+   "ja": "アクセル",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00988",
+   "word": "administrador",
+   "en": "administrator",
+   "ja": "管理者",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00989",
+   "word": "coleira",
+   "en": "collar",
+   "ja": "首輪",
+   "status": "conflicting",
+   "freedict": [
+    "necklace"
+   ]
+  },
+  {
+   "id": "pt-00990",
+   "word": "vácuo",
+   "en": "vacuum",
+   "ja": "真空",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00991",
+   "word": "panda",
+   "en": "panda",
+   "ja": "パンダ",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00992",
+   "word": "crente",
+   "en": "believer",
+   "ja": "信者",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00993",
+   "word": "prodígio",
+   "en": "prodigy",
+   "ja": "神童",
+   "status": "conflicting",
+   "freedict": [
+    "miracle"
+   ]
+  },
+  {
+   "id": "pt-00994",
+   "word": "salgado",
+   "en": "salty",
+   "ja": "塩辛い",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00995",
+   "word": "pseudónimo",
+   "en": "pseudonym",
+   "ja": "ペンネーム",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00996",
+   "word": "detergente",
+   "en": "detergent",
+   "ja": "洗剤",
+   "status": "not_found"
+  },
+  {
    "id": "pt-00101",
    "word": "governo",
    "en": "government",
@@ -6947,6 +7245,135 @@
    "en": "plumage",
    "ja": "羽毛",
    "status": "not_found"
+  },
+  {
+   "id": "pt-00997",
+   "word": "rubi",
+   "en": "ruby",
+   "ja": "ルビー",
+   "status": "matched"
+  },
+  {
+   "id": "pt-00998",
+   "word": "âmbar",
+   "en": "amber",
+   "ja": "琥珀",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-00999",
+   "word": "bibliotecário",
+   "en": "librarian",
+   "ja": "司書",
+   "status": "matched"
+  },
+  {
+   "id": "pt-01000",
+   "word": "adesivo",
+   "en": "sticker",
+   "ja": "ステッカー",
+   "status": "conflicting",
+   "freedict": [
+    "adhesive"
+   ]
+  },
+  {
+   "id": "pt-01001",
+   "word": "capitalista",
+   "en": "capitalist",
+   "ja": "資本家",
+   "status": "matched"
+  },
+  {
+   "id": "pt-01002",
+   "word": "chiclete",
+   "en": "gum",
+   "ja": "チューインガム",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-01003",
+   "word": "placar",
+   "en": "scoreboard",
+   "ja": "スコアボード",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-01004",
+   "word": "patamar",
+   "en": "landing",
+   "ja": "踊り場",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-01005",
+   "word": "manicure",
+   "en": "manicure",
+   "ja": "マニキュア",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-01006",
+   "word": "lilás",
+   "en": "lilac",
+   "ja": "ライラック",
+   "status": "matched"
+  },
+  {
+   "id": "pt-01007",
+   "word": "recesso",
+   "en": "recess",
+   "ja": "休憩",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-01008",
+   "word": "asteroide",
+   "en": "asteroid",
+   "ja": "小惑星",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-01009",
+   "word": "denominador",
+   "en": "denominator",
+   "ja": "分母",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-01010",
+   "word": "excedente",
+   "en": "surplus",
+   "ja": "余剰",
+   "status": "matched"
+  },
+  {
+   "id": "pt-01011",
+   "word": "misturador",
+   "en": "mixer",
+   "ja": "ミキサー",
+   "status": "not_found"
+  },
+  {
+   "id": "pt-01012",
+   "word": "vogal",
+   "en": "vowel",
+   "ja": "母音",
+   "status": "matched"
+  },
+  {
+   "id": "pt-01013",
+   "word": "leigo",
+   "en": "layman",
+   "ja": "素人",
+   "status": "matched"
+  },
+  {
+   "id": "pt-01014",
+   "word": "gêmeo",
+   "en": "twin",
+   "ja": "双子の",
+   "status": "matched"
   }
  ]
 }

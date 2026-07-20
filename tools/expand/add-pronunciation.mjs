@@ -20,6 +20,9 @@ const LANGS = [
   { key: 'russian', dict: 'kaikki-russian-full.jsonl', code: 'ru' },
   { key: 'polish', dict: 'kaikki-polish-full.jsonl', code: 'pl' },
   { key: 'portuguese', dict: 'kaikki-portuguese-full.jsonl', code: 'pt' },
+  { key: 'spanish', dict: 'kaikki-spanish-full.jsonl', code: 'es' },
+  { key: 'french', dict: 'kaikki-french-full.jsonl', code: 'fr' },
+  { key: 'german', dict: 'kaikki-german-full.jsonl', code: 'de' },
 ]
 
 function* readLines(filePath) {
@@ -64,6 +67,10 @@ const IPA_MAP = [
 function ipaToRoman(ipaRaw) {
   let s = String(ipaRaw || '').trim()
   if (!s) return ''
+  // 1エントリに複数表記が併記されることがある (例: "/ˈɡɾaθjas/ [ˈɡɾa.θjas]")。
+  // そのまま処理すると連結されて壊れる(grAthyasgrathyas)ため、最初の1つだけ使う。
+  const first = s.match(/\/([^/]+)\/|\[([^\]]+)\]/)
+  if (first) s = first[1] ?? first[2] ?? s
   s = s.replace(/^[\/\[]|[\/\]]$/g, '') // 前後の / [ ] を除去
   if (!s) return ''
   // 鼻音化記号(結合波ダッシュ)が付いた母音・半母音を、鼻音付きの合成文字に寄せる。

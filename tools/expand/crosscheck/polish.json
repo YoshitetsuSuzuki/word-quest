@@ -1,8 +1,8 @@
 {
  "source": "FreeDict (TEI)",
- "total": 616,
+ "total": 636,
  "counts": {
-  "matched": 573,
+  "matched": 593,
   "conflicting": 19,
   "not_found": 24
  },
@@ -605,12 +605,9 @@
   {
    "id": "pl-00186",
    "word": "profesor",
-   "en": "teacher",
+   "en": "professor",
    "ja": "教授",
-   "status": "conflicting",
-   "freedict": [
-    "professor"
-   ]
+   "status": "matched"
   },
   {
    "id": "pl-00187",
@@ -1475,6 +1472,55 @@
    "word": "prywatność",
    "en": "privacy",
    "ja": "プライバシー",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00617",
+   "word": "wczoraj",
+   "en": "yesterday",
+   "ja": "昨日",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00618",
+   "word": "pora",
+   "en": "time",
+   "ja": "時期",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00619",
+   "word": "król",
+   "en": "king",
+   "ja": "国王",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00620",
+   "word": "złoto",
+   "en": "gold",
+   "ja": "黄金",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00621",
+   "word": "pas",
+   "en": "belt",
+   "ja": "ベルト",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00622",
+   "word": "magazyn",
+   "en": "warehouse",
+   "ja": "倉庫",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00623",
+   "word": "znajomy",
+   "en": "acquaintance",
+   "ja": "知人",
    "status": "matched"
   },
   {
@@ -2939,6 +2985,58 @@
    "status": "matched"
   },
   {
+   "id": "pl-00624",
+   "word": "wampir",
+   "en": "vampire",
+   "ja": "吸血鬼",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00625",
+   "word": "kopia",
+   "en": "copy",
+   "ja": "複製",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00626",
+   "word": "księgowy",
+   "en": "accountant",
+   "ja": "会計係",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00627",
+   "word": "batalion",
+   "en": "battalion",
+   "ja": "大隊",
+   "status": "conflicting",
+   "freedict": [
+    "ruff"
+   ]
+  },
+  {
+   "id": "pl-00628",
+   "word": "kret",
+   "en": "mole",
+   "ja": "モグラ",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00629",
+   "word": "goryl",
+   "en": "gorilla",
+   "ja": "ゴリラ",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00630",
+   "word": "niszczyciel",
+   "en": "destroyer",
+   "ja": "駆逐艦",
+   "status": "matched"
+  },
+  {
    "id": "pl-00101",
    "word": "czytać",
    "en": "to read",
@@ -4392,6 +4490,48 @@
    "word": "cytryna",
    "en": "lemon",
    "ja": "レモン",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00631",
+   "word": "bariera",
+   "en": "barrier",
+   "ja": "障壁",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00632",
+   "word": "jaguar",
+   "en": "jaguar",
+   "ja": "ジャガー",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00633",
+   "word": "kora",
+   "en": "bark",
+   "ja": "樹皮",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00634",
+   "word": "manekin",
+   "en": "mannequin",
+   "ja": "マネキン",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00635",
+   "word": "biegacz",
+   "en": "runner",
+   "ja": "走者",
+   "status": "matched"
+  },
+  {
+   "id": "pl-00636",
+   "word": "dzik",
+   "en": "wild boar",
+   "ja": "イノシシ",
    "status": "matched"
   }
  ]

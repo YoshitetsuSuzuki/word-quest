@@ -1,10 +1,10 @@
 {
  "source": "FreeDict (TEI)",
- "total": 707,
+ "total": 719,
  "counts": {
-  "matched": 617,
-  "conflicting": 15,
-  "not_found": 75
+  "matched": 628,
+  "conflicting": 14,
+  "not_found": 77
  },
  "results": [
   {
@@ -885,13 +885,9 @@
   {
    "id": "ru-00224",
    "word": "стакан",
-   "en": "beaker",
+   "en": "glass",
    "ja": "コップ",
-   "status": "conflicting",
-   "freedict": [
-    "glass",
-    "glassful"
-   ]
+   "status": "matched"
   },
   {
    "id": "ru-00225",
@@ -1679,6 +1675,41 @@
    "word": "спагетти",
    "en": "spaghetti",
    "ja": "スパゲッティ",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00708",
+   "word": "адрес",
+   "en": "address",
+   "ja": "住所",
+   "status": "not_found"
+  },
+  {
+   "id": "ru-00709",
+   "word": "воздух",
+   "en": "air",
+   "ja": "空気",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00710",
+   "word": "правило",
+   "en": "rule",
+   "ja": "規則",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00711",
+   "word": "демон",
+   "en": "demon",
+   "ja": "悪魔",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00712",
+   "word": "бунт",
+   "en": "riot",
+   "ja": "暴動",
    "status": "matched"
   },
   {
@@ -3354,6 +3385,34 @@
    "status": "matched"
   },
   {
+   "id": "ru-00713",
+   "word": "прилив",
+   "en": "tide",
+   "ja": "満ち潮",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00714",
+   "word": "кулон",
+   "en": "pendant",
+   "ja": "ペンダント",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00715",
+   "word": "сокол",
+   "en": "falcon",
+   "ja": "ハヤブサ",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00716",
+   "word": "каньон",
+   "en": "canyon",
+   "ja": "峡谷",
+   "status": "matched"
+  },
+  {
    "id": "ru-00101",
    "word": "любовь",
    "en": "love",
@@ -5023,6 +5082,27 @@
    "word": "мышца",
    "en": "muscle",
    "ja": "筋肉",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00717",
+   "word": "губа",
+   "en": "lip",
+   "ja": "くちびる",
+   "status": "matched"
+  },
+  {
+   "id": "ru-00718",
+   "word": "киви",
+   "en": "kiwi",
+   "ja": "キウイ",
+   "status": "not_found"
+  },
+  {
+   "id": "ru-00719",
+   "word": "угорь",
+   "en": "eel",
+   "ja": "ウナギ",
    "status": "matched"
   }
  ]

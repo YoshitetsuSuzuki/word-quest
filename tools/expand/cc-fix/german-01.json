@@ -1,0 +1,18 @@
+[
+  {"word":"leid","issue":"単独では成立しない断片（leidtun / leid sein の一部）。4択語彙として不適","suggest_ja":null},
+  {"word":"Ordnung","issue":"英語義が中心義から外れている（arrangement→order）","suggest_ja":"秩序，整頓","suggest_en":"order"},
+  {"word":"brauchen","issue":"日本語訳が不自然（「要する」は書き言葉的で中心義とずれる）","suggest_ja":"必要とする"},
+  {"word":"Herr","issue":"英語義が不正確。Herr は単なる man ではなく紳士／敬称","suggest_ja":"紳士，〜氏","suggest_en":"gentleman, Mr."},
+  {"word":"Lieber","issue":"語頭大文字が誤り。名詞ではなく比較級の副詞 lieber（=むしろ、〜する方がよい）。現行の訳「親愛なる（呼びかけ）」は形容詞 lieb の変化形の解釈で、見出し語として不適","suggest_ja":"むしろ，〜する方がよい","suggest_en":"rather, preferably"},
+  {"word":"Eins","issue":"大文字 Eins は「数字の1」。数詞としての one は小文字 eins。訳「一つ」は数詞の解釈で見出し語形と不整合","suggest_ja":"（数字の）1","suggest_en":"the number one"},
+  {"word":"darum","issue":"英語義が周辺義。中心義は「だから・それゆえ」","suggest_ja":"だから，それゆえ","suggest_en":"therefore, that's why"},
+  {"word":"stellen","issue":"英語義が誤り。to pose ではなく「置く・立てる」","suggest_ja":"置く，立てる","suggest_en":"to put, to place"},
+  {"word":"setzen","issue":"英語義が誤り。to sit down は再帰の sich setzen。他動詞 setzen は「置く・据える」","suggest_ja":"置く，据える","suggest_en":"to put, to set"},
+  {"word":"schaffen","issue":"日本語の表記が誤り（「産み出す」→「生み出す」）","suggest_ja":"生み出す，創造する"},
+  {"word":"Leider","issue":"語頭大文字が誤り。副詞なので小文字 leider が正しい","suggest_ja":"残念ながら，あいにく"},
+  {"word":"Mist","issue":"英語義（manure）と日本語訳（くそ）が不整合。加えて訳語が卑語寄りで4択に不適","suggest_ja":"肥やし，くだらないもの","suggest_en":"manure, rubbish"},
+  {"word":"Gleiche","issue":"名詞化された変化形（das Gleiche）。見出し語としては gleich が適切で重複気味","suggest_ja":null},
+  {"word":"Kontrolle","issue":"英語義・日本語訳ともに中心義とずれる。Kontrolle は「管理・統制／点検」","suggest_ja":"管理，点検","suggest_en":"control, check"},
+  {"word":"herzen","issue":"動詞 herzen は極めて低頻度で、実際には Herz の複数形（hearts）と混同されている。学習語彙として不適","suggest_ja":null},
+  {"word":"kaputt","issue":"英語義が不自然（destroyed→broken）","suggest_ja":"壊れた","suggest_en":"broken"}
+]

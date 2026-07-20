@@ -1,0 +1,19 @@
+[
+  {"word":"vergnügen","issue":"英語義が不正確。sich vergnügen は「楽しむ・遊び興じる」であり「to please(喜ばせる)」ではない。名詞 Vergnügen(楽しみ) と混同されやすい","suggest_ja":"楽しむ，遊び興じる","suggest_en":"to have fun, to amuse oneself"},
+  {"word":"reichen","issue":"enとjaが不整合。en=to reach(届く) に対し ja=足りる","suggest_ja":"足りる，差し出す","suggest_en":"to be enough, to hand over"},
+  {"word":"Brüder","issue":"Bruder の複数形。活用（曲用）形が語彙として混入","suggest_ja":null},
+  {"word":"vertraut","issue":"英語義がずれている。vertraut は「familiar(慣れ親しんだ)」であり close(近しい) ではない","suggest_ja":"よく知っている，慣れ親しんだ","suggest_en":"familiar"},
+  {"word":"Koffer","issue":"英語義 \"a case\" が曖昧で4択として成立しにくい","suggest_ja":"スーツケース，トランク","suggest_en":"suitcase"},
+  {"word":"Griff","issue":"enとjaが不整合。en=grasp(掴むこと) に対し ja の第一義は取っ手(handle)","suggest_ja":"取っ手，握り","suggest_en":"handle, grip"},
+  {"word":"lauter","issue":"英語義 sincere は古風・稀な用法。現代の中心義は「〜ばかり／〜だらけ」。またlaut(うるさい)の比較級とも同形で紛らわしい","suggest_ja":"〜ばかり，〜だらけ","suggest_en":"nothing but"},
+  {"word":"überlebt","issue":"過去分詞形。ja が「生き延びた（分詞）」と「時代遅れの（形容詞）」を混在させており、en=outdated と整合しない","suggest_ja":"時代遅れの，廃れた","suggest_en":"obsolete, outdated"},
+  {"word":"daten","issue":"小文字 daten は口語的借用の新語動詞で学習語彙として不適切。標準語彙は名詞 Daten(データ)。同形混同のリスクが高い","suggest_ja":null},
+  {"word":"regen","issue":"小文字 regen は稀な再帰動詞(sich regen=身動きする)。名詞 Regen(雨) と同形で混同必至、かつ ja「動かす」は他動詞訳で品詞用法が不正確","suggest_ja":null},
+  {"word":"Tritt","issue":"enとjaの語義順が不整合。en=step に対し ja の第一義は「蹴り」","suggest_ja":"蹴り，足取り","suggest_en":"kick, step"},
+  {"word":"überlegt","issue":"英語義が誤り。considerate は「思いやりのある」の意で、überlegt(熟慮した・慎重な)とずれる","suggest_ja":"熟慮した，慎重な","suggest_en":"considered, deliberate"},
+  {"word":"definitiv","issue":"品詞・語義のずれ。definitiv は主に副詞「確かに・間違いなく」。en=definitive(決定版の) は別語","suggest_ja":"確かな，間違いなく","suggest_en":"definite, definitely"},
+  {"word":"Story","issue":"英語義が誤り。Story は「話・物語」であり plot(筋書き) ではない。ja=物語 とも不整合","suggest_ja":"物語，話","suggest_en":"story"},
+  {"word":"umgehen","issue":"enとjaが不整合。en=to avoid に対し ja の第一義は「扱う」(mit etw. umgehen)。分離/非分離で意味が分かれる語","suggest_ja":"扱う，対処する","suggest_en":"to deal with, to handle"},
+  {"word":"Ton","issue":"enとjaが不整合。en=clay(粘土) に対し ja の第一義は「音」。中心義は音・音色","suggest_ja":"音，音色","suggest_en":"sound, tone"},
+  {"word":"gemeldet","issue":"melden の過去分詞形。形容詞として語彙化しておらず活用形の混入","suggest_ja":null}
+]

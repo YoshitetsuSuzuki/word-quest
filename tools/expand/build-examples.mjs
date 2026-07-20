@@ -21,6 +21,9 @@ const LANGS = [
   { key: 'portuguese', code: 'por' },
   { key: 'russian', code: 'rus' },
   { key: 'polish', code: 'pol' },
+  { key: 'spanish', code: 'spa' },
+  { key: 'french', code: 'fra' },
+  { key: 'german', code: 'deu' },
 ]
 
 function* readLines(filePath) {
