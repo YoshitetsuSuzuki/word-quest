@@ -1,10 +1,12 @@
 import { useGame } from '../state/GameContext'
 import { useNav } from '../state/nav'
+import { loc } from '../i18n'
+import { raidBosses } from '../data/raids.config'
 
 /** レベルアップ・レイドクリア・実績解除の全画面演出 */
 export function CelebrationOverlay() {
   const { celebration, dismissCelebration } = useGame()
-  const { t } = useNav()
+  const { t, locale } = useNav()
   if (!celebration) return null
 
   let title = ''
@@ -17,11 +19,14 @@ export function CelebrationOverlay() {
   } else if (celebration.kind === 'raidClear') {
     title = 'RAID CLEAR!'
     emoji = '🎉'
-    sub = celebration.title ? `${t('celebrate.raidTitlePre')}${celebration.title}${t('celebrate.raidTitlePost')}` : t('celebrate.raidClearDefault')
+    // 報酬タイトルは日本語文字列で渡ってくるので、対応するボスを引いて英語版に出し分ける
+    const boss = celebration.title ? raidBosses.find((b) => b.rewardTitle === celebration.title) : undefined
+    const rewardTitle = boss ? loc(boss.rewardTitle ?? '', boss.rewardTitleEn, locale) : celebration.title
+    sub = rewardTitle ? `${t('celebrate.raidTitlePre')}${rewardTitle}${t('celebrate.raidTitlePost')}` : t('celebrate.raidClearDefault')
   } else if (celebration.kind === 'achievement') {
     title = t('celebrate.achievement')
     emoji = celebration.achievement?.emoji ?? '🏅'
-    sub = celebration.achievement?.title ?? ''
+    sub = celebration.achievement ? loc(celebration.achievement.title, celebration.achievement.titleEn, locale) : ''
   } else if (celebration.kind === 'streak') {
     title = 'STREAK!'
     emoji = '🔥'

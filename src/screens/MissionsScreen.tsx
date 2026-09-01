@@ -2,10 +2,11 @@ import { useGame } from '../state/GameContext'
 import { useNav } from '../state/nav'
 import { getMissionViews } from '../modules/mission/missionLogic'
 import { ProgressBar } from '../components/ProgressBar'
+import { loc } from '../i18n'
 
 export function MissionsScreen() {
   const { user, claimMission } = useGame()
-  const { t } = useNav()
+  const { t, locale } = useNav()
   const missions = getMissionViews(user)
 
   return (
@@ -17,7 +18,7 @@ export function MissionsScreen() {
         {missions.map((m) => (
           <div key={m.def.id} className="card p-4">
             <div className="flex items-center justify-between">
-              <span className="font-bold text-sm">{m.def.title}</span>
+              <span className="font-bold text-sm">{loc(m.def.title, m.def.titleEn, locale)}</span>
               <span className="text-xs text-gold font-bold shrink-0 ml-2">
                 🪙{m.def.rewardCoin} / {m.def.rewardXp}XP
               </span>

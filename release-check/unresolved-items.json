@@ -1,0 +1,93 @@
+{
+ "stage": 7,
+ "title": "未解決のまま残っている項目",
+ "note": "既存の監査結果をそのまま前提として利用。再監査はしていない。",
+ "categories": [
+  {
+   "name": "例文・発音の欠落",
+   "blocking": false,
+   "reason": "未設定でもアプリは正常に出題する（第2段階で確認済み）。学習体験の充実度の問題であり公開事故ではない。",
+   "detail": [
+    {
+     "language": "english",
+     "total": 8136,
+     "exampleMissing": 272,
+     "pronunciationMissing": 19
+    },
+    {
+     "language": "chinese",
+     "total": 4201,
+     "exampleMissing": 6,
+     "pronunciationMissing": 0
+    },
+    {
+     "language": "japanese",
+     "total": 7489,
+     "exampleMissing": 628,
+     "pronunciationMissing": 0
+    },
+    {
+     "language": "korean",
+     "total": 1529,
+     "exampleMissing": 629,
+     "pronunciationMissing": 0
+    },
+    {
+     "language": "spanish",
+     "total": 1888,
+     "exampleMissing": 103,
+     "pronunciationMissing": 6
+    },
+    {
+     "language": "german",
+     "total": 1900,
+     "exampleMissing": 98,
+     "pronunciationMissing": 113
+    },
+    {
+     "language": "french",
+     "total": 1906,
+     "exampleMissing": 110,
+     "pronunciationMissing": 7
+    },
+    {
+     "language": "portuguese",
+     "total": 1013,
+     "exampleMissing": 686,
+     "pronunciationMissing": 3
+    },
+    {
+     "language": "polish",
+     "total": 636,
+     "exampleMissing": 275,
+     "pronunciationMissing": 0
+    },
+    {
+     "language": "russian",
+     "total": 719,
+     "exampleMissing": 320,
+     "pronunciationMissing": 0
+    }
+   ]
+  },
+  {
+   "name": "証拠が得られなかった語（REVIEW / AMBIGUOUS）",
+   "blocking": false,
+   "reason": "既存の認証フェーズで「変更すべき明確な証拠あり」と判定された語は0件。証拠不足＝誤りではない。",
+   "source": "tools/certify/report/_summary.json"
+  }
+ ],
+ "certification": [
+  {
+   "lang": "english",
+   "語数": 8136,
+   "辞書数": 2,
+   "CERTIFIED": 3337,
+   "LIKELY": 3770,
+   "AMBIGUOUS": 1029,
+   "REVIEW": 0,
+   "公開品質": "87.4%",
+   "要変更": 0
+  }
+ ]
+}

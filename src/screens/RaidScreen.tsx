@@ -4,11 +4,12 @@ import { useNav } from '../state/nav'
 import { getRaidView } from '../modules/raid/raidLogic'
 import { ProgressBar } from '../components/ProgressBar'
 import { useInterstitial } from '../services/useInterstitial'
+import { loc } from '../i18n'
 import type { Question } from '../types'
 
 export function RaidScreen() {
   const { user, engine, answerQuestion, claimRaid, ensureCategory, isCategoryReady } = useGame()
-  const { navigate, category, t } = useNav()
+  const { navigate, category, t, locale } = useNav()
   const showInterstitial = useInterstitial()
   const raid = getRaidView(user)
   const ready = isCategoryReady(category)
@@ -82,7 +83,7 @@ export function RaidScreen() {
 
       <div className="card p-6 text-center">
         <div className="text-7xl mb-2">{raid.boss.emoji}</div>
-        <div className="text-lg font-black">{raid.boss.name}</div>
+        <div className="text-lg font-black">{loc(raid.boss.name, raid.boss.nameEn, locale)}</div>
         <div className="mt-4">
           <ProgressBar ratio={raid.ratio} barClassName="bg-danger" height={14} />
           <div className="flex justify-between text-xs text-white/50 mt-1.5 tabular-nums">
@@ -98,7 +99,7 @@ export function RaidScreen() {
 
       <div className="card p-4 text-sm text-white/60">
         {t('raid.rewardPre')}🪙{raid.boss.rewardCoin} / {raid.boss.rewardXp}XP
-        {raid.boss.rewardTitle && <>{t('raid.rewardTitlePre')}{raid.boss.rewardTitle}{t('raid.rewardTitlePost')}</>}
+        {raid.boss.rewardTitle && <>{t('raid.rewardTitlePre')}{loc(raid.boss.rewardTitle, raid.boss.rewardTitleEn, locale)}{t('raid.rewardTitlePost')}</>}
       </div>
 
       {raid.cleared ? (

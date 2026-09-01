@@ -29,7 +29,13 @@ export function PremiumCard() {
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [])
 
+  // 課金が使えない環境（Web / APIキー未設定 / ストア商品未提出）では、
+  // カードごと非表示にする。押しても何も起きない購入ボタンを見せると
+  // App Store 審査で 2.1(a)「purchase button was unresponsive」/
+  // 2.1(b)「IAP未提出なのに参照がある」として却下されるため。
+  // 購入済みユーザーには状態表示として残す。
   if (!featureFlags.purchaseEnabled) return null
+  if (!available && !user.adsRemoved) return null
 
   const buy = async () => {
     setBusy(true)

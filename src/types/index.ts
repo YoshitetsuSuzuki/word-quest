@@ -205,6 +205,7 @@ export type MissionType =
 export interface MissionDef {
   id: string
   title: string
+  titleEn?: string // 英語ロケール用（未設定なら title を使う）
   type: MissionType
   target: number
   rewardCoin: number
@@ -222,6 +223,7 @@ export interface MissionState {
 export interface RaidDef {
   id: string
   name: string
+  nameEn?: string // 英語ロケール用
   emoji: string
   /** クリアに必要な合計貢献数（ダミー集計） */
   targetContribution: number
@@ -230,6 +232,7 @@ export interface RaidDef {
   rewardCoin: number
   rewardXp: number
   rewardTitle?: string
+  rewardTitleEn?: string // 英語ロケール用
 }
 
 /** レイド状態（ユーザーデータ内） */
@@ -252,7 +255,9 @@ export type AchievementCondition =
 export interface AchievementDef {
   id: string
   title: string
+  titleEn?: string // 英語ロケール用
   description: string
+  descriptionEn?: string // 英語ロケール用
   emoji: string
   condition: AchievementCondition
   rewardCoin: number
@@ -264,11 +269,15 @@ export type ShopItemKind = 'title' | 'frame' | 'effect'
 export interface ShopItemDef {
   id: string
   name: string
+  nameEn?: string // 英語ロケール用
   kind: ShopItemKind
   price: number
-  /** 表示用のプレビュー（絵文字・色クラスなど） */
+  /** 表示用のプレビュー（絵文字・色クラスなど）。称号のみ表示テキスト。 */
   preview: string
+  /** 称号の表示テキストの英語版（frame/effect は絵文字/クラスなので不要） */
+  previewEn?: string
   description: string
+  descriptionEn?: string // 英語ロケール用
   /** 限定品(購入不可・実績や節目で獲得)。未所有の間はショップに並ばない */
   limited?: boolean
 }

@@ -3,11 +3,13 @@ import { useGame } from '../state/GameContext'
 import { useNav } from '../state/nav'
 import { getCategoryInfo } from '../data/categories'
 import { buildWorld, worldProgress, UNLOCK_THRESHOLD } from '../core/worldLogic'
+import { loc } from '../i18n'
+import type { Strings } from '../i18n/types'
 
 /** 冒険マップ：レベルをエリアに見立て、習得度で解放していく縦の旅路。 */
 export function WorldMapScreen() {
   const { user, engine, isCategoryReady, ensureCategory } = useGame()
-  const { category, navigate, setStudyLevel, setQuizMode, setCustomIds } = useNav()
+  const { category, navigate, setStudyLevel, setQuizMode, setCustomIds, t, locale } = useNav()
   const ready = isCategoryReady(category)
   if (!ready) void ensureCategory(category)
 
@@ -24,12 +26,12 @@ export function WorldMapScreen() {
 
   return (
     <div className="space-y-4 animate-slideUp">
-      <button onClick={() => navigate('home')} className="text-white/50 text-sm">← ホーム</button>
+      <button onClick={() => navigate('home')} className="text-white/50 text-sm">{t('league.back')}</button>
 
       <div className="card p-5 text-center">
         <div className="text-3xl">🗺️</div>
-        <div className="text-xl font-black mt-1">{info.emoji} {info.label}の冒険マップ</div>
-        <div className="text-xs text-white/50 mt-1">世界制覇率 {Math.round(overall * 100)}%</div>
+        <div className="text-xl font-black mt-1">{info.emoji} {t(`cat.${category}` as keyof Strings)}{t('worldmap.titleSuffix')}</div>
+        <div className="text-xs text-white/50 mt-1">{t('worldmap.conquerRate')} {Math.round(overall * 100)}%</div>
         <div className="mt-3 h-2 rounded-full bg-panel2 overflow-hidden">
           <div className="h-full bg-gradient-to-r from-accent to-accent2" style={{ width: `${Math.round(overall * 100)}%` }} />
         </div>
@@ -66,8 +68,8 @@ export function WorldMapScreen() {
                   <div className="text-3xl">{r.unlocked ? r.emoji : '🔒'}</div>
                   <div className="flex-1 min-w-0">
                     <div className="font-black truncate">
-                      {r.name}
-                      {r.cleared && <span className="ml-2 text-[10px] text-success">攻略済</span>}
+                      {loc(r.name, r.nameEn, locale)}
+                      {r.cleared && <span className="ml-2 text-[10px] text-success">{t('worldmap.cleared')}</span>}
                     </div>
                     {r.unlocked ? (
                       <>
@@ -75,12 +77,12 @@ export function WorldMapScreen() {
                           <div className={`h-full ${r.cleared ? 'bg-success' : 'bg-gold'}`} style={{ width: `${pct}%` }} />
                         </div>
                         <div className="text-[11px] text-white/45 mt-1">
-                          習得 {r.learned}/{r.total}（{pct}%）
-                          {!r.cleared && ` ・${Math.round(UNLOCK_THRESHOLD * 100)}%で次を解放`}
+                          {t('worldmap.learned')} {r.learned}/{r.total}（{pct}%）
+                          {!r.cleared && `${t('worldmap.nextUnlockPre')}${Math.round(UNLOCK_THRESHOLD * 100)}${t('worldmap.nextUnlockPost')}`}
                         </div>
                       </>
                     ) : (
-                      <div className="text-[11px] text-white/40 mt-1">前のエリアを{Math.round(UNLOCK_THRESHOLD * 100)}%攻略で解放</div>
+                      <div className="text-[11px] text-white/40 mt-1">{t('worldmap.unlockHint').replace('{n}', String(Math.round(UNLOCK_THRESHOLD * 100)))}</div>
                     )}
                   </div>
                   {r.unlocked && <span className="text-accent2 font-black text-lg">▶</span>}

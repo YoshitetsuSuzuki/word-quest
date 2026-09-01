@@ -22,7 +22,7 @@ function shuffle<T>(a: T[]): T[] {
 /** ペア合わせ：単語と意味を線でつなぐミニゲーム。出題形式に変化をつけ、想起を鍛える。 */
 export function MatchScreen() {
   const { engine, isCategoryReady, ensureCategory, applyRewardXp } = useGame()
-  const { category, navigate, studyLevel, locale, sfxEnabled, sfxVolume } = useNav()
+  const { category, navigate, studyLevel, locale, sfxEnabled, sfxVolume, t } = useNav()
   const showInterstitial = useInterstitial()
   const ready = isCategoryReady(category)
   useEffect(() => { if (!ready) void ensureCategory(category) }, [ready, ensureCategory, category])
@@ -35,7 +35,7 @@ export function MatchScreen() {
   const [wrong, setWrong] = useState<string | null>(null)
   const [done, setDone] = useState(false)
 
-  if (!ready || qs.length === 0) return <Loading label="準備中…" />
+  if (!ready || qs.length === 0) return <Loading label={t('quiz.preparing')} />
 
   const onRight = (rid: string) => {
     if (!pickLeft || matched.includes(rid)) return
@@ -66,11 +66,11 @@ export function MatchScreen() {
     return (
       <div className="text-center py-12 animate-slideUp">
         <div className="text-6xl mb-3">🎯</div>
-        <h2 className="text-2xl font-black">ぜんぶ そろった！</h2>
+        <h2 className="text-2xl font-black">{t('match.done')}</h2>
         <div className="card mt-5 p-4 text-gold font-black">+{qs.length * 6} XP</div>
         <div className="mt-6 grid grid-cols-2 gap-3">
-          <button className="btn-ghost py-3" onClick={async () => { await showInterstitial('match'); navigate('home') }}>ホーム</button>
-          <button className="btn-primary py-3" onClick={async () => { await showInterstitial('match'); window.location.reload() }}>もう一回</button>
+          <button className="btn-ghost py-3" onClick={async () => { await showInterstitial('match'); navigate('home') }}>{t('quiz.toHome')}</button>
+          <button className="btn-primary py-3" onClick={async () => { await showInterstitial('match'); window.location.reload() }}>{t('quiz.again')}</button>
         </div>
       </div>
     )
@@ -78,10 +78,10 @@ export function MatchScreen() {
 
   return (
     <div className="space-y-4 animate-slideUp">
-      <button onClick={() => navigate('home')} className="text-white/50 text-sm">← ホーム</button>
+      <button onClick={() => navigate('home')} className="text-white/50 text-sm">{t('league.back')}</button>
       <div className="text-center">
-        <h2 className="text-lg font-black">🎯 ペア合わせ</h2>
-        <p className="text-xs text-white/50">単語をタップ → 意味をタップ（{matched.length}/{qs.length}）</p>
+        <h2 className="text-lg font-black">🎯 {t('home.match')}</h2>
+        <p className="text-xs text-white/50">{t('match.instruction')}（{matched.length}/{qs.length}）</p>
       </div>
       <div className="grid grid-cols-2 gap-3">
         {/* 左：単語 */}

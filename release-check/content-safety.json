@@ -1,0 +1,136 @@
+{
+ "stage": 3,
+ "title": "公開上危険な文字列の再検索",
+ "scannedFields": 201169,
+ "checkedItems": 29417,
+ "summary": {
+  "critical": 0,
+  "major": 0,
+  "info": 12,
+  "total": 12
+ },
+ "verdict": "PASS",
+ "note": "見出し語の存在のみでは問題としない。例文・訳・選択肢の文脈を検査した。Info=見出し語自体の語義(辞書として正当)。Major=無関係な語の誤答に露骨語が混入。",
+ "findings": [
+  {
+   "severity": "Info",
+   "language": "english",
+   "id": "en-20084",
+   "field": "example",
+   "type": "headword_sense_explicit",
+   "value": "Within the rape crisis movement, Greensite's dissent is significant. — レイプ危機運動の内",
+   "pattern": "/\\brape\\b/i",
+   "note": "見出し語自体の語義。辞書として正当だが年齢レーティングの検討対象"
+  },
+  {
+   "severity": "Info",
+   "language": "english",
+   "id": "en-20188",
+   "field": "example",
+   "type": "headword_sense_explicit",
+   "value": "The penis is one of the male reproductive organs. — 陰茎は雄の生殖器のひとつ。",
+   "pattern": "/\\bpenis\\b/i",
+   "note": "見出し語自体の語義。辞書として正当だが年齢レーティングの検討対象"
+  },
+  {
+   "severity": "Info",
+   "language": "english",
+   "id": "en-20188",
+   "field": "answer",
+   "type": "headword_sense_explicit",
+   "value": "陰茎",
+   "pattern": "/(?:淫乱|痴女|強姦|売春婦|射精|性器|陰茎|膣)/",
+   "note": "見出し語自体の語義。辞書として正当だが年齢レーティングの検討対象"
+  },
+  {
+   "severity": "Info",
+   "language": "english",
+   "id": "en-20188",
+   "field": "choices[3]",
+   "type": "headword_sense_explicit",
+   "value": "陰茎",
+   "pattern": "/(?:淫乱|痴女|強姦|売春婦|射精|性器|陰茎|膣)/",
+   "note": "見出し語自体の語義。辞書として正当だが年齢レーティングの検討対象"
+  },
+  {
+   "severity": "Info",
+   "language": "english",
+   "id": "en-20635",
+   "field": "answer",
+   "type": "headword_sense_explicit",
+   "value": "膣",
+   "pattern": "/(?:淫乱|痴女|強姦|売春婦|射精|性器|陰茎|膣)/",
+   "note": "見出し語自体の語義。辞書として正当だが年齢レーティングの検討対象"
+  },
+  {
+   "severity": "Info",
+   "language": "english",
+   "id": "en-20635",
+   "field": "choices[3]",
+   "type": "headword_sense_explicit",
+   "value": "膣",
+   "pattern": "/(?:淫乱|痴女|強姦|売春婦|射精|性器|陰茎|膣)/",
+   "note": "見出し語自体の語義。辞書として正当だが年齢レーティングの検討対象"
+  },
+  {
+   "severity": "Info",
+   "language": "english",
+   "id": "en-21232",
+   "field": "answer",
+   "type": "headword_sense_explicit",
+   "value": "強姦犯人",
+   "pattern": "/(?:淫乱|痴女|強姦|売春婦|射精|性器|陰茎|膣)/",
+   "note": "見出し語自体の語義。辞書として正当だが年齢レーティングの検討対象"
+  },
+  {
+   "severity": "Info",
+   "language": "english",
+   "id": "en-21232",
+   "field": "choices[2]",
+   "type": "headword_sense_explicit",
+   "value": "強姦犯人",
+   "pattern": "/(?:淫乱|痴女|強姦|売春婦|射精|性器|陰茎|膣)/",
+   "note": "見出し語自体の語義。辞書として正当だが年齢レーティングの検討対象"
+  },
+  {
+   "severity": "Info",
+   "language": "french",
+   "id": "fr-01812",
+   "field": "answer",
+   "type": "headword_sense_explicit",
+   "value": "rape",
+   "pattern": "/\\brape\\b/i",
+   "note": "見出し語自体の語義。辞書として正当だが年齢レーティングの検討対象"
+  },
+  {
+   "severity": "Info",
+   "language": "french",
+   "id": "fr-01812",
+   "field": "glosses.ja",
+   "type": "headword_sense_explicit",
+   "value": "強姦",
+   "pattern": "/(?:淫乱|痴女|強姦|売春婦|射精|性器|陰茎|膣)/",
+   "note": "見出し語自体の語義。辞書として正当だが年齢レーティングの検討対象"
+  },
+  {
+   "severity": "Info",
+   "language": "french",
+   "id": "fr-01812",
+   "field": "glosses.en",
+   "type": "headword_sense_explicit",
+   "value": "rape",
+   "pattern": "/\\brape\\b/i",
+   "note": "見出し語自体の語義。辞書として正当だが年齢レーティングの検討対象"
+  },
+  {
+   "severity": "Info",
+   "language": "french",
+   "id": "fr-01812",
+   "field": "choices[0]",
+   "type": "headword_sense_explicit",
+   "value": "rape",
+   "pattern": "/\\brape\\b/i",
+   "note": "見出し語自体の語義。辞書として正当だが年齢レーティングの検討対象"
+  }
+ ]
+}

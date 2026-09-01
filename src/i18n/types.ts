@@ -9,6 +9,22 @@ export interface Strings {
   'home.language': string; 'home.comingSoon': string; 'home.level': string; 'home.mixed': string
   'home.listenHintSpell': string; 'home.listenHintChoice': string
   'home.reviewDuePre': string; 'home.reviewDuePost': string
+  'home.weakPre': string; 'home.weakPost': string
+  'home.map': string; 'home.mapHint': string
+  'home.speed': string; 'home.speedHint': string
+  'home.match': string; 'home.matchHint': string
+  'league.tier0': string; 'league.tier1': string; 'league.tier2': string
+  'league.tier3': string; 'league.tier4': string; 'league.tier5': string
+  'league.back': string; 'league.promotePre': string; 'league.promotePost': string
+  'league.topTier': string; 'league.daysLeftPre': string; 'league.daysLeftPost': string
+  'league.youAre': string; 'league.people': string; 'league.promoteZone': string
+  'league.relegateZone': string; 'league.you': string; 'league.earnPoints': string
+  'league.pointsNote': string; 'league.gameCenter': string
+  'match.done': string; 'match.instruction': string
+  'worldmap.titleSuffix': string; 'worldmap.conquerRate': string; 'worldmap.cleared': string; 'worldmap.unlockHint': string
+  'worldmap.learned': string; 'worldmap.nextUnlockPre': string; 'worldmap.nextUnlockPost': string
+  'listen.placeholder': string
+  'notify.title': string; 'notify.body': string
   'home.phrases': string; 'home.phrasesHint': string
   'home.goalUnit': string; 'home.goalDone': string; 'home.masteryOf': string; 'home.masteryUnit': string
   'home.todayRaidBoss': string
@@ -59,6 +75,7 @@ export interface Strings {
   'shop.full': string; 'shop.titles': string; 'shop.frames': string; 'shop.effects': string; 'shop.equip': string; 'shop.equipped': string
   'shop.premium': string; 'shop.premiumDesc': string; 'shop.premiumActive': string; 'shop.buy': string; 'shop.restore': string; 'shop.premiumAppOnly': string; 'shop.restoreFail': string
   'quiz.watchAd2x': string
+  'quiz.share': string; 'share.quizText': string
   'ad.saveStreak': string; 'ad.saveStreakDone': string
   'ad.getGem': string; 'ad.getGemDesc': string; 'ad.getGemDone': string
   'ad.reviveCombo': string

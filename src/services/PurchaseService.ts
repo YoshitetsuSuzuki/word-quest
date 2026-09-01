@@ -7,6 +7,7 @@
 // ============================================================================
 import { Capacitor } from '@capacitor/core'
 import { Purchases } from '@revenuecat/purchases-capacitor'
+import { Analytics } from './Analytics'
 
 // TODO(本番): RevenueCatダッシュボードで発行した「公開SDKキー」を記入
 //   iOS  は appl_ で始まるキー / Android は goog_ で始まるキー
@@ -68,7 +69,9 @@ export const PurchaseService = {
       const pkg = offerings.current?.availablePackages?.[0]
       if (!pkg) return { ok: false, reason: 'no_offering' }
       const { customerInfo } = await Purchases.purchasePackage({ aPackage: pkg })
-      return { ok: Boolean(customerInfo.entitlements.active[ENTITLEMENT_ID]) }
+      const ok = Boolean(customerInfo.entitlements.active[ENTITLEMENT_ID])
+      if (ok) Analytics.track('purchase_success', { product: 'remove_ads' })
+      return { ok }
     } catch (e) {
       const err = e as { code?: string; userCancelled?: boolean }
       if (err?.userCancelled) return { ok: false, reason: 'cancelled' }

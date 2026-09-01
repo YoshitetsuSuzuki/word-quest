@@ -11,6 +11,7 @@ export const UNLOCK_THRESHOLD = 0.4
 export interface Region {
   level: number
   name: string
+  nameEn: string
   emoji: string
   total: number
   learned: number
@@ -20,17 +21,17 @@ export interface Region {
 }
 
 /** エリアの見た目（レベル→名前・絵文字）。旅の情緒を出す。 */
-const NODES: { name: string; emoji: string }[] = [
-  { name: 'はじまりの草原', emoji: '🌱' },
-  { name: 'みなと町', emoji: '⚓' },
-  { name: '賢者の森', emoji: '🌲' },
-  { name: '砂の遺跡', emoji: '🏜️' },
-  { name: '氷の山', emoji: '🏔️' },
-  { name: '空の神殿', emoji: '☁️' },
-  { name: '星の王座', emoji: '👑' },
+const NODES: { name: string; nameEn: string; emoji: string }[] = [
+  { name: 'はじまりの草原', nameEn: 'Starting Meadow', emoji: '🌱' },
+  { name: 'みなと町', nameEn: 'Harbor Town', emoji: '⚓' },
+  { name: '賢者の森', nameEn: 'Sage Forest', emoji: '🌲' },
+  { name: '砂の遺跡', nameEn: 'Sand Ruins', emoji: '🏜️' },
+  { name: '氷の山', nameEn: 'Ice Mountain', emoji: '🏔️' },
+  { name: '空の神殿', nameEn: 'Sky Temple', emoji: '☁️' },
+  { name: '星の王座', nameEn: 'Throne of Stars', emoji: '👑' },
 ]
-export function nodeInfo(level: number): { name: string; emoji: string } {
-  return NODES[level - 1] ?? { name: `エリア${level}`, emoji: '🗺️' }
+export function nodeInfo(level: number): { name: string; nameEn: string; emoji: string } {
+  return NODES[level - 1] ?? { name: `エリア${level}`, nameEn: `Area ${level}`, emoji: '🗺️' }
 }
 
 export function buildWorld(engine: QuestionEngine, category: Category, user: User): Region[] {
@@ -48,8 +49,8 @@ export function buildWorld(engine: QuestionEngine, category: Category, user: Use
     const learned = Math.min(total, learnedByLevel.get(level) ?? 0)
     const mastery = total > 0 ? learned / total : 0
     const cleared = mastery >= UNLOCK_THRESHOLD
-    const { name, emoji } = nodeInfo(level)
-    regions.push({ level, name, emoji, total, learned, mastery, unlocked: prevCleared, cleared })
+    const { name, nameEn, emoji } = nodeInfo(level)
+    regions.push({ level, name, nameEn, emoji, total, learned, mastery, unlocked: prevCleared, cleared })
     prevCleared = cleared
   }
   return regions

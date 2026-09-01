@@ -1,10 +1,11 @@
 {
   "name": "word-quest",
   "private": true,
-  "version": "0.1.0",
+  "version": "1.1.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
+    "dev:demo": "VITE_DEMO=1 vite --port 5175",
     "build": "tsc -b && vite build",
     "preview": "vite preview",
     "build:app": "tsc -b && CAP=1 vite build",
@@ -19,6 +20,9 @@
     "@capacitor/cli": "^8.4.1",
     "@capacitor/core": "^8.4.1",
     "@capacitor/ios": "^8.4.1",
+    "@capacitor/local-notifications": "^8.2.1",
+    "@capacitor/preferences": "^8.0.1",
+    "@capacitor/share": "^8.0.1",
     "@revenuecat/purchases-capacitor": "^13.2.2",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
@@ -30,6 +34,7 @@
     "@vitejs/plugin-react": "^4.3.4",
     "autoprefixer": "^10.4.20",
     "postcss": "^8.4.49",
+    "puppeteer-core": "^23.11.1",
     "sharp": "^0.35.3",
     "tailwindcss": "^3.4.17",
     "typescript": "^5.6.3",

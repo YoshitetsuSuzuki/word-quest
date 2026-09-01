@@ -63,9 +63,13 @@ const NOVELTY_VOICE =
   /(albert|bad news|bahh|bells|boing|bubbles|cellos|good news|jester|organ|superstar|trinoids|whisper|wobble|zarvox|deranged|hysterical|pipe organ|ralph|fred|junior|kathy|bruce|agnes|princess|grandma|grandpa|rocko|shelley|sandy|flo|eddy|reed|rishi|wobble|zarvox)/i
 // プラットフォーム横断で高品質を示すマーカー（名前に含まれれば加点）
 const HIGH_QUALITY = /(siri|neural|enhanced|premium|natural|google|microsoft)/i
-// 各言語で信頼できる標準音声名（高品質マーカーが無い端末での次善）
+// 各言語で信頼できる標準音声名（高品質マーカーが無い端末での次善）。全10言語をカバー。
+// en: samantha,alex,karen,daniel,moira,tessa,serena,martha / ja: kyoko,oren,otoya,hattori
+// zh: tingting,meijia,sinji,yushu,limu / ko: yuna / de: anna,helena,petra,viktoria
+// fr: thomas,aurelie,amelie,audrey / es: monica,paulina,jorge,juan,marisol
+// pt-BR: luciana,felipe,joana,fernanda / ru: milena,yuri,katya / pl: zosia,ewa,krzysztof
 const KNOWN_GOOD =
-  /(samantha|alex|karen|daniel|moira|tessa|kyoko|o-?ren|otoya|ting-?ting|mei-?jia|sin-?ji|yu-?shu|li-?mu|yuna|anna|helena|petra|thomas|aur[eé]lie|am[eé]lie|audrey|m[oó]nica|paulina|jorge|juan|luca|alice)/i
+  /(samantha|alex|karen|daniel|moira|tessa|serena|martha|kyoko|o-?ren|otoya|hattori|ting-?ting|mei-?jia|sin-?ji|yu-?shu|li-?mu|yuna|anna|helena|petra|viktoria|thomas|aur[eé]lie|am[eé]lie|audrey|m[oó]nica|paulina|jorge|juan|marisol|luciana|felipe|joana|fernanda|milena|yuri|katya|zosia|ewa|krzysztof|luca|alice)/i
 
 /** 音声の品質スコア（高いほど良い）。base=完全一致の言語タグ。 */
 function scoreVoice(v: SpeechSynthesisVoice, base: string): number {
@@ -167,7 +171,7 @@ export function langForCategory(category: Category): string {
     case 'spanish': return 'es-ES'
     case 'french': return 'fr-FR'
     case 'german': return 'de-DE'
-    case 'portuguese': return 'pt-PT'
+    case 'portuguese': return 'pt-BR' // 収録語彙はブラジル系(você/trem等)。BR音声の方が高品質・話者数も多い
     case 'russian': return 'ru-RU'
     case 'polish': return 'pl-PL'
     default: return 'en-US'

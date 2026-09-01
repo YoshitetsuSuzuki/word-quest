@@ -11,6 +11,7 @@ import {
   RewardAdPluginEvents,
   type AdMobRewardItem,
 } from '@capacitor-community/admob'
+import { Analytics } from './Analytics'
 
 // Google公式のテスト広告ユニットID（アカウント不要で本物の広告UIを確認できる）
 const TEST_IDS = {
@@ -42,7 +43,7 @@ const PROD_IDS = {
  *   - 開発中に本番広告を出して自分でタップすると規約違反（無効トラフィック）になる
  * ストア公開・AdMob承認後に false へ変更すれば、本番広告＝収益化が始まる。
  */
-const USE_TEST_ADS = true
+const USE_TEST_ADS = false
 
 /**
  * インタースティシャルを出す頻度（その場所を N 回終えるごとに1回）。
@@ -126,6 +127,7 @@ export const AdService = {
       await AdMob.prepareRewardVideoAd({ adId: currentIds().rewarded, isTesting: USE_TEST_ADS, npa: true })
       await AdMob.showRewardVideoAd()
       await handle.remove()
+      Analytics.track('ad_shown', { type: 'rewarded', earned })
       return earned
     } catch (e) {
       console.warn('[AdService] rewarded failed', e)
@@ -159,6 +161,7 @@ export const AdService = {
       await ensureInit()
       await AdMob.prepareInterstitial({ adId: currentIds().interstitial, isTesting: USE_TEST_ADS, npa: true })
       await AdMob.showInterstitial()
+      Analytics.track('ad_shown', { type: 'interstitial' })
     } catch (e) {
       console.warn('[AdService] interstitial failed', e)
     }

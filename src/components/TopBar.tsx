@@ -1,4 +1,5 @@
 import { useGame } from '../state/GameContext'
+import { useNav } from '../state/nav'
 import { progressEngine } from '../core/ProgressEngine'
 import { ProgressBar } from './ProgressBar'
 import { equippedTitle, equippedFrameClass } from '../modules/shop/shopLogic'
@@ -6,8 +7,9 @@ import { equippedTitle, equippedFrameClass } from '../modules/shop/shopLogic'
 /** 画面上部の常設ステータス（レベル/XP/Coin） */
 export function TopBar() {
   const { user } = useGame()
+  const { locale } = useNav()
   const need = progressEngine.requiredXp(user.level)
-  const title = equippedTitle(user)
+  const title = equippedTitle(user, locale)
   const frame = equippedFrameClass(user)
 
   return (

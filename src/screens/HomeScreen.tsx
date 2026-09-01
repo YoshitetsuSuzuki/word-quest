@@ -11,6 +11,10 @@ import { PetWidget } from '../components/PetWidget'
 import { categories } from '../data/categories'
 import { todayStr } from '../state/dateUtils'
 import { LEAGUES, standings, myRank } from '../modules/league/leagueLogic'
+import { WidgetService } from '../services/WidgetService'
+import { GameCenterService, LEADERBOARD, GC_ACHIEVEMENT } from '../services/GameCenterService'
+import { wordFromPrompt } from '../utils/speech'
+import { loc } from '../i18n'
 import type { Strings } from '../i18n/types'
 
 const DAILY_GOAL = 20
@@ -56,11 +60,48 @@ export function HomeScreen() {
   const doneMissions = missions.filter((m) => m.completed).length
   // 復習は今の学習ジャンル分だけを数える(言語ごとに分ける)
   const dueReview = user.reviewQueue.filter((r) => r.nextReviewAt <= Date.now() && r.questionId.startsWith(prefix)).length
+  // 苦手＝一度でも間違えた語(正答率<100%)。SRSの期限を待たず、その日のうちにおさらいできる。
+  // 正答率の低い順に並べ、上位10語をドリルにする。
+  const weakItems = Object.entries(user.wordStats)
+    .filter(([id, s]) => s.t > 0 && s.c < s.t && id.startsWith(prefix))
+    .sort(([, a], [, b]) => a.c / a.t - b.c / b.t)
+  const weakIds = weakItems.slice(0, 10).map(([id]) => id)
+
+  // ホーム画面表示時に、iOSホーム画面ウィジェット用のデータを書き出す。
+  // 連続記録・今日の進捗・今日の1語。ネイティブ以外・App Group未設定では no-op。
+  useEffect(() => {
+    if (!ready) return
+    const s = engine.buildSession(category, 1, 0, locale)
+    const q = s[0]
+    if (!q) return
+    void WidgetService.update({
+      streak: user.studyStreak ?? 0,
+      todayAnswered: todayDone,
+      dailyGoal,
+      word: wordFromPrompt(q.prompt),
+      meaning: engine.localizedGloss(q, locale),
+      updatedAt: Date.now(),
+    })
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [ready, category, todayDone, user.studyStreak])
+
+  // Game Center: 本物のリーダーボードへスコア送信＋実績を報告（iOSのみ・no-op安全）。
+  useEffect(() => {
+    void GameCenterService.submitScore(LEADERBOARD.weekly, user.weeklyPoints ?? 0)
+    void GameCenterService.submitScore(LEADERBOARD.lifetime, user.totalCorrect ?? 0)
+    const tc = user.totalCorrect ?? 0
+    const streak = user.longestStudyStreak ?? user.studyStreak ?? 0
+    void GameCenterService.reportAchievement(GC_ACHIEVEMENT.correct100, Math.min(100, (tc / 100) * 100))
+    void GameCenterService.reportAchievement(GC_ACHIEVEMENT.correct1000, Math.min(100, (tc / 1000) * 100))
+    void GameCenterService.reportAchievement(GC_ACHIEVEMENT.streak7, Math.min(100, (streak / 7) * 100))
+    void GameCenterService.reportAchievement(GC_ACHIEVEMENT.streak30, Math.min(100, (streak / 30) * 100))
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [user.weeklyPoints, user.totalCorrect, user.longestStudyStreak])
 
   const league = LEAGUES[user.leagueTier] ?? LEAGUES[0]
   const leagueRank = myRank(standings(user))
   const tiles: { screen: Parameters<typeof navigate>[0]; label: string; icon: string; on: boolean; hint?: string }[] = [
-    { screen: 'league', label: `${league.name}リーグ`, icon: league.emoji, on: true, hint: `${leagueRank}位` },
+    { screen: 'league', label: t(`league.tier${user.leagueTier}` as keyof Strings), icon: league.emoji, on: true, hint: `${leagueRank}${t('rank.rankSuffix')}` },
     { screen: 'battle', label: t('home.battle'), icon: '⚔️', on: featureFlags.battleEnabled, hint: t('home.battleHint') },
     { screen: 'raid', label: t('home.raid'), icon: '🐉', on: featureFlags.raidEnabled, hint: `${Math.round(raid.ratio * 100)}%` },
     { screen: 'missions', label: t('home.missions'), icon: '🎯', on: featureFlags.missionsEnabled, hint: `${doneMissions}/${missions.length}` },
@@ -153,8 +194,8 @@ export function HomeScreen() {
       >
         <div className="text-3xl">🗺️</div>
         <div className="flex-1">
-          <div className="font-black">冒険マップ</div>
-          <div className="text-xs text-white/50">エリアを攻略して世界一へ</div>
+          <div className="font-black">{t('home.map')}</div>
+          <div className="text-xs text-white/50">{t('home.mapHint')}</div>
         </div>
         <span className="text-accent2 font-black">▶</span>
       </button>
@@ -166,16 +207,16 @@ export function HomeScreen() {
           className="card p-4 text-left active:scale-95 transition"
         >
           <div className="text-3xl">⚡</div>
-          <div className="mt-2 font-bold">スピード</div>
-          <div className="text-xs text-white/45">制限時間チャレンジ</div>
+          <div className="mt-2 font-bold">{t('home.speed')}</div>
+          <div className="text-xs text-white/45">{t('home.speedHint')}</div>
         </button>
         <button
           onClick={() => navigate('match')}
           className="card p-4 text-left active:scale-95 transition"
         >
           <div className="text-3xl">🎯</div>
-          <div className="mt-2 font-bold">ペア合わせ</div>
-          <div className="text-xs text-white/45">単語と意味をつなぐ</div>
+          <div className="mt-2 font-bold">{t('home.match')}</div>
+          <div className="text-xs text-white/45">{t('home.matchHint')}</div>
         </button>
       </div>
 
@@ -223,6 +264,20 @@ export function HomeScreen() {
           className="btn-ghost w-full py-3 text-sm flex items-center justify-center gap-2"
         >
           {t('home.reviewDuePre')} {dueReview} {t('home.reviewDuePost')}
+        </button>
+      )}
+
+      {/* 苦手のおさらい（SRSの期限が未到来でも、間違えた語をその場で復習できる） */}
+      {featureFlags.reviewEnabled && dueReview === 0 && weakIds.length > 0 && (
+        <button
+          onClick={() => {
+            setQuizMode('normal')
+            setCustomIds(weakIds)
+            navigate('quiz')
+          }}
+          className="btn-ghost w-full py-3 text-sm flex items-center justify-center gap-2"
+        >
+          {t('home.weakPre')} {weakIds.length} {t('home.weakPost')}
         </button>
       )}
 
@@ -274,7 +329,7 @@ export function HomeScreen() {
             <div className="text-4xl">{raid.boss.emoji}</div>
             <div className="flex-1 min-w-0">
               <div className="text-xs text-white/45">{t('home.todayRaidBoss')}</div>
-              <div className="font-bold truncate">{raid.boss.name}</div>
+              <div className="font-bold truncate">{loc(raid.boss.name, raid.boss.nameEn, locale)}</div>
               <ProgressBar ratio={raid.ratio} className="mt-2" barClassName="bg-danger" height={8} />
             </div>
           </div>

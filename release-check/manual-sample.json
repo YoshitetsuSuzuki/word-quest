@@ -1,0 +1,5770 @@
+{
+ "stage": 6,
+ "title": "人による最終確認用サンプル",
+ "method": "決定的ハッシュ(seed=\"wordquest-release-check-v1\")による無作為抽出。同じ結果が再現できる。",
+ "note": "AIは正否を判定していない。humanVerdict は未記入。",
+ "perLanguage": 30,
+ "total": 300,
+ "items": [
+  {
+   "language": "english",
+   "id": "en-07340",
+   "level": 5,
+   "prompt": "「correlation」の意味は？",
+   "answer": "相関",
+   "choices": [
+    "検査官",
+    "相関",
+    "概して",
+    "趣味"
+   ],
+   "example": "There is a correlation between sleep and health. — 睡眠と健康の間には相関がある。",
+   "pronunciation": "/ˌkɔɹəˈɫeɪʃən/",
+   "glosses": null,
+   "humanVerdict": null
+  },
+  {
+   "language": "english",
+   "id": "en-09131",
+   "level": 5,
+   "prompt": "「introductory」の意味は？",
+   "answer": "入門の，序論の",
+   "choices": [
+    "ハイキング",
+    "行政",
+    "入門の，序論の",
+    "感動した"
+   ],
+   "example": "We watched an introductory video about the school. — わたしたちは学校紹介のビデオを見た。",
+   "pronunciation": "/ˌɪntɹəˈdəktɝi/",
+   "glosses": null,
+   "humanVerdict": null
+  },
+  {
+   "language": "english",
+   "id": "en-06866",
+   "level": 5,
+   "prompt": "「composer」の意味は？",
+   "answer": "作曲家",
+   "choices": [
+    "作曲家",
+    "裸の",
+    "料理",
+    "鉄道"
+   ],
+   "example": "The composer wrote this song for the movie. — その作曲家は映画のためにこの歌を書いた。",
+   "pronunciation": "/kəmˈpoʊzɝ/",
+   "glosses": null,
+   "humanVerdict": null
+  },
+  {
+   "language": "english",
+   "id": "en-06870",
+   "level": 5,
+   "prompt": "「photographic」の意味は？",
+   "answer": "写真の",
+   "choices": [
+    "平等",
+    "くぼみ",
+    "不在の",
+    "写真の"
+   ],
+   "example": "He has great photographic skills. — 彼はすばらしい写真の技術を持っている。",
+   "pronunciation": "/ˌfoʊtəˈɡɹæfɪk/",
+   "glosses": null,
+   "humanVerdict": null
+  },
+  {
+   "language": "english",
+   "id": "en-04905",
+   "level": 4,
+   "prompt": "「productivity」の意味は？",
+   "answer": "生産性",
+   "choices": [
+    "生産性",
+    "ジェット機",
+    "ベクトル",
+    "調整役"
+   ],
+   "example": "Good rest improves the productivity of workers. — よい休息は働く人の生産性を高める。",
+   "pronunciation": "/ˌpɹoʊdəkˈtɪvəti/",
+   "glosses": null,
+   "humanVerdict": null
+  },
+  {
+   "language": "english",
+   "id": "en-00683",
+   "level": 1,
+   "prompt": "「yesterday」の意味は？",
+   "answer": "昨日",
+   "choices": [
+    "人口",
+    "昨日",
+    "独身の",
+    "復習"
+   ],
+   "example": "It rained all day yesterday. — 昨日は一日中雨が降った。",
+   "pronunciation": "/ˈjɛstɝˌdeɪ/",
+   "glosses": null,
+   "humanVerdict": null
+  },
+  {
+   "language": "english",
+   "id": "en-04469",
+   "level": 4,
+   "prompt": "「resume」の意味は？",
+   "answer": "再開する",
+   "choices": [
+    "磨く",
+    "再開する",
+    "威厳のある",
+    "軽くたたく"
+   ],
+   "example": "We will resume the game after lunch. — 昼食後に試合を再開する。",
+   "pronunciation": "/ˈɹɛzəˌmeɪ/",
+   "glosses": null,
+   "humanVerdict": null
+  },
+  {
+   "language": "english",
+   "id": "en-06806",
+   "level": 5,
+   "prompt": "「accordingly」の意味は？",
+   "answer": "従って",
+   "choices": [
+    "ケイ素",
+    "モーテル",
+    "従って",
+    "拡大"
+   ],
+   "example": "The rules changed, and we acted accordingly. — 規則が変わったので、わたしたちはそれに従って行動した。",
+   "pronunciation": "/əˈkɔɹdɪŋɫi/",
+   "glosses": null,
+   "humanVerdict": null
+  },
+  {
+   "language": "english",
+   "id": "en-00673",
+   "level": 1,
+   "prompt": "「holiday」の意味は？",
+   "answer": "休日",
+   "choices": [
+    "管理者",
+    "接触",
+    "鍵",
+    "休日"
+   ],
+   "example": "We went to the sea during the holiday. — 休日に海へ行った。",
+   "pronunciation": "/ˈhɑɫəˌdeɪ/",
+   "glosses": null,
+   "humanVerdict": null
+  },
+  {
+   "language": "english",
+   "id": "en-08397",
+   "level": 5,
+   "prompt": "「abandoned」の意味は？",
+   "answer": "見捨てられた",
+   "choices": [
+    "見捨てられた",
+    "後退",
+    "二の次の事",
+    "地下室"
+   ],
+   "example": "The abandoned house stood at the end of the street. — 見捨てられた家が通りの突き当たりに立っていた。",
+   "pronunciation": "/əˈbændənd/",
+   "glosses": null,
+   "humanVerdict": null
+  },
+  {
+   "language": "english",
+   "id": "en-21424",
+   "level": 6,
+   "prompt": "「chalk」の意味は？",
+   "answer": "チョーク",
+   "choices": [
+    "ココア",
+    "記念碑",
+    "チョーク",
+    "直観"
+   ],
+   "example": "The teacher wrote the date with white chalk. — 先生は白いチョークで日付を書いた。",
+   "pronunciation": "/ˈtʃɑk/",
+   "glosses": null,
+   "humanVerdict": null
+  },
+  {
+   "language": "english",
+   "id": "en-02773",
+   "level": 3,
+   "prompt": "「weekly」の意味は？",
+   "answer": "毎週の",
+   "choices": [
+    "ナイフ",
+    "神経",
+    "最新の",
+    "毎週の"
+   ],
+   "example": "Our weekly meeting is on Monday morning. — 私たちの毎週の会議は月曜の朝にある。",
+   "pronunciation": "/ˈwikɫi/",
+   "glosses": null,
+   "humanVerdict": null
+  },
+  {
+   "language": "english",
+   "id": "en-21440",
+   "level": 6,
+   "prompt": "「sinister」の意味は？",
+   "answer": "不吉な",
+   "choices": [
+    "男らしい",
+    "不吉な",
+    "ひどく醜い",
+    "罪のあがない"
+   ],
+   "example": "The dark clouds gave the castle a sinister look. — 暗い雲が城に不吉な雰囲気を与えた。",
+   "pronunciation": "/ˈsɪnɪstɝ/",
+   "glosses": null,
+   "humanVerdict": null
+  },
+  {
+   "language": "english",
+   "id": "en-08357",
+   "level": 5,
+   "prompt": "「occasional」の意味は？",
+   "answer": "時折の",
+   "choices": [
+    "目立った",
+    "増幅器",
+    "時折の",
+    "親の"
+   ],
+   "example": "We enjoy an occasional trip to the hot spring. — わたしたちは時折の温泉旅行を楽しんでいる。",
+   "pronunciation": "/əˈkeɪʒənəɫ/",
+   "glosses": null,
+   "humanVerdict": null
+  },
+  {
+   "language": "english",
+   "id": "en-21588",
+   "level": 7,
+   "prompt": "「troll」の意味は？",
+   "answer": "荒らす，流し釣りする",
+   "choices": [
+    "荒らす，流し釣りする",
+    "州警察官",
+    "正面の",
+    "ひどくおしゃべりの"
+   ],
+   "example": "Don't feed the troll! — ネタにマジレスするな。",
+   "pronunciation": "/ˈtɹoʊɫ/",
+   "glosses": null,
+   "humanVerdict": null
+  },
+  {
+   "language": "english",
+   "id": "en-22640",
+   "level": 7,
+   "prompt": "「valiant」の意味は？",
+   "answer": "勇敢な",
+   "choices": [
+    "勇敢な",
+    "恵まれない",
+    "胸が大きい",
+    "不名誉な"
+   ],
+   "example": "The valiant firefighters entered the burning house. — 勇敢な消防士たちは燃える家に入って行った。",
+   "pronunciation": "/ˈvæɫjənt/",
+   "glosses": null,
+   "humanVerdict": null
+  },
+  {
+   "language": "english",
+   "id": "en-21596",
+   "level": 7,
+   "prompt": "「annoy」の意味は？",
+   "answer": "困らせる",
+   "choices": [
+    "勇気のある",
+    "人を鼓舞する",
+    "困らせる",
+    "傾向がある"
+   ],
+   "example": "Loud noises annoy my grandmother very much. — 大きな音は祖母をとても困らせる。",
+   "pronunciation": "/əˈnɔɪ/",
+   "glosses": null,
+   "humanVerdict": null
+  },
+  {
+   "language": "english",
+   "id": "en-09224",
+   "level": 5,
+   "prompt": "「heel」の意味は？",
+   "answer": "かかと",
+   "choices": [
+    "かかと",
+    "ヘリコプター",
+    "生存者",
+    "自治体"
+   ],
+   "example": "My left heel hurts after the long walk. — 長く歩いたあと、左のかかとが痛む。",
+   "pronunciation": "/ˈhiɫ/",
+   "glosses": null,
+   "humanVerdict": null
+  },
+  {
+   "language": "english",
+   "id": "en-21508",
+   "level": 7,
+   "prompt": "「gadget」の意味は？",
+   "answer": "ガジェット",
+   "choices": [
+    "塹壕",
+    "ガジェット",
+    "ちびっ子",
+    "マント"
+   ],
+   "example": "My father bought a new kitchen gadget. — 父は新しい台所用ガジェットを買った。",
+   "pronunciation": "/ˈɡædʒət/",
+   "glosses": null,
+   "humanVerdict": null
+  },
+  {
+   "language": "english",
+   "id": "en-01712",
+   "level": 3,
+   "prompt": "「witness」の意味は？",
+   "answer": "目撃者",
+   "choices": [
+    "信頼",
+    "海岸",
+    "目撃者",
+    "普通の"
+   ],
+   "example": "A witness saw the car accident clearly. — 目撃者はその自動車事故をはっきり見た。",
+   "pronunciation": "/ˈwɪtnəs/",
+   "glosses": null,
+   "humanVerdict": null
+  },
+  {
+   "language": "english",
+   "id": "en-20080",
+   "level": 6,
+   "prompt": "「gunshot」の意味は？",
+   "answer": "銃声",
+   "choices": [
+    "銃声",
+    "仲間",
+    "お母さん",
+    "叫び"
+   ],
+   "example": "We heard a gunshot in the movie scene. — 映画の場面で銃声が聞こえた。",
+   "pronunciation": "/ˈɡənˌʃɑt/",
+   "glosses": null,
+   "humanVerdict": null
+  },
+  {
+   "language": "english",
+   "id": "en-06358",
+   "level": 5,
+   "prompt": "「monkey」の意味は？",
+   "answer": "サル",
+   "choices": [
+    "小売業者",
+    "サル",
+    "草の",
+    "間隔"
+   ],
+   "example": "A monkey climbed the tall tree quickly. — サルはすばやく高い木に登った。",
+   "pronunciation": "/ˈməŋki/",
+   "glosses": null,
+   "humanVerdict": null
+  },
+  {
+   "language": "english",
+   "id": "en-00800",
+   "level": 2,
+   "prompt": "「unit」の意味は？",
+   "answer": "単位",
+   "choices": [
+    "スコア",
+    "一致",
+    "単位",
+    "人口"
+   ],
+   "example": "A meter is a unit of length. — メートルは長さの単位だ。",
+   "pronunciation": "/ˈjunət/",
+   "glosses": null,
+   "humanVerdict": null
+  },
+  {
+   "language": "english",
+   "id": "en-21248",
+   "level": 6,
+   "prompt": "「ghetto」の意味は？",
+   "answer": "スラム街",
+   "choices": [
+    "大当たり",
+    "公然と",
+    "スラム街",
+    "ケチャップ"
+   ],
+   "example": "The doctor opened a free clinic in the ghetto. — その医師はスラム街に無料の診療所を開いた。",
+   "pronunciation": "/ˈɡɛtoʊ/",
+   "glosses": null,
+   "humanVerdict": null
+  },
+  {
+   "language": "english",
+   "id": "en-01019",
+   "level": 2,
+   "prompt": "「invite」の意味は？",
+   "answer": "招待する",
+   "choices": [
+    "招待する",
+    "手配する",
+    "写す",
+    "警告する"
+   ],
+   "example": "We invited our neighbors to the party. — 私たちは隣人をパーティーに招待した。",
+   "pronunciation": "/ˌɪnˈvaɪt/",
+   "glosses": null,
+   "humanVerdict": null
+  },
+  {
+   "language": "english",
+   "id": "en-20126",
+   "level": 6,
+   "prompt": "「confession」の意味は？",
+   "answer": "自白",
+   "choices": [
+    "にこにこした",
+    "ツル",
+    "自白",
+    "〜さん"
+   ],
+   "example": "His honest confession surprised the teacher. — 彼の正直な自白は先生を驚かせた。",
+   "pronunciation": "/kənˈfɛʃən/",
+   "glosses": null,
+   "humanVerdict": null
+  },
+  {
+   "language": "english",
+   "id": "en-20150",
+   "level": 6,
+   "prompt": "「hail」の意味は？",
+   "answer": "あられ",
+   "choices": [
+    "甥",
+    "自白",
+    "罪悪感",
+    "あられ"
+   ],
+   "example": "Hail fell suddenly during the afternoon storm. — 午後の嵐の間に突然あられが降った。",
+   "pronunciation": "/ˈheɪɫ/",
+   "glosses": null,
+   "humanVerdict": null
+  },
+  {
+   "language": "english",
+   "id": "en-01075",
+   "level": 2,
+   "prompt": "「wonderful」の意味は？",
+   "answer": "素晴らしい",
+   "choices": [
+    "ほとんど〜ない",
+    "大きい",
+    "おもな",
+    "素晴らしい"
+   ],
+   "example": "We had a wonderful time at the beach. — 浜辺で素晴らしい時間を過ごした。",
+   "pronunciation": "/ˈwəndɝfəɫ/",
+   "glosses": null,
+   "humanVerdict": null
+  },
+  {
+   "language": "english",
+   "id": "en-20186",
+   "level": 6,
+   "prompt": "「alley」の意味は？",
+   "answer": "小路",
+   "choices": [
+    "罪悪感",
+    "頭痛",
+    "小路",
+    "のどの渇いた"
+   ],
+   "example": "A small cat appeared from the narrow alley. — 狭い小路から小さなネコが現れた。",
+   "pronunciation": "/ˈæɫi/",
+   "glosses": null,
+   "humanVerdict": null
+  },
+  {
+   "language": "english",
+   "id": "en-01061",
+   "level": 2,
+   "prompt": "「percentage」の意味は？",
+   "answer": "割合",
+   "choices": [
+    "消費者",
+    "割合",
+    "性",
+    "雑誌"
+   ],
+   "example": "A large percentage of students like music. — 大きな割合の生徒が音楽を好む。",
+   "pronunciation": "/pɝˈsɛnədʒ/",
+   "glosses": null,
+   "humanVerdict": null
+  },
+  {
+   "language": "chinese",
+   "id": "zh-03955",
+   "level": 5,
+   "prompt": "「献」の意味は？",
+   "answer": "捧げる",
+   "choices": [
+    "判断する",
+    "捧げる",
+    "手当を出す",
+    "信じる"
+   ],
+   "example": "他把一生都献给了教育。 — 彼は一生を教育に捧げた。",
+   "pronunciation": "xiàn",
+   "glosses": {
+    "en": "to offer"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "chinese",
+   "id": "zh-03431",
+   "level": 5,
+   "prompt": "「古老」の意味は？",
+   "answer": "古くからの",
+   "choices": [
+    "親しみ深い",
+    "濃い",
+    "古くからの",
+    "心地よい"
+   ],
+   "example": "这是一座古老的城市。 — これは古くからの都市だ。",
+   "pronunciation": "gǔlǎo",
+   "glosses": {
+    "en": "ancient"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "chinese",
+   "id": "zh-03909",
+   "level": 5,
+   "prompt": "「推行」の意味は？",
+   "answer": "推し進める",
+   "choices": [
+    "推し進める",
+    "収入",
+    "（〜を）含めて",
+    "話す"
+   ],
+   "example": "学校开始推行新的规定。 — 学校は新しい規則を推し進め始めた。",
+   "pronunciation": "tuīxíng",
+   "glosses": {
+    "en": "to carry out"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "chinese",
+   "id": "zh-03931",
+   "level": 5,
+   "prompt": "「污染」の意味は？",
+   "answer": "汚染する",
+   "choices": [
+    "促す",
+    "労働",
+    "汚染する",
+    "大切にする"
+   ],
+   "example": "工厂的烟污染了空气。 — 工場の煙が空気を汚染した。",
+   "pronunciation": "wūrǎn",
+   "glosses": {
+    "en": "to pollute"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "chinese",
+   "id": "zh-01590",
+   "level": 3,
+   "prompt": "「尽量」の意味は？",
+   "answer": "できるだけ",
+   "choices": [
+    "ついに",
+    "できるだけ",
+    "ただ",
+    "時折"
+   ],
+   "example": "你要尽量早点来。 — あなたはできるだけ早く来なさい。",
+   "pronunciation": "jǐnliàng",
+   "glosses": {
+    "en": "as much as possible"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "chinese",
+   "id": "zh-03925",
+   "level": 5,
+   "prompt": "「胃」の意味は？",
+   "answer": "胃",
+   "choices": [
+    "ゼロ",
+    "胃",
+    "茶碗",
+    "チョコレート"
+   ],
+   "example": "他今天胃有点不舒服。 — 彼は今日胃が少し調子が悪い。",
+   "pronunciation": "wèi",
+   "glosses": {
+    "en": "stomach"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "chinese",
+   "id": "zh-01542",
+   "level": 3,
+   "prompt": "「记者」の意味は？",
+   "answer": "記者",
+   "choices": [
+    "基準",
+    "夜",
+    "火事になる",
+    "記者"
+   ],
+   "example": "他是一名记者。 — 彼は記者だ。",
+   "pronunciation": "jìzhě",
+   "glosses": {
+    "en": "reporter; journalist"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "chinese",
+   "id": "zh-01534",
+   "level": 3,
+   "prompt": "「基本」の意味は？",
+   "answer": "基本的な",
+   "choices": [
+    "基本的な",
+    "涼しい",
+    "慌ただしい",
+    "感動する"
+   ],
+   "example": "这是最基本的要求。 — これは最も基本的な要求だ。",
+   "pronunciation": "jīběn",
+   "glosses": {
+    "en": "basic"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "chinese",
+   "id": "zh-00097",
+   "level": 1,
+   "prompt": "「房间」の意味は？",
+   "answer": "部屋",
+   "choices": [
+    "箱",
+    "木の葉",
+    "部屋",
+    "男女"
+   ],
+   "example": "我的房间很干净。 — 私の部屋はとても清潔だ。",
+   "pronunciation": "fángjiān",
+   "glosses": {
+    "en": "room"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "chinese",
+   "id": "zh-00027",
+   "level": 1,
+   "prompt": "「病」の意味は？",
+   "answer": "病気",
+   "choices": [
+    "西部",
+    "病気",
+    "これによって",
+    "女子"
+   ],
+   "example": "他生了一场病。 — 彼は病気にかかった。",
+   "pronunciation": "bìng",
+   "glosses": {
+    "en": "illness"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "chinese",
+   "id": "zh-00057",
+   "level": 1,
+   "prompt": "「打电话」の意味は？",
+   "answer": "電話をかける",
+   "choices": [
+    "電話をかける",
+    "子供の頃",
+    "零下",
+    "幽霊"
+   ],
+   "example": "我给妈妈打电话。 — 私は母に電話をかける。",
+   "pronunciation": "dǎ diànhuà",
+   "glosses": {
+    "en": "to make a phone call"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "chinese",
+   "id": "zh-00047",
+   "level": 1,
+   "prompt": "「出」の意味は？",
+   "answer": "出る",
+   "choices": [
+    "強いられる",
+    "暗示する",
+    "出る",
+    "報道する"
+   ],
+   "example": "太阳出来了。 — 太陽が出た。",
+   "pronunciation": "chū",
+   "glosses": {
+    "en": "to go out"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "chinese",
+   "id": "zh-03724",
+   "level": 5,
+   "prompt": "「枪」の意味は？",
+   "answer": "銃",
+   "choices": [
+    "国外",
+    "銃",
+    "お腹",
+    "青年"
+   ],
+   "example": "警察带着一把枪。 — 警察は銃を一丁携えている。",
+   "pronunciation": "qiāng",
+   "glosses": {
+    "en": "gun"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "chinese",
+   "id": "zh-03740",
+   "level": 5,
+   "prompt": "「情形」の意味は？",
+   "answer": "ありさま",
+   "choices": [
+    "国籍",
+    "手",
+    "ありさま",
+    "感情"
+   ],
+   "example": "请你说说当时的情形。 — 当時のありさまを話してください。",
+   "pronunciation": "qíngxing",
+   "glosses": {
+    "en": "situation"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "chinese",
+   "id": "zh-00989",
+   "level": 2,
+   "prompt": "「提」の意味は？",
+   "answer": "持ち上げる",
+   "choices": [
+    "管理する",
+    "〜すべき",
+    "推し進める",
+    "持ち上げる"
+   ],
+   "example": "他手里提着一个包。 — 彼は手にかばんを持ち上げている。",
+   "pronunciation": "tí",
+   "glosses": {
+    "en": "to lift; to carry; to raise (an issue)"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "chinese",
+   "id": "zh-04080",
+   "level": 5,
+   "prompt": "「灾」の意味は？",
+   "answer": "災い",
+   "choices": [
+    "仲介",
+    "いくつ",
+    "電話",
+    "災い"
+   ],
+   "example": "今年这里没有大的灾。 — 今年ここには大きな災いがない。",
+   "pronunciation": "zāi",
+   "glosses": {
+    "en": "disaster"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "chinese",
+   "id": "zh-00931",
+   "level": 2,
+   "prompt": "「认为」の意味は？",
+   "answer": "〜と思う",
+   "choices": [
+    "〜と思う",
+    "対比する",
+    "破壊する",
+    "独立する"
+   ],
+   "example": "我认为他是对的。 — 私は彼が正しいと思う。",
+   "pronunciation": "rènwéi",
+   "glosses": {
+    "en": "to believe; to think; to consider; to feel"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "chinese",
+   "id": "zh-00909",
+   "level": 2,
+   "prompt": "「请客」の意味は？",
+   "answer": "おごる",
+   "choices": [
+    "おごる",
+    "風邪",
+    "いくつか",
+    "もし〜なら"
+   ],
+   "example": "今天我请客。 — 今日は私がおごる。",
+   "pronunciation": "qǐngkè",
+   "glosses": {
+    "en": "to give a dinner party"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "chinese",
+   "id": "zh-04172",
+   "level": 5,
+   "prompt": "「注视」の意味は？",
+   "answer": "注視する",
+   "choices": [
+    "発揮する",
+    "注視する",
+    "〜すべき",
+    "どうしようもない"
+   ],
+   "example": "他认真地注视着黑板。 — 彼は真剣に黒板を注視している。",
+   "pronunciation": "zhùshì",
+   "glosses": {
+    "en": "to gaze at"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "chinese",
+   "id": "zh-00783",
+   "level": 2,
+   "prompt": "「开心」の意味は？",
+   "answer": "楽しい",
+   "choices": [
+    "普遍的な",
+    "単調な",
+    "楽しい",
+    "熱心な"
+   ],
+   "example": "今天玩得很开心。 — 今日はとても楽しく遊んだ。",
+   "pronunciation": "kāixīn",
+   "glosses": {
+    "en": "to feel happy"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "chinese",
+   "id": "zh-00793",
+   "level": 2,
+   "prompt": "「可是」の意味は？",
+   "answer": "しかし",
+   "choices": [
+    "踊り",
+    "しかし",
+    "ほどなくして",
+    "表面"
+   ],
+   "example": "我想去，可是没有时间。 — 行きたい、しかし時間がない。",
+   "pronunciation": "kěshì",
+   "glosses": {
+    "en": "but; however"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "chinese",
+   "id": "zh-03956",
+   "level": 5,
+   "prompt": "「乡」の意味は？",
+   "answer": "田舎",
+   "choices": [
+    "眼鏡",
+    "田舎",
+    "団体",
+    "閲覧室"
+   ],
+   "example": "他很想回自己的家乡。 — 彼は自分の田舎にとても帰りたい。",
+   "pronunciation": "xiāng",
+   "glosses": {
+    "en": "countryside"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "chinese",
+   "id": "zh-03430",
+   "level": 5,
+   "prompt": "「估计」の意味は？",
+   "answer": "見積もる",
+   "choices": [
+    "上昇する",
+    "近づく",
+    "吐く",
+    "見積もる"
+   ],
+   "example": "我估计明天会下雨。 — 私は明日雨が降ると見積もる。",
+   "pronunciation": "gūjì",
+   "glosses": {
+    "en": "to estimate"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "chinese",
+   "id": "zh-03908",
+   "level": 5,
+   "prompt": "「团长」の意味は？",
+   "answer": "団長",
+   "choices": [
+    "団長",
+    "アルファベット",
+    "場合",
+    "美女"
+   ],
+   "example": "他是我们团的团长。 — 彼は私たちの団の団長だ。",
+   "pronunciation": "tuánzhǎng",
+   "glosses": {
+    "en": "head of a group"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "chinese",
+   "id": "zh-03936",
+   "level": 5,
+   "prompt": "「舞」の意味は？",
+   "answer": "踊り",
+   "choices": [
+    "熱心な",
+    "資本",
+    "見た目には",
+    "踊り"
+   ],
+   "example": "她跳的舞非常好看。 — 彼女の踊りはとても美しい。",
+   "pronunciation": "wǔ",
+   "glosses": {
+    "en": "to dance"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "chinese",
+   "id": "zh-01591",
+   "level": 3,
+   "prompt": "「紧」の意味は？",
+   "answer": "きつい",
+   "choices": [
+    "消極的な",
+    "きつい",
+    "見事な",
+    "少なくとも"
+   ],
+   "example": "这件衣服有点紧。 — この服は少しきつい。",
+   "pronunciation": "jǐn",
+   "glosses": {
+    "en": "tight"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "chinese",
+   "id": "zh-03924",
+   "level": 5,
+   "prompt": "「卫星」の意味は？",
+   "answer": "衛星",
+   "choices": [
+    "衛星",
+    "心理",
+    "おととい",
+    "歯"
+   ],
+   "example": "天上有很多人造卫星。 — 空にはたくさんの人工衛星がある。",
+   "pronunciation": "wèixīng",
+   "glosses": {
+    "en": "satellite"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "chinese",
+   "id": "zh-02210",
+   "level": 4,
+   "prompt": "「毕业」の意味は？",
+   "answer": "卒業する",
+   "choices": [
+    "貧しい人",
+    "花が咲く",
+    "卒業する",
+    "外交"
+   ],
+   "example": "他明年就要毕业了。 — 彼は来年卒業する。",
+   "pronunciation": "bìyè",
+   "glosses": {
+    "en": "graduation"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "chinese",
+   "id": "zh-01545",
+   "level": 3,
+   "prompt": "「技术」の意味は？",
+   "answer": "技術",
+   "choices": [
+    "技術",
+    "表情",
+    "準優勝",
+    "思いがけない"
+   ],
+   "example": "他的技术很好。 — 彼の技術はとても良い。",
+   "pronunciation": "jìshù",
+   "glosses": {
+    "en": "technology; technique; skill"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "chinese",
+   "id": "zh-01535",
+   "level": 3,
+   "prompt": "「基本上」の意味は？",
+   "answer": "基本的に",
+   "choices": [
+    "免れない",
+    "もっと",
+    "ほとんど",
+    "基本的に"
+   ],
+   "example": "工作基本上做完了。 — 仕事は基本的に終わった。",
+   "pronunciation": "jīběnshàng",
+   "glosses": {
+    "en": "basically"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "japanese",
+   "id": "jp-04005",
+   "level": 4,
+   "prompt": "「助教授」の意味は？",
+   "answer": "assistant professor",
+   "choices": [
+    "iron manufacture",
+    "assistant professor",
+    "Buddhist temple",
+    "to omit"
+   ],
+   "example": "私は教授です、いやもっと正確に言えば、助教授です。 — I'm a professor, or rather an associate professor, to be exact.",
+   "pronunciation": "じょきょうじゅ (jokyouju)",
+   "glosses": {
+    "en": "assistant professor"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "japanese",
+   "id": "jp-06452",
+   "level": 5,
+   "prompt": "「大部」の意味は？",
+   "answer": "lengthy",
+   "choices": [
+    "lengthy",
+    "looking away",
+    "mouse",
+    "to grow senile"
+   ],
+   "example": "彼らは大部分若い娘たちだった。 — They were for the most part young girls.",
+   "pronunciation": "たいぶ (taibu)",
+   "glosses": {
+    "en": "lengthy"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "japanese",
+   "id": "jp-01109",
+   "level": 2,
+   "prompt": "「見つける」の意味は？",
+   "answer": "to find",
+   "choices": [
+    "to find",
+    "paste",
+    "uproar",
+    "taste"
+   ],
+   "example": "彼の家を見つけるのに苦労した。 — I had a hard time finding his house.",
+   "pronunciation": "みつける (mitsukeru)",
+   "glosses": {
+    "en": "to find"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "japanese",
+   "id": "jp-01171",
+   "level": 2,
+   "prompt": "「世話」の意味は？",
+   "answer": "care",
+   "choices": [
+    "customs",
+    "minuscule amount",
+    "care",
+    "noisy"
+   ],
+   "example": "あんたは世話の焼けるひとだね。 — You're a troublesome person!",
+   "pronunciation": "せわする (sewasuru)",
+   "glosses": {
+    "en": "care"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "japanese",
+   "id": "jp-01165",
+   "level": 2,
+   "prompt": "「直る」の意味は？",
+   "answer": "to get mended",
+   "choices": [
+    "to get mended",
+    "simple",
+    "a certain ...",
+    "auditorium"
+   ],
+   "example": "離婚から立ち直るには時間がかかる。 — It takes time to get over a divorce.",
+   "pronunciation": "なおる (naoru)",
+   "glosses": {
+    "en": "to get mended"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "japanese",
+   "id": "jp-04126",
+   "level": 4,
+   "prompt": "「先祖」の意味は？",
+   "answer": "ancestor",
+   "choices": [
+    "to call",
+    "engine",
+    "ancestor",
+    "to hide"
+   ],
+   "example": "この先祖伝来の家宝は君の物だ。 — This heirloom shall be yours.",
+   "pronunciation": "せんぞ (senzo)",
+   "glosses": {
+    "en": "ancestor"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "japanese",
+   "id": "jp-04130",
+   "level": 4,
+   "prompt": "「全般」の意味は？",
+   "answer": "(the) whole",
+   "choices": [
+    "shoes",
+    "bone fracture",
+    "ground",
+    "(the) whole"
+   ],
+   "example": "そのことは人間全般に言える。 — That can be said of mankind at large.",
+   "pronunciation": "ぜんぱん (zenpan)",
+   "glosses": {
+    "en": "(the) whole"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "japanese",
+   "id": "jp-04146",
+   "level": 4,
+   "prompt": "「そうっと」の意味は？",
+   "answer": "softly",
+   "choices": [
+    "to pass (e.g. car)",
+    "softly",
+    "fusuma",
+    "house"
+   ],
+   "example": "僕はそうっと自分の寝室に行った。 — I went up to my bedroom on tiptoe.",
+   "pronunciation": "そうっと (soutto)",
+   "glosses": {
+    "en": "softly"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "japanese",
+   "id": "jp-04154",
+   "level": 4,
+   "prompt": "「測定」の意味は？",
+   "answer": "measurement",
+   "choices": [
+    "bowl",
+    "to delay",
+    "measurement",
+    "postage stamp"
+   ],
+   "example": "速度を測定する方法はいくつかある。 — There are several ways to measure speed.",
+   "pronunciation": "そくてい (sokutei)",
+   "glosses": {
+    "en": "measurement"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "japanese",
+   "id": "jp-05629",
+   "level": 5,
+   "prompt": "「貝殻」の意味は？",
+   "answer": "seashell",
+   "choices": [
+    "exclusive use",
+    "order",
+    "side",
+    "seashell"
+   ],
+   "example": "私は岸辺で美しい貝殻を見つけた。 — I found a beautiful shell on the shore.",
+   "pronunciation": "かいがら (kaigara)",
+   "glosses": {
+    "en": "seashell"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "japanese",
+   "id": "jp-06215",
+   "level": 5,
+   "prompt": "「庶務」の意味は？",
+   "answer": "general affairs",
+   "choices": [
+    "ingredient",
+    "retirement age",
+    "general affairs",
+    "a short while ago"
+   ],
+   "example": "彼女は庶務課に所属している。 — She is attached to the general affairs section.",
+   "pronunciation": "しょむ (shomu)",
+   "glosses": {
+    "en": "general affairs"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "japanese",
+   "id": "jp-02474",
+   "level": 3,
+   "prompt": "「縁」の意味は？",
+   "answer": "rim",
+   "choices": [
+    "to spill",
+    "rim",
+    "import",
+    "business card"
+   ],
+   "example": "彼らは水瓶を縁まで一杯にした。 — So they filled them to the brim.",
+   "pronunciation": "えん (en)",
+   "glosses": {
+    "en": "rim"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "japanese",
+   "id": "jp-02410",
+   "level": 3,
+   "prompt": "「利口」の意味は？",
+   "answer": "clever",
+   "choices": [
+    "character",
+    "clever",
+    "wonderful",
+    "large"
+   ],
+   "example": "彼女はあなたほど利口ではない。 — She is less intelligent than you.",
+   "pronunciation": "りこう (rikou)",
+   "glosses": {
+    "en": "clever"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "japanese",
+   "id": "jp-04004",
+   "level": 4,
+   "prompt": "「初級」の意味は？",
+   "answer": "elementary level",
+   "choices": [
+    "poem",
+    "fast",
+    "battle",
+    "elementary level"
+   ],
+   "example": "これは初級の教科書です。 — This is a beginner's textbook.",
+   "pronunciation": "しょきゅう (shokyuu)",
+   "glosses": {
+    "en": "elementary level"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "japanese",
+   "id": "jp-06453",
+   "level": 5,
+   "prompt": "「大便」の意味は？",
+   "answer": "feces",
+   "choices": [
+    "magnificent",
+    "dizziness",
+    "feces",
+    "medicine"
+   ],
+   "example": "病院で大便の検査をした。 — I had a stool examination at the hospital.",
+   "pronunciation": "だいべん (daiben)",
+   "glosses": {
+    "en": "feces"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "japanese",
+   "id": "jp-01108",
+   "level": 2,
+   "prompt": "「田舎」の意味は？",
+   "answer": "rural area",
+   "choices": [
+    "rural area",
+    "quite",
+    "slope",
+    "patient's chart"
+   ],
+   "example": "彼らは戦争中田舎に住んでいた。 — They lived in the countryside during the war.",
+   "pronunciation": "いなか (inaka)",
+   "glosses": {
+    "en": "rural area"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "japanese",
+   "id": "jp-01172",
+   "level": 2,
+   "prompt": "「近所」の意味は？",
+   "answer": "neighbourhood",
+   "choices": [
+    "compensation",
+    "stone monument bearing an inscription",
+    "afternoon",
+    "neighbourhood"
+   ],
+   "example": "彼らは近所の人たちと仲がよい。 — They are on good terms with their neighbors.",
+   "pronunciation": "きんじょ (kinjo)",
+   "glosses": {
+    "en": "neighbourhood"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "japanese",
+   "id": "jp-01164",
+   "level": 2,
+   "prompt": "「安心」の意味は？",
+   "answer": "peace of mind",
+   "choices": [
+    "moreover",
+    "peace of mind",
+    "cool",
+    "calligraphy (esp. Asian calligraphy based on Chinese characters)"
+   ],
+   "example": "ここはすごく安心感を覚えるわ。 — We feel very safe here.",
+   "pronunciation": "あんしん (anshin)",
+   "glosses": {
+    "en": "peace of mind"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "japanese",
+   "id": "jp-04127",
+   "level": 4,
+   "prompt": "「先端」の意味は？",
+   "answer": "pointed end",
+   "choices": [
+    "calendar",
+    "pointed end",
+    "fluorescent lamp",
+    "smoky"
+   ],
+   "example": "彼女は先端を行っています。 — She is on the cutting edge.",
+   "pronunciation": "せんたん (sentan)",
+   "glosses": {
+    "en": "pointed end"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "japanese",
+   "id": "jp-06580",
+   "level": 5,
+   "prompt": "「調理」の意味は？",
+   "answer": "cooking",
+   "choices": [
+    "lawsuit",
+    "jacket",
+    "cooking",
+    "to get angry"
+   ],
+   "example": "この調理法は中国独特のものだ。 — This style of cooking is peculiar to China.",
+   "pronunciation": "ちょうり (chouri)",
+   "glosses": {
+    "en": "cooking"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "japanese",
+   "id": "jp-04137",
+   "level": 4,
+   "prompt": "「雑巾」の意味は？",
+   "answer": "house-cloth",
+   "choices": [
+    "house-cloth",
+    "as expected",
+    "moving from place to place",
+    "nice to meet you"
+   ],
+   "example": "雑巾とタオルを一緒くたにしてはいけない。 — You shouldn't keep towels and cleaning rags together.",
+   "pronunciation": "ぞうきん (zoukin)",
+   "glosses": {
+    "en": "house-cloth"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "japanese",
+   "id": "jp-04147",
+   "level": 4,
+   "prompt": "「送別」の意味は？",
+   "answer": "farewell",
+   "choices": [
+    "fire",
+    "farewell",
+    "employee",
+    "the former"
+   ],
+   "example": "送別会は来週行われるでしょう。 — The farewell party will take place next week.",
+   "pronunciation": "そうべつ (soubetsu)",
+   "glosses": {
+    "en": "farewell"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "japanese",
+   "id": "jp-04157",
+   "level": 4,
+   "prompt": "「素質」の意味は？",
+   "answer": "makings (of)",
+   "choices": [
+    "another time",
+    "makings (of)",
+    "hammer",
+    "to part"
+   ],
+   "example": "彼は将来指導者になる素質がある。 — He is a potential leader.",
+   "pronunciation": "そしつ (soshitsu)",
+   "glosses": {
+    "en": "makings (of)"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "japanese",
+   "id": "jp-03558",
+   "level": 4,
+   "prompt": "「かけざん」の意味は？",
+   "answer": "multiplication",
+   "choices": [
+    "criticism",
+    "multiplication",
+    "entrusting",
+    "battle"
+   ],
+   "example": null,
+   "pronunciation": "かけざん (kakezan)",
+   "glosses": {
+    "en": "multiplication"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "japanese",
+   "id": "jp-04759",
+   "level": 4,
+   "prompt": "「目指す」の意味は？",
+   "answer": "to aim at (for, to do, to become)",
+   "choices": [
+    "curve",
+    "information",
+    "to swell",
+    "to aim at (for, to do, to become)"
+   ],
+   "example": "経済の安定はすべての政府の目指すところだ。 — A stable economy is the aim of every government.",
+   "pronunciation": "めざす (mezasu)",
+   "glosses": {
+    "en": "to aim at (for, to do, to become)"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "japanese",
+   "id": "jp-06216",
+   "level": 5,
+   "prompt": "「所有」の意味は？",
+   "answer": "possession",
+   "choices": [
+    "there",
+    "possession",
+    "by force",
+    "acceptable"
+   ],
+   "example": "彼は莫大な財産を所有している。 — He is possessed of a great fortune.",
+   "pronunciation": "しょゆう (shoyuu)",
+   "glosses": {
+    "en": "possession"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "japanese",
+   "id": "jp-02475",
+   "level": 3,
+   "prompt": "「尾」の意味は？",
+   "answer": "tail",
+   "choices": [
+    "tail",
+    "to be tied together",
+    "traditional cap worn by Shinto clergy and courtiers",
+    "itemization"
+   ],
+   "example": "誰か尾の男を捕まえてください。 — Someone! Catch that man!",
+   "pronunciation": "お (o)",
+   "glosses": {
+    "en": "tail"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "japanese",
+   "id": "jp-02429",
+   "level": 3,
+   "prompt": "「連続」の意味は？",
+   "answer": "continuation",
+   "choices": [
+    "oxygen",
+    "end of term",
+    "continuation",
+    "substitute"
+   ],
+   "example": "人生は全て活動の連続である。 — All life is a series of activities.",
+   "pronunciation": "れんぞく (renzoku)",
+   "glosses": {
+    "en": "continuation"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "japanese",
+   "id": "jp-02411",
+   "level": 3,
+   "prompt": "「離婚」の意味は？",
+   "answer": "divorce",
+   "choices": [
+    "devil",
+    "divorce",
+    "silence",
+    "international"
+   ],
+   "example": "時々、彼と離婚しようと思うの。 — Now and then I think of divorcing him.",
+   "pronunciation": "りこん (rikon)",
+   "glosses": {
+    "en": "divorce"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "japanese",
+   "id": "jp-02405",
+   "level": 3,
+   "prompt": "「楽」の意味は？",
+   "answer": "comfort",
+   "choices": [
+    "to follow",
+    "if",
+    "comfort",
+    "nodding off"
+   ],
+   "example": "旅ほど楽しいものはありません。 — Nothing is more delightful to me than travelling.",
+   "pronunciation": "らく (raku)",
+   "glosses": {
+    "en": "comfort"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "korean",
+   "id": "ko-01524",
+   "level": 1,
+   "prompt": "「햇살」の意味は？",
+   "answer": "日差し",
+   "choices": [
+    "日差し",
+    "よりによって",
+    "もしかして",
+    "両親"
+   ],
+   "example": null,
+   "pronunciation": "haetsal",
+   "glosses": null,
+   "humanVerdict": null
+  },
+  {
+   "language": "korean",
+   "id": "ko-00269",
+   "level": 1,
+   "prompt": "「지도」の意味は？",
+   "answer": "地図",
+   "choices": [
+    "だが",
+    "地図",
+    "島",
+    "予防"
+   ],
+   "example": "나는 지도를 보고 길을 찾는다. — 私は地図を見て道を探す。",
+   "pronunciation": "jido",
+   "glosses": null,
+   "humanVerdict": null
+  },
+  {
+   "language": "korean",
+   "id": "ko-00268",
+   "level": 1,
+   "prompt": "「표」の意味は？",
+   "answer": "切符",
+   "choices": [
+    "広告主",
+    "芸術",
+    "切符",
+    "自然"
+   ],
+   "example": "나는 기차 표를 산다. — 私は汽車の切符を買う。",
+   "pronunciation": "pyo",
+   "glosses": null,
+   "humanVerdict": null
+  },
+  {
+   "language": "korean",
+   "id": "ko-01529",
+   "level": 1,
+   "prompt": "「뒷산」の意味は？",
+   "answer": "裏山",
+   "choices": [
+    "郵便局",
+    "机",
+    "賢明だ",
+    "裏山"
+   ],
+   "example": null,
+   "pronunciation": "dwitsan",
+   "glosses": null,
+   "humanVerdict": null
+  },
+  {
+   "language": "korean",
+   "id": "ko-00270",
+   "level": 1,
+   "prompt": "「교통」の意味は？",
+   "answer": "交通",
+   "choices": [
+    "環境",
+    "運賃",
+    "交通",
+    "家事"
+   ],
+   "example": "이 도시는 교통이 아주 편리하다. — この都市は交通がとても便利だ。",
+   "pronunciation": "gyotong",
+   "glosses": null,
+   "humanVerdict": null
+  },
+  {
+   "language": "korean",
+   "id": "ko-01350",
+   "level": 1,
+   "prompt": "「가구」の意味は？",
+   "answer": "家具",
+   "choices": [
+    "電気",
+    "お腹",
+    "医学",
+    "家具"
+   ],
+   "example": null,
+   "pronunciation": "gagu",
+   "glosses": null,
+   "humanVerdict": null
+  },
+  {
+   "language": "korean",
+   "id": "ko-01528",
+   "level": 1,
+   "prompt": "「끼니」の意味は？",
+   "answer": "食事（回数）",
+   "choices": [
+    "食事（回数）",
+    "自然だ",
+    "学校の休み",
+    "計画"
+   ],
+   "example": null,
+   "pronunciation": "kkini",
+   "glosses": null,
+   "humanVerdict": null
+  },
+  {
+   "language": "korean",
+   "id": "ko-00271",
+   "level": 1,
+   "prompt": "「사고」の意味は？",
+   "answer": "事故",
+   "choices": [
+    "市役所",
+    "ショートメール",
+    "ボーナス",
+    "事故"
+   ],
+   "example": "길에서 작은 사고가 났다. — 道で小さな事故が起きた。",
+   "pronunciation": "sago",
+   "glosses": null,
+   "humanVerdict": null
+  },
+  {
+   "language": "korean",
+   "id": "ko-00209",
+   "level": 1,
+   "prompt": "「경제」の意味は？",
+   "answer": "経済",
+   "choices": [
+    "答え",
+    "経済",
+    "弁護士",
+    "不況"
+   ],
+   "example": "요즘 경제가 아주 어렵다. — 最近経済がとても厳しい。",
+   "pronunciation": "gyeongje",
+   "glosses": null,
+   "humanVerdict": null
+  },
+  {
+   "language": "korean",
+   "id": "ko-01351",
+   "level": 1,
+   "prompt": "「가전제품」の意味は？",
+   "answer": "家電製品",
+   "choices": [
+    "体",
+    "家電製品",
+    "故郷",
+    "日陰"
+   ],
+   "example": null,
+   "pronunciation": "gajeonjepum",
+   "glosses": null,
+   "humanVerdict": null
+  },
+  {
+   "language": "korean",
+   "id": "ko-00272",
+   "level": 1,
+   "prompt": "「경찰」の意味は？",
+   "answer": "警察",
+   "choices": [
+    "毎日",
+    "女",
+    "炒め物",
+    "警察"
+   ],
+   "example": "경찰이 길에서 사람들을 돕는다. — 警察が道で人々を助ける。",
+   "pronunciation": "gyeongchal",
+   "glosses": null,
+   "humanVerdict": null
+  },
+  {
+   "language": "korean",
+   "id": "ko-00208",
+   "level": 1,
+   "prompt": "「역사」の意味は？",
+   "answer": "歴史",
+   "choices": [
+    "風",
+    "歴史",
+    "変だ",
+    "故郷"
+   ],
+   "example": "나는 역사를 아주 좋아한다. — 私は歴史がとても好きだ。",
+   "pronunciation": "yeoksa",
+   "glosses": null,
+   "humanVerdict": null
+  },
+  {
+   "language": "korean",
+   "id": "ko-01352",
+   "level": 1,
+   "prompt": "「청소기」の意味は？",
+   "answer": "掃除機",
+   "choices": [
+    "科目",
+    "教材",
+    "掃除機",
+    "傷跡"
+   ],
+   "example": null,
+   "pronunciation": "cheongsogi",
+   "glosses": null,
+   "humanVerdict": null
+  },
+  {
+   "language": "korean",
+   "id": "ko-01332",
+   "level": 1,
+   "prompt": "「비누」の意味は？",
+   "answer": "石けん",
+   "choices": [
+    "記録",
+    "石けん",
+    "家電製品",
+    "予防"
+   ],
+   "example": null,
+   "pronunciation": "binu",
+   "glosses": null,
+   "humanVerdict": null
+  },
+  {
+   "language": "korean",
+   "id": "ko-00273",
+   "level": 1,
+   "prompt": "「우체국」の意味は？",
+   "answer": "郵便局",
+   "choices": [
+    "郵便局",
+    "足首",
+    "ハードウェア",
+    "費用"
+   ],
+   "example": "나는 우체국에서 편지를 보낸다. — 私は郵便局で手紙を送る。",
+   "pronunciation": "ucheguk",
+   "glosses": null,
+   "humanVerdict": null
+  },
+  {
+   "language": "korean",
+   "id": "ko-00263",
+   "level": 1,
+   "prompt": "「운전」の意味は？",
+   "answer": "運転",
+   "choices": [
+    "背中",
+    "権利",
+    "運転",
+    "全く（〜ない）"
+   ],
+   "example": "그는 운전을 아주 잘한다. — 彼は運転がとても上手だ。",
+   "pronunciation": "unjeon",
+   "glosses": null,
+   "humanVerdict": null
+  },
+  {
+   "language": "korean",
+   "id": "ko-01353",
+   "level": 1,
+   "prompt": "「다리미」の意味は？",
+   "answer": "アイロン",
+   "choices": [
+    "アイロン",
+    "いいえ",
+    "教室",
+    "アイスクリーム"
+   ],
+   "example": null,
+   "pronunciation": "darimi",
+   "glosses": null,
+   "humanVerdict": null
+  },
+  {
+   "language": "korean",
+   "id": "ko-01343",
+   "level": 1,
+   "prompt": "「도마」の意味は？",
+   "answer": "まな板",
+   "choices": [
+    "銀行",
+    "唇",
+    "まな板",
+    "失望"
+   ],
+   "example": null,
+   "pronunciation": "doma",
+   "glosses": null,
+   "humanVerdict": null
+  },
+  {
+   "language": "korean",
+   "id": "ko-01333",
+   "level": 1,
+   "prompt": "「칫솔」の意味は？",
+   "answer": "歯ブラシ",
+   "choices": [
+    "お菓子",
+    "涙",
+    "薬局",
+    "歯ブラシ"
+   ],
+   "example": null,
+   "pronunciation": "chitsol",
+   "glosses": null,
+   "humanVerdict": null
+  },
+  {
+   "language": "korean",
+   "id": "ko-00274",
+   "level": 1,
+   "prompt": "「대사관」の意味は？",
+   "answer": "大使館",
+   "choices": [
+    "ガス",
+    "材料",
+    "ワクチン",
+    "大使館"
+   ],
+   "example": "나는 대사관에서 서류를 받는다. — 私は大使館で書類を受け取る。",
+   "pronunciation": "daesagwan",
+   "glosses": null,
+   "humanVerdict": null
+  },
+  {
+   "language": "korean",
+   "id": "ko-00262",
+   "level": 1,
+   "prompt": "「건강」の意味は？",
+   "answer": "健康",
+   "choices": [
+    "健康",
+    "冬",
+    "延着",
+    "地震"
+   ],
+   "example": "가족의 건강이 제일 중요하다. — 家族の健康が一番大事だ。",
+   "pronunciation": "geongang",
+   "glosses": null,
+   "humanVerdict": null
+  },
+  {
+   "language": "korean",
+   "id": "ko-00258",
+   "level": 1,
+   "prompt": "「사랑」の意味は？",
+   "answer": "愛",
+   "choices": [
+    "愛",
+    "〜台",
+    "牛乳",
+    "夏"
+   ],
+   "example": "가족의 사랑은 아주 크다. — 家族の愛はとても大きい。",
+   "pronunciation": "sarang",
+   "glosses": null,
+   "humanVerdict": null
+  },
+  {
+   "language": "korean",
+   "id": "ko-01354",
+   "level": 1,
+   "prompt": "「선풍기」の意味は？",
+   "answer": "扇風機",
+   "choices": [
+    "扇風機",
+    "日差し",
+    "知識",
+    "電気"
+   ],
+   "example": null,
+   "pronunciation": "seonpunggi",
+   "glosses": null,
+   "humanVerdict": null
+  },
+  {
+   "language": "korean",
+   "id": "ko-00371",
+   "level": 1,
+   "prompt": "「부르다」の意味は？",
+   "answer": "呼ぶ",
+   "choices": [
+    "尋ねる",
+    "呼ぶ",
+    "生産する",
+    "対処する"
+   ],
+   "example": "선생님이 학생의 이름을 부른다. — 先生が学生の名前を呼ぶ。",
+   "pronunciation": "bureuda",
+   "glosses": null,
+   "humanVerdict": null
+  },
+  {
+   "language": "korean",
+   "id": "ko-01342",
+   "level": 1,
+   "prompt": "「칼」の意味は？",
+   "answer": "包丁",
+   "choices": [
+    "行政",
+    "梅雨",
+    "需要",
+    "包丁"
+   ],
+   "example": null,
+   "pronunciation": "kal",
+   "glosses": null,
+   "humanVerdict": null
+  },
+  {
+   "language": "korean",
+   "id": "ko-01330",
+   "level": 1,
+   "prompt": "「걸레」の意味は？",
+   "answer": "雑巾",
+   "choices": [
+    "預金",
+    "したがって",
+    "雑巾",
+    "おおむね"
+   ],
+   "example": null,
+   "pronunciation": "geolle",
+   "glosses": null,
+   "humanVerdict": null
+  },
+  {
+   "language": "korean",
+   "id": "ko-00275",
+   "level": 1,
+   "prompt": "「극장」の意味は？",
+   "answer": "劇場",
+   "choices": [
+    "劇場",
+    "歯ブラシ",
+    "準備",
+    "明確だ"
+   ],
+   "example": "우리는 극장에서 영화를 본다. — 私たちは劇場で映画を見る。",
+   "pronunciation": "geukjang",
+   "glosses": null,
+   "humanVerdict": null
+  },
+  {
+   "language": "korean",
+   "id": "ko-00261",
+   "level": 1,
+   "prompt": "「약」の意味は？",
+   "answer": "薬",
+   "choices": [
+    "薬",
+    "腰",
+    "スープ",
+    "仕事"
+   ],
+   "example": "나는 하루에 세 번 약을 먹는다. — 私は一日に三回薬を飲む。",
+   "pronunciation": "yak",
+   "glosses": null,
+   "humanVerdict": null
+  },
+  {
+   "language": "korean",
+   "id": "ko-00259",
+   "level": 1,
+   "prompt": "「연애」の意味は？",
+   "answer": "恋愛",
+   "choices": [
+    "清潔だ",
+    "恋愛",
+    "唇",
+    "夜明け"
+   ],
+   "example": "그는 요즘 연애를 한다. — 彼は最近恋愛をしている。",
+   "pronunciation": "yeonae",
+   "glosses": null,
+   "humanVerdict": null
+  },
+  {
+   "language": "korean",
+   "id": "ko-00205",
+   "level": 1,
+   "prompt": "「세계」の意味は？",
+   "answer": "世界",
+   "choices": [
+    "世界",
+    "面接",
+    "担当",
+    "損失"
+   ],
+   "example": "이 소식은 온 세계에 알려졌다. — この知らせは世界中に知られた。",
+   "pronunciation": "segye",
+   "glosses": null,
+   "humanVerdict": null
+  },
+  {
+   "language": "spanish",
+   "id": "es-00602",
+   "level": 2,
+   "prompt": "「sur」の意味は？",
+   "answer": "south",
+   "choices": [
+    "madness",
+    "work",
+    "south",
+    "return"
+   ],
+   "example": "¿Dónde está la terminal sur? — 南ターミナルはどこですか。",
+   "pronunciation": "sUr",
+   "glosses": {
+    "en": "south",
+    "ja": "南"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "spanish",
+   "id": "es-01831",
+   "level": 5,
+   "prompt": "「arruinar」の意味は？",
+   "answer": "to ruin",
+   "choices": [
+    "to ruin",
+    "to flee",
+    "to think",
+    "to owe"
+   ],
+   "example": "Beber en exceso te va a arruinar la salud. — 飲みすぎると健康を害するよ。",
+   "pronunciation": "arwinAr",
+   "glosses": {
+    "en": "to ruin",
+    "ja": "台無しにする"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "spanish",
+   "id": "es-00719",
+   "level": 2,
+   "prompt": "「copa」の意味は？",
+   "answer": "(wine) glass; drink",
+   "choices": [
+    "birthday",
+    "media",
+    "imagination",
+    "(wine) glass; drink"
+   ],
+   "example": "Sírvase otra copa. — もう１杯召し上がれ。",
+   "pronunciation": "kOpa",
+   "glosses": {
+    "en": "(wine) glass; drink",
+    "ja": "グラス、杯"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "spanish",
+   "id": "es-01353",
+   "level": 4,
+   "prompt": "「gritar」の意味は？",
+   "answer": "to shout",
+   "choices": [
+    "to cry",
+    "to act",
+    "to shout",
+    "to discover"
+   ],
+   "example": "Él empezó a gritar. — 彼は叫び始めた。",
+   "pronunciation": "gritAr",
+   "glosses": {
+    "en": "to shout",
+    "ja": "叫ぶ"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "spanish",
+   "id": "es-00799",
+   "level": 2,
+   "prompt": "「colega」の意味は？",
+   "answer": "colleague",
+   "choices": [
+    "colleague",
+    "prize",
+    "north",
+    "treaty"
+   ],
+   "example": "Él es mi colega. — 彼は私の仕事仲間である。",
+   "pronunciation": "kolEga",
+   "glosses": {
+    "en": "colleague",
+    "ja": "同僚"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "spanish",
+   "id": "es-00137",
+   "level": 1,
+   "prompt": "「suficiente」の意味は？",
+   "answer": "sufficient",
+   "choices": [
+    "hill",
+    "sufficient",
+    "testimony",
+    "interview"
+   ],
+   "example": "Tenemos suficiente comida. — 私たちに十分な食べ物がある。",
+   "pronunciation": "sufithYente",
+   "glosses": {
+    "en": "sufficient",
+    "ja": "十分な"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "spanish",
+   "id": "es-00147",
+   "level": 1,
+   "prompt": "「clase」の意味は？",
+   "answer": "class, lesson, kind",
+   "choices": [
+    "lesson",
+    "achieved",
+    "class, lesson, kind",
+    "to control"
+   ],
+   "example": "Tengo clase mañana. — 明日授業があります。",
+   "pronunciation": "klAse",
+   "glosses": {
+    "en": "class, lesson, kind",
+    "ja": "授業"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "spanish",
+   "id": "es-00157",
+   "level": 1,
+   "prompt": "「loco」の意味は？",
+   "answer": "crazy, mad",
+   "choices": [
+    "crazy, mad",
+    "rescue",
+    "forehead",
+    "alliance"
+   ],
+   "example": "¿Cajas redondas? ¿Estás loco? — 円い箱か？あんた正気か？",
+   "pronunciation": "lOko",
+   "glosses": {
+    "en": "crazy, mad",
+    "ja": "狂った，ばかげた"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "spanish",
+   "id": "es-00601",
+   "level": 2,
+   "prompt": "「diablo」の意味は？",
+   "answer": "devil",
+   "choices": [
+    "palace",
+    "television",
+    "devil",
+    "heart"
+   ],
+   "example": "Hasta el diablo llora. — 鬼の目にも涙。",
+   "pronunciation": "dYablo",
+   "glosses": {
+    "en": "devil",
+    "ja": "悪魔"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "spanish",
+   "id": "es-01830",
+   "level": 5,
+   "prompt": "「prohibido」の意味は？",
+   "answer": "forbidden",
+   "choices": [
+    "reward",
+    "bad",
+    "forbidden",
+    "to investigate"
+   ],
+   "example": "Prohibido pisar la hierba. — 芝生の上を歩くな。",
+   "pronunciation": "proibIdo",
+   "glosses": {
+    "en": "forbidden",
+    "ja": "禁止された"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "spanish",
+   "id": "es-01806",
+   "level": 5,
+   "prompt": "「lujo」の意味は？",
+   "answer": "luxury",
+   "choices": [
+    "luxury",
+    "to buy",
+    "honor",
+    "shrub"
+   ],
+   "example": "La televisión era un lujo antiguamente. — テレビは、昔ぜいたく品だった。",
+   "pronunciation": "lUho",
+   "glosses": {
+    "en": "luxury",
+    "ja": "贅沢，豪華"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "spanish",
+   "id": "es-00718",
+   "level": 2,
+   "prompt": "「beso」の意味は？",
+   "answer": "kiss",
+   "choices": [
+    "book",
+    "to imagine",
+    "kiss",
+    "hero"
+   ],
+   "example": "Ella le devolvió el beso. — 彼女は彼にキスを返した。",
+   "pronunciation": "bEso",
+   "glosses": {
+    "en": "kiss",
+    "ja": "キス"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "spanish",
+   "id": "es-01350",
+   "level": 4,
+   "prompt": "「ilegal」の意味は？",
+   "answer": "illegal",
+   "choices": [
+    "neck",
+    "physique",
+    "pizza",
+    "illegal"
+   ],
+   "example": "Tom es un inmigrante ilegal. — トムはね、不法滞在者なんだ。",
+   "pronunciation": "ilegAl",
+   "glosses": {
+    "en": "illegal",
+    "ja": "違法な"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "spanish",
+   "id": "es-00798",
+   "level": 2,
+   "prompt": "「enfermedad」の意味は？",
+   "answer": "illness",
+   "choices": [
+    "liberty",
+    "pair",
+    "dead person",
+    "illness"
+   ],
+   "example": "¿Su enfermedad se curará? — 彼の病気は治りますか。",
+   "pronunciation": "enfermedAd",
+   "glosses": {
+    "en": "illness",
+    "ja": "病気"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "spanish",
+   "id": "es-00136",
+   "level": 1,
+   "prompt": "「escucha」の意味は？",
+   "answer": "listening",
+   "choices": [
+    "hole",
+    "wallet",
+    "obvious",
+    "listening"
+   ],
+   "example": "¡Calla y escucha! — 黙って聞け！",
+   "pronunciation": "eskUcha",
+   "glosses": {
+    "en": "listening",
+    "ja": "傾聴，聞くこと"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "spanish",
+   "id": "es-00140",
+   "level": 1,
+   "prompt": "「equipo」の意味は？",
+   "answer": "team",
+   "choices": [
+    "team",
+    "charge",
+    "grass",
+    "hope"
+   ],
+   "example": "Nuestro equipo perdió. — わがチームが負けた。",
+   "pronunciation": "ekIpo",
+   "glosses": {
+    "en": "team",
+    "ja": "チーム，装備"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "spanish",
+   "id": "es-00156",
+   "level": 1,
+   "prompt": "「igual」の意味は？",
+   "answer": "equal",
+   "choices": [
+    "guard, sentry",
+    "equal",
+    "warehouse",
+    "kiss"
+   ],
+   "example": "¡Me da igual! — 知るか！",
+   "pronunciation": "igwAl",
+   "glosses": {
+    "en": "equal",
+    "ja": "等しい，同じ"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "spanish",
+   "id": "es-00196",
+   "level": 1,
+   "prompt": "「creer」の意味は？",
+   "answer": "to believe",
+   "choices": [
+    "to believe",
+    "to put out",
+    "to interrupt",
+    "to owe"
+   ],
+   "example": "Ver es creer. — 見ることは信じることである。",
+   "pronunciation": "kreEr",
+   "glosses": {
+    "en": "to believe",
+    "ja": "信じる"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "spanish",
+   "id": "es-00600",
+   "level": 2,
+   "prompt": "「bailar」の意味は？",
+   "answer": "to dance",
+   "choices": [
+    "to reassure",
+    "to dance",
+    "to lift",
+    "to bear"
+   ],
+   "example": "¿Vamos a bailar? — 一緒に踊りませんか？",
+   "pronunciation": "bailAr",
+   "glosses": {
+    "en": "to dance",
+    "ja": "踊る"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "spanish",
+   "id": "es-01837",
+   "level": 5,
+   "prompt": "「empleado」の意味は？",
+   "answer": "employee",
+   "choices": [
+    "tome",
+    "employee",
+    "alive",
+    "to capture"
+   ],
+   "example": "Mi padre es empleado de una empresa. — 私の父は会社員です。",
+   "pronunciation": "empleAdo",
+   "glosses": {
+    "en": "employee",
+    "ja": "従業員"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "spanish",
+   "id": "es-01807",
+   "level": 5,
+   "prompt": "「religión」の意味は？",
+   "answer": "religion",
+   "choices": [
+    "grass",
+    "religion",
+    "inside, indoors",
+    "culpable person"
+   ],
+   "example": "No tengo ninguna opinión sobre la religión. — 宗教については何の意見も持っていない。",
+   "pronunciation": "relihYon",
+   "glosses": {
+    "en": "religion",
+    "ja": "宗教"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "spanish",
+   "id": "es-01369",
+   "level": 4,
+   "prompt": "「condición」の意味は？",
+   "answer": "condition",
+   "choices": [
+    "welcome",
+    "condition",
+    "report",
+    "partner"
+   ],
+   "example": "Su condición mejora y empeora. — 彼の状態は良くなったり悪くなったりだ。",
+   "pronunciation": "kondithYon",
+   "glosses": {
+    "en": "condition",
+    "ja": "状態"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "spanish",
+   "id": "es-01351",
+   "level": 4,
+   "prompt": "「versión」の意味は？",
+   "answer": "version",
+   "choices": [
+    "grass",
+    "cover",
+    "version",
+    "famous"
+   ],
+   "example": "Su versión es cierta. — 彼女の話は本当である。",
+   "pronunciation": "bersYon",
+   "glosses": {
+    "en": "version",
+    "ja": "版，バージョン"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "spanish",
+   "id": "es-00141",
+   "level": 1,
+   "prompt": "「grande」の意味は？",
+   "answer": "big, large",
+   "choices": [
+    "big, large",
+    "candy",
+    "demon",
+    "surname"
+   ],
+   "example": "¿Qué tan grande? — どのくらい広い？",
+   "pronunciation": "grAnde",
+   "glosses": {
+    "en": "big, large",
+    "ja": "大きい"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "spanish",
+   "id": "es-00155",
+   "level": 1,
+   "prompt": "「pensar」の意味は？",
+   "answer": "to think",
+   "choices": [
+    "to reassure",
+    "to send",
+    "to close",
+    "to think"
+   ],
+   "example": "Me cuesta pensar. — 頭が重い。",
+   "pronunciation": "pensAr",
+   "glosses": {
+    "en": "to think",
+    "ja": "思う"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "spanish",
+   "id": "es-00195",
+   "level": 1,
+   "prompt": "「habitación」の意味は？",
+   "answer": "room",
+   "choices": [
+    "district",
+    "happy",
+    "room",
+    "oil"
+   ],
+   "example": "¿Arreglo la habitación? — 部屋をきれいにしましょうか。",
+   "pronunciation": "abitathYon",
+   "glosses": {
+    "en": "room",
+    "ja": "部屋"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "spanish",
+   "id": "es-01836",
+   "level": 5,
+   "prompt": "「colección」の意味は？",
+   "answer": "collection",
+   "choices": [
+    "collection",
+    "object",
+    "bank",
+    "whisky"
+   ],
+   "example": null,
+   "pronunciation": "kolegthYon",
+   "glosses": {
+    "en": "collection",
+    "ja": "コレクション，収集品"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "spanish",
+   "id": "es-01804",
+   "level": 5,
+   "prompt": "「enhorabuena」の意味は？",
+   "answer": "congratulations",
+   "choices": [
+    "paper",
+    "one",
+    "congratulations",
+    "to look at"
+   ],
+   "example": null,
+   "pronunciation": "enorabwEna",
+   "glosses": {
+    "en": "congratulations",
+    "ja": "おめでとう，祝福"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "spanish",
+   "id": "es-01368",
+   "level": 4,
+   "prompt": "「ducha」の意味は？",
+   "answer": "shower",
+   "choices": [
+    "explanation",
+    "brother",
+    "shower",
+    "saturday"
+   ],
+   "example": "Tom estaba en la ducha. — トムはお風呂に入っていた。",
+   "pronunciation": "dUcha",
+   "glosses": {
+    "en": "shower",
+    "ja": "シャワー"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "spanish",
+   "id": "es-00142",
+   "level": 1,
+   "prompt": "「llegar」の意味は？",
+   "answer": "to arrive",
+   "choices": [
+    "to arrive",
+    "doubt",
+    "whole, entire",
+    "circus"
+   ],
+   "example": "Lamento llegar tarde. — 遅刻してすみません。",
+   "pronunciation": "yegAr",
+   "glosses": {
+    "en": "to arrive",
+    "ja": "着く，到着する"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "german",
+   "id": "de-00684",
+   "level": 2,
+   "prompt": "「Miteinander」の意味は？",
+   "answer": "cooperation",
+   "choices": [
+    "recording; admission",
+    "damned",
+    "apart",
+    "cooperation"
+   ],
+   "example": "Zwei Ärzte fachsimpelten miteinander. — 二人の医者が医学の話をしていた。",
+   "pronunciation": null,
+   "glosses": {
+    "en": "cooperation",
+    "ja": "互いの関わり，協調"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "german",
+   "id": "de-00696",
+   "level": 2,
+   "prompt": "「überrascht」の意味は？",
+   "answer": "surprised",
+   "choices": [
+    "also",
+    "surprised",
+    "threat",
+    "often"
+   ],
+   "example": "War Tom überrascht? — トムは驚いてた？",
+   "pronunciation": "ybarAsht",
+   "glosses": {
+    "en": "surprised",
+    "ja": "驚いた"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "german",
+   "id": "de-00656",
+   "level": 2,
+   "prompt": "「Gold」の意味は？",
+   "answer": "gold",
+   "choices": [
+    "bear",
+    "nearness",
+    "wood",
+    "gold"
+   ],
+   "example": "Schweigen ist Gold. — 言わぬが花。",
+   "pronunciation": "golt",
+   "glosses": {
+    "en": "gold",
+    "ja": "黄金"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "german",
+   "id": "de-00620",
+   "level": 2,
+   "prompt": "「Geburtstag」の意味は？",
+   "answer": "birthday",
+   "choices": [
+    "wash",
+    "check",
+    "birthday",
+    "invented"
+   ],
+   "example": "Wer hat Geburtstag? — 誰の誕生日？",
+   "pronunciation": "gabUatstak",
+   "glosses": {
+    "en": "birthday",
+    "ja": "誕生日"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "german",
+   "id": "de-00636",
+   "level": 2,
+   "prompt": "「verändert」の意味は？",
+   "answer": "changed",
+   "choices": [
+    "to confirm",
+    "possibility",
+    "changed",
+    "rope"
+   ],
+   "example": "Das Klima verändert sich. — 気候は変化している。",
+   "pronunciation": "feaEndat",
+   "glosses": {
+    "en": "changed",
+    "ja": "変わった，変化した"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "german",
+   "id": "de-01743",
+   "level": 5,
+   "prompt": "「erwischen」の意味は？",
+   "answer": "to catch",
+   "choices": [
+    "to catch",
+    "to use",
+    "to beat",
+    "to go"
+   ],
+   "example": "Der Verkehrsunfall hinderte mich daran den Zug zu erwischen. — その事故のせいで、列車に乗り遅れてしまった。",
+   "pronunciation": "ervIshan",
+   "glosses": {
+    "en": "to catch",
+    "ja": "捕まえる"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "german",
+   "id": "de-01753",
+   "level": 5,
+   "prompt": "「Kreis」の意味は？",
+   "answer": "circle",
+   "choices": [
+    "future",
+    "feeling",
+    "circle",
+    "pass"
+   ],
+   "example": "Zeichne einen Kreis. — 円を描いてくれ。",
+   "pronunciation": "krais",
+   "glosses": {
+    "en": "circle",
+    "ja": "円，地区"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "german",
+   "id": "de-00898",
+   "level": 3,
+   "prompt": "「Lösung」の意味は？",
+   "answer": "solution",
+   "choices": [
+    "solution",
+    "next to it",
+    "to know",
+    "eye"
+   ],
+   "example": "Streit ist keine Lösung. — 喧嘩では何事も解決しない。",
+   "pronunciation": "lEzung",
+   "glosses": {
+    "en": "solution",
+    "ja": "解決，解答"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "german",
+   "id": "de-00818",
+   "level": 3,
+   "prompt": "「daher」の意味は？",
+   "answer": "from there",
+   "choices": [
+    "from there",
+    "elegant",
+    "to dream",
+    "to wash"
+   ],
+   "example": "Daher kam ich zu spät zum Unterricht. — こういうわけで私は学校に遅れた。",
+   "pronunciation": "dAhea",
+   "glosses": {
+    "en": "from there",
+    "ja": "それゆえ，そこから"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "german",
+   "id": "de-01051",
+   "level": 3,
+   "prompt": "「stehlen」の意味は？",
+   "answer": "to steal",
+   "choices": [
+    "applause",
+    "task",
+    "energy",
+    "to steal"
+   ],
+   "example": "Geld zu stehlen ist nicht richtig. — お金を盗むのは良くない。",
+   "pronunciation": "shtElan",
+   "glosses": {
+    "en": "to steal",
+    "ja": "盗む"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "german",
+   "id": "de-01019",
+   "level": 3,
+   "prompt": "「Zufall」の意味は？",
+   "answer": "chance",
+   "choices": [
+    "chance",
+    "traitor",
+    "energy",
+    "nose"
+   ],
+   "example": "Was für ein Zufall! — 偶然だね！",
+   "pronunciation": "tsUfal",
+   "glosses": {
+    "en": "chance",
+    "ja": "偶然"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "german",
+   "id": "de-01029",
+   "level": 3,
+   "prompt": "「ähnlich」の意味は？",
+   "answer": "similar",
+   "choices": [
+    "similar",
+    "project",
+    "bum",
+    "bet"
+   ],
+   "example": "Wem sieht er ähnlich? — 彼は誰に似ていますか。",
+   "pronunciation": "Enlih",
+   "glosses": {
+    "en": "similar",
+    "ja": "似ている，同様の"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "german",
+   "id": "de-00685",
+   "level": 2,
+   "prompt": "「wohnen」の意味は？",
+   "answer": "to live",
+   "choices": [
+    "to warn",
+    "to watch out",
+    "to see",
+    "to live"
+   ],
+   "example": "Sie wohnen dort. — 彼らはそこにすんでいる。",
+   "pronunciation": "vOnan",
+   "glosses": {
+    "en": "to live",
+    "ja": "住む"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "german",
+   "id": "de-00691",
+   "level": 2,
+   "prompt": "「zweite」の意味は？",
+   "answer": "second",
+   "choices": [
+    "deep",
+    "expected",
+    "second",
+    "whole"
+   ],
+   "example": "Japan ist sozusagen seine zweite Heimat. — 日本はいわば彼の第２の故郷です。",
+   "pronunciation": "tsvAita",
+   "glosses": {
+    "en": "second",
+    "ja": "二番目"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "german",
+   "id": "de-00659",
+   "level": 2,
+   "prompt": "「Wein」の意味は？",
+   "answer": "wine",
+   "choices": [
+    "king",
+    "amazing",
+    "wine",
+    "except"
+   ],
+   "example": "Sie mag Wein. — 彼女はぶどう酒が好きだ。",
+   "pronunciation": "vain",
+   "glosses": {
+    "en": "wine",
+    "ja": "ワイン，ぶどう酒"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "german",
+   "id": "de-00621",
+   "level": 2,
+   "prompt": "「Haut」の意味は？",
+   "answer": "skin",
+   "choices": [
+    "memory",
+    "skin",
+    "annoying noise",
+    "secret"
+   ],
+   "example": "Ihre Haut ist glatt. — 彼女の肌は滑らかです。",
+   "pronunciation": "haut",
+   "glosses": {
+    "en": "skin",
+    "ja": "肌"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "german",
+   "id": "de-00635",
+   "level": 2,
+   "prompt": "「Bleibe」の意味は？",
+   "answer": "abode",
+   "choices": [
+    "buddy, mate",
+    "to leave up to",
+    "holiday",
+    "abode"
+   ],
+   "example": "Bleibe bitte stehen! — どうか立ったままでいて下さい。",
+   "pronunciation": "blAiba",
+   "glosses": {
+    "en": "abode",
+    "ja": "住まい，宿"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "german",
+   "id": "de-01752",
+   "level": 5,
+   "prompt": "「Wirklichkeit」の意味は？",
+   "answer": "reality",
+   "choices": [
+    "reality",
+    "mum",
+    "nearness",
+    "alert"
+   ],
+   "example": "In Wirklichkeit ist er krank. — 実は彼は病気なのです。",
+   "pronunciation": "vIrklihkait",
+   "glosses": {
+    "en": "reality",
+    "ja": "現実"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "german",
+   "id": "de-01768",
+   "level": 5,
+   "prompt": "「üben」の意味は？",
+   "answer": "to practice",
+   "choices": [
+    "to step",
+    "to stand",
+    "to forget",
+    "to practice"
+   ],
+   "example": "Es ist äußerst wichtig, jeden Tag zu üben. — 毎日練習することが極めて重要です。",
+   "pronunciation": "Yban",
+   "glosses": {
+    "en": "to practice",
+    "ja": "練習する"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "german",
+   "id": "de-00887",
+   "level": 3,
+   "prompt": "「Zeitpunkt」の意味は？",
+   "answer": "moment",
+   "choices": [
+    "pleasant",
+    "moment",
+    "in the morning",
+    "to go in"
+   ],
+   "example": "Zu diesem Zeitpunkt duschte ich gerade. — その時はシャワーを浴びていた。",
+   "pronunciation": "tsAitpungkt",
+   "glosses": {
+    "en": "moment",
+    "ja": "時点"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "german",
+   "id": "de-00897",
+   "level": 3,
+   "prompt": "「weißen」の意味は？",
+   "answer": "to whiten",
+   "choices": [
+    "idiotic",
+    "to whiten",
+    "help",
+    "to stick"
+   ],
+   "example": "Ken hat einen weißen Hund. — 健は白い犬を飼っている。",
+   "pronunciation": "vAisan",
+   "glosses": {
+    "en": "to whiten",
+    "ja": "白くする"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "german",
+   "id": "de-01052",
+   "level": 3,
+   "prompt": "「Rechte」の意味は？",
+   "answer": "right",
+   "choices": [
+    "right",
+    "camera",
+    "friendship",
+    "notification"
+   ],
+   "example": "Meine rechte Schulter schmerzt. — 右の肩が痛む。",
+   "pronunciation": "rEhta",
+   "glosses": {
+    "en": "right",
+    "ja": "権利"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "german",
+   "id": "de-01032",
+   "level": 3,
+   "prompt": "「Lager」の意味は？",
+   "answer": "camp, warehouse",
+   "choices": [
+    "camp, warehouse",
+    "to hit",
+    "hurry",
+    "pursued"
+   ],
+   "example": "Ich bin aus dem Lager abgehauen. — 私は収容所から脱走した。",
+   "pronunciation": "lAga",
+   "glosses": {
+    "en": "camp, warehouse",
+    "ja": "倉庫，キャンプ，貯蔵"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "german",
+   "id": "de-01028",
+   "level": 3,
+   "prompt": "「wahnsinnig」の意味は？",
+   "answer": "mad",
+   "choices": [
+    "to romp",
+    "elsewhere",
+    "hereby",
+    "mad"
+   ],
+   "example": "Ich mag Französisch wahnsinnig gern. — フランス語が堪らなく好きです。",
+   "pronunciation": "vAnzinih",
+   "glosses": {
+    "en": "mad",
+    "ja": "狂った，ものすごく"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "german",
+   "id": "de-00690",
+   "level": 2,
+   "prompt": "「anderer」の意味は？",
+   "answer": "other",
+   "choices": [
+    "at that time",
+    "god",
+    "other",
+    "deserved"
+   ],
+   "example": "Respektiere die Persönlichkeit anderer. — 人の人格を認め尊重する。",
+   "pronunciation": "Andarar",
+   "glosses": {
+    "en": "other",
+    "ja": "別の，他の"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "german",
+   "id": "de-00658",
+   "level": 2,
+   "prompt": "「Regierung」の意味は？",
+   "answer": "government/administration",
+   "choices": [
+    "leader",
+    "government/administration",
+    "to suspect",
+    "captain"
+   ],
+   "example": "Die Regierung bedrängte das Volk. — その政府は国民を圧迫した。",
+   "pronunciation": "regIrung",
+   "glosses": {
+    "en": "government/administration",
+    "ja": "政府"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "german",
+   "id": "de-00622",
+   "level": 2,
+   "prompt": "「Wette」の意味は？",
+   "answer": "bet",
+   "choices": [
+    "clinic",
+    "bet",
+    "fever",
+    "love"
+   ],
+   "example": "Rennen wir zur Bushaltestelle um die Wette! — バスの停留所まで競争しよう。",
+   "pronunciation": "vEta",
+   "glosses": {
+    "en": "bet",
+    "ja": "賭け"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "german",
+   "id": "de-00634",
+   "level": 2,
+   "prompt": "「persönlich」の意味は？",
+   "answer": "personal",
+   "choices": [
+    "personal",
+    "to teach",
+    "pause",
+    "cellar"
+   ],
+   "example": "Er kam persönlich. — 彼本人がやってきた。",
+   "pronunciation": "perzEnlih",
+   "glosses": {
+    "en": "personal",
+    "ja": "個人的な，直接の"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "german",
+   "id": "de-01799",
+   "level": 5,
+   "prompt": "「Mitleid」の意味は？",
+   "answer": "pity",
+   "choices": [
+    "laboratory",
+    "bear",
+    "emperor",
+    "pity"
+   ],
+   "example": "Verwechsle nie Mitleid mit Liebe. — 同情と愛情を決して混同しないように。",
+   "pronunciation": "mItlait",
+   "glosses": {
+    "en": "pity",
+    "ja": "同情"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "german",
+   "id": "de-01751",
+   "level": 5,
+   "prompt": "「Gedächtnis」の意味は？",
+   "answer": "memory",
+   "choices": [
+    "memory",
+    "building",
+    "to decide",
+    "rum"
+   ],
+   "example": "Tom verlor sein Gedächtnis. — トムは記憶を失った。",
+   "pronunciation": "gadEhtnis",
+   "glosses": {
+    "en": "memory",
+    "ja": "記憶，記憶力"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "french",
+   "id": "fr-01953",
+   "level": 5,
+   "prompt": "「remède」の意味は？",
+   "answer": "remedy",
+   "choices": [
+    "epoch",
+    "covered",
+    "remedy",
+    "command"
+   ],
+   "example": "Ce remède te fera te sentir mieux. — この薬を飲めば、気分が良くなりますよ。",
+   "pronunciation": "ramed",
+   "glosses": {
+    "en": "remedy",
+    "ja": "治療薬"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "french",
+   "id": "fr-01943",
+   "level": 5,
+   "prompt": "「culpabilité」の意味は？",
+   "answer": "guilt",
+   "choices": [
+    "mad",
+    "to jump",
+    "guilt",
+    "to forget"
+   ],
+   "example": "Il a confessé sa culpabilité. — 彼は罪を白状した。",
+   "pronunciation": "kylpabilite",
+   "glosses": {
+    "en": "guilt",
+    "ja": "罪悪感"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "french",
+   "id": "fr-00497",
+   "level": 2,
+   "prompt": "「ciel」の意味は？",
+   "answer": "sky",
+   "choices": [
+    "oil",
+    "interest",
+    "sky",
+    "cup"
+   ],
+   "example": "Le ciel s'assombrit. — 空が暗くなってきた。",
+   "pronunciation": "syel",
+   "glosses": {
+    "en": "sky",
+    "ja": "空"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "french",
+   "id": "fr-00487",
+   "level": 2,
+   "prompt": "「attaque」の意味は？",
+   "answer": "attack",
+   "choices": [
+    "attack",
+    "flower",
+    "youth",
+    "money"
+   ],
+   "example": "L'acide attaque le métal. — 酸は金属を腐食させる。",
+   "pronunciation": "atak",
+   "glosses": {
+    "en": "attack",
+    "ja": "攻撃"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "french",
+   "id": "fr-01933",
+   "level": 5,
+   "prompt": "「rêver」の意味は？",
+   "answer": "to dream",
+   "choices": [
+    "to love",
+    "to avenge",
+    "to take back",
+    "to dream"
+   ],
+   "example": "Je crois rêver. — 夢みたいだ。",
+   "pronunciation": "reve",
+   "glosses": {
+    "en": "to dream",
+    "ja": "夢見る"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "french",
+   "id": "fr-01493",
+   "level": 4,
+   "prompt": "「portée」の意味は？",
+   "answer": "reach",
+   "choices": [
+    "liquid",
+    "garage",
+    "reach",
+    "face"
+   ],
+   "example": "Elle est portée sur la boisson. — 彼女は飲むのが好きだ。",
+   "pronunciation": "porte",
+   "glosses": {
+    "en": "reach",
+    "ja": "範囲"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "french",
+   "id": "fr-00552",
+   "level": 2,
+   "prompt": "「appartement」の意味は？",
+   "answer": "apartment",
+   "choices": [
+    "happy",
+    "apartment",
+    "to be quiet",
+    "influence"
+   ],
+   "example": "J'aime bien ton appartement. — 僕は君のアパートが好きだ。",
+   "pronunciation": "apartama",
+   "glosses": {
+    "en": "apartment",
+    "ja": "アパート，住居"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "french",
+   "id": "fr-01738",
+   "level": 5,
+   "prompt": "「éloigner」の意味は？",
+   "answer": "to move away",
+   "choices": [
+    "to look for",
+    "treatment",
+    "discount",
+    "to move away"
+   ],
+   "example": "Nous sommes dans un quartier dangereux, alors prenez garde à ne pas vous éloigner de moi. — この町は危ないですから、私から離れないようにしてください。",
+   "pronunciation": "elwaye",
+   "glosses": {
+    "en": "to move away",
+    "ja": "遠ざける"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "french",
+   "id": "fr-01726",
+   "level": 5,
+   "prompt": "「incapable」の意味は？",
+   "answer": "unable",
+   "choices": [
+    "to guess",
+    "intention",
+    "unable",
+    "anger"
+   ],
+   "example": "Je suis incapable de cuisiner. — 私は炊事が全然できない。",
+   "pronunciation": "enkapabl",
+   "glosses": {
+    "en": "unable",
+    "ja": "無能な，できない"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "french",
+   "id": "fr-01714",
+   "level": 5,
+   "prompt": "「épaule」の意味は？",
+   "answer": "shoulder",
+   "choices": [
+    "husband",
+    "shoulder",
+    "police officer",
+    "dad"
+   ],
+   "example": "Il regarda par-dessus son épaule. — 彼は肩越しに振り返った。",
+   "pronunciation": "epol",
+   "glosses": {
+    "en": "shoulder",
+    "ja": "肩"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "french",
+   "id": "fr-01754",
+   "level": 5,
+   "prompt": "「décès」の意味は？",
+   "answer": "death",
+   "choices": [
+    "piglet",
+    "security",
+    "death",
+    "lorry"
+   ],
+   "example": "Dix ans ont passé depuis son décès. — 彼女が亡くなってから、十年がたちました。",
+   "pronunciation": "dese",
+   "glosses": {
+    "en": "death",
+    "ja": "死亡"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "french",
+   "id": "fr-01746",
+   "level": 5,
+   "prompt": "「territoire」の意味は？",
+   "answer": "territory",
+   "choices": [
+    "territory",
+    "work",
+    "worst",
+    "county"
+   ],
+   "example": null,
+   "pronunciation": "teritwar",
+   "glosses": {
+    "en": "territory",
+    "ja": "領土"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "french",
+   "id": "fr-00446",
+   "level": 2,
+   "prompt": "「pareil」の意味は？",
+   "answer": "similar",
+   "choices": [
+    "similar",
+    "title",
+    "furrow",
+    "to destroy"
+   ],
+   "example": "Tout sera pareil d'ici cent ans. — 百年後にはみな同じになる。",
+   "pronunciation": "parey",
+   "glosses": {
+    "en": "similar",
+    "ja": "同じ，同様の"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "french",
+   "id": "fr-01954",
+   "level": 5,
+   "prompt": "「cimetière」の意味は？",
+   "answer": "cemetery",
+   "choices": [
+    "cemetery",
+    "Christmas",
+    "commander",
+    "to control"
+   ],
+   "example": null,
+   "pronunciation": "simtyer",
+   "glosses": {
+    "en": "cemetery",
+    "ja": "墓地"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "french",
+   "id": "fr-01942",
+   "level": 5,
+   "prompt": "「cité」の意味は？",
+   "answer": "city",
+   "choices": [
+    "intention",
+    "city",
+    "honey",
+    "week"
+   ],
+   "example": null,
+   "pronunciation": "site",
+   "glosses": {
+    "en": "city",
+    "ja": "都市"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "french",
+   "id": "fr-00494",
+   "level": 2,
+   "prompt": "「preuve」の意味は？",
+   "answer": "evidence",
+   "choices": [
+    "evidence",
+    "patience",
+    "name",
+    "beard"
+   ],
+   "example": "D'après cette preuve, il est innocent. — この証拠から彼は無罪ということになる。",
+   "pronunciation": "prev",
+   "glosses": {
+    "en": "evidence",
+    "ja": "証拠"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "french",
+   "id": "fr-00486",
+   "level": 2,
+   "prompt": "「poste」の意味は？",
+   "answer": "post, position",
+   "choices": [
+    "possible",
+    "bad",
+    "defence",
+    "post, position"
+   ],
+   "example": "Il est en poste. — 彼は役職についている。",
+   "pronunciation": "post",
+   "glosses": {
+    "en": "post, position",
+    "ja": "地位，部署，郵便"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "french",
+   "id": "fr-01930",
+   "level": 5,
+   "prompt": "「comté」の意味は？",
+   "answer": "county",
+   "choices": [
+    "congress",
+    "to study",
+    "county",
+    "ship"
+   ],
+   "example": null,
+   "pronunciation": "konte",
+   "glosses": {
+    "en": "county",
+    "ja": "郡"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "french",
+   "id": "fr-01492",
+   "level": 4,
+   "prompt": "「annoncer」の意味は？",
+   "answer": "to announce",
+   "choices": [
+    "to announce",
+    "priest",
+    "to witness",
+    "water"
+   ],
+   "example": "J’ai une triste nouvelle à vous annoncer. — 悲しいお知らせがあります。",
+   "pronunciation": "anonse",
+   "glosses": {
+    "en": "to announce",
+    "ja": "知らせる，発表する"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "french",
+   "id": "fr-00551",
+   "level": 2,
+   "prompt": "「milieu」の意味は？",
+   "answer": "middle",
+   "choices": [
+    "middle",
+    "ear",
+    "navy",
+    "complaint"
+   ],
+   "example": "Elle se tenait au milieu des garçons. — 彼女は少年たちの中に立っていた。",
+   "pronunciation": "milye",
+   "glosses": {
+    "en": "middle",
+    "ja": "真ん中"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "french",
+   "id": "fr-01739",
+   "level": 5,
+   "prompt": "「adaptation」の意味は？",
+   "answer": "adaptation",
+   "choices": [
+    "adaptation",
+    "example",
+    "loss",
+    "20 francs"
+   ],
+   "example": null,
+   "pronunciation": "adaptasyon",
+   "glosses": {
+    "en": "adaptation",
+    "ja": "適応"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "french",
+   "id": "fr-01725",
+   "level": 5,
+   "prompt": "「fêter」の意味は？",
+   "answer": "to celebrate",
+   "choices": [
+    "chair",
+    "personally",
+    "to celebrate",
+    "sand"
+   ],
+   "example": null,
+   "pronunciation": "fete",
+   "glosses": {
+    "en": "to celebrate",
+    "ja": "祝う"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "french",
+   "id": "fr-01715",
+   "level": 5,
+   "prompt": "「taux」の意味は？",
+   "answer": "rate",
+   "choices": [
+    "to thank",
+    "artist",
+    "rate",
+    "situation"
+   ],
+   "example": "Mon taux de cholestérol est élevé. — コレステロール値が上がってきています。",
+   "pronunciation": "to",
+   "glosses": {
+    "en": "rate",
+    "ja": "率，割合"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "french",
+   "id": "fr-01755",
+   "level": 5,
+   "prompt": "「livrer」の意味は？",
+   "answer": "to deliver",
+   "choices": [
+    "to arrive",
+    "to slap",
+    "to sort out",
+    "to deliver"
+   ],
+   "example": "Ma mère a acheté un réfrigérateur et se l'est fait livrer. — 母は冷蔵庫を買って届けさせた。",
+   "pronunciation": "livre",
+   "glosses": {
+    "en": "to deliver",
+    "ja": "届ける"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "french",
+   "id": "fr-01741",
+   "level": 5,
+   "prompt": "「jeunesse」の意味は？",
+   "answer": "youth",
+   "choices": [
+    "north",
+    "code",
+    "Boston",
+    "youth"
+   ],
+   "example": "Rendez-moi ma jeunesse ! — 俺の青春を返せ！",
+   "pronunciation": "zhenes",
+   "glosses": {
+    "en": "youth",
+    "ja": "青春"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "french",
+   "id": "fr-01955",
+   "level": 5,
+   "prompt": "「couler」の意味は？",
+   "answer": "to flow",
+   "choices": [
+    "to express",
+    "to flow",
+    "to continue",
+    "side"
+   ],
+   "example": "Ne laisse pas l'eau couler. — 水を出しっぱなしにしておくな。",
+   "pronunciation": "kule",
+   "glosses": {
+    "en": "to flow",
+    "ja": "流れる，沈む"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "french",
+   "id": "fr-01941",
+   "level": 5,
+   "prompt": "「léger」の意味は？",
+   "answer": "light",
+   "choices": [
+    "light",
+    "evident",
+    "dark",
+    "adult"
+   ],
+   "example": "J'aime mon café léger. — コーヒーは薄いのが好きです。",
+   "pronunciation": "lezhe",
+   "glosses": {
+    "en": "light",
+    "ja": "軽い"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "french",
+   "id": "fr-00495",
+   "level": 2,
+   "prompt": "「oublier」の意味は？",
+   "answer": "to forget",
+   "choices": [
+    "funny",
+    "to forget",
+    "flat area",
+    "gun"
+   ],
+   "example": "Sadako voulait oublier tout ça. — 禎子は、それを忘れてしまいたかった。",
+   "pronunciation": "ubliye",
+   "glosses": {
+    "en": "to forget",
+    "ja": "忘れる"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "french",
+   "id": "fr-00481",
+   "level": 2,
+   "prompt": "「but」の意味は？",
+   "answer": "aim",
+   "choices": [
+    "tail",
+    "food",
+    "aim",
+    "wall"
+   ],
+   "example": "Il atteignit son but. — 彼は目的を達成した。",
+   "pronunciation": "byt",
+   "glosses": {
+    "en": "aim",
+    "ja": "目的"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "french",
+   "id": "fr-01909",
+   "level": 5,
+   "prompt": "「pervers」の意味は？",
+   "answer": "perverse",
+   "choices": [
+    "perverse",
+    "behavior",
+    "destiny",
+    "salad"
+   ],
+   "example": null,
+   "pronunciation": "perver",
+   "glosses": {
+    "en": "perverse",
+    "ja": "倒錯した"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "portuguese",
+   "id": "pt-00620",
+   "level": 2,
+   "prompt": "「lápide」の意味は？",
+   "answer": "tombstone",
+   "choices": [
+    "midwife",
+    "to run",
+    "tombstone",
+    "morning"
+   ],
+   "example": null,
+   "pronunciation": "lApiji",
+   "glosses": {
+    "en": "tombstone",
+    "ja": "墓石"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "portuguese",
+   "id": "pt-00186",
+   "level": 1,
+   "prompt": "「imediatamente」の意味は？",
+   "answer": "immediately",
+   "choices": [
+    "immediately",
+    "canteen",
+    "flag",
+    "elasticity"
+   ],
+   "example": "Coloquei os sapatos imediatamente. — すぐに靴を履いた。",
+   "pronunciation": "imejiatamEnchi",
+   "glosses": {
+    "en": "immediately",
+    "ja": "即座に"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "portuguese",
+   "id": "pt-00146",
+   "level": 3,
+   "prompt": "「feliz」の意味は？",
+   "answer": "happy",
+   "choices": [
+    "company",
+    "happy",
+    "table",
+    "fast"
+   ],
+   "example": "Feliz aniversário, Muiriel! — お誕生日おめでとうムーリエル！",
+   "pronunciation": "felIs",
+   "glosses": {
+    "en": "happy",
+    "ja": "幸せな"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "portuguese",
+   "id": "pt-00150",
+   "level": 3,
+   "prompt": "「ocupado」の意味は？",
+   "answer": "busy",
+   "choices": [
+    "night",
+    "strong",
+    "busy",
+    "idea"
+   ],
+   "example": "Estava ocupado ontem. — 昨日は忙しかったんだよ。",
+   "pronunciation": "okupAdu",
+   "glosses": {
+    "en": "busy",
+    "ja": "忙しい"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "portuguese",
+   "id": "pt-00166",
+   "level": 1,
+   "prompt": "「resto」の意味は？",
+   "answer": "rest",
+   "choices": [
+    "rest",
+    "reimbursement",
+    "alchemy",
+    "big"
+   ],
+   "example": null,
+   "pronunciation": "rEstu",
+   "glosses": {
+    "en": "rest",
+    "ja": "残り"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "portuguese",
+   "id": "pt-00134",
+   "level": 3,
+   "prompt": "「forte」の意味は？",
+   "answer": "strong",
+   "choices": [
+    "he",
+    "true",
+    "strong",
+    "woman"
+   ],
+   "example": "Como ele é forte! — 彼は何て強いんだ。",
+   "pronunciation": "fOrchi",
+   "glosses": {
+    "en": "strong",
+    "ja": "強い"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "portuguese",
+   "id": "pt-00623",
+   "level": 2,
+   "prompt": "「incapacidade」の意味は？",
+   "answer": "inability",
+   "choices": [
+    "to decide",
+    "nurse",
+    "float",
+    "inability"
+   ],
+   "example": null,
+   "pronunciation": "inkapasidAji",
+   "glosses": {
+    "en": "inability",
+    "ja": "無能力"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "portuguese",
+   "id": "pt-00187",
+   "level": 1,
+   "prompt": "「namorado」の意味は？",
+   "answer": "boyfriend",
+   "choices": [
+    "injustice",
+    "woman",
+    "counter",
+    "boyfriend"
+   ],
+   "example": "O que você comprou para seu namorado? — 彼氏に何を買ってあげたの？",
+   "pronunciation": "namorAdu",
+   "glosses": {
+    "en": "boyfriend",
+    "ja": "ボーイフレンド"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "portuguese",
+   "id": "pt-00147",
+   "level": 3,
+   "prompt": "「triste」の意味は？",
+   "answer": "sad",
+   "choices": [
+    "no",
+    "government",
+    "tired",
+    "sad"
+   ],
+   "example": "Isso é muito triste. — それは本当に悲しいことです。",
+   "pronunciation": "trIschi",
+   "glosses": {
+    "en": "sad",
+    "ja": "悲しい"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "portuguese",
+   "id": "pt-00157",
+   "level": 1,
+   "prompt": "「pessoa」の意味は？",
+   "answer": "person",
+   "choices": [
+    "hypnosis",
+    "person",
+    "infantry",
+    "suppression"
+   ],
+   "example": "Quem é aquela pessoa? — あの人はだれですか。",
+   "pronunciation": "pesOwa",
+   "glosses": {
+    "en": "person",
+    "ja": "人"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "portuguese",
+   "id": "pt-00167",
+   "level": 1,
+   "prompt": "「ar」の意味は？",
+   "answer": "air",
+   "choices": [
+    "impasse",
+    "depression",
+    "gene",
+    "air"
+   ],
+   "example": "Neste quarto tem ar-condicionado. — この部屋にはエアコンがありますよ。",
+   "pronunciation": "Ar",
+   "glosses": {
+    "en": "air",
+    "ja": "空気"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "portuguese",
+   "id": "pt-00137",
+   "level": 3,
+   "prompt": "「baixo」の意味は？",
+   "answer": "short",
+   "choices": [
+    "work",
+    "to understand",
+    "short",
+    "house"
+   ],
+   "example": "Nosso salário é baixo, mas estamos indo. — 我々の収入は少ないが、なんとかやっています。",
+   "pronunciation": "bAyshu",
+   "glosses": {
+    "en": "short",
+    "ja": "低い"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "portuguese",
+   "id": "pt-00622",
+   "level": 2,
+   "prompt": "「caução」の意味は？",
+   "answer": "bail",
+   "choices": [
+    "bail",
+    "dawn",
+    "to eat",
+    "confrontation"
+   ],
+   "example": null,
+   "pronunciation": "kawsAwn",
+   "glosses": {
+    "en": "bail",
+    "ja": "保釈金"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "portuguese",
+   "id": "pt-00180",
+   "level": 1,
+   "prompt": "「fome」の意味は？",
+   "answer": "hunger",
+   "choices": [
+    "hunger",
+    "reelection",
+    "sheet",
+    "rocket"
+   ],
+   "example": "Estou com fome. — 腹減ったな。",
+   "pronunciation": "fOnmi",
+   "glosses": {
+    "en": "hunger",
+    "ja": "空腹"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "portuguese",
+   "id": "pt-00156",
+   "level": 1,
+   "prompt": "「caso」の意味は？",
+   "answer": "case",
+   "choices": [
+    "case",
+    "passport",
+    "world",
+    "coagulation"
+   ],
+   "example": "Em caso de incêndio, utilize esta escada. — 火事の場合には、この非常階段を使いなさい。",
+   "pronunciation": "kAzu",
+   "glosses": {
+    "en": "case",
+    "ja": "事例"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "portuguese",
+   "id": "pt-00164",
+   "level": 1,
+   "prompt": "「prisão」の意味は？",
+   "answer": "prison",
+   "choices": [
+    "transition",
+    "fragment",
+    "prison",
+    "car"
+   ],
+   "example": null,
+   "pronunciation": "prizAwn",
+   "glosses": {
+    "en": "prison",
+    "ja": "刑務所"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "portuguese",
+   "id": "pt-00136",
+   "level": 3,
+   "prompt": "「alto」の意味は？",
+   "answer": "tall",
+   "choices": [
+    "tall",
+    "to walk",
+    "fast",
+    "small"
+   ],
+   "example": "Você é alto? — 君って背が高いの？",
+   "pronunciation": "Awtu",
+   "glosses": {
+    "en": "tall",
+    "ja": "（背が）高い"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "portuguese",
+   "id": "pt-00625",
+   "level": 2,
+   "prompt": "「javali」の意味は？",
+   "answer": "wild boar",
+   "choices": [
+    "lever",
+    "wild boar",
+    "heart",
+    "optimism"
+   ],
+   "example": null,
+   "pronunciation": "zhavalI",
+   "glosses": {
+    "en": "wild boar",
+    "ja": "イノシシ"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "portuguese",
+   "id": "pt-00181",
+   "level": 1,
+   "prompt": "「professor」の意味は？",
+   "answer": "teacher",
+   "choices": [
+    "lightly",
+    "teacher",
+    "waistcoat",
+    "camouflage"
+   ],
+   "example": "Ele ama esse professor. — 彼はその先生が好きです。",
+   "pronunciation": "profesOr",
+   "glosses": {
+    "en": "teacher",
+    "ja": "教師"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "portuguese",
+   "id": "pt-00155",
+   "level": 1,
+   "prompt": "「dentro」の意味は？",
+   "answer": "inside",
+   "choices": [
+    "lipstick",
+    "latex",
+    "next",
+    "inside"
+   ],
+   "example": "Dentro do hotel tem uma barbearia? — ホテルの中に理髪店はありますか。",
+   "pronunciation": "dEntru",
+   "glosses": {
+    "en": "inside",
+    "ja": "中に"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "portuguese",
+   "id": "pt-00165",
+   "level": 1,
+   "prompt": "「rei」の意味は？",
+   "answer": "king",
+   "choices": [
+    "gondola",
+    "king",
+    "compare",
+    "hatred"
+   ],
+   "example": "Eu sou o rei do mundo! — 俺は世界の王様だよ！",
+   "pronunciation": "rEy",
+   "glosses": {
+    "en": "king",
+    "ja": "国王"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "portuguese",
+   "id": "pt-00131",
+   "level": 3,
+   "prompt": "「verdadeiro」の意味は？",
+   "answer": "true",
+   "choices": [
+    "to learn",
+    "eight",
+    "shoe",
+    "true"
+   ],
+   "example": "Pode ser que este diamante não seja verdadeiro. — これは本物のダイヤではないかもしれない。",
+   "pronunciation": "verdadEyru",
+   "glosses": {
+    "en": "true",
+    "ja": "本当の"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "portuguese",
+   "id": "pt-00624",
+   "level": 2,
+   "prompt": "「rifle」の意味は？",
+   "answer": "rifle",
+   "choices": [
+    "rifle",
+    "gene",
+    "stole",
+    "platform"
+   ],
+   "example": null,
+   "pronunciation": "rIfli",
+   "glosses": {
+    "en": "rifle",
+    "ja": "ライフル"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "portuguese",
+   "id": "pt-00182",
+   "level": 1,
+   "prompt": "「hipótese」の意味は？",
+   "answer": "hypothesis",
+   "choices": [
+    "weak",
+    "answer",
+    "hypothesis",
+    "clothes"
+   ],
+   "example": null,
+   "pronunciation": "ipOtezi",
+   "glosses": {
+    "en": "hypothesis",
+    "ja": "仮説"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "portuguese",
+   "id": "pt-00154",
+   "level": 1,
+   "prompt": "「lado」の意味は？",
+   "answer": "side",
+   "choices": [
+    "side",
+    "coast",
+    "plumage",
+    "caramel"
+   ],
+   "example": "Estou do teu lado. — 私はあなたの味方です。",
+   "pronunciation": "lAdu",
+   "glosses": {
+    "en": "side",
+    "ja": "側"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "portuguese",
+   "id": "pt-00162",
+   "level": 1,
+   "prompt": "「casamento」の意味は？",
+   "answer": "wedding",
+   "choices": [
+    "wedding",
+    "next",
+    "poster",
+    "true"
+   ],
+   "example": "Mês passado, eu organizei uma cerimônia de casamento. — 私は先月結婚式を挙げました。",
+   "pronunciation": "kazamEntu",
+   "glosses": {
+    "en": "wedding",
+    "ja": "結婚式"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "portuguese",
+   "id": "pt-00130",
+   "level": 3,
+   "prompt": "「possível」の意味は？",
+   "answer": "possible",
+   "choices": [
+    "possible",
+    "he",
+    "world",
+    "coffee"
+   ],
+   "example": "Ela pensou em uma possível solução. — 彼女は可能性のある解決法を思いついた。",
+   "pronunciation": "posIvew",
+   "glosses": {
+    "en": "possible",
+    "ja": "可能な"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "portuguese",
+   "id": "pt-00627",
+   "level": 2,
+   "prompt": "「cavidade」の意味は？",
+   "answer": "cavity",
+   "choices": [
+    "poison",
+    "beginner",
+    "house",
+    "cavity"
+   ],
+   "example": null,
+   "pronunciation": "kavidAji",
+   "glosses": {
+    "en": "cavity",
+    "ja": "空洞"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "portuguese",
+   "id": "pt-00183",
+   "level": 1,
+   "prompt": "「sonho」の意味は？",
+   "answer": "dream",
+   "choices": [
+    "pavilion",
+    "obesity",
+    "occurrence",
+    "dream"
+   ],
+   "example": "Não foi um sonho. — 夢じゃなかった。",
+   "pronunciation": "sOnyu",
+   "glosses": {
+    "en": "dream",
+    "ja": "夢"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "portuguese",
+   "id": "pt-00163",
+   "level": 1,
+   "prompt": "「palavra」の意味は？",
+   "answer": "word",
+   "choices": [
+    "wreath",
+    "medal",
+    "electorate",
+    "word"
+   ],
+   "example": "Beijamo-nos sem dizer palavra. — 言葉も交わさずキスをした。",
+   "pronunciation": "palAvra",
+   "glosses": {
+    "en": "word",
+    "ja": "単語"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "polish",
+   "id": "pl-00058",
+   "level": 2,
+   "prompt": "「mały」の意味は？",
+   "answer": "small",
+   "choices": [
+    "long",
+    "small",
+    "to work",
+    "bright"
+   ],
+   "example": "O mały włos. — 危うい所を助かった。",
+   "pronunciation": "mawi",
+   "glosses": {
+    "en": "small",
+    "ja": "小さい"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "polish",
+   "id": "pl-00042",
+   "level": 1,
+   "prompt": "「wieczór」の意味は？",
+   "answer": "evening",
+   "choices": [
+    "time",
+    "evening",
+    "to rest",
+    "moon"
+   ],
+   "example": "Płakała cały wieczór. — 彼女は一晩中泣いた。",
+   "pronunciation": "viechur",
+   "glosses": {
+    "en": "evening",
+    "ja": "夕方"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "polish",
+   "id": "pl-00090",
+   "level": 2,
+   "prompt": "「lekki」の意味は？",
+   "answer": "light",
+   "choices": [
+    "short",
+    "difficult",
+    "light",
+    "weak"
+   ],
+   "example": "Mam bardzo lekki sen. — 眠りが浅いんだ。",
+   "pronunciation": "lekki",
+   "glosses": {
+    "en": "light",
+    "ja": "軽い"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "polish",
+   "id": "pl-00059",
+   "level": 2,
+   "prompt": "「nowy」の意味は？",
+   "answer": "new",
+   "choices": [
+    "sea",
+    "morning",
+    "fast",
+    "new"
+   ],
+   "example": "Kupił nowy samochód. — 彼は新しい車を買った。",
+   "pronunciation": "novi",
+   "glosses": {
+    "en": "new",
+    "ja": "新しい"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "polish",
+   "id": "pl-00045",
+   "level": 1,
+   "prompt": "「jabłko」の意味は？",
+   "answer": "apple",
+   "choices": [
+    "to rest",
+    "dog",
+    "blue",
+    "apple"
+   ],
+   "example": "Kto ukradł jabłko? — 誰がリンゴを盗んだのですか？",
+   "pronunciation": "yabwko",
+   "glosses": {
+    "en": "apple",
+    "ja": "りんご"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "polish",
+   "id": "pl-00091",
+   "level": 2,
+   "prompt": "「jasny」の意味は？",
+   "answer": "bright",
+   "choices": [
+    "moon",
+    "bright",
+    "eye",
+    "to buy"
+   ],
+   "example": "Księżyc jest jasny. — 月は明るい。",
+   "pronunciation": "yasni",
+   "glosses": {
+    "en": "bright",
+    "ja": "明るい"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "polish",
+   "id": "pl-00085",
+   "level": 2,
+   "prompt": "「czysty」の意味は？",
+   "answer": "clean",
+   "choices": [
+    "clean",
+    "salt",
+    "to wait",
+    "loud"
+   ],
+   "example": null,
+   "pronunciation": "chisti",
+   "glosses": {
+    "en": "clean",
+    "ja": "清潔な"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "polish",
+   "id": "pl-00044",
+   "level": 1,
+   "prompt": "「kawa」の意味は？",
+   "answer": "coffee",
+   "choices": [
+    "woman",
+    "coffee",
+    "salt",
+    "head"
+   ],
+   "example": "Ta kawa jest gorzka. — このコーヒーは苦い味がする。",
+   "pronunciation": "kava",
+   "glosses": {
+    "en": "coffee",
+    "ja": "コーヒー"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "polish",
+   "id": "pl-00096",
+   "level": 2,
+   "prompt": "「pić」の意味は？",
+   "answer": "to drink",
+   "choices": [
+    "to drink",
+    "to answer",
+    "yes",
+    "chair"
+   ],
+   "example": "Nie lubię pić. — 私はお酒が嫌いです。",
+   "pronunciation": "pich",
+   "glosses": {
+    "en": "to drink",
+    "ja": "飲む"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "polish",
+   "id": "pl-00084",
+   "level": 2,
+   "prompt": "「tani」の意味は？",
+   "answer": "cheap",
+   "choices": [
+    "cheap",
+    "young",
+    "death",
+    "to understand"
+   ],
+   "example": "Ten produkt jest tani. — この品物は安い。",
+   "pronunciation": "tani",
+   "glosses": {
+    "en": "cheap",
+    "ja": "安い"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "polish",
+   "id": "pl-00153",
+   "level": 1,
+   "prompt": "「trochę」の意味は？",
+   "answer": "little",
+   "choices": [
+    "ignition",
+    "little",
+    "chair",
+    "low"
+   ],
+   "example": "Jestem trochę zmęczony. — ちょっと疲れてしまって。",
+   "pronunciation": "trOhe",
+   "glosses": {
+    "en": "little",
+    "ja": "少し"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "polish",
+   "id": "pl-00047",
+   "level": 1,
+   "prompt": "「mięso」の意味は？",
+   "answer": "meat",
+   "choices": [
+    "long",
+    "year",
+    "meat",
+    "pretty"
+   ],
+   "example": "Daję psu mięso. — 私は犬に肉をやる。",
+   "pronunciation": "mienso",
+   "glosses": {
+    "en": "meat",
+    "ja": "肉"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "polish",
+   "id": "pl-00097",
+   "level": 2,
+   "prompt": "「spać」の意味は？",
+   "answer": "to sleep",
+   "choices": [
+    "cat",
+    "to sleep",
+    "question",
+    "empty"
+   ],
+   "example": "Połóż dziecko spać. — その子を寝かせなさい。",
+   "pronunciation": "spach",
+   "glosses": {
+    "en": "to sleep",
+    "ja": "眠る"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "polish",
+   "id": "pl-00087",
+   "level": 2,
+   "prompt": "「pełny」の意味は？",
+   "answer": "full",
+   "choices": [
+    "cat",
+    "full",
+    "happy",
+    "to read"
+   ],
+   "example": "Tom ma pełny portfel, bo odebrał dziś wypłatę. — トムは今日給料をもらったのでふところがあったかい。",
+   "pronunciation": "pewni",
+   "glosses": {
+    "en": "full",
+    "ja": "満杯の"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "polish",
+   "id": "pl-00152",
+   "level": 1,
+   "prompt": "「zawsze」の意味は？",
+   "answer": "always",
+   "choices": [
+    "anger",
+    "old",
+    "always",
+    "rodeo"
+   ],
+   "example": "Zawsze jestem melancholijny. — いつもうっとうしい感じがするのです。",
+   "pronunciation": "zAfshe",
+   "glosses": {
+    "en": "always",
+    "ja": "常に"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "polish",
+   "id": "pl-00046",
+   "level": 1,
+   "prompt": "「ryba」の意味は？",
+   "answer": "fish",
+   "choices": [
+    "to return",
+    "fish",
+    "to buy",
+    "name"
+   ],
+   "example": "Ta ryba jest niejadalna. — この魚は食べるのに適さない。",
+   "pronunciation": "riba",
+   "glosses": {
+    "en": "fish",
+    "ja": "魚"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "polish",
+   "id": "pl-00094",
+   "level": 2,
+   "prompt": "「cichy」の意味は？",
+   "answer": "quiet",
+   "choices": [
+    "quiet",
+    "milk",
+    "tall",
+    "healthy"
+   ],
+   "example": "A więc to tak, śledzisz Hanako! Ostatnio byłeś taki cichy, że nie uważałam na ciebie. — まさか花子さんをストーキングするなんて・・・！最近、おとなしいから油断したわ！",
+   "pronunciation": "chihi",
+   "glosses": {
+    "en": "quiet",
+    "ja": "静かな"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "polish",
+   "id": "pl-00086",
+   "level": 2,
+   "prompt": "「brudny」の意味は？",
+   "answer": "dirty",
+   "choices": [
+    "dirty",
+    "to see",
+    "to purchase",
+    "clean"
+   ],
+   "example": "Jego pokój jest brudny. — 彼の部屋は汚い。",
+   "pronunciation": "brudni",
+   "glosses": {
+    "en": "dirty",
+    "ja": "汚い"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "polish",
+   "id": "pl-00151",
+   "level": 1,
+   "prompt": "「bardzo」の意味は？",
+   "answer": "very",
+   "choices": [
+    "overlook",
+    "monopoly",
+    "reward",
+    "very"
+   ],
+   "example": "Bardzo mi przykro. — 本当にすみません。",
+   "pronunciation": "bArdzo",
+   "glosses": {
+    "en": "very",
+    "ja": "とても"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "polish",
+   "id": "pl-00095",
+   "level": 2,
+   "prompt": "「jeść」の意味は？",
+   "answer": "to eat",
+   "choices": [
+    "death",
+    "to begin",
+    "to eat",
+    "evening"
+   ],
+   "example": "Co chcesz jeść? — 何食べたい？",
+   "pronunciation": "yeshch",
+   "glosses": {
+    "en": "to eat",
+    "ja": "食べる"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "polish",
+   "id": "pl-00081",
+   "level": 2,
+   "prompt": "「zdrowy」の意味は？",
+   "answer": "healthy",
+   "choices": [
+    "hand",
+    "to wash",
+    "life",
+    "healthy"
+   ],
+   "example": "Mój brat jest zdrowy. — 私の兄は健康だ。",
+   "pronunciation": "zdrovi",
+   "glosses": {
+    "en": "healthy",
+    "ja": "健康な"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "polish",
+   "id": "pl-00150",
+   "level": 3,
+   "prompt": "「pytanie」の意味は？",
+   "answer": "question",
+   "choices": [
+    "chair",
+    "question",
+    "love",
+    "to ask"
+   ],
+   "example": "Mam głupie pytanie. — バカな質問があるんだ。",
+   "pronunciation": "pitanie",
+   "glosses": {
+    "en": "question",
+    "ja": "質問"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "polish",
+   "id": "pl-00166",
+   "level": 1,
+   "prompt": "「wygrać」の意味は？",
+   "answer": "win",
+   "choices": [
+    "win",
+    "manufacture",
+    "nightmare",
+    "ignition"
+   ],
+   "example": "Zrobią wszystko, by wygrać. — 彼らは勝つためには何でもする。",
+   "pronunciation": "vgrAch",
+   "glosses": {
+    "en": "win",
+    "ja": "勝つ"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "polish",
+   "id": "pl-00080",
+   "level": 2,
+   "prompt": "「chory」の意味は？",
+   "answer": "sick",
+   "choices": [
+    "easy",
+    "street",
+    "sick",
+    "loud"
+   ],
+   "example": "Chyba był chory. — 彼は病気だったらしい。",
+   "pronunciation": "hori",
+   "glosses": {
+    "en": "sick",
+    "ja": "病気の"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "polish",
+   "id": "pl-00157",
+   "level": 1,
+   "prompt": "「ślub」の意味は？",
+   "answer": "wedding",
+   "choices": [
+    "holiday",
+    "wedding",
+    "difficulty",
+    "rifle"
+   ],
+   "example": "To chyba ślub. — 結婚式かもしれません。",
+   "pronunciation": "shlUp",
+   "glosses": {
+    "en": "wedding",
+    "ja": "結婚式"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "polish",
+   "id": "pl-00167",
+   "level": 1,
+   "prompt": "「sygnał」の意味は？",
+   "answer": "signal",
+   "choices": [
+    "symptom",
+    "mechanics",
+    "singer",
+    "signal"
+   ],
+   "example": "Proszę o sygnał. — お知らせください。",
+   "pronunciation": "sgnAw",
+   "glosses": {
+    "en": "signal",
+    "ja": "信号"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "polish",
+   "id": "pl-00083",
+   "level": 2,
+   "prompt": "「słaby」の意味は？",
+   "answer": "weak",
+   "choices": [
+    "cheap",
+    "night",
+    "bad",
+    "weak"
+   ],
+   "example": "Z fizyki jestem słaby. — 物理は私の苦手な学科です。",
+   "pronunciation": "swabi",
+   "glosses": {
+    "en": "weak",
+    "ja": "弱い"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "polish",
+   "id": "pl-00156",
+   "level": 1,
+   "prompt": "「reszta」の意味は？",
+   "answer": "rest",
+   "choices": [
+    "rest",
+    "blue",
+    "ability",
+    "cobra"
+   ],
+   "example": "Kilka róż w ogrodzie jest białych, cała reszta jest czerwona. — 庭のばらのいくつかは白だが、残りは全部赤です。",
+   "pronunciation": "rEshta",
+   "glosses": {
+    "en": "rest",
+    "ja": "残り"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "polish",
+   "id": "pl-00164",
+   "level": 1,
+   "prompt": "「lunch」の意味は？",
+   "answer": "lunch",
+   "choices": [
+    "currency",
+    "bag",
+    "lunch",
+    "bonus"
+   ],
+   "example": "Zjedliśmy lunch wcześniej niż zwykle i wyszliśmy o wpół do pierwszej. — 我々はいつもより早く昼食を食べて１２時半に出た。",
+   "pronunciation": "lAntsh",
+   "glosses": {
+    "en": "lunch",
+    "ja": "昼食"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "polish",
+   "id": "pl-00082",
+   "level": 2,
+   "prompt": "「silny」の意味は？",
+   "answer": "strong",
+   "choices": [
+    "strong",
+    "black",
+    "friend",
+    "to sing"
+   ],
+   "example": "On jest silny. — 彼は強い。",
+   "pronunciation": "silni",
+   "glosses": {
+    "en": "strong",
+    "ja": "強い"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "russian",
+   "id": "ru-00376",
+   "level": 2,
+   "prompt": "「международный」の意味は？",
+   "answer": "international",
+   "choices": [
+    "international",
+    "cocktail",
+    "add",
+    "always"
+   ],
+   "example": "Я хотел бы совершить международный звонок. — 国際電話をかけたいのですが。",
+   "pronunciation": "mizhdunarOdyy",
+   "glosses": {
+    "en": "international",
+    "ja": "国際的な"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "russian",
+   "id": "ru-00368",
+   "level": 2,
+   "prompt": "「сообщество」の意味は？",
+   "answer": "community",
+   "choices": [
+    "interview",
+    "donor",
+    "community",
+    "alibi"
+   ],
+   "example": null,
+   "pronunciation": "saOpshistva",
+   "glosses": {
+    "en": "community",
+    "ja": "共同体"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "russian",
+   "id": "ru-00203",
+   "level": 1,
+   "prompt": "「животное」の意味は？",
+   "answer": "animal",
+   "choices": [
+    "trajectory",
+    "minister",
+    "superstar",
+    "animal"
+   ],
+   "example": "Это животное питается мясом. — その動物は肉を常食としている。",
+   "pronunciation": "zhyvOtnaya",
+   "glosses": {
+    "en": "animal",
+    "ja": "動物"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "russian",
+   "id": "ru-00263",
+   "level": 1,
+   "prompt": "「расписание」の意味は？",
+   "answer": "timetable",
+   "choices": [
+    "old",
+    "river",
+    "growth",
+    "timetable"
+   ],
+   "example": "Покажите, пожалуйста, расписание. — 時刻表を見せてください。",
+   "pronunciation": "raspisAniye",
+   "glosses": {
+    "en": "timetable",
+    "ja": "予定表"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "russian",
+   "id": "ru-00559",
+   "level": 3,
+   "prompt": "「скутер」の意味は？",
+   "answer": "scooter",
+   "choices": [
+    "shampoo",
+    "now",
+    "lighthouse",
+    "scooter"
+   ],
+   "example": null,
+   "pronunciation": "skUtyr",
+   "glosses": {
+    "en": "scooter",
+    "ja": "スクーター"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "russian",
+   "id": "ru-00535",
+   "level": 3,
+   "prompt": "「горилла」の意味は？",
+   "answer": "gorilla",
+   "choices": [
+    "library",
+    "sensation",
+    "execution",
+    "gorilla"
+   ],
+   "example": "Она держала на руках котёнка, как горилла-мать держит своего детёныша. — ゴリラの母親が自分の赤ん坊を抱くように、彼女はその子猫を抱きました。",
+   "pronunciation": "garIla",
+   "glosses": {
+    "en": "gorilla",
+    "ja": "ゴリラ"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "russian",
+   "id": "ru-00521",
+   "level": 2,
+   "prompt": "「терроризм」の意味は？",
+   "answer": "terrorism",
+   "choices": [
+    "to create",
+    "plateau",
+    "terrorism",
+    "battalion"
+   ],
+   "example": null,
+   "pronunciation": "tirarIzm",
+   "glosses": {
+    "en": "terrorism",
+    "ja": "テロリズム"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "russian",
+   "id": "ru-00591",
+   "level": 3,
+   "prompt": "「титан」の意味は？",
+   "answer": "titanium",
+   "choices": [
+    "christmas eve",
+    "improvement",
+    "technology",
+    "titanium"
+   ],
+   "example": null,
+   "pronunciation": "titAn",
+   "glosses": {
+    "en": "titanium",
+    "ja": "チタン"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "russian",
+   "id": "ru-00585",
+   "level": 3,
+   "prompt": "「ингредиент」の意味は？",
+   "answer": "ingredient",
+   "choices": [
+    "disorder",
+    "ingredient",
+    "belly",
+    "bark"
+   ],
+   "example": null,
+   "pronunciation": "ingridiYent",
+   "glosses": {
+    "en": "ingredient",
+    "ja": "材料"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "russian",
+   "id": "ru-00377",
+   "level": 2,
+   "prompt": "「крот」の意味は？",
+   "answer": "mole",
+   "choices": [
+    "uranium",
+    "mouth",
+    "mole",
+    "injection"
+   ],
+   "example": null,
+   "pronunciation": "krot",
+   "glosses": {
+    "en": "mole",
+    "ja": "モグラ"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "russian",
+   "id": "ru-00367",
+   "level": 2,
+   "prompt": "「сравнить」の意味は？",
+   "answer": "compare",
+   "choices": [
+    "incompetence",
+    "express",
+    "popularity",
+    "compare"
+   ],
+   "example": "Книгу можно сравнить с другом. — 本は友になぞらえることが出来る。",
+   "pronunciation": "sravnIt",
+   "glosses": {
+    "en": "compare",
+    "ja": "比べる"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "russian",
+   "id": "ru-00204",
+   "level": 1,
+   "prompt": "「взрыв」の意味は？",
+   "answer": "explosion",
+   "choices": [
+    "explosion",
+    "degree",
+    "skeleton",
+    "hurricane"
+   ],
+   "example": "Последовавший взрыв унёс жизни многих людей. — 続いて起きた爆発で多くの人が死んだ。",
+   "pronunciation": "vzryf",
+   "glosses": {
+    "en": "explosion",
+    "ja": "爆発"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "russian",
+   "id": "ru-00260",
+   "level": 1,
+   "prompt": "「коктейль」の意味は？",
+   "answer": "cocktail",
+   "choices": [
+    "ask",
+    "song",
+    "cocktail",
+    "question"
+   ],
+   "example": "Куба либре - коктейль на основе рома. — キューバリブレはラム酒をベースにしたカクテルです。",
+   "pronunciation": "kaktEyl",
+   "glosses": {
+    "en": "cocktail",
+    "ja": "カクテル"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "russian",
+   "id": "ru-00520",
+   "level": 2,
+   "prompt": "「трясти」の意味は？",
+   "answer": "shake",
+   "choices": [
+    "shake",
+    "inconvenience",
+    "no",
+    "car"
+   ],
+   "example": null,
+   "pronunciation": "tristI",
+   "glosses": {
+    "en": "shake",
+    "ja": "揺する"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "russian",
+   "id": "ru-00592",
+   "level": 3,
+   "prompt": "「гонг」の意味は？",
+   "answer": "gong",
+   "choices": [
+    "gong",
+    "poison",
+    "symbol",
+    "hospitality"
+   ],
+   "example": null,
+   "pronunciation": "gonk",
+   "glosses": {
+    "en": "gong",
+    "ja": "ゴング"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "russian",
+   "id": "ru-00584",
+   "level": 3,
+   "prompt": "「каменный」の意味は？",
+   "answer": "stone",
+   "choices": [
+    "beaker",
+    "mistake",
+    "stone",
+    "landscape"
+   ],
+   "example": null,
+   "pronunciation": "kAmiyy",
+   "glosses": {
+    "en": "stone",
+    "ja": "石の"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "russian",
+   "id": "ru-00370",
+   "level": 2,
+   "prompt": "「зависимость」の意味は？",
+   "answer": "dependence",
+   "choices": [
+    "dependence",
+    "wipe",
+    "poet",
+    "plaster cast"
+   ],
+   "example": null,
+   "pronunciation": "zavIsimast",
+   "glosses": {
+    "en": "dependence",
+    "ja": "依存"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "russian",
+   "id": "ru-00366",
+   "level": 2,
+   "prompt": "「закрывать」の意味は？",
+   "answer": "cover",
+   "choices": [
+    "cover",
+    "user",
+    "posterity",
+    "regiment"
+   ],
+   "example": null,
+   "pronunciation": "zakryvAt",
+   "glosses": {
+    "en": "cover",
+    "ja": "閉める"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "russian",
+   "id": "ru-00205",
+   "level": 1,
+   "prompt": "「добавить」の意味は？",
+   "answer": "add",
+   "choices": [
+    "boxer",
+    "add",
+    "author",
+    "monk"
+   ],
+   "example": "Вам добавить хлеба? — パンのお代わりはいかがですか？",
+   "pronunciation": "dabAvit",
+   "glosses": {
+    "en": "add",
+    "ja": "加える"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "russian",
+   "id": "ru-00261",
+   "level": 1,
+   "prompt": "「ущерб」の意味は？",
+   "answer": "damage",
+   "choices": [
+    "bass",
+    "damage",
+    "guild",
+    "hunting"
+   ],
+   "example": "Он компенсировал ущерб. — 彼はその損失を補った。",
+   "pronunciation": "ushErp",
+   "glosses": {
+    "en": "damage",
+    "ja": "損害"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "russian",
+   "id": "ru-00275",
+   "level": 1,
+   "prompt": "「массаж」の意味は？",
+   "answer": "massage",
+   "choices": [
+    "hernia",
+    "wallpaper",
+    "witch",
+    "massage"
+   ],
+   "example": "Тот массаж был приятным. — あのマッサージ、気持ちよかった。",
+   "pronunciation": "masAsh",
+   "glosses": {
+    "en": "massage",
+    "ja": "マッサージ"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "russian",
+   "id": "ru-00523",
+   "level": 3,
+   "prompt": "「издатель」の意味は？",
+   "answer": "publisher",
+   "choices": [
+    "prayer",
+    "specimen",
+    "leukemia",
+    "publisher"
+   ],
+   "example": null,
+   "pronunciation": "izdAtil",
+   "glosses": {
+    "en": "publisher",
+    "ja": "出版者"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "russian",
+   "id": "ru-00593",
+   "level": 3,
+   "prompt": "「ризотто」の意味は？",
+   "answer": "risotto",
+   "choices": [
+    "tank",
+    "victory",
+    "risotto",
+    "skyscraper"
+   ],
+   "example": null,
+   "pronunciation": "rizOta",
+   "glosses": {
+    "en": "risotto",
+    "ja": "リゾット"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "russian",
+   "id": "ru-00583",
+   "level": 3,
+   "prompt": "「лава」の意味は？",
+   "answer": "lava",
+   "choices": [
+    "rise",
+    "region",
+    "cognac",
+    "lava"
+   ],
+   "example": null,
+   "pronunciation": "lAva",
+   "glosses": {
+    "en": "lava",
+    "ja": "溶岩"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "russian",
+   "id": "ru-00371",
+   "level": 2,
+   "prompt": "「выживание」の意味は？",
+   "answer": "survival",
+   "choices": [
+    "birth",
+    "love",
+    "terrorist",
+    "survival"
+   ],
+   "example": null,
+   "pronunciation": "vyzhyvAniye",
+   "glosses": {
+    "en": "survival",
+    "ja": "生存"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "russian",
+   "id": "ru-00365",
+   "level": 2,
+   "prompt": "「фантазия」の意味は？",
+   "answer": "fantasy",
+   "choices": [
+    "spectrum",
+    "doctor",
+    "fantasy",
+    "crisis"
+   ],
+   "example": null,
+   "pronunciation": "fantAziya",
+   "glosses": {
+    "en": "fantasy",
+    "ja": "空想"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "russian",
+   "id": "ru-00206",
+   "level": 1,
+   "prompt": "「сок」の意味は？",
+   "answer": "juice",
+   "choices": [
+    "to decide",
+    "dog",
+    "juice",
+    "alchemist"
+   ],
+   "example": "Том пьёт сок. — トムはジュースを飲んでいる。",
+   "pronunciation": "sok",
+   "glosses": {
+    "en": "juice",
+    "ja": "ジュース"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "russian",
+   "id": "ru-00266",
+   "level": 1,
+   "prompt": "「интересный」の意味は？",
+   "answer": "interesting",
+   "choices": [
+    "hi",
+    "lighthouse",
+    "interesting",
+    "dilemma"
+   ],
+   "example": "Математика - интересный предмет. — 数学は面白い科目です。",
+   "pronunciation": "intirEsyy",
+   "glosses": {
+    "en": "interesting",
+    "ja": "おもしろい"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "russian",
+   "id": "ru-00274",
+   "level": 1,
+   "prompt": "「дата」の意味は？",
+   "answer": "date",
+   "choices": [
+    "date",
+    "bedroom",
+    "head",
+    "collision"
+   ],
+   "example": null,
+   "pronunciation": "dAta",
+   "glosses": {
+    "en": "date",
+    "ja": "日付"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "russian",
+   "id": "ru-00538",
+   "level": 3,
+   "prompt": "「индустрия」の意味は？",
+   "answer": "industry",
+   "choices": [
+    "industry",
+    "page",
+    "zero",
+    "author"
+   ],
+   "example": "Компьютерная индустрия процветает. — コンピューター業界は景気がいい。",
+   "pronunciation": "industrIya",
+   "glosses": {
+    "en": "industry",
+    "ja": "産業"
+   },
+   "humanVerdict": null
+  }
+ ]
+}

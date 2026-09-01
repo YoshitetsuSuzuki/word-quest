@@ -8,6 +8,8 @@ import { speak, speakWord, wordFromPrompt, canSpeak, langForCategory } from '../
 import { playCorrect, playWrong, playCombo } from '../utils/audio'
 import { hapticCorrect, hapticWrong, hapticCombo } from '../utils/haptics'
 import { comboTierOf, isComboMilestone } from '../core/comboTier'
+import { Analytics } from '../services/Analytics'
+import { ShareService } from '../services/ShareService'
 import { petBonus } from '../core/PetEngine'
 import { todayStr } from '../state/dateUtils'
 import { wordErrorReportUrl } from '../utils/report'
@@ -57,6 +59,7 @@ export function QuizScreen() {
     }
     setQuestions(s)
     setBuilt(true)
+    if (s.length > 0) Analytics.track('quiz_start', { mode: quizMode, count: s.length })
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [ready])
 
@@ -180,6 +183,7 @@ export function QuizScreen() {
   const next = () => {
     if (index + 1 >= questions.length) {
       setFinished(true)
+      Analytics.track('quiz_complete', { correct: sessionCorrect, total: questions.length })
       return
     }
     setIndex((i) => i + 1)
@@ -208,6 +212,13 @@ export function QuizScreen() {
       await showInterstitial('quizAgain')
       window.location.reload()
     }
+    const shareResult = () => {
+      const text = t('share.quizText')
+        .replace('{correct}', String(sessionCorrect))
+        .replace('{total}', String(questions.length))
+        .replace('{combo}', String(combo))
+      void ShareService.share(text)
+    }
 
     return (
       <div className="text-center py-10 animate-slideUp">
@@ -221,6 +232,11 @@ export function QuizScreen() {
         {adsOn && sessionCoin > 0 && !rewardClaimed && (
           <button className="btn-primary w-full py-3 mt-4" onClick={watchForDouble}>
             {t('quiz.watchAd2x')}
+          </button>
+        )}
+        {ShareService.canShare() && (
+          <button className="btn-ghost w-full py-3 mt-3 text-sm" onClick={shareResult}>
+            {t('quiz.share')}
           </button>
         )}
         <div className="mt-6 grid grid-cols-2 gap-3">

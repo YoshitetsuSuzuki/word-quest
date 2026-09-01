@@ -19,11 +19,15 @@ TEAL = (51, 224, 192)
 WHITE = (245, 247, 255)
 SUB = (176, 182, 214)
 
+# 独自性(4.3対策)を先頭に。ペット育成・冒険マップ・協力レイド・週次リーグを前面へ。
+# コピーは「フック＋ベネフィット」の二段で刺す(元の「勉強じゃなく、ゲーム。/だから、続く。」の系譜)。
 SHOTS = [
-    ("01-home.png",    ["勉強じゃなく、ゲーム。", "だから、続く。"],      1),
-    ("02-quiz.png",    ["4択でサクサク。", "発音まで聞ける。"],          1),
-    ("03-ranking.png", ["世界と競って、", "もっと夢中に。"],            1),
-    ("04-study.png",   ["英・中・韓ほか多言語。", "7,700語を制覇。"],    1),
+    ("u1-pet.png",    ["相棒がいれば、続く。", "育てて覚える、英単語。"],   1),
+    ("u2-world.png",  ["単語が、冒険になる。", "地図を旅して世界制覇。"],   1),
+    ("u3-raid.png",   ["勉強を、ひとりにしない。", "仲間とボスに挑む。"],   1),
+    ("u4-league.png", ["今週、何位になれる？", "世界と競う週替りリーグ。"], 1),
+    ("u5-quiz.png",   ["4択で、サクサク。", "発音まで、聞ける。"],         1),
+    ("u6-study.png",  ["英・中・韓ほか10言語。", "29,000語、全部検証済み。"], 1),
 ]
 
 
@@ -63,18 +67,29 @@ def draw_center(draw, cx, y, text, font, fill, stroke=0, stroke_fill=None):
 def render(src, lines, W, H):
     s = W / 1320.0  # 1320基準からの拡大率（幅で比例スケール）
     canvas = gradient(W, H, TOP, BOT).convert("RGBA")
-    glow(canvas, W // 2, int(120 * s), int(620 * s), (108, 92, 231), 90)
-    glow(canvas, W // 2, H - int(108 * s), int(520 * s), (51, 224, 192), 40)
+    # 奥行きのある光: 上に紫の主光、端末肩に紫の弱光、下にティールの受け光
+    glow(canvas, W // 2, int(120 * s), int(680 * s), (124, 104, 255), 95)
+    glow(canvas, int(W * 0.78), int(760 * s), int(440 * s), (108, 92, 231), 55)
+    glow(canvas, W // 2, H - int(96 * s), int(560 * s), (51, 224, 192), 48)
 
-    # --- キャッチコピー ---
+    # --- キャッチコピー（ソフトシャドウで浮かせる） ---
     fh = ImageFont.truetype(JP, int(108 * s))
+    shadow_layer = Image.new("RGBA", canvas.size, (0, 0, 0, 0))
+    sd = ImageDraw.Draw(shadow_layer)
+    y = int(150 * s)
+    for ln in lines:
+        draw_center(sd, W // 2 + int(2 * s), y + int(7 * s), ln, fh, (0, 0, 0, 170))
+        y += int(150 * s)
+    shadow_layer = shadow_layer.filter(ImageFilter.GaussianBlur(int(11 * s)))
+    canvas.alpha_composite(shadow_layer)
+
     d = ImageDraw.Draw(canvas)
     y = int(150 * s)
     for i, ln in enumerate(lines):
         col = WHITE if i == 0 else TEAL
-        draw_center(d, W // 2, y, ln, fh, col, stroke=3, stroke_fill=col)
+        draw_center(d, W // 2, y, ln, fh, col, stroke=2, stroke_fill=col)
         y += int(150 * s)
-    d.rounded_rectangle([W // 2 - int(70 * s), y + int(8 * s), W // 2 + int(70 * s), y + int(20 * s)], radius=int(6 * s), fill=TEAL)
+    d.rounded_rectangle([W // 2 - int(76 * s), y + int(8 * s), W // 2 + int(76 * s), y + int(21 * s)], radius=int(7 * s), fill=TEAL)
 
     # --- 端末スクショ（角丸＋影） ---
     shot = Image.open(src).convert("RGBA")

@@ -6,6 +6,9 @@ import type { Locale } from './i18n/types'
 import { primeSpeech } from './utils/speech'
 import { primeAudio, bgm } from './utils/audio'
 import { AdService } from './services/AdService'
+import { NotificationService } from './services/NotificationService'
+import { Analytics } from './services/Analytics'
+import { GameCenterService } from './services/GameCenterService'
 
 const numFromLS = (k: string, d: number) => {
   const v = localStorage.getItem(k)
@@ -33,8 +36,16 @@ import { MatchScreen } from './screens/MatchScreen'
 const CATEGORY_KEY = 'wordquest.category'
 
 export default function App() {
-  // 撮影用: VITE_DEMO_SCREEN で初期画面を指定できる（本番ビルドでは undefined→'home'）
-  const [screen, setScreen] = useState<Screen>((import.meta.env.VITE_DEMO_SCREEN as Screen) || 'home')
+  // 撮影用: デモビルド(VITE_DEMO=1)のときだけ ?screen=world 等で初期画面を指定できる。
+  // VITE_DEMO_SCREEN でも指定可。本番ビルドでは常に 'home'。
+  const demoInitialScreen = (): Screen => {
+    if (import.meta.env.VITE_DEMO === '1' && typeof location !== 'undefined') {
+      const p = new URLSearchParams(location.search).get('screen')
+      if (p) return p as Screen
+    }
+    return (import.meta.env.VITE_DEMO_SCREEN as Screen) || 'home'
+  }
+  const [screen, setScreen] = useState<Screen>(demoInitialScreen)
   const [quizMode, setQuizMode] = useState<'normal' | 'review' | 'listening' | 'example' | 'phrase' | 'speed'>('normal')
   // 前回選んだ学習ジャンルを記憶（中国語で遊んでいたら次回も中国語のまま）
   const [category, setCategoryState] = useState<Category>(
@@ -87,7 +98,23 @@ export default function App() {
   // 起動時にAdMobを初期化（ネイティブのみ・Webでは no-op）
   useEffect(() => {
     void AdService.init()
+    Analytics.startSession()
+    // Game Center にサインイン（iOSネイティブのみ・Web/Androidでは no-op）
+    void GameCenterService.signIn()
   }, [])
+
+  // 毎日の学習リマインドを設定（ネイティブのみ・Webでは no-op）。
+  // 許可が得られたら 20 時に「連続記録を止めないうちに復習を」と通知する。
+  // 文言は現在のロケールで固定化するため locale を依存に入れる。
+  useEffect(() => {
+    if (!NotificationService.isSupported()) return
+    void (async () => {
+      const granted = await NotificationService.requestPermission()
+      if (!granted) return
+      await NotificationService.scheduleDaily(t('notify.title'), t('notify.body'))
+    })()
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [locale])
 
   useEffect(() => {
     if (!bgmEnabled) return

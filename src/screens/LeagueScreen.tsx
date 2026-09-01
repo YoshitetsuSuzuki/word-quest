@@ -1,6 +1,8 @@
 import { useGame } from '../state/GameContext'
 import { useNav } from '../state/nav'
 import { todayStr } from '../state/dateUtils'
+import { GameCenterService, LEADERBOARD } from '../services/GameCenterService'
+import type { Strings } from '../i18n/types'
 import {
   LEAGUES,
   MAX_TIER,
@@ -14,36 +16,37 @@ import {
 /** 週次リーグ：同ランク帯で1週間ポイントを競う。上位は昇格・下位は降格。 */
 export function LeagueScreen() {
   const { user } = useGame()
-  const { navigate } = useNav()
+  const { navigate, t } = useNav()
   const league = LEAGUES[user.leagueTier] ?? LEAGUES[0]
   const list = standings(user)
   const rank = myRank(list)
   const daysLeft = daysLeftInWeek(todayStr())
   const size = list.length
+  const rs = t('rank.rankSuffix')
 
   return (
     <div className="space-y-4 animate-slideUp">
-      <button onClick={() => navigate('home')} className="text-white/50 text-sm">← ホーム</button>
+      <button onClick={() => navigate('home')} className="text-white/50 text-sm">{t('league.back')}</button>
 
       {/* ヘッダー */}
       <div className="card p-5 text-center">
         <div className="text-5xl">{league.emoji}</div>
-        <div className="text-xl font-black mt-1">{league.name}リーグ</div>
+        <div className="text-xl font-black mt-1">{t(`league.tier${user.leagueTier}` as keyof Strings)}</div>
         <div className="text-xs text-white/50 mt-1">
-          {user.leagueTier < MAX_TIER ? `上位${PROMOTE_ZONE}人が昇格` : '最上位リーグ'}
-          ・残り{daysLeft}日
+          {user.leagueTier < MAX_TIER ? `${t('league.promotePre')}${PROMOTE_ZONE}${t('league.promotePost')}` : t('league.topTier')}
+          ・{t('league.daysLeftPre')}{daysLeft}{t('league.daysLeftPost')}
         </div>
         <div className="mt-3 inline-flex items-center gap-2 text-sm">
-          <span className="text-white/50">あなたは</span>
-          <span className="font-black text-2xl text-gold">{rank}位</span>
-          <span className="text-white/50">/ {size}人</span>
+          <span className="text-white/50">{t('league.youAre')}</span>
+          <span className="font-black text-2xl text-gold">{rank}{rs}</span>
+          <span className="text-white/50">/ {size}{t('league.people')}</span>
         </div>
       </div>
 
       {/* 昇格ライン説明 */}
       <div className="flex justify-between text-[11px] text-white/40 px-1">
-        <span className="text-success font-bold">▲ 昇格圏 (1〜{PROMOTE_ZONE}位)</span>
-        {user.leagueTier > 0 && <span className="text-danger font-bold">降格圏 ({size - RELEGATE_ZONE + 1}〜{size}位) ▼</span>}
+        <span className="text-success font-bold">{t('league.promoteZone')} (1–{PROMOTE_ZONE})</span>
+        {user.leagueTier > 0 && <span className="text-danger font-bold">{t('league.relegateZone')} ({size - RELEGATE_ZONE + 1}–{size}) ▼</span>}
       </div>
 
       {/* 順位表 */}
@@ -67,7 +70,7 @@ export function LeagueScreen() {
             >
               <span className={`w-6 text-center font-black ${pos <= 3 ? 'text-gold' : 'text-white/50'}`}>{pos}</span>
               <span className={`flex-1 font-bold truncate ${s.isMe ? 'text-white' : 'text-white/80'}`}>
-                {s.isMe ? 'あなた' : s.name}
+                {s.isMe ? t('league.you') : s.name}
               </span>
               <span className="font-black tabular-nums">{s.points.toLocaleString()}</span>
               <span className="text-[10px] text-white/30">pt</span>
@@ -76,10 +79,16 @@ export function LeagueScreen() {
         })}
       </div>
 
+      {GameCenterService.isSupported() && (
+        <button className="btn-ghost w-full py-3" onClick={() => void GameCenterService.showLeaderboard(LEADERBOARD.weekly)}>
+          {t('league.gameCenter')}
+        </button>
+      )}
+
       <button className="btn-primary w-full py-3.5" onClick={() => navigate('home')}>
-        クイズでポイントを稼ぐ →
+        {t('league.earnPoints')}
       </button>
-      <p className="text-center text-[11px] text-white/35">正解で得たXPがそのまま今週のリーグポイントになります。</p>
+      <p className="text-center text-[11px] text-white/35">{t('league.pointsNote')}</p>
     </div>
   )
 }

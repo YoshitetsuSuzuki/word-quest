@@ -1,5 +1,7 @@
 import type { User, ShopItemDef } from '../../types'
 import { shopItems } from '../../data/shop.config'
+import { loc } from '../../i18n'
+import type { Locale } from '../../i18n/types'
 
 /** 購入。所持済み or Coin不足なら失敗。成功時はCoin減算＋所持追加＋自動装備。 */
 export function buyItem(user: User, itemId: string): { user: User; ok: boolean; reason?: string } {
@@ -27,10 +29,12 @@ export function equipItem(user: User, itemId: string): User {
   return { ...user, equipped: { ...user.equipped, [item.kind]: item.id } }
 }
 
-/** 装備中の称号テキストを返す */
-export function equippedTitle(user: User): string | undefined {
+/** 装備中の称号テキストを返す（locale指定時は英語版があれば英語で返す） */
+export function equippedTitle(user: User, locale: Locale = 'ja'): string | undefined {
   const id = user.equipped.title
-  return shopItems.find((i) => i.id === id)?.preview
+  const item = shopItems.find((i) => i.id === id)
+  if (!item) return undefined
+  return loc(item.preview, item.previewEn, locale)
 }
 
 /** 装備中の正解エフェクト絵文字を返す */

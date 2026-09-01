@@ -1,0 +1,265 @@
+{
+ "removed": 3,
+ "replaced": 27,
+ "total": 30,
+ "report": [
+  {
+   "id": "en-20149",
+   "action": "replace_choice",
+   "idx": 0,
+   "before": "陰茎",
+   "after": "時計",
+   "prompt": "「conscience」の意味は？",
+   "answer": "良心"
+  },
+  {
+   "id": "en-20207",
+   "action": "replace_choice",
+   "idx": 1,
+   "before": "陰茎",
+   "after": "サウナ",
+   "prompt": "「honeymoon」の意味は？",
+   "answer": "新婚旅行"
+  },
+  {
+   "id": "en-20554",
+   "action": "replace_choice",
+   "idx": 0,
+   "before": "膣",
+   "after": "監禁",
+   "prompt": "「crab」の意味は？",
+   "answer": "カニ"
+  },
+  {
+   "id": "en-20588",
+   "action": "replace_choice",
+   "idx": 3,
+   "before": "女性の性器",
+   "after": "労働者",
+   "prompt": "「diner」の意味は？",
+   "answer": "ダイナー"
+  },
+  {
+   "id": "en-20608",
+   "action": "replace_choice",
+   "idx": 2,
+   "before": "膣",
+   "after": "誘導，就任",
+   "prompt": "「iris」の意味は？",
+   "answer": "虹彩"
+  },
+  {
+   "id": "en-20638",
+   "action": "replace_choice",
+   "idx": 0,
+   "before": "膣",
+   "after": "サウンドトラック",
+   "prompt": "「rogue」の意味は？",
+   "answer": "悪党"
+  },
+  {
+   "id": "en-20723",
+   "action": "replace_choice",
+   "idx": 0,
+   "before": "膣",
+   "after": "木立ち",
+   "prompt": "「accomplice」の意味は？",
+   "answer": "共犯者"
+  },
+  {
+   "id": "en-21196",
+   "action": "replace_choice",
+   "idx": 0,
+   "before": "強姦犯人",
+   "after": "疑いなく",
+   "prompt": "「belongings」の意味は？",
+   "answer": "所有物"
+  },
+  {
+   "id": "en-21203",
+   "action": "replace_choice",
+   "idx": 0,
+   "before": "強姦犯人",
+   "after": "樫",
+   "prompt": "「longing」の意味は？",
+   "answer": "あこがれ"
+  },
+  {
+   "id": "en-21220",
+   "action": "replace_choice",
+   "idx": 2,
+   "before": "強姦犯人",
+   "after": "肋骨",
+   "prompt": "「propaganda」の意味は？",
+   "answer": "宣伝"
+  },
+  {
+   "id": "en-21242",
+   "action": "replace_choice",
+   "idx": 0,
+   "before": "強姦犯人",
+   "after": "血まみれの",
+   "prompt": "「calf」の意味は？",
+   "answer": "子牛"
+  },
+  {
+   "id": "en-21259",
+   "action": "replace_choice",
+   "idx": 3,
+   "before": "強姦犯人",
+   "after": "収益",
+   "prompt": "「kindergarten」の意味は？",
+   "answer": "幼稚園"
+  },
+  {
+   "id": "en-21264",
+   "action": "replace_choice",
+   "idx": 1,
+   "before": "強姦犯人",
+   "after": "夕方",
+   "prompt": "「runaway」の意味は？",
+   "answer": "逃亡者"
+  },
+  {
+   "id": "jp-02756",
+   "action": "remove_example",
+   "before": "自慰は狂気に繋がる。 — Masturbation leads to insanity."
+  },
+  {
+   "id": "es-00180",
+   "action": "replace_choice",
+   "idx": 2,
+   "before": "penis",
+   "after": "occasion",
+   "prompt": "「habla」の意味は？",
+   "answer": "speech"
+  },
+  {
+   "id": "es-01661",
+   "action": "replace_choice",
+   "idx": 0,
+   "before": "penis",
+   "after": "definitely",
+   "prompt": "「despedido」の意味は？",
+   "answer": "laid off"
+  },
+  {
+   "id": "de-00219",
+   "action": "replace_choice",
+   "idx": 2,
+   "before": "shit",
+   "after": "genius",
+   "prompt": "「Zimmer」の意味は？",
+   "answer": "room"
+  },
+  {
+   "id": "de-00445",
+   "action": "replace_choice",
+   "idx": 0,
+   "before": "whore",
+   "after": "always",
+   "prompt": "「Schluss」の意味は？",
+   "answer": "end"
+  },
+  {
+   "id": "de-00515",
+   "action": "replace_choice",
+   "idx": 1,
+   "before": "shithead",
+   "after": "to clarify",
+   "prompt": "「Finger」の意味は？",
+   "answer": "finger"
+  },
+  {
+   "id": "de-01075",
+   "action": "replace_choice",
+   "idx": 3,
+   "before": "to fuck",
+   "after": "once again",
+   "prompt": "「abholen」の意味は？",
+   "answer": "to collect"
+  },
+  {
+   "id": "de-01536",
+   "action": "remove_example",
+   "before": "Gewisse Leute behaupten, L'auberge espagnole sei ein Pornofilm. — 『スパニッシュ・アパートメント』はポルノ映画だ、と主張する向きもある。"
+  },
+  {
+   "id": "de-01568",
+   "action": "replace_choice",
+   "idx": 1,
+   "before": "whore",
+   "after": "beard",
+   "prompt": "「Cent」の意味は？",
+   "answer": "cent"
+  },
+  {
+   "id": "de-01700",
+   "action": "remove_example",
+   "before": "Tom könnte meinetwegen vom Blitz erschlagen werden. — トムなんか雷に打たれて死ねばいいのに。"
+  },
+  {
+   "id": "fr-00186",
+   "action": "replace_choice",
+   "idx": 0,
+   "before": "genitals",
+   "after": "slowly",
+   "prompt": "「meilleur」の意味は？",
+   "answer": "best"
+  },
+  {
+   "id": "fr-00606",
+   "action": "replace_choice",
+   "idx": 0,
+   "before": "rape",
+   "after": "battery",
+   "prompt": "「ramener」の意味は？",
+   "answer": "to take back"
+  },
+  {
+   "id": "fr-00662",
+   "action": "replace_choice",
+   "idx": 3,
+   "before": "genitals",
+   "after": "pity",
+   "prompt": "「reine」の意味は？",
+   "answer": "queen"
+  },
+  {
+   "id": "fr-01425",
+   "action": "replace_choice",
+   "idx": 0,
+   "before": "porno",
+   "after": "to put down",
+   "prompt": "「lourd」の意味は？",
+   "answer": "heavy"
+  },
+  {
+   "id": "fr-01520",
+   "action": "replace_choice",
+   "idx": 0,
+   "before": "rape",
+   "after": "precise",
+   "prompt": "「étoile」の意味は？",
+   "answer": "star"
+  },
+  {
+   "id": "fr-01521",
+   "action": "replace_choice",
+   "idx": 0,
+   "before": "rape",
+   "after": "horror",
+   "prompt": "「engager」の意味は？",
+   "answer": "to engage"
+  },
+  {
+   "id": "fr-01733",
+   "action": "replace_choice",
+   "idx": 1,
+   "before": "rape",
+   "after": "commerce",
+   "prompt": "「détail」の意味は？",
+   "answer": "detail"
+  }
+ ]
+}

@@ -6,6 +6,7 @@ import { shopItems } from '../data/shop.config'
 import { streakConfig } from '../data/streak.config'
 import type { ShopItemKind } from '../types'
 import type { Strings } from '../i18n/types'
+import { loc } from '../i18n'
 
 const sections: { kind: ShopItemKind; labelKey: keyof Strings }[] = [
   { kind: 'title', labelKey: 'shop.titles' },
@@ -15,7 +16,7 @@ const sections: { kind: ShopItemKind; labelKey: keyof Strings }[] = [
 
 export function ShopScreen() {
   const { user, buyItem, equipItem, buyStreakFreeze } = useGame()
-  const { navigate, t } = useNav()
+  const { navigate, t, locale } = useNav()
   const freezeFull = user.streakFreezes >= streakConfig.freezeMax
   const freezePoor = user.coin < streakConfig.freezePrice
 
@@ -68,11 +69,11 @@ export function ShopScreen() {
                         item.kind === 'frame' ? `ring-2 ${item.preview}` : ''
                       }`}
                     >
-                      {item.kind === 'frame' ? '👤' : item.preview}
+                      {item.kind === 'frame' ? '👤' : loc(item.preview, item.previewEn, locale)}
                     </div>
                     <div className="flex-1 min-w-0">
-                      <div className="font-bold text-sm truncate">{item.name}</div>
-                      <div className="text-[11px] text-white/45 truncate">{item.description}</div>
+                      <div className="font-bold text-sm truncate">{loc(item.name, item.nameEn, locale)}</div>
+                      <div className="text-[11px] text-white/45 truncate">{loc(item.description, item.descriptionEn, locale)}</div>
                     </div>
                     <div className="shrink-0">
                       {owned ? (

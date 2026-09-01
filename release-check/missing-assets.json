@@ -1,0 +1,11 @@
+{
+ "stage": 4,
+ "title": "ファイルと参照切れ",
+ "summary": {
+  "critical": 0,
+  "major": 0,
+  "total": 0
+ },
+ "verdict": "PASS",
+ "findings": []
+}

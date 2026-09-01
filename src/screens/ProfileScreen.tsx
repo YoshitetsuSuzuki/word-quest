@@ -1,9 +1,12 @@
+import { useState } from 'react'
 import { useGame } from '../state/GameContext'
 import { useNav } from '../state/nav'
 import { achievements } from '../data/achievements.config'
 import { equippedTitle, equippedFrameClass } from '../modules/shop/shopLogic'
 import { featureFlags } from '../config/featureFlags'
 import { generalReportUrl } from '../utils/report'
+import { Analytics } from '../services/Analytics'
+import { loc } from '../i18n'
 
 export function ProfileScreen() {
   const { user, resetAll } = useGame()
@@ -22,7 +25,7 @@ export function ProfileScreen() {
     setLocale,
     t,
   } = useNav()
-  const title = equippedTitle(user)
+  const title = equippedTitle(user, locale)
   const frame = equippedFrameClass(user)
   const totalBattles = user.battleWins + user.battleLosses
   const winRate = totalBattles > 0 ? Math.round((user.battleWins / totalBattles) * 100) : 0
@@ -76,7 +79,7 @@ export function ProfileScreen() {
       {/* 実績 */}
       {featureFlags.achievementsEnabled && (
         <div>
-          <h3 className="font-black mb-2">{t('profile.achievements')}（{unlocked.size}/{achievements.length}）</h3>
+          <h3 className="font-black mb-2">{t('profile.achievements')} {unlocked.size}/{achievements.length}</h3>
           <div className="grid grid-cols-3 gap-2.5">
             {achievements.map((a) => {
               const got = unlocked.has(a.id)
@@ -84,10 +87,10 @@ export function ProfileScreen() {
                 <div
                   key={a.id}
                   className={`card p-3 text-center ${got ? '' : 'opacity-35 grayscale'}`}
-                  title={a.description}
+                  title={loc(a.description, a.descriptionEn, locale)}
                 >
                   <div className="text-2xl">{a.emoji}</div>
-                  <div className="text-[10px] font-bold mt-1 leading-tight">{a.title}</div>
+                  <div className="text-[10px] font-bold mt-1 leading-tight">{loc(a.title, a.titleEn, locale)}</div>
                 </div>
               )
             })}
@@ -144,6 +147,41 @@ export function ProfileScreen() {
       <button className="btn-ghost w-full py-3 text-sm text-danger" onClick={onReset}>
         {t('profile.reset')}
       </button>
+
+      {/* バージョン表記。5回タップで端末内の計測サマリを開く（開発者/TestFlight確認用・外部送信なし） */}
+      <MetricsFooter />
+    </div>
+  )
+}
+
+/** バージョン行 + 隠し計測ビューア（端末内データのみ・追跡ではない） */
+function MetricsFooter() {
+  const [taps, setTaps] = useState(0)
+  const [open, setOpen] = useState(false)
+  const s = open ? Analytics.summary() : null
+  return (
+    <div className="pt-2 text-center">
+      <button
+        className="text-[10px] text-white/25 py-2"
+        onClick={() => {
+          const n = taps + 1
+          setTaps(n)
+          if (n >= 5) { setOpen(true); setTaps(0) }
+        }}
+      >
+        ちりつも単語 v{import.meta.env.VITE_APP_VERSION ?? '0.1.0'}
+      </button>
+      {open && s && (
+        <div className="card p-3 mt-1 text-left text-[11px] text-white/60 space-y-0.5">
+          <div className="font-bold text-white/80 mb-1">📊 計測（この端末のみ・非送信）</div>
+          <div>初回起動: {s.firstLaunch}（{s.daysSinceInstall}日前）</div>
+          <div>アクティブ日数: {s.activeDays} / セッション: {s.sessions}</div>
+          <div>翌日継続(D1): {s.d1Retained ? '○' : '×'} / 再訪: {s.returned ? '○' : '×'}</div>
+          <div>クイズ 開始→完了率: {s.quizCompletionRate}%（{s.counters['quiz_start'] ?? 0}→{s.counters['quiz_complete'] ?? 0}）</div>
+          <div>広告表示: {s.counters['ad_shown'] ?? 0} / 課金: {s.counters['purchase_success'] ?? 0}（転換 {s.adToPurchaseRate}%）</div>
+          <button className="text-danger mt-1" onClick={() => { Analytics.reset(); setOpen(false) }}>計測をリセット</button>
+        </div>
+      )}
     </div>
   )
 }
