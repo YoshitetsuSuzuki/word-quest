@@ -35,6 +35,7 @@ export interface GameCenterPlugin {
   reportAchievement(options: { achievementId: string; percentComplete: number }): Promise<void>
   showLeaderboard(options: { leaderboardId?: string }): Promise<void>
   showAchievements(): Promise<void>
+  requestReview(): Promise<void>
 }
 
 // Web 実装は全メソッド no-op（registerPlugin の web フォールバック）
@@ -46,6 +47,7 @@ const Native = registerPlugin<GameCenterPlugin>('GameCenter', {
     reportAchievement: async () => {},
     showLeaderboard: async () => {},
     showAchievements: async () => {},
+    requestReview: async () => {},
   },
 })
 
@@ -114,6 +116,16 @@ export const GameCenterService = {
     if (!isIOS()) return
     try {
       await Native.showAchievements()
+    } catch {
+      // 無視
+    }
+  },
+
+  /** App Store レビュー依頼ダイアログをOSに要求する（出すかはOS判断）。 */
+  async requestReview(): Promise<void> {
+    if (!isIOS()) return
+    try {
+      await Native.requestReview()
     } catch {
       // 無視
     }

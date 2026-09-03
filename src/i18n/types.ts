@@ -109,4 +109,14 @@ export interface Strings {
   'pet.openBox': string; 'pet.boxTitle': string; 'pet.setActive': string; 'pet.active': string
   'pet.fuse': string; 'pet.fuseConfirm': string; 'pet.yes': string; 'pet.no': string
   'pet.newBadge': string; 'pet.addedPre': string; 'pet.addedSuffix': string
+  'notify.streakTitle': string; 'notify.streakBody': string
+  'notify.leagueTitle': string; 'notify.leagueBody': string
+  'raid.how': string; 'raid.remainPre': string; 'raid.remainPost': string
+  'raid.again': string; 'raid.stop': string; 'raid.myDamage': string
+  'onboard.goalTitle': string; 'onboard.goalDesc': string
+  'onboard.goalLight': string; 'onboard.goalStd': string; 'onboard.goalHard': string
+  'onboard.goalUnit': string; 'onboard.next': string
+  'whatsnew.title': string; 'whatsnew.cta': string
+  'whatsnew.i1': string; 'whatsnew.i2': string; 'whatsnew.i3': string; 'whatsnew.i4': string
+
 }

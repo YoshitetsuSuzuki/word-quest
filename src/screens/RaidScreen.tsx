@@ -26,11 +26,20 @@ export function RaidScreen() {
   /** この訪問で実際に攻撃したか。覗いただけの人に広告を出さないためのガード */
   const [didAttack, setDidAttack] = useState(false)
 
-  const beginAttack = () => {
-    if (!ready) return
-    setQ(engine.buildSession(category, 1)[0])
+  // 討伐に到達したら攻撃画面を抜け、報酬受取ボタンを見せる
+  useEffect(() => {
+    if (attacking && raid.cleared) setAttacking(false)
+  }, [attacking, raid.cleared])
+
+  const nextQuestion = () => {
+    setQ(engine.buildSession(category, 1, 0, locale)[0])
     setSelected(null)
     setHit(false)
+  }
+
+  const beginAttack = () => {
+    if (!ready) return
+    nextQuestion()
     setAttacking(true)
   }
 
@@ -40,12 +49,13 @@ export function RaidScreen() {
     setSelected(choice)
     setDidAttack(true)
     if (res.correct) setHit(true)
-    window.setTimeout(() => setAttacking(false), 900)
   }
 
   const onClaim = () => {
     claimRaid()
   }
+
+  const remaining = Math.max(0, raid.target - raid.totalProgress)
 
   if (attacking && q) {
     return (
@@ -53,6 +63,13 @@ export function RaidScreen() {
         <div className="text-center">
           <div className={`text-7xl transition ${hit ? 'animate-shake' : ''}`}>{raid.boss.emoji}</div>
           {hit && <div className="text-danger font-black animate-floatUp">{t('raid.hit')}</div>}
+          {/* 攻撃中も常にHPバーを見せ、「自分の1問がボスを削っている」実感を作る */}
+          <div className="px-6 mt-2">
+            <ProgressBar ratio={raid.ratio} barClassName="bg-danger" height={8} />
+            <div className="text-[11px] text-white/50 mt-1 tabular-nums">
+              {t('raid.remainPre')}{remaining}{t('raid.remainPost')}
+            </div>
+          </div>
         </div>
         <div className="card p-6 text-center">
           <div className="text-xs text-white/40 mb-1">{t('raid.attackPrompt')}</div>
@@ -73,6 +90,17 @@ export function RaidScreen() {
             )
           })}
         </div>
+        {/* 回答後は「連続攻撃」で流れを切らない。1問ごとにホームへ戻さない */}
+        {selected && (
+          <div className="grid gap-2.5 animate-pop">
+            <button className="btn-primary w-full py-3.5" onClick={nextQuestion}>
+              {t('raid.again')}
+            </button>
+            <button className="btn-ghost w-full py-3" onClick={() => setAttacking(false)}>
+              {t('raid.stop')}
+            </button>
+          </div>
+        )}
       </div>
     )
   }
@@ -87,15 +115,17 @@ export function RaidScreen() {
         <div className="mt-4">
           <ProgressBar ratio={raid.ratio} barClassName="bg-danger" height={14} />
           <div className="flex justify-between text-xs text-white/50 mt-1.5 tabular-nums">
-            <span>{raid.totalProgress} / {raid.target}</span>
-            <span>{Math.round(raid.ratio * 100)}%</span>
+            <span>HP {raid.totalProgress} / {raid.target}</span>
+            <span>{raid.cleared ? '💥' : `${t('raid.remainPre')}${remaining}${t('raid.remainPost')}`}</span>
           </div>
         </div>
         <div className="text-xs text-white/45 mt-3">
-          {t('raid.contribution')} <span className="text-accent2 font-bold">{raid.myContribution}</span> ·
-          {t('raid.coop')}
+          {t('raid.myDamage')} <span className="text-accent2 font-bold">{raid.myContribution}</span>
         </div>
       </div>
+
+      {/* 遊び方を1行で。「正解1回＝1ダメージ」と一言で言える設計にする */}
+      <div className="card p-4 text-sm text-white/60 leading-relaxed">{t('raid.how')}</div>
 
       <div className="card p-4 text-sm text-white/60">
         {t('raid.rewardPre')}🪙{raid.boss.rewardCoin} / {raid.boss.rewardXp}XP

@@ -9,6 +9,7 @@ import { playCorrect, playWrong, playCombo } from '../utils/audio'
 import { hapticCorrect, hapticWrong, hapticCombo } from '../utils/haptics'
 import { comboTierOf, isComboMilestone } from '../core/comboTier'
 import { Analytics } from '../services/Analytics'
+import { ReviewPromptService } from '../services/ReviewPromptService'
 import { ShareService } from '../services/ShareService'
 import { petBonus } from '../core/PetEngine'
 import { todayStr } from '../state/dateUtils'
@@ -184,6 +185,8 @@ export function QuizScreen() {
     if (index + 1 >= questions.length) {
       setFinished(true)
       Analytics.track('quiz_complete', { correct: sessionCorrect, total: questions.length })
+      // 好成績で終えた節目にだけ App Store レビュー依頼を試みる(頻度制御はサービス側)
+      ReviewPromptService.maybeAsk(sessionCorrect, questions.length, user.totalCorrect)
       return
     }
     setIndex((i) => i + 1)

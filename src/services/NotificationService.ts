@@ -11,6 +11,10 @@ import { LocalNotifications } from '@capacitor/local-notifications'
 
 /** 毎日のリマインド通知ID（固定。再スケジュール時に上書きするため） */
 const DAILY_ID = 1001
+/** ストリーク危機通知ID（今日まだ学習していない夜にだけ鳴る単発通知） */
+const STREAK_GUARD_ID = 1002
+/** 週替わりリーグ結果通知ID（毎週月曜朝の繰り返し） */
+const LEAGUE_ID = 1003
 /** 既定のリマインド時刻（24h表記） */
 const DEFAULT_HOUR = 20
 const DEFAULT_MINUTE = 0
@@ -89,6 +93,61 @@ export const NotificationService = {
       await LocalNotifications.cancel({ notifications: [{ id: DAILY_ID }] })
     } catch {
       // 無視
+    }
+  },
+
+  /**
+   * ストリーク危機通知を「今夜21:30」に単発でセットする。
+   * 「今日まだ学習していない」ときだけ呼ぶ。学習したら cancelStreakGuard で解除。
+   * 21:30を過ぎていたら何もしない（今日のチャンスは逃した扱い）。
+   */
+  async scheduleStreakGuard(title: string, body: string): Promise<void> {
+    if (!isNative()) return
+    try {
+      const at = new Date()
+      at.setHours(21, 30, 0, 0)
+      if (at.getTime() <= Date.now()) return
+      await LocalNotifications.cancel({ notifications: [{ id: STREAK_GUARD_ID }] }).catch(() => {})
+      await LocalNotifications.schedule({
+        notifications: [
+          { id: STREAK_GUARD_ID, title, body, schedule: { at, allowWhileIdle: true } },
+        ],
+      })
+    } catch {
+      // ベストエフォート
+    }
+  },
+
+  /** ストリーク危機通知を解除する（今日の学習を確認できたとき） */
+  async cancelStreakGuard(): Promise<void> {
+    if (!isNative()) return
+    try {
+      await LocalNotifications.cancel({ notifications: [{ id: STREAK_GUARD_ID }] })
+    } catch {
+      // 無視
+    }
+  },
+
+  /**
+   * 週替わりリーグの結果発表通知を毎週月曜8:00にセットする（繰り返し）。
+   * リーグは週替わりで月曜に締まるため、結果を見に戻る動機を作る。
+   */
+  async scheduleLeagueResult(title: string, body: string): Promise<void> {
+    if (!isNative()) return
+    try {
+      await LocalNotifications.cancel({ notifications: [{ id: LEAGUE_ID }] }).catch(() => {})
+      await LocalNotifications.schedule({
+        notifications: [
+          {
+            id: LEAGUE_ID,
+            title,
+            body,
+            schedule: { on: { weekday: 2, hour: 8, minute: 0 }, repeats: true, allowWhileIdle: true },
+          },
+        ],
+      })
+    } catch {
+      // ベストエフォート
     }
   },
 }

@@ -1,4 +1,5 @@
 import { defineConfig } from 'vite'
+import { version } from './package.json'
 import react from '@vitejs/plugin-react'
 import { VitePWA } from 'vite-plugin-pwa'
 
@@ -9,6 +10,8 @@ const isCap = process.env.CAP === '1'
 
 // 本番(GitHub Pages build)は /word-quest/ 配下、開発はルート(/)、アプリは相対(./)
 export default defineConfig(({ command }) => ({
+  // アプリ内表示用バージョン(package.jsonが単一の真実)
+  define: { 'import.meta.env.VITE_APP_VERSION': JSON.stringify(version) },
   base: isCap ? './' : command === 'build' ? '/word-quest/' : '/',
   plugins: [
     react(),

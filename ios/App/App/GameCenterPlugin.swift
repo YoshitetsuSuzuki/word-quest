@@ -12,6 +12,7 @@
 import Foundation
 import Capacitor
 import GameKit
+import StoreKit
 
 @objc(GameCenterPlugin)
 public class GameCenterPlugin: CAPPlugin, CAPBridgedPlugin {
@@ -24,6 +25,7 @@ public class GameCenterPlugin: CAPPlugin, CAPBridgedPlugin {
         CAPPluginMethod(name: "reportAchievement", returnType: CAPPluginReturnPromise),
         CAPPluginMethod(name: "showLeaderboard", returnType: CAPPluginReturnPromise),
         CAPPluginMethod(name: "showAchievements", returnType: CAPPluginReturnPromise),
+        CAPPluginMethod(name: "requestReview", returnType: CAPPluginReturnPromise),
     ]
 
     private var authenticated = false
@@ -108,6 +110,22 @@ public class GameCenterPlugin: CAPPlugin, CAPBridgedPlugin {
             }
             vc.gameCenterDelegate = self
             self?.bridge?.viewController?.present(vc, animated: true)
+            call.resolve()
+        }
+    }
+
+    // App Store レビュー依頼（SKStoreReviewController）。
+    // 表示するかどうかは最終的に OS が判断する（年3回上限などApple側で制御）。
+    // 呼び出しタイミングの節度（節目のみ・低頻度）は JS 側 ReviewPromptService が担う。
+    @objc func requestReview(_ call: CAPPluginCall) {
+        DispatchQueue.main.async {
+            if let scene = UIApplication.shared.connectedScenes.first(where: { $0.activationState == .foregroundActive }) as? UIWindowScene {
+                if #available(iOS 16.0, *) {
+                    AppStore.requestReview(in: scene)
+                } else {
+                    SKStoreReviewController.requestReview(in: scene)
+                }
+            }
             call.resolve()
         }
     }

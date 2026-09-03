@@ -19,6 +19,8 @@ import { BottomNav } from './components/BottomNav'
 import { CelebrationOverlay } from './components/CelebrationOverlay'
 import { LoginBonusModal } from './components/LoginBonusModal'
 import { OnboardingModal } from './components/OnboardingModal'
+import { WhatsNewModal } from './components/WhatsNewModal'
+import { NotificationCoordinator } from './components/NotificationCoordinator'
 import { HomeScreen } from './screens/HomeScreen'
 import { QuizScreen } from './screens/QuizScreen'
 import { ListeningScreen } from './screens/ListeningScreen'
@@ -192,6 +194,8 @@ export default function App() {
         <LoginBonusModal />
         <CelebrationOverlay />
         <OnboardingModal />
+        <WhatsNewModal />
+        <NotificationCoordinator />
       </div>
     </NavContext.Provider>
   )
