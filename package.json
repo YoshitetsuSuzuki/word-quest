@@ -11,7 +11,8 @@
     "build:app": "tsc -b && CAP=1 vite build",
     "sync:app": "npm run build:app && npx cap sync",
     "ios": "npm run sync:app && npx cap open ios",
-    "android": "npm run sync:app && npx cap open android"
+    "android": "npm run sync:app && npx cap open android",
+    "dev:shot": "VITE_DEMO=1 vite --port 5199"
   },
   "dependencies": {
     "@capacitor-community/admob": "^8.0.0",
