@@ -8,6 +8,7 @@ import { ProgressBar } from '../components/ProgressBar'
 import { DailyLoopCard } from '../components/DailyLoopCard'
 import { WeeklyChart } from '../components/WeeklyChart'
 import { PetWidget } from '../components/PetWidget'
+import { UpdateBanner } from '../components/UpdateBanner'
 import { categories } from '../data/categories'
 import { todayStr } from '../state/dateUtils'
 import { LEAGUES, standings, myRank } from '../modules/league/leagueLogic'
@@ -118,6 +119,9 @@ export function HomeScreen() {
           🔥 {user.studyStreak}{t('home.streakMid')}{user.todayCoin}{t('home.streakEnd')}
         </p>
       </div>
+
+      {/* 新バージョンのお知らせ(あるときだけ) */}
+      <UpdateBanner />
 
       {/* 学習相棒(育成キャラ) */}
       <PetWidget />

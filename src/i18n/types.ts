@@ -119,4 +119,10 @@ export interface Strings {
   'whatsnew.title': string; 'whatsnew.cta': string
   'whatsnew.i1': string; 'whatsnew.i2': string; 'whatsnew.i3': string; 'whatsnew.i4': string
 
+  'examplecard.myList': string; 'examplecard.listView': string; 'examplecard.cardView': string
+  'examplecard.myListEmpty': string; 'examplecard.saved': string
+  'update.available': string; 'update.cta': string
+  'ads.notReady': string
+  'whatsnew.i5': string
+
 }

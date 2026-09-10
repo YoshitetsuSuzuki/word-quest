@@ -1,4 +1,5 @@
 import { useEffect, useMemo, useState } from 'react'
+import { showToast } from '../components/Toast'
 import { useGame } from '../state/GameContext'
 import { useNav } from '../state/nav'
 import { ReviewScheduler } from '../core/ReviewScheduler'
@@ -24,7 +25,7 @@ const SPEED_MS = 4000 // スピードモードの1問あたり制限時間（8�
 
 export function QuizScreen() {
   const game = useGame()
-  const { user, engine, answerQuestion, ensureCategory, isCategoryReady, toggleDeck } = game
+  const { user, engine, answerQuestion, ensureCategory, isCategoryReady, toggleDeck, toggleExampleDeck } = game
   const { quizMode, navigate, category, customIds, setCustomIds, soundEnabled, studyLevel, sfxEnabled, sfxVolume, t, locale } = useNav()
 
   const showInterstitial = useInterstitial()
@@ -201,6 +202,7 @@ export function QuizScreen() {
     // リワード広告: 動画を見ると今セッションのコインをもう一度付与（＝2倍）
     const watchForDouble = async () => {
       const earned = await AdService.showRewarded()
+                    if (AdService.rewardedLoadFailed) showToast(t('ads.notReady'))
       if (earned) {
         game.grantCoins(sessionCoin)
         setRewardClaimed(true)
@@ -373,6 +375,7 @@ export function QuizScreen() {
                 className="btn-ghost w-full py-3 ring-1 ring-gold/50 text-gold"
                 onClick={async () => {
                   const earned = await AdService.showRewarded()
+                    if (AdService.rewardedLoadFailed) showToast(t('ads.notReady'))
                   if (earned) {
                     setCombo(lostCombo)
                     setLostCombo(0)
@@ -395,6 +398,14 @@ export function QuizScreen() {
               {ex && (
                 <div className="flex items-start gap-2 text-white/60">
                   <span className="flex-1">{t('quiz.example')} {ex.text}{ex.translation && ` — ${ex.translation}`}</span>
+                  {/* ☆で例文マイリストへ保存(例文カードのマイリストと共通) */}
+                  <button
+                    onClick={() => toggleExampleDeck(q.id)}
+                    aria-label={t('examplecard.myList')}
+                    className={`shrink-0 w-7 h-7 grid place-items-center rounded-full bg-white/10 text-sm active:scale-90 transition ${(user.exampleDeck ?? []).includes(q.id) ? 'text-gold' : 'text-white/40'}`}
+                  >
+                    {(user.exampleDeck ?? []).includes(q.id) ? '★' : '☆'}
+                  </button>
                   {canSpeak() && (
                     <button
                       onClick={() => speak(ex.text, langForCategory(category))}

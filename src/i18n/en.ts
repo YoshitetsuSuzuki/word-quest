@@ -122,4 +122,10 @@ export const en: Strings = {
   'whatsnew.i3': '🏆 League results delivered every Monday morning',
   'whatsnew.i4': '🎯 New players now set a daily goal',
 
+  'examplecard.myList': '★ My list', 'examplecard.listView': '☰ List', 'examplecard.cardView': '🃏 Cards',
+  'examplecard.myListEmpty': 'Your list is empty. Save cards with the ☆ on each card.', 'examplecard.saved': '★ Saved',
+  'update.available': 'A new version is available', 'update.cta': 'Update on the App Store',
+  'ads.notReady': "The ad isn't ready yet. Please try again later.",
+  'whatsnew.i5': '📖 Example cards: ★ my list and list view',
+
 }

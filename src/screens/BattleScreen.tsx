@@ -1,4 +1,5 @@
 import { useEffect, useMemo, useState } from 'react'
+import { showToast } from '../components/Toast'
 import { useGame } from '../state/GameContext'
 import { useNav } from '../state/nav'
 import {
@@ -169,6 +170,7 @@ export function BattleScreen() {
           onClick={async () => {
             setRetryBusy(true)
             const earned = await AdService.showRewarded()
+                    if (AdService.rewardedLoadFailed) showToast(t('ads.notReady'))
             setRetryBusy(false)
             if (earned) start(true)
           }}

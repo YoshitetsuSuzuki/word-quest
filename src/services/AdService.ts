@@ -111,7 +111,11 @@ export const AdService = {
    * リワード動画を表示し、最後まで見て報酬を得たら true を返す。
    * ネイティブ以外・ロード失敗・途中閉じは false。
    */
+  /** 直前の showRewarded が「広告を出せずに」失敗したか(途中閉じと区別するため) */
+  rewardedLoadFailed: false,
+
   async showRewarded(): Promise<boolean> {
+    this.rewardedLoadFailed = false
     if (!isNative()) return false
     try {
       await ensureInit()
@@ -130,6 +134,8 @@ export const AdService = {
       Analytics.track('ad_shown', { type: 'rewarded', earned })
       return earned
     } catch (e) {
+      // 在庫なし(no fill)・未承認・オフライン等で広告そのものを出せなかった
+      this.rewardedLoadFailed = true
       console.warn('[AdService] rewarded failed', e)
       return false
     }

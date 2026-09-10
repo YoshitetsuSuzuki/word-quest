@@ -78,6 +78,7 @@ interface GameApi {
   equipItem: (id: string) => void
   /** 自分専用の単語帳に追加/削除（タップで暗記カードを作る） */
   toggleDeck: (questionId: string) => void
+  toggleExampleDeck: (questionId: string) => void
   toggleMastered: (questionId: string) => void
   choosePetStarter: (species: PetSpeciesId) => void
   markPetForm: (form: number) => void
@@ -125,6 +126,7 @@ function migrate(u: User): User {
     level: num(u.level, 1) || 1,
     wordStats: u.wordStats ?? {},
     customDeck: u.customDeck ?? [],
+    exampleDeck: u.exampleDeck ?? [],
     masteredIds: u.masteredIds ?? [],
     todayAnswered: num(u.todayAnswered ?? 0),
     todayAnsweredDate: u.todayAnsweredDate ?? todayStr(),
@@ -513,6 +515,16 @@ export function GameProvider({ children }: { children: ReactNode }) {
           customDeck: prev.customDeck.includes(questionId)
             ? prev.customDeck.filter((id) => id !== questionId)
             : [...prev.customDeck, questionId],
+        }))
+      },
+
+      toggleExampleDeck: (questionId) => {
+        // 例文マイリストのトグル(toggleDeckと同じ純粋トグル)
+        setUser((prev) => ({
+          ...prev,
+          exampleDeck: (prev.exampleDeck ?? []).includes(questionId)
+            ? (prev.exampleDeck ?? []).filter((id) => id !== questionId)
+            : [...(prev.exampleDeck ?? []), questionId],
         }))
       },
 

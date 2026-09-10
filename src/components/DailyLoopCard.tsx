@@ -1,4 +1,5 @@
 import { useState } from 'react'
+import { showToast } from './Toast'
 import { useGame } from '../state/GameContext'
 import { useNav } from '../state/nav'
 import { todayStr } from '../state/dateUtils'
@@ -99,6 +100,7 @@ export function DailyLoopCard() {
                 onClick={async () => {
                   setFreezeBusy(true)
                   const earned = await AdService.showRewarded()
+                    if (AdService.rewardedLoadFailed) showToast(t('ads.notReady'))
                   if (earned && grantFreezeByAd()) setFreezeGot(true)
                   setFreezeBusy(false)
                 }}

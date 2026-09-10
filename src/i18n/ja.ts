@@ -122,4 +122,10 @@ export const ja: Strings = {
   'whatsnew.i3': '🏆 毎週月曜朝にリーグ結果をお届け',
   'whatsnew.i4': '🎯 はじめての方に「1日の目標」設定を追加',
 
+  'examplecard.myList': '★マイリスト', 'examplecard.listView': '☰ 一覧', 'examplecard.cardView': '🃏 カード',
+  'examplecard.myListEmpty': 'マイリストは空です。カード右上の ☆ で保存できます。', 'examplecard.saved': '★ 保存しました',
+  'update.available': '新しいバージョンがあります', 'update.cta': 'App Storeでアップデート',
+  'ads.notReady': '広告の準備ができませんでした。しばらくしてからお試しください。',
+  'whatsnew.i5': '📖 例文カードに★マイリストと一覧表示を追加',
+
 }

@@ -21,6 +21,7 @@ import { LoginBonusModal } from './components/LoginBonusModal'
 import { OnboardingModal } from './components/OnboardingModal'
 import { WhatsNewModal } from './components/WhatsNewModal'
 import { NotificationCoordinator } from './components/NotificationCoordinator'
+import { ToastHost } from './components/Toast'
 import { HomeScreen } from './screens/HomeScreen'
 import { QuizScreen } from './screens/QuizScreen'
 import { ListeningScreen } from './screens/ListeningScreen'
@@ -196,6 +197,7 @@ export default function App() {
         <OnboardingModal />
         <WhatsNewModal />
         <NotificationCoordinator />
+        <ToastHost />
       </div>
     </NavContext.Provider>
   )

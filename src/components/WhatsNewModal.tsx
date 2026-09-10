@@ -37,7 +37,7 @@ export function WhatsNewModal() {
     setOpen(false)
   }
 
-  const items = [t('whatsnew.i1'), t('whatsnew.i2'), t('whatsnew.i3'), t('whatsnew.i4')]
+  const items = [t('whatsnew.i1'), t('whatsnew.i5'), t('whatsnew.i2'), t('whatsnew.i3'), t('whatsnew.i4')]
 
   return (
     <div className="fixed inset-0 z-50 grid place-items-center bg-night/95 p-6" onClick={close}>

@@ -1,4 +1,5 @@
 import { useState } from 'react'
+import { showToast } from './Toast'
 import { useGame, GEM_AD_DAILY_MAX } from '../state/GameContext'
 import { useNav } from '../state/nav'
 import { featureFlags } from '../config/featureFlags'
@@ -23,6 +24,7 @@ export function GemAdCard() {
   const watch = async () => {
     setBusy(true)
     const earned = await AdService.showRewarded()
+                    if (AdService.rewardedLoadFailed) showToast(t('ads.notReady'))
     if (earned) grantGemByAd()
     setBusy(false)
   }
