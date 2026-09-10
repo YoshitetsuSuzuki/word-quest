@@ -2,7 +2,6 @@ import type { Strings } from './types'
 export const en: Strings = {
   'nav.home': 'Home', 'nav.quiz': 'Quiz', 'nav.study': 'Learn', 'nav.rank': 'Rank', 'nav.profile': 'Profile',
   'home.startQuiz': '▶ Start quiz', 'home.listening': '🎧 Listening', 'home.dailyGoal': "Today's goal",
-  'home.heroPre': 'Reach the ', 'home.heroAccent': 'top', 'home.heroPost': ' with words.',
   'home.streakMid': '-day streak · 🪙', 'home.streakEnd': ' today',
   'home.language': 'Language', 'home.comingSoon': 'Soon', 'home.level': 'Level', 'home.mixed': 'Mixed',
   'home.listenHintSpell': 'Listen and spell', 'home.listenHintChoice': 'Listen and pick the meaning',

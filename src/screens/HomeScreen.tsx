@@ -111,14 +111,10 @@ export function HomeScreen() {
 
   return (
     <div className="space-y-4">
-      <div>
-        <h1 className="text-2xl font-black leading-tight">
-          {t('home.heroPre')}<span className="text-accent2">{t('home.heroAccent')}</span>{t('home.heroPost')}
-        </h1>
-        <p className="text-sm text-white/50 mt-1">
-          🔥 {user.studyStreak}{t('home.streakMid')}{user.todayCoin}{t('home.streakEnd')}
-        </p>
-      </div>
+      {/* キャッチコピーは廃止(多言語アプリに「英単語で」は不適)。実データのストリーク表示のみ残す */}
+      <p className="text-sm text-white/60 font-bold">
+        🔥 {user.studyStreak}{t('home.streakMid')}{user.todayCoin}{t('home.streakEnd')}
+      </p>
 
       {/* 新バージョンのお知らせ(あるときだけ) */}
       <UpdateBanner />

@@ -2,7 +2,6 @@ import type { Strings } from './types'
 export const ja: Strings = {
   'nav.home': 'ホーム', 'nav.quiz': 'クイズ', 'nav.study': 'まなび', 'nav.rank': 'ランク', 'nav.profile': 'プロフ',
   'home.startQuiz': '▶ クイズをはじめる', 'home.listening': '🎧 リスニング', 'home.dailyGoal': '今日の目標',
-  'home.heroPre': '英単語で、', 'home.heroAccent': '世界一', 'home.heroPost': 'へ。',
   'home.streakMid': '日連続学習中 ・ 今日 🪙', 'home.streakEnd': ' 獲得',
   'home.language': '学習ジャンル', 'home.comingSoon': '準備中', 'home.level': 'レベル', 'home.mixed': 'おまかせ',
   'home.listenHintSpell': '例文を聴いてスペル入力', 'home.listenHintChoice': '音声を聴いて意味を4択',

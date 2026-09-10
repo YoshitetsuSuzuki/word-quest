@@ -4,7 +4,6 @@ export const LOCALES: Locale[] = ['ja', 'en']
 export interface Strings {
   'nav.home': string; 'nav.quiz': string; 'nav.study': string; 'nav.rank': string; 'nav.profile': string
   'home.startQuiz': string; 'home.listening': string; 'home.dailyGoal': string
-  'home.heroPre': string; 'home.heroAccent': string; 'home.heroPost': string
   'home.streakMid': string; 'home.streakEnd': string
   'home.language': string; 'home.comingSoon': string; 'home.level': string; 'home.mixed': string
   'home.listenHintSpell': string; 'home.listenHintChoice': string
