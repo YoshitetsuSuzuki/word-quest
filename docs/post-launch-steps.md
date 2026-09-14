@@ -82,7 +82,10 @@ Apple ID: 6792366503 / Bundle ID: com.infinitygames.wordquest
 1. https://app.revenuecat.com でアカウント作成（無料枠あり）
 2. プロジェクト作成 → **Apple App Store** アプリを追加
    - Bundle ID: `com.infinitygames.wordquest`
-   - App Store Connect の共有シークレット等を設定
+   - **アプリ内課金キー（.p8）が必須**（SDK v5+ / StoreKit 2 では未設定だと購入が記録されない）
+     - App Store Connect →「ユーザとアクセス」→「統合」→「アプリ内課金」→ キーを生成 → **.p8 は1回しかダウンロードできない**
+     - 同じ画面の **Issuer ID** を控える
+     - RevenueCat → Apps → iOSアプリ →「In-app purchase key configuration」に .p8 をアップロード＋Issuer ID を入力 → 保存
 3. **Products** に `com.infinitygames.wordquest.removeads` を登録
 4. **Entitlements** に `premium` を作成し、上の商品を紐付け
 5. **API Keys** → Apple 用の **公開APIキー**（appl_ で始まる）をコピー
