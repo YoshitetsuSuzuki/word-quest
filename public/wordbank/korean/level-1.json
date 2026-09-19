@@ -38439,5 +38439,797 @@
   ],
   "pronunciation": "[s͈o̞pʰa̠]",
   "verified": true
+ },
+ {
+  "id": "ko-02564",
+  "category": "korean",
+  "prompt": "「얼다」の意味は？",
+  "answer": "to freeze",
+  "glosses": {
+   "en": "to freeze",
+   "ja": "凍る"
+  },
+  "choices": [
+   "to exist",
+   "comfortable",
+   "to freeze",
+   "to emerge"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈɘ(ː)ɭda̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02565",
+  "category": "korean",
+  "prompt": "「물다」の意味は？",
+  "answer": "to bite",
+  "glosses": {
+   "en": "to bite",
+   "ja": "かむ"
+  },
+  "choices": [
+   "to bite",
+   "calm",
+   "manly",
+   "to finish"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[muɭda̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02566",
+  "category": "korean",
+  "prompt": "「벌다」の意味は？",
+  "answer": "to earn",
+  "glosses": {
+   "en": "to earn",
+   "ja": "稼ぐ"
+  },
+  "choices": [
+   "to bloom",
+   "to earn",
+   "unhappy",
+   "to endure"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈpɘ(ː)ɭda̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02567",
+  "category": "korean",
+  "prompt": "「마치다」の意味は？",
+  "answer": "to finish",
+  "glosses": {
+   "en": "to finish",
+   "ja": "終える"
+  },
+  "choices": [
+   "to respond",
+   "comfortable",
+   "to finish",
+   "to hug"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ma̠t͡ɕʰida̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02568",
+  "category": "korean",
+  "prompt": "「피다」の意味は？",
+  "answer": "to bloom",
+  "glosses": {
+   "en": "to bloom",
+   "ja": "咲く"
+  },
+  "choices": [
+   "serious",
+   "to burn",
+   "to gaze",
+   "to bloom"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[pʰida̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02569",
+  "category": "korean",
+  "prompt": "「완벽하다」の意味は？",
+  "answer": "perfect",
+  "glosses": {
+   "en": "perfect",
+   "ja": "完璧な"
+  },
+  "choices": [
+   "to gaze",
+   "perfect",
+   "to flee",
+   "to kneel"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[wa̠nbjʌ̹kʰa̠da̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02570",
+  "category": "korean",
+  "prompt": "「접다」の意味は？",
+  "answer": "to fold",
+  "glosses": {
+   "en": "to fold",
+   "ja": "折る"
+  },
+  "choices": [
+   "to gaze",
+   "to fold",
+   "to bloom",
+   "manly"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[t͡ɕʌ̹p̚t͈a̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02571",
+  "category": "korean",
+  "prompt": "「안다」の意味は？",
+  "answer": "to hug",
+  "glosses": {
+   "en": "to hug",
+   "ja": "抱き締める"
+  },
+  "choices": [
+   "to lay",
+   "to hug",
+   "to pay",
+   "unhappy"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈa̠(ː)nt͈a̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02572",
+  "category": "korean",
+  "prompt": "「진지하다」の意味は？",
+  "answer": "serious",
+  "glosses": {
+   "en": "serious",
+   "ja": "真剣な"
+  },
+  "choices": [
+   "serious",
+   "manly",
+   "useless",
+   "to kneel"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[t͡ɕiɲd͡ʑiɦa̠da̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02573",
+  "category": "korean",
+  "prompt": "「존재하다」の意味は？",
+  "answer": "to exist",
+  "glosses": {
+   "en": "to exist",
+   "ja": "存在する"
+  },
+  "choices": [
+   "perfect",
+   "to sleep",
+   "to kneel",
+   "to exist"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[t͡ɕo̞ɲd͡ʑɛɦa̠da̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02574",
+  "category": "korean",
+  "prompt": "「변하다」の意味は？",
+  "answer": "to change",
+  "glosses": {
+   "en": "to change",
+   "ja": "変わる"
+  },
+  "choices": [
+   "to hug",
+   "to bloom",
+   "to burn",
+   "to change"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈpjɘ(ː)nɦa̠da̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02575",
+  "category": "korean",
+  "prompt": "「도망가다」の意味は？",
+  "answer": "to flee",
+  "glosses": {
+   "en": "to flee",
+   "ja": "逃げる"
+  },
+  "choices": [
+   "to lay",
+   "to flee",
+   "to endure",
+   "to exist"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[to̞ma̠ŋɡa̠da̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02576",
+  "category": "korean",
+  "prompt": "「아끼다」の意味は？",
+  "answer": "to cherish",
+  "glosses": {
+   "en": "to cherish",
+   "ja": "大事にする"
+  },
+  "choices": [
+   "to gaze",
+   "to emerge",
+   "to cherish",
+   "to ignore"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[a̠k͈ida̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02577",
+  "category": "korean",
+  "prompt": "「망치다」の意味は？",
+  "answer": "to ruin",
+  "glosses": {
+   "en": "to ruin",
+   "ja": "台無しにする"
+  },
+  "choices": [
+   "to ruin",
+   "to fish",
+   "to bloom",
+   "perfect"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ma̠ŋt͡ɕʰida̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02578",
+  "category": "korean",
+  "prompt": "「응답하다」の意味は？",
+  "answer": "to respond",
+  "glosses": {
+   "en": "to respond",
+   "ja": "応答する"
+  },
+  "choices": [
+   "to finish",
+   "to kneel",
+   "to respond",
+   "nasty"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈɯ(ː)ŋda̠pʰa̠da̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02579",
+  "category": "korean",
+  "prompt": "「쓸모없다」の意味は？",
+  "answer": "useless",
+  "glosses": {
+   "en": "useless",
+   "ja": "役に立たない"
+  },
+  "choices": [
+   "to bite",
+   "useless",
+   "to disappoint",
+   "to fish"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[s͈ɯɭmo̞ʌ̹p̚t͈a̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02580",
+  "category": "korean",
+  "prompt": "「말씀하다」の意味は？",
+  "answer": "to say",
+  "glosses": {
+   "en": "to say",
+   "ja": "おっしゃる"
+  },
+  "choices": [
+   "to finish",
+   "to say",
+   "to lay",
+   "to ruin"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈma̠(ː)ɭs͈ɯmɦa̠da̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02581",
+  "category": "korean",
+  "prompt": "「골다」の意味は？",
+  "answer": "to snore",
+  "glosses": {
+   "en": "to snore",
+   "ja": "いびきをかく"
+  },
+  "choices": [
+   "comfortable",
+   "perfect",
+   "to snore",
+   "to lay"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈko̞(ː)ɭda̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02582",
+  "category": "korean",
+  "prompt": "「태우다」の意味は？",
+  "answer": "to burn",
+  "glosses": {
+   "en": "to burn",
+   "ja": "燃やす"
+  },
+  "choices": [
+   "to gaze",
+   "to snore",
+   "serious",
+   "to burn"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[tʰɛuda̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02583",
+  "category": "korean",
+  "prompt": "「꿇다」の意味は？",
+  "answer": "to kneel",
+  "glosses": {
+   "en": "to kneel",
+   "ja": "ひざまずく"
+  },
+  "choices": [
+   "to kneel",
+   "to rot",
+   "to endure",
+   "to disappoint"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[k͈uɭtʰa̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02584",
+  "category": "korean",
+  "prompt": "「떠오르다」の意味は？",
+  "answer": "to emerge",
+  "glosses": {
+   "en": "to emerge",
+   "ja": "浮かび上がる"
+  },
+  "choices": [
+   "to respond",
+   "to emerge",
+   "to flee",
+   "to exist"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[t͈ʌ̹o̞ɾɯda̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02585",
+  "category": "korean",
+  "prompt": "「무시하다」の意味は？",
+  "answer": "to ignore",
+  "glosses": {
+   "en": "to ignore",
+   "ja": "無視する"
+  },
+  "choices": [
+   "to burn",
+   "to say",
+   "to ignore",
+   "to flee"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[muɕʰiɦa̠da̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02586",
+  "category": "korean",
+  "prompt": "「실망시키다」の意味は？",
+  "answer": "to disappoint",
+  "glosses": {
+   "en": "to disappoint",
+   "ja": "失望させる"
+  },
+  "choices": [
+   "to disappoint",
+   "to pay",
+   "to emerge",
+   "manly"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ɕʰiɭma̠ŋɕʰicçida̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02587",
+  "category": "korean",
+  "prompt": "「남자답다」の意味は？",
+  "answer": "manly",
+  "glosses": {
+   "en": "manly",
+   "ja": "男らしい"
+  },
+  "choices": [
+   "to fish",
+   "comfortable",
+   "to gaze",
+   "manly"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[na̠md͡ʑa̠da̠p̚t͈a̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02588",
+  "category": "korean",
+  "prompt": "「썩다」の意味は？",
+  "answer": "to rot",
+  "glosses": {
+   "en": "to rot",
+   "ja": "腐る"
+  },
+  "choices": [
+   "to break",
+   "comfortable",
+   "to rot",
+   "to fold"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[s͈ʌ̹k̚t͈a̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02589",
+  "category": "korean",
+  "prompt": "「편안하다」の意味は？",
+  "answer": "comfortable",
+  "glosses": {
+   "en": "comfortable",
+   "ja": "心地よい"
+  },
+  "choices": [
+   "to change",
+   "comfortable",
+   "nasty",
+   "to ruin"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[pʰjʌ̹na̠nɦa̠da̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02590",
+  "category": "korean",
+  "prompt": "「버티다」の意味は？",
+  "answer": "to endure",
+  "glosses": {
+   "en": "to endure",
+   "ja": "耐える"
+  },
+  "choices": [
+   "to exist",
+   "to endure",
+   "to freeze",
+   "to fold"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[pʌ̹tʰida̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02591",
+  "category": "korean",
+  "prompt": "「불행하다」の意味は？",
+  "answer": "unhappy",
+  "glosses": {
+   "en": "unhappy",
+   "ja": "不幸な"
+  },
+  "choices": [
+   "to bloom",
+   "unhappy",
+   "to rot",
+   "to ruin"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[puɾɦɛŋɦa̠da̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02592",
+  "category": "korean",
+  "prompt": "「못되다」の意味は？",
+  "answer": "nasty",
+  "glosses": {
+   "en": "nasty",
+   "ja": "意地悪な"
+  },
+  "choices": [
+   "to break",
+   "manly",
+   "nasty",
+   "to disappoint"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈmo̞(ː)t̚t͈we̞da̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02593",
+  "category": "korean",
+  "prompt": "「낚다」の意味は？",
+  "answer": "to fish",
+  "glosses": {
+   "en": "to fish",
+   "ja": "釣る"
+  },
+  "choices": [
+   "perfect",
+   "to fish",
+   "to break",
+   "to kneel"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[na̠k̚t͈a̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02594",
+  "category": "korean",
+  "prompt": "「부수다」の意味は？",
+  "answer": "to break",
+  "glosses": {
+   "en": "to break",
+   "ja": "壊す"
+  },
+  "choices": [
+   "to sleep",
+   "to change",
+   "to break",
+   "to say"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[pusʰuda̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02595",
+  "category": "korean",
+  "prompt": "「깔다」の意味は？",
+  "answer": "to lay",
+  "glosses": {
+   "en": "to lay",
+   "ja": "敷く"
+  },
+  "choices": [
+   "to pay",
+   "to exist",
+   "to lay",
+   "to bite"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[k͈a̠ɭda̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02596",
+  "category": "korean",
+  "prompt": "「침착하다」の意味は？",
+  "answer": "calm",
+  "glosses": {
+   "en": "calm",
+   "ja": "落ち着いた"
+  },
+  "choices": [
+   "manly",
+   "to say",
+   "calm",
+   "to sleep"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[t͡ɕʰimt͡ɕʰa̠kʰa̠da̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02597",
+  "category": "korean",
+  "prompt": "「잠자다」の意味は？",
+  "answer": "to sleep",
+  "glosses": {
+   "en": "to sleep",
+   "ja": "眠る"
+  },
+  "choices": [
+   "to sleep",
+   "to pay",
+   "to ignore",
+   "calm"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[t͡ɕa̠md͡ʑa̠da̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02598",
+  "category": "korean",
+  "prompt": "「치르다」の意味は？",
+  "answer": "to pay",
+  "glosses": {
+   "en": "to pay",
+   "ja": "支払う"
+  },
+  "choices": [
+   "useless",
+   "to pay",
+   "to respond",
+   "comfortable"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[t͡ɕʰiɾɯda̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02599",
+  "category": "korean",
+  "prompt": "「바라보다」の意味は？",
+  "answer": "to gaze",
+  "glosses": {
+   "en": "to gaze",
+   "ja": "眺める"
+  },
+  "choices": [
+   "to snore",
+   "to disappoint",
+   "to bite",
+   "to gaze"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[pa̠ɾa̠bo̞da̠]",
+  "verified": true
  }
 ]

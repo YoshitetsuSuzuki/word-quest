@@ -7566,5 +7566,797 @@
   ],
   "pronunciation": "[ˈsʰɘ(ː)t̚p͈uʎʎi]",
   "verified": true
+ },
+ {
+  "id": "ko-02636",
+  "category": "korean",
+  "prompt": "「뻔하다」の意味は？",
+  "answer": "obvious",
+  "glosses": {
+   "en": "obvious",
+   "ja": "見え透いた"
+  },
+  "choices": [
+   "to own",
+   "obvious",
+   "to torture",
+   "to pay attention"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈp͈ɘ(ː)nɦa̠da̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02637",
+  "category": "korean",
+  "prompt": "「소유하다」の意味は？",
+  "answer": "to own",
+  "glosses": {
+   "en": "to own",
+   "ja": "所有する"
+  },
+  "choices": [
+   "to serve",
+   "huge",
+   "to occur",
+   "to own"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈsʰo̞(ː)juɦa̠da̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02638",
+  "category": "korean",
+  "prompt": "「멍하다」の意味は？",
+  "answer": "dazed",
+  "glosses": {
+   "en": "dazed",
+   "ja": "ぼんやりした"
+  },
+  "choices": [
+   "to threaten",
+   "to comb",
+   "dazed",
+   "to pay attention"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈmɘ(ː)ŋɦa̠da̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02639",
+  "category": "korean",
+  "prompt": "「빼내다」の意味は？",
+  "answer": "to extract",
+  "glosses": {
+   "en": "to extract",
+   "ja": "引き抜く"
+  },
+  "choices": [
+   "to exhale",
+   "to stretch",
+   "to extract",
+   "to sightsee"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[p͈ɛnɛda̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02640",
+  "category": "korean",
+  "prompt": "「터무니없다」の意味は？",
+  "answer": "absurd",
+  "glosses": {
+   "en": "absurd",
+   "ja": "道理に合わない"
+  },
+  "choices": [
+   "absurd",
+   "to hate",
+   "obvious",
+   "to extract"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[tʰʌ̹muniʌ̹p̚t͈a̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02641",
+  "category": "korean",
+  "prompt": "「로맨틱하다」の意味は？",
+  "answer": "romantic",
+  "glosses": {
+   "en": "romantic",
+   "ja": "ロマンチックな"
+  },
+  "choices": [
+   "romantic",
+   "uneasy",
+   "to extract",
+   "to tilt"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ɾo̞mɛntʰikʰa̠da̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02642",
+  "category": "korean",
+  "prompt": "「발생하다」の意味は？",
+  "answer": "to occur",
+  "glosses": {
+   "en": "to occur",
+   "ja": "起こる"
+  },
+  "choices": [
+   "to occur",
+   "to rule",
+   "to pay attention",
+   "to serve"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[pa̠ɭs͈ɛŋɦa̠da̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02643",
+  "category": "korean",
+  "prompt": "「위대하다」の意味は？",
+  "answer": "great",
+  "glosses": {
+   "en": "great",
+   "ja": "偉大な"
+  },
+  "choices": [
+   "to commit",
+   "uneasy",
+   "to quarrel",
+   "great"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ɥidɛɦa̠da̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02644",
+  "category": "korean",
+  "prompt": "「미워하다」の意味は？",
+  "answer": "to hate",
+  "glosses": {
+   "en": "to hate",
+   "ja": "憎む"
+  },
+  "choices": [
+   "to sightsee",
+   "to hate",
+   "to respect",
+   "to torture"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[miwʌ̹ɦa̠da̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02645",
+  "category": "korean",
+  "prompt": "「사냥하다」の意味は？",
+  "answer": "to hunt",
+  "glosses": {
+   "en": "to hunt",
+   "ja": "狩る"
+  },
+  "choices": [
+   "to attempt",
+   "to hunt",
+   "to date",
+   "to play"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[sʰa̠ɲa̠ŋɦa̠da̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02646",
+  "category": "korean",
+  "prompt": "「불안하다」の意味は？",
+  "answer": "uneasy",
+  "glosses": {
+   "en": "uneasy",
+   "ja": "不安な"
+  },
+  "choices": [
+   "romantic",
+   "to force",
+   "uneasy",
+   "to mail"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[puɾa̠nɦa̠da̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02647",
+  "category": "korean",
+  "prompt": "「다투다」の意味は？",
+  "answer": "to quarrel",
+  "glosses": {
+   "en": "to quarrel",
+   "ja": "言い争う"
+  },
+  "choices": [
+   "obvious",
+   "to quarrel",
+   "to pay attention",
+   "to serve"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ta̠tʰuda̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02648",
+  "category": "korean",
+  "prompt": "「뻗다」の意味は？",
+  "answer": "to stretch",
+  "glosses": {
+   "en": "to stretch",
+   "ja": "伸ばす"
+  },
+  "choices": [
+   "dazed",
+   "to threaten",
+   "to hunt",
+   "to stretch"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[p͈ʌ̹t̚t͈a̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02649",
+  "category": "korean",
+  "prompt": "「연주하다」の意味は？",
+  "answer": "to play",
+  "glosses": {
+   "en": "to play",
+   "ja": "演奏する"
+  },
+  "choices": [
+   "to date",
+   "to play",
+   "romantic",
+   "to exhale"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈjɘ(ː)ɲd͡ʑuɦa̠da̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02650",
+  "category": "korean",
+  "prompt": "「내쉬다」の意味は？",
+  "answer": "to exhale",
+  "glosses": {
+   "en": "to exhale",
+   "ja": "息を吐く"
+  },
+  "choices": [
+   "to pursue",
+   "to affect",
+   "to exhale",
+   "to hunt"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈnɛ(ː)ʃʰɥida̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02651",
+  "category": "korean",
+  "prompt": "「섬기다」の意味は？",
+  "answer": "to serve",
+  "glosses": {
+   "en": "to serve",
+   "ja": "仕える"
+  },
+  "choices": [
+   "to serve",
+   "dazed",
+   "to tilt",
+   "to pay attention"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[sʰʌ̹mɡida̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02652",
+  "category": "korean",
+  "prompt": "「나타내다」の意味は？",
+  "answer": "to express",
+  "glosses": {
+   "en": "to express",
+   "ja": "表す"
+  },
+  "choices": [
+   "to own",
+   "romantic",
+   "to express",
+   "to exhale"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[na̠tʰa̠nɛda̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02653",
+  "category": "korean",
+  "prompt": "「저지르다」の意味は？",
+  "answer": "to commit",
+  "glosses": {
+   "en": "to commit",
+   "ja": "犯す"
+  },
+  "choices": [
+   "to force",
+   "to commit",
+   "huge",
+   "to occur"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[t͡ɕʌ̹d͡ʑiɾɯda̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02654",
+  "category": "korean",
+  "prompt": "「지배하다」の意味は？",
+  "answer": "to rule",
+  "glosses": {
+   "en": "to rule",
+   "ja": "支配する"
+  },
+  "choices": [
+   "to rule",
+   "to serve",
+   "to comb",
+   "to pursue"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[t͡ɕibɛɦa̠da̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02655",
+  "category": "korean",
+  "prompt": "「데이트하다」の意味は？",
+  "answer": "to date",
+  "glosses": {
+   "en": "to date",
+   "ja": "デートする"
+  },
+  "choices": [
+   "to pay attention",
+   "to date",
+   "to comb",
+   "absurd"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[te̞itʰɯɦa̠da̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02656",
+  "category": "korean",
+  "prompt": "「끼치다」の意味は？",
+  "answer": "to affect",
+  "glosses": {
+   "en": "to affect",
+   "ja": "及ぼす"
+  },
+  "choices": [
+   "to express",
+   "to affect",
+   "to mail",
+   "absurd"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[k͈it͡ɕʰida̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02657",
+  "category": "korean",
+  "prompt": "「구경하다」の意味は？",
+  "answer": "to sightsee",
+  "glosses": {
+   "en": "to sightsee",
+   "ja": "見物する"
+  },
+  "choices": [
+   "to pursue",
+   "to tremble",
+   "to exhale",
+   "to sightsee"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈku(ː)ɡjʌ̹ŋɦa̠da̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02658",
+  "category": "korean",
+  "prompt": "「시도하다」の意味は？",
+  "answer": "to attempt",
+  "glosses": {
+   "en": "to attempt",
+   "ja": "試みる"
+  },
+  "choices": [
+   "dazed",
+   "to attempt",
+   "to stretch",
+   "to rule"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈɕʰi(ː)do̞ɦa̠da̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02659",
+  "category": "korean",
+  "prompt": "「존중하다」の意味は？",
+  "answer": "to respect",
+  "glosses": {
+   "en": "to respect",
+   "ja": "尊重する"
+  },
+  "choices": [
+   "to date",
+   "to respect",
+   "to sightsee",
+   "to express"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[t͡ɕo̞ɲd͡ʑuŋɦa̠da̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02660",
+  "category": "korean",
+  "prompt": "「강요하다」の意味は？",
+  "answer": "to force",
+  "glosses": {
+   "en": "to force",
+   "ja": "強いる"
+  },
+  "choices": [
+   "to pursue",
+   "to force",
+   "to commit",
+   "to extract"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈka̠(ː)ŋjoɦa̠da̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02661",
+  "category": "korean",
+  "prompt": "「위협하다」の意味は？",
+  "answer": "to threaten",
+  "glosses": {
+   "en": "to threaten",
+   "ja": "脅す"
+  },
+  "choices": [
+   "to pursue",
+   "to threaten",
+   "to rule",
+   "to prefer"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ɥiʝʌ̹pʰa̠da̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02662",
+  "category": "korean",
+  "prompt": "「적합하다」の意味は？",
+  "answer": "suitable",
+  "glosses": {
+   "en": "suitable",
+   "ja": "ふさわしい"
+  },
+  "choices": [
+   "to torture",
+   "to tremble",
+   "suitable",
+   "great"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[t͡ɕʌ̹kʰa̠pʰa̠da̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02663",
+  "category": "korean",
+  "prompt": "「기울이다」の意味は？",
+  "answer": "to tilt",
+  "glosses": {
+   "en": "to tilt",
+   "ja": "傾ける"
+  },
+  "choices": [
+   "to rule",
+   "to own",
+   "to mail",
+   "to tilt"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[kiuɾida̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02664",
+  "category": "korean",
+  "prompt": "「거대하다」の意味は？",
+  "answer": "huge",
+  "glosses": {
+   "en": "huge",
+   "ja": "巨大な"
+  },
+  "choices": [
+   "huge",
+   "to play",
+   "to commit",
+   "to force"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈkɘ(ː)dɛɦa̠da̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02665",
+  "category": "korean",
+  "prompt": "「떨리다」の意味は？",
+  "answer": "to tremble",
+  "glosses": {
+   "en": "to tremble",
+   "ja": "震える"
+  },
+  "choices": [
+   "to tremble",
+   "to prefer",
+   "to hunt",
+   "to express"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[t͈ʌ̹ʎʎida̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02666",
+  "category": "korean",
+  "prompt": "「부치다」の意味は？",
+  "answer": "to mail",
+  "glosses": {
+   "en": "to mail",
+   "ja": "郵送する"
+  },
+  "choices": [
+   "great",
+   "to exhale",
+   "to respect",
+   "to mail"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[put͡ɕʰida̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02667",
+  "category": "korean",
+  "prompt": "「추구하다」の意味は？",
+  "answer": "to pursue",
+  "glosses": {
+   "en": "to pursue",
+   "ja": "追求する"
+  },
+  "choices": [
+   "to own",
+   "uneasy",
+   "obvious",
+   "to pursue"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[t͡ɕʰuɡuɦa̠da̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02668",
+  "category": "korean",
+  "prompt": "「주목하다」の意味は？",
+  "answer": "to pay attention",
+  "glosses": {
+   "en": "to pay attention",
+   "ja": "注目する"
+  },
+  "choices": [
+   "to threaten",
+   "to hunt",
+   "to date",
+   "to pay attention"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈt͡ɕu(ː)mo̞kʰa̠da̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02669",
+  "category": "korean",
+  "prompt": "「선호하다」の意味は？",
+  "answer": "to prefer",
+  "glosses": {
+   "en": "to prefer",
+   "ja": "好む"
+  },
+  "choices": [
+   "to prefer",
+   "to sightsee",
+   "great",
+   "to affect"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈsʰɘ(ː)nβo̞ɦa̠da̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02670",
+  "category": "korean",
+  "prompt": "「빗다」の意味は？",
+  "answer": "to comb",
+  "glosses": {
+   "en": "to comb",
+   "ja": "髪をとかす"
+  },
+  "choices": [
+   "to comb",
+   "great",
+   "to stretch",
+   "to threaten"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[pit̚t͈a̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02671",
+  "category": "korean",
+  "prompt": "「고문하다」の意味は？",
+  "answer": "to torture",
+  "glosses": {
+   "en": "to torture",
+   "ja": "拷問にかける"
+  },
+  "choices": [
+   "absurd",
+   "to express",
+   "to respect",
+   "to torture"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ko̞munɦa̠da̠]",
+  "verified": true
  }
 ]

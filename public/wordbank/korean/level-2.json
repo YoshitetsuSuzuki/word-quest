@@ -7588,5 +7588,797 @@
   ],
   "pronunciation": "[pʰʌ̹d͡ʑɯɭ]",
   "verified": true
+ },
+ {
+  "id": "ko-02600",
+  "category": "korean",
+  "prompt": "「괴롭다」の意味は？",
+  "answer": "painful",
+  "glosses": {
+   "en": "painful",
+   "ja": "つらい"
+  },
+  "choices": [
+   "to bring",
+   "to reject",
+   "painful",
+   "to participate"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[kwe̞ɾo̞p̚t͈a̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02601",
+  "category": "korean",
+  "prompt": "「제외하다」の意味は？",
+  "answer": "to exclude",
+  "glosses": {
+   "en": "to exclude",
+   "ja": "除外する"
+  },
+  "choices": [
+   "to exclude",
+   "to share",
+   "troublesome",
+   "to eliminate"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[t͡ɕe̞we̞ɦa̠da̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02602",
+  "category": "korean",
+  "prompt": "「평화롭다」の意味は？",
+  "answer": "peaceful",
+  "glosses": {
+   "en": "peaceful",
+   "ja": "平和な"
+  },
+  "choices": [
+   "to share",
+   "peaceful",
+   "to participate",
+   "painful"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[pʰjʌ̹ŋβwa̠ɾo̞p̚t͈a̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02603",
+  "category": "korean",
+  "prompt": "「척하다」の意味は？",
+  "answer": "to pretend",
+  "glosses": {
+   "en": "to pretend",
+   "ja": "ふりをする"
+  },
+  "choices": [
+   "to whisper",
+   "to share",
+   "to pretend",
+   "to eliminate"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[t͡ɕʰʌ̹kʰa̠da̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02604",
+  "category": "korean",
+  "prompt": "「낭비하다」の意味は？",
+  "answer": "to waste",
+  "glosses": {
+   "en": "to waste",
+   "ja": "無駄にする"
+  },
+  "choices": [
+   "to breathe",
+   "to hang",
+   "annoying",
+   "to waste"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈna̠(ː)ŋbiɦa̠da̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02605",
+  "category": "korean",
+  "prompt": "「매달다」の意味は？",
+  "answer": "to hang",
+  "glosses": {
+   "en": "to hang",
+   "ja": "吊るす"
+  },
+  "choices": [
+   "to mean",
+   "to hang",
+   "to exclude",
+   "to touch"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈmɛ(ː)da̠ɭda̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02606",
+  "category": "korean",
+  "prompt": "「하찮다」の意味は？",
+  "answer": "trivial",
+  "glosses": {
+   "en": "trivial",
+   "ja": "取るに足りない"
+  },
+  "choices": [
+   "trivial",
+   "to hurry",
+   "to participate",
+   "to share"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ha̠t͡ɕʰa̠ntʰa̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02607",
+  "category": "korean",
+  "prompt": "「덮다」の意味は？",
+  "answer": "to cover",
+  "glosses": {
+   "en": "to cover",
+   "ja": "覆う"
+  },
+  "choices": [
+   "trivial",
+   "to exclude",
+   "to cover",
+   "painful"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[tʌ̹p̚t͈a̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02608",
+  "category": "korean",
+  "prompt": "「닿다」の意味は？",
+  "answer": "to touch",
+  "glosses": {
+   "en": "to touch",
+   "ja": "触れる"
+  },
+  "choices": [
+   "honest",
+   "precious",
+   "to touch",
+   "to exclude"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈta̠(ː)tʰa̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02609",
+  "category": "korean",
+  "prompt": "「서두르다」の意味は？",
+  "answer": "to hurry",
+  "glosses": {
+   "en": "to hurry",
+   "ja": "急ぐ"
+  },
+  "choices": [
+   "honest",
+   "to stab",
+   "to begin",
+   "to hurry"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[sʰʌ̹duɾɯda̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02610",
+  "category": "korean",
+  "prompt": "「의미하다」の意味は？",
+  "answer": "to mean",
+  "glosses": {
+   "en": "to mean",
+   "ja": "意味する"
+  },
+  "choices": [
+   "annoying",
+   "to participate",
+   "polite",
+   "to mean"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈɰi(ː)miɦa̠da̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02611",
+  "category": "korean",
+  "prompt": "「무너지다」の意味は？",
+  "answer": "to collapse",
+  "glosses": {
+   "en": "to collapse",
+   "ja": "崩れる"
+  },
+  "choices": [
+   "polite",
+   "to collapse",
+   "to hurry",
+   "to stab"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[munʌ̹d͡ʑida̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02612",
+  "category": "korean",
+  "prompt": "「없애다」の意味は？",
+  "answer": "to eliminate",
+  "glosses": {
+   "en": "to eliminate",
+   "ja": "取り除く"
+  },
+  "choices": [
+   "to collapse",
+   "painful",
+   "to eliminate",
+   "to hurry"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈɘ(ː)ps͈ɛda̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02613",
+  "category": "korean",
+  "prompt": "「귀하다」の意味は？",
+  "answer": "precious",
+  "glosses": {
+   "en": "precious",
+   "ja": "貴重な"
+  },
+  "choices": [
+   "to pretend",
+   "to begin",
+   "thorough",
+   "precious"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈkɥi(ː)ɦa̠da̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02614",
+  "category": "korean",
+  "prompt": "「곤란하다」の意味は？",
+  "answer": "troublesome",
+  "glosses": {
+   "en": "troublesome",
+   "ja": "厄介な"
+  },
+  "choices": [
+   "to smell",
+   "to eliminate",
+   "troublesome",
+   "to stand by"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈko̞(ː)ɭɭa̠nɦa̠da̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02615",
+  "category": "korean",
+  "prompt": "「대기하다」の意味は？",
+  "answer": "to stand by",
+  "glosses": {
+   "en": "to stand by",
+   "ja": "待機する"
+  },
+  "choices": [
+   "to waste",
+   "thorough",
+   "to exclude",
+   "to stand by"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈtɛ(ː)ɡiɦa̠da̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02616",
+  "category": "korean",
+  "prompt": "「정직하다」の意味は？",
+  "answer": "honest",
+  "glosses": {
+   "en": "honest",
+   "ja": "正直な"
+  },
+  "choices": [
+   "to bring",
+   "to smell",
+   "miserable",
+   "honest"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈt͡ɕɘ(ː)ŋd͡ʑikʰa̠da̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02617",
+  "category": "korean",
+  "prompt": "「냄새나다」の意味は？",
+  "answer": "to smell",
+  "glosses": {
+   "en": "to smell",
+   "ja": "臭いがする"
+  },
+  "choices": [
+   "thorough",
+   "polite",
+   "to smell",
+   "honest"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈnɛ(ː)msʰɛna̠da̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02618",
+  "category": "korean",
+  "prompt": "「설명하다」の意味は？",
+  "answer": "to explain",
+  "glosses": {
+   "en": "to explain",
+   "ja": "説明する"
+  },
+  "choices": [
+   "to breathe",
+   "to betray",
+   "to cover",
+   "to explain"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[sʰʌ̹ɭmjʌ̹ŋɦa̠da̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02619",
+  "category": "korean",
+  "prompt": "「소리지르다」の意味は？",
+  "answer": "to yell",
+  "glosses": {
+   "en": "to yell",
+   "ja": "大声で叫ぶ"
+  },
+  "choices": [
+   "to stand by",
+   "to yell",
+   "to waste",
+   "to vomit"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[sʰo̞ɾid͡ʑiɾɯda̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02620",
+  "category": "korean",
+  "prompt": "「시작되다」の意味は？",
+  "answer": "to begin",
+  "glosses": {
+   "en": "to begin",
+   "ja": "始まる"
+  },
+  "choices": [
+   "to reject",
+   "to cover",
+   "to begin",
+   "to hurry"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈɕʰi(ː)d͡ʑa̠k̚t͈we̞da̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02621",
+  "category": "korean",
+  "prompt": "「우습다」の意味は？",
+  "answer": "funny",
+  "glosses": {
+   "en": "funny",
+   "ja": "おかしい"
+  },
+  "choices": [
+   "trivial",
+   "annoying",
+   "troublesome",
+   "funny"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈu(ː)sʰɯp̚t͈a̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02622",
+  "category": "korean",
+  "prompt": "「참여하다」の意味は？",
+  "answer": "to participate",
+  "glosses": {
+   "en": "to participate",
+   "ja": "参加する"
+  },
+  "choices": [
+   "troublesome",
+   "to vomit",
+   "to mean",
+   "to participate"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[t͡ɕʰa̠mjʌ̹ɦa̠da̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02623",
+  "category": "korean",
+  "prompt": "「거부하다」の意味は？",
+  "answer": "to reject",
+  "glosses": {
+   "en": "to reject",
+   "ja": "拒否する"
+  },
+  "choices": [
+   "to reject",
+   "to participate",
+   "to begin",
+   "to eliminate"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈkɘ(ː)buɦa̠da̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02624",
+  "category": "korean",
+  "prompt": "「속삭이다」の意味は？",
+  "answer": "to whisper",
+  "glosses": {
+   "en": "to whisper",
+   "ja": "ささやく"
+  },
+  "choices": [
+   "thorough",
+   "to exclude",
+   "funny",
+   "to whisper"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[sʰo̞ks͈a̠ɡida̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02625",
+  "category": "korean",
+  "prompt": "「숨쉬다」の意味は？",
+  "answer": "to breathe",
+  "glosses": {
+   "en": "to breathe",
+   "ja": "呼吸する"
+  },
+  "choices": [
+   "funny",
+   "to whisper",
+   "to breathe",
+   "polite"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈsʰu(ː)mʃʰɥida̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02626",
+  "category": "korean",
+  "prompt": "「배신하다」の意味は？",
+  "answer": "to betray",
+  "glosses": {
+   "en": "to betray",
+   "ja": "裏切る"
+  },
+  "choices": [
+   "to betray",
+   "trivial",
+   "troublesome",
+   "to cover"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈpɛ(ː)ɕʰinɦa̠da̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02627",
+  "category": "korean",
+  "prompt": "「토하다」の意味は？",
+  "answer": "to vomit",
+  "glosses": {
+   "en": "to vomit",
+   "ja": "吐く"
+  },
+  "choices": [
+   "peaceful",
+   "to smell",
+   "to vomit",
+   "to collapse"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈtʰo̞(ː)ɦa̠da̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02628",
+  "category": "korean",
+  "prompt": "「데려오다」の意味は？",
+  "answer": "to bring",
+  "glosses": {
+   "en": "to bring",
+   "ja": "連れて来る"
+  },
+  "choices": [
+   "to breathe",
+   "to hurry",
+   "to stab",
+   "to bring"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[te̞ɾjʌ̹o̞da̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02629",
+  "category": "korean",
+  "prompt": "「성가시다」の意味は？",
+  "answer": "annoying",
+  "glosses": {
+   "en": "annoying",
+   "ja": "煩わしい"
+  },
+  "choices": [
+   "to pretend",
+   "to hang",
+   "annoying",
+   "to smell"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[sʰʌ̹ŋɡa̠ɕʰida̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02630",
+  "category": "korean",
+  "prompt": "「공유하다」の意味は？",
+  "answer": "to share",
+  "glosses": {
+   "en": "to share",
+   "ja": "共有する"
+  },
+  "choices": [
+   "to exclude",
+   "to share",
+   "to smell",
+   "to hang"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈko̞(ː)ŋjuɦa̠da̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02631",
+  "category": "korean",
+  "prompt": "「공평하다」の意味は？",
+  "answer": "fair",
+  "glosses": {
+   "en": "fair",
+   "ja": "公平な"
+  },
+  "choices": [
+   "to cover",
+   "honest",
+   "to waste",
+   "fair"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ko̞ŋpʰjʌ̹ŋɦa̠da̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02632",
+  "category": "korean",
+  "prompt": "「비참하다」の意味は？",
+  "answer": "miserable",
+  "glosses": {
+   "en": "miserable",
+   "ja": "みじめな"
+  },
+  "choices": [
+   "miserable",
+   "to smell",
+   "thorough",
+   "to betray"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈpi(ː)t͡ɕʰa̠mɦa̠da̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02633",
+  "category": "korean",
+  "prompt": "「정중하다」の意味は？",
+  "answer": "polite",
+  "glosses": {
+   "en": "polite",
+   "ja": "礼儀正しい"
+  },
+  "choices": [
+   "to mean",
+   "honest",
+   "polite",
+   "to cover"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈt͡ɕɘ(ː)ŋd͡ʑuŋɦa̠da̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02634",
+  "category": "korean",
+  "prompt": "「찌르다」の意味は？",
+  "answer": "to stab",
+  "glosses": {
+   "en": "to stab",
+   "ja": "刺す"
+  },
+  "choices": [
+   "to stab",
+   "to yell",
+   "polite",
+   "precious"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[t͡ɕ͈iɾɯda̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-02635",
+  "category": "korean",
+  "prompt": "「철저하다」の意味は？",
+  "answer": "thorough",
+  "glosses": {
+   "en": "thorough",
+   "ja": "徹底的な"
+  },
+  "choices": [
+   "to participate",
+   "thorough",
+   "to smell",
+   "to exclude"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[t͡ɕʰʌ̹ʎt͡ɕ͈ʌ̹ɦa̠da̠]",
+  "verified": true
  }
 ]
