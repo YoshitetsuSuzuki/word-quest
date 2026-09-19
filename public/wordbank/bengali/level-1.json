@@ -1,0 +1,7702 @@
+[
+ {
+  "id": "bn-00001",
+  "category": "bengali",
+  "prompt": "「করা」の意味は？",
+  "answer": "to do",
+  "glosses": {
+   "en": "to do",
+   "ja": "する"
+  },
+  "choices": [
+   "soccer",
+   "son",
+   "to do",
+   "meeting"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kɔɾa/",
+  "verified": true
+ },
+ {
+  "id": "bn-00002",
+  "category": "bengali",
+  "prompt": "「সময়」の意味は？",
+  "answer": "time",
+  "glosses": {
+   "en": "time",
+   "ja": "時間"
+  },
+  "choices": [
+   "time",
+   "bad",
+   "science",
+   "to drop"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʃomɔe̯/",
+  "verified": true
+ },
+ {
+  "id": "bn-00003",
+  "category": "bengali",
+  "prompt": "「এখন」の意味は？",
+  "answer": "now",
+  "glosses": {
+   "en": "now",
+   "ja": "今"
+  },
+  "choices": [
+   "complaint",
+   "now",
+   "possibility",
+   "bird"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ækʰɔn/",
+  "verified": true
+ },
+ {
+  "id": "bn-00004",
+  "category": "bengali",
+  "prompt": "「বছর」の意味は？",
+  "answer": "year",
+  "glosses": {
+   "en": "year",
+   "ja": "1年間"
+  },
+  "choices": [
+   "year",
+   "hand",
+   "fast",
+   "foundation"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bɔt͡ʃʰoɾ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00005",
+  "category": "bengali",
+  "prompt": "「নতুন」の意味は？",
+  "answer": "new",
+  "glosses": {
+   "en": "new",
+   "ja": "新しい"
+  },
+  "choices": [
+   "dog",
+   "disease",
+   "new",
+   "success"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/not̪un/",
+  "verified": true
+ },
+ {
+  "id": "bn-00006",
+  "category": "bengali",
+  "prompt": "「শুরু」の意味は？",
+  "answer": "start",
+  "glosses": {
+   "en": "start",
+   "ja": "開始"
+  },
+  "choices": [
+   "school",
+   "forgiveness",
+   "complicated",
+   "start"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʃuɾu/",
+  "verified": true
+ },
+ {
+  "id": "bn-00007",
+  "category": "bengali",
+  "prompt": "「দিন」の意味は？",
+  "answer": "day",
+  "glosses": {
+   "en": "day",
+   "ja": "日"
+  },
+  "choices": [
+   "day",
+   "medicine",
+   "camera",
+   "poet"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d̪in/",
+  "verified": true
+ },
+ {
+  "id": "bn-00008",
+  "category": "bengali",
+  "prompt": "「নাম」の意味は？",
+  "answer": "name",
+  "glosses": {
+   "en": "name",
+   "ja": "名前"
+  },
+  "choices": [
+   "father",
+   "name",
+   "discovery",
+   "cautious"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/nam/",
+  "verified": true
+ },
+ {
+  "id": "bn-00009",
+  "category": "bengali",
+  "prompt": "「দেখা」の意味は？",
+  "answer": "to see",
+  "glosses": {
+   "en": "to see",
+   "ja": "見る"
+  },
+  "choices": [
+   "temple",
+   "radio",
+   "reporter",
+   "to see"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈd̪ɛkʰa/",
+  "verified": true
+ },
+ {
+  "id": "bn-00010",
+  "category": "bengali",
+  "prompt": "「আজ」の意味は？",
+  "answer": "today",
+  "glosses": {
+   "en": "today",
+   "ja": "今日"
+  },
+  "choices": [
+   "actress",
+   "today",
+   "dog",
+   "sister"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ad͡ʒ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00011",
+  "category": "bengali",
+  "prompt": "「এখানে」の意味は？",
+  "answer": "here",
+  "glosses": {
+   "en": "here",
+   "ja": "ここ"
+  },
+  "choices": [
+   "price",
+   "how",
+   "here",
+   "investment"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈe.kʰa.ne]",
+  "verified": true
+ },
+ {
+  "id": "bn-00012",
+  "category": "bengali",
+  "prompt": "「খুব」の意味は？",
+  "answer": "very",
+  "glosses": {
+   "en": "very",
+   "ja": "非常に"
+  },
+  "choices": [
+   "suddenly",
+   "rule",
+   "very",
+   "acting"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kʰub/",
+  "verified": true
+ },
+ {
+  "id": "bn-00013",
+  "category": "bengali",
+  "prompt": "「প্রায়」の意味は？",
+  "answer": "almost",
+  "glosses": {
+   "en": "almost",
+   "ja": "ほとんど"
+  },
+  "choices": [
+   "soccer",
+   "state",
+   "acting",
+   "almost"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pɾae̯/",
+  "verified": true
+ },
+ {
+  "id": "bn-00014",
+  "category": "bengali",
+  "prompt": "「তখন」の意味は？",
+  "answer": "then",
+  "glosses": {
+   "en": "then",
+   "ja": "その時"
+  },
+  "choices": [
+   "to wear",
+   "then",
+   "announcement",
+   "complicated"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/t̪ɔkʰɔn/",
+  "verified": true
+ },
+ {
+  "id": "bn-00015",
+  "category": "bengali",
+  "prompt": "「জীবন」の意味は？",
+  "answer": "life",
+  "glosses": {
+   "en": "life",
+   "ja": "人生"
+  },
+  "choices": [
+   "radio",
+   "interest",
+   "blockade",
+   "life"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d͡ʒibon/",
+  "verified": true
+ },
+ {
+  "id": "bn-00016",
+  "category": "bengali",
+  "prompt": "「পাওয়া」の意味は？",
+  "answer": "to get",
+  "glosses": {
+   "en": "to get",
+   "ja": "得る"
+  },
+  "choices": [
+   "software",
+   "preparation",
+   "to get",
+   "director"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pao̯a/",
+  "verified": true
+ },
+ {
+  "id": "bn-00017",
+  "category": "bengali",
+  "prompt": "「মা」の意味は？",
+  "answer": "mother",
+  "glosses": {
+   "en": "mother",
+   "ja": "母"
+  },
+  "choices": [
+   "skill",
+   "novel",
+   "success",
+   "mother"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ma/",
+  "verified": true
+ },
+ {
+  "id": "bn-00018",
+  "category": "bengali",
+  "prompt": "「পুলিশ」の意味は？",
+  "answer": "police",
+  "glosses": {
+   "en": "police",
+   "ja": "警察"
+  },
+  "choices": [
+   "very",
+   "to wear",
+   "description",
+   "police"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/puliʃ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00019",
+  "category": "bengali",
+  "prompt": "「আরও」の意味は？",
+  "answer": "more",
+  "glosses": {
+   "en": "more",
+   "ja": "さらに"
+  },
+  "choices": [
+   "example",
+   "student",
+   "more",
+   "sky"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/aɾo/",
+  "verified": true
+ },
+ {
+  "id": "bn-00020",
+  "category": "bengali",
+  "prompt": "「বলা」の意味は？",
+  "answer": "to say",
+  "glosses": {
+   "en": "to say",
+   "ja": "言う"
+  },
+  "choices": [
+   "disease",
+   "city",
+   "kind",
+   "to say"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bɔla/",
+  "verified": true
+ },
+ {
+  "id": "bn-00021",
+  "category": "bengali",
+  "prompt": "「সবচেয়ে」の意味は？",
+  "answer": "most",
+  "glosses": {
+   "en": "most",
+   "ja": "最も"
+  },
+  "choices": [
+   "most",
+   "rule",
+   "thought",
+   "advice"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʃɔb.t͡ʃe/",
+  "verified": true
+ },
+ {
+  "id": "bn-00022",
+  "category": "bengali",
+  "prompt": "「নারী」の意味は？",
+  "answer": "woman",
+  "glosses": {
+   "en": "woman",
+   "ja": "女性"
+  },
+  "choices": [
+   "anger",
+   "fruit",
+   "woman",
+   "modern"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/naɾi/",
+  "verified": true
+ },
+ {
+  "id": "bn-00023",
+  "category": "bengali",
+  "prompt": "「আন্তর্জাতিক」の意味は？",
+  "answer": "international",
+  "glosses": {
+   "en": "international",
+   "ja": "国際的な"
+  },
+  "choices": [
+   "international",
+   "only",
+   "evidence",
+   "soccer"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ant̪ɔɾd͡ʒat̪ik/",
+  "verified": true
+ },
+ {
+  "id": "bn-00024",
+  "category": "bengali",
+  "prompt": "「শিক্ষা」の意味は？",
+  "answer": "education",
+  "glosses": {
+   "en": "education",
+   "ja": "教育"
+  },
+  "choices": [
+   "age",
+   "to want",
+   "day",
+   "education"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʃikʰːa/",
+  "verified": true
+ },
+ {
+  "id": "bn-00025",
+  "category": "bengali",
+  "prompt": "「নির্বাচন」の意味は？",
+  "answer": "election",
+  "glosses": {
+   "en": "election",
+   "ja": "選挙"
+  },
+  "choices": [
+   "instruction",
+   "now",
+   "election",
+   "fire"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/niɾbat͡ʃɔn/",
+  "verified": true
+ },
+ {
+  "id": "bn-00026",
+  "category": "bengali",
+  "prompt": "「দল」の意味は？",
+  "answer": "group",
+  "glosses": {
+   "en": "group",
+   "ja": "集団"
+  },
+  "choices": [
+   "group",
+   "sky",
+   "theft",
+   "foundation"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d̪ɔl/",
+  "verified": true
+ },
+ {
+  "id": "bn-00027",
+  "category": "bengali",
+  "prompt": "「সেখানে」の意味は？",
+  "answer": "there",
+  "glosses": {
+   "en": "there",
+   "ja": "そこに"
+  },
+  "choices": [
+   "actor",
+   "medicine",
+   "novel",
+   "there"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈʃe.kʰa.ne]",
+  "verified": true
+ },
+ {
+  "id": "bn-00028",
+  "category": "bengali",
+  "prompt": "「চেষ্টা」の意味は？",
+  "answer": "attempt",
+  "glosses": {
+   "en": "attempt",
+   "ja": "試み"
+  },
+  "choices": [
+   "law",
+   "Saturday",
+   "little",
+   "attempt"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/t͡ʃeʃʈa/",
+  "verified": true
+ },
+ {
+  "id": "bn-00029",
+  "category": "bengali",
+  "prompt": "「মৃত্যু」の意味は？",
+  "answer": "death",
+  "glosses": {
+   "en": "death",
+   "ja": "死"
+  },
+  "choices": [
+   "to show",
+   "death",
+   "beautiful",
+   "security"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mɾit̪ːu/",
+  "verified": true
+ },
+ {
+  "id": "bn-00030",
+  "category": "bengali",
+  "prompt": "「খারাপ」の意味は？",
+  "answer": "bad",
+  "glosses": {
+   "en": "bad",
+   "ja": "悪い"
+  },
+  "choices": [
+   "there",
+   "bad",
+   "independence",
+   "flood"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kʰaɾap/",
+  "verified": true
+ },
+ {
+  "id": "bn-00031",
+  "category": "bengali",
+  "prompt": "「হাত」の意味は？",
+  "answer": "hand",
+  "glosses": {
+   "en": "hand",
+   "ja": "手"
+  },
+  "choices": [
+   "number",
+   "computer",
+   "hand",
+   "answer"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/hat̪/",
+  "verified": true
+ },
+ {
+  "id": "bn-00032",
+  "category": "bengali",
+  "prompt": "「ছেলে」の意味は？",
+  "answer": "boy",
+  "glosses": {
+   "en": "boy",
+   "ja": "少年"
+  },
+  "choices": [
+   "climate",
+   "boy",
+   "request",
+   "story"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/t͡ʃʰele/",
+  "verified": true
+ },
+ {
+  "id": "bn-00033",
+  "category": "bengali",
+  "prompt": "「ভাই」の意味は？",
+  "answer": "brother",
+  "glosses": {
+   "en": "brother",
+   "ja": "兄弟"
+  },
+  "choices": [
+   "preparation",
+   "student",
+   "hard",
+   "brother"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bʱai̯/",
+  "verified": true
+ },
+ {
+  "id": "bn-00034",
+  "category": "bengali",
+  "prompt": "「দেশ」の意味は？",
+  "answer": "country",
+  "glosses": {
+   "en": "country",
+   "ja": "国"
+  },
+  "choices": [
+   "water",
+   "country",
+   "police station",
+   "expenditure"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d̪eʃ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00035",
+  "category": "bengali",
+  "prompt": "「সুন্দর」の意味は？",
+  "answer": "beautiful",
+  "glosses": {
+   "en": "beautiful",
+   "ja": "美しい"
+  },
+  "choices": [
+   "perhaps",
+   "Friday",
+   "beautiful",
+   "rather"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʃund̪ɔɾ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00036",
+  "category": "bengali",
+  "prompt": "「অভিযোগ」の意味は？",
+  "answer": "complaint",
+  "glosses": {
+   "en": "complaint",
+   "ja": "苦情"
+  },
+  "choices": [
+   "ancient",
+   "fear",
+   "complaint",
+   "then"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/obʱid͡ʒoɡ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00037",
+  "category": "bengali",
+  "prompt": "「ভিডিও」の意味は？",
+  "answer": "video",
+  "glosses": {
+   "en": "video",
+   "ja": "動画"
+  },
+  "choices": [
+   "science",
+   "official",
+   "video",
+   "television"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bʱiɖi̯o/",
+  "verified": true
+ },
+ {
+  "id": "bn-00038",
+  "category": "bengali",
+  "prompt": "「সমস্যা」の意味は？",
+  "answer": "problem",
+  "glosses": {
+   "en": "problem",
+   "ja": "問題"
+  },
+  "choices": [
+   "detective",
+   "egg",
+   "problem",
+   "flag"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʃɔmoʃːa/",
+  "verified": true
+ },
+ {
+  "id": "bn-00039",
+  "category": "bengali",
+  "prompt": "「সদস্য」の意味は？",
+  "answer": "member",
+  "glosses": {
+   "en": "member",
+   "ja": "メンバー"
+  },
+  "choices": [
+   "prize",
+   "sorrow",
+   "mind",
+   "member"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "bn-00040",
+  "category": "bengali",
+  "prompt": "「ঘোষণা」の意味は？",
+  "answer": "announcement",
+  "glosses": {
+   "en": "announcement",
+   "ja": "発表"
+  },
+  "choices": [
+   "television",
+   "increase",
+   "announcement",
+   "example"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɡʱo.ʃo.na/",
+  "verified": true
+ },
+ {
+  "id": "bn-00041",
+  "category": "bengali",
+  "prompt": "「সুযোগ」の意味は？",
+  "answer": "opportunity",
+  "glosses": {
+   "en": "opportunity",
+   "ja": "機会"
+  },
+  "choices": [
+   "opportunity",
+   "date",
+   "life",
+   "crowd"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "bn-00042",
+  "category": "bengali",
+  "prompt": "「কেমন」の意味は？",
+  "answer": "how",
+  "glosses": {
+   "en": "how",
+   "ja": "どんなふうに"
+  },
+  "choices": [
+   "religious",
+   "computer",
+   "how",
+   "gathering"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kæmon/",
+  "verified": true
+ },
+ {
+  "id": "bn-00043",
+  "category": "bengali",
+  "prompt": "「মাত্র」の意味は？",
+  "answer": "only",
+  "glosses": {
+   "en": "only",
+   "ja": "ほんの"
+  },
+  "choices": [
+   "only",
+   "procession",
+   "writer",
+   "cricket"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mat̪ɾo/",
+  "verified": true
+ },
+ {
+  "id": "bn-00044",
+  "category": "bengali",
+  "prompt": "「পানি」の意味は？",
+  "answer": "water",
+  "glosses": {
+   "en": "water",
+   "ja": "水"
+  },
+  "choices": [
+   "to make",
+   "sky",
+   "to do",
+   "water"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pani/",
+  "verified": true
+ },
+ {
+  "id": "bn-00045",
+  "category": "bengali",
+  "prompt": "「ভাষা」の意味は？",
+  "answer": "language",
+  "glosses": {
+   "en": "language",
+   "ja": "言語"
+  },
+  "choices": [
+   "talk",
+   "language",
+   "water",
+   "attraction"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bʱaʃa/",
+  "verified": true
+ },
+ {
+  "id": "bn-00046",
+  "category": "bengali",
+  "prompt": "「প্রশ্ন」の意味は？",
+  "answer": "question",
+  "glosses": {
+   "en": "question",
+   "ja": "質問"
+  },
+  "choices": [
+   "question",
+   "to come",
+   "Tuesday",
+   "possibility"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pɾoʃno/",
+  "verified": true
+ },
+ {
+  "id": "bn-00047",
+  "category": "bengali",
+  "prompt": "「বন্ধু」の意味は？",
+  "answer": "friend",
+  "glosses": {
+   "en": "friend",
+   "ja": "友達"
+  },
+  "choices": [
+   "friend",
+   "water",
+   "literature",
+   "advice"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bond̪ʱu/",
+  "verified": true
+ },
+ {
+  "id": "bn-00048",
+  "category": "bengali",
+  "prompt": "「ব্যক্তি」の意味は？",
+  "answer": "person",
+  "glosses": {
+   "en": "person",
+   "ja": "人"
+  },
+  "choices": [
+   "soccer",
+   "life",
+   "sea",
+   "person"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bekt̪i/",
+  "verified": true
+ },
+ {
+  "id": "bn-00049",
+  "category": "bengali",
+  "prompt": "「ঘটনা」の意味は？",
+  "answer": "event",
+  "glosses": {
+   "en": "event",
+   "ja": "出来事"
+  },
+  "choices": [
+   "to drive",
+   "event",
+   "sorrow",
+   "preparation"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɡʰɔ.ʈo.na/",
+  "verified": true
+ },
+ {
+  "id": "bn-00050",
+  "category": "bengali",
+  "prompt": "「বাবা」の意味は？",
+  "answer": "father",
+  "glosses": {
+   "en": "father",
+   "ja": "父"
+  },
+  "choices": [
+   "name",
+   "father",
+   "Thursday",
+   "here"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/baba/",
+  "verified": true
+ },
+ {
+  "id": "bn-00051",
+  "category": "bengali",
+  "prompt": "「রাখা」の意味は？",
+  "answer": "to put",
+  "glosses": {
+   "en": "to put",
+   "ja": "置く"
+  },
+  "choices": [
+   "true",
+   "to put",
+   "prize",
+   "possibility"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/rakʰa/",
+  "verified": true
+ },
+ {
+  "id": "bn-00052",
+  "category": "bengali",
+  "prompt": "「সংখ্যা」の意味は？",
+  "answer": "number",
+  "glosses": {
+   "en": "number",
+   "ja": "数"
+  },
+  "choices": [
+   "department",
+   "number",
+   "search",
+   "market"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʃoŋ.kʰa/",
+  "verified": true
+ },
+ {
+  "id": "bn-00053",
+  "category": "bengali",
+  "prompt": "「স্বাধীনতা」の意味は？",
+  "answer": "independence",
+  "glosses": {
+   "en": "independence",
+   "ja": "独立"
+  },
+  "choices": [
+   "college",
+   "boy",
+   "week",
+   "independence"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʃad̪ʱinɔt̪a/",
+  "verified": true
+ },
+ {
+  "id": "bn-00054",
+  "category": "bengali",
+  "prompt": "「আইন」の意味は？",
+  "answer": "law",
+  "glosses": {
+   "en": "law",
+   "ja": "法律"
+  },
+  "choices": [
+   "law",
+   "search",
+   "egg",
+   "city"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ai̯n/",
+  "verified": true
+ },
+ {
+  "id": "bn-00055",
+  "category": "bengali",
+  "prompt": "「হত্যা」の意味は？",
+  "answer": "murder",
+  "glosses": {
+   "en": "murder",
+   "ja": "殺人"
+  },
+  "choices": [
+   "exam",
+   "network",
+   "murder",
+   "to show"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/hɔt̪ːa/",
+  "verified": true
+ },
+ {
+  "id": "bn-00056",
+  "category": "bengali",
+  "prompt": "「মাস」の意味は？",
+  "answer": "month",
+  "glosses": {
+   "en": "month",
+   "ja": "ひと月"
+  },
+  "choices": [
+   "preparation",
+   "month",
+   "temple",
+   "food"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/maʃ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00057",
+  "category": "bengali",
+  "prompt": "「রাত」の意味は？",
+  "answer": "night",
+  "glosses": {
+   "en": "night",
+   "ja": "夜"
+  },
+  "choices": [
+   "paper",
+   "television",
+   "holy",
+   "night"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/rat̪/",
+  "verified": true
+ },
+ {
+  "id": "bn-00058",
+  "category": "bengali",
+  "prompt": "「গান」の意味は？",
+  "answer": "song",
+  "glosses": {
+   "en": "song",
+   "ja": "歌"
+  },
+  "choices": [
+   "tea",
+   "hunting",
+   "song",
+   "influence"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɡan/",
+  "verified": true
+ },
+ {
+  "id": "bn-00059",
+  "category": "bengali",
+  "prompt": "「শিশু」の意味は？",
+  "answer": "child",
+  "glosses": {
+   "en": "child",
+   "ja": "子供"
+  },
+  "choices": [
+   "brother",
+   "port",
+   "life",
+   "child"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʃiʃu/",
+  "verified": true
+ },
+ {
+  "id": "bn-00060",
+  "category": "bengali",
+  "prompt": "「ছাত্র」の意味は？",
+  "answer": "student",
+  "glosses": {
+   "en": "student",
+   "ja": "学生"
+  },
+  "choices": [
+   "Earth",
+   "tea",
+   "source",
+   "student"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/t͡ʃʰat̪ɾo/",
+  "verified": true
+ },
+ {
+  "id": "bn-00061",
+  "category": "bengali",
+  "prompt": "「বই」の意味は？",
+  "answer": "book",
+  "glosses": {
+   "en": "book",
+   "ja": "本"
+  },
+  "choices": [
+   "medicine",
+   "meat",
+   "book",
+   "weapon"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/boi̯/",
+  "verified": true
+ },
+ {
+  "id": "bn-00062",
+  "category": "bengali",
+  "prompt": "「পরিবার」の意味は？",
+  "answer": "family",
+  "glosses": {
+   "en": "family",
+   "ja": "家族"
+  },
+  "choices": [
+   "agriculture",
+   "desire",
+   "hard",
+   "family"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/poɾibaɾ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00063",
+  "category": "bengali",
+  "prompt": "「কঠিন」の意味は？",
+  "answer": "hard",
+  "glosses": {
+   "en": "hard",
+   "ja": "難しい"
+  },
+  "choices": [
+   "difference",
+   "market",
+   "hard",
+   "factory"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/koʈʰin/",
+  "verified": true
+ },
+ {
+  "id": "bn-00064",
+  "category": "bengali",
+  "prompt": "「দ্রুত」の意味は？",
+  "answer": "fast",
+  "glosses": {
+   "en": "fast",
+   "ja": "速い"
+  },
+  "choices": [
+   "fast",
+   "house",
+   "hard",
+   "attraction"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d̪ɾut̪o/",
+  "verified": true
+ },
+ {
+  "id": "bn-00065",
+  "category": "bengali",
+  "prompt": "「সকাল」の意味は？",
+  "answer": "morning",
+  "glosses": {
+   "en": "morning",
+   "ja": "朝"
+  },
+  "choices": [
+   "morning",
+   "personal",
+   "urgent",
+   "discussion"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʃɔkal/",
+  "verified": true
+ },
+ {
+  "id": "bn-00066",
+  "category": "bengali",
+  "prompt": "「শিক্ষক」の意味は？",
+  "answer": "teacher",
+  "glosses": {
+   "en": "teacher",
+   "ja": "先生"
+  },
+  "choices": [
+   "best",
+   "teacher",
+   "place",
+   "analysis"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʃikʰːɔk/",
+  "verified": true
+ },
+ {
+  "id": "bn-00067",
+  "category": "bengali",
+  "prompt": "「শহর」の意味は？",
+  "answer": "city",
+  "glosses": {
+   "en": "city",
+   "ja": "都市"
+  },
+  "choices": [
+   "threat",
+   "importance",
+   "pain",
+   "city"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʃɔhoɾ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00068",
+  "category": "bengali",
+  "prompt": "「কলেজ」の意味は？",
+  "answer": "college",
+  "glosses": {
+   "en": "college",
+   "ja": "カレッジ"
+  },
+  "choices": [
+   "college",
+   "science",
+   "person",
+   "theft"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kɔled͡ʒ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00069",
+  "category": "bengali",
+  "prompt": "「স্কুল」の意味は？",
+  "answer": "school",
+  "glosses": {
+   "en": "school",
+   "ja": "学校"
+  },
+  "choices": [
+   "to show",
+   "today",
+   "school",
+   "letter"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/skul/",
+  "verified": true
+ },
+ {
+  "id": "bn-00070",
+  "category": "bengali",
+  "prompt": "「পথ」の意味は？",
+  "answer": "path",
+  "glosses": {
+   "en": "path",
+   "ja": "道"
+  },
+  "choices": [
+   "path",
+   "song",
+   "door",
+   "brother"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pɔt̪ʰ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00071",
+  "category": "bengali",
+  "prompt": "「আলোচনা」の意味は？",
+  "answer": "discussion",
+  "glosses": {
+   "en": "discussion",
+   "ja": "議論"
+  },
+  "choices": [
+   "most",
+   "rather",
+   "discussion",
+   "blow"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/alot͡ʃɔna/",
+  "verified": true
+ },
+ {
+  "id": "bn-00072",
+  "category": "bengali",
+  "prompt": "「সৃষ্টি」の意味は？",
+  "answer": "creation",
+  "glosses": {
+   "en": "creation",
+   "ja": "創造"
+  },
+  "choices": [
+   "weapon",
+   "bottle",
+   "music",
+   "creation"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/sɾiʃʈi/",
+  "verified": true
+ },
+ {
+  "id": "bn-00073",
+  "category": "bengali",
+  "prompt": "「খাবার」の意味は？",
+  "answer": "food",
+  "glosses": {
+   "en": "food",
+   "ja": "食べ物"
+  },
+  "choices": [
+   "question",
+   "food",
+   "fruit",
+   "trip"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kʰabaɾ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00074",
+  "category": "bengali",
+  "prompt": "「ফোন」の意味は？",
+  "answer": "phone",
+  "glosses": {
+   "en": "phone",
+   "ja": "電話"
+  },
+  "choices": [
+   "problem",
+   "phone",
+   "dollar",
+   "tiny"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/fon/",
+  "verified": true
+ },
+ {
+  "id": "bn-00075",
+  "category": "bengali",
+  "prompt": "「যুদ্ধ」の意味は？",
+  "answer": "war",
+  "glosses": {
+   "en": "war",
+   "ja": "戦争"
+  },
+  "choices": [
+   "network",
+   "war",
+   "official",
+   "only"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d͡ʒud̪ʱːo/",
+  "verified": true
+ },
+ {
+  "id": "bn-00076",
+  "category": "bengali",
+  "prompt": "「ভয়」の意味は？",
+  "answer": "fear",
+  "glosses": {
+   "en": "fear",
+   "ja": "恐れ"
+  },
+  "choices": [
+   "hard",
+   "actress",
+   "fear",
+   "start"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bʱɔe̯/",
+  "verified": true
+ },
+ {
+  "id": "bn-00077",
+  "category": "bengali",
+  "prompt": "「গল্প」の意味は？",
+  "answer": "story",
+  "glosses": {
+   "en": "story",
+   "ja": "物語"
+  },
+  "choices": [
+   "demand",
+   "story",
+   "city",
+   "dollar"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɡɔlpo/",
+  "verified": true
+ },
+ {
+  "id": "bn-00078",
+  "category": "bengali",
+  "prompt": "「ফুটবল」の意味は？",
+  "answer": "soccer",
+  "glosses": {
+   "en": "soccer",
+   "ja": "サッカー"
+  },
+  "choices": [
+   "perhaps",
+   "instruction",
+   "soccer",
+   "night"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/fuʈbɔl/",
+  "verified": true
+ },
+ {
+  "id": "bn-00079",
+  "category": "bengali",
+  "prompt": "「এখনও」の意味は？",
+  "answer": "still",
+  "glosses": {
+   "en": "still",
+   "ja": "まだ"
+  },
+  "choices": [
+   "expenditure",
+   "permission",
+   "still",
+   "debt"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ækʰɔno/",
+  "verified": true
+ },
+ {
+  "id": "bn-00080",
+  "category": "bengali",
+  "prompt": "「বাড়ি」の意味は？",
+  "answer": "house",
+  "glosses": {
+   "en": "house",
+   "ja": "家"
+  },
+  "choices": [
+   "house",
+   "search",
+   "emperor",
+   "to come"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/baɽi/",
+  "verified": true
+ },
+ {
+  "id": "bn-00081",
+  "category": "bengali",
+  "prompt": "「সংসদ」の意味は？",
+  "answer": "parliament",
+  "glosses": {
+   "en": "parliament",
+   "ja": "議会"
+  },
+  "choices": [
+   "more",
+   "parliament",
+   "name",
+   "editor"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʃɔŋʃɔd̪/",
+  "verified": true
+ },
+ {
+  "id": "bn-00082",
+  "category": "bengali",
+  "prompt": "「বিয়ে」の意味は？",
+  "answer": "marriage",
+  "glosses": {
+   "en": "marriage",
+   "ja": "結婚"
+  },
+  "choices": [
+   "village",
+   "Monday",
+   "pain",
+   "marriage"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bi̯e/",
+  "verified": true
+ },
+ {
+  "id": "bn-00083",
+  "category": "bengali",
+  "prompt": "「হয়তো」の意味は？",
+  "answer": "perhaps",
+  "glosses": {
+   "en": "perhaps",
+   "ja": "おそらく"
+  },
+  "choices": [
+   "clear",
+   "mountain",
+   "prayer",
+   "perhaps"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/hɔe̯t̪o/",
+  "verified": true
+ },
+ {
+  "id": "bn-00084",
+  "category": "bengali",
+  "prompt": "「সেরা」の意味は？",
+  "answer": "best",
+  "glosses": {
+   "en": "best",
+   "ja": "最高の"
+  },
+  "choices": [
+   "best",
+   "minute",
+   "acting",
+   "dream"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʃeɾa/",
+  "verified": true
+ },
+ {
+  "id": "bn-00085",
+  "category": "bengali",
+  "prompt": "「অবস্থা」の意味は？",
+  "answer": "state",
+  "glosses": {
+   "en": "state",
+   "ja": "状態"
+  },
+  "choices": [
+   "state",
+   "attempt",
+   "joy",
+   "description"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɔbost̪ʰa/",
+  "verified": true
+ },
+ {
+  "id": "bn-00086",
+  "category": "bengali",
+  "prompt": "「চিন্তা」の意味は？",
+  "answer": "thought",
+  "glosses": {
+   "en": "thought",
+   "ja": "思考"
+  },
+  "choices": [
+   "thought",
+   "office",
+   "address",
+   "sufficient"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/t͡ʃint̪a/",
+  "verified": true
+ },
+ {
+  "id": "bn-00087",
+  "category": "bengali",
+  "prompt": "「চোখ」の意味は？",
+  "answer": "eye",
+  "glosses": {
+   "en": "eye",
+   "ja": "目"
+  },
+  "choices": [
+   "party",
+   "software",
+   "eye",
+   "area"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/t͡ʃokʰ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00088",
+  "category": "bengali",
+  "prompt": "「ইতিহাস」の意味は？",
+  "answer": "history",
+  "glosses": {
+   "en": "history",
+   "ja": "歴史"
+  },
+  "choices": [
+   "gas",
+   "history",
+   "hot",
+   "education"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/it̪ihaʃ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00089",
+  "category": "bengali",
+  "prompt": "「সহজ」の意味は？",
+  "answer": "easy",
+  "glosses": {
+   "en": "easy",
+   "ja": "簡単な"
+  },
+  "choices": [
+   "gathering",
+   "easy",
+   "time",
+   "instruction"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʃɔhod͡ʒ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00090",
+  "category": "bengali",
+  "prompt": "「নেওয়া」の意味は？",
+  "answer": "to take",
+  "glosses": {
+   "en": "to take",
+   "ja": "取る"
+  },
+  "choices": [
+   "solution",
+   "village",
+   "to take",
+   "police"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/næo̯ɑ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00091",
+  "category": "bengali",
+  "prompt": "「জন্ম」の意味は？",
+  "answer": "birth",
+  "glosses": {
+   "en": "birth",
+   "ja": "誕生"
+  },
+  "choices": [
+   "birth",
+   "party",
+   "damage",
+   "to do"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d͡ʒɔnmo/",
+  "verified": true
+ },
+ {
+  "id": "bn-00092",
+  "category": "bengali",
+  "prompt": "「আসা」の意味は？",
+  "answer": "to come",
+  "glosses": {
+   "en": "to come",
+   "ja": "来る"
+  },
+  "choices": [
+   "to come",
+   "flag",
+   "increase",
+   "delay"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/aʃa/",
+  "verified": true
+ },
+ {
+  "id": "bn-00093",
+  "category": "bengali",
+  "prompt": "「পরিকল্পনা」の意味は？",
+  "answer": "plan",
+  "glosses": {
+   "en": "plan",
+   "ja": "計画"
+  },
+  "choices": [
+   "question",
+   "friend",
+   "plan",
+   "rather"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/poɾikɔlpona/",
+  "verified": true
+ },
+ {
+  "id": "bn-00094",
+  "category": "bengali",
+  "prompt": "「পরীক্ষা」の意味は？",
+  "answer": "exam",
+  "glosses": {
+   "en": "exam",
+   "ja": "試験"
+  },
+  "choices": [
+   "very",
+   "little",
+   "exam",
+   "crime"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/poɾikkʰa/",
+  "verified": true
+ },
+ {
+  "id": "bn-00095",
+  "category": "bengali",
+  "prompt": "「পছন্দ」の意味は？",
+  "answer": "preference",
+  "glosses": {
+   "en": "preference",
+   "ja": "好み"
+  },
+  "choices": [
+   "water",
+   "preference",
+   "praise",
+   "dog"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pɔt͡ʃʰond̪o/",
+  "verified": true
+ },
+ {
+  "id": "bn-00096",
+  "category": "bengali",
+  "prompt": "「লক্ষ্য」の意味は？",
+  "answer": "goal",
+  "glosses": {
+   "en": "goal",
+   "ja": "目標"
+  },
+  "choices": [
+   "mountain",
+   "holy",
+   "goal",
+   "story"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/lokʰːo/",
+  "verified": true
+ },
+ {
+  "id": "bn-00097",
+  "category": "bengali",
+  "prompt": "「বিমান」の意味は？",
+  "answer": "aircraft",
+  "glosses": {
+   "en": "aircraft",
+   "ja": "航空機"
+  },
+  "choices": [
+   "door",
+   "international",
+   "debt",
+   "aircraft"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/biman/",
+  "verified": true
+ },
+ {
+  "id": "bn-00098",
+  "category": "bengali",
+  "prompt": "「শিকার」の意味は？",
+  "answer": "hunting",
+  "glosses": {
+   "en": "hunting",
+   "ja": "狩り"
+  },
+  "choices": [
+   "concentration",
+   "hunting",
+   "courage",
+   "hatred"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʃikaɾ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00099",
+  "category": "bengali",
+  "prompt": "「মন্ত্রী」の意味は？",
+  "answer": "minister",
+  "glosses": {
+   "en": "minister",
+   "ja": "大臣"
+  },
+  "choices": [
+   "water",
+   "minister",
+   "woman",
+   "to get"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mont̪ɾi/",
+  "verified": true
+ },
+ {
+  "id": "bn-00100",
+  "category": "bengali",
+  "prompt": "「পুরস্কার」の意味は？",
+  "answer": "prize",
+  "glosses": {
+   "en": "prize",
+   "ja": "賞"
+  },
+  "choices": [
+   "request",
+   "prize",
+   "Earth",
+   "law"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/puɾoʃkaɾ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00101",
+  "category": "bengali",
+  "prompt": "「ক্রিকেট」の意味は？",
+  "answer": "cricket",
+  "glosses": {
+   "en": "cricket",
+   "ja": "クリケット"
+  },
+  "choices": [
+   "address",
+   "novel",
+   "cricket",
+   "egg"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kɾikeʈ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00102",
+  "category": "bengali",
+  "prompt": "「মামলা」の意味は？",
+  "answer": "lawsuit",
+  "glosses": {
+   "en": "lawsuit",
+   "ja": "訴訟"
+  },
+  "choices": [
+   "actor",
+   "lawsuit",
+   "complaint",
+   "time"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mamla/",
+  "verified": true
+ },
+ {
+  "id": "bn-00103",
+  "category": "bengali",
+  "prompt": "「বৃদ্ধি」の意味は？",
+  "answer": "increase",
+  "glosses": {
+   "en": "increase",
+   "ja": "増加"
+  },
+  "choices": [
+   "capital",
+   "increase",
+   "preparation",
+   "member"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bɾid̪ʱːi/",
+  "verified": true
+ },
+ {
+  "id": "bn-00104",
+  "category": "bengali",
+  "prompt": "「যোগাযোগ」の意味は？",
+  "answer": "contact",
+  "glosses": {
+   "en": "contact",
+   "ja": "連絡"
+  },
+  "choices": [
+   "gas",
+   "evidence",
+   "Thursday",
+   "contact"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "bn-00105",
+  "category": "bengali",
+  "prompt": "「বিক্রি」の意味は？",
+  "answer": "sale",
+  "glosses": {
+   "en": "sale",
+   "ja": "販売"
+  },
+  "choices": [
+   "sale",
+   "education",
+   "Friday",
+   "suddenly"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bikɾi/",
+  "verified": true
+ },
+ {
+  "id": "bn-00106",
+  "category": "bengali",
+  "prompt": "「সাংবাদিক」の意味は？",
+  "answer": "reporter",
+  "glosses": {
+   "en": "reporter",
+   "ja": "記者"
+  },
+  "choices": [
+   "sufficient",
+   "staff",
+   "reporter",
+   "Sunday"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "bn-00107",
+  "category": "bengali",
+  "prompt": "「নিরাপত্তা」の意味は？",
+  "answer": "security",
+  "glosses": {
+   "en": "security",
+   "ja": "安全"
+  },
+  "choices": [
+   "boy",
+   "day",
+   "Saturday",
+   "security"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/niɾapot̪ːa/",
+  "verified": true
+ },
+ {
+  "id": "bn-00108",
+  "category": "bengali",
+  "prompt": "「মে」の意味は？",
+  "answer": "May",
+  "glosses": {
+   "en": "May",
+   "ja": "五月"
+  },
+  "choices": [
+   "religion",
+   "coffee",
+   "May",
+   "bridge"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/me/",
+  "verified": true
+ },
+ {
+  "id": "bn-00109",
+  "category": "bengali",
+  "prompt": "「সত্যি」の意味は？",
+  "answer": "true",
+  "glosses": {
+   "en": "true",
+   "ja": "本当の"
+  },
+  "choices": [
+   "book",
+   "literature",
+   "true",
+   "memory"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʃɔt̪ːi/",
+  "verified": true
+ },
+ {
+  "id": "bn-00110",
+  "category": "bengali",
+  "prompt": "「পরিচিত」の意味は？",
+  "answer": "familiar",
+  "glosses": {
+   "en": "familiar",
+   "ja": "なじみの"
+  },
+  "choices": [
+   "forgiveness",
+   "to see",
+   "preparation",
+   "familiar"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "bn-00111",
+  "category": "bengali",
+  "prompt": "「মিনিট」の意味は？",
+  "answer": "minute",
+  "glosses": {
+   "en": "minute",
+   "ja": "1分"
+  },
+  "choices": [
+   "minute",
+   "May",
+   "dollar",
+   "doubt"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/miniʈ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00112",
+  "category": "bengali",
+  "prompt": "「ধর্ম」の意味は？",
+  "answer": "religion",
+  "glosses": {
+   "en": "religion",
+   "ja": "宗教"
+  },
+  "choices": [
+   "religion",
+   "hatred",
+   "food",
+   "instruction"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d̪ʱɔɾmo/",
+  "verified": true
+ },
+ {
+  "id": "bn-00113",
+  "category": "bengali",
+  "prompt": "「ব্যক্তিগত」の意味は？",
+  "answer": "personal",
+  "glosses": {
+   "en": "personal",
+   "ja": "個人的な"
+  },
+  "choices": [
+   "song",
+   "evidence",
+   "computer",
+   "personal"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "bn-00114",
+  "category": "bengali",
+  "prompt": "「বিশাল」の意味は？",
+  "answer": "huge",
+  "glosses": {
+   "en": "huge",
+   "ja": "巨大な"
+  },
+  "choices": [
+   "almost",
+   "marriage",
+   "time",
+   "huge"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/biʃal/",
+  "verified": true
+ },
+ {
+  "id": "bn-00115",
+  "category": "bengali",
+  "prompt": "「জায়গা」の意味は？",
+  "answer": "place",
+  "glosses": {
+   "en": "place",
+   "ja": "場所"
+  },
+  "choices": [
+   "joy",
+   "food",
+   "clothes",
+   "place"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d͡ʒae̯ɡa/",
+  "verified": true
+ },
+ {
+  "id": "bn-00116",
+  "category": "bengali",
+  "prompt": "「ব্যাপক」の意味は？",
+  "answer": "extensive",
+  "glosses": {
+   "en": "extensive",
+   "ja": "広範な"
+  },
+  "choices": [
+   "extensive",
+   "staff",
+   "family",
+   "appointment"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bæpɔk/",
+  "verified": true
+ },
+ {
+  "id": "bn-00117",
+  "category": "bengali",
+  "prompt": "「লেখক」の意味は？",
+  "answer": "writer",
+  "glosses": {
+   "en": "writer",
+   "ja": "作家"
+  },
+  "choices": [
+   "writer",
+   "family",
+   "cricket",
+   "disease"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/læ.kʰɔk/",
+  "verified": true
+ },
+ {
+  "id": "bn-00118",
+  "category": "bengali",
+  "prompt": "「স্বপ্ন」の意味は？",
+  "answer": "dream",
+  "glosses": {
+   "en": "dream",
+   "ja": "夢"
+  },
+  "choices": [
+   "country",
+   "capital",
+   "cautious",
+   "dream"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʃɔpno/",
+  "verified": true
+ },
+ {
+  "id": "bn-00119",
+  "category": "bengali",
+  "prompt": "「প্রমাণ」の意味は？",
+  "answer": "evidence",
+  "glosses": {
+   "en": "evidence",
+   "ja": "証拠"
+  },
+  "choices": [
+   "river",
+   "evidence",
+   "difference",
+   "translation"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pɾoman/",
+  "verified": true
+ },
+ {
+  "id": "bn-00120",
+  "category": "bengali",
+  "prompt": "「বয়স」の意味は？",
+  "answer": "age",
+  "glosses": {
+   "en": "age",
+   "ja": "年齢"
+  },
+  "choices": [
+   "blood",
+   "age",
+   "there",
+   "talk"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bɔe̯oʃ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00121",
+  "category": "bengali",
+  "prompt": "「চলচ্চিত্র」の意味は？",
+  "answer": "film",
+  "glosses": {
+   "en": "film",
+   "ja": "映画"
+  },
+  "choices": [
+   "rain",
+   "appointment",
+   "film",
+   "contribution"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/t͡ʃɔlot͡ʃːit̪ɾo/",
+  "verified": true
+ },
+ {
+  "id": "bn-00122",
+  "category": "bengali",
+  "prompt": "「বিদ্যুৎ」の意味は？",
+  "answer": "electricity",
+  "glosses": {
+   "en": "electricity",
+   "ja": "電気"
+  },
+  "choices": [
+   "electricity",
+   "life",
+   "to inform",
+   "constitution"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bid.dut/",
+  "verified": true
+ },
+ {
+  "id": "bn-00123",
+  "category": "bengali",
+  "prompt": "「মন」の意味は？",
+  "answer": "mind",
+  "glosses": {
+   "en": "mind",
+   "ja": "心"
+  },
+  "choices": [
+   "group",
+   "mind",
+   "scene",
+   "trader"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mon/",
+  "verified": true
+ },
+ {
+  "id": "bn-00124",
+  "category": "bengali",
+  "prompt": "「বাজার」の意味は？",
+  "answer": "market",
+  "glosses": {
+   "en": "market",
+   "ja": "市場"
+  },
+  "choices": [
+   "anger",
+   "market",
+   "supply",
+   "group"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bad͡ʒaɾ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00125",
+  "category": "bengali",
+  "prompt": "「দাম」の意味は？",
+  "answer": "price",
+  "glosses": {
+   "en": "price",
+   "ja": "価格"
+  },
+  "choices": [
+   "modern",
+   "price",
+   "acting",
+   "fire"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d̪am/",
+  "verified": true
+ },
+ {
+  "id": "bn-00126",
+  "category": "bengali",
+  "prompt": "「গ্রাম」の意味は？",
+  "answer": "village",
+  "glosses": {
+   "en": "village",
+   "ja": "村"
+  },
+  "choices": [
+   "joy",
+   "village",
+   "delay",
+   "mind"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɡɾam/",
+  "verified": true
+ },
+ {
+  "id": "bn-00127",
+  "category": "bengali",
+  "prompt": "「রকম」の意味は？",
+  "answer": "kind",
+  "glosses": {
+   "en": "kind",
+   "ja": "種類"
+  },
+  "choices": [
+   "kind",
+   "attraction",
+   "family",
+   "thought"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/rɔkom/",
+  "verified": true
+ },
+ {
+  "id": "bn-00128",
+  "category": "bengali",
+  "prompt": "「প্রভাব」の意味は？",
+  "answer": "influence",
+  "glosses": {
+   "en": "influence",
+   "ja": "影響"
+  },
+  "choices": [
+   "search",
+   "anger",
+   "influence",
+   "radio"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pɾobʱab/",
+  "verified": true
+ },
+ {
+  "id": "bn-00129",
+  "category": "bengali",
+  "prompt": "「সম্পাদক」の意味は？",
+  "answer": "editor",
+  "glosses": {
+   "en": "editor",
+   "ja": "編集者"
+  },
+  "choices": [
+   "editor",
+   "creation",
+   "scene",
+   "body"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʃɔm.pɑ.d̪ɔk/",
+  "verified": true
+ },
+ {
+  "id": "bn-00130",
+  "category": "bengali",
+  "prompt": "「রাজধানী」の意味は？",
+  "answer": "capital",
+  "glosses": {
+   "en": "capital",
+   "ja": "首都"
+  },
+  "choices": [
+   "healthy",
+   "capital",
+   "acting",
+   "to take"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɾɑd͡ʒ.d̪ʱɑ.ni/",
+  "verified": true
+ },
+ {
+  "id": "bn-00131",
+  "category": "bengali",
+  "prompt": "「যথেষ্ট」の意味は？",
+  "answer": "sufficient",
+  "glosses": {
+   "en": "sufficient",
+   "ja": "十分な"
+  },
+  "choices": [
+   "courage",
+   "sufficient",
+   "doctor",
+   "weapon"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d͡ʒɔt̪ʰeʃʈo/",
+  "verified": true
+ },
+ {
+  "id": "bn-00132",
+  "category": "bengali",
+  "prompt": "「নির্মাণ」の意味は？",
+  "answer": "construction",
+  "glosses": {
+   "en": "construction",
+   "ja": "建設"
+  },
+  "choices": [
+   "letter",
+   "hatred",
+   "construction",
+   "research"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/niɾ.man/",
+  "verified": true
+ },
+ {
+  "id": "bn-00133",
+  "category": "bengali",
+  "prompt": "「অস্ত্র」の意味は？",
+  "answer": "weapon",
+  "glosses": {
+   "en": "weapon",
+   "ja": "武器"
+  },
+  "choices": [
+   "threat",
+   "boy",
+   "weapon",
+   "to hear"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɔst̪ɾo/",
+  "verified": true
+ },
+ {
+  "id": "bn-00134",
+  "category": "bengali",
+  "prompt": "「কর্মকর্তা」の意味は？",
+  "answer": "official",
+  "glosses": {
+   "en": "official",
+   "ja": "役人"
+  },
+  "choices": [
+   "praise",
+   "official",
+   "morning",
+   "flag"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kɔɾmɔkɔɾt̪a/",
+  "verified": true
+ },
+ {
+  "id": "bn-00135",
+  "category": "bengali",
+  "prompt": "「নির্দেশ」の意味は？",
+  "answer": "instruction",
+  "glosses": {
+   "en": "instruction",
+   "ja": "指示"
+  },
+  "choices": [
+   "influence",
+   "to inform",
+   "letter",
+   "instruction"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/niɾd̪eʃ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00136",
+  "category": "bengali",
+  "prompt": "「বরং」の意味は？",
+  "answer": "rather",
+  "glosses": {
+   "en": "rather",
+   "ja": "むしろ"
+  },
+  "choices": [
+   "very",
+   "teacher",
+   "mother",
+   "rather"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bɔɾoŋ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00137",
+  "category": "bengali",
+  "prompt": "「উৎসব」の意味は？",
+  "answer": "festival",
+  "glosses": {
+   "en": "festival",
+   "ja": "祭り"
+  },
+  "choices": [
+   "festival",
+   "to do",
+   "bridge",
+   "birthday"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ut̪ʃɔb/",
+  "verified": true
+ },
+ {
+  "id": "bn-00138",
+  "category": "bengali",
+  "prompt": "「ডলার」の意味は？",
+  "answer": "dollar",
+  "glosses": {
+   "en": "dollar",
+   "ja": "ドル"
+  },
+  "choices": [
+   "dollar",
+   "month",
+   "rule",
+   "influence"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɖɔlaɾ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00139",
+  "category": "bengali",
+  "prompt": "「পরিচালক」の意味は？",
+  "answer": "director",
+  "glosses": {
+   "en": "director",
+   "ja": "監督"
+  },
+  "choices": [
+   "paper",
+   "month",
+   "meat",
+   "director"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/poɾit͡ʃalɔk/",
+  "verified": true
+ },
+ {
+  "id": "bn-00140",
+  "category": "bengali",
+  "prompt": "「আঘাত」の意味は？",
+  "answer": "blow",
+  "glosses": {
+   "en": "blow",
+   "ja": "打撃"
+  },
+  "choices": [
+   "blow",
+   "morning",
+   "age",
+   "to do"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/aɡʱat̪/",
+  "verified": true
+ },
+ {
+  "id": "bn-00141",
+  "category": "bengali",
+  "prompt": "「নদী」の意味は？",
+  "answer": "river",
+  "glosses": {
+   "en": "river",
+   "ja": "川"
+  },
+  "choices": [
+   "address",
+   "teacher",
+   "editor",
+   "river"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/nod̪i/",
+  "verified": true
+ },
+ {
+  "id": "bn-00142",
+  "category": "bengali",
+  "prompt": "「চা」の意味は？",
+  "answer": "tea",
+  "glosses": {
+   "en": "tea",
+   "ja": "お茶"
+  },
+  "choices": [
+   "to put",
+   "crime",
+   "tea",
+   "video"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/t͡ʃa/",
+  "verified": true
+ },
+ {
+  "id": "bn-00143",
+  "category": "bengali",
+  "prompt": "「ফল」の意味は？",
+  "answer": "fruit",
+  "glosses": {
+   "en": "fruit",
+   "ja": "果物"
+  },
+  "choices": [
+   "fruit",
+   "flood",
+   "to do",
+   "place"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pʰɔl/",
+  "verified": true
+ },
+ {
+  "id": "bn-00144",
+  "category": "bengali",
+  "prompt": "「তারিখ」の意味は？",
+  "answer": "date",
+  "glosses": {
+   "en": "date",
+   "ja": "日付"
+  },
+  "choices": [
+   "appointment",
+   "gas",
+   "date",
+   "fruit"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "bn-00145",
+  "category": "bengali",
+  "prompt": "「আগুন」の意味は？",
+  "answer": "fire",
+  "glosses": {
+   "en": "fire",
+   "ja": "火"
+  },
+  "choices": [
+   "discovery",
+   "kind",
+   "life",
+   "fire"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/aɡun/",
+  "verified": true
+ },
+ {
+  "id": "bn-00146",
+  "category": "bengali",
+  "prompt": "「পড়া」の意味は？",
+  "answer": "to read",
+  "glosses": {
+   "en": "to read",
+   "ja": "読む"
+  },
+  "choices": [
+   "death",
+   "very",
+   "prize",
+   "to read"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pɔɽa/",
+  "verified": true
+ },
+ {
+  "id": "bn-00147",
+  "category": "bengali",
+  "prompt": "「রক্ত」の意味は？",
+  "answer": "blood",
+  "glosses": {
+   "en": "blood",
+   "ja": "血"
+  },
+  "choices": [
+   "writer",
+   "how",
+   "construction",
+   "blood"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈrɔk.t̪o/",
+  "verified": true
+ },
+ {
+  "id": "bn-00148",
+  "category": "bengali",
+  "prompt": "「হঠাৎ」の意味は？",
+  "answer": "suddenly",
+  "glosses": {
+   "en": "suddenly",
+   "ja": "突然"
+  },
+  "choices": [
+   "example",
+   "threat",
+   "police",
+   "suddenly"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/hɔʈʰat̪/",
+  "verified": true
+ },
+ {
+  "id": "bn-00149",
+  "category": "bengali",
+  "prompt": "「ক্ষমা」の意味は？",
+  "answer": "forgiveness",
+  "glosses": {
+   "en": "forgiveness",
+   "ja": "許し"
+  },
+  "choices": [
+   "department",
+   "year",
+   "forgiveness",
+   "lawsuit"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kʰɔma/",
+  "verified": true
+ },
+ {
+  "id": "bn-00150",
+  "category": "bengali",
+  "prompt": "「বিভাগ」の意味は？",
+  "answer": "department",
+  "glosses": {
+   "en": "department",
+   "ja": "部門"
+  },
+  "choices": [
+   "prize",
+   "increase",
+   "department",
+   "expenditure"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bibʱaɡ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00151",
+  "category": "bengali",
+  "prompt": "「গরম」の意味は？",
+  "answer": "hot",
+  "glosses": {
+   "en": "hot",
+   "ja": "暑い"
+  },
+  "choices": [
+   "fish",
+   "rather",
+   "month",
+   "hot"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɡɔɾom/",
+  "verified": true
+ },
+ {
+  "id": "bn-00152",
+  "category": "bengali",
+  "prompt": "「মাছ」の意味は？",
+  "answer": "fish",
+  "glosses": {
+   "en": "fish",
+   "ja": "魚"
+  },
+  "choices": [
+   "supply",
+   "fish",
+   "desire",
+   "place"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mat͡ʃʰ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00153",
+  "category": "bengali",
+  "prompt": "「সংস্কৃতি」の意味は？",
+  "answer": "culture",
+  "glosses": {
+   "en": "culture",
+   "ja": "文化"
+  },
+  "choices": [
+   "attempt",
+   "culture",
+   "familiar",
+   "little"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʃɔŋskɾit̪i/",
+  "verified": true
+ },
+ {
+  "id": "bn-00154",
+  "category": "bengali",
+  "prompt": "「অপরাধ」の意味は？",
+  "answer": "crime",
+  "glosses": {
+   "en": "crime",
+   "ja": "犯罪"
+  },
+  "choices": [
+   "modern",
+   "hand",
+   "crime",
+   "there"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɔpoɾad̪ʱ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00155",
+  "category": "bengali",
+  "prompt": "「পোশাক」の意味は？",
+  "answer": "clothes",
+  "glosses": {
+   "en": "clothes",
+   "ja": "衣服"
+  },
+  "choices": [
+   "opportunity",
+   "owner",
+   "clothes",
+   "song"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/poʃak/",
+  "verified": true
+ },
+ {
+  "id": "bn-00156",
+  "category": "bengali",
+  "prompt": "「সমাজ」の意味は？",
+  "answer": "society",
+  "glosses": {
+   "en": "society",
+   "ja": "社会"
+  },
+  "choices": [
+   "hatred",
+   "right",
+   "preference",
+   "society"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʃɔmad͡ʒ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00157",
+  "category": "bengali",
+  "prompt": "「অনুমতি」の意味は？",
+  "answer": "permission",
+  "glosses": {
+   "en": "permission",
+   "ja": "許可"
+  },
+  "choices": [
+   "permission",
+   "software",
+   "somewhere",
+   "oil"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/onumot̪i/",
+  "verified": true
+ },
+ {
+  "id": "bn-00158",
+  "category": "bengali",
+  "prompt": "「কবি」の意味は？",
+  "answer": "poet",
+  "glosses": {
+   "en": "poet",
+   "ja": "詩人"
+  },
+  "choices": [
+   "poet",
+   "time",
+   "month",
+   "opportunity"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kobi/",
+  "verified": true
+ },
+ {
+  "id": "bn-00159",
+  "category": "bengali",
+  "prompt": "「সমাধান」の意味は？",
+  "answer": "solution",
+  "glosses": {
+   "en": "solution",
+   "ja": "解決策"
+  },
+  "choices": [
+   "color",
+   "port",
+   "solution",
+   "fast"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʃɔmad̪ʱan/",
+  "verified": true
+ },
+ {
+  "id": "bn-00160",
+  "category": "bengali",
+  "prompt": "「খরচ」の意味は？",
+  "answer": "expenditure",
+  "glosses": {
+   "en": "expenditure",
+   "ja": "支出"
+  },
+  "choices": [
+   "expenditure",
+   "hair",
+   "language",
+   "solution"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kʰɔɾot͡ʃ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00161",
+  "category": "bengali",
+  "prompt": "「মালিক」の意味は？",
+  "answer": "owner",
+  "glosses": {
+   "en": "owner",
+   "ja": "持ち主"
+  },
+  "choices": [
+   "detective",
+   "cautious",
+   "cricket",
+   "owner"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/malik/",
+  "verified": true
+ },
+ {
+  "id": "bn-00162",
+  "category": "bengali",
+  "prompt": "「নিয়োগ」の意味は？",
+  "answer": "appointment",
+  "glosses": {
+   "en": "appointment",
+   "ja": "任命"
+  },
+  "choices": [
+   "to get",
+   "preparation",
+   "computer",
+   "appointment"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ni̯oɡ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00163",
+  "category": "bengali",
+  "prompt": "「রাজনীতি」の意味は？",
+  "answer": "politics",
+  "glosses": {
+   "en": "politics",
+   "ja": "政治"
+  },
+  "choices": [
+   "request",
+   "police",
+   "most",
+   "politics"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "bn-00164",
+  "category": "bengali",
+  "prompt": "「চুরি」の意味は？",
+  "answer": "theft",
+  "glosses": {
+   "en": "theft",
+   "ja": "窃盗"
+  },
+  "choices": [
+   "construction",
+   "theft",
+   "prize",
+   "brother"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/t͡ʃuɾi/",
+  "verified": true
+ },
+ {
+  "id": "bn-00165",
+  "category": "bengali",
+  "prompt": "「ব্যবসা」の意味は？",
+  "answer": "business",
+  "glosses": {
+   "en": "business",
+   "ja": "商売"
+  },
+  "choices": [
+   "damage",
+   "resident",
+   "business",
+   "international"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bæbʃa/",
+  "verified": true
+ },
+ {
+  "id": "bn-00166",
+  "category": "bengali",
+  "prompt": "「সভা」の意味は？",
+  "answer": "meeting",
+  "glosses": {
+   "en": "meeting",
+   "ja": "会議"
+  },
+  "choices": [
+   "culture",
+   "time",
+   "meeting",
+   "tea"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʃɔbʱa/",
+  "verified": true
+ },
+ {
+  "id": "bn-00167",
+  "category": "bengali",
+  "prompt": "「পবিত্র」の意味は？",
+  "answer": "holy",
+  "glosses": {
+   "en": "holy",
+   "ja": "神聖な"
+  },
+  "choices": [
+   "murder",
+   "memory",
+   "Monday",
+   "holy"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pobit̪ɾo/",
+  "verified": true
+ },
+ {
+  "id": "bn-00168",
+  "category": "bengali",
+  "prompt": "「যাত্রা」の意味は？",
+  "answer": "trip",
+  "glosses": {
+   "en": "trip",
+   "ja": "旅行"
+  },
+  "choices": [
+   "radio",
+   "trip",
+   "example",
+   "college"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d͡ʒa.t̪ɾa/",
+  "verified": true
+ },
+ {
+  "id": "bn-00169",
+  "category": "bengali",
+  "prompt": "「চিকিৎসা」の意味は？",
+  "answer": "treatment",
+  "glosses": {
+   "en": "treatment",
+   "ja": "治療"
+  },
+  "choices": [
+   "soccer",
+   "treatment",
+   "calm",
+   "film"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "bn-00170",
+  "category": "bengali",
+  "prompt": "「কর্মী」の意味は？",
+  "answer": "staff",
+  "glosses": {
+   "en": "staff",
+   "ja": "職員"
+  },
+  "choices": [
+   "opportunity",
+   "sister",
+   "staff",
+   "to drive"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kɔɾmi/",
+  "verified": true
+ },
+ {
+  "id": "bn-00171",
+  "category": "bengali",
+  "prompt": "「ফলাফল」の意味は？",
+  "answer": "result",
+  "glosses": {
+   "en": "result",
+   "ja": "結果"
+  },
+  "choices": [
+   "result",
+   "country",
+   "bomb",
+   "kind"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/fɔlafɔl/",
+  "verified": true
+ },
+ {
+  "id": "bn-00172",
+  "category": "bengali",
+  "prompt": "「ক্ষতি」の意味は？",
+  "answer": "damage",
+  "glosses": {
+   "en": "damage",
+   "ja": "損害"
+  },
+  "choices": [
+   "law",
+   "damage",
+   "body",
+   "perhaps"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kʰot̪i/",
+  "verified": true
+ },
+ {
+  "id": "bn-00173",
+  "category": "bengali",
+  "prompt": "「শাস্তি」の意味は？",
+  "answer": "punishment",
+  "glosses": {
+   "en": "punishment",
+   "ja": "罰"
+  },
+  "choices": [
+   "security",
+   "father",
+   "color",
+   "punishment"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʃast̪i/",
+  "verified": true
+ },
+ {
+  "id": "bn-00174",
+  "category": "bengali",
+  "prompt": "「হুমকি」の意味は？",
+  "answer": "threat",
+  "glosses": {
+   "en": "threat",
+   "ja": "脅威"
+  },
+  "choices": [
+   "school",
+   "easy",
+   "age",
+   "threat"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/humki/",
+  "verified": true
+ },
+ {
+  "id": "bn-00175",
+  "category": "bengali",
+  "prompt": "「তদন্ত」の意味は？",
+  "answer": "investigation",
+  "glosses": {
+   "en": "investigation",
+   "ja": "調査"
+  },
+  "choices": [
+   "star",
+   "investigation",
+   "software",
+   "hard"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/t̪ɔd̪ont̪o/",
+  "verified": true
+ },
+ {
+  "id": "bn-00176",
+  "category": "bengali",
+  "prompt": "「অভিনয়」の意味は？",
+  "answer": "acting",
+  "glosses": {
+   "en": "acting",
+   "ja": "演技"
+  },
+  "choices": [
+   "accident",
+   "dollar",
+   "acting",
+   "cautious"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɔbʱinɔe̯/",
+  "verified": true
+ },
+ {
+  "id": "bn-00177",
+  "category": "bengali",
+  "prompt": "「কমিটি」の意味は？",
+  "answer": "committee",
+  "glosses": {
+   "en": "committee",
+   "ja": "委員会"
+  },
+  "choices": [
+   "committee",
+   "kind",
+   "lawsuit",
+   "feeling"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/komiʈi/",
+  "verified": true
+ },
+ {
+  "id": "bn-00178",
+  "category": "bengali",
+  "prompt": "「বর্ণনা」の意味は？",
+  "answer": "description",
+  "glosses": {
+   "en": "description",
+   "ja": "描写"
+  },
+  "choices": [
+   "interest",
+   "still",
+   "description",
+   "fire"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bɔɾnona/",
+  "verified": true
+ },
+ {
+  "id": "bn-00179",
+  "category": "bengali",
+  "prompt": "「ধর্মীয়」の意味は？",
+  "answer": "religious",
+  "glosses": {
+   "en": "religious",
+   "ja": "宗教的な"
+  },
+  "choices": [
+   "religious",
+   "son",
+   "village",
+   "editor"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "bn-00180",
+  "category": "bengali",
+  "prompt": "「প্রতিবাদ」の意味は？",
+  "answer": "protest",
+  "glosses": {
+   "en": "protest",
+   "ja": "抗議"
+  },
+  "choices": [
+   "more",
+   "literature",
+   "protest",
+   "right"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "bn-00181",
+  "category": "bengali",
+  "prompt": "「ভালোবাসা」の意味は？",
+  "answer": "to love",
+  "glosses": {
+   "en": "to love",
+   "ja": "愛する"
+  },
+  "choices": [
+   "oil",
+   "to love",
+   "rule",
+   "evidence"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bʱalobaʃa/",
+  "verified": true
+ },
+ {
+  "id": "bn-00182",
+  "category": "bengali",
+  "prompt": "「সপ্তাহ」の意味は？",
+  "answer": "week",
+  "glosses": {
+   "en": "week",
+   "ja": "週"
+  },
+  "choices": [
+   "hunting",
+   "week",
+   "family",
+   "group"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʃɔpt̪aho/",
+  "verified": true
+ },
+ {
+  "id": "bn-00183",
+  "category": "bengali",
+  "prompt": "「গাছ」の意味は？",
+  "answer": "tree",
+  "glosses": {
+   "en": "tree",
+   "ja": "木"
+  },
+  "choices": [
+   "to come",
+   "door",
+   "tree",
+   "rule"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɡat͡ʃʰ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00184",
+  "category": "bengali",
+  "prompt": "「ফুল」の意味は？",
+  "answer": "flower",
+  "glosses": {
+   "en": "flower",
+   "ja": "花"
+  },
+  "choices": [
+   "player",
+   "flower",
+   "murder",
+   "to drive"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pʰul/",
+  "verified": true
+ },
+ {
+  "id": "bn-00185",
+  "category": "bengali",
+  "prompt": "「অনুবাদ」の意味は？",
+  "answer": "translation",
+  "glosses": {
+   "en": "translation",
+   "ja": "翻訳"
+  },
+  "choices": [
+   "food",
+   "investigation",
+   "translation",
+   "doctor"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/onubad̪/",
+  "verified": true
+ },
+ {
+  "id": "bn-00186",
+  "category": "bengali",
+  "prompt": "「বোন」の意味は？",
+  "answer": "sister",
+  "glosses": {
+   "en": "sister",
+   "ja": "姉妹"
+  },
+  "choices": [
+   "Sunday",
+   "sister",
+   "to say",
+   "to fill"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bon/",
+  "verified": true
+ },
+ {
+  "id": "bn-00187",
+  "category": "bengali",
+  "prompt": "「কম্পিউটার」の意味は？",
+  "answer": "computer",
+  "glosses": {
+   "en": "computer",
+   "ja": "コンピューター"
+  },
+  "choices": [
+   "criticism",
+   "computer",
+   "cautious",
+   "insult"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kɔmpiu̯ʈaɾ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00188",
+  "category": "bengali",
+  "prompt": "「বিজ্ঞান」の意味は？",
+  "answer": "science",
+  "glosses": {
+   "en": "science",
+   "ja": "科学"
+  },
+  "choices": [
+   "announcement",
+   "sale",
+   "mother",
+   "science"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/biɡːæn/",
+  "verified": true
+ },
+ {
+  "id": "bn-00189",
+  "category": "bengali",
+  "prompt": "「ডাক্তার」の意味は？",
+  "answer": "doctor",
+  "glosses": {
+   "en": "doctor",
+   "ja": "医者"
+  },
+  "choices": [
+   "bomb",
+   "brother",
+   "number",
+   "doctor"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɖakt̪aɾ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00190",
+  "category": "bengali",
+  "prompt": "「পাঠানো」の意味は？",
+  "answer": "to send",
+  "glosses": {
+   "en": "to send",
+   "ja": "送る"
+  },
+  "choices": [
+   "judge",
+   "friend",
+   "to send",
+   "hospital"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/paʈʰano/",
+  "verified": true
+ },
+ {
+  "id": "bn-00191",
+  "category": "bengali",
+  "prompt": "「সতর্ক」の意味は？",
+  "answer": "cautious",
+  "glosses": {
+   "en": "cautious",
+   "ja": "用心深い"
+  },
+  "choices": [
+   "cautious",
+   "criticism",
+   "to read",
+   "analysis"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʃɔt̪oɾk/",
+  "verified": true
+ },
+ {
+  "id": "bn-00192",
+  "category": "bengali",
+  "prompt": "「তেল」の意味は？",
+  "answer": "oil",
+  "glosses": {
+   "en": "oil",
+   "ja": "油"
+  },
+  "choices": [
+   "tree",
+   "expenditure",
+   "accident",
+   "oil"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/t̪el/",
+  "verified": true
+ },
+ {
+  "id": "bn-00193",
+  "category": "bengali",
+  "prompt": "「অনুরোধ」の意味は？",
+  "answer": "request",
+  "glosses": {
+   "en": "request",
+   "ja": "依頼"
+  },
+  "choices": [
+   "computer",
+   "attraction",
+   "cricket",
+   "request"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/onuɾod̪ʱ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00194",
+  "category": "bengali",
+  "prompt": "「কোথাও」の意味は？",
+  "answer": "somewhere",
+  "glosses": {
+   "en": "somewhere",
+   "ja": "どこか"
+  },
+  "choices": [
+   "possibility",
+   "sale",
+   "somewhere",
+   "year"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kot̪ʰao̯/",
+  "verified": true
+ },
+ {
+  "id": "bn-00195",
+  "category": "bengali",
+  "prompt": "「লম্বা」の意味は？",
+  "answer": "long",
+  "glosses": {
+   "en": "long",
+   "ja": "長い"
+  },
+  "choices": [
+   "long",
+   "friend",
+   "joy",
+   "success"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/lɔmba/",
+  "verified": true
+ },
+ {
+  "id": "bn-00196",
+  "category": "bengali",
+  "prompt": "「পার্টি」の意味は？",
+  "answer": "party",
+  "glosses": {
+   "en": "party",
+   "ja": "パーティー"
+  },
+  "choices": [
+   "city",
+   "party",
+   "there",
+   "name"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "bn-00197",
+  "category": "bengali",
+  "prompt": "「চিঠি」の意味は？",
+  "answer": "letter",
+  "glosses": {
+   "en": "letter",
+   "ja": "手紙"
+  },
+  "choices": [
+   "trade",
+   "question",
+   "letter",
+   "demand"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/t͡ʃiʈʰi/",
+  "verified": true
+ },
+ {
+  "id": "bn-00198",
+  "category": "bengali",
+  "prompt": "「আনা」の意味は？",
+  "answer": "to bring",
+  "glosses": {
+   "en": "to bring",
+   "ja": "持ってくる"
+  },
+  "choices": [
+   "to bring",
+   "war",
+   "to read",
+   "religious"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ana/",
+  "verified": true
+ },
+ {
+  "id": "bn-00199",
+  "category": "bengali",
+  "prompt": "「সন্দেহ」の意味は？",
+  "answer": "doubt",
+  "glosses": {
+   "en": "doubt",
+   "ja": "疑い"
+  },
+  "choices": [
+   "letter",
+   "month",
+   "beautiful",
+   "doubt"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʃɔnd̪eho/",
+  "verified": true
+ },
+ {
+  "id": "bn-00200",
+  "category": "bengali",
+  "prompt": "「কবিতা」の意味は？",
+  "answer": "poetry",
+  "glosses": {
+   "en": "poetry",
+   "ja": "詩"
+  },
+  "choices": [
+   "poetry",
+   "international",
+   "morning",
+   "police station"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kobit̪a/",
+  "verified": true
+ },
+ {
+  "id": "bn-00201",
+  "category": "bengali",
+  "prompt": "「কৃষি」の意味は？",
+  "answer": "agriculture",
+  "glosses": {
+   "en": "agriculture",
+   "ja": "農業"
+  },
+  "choices": [
+   "language",
+   "agriculture",
+   "perhaps",
+   "enemy"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kɾiʃi/",
+  "verified": true
+ },
+ {
+  "id": "bn-00202",
+  "category": "bengali",
+  "prompt": "「অল্প」の意味は？",
+  "answer": "little",
+  "glosses": {
+   "en": "little",
+   "ja": "少ない"
+  },
+  "choices": [
+   "little",
+   "climate",
+   "preparation",
+   "cricket"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "bn-00203",
+  "category": "bengali",
+  "prompt": "「পুত্র」の意味は？",
+  "answer": "son",
+  "glosses": {
+   "en": "son",
+   "ja": "息子"
+  },
+  "choices": [
+   "woman",
+   "television",
+   "son",
+   "to inform"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/put̪ɾo/",
+  "verified": true
+ },
+ {
+  "id": "bn-00204",
+  "category": "bengali",
+  "prompt": "「রোগ」の意味は？",
+  "answer": "disease",
+  "glosses": {
+   "en": "disease",
+   "ja": "病気"
+  },
+  "choices": [
+   "disease",
+   "kind",
+   "fast",
+   "story"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɾoɡ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00205",
+  "category": "bengali",
+  "prompt": "「জানানো」の意味は？",
+  "answer": "to inform",
+  "glosses": {
+   "en": "to inform",
+   "ja": "知らせる"
+  },
+  "choices": [
+   "analysis",
+   "meeting",
+   "book",
+   "to inform"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d͡ʒanano/",
+  "verified": true
+ },
+ {
+  "id": "bn-00206",
+  "category": "bengali",
+  "prompt": "「পরামর্শ」の意味は？",
+  "answer": "advice",
+  "glosses": {
+   "en": "advice",
+   "ja": "助言"
+  },
+  "choices": [
+   "permission",
+   "anger",
+   "debt",
+   "advice"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pɔ.ra.mɔr.ʃo/",
+  "verified": true
+ },
+ {
+  "id": "bn-00207",
+  "category": "bengali",
+  "prompt": "「গুরুত্ব」の意味は？",
+  "answer": "importance",
+  "glosses": {
+   "en": "importance",
+   "ja": "重要性"
+  },
+  "choices": [
+   "tiny",
+   "importance",
+   "poetry",
+   "to want"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɡuɾut̪ːo/",
+  "verified": true
+ },
+ {
+  "id": "bn-00208",
+  "category": "bengali",
+  "prompt": "「আনন্দ」の意味は？",
+  "answer": "joy",
+  "glosses": {
+   "en": "joy",
+   "ja": "喜び"
+  },
+  "choices": [
+   "time",
+   "to come",
+   "very",
+   "joy"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/anond̪o/",
+  "verified": true
+ },
+ {
+  "id": "bn-00209",
+  "category": "bengali",
+  "prompt": "「বোমা」の意味は？",
+  "answer": "bomb",
+  "glosses": {
+   "en": "bomb",
+   "ja": "爆弾"
+  },
+  "choices": [
+   "gathering",
+   "gift",
+   "bomb",
+   "temple"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/boma/",
+  "verified": true
+ },
+ {
+  "id": "bn-00210",
+  "category": "bengali",
+  "prompt": "「সমালোচনা」の意味は？",
+  "answer": "criticism",
+  "glosses": {
+   "en": "criticism",
+   "ja": "批判"
+  },
+  "choices": [
+   "murder",
+   "criticism",
+   "beautiful",
+   "teacher"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʃɔmalot͡ʃɔna/",
+  "verified": true
+ },
+ {
+  "id": "bn-00211",
+  "category": "bengali",
+  "prompt": "「ব্যবসায়ী」の意味は？",
+  "answer": "trader",
+  "glosses": {
+   "en": "trader",
+   "ja": "商人"
+  },
+  "choices": [
+   "store",
+   "concentration",
+   "trader",
+   "friend"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "bn-00212",
+  "category": "bengali",
+  "prompt": "「গবেষণা」の意味は？",
+  "answer": "research",
+  "glosses": {
+   "en": "research",
+   "ja": "研究"
+  },
+  "choices": [
+   "contribution",
+   "owner",
+   "research",
+   "only"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɡɔbeʃɔna/",
+  "verified": true
+ },
+ {
+  "id": "bn-00213",
+  "category": "bengali",
+  "prompt": "「আধুনিক」の意味は？",
+  "answer": "modern",
+  "glosses": {
+   "en": "modern",
+   "ja": "現代的な"
+  },
+  "choices": [
+   "path",
+   "modern",
+   "then",
+   "right"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ad̪ʱunik/",
+  "verified": true
+ },
+ {
+  "id": "bn-00214",
+  "category": "bengali",
+  "prompt": "「ইচ্ছা」の意味は？",
+  "answer": "desire",
+  "glosses": {
+   "en": "desire",
+   "ja": "願望"
+  },
+  "choices": [
+   "college",
+   "desire",
+   "prize",
+   "boat"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/it͡ʃʰːa/",
+  "verified": true
+ },
+ {
+  "id": "bn-00215",
+  "category": "bengali",
+  "prompt": "「পাখি」の意味は？",
+  "answer": "bird",
+  "glosses": {
+   "en": "bird",
+   "ja": "鳥"
+  },
+  "choices": [
+   "bird",
+   "protest",
+   "country",
+   "sky"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pakʰi/",
+  "verified": true
+ },
+ {
+  "id": "bn-00216",
+  "category": "bengali",
+  "prompt": "「রং」の意味は？",
+  "answer": "color",
+  "glosses": {
+   "en": "color",
+   "ja": "色"
+  },
+  "choices": [
+   "climate",
+   "actor",
+   "color",
+   "river"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/rɔŋ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00217",
+  "category": "bengali",
+  "prompt": "「সঙ্গীত」の意味は？",
+  "answer": "music",
+  "glosses": {
+   "en": "music",
+   "ja": "音楽"
+  },
+  "choices": [
+   "security",
+   "instruction",
+   "music",
+   "animal"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʃɔŋɡit̪/",
+  "verified": true
+ },
+ {
+  "id": "bn-00218",
+  "category": "bengali",
+  "prompt": "「ক্ষুদ্র」の意味は？",
+  "answer": "tiny",
+  "glosses": {
+   "en": "tiny",
+   "ja": "とても小さい"
+  },
+  "choices": [
+   "exam",
+   "lawsuit",
+   "more",
+   "tiny"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kʰud̪ɾo/",
+  "verified": true
+ },
+ {
+  "id": "bn-00219",
+  "category": "bengali",
+  "prompt": "「শরীর」の意味は？",
+  "answer": "body",
+  "glosses": {
+   "en": "body",
+   "ja": "身体"
+  },
+  "choices": [
+   "request",
+   "insult",
+   "body",
+   "trip"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʃoɾiɾ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00220",
+  "category": "bengali",
+  "prompt": "「পার্থক্য」の意味は？",
+  "answer": "difference",
+  "glosses": {
+   "en": "difference",
+   "ja": "違い"
+  },
+  "choices": [
+   "difference",
+   "sound",
+   "election",
+   "poor"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/paɾt̪ʰokːo/",
+  "verified": true
+ },
+ {
+  "id": "bn-00221",
+  "category": "bengali",
+  "prompt": "「অফিস」の意味は？",
+  "answer": "office",
+  "glosses": {
+   "en": "office",
+   "ja": "事務所"
+  },
+  "choices": [
+   "capital",
+   "answer",
+   "liquor",
+   "office"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɔfiʃ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00222",
+  "category": "bengali",
+  "prompt": "「চুল」の意味は？",
+  "answer": "hair",
+  "glosses": {
+   "en": "hair",
+   "ja": "髪"
+  },
+  "choices": [
+   "rather",
+   "doctor",
+   "hair",
+   "request"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/t͡ʃul/",
+  "verified": true
+ },
+ {
+  "id": "bn-00223",
+  "category": "bengali",
+  "prompt": "「সম্ভাবনা」の意味は？",
+  "answer": "possibility",
+  "glosses": {
+   "en": "possibility",
+   "ja": "可能性"
+  },
+  "choices": [
+   "possibility",
+   "how",
+   "dream",
+   "store"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "bn-00224",
+  "category": "bengali",
+  "prompt": "「বৃষ্টি」の意味は？",
+  "answer": "rain",
+  "glosses": {
+   "en": "rain",
+   "ja": "雨"
+  },
+  "choices": [
+   "fish",
+   "founder",
+   "rain",
+   "capital"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bɾiʃʈi/",
+  "verified": true
+ },
+ {
+  "id": "bn-00225",
+  "category": "bengali",
+  "prompt": "「অনুভব」の意味は？",
+  "answer": "feeling",
+  "glosses": {
+   "en": "feeling",
+   "ja": "感覚"
+  },
+  "choices": [
+   "to do",
+   "huge",
+   "feeling",
+   "police"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/onubʱɔb/",
+  "verified": true
+ },
+ {
+  "id": "bn-00226",
+  "category": "bengali",
+  "prompt": "「দেখানো」の意味は？",
+  "answer": "to show",
+  "glosses": {
+   "en": "to show",
+   "ja": "見せる"
+  },
+  "choices": [
+   "computer",
+   "door",
+   "to show",
+   "desire"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d̪æ.kʰa.no/",
+  "verified": true
+ },
+ {
+  "id": "bn-00227",
+  "category": "bengali",
+  "prompt": "「দোকান」の意味は？",
+  "answer": "store",
+  "glosses": {
+   "en": "store",
+   "ja": "店"
+  },
+  "choices": [
+   "sorrow",
+   "right",
+   "store",
+   "writer"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/do.kan/",
+  "verified": true
+ },
+ {
+  "id": "bn-00228",
+  "category": "bengali",
+  "prompt": "「ব্যস্ত」の意味は？",
+  "answer": "busy",
+  "glosses": {
+   "en": "busy",
+   "ja": "忙しい"
+  },
+  "choices": [
+   "busy",
+   "accident",
+   "time",
+   "week"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bæst̪o/",
+  "verified": true
+ },
+ {
+  "id": "bn-00229",
+  "category": "bengali",
+  "prompt": "「সমাবেশ」の意味は？",
+  "answer": "gathering",
+  "glosses": {
+   "en": "gathering",
+   "ja": "集会"
+  },
+  "choices": [
+   "place",
+   "hospital",
+   "gathering",
+   "research"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "bn-00230",
+  "category": "bengali",
+  "prompt": "「নিয়ম」の意味は？",
+  "answer": "rule",
+  "glosses": {
+   "en": "rule",
+   "ja": "規則"
+  },
+  "choices": [
+   "science",
+   "to make",
+   "sale",
+   "rule"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ni̯om/",
+  "verified": true
+ },
+ {
+  "id": "bn-00231",
+  "category": "bengali",
+  "prompt": "「দৃশ্য」の意味は？",
+  "answer": "scene",
+  "glosses": {
+   "en": "scene",
+   "ja": "場面"
+  },
+  "choices": [
+   "price",
+   "story",
+   "name",
+   "scene"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d̪riʃːo/",
+  "verified": true
+ },
+ {
+  "id": "bn-00232",
+  "category": "bengali",
+  "prompt": "「পৃথিবী」の意味は？",
+  "answer": "Earth",
+  "glosses": {
+   "en": "Earth",
+   "ja": "地球"
+  },
+  "choices": [
+   "player",
+   "Earth",
+   "war",
+   "software"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pɾit̪ʰibi/",
+  "verified": true
+ },
+ {
+  "id": "bn-00233",
+  "category": "bengali",
+  "prompt": "「অভিনেত্রী」の意味は？",
+  "answer": "actress",
+  "glosses": {
+   "en": "actress",
+   "ja": "女優"
+  },
+  "choices": [
+   "start",
+   "death",
+   "actress",
+   "existence"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɔbʱinet̪ɾi/",
+  "verified": true
+ },
+ {
+  "id": "bn-00234",
+  "category": "bengali",
+  "prompt": "「অভিনেতা」の意味は？",
+  "answer": "actor",
+  "glosses": {
+   "en": "actor",
+   "ja": "俳優"
+  },
+  "choices": [
+   "actor",
+   "example",
+   "democracy",
+   "television"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɔbʱinet̪a/",
+  "verified": true
+ },
+ {
+  "id": "bn-00235",
+  "category": "bengali",
+  "prompt": "「উপহার」の意味は？",
+  "answer": "gift",
+  "glosses": {
+   "en": "gift",
+   "ja": "贈り物"
+  },
+  "choices": [
+   "egg",
+   "gift",
+   "boy",
+   "international"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/u.po.har/",
+  "verified": true
+ },
+ {
+  "id": "bn-00236",
+  "category": "bengali",
+  "prompt": "「গ্যাস」の意味は？",
+  "answer": "gas",
+  "glosses": {
+   "en": "gas",
+   "ja": "ガス"
+  },
+  "choices": [
+   "marriage",
+   "bad",
+   "gas",
+   "electricity"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɡæʃ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00237",
+  "category": "bengali",
+  "prompt": "「দোষ」の意味は？",
+  "answer": "fault",
+  "glosses": {
+   "en": "fault",
+   "ja": "落ち度"
+  },
+  "choices": [
+   "research",
+   "food",
+   "increase",
+   "fault"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d̪oʃ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00238",
+  "category": "bengali",
+  "prompt": "「সাহিত্য」の意味は？",
+  "answer": "literature",
+  "glosses": {
+   "en": "literature",
+   "ja": "文学"
+  },
+  "choices": [
+   "solution",
+   "source",
+   "literature",
+   "brother"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʃahit̪ːo/",
+  "verified": true
+ },
+ {
+  "id": "bn-00239",
+  "category": "bengali",
+  "prompt": "「স্মৃতি」の意味は？",
+  "answer": "memory",
+  "glosses": {
+   "en": "memory",
+   "ja": "記憶"
+  },
+  "choices": [
+   "Tuesday",
+   "year",
+   "star",
+   "memory"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/sɾĩt̪i/",
+  "verified": true
+ },
+ {
+  "id": "bn-00240",
+  "category": "bengali",
+  "prompt": "「জরুরি」の意味は？",
+  "answer": "urgent",
+  "glosses": {
+   "en": "urgent",
+   "ja": "緊急の"
+  },
+  "choices": [
+   "urgent",
+   "Earth",
+   "how",
+   "delay"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d͡ʒoɾuɾi/",
+  "verified": true
+ },
+ {
+  "id": "bn-00241",
+  "category": "bengali",
+  "prompt": "「মিছিল」の意味は？",
+  "answer": "procession",
+  "glosses": {
+   "en": "procession",
+   "ja": "デモ行進"
+  },
+  "choices": [
+   "attraction",
+   "evidence",
+   "procession",
+   "official"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mit͡ʃʰil/",
+  "verified": true
+ },
+ {
+  "id": "bn-00242",
+  "category": "bengali",
+  "prompt": "「জনতা」の意味は？",
+  "answer": "crowd",
+  "glosses": {
+   "en": "crowd",
+   "ja": "群衆"
+  },
+  "choices": [
+   "instruction",
+   "there",
+   "festival",
+   "crowd"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d͡ʒɔnot̪a/",
+  "verified": true
+ },
+ {
+  "id": "bn-00243",
+  "category": "bengali",
+  "prompt": "「প্রস্তুতি」の意味は？",
+  "answer": "preparation",
+  "glosses": {
+   "en": "preparation",
+   "ja": "準備"
+  },
+  "choices": [
+   "voice",
+   "preparation",
+   "religion",
+   "fish"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pɾost̪ut̪i/",
+  "verified": true
+ },
+ {
+  "id": "bn-00244",
+  "category": "bengali",
+  "prompt": "「সোমবার」の意味は？",
+  "answer": "Monday",
+  "glosses": {
+   "en": "Monday",
+   "ja": "月曜日"
+  },
+  "choices": [
+   "film",
+   "Monday",
+   "eye",
+   "official"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʃombaɾ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00245",
+  "category": "bengali",
+  "prompt": "「মঙ্গলবার」の意味は？",
+  "answer": "Tuesday",
+  "glosses": {
+   "en": "Tuesday",
+   "ja": "火曜日"
+  },
+  "choices": [
+   "minister",
+   "treatment",
+   "Tuesday",
+   "poetry"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/moŋɡolbaɾ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00246",
+  "category": "bengali",
+  "prompt": "「শুক্রবার」の意味は？",
+  "answer": "Friday",
+  "glosses": {
+   "en": "Friday",
+   "ja": "金曜日"
+  },
+  "choices": [
+   "year",
+   "Friday",
+   "sound",
+   "crowd"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʃukɾobaɾ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00247",
+  "category": "bengali",
+  "prompt": "「শনিবার」の意味は？",
+  "answer": "Saturday",
+  "glosses": {
+   "en": "Saturday",
+   "ja": "土曜日"
+  },
+  "choices": [
+   "poet",
+   "camera",
+   "true",
+   "Saturday"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʃonibaɾ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00248",
+  "category": "bengali",
+  "prompt": "「থানা」の意味は？",
+  "answer": "police station",
+  "glosses": {
+   "en": "police station",
+   "ja": "警察署"
+  },
+  "choices": [
+   "history",
+   "war",
+   "police station",
+   "foundation"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/t̪ʰa.na/",
+  "verified": true
+ },
+ {
+  "id": "bn-00249",
+  "category": "bengali",
+  "prompt": "「সরবরাহ」の意味は？",
+  "answer": "supply",
+  "glosses": {
+   "en": "supply",
+   "ja": "供給"
+  },
+  "choices": [
+   "demand",
+   "supply",
+   "murder",
+   "perhaps"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʃɔɾboɾaho/",
+  "verified": true
+ },
+ {
+  "id": "bn-00250",
+  "category": "bengali",
+  "prompt": "「দুধ」の意味は？",
+  "answer": "milk",
+  "glosses": {
+   "en": "milk",
+   "ja": "牛乳"
+  },
+  "choices": [
+   "woman",
+   "milk",
+   "discussion",
+   "to get"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d̪ud̪ʱ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00251",
+  "category": "bengali",
+  "prompt": "「সেতু」の意味は？",
+  "answer": "bridge",
+  "glosses": {
+   "en": "bridge",
+   "ja": "橋"
+  },
+  "choices": [
+   "country",
+   "bridge",
+   "education",
+   "sea"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "bn-00252",
+  "category": "bengali",
+  "prompt": "「নৌকা」の意味は？",
+  "answer": "boat",
+  "glosses": {
+   "en": "boat",
+   "ja": "小舟"
+  },
+  "choices": [
+   "boat",
+   "kind",
+   "letter",
+   "murder"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/nou̯ka/",
+  "verified": true
+ },
+ {
+  "id": "bn-00253",
+  "category": "bengali",
+  "prompt": "「উদাহরণ」の意味は？",
+  "answer": "example",
+  "glosses": {
+   "en": "example",
+   "ja": "例"
+  },
+  "choices": [
+   "example",
+   "police",
+   "tourism",
+   "language"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ud̪ahɔɾon/",
+  "verified": true
+ },
+ {
+  "id": "bn-00254",
+  "category": "bengali",
+  "prompt": "「পাহাড়」の意味は？",
+  "answer": "mountain",
+  "glosses": {
+   "en": "mountain",
+   "ja": "山"
+  },
+  "choices": [
+   "college",
+   "existence",
+   "mountain",
+   "to put"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pa.haɽ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00255",
+  "category": "bengali",
+  "prompt": "「রেডিও」の意味は？",
+  "answer": "radio",
+  "glosses": {
+   "en": "radio",
+   "ja": "ラジオ"
+  },
+  "choices": [
+   "radio",
+   "official",
+   "music",
+   "punishment"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/reɖi̯o/",
+  "verified": true
+ },
+ {
+  "id": "bn-00256",
+  "category": "bengali",
+  "prompt": "「শোনা」の意味は？",
+  "answer": "to hear",
+  "glosses": {
+   "en": "to hear",
+   "ja": "聞く"
+  },
+  "choices": [
+   "fire",
+   "election",
+   "to hear",
+   "doctor"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʃona/",
+  "verified": true
+ },
+ {
+  "id": "bn-00257",
+  "category": "bengali",
+  "prompt": "「খোঁজ」の意味は？",
+  "answer": "search",
+  "glosses": {
+   "en": "search",
+   "ja": "捜索"
+  },
+  "choices": [
+   "to get",
+   "temple",
+   "suddenly",
+   "search"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kʰõd͡ʒ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00258",
+  "category": "bengali",
+  "prompt": "「পতাকা」の意味は？",
+  "answer": "flag",
+  "glosses": {
+   "en": "flag",
+   "ja": "旗"
+  },
+  "choices": [
+   "to put",
+   "television",
+   "description",
+   "flag"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pɔt̪aka/",
+  "verified": true
+ },
+ {
+  "id": "bn-00259",
+  "category": "bengali",
+  "prompt": "「মনোযোগ」の意味は？",
+  "answer": "concentration",
+  "glosses": {
+   "en": "concentration",
+   "ja": "集中"
+  },
+  "choices": [
+   "concentration",
+   "foundation",
+   "minute",
+   "star"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "bn-00260",
+  "category": "bengali",
+  "prompt": "「অঞ্চল」の意味は？",
+  "answer": "area",
+  "glosses": {
+   "en": "area",
+   "ja": "地域"
+  },
+  "choices": [
+   "to do",
+   "history",
+   "area",
+   "rain"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɔnt͡ʃɔl/",
+  "verified": true
+ },
+ {
+  "id": "bn-00261",
+  "category": "bengali",
+  "prompt": "「উৎস」の意味は？",
+  "answer": "source",
+  "glosses": {
+   "en": "source",
+   "ja": "源"
+  },
+  "choices": [
+   "boat",
+   "source",
+   "religious",
+   "now"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ut̪ʃo/",
+  "verified": true
+ },
+ {
+  "id": "bn-00262",
+  "category": "bengali",
+  "prompt": "「অবদান」の意味は？",
+  "answer": "contribution",
+  "glosses": {
+   "en": "contribution",
+   "ja": "貢献"
+  },
+  "choices": [
+   "animal",
+   "mountain",
+   "contribution",
+   "description"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "bn-00263",
+  "category": "bengali",
+  "prompt": "「দরজা」の意味は？",
+  "answer": "door",
+  "glosses": {
+   "en": "door",
+   "ja": "扉"
+  },
+  "choices": [
+   "familiar",
+   "evidence",
+   "to read",
+   "door"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d̪ɔɾd͡ʒa/",
+  "verified": true
+ },
+ {
+  "id": "bn-00264",
+  "category": "bengali",
+  "prompt": "「ব্যথা」の意味は？",
+  "answer": "pain",
+  "glosses": {
+   "en": "pain",
+   "ja": "痛み"
+  },
+  "choices": [
+   "pain",
+   "how",
+   "boat",
+   "poor"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bæt̪ʰɑ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00265",
+  "category": "bengali",
+  "prompt": "「প্রতিষ্ঠাতা」の意味は？",
+  "answer": "founder",
+  "glosses": {
+   "en": "founder",
+   "ja": "創設者"
+  },
+  "choices": [
+   "event",
+   "tree",
+   "advice",
+   "founder"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "bn-00266",
+  "category": "bengali",
+  "prompt": "「টেলিভিশন」の意味は？",
+  "answer": "television",
+  "glosses": {
+   "en": "television",
+   "ja": "テレビ"
+  },
+  "choices": [
+   "television",
+   "existence",
+   "music",
+   "almost"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʈelibʱiʃon/",
+  "verified": true
+ },
+ {
+  "id": "bn-00267",
+  "category": "bengali",
+  "prompt": "「বীর」の意味は？",
+  "answer": "hero",
+  "glosses": {
+   "en": "hero",
+   "ja": "英雄"
+  },
+  "choices": [
+   "prayer",
+   "instruction",
+   "hero",
+   "difference"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/biɾ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00268",
+  "category": "bengali",
+  "prompt": "「মাংস」の意味は？",
+  "answer": "meat",
+  "glosses": {
+   "en": "meat",
+   "ja": "肉"
+  },
+  "choices": [
+   "meat",
+   "egg",
+   "morning",
+   "gas"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/maŋʃo/",
+  "verified": true
+ },
+ {
+  "id": "bn-00269",
+  "category": "bengali",
+  "prompt": "「ঘৃণা」の意味は？",
+  "answer": "hatred",
+  "glosses": {
+   "en": "hatred",
+   "ja": "憎しみ"
+  },
+  "choices": [
+   "hatred",
+   "house",
+   "meat",
+   "scene"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɡʱɾina/",
+  "verified": true
+ },
+ {
+  "id": "bn-00270",
+  "category": "bengali",
+  "prompt": "「দুপুর」の意味は？",
+  "answer": "midday",
+  "glosses": {
+   "en": "midday",
+   "ja": "昼"
+  },
+  "choices": [
+   "interest",
+   "midday",
+   "feeling",
+   "construction"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d̪upuɾ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00271",
+  "category": "bengali",
+  "prompt": "「প্রশংসা」の意味は？",
+  "answer": "praise",
+  "glosses": {
+   "en": "praise",
+   "ja": "称賛"
+  },
+  "choices": [
+   "fault",
+   "electricity",
+   "praise",
+   "attraction"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pɾoʃɔŋʃa/",
+  "verified": true
+ },
+ {
+  "id": "bn-00272",
+  "category": "bengali",
+  "prompt": "「আওয়াজ」の意味は？",
+  "answer": "sound",
+  "glosses": {
+   "en": "sound",
+   "ja": "音"
+  },
+  "choices": [
+   "temple",
+   "house",
+   "sound",
+   "kind"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ao̯ad͡ʒ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00273",
+  "category": "bengali",
+  "prompt": "「ডিম」の意味は？",
+  "answer": "egg",
+  "glosses": {
+   "en": "egg",
+   "ja": "卵"
+  },
+  "choices": [
+   "trip",
+   "perhaps",
+   "egg",
+   "film"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɖim/",
+  "verified": true
+ },
+ {
+  "id": "bn-00274",
+  "category": "bengali",
+  "prompt": "「হাসপাতাল」の意味は？",
+  "answer": "hospital",
+  "glosses": {
+   "en": "hospital",
+   "ja": "病院"
+  },
+  "choices": [
+   "independence",
+   "state",
+   "hospital",
+   "clear"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/haʃpat̪al/",
+  "verified": true
+ },
+ {
+  "id": "bn-00275",
+  "category": "bengali",
+  "prompt": "「জবাব」の意味は？",
+  "answer": "answer",
+  "glosses": {
+   "en": "answer",
+   "ja": "答え"
+  },
+  "choices": [
+   "culture",
+   "fear",
+   "clothes",
+   "answer"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d͡ʒɔbab/",
+  "verified": true
+ },
+ {
+  "id": "bn-00276",
+  "category": "bengali",
+  "prompt": "「তারকা」の意味は？",
+  "answer": "star",
+  "glosses": {
+   "en": "star",
+   "ja": "星"
+  },
+  "choices": [
+   "star",
+   "player",
+   "month",
+   "murder"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "bn-00277",
+  "category": "bengali",
+  "prompt": "「শপথ」の意味は？",
+  "answer": "oath",
+  "glosses": {
+   "en": "oath",
+   "ja": "宣誓"
+  },
+  "choices": [
+   "day",
+   "literature",
+   "police",
+   "oath"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʃɔpɔt̪ʰ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00278",
+  "category": "bengali",
+  "prompt": "「গোয়েন্দা」の意味は？",
+  "answer": "detective",
+  "glosses": {
+   "en": "detective",
+   "ja": "探偵"
+  },
+  "choices": [
+   "constitution",
+   "fish",
+   "search",
+   "detective"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɡoend̪a/",
+  "verified": true
+ },
+ {
+  "id": "bn-00279",
+  "category": "bengali",
+  "prompt": "「প্রাচীন」の意味は？",
+  "answer": "ancient",
+  "glosses": {
+   "en": "ancient",
+   "ja": "古代の"
+  },
+  "choices": [
+   "wind",
+   "ancient",
+   "joy",
+   "construction"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pɾat͡ʃin/",
+  "verified": true
+ },
+ {
+  "id": "bn-00280",
+  "category": "bengali",
+  "prompt": "「প্রার্থনা」の意味は？",
+  "answer": "prayer",
+  "glosses": {
+   "en": "prayer",
+   "ja": "祈り"
+  },
+  "choices": [
+   "trade",
+   "birthday",
+   "office",
+   "prayer"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pɾaɾt̪ʰɔna/",
+  "verified": true
+ },
+ {
+  "id": "bn-00281",
+  "category": "bengali",
+  "prompt": "「আবিষ্কার」の意味は？",
+  "answer": "discovery",
+  "glosses": {
+   "en": "discovery",
+   "ja": "発見"
+  },
+  "choices": [
+   "discovery",
+   "voice",
+   "plan",
+   "insult"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/abiʃkaɾ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00282",
+  "category": "bengali",
+  "prompt": "「রাগ」の意味は？",
+  "answer": "anger",
+  "glosses": {
+   "en": "anger",
+   "ja": "怒り"
+  },
+  "choices": [
+   "debt",
+   "anger",
+   "official",
+   "owner"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/raɡ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00283",
+  "category": "bengali",
+  "prompt": "「পাথর」の意味は？",
+  "answer": "stone",
+  "glosses": {
+   "en": "stone",
+   "ja": "石"
+  },
+  "choices": [
+   "to inform",
+   "stone",
+   "liquor",
+   "parliament"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pat̪ʰoɾ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00284",
+  "category": "bengali",
+  "prompt": "「দুর্বল」の意味は？",
+  "answer": "weak",
+  "glosses": {
+   "en": "weak",
+   "ja": "弱い"
+  },
+  "choices": [
+   "here",
+   "actor",
+   "demand",
+   "weak"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d̪uɾbɔl/",
+  "verified": true
+ },
+ {
+  "id": "bn-00285",
+  "category": "bengali",
+  "prompt": "「সুস্থ」の意味は？",
+  "answer": "healthy",
+  "glosses": {
+   "en": "healthy",
+   "ja": "健康な"
+  },
+  "choices": [
+   "start",
+   "delay",
+   "trip",
+   "healthy"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʃust̪ʰo/",
+  "verified": true
+ },
+ {
+  "id": "bn-00286",
+  "category": "bengali",
+  "prompt": "「জটিল」の意味は？",
+  "answer": "complicated",
+  "glosses": {
+   "en": "complicated",
+   "ja": "複雑な"
+  },
+  "choices": [
+   "complicated",
+   "ancient",
+   "to say",
+   "editor"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d͡ʒoʈil/",
+  "verified": true
+ },
+ {
+  "id": "bn-00287",
+  "category": "bengali",
+  "prompt": "「ওষুধ」の意味は？",
+  "answer": "medicine",
+  "glosses": {
+   "en": "medicine",
+   "ja": "薬"
+  },
+  "choices": [
+   "religious",
+   "television",
+   "number",
+   "medicine"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/oʃud̪ʱ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00288",
+  "category": "bengali",
+  "prompt": "「বন্দর」の意味は？",
+  "answer": "port",
+  "glosses": {
+   "en": "port",
+   "ja": "港"
+  },
+  "choices": [
+   "Monday",
+   "door",
+   "port",
+   "to see"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bɔnd̪ɔɾ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00289",
+  "category": "bengali",
+  "prompt": "「রান্না」の意味は？",
+  "answer": "cooking",
+  "glosses": {
+   "en": "cooking",
+   "ja": "料理"
+  },
+  "choices": [
+   "May",
+   "trader",
+   "cooking",
+   "actor"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ranːa/",
+  "verified": true
+ },
+ {
+  "id": "bn-00290",
+  "category": "bengali",
+  "prompt": "「ভিত্তি」の意味は？",
+  "answer": "foundation",
+  "glosses": {
+   "en": "foundation",
+   "ja": "土台"
+  },
+  "choices": [
+   "foundation",
+   "player",
+   "tree",
+   "climate"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bʱit̪ːi/",
+  "verified": true
+ },
+ {
+  "id": "bn-00291",
+  "category": "bengali",
+  "prompt": "「দুর্ঘটনা」の意味は？",
+  "answer": "accident",
+  "glosses": {
+   "en": "accident",
+   "ja": "事故"
+  },
+  "choices": [
+   "boy",
+   "to inform",
+   "accident",
+   "party"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d̪uɾɡʱɔʈona/",
+  "verified": true
+ },
+ {
+  "id": "bn-00292",
+  "category": "bengali",
+  "prompt": "「সাহস」の意味は？",
+  "answer": "courage",
+  "glosses": {
+   "en": "courage",
+   "ja": "勇気"
+  },
+  "choices": [
+   "color",
+   "debt",
+   "courage",
+   "coffee"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʃahoʃ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00293",
+  "category": "bengali",
+  "prompt": "「ক্যামেরা」の意味は？",
+  "answer": "camera",
+  "glosses": {
+   "en": "camera",
+   "ja": "カメラ"
+  },
+  "choices": [
+   "place",
+   "month",
+   "society",
+   "camera"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kæmeɾa/",
+  "verified": true
+ },
+ {
+  "id": "bn-00294",
+  "category": "bengali",
+  "prompt": "「বাণিজ্য」の意味は？",
+  "answer": "trade",
+  "glosses": {
+   "en": "trade",
+   "ja": "貿易"
+  },
+  "choices": [
+   "trade",
+   "true",
+   "agriculture",
+   "fault"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/banid͡ʒd͡ʒo/",
+  "verified": true
+ },
+ {
+  "id": "bn-00295",
+  "category": "bengali",
+  "prompt": "「বিনিয়োগ」の意味は？",
+  "answer": "investment",
+  "glosses": {
+   "en": "investment",
+   "ja": "投資"
+  },
+  "choices": [
+   "procession",
+   "investment",
+   "tourism",
+   "minister"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bini̯oɡ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00296",
+  "category": "bengali",
+  "prompt": "「সাফল্য」の意味は？",
+  "answer": "success",
+  "glosses": {
+   "en": "success",
+   "ja": "成功"
+  },
+  "choices": [
+   "research",
+   "analysis",
+   "judge",
+   "success"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʃapʰolːo/",
+  "verified": true
+ },
+ {
+  "id": "bn-00297",
+  "category": "bengali",
+  "prompt": "「আগ্রহ」の意味は？",
+  "answer": "interest",
+  "glosses": {
+   "en": "interest",
+   "ja": "関心"
+  },
+  "choices": [
+   "procession",
+   "week",
+   "interest",
+   "dream"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/aɡːɾoho/",
+  "verified": true
+ },
+ {
+  "id": "bn-00298",
+  "category": "bengali",
+  "prompt": "「বুধবার」の意味は？",
+  "answer": "Wednesday",
+  "glosses": {
+   "en": "Wednesday",
+   "ja": "水曜日"
+  },
+  "choices": [
+   "insult",
+   "capital",
+   "Wednesday",
+   "body"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bud̪ʱbaɾ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00299",
+  "category": "bengali",
+  "prompt": "「ফেলা」の意味は？",
+  "answer": "to drop",
+  "glosses": {
+   "en": "to drop",
+   "ja": "落とす"
+  },
+  "choices": [
+   "date",
+   "to drop",
+   "flower",
+   "village"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/fæla/",
+  "verified": true
+ },
+ {
+  "id": "bn-00300",
+  "category": "bengali",
+  "prompt": "「কুকুর」の意味は？",
+  "answer": "dog",
+  "glosses": {
+   "en": "dog",
+   "ja": "犬"
+  },
+  "choices": [
+   "dog",
+   "difference",
+   "to make",
+   "supply"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kukuɾ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00301",
+  "category": "bengali",
+  "prompt": "「জন্মদিন」の意味は？",
+  "answer": "birthday",
+  "glosses": {
+   "en": "birthday",
+   "ja": "誕生日"
+  },
+  "choices": [
+   "to bring",
+   "society",
+   "birthday",
+   "still"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d͡ʒɔnmod̪in/",
+  "verified": true
+ },
+ {
+  "id": "bn-00302",
+  "category": "bengali",
+  "prompt": "「ঝড়」の意味は？",
+  "answer": "storm",
+  "glosses": {
+   "en": "storm",
+   "ja": "嵐"
+  },
+  "choices": [
+   "sound",
+   "storm",
+   "committee",
+   "creation"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d͡ʒʱɔɽ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00303",
+  "category": "bengali",
+  "prompt": "「সমুদ্র」の意味は？",
+  "answer": "sea",
+  "glosses": {
+   "en": "sea",
+   "ja": "海"
+  },
+  "choices": [
+   "sea",
+   "May",
+   "video",
+   "delay"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʃomud̪ɾo/",
+  "verified": true
+ },
+ {
+  "id": "bn-00304",
+  "category": "bengali",
+  "prompt": "「প্রাণী」の意味は？",
+  "answer": "animal",
+  "glosses": {
+   "en": "animal",
+   "ja": "動物"
+  },
+  "choices": [
+   "interest",
+   "age",
+   "animal",
+   "phone"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pɾani/",
+  "verified": true
+ },
+ {
+  "id": "bn-00305",
+  "category": "bengali",
+  "prompt": "「অবরোধ」の意味は？",
+  "answer": "blockade",
+  "glosses": {
+   "en": "blockade",
+   "ja": "封鎖"
+  },
+  "choices": [
+   "blockade",
+   "still",
+   "importance",
+   "security"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "bn-00306",
+  "category": "bengali",
+  "prompt": "「চালানো」の意味は？",
+  "answer": "to drive",
+  "glosses": {
+   "en": "to drive",
+   "ja": "運転する"
+  },
+  "choices": [
+   "to drive",
+   "discovery",
+   "to wear",
+   "poor"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/t͡ʃa.la.no/",
+  "verified": true
+ },
+ {
+  "id": "bn-00307",
+  "category": "bengali",
+  "prompt": "「ভরা」の意味は？",
+  "answer": "to fill",
+  "glosses": {
+   "en": "to fill",
+   "ja": "いっぱいにする"
+  },
+  "choices": [
+   "sound",
+   "familiar",
+   "opportunity",
+   "to fill"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bʰɔ.ra/",
+  "verified": true
+ },
+ {
+  "id": "bn-00308",
+  "category": "bengali",
+  "prompt": "「বন্যা」の意味は？",
+  "answer": "flood",
+  "glosses": {
+   "en": "flood",
+   "ja": "洪水"
+  },
+  "choices": [
+   "book",
+   "rather",
+   "healthy",
+   "flood"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bɔnːa/",
+  "verified": true
+ },
+ {
+  "id": "bn-00309",
+  "category": "bengali",
+  "prompt": "「গণতন্ত্র」の意味は？",
+  "answer": "democracy",
+  "glosses": {
+   "en": "democracy",
+   "ja": "民主主義"
+  },
+  "choices": [
+   "democracy",
+   "complicated",
+   "example",
+   "preparation"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɡɔnot̪ɔnt̪ɾo/",
+  "verified": true
+ },
+ {
+  "id": "bn-00310",
+  "category": "bengali",
+  "prompt": "「বাতাস」の意味は？",
+  "answer": "wind",
+  "glosses": {
+   "en": "wind",
+   "ja": "風"
+  },
+  "choices": [
+   "boat",
+   "kind",
+   "phone",
+   "wind"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bat̪aʃ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00311",
+  "category": "bengali",
+  "prompt": "「শান্ত」の意味は？",
+  "answer": "calm",
+  "glosses": {
+   "en": "calm",
+   "ja": "穏やかな"
+  },
+  "choices": [
+   "perhaps",
+   "business",
+   "urgent",
+   "calm"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʃant̪o/",
+  "verified": true
+ },
+ {
+  "id": "bn-00312",
+  "category": "bengali",
+  "prompt": "「নেটওয়ার্ক」の意味は？",
+  "answer": "network",
+  "glosses": {
+   "en": "network",
+   "ja": "ネットワーク"
+  },
+  "choices": [
+   "oil",
+   "memory",
+   "body",
+   "network"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/neʈo̯aɾk/",
+  "verified": true
+ },
+ {
+  "id": "bn-00313",
+  "category": "bengali",
+  "prompt": "「আকাশ」の意味は？",
+  "answer": "sky",
+  "glosses": {
+   "en": "sky",
+   "ja": "空"
+  },
+  "choices": [
+   "player",
+   "translation",
+   "sky",
+   "plan"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/akaʃ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00314",
+  "category": "bengali",
+  "prompt": "「দুঃখ」の意味は？",
+  "answer": "sorrow",
+  "glosses": {
+   "en": "sorrow",
+   "ja": "悲しみ"
+  },
+  "choices": [
+   "event",
+   "paper",
+   "staff",
+   "sorrow"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d̪ukʰːo/",
+  "verified": true
+ },
+ {
+  "id": "bn-00315",
+  "category": "bengali",
+  "prompt": "「জলবায়ু」の意味は？",
+  "answer": "climate",
+  "glosses": {
+   "en": "climate",
+   "ja": "気候"
+  },
+  "choices": [
+   "modern",
+   "police",
+   "climate",
+   "familiar"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d͡ʒɔl.ba.ju/",
+  "verified": true
+ },
+ {
+  "id": "bn-00316",
+  "category": "bengali",
+  "prompt": "「বাসিন্দা」の意味は？",
+  "answer": "resident",
+  "glosses": {
+   "en": "resident",
+   "ja": "居住者"
+  },
+  "choices": [
+   "science",
+   "to want",
+   "investigation",
+   "resident"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/baʃind̪a/",
+  "verified": true
+ },
+ {
+  "id": "bn-00317",
+  "category": "bengali",
+  "prompt": "「মন্দির」の意味は？",
+  "answer": "temple",
+  "glosses": {
+   "en": "temple",
+   "ja": "寺院"
+  },
+  "choices": [
+   "acting",
+   "to read",
+   "possibility",
+   "temple"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mɔnd̪iɾ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00318",
+  "category": "bengali",
+  "prompt": "「শত্রু」の意味は？",
+  "answer": "enemy",
+  "glosses": {
+   "en": "enemy",
+   "ja": "敵"
+  },
+  "choices": [
+   "forgiveness",
+   "week",
+   "department",
+   "enemy"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʃot̪ɾu/",
+  "verified": true
+ },
+ {
+  "id": "bn-00319",
+  "category": "bengali",
+  "prompt": "「চাহিদা」の意味は？",
+  "answer": "demand",
+  "glosses": {
+   "en": "demand",
+   "ja": "需要"
+  },
+  "choices": [
+   "demand",
+   "blow",
+   "flag",
+   "area"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/t͡ʃahid̪a/",
+  "verified": true
+ },
+ {
+  "id": "bn-00320",
+  "category": "bengali",
+  "prompt": "「বানানো」の意味は？",
+  "answer": "to make",
+  "glosses": {
+   "en": "to make",
+   "ja": "作る"
+  },
+  "choices": [
+   "book",
+   "staff",
+   "to make",
+   "minister"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ba.na.no/",
+  "verified": true
+ },
+ {
+  "id": "bn-00321",
+  "category": "bengali",
+  "prompt": "「ঠিকানা」の意味は？",
+  "answer": "address",
+  "glosses": {
+   "en": "address",
+   "ja": "住所"
+  },
+  "choices": [
+   "poor",
+   "birthday",
+   "address",
+   "teacher"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʈʰikana/",
+  "verified": true
+ },
+ {
+  "id": "bn-00322",
+  "category": "bengali",
+  "prompt": "「ঋণ」の意味は？",
+  "answer": "debt",
+  "glosses": {
+   "en": "debt",
+   "ja": "借金"
+  },
+  "choices": [
+   "debt",
+   "prayer",
+   "joy",
+   "weak"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/rin/",
+  "verified": true
+ },
+ {
+  "id": "bn-00323",
+  "category": "bengali",
+  "prompt": "「মদ」の意味は？",
+  "answer": "liquor",
+  "glosses": {
+   "en": "liquor",
+   "ja": "酒"
+  },
+  "choices": [
+   "education",
+   "month",
+   "liquor",
+   "year"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mɔd̪/",
+  "verified": true
+ },
+ {
+  "id": "bn-00324",
+  "category": "bengali",
+  "prompt": "「সংবিধান」の意味は？",
+  "answer": "constitution",
+  "glosses": {
+   "en": "constitution",
+   "ja": "憲法"
+  },
+  "choices": [
+   "ancient",
+   "search",
+   "sorrow",
+   "constitution"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʃɔŋbid̪ʱan/",
+  "verified": true
+ },
+ {
+  "id": "bn-00325",
+  "category": "bengali",
+  "prompt": "「পর্যটন」の意味は？",
+  "answer": "tourism",
+  "glosses": {
+   "en": "tourism",
+   "ja": "観光"
+  },
+  "choices": [
+   "emperor",
+   "to drive",
+   "tourism",
+   "address"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pɔɾd͡ʒɔʈɔn/",
+  "verified": true
+ },
+ {
+  "id": "bn-00326",
+  "category": "bengali",
+  "prompt": "「দরিদ্র」の意味は？",
+  "answer": "poor",
+  "glosses": {
+   "en": "poor",
+   "ja": "貧しい"
+  },
+  "choices": [
+   "poor",
+   "gift",
+   "analysis",
+   "tourism"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d̪oɾid̪ɾo/",
+  "verified": true
+ },
+ {
+  "id": "bn-00327",
+  "category": "bengali",
+  "prompt": "「খেলোয়াড়」の意味は？",
+  "answer": "player",
+  "glosses": {
+   "en": "player",
+   "ja": "選手"
+  },
+  "choices": [
+   "number",
+   "player",
+   "color",
+   "more"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kʰælo̯aɽ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00328",
+  "category": "bengali",
+  "prompt": "「বিচারক」の意味は？",
+  "answer": "judge",
+  "glosses": {
+   "en": "judge",
+   "ja": "裁判官"
+  },
+  "choices": [
+   "judge",
+   "port",
+   "solution",
+   "weapon"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bit͡ʃaɾok/",
+  "verified": true
+ },
+ {
+  "id": "bn-00329",
+  "category": "bengali",
+  "prompt": "「কণ্ঠ」の意味は？",
+  "answer": "voice",
+  "glosses": {
+   "en": "voice",
+   "ja": "声"
+  },
+  "choices": [
+   "theft",
+   "police",
+   "here",
+   "voice"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kɔnʈʰo/",
+  "verified": true
+ },
+ {
+  "id": "bn-00330",
+  "category": "bengali",
+  "prompt": "「আকর্ষণ」の意味は？",
+  "answer": "attraction",
+  "glosses": {
+   "en": "attraction",
+   "ja": "魅力"
+  },
+  "choices": [
+   "meat",
+   "accident",
+   "attraction",
+   "radio"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/akoɾʃon/",
+  "verified": true
+ },
+ {
+  "id": "bn-00331",
+  "category": "bengali",
+  "prompt": "「অস্তিত্ব」の意味は？",
+  "answer": "existence",
+  "glosses": {
+   "en": "existence",
+   "ja": "存在"
+  },
+  "choices": [
+   "gathering",
+   "joy",
+   "existence",
+   "investment"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "bn-00332",
+  "category": "bengali",
+  "prompt": "「দক্ষতা」の意味は？",
+  "answer": "skill",
+  "glosses": {
+   "en": "skill",
+   "ja": "技能"
+  },
+  "choices": [
+   "blockade",
+   "to want",
+   "skill",
+   "animal"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d̪ɔkʰːɔt̪a/",
+  "verified": true
+ },
+ {
+  "id": "bn-00333",
+  "category": "bengali",
+  "prompt": "「বৃহস্পতিবার」の意味は？",
+  "answer": "Thursday",
+  "glosses": {
+   "en": "Thursday",
+   "ja": "木曜日"
+  },
+  "choices": [
+   "independence",
+   "only",
+   "discovery",
+   "Thursday"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bɾiɦoʃpot̪ibaɾ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00334",
+  "category": "bengali",
+  "prompt": "「রবিবার」の意味は？",
+  "answer": "Sunday",
+  "glosses": {
+   "en": "Sunday",
+   "ja": "日曜日"
+  },
+  "choices": [
+   "name",
+   "body",
+   "Sunday",
+   "address"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/robibaɾ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00335",
+  "category": "bengali",
+  "prompt": "「ডান」の意味は？",
+  "answer": "right",
+  "glosses": {
+   "en": "right",
+   "ja": "右の"
+  },
+  "choices": [
+   "hard",
+   "question",
+   "right",
+   "religion"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɖan/",
+  "verified": true
+ },
+ {
+  "id": "bn-00336",
+  "category": "bengali",
+  "prompt": "「দেরি」の意味は？",
+  "answer": "delay",
+  "glosses": {
+   "en": "delay",
+   "ja": "遅れ"
+  },
+  "choices": [
+   "courage",
+   "tea",
+   "price",
+   "delay"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d̪eɾi/",
+  "verified": true
+ },
+ {
+  "id": "bn-00337",
+  "category": "bengali",
+  "prompt": "「স্পষ্ট」の意味は？",
+  "answer": "clear",
+  "glosses": {
+   "en": "clear",
+   "ja": "明らかな"
+  },
+  "choices": [
+   "clear",
+   "war",
+   "science",
+   "group"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/spɔʃʈo/",
+  "verified": true
+ },
+ {
+  "id": "bn-00338",
+  "category": "bengali",
+  "prompt": "「চাওয়া」の意味は？",
+  "answer": "to want",
+  "glosses": {
+   "en": "to want",
+   "ja": "欲しがる"
+  },
+  "choices": [
+   "to wear",
+   "to want",
+   "sufficient",
+   "gas"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/t͡ʃao̯a/",
+  "verified": true
+ },
+ {
+  "id": "bn-00339",
+  "category": "bengali",
+  "prompt": "「আলাপ」の意味は？",
+  "answer": "talk",
+  "glosses": {
+   "en": "talk",
+   "ja": "会話"
+  },
+  "choices": [
+   "talk",
+   "name",
+   "boy",
+   "start"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/alap/",
+  "verified": true
+ },
+ {
+  "id": "bn-00340",
+  "category": "bengali",
+  "prompt": "「তুলনা」の意味は？",
+  "answer": "comparison",
+  "glosses": {
+   "en": "comparison",
+   "ja": "比較"
+  },
+  "choices": [
+   "flood",
+   "expenditure",
+   "state",
+   "comparison"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/t̪ulona/",
+  "verified": true
+ },
+ {
+  "id": "bn-00341",
+  "category": "bengali",
+  "prompt": "「সফটওয়্যার」の意味は？",
+  "answer": "software",
+  "glosses": {
+   "en": "software",
+   "ja": "ソフトウェア"
+  },
+  "choices": [
+   "investment",
+   "appointment",
+   "doctor",
+   "software"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʃɔpʰʈ.wær/",
+  "verified": true
+ },
+ {
+  "id": "bn-00342",
+  "category": "bengali",
+  "prompt": "「বিশ্লেষণ」の意味は？",
+  "answer": "analysis",
+  "glosses": {
+   "en": "analysis",
+   "ja": "分析"
+  },
+  "choices": [
+   "war",
+   "analysis",
+   "sister",
+   "student"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bisleʃɔn/",
+  "verified": true
+ },
+ {
+  "id": "bn-00343",
+  "category": "bengali",
+  "prompt": "「পরা」の意味は？",
+  "answer": "to wear",
+  "glosses": {
+   "en": "to wear",
+   "ja": "着る"
+  },
+  "choices": [
+   "Tuesday",
+   "to bring",
+   "to wear",
+   "Earth"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pɔɾa/",
+  "verified": true
+ },
+ {
+  "id": "bn-00344",
+  "category": "bengali",
+  "prompt": "「কারখানা」の意味は？",
+  "answer": "factory",
+  "glosses": {
+   "en": "factory",
+   "ja": "工場"
+  },
+  "choices": [
+   "date",
+   "department",
+   "factory",
+   "boy"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kaɾkʰana/",
+  "verified": true
+ },
+ {
+  "id": "bn-00345",
+  "category": "bengali",
+  "prompt": "「সম্রাট」の意味は？",
+  "answer": "emperor",
+  "glosses": {
+   "en": "emperor",
+   "ja": "皇帝"
+  },
+  "choices": [
+   "solution",
+   "flood",
+   "soccer",
+   "emperor"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "bn-00346",
+  "category": "bengali",
+  "prompt": "「কফি」の意味は？",
+  "answer": "coffee",
+  "glosses": {
+   "en": "coffee",
+   "ja": "コーヒー"
+  },
+  "choices": [
+   "doubt",
+   "democracy",
+   "coffee",
+   "request"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kɔfi/",
+  "verified": true
+ },
+ {
+  "id": "bn-00347",
+  "category": "bengali",
+  "prompt": "「বোতল」の意味は？",
+  "answer": "bottle",
+  "glosses": {
+   "en": "bottle",
+   "ja": "びん"
+  },
+  "choices": [
+   "bottle",
+   "to do",
+   "business",
+   "instruction"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bot̪ol/",
+  "verified": true
+ },
+ {
+  "id": "bn-00348",
+  "category": "bengali",
+  "prompt": "「অপমান」の意味は？",
+  "answer": "insult",
+  "glosses": {
+   "en": "insult",
+   "ja": "侮辱"
+  },
+  "choices": [
+   "insult",
+   "birthday",
+   "suddenly",
+   "woman"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɔpoman/",
+  "verified": true
+ },
+ {
+  "id": "bn-00349",
+  "category": "bengali",
+  "prompt": "「উপন্যাস」の意味は？",
+  "answer": "novel",
+  "glosses": {
+   "en": "novel",
+   "ja": "小説"
+  },
+  "choices": [
+   "discovery",
+   "river",
+   "novel",
+   "to hear"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/uponːaʃ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00350",
+  "category": "bengali",
+  "prompt": "「কাগজ」の意味は？",
+  "answer": "paper",
+  "glosses": {
+   "en": "paper",
+   "ja": "紙"
+  },
+  "choices": [
+   "weak",
+   "supply",
+   "oath",
+   "paper"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kaɡod͡ʒ/",
+  "verified": true
+ }
+]

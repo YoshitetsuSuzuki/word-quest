@@ -15,7 +15,7 @@
    "localeSwitchOk": 8132,
    "levelSwitchOk": 7,
    "exceptions": 0,
-   "elapsedMs": 2073
+   "elapsedMs": 2112
   },
   {
    "language": "chinese",
@@ -30,7 +30,7 @@
    "localeSwitchOk": 8402,
    "levelSwitchOk": 5,
    "exceptions": 0,
-   "elapsedMs": 1061
+   "elapsedMs": 1060
   },
   {
    "language": "japanese",
@@ -45,7 +45,7 @@
    "localeSwitchOk": 7489,
    "levelSwitchOk": 5,
    "exceptions": 0,
-   "elapsedMs": 1692
+   "elapsedMs": 1663
   },
   {
    "language": "korean",
@@ -60,7 +60,7 @@
    "localeSwitchOk": 2671,
    "levelSwitchOk": 3,
    "exceptions": 0,
-   "elapsedMs": 220
+   "elapsedMs": 214
   },
   {
    "language": "spanish",
@@ -75,7 +75,7 @@
    "localeSwitchOk": 6234,
    "levelSwitchOk": 5,
    "exceptions": 0,
-   "elapsedMs": 544
+   "elapsedMs": 547
   },
   {
    "language": "german",
@@ -90,7 +90,7 @@
    "localeSwitchOk": 6146,
    "levelSwitchOk": 5,
    "exceptions": 0,
-   "elapsedMs": 529
+   "elapsedMs": 531
   },
   {
    "language": "french",
@@ -105,7 +105,7 @@
    "localeSwitchOk": 6304,
    "levelSwitchOk": 5,
    "exceptions": 0,
-   "elapsedMs": 557
+   "elapsedMs": 554
   },
   {
    "language": "portuguese",
@@ -120,7 +120,7 @@
    "localeSwitchOk": 3132,
    "levelSwitchOk": 3,
    "exceptions": 0,
-   "elapsedMs": 299
+   "elapsedMs": 287
   },
   {
    "language": "polish",
@@ -135,7 +135,7 @@
    "localeSwitchOk": 3380,
    "levelSwitchOk": 3,
    "exceptions": 0,
-   "elapsedMs": 331
+   "elapsedMs": 335
   },
   {
    "language": "russian",
@@ -150,7 +150,7 @@
    "localeSwitchOk": 3993,
    "levelSwitchOk": 3,
    "exceptions": 0,
-   "elapsedMs": 470
+   "elapsedMs": 524
   },
   {
    "language": "hindi",
@@ -165,7 +165,7 @@
    "localeSwitchOk": 3282,
    "levelSwitchOk": 3,
    "exceptions": 0,
-   "elapsedMs": 163
+   "elapsedMs": 154
   },
   {
    "language": "arabic",
@@ -180,7 +180,7 @@
    "localeSwitchOk": 2522,
    "levelSwitchOk": 3,
    "exceptions": 0,
-   "elapsedMs": 96
+   "elapsedMs": 94
   },
   {
    "language": "tagalog",
@@ -195,7 +195,7 @@
    "localeSwitchOk": 3308,
    "levelSwitchOk": 3,
    "exceptions": 0,
-   "elapsedMs": 167
+   "elapsedMs": 168
   },
   {
    "language": "italian",
@@ -210,7 +210,7 @@
    "localeSwitchOk": 5906,
    "levelSwitchOk": 3,
    "exceptions": 0,
-   "elapsedMs": 484
+   "elapsedMs": 487
   },
   {
    "language": "mongolian",
@@ -226,6 +226,21 @@
    "levelSwitchOk": 3,
    "exceptions": 0,
    "elapsedMs": 42
+  },
+  {
+   "language": "bengali",
+   "loaded": 1048,
+   "sessionsBuilt": 20,
+   "questionsChecked": 1048,
+   "correctJudgedOk": 1048,
+   "shuffleOk": 1048,
+   "exampleShown": 0,
+   "exampleHidden": 2096,
+   "pronunciationShown": 1048,
+   "localeSwitchOk": 2096,
+   "levelSwitchOk": 3,
+   "exceptions": 0,
+   "elapsedMs": 63
   }
  ],
  "summary": {

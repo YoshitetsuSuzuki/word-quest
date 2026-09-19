@@ -179,6 +179,7 @@ export function langForCategory(category: Category): string {
     case 'tagalog': return 'fil-PH'
     case 'italian': return 'it-IT'
     case 'mongolian': return 'mn-MN'
+    case 'bengali': return 'bn-IN'
     default: return 'en-US'
   }
 }

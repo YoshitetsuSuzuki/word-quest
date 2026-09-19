@@ -114,6 +114,7 @@ export interface Strings {
   'cat.tagalog': string
   'cat.italian': string
   'cat.mongolian': string
+  'cat.bengali': string
   'pet.newBadge': string; 'pet.addedPre': string; 'pet.addedSuffix': string
   'notify.streakTitle': string; 'notify.streakBody': string
   'notify.leagueTitle': string; 'notify.leagueBody': string

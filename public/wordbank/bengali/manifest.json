@@ -1,0 +1,24 @@
+{
+ "category": "bengali",
+ "levels": [
+  {
+   "level": 1,
+   "file": "level-1.json",
+   "count": 350
+  },
+  {
+   "level": 2,
+   "file": "level-2.json",
+   "count": 350
+  },
+  {
+   "level": 3,
+   "file": "level-3.json",
+   "count": 348
+  }
+ ],
+ "total": 1048,
+ "verified": 1048,
+ "jaVerified": 1048,
+ "source": "curated core + dictionary-derived (3-judge AI verified)"
+}

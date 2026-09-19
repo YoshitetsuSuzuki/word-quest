@@ -1,0 +1,7658 @@
+[
+ {
+  "id": "bn-00701",
+  "category": "bengali",
+  "prompt": "「কুমির」の意味は？",
+  "answer": "crocodile",
+  "glosses": {
+   "en": "crocodile",
+   "ja": "ワニ"
+  },
+  "choices": [
+   "recession",
+   "oar",
+   "crocodile",
+   "mulberry"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kumiɾ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00702",
+  "category": "bengali",
+  "prompt": "「গ্রীষ্ম」の意味は？",
+  "answer": "summer",
+  "glosses": {
+   "en": "summer",
+   "ja": "夏"
+  },
+  "choices": [
+   "to count",
+   "elevator",
+   "summer",
+   "tent"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɡɾiʃːo/",
+  "verified": true
+ },
+ {
+  "id": "bn-00703",
+  "category": "bengali",
+  "prompt": "「প্রস্রাব」の意味は？",
+  "answer": "urine",
+  "glosses": {
+   "en": "urine",
+   "ja": "尿"
+  },
+  "choices": [
+   "summer",
+   "chimney",
+   "floor",
+   "urine"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "bn-00704",
+  "category": "bengali",
+  "prompt": "「গিটার」の意味は？",
+  "answer": "guitar",
+  "glosses": {
+   "en": "guitar",
+   "ja": "ギター"
+  },
+  "choices": [
+   "honeymoon",
+   "camphor",
+   "guitar",
+   "imitation"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɡiʈaɾ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00705",
+  "category": "bengali",
+  "prompt": "「ধোয়া」の意味は？",
+  "answer": "to wash",
+  "glosses": {
+   "en": "to wash",
+   "ja": "洗う"
+  },
+  "choices": [
+   "scissors",
+   "illiterate",
+   "to wash",
+   "sheep"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d̪ʱo̯a/",
+  "verified": true
+ },
+ {
+  "id": "bn-00706",
+  "category": "bengali",
+  "prompt": "「মাখা」の意味は？",
+  "answer": "to smear",
+  "glosses": {
+   "en": "to smear",
+   "ja": "塗りつける"
+  },
+  "choices": [
+   "kettle",
+   "announcer",
+   "to smear",
+   "saucer"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/makʰa/",
+  "verified": true
+ },
+ {
+  "id": "bn-00707",
+  "category": "bengali",
+  "prompt": "「গাল」の意味は？",
+  "answer": "cheek",
+  "glosses": {
+   "en": "cheek",
+   "ja": "ほお"
+  },
+  "choices": [
+   "watermelon",
+   "hiccup",
+   "cheek",
+   "earthworm"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɡal/",
+  "verified": true
+ },
+ {
+  "id": "bn-00708",
+  "category": "bengali",
+  "prompt": "「দাসত্ব」の意味は？",
+  "answer": "slavery",
+  "glosses": {
+   "en": "slavery",
+   "ja": "奴隷制度"
+  },
+  "choices": [
+   "ungrateful",
+   "astrologer",
+   "slavery",
+   "otter"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "bn-00709",
+  "category": "bengali",
+  "prompt": "「পায়রা」の意味は？",
+  "answer": "pigeon",
+  "glosses": {
+   "en": "pigeon",
+   "ja": "ハト"
+  },
+  "choices": [
+   "waterfall",
+   "to measure",
+   "to count",
+   "pigeon"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pae̯ra/",
+  "verified": true
+ },
+ {
+  "id": "bn-00710",
+  "category": "bengali",
+  "prompt": "「জিহ্বা」の意味は？",
+  "answer": "tongue",
+  "glosses": {
+   "en": "tongue",
+   "ja": "舌"
+  },
+  "choices": [
+   "kettle",
+   "to lick",
+   "iron",
+   "tongue"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈd͡ʒib.bʱa/",
+  "verified": true
+ },
+ {
+  "id": "bn-00711",
+  "category": "bengali",
+  "prompt": "「উপত্যকা」の意味は？",
+  "answer": "valley",
+  "glosses": {
+   "en": "valley",
+   "ja": "谷"
+  },
+  "choices": [
+   "bow",
+   "emerald",
+   "footnote",
+   "valley"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/upɔt̪ːɔka/",
+  "verified": true
+ },
+ {
+  "id": "bn-00712",
+  "category": "bengali",
+  "prompt": "「খাওয়ানো」の意味は？",
+  "answer": "to feed",
+  "glosses": {
+   "en": "to feed",
+   "ja": "食べさせる"
+  },
+  "choices": [
+   "glacier",
+   "turnip",
+   "saucer",
+   "to feed"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈkʰa.waˌno]",
+  "verified": true
+ },
+ {
+  "id": "bn-00713",
+  "category": "bengali",
+  "prompt": "「বালিশ」の意味は？",
+  "answer": "pillow",
+  "glosses": {
+   "en": "pillow",
+   "ja": "枕"
+  },
+  "choices": [
+   "powerless",
+   "to rub",
+   "pillow",
+   "ungrateful"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/baliʃ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00714",
+  "category": "bengali",
+  "prompt": "「কম্বল」の意味は？",
+  "answer": "blanket",
+  "glosses": {
+   "en": "blanket",
+   "ja": "毛布"
+  },
+  "choices": [
+   "blanket",
+   "chutney",
+   "scissors",
+   "powerless"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kɔmbol/",
+  "verified": true
+ },
+ {
+  "id": "bn-00715",
+  "category": "bengali",
+  "prompt": "「বাহু」の意味は？",
+  "answer": "arm",
+  "glosses": {
+   "en": "arm",
+   "ja": "腕"
+  },
+  "choices": [
+   "arm",
+   "olive",
+   "to chew",
+   "to run"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bahu/",
+  "verified": true
+ },
+ {
+  "id": "bn-00716",
+  "category": "bengali",
+  "prompt": "「ব্রাশ」の意味は？",
+  "answer": "brush",
+  "glosses": {
+   "en": "brush",
+   "ja": "ブラシ"
+  },
+  "choices": [
+   "brush",
+   "earthworm",
+   "okra",
+   "pearl"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "bn-00717",
+  "category": "bengali",
+  "prompt": "「মুক্তা」の意味は？",
+  "answer": "pearl",
+  "glosses": {
+   "en": "pearl",
+   "ja": "真珠"
+  },
+  "choices": [
+   "bowl",
+   "lava",
+   "to crack",
+   "pearl"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mukt̪a/",
+  "verified": true
+ },
+ {
+  "id": "bn-00718",
+  "category": "bengali",
+  "prompt": "「আংটি」の意味は？",
+  "answer": "ring",
+  "glosses": {
+   "en": "ring",
+   "ja": "指輪"
+  },
+  "choices": [
+   "cowshed",
+   "ring",
+   "tailor",
+   "buffalo"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/aŋʈi/",
+  "verified": true
+ },
+ {
+  "id": "bn-00719",
+  "category": "bengali",
+  "prompt": "「গুঁড়া」の意味は？",
+  "answer": "powder",
+  "glosses": {
+   "en": "powder",
+   "ja": "粉"
+  },
+  "choices": [
+   "village chief",
+   "corner",
+   "powder",
+   "lava"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ɡũɽa]",
+  "verified": true
+ },
+ {
+  "id": "bn-00720",
+  "category": "bengali",
+  "prompt": "「মেঝে」の意味は？",
+  "answer": "floor",
+  "glosses": {
+   "en": "floor",
+   "ja": "床"
+  },
+  "choices": [
+   "rhinoceros",
+   "yoke",
+   "mischief",
+   "floor"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/med͡ʒʱe/",
+  "verified": true
+ },
+ {
+  "id": "bn-00721",
+  "category": "bengali",
+  "prompt": "「পালক」の意味は？",
+  "answer": "feather",
+  "glosses": {
+   "en": "feather",
+   "ja": "羽"
+  },
+  "choices": [
+   "idiom",
+   "feather",
+   "to flee",
+   "uncivil"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pa.lok/",
+  "verified": true
+ },
+ {
+  "id": "bn-00722",
+  "category": "bengali",
+  "prompt": "「কূটনীতিক」の意味は？",
+  "answer": "diplomat",
+  "glosses": {
+   "en": "diplomat",
+   "ja": "外交官"
+  },
+  "choices": [
+   "diplomat",
+   "crocodile",
+   "to swallow",
+   "to wash"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "bn-00723",
+  "category": "bengali",
+  "prompt": "「পরিচর্যা」の意味は？",
+  "answer": "care",
+  "glosses": {
+   "en": "care",
+   "ja": "世話"
+  },
+  "choices": [
+   "triangle",
+   "leech",
+   "care",
+   "cinnamon"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/poɾit͡ʃɔɾd͡ʒa/",
+  "verified": true
+ },
+ {
+  "id": "bn-00724",
+  "category": "bengali",
+  "prompt": "「হীরা」の意味は？",
+  "answer": "diamond",
+  "glosses": {
+   "en": "diamond",
+   "ja": "ダイヤモンド"
+  },
+  "choices": [
+   "farmer",
+   "volcano",
+   "polygon",
+   "diamond"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/hiɾa/",
+  "verified": true
+ },
+ {
+  "id": "bn-00725",
+  "category": "bengali",
+  "prompt": "「জাদুকর」の意味は？",
+  "answer": "magician",
+  "glosses": {
+   "en": "magician",
+   "ja": "手品師"
+  },
+  "choices": [
+   "potter",
+   "magician",
+   "lychee",
+   "eggplant"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d͡ʒad̪ukɔɾ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00726",
+  "category": "bengali",
+  "prompt": "「লোহা」の意味は？",
+  "answer": "iron",
+  "glosses": {
+   "en": "iron",
+   "ja": "鉄"
+  },
+  "choices": [
+   "petal",
+   "heron",
+   "to fly",
+   "iron"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/loha/",
+  "verified": true
+ },
+ {
+  "id": "bn-00727",
+  "category": "bengali",
+  "prompt": "「ময়দা」の意味は？",
+  "answer": "flour",
+  "glosses": {
+   "en": "flour",
+   "ja": "小麦粉"
+  },
+  "choices": [
+   "bush",
+   "timid",
+   "flour",
+   "kettle"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mɔe̯d̪a/",
+  "verified": true
+ },
+ {
+  "id": "bn-00728",
+  "category": "bengali",
+  "prompt": "「তরমুজ」の意味は？",
+  "answer": "watermelon",
+  "glosses": {
+   "en": "watermelon",
+   "ja": "スイカ"
+  },
+  "choices": [
+   "to travel",
+   "atmosphere",
+   "stove",
+   "watermelon"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/t̪oɾmud͡ʒ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00729",
+  "category": "bengali",
+  "prompt": "「সান্ত্বনা」の意味は？",
+  "answer": "consolation",
+  "glosses": {
+   "en": "consolation",
+   "ja": "慰め"
+  },
+  "choices": [
+   "idiom",
+   "screenplay",
+   "astrologer",
+   "consolation"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʃant̪ona/",
+  "verified": true
+ },
+ {
+  "id": "bn-00730",
+  "category": "bengali",
+  "prompt": "「বেড়ানো」の意味は？",
+  "answer": "to travel",
+  "glosses": {
+   "en": "to travel",
+   "ja": "旅行する"
+  },
+  "choices": [
+   "pineapple",
+   "to travel",
+   "beef",
+   "guitar"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/beɽano/",
+  "verified": true
+ },
+ {
+  "id": "bn-00731",
+  "category": "bengali",
+  "prompt": "「দুর্ভিক্ষ」の意味は？",
+  "answer": "famine",
+  "glosses": {
+   "en": "famine",
+   "ja": "飢饉"
+  },
+  "choices": [
+   "fascism",
+   "famine",
+   "scorpion",
+   "gums"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d̪uɾbʱikʰːo/",
+  "verified": true
+ },
+ {
+  "id": "bn-00732",
+  "category": "bengali",
+  "prompt": "「নিষ্ঠুরতা」の意味は？",
+  "answer": "cruelty",
+  "glosses": {
+   "en": "cruelty",
+   "ja": "残酷さ"
+  },
+  "choices": [
+   "minor",
+   "walnut",
+   "cruelty",
+   "puppy"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "bn-00733",
+  "category": "bengali",
+  "prompt": "「শূকর」の意味は？",
+  "answer": "pig",
+  "glosses": {
+   "en": "pig",
+   "ja": "豚"
+  },
+  "choices": [
+   "pig",
+   "stupidity",
+   "sofa",
+   "adjective"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʃukɔɾ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00734",
+  "category": "bengali",
+  "prompt": "「করুণা」の意味は？",
+  "answer": "compassion",
+  "glosses": {
+   "en": "compassion",
+   "ja": "慈悲"
+  },
+  "choices": [
+   "compassion",
+   "louse",
+   "kettle",
+   "cuckoo"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/koɾuna/",
+  "verified": true
+ },
+ {
+  "id": "bn-00735",
+  "category": "bengali",
+  "prompt": "「কবরস্থান」の意味は？",
+  "answer": "graveyard",
+  "glosses": {
+   "en": "graveyard",
+   "ja": "墓地"
+  },
+  "choices": [
+   "graveyard",
+   "pumpkin",
+   "magician",
+   "rubber"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kɔboɾɔst̪ʰan/",
+  "verified": true
+ },
+ {
+  "id": "bn-00736",
+  "category": "bengali",
+  "prompt": "「অনুকরণ」の意味は？",
+  "answer": "imitation",
+  "glosses": {
+   "en": "imitation",
+   "ja": "模倣"
+  },
+  "choices": [
+   "mother-in-law",
+   "imitation",
+   "ferryboat",
+   "grammar"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/onukɔɾon/",
+  "verified": true
+ },
+ {
+  "id": "bn-00737",
+  "category": "bengali",
+  "prompt": "「টিকটিকি」の意味は？",
+  "answer": "gecko",
+  "glosses": {
+   "en": "gecko",
+   "ja": "ヤモリ"
+  },
+  "choices": [
+   "bangle",
+   "watermelon",
+   "gums",
+   "gecko"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʈikʈiki/",
+  "verified": true
+ },
+ {
+  "id": "bn-00738",
+  "category": "bengali",
+  "prompt": "「ভোজ」の意味は？",
+  "answer": "feast",
+  "glosses": {
+   "en": "feast",
+   "ja": "ごちそう"
+  },
+  "choices": [
+   "echo",
+   "feast",
+   "thread",
+   "gulf"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "bn-00739",
+  "category": "bengali",
+  "prompt": "「বেগুন」の意味は？",
+  "answer": "eggplant",
+  "glosses": {
+   "en": "eggplant",
+   "ja": "ナス"
+  },
+  "choices": [
+   "to laugh",
+   "eggplant",
+   "executioner",
+   "broom"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/beɡun/",
+  "verified": true
+ },
+ {
+  "id": "bn-00740",
+  "category": "bengali",
+  "prompt": "「উপগ্রহ」の意味は？",
+  "answer": "satellite",
+  "glosses": {
+   "en": "satellite",
+   "ja": "衛星"
+  },
+  "choices": [
+   "dictator",
+   "satellite",
+   "to flee",
+   "meteor"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "bn-00741",
+  "category": "bengali",
+  "prompt": "「মনোবল」の意味は？",
+  "answer": "morale",
+  "glosses": {
+   "en": "morale",
+   "ja": "士気"
+  },
+  "choices": [
+   "sidewalk",
+   "thermometer",
+   "pause",
+   "morale"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mɔnobɔl/",
+  "verified": true
+ },
+ {
+  "id": "bn-00742",
+  "category": "bengali",
+  "prompt": "「জাতীয়তাবাদ」の意味は？",
+  "answer": "nationalism",
+  "glosses": {
+   "en": "nationalism",
+   "ja": "民族主義"
+  },
+  "choices": [
+   "to pour",
+   "care",
+   "nationalism",
+   "screenplay"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d͡ʒat̪i̯ot̪abad̪/",
+  "verified": true
+ },
+ {
+  "id": "bn-00743",
+  "category": "bengali",
+  "prompt": "「নাট্যকার」の意味は？",
+  "answer": "playwright",
+  "glosses": {
+   "en": "playwright",
+   "ja": "劇作家"
+  },
+  "choices": [
+   "feminine",
+   "pear",
+   "linguistics",
+   "playwright"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/naʈːokaɾ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00744",
+  "category": "bengali",
+  "prompt": "「অভিধান」の意味は？",
+  "answer": "dictionary",
+  "glosses": {
+   "en": "dictionary",
+   "ja": "辞書"
+  },
+  "choices": [
+   "petal",
+   "pollen",
+   "dictionary",
+   "silk"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/obʱid̪ʱan/",
+  "verified": true
+ },
+ {
+  "id": "bn-00745",
+  "category": "bengali",
+  "prompt": "「ভালুক」の意味は？",
+  "answer": "bear",
+  "glosses": {
+   "en": "bear",
+   "ja": "クマ"
+  },
+  "choices": [
+   "bear",
+   "sidewalk",
+   "cheek",
+   "shampoo"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bʱaluk/",
+  "verified": true
+ },
+ {
+  "id": "bn-00746",
+  "category": "bengali",
+  "prompt": "「হারা」の意味は？",
+  "answer": "to lose",
+  "glosses": {
+   "en": "to lose",
+   "ja": "負ける"
+  },
+  "choices": [
+   "honeymoon",
+   "to lose",
+   "coriander",
+   "louse"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈha.ra]",
+  "verified": true
+ },
+ {
+  "id": "bn-00747",
+  "category": "bengali",
+  "prompt": "「ঘুমানো」の意味は？",
+  "answer": "to sleep",
+  "glosses": {
+   "en": "to sleep",
+   "ja": "眠る"
+  },
+  "choices": [
+   "turtle",
+   "stupidity",
+   "honeymoon",
+   "to sleep"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈɡʱu.maˌno]",
+  "verified": true
+ },
+ {
+  "id": "bn-00748",
+  "category": "bengali",
+  "prompt": "「ভেড়া」の意味は？",
+  "answer": "sheep",
+  "glosses": {
+   "en": "sheep",
+   "ja": "羊"
+  },
+  "choices": [
+   "sheep",
+   "grammar",
+   "pronoun",
+   "shopkeeper"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bʱæɽa/",
+  "verified": true
+ },
+ {
+  "id": "bn-00749",
+  "category": "bengali",
+  "prompt": "「পিয়ানো」の意味は？",
+  "answer": "piano",
+  "glosses": {
+   "en": "piano",
+   "ja": "ピアノ"
+  },
+  "choices": [
+   "executioner",
+   "lid",
+   "capitalism",
+   "piano"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/piɑno/",
+  "verified": true
+ },
+ {
+  "id": "bn-00750",
+  "category": "bengali",
+  "prompt": "「কচ্ছপ」の意味は？",
+  "answer": "turtle",
+  "glosses": {
+   "en": "turtle",
+   "ja": "カメ"
+  },
+  "choices": [
+   "to handle",
+   "turtle",
+   "bowl",
+   "mischief"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kɔt͡ʃʰːɔp/",
+  "verified": true
+ },
+ {
+  "id": "bn-00751",
+  "category": "bengali",
+  "prompt": "「গর্ভধারণ」の意味は？",
+  "answer": "pregnancy",
+  "glosses": {
+   "en": "pregnancy",
+   "ja": "妊娠"
+  },
+  "choices": [
+   "biscuit",
+   "conch",
+   "pregnancy",
+   "victim"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "bn-00752",
+  "category": "bengali",
+  "prompt": "「আগ্নেয়গিরি」の意味は？",
+  "answer": "volcano",
+  "glosses": {
+   "en": "volcano",
+   "ja": "火山"
+  },
+  "choices": [
+   "graveyard",
+   "volcano",
+   "melodious",
+   "synonym"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/aɡnee̯ɡiɾi/",
+  "verified": true
+ },
+ {
+  "id": "bn-00753",
+  "category": "bengali",
+  "prompt": "「ঈগল」の意味は？",
+  "answer": "eagle",
+  "glosses": {
+   "en": "eagle",
+   "ja": "ワシ"
+  },
+  "choices": [
+   "scorpion",
+   "eagle",
+   "executioner",
+   "rainbow"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/iɡɔl/",
+  "verified": true
+ },
+ {
+  "id": "bn-00754",
+  "category": "bengali",
+  "prompt": "「মৌমাছি」の意味は？",
+  "answer": "bee",
+  "glosses": {
+   "en": "bee",
+   "ja": "ハチ"
+  },
+  "choices": [
+   "bee",
+   "mulberry",
+   "screenplay",
+   "lime"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "bn-00755",
+  "category": "bengali",
+  "prompt": "「কণা」の意味は？",
+  "answer": "particle",
+  "glosses": {
+   "en": "particle",
+   "ja": "粒子"
+  },
+  "choices": [
+   "particle",
+   "envelope",
+   "peak",
+   "pause"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kɔna/",
+  "verified": true
+ },
+ {
+  "id": "bn-00756",
+  "category": "bengali",
+  "prompt": "「ঝাড়ু」の意味は？",
+  "answer": "broom",
+  "glosses": {
+   "en": "broom",
+   "ja": "ほうき"
+  },
+  "choices": [
+   "victim",
+   "lime",
+   "puberty",
+   "broom"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d͡ʒʱaɽu/",
+  "verified": true
+ },
+ {
+  "id": "bn-00757",
+  "category": "bengali",
+  "prompt": "「মোজা」の意味は？",
+  "answer": "sock",
+  "glosses": {
+   "en": "sock",
+   "ja": "靴下"
+  },
+  "choices": [
+   "honeymoon",
+   "graveyard",
+   "sock",
+   "powerless"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mod͡ʒa/",
+  "verified": true
+ },
+ {
+  "id": "bn-00758",
+  "category": "bengali",
+  "prompt": "「কাঁধ」の意味は？",
+  "answer": "shoulder",
+  "glosses": {
+   "en": "shoulder",
+   "ja": "肩"
+  },
+  "choices": [
+   "gulf",
+   "rhinoceros",
+   "shoulder",
+   "piano"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kãd̪ʱ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00759",
+  "category": "bengali",
+  "prompt": "「কাঁকড়া」の意味は？",
+  "answer": "crab",
+  "glosses": {
+   "en": "crab",
+   "ja": "カニ"
+  },
+  "choices": [
+   "cardamom",
+   "to feed",
+   "crab",
+   "louse"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kãkɽa/",
+  "verified": true
+ },
+ {
+  "id": "bn-00760",
+  "category": "bengali",
+  "prompt": "「তৃষ্ণা」の意味は？",
+  "answer": "thirst",
+  "glosses": {
+   "en": "thirst",
+   "ja": "のどの渇き"
+  },
+  "choices": [
+   "psychology",
+   "afterlife",
+   "thirst",
+   "summer"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/t̪ɾiʃna/",
+  "verified": true
+ },
+ {
+  "id": "bn-00761",
+  "category": "bengali",
+  "prompt": "「চুলা」の意味は？",
+  "answer": "stove",
+  "glosses": {
+   "en": "stove",
+   "ja": "こんろ"
+  },
+  "choices": [
+   "mint",
+   "famine",
+   "stove",
+   "melodious"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/t͡ʃula/",
+  "verified": true
+ },
+ {
+  "id": "bn-00762",
+  "category": "bengali",
+  "prompt": "「মহিষ」の意味は？",
+  "answer": "buffalo",
+  "glosses": {
+   "en": "buffalo",
+   "ja": "水牛"
+  },
+  "choices": [
+   "sock",
+   "beef",
+   "buffalo",
+   "rhinoceros"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mohiʃ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00763",
+  "category": "bengali",
+  "prompt": "「থালা」の意味は？",
+  "answer": "plate",
+  "glosses": {
+   "en": "plate",
+   "ja": "平皿"
+  },
+  "choices": [
+   "plate",
+   "undershirt",
+   "mercury",
+   "frankly"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/t̪ʰala/",
+  "verified": true
+ },
+ {
+  "id": "bn-00764",
+  "category": "bengali",
+  "prompt": "「খাম」の意味は？",
+  "answer": "envelope",
+  "glosses": {
+   "en": "envelope",
+   "ja": "封筒"
+  },
+  "choices": [
+   "scorpion",
+   "tar",
+   "envelope",
+   "peak"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kʰam/",
+  "verified": true
+ },
+ {
+  "id": "bn-00765",
+  "category": "bengali",
+  "prompt": "「দুঃস্বপ্ন」の意味は？",
+  "answer": "nightmare",
+  "glosses": {
+   "en": "nightmare",
+   "ja": "悪夢"
+  },
+  "choices": [
+   "gloomy",
+   "arm",
+   "noun",
+   "nightmare"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d̪uhʃːɔpno/",
+  "verified": true
+ },
+ {
+  "id": "bn-00766",
+  "category": "bengali",
+  "prompt": "「কিবোর্ড」の意味は？",
+  "answer": "keyboard",
+  "glosses": {
+   "en": "keyboard",
+   "ja": "キーボード"
+  },
+  "choices": [
+   "keyboard",
+   "to lose",
+   "pole",
+   "cow"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kiːboɾɖ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00767",
+  "category": "bengali",
+  "prompt": "「মদ্যপান」の意味は？",
+  "answer": "drinking",
+  "glosses": {
+   "en": "drinking",
+   "ja": "飲酒"
+  },
+  "choices": [
+   "drinking",
+   "astrologer",
+   "gunpowder",
+   "walnut"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mɔd.do.pan/",
+  "verified": true
+ },
+ {
+  "id": "bn-00768",
+  "category": "bengali",
+  "prompt": "「চুন」の意味は？",
+  "answer": "lime",
+  "glosses": {
+   "en": "lime",
+   "ja": "石灰"
+  },
+  "choices": [
+   "lime",
+   "rubber",
+   "fig",
+   "vulture"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/t͡ʃun/",
+  "verified": true
+ },
+ {
+  "id": "bn-00769",
+  "category": "bengali",
+  "prompt": "「বিস্কুট」の意味は？",
+  "answer": "biscuit",
+  "glosses": {
+   "en": "biscuit",
+   "ja": "ビスケット"
+  },
+  "choices": [
+   "triangle",
+   "luxury",
+   "to lick",
+   "biscuit"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/biskuʈ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00770",
+  "category": "bengali",
+  "prompt": "「বর্ণমালা」の意味は？",
+  "answer": "alphabet",
+  "glosses": {
+   "en": "alphabet",
+   "ja": "字母表"
+  },
+  "choices": [
+   "shoulder",
+   "crystal",
+   "communism",
+   "alphabet"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bɔɾnomala/",
+  "verified": true
+ },
+ {
+  "id": "bn-00771",
+  "category": "bengali",
+  "prompt": "「আনারস」の意味は？",
+  "answer": "pineapple",
+  "glosses": {
+   "en": "pineapple",
+   "ja": "パイナップル"
+  },
+  "choices": [
+   "cardamom",
+   "pineapple",
+   "satellite",
+   "hammer"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/anaɾɔʃ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00772",
+  "category": "bengali",
+  "prompt": "「রান্নাঘর」の意味は？",
+  "answer": "kitchen",
+  "glosses": {
+   "en": "kitchen",
+   "ja": "台所"
+  },
+  "choices": [
+   "jaw",
+   "to burn",
+   "kitchen",
+   "nickname"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ranːaɡʱɔɾ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00773",
+  "category": "bengali",
+  "prompt": "「ডাইনি」の意味は？",
+  "answer": "witch",
+  "glosses": {
+   "en": "witch",
+   "ja": "魔女"
+  },
+  "choices": [
+   "witch",
+   "pigeon",
+   "vowel",
+   "pig"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɖai̯ni/",
+  "verified": true
+ },
+ {
+  "id": "bn-00774",
+  "category": "bengali",
+  "prompt": "「সুই」の意味は？",
+  "answer": "needle",
+  "glosses": {
+   "en": "needle",
+   "ja": "針"
+  },
+  "choices": [
+   "cheek",
+   "puppy",
+   "needle",
+   "cow"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʃu̯i/",
+  "verified": true
+ },
+ {
+  "id": "bn-00775",
+  "category": "bengali",
+  "prompt": "「মটর」の意味は？",
+  "answer": "pea",
+  "glosses": {
+   "en": "pea",
+   "ja": "エンドウ豆"
+  },
+  "choices": [
+   "cowshed",
+   "pea",
+   "mother-in-law",
+   "leech"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mɔʈɔɾ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00776",
+  "category": "bengali",
+  "prompt": "「জীবাশ্ম」の意味は？",
+  "answer": "fossil",
+  "glosses": {
+   "en": "fossil",
+   "ja": "化石"
+  },
+  "choices": [
+   "fossil",
+   "bee",
+   "care",
+   "muscle"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d͡ʒibaʃːõ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00777",
+  "category": "bengali",
+  "prompt": "「ফুসফুস」の意味は？",
+  "answer": "lung",
+  "glosses": {
+   "en": "lung",
+   "ja": "肺"
+  },
+  "choices": [
+   "bow",
+   "eagle",
+   "lung",
+   "triangle"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pʰuʃpʰuʃ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00778",
+  "category": "bengali",
+  "prompt": "「চিত্রনাট্য」の意味は？",
+  "answer": "screenplay",
+  "glosses": {
+   "en": "screenplay",
+   "ja": "脚本"
+  },
+  "choices": [
+   "meteor",
+   "screenplay",
+   "peninsula",
+   "playwright"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/t͡ʃit̪ɾɔnaʈːo/",
+  "verified": true
+ },
+ {
+  "id": "bn-00779",
+  "category": "bengali",
+  "prompt": "「পেঁপে」の意味は？",
+  "answer": "papaya",
+  "glosses": {
+   "en": "papaya",
+   "ja": "パパイヤ"
+  },
+  "choices": [
+   "keyboard",
+   "broom",
+   "papaya",
+   "calf"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pẽpe/",
+  "verified": true
+ },
+ {
+  "id": "bn-00780",
+  "category": "bengali",
+  "prompt": "「মোরগ」の意味は？",
+  "answer": "rooster",
+  "glosses": {
+   "en": "rooster",
+   "ja": "雄鶏"
+  },
+  "choices": [
+   "glue",
+   "coriander",
+   "rooster",
+   "broth"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/moɾod̪/",
+  "verified": true
+ },
+ {
+  "id": "bn-00781",
+  "category": "bengali",
+  "prompt": "「নামহীন」の意味は？",
+  "answer": "nameless",
+  "glosses": {
+   "en": "nameless",
+   "ja": "名前のない"
+  },
+  "choices": [
+   "sneeze",
+   "obstinate",
+   "nameless",
+   "to dance"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/namhin/",
+  "verified": true
+ },
+ {
+  "id": "bn-00782",
+  "category": "bengali",
+  "prompt": "「গুদাম」の意味は？",
+  "answer": "warehouse",
+  "glosses": {
+   "en": "warehouse",
+   "ja": "倉庫"
+  },
+  "choices": [
+   "pineapple",
+   "warehouse",
+   "sock",
+   "cheek"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɡud̪am/",
+  "verified": true
+ },
+ {
+  "id": "bn-00783",
+  "category": "bengali",
+  "prompt": "「জাফরান」の意味は？",
+  "answer": "saffron",
+  "glosses": {
+   "en": "saffron",
+   "ja": "サフラン"
+  },
+  "choices": [
+   "to wash",
+   "bear",
+   "arm",
+   "saffron"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d͡ʒafɾan/",
+  "verified": true
+ },
+ {
+  "id": "bn-00784",
+  "category": "bengali",
+  "prompt": "「শাশুড়ি」の意味は？",
+  "answer": "mother-in-law",
+  "glosses": {
+   "en": "mother-in-law",
+   "ja": "義母"
+  },
+  "choices": [
+   "incense",
+   "mother-in-law",
+   "jug",
+   "gecko"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʃaʃuɽi/",
+  "verified": true
+ },
+ {
+  "id": "bn-00785",
+  "category": "bengali",
+  "prompt": "「দোকানদার」の意味は？",
+  "answer": "shopkeeper",
+  "glosses": {
+   "en": "shopkeeper",
+   "ja": "店主"
+  },
+  "choices": [
+   "otter",
+   "salad",
+   "shopkeeper",
+   "peninsula"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d̪okand̪aɾ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00786",
+  "category": "bengali",
+  "prompt": "「মন্দা」の意味は？",
+  "answer": "recession",
+  "glosses": {
+   "en": "recession",
+   "ja": "景気後退"
+  },
+  "choices": [
+   "magnet",
+   "recession",
+   "bee",
+   "coriander"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mɔn.da/",
+  "verified": true
+ },
+ {
+  "id": "bn-00787",
+  "category": "bengali",
+  "prompt": "「প্রলোভন」の意味は？",
+  "answer": "enticement",
+  "glosses": {
+   "en": "enticement",
+   "ja": "誘惑"
+  },
+  "choices": [
+   "stomach",
+   "fist",
+   "lipstick",
+   "enticement"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "bn-00788",
+  "category": "bengali",
+  "prompt": "「নেকড়ে」の意味は？",
+  "answer": "wolf",
+  "glosses": {
+   "en": "wolf",
+   "ja": "オオカミ"
+  },
+  "choices": [
+   "gorilla",
+   "wolf",
+   "earnings",
+   "enticement"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/nekɽe/",
+  "verified": true
+ },
+ {
+  "id": "bn-00789",
+  "category": "bengali",
+  "prompt": "「পান্ডা」の意味は？",
+  "answer": "panda",
+  "glosses": {
+   "en": "panda",
+   "ja": "パンダ"
+  },
+  "choices": [
+   "panda",
+   "witch",
+   "idiom",
+   "meteor"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/panɖa/",
+  "verified": true
+ },
+ {
+  "id": "bn-00790",
+  "category": "bengali",
+  "prompt": "「পেশী」の意味は？",
+  "answer": "muscle",
+  "glosses": {
+   "en": "muscle",
+   "ja": "筋肉"
+  },
+  "choices": [
+   "useless",
+   "muscle",
+   "waterfall",
+   "pig"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "bn-00791",
+  "category": "bengali",
+  "prompt": "「ঢোকা」の意味は？",
+  "answer": "to enter",
+  "glosses": {
+   "en": "to enter",
+   "ja": "入る"
+  },
+  "choices": [
+   "to enter",
+   "floor",
+   "hippopotamus",
+   "puberty"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɖʱoka/",
+  "verified": true
+ },
+ {
+  "id": "bn-00792",
+  "category": "bengali",
+  "prompt": "「হার্ডওয়্যার」の意味は？",
+  "answer": "hardware",
+  "glosses": {
+   "en": "hardware",
+   "ja": "ハードウェア"
+  },
+  "choices": [
+   "earthworm",
+   "hardware",
+   "floor",
+   "crocodile"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/harɖ.wær/",
+  "verified": true
+ },
+ {
+  "id": "bn-00793",
+  "category": "bengali",
+  "prompt": "「কলিজা」の意味は？",
+  "answer": "liver",
+  "glosses": {
+   "en": "liver",
+   "ja": "肝臓"
+  },
+  "choices": [
+   "care",
+   "tent",
+   "saucer",
+   "liver"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kolid͡ʒa/",
+  "verified": true
+ },
+ {
+  "id": "bn-00794",
+  "category": "bengali",
+  "prompt": "「জীববিজ্ঞান」の意味は？",
+  "answer": "biology",
+  "glosses": {
+   "en": "biology",
+   "ja": "生物学"
+  },
+  "choices": [
+   "kingfisher",
+   "tongue",
+   "papaya",
+   "biology"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/jib.biɡ.ɡæ̃n/",
+  "verified": true
+ },
+ {
+  "id": "bn-00795",
+  "category": "bengali",
+  "prompt": "「তামা」の意味は？",
+  "answer": "copper",
+  "glosses": {
+   "en": "copper",
+   "ja": "銅"
+  },
+  "choices": [
+   "bowl",
+   "copper",
+   "calf",
+   "needle"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/t̪ama/",
+  "verified": true
+ },
+ {
+  "id": "bn-00796",
+  "category": "bengali",
+  "prompt": "「বাটি」の意味は？",
+  "answer": "bowl",
+  "glosses": {
+   "en": "bowl",
+   "ja": "ボウル"
+  },
+  "choices": [
+   "oar",
+   "magnet",
+   "bowl",
+   "particle"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/baʈi/",
+  "verified": true
+ },
+ {
+  "id": "bn-00797",
+  "category": "bengali",
+  "prompt": "「শিকারি」の意味は？",
+  "answer": "hunter",
+  "glosses": {
+   "en": "hunter",
+   "ja": "狩人"
+  },
+  "choices": [
+   "puberty",
+   "hunter",
+   "dictionary",
+   "methane"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʃikaɾi/",
+  "verified": true
+ },
+ {
+  "id": "bn-00798",
+  "category": "bengali",
+  "prompt": "「স্ফটিক」の意味は？",
+  "answer": "crystal",
+  "glosses": {
+   "en": "crystal",
+   "ja": "水晶"
+  },
+  "choices": [
+   "linguistics",
+   "crystal",
+   "to chew",
+   "pantomime"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʃpʰo.ʈik/",
+  "verified": true
+ },
+ {
+  "id": "bn-00799",
+  "category": "bengali",
+  "prompt": "「রুমাল」の意味は？",
+  "answer": "handkerchief",
+  "glosses": {
+   "en": "handkerchief",
+   "ja": "ハンカチ"
+  },
+  "choices": [
+   "handkerchief",
+   "pear",
+   "feminine",
+   "guitar"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/rumal/",
+  "verified": true
+ },
+ {
+  "id": "bn-00800",
+  "category": "bengali",
+  "prompt": "「হাতুড়ি」の意味は？",
+  "answer": "hammer",
+  "glosses": {
+   "en": "hammer",
+   "ja": "金づち"
+  },
+  "choices": [
+   "afterlife",
+   "hammer",
+   "acne",
+   "uncivil"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/hat̪uɽi/",
+  "verified": true
+ },
+ {
+  "id": "bn-00801",
+  "category": "bengali",
+  "prompt": "「পোড়ানো」の意味は？",
+  "answer": "to burn",
+  "glosses": {
+   "en": "to burn",
+   "ja": "燃やす"
+  },
+  "choices": [
+   "to burn",
+   "wax",
+   "sock",
+   "feminine"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈpo.ɽ̟aˌno]",
+  "verified": true
+ },
+ {
+  "id": "bn-00802",
+  "category": "bengali",
+  "prompt": "「গোনা」の意味は？",
+  "answer": "to count",
+  "glosses": {
+   "en": "to count",
+   "ja": "数える"
+  },
+  "choices": [
+   "to count",
+   "bear",
+   "polygon",
+   "piano"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɡo.na/",
+  "verified": true
+ },
+ {
+  "id": "bn-00803",
+  "category": "bengali",
+  "prompt": "「লিপস্টিক」の意味は？",
+  "answer": "lipstick",
+  "glosses": {
+   "en": "lipstick",
+   "ja": "口紅"
+  },
+  "choices": [
+   "lipstick",
+   "opium",
+   "pole",
+   "rebirth"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/lipsʈik/",
+  "verified": true
+ },
+ {
+  "id": "bn-00804",
+  "category": "bengali",
+  "prompt": "「ডাকনাম」の意味は？",
+  "answer": "nickname",
+  "glosses": {
+   "en": "nickname",
+   "ja": "あだ名"
+  },
+  "choices": [
+   "idiom",
+   "nickname",
+   "kettle",
+   "scorpion"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɖaknam/",
+  "verified": true
+ },
+ {
+  "id": "bn-00805",
+  "category": "bengali",
+  "prompt": "「লিফট」の意味は？",
+  "answer": "elevator",
+  "glosses": {
+   "en": "elevator",
+   "ja": "エレベーター"
+  },
+  "choices": [
+   "eggplant",
+   "elevator",
+   "care",
+   "morale"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/lifʈ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00806",
+  "category": "bengali",
+  "prompt": "「সালাদ」の意味は？",
+  "answer": "salad",
+  "glosses": {
+   "en": "salad",
+   "ja": "サラダ"
+  },
+  "choices": [
+   "dictator",
+   "ferryboat",
+   "fist",
+   "salad"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/salad̪/",
+  "verified": true
+ },
+ {
+  "id": "bn-00807",
+  "category": "bengali",
+  "prompt": "「ব্রণ」の意味は？",
+  "answer": "acne",
+  "glosses": {
+   "en": "acne",
+   "ja": "にきび"
+  },
+  "choices": [
+   "to feed",
+   "acne",
+   "famine",
+   "morale"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bɾɔn/",
+  "verified": true
+ },
+ {
+  "id": "bn-00808",
+  "category": "bengali",
+  "prompt": "「ঝোল」の意味は？",
+  "answer": "broth",
+  "glosses": {
+   "en": "broth",
+   "ja": "煮汁"
+  },
+  "choices": [
+   "luxury",
+   "broth",
+   "consolation",
+   "liver"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d͡ʒʱol/",
+  "verified": true
+ },
+ {
+  "id": "bn-00809",
+  "category": "bengali",
+  "prompt": "「কামার」の意味は？",
+  "answer": "blacksmith",
+  "glosses": {
+   "en": "blacksmith",
+   "ja": "鍛冶屋"
+  },
+  "choices": [
+   "blacksmith",
+   "wrestling",
+   "biscuit",
+   "ungrateful"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kamaɾ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00810",
+  "category": "bengali",
+  "prompt": "「জলপাই」の意味は？",
+  "answer": "olive",
+  "glosses": {
+   "en": "olive",
+   "ja": "オリーブ"
+  },
+  "choices": [
+   "mother-in-law",
+   "piano",
+   "magnet",
+   "olive"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d͡ʒɔlpai̯/",
+  "verified": true
+ },
+ {
+  "id": "bn-00811",
+  "category": "bengali",
+  "prompt": "「দর্জি」の意味は？",
+  "answer": "tailor",
+  "glosses": {
+   "en": "tailor",
+   "ja": "仕立て屋"
+  },
+  "choices": [
+   "pole",
+   "tailor",
+   "anarchism",
+   "spade"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d̪oɾd͡ʒi/",
+  "verified": true
+ },
+ {
+  "id": "bn-00812",
+  "category": "bengali",
+  "prompt": "「মনোবিজ্ঞান」の意味は？",
+  "answer": "psychology",
+  "glosses": {
+   "en": "psychology",
+   "ja": "心理学"
+  },
+  "choices": [
+   "tamarind",
+   "psychology",
+   "lid",
+   "valley"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mɔnobiɡːæn/",
+  "verified": true
+ },
+ {
+  "id": "bn-00813",
+  "category": "bengali",
+  "prompt": "「তাবু」の意味は？",
+  "answer": "tent",
+  "glosses": {
+   "en": "tent",
+   "ja": "テント"
+  },
+  "choices": [
+   "crocodile",
+   "tent",
+   "vulture",
+   "waterfall"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "bn-00814",
+  "category": "bengali",
+  "prompt": "「পূর্বপুরুষ」の意味は？",
+  "answer": "ancestor",
+  "glosses": {
+   "en": "ancestor",
+   "ja": "先祖"
+  },
+  "choices": [
+   "bee",
+   "powder",
+   "to sell",
+   "ancestor"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/puɾbɔpuɾuʃ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00815",
+  "category": "bengali",
+  "prompt": "「গণ্ডার」の意味は？",
+  "answer": "rhinoceros",
+  "glosses": {
+   "en": "rhinoceros",
+   "ja": "サイ"
+  },
+  "choices": [
+   "tamarind",
+   "rhinoceros",
+   "pig",
+   "illiterate"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɡɔnɖaɾ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00816",
+  "category": "bengali",
+  "prompt": "「ডালিম」の意味は？",
+  "answer": "pomegranate",
+  "glosses": {
+   "en": "pomegranate",
+   "ja": "ザクロ"
+  },
+  "choices": [
+   "watermelon",
+   "blacksmith",
+   "pomegranate",
+   "frankly"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "bn-00817",
+  "category": "bengali",
+  "prompt": "「সংক্রামক」の意味は？",
+  "answer": "infectious",
+  "glosses": {
+   "en": "infectious",
+   "ja": "伝染性の"
+  },
+  "choices": [
+   "infectious",
+   "blacksmith",
+   "puberty",
+   "psychology"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʃɔŋkɾamɔk/",
+  "verified": true
+ },
+ {
+  "id": "bn-00818",
+  "category": "bengali",
+  "prompt": "「অকেজো」の意味は？",
+  "answer": "useless",
+  "glosses": {
+   "en": "useless",
+   "ja": "役に立たない"
+  },
+  "choices": [
+   "stove",
+   "luxury",
+   "to enter",
+   "useless"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɔked͡ʒo/",
+  "verified": true
+ },
+ {
+  "id": "bn-00819",
+  "category": "bengali",
+  "prompt": "「মাপা」の意味は？",
+  "answer": "to measure",
+  "glosses": {
+   "en": "to measure",
+   "ja": "測る"
+  },
+  "choices": [
+   "to measure",
+   "itch",
+   "pollen",
+   "density"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mapa/",
+  "verified": true
+ },
+ {
+  "id": "bn-00820",
+  "category": "bengali",
+  "prompt": "「দাবানল」の意味は？",
+  "answer": "wildfire",
+  "glosses": {
+   "en": "wildfire",
+   "ja": "山火事"
+  },
+  "choices": [
+   "broth",
+   "to sleep",
+   "wildfire",
+   "puppy"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d̪abanɔl/",
+  "verified": true
+ },
+ {
+  "id": "bn-00821",
+  "category": "bengali",
+  "prompt": "「বালতি」の意味は？",
+  "answer": "bucket",
+  "glosses": {
+   "en": "bucket",
+   "ja": "バケツ"
+  },
+  "choices": [
+   "bucket",
+   "imitation",
+   "elephant trunk",
+   "timid"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/balt̪i/",
+  "verified": true
+ },
+ {
+  "id": "bn-00822",
+  "category": "bengali",
+  "prompt": "「খরগোশ」の意味は？",
+  "answer": "rabbit",
+  "glosses": {
+   "en": "rabbit",
+   "ja": "ウサギ"
+  },
+  "choices": [
+   "satellite",
+   "rabbit",
+   "pig",
+   "unyielding"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kʰɔɾɡoʃ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00823",
+  "category": "bengali",
+  "prompt": "「জলপ্রপাত」の意味は？",
+  "answer": "waterfall",
+  "glosses": {
+   "en": "waterfall",
+   "ja": "滝"
+  },
+  "choices": [
+   "waterfall",
+   "feast",
+   "eggplant",
+   "petal"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "bn-00824",
+  "category": "bengali",
+  "prompt": "「ময়ূর」の意味は？",
+  "answer": "peacock",
+  "glosses": {
+   "en": "peacock",
+   "ja": "クジャク"
+  },
+  "choices": [
+   "peacock",
+   "kettle",
+   "puberty",
+   "oar"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mɔjuɽ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00825",
+  "category": "bengali",
+  "prompt": "「ভূগোল」の意味は？",
+  "answer": "geography",
+  "glosses": {
+   "en": "geography",
+   "ja": "地理"
+  },
+  "choices": [
+   "unyielding",
+   "volcano",
+   "straw",
+   "geography"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "bn-00826",
+  "category": "bengali",
+  "prompt": "「শসা」の意味は？",
+  "answer": "cucumber",
+  "glosses": {
+   "en": "cucumber",
+   "ja": "キュウリ"
+  },
+  "choices": [
+   "cucumber",
+   "foam",
+   "piano",
+   "employer"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʃɔʃa/",
+  "verified": true
+ },
+ {
+  "id": "bn-00827",
+  "category": "bengali",
+  "prompt": "「কচু」の意味は？",
+  "answer": "taro",
+  "glosses": {
+   "en": "taro",
+   "ja": "タロイモ"
+  },
+  "choices": [
+   "pomegranate",
+   "to cry",
+   "taro",
+   "brush"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kɔt͡ʃu/",
+  "verified": true
+ },
+ {
+  "id": "bn-00828",
+  "category": "bengali",
+  "prompt": "「ঘনত্ব」の意味は？",
+  "answer": "density",
+  "glosses": {
+   "en": "density",
+   "ja": "密度"
+  },
+  "choices": [
+   "to run",
+   "cuckoo",
+   "density",
+   "feminine"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "bn-00829",
+  "category": "bengali",
+  "prompt": "「আঠা」の意味は？",
+  "answer": "glue",
+  "glosses": {
+   "en": "glue",
+   "ja": "接着剤"
+  },
+  "choices": [
+   "to lose",
+   "nameless",
+   "glue",
+   "thigh"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/a.ʈʰa/",
+  "verified": true
+ },
+ {
+  "id": "bn-00830",
+  "category": "bengali",
+  "prompt": "「কুস্তি」の意味は？",
+  "answer": "wrestling",
+  "glosses": {
+   "en": "wrestling",
+   "ja": "レスリング"
+  },
+  "choices": [
+   "diamond",
+   "needle",
+   "liver",
+   "wrestling"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kust̪i/",
+  "verified": true
+ },
+ {
+  "id": "bn-00831",
+  "category": "bengali",
+  "prompt": "「খড়」の意味は？",
+  "answer": "straw",
+  "glosses": {
+   "en": "straw",
+   "ja": "わら"
+  },
+  "choices": [
+   "straw",
+   "to lose",
+   "sneeze",
+   "platinum"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[kʰɔɽ]",
+  "verified": true
+ },
+ {
+  "id": "bn-00832",
+  "category": "bengali",
+  "prompt": "「পিঁপড়া」の意味は？",
+  "answer": "ant",
+  "glosses": {
+   "en": "ant",
+   "ja": "アリ"
+  },
+  "choices": [
+   "heron",
+   "gloomy",
+   "ant",
+   "slavery"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pĩpɔɽa/",
+  "verified": true
+ },
+ {
+  "id": "bn-00833",
+  "category": "bengali",
+  "prompt": "「শ্যাম্পু」の意味は？",
+  "answer": "shampoo",
+  "glosses": {
+   "en": "shampoo",
+   "ja": "シャンプー"
+  },
+  "choices": [
+   "to suck",
+   "to enter",
+   "shampoo",
+   "pineapple"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʃæmpu/",
+  "verified": true
+ },
+ {
+  "id": "bn-00834",
+  "category": "bengali",
+  "prompt": "「ভাসা」の意味は？",
+  "answer": "to float",
+  "glosses": {
+   "en": "to float",
+   "ja": "浮く"
+  },
+  "choices": [
+   "illiterate",
+   "recession",
+   "to float",
+   "parakeet"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bʱaʃa/",
+  "verified": true
+ },
+ {
+  "id": "bn-00835",
+  "category": "bengali",
+  "prompt": "「থামা」の意味は？",
+  "answer": "to stop",
+  "glosses": {
+   "en": "to stop",
+   "ja": "止まる"
+  },
+  "choices": [
+   "to stop",
+   "cockroach",
+   "brush",
+   "emerald"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/tʰa.ma/",
+  "verified": true
+ },
+ {
+  "id": "bn-00836",
+  "category": "bengali",
+  "prompt": "「চোয়াল」の意味は？",
+  "answer": "jaw",
+  "glosses": {
+   "en": "jaw",
+   "ja": "あご"
+  },
+  "choices": [
+   "tent",
+   "jaw",
+   "illiterate",
+   "sneeze"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "bn-00837",
+  "category": "bengali",
+  "prompt": "「বেহালা」の意味は？",
+  "answer": "violin",
+  "glosses": {
+   "en": "violin",
+   "ja": "バイオリン"
+  },
+  "choices": [
+   "violin",
+   "guitar",
+   "iron",
+   "to stop"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/behala/",
+  "verified": true
+ },
+ {
+  "id": "bn-00838",
+  "category": "bengali",
+  "prompt": "「বিষণ্ণ」の意味は？",
+  "answer": "gloomy",
+  "glosses": {
+   "en": "gloomy",
+   "ja": "憂鬱な"
+  },
+  "choices": [
+   "gloomy",
+   "peak",
+   "bucket",
+   "parakeet"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "bn-00839",
+  "category": "bengali",
+  "prompt": "「লাভা」の意味は？",
+  "answer": "lava",
+  "glosses": {
+   "en": "lava",
+   "ja": "溶岩"
+  },
+  "choices": [
+   "comet",
+   "thirst",
+   "sock",
+   "lava"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/labʱa/",
+  "verified": true
+ },
+ {
+  "id": "bn-00840",
+  "category": "bengali",
+  "prompt": "「প্রতিধ্বনি」の意味は？",
+  "answer": "echo",
+  "glosses": {
+   "en": "echo",
+   "ja": "こだま"
+  },
+  "choices": [
+   "stove",
+   "sheep",
+   "furniture",
+   "echo"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pɾot̪id̪ʱːoni/",
+  "verified": true
+ },
+ {
+  "id": "bn-00841",
+  "category": "bengali",
+  "prompt": "「মেরু」の意味は？",
+  "answer": "pole",
+  "glosses": {
+   "en": "pole",
+   "ja": "極点"
+  },
+  "choices": [
+   "motherhood",
+   "stomach",
+   "pole",
+   "to measure"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/meɾu/",
+  "verified": true
+ },
+ {
+  "id": "bn-00842",
+  "category": "bengali",
+  "prompt": "「তোয়ালে」の意味は？",
+  "answer": "towel",
+  "glosses": {
+   "en": "towel",
+   "ja": "タオル"
+  },
+  "choices": [
+   "louse",
+   "graveyard",
+   "violin",
+   "towel"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/t̪o̯ale/",
+  "verified": true
+ },
+ {
+  "id": "bn-00843",
+  "category": "bengali",
+  "prompt": "「কোকিল」の意味は？",
+  "answer": "cuckoo",
+  "glosses": {
+   "en": "cuckoo",
+   "ja": "カッコウ"
+  },
+  "choices": [
+   "methane",
+   "cuckoo",
+   "to travel",
+   "glacier"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kokil/",
+  "verified": true
+ },
+ {
+  "id": "bn-00844",
+  "category": "bengali",
+  "prompt": "「নাবালক」の意味は？",
+  "answer": "minor",
+  "glosses": {
+   "en": "minor",
+   "ja": "未成年者"
+  },
+  "choices": [
+   "tailor",
+   "quicksand",
+   "beef",
+   "minor"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/nabalɔk/",
+  "verified": true
+ },
+ {
+  "id": "bn-00845",
+  "category": "bengali",
+  "prompt": "「চূড়া」の意味は？",
+  "answer": "peak",
+  "glosses": {
+   "en": "peak",
+   "ja": "頂上"
+  },
+  "choices": [
+   "peak",
+   "rainbow",
+   "consolation",
+   "verb"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/t͡ʃuɽa/",
+  "verified": true
+ },
+ {
+  "id": "bn-00846",
+  "category": "bengali",
+  "prompt": "「চুলকানি」の意味は？",
+  "answer": "itch",
+  "glosses": {
+   "en": "itch",
+   "ja": "かゆみ"
+  },
+  "choices": [
+   "blacksmith",
+   "to pour",
+   "itch",
+   "oar"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/t͡ʃulkani/",
+  "verified": true
+ },
+ {
+  "id": "bn-00847",
+  "category": "bengali",
+  "prompt": "「তেলাপোকা」の意味は？",
+  "answer": "cockroach",
+  "glosses": {
+   "en": "cockroach",
+   "ja": "ゴキブリ"
+  },
+  "choices": [
+   "employer",
+   "cockroach",
+   "jaw",
+   "kingfisher"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/t̪elapoka/",
+  "verified": true
+ },
+ {
+  "id": "bn-00848",
+  "category": "bengali",
+  "prompt": "「ভুক্তভোগী」の意味は？",
+  "answer": "victim",
+  "glosses": {
+   "en": "victim",
+   "ja": "被害者"
+  },
+  "choices": [
+   "stopper",
+   "pregnancy",
+   "victim",
+   "owl"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bʱukt̪ɔbʱoɡi/",
+  "verified": true
+ },
+ {
+  "id": "bn-00849",
+  "category": "bengali",
+  "prompt": "「সহানুভূতিশীল」の意味は？",
+  "answer": "sympathetic",
+  "glosses": {
+   "en": "sympathetic",
+   "ja": "同情的な"
+  },
+  "choices": [
+   "thread",
+   "graveyard",
+   "buffalo",
+   "sympathetic"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʃɔhanubʱut̪iʃil/",
+  "verified": true
+ },
+ {
+  "id": "bn-00850",
+  "category": "bengali",
+  "prompt": "「সমাজতন্ত্র」の意味は？",
+  "answer": "socialism",
+  "glosses": {
+   "en": "socialism",
+   "ja": "社会主義"
+  },
+  "choices": [
+   "socialism",
+   "to smear",
+   "cowshed",
+   "fascism"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʃɔmad͡ʒt̪ɔnt̪ɾo/",
+  "verified": true
+ },
+ {
+  "id": "bn-00851",
+  "category": "bengali",
+  "prompt": "「দ্বীপপুঞ্জ」の意味は？",
+  "answer": "archipelago",
+  "glosses": {
+   "en": "archipelago",
+   "ja": "群島"
+  },
+  "choices": [
+   "puberty",
+   "pearl",
+   "archipelago",
+   "tamarind"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d̪ipːund͡ʒo/",
+  "verified": true
+ },
+ {
+  "id": "bn-00852",
+  "category": "bengali",
+  "prompt": "「বক」の意味は？",
+  "answer": "heron",
+  "glosses": {
+   "en": "heron",
+   "ja": "サギ"
+  },
+  "choices": [
+   "pea",
+   "platinum",
+   "saw",
+   "heron"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bɔk/",
+  "verified": true
+ },
+ {
+  "id": "bn-00853",
+  "category": "bengali",
+  "prompt": "「চুড়ি」の意味は？",
+  "answer": "bangle",
+  "glosses": {
+   "en": "bangle",
+   "ja": "腕輪"
+  },
+  "choices": [
+   "bangle",
+   "opium",
+   "platinum",
+   "cinnamon"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "bn-00854",
+  "category": "bengali",
+  "prompt": "「অকৃতজ্ঞ」の意味は？",
+  "answer": "ungrateful",
+  "glosses": {
+   "en": "ungrateful",
+   "ja": "恩知らずな"
+  },
+  "choices": [
+   "afterlife",
+   "ungrateful",
+   "elephant trunk",
+   "pigeon"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɔ.kri.t̪ɔɡ.ɡõ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00855",
+  "category": "bengali",
+  "prompt": "「পুনর্জন্ম」の意味は？",
+  "answer": "rebirth",
+  "glosses": {
+   "en": "rebirth",
+   "ja": "生まれ変わり"
+  },
+  "choices": [
+   "to laugh",
+   "rebirth",
+   "powder",
+   "cockroach"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "bn-00856",
+  "category": "bengali",
+  "prompt": "「অনড়」の意味は？",
+  "answer": "unyielding",
+  "glosses": {
+   "en": "unyielding",
+   "ja": "揺るがない"
+  },
+  "choices": [
+   "lipstick",
+   "unyielding",
+   "barber",
+   "to sell"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "bn-00857",
+  "category": "bengali",
+  "prompt": "「উড়া」の意味は？",
+  "answer": "to fly",
+  "glosses": {
+   "en": "to fly",
+   "ja": "飛ぶ"
+  },
+  "choices": [
+   "to fly",
+   "mulberry",
+   "shopkeeper",
+   "cheek"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/uɽa/",
+  "verified": true
+ },
+ {
+  "id": "bn-00858",
+  "category": "bengali",
+  "prompt": "「ব্যাকরণ」の意味は？",
+  "answer": "grammar",
+  "glosses": {
+   "en": "grammar",
+   "ja": "文法"
+  },
+  "choices": [
+   "moonlight",
+   "compassion",
+   "spider",
+   "grammar"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bækɔɾon/",
+  "verified": true
+ },
+ {
+  "id": "bn-00859",
+  "category": "bengali",
+  "prompt": "「উপসাগর」の意味は？",
+  "answer": "gulf",
+  "glosses": {
+   "en": "gulf",
+   "ja": "湾"
+  },
+  "choices": [
+   "handkerchief",
+   "tailor",
+   "thermometer",
+   "gulf"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/u.po.ʃa.ɡor/",
+  "verified": true
+ },
+ {
+  "id": "bn-00860",
+  "category": "bengali",
+  "prompt": "「হাঙ্গর」の意味は？",
+  "answer": "shark",
+  "glosses": {
+   "en": "shark",
+   "ja": "サメ"
+  },
+  "choices": [
+   "shark",
+   "lava",
+   "fist",
+   "pomegranate"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "bn-00861",
+  "category": "bengali",
+  "prompt": "「বেচা」の意味は？",
+  "answer": "to sell",
+  "glosses": {
+   "en": "to sell",
+   "ja": "売る"
+  },
+  "choices": [
+   "to sell",
+   "bow",
+   "synonym",
+   "to enter"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bæ.t͡ʃa/",
+  "verified": true
+ },
+ {
+  "id": "bn-00862",
+  "category": "bengali",
+  "prompt": "「ঢালা」の意味は？",
+  "answer": "to pour",
+  "glosses": {
+   "en": "to pour",
+   "ja": "注ぐ"
+  },
+  "choices": [
+   "saffron",
+   "to pour",
+   "crocodile",
+   "waterfall"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɖʰa.la/",
+  "verified": true
+ },
+ {
+  "id": "bn-00863",
+  "category": "bengali",
+  "prompt": "「পেঁচা」の意味は？",
+  "answer": "owl",
+  "glosses": {
+   "en": "owl",
+   "ja": "フクロウ"
+  },
+  "choices": [
+   "thread",
+   "triangle",
+   "idiom",
+   "owl"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pẽt͡ʃa/",
+  "verified": true
+ },
+ {
+  "id": "bn-00864",
+  "category": "bengali",
+  "prompt": "「পালানো」の意味は？",
+  "answer": "to flee",
+  "glosses": {
+   "en": "to flee",
+   "ja": "逃げる"
+  },
+  "choices": [
+   "to flee",
+   "peacock",
+   "dressing up",
+   "buffalo"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/palano/",
+  "verified": true
+ },
+ {
+  "id": "bn-00865",
+  "category": "bengali",
+  "prompt": "「দোলা」の意味は？",
+  "answer": "to swing",
+  "glosses": {
+   "en": "to swing",
+   "ja": "揺れる"
+  },
+  "choices": [
+   "clove",
+   "to swing",
+   "pineapple",
+   "alphabet"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d̪ola/",
+  "verified": true
+ },
+ {
+  "id": "bn-00866",
+  "category": "bengali",
+  "prompt": "「বজ্র」の意味は？",
+  "answer": "thunderbolt",
+  "glosses": {
+   "en": "thunderbolt",
+   "ja": "雷"
+  },
+  "choices": [
+   "thunderbolt",
+   "dandruff",
+   "recession",
+   "wildfire"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bɔd͡ʒɾo/",
+  "verified": true
+ },
+ {
+  "id": "bn-00867",
+  "category": "bengali",
+  "prompt": "「কোদাল」の意味は？",
+  "answer": "spade",
+  "glosses": {
+   "en": "spade",
+   "ja": "スコップ"
+  },
+  "choices": [
+   "undershirt",
+   "spade",
+   "gunpowder",
+   "wrestling"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈko.d̪äˑl]",
+  "verified": true
+ },
+ {
+  "id": "bn-00868",
+  "category": "bengali",
+  "prompt": "「বাষ্প」の意味は？",
+  "answer": "steam",
+  "glosses": {
+   "en": "steam",
+   "ja": "蒸気"
+  },
+  "choices": [
+   "piano",
+   "flour",
+   "sofa",
+   "steam"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/baʃpo/",
+  "verified": true
+ },
+ {
+  "id": "bn-00869",
+  "category": "bengali",
+  "prompt": "「শকুন」の意味は？",
+  "answer": "vulture",
+  "glosses": {
+   "en": "vulture",
+   "ja": "ハゲタカ"
+  },
+  "choices": [
+   "victim",
+   "vulture",
+   "sympathetic",
+   "gecko"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "bn-00870",
+  "category": "bengali",
+  "prompt": "「পারদ」の意味は？",
+  "answer": "mercury",
+  "glosses": {
+   "en": "mercury",
+   "ja": "水銀"
+  },
+  "choices": [
+   "frankly",
+   "feast",
+   "mercury",
+   "physics"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pɑ.ɾɔd̪/",
+  "verified": true
+ },
+ {
+  "id": "bn-00871",
+  "category": "bengali",
+  "prompt": "「মোড়ল」の意味は？",
+  "answer": "village chief",
+  "glosses": {
+   "en": "village chief",
+   "ja": "村長"
+  },
+  "choices": [
+   "geography",
+   "mint",
+   "village chief",
+   "bush"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/moɽol/",
+  "verified": true
+ },
+ {
+  "id": "bn-00872",
+  "category": "bengali",
+  "prompt": "「দৌড়ানো」の意味は？",
+  "answer": "to run",
+  "glosses": {
+   "en": "to run",
+   "ja": "走る"
+  },
+  "choices": [
+   "to dance",
+   "eggplant",
+   "to run",
+   "algebra"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d̪ou̯ɽano/",
+  "verified": true
+ },
+ {
+  "id": "bn-00873",
+  "category": "bengali",
+  "prompt": "「সামলানো」の意味は？",
+  "answer": "to handle",
+  "glosses": {
+   "en": "to handle",
+   "ja": "扱う"
+  },
+  "choices": [
+   "liver",
+   "hair bun",
+   "to handle",
+   "straw"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʃam.la.no/",
+  "verified": true
+ },
+ {
+  "id": "bn-00874",
+  "category": "bengali",
+  "prompt": "「হিমবাহ」の意味は？",
+  "answer": "glacier",
+  "glosses": {
+   "en": "glacier",
+   "ja": "氷河"
+  },
+  "choices": [
+   "ant",
+   "glacier",
+   "polygon",
+   "verb"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/him.ba.ho/",
+  "verified": true
+ },
+ {
+  "id": "bn-00875",
+  "category": "bengali",
+  "prompt": "「ঢাকনা」の意味は？",
+  "answer": "lid",
+  "glosses": {
+   "en": "lid",
+   "ja": "ふた"
+  },
+  "choices": [
+   "lid",
+   "meteor",
+   "anarchism",
+   "blacksmith"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɖʱakna/",
+  "verified": true
+ },
+ {
+  "id": "bn-00876",
+  "category": "bengali",
+  "prompt": "「ধনুক」の意味は？",
+  "answer": "bow",
+  "glosses": {
+   "en": "bow",
+   "ja": "弓"
+  },
+  "choices": [
+   "thread",
+   "mulberry",
+   "bow",
+   "lid"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "bn-00877",
+  "category": "bengali",
+  "prompt": "「বিমা」の意味は？",
+  "answer": "insurance",
+  "glosses": {
+   "en": "insurance",
+   "ja": "保険"
+  },
+  "choices": [
+   "wildfire",
+   "insurance",
+   "to lose",
+   "luxury"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bima/",
+  "verified": true
+ },
+ {
+  "id": "bn-00878",
+  "category": "bengali",
+  "prompt": "「কুমড়া」の意味は？",
+  "answer": "pumpkin",
+  "glosses": {
+   "en": "pumpkin",
+   "ja": "カボチャ"
+  },
+  "choices": [
+   "elbow",
+   "biscuit",
+   "pumpkin",
+   "wildfire"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kumɽa/",
+  "verified": true
+ },
+ {
+  "id": "bn-00879",
+  "category": "bengali",
+  "prompt": "「সরিষা」の意味は？",
+  "answer": "mustard",
+  "glosses": {
+   "en": "mustard",
+   "ja": "からし"
+  },
+  "choices": [
+   "eyebrow",
+   "mustard",
+   "emerald",
+   "helmet"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʃoɾiʃa/",
+  "verified": true
+ },
+ {
+  "id": "bn-00880",
+  "category": "bengali",
+  "prompt": "「শয়তানি」の意味は？",
+  "answer": "mischief",
+  "glosses": {
+   "en": "mischief",
+   "ja": "いたずら"
+  },
+  "choices": [
+   "tailor",
+   "violin",
+   "mischief",
+   "otter"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "bn-00881",
+  "category": "bengali",
+  "prompt": "「বাবুর্চি」の意味は？",
+  "answer": "cook",
+  "glosses": {
+   "en": "cook",
+   "ja": "料理人"
+  },
+  "choices": [
+   "cook",
+   "adjective",
+   "communism",
+   "furniture"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/babuɾt͡ʃi/",
+  "verified": true
+ },
+ {
+  "id": "bn-00882",
+  "category": "bengali",
+  "prompt": "「ধনে」の意味は？",
+  "answer": "coriander",
+  "glosses": {
+   "en": "coriander",
+   "ja": "コリアンダー"
+  },
+  "choices": [
+   "village chief",
+   "coriander",
+   "scorpion",
+   "to suck"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d̪ʱone/",
+  "verified": true
+ },
+ {
+  "id": "bn-00883",
+  "category": "bengali",
+  "prompt": "「গহনা」の意味は？",
+  "answer": "jewelry",
+  "glosses": {
+   "en": "jewelry",
+   "ja": "宝飾品"
+  },
+  "choices": [
+   "muscle",
+   "jewelry",
+   "to beat",
+   "to pour"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɡɔhona/",
+  "verified": true
+ },
+ {
+  "id": "bn-00884",
+  "category": "bengali",
+  "prompt": "「শ্মশান」の意味は？",
+  "answer": "crematorium",
+  "glosses": {
+   "en": "crematorium",
+   "ja": "火葬場"
+  },
+  "choices": [
+   "parakeet",
+   "capitalism",
+   "crematorium",
+   "thirst"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʃɔʃan/",
+  "verified": true
+ },
+ {
+  "id": "bn-00885",
+  "category": "bengali",
+  "prompt": "「উকুন」の意味は？",
+  "answer": "louse",
+  "glosses": {
+   "en": "louse",
+   "ja": "シラミ"
+  },
+  "choices": [
+   "hippopotamus",
+   "algebra",
+   "louse",
+   "density"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ukun/",
+  "verified": true
+ },
+ {
+  "id": "bn-00886",
+  "category": "bengali",
+  "prompt": "「পাপড়ি」の意味は？",
+  "answer": "petal",
+  "glosses": {
+   "en": "petal",
+   "ja": "花びら"
+  },
+  "choices": [
+   "petal",
+   "straw",
+   "mother-in-law",
+   "mermaid"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/papɽi/",
+  "verified": true
+ },
+ {
+  "id": "bn-00887",
+  "category": "bengali",
+  "prompt": "「করাত」の意味は？",
+  "answer": "saw",
+  "glosses": {
+   "en": "saw",
+   "ja": "のこぎり"
+  },
+  "choices": [
+   "diamond",
+   "saw",
+   "rectangle",
+   "walnut"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kɔ.rat/",
+  "verified": true
+ },
+ {
+  "id": "bn-00888",
+  "category": "bengali",
+  "prompt": "「নিরক্ষর」の意味は？",
+  "answer": "illiterate",
+  "glosses": {
+   "en": "illiterate",
+   "ja": "文字が読めない"
+  },
+  "choices": [
+   "echo",
+   "arm",
+   "illiterate",
+   "dressing up"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ni.rɔk.kʰɔr/",
+  "verified": true
+ },
+ {
+  "id": "bn-00889",
+  "category": "bengali",
+  "prompt": "「আফিম」の意味は？",
+  "answer": "opium",
+  "glosses": {
+   "en": "opium",
+   "ja": "アヘン"
+  },
+  "choices": [
+   "opium",
+   "urine",
+   "dictionary",
+   "density"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/afim/",
+  "verified": true
+ },
+ {
+  "id": "bn-00890",
+  "category": "bengali",
+  "prompt": "「টিয়া」の意味は？",
+  "answer": "parakeet",
+  "glosses": {
+   "en": "parakeet",
+   "ja": "インコ"
+  },
+  "choices": [
+   "rabbit",
+   "tongue",
+   "parakeet",
+   "jaw"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʈi̯a/",
+  "verified": true
+ },
+ {
+  "id": "bn-00891",
+  "category": "bengali",
+  "prompt": "「ডুমুর」の意味は？",
+  "answer": "fig",
+  "glosses": {
+   "en": "fig",
+   "ja": "イチジク"
+  },
+  "choices": [
+   "lung",
+   "to lose",
+   "to count",
+   "fig"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɖumuɾ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00892",
+  "category": "bengali",
+  "prompt": "「মাকড়সা」の意味は？",
+  "answer": "spider",
+  "glosses": {
+   "en": "spider",
+   "ja": "クモ"
+  },
+  "choices": [
+   "clove",
+   "spider",
+   "mustard",
+   "to flee"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/makoɽʃa/",
+  "verified": true
+ },
+ {
+  "id": "bn-00893",
+  "category": "bengali",
+  "prompt": "「পদার্থবিজ্ঞান」の意味は？",
+  "answer": "physics",
+  "glosses": {
+   "en": "physics",
+   "ja": "物理学"
+  },
+  "choices": [
+   "consolation",
+   "physics",
+   "village chief",
+   "shampoo"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "bn-00894",
+  "category": "bengali",
+  "prompt": "「বাদুড়」の意味は？",
+  "answer": "bat",
+  "glosses": {
+   "en": "bat",
+   "ja": "コウモリ"
+  },
+  "choices": [
+   "bat",
+   "to sleep",
+   "pig",
+   "jaw"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bad̪uɽ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00895",
+  "category": "bengali",
+  "prompt": "「পান্না」の意味は？",
+  "answer": "emerald",
+  "glosses": {
+   "en": "emerald",
+   "ja": "エメラルド"
+  },
+  "choices": [
+   "vulture",
+   "lid",
+   "lime",
+   "emerald"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/panːa/",
+  "verified": true
+ },
+ {
+  "id": "bn-00896",
+  "category": "bengali",
+  "prompt": "「চুম্বক」の意味は？",
+  "answer": "magnet",
+  "glosses": {
+   "en": "magnet",
+   "ja": "磁石"
+  },
+  "choices": [
+   "powerless",
+   "magnet",
+   "flour",
+   "pear"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "bn-00897",
+  "category": "bengali",
+  "prompt": "「হাঁচি」の意味は？",
+  "answer": "sneeze",
+  "glosses": {
+   "en": "sneeze",
+   "ja": "くしゃみ"
+  },
+  "choices": [
+   "pigeon",
+   "dictator",
+   "sneeze",
+   "heron"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/hãt͡ʃi/",
+  "verified": true
+ },
+ {
+  "id": "bn-00898",
+  "category": "bengali",
+  "prompt": "「একনায়ক」の意味は？",
+  "answer": "dictator",
+  "glosses": {
+   "en": "dictator",
+   "ja": "独裁者"
+  },
+  "choices": [
+   "compassion",
+   "dictator",
+   "meteor",
+   "piano"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "bn-00899",
+  "category": "bengali",
+  "prompt": "「কাঁদা」の意味は？",
+  "answer": "to cry",
+  "glosses": {
+   "en": "to cry",
+   "ja": "泣く"
+  },
+  "choices": [
+   "to cry",
+   "to measure",
+   "thermometer",
+   "kingfisher"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kãd̪a/",
+  "verified": true
+ },
+ {
+  "id": "bn-00900",
+  "category": "bengali",
+  "prompt": "「কোনা」の意味は？",
+  "answer": "corner",
+  "glosses": {
+   "en": "corner",
+   "ja": "隅"
+  },
+  "choices": [
+   "zebra",
+   "pineapple",
+   "corner",
+   "leech"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ko.na/",
+  "verified": true
+ },
+ {
+  "id": "bn-00901",
+  "category": "bengali",
+  "prompt": "「পরাগ」の意味は？",
+  "answer": "pollen",
+  "glosses": {
+   "en": "pollen",
+   "ja": "花粉"
+  },
+  "choices": [
+   "broom",
+   "afterlife",
+   "pollen",
+   "hippopotamus"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pɔɾaɡ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00902",
+  "category": "bengali",
+  "prompt": "「পুঁজিবাদ」の意味は？",
+  "answer": "capitalism",
+  "glosses": {
+   "en": "capitalism",
+   "ja": "資本主義"
+  },
+  "choices": [
+   "rubber",
+   "mercury",
+   "capitalism",
+   "clove"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pũd͡ʒibad̪/",
+  "verified": true
+ },
+ {
+  "id": "bn-00903",
+  "category": "bengali",
+  "prompt": "「রেশম」の意味は？",
+  "answer": "silk",
+  "glosses": {
+   "en": "silk",
+   "ja": "絹"
+  },
+  "choices": [
+   "silk",
+   "ancestor",
+   "pillow",
+   "astrologer"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/reʃom/",
+  "verified": true
+ },
+ {
+  "id": "bn-00904",
+  "category": "bengali",
+  "prompt": "「বিয়োগ」の意味は？",
+  "answer": "subtraction",
+  "glosses": {
+   "en": "subtraction",
+   "ja": "引き算"
+  },
+  "choices": [
+   "pantomime",
+   "copper",
+   "subtraction",
+   "handkerchief"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "bn-00905",
+  "category": "bengali",
+  "prompt": "「রোজগার」の意味は？",
+  "answer": "earnings",
+  "glosses": {
+   "en": "earnings",
+   "ja": "稼ぎ"
+  },
+  "choices": [
+   "lime",
+   "cruelty",
+   "earnings",
+   "nameless"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/rod͡ʒɡaɾ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00906",
+  "category": "bengali",
+  "prompt": "「কনুই」の意味は？",
+  "answer": "elbow",
+  "glosses": {
+   "en": "elbow",
+   "ja": "ひじ"
+  },
+  "choices": [
+   "elbow",
+   "subtraction",
+   "gulf",
+   "to pour"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/konu̯i/",
+  "verified": true
+ },
+ {
+  "id": "bn-00907",
+  "category": "bengali",
+  "prompt": "「জল্লাদ」の意味は？",
+  "answer": "executioner",
+  "glosses": {
+   "en": "executioner",
+   "ja": "死刑執行人"
+  },
+  "choices": [
+   "archipelago",
+   "to lose",
+   "executioner",
+   "iron"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d͡ʒɔlːad̪/",
+  "verified": true
+ },
+ {
+  "id": "bn-00908",
+  "category": "bengali",
+  "prompt": "「আসবাব」の意味は？",
+  "answer": "furniture",
+  "glosses": {
+   "en": "furniture",
+   "ja": "家具"
+  },
+  "choices": [
+   "cow",
+   "screenplay",
+   "furniture",
+   "muscle"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/aʃ.bab/",
+  "verified": true
+ },
+ {
+  "id": "bn-00909",
+  "category": "bengali",
+  "prompt": "「সোফা」の意味は？",
+  "answer": "sofa",
+  "glosses": {
+   "en": "sofa",
+   "ja": "ソファー"
+  },
+  "choices": [
+   "to count",
+   "to swing",
+   "sofa",
+   "buffalo"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/sofa/",
+  "verified": true
+ },
+ {
+  "id": "bn-00910",
+  "category": "bengali",
+  "prompt": "「বারুদ」の意味は？",
+  "answer": "gunpowder",
+  "glosses": {
+   "en": "gunpowder",
+   "ja": "火薬"
+  },
+  "choices": [
+   "shark",
+   "gunpowder",
+   "eggplant",
+   "calf"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "bn-00911",
+  "category": "bengali",
+  "prompt": "「কাঁচি」の意味は？",
+  "answer": "scissors",
+  "glosses": {
+   "en": "scissors",
+   "ja": "はさみ"
+  },
+  "choices": [
+   "to dance",
+   "to cry",
+   "anarchism",
+   "scissors"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kãt͡ʃi/",
+  "verified": true
+ },
+ {
+  "id": "bn-00912",
+  "category": "bengali",
+  "prompt": "「প্রতিশব্দ」の意味は？",
+  "answer": "synonym",
+  "glosses": {
+   "en": "synonym",
+   "ja": "同義語"
+  },
+  "choices": [
+   "conch",
+   "ancestor",
+   "astrologer",
+   "synonym"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "bn-00913",
+  "category": "bengali",
+  "prompt": "「তাঁত」の意味は？",
+  "answer": "loom",
+  "glosses": {
+   "en": "loom",
+   "ja": "織機"
+  },
+  "choices": [
+   "chutney",
+   "fig",
+   "jug",
+   "loom"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/t̪ãt̪/",
+  "verified": true
+ },
+ {
+  "id": "bn-00914",
+  "category": "bengali",
+  "prompt": "「লিচু」の意味は？",
+  "answer": "lychee",
+  "glosses": {
+   "en": "lychee",
+   "ja": "ライチ"
+  },
+  "choices": [
+   "bee",
+   "flour",
+   "zinc",
+   "lychee"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/lit͡ʃu/",
+  "verified": true
+ },
+ {
+  "id": "bn-00915",
+  "category": "bengali",
+  "prompt": "「চাটনি」の意味は？",
+  "answer": "chutney",
+  "glosses": {
+   "en": "chutney",
+   "ja": "チャツネ"
+  },
+  "choices": [
+   "atmosphere",
+   "chutney",
+   "biscuit",
+   "floor"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/t͡ʃaʈni/",
+  "verified": true
+ },
+ {
+  "id": "bn-00916",
+  "category": "bengali",
+  "prompt": "「বিশেষণ」の意味は？",
+  "answer": "adjective",
+  "glosses": {
+   "en": "adjective",
+   "ja": "形容詞"
+  },
+  "choices": [
+   "adjective",
+   "ring",
+   "ungrateful",
+   "okra"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/biʃeʃɔn/",
+  "verified": true
+ },
+ {
+  "id": "bn-00917",
+  "category": "bengali",
+  "prompt": "「খুশকি」の意味は？",
+  "answer": "dandruff",
+  "glosses": {
+   "en": "dandruff",
+   "ja": "ふけ"
+  },
+  "choices": [
+   "dictionary",
+   "to dance",
+   "dandruff",
+   "ferryboat"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kʰuʃki/",
+  "verified": true
+ },
+ {
+  "id": "bn-00918",
+  "category": "bengali",
+  "prompt": "「নাভি」の意味は？",
+  "answer": "navel",
+  "glosses": {
+   "en": "navel",
+   "ja": "へそ"
+  },
+  "choices": [
+   "navel",
+   "flour",
+   "victim",
+   "pearl"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/nabʱi/",
+  "verified": true
+ },
+ {
+  "id": "bn-00919",
+  "category": "bengali",
+  "prompt": "「মাতৃত্ব」の意味は？",
+  "answer": "motherhood",
+  "glosses": {
+   "en": "motherhood",
+   "ja": "母性"
+  },
+  "choices": [
+   "to pour",
+   "mother-in-law",
+   "gecko",
+   "motherhood"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mat̪ɾit̪ːo/",
+  "verified": true
+ },
+ {
+  "id": "bn-00920",
+  "category": "bengali",
+  "prompt": "「মোম」の意味は？",
+  "answer": "wax",
+  "glosses": {
+   "en": "wax",
+   "ja": "ワックス"
+  },
+  "choices": [
+   "wax",
+   "panda",
+   "to cry",
+   "motherhood"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "bn-00921",
+  "category": "bengali",
+  "prompt": "「বিলাসিতা」の意味は？",
+  "answer": "luxury",
+  "glosses": {
+   "en": "luxury",
+   "ja": "ぜいたく"
+  },
+  "choices": [
+   "farmer",
+   "afterlife",
+   "luxury",
+   "geography"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bilaʃit̪a/",
+  "verified": true
+ },
+ {
+  "id": "bn-00922",
+  "category": "bengali",
+  "prompt": "「রংধনু」の意味は？",
+  "answer": "rainbow",
+  "glosses": {
+   "en": "rainbow",
+   "ja": "虹"
+  },
+  "choices": [
+   "dictator",
+   "rainbow",
+   "pomegranate",
+   "bitter"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/rɔŋd̪ʱonu/",
+  "verified": true
+ },
+ {
+  "id": "bn-00923",
+  "category": "bengali",
+  "prompt": "「জেব্রা」の意味は？",
+  "answer": "zebra",
+  "glosses": {
+   "en": "zebra",
+   "ja": "シマウマ"
+  },
+  "choices": [
+   "zebra",
+   "earthworm",
+   "nickname",
+   "capitalism"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d͡ʒebɾa/",
+  "verified": true
+ },
+ {
+  "id": "bn-00924",
+  "category": "bengali",
+  "prompt": "「নাচা」の意味は？",
+  "answer": "to dance",
+  "glosses": {
+   "en": "to dance",
+   "ja": "踊る"
+  },
+  "choices": [
+   "particle",
+   "to dance",
+   "carpet",
+   "astrologer"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/nat͡ʃa/",
+  "verified": true
+ },
+ {
+  "id": "bn-00925",
+  "category": "bengali",
+  "prompt": "「হাসা」の意味は？",
+  "answer": "to laugh",
+  "glosses": {
+   "en": "to laugh",
+   "ja": "笑う"
+  },
+  "choices": [
+   "straw",
+   "to laugh",
+   "gorilla",
+   "astrologer"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/haʃa/",
+  "verified": true
+ },
+ {
+  "id": "bn-00926",
+  "category": "bengali",
+  "prompt": "「পাকস্থলী」の意味は？",
+  "answer": "stomach",
+  "glosses": {
+   "en": "stomach",
+   "ja": "胃"
+  },
+  "choices": [
+   "to sell",
+   "stomach",
+   "lid",
+   "panda"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pakɔst̪ʰoli/",
+  "verified": true
+ },
+ {
+  "id": "bn-00927",
+  "category": "bengali",
+  "prompt": "「ফাটা」の意味は？",
+  "answer": "to crack",
+  "glosses": {
+   "en": "to crack",
+   "ja": "割れる"
+  },
+  "choices": [
+   "to crack",
+   "crocodile",
+   "consolation",
+   "to measure"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pʰɑ.ʈɑ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00928",
+  "category": "bengali",
+  "prompt": "「ফেনা」の意味は？",
+  "answer": "foam",
+  "glosses": {
+   "en": "foam",
+   "ja": "泡"
+  },
+  "choices": [
+   "foam",
+   "feather",
+   "idiom",
+   "floor"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/fæna/",
+  "verified": true
+ },
+ {
+  "id": "bn-00929",
+  "category": "bengali",
+  "prompt": "「পুদিনা」の意味は？",
+  "answer": "mint",
+  "glosses": {
+   "en": "mint",
+   "ja": "ミント"
+  },
+  "choices": [
+   "violin",
+   "illiterate",
+   "mint",
+   "rebirth"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pud̪ina/",
+  "verified": true
+ },
+ {
+  "id": "bn-00930",
+  "category": "bengali",
+  "prompt": "「উপভাষা」の意味は？",
+  "answer": "dialect",
+  "glosses": {
+   "en": "dialect",
+   "ja": "方言"
+  },
+  "choices": [
+   "bat",
+   "itch",
+   "dialect",
+   "capitalism"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/u.pɔ.bʱa.ʃa/",
+  "verified": true
+ },
+ {
+  "id": "bn-00931",
+  "category": "bengali",
+  "prompt": "「ফুটপাথ」の意味は？",
+  "answer": "sidewalk",
+  "glosses": {
+   "en": "sidewalk",
+   "ja": "歩道"
+  },
+  "choices": [
+   "sidewalk",
+   "polygon",
+   "camphor",
+   "scissors"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/fuʈpat̪ʰ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00932",
+  "category": "bengali",
+  "prompt": "「ভোগা」の意味は？",
+  "answer": "to suffer",
+  "glosses": {
+   "en": "to suffer",
+   "ja": "苦しむ"
+  },
+  "choices": [
+   "wolf",
+   "screenplay",
+   "to suffer",
+   "grammar"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bʱoɡa/",
+  "verified": true
+ },
+ {
+  "id": "bn-00933",
+  "category": "bengali",
+  "prompt": "「ত্রিভুজ」の意味は？",
+  "answer": "triangle",
+  "glosses": {
+   "en": "triangle",
+   "ja": "三角形"
+  },
+  "choices": [
+   "grammar",
+   "triangle",
+   "emerald",
+   "to dance"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "bn-00934",
+  "category": "bengali",
+  "prompt": "「মুষ্টি」の意味は？",
+  "answer": "fist",
+  "glosses": {
+   "en": "fist",
+   "ja": "握りこぶし"
+  },
+  "choices": [
+   "insurance",
+   "feminine",
+   "fist",
+   "consolation"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/muʃʈi/",
+  "verified": true
+ },
+ {
+  "id": "bn-00935",
+  "category": "bengali",
+  "prompt": "「পরকাল」の意味は？",
+  "answer": "afterlife",
+  "glosses": {
+   "en": "afterlife",
+   "ja": "来世"
+  },
+  "choices": [
+   "afterlife",
+   "to suck",
+   "turnip",
+   "polygon"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "bn-00936",
+  "category": "bengali",
+  "prompt": "「নিয়োগকর্তা」の意味は？",
+  "answer": "employer",
+  "glosses": {
+   "en": "employer",
+   "ja": "雇い主"
+  },
+  "choices": [
+   "glacier",
+   "employer",
+   "cumin",
+   "gorilla"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ni̯oɡɔkɔɾt̪a/",
+  "verified": true
+ },
+ {
+  "id": "bn-00937",
+  "category": "bengali",
+  "prompt": "「জিরা」の意味は？",
+  "answer": "cumin",
+  "glosses": {
+   "en": "cumin",
+   "ja": "クミン"
+  },
+  "choices": [
+   "pig",
+   "density",
+   "cumin",
+   "louse"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d͡ʒiɾa/",
+  "verified": true
+ },
+ {
+  "id": "bn-00938",
+  "category": "bengali",
+  "prompt": "「নারীবাদ」の意味は？",
+  "answer": "feminism",
+  "glosses": {
+   "en": "feminism",
+   "ja": "フェミニズム"
+  },
+  "choices": [
+   "infectious",
+   "feminism",
+   "parakeet",
+   "blanket"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/naɾibad̪/",
+  "verified": true
+ },
+ {
+  "id": "bn-00939",
+  "category": "bengali",
+  "prompt": "「কেঁচো」の意味は？",
+  "answer": "earthworm",
+  "glosses": {
+   "en": "earthworm",
+   "ja": "ミミズ"
+  },
+  "choices": [
+   "announcer",
+   "flour",
+   "to count",
+   "earthworm"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kẽt͡ʃo/",
+  "verified": true
+ },
+ {
+  "id": "bn-00940",
+  "category": "bengali",
+  "prompt": "「মাছরাঙা」の意味は？",
+  "answer": "kingfisher",
+  "glosses": {
+   "en": "kingfisher",
+   "ja": "カワセミ"
+  },
+  "choices": [
+   "shark",
+   "moonlight",
+   "kingfisher",
+   "bat"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "bn-00941",
+  "category": "bengali",
+  "prompt": "「গরিলা」の意味は？",
+  "answer": "gorilla",
+  "glosses": {
+   "en": "gorilla",
+   "ja": "ゴリラ"
+  },
+  "choices": [
+   "insurance",
+   "to flee",
+   "gorilla",
+   "shark"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɡoɾila/",
+  "verified": true
+ },
+ {
+  "id": "bn-00942",
+  "category": "bengali",
+  "prompt": "「উল্কা」の意味は？",
+  "answer": "meteor",
+  "glosses": {
+   "en": "meteor",
+   "ja": "流星"
+  },
+  "choices": [
+   "meteor",
+   "obstinate",
+   "gums",
+   "stable"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ul.ka/",
+  "verified": true
+ },
+ {
+  "id": "bn-00943",
+  "category": "bengali",
+  "prompt": "「তিতা」の意味は？",
+  "answer": "bitter",
+  "glosses": {
+   "en": "bitter",
+   "ja": "苦い"
+  },
+  "choices": [
+   "bitter",
+   "rectangle",
+   "lychee",
+   "cheek"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "bn-00944",
+  "category": "bengali",
+  "prompt": "「সূতা」の意味は？",
+  "answer": "thread",
+  "glosses": {
+   "en": "thread",
+   "ja": "糸"
+  },
+  "choices": [
+   "to suck",
+   "thread",
+   "thigh",
+   "petal"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "bn-00945",
+  "category": "bengali",
+  "prompt": "「জ্যোৎস্না」の意味は？",
+  "answer": "moonlight",
+  "glosses": {
+   "en": "moonlight",
+   "ja": "月光"
+  },
+  "choices": [
+   "hiccup",
+   "undershirt",
+   "cumin",
+   "moonlight"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d͡ʒot̪sna/",
+  "verified": true
+ },
+ {
+  "id": "bn-00946",
+  "category": "bengali",
+  "prompt": "「চিমনি」の意味は？",
+  "answer": "chimney",
+  "glosses": {
+   "en": "chimney",
+   "ja": "煙突"
+  },
+  "choices": [
+   "wax",
+   "sheep",
+   "chimney",
+   "copper"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/t͡ʃimni/",
+  "verified": true
+ },
+ {
+  "id": "bn-00947",
+  "category": "bengali",
+  "prompt": "「পেটানো」の意味は？",
+  "answer": "to beat",
+  "glosses": {
+   "en": "to beat",
+   "ja": "たたく"
+  },
+  "choices": [
+   "powerless",
+   "ancestor",
+   "to beat",
+   "volcano"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pe.ʈa/",
+  "verified": true
+ },
+ {
+  "id": "bn-00948",
+  "category": "bengali",
+  "prompt": "「গোমাংস」の意味は？",
+  "answer": "beef",
+  "glosses": {
+   "en": "beef",
+   "ja": "牛肉"
+  },
+  "choices": [
+   "emerald",
+   "beef",
+   "nameless",
+   "rainbow"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɡo.maŋ.ʃɔ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00949",
+  "category": "bengali",
+  "prompt": "「উপদ্বীপ」の意味は？",
+  "answer": "peninsula",
+  "glosses": {
+   "en": "peninsula",
+   "ja": "半島"
+  },
+  "choices": [
+   "vulture",
+   "steam",
+   "peninsula",
+   "rebirth"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/upɔd̪ːip/",
+  "verified": true
+ },
+ {
+  "id": "bn-00950",
+  "category": "bengali",
+  "prompt": "「ধূমকেতু」の意味は？",
+  "answer": "comet",
+  "glosses": {
+   "en": "comet",
+   "ja": "彗星"
+  },
+  "choices": [
+   "needle",
+   "conch",
+   "powerless",
+   "comet"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d̪ʱumket̪u/",
+  "verified": true
+ },
+ {
+  "id": "bn-00951",
+  "category": "bengali",
+  "prompt": "「ঘষা」の意味は？",
+  "answer": "to rub",
+  "glosses": {
+   "en": "to rub",
+   "ja": "こする"
+  },
+  "choices": [
+   "to rub",
+   "pigeon",
+   "mermaid",
+   "biology"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɡʱɔʃa/",
+  "verified": true
+ },
+ {
+  "id": "bn-00952",
+  "category": "bengali",
+  "prompt": "「গালিচা」の意味は？",
+  "answer": "carpet",
+  "glosses": {
+   "en": "carpet",
+   "ja": "じゅうたん"
+  },
+  "choices": [
+   "consolation",
+   "carpet",
+   "acne",
+   "watermelon"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɡalit͡ʃa/",
+  "verified": true
+ },
+ {
+  "id": "bn-00953",
+  "category": "bengali",
+  "prompt": "「কেটলি」の意味は？",
+  "answer": "kettle",
+  "glosses": {
+   "en": "kettle",
+   "ja": "やかん"
+  },
+  "choices": [
+   "kettle",
+   "rooster",
+   "oar",
+   "cumin"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/keʈ.li/",
+  "verified": true
+ },
+ {
+  "id": "bn-00954",
+  "category": "bengali",
+  "prompt": "「শিরস্ত্রাণ」の意味は？",
+  "answer": "helmet",
+  "glosses": {
+   "en": "helmet",
+   "ja": "ヘルメット"
+  },
+  "choices": [
+   "brush",
+   "to laugh",
+   "stopper",
+   "helmet"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʃiɾɔst̪ɾan/",
+  "verified": true
+ },
+ {
+  "id": "bn-00955",
+  "category": "bengali",
+  "prompt": "「ঘোষক」の意味は？",
+  "answer": "announcer",
+  "glosses": {
+   "en": "announcer",
+   "ja": "アナウンサー"
+  },
+  "choices": [
+   "wildfire",
+   "towel",
+   "powerless",
+   "announcer"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɡʱoʃɔk/",
+  "verified": true
+ },
+ {
+  "id": "bn-00956",
+  "category": "bengali",
+  "prompt": "「ঝোপ」の意味は？",
+  "answer": "bush",
+  "glosses": {
+   "en": "bush",
+   "ja": "茂み"
+  },
+  "choices": [
+   "sheep",
+   "watermelon",
+   "bush",
+   "urine"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d͡ʒʱop/",
+  "verified": true
+ },
+ {
+  "id": "bn-00957",
+  "category": "bengali",
+  "prompt": "「বিরাম」の意味は？",
+  "answer": "pause",
+  "glosses": {
+   "en": "pause",
+   "ja": "休止"
+  },
+  "choices": [
+   "pause",
+   "rabbit",
+   "straw",
+   "tamarind"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "bn-00958",
+  "category": "bengali",
+  "prompt": "「সুরেলা」の意味は？",
+  "answer": "melodious",
+  "glosses": {
+   "en": "melodious",
+   "ja": "旋律が美しい"
+  },
+  "choices": [
+   "melodious",
+   "to measure",
+   "muscle",
+   "honeymoon"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "bn-00959",
+  "category": "bengali",
+  "prompt": "「বিশেষ্য」の意味は？",
+  "answer": "noun",
+  "glosses": {
+   "en": "noun",
+   "ja": "名詞"
+  },
+  "choices": [
+   "noun",
+   "cumin",
+   "to fight",
+   "tailor"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/biʃeʃːo/",
+  "verified": true
+ },
+ {
+  "id": "bn-00960",
+  "category": "bengali",
+  "prompt": "「অভদ্র」の意味は？",
+  "answer": "uncivil",
+  "glosses": {
+   "en": "uncivil",
+   "ja": "無礼な"
+  },
+  "choices": [
+   "to crack",
+   "crocodile",
+   "uncivil",
+   "to rub"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɔ.bʱɔd̪.ɾɔ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00961",
+  "category": "bengali",
+  "prompt": "「ফ্যাসিবাদ」の意味は？",
+  "answer": "fascism",
+  "glosses": {
+   "en": "fascism",
+   "ja": "ファシズム"
+  },
+  "choices": [
+   "fascism",
+   "witch",
+   "employer",
+   "to flee"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/fæsibad̪/",
+  "verified": true
+ },
+ {
+  "id": "bn-00962",
+  "category": "bengali",
+  "prompt": "「বৈঠা」の意味は？",
+  "answer": "oar",
+  "glosses": {
+   "en": "oar",
+   "ja": "オール"
+  },
+  "choices": [
+   "oar",
+   "gunpowder",
+   "astronomy",
+   "to handle"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/boi̯ʈʰa/",
+  "verified": true
+ },
+ {
+  "id": "bn-00963",
+  "category": "bengali",
+  "prompt": "「জ্যোতিষী」の意味は？",
+  "answer": "astrologer",
+  "glosses": {
+   "en": "astrologer",
+   "ja": "占星術師"
+  },
+  "choices": [
+   "saffron",
+   "jewelry",
+   "gunpowder",
+   "astrologer"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d͡ʒot̪iʃi/",
+  "verified": true
+ },
+ {
+  "id": "bn-00964",
+  "category": "bengali",
+  "prompt": "「দারোয়ান」の意味は？",
+  "answer": "gatekeeper",
+  "glosses": {
+   "en": "gatekeeper",
+   "ja": "門番"
+  },
+  "choices": [
+   "camphor",
+   "psychology",
+   "saffron",
+   "gatekeeper"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d̪aɾo̯an/",
+  "verified": true
+ },
+ {
+  "id": "bn-00965",
+  "category": "bengali",
+  "prompt": "「এলাচ」の意味は？",
+  "answer": "cardamom",
+  "glosses": {
+   "en": "cardamom",
+   "ja": "カルダモン"
+  },
+  "choices": [
+   "cardamom",
+   "walnut",
+   "to pour",
+   "handkerchief"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/elat͡ʃ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00966",
+  "category": "bengali",
+  "prompt": "「একগুঁয়ে」の意味は？",
+  "answer": "obstinate",
+  "glosses": {
+   "en": "obstinate",
+   "ja": "頑固な"
+  },
+  "choices": [
+   "copper",
+   "lychee",
+   "chimney",
+   "obstinate"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɛkɡũe/",
+  "verified": true
+ },
+ {
+  "id": "bn-00967",
+  "category": "bengali",
+  "prompt": "「খেয়া」の意味は？",
+  "answer": "ferryboat",
+  "glosses": {
+   "en": "ferryboat",
+   "ja": "渡し船"
+  },
+  "choices": [
+   "meteor",
+   "bitter",
+   "ferryboat",
+   "towel"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kʰea/",
+  "verified": true
+ },
+ {
+  "id": "bn-00968",
+  "category": "bengali",
+  "prompt": "「লবঙ্গ」の意味は？",
+  "answer": "clove",
+  "glosses": {
+   "en": "clove",
+   "ja": "クローブ"
+  },
+  "choices": [
+   "clove",
+   "wildfire",
+   "enticement",
+   "pause"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/lɔboŋɡo/",
+  "verified": true
+ },
+ {
+  "id": "bn-00969",
+  "category": "bengali",
+  "prompt": "「ক্রিয়াপদ」の意味は？",
+  "answer": "verb",
+  "glosses": {
+   "en": "verb",
+   "ja": "動詞"
+  },
+  "choices": [
+   "imitation",
+   "executioner",
+   "verb",
+   "volcano"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kɾi̯apɔd̪/",
+  "verified": true
+ },
+ {
+  "id": "bn-00970",
+  "category": "bengali",
+  "prompt": "「গেলা」の意味は？",
+  "answer": "to swallow",
+  "glosses": {
+   "en": "to swallow",
+   "ja": "飲み込む"
+  },
+  "choices": [
+   "pollen",
+   "to run",
+   "to swallow",
+   "cook"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈɡe.la]",
+  "verified": true
+ },
+ {
+  "id": "bn-00971",
+  "category": "bengali",
+  "prompt": "「বাছুর」の意味は？",
+  "answer": "calf",
+  "glosses": {
+   "en": "calf",
+   "ja": "子牛"
+  },
+  "choices": [
+   "diplomat",
+   "coriander",
+   "moonlight",
+   "calf"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bat͡ʃʰuɾ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00972",
+  "category": "bengali",
+  "prompt": "「অকপটে」の意味は？",
+  "answer": "frankly",
+  "glosses": {
+   "en": "frankly",
+   "ja": "率直に"
+  },
+  "choices": [
+   "geometry",
+   "frankly",
+   "turnip",
+   "nameless"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "bn-00973",
+  "category": "bengali",
+  "prompt": "「রবার」の意味は？",
+  "answer": "rubber",
+  "glosses": {
+   "en": "rubber",
+   "ja": "ゴム"
+  },
+  "choices": [
+   "mulberry",
+   "footnote",
+   "illiterate",
+   "rubber"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɹɔ.baɹ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00974",
+  "category": "bengali",
+  "prompt": "「জগ」の意味は？",
+  "answer": "jug",
+  "glosses": {
+   "en": "jug",
+   "ja": "水差し"
+  },
+  "choices": [
+   "nameless",
+   "lid",
+   "spinach",
+   "jug"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d͡ʒɔɡ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00975",
+  "category": "bengali",
+  "prompt": "「আলকাতরা」の意味は？",
+  "answer": "tar",
+  "glosses": {
+   "en": "tar",
+   "ja": "タール"
+  },
+  "choices": [
+   "tar",
+   "thirst",
+   "alphabet",
+   "cockroach"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/alkat̪ɾa/",
+  "verified": true
+ },
+ {
+  "id": "bn-00976",
+  "category": "bengali",
+  "prompt": "「তেঁতুল」の意味は？",
+  "answer": "tamarind",
+  "glosses": {
+   "en": "tamarind",
+   "ja": "タマリンド"
+  },
+  "choices": [
+   "tamarind",
+   "chimney",
+   "stomach",
+   "helmet"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/t̪ẽt̪ul/",
+  "verified": true
+ },
+ {
+  "id": "bn-00977",
+  "category": "bengali",
+  "prompt": "「কফ」の意味は？",
+  "answer": "phlegm",
+  "glosses": {
+   "en": "phlegm",
+   "ja": "痰"
+  },
+  "choices": [
+   "mischief",
+   "spinach",
+   "phlegm",
+   "rubber"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kɔf/",
+  "verified": true
+ },
+ {
+  "id": "bn-00978",
+  "category": "bengali",
+  "prompt": "「চোষা」の意味は？",
+  "answer": "to suck",
+  "glosses": {
+   "en": "to suck",
+   "ja": "吸う"
+  },
+  "choices": [
+   "thirst",
+   "village chief",
+   "straw",
+   "to suck"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/t͡ʃoʃa/",
+  "verified": true
+ },
+ {
+  "id": "bn-00979",
+  "category": "bengali",
+  "prompt": "「জ্যোতির্বিজ্ঞান」の意味は？",
+  "answer": "astronomy",
+  "glosses": {
+   "en": "astronomy",
+   "ja": "天文学"
+  },
+  "choices": [
+   "to cry",
+   "astronomy",
+   "parakeet",
+   "pigeon"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "bn-00980",
+  "category": "bengali",
+  "prompt": "「চিবানো」の意味は？",
+  "answer": "to chew",
+  "glosses": {
+   "en": "to chew",
+   "ja": "かむ"
+  },
+  "choices": [
+   "victim",
+   "village chief",
+   "towel",
+   "to chew"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/t͡ʃibano/",
+  "verified": true
+ },
+ {
+  "id": "bn-00981",
+  "category": "bengali",
+  "prompt": "「মূর্খতা」の意味は？",
+  "answer": "stupidity",
+  "glosses": {
+   "en": "stupidity",
+   "ja": "愚かさ"
+  },
+  "choices": [
+   "stupidity",
+   "handkerchief",
+   "to feed",
+   "eggplant"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/muɾkʰɔt̪a/",
+  "verified": true
+ },
+ {
+  "id": "bn-00982",
+  "category": "bengali",
+  "prompt": "「পালং」の意味は？",
+  "answer": "spinach",
+  "glosses": {
+   "en": "spinach",
+   "ja": "ホウレンソウ"
+  },
+  "choices": [
+   "infectious",
+   "spinach",
+   "fossil",
+   "shark"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/palɔŋ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00983",
+  "category": "bengali",
+  "prompt": "「চাষি」の意味は？",
+  "answer": "farmer",
+  "glosses": {
+   "en": "farmer",
+   "ja": "農家"
+  },
+  "choices": [
+   "farmer",
+   "jaw",
+   "particle",
+   "plate"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/t͡ʃa.ʃi/",
+  "verified": true
+ },
+ {
+  "id": "bn-00984",
+  "category": "bengali",
+  "prompt": "「জ্যামিতি」の意味は？",
+  "answer": "geometry",
+  "glosses": {
+   "en": "geometry",
+   "ja": "幾何学"
+  },
+  "choices": [
+   "geometry",
+   "zebra",
+   "handkerchief",
+   "lung"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d͡ʒæmit̪i/",
+  "verified": true
+ },
+ {
+  "id": "bn-00985",
+  "category": "bengali",
+  "prompt": "「মিথেন」の意味は？",
+  "answer": "methane",
+  "glosses": {
+   "en": "methane",
+   "ja": "メタン"
+  },
+  "choices": [
+   "methane",
+   "dictator",
+   "sheep",
+   "dandruff"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mit̪ʰen/",
+  "verified": true
+ },
+ {
+  "id": "bn-00986",
+  "category": "bengali",
+  "prompt": "「বায়ুমণ্ডল」の意味は？",
+  "answer": "atmosphere",
+  "glosses": {
+   "en": "atmosphere",
+   "ja": "大気"
+  },
+  "choices": [
+   "floor",
+   "dictionary",
+   "atmosphere",
+   "rebirth"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bae̯umɔnɖol/",
+  "verified": true
+ },
+ {
+  "id": "bn-00987",
+  "category": "bengali",
+  "prompt": "「নাশপাতি」の意味は？",
+  "answer": "pear",
+  "glosses": {
+   "en": "pear",
+   "ja": "西洋ナシ"
+  },
+  "choices": [
+   "steam",
+   "pear",
+   "floor",
+   "to feed"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/naʃpat̪i/",
+  "verified": true
+ },
+ {
+  "id": "bn-00988",
+  "category": "bengali",
+  "prompt": "「সাজগোজ」の意味は？",
+  "answer": "dressing up",
+  "glosses": {
+   "en": "dressing up",
+   "ja": "おしゃれ"
+  },
+  "choices": [
+   "saffron",
+   "dressing up",
+   "liver",
+   "particle"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʃad͡ʒɡod͡ʒ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00989",
+  "category": "bengali",
+  "prompt": "「চোরাবালি」の意味は？",
+  "answer": "quicksand",
+  "glosses": {
+   "en": "quicksand",
+   "ja": "流砂"
+  },
+  "choices": [
+   "quicksand",
+   "louse",
+   "to count",
+   "saucer"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "bn-00990",
+  "category": "bengali",
+  "prompt": "「জোঁক」の意味は？",
+  "answer": "leech",
+  "glosses": {
+   "en": "leech",
+   "ja": "ヒル"
+  },
+  "choices": [
+   "wrestling",
+   "gunpowder",
+   "pollen",
+   "leech"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d͡ʒõk/",
+  "verified": true
+ },
+ {
+  "id": "bn-00991",
+  "category": "bengali",
+  "prompt": "「জোনাকি」の意味は？",
+  "answer": "firefly",
+  "glosses": {
+   "en": "firefly",
+   "ja": "ホタル"
+  },
+  "choices": [
+   "firefly",
+   "muscle",
+   "pillow",
+   "saucer"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d͡ʒonaki/",
+  "verified": true
+ },
+ {
+  "id": "bn-00992",
+  "category": "bengali",
+  "prompt": "「গেঞ্জি」の意味は？",
+  "answer": "undershirt",
+  "glosses": {
+   "en": "undershirt",
+   "ja": "肌着"
+  },
+  "choices": [
+   "timid",
+   "undershirt",
+   "footnote",
+   "mischief"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɡend͡ʒi/",
+  "verified": true
+ },
+ {
+  "id": "bn-00993",
+  "category": "bengali",
+  "prompt": "「ফুলকপি」の意味は？",
+  "answer": "cauliflower",
+  "glosses": {
+   "en": "cauliflower",
+   "ja": "カリフラワー"
+  },
+  "choices": [
+   "cauliflower",
+   "to lick",
+   "stupidity",
+   "stomach"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/fulkopi/",
+  "verified": true
+ },
+ {
+  "id": "bn-00994",
+  "category": "bengali",
+  "prompt": "「ধূপ」の意味は？",
+  "answer": "incense",
+  "glosses": {
+   "en": "incense",
+   "ja": "お香"
+  },
+  "choices": [
+   "to feed",
+   "stable",
+   "incense",
+   "hippopotamus"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d̪ʱup/",
+  "verified": true
+ },
+ {
+  "id": "bn-00995",
+  "category": "bengali",
+  "prompt": "「চাটা」の意味は？",
+  "answer": "to lick",
+  "glosses": {
+   "en": "to lick",
+   "ja": "なめる"
+  },
+  "choices": [
+   "magician",
+   "oar",
+   "to lick",
+   "fossil"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/t͡ʃaʈa/",
+  "verified": true
+ },
+ {
+  "id": "bn-00996",
+  "category": "bengali",
+  "prompt": "「বিচ্ছু」の意味は？",
+  "answer": "scorpion",
+  "glosses": {
+   "en": "scorpion",
+   "ja": "サソリ"
+  },
+  "choices": [
+   "nameless",
+   "scorpion",
+   "pronoun",
+   "sneeze"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "bn-00997",
+  "category": "bengali",
+  "prompt": "「হেঁয়ালি」の意味は？",
+  "answer": "riddle",
+  "glosses": {
+   "en": "riddle",
+   "ja": "なぞなぞ"
+  },
+  "choices": [
+   "petal",
+   "riddle",
+   "conch",
+   "loom"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/hee̯ali/",
+  "verified": true
+ },
+ {
+  "id": "bn-00998",
+  "category": "bengali",
+  "prompt": "「চুরুট」の意味は？",
+  "answer": "cigar",
+  "glosses": {
+   "en": "cigar",
+   "ja": "葉巻"
+  },
+  "choices": [
+   "gunpowder",
+   "eyebrow",
+   "village chief",
+   "cigar"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/t͡ʃuɾuʈ/",
+  "verified": true
+ },
+ {
+  "id": "bn-00999",
+  "category": "bengali",
+  "prompt": "「নাপিত」の意味は？",
+  "answer": "barber",
+  "glosses": {
+   "en": "barber",
+   "ja": "理髪師"
+  },
+  "choices": [
+   "physics",
+   "barber",
+   "to pour",
+   "crystal"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/napit̪/",
+  "verified": true
+ },
+ {
+  "id": "bn-01000",
+  "category": "bengali",
+  "prompt": "「অধৈর্য」の意味は？",
+  "answer": "impatient",
+  "glosses": {
+   "en": "impatient",
+   "ja": "せっかちな"
+  },
+  "choices": [
+   "riddle",
+   "steam",
+   "impatient",
+   "owl"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ɔ.dʱoi̯rd͡ʒːo]",
+  "verified": true
+ },
+ {
+  "id": "bn-01001",
+  "category": "bengali",
+  "prompt": "「মাড়ি」の意味は？",
+  "answer": "gums",
+  "glosses": {
+   "en": "gums",
+   "ja": "歯ぐき"
+  },
+  "choices": [
+   "to chew",
+   "warehouse",
+   "incense",
+   "gums"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ma.ɽi/",
+  "verified": true
+ },
+ {
+  "id": "bn-01002",
+  "category": "bengali",
+  "prompt": "「আখরোট」の意味は？",
+  "answer": "walnut",
+  "glosses": {
+   "en": "walnut",
+   "ja": "クルミ"
+  },
+  "choices": [
+   "lung",
+   "diamond",
+   "carpet",
+   "walnut"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/akʰɔɾoʈ/",
+  "verified": true
+ },
+ {
+  "id": "bn-01003",
+  "category": "bengali",
+  "prompt": "「হেঁচকি」の意味は？",
+  "answer": "hiccup",
+  "glosses": {
+   "en": "hiccup",
+   "ja": "しゃっくり"
+  },
+  "choices": [
+   "gums",
+   "archipelago",
+   "uncivil",
+   "hiccup"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/hẽt͡ʃki/",
+  "verified": true
+ },
+ {
+  "id": "bn-01004",
+  "category": "bengali",
+  "prompt": "「বীজগণিত」の意味は？",
+  "answer": "algebra",
+  "glosses": {
+   "en": "algebra",
+   "ja": "代数"
+  },
+  "choices": [
+   "algebra",
+   "biscuit",
+   "walnut",
+   "bear"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bid͡ʒɡonit̪o/",
+  "verified": true
+ },
+ {
+  "id": "bn-01005",
+  "category": "bengali",
+  "prompt": "「লড়া」の意味は？",
+  "answer": "to fight",
+  "glosses": {
+   "en": "to fight",
+   "ja": "戦う"
+  },
+  "choices": [
+   "crab",
+   "idiom",
+   "zebra",
+   "to fight"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/lɔɽa/",
+  "verified": true
+ },
+ {
+  "id": "bn-01006",
+  "category": "bengali",
+  "prompt": "「ফোটানো」の意味は？",
+  "answer": "to boil",
+  "glosses": {
+   "en": "to boil",
+   "ja": "沸かす"
+  },
+  "choices": [
+   "dialect",
+   "to boil",
+   "nationalism",
+   "mermaid"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pʰoʈano/",
+  "verified": true
+ },
+ {
+  "id": "bn-01007",
+  "category": "bengali",
+  "prompt": "「শুঁড়」の意味は？",
+  "answer": "elephant trunk",
+  "glosses": {
+   "en": "elephant trunk",
+   "ja": "象の鼻"
+  },
+  "choices": [
+   "elephant trunk",
+   "ungrateful",
+   "olive",
+   "kettle"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "bn-01008",
+  "category": "bengali",
+  "prompt": "「আস্তাবল」の意味は？",
+  "answer": "stable",
+  "glosses": {
+   "en": "stable",
+   "ja": "馬小屋"
+  },
+  "choices": [
+   "cuckoo",
+   "parakeet",
+   "salad",
+   "stable"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ast̪abol/",
+  "verified": true
+ },
+ {
+  "id": "bn-01009",
+  "category": "bengali",
+  "prompt": "「মধুচন্দ্রিমা」の意味は？",
+  "answer": "honeymoon",
+  "glosses": {
+   "en": "honeymoon",
+   "ja": "新婚旅行"
+  },
+  "choices": [
+   "fist",
+   "hair bun",
+   "owl",
+   "honeymoon"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "bn-01010",
+  "category": "bengali",
+  "prompt": "「শক্তিহীন」の意味は？",
+  "answer": "powerless",
+  "glosses": {
+   "en": "powerless",
+   "ja": "無力な"
+  },
+  "choices": [
+   "diamond",
+   "powerless",
+   "stove",
+   "pea"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʃɔkt̪ihin/",
+  "verified": true
+ },
+ {
+  "id": "bn-01011",
+  "category": "bengali",
+  "prompt": "「বাগধারা」の意味は？",
+  "answer": "idiom",
+  "glosses": {
+   "en": "idiom",
+   "ja": "慣用句"
+  },
+  "choices": [
+   "physics",
+   "cook",
+   "idiom",
+   "nutmeg"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/baɡd̪ʱaɾa/",
+  "verified": true
+ },
+ {
+  "id": "bn-01012",
+  "category": "bengali",
+  "prompt": "「জবা」の意味は？",
+  "answer": "hibiscus",
+  "glosses": {
+   "en": "hibiscus",
+   "ja": "ハイビスカス"
+  },
+  "choices": [
+   "moonlight",
+   "blanket",
+   "hibiscus",
+   "foam"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d͡ʒɔ.ba/",
+  "verified": true
+ },
+ {
+  "id": "bn-01013",
+  "category": "bengali",
+  "prompt": "「জোয়াল」の意味は？",
+  "answer": "yoke",
+  "glosses": {
+   "en": "yoke",
+   "ja": "くびき"
+  },
+  "choices": [
+   "feminism",
+   "tailor",
+   "stable",
+   "yoke"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d͡ʒo̯al/",
+  "verified": true
+ },
+ {
+  "id": "bn-01014",
+  "category": "bengali",
+  "prompt": "「স্বরবর্ণ」の意味は？",
+  "answer": "vowel",
+  "glosses": {
+   "en": "vowel",
+   "ja": "母音"
+  },
+  "choices": [
+   "vowel",
+   "hibiscus",
+   "sympathetic",
+   "bow"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʃɔɾobɔɾno/",
+  "verified": true
+ },
+ {
+  "id": "bn-01015",
+  "category": "bengali",
+  "prompt": "「মূকাভিনয়」の意味は？",
+  "answer": "pantomime",
+  "glosses": {
+   "en": "pantomime",
+   "ja": "パントマイム"
+  },
+  "choices": [
+   "pantomime",
+   "pronoun",
+   "bowl",
+   "pause"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mukabʱinɔe̯/",
+  "verified": true
+ },
+ {
+  "id": "bn-01016",
+  "category": "bengali",
+  "prompt": "「সাম্যবাদ」の意味は？",
+  "answer": "communism",
+  "glosses": {
+   "en": "communism",
+   "ja": "共産主義"
+  },
+  "choices": [
+   "mother-in-law",
+   "bitter",
+   "communism",
+   "rhinoceros"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʃamːɔbad̪/",
+  "verified": true
+ },
+ {
+  "id": "bn-01017",
+  "category": "bengali",
+  "prompt": "「দস্তা」の意味は？",
+  "answer": "zinc",
+  "glosses": {
+   "en": "zinc",
+   "ja": "亜鉛"
+  },
+  "choices": [
+   "zinc",
+   "ancestor",
+   "cruelty",
+   "saffron"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "bn-01018",
+  "category": "bengali",
+  "prompt": "「ঢেঁড়স」の意味は？",
+  "answer": "okra",
+  "glosses": {
+   "en": "okra",
+   "ja": "オクラ"
+  },
+  "choices": [
+   "foam",
+   "okra",
+   "rubber",
+   "anarchism"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɖʱæ̃ɽoʃ/",
+  "verified": true
+ },
+ {
+  "id": "bn-01019",
+  "category": "bengali",
+  "prompt": "「থার্মোমিটার」の意味は？",
+  "answer": "thermometer",
+  "glosses": {
+   "en": "thermometer",
+   "ja": "温度計"
+  },
+  "choices": [
+   "famine",
+   "to sell",
+   "gorilla",
+   "thermometer"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/t̪ʰaɾmomiʈaɾ/",
+  "verified": true
+ },
+ {
+  "id": "bn-01020",
+  "category": "bengali",
+  "prompt": "「নৈরাজ্যবাদ」の意味は？",
+  "answer": "anarchism",
+  "glosses": {
+   "en": "anarchism",
+   "ja": "無政府主義"
+  },
+  "choices": [
+   "frankly",
+   "anarchism",
+   "to beat",
+   "to burn"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/noi̯ɾad͡ʒd͡ʒɔbad̪/",
+  "verified": true
+ },
+ {
+  "id": "bn-01021",
+  "category": "bengali",
+  "prompt": "「পাদটীকা」の意味は？",
+  "answer": "footnote",
+  "glosses": {
+   "en": "footnote",
+   "ja": "脚注"
+  },
+  "choices": [
+   "furniture",
+   "footnote",
+   "geometry",
+   "owl"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pad̪oʈika/",
+  "verified": true
+ },
+ {
+  "id": "bn-01022",
+  "category": "bengali",
+  "prompt": "「গোয়াল」の意味は？",
+  "answer": "cowshed",
+  "glosses": {
+   "en": "cowshed",
+   "ja": "牛小屋"
+  },
+  "choices": [
+   "cowshed",
+   "kettle",
+   "gorilla",
+   "gloomy"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɡo̯al/",
+  "verified": true
+ },
+ {
+  "id": "bn-01023",
+  "category": "bengali",
+  "prompt": "「গোরু」の意味は？",
+  "answer": "cow",
+  "glosses": {
+   "en": "cow",
+   "ja": "牛"
+  },
+  "choices": [
+   "cow",
+   "vulture",
+   "walnut",
+   "mother-in-law"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɡoɾu/",
+  "verified": true
+ },
+ {
+  "id": "bn-01024",
+  "category": "bengali",
+  "prompt": "「ছিপি」の意味は？",
+  "answer": "stopper",
+  "glosses": {
+   "en": "stopper",
+   "ja": "栓"
+  },
+  "choices": [
+   "emerald",
+   "shoulder",
+   "kitchen",
+   "stopper"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/t͡ʃʰi.pi/",
+  "verified": true
+ },
+ {
+  "id": "bn-01025",
+  "category": "bengali",
+  "prompt": "「জলহস্তী」の意味は？",
+  "answer": "hippopotamus",
+  "glosses": {
+   "en": "hippopotamus",
+   "ja": "カバ"
+  },
+  "choices": [
+   "scorpion",
+   "mercury",
+   "hippopotamus",
+   "dictator"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d͡ʒɔlohost̪i/",
+  "verified": true
+ },
+ {
+  "id": "bn-01026",
+  "category": "bengali",
+  "prompt": "「কর্পূর」の意味は？",
+  "answer": "camphor",
+  "glosses": {
+   "en": "camphor",
+   "ja": "樟脳"
+  },
+  "choices": [
+   "camphor",
+   "afterlife",
+   "elevator",
+   "owl"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kɔɾpuɾ/",
+  "verified": true
+ },
+ {
+  "id": "bn-01027",
+  "category": "bengali",
+  "prompt": "「জায়ফল」の意味は？",
+  "answer": "nutmeg",
+  "glosses": {
+   "en": "nutmeg",
+   "ja": "ナツメグ"
+  },
+  "choices": [
+   "nutmeg",
+   "cow",
+   "parakeet",
+   "quicksand"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d͡ʒae̯ɔfɔl/",
+  "verified": true
+ },
+ {
+  "id": "bn-01028",
+  "category": "bengali",
+  "prompt": "「উদবিড়াল」の意味は？",
+  "answer": "otter",
+  "glosses": {
+   "en": "otter",
+   "ja": "カワウソ"
+  },
+  "choices": [
+   "conch",
+   "astronomy",
+   "otter",
+   "rectangle"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ud̪biɽal/",
+  "verified": true
+ },
+ {
+  "id": "bn-01029",
+  "category": "bengali",
+  "prompt": "「কুকুরছানা」の意味は？",
+  "answer": "puppy",
+  "glosses": {
+   "en": "puppy",
+   "ja": "子犬"
+  },
+  "choices": [
+   "crystal",
+   "powerless",
+   "puppy",
+   "ungrateful"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kukuɾt͡ʃʰana/",
+  "verified": true
+ },
+ {
+  "id": "bn-01030",
+  "category": "bengali",
+  "prompt": "「খোঁপা」の意味は？",
+  "answer": "hair bun",
+  "glosses": {
+   "en": "hair bun",
+   "ja": "まとめ髪"
+  },
+  "choices": [
+   "pig",
+   "adjective",
+   "hair bun",
+   "gums"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kʰõ.pa/",
+  "verified": true
+ },
+ {
+  "id": "bn-01031",
+  "category": "bengali",
+  "prompt": "「সর্বনাম」の意味は？",
+  "answer": "pronoun",
+  "glosses": {
+   "en": "pronoun",
+   "ja": "代名詞"
+  },
+  "choices": [
+   "gatekeeper",
+   "uncivil",
+   "pronoun",
+   "salad"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʃɔɾbonam/",
+  "verified": true
+ },
+ {
+  "id": "bn-01032",
+  "category": "bengali",
+  "prompt": "「বয়ঃসন্ধি」の意味は？",
+  "answer": "puberty",
+  "glosses": {
+   "en": "puberty",
+   "ja": "思春期"
+  },
+  "choices": [
+   "handkerchief",
+   "puberty",
+   "volcano",
+   "cockroach"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bɔ.e̯ɔh.ʃɔn.d̪ʱi/",
+  "verified": true
+ },
+ {
+  "id": "bn-01033",
+  "category": "bengali",
+  "prompt": "「মৎস্যকন্যা」の意味は？",
+  "answer": "mermaid",
+  "glosses": {
+   "en": "mermaid",
+   "ja": "人魚"
+  },
+  "choices": [
+   "bear",
+   "motherhood",
+   "mermaid",
+   "minor"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "bn-01034",
+  "category": "bengali",
+  "prompt": "「প্ল্যাটিনাম」の意味は？",
+  "answer": "platinum",
+  "glosses": {
+   "en": "platinum",
+   "ja": "プラチナ"
+  },
+  "choices": [
+   "platinum",
+   "mischief",
+   "gatekeeper",
+   "loom"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/plæʈinam/",
+  "verified": true
+ },
+ {
+  "id": "bn-01035",
+  "category": "bengali",
+  "prompt": "「শালগম」の意味は？",
+  "answer": "turnip",
+  "glosses": {
+   "en": "turnip",
+   "ja": "カブ"
+  },
+  "choices": [
+   "eagle",
+   "turnip",
+   "hardware",
+   "rhinoceros"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʃalɡɔm/",
+  "verified": true
+ },
+ {
+  "id": "bn-01036",
+  "category": "bengali",
+  "prompt": "「ভিতু」の意味は？",
+  "answer": "timid",
+  "glosses": {
+   "en": "timid",
+   "ja": "おくびょうな"
+  },
+  "choices": [
+   "thunderbolt",
+   "impatient",
+   "gatekeeper",
+   "timid"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bʱit̪u/",
+  "verified": true
+ },
+ {
+  "id": "bn-01037",
+  "category": "bengali",
+  "prompt": "「দারচিনি」の意味は？",
+  "answer": "cinnamon",
+  "glosses": {
+   "en": "cinnamon",
+   "ja": "シナモン"
+  },
+  "choices": [
+   "cinnamon",
+   "to boil",
+   "navel",
+   "graveyard"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d̪aɾt͡ʃini/",
+  "verified": true
+ },
+ {
+  "id": "bn-01038",
+  "category": "bengali",
+  "prompt": "「ঊরু」の意味は？",
+  "answer": "thigh",
+  "glosses": {
+   "en": "thigh",
+   "ja": "太もも"
+  },
+  "choices": [
+   "fossil",
+   "gatekeeper",
+   "thigh",
+   "wax"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/uɾu/",
+  "verified": true
+ },
+ {
+  "id": "bn-01039",
+  "category": "bengali",
+  "prompt": "「ভাষাবিজ্ঞান」の意味は？",
+  "answer": "linguistics",
+  "glosses": {
+   "en": "linguistics",
+   "ja": "言語学"
+  },
+  "choices": [
+   "motherhood",
+   "watermelon",
+   "blanket",
+   "linguistics"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "bn-01040",
+  "category": "bengali",
+  "prompt": "「ভুরু」の意味は？",
+  "answer": "eyebrow",
+  "glosses": {
+   "en": "eyebrow",
+   "ja": "眉毛"
+  },
+  "choices": [
+   "illiterate",
+   "eyebrow",
+   "farmer",
+   "biscuit"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "bn-01041",
+  "category": "bengali",
+  "prompt": "「আয়তক্ষেত্র」の意味は？",
+  "answer": "rectangle",
+  "glosses": {
+   "en": "rectangle",
+   "ja": "長方形"
+  },
+  "choices": [
+   "rectangle",
+   "mother-in-law",
+   "astronomy",
+   "witch"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "bn-01042",
+  "category": "bengali",
+  "prompt": "「কুমোর」の意味は？",
+  "answer": "potter",
+  "glosses": {
+   "en": "potter",
+   "ja": "陶工"
+  },
+  "choices": [
+   "envelope",
+   "sock",
+   "potter",
+   "walnut"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ku.mor/",
+  "verified": true
+ },
+ {
+  "id": "bn-01043",
+  "category": "bengali",
+  "prompt": "「শাঁখ」の意味は？",
+  "answer": "conch",
+  "glosses": {
+   "en": "conch",
+   "ja": "ほら貝"
+  },
+  "choices": [
+   "announcer",
+   "pear",
+   "synonym",
+   "conch"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʃãkʰ/",
+  "verified": true
+ },
+ {
+  "id": "bn-01044",
+  "category": "bengali",
+  "prompt": "「স্ত্রীলিঙ্গ」の意味は？",
+  "answer": "feminine",
+  "glosses": {
+   "en": "feminine",
+   "ja": "女性形"
+  },
+  "choices": [
+   "feminine",
+   "dandruff",
+   "to travel",
+   "bucket"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "bn-01045",
+  "category": "bengali",
+  "prompt": "「পিরিচ」の意味は？",
+  "answer": "saucer",
+  "glosses": {
+   "en": "saucer",
+   "ja": "受け皿"
+  },
+  "choices": [
+   "peacock",
+   "jewelry",
+   "sheep",
+   "saucer"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/piɾit͡ʃ/",
+  "verified": true
+ },
+ {
+  "id": "bn-01046",
+  "category": "bengali",
+  "prompt": "「চ্যাপটা」の意味は？",
+  "answer": "flat",
+  "glosses": {
+   "en": "flat",
+   "ja": "平らな"
+  },
+  "choices": [
+   "to run",
+   "thread",
+   "flat",
+   "wax"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/t͡ʃæpʈa/",
+  "verified": true
+ },
+ {
+  "id": "bn-01047",
+  "category": "bengali",
+  "prompt": "「বহুভুজ」の意味は？",
+  "answer": "polygon",
+  "glosses": {
+   "en": "polygon",
+   "ja": "多角形"
+  },
+  "choices": [
+   "melodious",
+   "polygon",
+   "waterfall",
+   "to suffer"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "bn-01048",
+  "category": "bengali",
+  "prompt": "「তুঁত」の意味は？",
+  "answer": "mulberry",
+  "glosses": {
+   "en": "mulberry",
+   "ja": "クワ"
+  },
+  "choices": [
+   "to float",
+   "mulberry",
+   "imitation",
+   "to count"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/t̪ũt̪/",
+  "verified": true
+ }
+]
