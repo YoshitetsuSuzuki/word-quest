@@ -9239,5 +9239,3767 @@
   "pronunciation": "shmerts",
   "example": "Der Schmerz ist weg. — 痛みがなくなりました。",
   "exampleForm": "schmerz"
+ },
+ {
+  "id": "de-02837",
+  "category": "german",
+  "prompt": "「rational」の意味は？",
+  "answer": "rational",
+  "glosses": {
+   "en": "rational",
+   "ja": "合理的な"
+  },
+  "choices": [
+   "noun",
+   "rational",
+   "to restore",
+   "stepmother"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˌʁat͡si̯oˈnaːl]",
+  "verified": true
+ },
+ {
+  "id": "de-02838",
+  "category": "german",
+  "prompt": "「gleichgültig」の意味は？",
+  "answer": "indifferent",
+  "glosses": {
+   "en": "indifferent",
+   "ja": "無関心な"
+  },
+  "choices": [
+   "leopard",
+   "cord",
+   "indifferent",
+   "serum"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈɡlaɪ̯çˌɡʏltɪç/",
+  "verified": true
+ },
+ {
+  "id": "de-02839",
+  "category": "german",
+  "prompt": "「Ananas」の意味は？",
+  "answer": "pineapple",
+  "glosses": {
+   "en": "pineapple",
+   "ja": "パイナップル"
+  },
+  "choices": [
+   "conducive",
+   "sunny",
+   "pineapple",
+   "hairy"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈa.na.nas/",
+  "verified": true
+ },
+ {
+  "id": "de-02840",
+  "category": "german",
+  "prompt": "「Diamant」の意味は？",
+  "answer": "diamond",
+  "glosses": {
+   "en": "diamond",
+   "ja": "ダイヤモンド"
+  },
+  "choices": [
+   "to intend",
+   "sapphire",
+   "diamond",
+   "cashier"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/diaˈmant/",
+  "verified": true
+ },
+ {
+  "id": "de-02841",
+  "category": "german",
+  "prompt": "「Keil」の意味は？",
+  "answer": "wedge",
+  "glosses": {
+   "en": "wedge",
+   "ja": "くさび"
+  },
+  "choices": [
+   "diagram",
+   "to bleed",
+   "ballot",
+   "wedge"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kaɪ̯l/",
+  "verified": true
+ },
+ {
+  "id": "de-02842",
+  "category": "german",
+  "prompt": "「Biene」の意味は？",
+  "answer": "bee",
+  "glosses": {
+   "en": "bee",
+   "ja": "ミツバチ"
+  },
+  "choices": [
+   "squad",
+   "bee",
+   "arrogance",
+   "challenger"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈbiːnə/",
+  "verified": true
+ },
+ {
+  "id": "de-02843",
+  "category": "german",
+  "prompt": "「Schaum」の意味は？",
+  "answer": "foam",
+  "glosses": {
+   "en": "foam",
+   "ja": "泡"
+  },
+  "choices": [
+   "to immerse",
+   "foam",
+   "disguise",
+   "commentator"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʃaʊ̯m/",
+  "verified": true
+ },
+ {
+  "id": "de-02844",
+  "category": "german",
+  "prompt": "「Hengst」の意味は？",
+  "answer": "stallion",
+  "glosses": {
+   "en": "stallion",
+   "ja": "雄馬"
+  },
+  "choices": [
+   "to secure",
+   "stallion",
+   "to accuse",
+   "bouquet"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/hɛŋst/",
+  "verified": true
+ },
+ {
+  "id": "de-02845",
+  "category": "german",
+  "prompt": "「Pyramide」の意味は？",
+  "answer": "pyramid",
+  "glosses": {
+   "en": "pyramid",
+   "ja": "ピラミッド"
+  },
+  "choices": [
+   "pyramid",
+   "rag",
+   "bouquet",
+   "device"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pyraˈmiːdə/",
+  "verified": true
+ },
+ {
+  "id": "de-02846",
+  "category": "german",
+  "prompt": "「vorhersagen」の意味は？",
+  "answer": "to forecast",
+  "glosses": {
+   "en": "to forecast",
+   "ja": "予測する"
+  },
+  "choices": [
+   "failure",
+   "to interact",
+   "harp",
+   "to forecast"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "de-02847",
+  "category": "german",
+  "prompt": "「Stoffwechsel」の意味は？",
+  "answer": "metabolism",
+  "glosses": {
+   "en": "metabolism",
+   "ja": "代謝"
+  },
+  "choices": [
+   "legislature",
+   "arrogance",
+   "correlation",
+   "metabolism"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈʃtɔfˌvɛksl̩/",
+  "verified": true
+ },
+ {
+  "id": "de-02848",
+  "category": "german",
+  "prompt": "「Diagramm」の意味は？",
+  "answer": "diagram",
+  "glosses": {
+   "en": "diagram",
+   "ja": "図表"
+  },
+  "choices": [
+   "to rotate",
+   "to adopt",
+   "diagram",
+   "to improvise"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "de-02849",
+  "category": "german",
+  "prompt": "「Ventil」の意味は？",
+  "answer": "valve",
+  "glosses": {
+   "en": "valve",
+   "ja": "バルブ"
+  },
+  "choices": [
+   "device",
+   "sapphire",
+   "valve",
+   "sensitivity"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[vɛnˈtiːl]",
+  "verified": true
+ },
+ {
+  "id": "de-02850",
+  "category": "german",
+  "prompt": "「Allergie」の意味は？",
+  "answer": "allergy",
+  "glosses": {
+   "en": "allergy",
+   "ja": "アレルギー"
+  },
+  "choices": [
+   "cavity",
+   "knob",
+   "allergy",
+   "to rotate"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "de-02851",
+  "category": "german",
+  "prompt": "「Füllung」の意味は？",
+  "answer": "filling",
+  "glosses": {
+   "en": "filling",
+   "ja": "詰め物"
+  },
+  "choices": [
+   "revision",
+   "measuring device",
+   "exotic",
+   "filling"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈfʏlʊŋ/",
+  "verified": true
+ },
+ {
+  "id": "de-02852",
+  "category": "german",
+  "prompt": "「Kommentator」の意味は？",
+  "answer": "commentator",
+  "glosses": {
+   "en": "commentator",
+   "ja": "解説者"
+  },
+  "choices": [
+   "buffer",
+   "detector",
+   "reservation",
+   "commentator"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[kɔmɛnˈtaːtoːɐ̯]",
+  "verified": true
+ },
+ {
+  "id": "de-02853",
+  "category": "german",
+  "prompt": "「Verkleidung」の意味は？",
+  "answer": "disguise",
+  "glosses": {
+   "en": "disguise",
+   "ja": "変装"
+  },
+  "choices": [
+   "menu",
+   "disguise",
+   "sunny",
+   "paradox"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/fɛʁˈklaɪdʊŋ/",
+  "verified": true
+ },
+ {
+  "id": "de-02854",
+  "category": "german",
+  "prompt": "「Paradox」の意味は？",
+  "answer": "paradox",
+  "glosses": {
+   "en": "paradox",
+   "ja": "逆説"
+  },
+  "choices": [
+   "gloomy",
+   "vector",
+   "paradox",
+   "to rotate"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/paʁaˈdɔks/",
+  "verified": true
+ },
+ {
+  "id": "de-02855",
+  "category": "german",
+  "prompt": "「Kantine」の意味は？",
+  "answer": "canteen",
+  "glosses": {
+   "en": "canteen",
+   "ja": "社員食堂"
+  },
+  "choices": [
+   "astronaut",
+   "to conduct",
+   "common room",
+   "canteen"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kanˈtiːnə/",
+  "verified": true
+ },
+ {
+  "id": "de-02856",
+  "category": "german",
+  "prompt": "「Markierung」の意味は？",
+  "answer": "marking",
+  "glosses": {
+   "en": "marking",
+   "ja": "目印"
+  },
+  "choices": [
+   "marking",
+   "torpedo",
+   "filling",
+   "slate"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/maʁˈkiːʁʊŋ/",
+  "verified": true
+ },
+ {
+  "id": "de-02857",
+  "category": "german",
+  "prompt": "「Versetzung」の意味は？",
+  "answer": "transfer",
+  "glosses": {
+   "en": "transfer",
+   "ja": "異動"
+  },
+  "choices": [
+   "nylon",
+   "walnut tree",
+   "transfer",
+   "jerk"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[fɛɐ̯ˈzɛt͡sʊŋ]",
+  "verified": true
+ },
+ {
+  "id": "de-02858",
+  "category": "german",
+  "prompt": "「typischerweise」の意味は？",
+  "answer": "typically",
+  "glosses": {
+   "en": "typically",
+   "ja": "典型的に"
+  },
+  "choices": [
+   "to restore",
+   "typically",
+   "to adopt",
+   "caramel"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "de-02859",
+  "category": "german",
+  "prompt": "「Todesopfer」の意味は？",
+  "answer": "fatality",
+  "glosses": {
+   "en": "fatality",
+   "ja": "死者"
+  },
+  "choices": [
+   "compartment",
+   "yeast",
+   "fatality",
+   "weakness"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "de-02860",
+  "category": "german",
+  "prompt": "「Überarbeitung」の意味は？",
+  "answer": "revision",
+  "glosses": {
+   "en": "revision",
+   "ja": "改訂"
+  },
+  "choices": [
+   "crank",
+   "paradox",
+   "menu",
+   "revision"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/yːbɐˈʔaʁbaɪ̯tʊŋ/",
+  "verified": true
+ },
+ {
+  "id": "de-02861",
+  "category": "german",
+  "prompt": "「Splitter」の意味は？",
+  "answer": "splinter",
+  "glosses": {
+   "en": "splinter",
+   "ja": "破片"
+  },
+  "choices": [
+   "splinter",
+   "pineapple",
+   "to compile",
+   "jerk"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈʃplɪtɐ/",
+  "verified": true
+ },
+ {
+  "id": "de-02862",
+  "category": "german",
+  "prompt": "「Hefe」の意味は？",
+  "answer": "yeast",
+  "glosses": {
+   "en": "yeast",
+   "ja": "酵母"
+  },
+  "choices": [
+   "chord",
+   "pyramid",
+   "yeast",
+   "to dress"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈheːfə/",
+  "verified": true
+ },
+ {
+  "id": "de-02863",
+  "category": "german",
+  "prompt": "「Hamster」の意味は？",
+  "answer": "hamster",
+  "glosses": {
+   "en": "hamster",
+   "ja": "ハムスター"
+  },
+  "choices": [
+   "ruby",
+   "arrogance",
+   "bouquet",
+   "hamster"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈhamstɐ/",
+  "verified": true
+ },
+ {
+  "id": "de-02864",
+  "category": "german",
+  "prompt": "「Schnur」の意味は？",
+  "answer": "cord",
+  "glosses": {
+   "en": "cord",
+   "ja": "ひも"
+  },
+  "choices": [
+   "cord",
+   "device",
+   "arrogance",
+   "to intend"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʃnuːr/",
+  "verified": true
+ },
+ {
+  "id": "de-02865",
+  "category": "german",
+  "prompt": "「Demokrat」の意味は？",
+  "answer": "democrat",
+  "glosses": {
+   "en": "democrat",
+   "ja": "民主主義者"
+  },
+  "choices": [
+   "to restore",
+   "democrat",
+   "noble",
+   "wedge"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/demoˈkʁaːt/",
+  "verified": true
+ },
+ {
+  "id": "de-02866",
+  "category": "german",
+  "prompt": "「Schildkröte」の意味は？",
+  "answer": "turtle",
+  "glosses": {
+   "en": "turtle",
+   "ja": "カメ"
+  },
+  "choices": [
+   "knob",
+   "turtle",
+   "to forecast",
+   "to interact"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈʃɪltˌkʁøːtə/",
+  "verified": true
+ },
+ {
+  "id": "de-02867",
+  "category": "german",
+  "prompt": "「Speisekarte」の意味は？",
+  "answer": "menu",
+  "glosses": {
+   "en": "menu",
+   "ja": "メニュー"
+  },
+  "choices": [
+   "nickname",
+   "menu",
+   "to desire",
+   "walnut tree"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈʃpaɪ̯zəˌkaʁtə]",
+  "verified": true
+ },
+ {
+  "id": "de-02868",
+  "category": "german",
+  "prompt": "「Wohlfahrt」の意味は？",
+  "answer": "welfare",
+  "glosses": {
+   "en": "welfare",
+   "ja": "福祉"
+  },
+  "choices": [
+   "diamond",
+   "vinyl record",
+   "failure",
+   "welfare"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "de-02869",
+  "category": "german",
+  "prompt": "「Köder」の意味は？",
+  "answer": "bait",
+  "glosses": {
+   "en": "bait",
+   "ja": "釣り餌"
+  },
+  "choices": [
+   "frustration",
+   "detector",
+   "jerk",
+   "bait"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈkøːdɐ/",
+  "verified": true
+ },
+ {
+  "id": "de-02870",
+  "category": "german",
+  "prompt": "「Peitsche」の意味は？",
+  "answer": "whip",
+  "glosses": {
+   "en": "whip",
+   "ja": "むち"
+  },
+  "choices": [
+   "correlation",
+   "astronaut",
+   "conducive",
+   "whip"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈpaɪ̯t͡ʃə/",
+  "verified": true
+ },
+ {
+  "id": "de-02871",
+  "category": "german",
+  "prompt": "「Rabe」の意味は？",
+  "answer": "raven",
+  "glosses": {
+   "en": "raven",
+   "ja": "ワタリガラス"
+  },
+  "choices": [
+   "raven",
+   "anomaly",
+   "partial",
+   "leopard"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈʁaːbə/",
+  "verified": true
+ },
+ {
+  "id": "de-02872",
+  "category": "german",
+  "prompt": "「Zeh」の意味は？",
+  "answer": "toe",
+  "glosses": {
+   "en": "toe",
+   "ja": "足の指"
+  },
+  "choices": [
+   "toe",
+   "stepmother",
+   "charcoal",
+   "prediction"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/tseː/",
+  "verified": true
+ },
+ {
+  "id": "de-02873",
+  "category": "german",
+  "prompt": "「bluten」の意味は？",
+  "answer": "to bleed",
+  "glosses": {
+   "en": "to bleed",
+   "ja": "出血する"
+  },
+  "choices": [
+   "attic",
+   "to bleed",
+   "rational",
+   "gloomy"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈbluːtən/",
+  "verified": true
+ },
+ {
+  "id": "de-02874",
+  "category": "german",
+  "prompt": "「Rubin」の意味は？",
+  "answer": "ruby",
+  "glosses": {
+   "en": "ruby",
+   "ja": "ルビー"
+  },
+  "choices": [
+   "crank",
+   "partial",
+   "to stink",
+   "ruby"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʁuˈbiːn/",
+  "verified": true
+ },
+ {
+  "id": "de-02875",
+  "category": "german",
+  "prompt": "「Bösewicht」の意味は？",
+  "answer": "villain",
+  "glosses": {
+   "en": "villain",
+   "ja": "悪者"
+  },
+  "choices": [
+   "villain",
+   "gloomy",
+   "material",
+   "menu"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈbøːzəˌvɪçt/",
+  "verified": true
+ },
+ {
+  "id": "de-02876",
+  "category": "german",
+  "prompt": "「Wirtshaus」の意味は？",
+  "answer": "tavern",
+  "glosses": {
+   "en": "tavern",
+   "ja": "酒場"
+  },
+  "choices": [
+   "susceptible",
+   "tavern",
+   "toe",
+   "raven"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈvɪʁt͡sˌhaʊ̯s/",
+  "verified": true
+ },
+ {
+  "id": "de-02877",
+  "category": "german",
+  "prompt": "「verwirren」の意味は？",
+  "answer": "to confuse",
+  "glosses": {
+   "en": "to confuse",
+   "ja": "混乱させる"
+  },
+  "choices": [
+   "to confuse",
+   "attraction",
+   "failure",
+   "buffer"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/fərˈvɪ.rən/",
+  "verified": true
+ },
+ {
+  "id": "de-02878",
+  "category": "german",
+  "prompt": "「Dachgeschoss」の意味は？",
+  "answer": "attic",
+  "glosses": {
+   "en": "attic",
+   "ja": "屋根裏"
+  },
+  "choices": [
+   "trillion",
+   "attic",
+   "mummy",
+   "rag"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈdaxɡəˌʃɔs/",
+  "verified": true
+ },
+ {
+  "id": "de-02879",
+  "category": "german",
+  "prompt": "「Misserfolg」の意味は？",
+  "answer": "failure",
+  "glosses": {
+   "en": "failure",
+   "ja": "失敗"
+  },
+  "choices": [
+   "splinter",
+   "allergy",
+   "mummy",
+   "failure"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈmɪs.ɛʁˌfɔlk]",
+  "verified": true
+ },
+ {
+  "id": "de-02880",
+  "category": "german",
+  "prompt": "「Konsulat」の意味は？",
+  "answer": "consulate",
+  "glosses": {
+   "en": "consulate",
+   "ja": "領事館"
+  },
+  "choices": [
+   "to interact",
+   "consulate",
+   "membrane",
+   "canteen"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˌkɔnzuˈlaːt/",
+  "verified": true
+ },
+ {
+  "id": "de-02881",
+  "category": "german",
+  "prompt": "「Reservierung」の意味は？",
+  "answer": "reservation",
+  "glosses": {
+   "en": "reservation",
+   "ja": "予約"
+  },
+  "choices": [
+   "to chat",
+   "canteen",
+   "reservation",
+   "sensitivity"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "de-02882",
+  "category": "german",
+  "prompt": "「Vorhersage」の意味は？",
+  "answer": "prediction",
+  "glosses": {
+   "en": "prediction",
+   "ja": "予測"
+  },
+  "choices": [
+   "ivory",
+   "tar",
+   "prediction",
+   "risotto"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/foːrˈheːrˌzaːɡə/",
+  "verified": true
+ },
+ {
+  "id": "de-02883",
+  "category": "german",
+  "prompt": "「Stimmzettel」の意味は？",
+  "answer": "ballot",
+  "glosses": {
+   "en": "ballot",
+   "ja": "投票用紙"
+  },
+  "choices": [
+   "shelter",
+   "marking",
+   "ballot",
+   "lawful"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈʃtɪmˌt͡sɛtl̩/",
+  "verified": true
+ },
+ {
+  "id": "de-02884",
+  "category": "german",
+  "prompt": "「Sünder」の意味は？",
+  "answer": "sinner",
+  "glosses": {
+   "en": "sinner",
+   "ja": "罪人"
+  },
+  "choices": [
+   "ballot",
+   "to improvise",
+   "sinner",
+   "squad"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈzʏndɐ/",
+  "verified": true
+ },
+ {
+  "id": "de-02885",
+  "category": "german",
+  "prompt": "「sonnig」の意味は？",
+  "answer": "sunny",
+  "glosses": {
+   "en": "sunny",
+   "ja": "日当たりのよい"
+  },
+  "choices": [
+   "sunny",
+   "squad",
+   "canteen",
+   "slate"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈzɔnɪç/",
+  "verified": true
+ },
+ {
+  "id": "de-02886",
+  "category": "german",
+  "prompt": "「Korrelation」の意味は？",
+  "answer": "correlation",
+  "glosses": {
+   "en": "correlation",
+   "ja": "相関"
+  },
+  "choices": [
+   "nylon",
+   "pineapple",
+   "crust",
+   "correlation"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kɔʁelaˈt͡si̯oːn/",
+  "verified": true
+ },
+ {
+  "id": "de-02887",
+  "category": "german",
+  "prompt": "「Geflügel」の意味は？",
+  "answer": "poultry",
+  "glosses": {
+   "en": "poultry",
+   "ja": "鶏肉"
+  },
+  "choices": [
+   "poultry",
+   "ballot",
+   "chord",
+   "caramel"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɡəˈflyːɡəl/",
+  "verified": true
+ },
+ {
+  "id": "de-02888",
+  "category": "german",
+  "prompt": "「Spitzname」の意味は？",
+  "answer": "nickname",
+  "glosses": {
+   "en": "nickname",
+   "ja": "あだ名"
+  },
+  "choices": [
+   "to secure",
+   "fatality",
+   "serum",
+   "nickname"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈʃpɪt͡sˌnaːmə]",
+  "verified": true
+ },
+ {
+  "id": "de-02889",
+  "category": "german",
+  "prompt": "「Menschenmenge」の意味は？",
+  "answer": "crowd",
+  "glosses": {
+   "en": "crowd",
+   "ja": "群衆"
+  },
+  "choices": [
+   "buffer",
+   "device",
+   "vinyl record",
+   "crowd"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈmɛnʃn̩ˌmɛŋə/",
+  "verified": true
+ },
+ {
+  "id": "de-02890",
+  "category": "german",
+  "prompt": "「Serum」の意味は？",
+  "answer": "serum",
+  "glosses": {
+   "en": "serum",
+   "ja": "血清"
+  },
+  "choices": [
+   "legislature",
+   "bouquet",
+   "serum",
+   "bait"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈzeːʁʊm/",
+  "verified": true
+ },
+ {
+  "id": "de-02891",
+  "category": "german",
+  "prompt": "「Nylon」の意味は？",
+  "answer": "nylon",
+  "glosses": {
+   "en": "nylon",
+   "ja": "ナイロン"
+  },
+  "choices": [
+   "to forecast",
+   "jerk",
+   "raven",
+   "nylon"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈnaɪ̯lɔn/",
+  "verified": true
+ },
+ {
+  "id": "de-02892",
+  "category": "german",
+  "prompt": "「Astronaut」の意味は？",
+  "answer": "astronaut",
+  "glosses": {
+   "en": "astronaut",
+   "ja": "宇宙飛行士"
+  },
+  "choices": [
+   "chord",
+   "to rotate",
+   "marking",
+   "astronaut"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˌas.tʁoˈnaʊ̯t/",
+  "verified": true
+ },
+ {
+  "id": "de-02893",
+  "category": "german",
+  "prompt": "「Legislative」の意味は？",
+  "answer": "legislature",
+  "glosses": {
+   "en": "legislature",
+   "ja": "立法府"
+  },
+  "choices": [
+   "walnut tree",
+   "transparent",
+   "legislature",
+   "shelter"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/leɡɪslaˈtiːvə/",
+  "verified": true
+ },
+ {
+  "id": "de-02894",
+  "category": "german",
+  "prompt": "「Leopard」の意味は？",
+  "answer": "leopard",
+  "glosses": {
+   "en": "leopard",
+   "ja": "ヒョウ"
+  },
+  "choices": [
+   "leopard",
+   "veteran",
+   "device",
+   "attic"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/leoˈpaʁt/",
+  "verified": true
+ },
+ {
+  "id": "de-02895",
+  "category": "german",
+  "prompt": "「Paste」の意味は？",
+  "answer": "paste",
+  "glosses": {
+   "en": "paste",
+   "ja": "ペースト"
+  },
+  "choices": [
+   "paste",
+   "constipation",
+   "crowd",
+   "to improvise"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈpastə/",
+  "verified": true
+ },
+ {
+  "id": "de-02896",
+  "category": "german",
+  "prompt": "「Puffer」の意味は？",
+  "answer": "buffer",
+  "glosses": {
+   "en": "buffer",
+   "ja": "緩衝器"
+  },
+  "choices": [
+   "lobster",
+   "buffer",
+   "device",
+   "arrogance"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈpʊfɐ/",
+  "verified": true
+ },
+ {
+  "id": "de-02897",
+  "category": "german",
+  "prompt": "「schmackhaft」の意味は？",
+  "answer": "tasty",
+  "glosses": {
+   "en": "tasty",
+   "ja": "風味のよい"
+  },
+  "choices": [
+   "partial",
+   "witchcraft",
+   "tasty",
+   "noble"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "de-02898",
+  "category": "german",
+  "prompt": "「finster」の意味は？",
+  "answer": "gloomy",
+  "glosses": {
+   "en": "gloomy",
+   "ja": "陰気な"
+  },
+  "choices": [
+   "to package",
+   "gloomy",
+   "unwell",
+   "charcoal"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈfɪnstɐ/",
+  "verified": true
+ },
+ {
+  "id": "de-02899",
+  "category": "german",
+  "prompt": "「Elfenbein」の意味は？",
+  "answer": "ivory",
+  "glosses": {
+   "en": "ivory",
+   "ja": "象牙"
+  },
+  "choices": [
+   "ivory",
+   "typically",
+   "indifferent",
+   "reservation"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈɛl.fənˌbaɪ̯n/",
+  "verified": true
+ },
+ {
+  "id": "de-02900",
+  "category": "german",
+  "prompt": "「Harfe」の意味は？",
+  "answer": "harp",
+  "glosses": {
+   "en": "harp",
+   "ja": "ハープ"
+  },
+  "choices": [
+   "harp",
+   "to adopt",
+   "paste",
+   "reservation"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈharfə/",
+  "verified": true
+ },
+ {
+  "id": "de-02901",
+  "category": "german",
+  "prompt": "「Lumpen」の意味は？",
+  "answer": "rag",
+  "glosses": {
+   "en": "rag",
+   "ja": "布切れ"
+  },
+  "choices": [
+   "fatality",
+   "rag",
+   "turtle",
+   "typically"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈlʊmpən/",
+  "verified": true
+ },
+ {
+  "id": "de-02902",
+  "category": "german",
+  "prompt": "「Trupp」の意味は？",
+  "answer": "squad",
+  "glosses": {
+   "en": "squad",
+   "ja": "一団"
+  },
+  "choices": [
+   "peach",
+   "squad",
+   "canteen",
+   "susceptible"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/tʁʊp/",
+  "verified": true
+ },
+ {
+  "id": "de-02903",
+  "category": "german",
+  "prompt": "「Tablette」の意味は？",
+  "answer": "tablet",
+  "glosses": {
+   "en": "tablet",
+   "ja": "錠剤"
+  },
+  "choices": [
+   "peach",
+   "detector",
+   "tablet",
+   "contemporary"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "de-02904",
+  "category": "german",
+  "prompt": "「adoptieren」の意味は？",
+  "answer": "to adopt",
+  "glosses": {
+   "en": "to adopt",
+   "ja": "養子にする"
+  },
+  "choices": [
+   "to adopt",
+   "revision",
+   "disguise",
+   "attic"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[adɔpˈtiːʁən]",
+  "verified": true
+ },
+ {
+  "id": "de-02905",
+  "category": "german",
+  "prompt": "「Unsterblichkeit」の意味は？",
+  "answer": "immortality",
+  "glosses": {
+   "en": "immortality",
+   "ja": "不死"
+  },
+  "choices": [
+   "spleen",
+   "stepmother",
+   "whip",
+   "immortality"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʊnˈʃtɛʁplɪçkaɪ̯t/",
+  "verified": true
+ },
+ {
+  "id": "de-02906",
+  "category": "german",
+  "prompt": "「Anomalie」の意味は？",
+  "answer": "anomaly",
+  "glosses": {
+   "en": "anomaly",
+   "ja": "異常"
+  },
+  "choices": [
+   "dent",
+   "anomaly",
+   "allergy",
+   "material"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/anomaˈliː/",
+  "verified": true
+ },
+ {
+  "id": "de-02907",
+  "category": "german",
+  "prompt": "「Untergeschoss」の意味は？",
+  "answer": "basement",
+  "glosses": {
+   "en": "basement",
+   "ja": "地下階"
+  },
+  "choices": [
+   "wedge",
+   "challenger",
+   "basement",
+   "to immerse"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈʊntɐɡəˌʃɔs/",
+  "verified": true
+ },
+ {
+  "id": "de-02908",
+  "category": "german",
+  "prompt": "「behaart」の意味は？",
+  "answer": "hairy",
+  "glosses": {
+   "en": "hairy",
+   "ja": "毛深い"
+  },
+  "choices": [
+   "disguise",
+   "hairy",
+   "to rotate",
+   "splinter"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bəˈhaːrt/",
+  "verified": true
+ },
+ {
+  "id": "de-02909",
+  "category": "german",
+  "prompt": "「Säugling」の意味は？",
+  "answer": "infant",
+  "glosses": {
+   "en": "infant",
+   "ja": "乳児"
+  },
+  "choices": [
+   "infant",
+   "buffer",
+   "conducive",
+   "caramel"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈzɔʏ̯klɪŋ]",
+  "verified": true
+ },
+ {
+  "id": "de-02910",
+  "category": "german",
+  "prompt": "「interagieren」の意味は？",
+  "answer": "to interact",
+  "glosses": {
+   "en": "to interact",
+   "ja": "相互作用する"
+  },
+  "choices": [
+   "shelter",
+   "toe",
+   "to interact",
+   "to conduct"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "de-02911",
+  "category": "german",
+  "prompt": "「Membran」の意味は？",
+  "answer": "membrane",
+  "glosses": {
+   "en": "membrane",
+   "ja": "膜"
+  },
+  "choices": [
+   "cord",
+   "to restore",
+   "membrane",
+   "notch"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mɛmˈbʁaːn/",
+  "verified": true
+ },
+ {
+  "id": "de-02912",
+  "category": "german",
+  "prompt": "「eintauchen」の意味は？",
+  "answer": "to immerse",
+  "glosses": {
+   "en": "to immerse",
+   "ja": "浸す"
+  },
+  "choices": [
+   "to package",
+   "spleen",
+   "to immerse",
+   "susceptible"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈaɪ̯nˌtaʊ̯xən/",
+  "verified": true
+ },
+ {
+  "id": "de-02913",
+  "category": "german",
+  "prompt": "「Hüter」の意味は？",
+  "answer": "keeper",
+  "glosses": {
+   "en": "keeper",
+   "ja": "番人"
+  },
+  "choices": [
+   "keeper",
+   "legislature",
+   "foam",
+   "to harass"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈhyːtɐ/",
+  "verified": true
+ },
+ {
+  "id": "de-02914",
+  "category": "german",
+  "prompt": "「Hummer」の意味は？",
+  "answer": "lobster",
+  "glosses": {
+   "en": "lobster",
+   "ja": "ロブスター"
+  },
+  "choices": [
+   "bookkeeper",
+   "sinner",
+   "lobster",
+   "correlation"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈhʊmɐ/",
+  "verified": true
+ },
+ {
+  "id": "de-02915",
+  "category": "german",
+  "prompt": "「Natrium」の意味は？",
+  "answer": "sodium",
+  "glosses": {
+   "en": "sodium",
+   "ja": "ナトリウム"
+  },
+  "choices": [
+   "whip",
+   "commentator",
+   "sodium",
+   "to confuse"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈnaːtʁi̯ʊm/",
+  "verified": true
+ },
+ {
+  "id": "de-02916",
+  "category": "german",
+  "prompt": "「Neon」の意味は？",
+  "answer": "neon",
+  "glosses": {
+   "en": "neon",
+   "ja": "ネオン"
+  },
+  "choices": [
+   "neon",
+   "walnut tree",
+   "bowel movement",
+   "susceptible"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈneːɔn/",
+  "verified": true
+ },
+ {
+  "id": "de-02917",
+  "category": "german",
+  "prompt": "「Nussbaum」の意味は？",
+  "answer": "walnut tree",
+  "glosses": {
+   "en": "walnut tree",
+   "ja": "クルミの木"
+  },
+  "choices": [
+   "to immerse",
+   "fatality",
+   "walnut tree",
+   "valve"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈnʊsˌbaʊ̯m/",
+  "verified": true
+ },
+ {
+  "id": "de-02918",
+  "category": "german",
+  "prompt": "「Schwachstelle」の意味は？",
+  "answer": "weakness",
+  "glosses": {
+   "en": "weakness",
+   "ja": "弱点"
+  },
+  "choices": [
+   "compartment",
+   "villain",
+   "weakness",
+   "reservation"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈʃvaxˌʃtɛlə/",
+  "verified": true
+ },
+ {
+  "id": "de-02919",
+  "category": "german",
+  "prompt": "「Substantiv」の意味は？",
+  "answer": "noun",
+  "glosses": {
+   "en": "noun",
+   "ja": "名詞"
+  },
+  "choices": [
+   "poultry",
+   "menu",
+   "noun",
+   "deviation"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈzʊpstantiːf/",
+  "verified": true
+ },
+ {
+  "id": "de-02920",
+  "category": "german",
+  "prompt": "「Kruste」の意味は？",
+  "answer": "crust",
+  "glosses": {
+   "en": "crust",
+   "ja": "パンの皮"
+  },
+  "choices": [
+   "neon",
+   "crust",
+   "marking",
+   "to chat"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈkʁʊstə/",
+  "verified": true
+ },
+ {
+  "id": "de-02921",
+  "category": "german",
+  "prompt": "「Milz」の意味は？",
+  "answer": "spleen",
+  "glosses": {
+   "en": "spleen",
+   "ja": "脾臓"
+  },
+  "choices": [
+   "shelter",
+   "ecstasy",
+   "conducive",
+   "spleen"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mɪl(t)s/",
+  "verified": true
+ },
+ {
+  "id": "de-02922",
+  "category": "german",
+  "prompt": "「Pfirsich」の意味は？",
+  "answer": "peach",
+  "glosses": {
+   "en": "peach",
+   "ja": "モモ"
+  },
+  "choices": [
+   "to harass",
+   "peach",
+   "legislature",
+   "artifact"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈp͡fɪʁzɪç/",
+  "verified": true
+ },
+ {
+  "id": "de-02923",
+  "category": "german",
+  "prompt": "「Vektor」の意味は？",
+  "answer": "vector",
+  "glosses": {
+   "en": "vector",
+   "ja": "ベクトル"
+  },
+  "choices": [
+   "to package",
+   "frustration",
+   "vector",
+   "tar"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈvɛktoːɐ̯]",
+  "verified": true
+ },
+ {
+  "id": "de-02924",
+  "category": "german",
+  "prompt": "「Stiefmutter」の意味は？",
+  "answer": "stepmother",
+  "glosses": {
+   "en": "stepmother",
+   "ja": "継母"
+  },
+  "choices": [
+   "partial",
+   "stepmother",
+   "hamster",
+   "fatality"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈʃtiːfˌmʊtʰɐ/",
+  "verified": true
+ },
+ {
+  "id": "de-02925",
+  "category": "german",
+  "prompt": "「durchsichtig」の意味は？",
+  "answer": "transparent",
+  "glosses": {
+   "en": "transparent",
+   "ja": "透明な"
+  },
+  "choices": [
+   "whip",
+   "exotic",
+   "disguise",
+   "transparent"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈdʊʁçˌzɪçtɪç/",
+  "verified": true
+ },
+ {
+  "id": "de-02926",
+  "category": "german",
+  "prompt": "「Konsument」の意味は？",
+  "answer": "consumer",
+  "glosses": {
+   "en": "consumer",
+   "ja": "消費者"
+  },
+  "choices": [
+   "consumer",
+   "keeper",
+   "to intend",
+   "paradox"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kɔnzuˈmɛnt/",
+  "verified": true
+ },
+ {
+  "id": "de-02927",
+  "category": "german",
+  "prompt": "「beschuldigen」の意味は？",
+  "answer": "to accuse",
+  "glosses": {
+   "en": "to accuse",
+   "ja": "非難する"
+  },
+  "choices": [
+   "splinter",
+   "veteran",
+   "to accuse",
+   "ruby"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bəˈʃʊldiɡən/",
+  "verified": true
+ },
+ {
+  "id": "de-02928",
+  "category": "german",
+  "prompt": "「Abonnement」の意味は？",
+  "answer": "subscription",
+  "glosses": {
+   "en": "subscription",
+   "ja": "定期購読"
+  },
+  "choices": [
+   "cord",
+   "subscription",
+   "to chat",
+   "raven"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[abɔnəˈmɑ̃ː]",
+  "verified": true
+ },
+ {
+  "id": "de-02929",
+  "category": "german",
+  "prompt": "「Schallplatte」の意味は？",
+  "answer": "vinyl record",
+  "glosses": {
+   "en": "vinyl record",
+   "ja": "レコード"
+  },
+  "choices": [
+   "vinyl record",
+   "mummy",
+   "to package",
+   "dent"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈʃalˌplatə/",
+  "verified": true
+ },
+ {
+  "id": "de-02930",
+  "category": "german",
+  "prompt": "「Blumenstrauß」の意味は？",
+  "answer": "bouquet",
+  "glosses": {
+   "en": "bouquet",
+   "ja": "花束"
+  },
+  "choices": [
+   "trivial",
+   "bouquet",
+   "ecstasy",
+   "vector"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈbluːmənʃtraʊ̯s/",
+  "verified": true
+ },
+ {
+  "id": "de-02931",
+  "category": "german",
+  "prompt": "「Vorrichtung」の意味は？",
+  "answer": "device",
+  "glosses": {
+   "en": "device",
+   "ja": "仕掛け"
+  },
+  "choices": [
+   "device",
+   "turtle",
+   "to bomb",
+   "to restore"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈfoːɐ̯ˌʁɪçtʊŋ/",
+  "verified": true
+ },
+ {
+  "id": "de-02932",
+  "category": "german",
+  "prompt": "「Frustration」の意味は？",
+  "answer": "frustration",
+  "glosses": {
+   "en": "frustration",
+   "ja": "欲求不満"
+  },
+  "choices": [
+   "crank",
+   "frustration",
+   "leopard",
+   "sinner"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/fʁʊs.tʁaˈt͡si̯oːn/",
+  "verified": true
+ },
+ {
+  "id": "de-02933",
+  "category": "german",
+  "prompt": "「Empfindlichkeit」の意味は？",
+  "answer": "sensitivity",
+  "glosses": {
+   "en": "sensitivity",
+   "ja": "敏感さ"
+  },
+  "choices": [
+   "correlation",
+   "whip",
+   "nickname",
+   "sensitivity"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ɛmˈp͡fɪntlɪçkaɪ̯t]",
+  "verified": true
+ },
+ {
+  "id": "de-02934",
+  "category": "german",
+  "prompt": "「Papierkram」の意味は？",
+  "answer": "paperwork",
+  "glosses": {
+   "en": "paperwork",
+   "ja": "書類仕事"
+  },
+  "choices": [
+   "stallion",
+   "harp",
+   "squad",
+   "paperwork"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/paˈpiːɐ̯kʁaːm/",
+  "verified": true
+ },
+ {
+  "id": "de-02935",
+  "category": "german",
+  "prompt": "「Herausforderer」の意味は？",
+  "answer": "challenger",
+  "glosses": {
+   "en": "challenger",
+   "ja": "挑戦者"
+  },
+  "choices": [
+   "bookkeeper",
+   "challenger",
+   "walnut tree",
+   "noun"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/hɛˈʁaʊ̯sˌfɔʁdəʁɐ/",
+  "verified": true
+ },
+ {
+  "id": "de-02936",
+  "category": "german",
+  "prompt": "「Ekstase」の意味は？",
+  "answer": "ecstasy",
+  "glosses": {
+   "en": "ecstasy",
+   "ja": "恍惚"
+  },
+  "choices": [
+   "to intend",
+   "accuser",
+   "ecstasy",
+   "sunny"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "de-02937",
+  "category": "german",
+  "prompt": "「Veteran」の意味は？",
+  "answer": "veteran",
+  "glosses": {
+   "en": "veteran",
+   "ja": "退役軍人"
+  },
+  "choices": [
+   "transparent",
+   "decoration",
+   "veteran",
+   "pineapple"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/veteˈʁaːn/",
+  "verified": true
+ },
+ {
+  "id": "de-02938",
+  "category": "german",
+  "prompt": "「Stuhlgang」の意味は？",
+  "answer": "bowel movement",
+  "glosses": {
+   "en": "bowel movement",
+   "ja": "排便"
+  },
+  "choices": [
+   "to forecast",
+   "bowel movement",
+   "crust",
+   "paste"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈʃtuːlɡaŋ/",
+  "verified": true
+ },
+ {
+  "id": "de-02939",
+  "category": "german",
+  "prompt": "「Pflaume」の意味は？",
+  "answer": "plum",
+  "glosses": {
+   "en": "plum",
+   "ja": "プラム"
+  },
+  "choices": [
+   "lobster",
+   "plum",
+   "frustration",
+   "to include"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈpflaʊ̯mə/",
+  "verified": true
+ },
+ {
+  "id": "de-02940",
+  "category": "german",
+  "prompt": "「Flicken」の意味は？",
+  "answer": "patch",
+  "glosses": {
+   "en": "patch",
+   "ja": "当て布"
+  },
+  "choices": [
+   "patch",
+   "democrat",
+   "paste",
+   "infant"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "de-02941",
+  "category": "german",
+  "prompt": "「Mumie」の意味は？",
+  "answer": "mummy",
+  "glosses": {
+   "en": "mummy",
+   "ja": "ミイラ"
+  },
+  "choices": [
+   "trillion",
+   "mummy",
+   "ivory",
+   "notch"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈmuːmi̯ə/",
+  "verified": true
+ },
+ {
+  "id": "de-02942",
+  "category": "german",
+  "prompt": "「Holzkohle」の意味は？",
+  "answer": "charcoal",
+  "glosses": {
+   "en": "charcoal",
+   "ja": "炭"
+  },
+  "choices": [
+   "villain",
+   "charcoal",
+   "sodium",
+   "rag"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈhɔlt͡sˌkoːlə/",
+  "verified": true
+ },
+ {
+  "id": "de-02943",
+  "category": "german",
+  "prompt": "「Zeitgenosse」の意味は？",
+  "answer": "contemporary",
+  "glosses": {
+   "en": "contemporary",
+   "ja": "同時代人"
+  },
+  "choices": [
+   "raven",
+   "sodium",
+   "contemporary",
+   "gloomy"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "de-02944",
+  "category": "german",
+  "prompt": "「Ankläger」の意味は？",
+  "answer": "accuser",
+  "glosses": {
+   "en": "accuser",
+   "ja": "告発者"
+  },
+  "choices": [
+   "accuser",
+   "transparent",
+   "weakness",
+   "reservation"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈanˌklɛːɡɐ/",
+  "verified": true
+ },
+ {
+  "id": "de-02945",
+  "category": "german",
+  "prompt": "「Anziehung」の意味は？",
+  "answer": "attraction",
+  "glosses": {
+   "en": "attraction",
+   "ja": "引力"
+  },
+  "choices": [
+   "vector",
+   "constipation",
+   "partial",
+   "attraction"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "de-02946",
+  "category": "german",
+  "prompt": "「trivial」の意味は？",
+  "answer": "trivial",
+  "glosses": {
+   "en": "trivial",
+   "ja": "ささいな"
+  },
+  "choices": [
+   "vinyl record",
+   "harp",
+   "trivial",
+   "stepmother"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/tʁiviˈaːl/",
+  "verified": true
+ },
+ {
+  "id": "de-02947",
+  "category": "german",
+  "prompt": "「Torpedo」の意味は？",
+  "answer": "torpedo",
+  "glosses": {
+   "en": "torpedo",
+   "ja": "魚雷"
+  },
+  "choices": [
+   "foam",
+   "torpedo",
+   "crust",
+   "paste"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/tɔʁˈpeːdo/",
+  "verified": true
+ },
+ {
+  "id": "de-02948",
+  "category": "german",
+  "prompt": "「Zufluchtsort」の意味は？",
+  "answer": "shelter",
+  "glosses": {
+   "en": "shelter",
+   "ja": "避難所"
+  },
+  "choices": [
+   "risotto",
+   "allergy",
+   "poultry",
+   "shelter"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈt͡suːflʊxt͡sˌʔɔʁt]",
+  "verified": true
+ },
+ {
+  "id": "de-02949",
+  "category": "german",
+  "prompt": "「Knauf」の意味は？",
+  "answer": "knob",
+  "glosses": {
+   "en": "knob",
+   "ja": "ノブ"
+  },
+  "choices": [
+   "neon",
+   "detector",
+   "knob",
+   "sensitivity"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/knaʊ̯f/",
+  "verified": true
+ },
+ {
+  "id": "de-02950",
+  "category": "german",
+  "prompt": "「Puder」の意味は？",
+  "answer": "face powder",
+  "glosses": {
+   "en": "face powder",
+   "ja": "おしろい"
+  },
+  "choices": [
+   "transparent",
+   "weakness",
+   "face powder",
+   "neon"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈpuːdɐ/",
+  "verified": true
+ },
+ {
+  "id": "de-02951",
+  "category": "german",
+  "prompt": "「Teer」の意味は？",
+  "answer": "tar",
+  "glosses": {
+   "en": "tar",
+   "ja": "タール"
+  },
+  "choices": [
+   "tar",
+   "combustion",
+   "cashier",
+   "noble"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/teːɐ̯/",
+  "verified": true
+ },
+ {
+  "id": "de-02952",
+  "category": "german",
+  "prompt": "「Artefakt」の意味は？",
+  "answer": "artifact",
+  "glosses": {
+   "en": "artifact",
+   "ja": "人工物"
+  },
+  "choices": [
+   "artifact",
+   "witchcraft",
+   "contemporary",
+   "diamond"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/aʁtəˈfakt/",
+  "verified": true
+ },
+ {
+  "id": "de-02953",
+  "category": "german",
+  "prompt": "「partiell」の意味は？",
+  "answer": "partial",
+  "glosses": {
+   "en": "partial",
+   "ja": "部分的な"
+  },
+  "choices": [
+   "to secure",
+   "partial",
+   "to intend",
+   "vinyl record"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/paʁˈt͡si̯ɛl/",
+  "verified": true
+ },
+ {
+  "id": "de-02954",
+  "category": "german",
+  "prompt": "「restaurieren」の意味は？",
+  "answer": "to restore",
+  "glosses": {
+   "en": "to restore",
+   "ja": "修復する"
+  },
+  "choices": [
+   "lawful",
+   "trillion",
+   "compatibility",
+   "to restore"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʁestaʊ̯ˈʁiːʁən/",
+  "verified": true
+ },
+ {
+  "id": "de-02955",
+  "category": "german",
+  "prompt": "「Kompatibilität」の意味は？",
+  "answer": "compatibility",
+  "glosses": {
+   "en": "compatibility",
+   "ja": "互換性"
+  },
+  "choices": [
+   "trivial",
+   "revision",
+   "compatibility",
+   "sinner"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kɔmpatibiliˈtɛːt/",
+  "verified": true
+ },
+ {
+  "id": "de-02956",
+  "category": "german",
+  "prompt": "「Karamell」の意味は？",
+  "answer": "caramel",
+  "glosses": {
+   "en": "caramel",
+   "ja": "キャラメル"
+  },
+  "choices": [
+   "dent",
+   "legislature",
+   "caramel",
+   "yeast"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kaʁaˈmɛl/",
+  "verified": true
+ },
+ {
+  "id": "de-02957",
+  "category": "german",
+  "prompt": "「rotieren」の意味は？",
+  "answer": "to rotate",
+  "glosses": {
+   "en": "to rotate",
+   "ja": "回転する"
+  },
+  "choices": [
+   "paperwork",
+   "to rotate",
+   "to confuse",
+   "torpedo"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʁoˈtiːʁən/",
+  "verified": true
+ },
+ {
+  "id": "de-02958",
+  "category": "german",
+  "prompt": "「Kurbel」の意味は？",
+  "answer": "crank",
+  "glosses": {
+   "en": "crank",
+   "ja": "クランク"
+  },
+  "choices": [
+   "spleen",
+   "crust",
+   "crank",
+   "lobster"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "de-02959",
+  "category": "german",
+  "prompt": "「Detektor」の意味は？",
+  "answer": "detector",
+  "glosses": {
+   "en": "detector",
+   "ja": "探知器"
+  },
+  "choices": [
+   "detector",
+   "sensitivity",
+   "to bleed",
+   "dent"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "de-02960",
+  "category": "german",
+  "prompt": "「Aufenthaltsraum」の意味は？",
+  "answer": "common room",
+  "glosses": {
+   "en": "common room",
+   "ja": "談話室"
+  },
+  "choices": [
+   "to bomb",
+   "common room",
+   "arrogance",
+   "democrat"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈaʊ̯fʔɛnthalt͡sˌʁaʊ̯m]",
+  "verified": true
+ },
+ {
+  "id": "de-02961",
+  "category": "german",
+  "prompt": "「Hohlraum」の意味は？",
+  "answer": "cavity",
+  "glosses": {
+   "en": "cavity",
+   "ja": "空洞"
+  },
+  "choices": [
+   "serum",
+   "cavity",
+   "bee",
+   "deviation"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈhoːlˌʁaʊ̯m/",
+  "verified": true
+ },
+ {
+  "id": "de-02962",
+  "category": "german",
+  "prompt": "「Messgerät」の意味は？",
+  "answer": "measuring device",
+  "glosses": {
+   "en": "measuring device",
+   "ja": "測定器"
+  },
+  "choices": [
+   "nylon",
+   "measuring device",
+   "tavern",
+   "material"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈmɛsɡəˌʁɛːt]",
+  "verified": true
+ },
+ {
+  "id": "de-02963",
+  "category": "german",
+  "prompt": "「Stoßstange」の意味は？",
+  "answer": "bumper",
+  "glosses": {
+   "en": "bumper",
+   "ja": "バンパー"
+  },
+  "choices": [
+   "stallion",
+   "attraction",
+   "bumper",
+   "raven"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈʃtoːsˌʃtaŋə/",
+  "verified": true
+ },
+ {
+  "id": "de-02964",
+  "category": "german",
+  "prompt": "「Risotto」の意味は？",
+  "answer": "risotto",
+  "glosses": {
+   "en": "risotto",
+   "ja": "リゾット"
+  },
+  "choices": [
+   "accuser",
+   "astronaut",
+   "buffer",
+   "risotto"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "de-02965",
+  "category": "german",
+  "prompt": "「Foyer」の意味は？",
+  "answer": "lobby",
+  "glosses": {
+   "en": "lobby",
+   "ja": "ロビー"
+  },
+  "choices": [
+   "indifferent",
+   "lobby",
+   "failure",
+   "stepmother"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/fo̯aˈjeː/",
+  "verified": true
+ },
+ {
+  "id": "de-02966",
+  "category": "german",
+  "prompt": "「Abweichung」の意味は？",
+  "answer": "deviation",
+  "glosses": {
+   "en": "deviation",
+   "ja": "逸脱"
+  },
+  "choices": [
+   "deviation",
+   "buffer",
+   "reservation",
+   "combustion"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈapˌvaɪ̯çʊŋ/",
+  "verified": true
+ },
+ {
+  "id": "de-02967",
+  "category": "german",
+  "prompt": "「Ruck」の意味は？",
+  "answer": "jerk",
+  "glosses": {
+   "en": "jerk",
+   "ja": "急な動き"
+  },
+  "choices": [
+   "to desire",
+   "nickname",
+   "democrat",
+   "jerk"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʁʊk/",
+  "verified": true
+ },
+ {
+  "id": "de-02968",
+  "category": "german",
+  "prompt": "「belästigen」の意味は？",
+  "answer": "to harass",
+  "glosses": {
+   "en": "to harass",
+   "ja": "嫌がらせをする"
+  },
+  "choices": [
+   "jerk",
+   "to harass",
+   "attraction",
+   "anomaly"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bəˈlɛstɪɡn̩/",
+  "verified": true
+ },
+ {
+  "id": "de-02969",
+  "category": "german",
+  "prompt": "「Verbrennung」の意味は？",
+  "answer": "combustion",
+  "glosses": {
+   "en": "combustion",
+   "ja": "燃焼"
+  },
+  "choices": [
+   "paradox",
+   "fatality",
+   "face powder",
+   "combustion"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/fɛɐ̯ˈbʁɛnʊŋ/",
+  "verified": true
+ },
+ {
+  "id": "de-02970",
+  "category": "german",
+  "prompt": "「anfällig」の意味は？",
+  "answer": "susceptible",
+  "glosses": {
+   "en": "susceptible",
+   "ja": "かかりやすい"
+  },
+  "choices": [
+   "to restore",
+   "susceptible",
+   "oath",
+   "consulate"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈanfɛlɪç/",
+  "verified": true
+ },
+ {
+  "id": "de-02971",
+  "category": "german",
+  "prompt": "「Schiefer」の意味は？",
+  "answer": "slate",
+  "glosses": {
+   "en": "slate",
+   "ja": "スレート"
+  },
+  "choices": [
+   "poultry",
+   "slate",
+   "mummy",
+   "ivory"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈʃiːfɐ/",
+  "verified": true
+ },
+ {
+  "id": "de-02972",
+  "category": "german",
+  "prompt": "「plaudern」の意味は？",
+  "answer": "to chat",
+  "glosses": {
+   "en": "to chat",
+   "ja": "おしゃべりする"
+  },
+  "choices": [
+   "to chat",
+   "subscription",
+   "to include",
+   "shelter"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈplaʊ̯dəʁn/",
+  "verified": true
+ },
+ {
+  "id": "de-02973",
+  "category": "german",
+  "prompt": "「verpacken」の意味は？",
+  "answer": "to package",
+  "glosses": {
+   "en": "to package",
+   "ja": "梱包する"
+  },
+  "choices": [
+   "astronaut",
+   "tar",
+   "to package",
+   "notch"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/fɛʁˈpakən/",
+  "verified": true
+ },
+ {
+  "id": "de-02974",
+  "category": "german",
+  "prompt": "「kleiden」の意味は？",
+  "answer": "to dress",
+  "glosses": {
+   "en": "to dress",
+   "ja": "服を着せる"
+  },
+  "choices": [
+   "to dress",
+   "walnut tree",
+   "cashier",
+   "welfare"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈklaɪ̯dn̩]",
+  "verified": true
+ },
+ {
+  "id": "de-02975",
+  "category": "german",
+  "prompt": "「absichern」の意味は？",
+  "answer": "to secure",
+  "glosses": {
+   "en": "to secure",
+   "ja": "安全を確保する"
+  },
+  "choices": [
+   "detector",
+   "lawful",
+   "knob",
+   "to secure"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈʔapˌzɪçɐn]",
+  "verified": true
+ },
+ {
+  "id": "de-02976",
+  "category": "german",
+  "prompt": "「Unterstellung」の意味は？",
+  "answer": "insinuation",
+  "glosses": {
+   "en": "insinuation",
+   "ja": "言いがかり"
+  },
+  "choices": [
+   "combustion",
+   "to rotate",
+   "poultry",
+   "insinuation"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "de-02977",
+  "category": "german",
+  "prompt": "「Verstopfung」の意味は？",
+  "answer": "constipation",
+  "glosses": {
+   "en": "constipation",
+   "ja": "便秘"
+  },
+  "choices": [
+   "constipation",
+   "buffer",
+   "consulate",
+   "lobby"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/fɛʁˈʃtɔpfʊŋ/",
+  "verified": true
+ },
+ {
+  "id": "de-02978",
+  "category": "german",
+  "prompt": "「bombardieren」の意味は？",
+  "answer": "to bomb",
+  "glosses": {
+   "en": "to bomb",
+   "ja": "爆撃する"
+  },
+  "choices": [
+   "paradox",
+   "patch",
+   "to bomb",
+   "yeast"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˌbɔmbarˈdiːrən/",
+  "verified": true
+ },
+ {
+  "id": "de-02979",
+  "category": "german",
+  "prompt": "「exotisch」の意味は？",
+  "answer": "exotic",
+  "glosses": {
+   "en": "exotic",
+   "ja": "異国風の"
+  },
+  "choices": [
+   "veteran",
+   "peach",
+   "exotic",
+   "to accuse"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "de-02980",
+  "category": "german",
+  "prompt": "「materiell」の意味は？",
+  "answer": "material",
+  "glosses": {
+   "en": "material",
+   "ja": "物質的な"
+  },
+  "choices": [
+   "metabolism",
+   "to accuse",
+   "detector",
+   "material"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "de-02981",
+  "category": "german",
+  "prompt": "「dirigieren」の意味は？",
+  "answer": "to conduct",
+  "glosses": {
+   "en": "to conduct",
+   "ja": "指揮する"
+  },
+  "choices": [
+   "to bomb",
+   "to conduct",
+   "buttocks",
+   "to confuse"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/diʁiˈɡiːʁən/",
+  "verified": true
+ },
+ {
+  "id": "de-02982",
+  "category": "german",
+  "prompt": "「Billion」の意味は？",
+  "answer": "trillion",
+  "glosses": {
+   "en": "trillion",
+   "ja": "兆"
+  },
+  "choices": [
+   "bouquet",
+   "to compile",
+   "trillion",
+   "plum"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bɪˈli̯oːn/",
+  "verified": true
+ },
+ {
+  "id": "de-02983",
+  "category": "german",
+  "prompt": "「synthetisch」の意味は？",
+  "answer": "synthetic",
+  "glosses": {
+   "en": "synthetic",
+   "ja": "合成の"
+  },
+  "choices": [
+   "to confuse",
+   "stepmother",
+   "constipation",
+   "synthetic"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/zʏnˈteːtɪʃ/",
+  "verified": true
+ },
+ {
+  "id": "de-02984",
+  "category": "german",
+  "prompt": "「Dekoration」の意味は？",
+  "answer": "decoration",
+  "glosses": {
+   "en": "decoration",
+   "ja": "装飾"
+  },
+  "choices": [
+   "decoration",
+   "turtle",
+   "raven",
+   "to interact"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "de-02985",
+  "category": "german",
+  "prompt": "「heiter」の意味は？",
+  "answer": "cheerful",
+  "glosses": {
+   "en": "cheerful",
+   "ja": "陽気な"
+  },
+  "choices": [
+   "cheerful",
+   "detector",
+   "knob",
+   "bumper"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈhaɪ̯tɐ/",
+  "verified": true
+ },
+ {
+  "id": "de-02986",
+  "category": "german",
+  "prompt": "「begehren」の意味は？",
+  "answer": "to desire",
+  "glosses": {
+   "en": "to desire",
+   "ja": "切望する"
+  },
+  "choices": [
+   "consumer",
+   "constipation",
+   "to desire",
+   "to package"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bəˈɡeːʁən/",
+  "verified": true
+ },
+ {
+  "id": "de-02987",
+  "category": "german",
+  "prompt": "「Kassierer」の意味は？",
+  "answer": "cashier",
+  "glosses": {
+   "en": "cashier",
+   "ja": "レジ係"
+  },
+  "choices": [
+   "turtle",
+   "peach",
+   "squad",
+   "cashier"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kaˈsiːʁɐ/",
+  "verified": true
+ },
+ {
+  "id": "de-02988",
+  "category": "german",
+  "prompt": "「rechtmäßig」の意味は？",
+  "answer": "lawful",
+  "glosses": {
+   "en": "lawful",
+   "ja": "合法的な"
+  },
+  "choices": [
+   "ecstasy",
+   "lawful",
+   "device",
+   "wedge"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈʁɛçtˌmɛːsɪç/",
+  "verified": true
+ },
+ {
+  "id": "de-02989",
+  "category": "german",
+  "prompt": "「unwohl」の意味は？",
+  "answer": "unwell",
+  "glosses": {
+   "en": "unwell",
+   "ja": "体の具合が悪い"
+  },
+  "choices": [
+   "to interact",
+   "peach",
+   "basement",
+   "unwell"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈʊnvoːl]",
+  "verified": true
+ },
+ {
+  "id": "de-02990",
+  "category": "german",
+  "prompt": "「nobel」の意味は？",
+  "answer": "noble",
+  "glosses": {
+   "en": "noble",
+   "ja": "高貴な"
+  },
+  "choices": [
+   "noble",
+   "correlation",
+   "bee",
+   "marking"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈnoːbəl/",
+  "verified": true
+ },
+ {
+  "id": "de-02991",
+  "category": "german",
+  "prompt": "「Delle」の意味は？",
+  "answer": "dent",
+  "glosses": {
+   "en": "dent",
+   "ja": "くぼみ"
+  },
+  "choices": [
+   "paste",
+   "dent",
+   "ruby",
+   "neon"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈdɛlə/",
+  "verified": true
+ },
+ {
+  "id": "de-02992",
+  "category": "german",
+  "prompt": "「stinken」の意味は？",
+  "answer": "to stink",
+  "glosses": {
+   "en": "to stink",
+   "ja": "悪臭を放つ"
+  },
+  "choices": [
+   "to stink",
+   "to adopt",
+   "cord",
+   "welfare"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈʃtɪŋkən/",
+  "verified": true
+ },
+ {
+  "id": "de-02993",
+  "category": "german",
+  "prompt": "「reservieren」の意味は？",
+  "answer": "to reserve",
+  "glosses": {
+   "en": "to reserve",
+   "ja": "予約する"
+  },
+  "choices": [
+   "to reserve",
+   "shelter",
+   "correlation",
+   "villain"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "de-02994",
+  "category": "german",
+  "prompt": "「Buchhalter」の意味は？",
+  "answer": "bookkeeper",
+  "glosses": {
+   "en": "bookkeeper",
+   "ja": "簿記係"
+  },
+  "choices": [
+   "bookkeeper",
+   "challenger",
+   "revision",
+   "attraction"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈbuːxˌhaltər/",
+  "verified": true
+ },
+ {
+  "id": "de-02995",
+  "category": "german",
+  "prompt": "「einbeziehen」の意味は？",
+  "answer": "to include",
+  "glosses": {
+   "en": "to include",
+   "ja": "組み入れる"
+  },
+  "choices": [
+   "to forecast",
+   "typically",
+   "to include",
+   "lobster"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈʔaɪnbəˌtsiːən]",
+  "verified": true
+ },
+ {
+  "id": "de-02996",
+  "category": "german",
+  "prompt": "「förderlich」の意味は？",
+  "answer": "conducive",
+  "glosses": {
+   "en": "conducive",
+   "ja": "ためになる"
+  },
+  "choices": [
+   "crust",
+   "conducive",
+   "to forecast",
+   "bee"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "de-02997",
+  "category": "german",
+  "prompt": "「zusammenstellen」の意味は？",
+  "answer": "to compile",
+  "glosses": {
+   "en": "to compile",
+   "ja": "まとめる"
+  },
+  "choices": [
+   "attic",
+   "to compile",
+   "ballot",
+   "cord"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/tsuˈzamənˌʃtɛlən/",
+  "verified": true
+ },
+ {
+  "id": "de-02998",
+  "category": "german",
+  "prompt": "「Abteil」の意味は？",
+  "answer": "compartment",
+  "glosses": {
+   "en": "compartment",
+   "ja": "列車の客室"
+  },
+  "choices": [
+   "poultry",
+   "menu",
+   "vinyl record",
+   "compartment"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/apˈtaɪ̯l/",
+  "verified": true
+ },
+ {
+  "id": "de-02999",
+  "category": "german",
+  "prompt": "「Einschnitt」の意味は？",
+  "answer": "notch",
+  "glosses": {
+   "en": "notch",
+   "ja": "切れ込み"
+  },
+  "choices": [
+   "tar",
+   "mummy",
+   "notch",
+   "rag"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈaɪ̯nʃnɪt/",
+  "verified": true
+ },
+ {
+  "id": "de-03000",
+  "category": "german",
+  "prompt": "「Schwur」の意味は？",
+  "answer": "oath",
+  "glosses": {
+   "en": "oath",
+   "ja": "誓い"
+  },
+  "choices": [
+   "ballot",
+   "reservation",
+   "oath",
+   "failure"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʃvuːr/",
+  "verified": true
+ },
+ {
+  "id": "de-03001",
+  "category": "german",
+  "prompt": "「improvisieren」の意味は？",
+  "answer": "to improvise",
+  "glosses": {
+   "en": "to improvise",
+   "ja": "即興で行う"
+  },
+  "choices": [
+   "conducive",
+   "to improvise",
+   "to chat",
+   "tar"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "de-03002",
+  "category": "german",
+  "prompt": "「Akkord」の意味は？",
+  "answer": "chord",
+  "glosses": {
+   "en": "chord",
+   "ja": "和音"
+  },
+  "choices": [
+   "artifact",
+   "knob",
+   "chord",
+   "bee"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[aˈkɔʁt]",
+  "verified": true
+ },
+ {
+  "id": "de-03003",
+  "category": "german",
+  "prompt": "「Hochmut」の意味は？",
+  "answer": "arrogance",
+  "glosses": {
+   "en": "arrogance",
+   "ja": "傲慢"
+  },
+  "choices": [
+   "valve",
+   "jerk",
+   "arrogance",
+   "ruby"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈhoːχˌmuːt/",
+  "verified": true
+ },
+ {
+  "id": "de-03004",
+  "category": "german",
+  "prompt": "「Gesäß」の意味は？",
+  "answer": "buttocks",
+  "glosses": {
+   "en": "buttocks",
+   "ja": "おしり"
+  },
+  "choices": [
+   "to confuse",
+   "buttocks",
+   "chord",
+   "challenger"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɡəˈzɛːs/",
+  "verified": true
+ },
+ {
+  "id": "de-03005",
+  "category": "german",
+  "prompt": "「beabsichtigen」の意味は？",
+  "answer": "to intend",
+  "glosses": {
+   "en": "to intend",
+   "ja": "意図する"
+  },
+  "choices": [
+   "vinyl record",
+   "contemporary",
+   "sunny",
+   "to intend"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bəˈapsɪçtɪɡən/",
+  "verified": true
+ },
+ {
+  "id": "de-03006",
+  "category": "german",
+  "prompt": "「Saphir」の意味は？",
+  "answer": "sapphire",
+  "glosses": {
+   "en": "sapphire",
+   "ja": "サファイア"
+  },
+  "choices": [
+   "peach",
+   "cheerful",
+   "sapphire",
+   "detector"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈzaːfɪʁ]",
+  "verified": true
+ },
+ {
+  "id": "de-03007",
+  "category": "german",
+  "prompt": "「Hexerei」の意味は？",
+  "answer": "witchcraft",
+  "glosses": {
+   "en": "witchcraft",
+   "ja": "魔術"
+  },
+  "choices": [
+   "witchcraft",
+   "immortality",
+   "nylon",
+   "sunny"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/hɛksəˈʁai/",
+  "verified": true
  }
 ]

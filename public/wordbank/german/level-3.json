@@ -9165,5 +9165,1457 @@
   "verified": true,
   "example": "Hast du einen Fön mitgenommen? — ドライヤー持ってきた？",
   "exampleForm": "mitgenommen"
+ },
+ {
+  "id": "de-03008",
+  "category": "german",
+  "prompt": "「Polyester」の意味は？",
+  "answer": "polyester",
+  "glosses": {
+   "en": "polyester",
+   "ja": "ポリエステル"
+  },
+  "choices": [
+   "carving",
+   "polyester",
+   "shrimp",
+   "to suspend"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/polyˈʔɛstər/",
+  "verified": true
+ },
+ {
+  "id": "de-03009",
+  "category": "german",
+  "prompt": "「Theorem」の意味は？",
+  "answer": "theorem",
+  "glosses": {
+   "en": "theorem",
+   "ja": "定理"
+  },
+  "choices": [
+   "tuft",
+   "to entitle",
+   "theorem",
+   "errand"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/tʰeoʁˈem/",
+  "verified": true
+ },
+ {
+  "id": "de-03010",
+  "category": "german",
+  "prompt": "「Erbse」の意味は？",
+  "answer": "pea",
+  "glosses": {
+   "en": "pea",
+   "ja": "エンドウ豆"
+  },
+  "choices": [
+   "infectious",
+   "to entitle",
+   "humanitarian",
+   "pea"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈɛrpsə/",
+  "verified": true
+ },
+ {
+  "id": "de-03011",
+  "category": "german",
+  "prompt": "「Silizium」の意味は？",
+  "answer": "silicon",
+  "glosses": {
+   "en": "silicon",
+   "ja": "ケイ素"
+  },
+  "choices": [
+   "scooter",
+   "vulnerable",
+   "to bury",
+   "silicon"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ziˈliːtsi̯ʊm/",
+  "verified": true
+ },
+ {
+  "id": "de-03012",
+  "category": "german",
+  "prompt": "「Unze」の意味は？",
+  "answer": "ounce",
+  "glosses": {
+   "en": "ounce",
+   "ja": "オンス"
+  },
+  "choices": [
+   "ounce",
+   "to desert",
+   "to scrub",
+   "convent"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈʊnt͡sə/",
+  "verified": true
+ },
+ {
+  "id": "de-03013",
+  "category": "german",
+  "prompt": "「Wassermelone」の意味は？",
+  "answer": "watermelon",
+  "glosses": {
+   "en": "watermelon",
+   "ja": "スイカ"
+  },
+  "choices": [
+   "oyster",
+   "economics",
+   "ounce",
+   "watermelon"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈvasɐmeˌloːnə/",
+  "verified": true
+ },
+ {
+  "id": "de-03014",
+  "category": "german",
+  "prompt": "「fettig」の意味は？",
+  "answer": "greasy",
+  "glosses": {
+   "en": "greasy",
+   "ja": "脂っこい"
+  },
+  "choices": [
+   "greasy",
+   "to grunt",
+   "sesame",
+   "to suspend"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈfɛtɪç/",
+  "verified": true
+ },
+ {
+  "id": "de-03015",
+  "category": "german",
+  "prompt": "「Accessoire」の意味は？",
+  "answer": "accessory",
+  "glosses": {
+   "en": "accessory",
+   "ja": "装身具"
+  },
+  "choices": [
+   "to overload",
+   "accessory",
+   "obscene",
+   "stool"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˌa.sɛˈsu̯aːʁ/",
+  "verified": true
+ },
+ {
+  "id": "de-03016",
+  "category": "german",
+  "prompt": "「Sesam」の意味は？",
+  "answer": "sesame",
+  "glosses": {
+   "en": "sesame",
+   "ja": "ゴマ"
+  },
+  "choices": [
+   "vulgar",
+   "sesame",
+   "paddle",
+   "to balance"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈzeːzam/",
+  "verified": true
+ },
+ {
+  "id": "de-03017",
+  "category": "german",
+  "prompt": "「Kork」の意味は？",
+  "answer": "cork",
+  "glosses": {
+   "en": "cork",
+   "ja": "コルク"
+  },
+  "choices": [
+   "humanitarian",
+   "greasy",
+   "cork",
+   "to enable"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kɔʁk/",
+  "verified": true
+ },
+ {
+  "id": "de-03018",
+  "category": "german",
+  "prompt": "「berechtigen」の意味は？",
+  "answer": "to entitle",
+  "glosses": {
+   "en": "to entitle",
+   "ja": "権利を与える"
+  },
+  "choices": [
+   "to entitle",
+   "obscene",
+   "to suspend",
+   "hound"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "de-03019",
+  "category": "german",
+  "prompt": "「verletzlich」の意味は？",
+  "answer": "vulnerable",
+  "glosses": {
+   "en": "vulnerable",
+   "ja": "傷つきやすい"
+  },
+  "choices": [
+   "silicon",
+   "ounce",
+   "vulnerable",
+   "to entitle"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "de-03020",
+  "category": "german",
+  "prompt": "「Wirtschaftswissenschaft」の意味は？",
+  "answer": "economics",
+  "glosses": {
+   "en": "economics",
+   "ja": "経済学"
+  },
+  "choices": [
+   "economics",
+   "shrimp",
+   "to entitle",
+   "humanitarian"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈvɪʁtʃaftsˌvɪsənʃaft/",
+  "verified": true
+ },
+ {
+  "id": "de-03021",
+  "category": "german",
+  "prompt": "「Motorroller」の意味は？",
+  "answer": "scooter",
+  "glosses": {
+   "en": "scooter",
+   "ja": "スクーター"
+  },
+  "choices": [
+   "obscene",
+   "scooter",
+   "trademark",
+   "to suspend"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈmoːtoːɐ̯ˌʁɔlɐ/",
+  "verified": true
+ },
+ {
+  "id": "de-03022",
+  "category": "german",
+  "prompt": "「unbewaffnet」の意味は？",
+  "answer": "unarmed",
+  "glosses": {
+   "en": "unarmed",
+   "ja": "武器のない"
+  },
+  "choices": [
+   "vulgar",
+   "unarmed",
+   "to specify",
+   "to scrub"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈʊnbəˌvafnət/",
+  "verified": true
+ },
+ {
+  "id": "de-03023",
+  "category": "german",
+  "prompt": "「Paddel」の意味は？",
+  "answer": "paddle",
+  "glosses": {
+   "en": "paddle",
+   "ja": "パドル"
+  },
+  "choices": [
+   "truthful",
+   "to whimper",
+   "sesame",
+   "paddle"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈpadl̩/",
+  "verified": true
+ },
+ {
+  "id": "de-03024",
+  "category": "german",
+  "prompt": "「befähigen」の意味は？",
+  "answer": "to enable",
+  "glosses": {
+   "en": "to enable",
+   "ja": "能力を与える"
+  },
+  "choices": [
+   "infectious",
+   "to grunt",
+   "economics",
+   "to enable"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[bəˈfɛːɪɡŋ̍]",
+  "verified": true
+ },
+ {
+  "id": "de-03025",
+  "category": "german",
+  "prompt": "「beerdigen」の意味は？",
+  "answer": "to bury",
+  "glosses": {
+   "en": "to bury",
+   "ja": "埋葬する"
+  },
+  "choices": [
+   "to disarm",
+   "good-looking",
+   "to pull out",
+   "to bury"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bəˈʔeːɐ̯dɪɡŋ̩/",
+  "verified": true
+ },
+ {
+  "id": "de-03026",
+  "category": "german",
+  "prompt": "「unbehaglich」の意味は？",
+  "answer": "uncomfortable",
+  "glosses": {
+   "en": "uncomfortable",
+   "ja": "居心地の悪い"
+  },
+  "choices": [
+   "uncomfortable",
+   "to suspend",
+   "truthful",
+   "paddle"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "de-03027",
+  "category": "german",
+  "prompt": "「mitfühlend」の意味は？",
+  "answer": "sympathetic",
+  "glosses": {
+   "en": "sympathetic",
+   "ja": "同情的な"
+  },
+  "choices": [
+   "to bury",
+   "vulgar",
+   "sympathetic",
+   "accusation"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "de-03028",
+  "category": "german",
+  "prompt": "「wahrheitsgemäß」の意味は？",
+  "answer": "truthful",
+  "glosses": {
+   "en": "truthful",
+   "ja": "真実に即した"
+  },
+  "choices": [
+   "bump",
+   "economics",
+   "truthful",
+   "accusation"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈvaːɐ̯haɪ̯t͡sɡəˌmɛːs/",
+  "verified": true
+ },
+ {
+  "id": "de-03029",
+  "category": "german",
+  "prompt": "「assoziieren」の意味は？",
+  "answer": "to associate",
+  "glosses": {
+   "en": "to associate",
+   "ja": "関連づける"
+  },
+  "choices": [
+   "oyster",
+   "unarmed",
+   "to associate",
+   "to tax"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/asotsiˈiːʁən/",
+  "verified": true
+ },
+ {
+  "id": "de-03030",
+  "category": "german",
+  "prompt": "「Zivilist」の意味は？",
+  "answer": "civilian",
+  "glosses": {
+   "en": "civilian",
+   "ja": "民間人"
+  },
+  "choices": [
+   "carving",
+   "civilian",
+   "good-looking",
+   "bump"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˌt͡siviˈlɪst/",
+  "verified": true
+ },
+ {
+  "id": "de-03031",
+  "category": "german",
+  "prompt": "「Warenzeichen」の意味は？",
+  "answer": "trademark",
+  "glosses": {
+   "en": "trademark",
+   "ja": "商標"
+  },
+  "choices": [
+   "insensitive",
+   "paddle",
+   "cedar",
+   "trademark"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈvaːrənˌt͡saɪ̯çn̩/",
+  "verified": true
+ },
+ {
+  "id": "de-03032",
+  "category": "german",
+  "prompt": "「Flosse」の意味は？",
+  "answer": "fin",
+  "glosses": {
+   "en": "fin",
+   "ja": "ひれ"
+  },
+  "choices": [
+   "jellyfish",
+   "antique",
+   "fin",
+   "profound"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈflɔsə/",
+  "verified": true
+ },
+ {
+  "id": "de-03033",
+  "category": "german",
+  "prompt": "「Qualle」の意味は？",
+  "answer": "jellyfish",
+  "glosses": {
+   "en": "jellyfish",
+   "ja": "クラゲ"
+  },
+  "choices": [
+   "jellyfish",
+   "fin",
+   "humanitarian",
+   "to whimper"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈkva.lə/",
+  "verified": true
+ },
+ {
+  "id": "de-03034",
+  "category": "german",
+  "prompt": "「Bulldogge」の意味は？",
+  "answer": "bulldog",
+  "glosses": {
+   "en": "bulldog",
+   "ja": "ブルドッグ"
+  },
+  "choices": [
+   "bulldog",
+   "infectious",
+   "cork",
+   "theorem"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈbʊlˌdɔɡə/",
+  "verified": true
+ },
+ {
+  "id": "de-03035",
+  "category": "german",
+  "prompt": "「grunzen」の意味は？",
+  "answer": "to grunt",
+  "glosses": {
+   "en": "to grunt",
+   "ja": "ブーブー鳴く"
+  },
+  "choices": [
+   "unarmed",
+   "cedar",
+   "to grunt",
+   "canary"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "de-03036",
+  "category": "german",
+  "prompt": "「spezifizieren」の意味は？",
+  "answer": "to specify",
+  "glosses": {
+   "en": "to specify",
+   "ja": "詳細に述べる"
+  },
+  "choices": [
+   "to specify",
+   "stool",
+   "greasy",
+   "orphan"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "de-03037",
+  "category": "german",
+  "prompt": "「entwaffnen」の意味は？",
+  "answer": "to disarm",
+  "glosses": {
+   "en": "to disarm",
+   "ja": "武装解除する"
+  },
+  "choices": [
+   "to overload",
+   "theorem",
+   "to disarm",
+   "infectious"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʔɛntˈvafnən/",
+  "verified": true
+ },
+ {
+  "id": "de-03038",
+  "category": "german",
+  "prompt": "「Kanarienvogel」の意味は？",
+  "answer": "canary",
+  "glosses": {
+   "en": "canary",
+   "ja": "カナリア"
+  },
+  "choices": [
+   "canary",
+   "civilian",
+   "theorem",
+   "jellyfish"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "de-03039",
+  "category": "german",
+  "prompt": "「Jagdhund」の意味は？",
+  "answer": "hound",
+  "glosses": {
+   "en": "hound",
+   "ja": "猟犬"
+  },
+  "choices": [
+   "paddle",
+   "orphan",
+   "hound",
+   "to overload"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈjaːktˌhʊnt/",
+  "verified": true
+ },
+ {
+  "id": "de-03040",
+  "category": "german",
+  "prompt": "「schrubben」の意味は？",
+  "answer": "to scrub",
+  "glosses": {
+   "en": "to scrub",
+   "ja": "ごしごし洗う"
+  },
+  "choices": [
+   "sesame",
+   "silicon",
+   "to balance",
+   "to scrub"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈʃʁʊbn̩/",
+  "verified": true
+ },
+ {
+  "id": "de-03041",
+  "category": "german",
+  "prompt": "「suspendieren」の意味は？",
+  "answer": "to suspend",
+  "glosses": {
+   "en": "to suspend",
+   "ja": "停職にする"
+  },
+  "choices": [
+   "uncomfortable",
+   "to overload",
+   "to suspend",
+   "stool"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/zʊspɛnˈdiːʁən/",
+  "verified": true
+ },
+ {
+  "id": "de-03042",
+  "category": "german",
+  "prompt": "「Waisenkind」の意味は？",
+  "answer": "orphan",
+  "glosses": {
+   "en": "orphan",
+   "ja": "孤児"
+  },
+  "choices": [
+   "stool",
+   "greasy",
+   "silicon",
+   "orphan"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "de-03043",
+  "category": "german",
+  "prompt": "「Besorgung」の意味は？",
+  "answer": "errand",
+  "glosses": {
+   "en": "errand",
+   "ja": "おつかい"
+  },
+  "choices": [
+   "errand",
+   "antique",
+   "to bury",
+   "razor"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bəˈzɔʁɡʊŋ/",
+  "verified": true
+ },
+ {
+  "id": "de-03044",
+  "category": "german",
+  "prompt": "「Zeder」の意味は？",
+  "answer": "cedar",
+  "glosses": {
+   "en": "cedar",
+   "ja": "ヒマラヤスギ"
+  },
+  "choices": [
+   "unarmed",
+   "sympathetic",
+   "cedar",
+   "truthful"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈtseː.dɐ]",
+  "verified": true
+ },
+ {
+  "id": "de-03045",
+  "category": "german",
+  "prompt": "「humanitär」の意味は？",
+  "answer": "humanitarian",
+  "glosses": {
+   "en": "humanitarian",
+   "ja": "人道的な"
+  },
+  "choices": [
+   "accusation",
+   "obscene",
+   "economics",
+   "humanitarian"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˌhumaniˈtɛːɐ̯/",
+  "verified": true
+ },
+ {
+  "id": "de-03046",
+  "category": "german",
+  "prompt": "「winseln」の意味は？",
+  "answer": "to whimper",
+  "glosses": {
+   "en": "to whimper",
+   "ja": "くんくん鳴く"
+  },
+  "choices": [
+   "to whimper",
+   "stool",
+   "accessory",
+   "canary"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈvɪnzl̩n]",
+  "verified": true
+ },
+ {
+  "id": "de-03047",
+  "category": "german",
+  "prompt": "「nirgendwohin」の意味は？",
+  "answer": "nowhere",
+  "glosses": {
+   "en": "nowhere",
+   "ja": "どこへも"
+  },
+  "choices": [
+   "canary",
+   "razor",
+   "vulnerable",
+   "nowhere"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "de-03048",
+  "category": "german",
+  "prompt": "「Schnitzerei」の意味は？",
+  "answer": "carving",
+  "glosses": {
+   "en": "carving",
+   "ja": "木彫り"
+  },
+  "choices": [
+   "bump",
+   "vulgar",
+   "carving",
+   "stool"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "de-03049",
+  "category": "german",
+  "prompt": "「quaken」の意味は？",
+  "answer": "to quack",
+  "glosses": {
+   "en": "to quack",
+   "ja": "ガアガア鳴く"
+  },
+  "choices": [
+   "obscene",
+   "to quack",
+   "canary",
+   "volcanic"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈkvaːkən/",
+  "verified": true
+ },
+ {
+  "id": "de-03050",
+  "category": "german",
+  "prompt": "「Bodenwelle」の意味は？",
+  "answer": "bump",
+  "glosses": {
+   "en": "bump",
+   "ja": "路面のこぶ"
+  },
+  "choices": [
+   "to suspend",
+   "bump",
+   "sesame",
+   "jellyfish"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "de-03051",
+  "category": "german",
+  "prompt": "「Garnele」の意味は？",
+  "answer": "shrimp",
+  "glosses": {
+   "en": "shrimp",
+   "ja": "小エビ"
+  },
+  "choices": [
+   "shrimp",
+   "stool",
+   "nowhere",
+   "to entitle"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɡaʁˈneːlə/",
+  "verified": true
+ },
+ {
+  "id": "de-03052",
+  "category": "german",
+  "prompt": "「tätscheln」の意味は？",
+  "answer": "to pat",
+  "glosses": {
+   "en": "to pat",
+   "ja": "軽くたたく"
+  },
+  "choices": [
+   "hound",
+   "to pat",
+   "sympathetic",
+   "civilian"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈtɛt͡ʃl̩n/",
+  "verified": true
+ },
+ {
+  "id": "de-03053",
+  "category": "german",
+  "prompt": "「Rasierapparat」の意味は？",
+  "answer": "razor",
+  "glosses": {
+   "en": "razor",
+   "ja": "かみそり"
+  },
+  "choices": [
+   "razor",
+   "scooter",
+   "stool",
+   "to overload"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ʁaˈziːɐ̯ʔapaˌʁaːt]",
+  "verified": true
+ },
+ {
+  "id": "de-03054",
+  "category": "german",
+  "prompt": "「Antiquität」の意味は？",
+  "answer": "antique",
+  "glosses": {
+   "en": "antique",
+   "ja": "骨董品"
+  },
+  "choices": [
+   "truthful",
+   "antique",
+   "paddle",
+   "accusation"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/antikviˈtɛːt/",
+  "verified": true
+ },
+ {
+  "id": "de-03055",
+  "category": "german",
+  "prompt": "「Auster」の意味は？",
+  "answer": "oyster",
+  "glosses": {
+   "en": "oyster",
+   "ja": "牡蠣"
+  },
+  "choices": [
+   "bump",
+   "oyster",
+   "scooter",
+   "greasy"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈaʊ̯stɐ/",
+  "verified": true
+ },
+ {
+  "id": "de-03056",
+  "category": "german",
+  "prompt": "「besteuern」の意味は？",
+  "answer": "to tax",
+  "glosses": {
+   "en": "to tax",
+   "ja": "課税する"
+  },
+  "choices": [
+   "to associate",
+   "bulldog",
+   "to disarm",
+   "to tax"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bəˈʃtɔɪ̯ɐn/",
+  "verified": true
+ },
+ {
+  "id": "de-03057",
+  "category": "german",
+  "prompt": "「gutaussehend」の意味は？",
+  "answer": "good-looking",
+  "glosses": {
+   "en": "good-looking",
+   "ja": "見た目のよい"
+  },
+  "choices": [
+   "canary",
+   "good-looking",
+   "to pull out",
+   "vulnerable"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "de-03058",
+  "category": "german",
+  "prompt": "「unvollendet」の意味は？",
+  "answer": "unfinished",
+  "glosses": {
+   "en": "unfinished",
+   "ja": "未完成の"
+  },
+  "choices": [
+   "unfinished",
+   "jellyfish",
+   "bounty",
+   "economics"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈʊnfɔlˌʔɛndət/",
+  "verified": true
+ },
+ {
+  "id": "de-03059",
+  "category": "german",
+  "prompt": "「balancieren」の意味は？",
+  "answer": "to balance",
+  "glosses": {
+   "en": "to balance",
+   "ja": "バランスを取る"
+  },
+  "choices": [
+   "antique",
+   "bump",
+   "to balance",
+   "hound"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "de-03060",
+  "category": "german",
+  "prompt": "「Kopfgeld」の意味は？",
+  "answer": "bounty",
+  "glosses": {
+   "en": "bounty",
+   "ja": "懸賞金"
+  },
+  "choices": [
+   "to specify",
+   "ounce",
+   "to balance",
+   "bounty"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈkɔpfˌɡɛlt/",
+  "verified": true
+ },
+ {
+  "id": "de-03061",
+  "category": "german",
+  "prompt": "「infektiös」の意味は？",
+  "answer": "infectious",
+  "glosses": {
+   "en": "infectious",
+   "ja": "伝染性の"
+  },
+  "choices": [
+   "sympathetic",
+   "to entitle",
+   "infectious",
+   "sesame"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˌɪnfɛkˈt͡si̯øːs/",
+  "verified": true
+ },
+ {
+  "id": "de-03062",
+  "category": "german",
+  "prompt": "「Schemel」の意味は？",
+  "answer": "stool",
+  "glosses": {
+   "en": "stool",
+   "ja": "スツール"
+  },
+  "choices": [
+   "to tax",
+   "to suspend",
+   "economics",
+   "stool"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈʃeːml̩]",
+  "verified": true
+ },
+ {
+  "id": "de-03063",
+  "category": "german",
+  "prompt": "「Nonnenkloster」の意味は？",
+  "answer": "convent",
+  "glosses": {
+   "en": "convent",
+   "ja": "女子修道院"
+  },
+  "choices": [
+   "convent",
+   "accusation",
+   "economics",
+   "volcanic"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈnɔnənˌkloːstɐ]",
+  "verified": true
+ },
+ {
+  "id": "de-03064",
+  "category": "german",
+  "prompt": "「desertieren」の意味は？",
+  "answer": "to desert",
+  "glosses": {
+   "en": "to desert",
+   "ja": "脱走する"
+  },
+  "choices": [
+   "sesame",
+   "to enable",
+   "uncomfortable",
+   "to desert"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "de-03065",
+  "category": "german",
+  "prompt": "「vulkanisch」の意味は？",
+  "answer": "volcanic",
+  "glosses": {
+   "en": "volcanic",
+   "ja": "火山の"
+  },
+  "choices": [
+   "watermelon",
+   "trademark",
+   "volcanic",
+   "silicon"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/vʊlˈkaːnɪʃ/",
+  "verified": true
+ },
+ {
+  "id": "de-03066",
+  "category": "german",
+  "prompt": "「unempfindlich」の意味は？",
+  "answer": "insensitive",
+  "glosses": {
+   "en": "insensitive",
+   "ja": "影響を受けにくい"
+  },
+  "choices": [
+   "insensitive",
+   "canary",
+   "greasy",
+   "to specify"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "de-03067",
+  "category": "german",
+  "prompt": "「herausziehen」の意味は？",
+  "answer": "to pull out",
+  "glosses": {
+   "en": "to pull out",
+   "ja": "引き抜く"
+  },
+  "choices": [
+   "antique",
+   "errand",
+   "to pull out",
+   "bounty"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/hɛˈʁaust͡siːən/",
+  "verified": true
+ },
+ {
+  "id": "de-03068",
+  "category": "german",
+  "prompt": "「vulgär」の意味は？",
+  "answer": "vulgar",
+  "glosses": {
+   "en": "vulgar",
+   "ja": "下品な"
+  },
+  "choices": [
+   "vulgar",
+   "polyester",
+   "to enable",
+   "civilian"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/vʊlˈɡɛːɐ/",
+  "verified": true
+ },
+ {
+  "id": "de-03069",
+  "category": "german",
+  "prompt": "「tiefgründig」の意味は？",
+  "answer": "profound",
+  "glosses": {
+   "en": "profound",
+   "ja": "深遠な"
+  },
+  "choices": [
+   "to suspend",
+   "sympathetic",
+   "profound",
+   "canary"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈtiːfˌɡʁʏndɪç/",
+  "verified": true
+ },
+ {
+  "id": "de-03070",
+  "category": "german",
+  "prompt": "「Büschel」の意味は？",
+  "answer": "tuft",
+  "glosses": {
+   "en": "tuft",
+   "ja": "房"
+  },
+  "choices": [
+   "polyester",
+   "tuft",
+   "vulnerable",
+   "to specify"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈbʏʃəl/",
+  "verified": true
+ },
+ {
+  "id": "de-03071",
+  "category": "german",
+  "prompt": "「Beschuldigung」の意味は？",
+  "answer": "accusation",
+  "glosses": {
+   "en": "accusation",
+   "ja": "告発"
+  },
+  "choices": [
+   "nowhere",
+   "to entitle",
+   "carving",
+   "accusation"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bəˈʃʊldɪɡʊŋ/",
+  "verified": true
+ },
+ {
+  "id": "de-03072",
+  "category": "german",
+  "prompt": "「obszön」の意味は？",
+  "answer": "obscene",
+  "glosses": {
+   "en": "obscene",
+   "ja": "みだらな"
+  },
+  "choices": [
+   "obscene",
+   "bulldog",
+   "nowhere",
+   "profound"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "de-03073",
+  "category": "german",
+  "prompt": "「überlasten」の意味は？",
+  "answer": "to overload",
+  "glosses": {
+   "en": "to overload",
+   "ja": "負担をかけすぎる"
+  },
+  "choices": [
+   "to overload",
+   "razor",
+   "errand",
+   "to specify"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˌyːbɐˈlastən/",
+  "verified": true
  }
 ]
