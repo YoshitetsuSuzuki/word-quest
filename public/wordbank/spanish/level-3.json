@@ -8923,5 +8923,1259 @@
   "pronunciation": "kOla",
   "example": "Ellos beben Coca-Cola. — 彼らは、コーラを飲みます。",
   "exampleForm": "cola"
+ },
+ {
+  "id": "es-03061",
+  "category": "spanish",
+  "prompt": "「salvia」の意味は？",
+  "answer": "sage",
+  "glosses": {
+   "en": "sage",
+   "ja": "セージ"
+  },
+  "choices": [
+   "sage",
+   "attic",
+   "burn",
+   "splinter"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈsalbja/",
+  "verified": true
+ },
+ {
+  "id": "es-03062",
+  "category": "spanish",
+  "prompt": "「bulbo」の意味は？",
+  "answer": "bulb",
+  "glosses": {
+   "en": "bulb",
+   "ja": "球根"
+  },
+  "choices": [
+   "to rotate",
+   "fishing bait",
+   "bulb",
+   "to desert"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈbulbo/",
+  "verified": true
+ },
+ {
+  "id": "es-03063",
+  "category": "spanish",
+  "prompt": "「cordel」の意味は？",
+  "answer": "thin cord",
+  "glosses": {
+   "en": "thin cord",
+   "ja": "細ひも"
+  },
+  "choices": [
+   "thin cord",
+   "creak",
+   "bulb",
+   "spaghetti"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/koɾˈdel/",
+  "verified": true
+ },
+ {
+  "id": "es-03064",
+  "category": "spanish",
+  "prompt": "「ciruela」の意味は？",
+  "answer": "plum",
+  "glosses": {
+   "en": "plum",
+   "ja": "プラム"
+  },
+  "choices": [
+   "cognac",
+   "to rotate",
+   "plum",
+   "to charge"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/θiˈɾwela/",
+  "verified": true
+ },
+ {
+  "id": "es-03065",
+  "category": "spanish",
+  "prompt": "「decaer」の意味は？",
+  "answer": "to decline",
+  "glosses": {
+   "en": "to decline",
+   "ja": "衰える"
+  },
+  "choices": [
+   "to scratch",
+   "road shoulder",
+   "to decline",
+   "apt"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/dekaˈeɾ/",
+  "verified": true
+ },
+ {
+  "id": "es-03066",
+  "category": "spanish",
+  "prompt": "「clausurar」の意味は？",
+  "answer": "to close down",
+  "glosses": {
+   "en": "to close down",
+   "ja": "閉鎖する"
+  },
+  "choices": [
+   "pancake",
+   "unfinished",
+   "apt",
+   "to close down"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/klausuˈɾaɾ/",
+  "verified": true
+ },
+ {
+  "id": "es-03067",
+  "category": "spanish",
+  "prompt": "「suplicio」の意味は？",
+  "answer": "torment",
+  "glosses": {
+   "en": "torment",
+   "ja": "責め苦"
+  },
+  "choices": [
+   "to splash",
+   "to sniff",
+   "torment",
+   "to scratch"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/suˈpliθjo/",
+  "verified": true
+ },
+ {
+  "id": "es-03068",
+  "category": "spanish",
+  "prompt": "「rotar」の意味は？",
+  "answer": "to rotate",
+  "glosses": {
+   "en": "to rotate",
+   "ja": "回転する"
+  },
+  "choices": [
+   "to rotate",
+   "zodiac",
+   "shed",
+   "pancake"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/roˈtaɾ/",
+  "verified": true
+ },
+ {
+  "id": "es-03069",
+  "category": "spanish",
+  "prompt": "「lombriz」の意味は？",
+  "answer": "earthworm",
+  "glosses": {
+   "en": "earthworm",
+   "ja": "ミミズ"
+  },
+  "choices": [
+   "to desert",
+   "to rotate",
+   "earthworm",
+   "zodiac"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/lomˈbɾiθ/",
+  "verified": true
+ },
+ {
+  "id": "es-03070",
+  "category": "spanish",
+  "prompt": "「zodíaco」の意味は？",
+  "answer": "zodiac",
+  "glosses": {
+   "en": "zodiac",
+   "ja": "黄道帯"
+  },
+  "choices": [
+   "noisily",
+   "torment",
+   "burn",
+   "zodiac"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/θoˈdiako/",
+  "verified": true
+ },
+ {
+  "id": "es-03071",
+  "category": "spanish",
+  "prompt": "「recibidor」の意味は？",
+  "answer": "entrance hall",
+  "glosses": {
+   "en": "entrance hall",
+   "ja": "玄関ホール"
+  },
+  "choices": [
+   "sage",
+   "appetizing",
+   "entrance hall",
+   "pancake"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/reθibiˈdoɾ/",
+  "verified": true
+ },
+ {
+  "id": "es-03072",
+  "category": "spanish",
+  "prompt": "「desván」の意味は？",
+  "answer": "attic",
+  "glosses": {
+   "en": "attic",
+   "ja": "屋根裏部屋"
+  },
+  "choices": [
+   "appetizing",
+   "bumper",
+   "attic",
+   "earthworm"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/desˈban/",
+  "verified": true
+ },
+ {
+  "id": "es-03073",
+  "category": "spanish",
+  "prompt": "「astilla」の意味は？",
+  "answer": "splinter",
+  "glosses": {
+   "en": "splinter",
+   "ja": "木片"
+  },
+  "choices": [
+   "bumper",
+   "to slap",
+   "to close down",
+   "splinter"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/asˈtiʝa/",
+  "verified": true
+ },
+ {
+  "id": "es-03074",
+  "category": "spanish",
+  "prompt": "「pestañear」の意味は？",
+  "answer": "to blink",
+  "glosses": {
+   "en": "to blink",
+   "ja": "まばたきする"
+  },
+  "choices": [
+   "hound",
+   "herring",
+   "to blink",
+   "apt"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pestaɲeˈaɾ/",
+  "verified": true
+ },
+ {
+  "id": "es-03075",
+  "category": "spanish",
+  "prompt": "「hebilla」の意味は？",
+  "answer": "buckle",
+  "glosses": {
+   "en": "buckle",
+   "ja": "バックル"
+  },
+  "choices": [
+   "noisily",
+   "buckle",
+   "bumper",
+   "to refuse"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/eˈbiʝa/",
+  "verified": true
+ },
+ {
+  "id": "es-03076",
+  "category": "spanish",
+  "prompt": "「parachoques」の意味は？",
+  "answer": "bumper",
+  "glosses": {
+   "en": "bumper",
+   "ja": "バンパー"
+  },
+  "choices": [
+   "shed",
+   "bumper",
+   "to decline",
+   "splinter"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/paɾaˈt͡ʃokes/",
+  "verified": true
+ },
+ {
+  "id": "es-03077",
+  "category": "spanish",
+  "prompt": "「cobertizo」の意味は？",
+  "answer": "shed",
+  "glosses": {
+   "en": "shed",
+   "ja": "物置"
+  },
+  "choices": [
+   "to close down",
+   "hound",
+   "oyster",
+   "shed"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kobeɾˈtiθo/",
+  "verified": true
+ },
+ {
+  "id": "es-03078",
+  "category": "spanish",
+  "prompt": "「carnada」の意味は？",
+  "answer": "fishing bait",
+  "glosses": {
+   "en": "fishing bait",
+   "ja": "釣り餌"
+  },
+  "choices": [
+   "fishing bait",
+   "noisily",
+   "to refuse",
+   "to slap"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kaɾˈnada/",
+  "verified": true
+ },
+ {
+  "id": "es-03079",
+  "category": "spanish",
+  "prompt": "「infiltrar」の意味は？",
+  "answer": "to infiltrate",
+  "glosses": {
+   "en": "to infiltrate",
+   "ja": "潜入する"
+  },
+  "choices": [
+   "to infiltrate",
+   "polyester",
+   "attic",
+   "apt"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/infilˈtɾaɾ/",
+  "verified": true
+ },
+ {
+  "id": "es-03080",
+  "category": "spanish",
+  "prompt": "「poliéster」の意味は？",
+  "answer": "polyester",
+  "glosses": {
+   "en": "polyester",
+   "ja": "ポリエステル"
+  },
+  "choices": [
+   "to desert",
+   "thin cord",
+   "entrance hall",
+   "polyester"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/poˈljesteɾ/",
+  "verified": true
+ },
+ {
+  "id": "es-03081",
+  "category": "spanish",
+  "prompt": "「desperfecto」の意味は？",
+  "answer": "damage",
+  "glosses": {
+   "en": "damage",
+   "ja": "破損"
+  },
+  "choices": [
+   "to telephone",
+   "damage",
+   "to snow",
+   "to undermine"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/despeɾˈfeɡto/",
+  "verified": true
+ },
+ {
+  "id": "es-03082",
+  "category": "spanish",
+  "prompt": "「sabueso」の意味は？",
+  "answer": "hound",
+  "glosses": {
+   "en": "hound",
+   "ja": "猟犬"
+  },
+  "choices": [
+   "plum",
+   "hound",
+   "chick",
+   "torment"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/saˈbweso/",
+  "verified": true
+ },
+ {
+  "id": "es-03083",
+  "category": "spanish",
+  "prompt": "「muesca」の意味は？",
+  "answer": "notch",
+  "glosses": {
+   "en": "notch",
+   "ja": "刻み目"
+  },
+  "choices": [
+   "entrance hall",
+   "infectious",
+   "notch",
+   "buckle"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈmweska/",
+  "verified": true
+ },
+ {
+  "id": "es-03084",
+  "category": "spanish",
+  "prompt": "「arañar」の意味は？",
+  "answer": "to scratch",
+  "glosses": {
+   "en": "to scratch",
+   "ja": "ひっかく"
+  },
+  "choices": [
+   "to close down",
+   "infectious",
+   "to scratch",
+   "to strangle"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/aɾaˈɲaɾ/",
+  "verified": true
+ },
+ {
+  "id": "es-03085",
+  "category": "spanish",
+  "prompt": "「almeja」の意味は？",
+  "answer": "clam",
+  "glosses": {
+   "en": "clam",
+   "ja": "ハマグリ"
+  },
+  "choices": [
+   "buckle",
+   "infectious",
+   "creak",
+   "clam"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/alˈmexa/",
+  "verified": true
+ },
+ {
+  "id": "es-03086",
+  "category": "spanish",
+  "prompt": "「espagueti」の意味は？",
+  "answer": "spaghetti",
+  "glosses": {
+   "en": "spaghetti",
+   "ja": "スパゲッティ"
+  },
+  "choices": [
+   "heavily",
+   "spaghetti",
+   "to close down",
+   "pancake"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/espaˈɡeti/",
+  "verified": true
+ },
+ {
+  "id": "es-03087",
+  "category": "spanish",
+  "prompt": "「pesadamente」の意味は？",
+  "answer": "heavily",
+  "glosses": {
+   "en": "heavily",
+   "ja": "重く"
+  },
+  "choices": [
+   "fishing bait",
+   "heavily",
+   "bumper",
+   "infectious"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "es-03088",
+  "category": "spanish",
+  "prompt": "「atinado」の意味は？",
+  "answer": "apt",
+  "glosses": {
+   "en": "apt",
+   "ja": "的を射た"
+  },
+  "choices": [
+   "heavily",
+   "creak",
+   "spaghetti",
+   "apt"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/atiˈnado/",
+  "verified": true
+ },
+ {
+  "id": "es-03089",
+  "category": "spanish",
+  "prompt": "「rehusar」の意味は？",
+  "answer": "to refuse",
+  "glosses": {
+   "en": "to refuse",
+   "ja": "断る"
+  },
+  "choices": [
+   "plum",
+   "to close down",
+   "to refuse",
+   "to decline"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/reuˈsaɾ/",
+  "verified": true
+ },
+ {
+  "id": "es-03090",
+  "category": "spanish",
+  "prompt": "「estrangular」の意味は？",
+  "answer": "to strangle",
+  "glosses": {
+   "en": "to strangle",
+   "ja": "首を絞める"
+  },
+  "choices": [
+   "to harass",
+   "clam",
+   "noisily",
+   "to strangle"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/estɾanɡuˈlaɾ/",
+  "verified": true
+ },
+ {
+  "id": "es-03091",
+  "category": "spanish",
+  "prompt": "「arenque」の意味は？",
+  "answer": "herring",
+  "glosses": {
+   "en": "herring",
+   "ja": "ニシン"
+  },
+  "choices": [
+   "pea",
+   "torment",
+   "infectious",
+   "herring"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/aˈɾenke/",
+  "verified": true
+ },
+ {
+  "id": "es-03092",
+  "category": "spanish",
+  "prompt": "「guisante」の意味は？",
+  "answer": "pea",
+  "glosses": {
+   "en": "pea",
+   "ja": "エンドウ豆"
+  },
+  "choices": [
+   "pea",
+   "herring",
+   "to desert",
+   "to undermine"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɡiˈsante/",
+  "verified": true
+ },
+ {
+  "id": "es-03093",
+  "category": "spanish",
+  "prompt": "「ruidosamente」の意味は？",
+  "answer": "noisily",
+  "glosses": {
+   "en": "noisily",
+   "ja": "騒々しく"
+  },
+  "choices": [
+   "apt",
+   "noisily",
+   "earthworm",
+   "herring"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/rwiˌdosaˈmente/",
+  "verified": true
+ },
+ {
+  "id": "es-03094",
+  "category": "spanish",
+  "prompt": "「polluelo」の意味は？",
+  "answer": "chick",
+  "glosses": {
+   "en": "chick",
+   "ja": "ひよこ"
+  },
+  "choices": [
+   "thin cord",
+   "to splash",
+   "chick",
+   "to desert"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/poˈʝwelo/",
+  "verified": true
+ },
+ {
+  "id": "es-03095",
+  "category": "spanish",
+  "prompt": "「tortita」の意味は？",
+  "answer": "pancake",
+  "glosses": {
+   "en": "pancake",
+   "ja": "パンケーキ"
+  },
+  "choices": [
+   "pancake",
+   "bumper",
+   "plum",
+   "buckle"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/toɾˈtita/",
+  "verified": true
+ },
+ {
+  "id": "es-03096",
+  "category": "spanish",
+  "prompt": "「olfatear」の意味は？",
+  "answer": "to sniff",
+  "glosses": {
+   "en": "to sniff",
+   "ja": "おいをかぐ"
+  },
+  "choices": [
+   "creak",
+   "cognac",
+   "to scratch",
+   "to sniff"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/olfateˈaɾ/",
+  "verified": true
+ },
+ {
+  "id": "es-03097",
+  "category": "spanish",
+  "prompt": "「quemadura」の意味は？",
+  "answer": "burn",
+  "glosses": {
+   "en": "burn",
+   "ja": "やけど"
+  },
+  "choices": [
+   "to refuse",
+   "attic",
+   "burn",
+   "entrance hall"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kemaˈduɾa/",
+  "verified": true
+ },
+ {
+  "id": "es-03098",
+  "category": "spanish",
+  "prompt": "「desertar」の意味は？",
+  "answer": "to desert",
+  "glosses": {
+   "en": "to desert",
+   "ja": "脱走する"
+  },
+  "choices": [
+   "to desert",
+   "pancake",
+   "apt",
+   "to splash"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/deseɾˈtaɾ/",
+  "verified": true
+ },
+ {
+  "id": "es-03099",
+  "category": "spanish",
+  "prompt": "「verídico」の意味は？",
+  "answer": "truthful",
+  "glosses": {
+   "en": "truthful",
+   "ja": "事実どおりの"
+  },
+  "choices": [
+   "shed",
+   "road shoulder",
+   "truthful",
+   "infectious"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/beˈɾidiko/",
+  "verified": true
+ },
+ {
+  "id": "es-03100",
+  "category": "spanish",
+  "prompt": "「inconcluso」の意味は？",
+  "answer": "unfinished",
+  "glosses": {
+   "en": "unfinished",
+   "ja": "未完成の"
+  },
+  "choices": [
+   "infectious",
+   "buckle",
+   "unfinished",
+   "to close down"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/inkonˈkluso/",
+  "verified": true
+ },
+ {
+  "id": "es-03101",
+  "category": "spanish",
+  "prompt": "「nevar」の意味は？",
+  "answer": "to snow",
+  "glosses": {
+   "en": "to snow",
+   "ja": "雪が降る"
+  },
+  "choices": [
+   "road shoulder",
+   "notch",
+   "to snow",
+   "to close down"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/neˈbaɾ/",
+  "verified": true
+ },
+ {
+  "id": "es-03102",
+  "category": "spanish",
+  "prompt": "「ostra」の意味は？",
+  "answer": "oyster",
+  "glosses": {
+   "en": "oyster",
+   "ja": "牡蠣"
+  },
+  "choices": [
+   "to charge",
+   "lighter",
+   "to telephone",
+   "oyster"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈostɾa/",
+  "verified": true
+ },
+ {
+  "id": "es-03103",
+  "category": "spanish",
+  "prompt": "「infeccioso」の意味は？",
+  "answer": "infectious",
+  "glosses": {
+   "en": "infectious",
+   "ja": "伝染性の"
+  },
+  "choices": [
+   "polyester",
+   "chick",
+   "to blink",
+   "infectious"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "es-03104",
+  "category": "spanish",
+  "prompt": "「hostigar」の意味は？",
+  "answer": "to harass",
+  "glosses": {
+   "en": "to harass",
+   "ja": "嫌がらせをする"
+  },
+  "choices": [
+   "earthworm",
+   "to harass",
+   "notch",
+   "to scratch"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ostiˈɡaɾ/",
+  "verified": true
+ },
+ {
+  "id": "es-03105",
+  "category": "spanish",
+  "prompt": "「crujido」の意味は？",
+  "answer": "creak",
+  "glosses": {
+   "en": "creak",
+   "ja": "きしむ音"
+  },
+  "choices": [
+   "creak",
+   "earthworm",
+   "noisily",
+   "infectious"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kɾuˈxido/",
+  "verified": true
+ },
+ {
+  "id": "es-03106",
+  "category": "spanish",
+  "prompt": "「ondear」の意味は？",
+  "answer": "to flutter",
+  "glosses": {
+   "en": "to flutter",
+   "ja": "ためく"
+  },
+  "choices": [
+   "to flutter",
+   "truthful",
+   "attic",
+   "infectious"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ondeˈaɾ/",
+  "verified": true
+ },
+ {
+  "id": "es-03107",
+  "category": "spanish",
+  "prompt": "「salpicar」の意味は？",
+  "answer": "to splash",
+  "glosses": {
+   "en": "to splash",
+   "ja": "ねかける"
+  },
+  "choices": [
+   "fishing bait",
+   "to slap",
+   "to rotate",
+   "to splash"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/salpiˈkaɾ/",
+  "verified": true
+ },
+ {
+  "id": "es-03108",
+  "category": "spanish",
+  "prompt": "「embestir」の意味は？",
+  "answer": "to charge",
+  "glosses": {
+   "en": "to charge",
+   "ja": "突進する"
+  },
+  "choices": [
+   "bumper",
+   "to flutter",
+   "road shoulder",
+   "to charge"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/embesˈtiɾ/",
+  "verified": true
+ },
+ {
+  "id": "es-03109",
+  "category": "spanish",
+  "prompt": "「apetitoso」の意味は？",
+  "answer": "appetizing",
+  "glosses": {
+   "en": "appetizing",
+   "ja": "食欲をそそる"
+  },
+  "choices": [
+   "appetizing",
+   "cognac",
+   "spaghetti",
+   "to infiltrate"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/apetiˈtoso/",
+  "verified": true
+ },
+ {
+  "id": "es-03110",
+  "category": "spanish",
+  "prompt": "「abofetear」の意味は？",
+  "answer": "to slap",
+  "glosses": {
+   "en": "to slap",
+   "ja": "平手打ちする"
+  },
+  "choices": [
+   "damage",
+   "to slap",
+   "to harass",
+   "to splash"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/abofeteˈaɾ/",
+  "verified": true
+ },
+ {
+  "id": "es-03111",
+  "category": "spanish",
+  "prompt": "「telefonear」の意味は？",
+  "answer": "to telephone",
+  "glosses": {
+   "en": "to telephone",
+   "ja": "電話をかける"
+  },
+  "choices": [
+   "road shoulder",
+   "to telephone",
+   "notch",
+   "to flutter"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/telefoneˈaɾ/",
+  "verified": true
+ },
+ {
+  "id": "es-03112",
+  "category": "spanish",
+  "prompt": "「mecer」の意味は？",
+  "answer": "to rock",
+  "glosses": {
+   "en": "to rock",
+   "ja": "揺らす"
+  },
+  "choices": [
+   "to scratch",
+   "to rock",
+   "to close down",
+   "appetizing"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/meˈθeɾ/",
+  "verified": true
+ },
+ {
+  "id": "es-03113",
+  "category": "spanish",
+  "prompt": "「socavar」の意味は？",
+  "answer": "to undermine",
+  "glosses": {
+   "en": "to undermine",
+   "ja": "徐々に弱める"
+  },
+  "choices": [
+   "oyster",
+   "to charge",
+   "to undermine",
+   "to harass"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/sokaˈbaɾ/",
+  "verified": true
+ },
+ {
+  "id": "es-03114",
+  "category": "spanish",
+  "prompt": "「coñac」の意味は？",
+  "answer": "cognac",
+  "glosses": {
+   "en": "cognac",
+   "ja": "コニャック"
+  },
+  "choices": [
+   "cognac",
+   "fishing bait",
+   "bulb",
+   "creak"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/koˈɲak/",
+  "verified": true
+ },
+ {
+  "id": "es-03115",
+  "category": "spanish",
+  "prompt": "「mechero」の意味は？",
+  "answer": "lighter",
+  "glosses": {
+   "en": "lighter",
+   "ja": "ライター"
+  },
+  "choices": [
+   "lighter",
+   "thin cord",
+   "heavily",
+   "apt"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/meˈt͡ʃeɾo/",
+  "verified": true
+ },
+ {
+  "id": "es-03116",
+  "category": "spanish",
+  "prompt": "「arcén」の意味は？",
+  "answer": "road shoulder",
+  "glosses": {
+   "en": "road shoulder",
+   "ja": "路肩"
+  },
+  "choices": [
+   "torment",
+   "hound",
+   "road shoulder",
+   "herring"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/aɾˈθen/",
+  "verified": true
+ },
+ {
+  "id": "es-03117",
+  "category": "spanish",
+  "prompt": "「gotear」の意味は？",
+  "answer": "to drip",
+  "glosses": {
+   "en": "to drip",
+   "ja": "したたる"
+  },
+  "choices": [
+   "splinter",
+   "fishing bait",
+   "to scratch",
+   "to drip"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɡoteˈaɾ/",
+  "verified": true
  }
 ]
