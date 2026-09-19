@@ -1,0 +1,12146 @@
+[
+ {
+  "id": "tl-00001",
+  "category": "tagalog",
+  "prompt": "「ngayon」の意味は？",
+  "answer": "now",
+  "glosses": {
+   "en": "now",
+   "ja": "今"
+  },
+  "choices": [
+   "point",
+   "boss",
+   "now",
+   "identity"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ŋaˈjon/",
+  "verified": true
+ },
+ {
+  "id": "tl-00002",
+  "category": "tagalog",
+  "prompt": "「dito」の意味は？",
+  "answer": "here",
+  "glosses": {
+   "en": "here",
+   "ja": "ここで"
+  },
+  "choices": [
+   "here",
+   "street corner",
+   "foundation",
+   "over there"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈdito/",
+  "verified": true
+ },
+ {
+  "id": "tl-00003",
+  "category": "tagalog",
+  "prompt": "「bansa」の意味は？",
+  "answer": "nation",
+  "glosses": {
+   "en": "nation",
+   "ja": "国家"
+  },
+  "choices": [
+   "kingdom",
+   "nation",
+   "Christianity",
+   "effective"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/banˈsaʔ/",
+  "verified": true
+ },
+ {
+  "id": "tl-00004",
+  "category": "tagalog",
+  "prompt": "「bakit」の意味は？",
+  "answer": "why",
+  "glosses": {
+   "en": "why",
+   "ja": "なぜ"
+  },
+  "choices": [
+   "why",
+   "college",
+   "data",
+   "conversation"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈbakit/",
+  "verified": true
+ },
+ {
+  "id": "tl-00005",
+  "category": "tagalog",
+  "prompt": "「pagkatapos」の意味は？",
+  "answer": "after",
+  "glosses": {
+   "en": "after",
+   "ja": "その後"
+  },
+  "choices": [
+   "result",
+   "plant",
+   "after",
+   "document"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/paɡkaˈtapos/",
+  "verified": true
+ },
+ {
+  "id": "tl-00006",
+  "category": "tagalog",
+  "prompt": "「sakit」の意味は？",
+  "answer": "pain",
+  "glosses": {
+   "en": "pain",
+   "ja": "痛み"
+  },
+  "choices": [
+   "pain",
+   "to obey",
+   "egg",
+   "number"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/saˈkit/",
+  "verified": true
+ },
+ {
+  "id": "tl-00007",
+  "category": "tagalog",
+  "prompt": "「diyos」の意味は？",
+  "answer": "god",
+  "glosses": {
+   "en": "god",
+   "ja": "神"
+  },
+  "choices": [
+   "topic",
+   "god",
+   "actor",
+   "forest"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/diˈos/",
+  "verified": true
+ },
+ {
+  "id": "tl-00008",
+  "category": "tagalog",
+  "prompt": "「mundo」の意味は？",
+  "answer": "world",
+  "glosses": {
+   "en": "world",
+   "ja": "世界"
+  },
+  "choices": [
+   "Thursday",
+   "world",
+   "tourism",
+   "global"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/munˈdo/",
+  "verified": true
+ },
+ {
+  "id": "tl-00009",
+  "category": "tagalog",
+  "prompt": "「mata」の意味は？",
+  "answer": "eye",
+  "glosses": {
+   "en": "eye",
+   "ja": "目"
+  },
+  "choices": [
+   "eye",
+   "pressure",
+   "Monday",
+   "protein"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/maˈta/",
+  "verified": true
+ },
+ {
+  "id": "tl-00010",
+  "category": "tagalog",
+  "prompt": "「kaibigan」の意味は？",
+  "answer": "friend",
+  "glosses": {
+   "en": "friend",
+   "ja": "友達"
+  },
+  "choices": [
+   "region",
+   "profession",
+   "agency",
+   "friend"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kaʔiˈbiɡan/",
+  "verified": true
+ },
+ {
+  "id": "tl-00011",
+  "category": "tagalog",
+  "prompt": "「problema」の意味は？",
+  "answer": "problem",
+  "glosses": {
+   "en": "problem",
+   "ja": "問題"
+  },
+  "choices": [
+   "number",
+   "truth",
+   "to sleep",
+   "problem"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pɾoˈblema/",
+  "verified": true
+ },
+ {
+  "id": "tl-00012",
+  "category": "tagalog",
+  "prompt": "「pamilya」の意味は？",
+  "answer": "family",
+  "glosses": {
+   "en": "family",
+   "ja": "家族"
+  },
+  "choices": [
+   "limitation",
+   "family",
+   "welfare",
+   "joy"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/paˈmilja/",
+  "verified": true
+ },
+ {
+  "id": "tl-00013",
+  "category": "tagalog",
+  "prompt": "「gabi」の意味は？",
+  "answer": "night",
+  "glosses": {
+   "en": "night",
+   "ja": "夜"
+  },
+  "choices": [
+   "clean",
+   "later",
+   "justice",
+   "night"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɡaˈbi/",
+  "verified": true
+ },
+ {
+  "id": "tl-00014",
+  "category": "tagalog",
+  "prompt": "「halos」の意味は？",
+  "answer": "almost",
+  "glosses": {
+   "en": "almost",
+   "ja": "ほとんど"
+  },
+  "choices": [
+   "symptom",
+   "business",
+   "leader",
+   "almost"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈhalos/",
+  "verified": true
+ },
+ {
+  "id": "tl-00015",
+  "category": "tagalog",
+  "prompt": "「pagkain」の意味は？",
+  "answer": "food",
+  "glosses": {
+   "en": "food",
+   "ja": "食べ物"
+  },
+  "choices": [
+   "death",
+   "district",
+   "food",
+   "muscle"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/paɡˈkaʔin/",
+  "verified": true
+ },
+ {
+  "id": "tl-00016",
+  "category": "tagalog",
+  "prompt": "「minsan」の意味は？",
+  "answer": "sometimes",
+  "glosses": {
+   "en": "sometimes",
+   "ja": "ときどき"
+  },
+  "choices": [
+   "method",
+   "sometimes",
+   "slow",
+   "insect"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈminsan/",
+  "verified": true
+ },
+ {
+  "id": "tl-00017",
+  "category": "tagalog",
+  "prompt": "「pelikula」の意味は？",
+  "answer": "film",
+  "glosses": {
+   "en": "film",
+   "ja": "映画"
+  },
+  "choices": [
+   "conversation",
+   "film",
+   "nonsense",
+   "congress"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/peˈlikula/",
+  "verified": true
+ },
+ {
+  "id": "tl-00018",
+  "category": "tagalog",
+  "prompt": "「maganda」の意味は？",
+  "answer": "beautiful",
+  "glosses": {
+   "en": "beautiful",
+   "ja": "美しい"
+  },
+  "choices": [
+   "Thursday",
+   "wheel",
+   "beautiful",
+   "apparatus"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/maɡanˈda/",
+  "verified": true
+ },
+ {
+  "id": "tl-00019",
+  "category": "tagalog",
+  "prompt": "「maliit」の意味は？",
+  "answer": "small",
+  "glosses": {
+   "en": "small",
+   "ja": "小さい"
+  },
+  "choices": [
+   "mouse",
+   "advice",
+   "energy",
+   "small"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/maliˈʔit/",
+  "verified": true
+ },
+ {
+  "id": "tl-00020",
+  "category": "tagalog",
+  "prompt": "「pera」の意味は？",
+  "answer": "money",
+  "glosses": {
+   "en": "money",
+   "ja": "お金"
+  },
+  "choices": [
+   "money",
+   "to agree",
+   "investigation",
+   "essay"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈpeɾa/",
+  "verified": true
+ },
+ {
+  "id": "tl-00021",
+  "category": "tagalog",
+  "prompt": "「buwan」の意味は？",
+  "answer": "moon",
+  "glosses": {
+   "en": "moon",
+   "ja": "月"
+  },
+  "choices": [
+   "crime",
+   "moon",
+   "cold",
+   "point"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/buˈan/",
+  "verified": true
+ },
+ {
+  "id": "tl-00022",
+  "category": "tagalog",
+  "prompt": "「ina」の意味は？",
+  "answer": "mother",
+  "glosses": {
+   "en": "mother",
+   "ja": "母"
+  },
+  "choices": [
+   "meeting",
+   "smart",
+   "mother",
+   "celebration"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʔiˈna/",
+  "verified": true
+ },
+ {
+  "id": "tl-00023",
+  "category": "tagalog",
+  "prompt": "「kanta」の意味は？",
+  "answer": "song",
+  "glosses": {
+   "en": "song",
+   "ja": "歌"
+  },
+  "choices": [
+   "song",
+   "stage",
+   "commodity",
+   "tradition"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kanˈta/",
+  "verified": true
+ },
+ {
+  "id": "tl-00024",
+  "category": "tagalog",
+  "prompt": "「paraan」の意味は？",
+  "answer": "method",
+  "glosses": {
+   "en": "method",
+   "ja": "方法"
+  },
+  "choices": [
+   "apparatus",
+   "flag",
+   "mayor",
+   "method"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/paɾaˈʔan/",
+  "verified": true
+ },
+ {
+  "id": "tl-00025",
+  "category": "tagalog",
+  "prompt": "「madalas」の意味は？",
+  "answer": "frequent",
+  "glosses": {
+   "en": "frequent",
+   "ja": "頻繁な"
+  },
+  "choices": [
+   "frequent",
+   "personal",
+   "budget",
+   "governor"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/madaˈlas/",
+  "verified": true
+ },
+ {
+  "id": "tl-00026",
+  "category": "tagalog",
+  "prompt": "「masaya」の意味は？",
+  "answer": "joyful",
+  "glosses": {
+   "en": "joyful",
+   "ja": "うれしい"
+  },
+  "choices": [
+   "nose",
+   "key",
+   "joyful",
+   "easy"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/masaˈja/",
+  "verified": true
+ },
+ {
+  "id": "tl-00027",
+  "category": "tagalog",
+  "prompt": "「mahirap」の意味は？",
+  "answer": "difficult",
+  "glosses": {
+   "en": "difficult",
+   "ja": "難しい"
+  },
+  "choices": [
+   "point",
+   "difficult",
+   "now",
+   "belief"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/maˈhiɾap/",
+  "verified": true
+ },
+ {
+  "id": "tl-00028",
+  "category": "tagalog",
+  "prompt": "「buhok」の意味は？",
+  "answer": "hair",
+  "glosses": {
+   "en": "hair",
+   "ja": "髪"
+  },
+  "choices": [
+   "yesterday",
+   "hair",
+   "bathroom",
+   "slave"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/buˈhok/",
+  "verified": true
+ },
+ {
+  "id": "tl-00029",
+  "category": "tagalog",
+  "prompt": "「muli」の意味は？",
+  "answer": "again",
+  "glosses": {
+   "en": "again",
+   "ja": "再び"
+  },
+  "choices": [
+   "vaccine",
+   "participant",
+   "again",
+   "slow"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/muˈliʔ/",
+  "verified": true
+ },
+ {
+  "id": "tl-00030",
+  "category": "tagalog",
+  "prompt": "「lungsod」の意味は？",
+  "answer": "city",
+  "glosses": {
+   "en": "city",
+   "ja": "都市"
+  },
+  "choices": [
+   "to hurt",
+   "city",
+   "finance",
+   "to cook"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/luŋˈsod/",
+  "verified": true
+ },
+ {
+  "id": "tl-00031",
+  "category": "tagalog",
+  "prompt": "「karamihan」の意味は？",
+  "answer": "majority",
+  "glosses": {
+   "en": "majority",
+   "ja": "大多数"
+  },
+  "choices": [
+   "general",
+   "belief",
+   "minister",
+   "majority"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kaɾaˈmihan/",
+  "verified": true
+ },
+ {
+  "id": "tl-00032",
+  "category": "tagalog",
+  "prompt": "「kasalanan」の意味は？",
+  "answer": "sin",
+  "glosses": {
+   "en": "sin",
+   "ja": "罪"
+  },
+  "choices": [
+   "method",
+   "sin",
+   "to live",
+   "bird"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kasaˈlanan/",
+  "verified": true
+ },
+ {
+  "id": "tl-00033",
+  "category": "tagalog",
+  "prompt": "「bumili」の意味は？",
+  "answer": "to buy",
+  "glosses": {
+   "en": "to buy",
+   "ja": "買う"
+  },
+  "choices": [
+   "to say",
+   "piece",
+   "to buy",
+   "province"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bumiˈli/",
+  "verified": true
+ },
+ {
+  "id": "tl-00034",
+  "category": "tagalog",
+  "prompt": "「linggo」の意味は？",
+  "answer": "week",
+  "glosses": {
+   "en": "week",
+   "ja": "週"
+  },
+  "choices": [
+   "violence",
+   "music",
+   "week",
+   "data"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/liŋˈɡo/",
+  "verified": true
+ },
+ {
+  "id": "tl-00035",
+  "category": "tagalog",
+  "prompt": "「edad」の意味は？",
+  "answer": "age",
+  "glosses": {
+   "en": "age",
+   "ja": "年齢"
+  },
+  "choices": [
+   "governor",
+   "age",
+   "Saturday",
+   "strict"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʔeˈdad/",
+  "verified": true
+ },
+ {
+  "id": "tl-00036",
+  "category": "tagalog",
+  "prompt": "「grupo」の意味は？",
+  "answer": "group",
+  "glosses": {
+   "en": "group",
+   "ja": "集団"
+  },
+  "choices": [
+   "violence",
+   "group",
+   "city",
+   "again"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈɡɾupo/",
+  "verified": true
+ },
+ {
+  "id": "tl-00037",
+  "category": "tagalog",
+  "prompt": "「dami」の意味は？",
+  "answer": "amount",
+  "glosses": {
+   "en": "amount",
+   "ja": "量"
+  },
+  "choices": [
+   "amount",
+   "lifestyle",
+   "palm",
+   "intelligence"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈdami/",
+  "verified": true
+ },
+ {
+  "id": "tl-00038",
+  "category": "tagalog",
+  "prompt": "「pangulo」の意味は？",
+  "answer": "president",
+  "glosses": {
+   "en": "president",
+   "ja": "大統領"
+  },
+  "choices": [
+   "preparation",
+   "belief",
+   "grandfather",
+   "president"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/paˈŋulo/",
+  "verified": true
+ },
+ {
+  "id": "tl-00039",
+  "category": "tagalog",
+  "prompt": "「miyembro」の意味は？",
+  "answer": "member",
+  "glosses": {
+   "en": "member",
+   "ja": "会員"
+  },
+  "choices": [
+   "temple",
+   "protection",
+   "here",
+   "member"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/miˈembɾo/",
+  "verified": true
+ },
+ {
+  "id": "tl-00040",
+  "category": "tagalog",
+  "prompt": "「kuwento」の意味は？",
+  "answer": "story",
+  "glosses": {
+   "en": "story",
+   "ja": "物語"
+  },
+  "choices": [
+   "banana",
+   "father",
+   "story",
+   "priest"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kuˈento/",
+  "verified": true
+ },
+ {
+  "id": "tl-00041",
+  "category": "tagalog",
+  "prompt": "「sanhi」の意味は？",
+  "answer": "cause",
+  "glosses": {
+   "en": "cause",
+   "ja": "原因"
+  },
+  "choices": [
+   "Christianity",
+   "plan",
+   "gun",
+   "cause"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/sanˈhiʔ/",
+  "verified": true
+ },
+ {
+  "id": "tl-00042",
+  "category": "tagalog",
+  "prompt": "「Linggo」の意味は？",
+  "answer": "Sunday",
+  "glosses": {
+   "en": "Sunday",
+   "ja": "日曜日"
+  },
+  "choices": [
+   "Sunday",
+   "enemy",
+   "father",
+   "arm"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/liŋˈɡo/",
+  "verified": true
+ },
+ {
+  "id": "tl-00043",
+  "category": "tagalog",
+  "prompt": "「pumasok」の意味は？",
+  "answer": "to enter",
+  "glosses": {
+   "en": "to enter",
+   "ja": "入る"
+  },
+  "choices": [
+   "rich",
+   "to enter",
+   "lightning",
+   "vaccine"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/puˈmasok/",
+  "verified": true
+ },
+ {
+  "id": "tl-00044",
+  "category": "tagalog",
+  "prompt": "「medyo」の意味は？",
+  "answer": "somewhat",
+  "glosses": {
+   "en": "somewhat",
+   "ja": "やや"
+  },
+  "choices": [
+   "nature",
+   "mother",
+   "somewhat",
+   "food"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈmedjo/",
+  "verified": true
+ },
+ {
+  "id": "tl-00045",
+  "category": "tagalog",
+  "prompt": "「kahulugan」の意味は？",
+  "answer": "meaning",
+  "glosses": {
+   "en": "meaning",
+   "ja": "意味"
+  },
+  "choices": [
+   "course of study",
+   "dance",
+   "meaning",
+   "again"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kahuluˈɡan/",
+  "verified": true
+ },
+ {
+  "id": "tl-00046",
+  "category": "tagalog",
+  "prompt": "「drama」の意味は？",
+  "answer": "drama",
+  "glosses": {
+   "en": "drama",
+   "ja": "ドラマ"
+  },
+  "choices": [
+   "speech",
+   "drama",
+   "miracle",
+   "airplane"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈdɾama/",
+  "verified": true
+ },
+ {
+  "id": "tl-00047",
+  "category": "tagalog",
+  "prompt": "「damit」の意味は？",
+  "answer": "clothes",
+  "glosses": {
+   "en": "clothes",
+   "ja": "衣服"
+  },
+  "choices": [
+   "clothes",
+   "always",
+   "schedule",
+   "potato"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/daˈmit/",
+  "verified": true
+ },
+ {
+  "id": "tl-00048",
+  "category": "tagalog",
+  "prompt": "「halaman」の意味は？",
+  "answer": "plant",
+  "glosses": {
+   "en": "plant",
+   "ja": "植物"
+  },
+  "choices": [
+   "critical",
+   "money",
+   "to go",
+   "plant"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/haˈlaman/",
+  "verified": true
+ },
+ {
+  "id": "tl-00049",
+  "category": "tagalog",
+  "prompt": "「pagkakataon」の意味は？",
+  "answer": "opportunity",
+  "glosses": {
+   "en": "opportunity",
+   "ja": "機会"
+  },
+  "choices": [
+   "decision",
+   "war",
+   "series",
+   "opportunity"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/paɡkaˌkataˈʔon/",
+  "verified": true
+ },
+ {
+  "id": "tl-00050",
+  "category": "tagalog",
+  "prompt": "「beses」の意味は？",
+  "answer": "times",
+  "glosses": {
+   "en": "times",
+   "ja": "回"
+  },
+  "choices": [
+   "miracle",
+   "onion",
+   "personal",
+   "times"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈbeses/",
+  "verified": true
+ },
+ {
+  "id": "tl-00051",
+  "category": "tagalog",
+  "prompt": "「resulta」の意味は？",
+  "answer": "result",
+  "glosses": {
+   "en": "result",
+   "ja": "結果"
+  },
+  "choices": [
+   "ancestor",
+   "condition",
+   "result",
+   "Monday"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɾeˈsulta/",
+  "verified": true
+ },
+ {
+  "id": "tl-00052",
+  "category": "tagalog",
+  "prompt": "「edukasyon」の意味は？",
+  "answer": "education",
+  "glosses": {
+   "en": "education",
+   "ja": "教育"
+  },
+  "choices": [
+   "actor",
+   "again",
+   "education",
+   "test"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʔedukasˈjon/",
+  "verified": true
+ },
+ {
+  "id": "tl-00053",
+  "category": "tagalog",
+  "prompt": "「paaralan」の意味は？",
+  "answer": "school",
+  "glosses": {
+   "en": "school",
+   "ja": "学校"
+  },
+  "choices": [
+   "breakfast",
+   "ancestor",
+   "winter",
+   "school"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˌpaʔaɾaˈlan/",
+  "verified": true
+ },
+ {
+  "id": "tl-00054",
+  "category": "tagalog",
+  "prompt": "「aklat」の意味は？",
+  "answer": "book",
+  "glosses": {
+   "en": "book",
+   "ja": "本"
+  },
+  "choices": [
+   "model",
+   "airplane",
+   "hip",
+   "book"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʔakˈlat/",
+  "verified": true
+ },
+ {
+  "id": "tl-00055",
+  "category": "tagalog",
+  "prompt": "「pangyayari」の意味は？",
+  "answer": "event",
+  "glosses": {
+   "en": "event",
+   "ja": "出来事"
+  },
+  "choices": [
+   "mayor",
+   "event",
+   "cancer",
+   "bottle"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/paŋjaˈjaɾi/",
+  "verified": true
+ },
+ {
+  "id": "tl-00056",
+  "category": "tagalog",
+  "prompt": "「impormasyon」の意味は？",
+  "answer": "information",
+  "glosses": {
+   "en": "information",
+   "ja": "情報"
+  },
+  "choices": [
+   "truth",
+   "information",
+   "unit",
+   "bank"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʔimpoɾmasˈjon/",
+  "verified": true
+ },
+ {
+  "id": "tl-00057",
+  "category": "tagalog",
+  "prompt": "「mamamayan」の意味は？",
+  "answer": "citizen",
+  "glosses": {
+   "en": "citizen",
+   "ja": "国民"
+  },
+  "choices": [
+   "few",
+   "foundation",
+   "citizen",
+   "senate"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˌmamamaˈjan/",
+  "verified": true
+ },
+ {
+  "id": "tl-00058",
+  "category": "tagalog",
+  "prompt": "「sistema」の意味は？",
+  "answer": "system",
+  "glosses": {
+   "en": "system",
+   "ja": "システム"
+  },
+  "choices": [
+   "system",
+   "religion",
+   "friendship",
+   "apparatus"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/sisˈtema/",
+  "verified": true
+ },
+ {
+  "id": "tl-00059",
+  "category": "tagalog",
+  "prompt": "「pagmamahal」の意味は？",
+  "answer": "love",
+  "glosses": {
+   "en": "love",
+   "ja": "愛"
+  },
+  "choices": [
+   "literature",
+   "balloon",
+   "intestine",
+   "love"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/paɡmamaˈhal/",
+  "verified": true
+ },
+ {
+  "id": "tl-00060",
+  "category": "tagalog",
+  "prompt": "「doon」の意味は？",
+  "answer": "over there",
+  "glosses": {
+   "en": "over there",
+   "ja": "あそこに"
+  },
+  "choices": [
+   "over there",
+   "community",
+   "commodity",
+   "apostle"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/doˈʔon/",
+  "verified": true
+ },
+ {
+  "id": "tl-00061",
+  "category": "tagalog",
+  "prompt": "「usapan」の意味は？",
+  "answer": "conversation",
+  "glosses": {
+   "en": "conversation",
+   "ja": "会話"
+  },
+  "choices": [
+   "ocean",
+   "money",
+   "always",
+   "conversation"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʔuˈsapan/",
+  "verified": true
+ },
+ {
+  "id": "tl-00062",
+  "category": "tagalog",
+  "prompt": "「malaki」の意味は？",
+  "answer": "big",
+  "glosses": {
+   "en": "big",
+   "ja": "大きい"
+  },
+  "choices": [
+   "climate",
+   "Mass",
+   "big",
+   "potato"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/malaˈki/",
+  "verified": true
+ },
+ {
+  "id": "tl-00063",
+  "category": "tagalog",
+  "prompt": "「kamatayan」の意味は？",
+  "answer": "death",
+  "glosses": {
+   "en": "death",
+   "ja": "死"
+  },
+  "choices": [
+   "death",
+   "health",
+   "shoe",
+   "there"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kamaˈtajan/",
+  "verified": true
+ },
+ {
+  "id": "tl-00064",
+  "category": "tagalog",
+  "prompt": "「personal」の意味は？",
+  "answer": "personal",
+  "glosses": {
+   "en": "personal",
+   "ja": "個人的な"
+  },
+  "choices": [
+   "cause",
+   "leader",
+   "personal",
+   "inspiration"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/peɾsoˈnal/",
+  "verified": true
+ },
+ {
+  "id": "tl-00065",
+  "category": "tagalog",
+  "prompt": "「aktor」の意味は？",
+  "answer": "actor",
+  "glosses": {
+   "en": "actor",
+   "ja": "俳優"
+  },
+  "choices": [
+   "monkey",
+   "long",
+   "short",
+   "actor"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʔakˈtoɾ/",
+  "verified": true
+ },
+ {
+  "id": "tl-00066",
+  "category": "tagalog",
+  "prompt": "「kultura」の意味は？",
+  "answer": "culture",
+  "glosses": {
+   "en": "culture",
+   "ja": "文化"
+  },
+  "choices": [
+   "love",
+   "freedom",
+   "culture",
+   "memory"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kulˈtuɾa/",
+  "verified": true
+ },
+ {
+  "id": "tl-00067",
+  "category": "tagalog",
+  "prompt": "「lola」の意味は？",
+  "answer": "grandmother",
+  "glosses": {
+   "en": "grandmother",
+   "ja": "祖母"
+  },
+  "choices": [
+   "beautiful",
+   "grandmother",
+   "forehead",
+   "fish"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈlola/",
+  "verified": true
+ },
+ {
+  "id": "tl-00068",
+  "category": "tagalog",
+  "prompt": "「gamot」の意味は？",
+  "answer": "medicine",
+  "glosses": {
+   "en": "medicine",
+   "ja": "薬"
+  },
+  "choices": [
+   "cancer",
+   "joke",
+   "ability",
+   "medicine"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɡaˈmot/",
+  "verified": true
+ },
+ {
+  "id": "tl-00069",
+  "category": "tagalog",
+  "prompt": "「kakayahan」の意味は？",
+  "answer": "ability",
+  "glosses": {
+   "en": "ability",
+   "ja": "能力"
+  },
+  "choices": [
+   "grandchild",
+   "ability",
+   "price",
+   "fate"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kakajaˈhan/",
+  "verified": true
+ },
+ {
+  "id": "tl-00070",
+  "category": "tagalog",
+  "prompt": "「guro」の意味は？",
+  "answer": "teacher",
+  "glosses": {
+   "en": "teacher",
+   "ja": "先生"
+  },
+  "choices": [
+   "literature",
+   "the police",
+   "teacher",
+   "easy"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈɡuɾoʔ/",
+  "verified": true
+ },
+ {
+  "id": "tl-00071",
+  "category": "tagalog",
+  "prompt": "「negosyo」の意味は？",
+  "answer": "business",
+  "glosses": {
+   "en": "business",
+   "ja": "商売"
+  },
+  "choices": [
+   "force",
+   "reality",
+   "business",
+   "drug"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/neˈɡosjo/",
+  "verified": true
+ },
+ {
+  "id": "tl-00072",
+  "category": "tagalog",
+  "prompt": "「kaharian」の意味は？",
+  "answer": "kingdom",
+  "glosses": {
+   "en": "kingdom",
+   "ja": "王国"
+  },
+  "choices": [
+   "kingdom",
+   "writer",
+   "livelihood",
+   "fund"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kahaɾiˈʔan/",
+  "verified": true
+ },
+ {
+  "id": "tl-00073",
+  "category": "tagalog",
+  "prompt": "「kahapon」の意味は？",
+  "answer": "yesterday",
+  "glosses": {
+   "en": "yesterday",
+   "ja": "昨日"
+  },
+  "choices": [
+   "president",
+   "yesterday",
+   "small",
+   "sometimes"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kaˈhapon/",
+  "verified": true
+ },
+ {
+  "id": "tl-00074",
+  "category": "tagalog",
+  "prompt": "「epekto」の意味は？",
+  "answer": "effect",
+  "glosses": {
+   "en": "effect",
+   "ja": "効果"
+  },
+  "choices": [
+   "transportation",
+   "intelligence",
+   "management",
+   "effect"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʔeˈpekto/",
+  "verified": true
+ },
+ {
+  "id": "tl-00075",
+  "category": "tagalog",
+  "prompt": "「katotohanan」の意味は？",
+  "answer": "truth",
+  "glosses": {
+   "en": "truth",
+   "ja": "真実"
+  },
+  "choices": [
+   "to obey",
+   "truth",
+   "garden",
+   "light"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/katotoˈhanan/",
+  "verified": true
+ },
+ {
+  "id": "tl-00076",
+  "category": "tagalog",
+  "prompt": "「proseso」の意味は？",
+  "answer": "process",
+  "glosses": {
+   "en": "process",
+   "ja": "過程"
+  },
+  "choices": [
+   "interest",
+   "process",
+   "typhoon",
+   "gratitude"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pɾoˈseso/",
+  "verified": true
+ },
+ {
+  "id": "tl-00077",
+  "category": "tagalog",
+  "prompt": "「katangian」の意味は？",
+  "answer": "characteristic",
+  "glosses": {
+   "en": "characteristic",
+   "ja": "特徴"
+  },
+  "choices": [
+   "yesterday",
+   "train",
+   "food",
+   "characteristic"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kataˈŋiʔan/",
+  "verified": true
+ },
+ {
+  "id": "tl-00078",
+  "category": "tagalog",
+  "prompt": "「tiyak」の意味は？",
+  "answer": "sure",
+  "glosses": {
+   "en": "sure",
+   "ja": "確実な"
+  },
+  "choices": [
+   "to ask",
+   "father",
+   "sure",
+   "light"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/tiˈak/",
+  "verified": true
+ },
+ {
+  "id": "tl-00079",
+  "category": "tagalog",
+  "prompt": "「kababaihan」の意味は？",
+  "answer": "women",
+  "glosses": {
+   "en": "women",
+   "ja": "女性たち"
+  },
+  "choices": [
+   "thin",
+   "women",
+   "detail",
+   "clothes"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kababaˈʔihan/",
+  "verified": true
+ },
+ {
+  "id": "tl-00080",
+  "category": "tagalog",
+  "prompt": "「pananaw」の意味は？",
+  "answer": "viewpoint",
+  "glosses": {
+   "en": "viewpoint",
+   "ja": "視点"
+  },
+  "choices": [
+   "muscle",
+   "viewpoint",
+   "why",
+   "smart"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/panaˈnaw/",
+  "verified": true
+ },
+ {
+  "id": "tl-00081",
+  "category": "tagalog",
+  "prompt": "「bundok」の意味は？",
+  "answer": "mountain",
+  "glosses": {
+   "en": "mountain",
+   "ja": "山"
+  },
+  "choices": [
+   "humankind",
+   "authority",
+   "mountain",
+   "group"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bunˈdok/",
+  "verified": true
+ },
+ {
+  "id": "tl-00082",
+  "category": "tagalog",
+  "prompt": "「kanina」の意味は？",
+  "answer": "a while ago",
+  "glosses": {
+   "en": "a while ago",
+   "ja": "さっき"
+  },
+  "choices": [
+   "a while ago",
+   "to ask",
+   "doctrine",
+   "here"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kaˈnina/",
+  "verified": true
+ },
+ {
+  "id": "tl-00083",
+  "category": "tagalog",
+  "prompt": "「masarap」の意味は？",
+  "answer": "delicious",
+  "glosses": {
+   "en": "delicious",
+   "ja": "おいしい"
+  },
+  "choices": [
+   "Monday",
+   "article",
+   "delicious",
+   "syllable"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/masaˈɾap/",
+  "verified": true
+ },
+ {
+  "id": "tl-00084",
+  "category": "tagalog",
+  "prompt": "「rehiyon」の意味は？",
+  "answer": "region",
+  "glosses": {
+   "en": "region",
+   "ja": "地域"
+  },
+  "choices": [
+   "juice",
+   "region",
+   "egg",
+   "freedom"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɾehiˈon/",
+  "verified": true
+ },
+ {
+  "id": "tl-00085",
+  "category": "tagalog",
+  "prompt": "「tiyan」の意味は？",
+  "answer": "abdomen",
+  "glosses": {
+   "en": "abdomen",
+   "ja": "腹部"
+  },
+  "choices": [
+   "west",
+   "abdomen",
+   "victory",
+   "protein"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/tiˈan/",
+  "verified": true
+ },
+ {
+  "id": "tl-00086",
+  "category": "tagalog",
+  "prompt": "「pagsasanay」の意味は？",
+  "answer": "training",
+  "glosses": {
+   "en": "training",
+   "ja": "訓練"
+  },
+  "choices": [
+   "development",
+   "soup",
+   "training",
+   "miracle"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/paɡsaˈsanaj/",
+  "verified": true
+ },
+ {
+  "id": "tl-00087",
+  "category": "tagalog",
+  "prompt": "「tatay」の意味は？",
+  "answer": "father",
+  "glosses": {
+   "en": "father",
+   "ja": "父"
+  },
+  "choices": [
+   "father",
+   "meaning",
+   "corpse",
+   "villain"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈtataj/",
+  "verified": true
+ },
+ {
+  "id": "tl-00088",
+  "category": "tagalog",
+  "prompt": "「ulan」の意味は？",
+  "answer": "rain",
+  "glosses": {
+   "en": "rain",
+   "ja": "雨"
+  },
+  "choices": [
+   "election",
+   "rain",
+   "to enter",
+   "sin"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʔuˈlan/",
+  "verified": true
+ },
+ {
+  "id": "tl-00089",
+  "category": "tagalog",
+  "prompt": "「plano」の意味は？",
+  "answer": "plan",
+  "glosses": {
+   "en": "plan",
+   "ja": "計画"
+  },
+  "choices": [
+   "bathroom",
+   "plan",
+   "politics",
+   "health"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈplano/",
+  "verified": true
+ },
+ {
+  "id": "tl-00090",
+  "category": "tagalog",
+  "prompt": "「bibig」の意味は？",
+  "answer": "mouth",
+  "glosses": {
+   "en": "mouth",
+   "ja": "口"
+  },
+  "choices": [
+   "mouth",
+   "authority",
+   "tourism",
+   "black"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/biˈbiɡ/",
+  "verified": true
+ },
+ {
+  "id": "tl-00091",
+  "category": "tagalog",
+  "prompt": "「isda」の意味は？",
+  "answer": "fish",
+  "glosses": {
+   "en": "fish",
+   "ja": "魚"
+  },
+  "choices": [
+   "follower",
+   "fish",
+   "ring",
+   "kingdom"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʔisˈdaʔ/",
+  "verified": true
+ },
+ {
+  "id": "tl-00092",
+  "category": "tagalog",
+  "prompt": "「kalayaan」の意味は？",
+  "answer": "freedom",
+  "glosses": {
+   "en": "freedom",
+   "ja": "自由"
+  },
+  "choices": [
+   "to call",
+   "freedom",
+   "vaccine",
+   "characteristic"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kalaˈjaʔan/",
+  "verified": true
+ },
+ {
+  "id": "tl-00093",
+  "category": "tagalog",
+  "prompt": "「malawak」の意味は？",
+  "answer": "wide",
+  "glosses": {
+   "en": "wide",
+   "ja": "広い"
+  },
+  "choices": [
+   "nonsense",
+   "window",
+   "generation",
+   "wide"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/maˈlawak/",
+  "verified": true
+ },
+ {
+  "id": "tl-00094",
+  "category": "tagalog",
+  "prompt": "「lalawigan」の意味は？",
+  "answer": "province",
+  "glosses": {
+   "en": "province",
+   "ja": "州"
+  },
+  "choices": [
+   "plant",
+   "province",
+   "typhoon",
+   "to sleep"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/lalaˈwiɡan/",
+  "verified": true
+ },
+ {
+  "id": "tl-00095",
+  "category": "tagalog",
+  "prompt": "「teknolohiya」の意味は？",
+  "answer": "technology",
+  "glosses": {
+   "en": "technology",
+   "ja": "技術"
+  },
+  "choices": [
+   "west",
+   "technology",
+   "climate",
+   "table"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/teknoloˈhia/",
+  "verified": true
+ },
+ {
+  "id": "tl-00096",
+  "category": "tagalog",
+  "prompt": "「sintomas」の意味は？",
+  "answer": "symptom",
+  "glosses": {
+   "en": "symptom",
+   "ja": "症状"
+  },
+  "choices": [
+   "adventure",
+   "symptom",
+   "forehead",
+   "death"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈsintomas/",
+  "verified": true
+ },
+ {
+  "id": "tl-00097",
+  "category": "tagalog",
+  "prompt": "「relihiyon」の意味は？",
+  "answer": "religion",
+  "glosses": {
+   "en": "religion",
+   "ja": "宗教"
+  },
+  "choices": [
+   "black",
+   "religion",
+   "application",
+   "to live"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɾelihiˈon/",
+  "verified": true
+ },
+ {
+  "id": "tl-00098",
+  "category": "tagalog",
+  "prompt": "「gobyerno」の意味は？",
+  "answer": "government",
+  "glosses": {
+   "en": "government",
+   "ja": "政府"
+  },
+  "choices": [
+   "government",
+   "dog",
+   "finance",
+   "court"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɡobˈjeɾno/",
+  "verified": true
+ },
+ {
+  "id": "tl-00099",
+  "category": "tagalog",
+  "prompt": "「ilog」の意味は？",
+  "answer": "river",
+  "glosses": {
+   "en": "river",
+   "ja": "川"
+  },
+  "choices": [
+   "river",
+   "legend",
+   "always",
+   "beautiful"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈʔiloɡ/",
+  "verified": true
+ },
+ {
+  "id": "tl-00100",
+  "category": "tagalog",
+  "prompt": "「paksa」の意味は？",
+  "answer": "topic",
+  "glosses": {
+   "en": "topic",
+   "ja": "話題"
+  },
+  "choices": [
+   "topic",
+   "cousin",
+   "forehead",
+   "newspaper"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pakˈsaʔ/",
+  "verified": true
+ },
+ {
+  "id": "tl-00101",
+  "category": "tagalog",
+  "prompt": "「tagumpay」の意味は？",
+  "answer": "success",
+  "glosses": {
+   "en": "success",
+   "ja": "成功"
+  },
+  "choices": [
+   "success",
+   "to go",
+   "bed",
+   "the police"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/taɡumˈpaj/",
+  "verified": true
+ },
+ {
+  "id": "tl-00102",
+  "category": "tagalog",
+  "prompt": "「masakit」の意味は？",
+  "answer": "painful",
+  "glosses": {
+   "en": "painful",
+   "ja": "痛い"
+  },
+  "choices": [
+   "there",
+   "generation",
+   "fan",
+   "painful"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/masaˈkit/",
+  "verified": true
+ },
+ {
+  "id": "tl-00103",
+  "category": "tagalog",
+  "prompt": "「boses」の意味は？",
+  "answer": "voice",
+  "glosses": {
+   "en": "voice",
+   "ja": "声"
+  },
+  "choices": [
+   "joyful",
+   "arm",
+   "why",
+   "voice"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈboses/",
+  "verified": true
+ },
+ {
+  "id": "tl-00104",
+  "category": "tagalog",
+  "prompt": "「mangyari」の意味は？",
+  "answer": "to happen",
+  "glosses": {
+   "en": "to happen",
+   "ja": "起こる"
+  },
+  "choices": [
+   "monkey",
+   "series",
+   "right",
+   "to happen"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/maŋˈjaɾi/",
+  "verified": true
+ },
+ {
+  "id": "tl-00105",
+  "category": "tagalog",
+  "prompt": "「paniniwala」の意味は？",
+  "answer": "belief",
+  "glosses": {
+   "en": "belief",
+   "ja": "信念"
+  },
+  "choices": [
+   "belief",
+   "climate",
+   "senator",
+   "bridge"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/paniniˈwalaʔ/",
+  "verified": true
+ },
+ {
+  "id": "tl-00106",
+  "category": "tagalog",
+  "prompt": "「kalikasan」の意味は？",
+  "answer": "nature",
+  "glosses": {
+   "en": "nature",
+   "ja": "自然"
+  },
+  "choices": [
+   "nature",
+   "priest",
+   "apostle",
+   "apparatus"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kaliˈkasan/",
+  "verified": true
+ },
+ {
+  "id": "tl-00107",
+  "category": "tagalog",
+  "prompt": "「pagkakaiba」の意味は？",
+  "answer": "difference",
+  "glosses": {
+   "en": "difference",
+   "ja": "違い"
+  },
+  "choices": [
+   "grandmother",
+   "few",
+   "forest",
+   "difference"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/paɡkakaʔiˈba/",
+  "verified": true
+ },
+ {
+  "id": "tl-00108",
+  "category": "tagalog",
+  "prompt": "「kalusugan」の意味は？",
+  "answer": "health",
+  "glosses": {
+   "en": "health",
+   "ja": "健康"
+  },
+  "choices": [
+   "sugar",
+   "health",
+   "unit",
+   "contribution"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kaluˈsuɡan/",
+  "verified": true
+ },
+ {
+  "id": "tl-00109",
+  "category": "tagalog",
+  "prompt": "「pamamahala」の意味は？",
+  "answer": "management",
+  "glosses": {
+   "en": "management",
+   "ja": "管理"
+  },
+  "choices": [
+   "school",
+   "long",
+   "management",
+   "appearance"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pamamaˈhalaʔ/",
+  "verified": true
+ },
+ {
+  "id": "tl-00110",
+  "category": "tagalog",
+  "prompt": "「pangangailangan」の意味は？",
+  "answer": "need",
+  "glosses": {
+   "en": "need",
+   "ja": "必要性"
+  },
+  "choices": [
+   "need",
+   "maize",
+   "bridge",
+   "lack"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/paŋaŋaʔiˈlaŋan/",
+  "verified": true
+ },
+ {
+  "id": "tl-00111",
+  "category": "tagalog",
+  "prompt": "「ulat」の意味は？",
+  "answer": "report",
+  "glosses": {
+   "en": "report",
+   "ja": "報告"
+  },
+  "choices": [
+   "report",
+   "text",
+   "delicious",
+   "juice"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈʔulat/",
+  "verified": true
+ },
+ {
+  "id": "tl-00112",
+  "category": "tagalog",
+  "prompt": "「publiko」の意味は？",
+  "answer": "the public",
+  "glosses": {
+   "en": "the public",
+   "ja": "大衆"
+  },
+  "choices": [
+   "to speak",
+   "message",
+   "debate",
+   "the public"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈpubliko/",
+  "verified": true
+ },
+ {
+  "id": "tl-00113",
+  "category": "tagalog",
+  "prompt": "「madali」の意味は？",
+  "answer": "easy",
+  "glosses": {
+   "en": "easy",
+   "ja": "簡単な"
+  },
+  "choices": [
+   "enemy",
+   "easy",
+   "roof",
+   "shoulder"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/madaˈliʔ/",
+  "verified": true
+ },
+ {
+  "id": "tl-00114",
+  "category": "tagalog",
+  "prompt": "「panaginip」の意味は？",
+  "answer": "dream",
+  "glosses": {
+   "en": "dream",
+   "ja": "夢"
+  },
+  "choices": [
+   "train",
+   "monkey",
+   "dream",
+   "cheek"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/panaˈɡinip/",
+  "verified": true
+ },
+ {
+  "id": "tl-00115",
+  "category": "tagalog",
+  "prompt": "「gayundin」の意味は？",
+  "answer": "likewise",
+  "glosses": {
+   "en": "likewise",
+   "ja": "同様に"
+  },
+  "choices": [
+   "likewise",
+   "music",
+   "anniversary",
+   "priest"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɡajunˈdin/",
+  "verified": true
+ },
+ {
+  "id": "tl-00116",
+  "category": "tagalog",
+  "prompt": "「diyan」の意味は？",
+  "answer": "there",
+  "glosses": {
+   "en": "there",
+   "ja": "そこに"
+  },
+  "choices": [
+   "livelihood",
+   "grandfather",
+   "archipelago",
+   "there"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/diˈan/",
+  "verified": true
+ },
+ {
+  "id": "tl-00117",
+  "category": "tagalog",
+  "prompt": "「timog」の意味は？",
+  "answer": "south",
+  "glosses": {
+   "en": "south",
+   "ja": "南"
+  },
+  "choices": [
+   "south",
+   "vision",
+   "global",
+   "edge"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈtimoɡ/",
+  "verified": true
+ },
+ {
+  "id": "tl-00118",
+  "category": "tagalog",
+  "prompt": "「estudyante」の意味は？",
+  "answer": "student",
+  "glosses": {
+   "en": "student",
+   "ja": "学生"
+  },
+  "choices": [
+   "general",
+   "commodity",
+   "student",
+   "province"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʔestudˈjante/",
+  "verified": true
+ },
+ {
+  "id": "tl-00119",
+  "category": "tagalog",
+  "prompt": "「malay」の意味は？",
+  "answer": "consciousness",
+  "glosses": {
+   "en": "consciousness",
+   "ja": "意識"
+  },
+  "choices": [
+   "knee",
+   "pity",
+   "moon",
+   "consciousness"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈmalaj/",
+  "verified": true
+ },
+ {
+  "id": "tl-00120",
+  "category": "tagalog",
+  "prompt": "「makuha」の意味は？",
+  "answer": "to obtain",
+  "glosses": {
+   "en": "to obtain",
+   "ja": "得る"
+  },
+  "choices": [
+   "to obtain",
+   "ocean",
+   "leader",
+   "bathroom"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/maˈkuha/",
+  "verified": true
+ },
+ {
+  "id": "tl-00121",
+  "category": "tagalog",
+  "prompt": "「numero」の意味は？",
+  "answer": "number",
+  "glosses": {
+   "en": "number",
+   "ja": "番号"
+  },
+  "choices": [
+   "follower",
+   "number",
+   "benefit",
+   "fire"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈnumeɾo/",
+  "verified": true
+ },
+ {
+  "id": "tl-00122",
+  "category": "tagalog",
+  "prompt": "「aso」の意味は？",
+  "answer": "dog",
+  "glosses": {
+   "en": "dog",
+   "ja": "犬"
+  },
+  "choices": [
+   "Monday",
+   "juice",
+   "Mass",
+   "dog"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈʔaso/",
+  "verified": true
+ },
+ {
+  "id": "tl-00123",
+  "category": "tagalog",
+  "prompt": "「pari」の意味は？",
+  "answer": "priest",
+  "glosses": {
+   "en": "priest",
+   "ja": "司祭"
+  },
+  "choices": [
+   "song",
+   "quiet",
+   "week",
+   "priest"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈpaɾiʔ/",
+  "verified": true
+ },
+ {
+  "id": "tl-00124",
+  "category": "tagalog",
+  "prompt": "「senador」の意味は？",
+  "answer": "senator",
+  "glosses": {
+   "en": "senator",
+   "ja": "上院議員"
+  },
+  "choices": [
+   "black",
+   "now",
+   "truth",
+   "senator"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/senaˈdoɾ/",
+  "verified": true
+ },
+ {
+  "id": "tl-00125",
+  "category": "tagalog",
+  "prompt": "「kanser」の意味は？",
+  "answer": "cancer",
+  "glosses": {
+   "en": "cancer",
+   "ja": "がん"
+  },
+  "choices": [
+   "cancer",
+   "the public",
+   "to bathe",
+   "Monday"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈkanseɾ/",
+  "verified": true
+ },
+ {
+  "id": "tl-00126",
+  "category": "tagalog",
+  "prompt": "「karne」の意味は？",
+  "answer": "meat",
+  "glosses": {
+   "en": "meat",
+   "ja": "肉"
+  },
+  "choices": [
+   "the public",
+   "meat",
+   "behavior",
+   "mile"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kaɾˈne/",
+  "verified": true
+ },
+ {
+  "id": "tl-00127",
+  "category": "tagalog",
+  "prompt": "「kolehiyo」の意味は？",
+  "answer": "college",
+  "glosses": {
+   "en": "college",
+   "ja": "大学"
+  },
+  "choices": [
+   "college",
+   "fire",
+   "victory",
+   "here"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/koˈlehio/",
+  "verified": true
+ },
+ {
+  "id": "tl-00128",
+  "category": "tagalog",
+  "prompt": "「pangako」の意味は？",
+  "answer": "promise",
+  "glosses": {
+   "en": "promise",
+   "ja": "約束"
+  },
+  "choices": [
+   "course of study",
+   "damage",
+   "to say",
+   "promise"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/paˈŋakoʔ/",
+  "verified": true
+ },
+ {
+  "id": "tl-00129",
+  "category": "tagalog",
+  "prompt": "「apoy」の意味は？",
+  "answer": "fire",
+  "glosses": {
+   "en": "fire",
+   "ja": "火"
+  },
+  "choices": [
+   "painful",
+   "agency",
+   "fire",
+   "yesterday"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʔaˈpoj/",
+  "verified": true
+ },
+ {
+  "id": "tl-00130",
+  "category": "tagalog",
+  "prompt": "「eksena」の意味は？",
+  "answer": "scene",
+  "glosses": {
+   "en": "scene",
+   "ja": "場面"
+  },
+  "choices": [
+   "data",
+   "scene",
+   "here",
+   "problem"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʔekˈsena/",
+  "verified": true
+ },
+ {
+  "id": "tl-00131",
+  "category": "tagalog",
+  "prompt": "「tahimik」の意味は？",
+  "answer": "quiet",
+  "glosses": {
+   "en": "quiet",
+   "ja": "静かな"
+  },
+  "choices": [
+   "quiet",
+   "bridge",
+   "professor",
+   "importance"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/taˈhimik/",
+  "verified": true
+ },
+ {
+  "id": "tl-00132",
+  "category": "tagalog",
+  "prompt": "「pinsala」の意味は？",
+  "answer": "damage",
+  "glosses": {
+   "en": "damage",
+   "ja": "損害"
+  },
+  "choices": [
+   "fever",
+   "acquaintance",
+   "damage",
+   "city"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pinˈsalaʔ/",
+  "verified": true
+ },
+ {
+  "id": "tl-00133",
+  "category": "tagalog",
+  "prompt": "「presyo」の意味は？",
+  "answer": "price",
+  "glosses": {
+   "en": "price",
+   "ja": "価格"
+  },
+  "choices": [
+   "price",
+   "schedule",
+   "civil",
+   "region"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈpɾesjo/",
+  "verified": true
+ },
+ {
+  "id": "tl-00134",
+  "category": "tagalog",
+  "prompt": "「manggagawa」の意味は？",
+  "answer": "worker",
+  "glosses": {
+   "en": "worker",
+   "ja": "労働者"
+  },
+  "choices": [
+   "worker",
+   "preparation",
+   "epic",
+   "emotion"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/maŋɡaˈɡawaʔ/",
+  "verified": true
+ },
+ {
+  "id": "tl-00135",
+  "category": "tagalog",
+  "prompt": "「populasyon」の意味は？",
+  "answer": "population",
+  "glosses": {
+   "en": "population",
+   "ja": "人口"
+  },
+  "choices": [
+   "guitar",
+   "population",
+   "schedule",
+   "institution"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/populasˈjon/",
+  "verified": true
+ },
+ {
+  "id": "tl-00136",
+  "category": "tagalog",
+  "prompt": "「sitwasyon」の意味は？",
+  "answer": "situation",
+  "glosses": {
+   "en": "situation",
+   "ja": "状況"
+  },
+  "choices": [
+   "bird",
+   "teacher",
+   "tea",
+   "situation"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/sitwasˈjon/",
+  "verified": true
+ },
+ {
+  "id": "tl-00137",
+  "category": "tagalog",
+  "prompt": "「patakaran」の意味は？",
+  "answer": "policy",
+  "glosses": {
+   "en": "policy",
+   "ja": "方針"
+  },
+  "choices": [
+   "lifestyle",
+   "lightning",
+   "policy",
+   "generation"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˌpatakaˈɾan/",
+  "verified": true
+ },
+ {
+  "id": "tl-00138",
+  "category": "tagalog",
+  "prompt": "「kagandahan」の意味は？",
+  "answer": "beauty",
+  "glosses": {
+   "en": "beauty",
+   "ja": "美しさ"
+  },
+  "choices": [
+   "the public",
+   "too much",
+   "beauty",
+   "inheritance"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kaɡanˈdahan/",
+  "verified": true
+ },
+ {
+  "id": "tl-00139",
+  "category": "tagalog",
+  "prompt": "「espesyal」の意味は？",
+  "answer": "special",
+  "glosses": {
+   "en": "special",
+   "ja": "特別な"
+  },
+  "choices": [
+   "rich",
+   "garden",
+   "special",
+   "system"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʔespesˈjal/",
+  "verified": true
+ },
+ {
+  "id": "tl-00140",
+  "category": "tagalog",
+  "prompt": "「tradisyonal」の意味は？",
+  "answer": "traditional",
+  "glosses": {
+   "en": "traditional",
+   "ja": "伝統的な"
+  },
+  "choices": [
+   "book",
+   "investigation",
+   "traditional",
+   "bed"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/tɾadisjoˈnal/",
+  "verified": true
+ },
+ {
+  "id": "tl-00141",
+  "category": "tagalog",
+  "prompt": "「enerhiya」の意味は？",
+  "answer": "energy",
+  "glosses": {
+   "en": "energy",
+   "ja": "エネルギー"
+  },
+  "choices": [
+   "there",
+   "clean",
+   "energy",
+   "monastery"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʔeneɾˈhia/",
+  "verified": true
+ },
+ {
+  "id": "tl-00142",
+  "category": "tagalog",
+  "prompt": "「magsalita」の意味は？",
+  "answer": "to speak",
+  "glosses": {
+   "en": "to speak",
+   "ja": "話をする"
+  },
+  "choices": [
+   "profession",
+   "graduation",
+   "condition",
+   "to speak"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/maɡsaliˈtaʔ/",
+  "verified": true
+ },
+ {
+  "id": "tl-00143",
+  "category": "tagalog",
+  "prompt": "「gilid」の意味は？",
+  "answer": "edge",
+  "glosses": {
+   "en": "edge",
+   "ja": "端"
+  },
+  "choices": [
+   "wish",
+   "climate",
+   "to start",
+   "edge"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈɡilid/",
+  "verified": true
+ },
+ {
+  "id": "tl-00144",
+  "category": "tagalog",
+  "prompt": "「interes」の意味は？",
+  "answer": "interest",
+  "glosses": {
+   "en": "interest",
+   "ja": "興味"
+  },
+  "choices": [
+   "interest",
+   "cough",
+   "mountain",
+   "nation"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʔinteˈɾes/",
+  "verified": true
+ },
+ {
+  "id": "tl-00145",
+  "category": "tagalog",
+  "prompt": "「serye」の意味は？",
+  "answer": "series",
+  "glosses": {
+   "en": "series",
+   "ja": "シリーズ"
+  },
+  "choices": [
+   "college",
+   "series",
+   "slave",
+   "to agree"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈseɾje/",
+  "verified": true
+ },
+ {
+  "id": "tl-00146",
+  "category": "tagalog",
+  "prompt": "「kama」の意味は？",
+  "answer": "bed",
+  "glosses": {
+   "en": "bed",
+   "ja": "ベッド"
+  },
+  "choices": [
+   "mouth",
+   "to sing",
+   "bed",
+   "result"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈkama/",
+  "verified": true
+ },
+ {
+  "id": "tl-00147",
+  "category": "tagalog",
+  "prompt": "「senado」の意味は？",
+  "answer": "senate",
+  "glosses": {
+   "en": "senate",
+   "ja": "上院"
+  },
+  "choices": [
+   "participant",
+   "identity",
+   "vision",
+   "senate"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/seˈnado/",
+  "verified": true
+ },
+ {
+  "id": "tl-00148",
+  "category": "tagalog",
+  "prompt": "「itlog」の意味は？",
+  "answer": "egg",
+  "glosses": {
+   "en": "egg",
+   "ja": "卵"
+  },
+  "choices": [
+   "Sunday",
+   "gratitude",
+   "fight",
+   "egg"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʔitˈloɡ/",
+  "verified": true
+ },
+ {
+  "id": "tl-00149",
+  "category": "tagalog",
+  "prompt": "「pusa」の意味は？",
+  "answer": "cat",
+  "glosses": {
+   "en": "cat",
+   "ja": "猫"
+  },
+  "choices": [
+   "cat",
+   "actor",
+   "lion",
+   "personal"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈpusaʔ/",
+  "verified": true
+ },
+ {
+  "id": "tl-00150",
+  "category": "tagalog",
+  "prompt": "「mayaman」の意味は？",
+  "answer": "rich",
+  "glosses": {
+   "en": "rich",
+   "ja": "裕福な"
+  },
+  "choices": [
+   "institution",
+   "mission",
+   "rich",
+   "ugly"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/maˈjaman/",
+  "verified": true
+ },
+ {
+  "id": "tl-00151",
+  "category": "tagalog",
+  "prompt": "「kapayapaan」の意味は？",
+  "answer": "peace",
+  "glosses": {
+   "en": "peace",
+   "ja": "平和"
+  },
+  "choices": [
+   "violation",
+   "peace",
+   "the police",
+   "kiss"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kapajaˈpaʔan/",
+  "verified": true
+ },
+ {
+  "id": "tl-00152",
+  "category": "tagalog",
+  "prompt": "「agham」の意味は？",
+  "answer": "science",
+  "glosses": {
+   "en": "science",
+   "ja": "科学"
+  },
+  "choices": [
+   "frequent",
+   "date",
+   "need",
+   "science"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʔaɡˈham/",
+  "verified": true
+ },
+ {
+  "id": "tl-00153",
+  "category": "tagalog",
+  "prompt": "「mahaba」の意味は？",
+  "answer": "long",
+  "glosses": {
+   "en": "long",
+   "ja": "長い"
+  },
+  "choices": [
+   "eyebrow",
+   "course of study",
+   "democracy",
+   "long"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/maˈhabaʔ/",
+  "verified": true
+ },
+ {
+  "id": "tl-00154",
+  "category": "tagalog",
+  "prompt": "「digmaan」の意味は？",
+  "answer": "war",
+  "glosses": {
+   "en": "war",
+   "ja": "戦争"
+  },
+  "choices": [
+   "war",
+   "design",
+   "thought",
+   "eye"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/diɡˈmaʔan/",
+  "verified": true
+ },
+ {
+  "id": "tl-00155",
+  "category": "tagalog",
+  "prompt": "「punto」の意味は？",
+  "answer": "point",
+  "glosses": {
+   "en": "point",
+   "ja": "点"
+  },
+  "choices": [
+   "lawyer",
+   "to carry",
+   "point",
+   "window"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈpunto/",
+  "verified": true
+ },
+ {
+  "id": "tl-00156",
+  "category": "tagalog",
+  "prompt": "「saya」の意味は？",
+  "answer": "joy",
+  "glosses": {
+   "en": "joy",
+   "ja": "喜び"
+  },
+  "choices": [
+   "mayor",
+   "joy",
+   "close",
+   "to show"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/saˈja/",
+  "verified": true
+ },
+ {
+  "id": "tl-00157",
+  "category": "tagalog",
+  "prompt": "「tema」の意味は？",
+  "answer": "theme",
+  "glosses": {
+   "en": "theme",
+   "ja": "主題"
+  },
+  "choices": [
+   "theme",
+   "age",
+   "grandmother",
+   "budget"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈtema/",
+  "verified": true
+ },
+ {
+  "id": "tl-00158",
+  "category": "tagalog",
+  "prompt": "「magbigay」の意味は？",
+  "answer": "to give",
+  "glosses": {
+   "en": "to give",
+   "ja": "与える"
+  },
+  "choices": [
+   "effect",
+   "minister",
+   "to give",
+   "health"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/maɡbiˈɡaj/",
+  "verified": true
+ },
+ {
+  "id": "tl-00159",
+  "category": "tagalog",
+  "prompt": "「minuto」の意味は？",
+  "answer": "minute",
+  "glosses": {
+   "en": "minute",
+   "ja": "分"
+  },
+  "choices": [
+   "minute",
+   "intelligence",
+   "welfare",
+   "civil"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/miˈnuto/",
+  "verified": true
+ },
+ {
+  "id": "tl-00160",
+  "category": "tagalog",
+  "prompt": "「partido」の意味は？",
+  "answer": "political party",
+  "glosses": {
+   "en": "political party",
+   "ja": "政党"
+  },
+  "choices": [
+   "political party",
+   "store",
+   "window",
+   "basis"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/paɾˈtido/",
+  "verified": true
+ },
+ {
+  "id": "tl-00161",
+  "category": "tagalog",
+  "prompt": "「importante」の意味は？",
+  "answer": "important",
+  "glosses": {
+   "en": "important",
+   "ja": "重要な"
+  },
+  "choices": [
+   "cough",
+   "grandchild",
+   "important",
+   "forest"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʔimpoɾˈtante/",
+  "verified": true
+ },
+ {
+  "id": "tl-00162",
+  "category": "tagalog",
+  "prompt": "「bigat」の意味は？",
+  "answer": "weight",
+  "glosses": {
+   "en": "weight",
+   "ja": "重さ"
+  },
+  "choices": [
+   "weight",
+   "fight",
+   "typhoon",
+   "wave"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/biˈɡat/",
+  "verified": true
+ },
+ {
+  "id": "tl-00163",
+  "category": "tagalog",
+  "prompt": "「braso」の意味は？",
+  "answer": "arm",
+  "glosses": {
+   "en": "arm",
+   "ja": "腕"
+  },
+  "choices": [
+   "arm",
+   "meeting",
+   "to give",
+   "faith"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈbɾaso/",
+  "verified": true
+ },
+ {
+  "id": "tl-00164",
+  "category": "tagalog",
+  "prompt": "「tito」の意味は？",
+  "answer": "uncle",
+  "glosses": {
+   "en": "uncle",
+   "ja": "おじ"
+  },
+  "choices": [
+   "uncle",
+   "course of study",
+   "street corner",
+   "transportation"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈtito/",
+  "verified": true
+ },
+ {
+  "id": "tl-00165",
+  "category": "tagalog",
+  "prompt": "「temperatura」の意味は？",
+  "answer": "temperature",
+  "glosses": {
+   "en": "temperature",
+   "ja": "温度"
+  },
+  "choices": [
+   "belief",
+   "temperature",
+   "president",
+   "revolution"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/tempeɾaˈtuɾa/",
+  "verified": true
+ },
+ {
+  "id": "tl-00166",
+  "category": "tagalog",
+  "prompt": "「panitikan」の意味は？",
+  "answer": "literature",
+  "glosses": {
+   "en": "literature",
+   "ja": "文学"
+  },
+  "choices": [
+   "wish",
+   "literature",
+   "to bathe",
+   "Sunday"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˌpanitiˈkan/",
+  "verified": true
+ },
+ {
+  "id": "tl-00167",
+  "category": "tagalog",
+  "prompt": "「ilong」の意味は？",
+  "answer": "nose",
+  "glosses": {
+   "en": "nose",
+   "ja": "鼻"
+  },
+  "choices": [
+   "lifestyle",
+   "nose",
+   "lack",
+   "education"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʔiˈloŋ/",
+  "verified": true
+ },
+ {
+  "id": "tl-00168",
+  "category": "tagalog",
+  "prompt": "「maliwanag」の意味は？",
+  "answer": "bright",
+  "glosses": {
+   "en": "bright",
+   "ja": "明るい"
+  },
+  "choices": [
+   "bright",
+   "cheek",
+   "god",
+   "to bathe"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/maliˈwanaɡ/",
+  "verified": true
+ },
+ {
+  "id": "tl-00169",
+  "category": "tagalog",
+  "prompt": "「landas」の意味は？",
+  "answer": "path",
+  "glosses": {
+   "en": "path",
+   "ja": "小道"
+  },
+  "choices": [
+   "member",
+   "path",
+   "gift",
+   "crisis"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/lanˈdas/",
+  "verified": true
+ },
+ {
+  "id": "tl-00170",
+  "category": "tagalog",
+  "prompt": "「konsepto」の意味は？",
+  "answer": "concept",
+  "glosses": {
+   "en": "concept",
+   "ja": "概念"
+  },
+  "choices": [
+   "story",
+   "concept",
+   "text",
+   "train"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/konˈsepto/",
+  "verified": true
+ },
+ {
+  "id": "tl-00171",
+  "category": "tagalog",
+  "prompt": "「ospital」の意味は？",
+  "answer": "hospital",
+  "glosses": {
+   "en": "hospital",
+   "ja": "病院"
+  },
+  "choices": [
+   "to escape",
+   "hospital",
+   "reaction",
+   "graduation"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʔospiˈtal/",
+  "verified": true
+ },
+ {
+  "id": "tl-00172",
+  "category": "tagalog",
+  "prompt": "「musika」の意味は？",
+  "answer": "music",
+  "glosses": {
+   "en": "music",
+   "ja": "音楽"
+  },
+  "choices": [
+   "to cook",
+   "music",
+   "inheritance",
+   "to buy"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈmusika/",
+  "verified": true
+ },
+ {
+  "id": "tl-00173",
+  "category": "tagalog",
+  "prompt": "「telebisyon」の意味は？",
+  "answer": "television",
+  "glosses": {
+   "en": "television",
+   "ja": "テレビ"
+  },
+  "choices": [
+   "minute",
+   "television",
+   "pest",
+   "boss"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/telebisˈjon/",
+  "verified": true
+ },
+ {
+  "id": "tl-00174",
+  "category": "tagalog",
+  "prompt": "「biktima」の意味は？",
+  "answer": "victim",
+  "glosses": {
+   "en": "victim",
+   "ja": "犠牲者"
+  },
+  "choices": [
+   "apparatus",
+   "fund",
+   "victim",
+   "darkness"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈbiktima/",
+  "verified": true
+ },
+ {
+  "id": "tl-00175",
+  "category": "tagalog",
+  "prompt": "「kalaban」の意味は？",
+  "answer": "enemy",
+  "glosses": {
+   "en": "enemy",
+   "ja": "敵"
+  },
+  "choices": [
+   "fate",
+   "enemy",
+   "school",
+   "force"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kaˈlaban/",
+  "verified": true
+ },
+ {
+  "id": "tl-00176",
+  "category": "tagalog",
+  "prompt": "「gusali」の意味は？",
+  "answer": "building",
+  "glosses": {
+   "en": "building",
+   "ja": "建物"
+  },
+  "choices": [
+   "small",
+   "participant",
+   "chapter",
+   "building"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɡuˈsaliʔ/",
+  "verified": true
+ },
+ {
+  "id": "tl-00177",
+  "category": "tagalog",
+  "prompt": "「desisyon」の意味は？",
+  "answer": "decision",
+  "glosses": {
+   "en": "decision",
+   "ja": "決定"
+  },
+  "choices": [
+   "Christianity",
+   "text",
+   "decision",
+   "god"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/desisˈjon/",
+  "verified": true
+ },
+ {
+  "id": "tl-00178",
+  "category": "tagalog",
+  "prompt": "「manalo」の意味は？",
+  "answer": "to win",
+  "glosses": {
+   "en": "to win",
+   "ja": "勝つ"
+  },
+  "choices": [
+   "monkey",
+   "fan",
+   "wide",
+   "to win"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/maˈnalo/",
+  "verified": true
+ },
+ {
+  "id": "tl-00179",
+  "category": "tagalog",
+  "prompt": "「kontrata」の意味は？",
+  "answer": "contract",
+  "glosses": {
+   "en": "contract",
+   "ja": "契約"
+  },
+  "choices": [
+   "bed",
+   "school",
+   "sometimes",
+   "contract"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/konˈtɾata/",
+  "verified": true
+ },
+ {
+  "id": "tl-00180",
+  "category": "tagalog",
+  "prompt": "「maaga」の意味は？",
+  "answer": "early",
+  "glosses": {
+   "en": "early",
+   "ja": "早い"
+  },
+  "choices": [
+   "early",
+   "tea",
+   "building",
+   "rich"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/maˈʔaɡa/",
+  "verified": true
+ },
+ {
+  "id": "tl-00181",
+  "category": "tagalog",
+  "prompt": "「malamig」の意味は？",
+  "answer": "cold",
+  "glosses": {
+   "en": "cold",
+   "ja": "寒い"
+  },
+  "choices": [
+   "cold",
+   "ability",
+   "building",
+   "smoking"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/malaˈmiɡ/",
+  "verified": true
+ },
+ {
+  "id": "tl-00182",
+  "category": "tagalog",
+  "prompt": "「sining」の意味は？",
+  "answer": "art",
+  "glosses": {
+   "en": "art",
+   "ja": "芸術"
+  },
+  "choices": [
+   "art",
+   "scene",
+   "literal",
+   "to show"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈsiniŋ/",
+  "verified": true
+ },
+ {
+  "id": "tl-00183",
+  "category": "tagalog",
+  "prompt": "「manunulat」の意味は？",
+  "answer": "writer",
+  "glosses": {
+   "en": "writer",
+   "ja": "作家"
+  },
+  "choices": [
+   "writer",
+   "event",
+   "plan",
+   "banana"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˌmanunuˈlat/",
+  "verified": true
+ },
+ {
+  "id": "tl-00184",
+  "category": "tagalog",
+  "prompt": "「pahina」の意味は？",
+  "answer": "page",
+  "glosses": {
+   "en": "page",
+   "ja": "ページ"
+  },
+  "choices": [
+   "page",
+   "gratitude",
+   "to sing",
+   "apostle"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈpahina/",
+  "verified": true
+ },
+ {
+  "id": "tl-00185",
+  "category": "tagalog",
+  "prompt": "「karanasan」の意味は？",
+  "answer": "experience",
+  "glosses": {
+   "en": "experience",
+   "ja": "経験"
+  },
+  "choices": [
+   "to enter",
+   "onion",
+   "experience",
+   "juice"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kaɾanaˈsan/",
+  "verified": true
+ },
+ {
+  "id": "tl-00186",
+  "category": "tagalog",
+  "prompt": "「inspirasyon」の意味は？",
+  "answer": "inspiration",
+  "glosses": {
+   "en": "inspiration",
+   "ja": "インスピレーション"
+  },
+  "choices": [
+   "inspiration",
+   "standard",
+   "college",
+   "war"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʔinspiɾasˈjon/",
+  "verified": true
+ },
+ {
+  "id": "tl-00187",
+  "category": "tagalog",
+  "prompt": "「pagdiriwang」の意味は？",
+  "answer": "celebration",
+  "glosses": {
+   "en": "celebration",
+   "ja": "祝賀"
+  },
+  "choices": [
+   "identity",
+   "number",
+   "prince",
+   "celebration"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/paɡdiˈɾiwaŋ/",
+  "verified": true
+ },
+ {
+  "id": "tl-00188",
+  "category": "tagalog",
+  "prompt": "「disenyo」の意味は？",
+  "answer": "design",
+  "glosses": {
+   "en": "design",
+   "ja": "設計"
+  },
+  "choices": [
+   "schedule",
+   "angel",
+   "to obey",
+   "design"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/diˈsenjo/",
+  "verified": true
+ },
+ {
+  "id": "tl-00189",
+  "category": "tagalog",
+  "prompt": "「manlalaro」の意味は？",
+  "answer": "player",
+  "glosses": {
+   "en": "player",
+   "ja": "選手"
+  },
+  "choices": [
+   "player",
+   "gap",
+   "intelligence",
+   "follower"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/manlaˈlaɾoʔ/",
+  "verified": true
+ },
+ {
+  "id": "tl-00190",
+  "category": "tagalog",
+  "prompt": "「pagtatapos」の意味は？",
+  "answer": "graduation",
+  "glosses": {
+   "en": "graduation",
+   "ja": "卒業"
+  },
+  "choices": [
+   "black",
+   "lightning",
+   "store",
+   "graduation"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/paɡtataˈpos/",
+  "verified": true
+ },
+ {
+  "id": "tl-00191",
+  "category": "tagalog",
+  "prompt": "「kalidad」の意味は？",
+  "answer": "quality",
+  "glosses": {
+   "en": "quality",
+   "ja": "品質"
+  },
+  "choices": [
+   "to sing",
+   "juice",
+   "quality",
+   "page"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kaliˈdad/",
+  "verified": true
+ },
+ {
+  "id": "tl-00192",
+  "category": "tagalog",
+  "prompt": "「masyado」の意味は？",
+  "answer": "too much",
+  "glosses": {
+   "en": "too much",
+   "ja": "あまりにも"
+  },
+  "choices": [
+   "foundation",
+   "too much",
+   "eyebrow",
+   "essay"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/masˈjado/",
+  "verified": true
+ },
+ {
+  "id": "tl-00193",
+  "category": "tagalog",
+  "prompt": "「pananampalataya」の意味は？",
+  "answer": "faith",
+  "glosses": {
+   "en": "faith",
+   "ja": "信仰"
+  },
+  "choices": [
+   "worker",
+   "Sunday",
+   "faith",
+   "abdomen"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pananampalaˈtaja/",
+  "verified": true
+ },
+ {
+  "id": "tl-00194",
+  "category": "tagalog",
+  "prompt": "「pagsulat」の意味は？",
+  "answer": "writing",
+  "glosses": {
+   "en": "writing",
+   "ja": "書くこと"
+  },
+  "choices": [
+   "writing",
+   "traffic",
+   "information",
+   "tea"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/paɡˈsulat/",
+  "verified": true
+ },
+ {
+  "id": "tl-00195",
+  "category": "tagalog",
+  "prompt": "「kakulangan」の意味は？",
+  "answer": "lack",
+  "glosses": {
+   "en": "lack",
+   "ja": "不足"
+  },
+  "choices": [
+   "population",
+   "easy",
+   "lifestyle",
+   "lack"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kakulaˈŋan/",
+  "verified": true
+ },
+ {
+  "id": "tl-00196",
+  "category": "tagalog",
+  "prompt": "「kondisyon」の意味は？",
+  "answer": "condition",
+  "glosses": {
+   "en": "condition",
+   "ja": "状態"
+  },
+  "choices": [
+   "condition",
+   "medicine",
+   "document",
+   "to cry"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kondisˈjon/",
+  "verified": true
+ },
+ {
+  "id": "tl-00197",
+  "category": "tagalog",
+  "prompt": "「impeksiyon」の意味は？",
+  "answer": "infection",
+  "glosses": {
+   "en": "infection",
+   "ja": "感染"
+  },
+  "choices": [
+   "sugar",
+   "flag",
+   "infection",
+   "egg"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʔimpeksiˈon/",
+  "verified": true
+ },
+ {
+  "id": "tl-00198",
+  "category": "tagalog",
+  "prompt": "「paningin」の意味は？",
+  "answer": "vision",
+  "glosses": {
+   "en": "vision",
+   "ja": "視力"
+  },
+  "choices": [
+   "office",
+   "light",
+   "vision",
+   "smart"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/paniˈŋin/",
+  "verified": true
+ },
+ {
+  "id": "tl-00199",
+  "category": "tagalog",
+  "prompt": "「pamumuhay」の意味は？",
+  "answer": "lifestyle",
+  "glosses": {
+   "en": "lifestyle",
+   "ja": "ライフスタイル"
+  },
+  "choices": [
+   "celebration",
+   "typhoon",
+   "president",
+   "lifestyle"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pamuˈmuhaj/",
+  "verified": true
+ },
+ {
+  "id": "tl-00200",
+  "category": "tagalog",
+  "prompt": "「Sabado」の意味は？",
+  "answer": "Saturday",
+  "glosses": {
+   "en": "Saturday",
+   "ja": "土曜日"
+  },
+  "choices": [
+   "bathroom",
+   "Saturday",
+   "to carry",
+   "television"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈsabado/",
+  "verified": true
+ },
+ {
+  "id": "tl-00201",
+  "category": "tagalog",
+  "prompt": "「apostol」の意味は？",
+  "answer": "apostle",
+  "glosses": {
+   "en": "apostle",
+   "ja": "使徒"
+  },
+  "choices": [
+   "apostle",
+   "smoking",
+   "breakfast",
+   "benefit"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʔaposˈtol/",
+  "verified": true
+ },
+ {
+  "id": "tl-00202",
+  "category": "tagalog",
+  "prompt": "「kabanata」の意味は？",
+  "answer": "chapter",
+  "glosses": {
+   "en": "chapter",
+   "ja": "章"
+  },
+  "choices": [
+   "minister",
+   "to escape",
+   "chapter",
+   "white"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kabaˈnataʔ/",
+  "verified": true
+ },
+ {
+  "id": "tl-00203",
+  "category": "tagalog",
+  "prompt": "「ipakita」の意味は？",
+  "answer": "to show",
+  "glosses": {
+   "en": "to show",
+   "ja": "見せる"
+  },
+  "choices": [
+   "weapon",
+   "region",
+   "benefit",
+   "to show"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʔipaˈkita/",
+  "verified": true
+ },
+ {
+  "id": "tl-00204",
+  "category": "tagalog",
+  "prompt": "「bagyo」の意味は？",
+  "answer": "typhoon",
+  "glosses": {
+   "en": "typhoon",
+   "ja": "台風"
+  },
+  "choices": [
+   "times",
+   "typhoon",
+   "to believe",
+   "to live"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/baɡˈjo/",
+  "verified": true
+ },
+ {
+  "id": "tl-00205",
+  "category": "tagalog",
+  "prompt": "「korte」の意味は？",
+  "answer": "court",
+  "glosses": {
+   "en": "court",
+   "ja": "裁判所"
+  },
+  "choices": [
+   "here",
+   "document",
+   "court",
+   "age"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈkoɾte/",
+  "verified": true
+ },
+ {
+  "id": "tl-00206",
+  "category": "tagalog",
+  "prompt": "「artikulo」の意味は？",
+  "answer": "article",
+  "glosses": {
+   "en": "article",
+   "ja": "記事"
+  },
+  "choices": [
+   "participant",
+   "close",
+   "article",
+   "fate"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʔaɾˈtikulo/",
+  "verified": true
+ },
+ {
+  "id": "tl-00207",
+  "category": "tagalog",
+  "prompt": "「awa」の意味は？",
+  "answer": "pity",
+  "glosses": {
+   "en": "pity",
+   "ja": "哀れみ"
+  },
+  "choices": [
+   "song",
+   "clothes",
+   "pity",
+   "preparation"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈʔawaʔ/",
+  "verified": true
+ },
+ {
+  "id": "tl-00208",
+  "category": "tagalog",
+  "prompt": "「modelo」の意味は？",
+  "answer": "model",
+  "glosses": {
+   "en": "model",
+   "ja": "モデル"
+  },
+  "choices": [
+   "management",
+   "west",
+   "model",
+   "hip"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/moˈdelo/",
+  "verified": true
+ },
+ {
+  "id": "tl-00209",
+  "category": "tagalog",
+  "prompt": "「teksto」の意味は？",
+  "answer": "text",
+  "glosses": {
+   "en": "text",
+   "ja": "文章"
+  },
+  "choices": [
+   "box",
+   "policy",
+   "text",
+   "literal"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈteksto/",
+  "verified": true
+ },
+ {
+  "id": "tl-00210",
+  "category": "tagalog",
+  "prompt": "「templo」の意味は？",
+  "answer": "temple",
+  "glosses": {
+   "en": "temple",
+   "ja": "寺"
+  },
+  "choices": [
+   "temple",
+   "arm",
+   "food",
+   "beauty"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈtemplo/",
+  "verified": true
+ },
+ {
+  "id": "tl-00211",
+  "category": "tagalog",
+  "prompt": "「ibon」の意味は？",
+  "answer": "bird",
+  "glosses": {
+   "en": "bird",
+   "ja": "鳥"
+  },
+  "choices": [
+   "debate",
+   "bird",
+   "culture",
+   "river"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈʔibon/",
+  "verified": true
+ },
+ {
+  "id": "tl-00212",
+  "category": "tagalog",
+  "prompt": "「bituin」の意味は？",
+  "answer": "star",
+  "glosses": {
+   "en": "star",
+   "ja": "星"
+  },
+  "choices": [
+   "star",
+   "joke",
+   "family",
+   "mouse"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bituˈʔin/",
+  "verified": true
+ },
+ {
+  "id": "tl-00213",
+  "category": "tagalog",
+  "prompt": "「alipin」の意味は？",
+  "answer": "slave",
+  "glosses": {
+   "en": "slave",
+   "ja": "奴隷"
+  },
+  "choices": [
+   "slave",
+   "epic",
+   "simple",
+   "onion"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʔaˈlipin/",
+  "verified": true
+ },
+ {
+  "id": "tl-00214",
+  "category": "tagalog",
+  "prompt": "「opisina」の意味は？",
+  "answer": "office",
+  "glosses": {
+   "en": "office",
+   "ja": "事務所"
+  },
+  "choices": [
+   "tourism",
+   "office",
+   "personal",
+   "drama"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʔopiˈsina/",
+  "verified": true
+ },
+ {
+  "id": "tl-00215",
+  "category": "tagalog",
+  "prompt": "「pinsan」の意味は？",
+  "answer": "cousin",
+  "glosses": {
+   "en": "cousin",
+   "ja": "いとこ"
+  },
+  "choices": [
+   "uncle",
+   "over there",
+   "cousin",
+   "throat"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈpinsan/",
+  "verified": true
+ },
+ {
+  "id": "tl-00216",
+  "category": "tagalog",
+  "prompt": "「kautusan」の意味は？",
+  "answer": "command",
+  "glosses": {
+   "en": "command",
+   "ja": "命令"
+  },
+  "choices": [
+   "box",
+   "bed",
+   "court",
+   "command"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kaʔutuˈsan/",
+  "verified": true
+ },
+ {
+  "id": "tl-00217",
+  "category": "tagalog",
+  "prompt": "「sayaw」の意味は？",
+  "answer": "dance",
+  "glosses": {
+   "en": "dance",
+   "ja": "踊り"
+  },
+  "choices": [
+   "humankind",
+   "winter",
+   "dance",
+   "culture"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/saˈjaw/",
+  "verified": true
+ },
+ {
+  "id": "tl-00218",
+  "category": "tagalog",
+  "prompt": "「bangko」の意味は？",
+  "answer": "bank",
+  "glosses": {
+   "en": "bank",
+   "ja": "銀行"
+  },
+  "choices": [
+   "toy",
+   "god",
+   "jaw",
+   "bank"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈbaŋko/",
+  "verified": true
+ },
+ {
+  "id": "tl-00219",
+  "category": "tagalog",
+  "prompt": "「mapa」の意味は？",
+  "answer": "map",
+  "glosses": {
+   "en": "map",
+   "ja": "地図"
+  },
+  "choices": [
+   "early",
+   "map",
+   "delicious",
+   "breakfast"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈmapa/",
+  "verified": true
+ },
+ {
+  "id": "tl-00220",
+  "category": "tagalog",
+  "prompt": "「lokasyon」の意味は？",
+  "answer": "location",
+  "glosses": {
+   "en": "location",
+   "ja": "所在地"
+  },
+  "choices": [
+   "crime",
+   "story",
+   "location",
+   "college"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/lokasˈjon/",
+  "verified": true
+ },
+ {
+  "id": "tl-00221",
+  "category": "tagalog",
+  "prompt": "「barko」の意味は？",
+  "answer": "ship",
+  "glosses": {
+   "en": "ship",
+   "ja": "船"
+  },
+  "choices": [
+   "ship",
+   "book",
+   "tourist",
+   "to watch"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/baɾˈko/",
+  "verified": true
+ },
+ {
+  "id": "tl-00222",
+  "category": "tagalog",
+  "prompt": "「mahina」の意味は？",
+  "answer": "weak",
+  "glosses": {
+   "en": "weak",
+   "ja": "弱い"
+  },
+  "choices": [
+   "sometimes",
+   "rain",
+   "weak",
+   "street corner"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/maˈhinaʔ/",
+  "verified": true
+ },
+ {
+  "id": "tl-00223",
+  "category": "tagalog",
+  "prompt": "「regalo」の意味は？",
+  "answer": "gift",
+  "glosses": {
+   "en": "gift",
+   "ja": "贈り物"
+  },
+  "choices": [
+   "model",
+   "impossible",
+   "gift",
+   "uncle"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɾeˈɡalo/",
+  "verified": true
+ },
+ {
+  "id": "tl-00224",
+  "category": "tagalog",
+  "prompt": "「kongreso」の意味は？",
+  "answer": "congress",
+  "glosses": {
+   "en": "congress",
+   "ja": "議会"
+  },
+  "choices": [
+   "short",
+   "agreement",
+   "durable",
+   "congress"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/koŋˈɡɾeso/",
+  "verified": true
+ },
+ {
+  "id": "tl-00225",
+  "category": "tagalog",
+  "prompt": "「isla」の意味は？",
+  "answer": "island",
+  "glosses": {
+   "en": "island",
+   "ja": "島"
+  },
+  "choices": [
+   "island",
+   "to work",
+   "hair",
+   "date"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈʔisla/",
+  "verified": true
+ },
+ {
+  "id": "tl-00226",
+  "category": "tagalog",
+  "prompt": "「lolo」の意味は？",
+  "answer": "grandfather",
+  "glosses": {
+   "en": "grandfather",
+   "ja": "祖父"
+  },
+  "choices": [
+   "building",
+   "cat",
+   "grandfather",
+   "viewpoint"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈlolo/",
+  "verified": true
+ },
+ {
+  "id": "tl-00227",
+  "category": "tagalog",
+  "prompt": "「dokumento」の意味は？",
+  "answer": "document",
+  "glosses": {
+   "en": "document",
+   "ja": "文書"
+  },
+  "choices": [
+   "document",
+   "need",
+   "classmate",
+   "literature"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/dokuˈmento/",
+  "verified": true
+ },
+ {
+  "id": "tl-00228",
+  "category": "tagalog",
+  "prompt": "「malalim」の意味は？",
+  "answer": "deep",
+  "glosses": {
+   "en": "deep",
+   "ja": "深い"
+  },
+  "choices": [
+   "to enter",
+   "deep",
+   "to speak",
+   "sin"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/maˈlalim/",
+  "verified": true
+ },
+ {
+  "id": "tl-00229",
+  "category": "tagalog",
+  "prompt": "「datos」の意味は？",
+  "answer": "data",
+  "glosses": {
+   "en": "data",
+   "ja": "データ"
+  },
+  "choices": [
+   "data",
+   "plant",
+   "participant",
+   "medicine"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈdatos/",
+  "verified": true
+ },
+ {
+  "id": "tl-00230",
+  "category": "tagalog",
+  "prompt": "「kotse」の意味は？",
+  "answer": "car",
+  "glosses": {
+   "en": "car",
+   "ja": "車"
+  },
+  "choices": [
+   "car",
+   "standard",
+   "Mass",
+   "need"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈkot͡ʃe/",
+  "verified": true
+ },
+ {
+  "id": "tl-00231",
+  "category": "tagalog",
+  "prompt": "「prutas」の意味は？",
+  "answer": "fruit",
+  "glosses": {
+   "en": "fruit",
+   "ja": "果物"
+  },
+  "choices": [
+   "fruit",
+   "age",
+   "group",
+   "mouth"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈpɾutas/",
+  "verified": true
+ },
+ {
+  "id": "tl-00232",
+  "category": "tagalog",
+  "prompt": "「kalye」の意味は？",
+  "answer": "street",
+  "glosses": {
+   "en": "street",
+   "ja": "通り"
+  },
+  "choices": [
+   "situation",
+   "street",
+   "success",
+   "temple"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈkalje/",
+  "verified": true
+ },
+ {
+  "id": "tl-00233",
+  "category": "tagalog",
+  "prompt": "「paghahanda」の意味は？",
+  "answer": "preparation",
+  "glosses": {
+   "en": "preparation",
+   "ja": "用意"
+  },
+  "choices": [
+   "gender",
+   "preparation",
+   "to play",
+   "mother"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/paɡhahanˈdaʔ/",
+  "verified": true
+ },
+ {
+  "id": "tl-00234",
+  "category": "tagalog",
+  "prompt": "「merkado」の意味は？",
+  "answer": "market",
+  "glosses": {
+   "en": "market",
+   "ja": "市場"
+  },
+  "choices": [
+   "route",
+   "times",
+   "wisdom",
+   "market"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/meɾˈkado/",
+  "verified": true
+ },
+ {
+  "id": "tl-00235",
+  "category": "tagalog",
+  "prompt": "「sapatos」の意味は？",
+  "answer": "shoe",
+  "glosses": {
+   "en": "shoe",
+   "ja": "靴"
+  },
+  "choices": [
+   "shoe",
+   "to watch",
+   "sin",
+   "knee"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/saˈpatos/",
+  "verified": true
+ },
+ {
+  "id": "tl-00236",
+  "category": "tagalog",
+  "prompt": "「halalan」の意味は？",
+  "answer": "election",
+  "glosses": {
+   "en": "election",
+   "ja": "選挙"
+  },
+  "choices": [
+   "election",
+   "goat",
+   "weak",
+   "times"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/haˈlalan/",
+  "verified": true
+ },
+ {
+  "id": "tl-00237",
+  "category": "tagalog",
+  "prompt": "「henerasyon」の意味は？",
+  "answer": "generation",
+  "glosses": {
+   "en": "generation",
+   "ja": "世代"
+  },
+  "choices": [
+   "here",
+   "enemy",
+   "generation",
+   "to watch"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/heneɾasˈjon/",
+  "verified": true
+ },
+ {
+  "id": "tl-00238",
+  "category": "tagalog",
+  "prompt": "「krimen」の意味は？",
+  "answer": "crime",
+  "glosses": {
+   "en": "crime",
+   "ja": "犯罪"
+  },
+  "choices": [
+   "prayer",
+   "crime",
+   "sweetheart",
+   "after"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kɾiˈmen/",
+  "verified": true
+ },
+ {
+  "id": "tl-00239",
+  "category": "tagalog",
+  "prompt": "「panalo」の意味は？",
+  "answer": "victory",
+  "glosses": {
+   "en": "victory",
+   "ja": "勝利"
+  },
+  "choices": [
+   "slow",
+   "development",
+   "victory",
+   "balloon"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/paˈnalo/",
+  "verified": true
+ },
+ {
+  "id": "tl-00240",
+  "category": "tagalog",
+  "prompt": "「petsa」の意味は？",
+  "answer": "date",
+  "glosses": {
+   "en": "date",
+   "ja": "日付"
+  },
+  "choices": [
+   "location",
+   "crime",
+   "vacation",
+   "date"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈpet͡ʃa/",
+  "verified": true
+ },
+ {
+  "id": "tl-00241",
+  "category": "tagalog",
+  "prompt": "「tindahan」の意味は？",
+  "answer": "store",
+  "glosses": {
+   "en": "store",
+   "ja": "店"
+  },
+  "choices": [
+   "store",
+   "delicious",
+   "prayer",
+   "health"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/tinˈdahan/",
+  "verified": true
+ },
+ {
+  "id": "tl-00242",
+  "category": "tagalog",
+  "prompt": "「pasahero」の意味は？",
+  "answer": "passenger",
+  "glosses": {
+   "en": "passenger",
+   "ja": "乗客"
+  },
+  "choices": [
+   "boss",
+   "governor",
+   "plan",
+   "passenger"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pasaˈheɾo/",
+  "verified": true
+ },
+ {
+  "id": "tl-00243",
+  "category": "tagalog",
+  "prompt": "「perpekto」の意味は？",
+  "answer": "perfect",
+  "glosses": {
+   "en": "perfect",
+   "ja": "完璧な"
+  },
+  "choices": [
+   "perfect",
+   "to escape",
+   "star",
+   "thought"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/peɾˈpekto/",
+  "verified": true
+ },
+ {
+  "id": "tl-00244",
+  "category": "tagalog",
+  "prompt": "「lalamunan」の意味は？",
+  "answer": "throat",
+  "glosses": {
+   "en": "throat",
+   "ja": "のど"
+  },
+  "choices": [
+   "throat",
+   "durable",
+   "window",
+   "date"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/lalaˈmunan/",
+  "verified": true
+ },
+ {
+  "id": "tl-00245",
+  "category": "tagalog",
+  "prompt": "「kasunduan」の意味は？",
+  "answer": "agreement",
+  "glosses": {
+   "en": "agreement",
+   "ja": "合意"
+  },
+  "choices": [
+   "sweetheart",
+   "mile",
+   "agreement",
+   "impossible"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kasunˈduʔan/",
+  "verified": true
+ },
+ {
+  "id": "tl-00246",
+  "category": "tagalog",
+  "prompt": "「mahigpit」の意味は？",
+  "answer": "strict",
+  "glosses": {
+   "en": "strict",
+   "ja": "厳しい"
+  },
+  "choices": [
+   "ice",
+   "victim",
+   "strict",
+   "wave"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mahiɡˈpit/",
+  "verified": true
+ },
+ {
+  "id": "tl-00247",
+  "category": "tagalog",
+  "prompt": "「makinig」の意味は？",
+  "answer": "to listen",
+  "glosses": {
+   "en": "to listen",
+   "ja": "聞く"
+  },
+  "choices": [
+   "to listen",
+   "scene",
+   "terrorist",
+   "soft"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/makiˈniɡ/",
+  "verified": true
+ },
+ {
+  "id": "tl-00248",
+  "category": "tagalog",
+  "prompt": "「kampanya」の意味は？",
+  "answer": "campaign",
+  "glosses": {
+   "en": "campaign",
+   "ja": "キャンペーン"
+  },
+  "choices": [
+   "minute",
+   "campaign",
+   "door",
+   "literal"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kamˈpanja/",
+  "verified": true
+ },
+ {
+  "id": "tl-00249",
+  "category": "tagalog",
+  "prompt": "「kahalagahan」の意味は？",
+  "answer": "importance",
+  "glosses": {
+   "en": "importance",
+   "ja": "重要性"
+  },
+  "choices": [
+   "temperature",
+   "mile",
+   "importance",
+   "sweetheart"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kahalaɡaˈhan/",
+  "verified": true
+ },
+ {
+  "id": "tl-00250",
+  "category": "tagalog",
+  "prompt": "「kaluluwa」の意味は？",
+  "answer": "soul",
+  "glosses": {
+   "en": "soul",
+   "ja": "魂"
+  },
+  "choices": [
+   "path",
+   "belief",
+   "soul",
+   "republic"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kaluluˈa/",
+  "verified": true
+ },
+ {
+  "id": "tl-00251",
+  "category": "tagalog",
+  "prompt": "「awtoridad」の意味は？",
+  "answer": "authority",
+  "glosses": {
+   "en": "authority",
+   "ja": "権威"
+  },
+  "choices": [
+   "point",
+   "authority",
+   "science",
+   "right"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʔawtoɾiˈdad/",
+  "verified": true
+ },
+ {
+  "id": "tl-00252",
+  "category": "tagalog",
+  "prompt": "「transportasyon」の意味は？",
+  "answer": "transportation",
+  "glosses": {
+   "en": "transportation",
+   "ja": "輸送"
+  },
+  "choices": [
+   "transportation",
+   "the public",
+   "apostle",
+   "need"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/tɾanspoɾtasˈjon/",
+  "verified": true
+ },
+ {
+  "id": "tl-00253",
+  "category": "tagalog",
+  "prompt": "「pamantayan」の意味は？",
+  "answer": "standard",
+  "glosses": {
+   "en": "standard",
+   "ja": "標準"
+  },
+  "choices": [
+   "night",
+   "revolution",
+   "age",
+   "standard"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pamanˈtajan/",
+  "verified": true
+ },
+ {
+  "id": "tl-00254",
+  "category": "tagalog",
+  "prompt": "「away」の意味は？",
+  "answer": "fight",
+  "glosses": {
+   "en": "fight",
+   "ja": "けんか"
+  },
+  "choices": [
+   "ice",
+   "to believe",
+   "fight",
+   "livelihood"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈʔawaj/",
+  "verified": true
+ },
+ {
+  "id": "tl-00255",
+  "category": "tagalog",
+  "prompt": "「Lunes」の意味は？",
+  "answer": "Monday",
+  "glosses": {
+   "en": "Monday",
+   "ja": "月曜日"
+  },
+  "choices": [
+   "gratitude",
+   "pain",
+   "importance",
+   "Monday"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈlunes/",
+  "verified": true
+ },
+ {
+  "id": "tl-00256",
+  "category": "tagalog",
+  "prompt": "「anghel」の意味は？",
+  "answer": "angel",
+  "glosses": {
+   "en": "angel",
+   "ja": "天使"
+  },
+  "choices": [
+   "shoe",
+   "promise",
+   "inspiration",
+   "angel"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʔaŋˈhel/",
+  "verified": true
+ },
+ {
+  "id": "tl-00257",
+  "category": "tagalog",
+  "prompt": "「matanda」の意味は？",
+  "answer": "old",
+  "glosses": {
+   "en": "old",
+   "ja": "年配の"
+  },
+  "choices": [
+   "speech",
+   "cheek",
+   "old",
+   "success"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/matanˈdaʔ/",
+  "verified": true
+ },
+ {
+  "id": "tl-00258",
+  "category": "tagalog",
+  "prompt": "「kurso」の意味は？",
+  "answer": "course of study",
+  "glosses": {
+   "en": "course of study",
+   "ja": "課程"
+  },
+  "choices": [
+   "protection",
+   "gender",
+   "old",
+   "course of study"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈkuɾso/",
+  "verified": true
+ },
+ {
+  "id": "tl-00259",
+  "category": "tagalog",
+  "prompt": "「tumawag」の意味は？",
+  "answer": "to call",
+  "glosses": {
+   "en": "to call",
+   "ja": "呼ぶ"
+  },
+  "choices": [
+   "to call",
+   "to carry",
+   "design",
+   "onion"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/tuˈmawaɡ/",
+  "verified": true
+ },
+ {
+  "id": "tl-00260",
+  "category": "tagalog",
+  "prompt": "「kaunti」の意味は？",
+  "answer": "few",
+  "glosses": {
+   "en": "few",
+   "ja": "少ない"
+  },
+  "choices": [
+   "few",
+   "course of study",
+   "management",
+   "story"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kaʔunˈtiʔ/",
+  "verified": true
+ },
+ {
+  "id": "tl-00261",
+  "category": "tagalog",
+  "prompt": "「mesa」の意味は？",
+  "answer": "table",
+  "glosses": {
+   "en": "table",
+   "ja": "テーブル"
+  },
+  "choices": [
+   "sweetheart",
+   "apple",
+   "to happen",
+   "table"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈmesa/",
+  "verified": true
+ },
+ {
+  "id": "tl-00262",
+  "category": "tagalog",
+  "prompt": "「tren」の意味は？",
+  "answer": "train",
+  "glosses": {
+   "en": "train",
+   "ja": "電車"
+  },
+  "choices": [
+   "to walk",
+   "close",
+   "train",
+   "film"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈtɾen/",
+  "verified": true
+ },
+ {
+  "id": "tl-00263",
+  "category": "tagalog",
+  "prompt": "「usa」の意味は？",
+  "answer": "deer",
+  "glosses": {
+   "en": "deer",
+   "ja": "シカ"
+  },
+  "choices": [
+   "command",
+   "earthquake",
+   "deer",
+   "flag"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʔuˈsa/",
+  "verified": true
+ },
+ {
+  "id": "tl-00264",
+  "category": "tagalog",
+  "prompt": "「leon」の意味は？",
+  "answer": "lion",
+  "glosses": {
+   "en": "lion",
+   "ja": "ライオン"
+  },
+  "choices": [
+   "violence",
+   "lion",
+   "system",
+   "to call"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/leˈon/",
+  "verified": true
+ },
+ {
+  "id": "tl-00265",
+  "category": "tagalog",
+  "prompt": "「republika」の意味は？",
+  "answer": "republic",
+  "glosses": {
+   "en": "republic",
+   "ja": "共和国"
+  },
+  "choices": [
+   "death",
+   "characteristic",
+   "almost",
+   "republic"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɾeˈpublika/",
+  "verified": true
+ },
+ {
+  "id": "tl-00266",
+  "category": "tagalog",
+  "prompt": "「eroplano」の意味は？",
+  "answer": "airplane",
+  "glosses": {
+   "en": "airplane",
+   "ja": "飛行機"
+  },
+  "choices": [
+   "minister",
+   "the public",
+   "airplane",
+   "car"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʔeɾoˈplano/",
+  "verified": true
+ },
+ {
+  "id": "tl-00267",
+  "category": "tagalog",
+  "prompt": "「pisngi」の意味は？",
+  "answer": "cheek",
+  "glosses": {
+   "en": "cheek",
+   "ja": "ほお"
+  },
+  "choices": [
+   "island",
+   "mayor",
+   "mathematics",
+   "cheek"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pisˈŋi/",
+  "verified": true
+ },
+ {
+  "id": "tl-00268",
+  "category": "tagalog",
+  "prompt": "「maglaro」の意味は？",
+  "answer": "to play",
+  "glosses": {
+   "en": "to play",
+   "ja": "遊ぶ"
+  },
+  "choices": [
+   "business",
+   "price",
+   "vision",
+   "to play"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/maɡlaˈɾoʔ/",
+  "verified": true
+ },
+ {
+  "id": "tl-00269",
+  "category": "tagalog",
+  "prompt": "「pulisya」の意味は？",
+  "answer": "the police",
+  "glosses": {
+   "en": "the police",
+   "ja": "警察"
+  },
+  "choices": [
+   "box",
+   "rich",
+   "to wait",
+   "the police"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pulisˈja/",
+  "verified": true
+ },
+ {
+  "id": "tl-00270",
+  "category": "tagalog",
+  "prompt": "「matalino」の意味は？",
+  "answer": "smart",
+  "glosses": {
+   "en": "smart",
+   "ja": "賢い"
+  },
+  "choices": [
+   "noisy",
+   "palace",
+   "smart",
+   "election"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mataˈlino/",
+  "verified": true
+ },
+ {
+  "id": "tl-00271",
+  "category": "tagalog",
+  "prompt": "「biro」の意味は？",
+  "answer": "joke",
+  "glosses": {
+   "en": "joke",
+   "ja": "冗談"
+  },
+  "choices": [
+   "quality",
+   "angle",
+   "few",
+   "joke"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈbiɾoʔ/",
+  "verified": true
+ },
+ {
+  "id": "tl-00272",
+  "category": "tagalog",
+  "prompt": "「ministro」の意味は？",
+  "answer": "minister",
+  "glosses": {
+   "en": "minister",
+   "ja": "大臣"
+  },
+  "choices": [
+   "international",
+   "minister",
+   "authority",
+   "right"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/miˈnistɾo/",
+  "verified": true
+ },
+ {
+  "id": "tl-00273",
+  "category": "tagalog",
+  "prompt": "「turista」の意味は？",
+  "answer": "tourist",
+  "glosses": {
+   "en": "tourist",
+   "ja": "観光客"
+  },
+  "choices": [
+   "unit",
+   "institution",
+   "tourist",
+   "rain"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/tuˈɾista/",
+  "verified": true
+ },
+ {
+  "id": "tl-00274",
+  "category": "tagalog",
+  "prompt": "「pinto」の意味は？",
+  "answer": "door",
+  "glosses": {
+   "en": "door",
+   "ja": "扉"
+  },
+  "choices": [
+   "love",
+   "door",
+   "respect",
+   "rain"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pinˈtoʔ/",
+  "verified": true
+ },
+ {
+  "id": "tl-00275",
+  "category": "tagalog",
+  "prompt": "「apo」の意味は？",
+  "answer": "grandchild",
+  "glosses": {
+   "en": "grandchild",
+   "ja": "孫"
+  },
+  "choices": [
+   "grandchild",
+   "family",
+   "cousin",
+   "sometimes"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʔaˈpo/",
+  "verified": true
+ },
+ {
+  "id": "tl-00276",
+  "category": "tagalog",
+  "prompt": "「noo」の意味は？",
+  "answer": "forehead",
+  "glosses": {
+   "en": "forehead",
+   "ja": "ひたい"
+  },
+  "choices": [
+   "senate",
+   "forehead",
+   "old",
+   "to happen"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/noˈʔo/",
+  "verified": true
+ },
+ {
+  "id": "tl-00277",
+  "category": "tagalog",
+  "prompt": "「lider」の意味は？",
+  "answer": "leader",
+  "glosses": {
+   "en": "leader",
+   "ja": "指導者"
+  },
+  "choices": [
+   "theme",
+   "cinema",
+   "office",
+   "leader"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈlideɾ/",
+  "verified": true
+ },
+ {
+  "id": "tl-00278",
+  "category": "tagalog",
+  "prompt": "「pondo」の意味は？",
+  "answer": "fund",
+  "glosses": {
+   "en": "fund",
+   "ja": "資金"
+  },
+  "choices": [
+   "trade",
+   "wide",
+   "to show",
+   "fund"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈpondo/",
+  "verified": true
+ },
+ {
+  "id": "tl-00279",
+  "category": "tagalog",
+  "prompt": "「pangit」の意味は？",
+  "answer": "ugly",
+  "glosses": {
+   "en": "ugly",
+   "ja": "醜い"
+  },
+  "choices": [
+   "mountain",
+   "ugly",
+   "wave",
+   "reality"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈpaŋit/",
+  "verified": true
+ },
+ {
+  "id": "tl-00280",
+  "category": "tagalog",
+  "prompt": "「baha」の意味は？",
+  "answer": "flood",
+  "glosses": {
+   "en": "flood",
+   "ja": "洪水"
+  },
+  "choices": [
+   "joke",
+   "date",
+   "flood",
+   "speech"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/baˈhaʔ/",
+  "verified": true
+ },
+ {
+  "id": "tl-00281",
+  "category": "tagalog",
+  "prompt": "「kandidato」の意味は？",
+  "answer": "candidate",
+  "glosses": {
+   "en": "candidate",
+   "ja": "候補者"
+  },
+  "choices": [
+   "over there",
+   "candidate",
+   "capacity",
+   "to cook"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kandiˈdato/",
+  "verified": true
+ },
+ {
+  "id": "tl-00282",
+  "category": "tagalog",
+  "prompt": "「asukal」の意味は？",
+  "answer": "sugar",
+  "glosses": {
+   "en": "sugar",
+   "ja": "砂糖"
+  },
+  "choices": [
+   "path",
+   "civil",
+   "sugar",
+   "standard"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʔaˈsukal/",
+  "verified": true
+ },
+ {
+  "id": "tl-00283",
+  "category": "tagalog",
+  "prompt": "「halik」の意味は？",
+  "answer": "kiss",
+  "glosses": {
+   "en": "kiss",
+   "ja": "キス"
+  },
+  "choices": [
+   "violent",
+   "to believe",
+   "archipelago",
+   "kiss"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/haˈlik/",
+  "verified": true
+ },
+ {
+  "id": "tl-00284",
+  "category": "tagalog",
+  "prompt": "「ninuno」の意味は？",
+  "answer": "ancestor",
+  "glosses": {
+   "en": "ancestor",
+   "ja": "先祖"
+  },
+  "choices": [
+   "sure",
+   "effective",
+   "ancestor",
+   "experience"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/niˈnunoʔ/",
+  "verified": true
+ },
+ {
+  "id": "tl-00285",
+  "category": "tagalog",
+  "prompt": "「payo」の意味は？",
+  "answer": "advice",
+  "glosses": {
+   "en": "advice",
+   "ja": "忠告"
+  },
+  "choices": [
+   "advice",
+   "clothes",
+   "weapon",
+   "mother"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈpajo/",
+  "verified": true
+ },
+ {
+  "id": "tl-00286",
+  "category": "tagalog",
+  "prompt": "「alaala」の意味は？",
+  "answer": "memory",
+  "glosses": {
+   "en": "memory",
+   "ja": "記憶"
+  },
+  "choices": [
+   "silence",
+   "memory",
+   "age",
+   "egg"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʔalaˈʔala/",
+  "verified": true
+ },
+ {
+  "id": "tl-00287",
+  "category": "tagalog",
+  "prompt": "「ubo」の意味は？",
+  "answer": "cough",
+  "glosses": {
+   "en": "cough",
+   "ja": "咳"
+  },
+  "choices": [
+   "scene",
+   "cough",
+   "ocean",
+   "religion"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʔuˈbo/",
+  "verified": true
+ },
+ {
+  "id": "tl-00288",
+  "category": "tagalog",
+  "prompt": "「liham」の意味は？",
+  "answer": "letter",
+  "glosses": {
+   "en": "letter",
+   "ja": "手紙"
+  },
+  "choices": [
+   "emperor",
+   "vacation",
+   "command",
+   "letter"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈliham/",
+  "verified": true
+ },
+ {
+  "id": "tl-00289",
+  "category": "tagalog",
+  "prompt": "「pulong」の意味は？",
+  "answer": "meeting",
+  "glosses": {
+   "en": "meeting",
+   "ja": "会議"
+  },
+  "choices": [
+   "course of study",
+   "meeting",
+   "book",
+   "legend"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈpuloŋ/",
+  "verified": true
+ },
+ {
+  "id": "tl-00290",
+  "category": "tagalog",
+  "prompt": "「prinsesa」の意味は？",
+  "answer": "princess",
+  "glosses": {
+   "en": "princess",
+   "ja": "王女"
+  },
+  "choices": [
+   "pillar",
+   "thick",
+   "princess",
+   "follower"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pɾinˈsesa/",
+  "verified": true
+ },
+ {
+  "id": "tl-00291",
+  "category": "tagalog",
+  "prompt": "「bakasyon」の意味は？",
+  "answer": "vacation",
+  "glosses": {
+   "en": "vacation",
+   "ja": "休暇"
+  },
+  "choices": [
+   "vacation",
+   "epic",
+   "text",
+   "number"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bakasˈjon/",
+  "verified": true
+ },
+ {
+  "id": "tl-00292",
+  "category": "tagalog",
+  "prompt": "「propeta」の意味は？",
+  "answer": "prophet",
+  "glosses": {
+   "en": "prophet",
+   "ja": "預言者"
+  },
+  "choices": [
+   "prophet",
+   "mouth",
+   "quiet",
+   "protein"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pɾoˈpeta/",
+  "verified": true
+ },
+ {
+  "id": "tl-00293",
+  "category": "tagalog",
+  "prompt": "「itsura」の意味は？",
+  "answer": "appearance",
+  "glosses": {
+   "en": "appearance",
+   "ja": "外見"
+  },
+  "choices": [
+   "athlete",
+   "agency",
+   "appearance",
+   "result"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʔiˈt͡ʃuɾa/",
+  "verified": true
+ },
+ {
+  "id": "tl-00294",
+  "category": "tagalog",
+  "prompt": "「mensahe」の意味は？",
+  "answer": "message",
+  "glosses": {
+   "en": "message",
+   "ja": "メッセージ"
+  },
+  "choices": [
+   "professor",
+   "lack",
+   "big",
+   "message"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/menˈsahe/",
+  "verified": true
+ },
+ {
+  "id": "tl-00295",
+  "category": "tagalog",
+  "prompt": "「matulog」の意味は？",
+  "answer": "to sleep",
+  "glosses": {
+   "en": "to sleep",
+   "ja": "眠る"
+  },
+  "choices": [
+   "bank",
+   "abdomen",
+   "cause",
+   "to sleep"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/maˈtuloɡ/",
+  "verified": true
+ },
+ {
+  "id": "tl-00296",
+  "category": "tagalog",
+  "prompt": "「ingay」の意味は？",
+  "answer": "noise",
+  "glosses": {
+   "en": "noise",
+   "ja": "騒音"
+  },
+  "choices": [
+   "inspiration",
+   "president",
+   "to happen",
+   "noise"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈʔiŋaj/",
+  "verified": true
+ },
+ {
+  "id": "tl-00297",
+  "category": "tagalog",
+  "prompt": "「alamat」の意味は？",
+  "answer": "legend",
+  "glosses": {
+   "en": "legend",
+   "ja": "伝説"
+  },
+  "choices": [
+   "legend",
+   "crisis",
+   "edge",
+   "humankind"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʔalaˈmat/",
+  "verified": true
+ },
+ {
+  "id": "tl-00298",
+  "category": "tagalog",
+  "prompt": "「aplikasyon」の意味は？",
+  "answer": "application",
+  "glosses": {
+   "en": "application",
+   "ja": "申請"
+  },
+  "choices": [
+   "commodity",
+   "application",
+   "group",
+   "welfare"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʔaplikasˈjon/",
+  "verified": true
+ },
+ {
+  "id": "tl-00299",
+  "category": "tagalog",
+  "prompt": "「teorya」の意味は？",
+  "answer": "theory",
+  "glosses": {
+   "en": "theory",
+   "ja": "理論"
+  },
+  "choices": [
+   "theory",
+   "cause",
+   "mile",
+   "archipelago"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/teˈoɾja/",
+  "verified": true
+ },
+ {
+  "id": "tl-00300",
+  "category": "tagalog",
+  "prompt": "「prinsipyo」の意味は？",
+  "answer": "principle",
+  "glosses": {
+   "en": "principle",
+   "ja": "原理"
+  },
+  "choices": [
+   "ability",
+   "intelligence",
+   "food",
+   "principle"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pɾinˈsipjo/",
+  "verified": true
+ },
+ {
+  "id": "tl-00301",
+  "category": "tagalog",
+  "prompt": "「detalye」の意味は？",
+  "answer": "detail",
+  "glosses": {
+   "en": "detail",
+   "ja": "詳細"
+  },
+  "choices": [
+   "detail",
+   "knee",
+   "belief",
+   "professor"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/deˈtalje/",
+  "verified": true
+ },
+ {
+  "id": "tl-00302",
+  "category": "tagalog",
+  "prompt": "「pagkakaisa」の意味は？",
+  "answer": "unity",
+  "glosses": {
+   "en": "unity",
+   "ja": "団結"
+  },
+  "choices": [
+   "joy",
+   "sometimes",
+   "bank",
+   "unity"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/paɡkaˌkaʔiˈsa/",
+  "verified": true
+ },
+ {
+  "id": "tl-00303",
+  "category": "tagalog",
+  "prompt": "「pangangalaga」の意味は？",
+  "answer": "care",
+  "glosses": {
+   "en": "care",
+   "ja": "世話"
+  },
+  "choices": [
+   "congress",
+   "fish",
+   "care",
+   "cancer"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/paŋaŋaˈlaɡaʔ/",
+  "verified": true
+ },
+ {
+  "id": "tl-00304",
+  "category": "tagalog",
+  "prompt": "「maniwala」の意味は？",
+  "answer": "to believe",
+  "glosses": {
+   "en": "to believe",
+   "ja": "信じる"
+  },
+  "choices": [
+   "kiss",
+   "small",
+   "importance",
+   "to believe"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/maniˈwalaʔ/",
+  "verified": true
+ },
+ {
+  "id": "tl-00305",
+  "category": "tagalog",
+  "prompt": "「kalakalan」の意味は？",
+  "answer": "trade",
+  "glosses": {
+   "en": "trade",
+   "ja": "貿易"
+  },
+  "choices": [
+   "trade",
+   "cat",
+   "foundation",
+   "education"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˌkalakaˈlan/",
+  "verified": true
+ },
+ {
+  "id": "tl-00306",
+  "category": "tagalog",
+  "prompt": "「piraso」の意味は？",
+  "answer": "piece",
+  "glosses": {
+   "en": "piece",
+   "ja": "一片"
+  },
+  "choices": [
+   "table",
+   "book",
+   "piece",
+   "window"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/piˈɾaso/",
+  "verified": true
+ },
+ {
+  "id": "tl-00307",
+  "category": "tagalog",
+  "prompt": "「protina」の意味は？",
+  "answer": "protein",
+  "glosses": {
+   "en": "protein",
+   "ja": "タンパク質"
+  },
+  "choices": [
+   "protein",
+   "sometimes",
+   "a while ago",
+   "soup"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pɾoˈtina/",
+  "verified": true
+ },
+ {
+  "id": "tl-00308",
+  "category": "tagalog",
+  "prompt": "「ahensiya」の意味は？",
+  "answer": "agency",
+  "glosses": {
+   "en": "agency",
+   "ja": "代理店"
+  },
+  "choices": [
+   "friendship",
+   "big",
+   "agency",
+   "bridge"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʔaˈhensia/",
+  "verified": true
+ },
+ {
+  "id": "tl-00309",
+  "category": "tagalog",
+  "prompt": "「literal」の意味は？",
+  "answer": "literal",
+  "glosses": {
+   "en": "literal",
+   "ja": "文字通りの"
+  },
+  "choices": [
+   "cat",
+   "literal",
+   "hospital",
+   "powerful"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/liteˈɾal/",
+  "verified": true
+ },
+ {
+  "id": "tl-00310",
+  "category": "tagalog",
+  "prompt": "「kanan」の意味は？",
+  "answer": "right",
+  "glosses": {
+   "en": "right",
+   "ja": "右の"
+  },
+  "choices": [
+   "fate",
+   "sweet",
+   "bravery",
+   "right"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈkanan/",
+  "verified": true
+ },
+ {
+  "id": "tl-00311",
+  "category": "tagalog",
+  "prompt": "「kaisipan」の意味は？",
+  "answer": "thought",
+  "glosses": {
+   "en": "thought",
+   "ja": "考え"
+  },
+  "choices": [
+   "cough",
+   "principle",
+   "thought",
+   "death"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kaʔisiˈpan/",
+  "verified": true
+ },
+ {
+  "id": "tl-00312",
+  "category": "tagalog",
+  "prompt": "「kanluran」の意味は？",
+  "answer": "west",
+  "glosses": {
+   "en": "west",
+   "ja": "西"
+  },
+  "choices": [
+   "point",
+   "unit",
+   "west",
+   "humankind"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kanˈluɾan/",
+  "verified": true
+ },
+ {
+  "id": "tl-00313",
+  "category": "tagalog",
+  "prompt": "「droga」の意味は？",
+  "answer": "drug",
+  "glosses": {
+   "en": "drug",
+   "ja": "麻薬"
+  },
+  "choices": [
+   "date",
+   "bathroom",
+   "drug",
+   "politics"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈdɾoɡa/",
+  "verified": true
+ },
+ {
+  "id": "tl-00314",
+  "category": "tagalog",
+  "prompt": "「pasyente」の意味は？",
+  "answer": "patient",
+  "glosses": {
+   "en": "patient",
+   "ja": "患者"
+  },
+  "choices": [
+   "smart",
+   "grandchild",
+   "planet",
+   "patient"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pasˈjente/",
+  "verified": true
+ },
+ {
+  "id": "tl-00315",
+  "category": "tagalog",
+  "prompt": "「kakilala」の意味は？",
+  "answer": "acquaintance",
+  "glosses": {
+   "en": "acquaintance",
+   "ja": "知り合い"
+  },
+  "choices": [
+   "noise",
+   "series",
+   "acquaintance",
+   "peace"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kakiˈlala/",
+  "verified": true
+ },
+ {
+  "id": "tl-00316",
+  "category": "tagalog",
+  "prompt": "「sundin」の意味は？",
+  "answer": "to obey",
+  "glosses": {
+   "en": "to obey",
+   "ja": "従う"
+  },
+  "choices": [
+   "rain",
+   "slow",
+   "stage",
+   "to obey"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/sunˈdin/",
+  "verified": true
+ },
+ {
+  "id": "tl-00317",
+  "category": "tagalog",
+  "prompt": "「sangkatauhan」の意味は？",
+  "answer": "humankind",
+  "glosses": {
+   "en": "humankind",
+   "ja": "人類"
+  },
+  "choices": [
+   "love",
+   "date",
+   "boss",
+   "humankind"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/saŋkataˈʔuhan/",
+  "verified": true
+ },
+ {
+  "id": "tl-00318",
+  "category": "tagalog",
+  "prompt": "「distrito」の意味は？",
+  "answer": "district",
+  "glosses": {
+   "en": "district",
+   "ja": "地区"
+  },
+  "choices": [
+   "friend",
+   "table",
+   "sweet",
+   "district"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/disˈtɾito/",
+  "verified": true
+ },
+ {
+  "id": "tl-00319",
+  "category": "tagalog",
+  "prompt": "「hilaga」の意味は？",
+  "answer": "north",
+  "glosses": {
+   "en": "north",
+   "ja": "北"
+  },
+  "choices": [
+   "short",
+   "actor",
+   "north",
+   "palace"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/hiˈlaɡaʔ/",
+  "verified": true
+ },
+ {
+  "id": "tl-00320",
+  "category": "tagalog",
+  "prompt": "「puwersa」の意味は？",
+  "answer": "force",
+  "glosses": {
+   "en": "force",
+   "ja": "力"
+  },
+  "choices": [
+   "force",
+   "bravery",
+   "mile",
+   "route"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/puˈeɾsa/",
+  "verified": true
+ },
+ {
+  "id": "tl-00321",
+  "category": "tagalog",
+  "prompt": "「aksidente」の意味は？",
+  "answer": "accident",
+  "glosses": {
+   "en": "accident",
+   "ja": "事故"
+  },
+  "choices": [
+   "infection",
+   "accident",
+   "technology",
+   "inspiration"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʔaksiˈdente/",
+  "verified": true
+ },
+ {
+  "id": "tl-00322",
+  "category": "tagalog",
+  "prompt": "「malinis」の意味は？",
+  "answer": "clean",
+  "glosses": {
+   "en": "clean",
+   "ja": "清潔な"
+  },
+  "choices": [
+   "long",
+   "clean",
+   "opinion",
+   "potato"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/maˈlinis/",
+  "verified": true
+ },
+ {
+  "id": "tl-00323",
+  "category": "tagalog",
+  "prompt": "「kusina」の意味は？",
+  "answer": "kitchen",
+  "glosses": {
+   "en": "kitchen",
+   "ja": "台所"
+  },
+  "choices": [
+   "management",
+   "to escape",
+   "Friday",
+   "kitchen"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kuˈsinaʔ/",
+  "verified": true
+ },
+ {
+  "id": "tl-00324",
+  "category": "tagalog",
+  "prompt": "「tulay」の意味は？",
+  "answer": "bridge",
+  "glosses": {
+   "en": "bridge",
+   "ja": "橋"
+  },
+  "choices": [
+   "classmate",
+   "letter",
+   "bridge",
+   "sin"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/tuˈlaj/",
+  "verified": true
+ },
+ {
+  "id": "tl-00325",
+  "category": "tagalog",
+  "prompt": "「paglabag」の意味は？",
+  "answer": "violation",
+  "glosses": {
+   "en": "violation",
+   "ja": "違反"
+  },
+  "choices": [
+   "temple",
+   "violation",
+   "adventure",
+   "map"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/paɡlaˈbaɡ/",
+  "verified": true
+ },
+ {
+  "id": "tl-00326",
+  "category": "tagalog",
+  "prompt": "「disiplina」の意味は？",
+  "answer": "discipline",
+  "glosses": {
+   "en": "discipline",
+   "ja": "規律"
+  },
+  "choices": [
+   "discipline",
+   "intelligence",
+   "topic",
+   "population"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/disipˈlina/",
+  "verified": true
+ },
+ {
+  "id": "tl-00327",
+  "category": "tagalog",
+  "prompt": "「kalakal」の意味は？",
+  "answer": "commodity",
+  "glosses": {
+   "en": "commodity",
+   "ja": "商品"
+  },
+  "choices": [
+   "inspiration",
+   "to start",
+   "commodity",
+   "article"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kaˈlakal/",
+  "verified": true
+ },
+ {
+  "id": "tl-00328",
+  "category": "tagalog",
+  "prompt": "「abogado」の意味は？",
+  "answer": "lawyer",
+  "glosses": {
+   "en": "lawyer",
+   "ja": "弁護士"
+  },
+  "choices": [
+   "always",
+   "tradition",
+   "group",
+   "lawyer"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʔaboˈɡado/",
+  "verified": true
+ },
+ {
+  "id": "tl-00329",
+  "category": "tagalog",
+  "prompt": "「ruta」の意味は？",
+  "answer": "route",
+  "glosses": {
+   "en": "route",
+   "ja": "経路"
+  },
+  "choices": [
+   "wide",
+   "priest",
+   "route",
+   "lion"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈɾuta/",
+  "verified": true
+ },
+ {
+  "id": "tl-00330",
+  "category": "tagalog",
+  "prompt": "「planeta」の意味は？",
+  "answer": "planet",
+  "glosses": {
+   "en": "planet",
+   "ja": "惑星"
+  },
+  "choices": [
+   "garden",
+   "freedom",
+   "planet",
+   "light"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/plaˈneta/",
+  "verified": true
+ },
+ {
+  "id": "tl-00331",
+  "category": "tagalog",
+  "prompt": "「posibilidad」の意味は？",
+  "answer": "possibility",
+  "glosses": {
+   "en": "possibility",
+   "ja": "可能性"
+  },
+  "choices": [
+   "deep",
+   "possibility",
+   "emotion",
+   "store"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/posibiliˈdad/",
+  "verified": true
+ },
+ {
+  "id": "tl-00332",
+  "category": "tagalog",
+  "prompt": "「pagkakakilanlan」の意味は？",
+  "answer": "identity",
+  "glosses": {
+   "en": "identity",
+   "ja": "身元"
+  },
+  "choices": [
+   "identity",
+   "again",
+   "conversation",
+   "to smile"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/paɡkaˌkakilanˈlan/",
+  "verified": true
+ },
+ {
+  "id": "tl-00333",
+  "category": "tagalog",
+  "prompt": "「respeto」の意味は？",
+  "answer": "respect",
+  "glosses": {
+   "en": "respect",
+   "ja": "尊敬"
+  },
+  "choices": [
+   "to happen",
+   "respect",
+   "system",
+   "cat"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɾesˈpeto/",
+  "verified": true
+ },
+ {
+  "id": "tl-00334",
+  "category": "tagalog",
+  "prompt": "「himala」の意味は？",
+  "answer": "miracle",
+  "glosses": {
+   "en": "miracle",
+   "ja": "奇跡"
+  },
+  "choices": [
+   "piece",
+   "health",
+   "key",
+   "miracle"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/himaˈlaʔ/",
+  "verified": true
+ },
+ {
+  "id": "tl-00335",
+  "category": "tagalog",
+  "prompt": "「imposible」の意味は？",
+  "answer": "impossible",
+  "glosses": {
+   "en": "impossible",
+   "ja": "不可能な"
+  },
+  "choices": [
+   "lion",
+   "impossible",
+   "prince",
+   "promise"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʔimpoˈsible/",
+  "verified": true
+ },
+ {
+  "id": "tl-00336",
+  "category": "tagalog",
+  "prompt": "「magdala」の意味は？",
+  "answer": "to carry",
+  "glosses": {
+   "en": "to carry",
+   "ja": "運ぶ"
+  },
+  "choices": [
+   "to carry",
+   "television",
+   "agreement",
+   "key"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/maɡdaˈla/",
+  "verified": true
+ },
+ {
+  "id": "tl-00337",
+  "category": "tagalog",
+  "prompt": "「leeg」の意味は？",
+  "answer": "neck",
+  "glosses": {
+   "en": "neck",
+   "ja": "首"
+  },
+  "choices": [
+   "neck",
+   "amount",
+   "violent",
+   "Saturday"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/leˈʔeɡ/",
+  "verified": true
+ },
+ {
+  "id": "tl-00338",
+  "category": "tagalog",
+  "prompt": "「basura」の意味は？",
+  "answer": "garbage",
+  "glosses": {
+   "en": "garbage",
+   "ja": "ごみ"
+  },
+  "choices": [
+   "intelligence",
+   "garbage",
+   "interest",
+   "wish"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/baˈsuɾa/",
+  "verified": true
+ },
+ {
+  "id": "tl-00339",
+  "category": "tagalog",
+  "prompt": "「armas」の意味は？",
+  "answer": "weapon",
+  "glosses": {
+   "en": "weapon",
+   "ja": "武器"
+  },
+  "choices": [
+   "weapon",
+   "breakfast",
+   "characteristic",
+   "mission"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʔaɾˈmas/",
+  "verified": true
+ },
+ {
+  "id": "tl-00340",
+  "category": "tagalog",
+  "prompt": "「klima」の意味は？",
+  "answer": "climate",
+  "glosses": {
+   "en": "climate",
+   "ja": "気候"
+  },
+  "choices": [
+   "foundation",
+   "climate",
+   "consciousness",
+   "senate"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈklima/",
+  "verified": true
+ },
+ {
+  "id": "tl-00341",
+  "category": "tagalog",
+  "prompt": "「baril」の意味は？",
+  "answer": "gun",
+  "glosses": {
+   "en": "gun",
+   "ja": "銃"
+  },
+  "choices": [
+   "cat",
+   "politics",
+   "experience",
+   "gun"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/baˈɾil/",
+  "verified": true
+ },
+ {
+  "id": "tl-00342",
+  "category": "tagalog",
+  "prompt": "「makapal」の意味は？",
+  "answer": "thick",
+  "glosses": {
+   "en": "thick",
+   "ja": "厚い"
+  },
+  "choices": [
+   "standard",
+   "thick",
+   "effective",
+   "fever"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/makaˈpal/",
+  "verified": true
+ },
+ {
+  "id": "tl-00343",
+  "category": "tagalog",
+  "prompt": "「malambot」の意味は？",
+  "answer": "soft",
+  "glosses": {
+   "en": "soft",
+   "ja": "柔らかい"
+  },
+  "choices": [
+   "cheek",
+   "music",
+   "to believe",
+   "soft"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/malamˈbot/",
+  "verified": true
+ },
+ {
+  "id": "tl-00344",
+  "category": "tagalog",
+  "prompt": "「doktrina」の意味は？",
+  "answer": "doctrine",
+  "glosses": {
+   "en": "doctrine",
+   "ja": "教義"
+  },
+  "choices": [
+   "doctrine",
+   "flag",
+   "south",
+   "protection"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/dokˈtɾina/",
+  "verified": true
+ },
+ {
+  "id": "tl-00345",
+  "category": "tagalog",
+  "prompt": "「reklamo」の意味は？",
+  "answer": "complaint",
+  "glosses": {
+   "en": "complaint",
+   "ja": "苦情"
+  },
+  "choices": [
+   "message",
+   "complaint",
+   "bravery",
+   "dance"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɾeˈklamo/",
+  "verified": true
+ },
+ {
+  "id": "tl-00346",
+  "category": "tagalog",
+  "prompt": "「pumili」の意味は？",
+  "answer": "to choose",
+  "glosses": {
+   "en": "to choose",
+   "ja": "選ぶ"
+  },
+  "choices": [
+   "to choose",
+   "to play",
+   "fan",
+   "clarification"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/puˈmiliʔ/",
+  "verified": true
+ },
+ {
+  "id": "tl-00347",
+  "category": "tagalog",
+  "prompt": "「karagatan」の意味は？",
+  "answer": "ocean",
+  "glosses": {
+   "en": "ocean",
+   "ja": "海洋"
+  },
+  "choices": [
+   "investigation",
+   "ocean",
+   "prince",
+   "legend"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kaɾaɡaˈtan/",
+  "verified": true
+ },
+ {
+  "id": "tl-00348",
+  "category": "tagalog",
+  "prompt": "「misyon」の意味は？",
+  "answer": "mission",
+  "glosses": {
+   "en": "mission",
+   "ja": "任務"
+  },
+  "choices": [
+   "film",
+   "egg",
+   "mission",
+   "bottle"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/misˈjon/",
+  "verified": true
+ },
+ {
+  "id": "tl-00349",
+  "category": "tagalog",
+  "prompt": "「mamaya」の意味は？",
+  "answer": "later",
+  "glosses": {
+   "en": "later",
+   "ja": "あとで"
+  },
+  "choices": [
+   "later",
+   "here",
+   "test",
+   "mathematics"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mamaˈjaʔ/",
+  "verified": true
+ },
+ {
+  "id": "tl-00350",
+  "category": "tagalog",
+  "prompt": "「nobela」の意味は？",
+  "answer": "novel",
+  "glosses": {
+   "en": "novel",
+   "ja": "小説"
+  },
+  "choices": [
+   "reaction",
+   "lawmaker",
+   "novel",
+   "Sunday"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/noˈbela/",
+  "verified": true
+ },
+ {
+  "id": "tl-00351",
+  "category": "tagalog",
+  "prompt": "「heneral」の意味は？",
+  "answer": "general",
+  "glosses": {
+   "en": "general",
+   "ja": "将軍"
+  },
+  "choices": [
+   "general",
+   "to speak",
+   "mile",
+   "experience"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/heneˈɾal/",
+  "verified": true
+ },
+ {
+  "id": "tl-00352",
+  "category": "tagalog",
+  "prompt": "「kalihim」の意味は？",
+  "answer": "secretary",
+  "glosses": {
+   "en": "secretary",
+   "ja": "秘書"
+  },
+  "choices": [
+   "mouth",
+   "chapter",
+   "a while ago",
+   "secretary"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kaˈlihim/",
+  "verified": true
+ },
+ {
+  "id": "tl-00353",
+  "category": "tagalog",
+  "prompt": "「palad」の意味は？",
+  "answer": "palm",
+  "glosses": {
+   "en": "palm",
+   "ja": "手のひら"
+  },
+  "choices": [
+   "energy",
+   "palm",
+   "bird",
+   "infection"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈpalad/",
+  "verified": true
+ },
+ {
+  "id": "tl-00354",
+  "category": "tagalog",
+  "prompt": "「kaklase」の意味は？",
+  "answer": "classmate",
+  "glosses": {
+   "en": "classmate",
+   "ja": "同級生"
+  },
+  "choices": [
+   "classmate",
+   "sand",
+   "agriculture",
+   "medicine"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kaˈklase/",
+  "verified": true
+ },
+ {
+  "id": "tl-00355",
+  "category": "tagalog",
+  "prompt": "「sinehan」の意味は？",
+  "answer": "cinema",
+  "glosses": {
+   "en": "cinema",
+   "ja": "映画館"
+  },
+  "choices": [
+   "epic",
+   "meeting",
+   "cinema",
+   "doctrine"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/sineˈhan/",
+  "verified": true
+ },
+ {
+  "id": "tl-00356",
+  "category": "tagalog",
+  "prompt": "「mabagal」の意味は？",
+  "answer": "slow",
+  "glosses": {
+   "en": "slow",
+   "ja": "遅い"
+  },
+  "choices": [
+   "tourist",
+   "slow",
+   "bravery",
+   "policy"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/maˈbaɡal/",
+  "verified": true
+ },
+ {
+  "id": "tl-00357",
+  "category": "tagalog",
+  "prompt": "「kasintahan」の意味は？",
+  "answer": "sweetheart",
+  "glosses": {
+   "en": "sweetheart",
+   "ja": "恋人"
+  },
+  "choices": [
+   "sweetheart",
+   "to escape",
+   "bright",
+   "president"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kasinˈtahan/",
+  "verified": true
+ },
+ {
+  "id": "tl-00358",
+  "category": "tagalog",
+  "prompt": "「alay」の意味は？",
+  "answer": "offering",
+  "glosses": {
+   "en": "offering",
+   "ja": "捧げ物"
+  },
+  "choices": [
+   "effect",
+   "to live",
+   "offering",
+   "senator"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈʔalaj/",
+  "verified": true
+ },
+ {
+  "id": "tl-00359",
+  "category": "tagalog",
+  "prompt": "「katarungan」の意味は？",
+  "answer": "justice",
+  "glosses": {
+   "en": "justice",
+   "ja": "正義"
+  },
+  "choices": [
+   "justice",
+   "to ask",
+   "route",
+   "death"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kataˈɾuŋan/",
+  "verified": true
+ },
+ {
+  "id": "tl-00360",
+  "category": "tagalog",
+  "prompt": "「umiyak」の意味は？",
+  "answer": "to cry",
+  "glosses": {
+   "en": "to cry",
+   "ja": "泣く"
+  },
+  "choices": [
+   "to cry",
+   "difficult",
+   "intelligence",
+   "villain"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʔumiˈak/",
+  "verified": true
+ },
+ {
+  "id": "tl-00361",
+  "category": "tagalog",
+  "prompt": "「ngumiti」の意味は？",
+  "answer": "to smile",
+  "glosses": {
+   "en": "to smile",
+   "ja": "ほほえむ"
+  },
+  "choices": [
+   "celebration",
+   "to smile",
+   "fish",
+   "car"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ŋumiˈtiʔ/",
+  "verified": true
+ },
+ {
+  "id": "tl-00362",
+  "category": "tagalog",
+  "prompt": "「maghintay」の意味は？",
+  "answer": "to wait",
+  "glosses": {
+   "en": "to wait",
+   "ja": "待つ"
+  },
+  "choices": [
+   "majority",
+   "to wait",
+   "money",
+   "old"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/maɡhinˈtaj/",
+  "verified": true
+ },
+ {
+  "id": "tl-00363",
+  "category": "tagalog",
+  "prompt": "「lungkot」の意味は？",
+  "answer": "sadness",
+  "glosses": {
+   "en": "sadness",
+   "ja": "悲しみ"
+  },
+  "choices": [
+   "to play",
+   "sadness",
+   "revolution",
+   "small"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/luŋˈkot/",
+  "verified": true
+ },
+ {
+  "id": "tl-00364",
+  "category": "tagalog",
+  "prompt": "「palasyo」の意味は？",
+  "answer": "palace",
+  "glosses": {
+   "en": "palace",
+   "ja": "宮殿"
+  },
+  "choices": [
+   "religion",
+   "palace",
+   "nature",
+   "to cry"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/paˈlasjo/",
+  "verified": true
+ },
+ {
+  "id": "tl-00365",
+  "category": "tagalog",
+  "prompt": "「karahasan」の意味は？",
+  "answer": "violence",
+  "glosses": {
+   "en": "violence",
+   "ja": "暴力"
+  },
+  "choices": [
+   "lightning",
+   "violence",
+   "college",
+   "nonsense"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kaɾahaˈsan/",
+  "verified": true
+ },
+ {
+  "id": "tl-00366",
+  "category": "tagalog",
+  "prompt": "「pamayanan」の意味は？",
+  "answer": "community",
+  "glosses": {
+   "en": "community",
+   "ja": "地域社会"
+  },
+  "choices": [
+   "community",
+   "energy",
+   "cancer",
+   "monkey"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˌpamajaˈnan/",
+  "verified": true
+ },
+ {
+  "id": "tl-00367",
+  "category": "tagalog",
+  "prompt": "「internasyonal」の意味は？",
+  "answer": "international",
+  "glosses": {
+   "en": "international",
+   "ja": "国際的な"
+  },
+  "choices": [
+   "international",
+   "protest",
+   "path",
+   "terrorist"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʔinteɾnasjoˈnal/",
+  "verified": true
+ },
+ {
+  "id": "tl-00368",
+  "category": "tagalog",
+  "prompt": "「sanaysay」の意味は？",
+  "answer": "essay",
+  "glosses": {
+   "en": "essay",
+   "ja": "小論文"
+  },
+  "choices": [
+   "president",
+   "emperor",
+   "schedule",
+   "essay"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/sanajˈsaj/",
+  "verified": true
+ },
+ {
+  "id": "tl-00369",
+  "category": "tagalog",
+  "prompt": "「pakinabang」の意味は？",
+  "answer": "benefit",
+  "glosses": {
+   "en": "benefit",
+   "ja": "恩恵"
+  },
+  "choices": [
+   "ocean",
+   "governor",
+   "benefit",
+   "to listen"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pakiˈnabaŋ/",
+  "verified": true
+ },
+ {
+  "id": "tl-00370",
+  "category": "tagalog",
+  "prompt": "「kontribusyon」の意味は？",
+  "answer": "contribution",
+  "glosses": {
+   "en": "contribution",
+   "ja": "貢献"
+  },
+  "choices": [
+   "governor",
+   "route",
+   "contribution",
+   "event"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kontɾibusˈjon/",
+  "verified": true
+ },
+ {
+  "id": "tl-00371",
+  "category": "tagalog",
+  "prompt": "「presyon」の意味は？",
+  "answer": "pressure",
+  "glosses": {
+   "en": "pressure",
+   "ja": "圧力"
+  },
+  "choices": [
+   "to write",
+   "pressure",
+   "angel",
+   "to wait"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pɾesˈjon/",
+  "verified": true
+ },
+ {
+  "id": "tl-00372",
+  "category": "tagalog",
+  "prompt": "「institusyon」の意味は？",
+  "answer": "institution",
+  "glosses": {
+   "en": "institution",
+   "ja": "機関"
+  },
+  "choices": [
+   "institution",
+   "reality",
+   "too much",
+   "business"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʔinstitusˈjon/",
+  "verified": true
+ },
+ {
+  "id": "tl-00373",
+  "category": "tagalog",
+  "prompt": "「kalahok」の意味は？",
+  "answer": "participant",
+  "glosses": {
+   "en": "participant",
+   "ja": "参加者"
+  },
+  "choices": [
+   "tea",
+   "fruit",
+   "participant",
+   "mother"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kalaˈhok/",
+  "verified": true
+ },
+ {
+  "id": "tl-00374",
+  "category": "tagalog",
+  "prompt": "「tagahanga」の意味は？",
+  "answer": "fan",
+  "glosses": {
+   "en": "fan",
+   "ja": "ファン"
+  },
+  "choices": [
+   "fan",
+   "plant",
+   "Sunday",
+   "cloth"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/taɡaˈhaŋaʔ/",
+  "verified": true
+ },
+ {
+  "id": "tl-00375",
+  "category": "tagalog",
+  "prompt": "「pundasyon」の意味は？",
+  "answer": "foundation",
+  "glosses": {
+   "en": "foundation",
+   "ja": "土台"
+  },
+  "choices": [
+   "amount",
+   "foundation",
+   "flood",
+   "voice"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pundasˈjon/",
+  "verified": true
+ },
+ {
+  "id": "tl-00376",
+  "category": "tagalog",
+  "prompt": "「espasyo」の意味は？",
+  "answer": "space",
+  "glosses": {
+   "en": "space",
+   "ja": "空間"
+  },
+  "choices": [
+   "space",
+   "perfect",
+   "Christianity",
+   "cause"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʔesˈpasjo/",
+  "verified": true
+ },
+ {
+  "id": "tl-00377",
+  "category": "tagalog",
+  "prompt": "「karunungan」の意味は？",
+  "answer": "wisdom",
+  "glosses": {
+   "en": "wisdom",
+   "ja": "知恵"
+  },
+  "choices": [
+   "wisdom",
+   "hospital",
+   "senator",
+   "slow"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kaɾuˈnuŋan/",
+  "verified": true
+ },
+ {
+  "id": "tl-00378",
+  "category": "tagalog",
+  "prompt": "「krisis」の意味は？",
+  "answer": "crisis",
+  "glosses": {
+   "en": "crisis",
+   "ja": "危機"
+  },
+  "choices": [
+   "pest",
+   "father",
+   "crisis",
+   "finance"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈkɾisis/",
+  "verified": true
+ },
+ {
+  "id": "tl-00379",
+  "category": "tagalog",
+  "prompt": "「tradisyon」の意味は？",
+  "answer": "tradition",
+  "glosses": {
+   "en": "tradition",
+   "ja": "伝統"
+  },
+  "choices": [
+   "maize",
+   "population",
+   "detail",
+   "tradition"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/tɾadisˈjon/",
+  "verified": true
+ },
+ {
+  "id": "tl-00380",
+  "category": "tagalog",
+  "prompt": "「emosyon」の意味は？",
+  "answer": "emotion",
+  "glosses": {
+   "en": "emotion",
+   "ja": "感情"
+  },
+  "choices": [
+   "emotion",
+   "candidate",
+   "soul",
+   "mouth"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʔemosˈjon/",
+  "verified": true
+ },
+ {
+  "id": "tl-00381",
+  "category": "tagalog",
+  "prompt": "「tumakas」の意味は？",
+  "answer": "to escape",
+  "glosses": {
+   "en": "to escape",
+   "ja": "逃げる"
+  },
+  "choices": [
+   "democracy",
+   "pity",
+   "space",
+   "to escape"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/tuˈmakas/",
+  "verified": true
+ },
+ {
+  "id": "tl-00382",
+  "category": "tagalog",
+  "prompt": "「gubat」の意味は？",
+  "answer": "forest",
+  "glosses": {
+   "en": "forest",
+   "ja": "森"
+  },
+  "choices": [
+   "district",
+   "noisy",
+   "forest",
+   "toy"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈɡubat/",
+  "verified": true
+ },
+ {
+  "id": "tl-00383",
+  "category": "tagalog",
+  "prompt": "「kagustuhan」の意味は？",
+  "answer": "wish",
+  "glosses": {
+   "en": "wish",
+   "ja": "望み"
+  },
+  "choices": [
+   "document",
+   "writing",
+   "close",
+   "wish"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kaɡusˈtuhan/",
+  "verified": true
+ },
+ {
+  "id": "tl-00384",
+  "category": "tagalog",
+  "prompt": "「Biyernes」の意味は？",
+  "answer": "Friday",
+  "glosses": {
+   "en": "Friday",
+   "ja": "金曜日"
+  },
+  "choices": [
+   "night",
+   "nose",
+   "Friday",
+   "to wait"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/biˈeɾnes/",
+  "verified": true
+ },
+ {
+  "id": "tl-00385",
+  "category": "tagalog",
+  "prompt": "「maputi」の意味は？",
+  "answer": "white",
+  "glosses": {
+   "en": "white",
+   "ja": "白い"
+  },
+  "choices": [
+   "prophet",
+   "evidence",
+   "white",
+   "leader"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mapuˈtiʔ/",
+  "verified": true
+ },
+ {
+  "id": "tl-00386",
+  "category": "tagalog",
+  "prompt": "「banyo」の意味は？",
+  "answer": "bathroom",
+  "glosses": {
+   "en": "bathroom",
+   "ja": "浴室"
+  },
+  "choices": [
+   "bathroom",
+   "song",
+   "arm",
+   "ability"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈbanjo/",
+  "verified": true
+ },
+ {
+  "id": "tl-00387",
+  "category": "tagalog",
+  "prompt": "「trapiko」の意味は？",
+  "answer": "traffic",
+  "glosses": {
+   "en": "traffic",
+   "ja": "交通"
+  },
+  "choices": [
+   "banana",
+   "potato",
+   "traffic",
+   "pitiable"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈtɾapiko/",
+  "verified": true
+ },
+ {
+  "id": "tl-00388",
+  "category": "tagalog",
+  "prompt": "「magsimula」の意味は？",
+  "answer": "to start",
+  "glosses": {
+   "en": "to start",
+   "ja": "始める"
+  },
+  "choices": [
+   "smoking",
+   "minute",
+   "fruit",
+   "to start"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/maɡsimuˈlaʔ/",
+  "verified": true
+ },
+ {
+  "id": "tl-00389",
+  "category": "tagalog",
+  "prompt": "「matibay」の意味は？",
+  "answer": "durable",
+  "glosses": {
+   "en": "durable",
+   "ja": "丈夫な"
+  },
+  "choices": [
+   "durable",
+   "model",
+   "ancestor",
+   "interest"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/maˈtibaj/",
+  "verified": true
+ },
+ {
+  "id": "tl-00390",
+  "category": "tagalog",
+  "prompt": "「pumayag」の意味は？",
+  "answer": "to agree",
+  "glosses": {
+   "en": "to agree",
+   "ja": "同意する"
+  },
+  "choices": [
+   "knee",
+   "quiet",
+   "to agree",
+   "forehead"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/puˈmajaɡ/",
+  "verified": true
+ },
+ {
+  "id": "tl-00391",
+  "category": "tagalog",
+  "prompt": "「magtanong」の意味は？",
+  "answer": "to ask",
+  "glosses": {
+   "en": "to ask",
+   "ja": "尋ねる"
+  },
+  "choices": [
+   "number",
+   "apparatus",
+   "to ask",
+   "archipelago"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/maɡtaˈnoŋ/",
+  "verified": true
+ },
+ {
+  "id": "tl-00392",
+  "category": "tagalog",
+  "prompt": "「mataba」の意味は？",
+  "answer": "fat",
+  "glosses": {
+   "en": "fat",
+   "ja": "太った"
+  },
+  "choices": [
+   "dream",
+   "breakfast",
+   "durable",
+   "fat"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mataˈbaʔ/",
+  "verified": true
+ },
+ {
+  "id": "tl-00393",
+  "category": "tagalog",
+  "prompt": "「metal」の意味は？",
+  "answer": "metal",
+  "glosses": {
+   "en": "metal",
+   "ja": "金属"
+  },
+  "choices": [
+   "principle",
+   "to wait",
+   "wheel",
+   "metal"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/meˈtal/",
+  "verified": true
+ },
+ {
+  "id": "tl-00394",
+  "category": "tagalog",
+  "prompt": "「misa」の意味は？",
+  "answer": "Mass",
+  "glosses": {
+   "en": "Mass",
+   "ja": "ミサ"
+  },
+  "choices": [
+   "to agree",
+   "god",
+   "calamity",
+   "Mass"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈmisa/",
+  "verified": true
+ },
+ {
+  "id": "tl-00395",
+  "category": "tagalog",
+  "prompt": "「matamis」の意味は？",
+  "answer": "sweet",
+  "glosses": {
+   "en": "sweet",
+   "ja": "甘い"
+  },
+  "choices": [
+   "short",
+   "west",
+   "cat",
+   "sweet"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mataˈmis/",
+  "verified": true
+ },
+ {
+  "id": "tl-00396",
+  "category": "tagalog",
+  "prompt": "「demokrasya」の意味は？",
+  "answer": "democracy",
+  "glosses": {
+   "en": "democracy",
+   "ja": "民主主義"
+  },
+  "choices": [
+   "fish",
+   "crime",
+   "democracy",
+   "weapon"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/demoˈkɾasja/",
+  "verified": true
+ },
+ {
+  "id": "tl-00397",
+  "category": "tagalog",
+  "prompt": "「pahayagan」の意味は？",
+  "answer": "newspaper",
+  "glosses": {
+   "en": "newspaper",
+   "ja": "新聞"
+  },
+  "choices": [
+   "temple",
+   "angle",
+   "newspaper",
+   "miracle"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˌpahajaˈɡan/",
+  "verified": true
+ },
+ {
+  "id": "tl-00398",
+  "category": "tagalog",
+  "prompt": "「saging」の意味は？",
+  "answer": "banana",
+  "glosses": {
+   "en": "banana",
+   "ja": "バナナ"
+  },
+  "choices": [
+   "deer",
+   "archipelago",
+   "banana",
+   "agency"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈsaɡiŋ/",
+  "verified": true
+ },
+ {
+  "id": "tl-00399",
+  "category": "tagalog",
+  "prompt": "「sabaw」の意味は？",
+  "answer": "soup",
+  "glosses": {
+   "en": "soup",
+   "ja": "スープ"
+  },
+  "choices": [
+   "soup",
+   "eyebrow",
+   "potato",
+   "revolution"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/saˈbaw/",
+  "verified": true
+ },
+ {
+  "id": "tl-00400",
+  "category": "tagalog",
+  "prompt": "「prinsipe」の意味は？",
+  "answer": "prince",
+  "glosses": {
+   "en": "prince",
+   "ja": "王子"
+  },
+  "choices": [
+   "teacher",
+   "prince",
+   "breakfast",
+   "problem"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈpɾinsipe/",
+  "verified": true
+ },
+ {
+  "id": "tl-00401",
+  "category": "tagalog",
+  "prompt": "「gulong」の意味は？",
+  "answer": "wheel",
+  "glosses": {
+   "en": "wheel",
+   "ja": "車輪"
+  },
+  "choices": [
+   "governor",
+   "wheel",
+   "Friday",
+   "livelihood"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɡuˈloŋ/",
+  "verified": true
+ },
+ {
+  "id": "tl-00402",
+  "category": "tagalog",
+  "prompt": "「alkalde」の意味は？",
+  "answer": "mayor",
+  "glosses": {
+   "en": "mayor",
+   "ja": "市長"
+  },
+  "choices": [
+   "mouse",
+   "friendship",
+   "mayor",
+   "pitiable"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʔalˈkalde/",
+  "verified": true
+ },
+ {
+  "id": "tl-00403",
+  "category": "tagalog",
+  "prompt": "「hardin」の意味は？",
+  "answer": "garden",
+  "glosses": {
+   "en": "garden",
+   "ja": "庭"
+  },
+  "choices": [
+   "garden",
+   "institution",
+   "enemy",
+   "discipline"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/haɾˈdin/",
+  "verified": true
+ },
+ {
+  "id": "tl-00404",
+  "category": "tagalog",
+  "prompt": "「anibersaryo」の意味は？",
+  "answer": "anniversary",
+  "glosses": {
+   "en": "anniversary",
+   "ja": "記念日"
+  },
+  "choices": [
+   "close",
+   "early",
+   "anniversary",
+   "dream"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʔanibeɾˈsaɾjo/",
+  "verified": true
+ },
+ {
+  "id": "tl-00405",
+  "category": "tagalog",
+  "prompt": "「amo」の意味は？",
+  "answer": "boss",
+  "glosses": {
+   "en": "boss",
+   "ja": "雇い主"
+  },
+  "choices": [
+   "schedule",
+   "coin",
+   "boss",
+   "important"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈʔamo/",
+  "verified": true
+ },
+ {
+  "id": "tl-00406",
+  "category": "tagalog",
+  "prompt": "「gitara」の意味は？",
+  "answer": "guitar",
+  "glosses": {
+   "en": "guitar",
+   "ja": "ギター"
+  },
+  "choices": [
+   "guitar",
+   "knee",
+   "wing",
+   "faith"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɡiˈtaɾa/",
+  "verified": true
+ },
+ {
+  "id": "tl-00407",
+  "category": "tagalog",
+  "prompt": "「protesta」の意味は？",
+  "answer": "protest",
+  "glosses": {
+   "en": "protest",
+   "ja": "抗議"
+  },
+  "choices": [
+   "fever",
+   "somewhat",
+   "protest",
+   "to wait"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pɾoˈtesta/",
+  "verified": true
+ },
+ {
+  "id": "tl-00408",
+  "category": "tagalog",
+  "prompt": "「aparato」の意味は？",
+  "answer": "apparatus",
+  "glosses": {
+   "en": "apparatus",
+   "ja": "装置"
+  },
+  "choices": [
+   "west",
+   "apparatus",
+   "success",
+   "after"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʔapaˈɾato/",
+  "verified": true
+ },
+ {
+  "id": "tl-00409",
+  "category": "tagalog",
+  "prompt": "「atleta」の意味は？",
+  "answer": "athlete",
+  "glosses": {
+   "en": "athlete",
+   "ja": "競技者"
+  },
+  "choices": [
+   "early",
+   "chapter",
+   "athlete",
+   "archipelago"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʔatˈleta/",
+  "verified": true
+ },
+ {
+  "id": "tl-00410",
+  "category": "tagalog",
+  "prompt": "「katas」の意味は？",
+  "answer": "juice",
+  "glosses": {
+   "en": "juice",
+   "ja": "絞り汁"
+  },
+  "choices": [
+   "juice",
+   "cancer",
+   "typhoon",
+   "earthquake"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kaˈtas/",
+  "verified": true
+ },
+ {
+  "id": "tl-00411",
+  "category": "tagalog",
+  "prompt": "「gobernador」の意味は？",
+  "answer": "governor",
+  "glosses": {
+   "en": "governor",
+   "ja": "知事"
+  },
+  "choices": [
+   "city",
+   "governor",
+   "sure",
+   "voice"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɡobeɾnaˈdoɾ/",
+  "verified": true
+ },
+ {
+  "id": "tl-00412",
+  "category": "tagalog",
+  "prompt": "「daga」の意味は？",
+  "answer": "mouse",
+  "glosses": {
+   "en": "mouse",
+   "ja": "ネズミ"
+  },
+  "choices": [
+   "mouse",
+   "eyebrow",
+   "personal",
+   "capacity"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/daˈɡaʔ/",
+  "verified": true
+ },
+ {
+  "id": "tl-00413",
+  "category": "tagalog",
+  "prompt": "「opinyon」の意味は？",
+  "answer": "opinion",
+  "glosses": {
+   "en": "opinion",
+   "ja": "意見"
+  },
+  "choices": [
+   "throat",
+   "opinion",
+   "egg",
+   "sadness"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʔopinˈjon/",
+  "verified": true
+ },
+ {
+  "id": "tl-00414",
+  "category": "tagalog",
+  "prompt": "「haligi」の意味は？",
+  "answer": "pillar",
+  "glosses": {
+   "en": "pillar",
+   "ja": "柱"
+  },
+  "choices": [
+   "pillar",
+   "painful",
+   "door",
+   "actor"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/haˈliɡi/",
+  "verified": true
+ },
+ {
+  "id": "tl-00415",
+  "category": "tagalog",
+  "prompt": "「pasasalamat」の意味は？",
+  "answer": "gratitude",
+  "glosses": {
+   "en": "gratitude",
+   "ja": "感謝"
+  },
+  "choices": [
+   "information",
+   "sweet",
+   "gratitude",
+   "moon"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pasasaˈlamat/",
+  "verified": true
+ },
+ {
+  "id": "tl-00416",
+  "category": "tagalog",
+  "prompt": "「unggoy」の意味は？",
+  "answer": "monkey",
+  "glosses": {
+   "en": "monkey",
+   "ja": "サル"
+  },
+  "choices": [
+   "monkey",
+   "agreement",
+   "pitiable",
+   "information"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʔuŋˈɡoj/",
+  "verified": true
+ },
+ {
+  "id": "tl-00417",
+  "category": "tagalog",
+  "prompt": "「politiko」の意味は？",
+  "answer": "politician",
+  "glosses": {
+   "en": "politician",
+   "ja": "政治家"
+  },
+  "choices": [
+   "politician",
+   "kitchen",
+   "to win",
+   "uncle"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/poˈlitiko/",
+  "verified": true
+ },
+ {
+  "id": "tl-00418",
+  "category": "tagalog",
+  "prompt": "「agrikultura」の意味は？",
+  "answer": "agriculture",
+  "glosses": {
+   "en": "agriculture",
+   "ja": "農業"
+  },
+  "choices": [
+   "inheritance",
+   "to call",
+   "agriculture",
+   "effective"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʔaɡɾikulˈtuɾa/",
+  "verified": true
+ },
+ {
+  "id": "tl-00419",
+  "category": "tagalog",
+  "prompt": "「reaksiyon」の意味は？",
+  "answer": "reaction",
+  "glosses": {
+   "en": "reaction",
+   "ja": "反応"
+  },
+  "choices": [
+   "document",
+   "box",
+   "humankind",
+   "reaction"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɾeʔaksiˈon/",
+  "verified": true
+ },
+ {
+  "id": "tl-00420",
+  "category": "tagalog",
+  "prompt": "「dilim」の意味は？",
+  "answer": "darkness",
+  "glosses": {
+   "en": "darkness",
+   "ja": "闇"
+  },
+  "choices": [
+   "mouth",
+   "darkness",
+   "song",
+   "soul"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/diˈlim/",
+  "verified": true
+ },
+ {
+  "id": "tl-00421",
+  "category": "tagalog",
+  "prompt": "「lindol」の意味は？",
+  "answer": "earthquake",
+  "glosses": {
+   "en": "earthquake",
+   "ja": "地震"
+  },
+  "choices": [
+   "durable",
+   "earthquake",
+   "too much",
+   "world"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/linˈdol/",
+  "verified": true
+ },
+ {
+  "id": "tl-00422",
+  "category": "tagalog",
+  "prompt": "「lagnat」の意味は？",
+  "answer": "fever",
+  "glosses": {
+   "en": "fever",
+   "ja": "発熱"
+  },
+  "choices": [
+   "student",
+   "pest",
+   "doctrine",
+   "fever"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/laɡˈnat/",
+  "verified": true
+ },
+ {
+  "id": "tl-00423",
+  "category": "tagalog",
+  "prompt": "「tuhod」の意味は？",
+  "answer": "knee",
+  "glosses": {
+   "en": "knee",
+   "ja": "ひざ"
+  },
+  "choices": [
+   "college",
+   "medicine",
+   "knee",
+   "to write"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈtuhod/",
+  "verified": true
+ },
+ {
+  "id": "tl-00424",
+  "category": "tagalog",
+  "prompt": "「kahon」の意味は？",
+  "answer": "box",
+  "glosses": {
+   "en": "box",
+   "ja": "箱"
+  },
+  "choices": [
+   "box",
+   "newspaper",
+   "condition",
+   "capacity"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kaˈhon/",
+  "verified": true
+ },
+ {
+  "id": "tl-00425",
+  "category": "tagalog",
+  "prompt": "「balikat」の意味は？",
+  "answer": "shoulder",
+  "glosses": {
+   "en": "shoulder",
+   "ja": "肩"
+  },
+  "choices": [
+   "memory",
+   "shoulder",
+   "group",
+   "to watch"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/baˈlikat/",
+  "verified": true
+ },
+ {
+  "id": "tl-00426",
+  "category": "tagalog",
+  "prompt": "「imbestigasyon」の意味は？",
+  "answer": "investigation",
+  "glosses": {
+   "en": "investigation",
+   "ja": "調査"
+  },
+  "choices": [
+   "technology",
+   "campaign",
+   "investigation",
+   "price"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʔimˌbestiɡasˈjon/",
+  "verified": true
+ },
+ {
+  "id": "tl-00427",
+  "category": "tagalog",
+  "prompt": "「basehan」の意味は？",
+  "answer": "basis",
+  "glosses": {
+   "en": "basis",
+   "ja": "基礎"
+  },
+  "choices": [
+   "test",
+   "strict",
+   "basis",
+   "capacity"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/baseˈhan/",
+  "verified": true
+ },
+ {
+  "id": "tl-00428",
+  "category": "tagalog",
+  "prompt": "「kapalaran」の意味は？",
+  "answer": "fate",
+  "glosses": {
+   "en": "fate",
+   "ja": "運命"
+  },
+  "choices": [
+   "weak",
+   "bathroom",
+   "fate",
+   "gratitude"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kapaˈlaɾan/",
+  "verified": true
+ },
+ {
+  "id": "tl-00429",
+  "category": "tagalog",
+  "prompt": "「epektibo」の意味は？",
+  "answer": "effective",
+  "glosses": {
+   "en": "effective",
+   "ja": "効果的な"
+  },
+  "choices": [
+   "temple",
+   "tea",
+   "preparation",
+   "effective"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʔepekˈtibo/",
+  "verified": true
+ },
+ {
+  "id": "tl-00430",
+  "category": "tagalog",
+  "prompt": "「talumpati」の意味は？",
+  "answer": "speech",
+  "glosses": {
+   "en": "speech",
+   "ja": "演説"
+  },
+  "choices": [
+   "wisdom",
+   "to play",
+   "speech",
+   "pitiable"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/talumˈpatiʔ/",
+  "verified": true
+ },
+ {
+  "id": "tl-00431",
+  "category": "tagalog",
+  "prompt": "「iskedyul」の意味は？",
+  "answer": "schedule",
+  "glosses": {
+   "en": "schedule",
+   "ja": "日程"
+  },
+  "choices": [
+   "schedule",
+   "meat",
+   "villain",
+   "fire"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʔisˈkedjul/",
+  "verified": true
+ },
+ {
+  "id": "tl-00432",
+  "category": "tagalog",
+  "prompt": "「kapakanan」の意味は？",
+  "answer": "welfare",
+  "glosses": {
+   "en": "welfare",
+   "ja": "福祉"
+  },
+  "choices": [
+   "welfare",
+   "city",
+   "sweet",
+   "cat"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kapakaˈnan/",
+  "verified": true
+ },
+ {
+  "id": "tl-00433",
+  "category": "tagalog",
+  "prompt": "「magsulat」の意味は？",
+  "answer": "to write",
+  "glosses": {
+   "en": "to write",
+   "ja": "書く"
+  },
+  "choices": [
+   "art",
+   "to write",
+   "plan",
+   "crime"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/maɡsuˈlat/",
+  "verified": true
+ },
+ {
+  "id": "tl-00434",
+  "category": "tagalog",
+  "prompt": "「kasarian」の意味は？",
+  "answer": "gender",
+  "glosses": {
+   "en": "gender",
+   "ja": "性別"
+  },
+  "choices": [
+   "pressure",
+   "gender",
+   "teacher",
+   "livelihood"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kasaɾiˈʔan/",
+  "verified": true
+ },
+ {
+  "id": "tl-00435",
+  "category": "tagalog",
+  "prompt": "「impluwensiya」の意味は？",
+  "answer": "influence",
+  "glosses": {
+   "en": "influence",
+   "ja": "影響"
+  },
+  "choices": [
+   "influence",
+   "fish",
+   "north",
+   "street"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʔimpluˈensia/",
+  "verified": true
+ },
+ {
+  "id": "tl-00436",
+  "category": "tagalog",
+  "prompt": "「kalagitnaan」の意味は？",
+  "answer": "middle",
+  "glosses": {
+   "en": "middle",
+   "ja": "中央"
+  },
+  "choices": [
+   "violence",
+   "princess",
+   "pillar",
+   "middle"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kalaɡitˈnaʔan/",
+  "verified": true
+ },
+ {
+  "id": "tl-00437",
+  "category": "tagalog",
+  "prompt": "「anggulo」の意味は？",
+  "answer": "angle",
+  "glosses": {
+   "en": "angle",
+   "ja": "角度"
+  },
+  "choices": [
+   "ancestor",
+   "cold",
+   "angle",
+   "majority"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈʔaŋɡulo/",
+  "verified": true
+ },
+ {
+  "id": "tl-00438",
+  "category": "tagalog",
+  "prompt": "「pandaigdig」の意味は？",
+  "answer": "global",
+  "glosses": {
+   "en": "global",
+   "ja": "世界的な"
+  },
+  "choices": [
+   "knee",
+   "terrorist",
+   "global",
+   "joyful"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pandaʔiɡˈdiɡ/",
+  "verified": true
+ },
+ {
+  "id": "tl-00439",
+  "category": "tagalog",
+  "prompt": "「yunit」の意味は？",
+  "answer": "unit",
+  "glosses": {
+   "en": "unit",
+   "ja": "単位"
+  },
+  "choices": [
+   "theory",
+   "unit",
+   "celebration",
+   "success"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈjunit/",
+  "verified": true
+ },
+ {
+  "id": "tl-00440",
+  "category": "tagalog",
+  "prompt": "「bangkay」の意味は？",
+  "answer": "corpse",
+  "glosses": {
+   "en": "corpse",
+   "ja": "死体"
+  },
+  "choices": [
+   "cause",
+   "Sunday",
+   "corpse",
+   "gratitude"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/baŋˈkaj/",
+  "verified": true
+ },
+ {
+  "id": "tl-00441",
+  "category": "tagalog",
+  "prompt": "「kilay」の意味は？",
+  "answer": "eyebrow",
+  "glosses": {
+   "en": "eyebrow",
+   "ja": "眉毛"
+  },
+  "choices": [
+   "eyebrow",
+   "political party",
+   "to agree",
+   "thought"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈkilaj/",
+  "verified": true
+ },
+ {
+  "id": "tl-00442",
+  "category": "tagalog",
+  "prompt": "「bituka」の意味は？",
+  "answer": "intestine",
+  "glosses": {
+   "en": "intestine",
+   "ja": "腸"
+  },
+  "choices": [
+   "page",
+   "intestine",
+   "market",
+   "archipelago"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/biˈtuka/",
+  "verified": true
+ },
+ {
+  "id": "tl-00443",
+  "category": "tagalog",
+  "prompt": "「paglilinaw」の意味は？",
+  "answer": "clarification",
+  "glosses": {
+   "en": "clarification",
+   "ja": "明確化"
+  },
+  "choices": [
+   "likewise",
+   "clarification",
+   "message",
+   "now"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/paɡliˈlinaw/",
+  "verified": true
+ },
+ {
+  "id": "tl-00444",
+  "category": "tagalog",
+  "prompt": "「impiyerno」の意味は？",
+  "answer": "hell",
+  "glosses": {
+   "en": "hell",
+   "ja": "地獄"
+  },
+  "choices": [
+   "hell",
+   "dream",
+   "authority",
+   "member"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʔimpiˈeɾno/",
+  "verified": true
+ },
+ {
+  "id": "tl-00445",
+  "category": "tagalog",
+  "prompt": "「Kristiyanismo」の意味は？",
+  "answer": "Christianity",
+  "glosses": {
+   "en": "Christianity",
+   "ja": "キリスト教"
+  },
+  "choices": [
+   "anniversary",
+   "plan",
+   "Christianity",
+   "fate"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kɾistiaˈnismo/",
+  "verified": true
+ },
+ {
+  "id": "tl-00446",
+  "category": "tagalog",
+  "prompt": "「mambabatas」の意味は？",
+  "answer": "lawmaker",
+  "glosses": {
+   "en": "lawmaker",
+   "ja": "立法者"
+  },
+  "choices": [
+   "offering",
+   "influence",
+   "lawmaker",
+   "test"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mambaˈbatas/",
+  "verified": true
+ },
+ {
+  "id": "tl-00447",
+  "category": "tagalog",
+  "prompt": "「manood」の意味は？",
+  "answer": "to watch",
+  "glosses": {
+   "en": "to watch",
+   "ja": "観る"
+  },
+  "choices": [
+   "information",
+   "winter",
+   "bird",
+   "to watch"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/manoˈʔod/",
+  "verified": true
+ },
+ {
+  "id": "tl-00448",
+  "category": "tagalog",
+  "prompt": "「magtrabaho」の意味は？",
+  "answer": "to work",
+  "glosses": {
+   "en": "to work",
+   "ja": "働く"
+  },
+  "choices": [
+   "writing",
+   "to work",
+   "black",
+   "meaning"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/maɡtɾaˈbaho/",
+  "verified": true
+ },
+ {
+  "id": "tl-00449",
+  "category": "tagalog",
+  "prompt": "「puwang」の意味は？",
+  "answer": "gap",
+  "glosses": {
+   "en": "gap",
+   "ja": "すき間"
+  },
+  "choices": [
+   "angel",
+   "cheek",
+   "gap",
+   "passenger"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/puˈaŋ/",
+  "verified": true
+ },
+ {
+  "id": "tl-00450",
+  "category": "tagalog",
+  "prompt": "「alon」の意味は？",
+  "answer": "wave",
+  "glosses": {
+   "en": "wave",
+   "ja": "波"
+  },
+  "choices": [
+   "slow",
+   "wave",
+   "technology",
+   "fever"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈʔalon/",
+  "verified": true
+ },
+ {
+  "id": "tl-00451",
+  "category": "tagalog",
+  "prompt": "「kawawa」の意味は？",
+  "answer": "pitiable",
+  "glosses": {
+   "en": "pitiable",
+   "ja": "哀れな"
+  },
+  "choices": [
+   "traditional",
+   "friendship",
+   "energy",
+   "pitiable"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kaˈwawaʔ/",
+  "verified": true
+ },
+ {
+  "id": "tl-00452",
+  "category": "tagalog",
+  "prompt": "「susi」の意味は？",
+  "answer": "key",
+  "glosses": {
+   "en": "key",
+   "ja": "鍵"
+  },
+  "choices": [
+   "god",
+   "key",
+   "responsibility",
+   "balloon"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈsusiʔ/",
+  "verified": true
+ },
+ {
+  "id": "tl-00453",
+  "category": "tagalog",
+  "prompt": "「bote」の意味は？",
+  "answer": "bottle",
+  "glosses": {
+   "en": "bottle",
+   "ja": "びん"
+  },
+  "choices": [
+   "bed",
+   "protein",
+   "bottle",
+   "policy"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈbote/",
+  "verified": true
+ },
+ {
+  "id": "tl-00454",
+  "category": "tagalog",
+  "prompt": "「pagsusulit」の意味は？",
+  "answer": "test",
+  "glosses": {
+   "en": "test",
+   "ja": "試験"
+  },
+  "choices": [
+   "minute",
+   "influence",
+   "victim",
+   "test"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/paɡsuˈsulit/",
+  "verified": true
+ },
+ {
+  "id": "tl-00455",
+  "category": "tagalog",
+  "prompt": "「payak」の意味は？",
+  "answer": "simple",
+  "glosses": {
+   "en": "simple",
+   "ja": "単純な"
+  },
+  "choices": [
+   "simple",
+   "student",
+   "legend",
+   "night"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/paˈjak/",
+  "verified": true
+ },
+ {
+  "id": "tl-00456",
+  "category": "tagalog",
+  "prompt": "「pananagutan」の意味は？",
+  "answer": "responsibility",
+  "glosses": {
+   "en": "responsibility",
+   "ja": "責任"
+  },
+  "choices": [
+   "big",
+   "responsibility",
+   "meaning",
+   "letter"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pananaˈɡutan/",
+  "verified": true
+ },
+ {
+  "id": "tl-00457",
+  "category": "tagalog",
+  "prompt": "「kalamnan」の意味は？",
+  "answer": "muscle",
+  "glosses": {
+   "en": "muscle",
+   "ja": "筋肉"
+  },
+  "choices": [
+   "humankind",
+   "there",
+   "muscle",
+   "reward"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kalamˈnan/",
+  "verified": true
+ },
+ {
+  "id": "tl-00458",
+  "category": "tagalog",
+  "prompt": "「talino」の意味は？",
+  "answer": "intelligence",
+  "glosses": {
+   "en": "intelligence",
+   "ja": "知能"
+  },
+  "choices": [
+   "intelligence",
+   "violent",
+   "legend",
+   "institution"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/taˈlino/",
+  "verified": true
+ },
+ {
+  "id": "tl-00459",
+  "category": "tagalog",
+  "prompt": "「gantimpala」の意味は？",
+  "answer": "reward",
+  "glosses": {
+   "en": "reward",
+   "ja": "報酬"
+  },
+  "choices": [
+   "violent",
+   "family",
+   "clothes",
+   "reward"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɡantimˈpalaʔ/",
+  "verified": true
+ },
+ {
+  "id": "tl-00460",
+  "category": "tagalog",
+  "prompt": "「maligo」の意味は？",
+  "answer": "to bathe",
+  "glosses": {
+   "en": "to bathe",
+   "ja": "入浴する"
+  },
+  "choices": [
+   "limitation",
+   "joke",
+   "the public",
+   "to bathe"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/maˈliɡoʔ/",
+  "verified": true
+ },
+ {
+  "id": "tl-00461",
+  "category": "tagalog",
+  "prompt": "「monasteryo」の意味は？",
+  "answer": "monastery",
+  "glosses": {
+   "en": "monastery",
+   "ja": "修道院"
+  },
+  "choices": [
+   "monastery",
+   "eye",
+   "essay",
+   "planet"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/monasˈteɾjo/",
+  "verified": true
+ },
+ {
+  "id": "tl-00462",
+  "category": "tagalog",
+  "prompt": "「debate」の意味は？",
+  "answer": "debate",
+  "glosses": {
+   "en": "debate",
+   "ja": "討論"
+  },
+  "choices": [
+   "debate",
+   "course of study",
+   "mountain",
+   "transportation"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/deˈbate/",
+  "verified": true
+ },
+ {
+  "id": "tl-00463",
+  "category": "tagalog",
+  "prompt": "「politika」の意味は？",
+  "answer": "politics",
+  "glosses": {
+   "en": "politics",
+   "ja": "政治"
+  },
+  "choices": [
+   "politics",
+   "joyful",
+   "boss",
+   "cat"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/poˈlitika/",
+  "verified": true
+ },
+ {
+  "id": "tl-00464",
+  "category": "tagalog",
+  "prompt": "「almusal」の意味は？",
+  "answer": "breakfast",
+  "glosses": {
+   "en": "breakfast",
+   "ja": "朝食"
+  },
+  "choices": [
+   "emperor",
+   "television",
+   "breakfast",
+   "belief"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʔalmuˈsal/",
+  "verified": true
+ },
+ {
+  "id": "tl-00465",
+  "category": "tagalog",
+  "prompt": "「tela」の意味は？",
+  "answer": "cloth",
+  "glosses": {
+   "en": "cloth",
+   "ja": "布"
+  },
+  "choices": [
+   "cloth",
+   "player",
+   "durable",
+   "violence"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈtela/",
+  "verified": true
+ },
+ {
+  "id": "tl-00466",
+  "category": "tagalog",
+  "prompt": "「trono」の意味は？",
+  "answer": "throne",
+  "glosses": {
+   "en": "throne",
+   "ja": "玉座"
+  },
+  "choices": [
+   "throne",
+   "few",
+   "traditional",
+   "tradition"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈtɾono/",
+  "verified": true
+ },
+ {
+  "id": "tl-00467",
+  "category": "tagalog",
+  "prompt": "「departamento」の意味は？",
+  "answer": "department",
+  "glosses": {
+   "en": "department",
+   "ja": "部門"
+  },
+  "choices": [
+   "need",
+   "education",
+   "department",
+   "opinion"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/depaɾtaˈmento/",
+  "verified": true
+ },
+ {
+  "id": "tl-00468",
+  "category": "tagalog",
+  "prompt": "「bandila」の意味は？",
+  "answer": "flag",
+  "glosses": {
+   "en": "flag",
+   "ja": "旗"
+  },
+  "choices": [
+   "weight",
+   "protein",
+   "flag",
+   "calamity"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/banˈdilaʔ/",
+  "verified": true
+ },
+ {
+  "id": "tl-00469",
+  "category": "tagalog",
+  "prompt": "「asal」の意味は？",
+  "answer": "behavior",
+  "glosses": {
+   "en": "behavior",
+   "ja": "振る舞い"
+  },
+  "choices": [
+   "to speak",
+   "test",
+   "bright",
+   "behavior"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈʔasal/",
+  "verified": true
+ },
+ {
+  "id": "tl-00470",
+  "category": "tagalog",
+  "prompt": "「parati」の意味は？",
+  "answer": "always",
+  "glosses": {
+   "en": "always",
+   "ja": "いつも"
+  },
+  "choices": [
+   "pitiable",
+   "always",
+   "condition",
+   "regulation"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/paˈɾati/",
+  "verified": true
+ },
+ {
+  "id": "tl-00471",
+  "category": "tagalog",
+  "prompt": "「manipis」の意味は？",
+  "answer": "thin",
+  "glosses": {
+   "en": "thin",
+   "ja": "薄い"
+  },
+  "choices": [
+   "maize",
+   "to buy",
+   "nation",
+   "thin"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/maniˈpis/",
+  "verified": true
+ },
+ {
+  "id": "tl-00472",
+  "category": "tagalog",
+  "prompt": "「bintana」の意味は？",
+  "answer": "window",
+  "glosses": {
+   "en": "window",
+   "ja": "窓"
+  },
+  "choices": [
+   "allotted",
+   "effect",
+   "citizen",
+   "window"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/binˈtanaʔ/",
+  "verified": true
+ },
+ {
+  "id": "tl-00473",
+  "category": "tagalog",
+  "prompt": "「insekto」の意味は？",
+  "answer": "insect",
+  "glosses": {
+   "en": "insect",
+   "ja": "昆虫"
+  },
+  "choices": [
+   "wave",
+   "cold",
+   "insect",
+   "friend"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʔinˈsekto/",
+  "verified": true
+ },
+ {
+  "id": "tl-00474",
+  "category": "tagalog",
+  "prompt": "「terorista」の意味は？",
+  "answer": "terrorist",
+  "glosses": {
+   "en": "terrorist",
+   "ja": "テロリスト"
+  },
+  "choices": [
+   "sweetheart",
+   "after",
+   "terrorist",
+   "test"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/teɾoˈɾista/",
+  "verified": true
+ },
+ {
+  "id": "tl-00475",
+  "category": "tagalog",
+  "prompt": "「yelo」の意味は？",
+  "answer": "ice",
+  "glosses": {
+   "en": "ice",
+   "ja": "氷"
+  },
+  "choices": [
+   "potato",
+   "identity",
+   "window",
+   "ice"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈjelo/",
+  "verified": true
+ },
+ {
+  "id": "tl-00476",
+  "category": "tagalog",
+  "prompt": "「rebolusyon」の意味は？",
+  "answer": "revolution",
+  "glosses": {
+   "en": "revolution",
+   "ja": "革命"
+  },
+  "choices": [
+   "governor",
+   "region",
+   "revolution",
+   "big"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɾebolusˈjon/",
+  "verified": true
+ },
+ {
+  "id": "tl-00477",
+  "category": "tagalog",
+  "prompt": "「kidlat」の意味は？",
+  "answer": "lightning",
+  "glosses": {
+   "en": "lightning",
+   "ja": "稲妻"
+  },
+  "choices": [
+   "welfare",
+   "theft",
+   "lightning",
+   "crisis"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kidˈlat/",
+  "verified": true
+ },
+ {
+  "id": "tl-00478",
+  "category": "tagalog",
+  "prompt": "「pananalapi」の意味は？",
+  "answer": "finance",
+  "glosses": {
+   "en": "finance",
+   "ja": "財政"
+  },
+  "choices": [
+   "reality",
+   "finance",
+   "writing",
+   "again"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pananalaˈpiʔ/",
+  "verified": true
+ },
+ {
+  "id": "tl-00479",
+  "category": "tagalog",
+  "prompt": "「kapasidad」の意味は？",
+  "answer": "capacity",
+  "glosses": {
+   "en": "capacity",
+   "ja": "容量"
+  },
+  "choices": [
+   "to escape",
+   "rain",
+   "peace",
+   "capacity"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kapasiˈdad/",
+  "verified": true
+ },
+ {
+  "id": "tl-00480",
+  "category": "tagalog",
+  "prompt": "「marahas」の意味は？",
+  "answer": "violent",
+  "glosses": {
+   "en": "violent",
+   "ja": "暴力的な"
+  },
+  "choices": [
+   "guitar",
+   "to play",
+   "violent",
+   "key"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/maɾaˈhas/",
+  "verified": true
+ },
+ {
+  "id": "tl-00481",
+  "category": "tagalog",
+  "prompt": "「maingay」の意味は？",
+  "answer": "noisy",
+  "glosses": {
+   "en": "noisy",
+   "ja": "やかましい"
+  },
+  "choices": [
+   "likewise",
+   "model",
+   "noisy",
+   "document"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/maˈʔiŋaj/",
+  "verified": true
+ },
+ {
+  "id": "tl-00482",
+  "category": "tagalog",
+  "prompt": "「makapangyarihan」の意味は？",
+  "answer": "powerful",
+  "glosses": {
+   "en": "powerful",
+   "ja": "強力な"
+  },
+  "choices": [
+   "course of study",
+   "reality",
+   "faith",
+   "powerful"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/makapaŋjaˈɾihan/",
+  "verified": true
+ },
+ {
+  "id": "tl-00483",
+  "category": "tagalog",
+  "prompt": "「dolyar」の意味は？",
+  "answer": "dollar",
+  "glosses": {
+   "en": "dollar",
+   "ja": "ドル"
+  },
+  "choices": [
+   "villain",
+   "dollar",
+   "there",
+   "street"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/dolˈjaɾ/",
+  "verified": true
+ },
+ {
+  "id": "tl-00484",
+  "category": "tagalog",
+  "prompt": "「bubong」の意味は？",
+  "answer": "roof",
+  "glosses": {
+   "en": "roof",
+   "ja": "屋根"
+  },
+  "choices": [
+   "beauty",
+   "roof",
+   "follower",
+   "pitiable"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/buˈboŋ/",
+  "verified": true
+ },
+ {
+  "id": "tl-00485",
+  "category": "tagalog",
+  "prompt": "「kumanta」の意味は？",
+  "answer": "to sing",
+  "glosses": {
+   "en": "to sing",
+   "ja": "歌う"
+  },
+  "choices": [
+   "window",
+   "to sing",
+   "building",
+   "mayor"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kumanˈta/",
+  "verified": true
+ },
+ {
+  "id": "tl-00486",
+  "category": "tagalog",
+  "prompt": "「bakuna」の意味は？",
+  "answer": "vaccine",
+  "glosses": {
+   "en": "vaccine",
+   "ja": "ワクチン"
+  },
+  "choices": [
+   "wish",
+   "vaccine",
+   "energy",
+   "symptom"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/baˈkuna/",
+  "verified": true
+ },
+ {
+  "id": "tl-00487",
+  "category": "tagalog",
+  "prompt": "「propesor」の意味は？",
+  "answer": "professor",
+  "glosses": {
+   "en": "professor",
+   "ja": "教授"
+  },
+  "choices": [
+   "forest",
+   "professor",
+   "to enter",
+   "opportunity"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pɾopeˈsoɾ/",
+  "verified": true
+ },
+ {
+  "id": "tl-00488",
+  "category": "tagalog",
+  "prompt": "「maglakad」の意味は？",
+  "answer": "to walk",
+  "glosses": {
+   "en": "to walk",
+   "ja": "歩く"
+  },
+  "choices": [
+   "senator",
+   "thin",
+   "to walk",
+   "agency"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/maɡlaˈkad/",
+  "verified": true
+ },
+ {
+  "id": "tl-00489",
+  "category": "tagalog",
+  "prompt": "「tapang」の意味は？",
+  "answer": "bravery",
+  "glosses": {
+   "en": "bravery",
+   "ja": "勇気"
+  },
+  "choices": [
+   "pity",
+   "palace",
+   "bravery",
+   "student"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈtapaŋ/",
+  "verified": true
+ },
+ {
+  "id": "tl-00490",
+  "category": "tagalog",
+  "prompt": "「laruan」の意味は？",
+  "answer": "toy",
+  "glosses": {
+   "en": "toy",
+   "ja": "おもちゃ"
+  },
+  "choices": [
+   "family",
+   "meat",
+   "toy",
+   "train"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/laɾuˈʔan/",
+  "verified": true
+ },
+ {
+  "id": "tl-00491",
+  "category": "tagalog",
+  "prompt": "「regulasyon」の意味は？",
+  "answer": "regulation",
+  "glosses": {
+   "en": "regulation",
+   "ja": "規則"
+  },
+  "choices": [
+   "regulation",
+   "to wait",
+   "meaning",
+   "limitation"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɾeɡulasˈjon/",
+  "verified": true
+ },
+ {
+  "id": "tl-00492",
+  "category": "tagalog",
+  "prompt": "「saktan」の意味は？",
+  "answer": "to hurt",
+  "glosses": {
+   "en": "to hurt",
+   "ja": "傷つける"
+  },
+  "choices": [
+   "to hurt",
+   "there",
+   "age",
+   "importance"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/sakˈtan/",
+  "verified": true
+ },
+ {
+  "id": "tl-00493",
+  "category": "tagalog",
+  "prompt": "「pagnanakaw」の意味は？",
+  "answer": "theft",
+  "glosses": {
+   "en": "theft",
+   "ja": "窃盗"
+  },
+  "choices": [
+   "pitiable",
+   "mother",
+   "theft",
+   "intelligence"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/paɡnaˈnakaw/",
+  "verified": true
+ },
+ {
+  "id": "tl-00494",
+  "category": "tagalog",
+  "prompt": "「badyet」の意味は？",
+  "answer": "budget",
+  "glosses": {
+   "en": "budget",
+   "ja": "予算"
+  },
+  "choices": [
+   "republic",
+   "budget",
+   "dream",
+   "process"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈbadjet/",
+  "verified": true
+ },
+ {
+  "id": "tl-00495",
+  "category": "tagalog",
+  "prompt": "「proteksiyon」の意味は？",
+  "answer": "protection",
+  "glosses": {
+   "en": "protection",
+   "ja": "保護"
+  },
+  "choices": [
+   "protection",
+   "to agree",
+   "egg",
+   "old"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pɾoteksiˈon/",
+  "verified": true
+ },
+ {
+  "id": "tl-00496",
+  "category": "tagalog",
+  "prompt": "「magluto」の意味は？",
+  "answer": "to cook",
+  "glosses": {
+   "en": "to cook",
+   "ja": "料理する"
+  },
+  "choices": [
+   "joyful",
+   "general",
+   "point",
+   "to cook"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/maɡˈlutoʔ/",
+  "verified": true
+ },
+ {
+  "id": "tl-00497",
+  "category": "tagalog",
+  "prompt": "「katahimikan」の意味は？",
+  "answer": "silence",
+  "glosses": {
+   "en": "silence",
+   "ja": "静けさ"
+  },
+  "choices": [
+   "to buy",
+   "silence",
+   "characteristic",
+   "amount"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/katahiˈmikan/",
+  "verified": true
+ },
+ {
+  "id": "tl-00498",
+  "category": "tagalog",
+  "prompt": "「pakikipagsapalaran」の意味は？",
+  "answer": "adventure",
+  "glosses": {
+   "en": "adventure",
+   "ja": "冒険"
+  },
+  "choices": [
+   "arm",
+   "to bathe",
+   "to walk",
+   "adventure"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pakikipaɡˈsapalaɾan/",
+  "verified": true
+ },
+ {
+  "id": "tl-00499",
+  "category": "tagalog",
+  "prompt": "「pagkakaibigan」の意味は？",
+  "answer": "friendship",
+  "glosses": {
+   "en": "friendship",
+   "ja": "友情"
+  },
+  "choices": [
+   "to say",
+   "contribution",
+   "friendship",
+   "garbage"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/paɡkakaʔiˈbiɡan/",
+  "verified": true
+ },
+ {
+  "id": "tl-00500",
+  "category": "tagalog",
+  "prompt": "「pamamahagi」の意味は？",
+  "answer": "distribution",
+  "glosses": {
+   "en": "distribution",
+   "ja": "分配"
+  },
+  "choices": [
+   "meaning",
+   "dance",
+   "distribution",
+   "victim"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pamamaˈhaɡi/",
+  "verified": true
+ },
+ {
+  "id": "tl-00501",
+  "category": "tagalog",
+  "prompt": "「limitasyon」の意味は？",
+  "answer": "limitation",
+  "glosses": {
+   "en": "limitation",
+   "ja": "限界"
+  },
+  "choices": [
+   "limitation",
+   "climate",
+   "violent",
+   "banana"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/limitasˈjon/",
+  "verified": true
+ },
+ {
+  "id": "tl-00502",
+  "category": "tagalog",
+  "prompt": "「maitim」の意味は？",
+  "answer": "black",
+  "glosses": {
+   "en": "black",
+   "ja": "黒い"
+  },
+  "choices": [
+   "black",
+   "thick",
+   "doctrine",
+   "to cook"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/maʔiˈtim/",
+  "verified": true
+ },
+ {
+  "id": "tl-00503",
+  "category": "tagalog",
+  "prompt": "「dasal」の意味は？",
+  "answer": "prayer",
+  "glosses": {
+   "en": "prayer",
+   "ja": "祈り"
+  },
+  "choices": [
+   "thin",
+   "rich",
+   "prayer",
+   "clothes"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/daˈsal/",
+  "verified": true
+ },
+ {
+  "id": "tl-00504",
+  "category": "tagalog",
+  "prompt": "「ebidensiya」の意味は？",
+  "answer": "evidence",
+  "glosses": {
+   "en": "evidence",
+   "ja": "証拠"
+  },
+  "choices": [
+   "evidence",
+   "flood",
+   "culture",
+   "livelihood"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʔebiˈdensia/",
+  "verified": true
+ },
+ {
+  "id": "tl-00505",
+  "category": "tagalog",
+  "prompt": "「epiko」の意味は？",
+  "answer": "epic",
+  "glosses": {
+   "en": "epic",
+   "ja": "叙事詩"
+  },
+  "choices": [
+   "government",
+   "age",
+   "court",
+   "epic"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈʔepiko/",
+  "verified": true
+ },
+ {
+  "id": "tl-00506",
+  "category": "tagalog",
+  "prompt": "「kalokohan」の意味は？",
+  "answer": "nonsense",
+  "glosses": {
+   "en": "nonsense",
+   "ja": "ばかげたこと"
+  },
+  "choices": [
+   "nonsense",
+   "institution",
+   "throat",
+   "meeting"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kaloˈkohan/",
+  "verified": true
+ },
+ {
+  "id": "tl-00507",
+  "category": "tagalog",
+  "prompt": "「kaunlaran」の意味は？",
+  "answer": "development",
+  "glosses": {
+   "en": "development",
+   "ja": "発展"
+  },
+  "choices": [
+   "west",
+   "institution",
+   "development",
+   "novel"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kaʔunlaˈɾan/",
+  "verified": true
+ },
+ {
+  "id": "tl-00508",
+  "category": "tagalog",
+  "prompt": "「mana」の意味は？",
+  "answer": "inheritance",
+  "glosses": {
+   "en": "inheritance",
+   "ja": "遺産"
+  },
+  "choices": [
+   "soft",
+   "inheritance",
+   "big",
+   "to choose"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈmana/",
+  "verified": true
+ },
+ {
+  "id": "tl-00509",
+  "category": "tagalog",
+  "prompt": "「Huwebes」の意味は？",
+  "answer": "Thursday",
+  "glosses": {
+   "en": "Thursday",
+   "ja": "木曜日"
+  },
+  "choices": [
+   "Thursday",
+   "offering",
+   "soul",
+   "store"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/huˈebes/",
+  "verified": true
+ },
+ {
+  "id": "tl-00510",
+  "category": "tagalog",
+  "prompt": "「kapuluan」の意味は？",
+  "answer": "archipelago",
+  "glosses": {
+   "en": "archipelago",
+   "ja": "群島"
+  },
+  "choices": [
+   "world",
+   "gratitude",
+   "cloth",
+   "archipelago"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kapuluˈʔan/",
+  "verified": true
+ },
+ {
+  "id": "tl-00511",
+  "category": "tagalog",
+  "prompt": "「sibil」の意味は？",
+  "answer": "civil",
+  "glosses": {
+   "en": "civil",
+   "ja": "市民の"
+  },
+  "choices": [
+   "television",
+   "medicine",
+   "civil",
+   "egg"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/siˈbil/",
+  "verified": true
+ },
+ {
+  "id": "tl-00512",
+  "category": "tagalog",
+  "prompt": "「kalamidad」の意味は？",
+  "answer": "calamity",
+  "glosses": {
+   "en": "calamity",
+   "ja": "災害"
+  },
+  "choices": [
+   "calamity",
+   "to call",
+   "process",
+   "later"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kalamiˈdad/",
+  "verified": true
+ },
+ {
+  "id": "tl-00513",
+  "category": "tagalog",
+  "prompt": "「kabuhayan」の意味は？",
+  "answer": "livelihood",
+  "glosses": {
+   "en": "livelihood",
+   "ja": "生計"
+  },
+  "choices": [
+   "page",
+   "to wait",
+   "west",
+   "livelihood"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kabuˈhajan/",
+  "verified": true
+ },
+ {
+  "id": "tl-00514",
+  "category": "tagalog",
+  "prompt": "「bumoto」の意味は？",
+  "answer": "to vote",
+  "glosses": {
+   "en": "to vote",
+   "ja": "投票する"
+  },
+  "choices": [
+   "teacher",
+   "commodity",
+   "to vote",
+   "silence"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/buˈmoto/",
+  "verified": true
+ },
+ {
+  "id": "tl-00515",
+  "category": "tagalog",
+  "prompt": "「pantig」の意味は？",
+  "answer": "syllable",
+  "glosses": {
+   "en": "syllable",
+   "ja": "音節"
+  },
+  "choices": [
+   "syllable",
+   "method",
+   "grandchild",
+   "path"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/panˈtiɡ/",
+  "verified": true
+ },
+ {
+  "id": "tl-00516",
+  "category": "tagalog",
+  "prompt": "「tagasunod」の意味は？",
+  "answer": "follower",
+  "glosses": {
+   "en": "follower",
+   "ja": "追随者"
+  },
+  "choices": [
+   "juice",
+   "opportunity",
+   "congress",
+   "follower"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/taɡasuˈnod/",
+  "verified": true
+ },
+ {
+  "id": "tl-00517",
+  "category": "tagalog",
+  "prompt": "「tsaa」の意味は？",
+  "answer": "tea",
+  "glosses": {
+   "en": "tea",
+   "ja": "茶"
+  },
+  "choices": [
+   "tea",
+   "to vote",
+   "chapter",
+   "painful"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/t͡ʃaˈʔa/",
+  "verified": true
+ },
+ {
+  "id": "tl-00518",
+  "category": "tagalog",
+  "prompt": "「pakpak」の意味は？",
+  "answer": "wing",
+  "glosses": {
+   "en": "wing",
+   "ja": "翼"
+  },
+  "choices": [
+   "wing",
+   "times",
+   "a while ago",
+   "price"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pakˈpak/",
+  "verified": true
+ },
+ {
+  "id": "tl-00519",
+  "category": "tagalog",
+  "prompt": "「magaan」の意味は？",
+  "answer": "light",
+  "glosses": {
+   "en": "light",
+   "ja": "軽い"
+  },
+  "choices": [
+   "pain",
+   "traditional",
+   "light",
+   "faith"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/maɡaˈʔan/",
+  "verified": true
+ },
+ {
+  "id": "tl-00520",
+  "category": "tagalog",
+  "prompt": "「kanto」の意味は？",
+  "answer": "street corner",
+  "glosses": {
+   "en": "street corner",
+   "ja": "街角"
+  },
+  "choices": [
+   "street corner",
+   "possibility",
+   "again",
+   "bank"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈkanto/",
+  "verified": true
+ },
+ {
+  "id": "tl-00521",
+  "category": "tagalog",
+  "prompt": "「taglamig」の意味は？",
+  "answer": "winter",
+  "glosses": {
+   "en": "winter",
+   "ja": "冬"
+  },
+  "choices": [
+   "to choose",
+   "winter",
+   "adventure",
+   "monkey"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/taɡlaˈmiɡ/",
+  "verified": true
+ },
+ {
+  "id": "tl-00522",
+  "category": "tagalog",
+  "prompt": "「barya」の意味は？",
+  "answer": "coin",
+  "glosses": {
+   "en": "coin",
+   "ja": "硬貨"
+  },
+  "choices": [
+   "clothes",
+   "mouth",
+   "soft",
+   "coin"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/baɾˈja/",
+  "verified": true
+ },
+ {
+  "id": "tl-00523",
+  "category": "tagalog",
+  "prompt": "「kritikal」の意味は？",
+  "answer": "critical",
+  "glosses": {
+   "en": "critical",
+   "ja": "危機的な"
+  },
+  "choices": [
+   "critical",
+   "almost",
+   "ice",
+   "lion"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kɾitiˈkal/",
+  "verified": true
+ },
+ {
+  "id": "tl-00524",
+  "category": "tagalog",
+  "prompt": "「mais」の意味は？",
+  "answer": "maize",
+  "glosses": {
+   "en": "maize",
+   "ja": "とうもろこし"
+  },
+  "choices": [
+   "maize",
+   "garbage",
+   "system",
+   "investigation"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/maˈʔis/",
+  "verified": true
+ },
+ {
+  "id": "tl-00525",
+  "category": "tagalog",
+  "prompt": "「matalik」の意味は？",
+  "answer": "close",
+  "glosses": {
+   "en": "close",
+   "ja": "親密な"
+  },
+  "choices": [
+   "close",
+   "senate",
+   "command",
+   "political party"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/maˈtalik/",
+  "verified": true
+ },
+ {
+  "id": "tl-00526",
+  "category": "tagalog",
+  "prompt": "「kontrabida」の意味は？",
+  "answer": "villain",
+  "glosses": {
+   "en": "villain",
+   "ja": "悪役"
+  },
+  "choices": [
+   "gender",
+   "villain",
+   "jaw",
+   "palm"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kontɾaˈbida/",
+  "verified": true
+ },
+ {
+  "id": "tl-00527",
+  "category": "tagalog",
+  "prompt": "「nakalaan」の意味は？",
+  "answer": "allotted",
+  "glosses": {
+   "en": "allotted",
+   "ja": "割り当てられた"
+  },
+  "choices": [
+   "allotted",
+   "republic",
+   "toy",
+   "election"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/nakaˈlaʔan/",
+  "verified": true
+ },
+ {
+  "id": "tl-00528",
+  "category": "tagalog",
+  "prompt": "「lobo」の意味は？",
+  "answer": "balloon",
+  "glosses": {
+   "en": "balloon",
+   "ja": "風船"
+  },
+  "choices": [
+   "balloon",
+   "advice",
+   "cloth",
+   "pressure"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈlobo/",
+  "verified": true
+ },
+ {
+  "id": "tl-00529",
+  "category": "tagalog",
+  "prompt": "「manirahan」の意味は？",
+  "answer": "to live",
+  "glosses": {
+   "en": "to live",
+   "ja": "住む"
+  },
+  "choices": [
+   "to walk",
+   "to live",
+   "friend",
+   "voice"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/maniˈɾahan/",
+  "verified": true
+ },
+ {
+  "id": "tl-00530",
+  "category": "tagalog",
+  "prompt": "「patatas」の意味は？",
+  "answer": "potato",
+  "glosses": {
+   "en": "potato",
+   "ja": "ジャガイモ"
+  },
+  "choices": [
+   "potato",
+   "again",
+   "governor",
+   "wide"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/paˈtatas/",
+  "verified": true
+ },
+ {
+  "id": "tl-00531",
+  "category": "tagalog",
+  "prompt": "「sibuyas」の意味は？",
+  "answer": "onion",
+  "glosses": {
+   "en": "onion",
+   "ja": "タマネギ"
+  },
+  "choices": [
+   "to vote",
+   "temple",
+   "onion",
+   "celebration"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/siˈbujas/",
+  "verified": true
+ },
+ {
+  "id": "tl-00532",
+  "category": "tagalog",
+  "prompt": "「mansanas」の意味は？",
+  "answer": "apple",
+  "glosses": {
+   "en": "apple",
+   "ja": "リンゴ"
+  },
+  "choices": [
+   "literature",
+   "apple",
+   "art",
+   "long"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/manˈsanas/",
+  "verified": true
+ },
+ {
+  "id": "tl-00533",
+  "category": "tagalog",
+  "prompt": "「buhangin」の意味は？",
+  "answer": "sand",
+  "glosses": {
+   "en": "sand",
+   "ja": "砂"
+  },
+  "choices": [
+   "bottle",
+   "sand",
+   "civil",
+   "map"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/buˈhaŋin/",
+  "verified": true
+ },
+ {
+  "id": "tl-00534",
+  "category": "tagalog",
+  "prompt": "「paninigarilyo」の意味は？",
+  "answer": "smoking",
+  "glosses": {
+   "en": "smoking",
+   "ja": "喫煙"
+  },
+  "choices": [
+   "identity",
+   "smoking",
+   "hair",
+   "bank"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/paniniɡaˈɾiljo/",
+  "verified": true
+ },
+ {
+  "id": "tl-00535",
+  "category": "tagalog",
+  "prompt": "「milya」の意味は？",
+  "answer": "mile",
+  "glosses": {
+   "en": "mile",
+   "ja": "マイル"
+  },
+  "choices": [
+   "to cry",
+   "mouse",
+   "mile",
+   "medicine"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈmilja/",
+  "verified": true
+ },
+ {
+  "id": "tl-00536",
+  "category": "tagalog",
+  "prompt": "「balakang」の意味は？",
+  "answer": "hip",
+  "glosses": {
+   "en": "hip",
+   "ja": "腰"
+  },
+  "choices": [
+   "car",
+   "hip",
+   "white",
+   "darkness"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/balaˈkaŋ/",
+  "verified": true
+ },
+ {
+  "id": "tl-00537",
+  "category": "tagalog",
+  "prompt": "「magpunta」の意味は？",
+  "answer": "to go",
+  "glosses": {
+   "en": "to go",
+   "ja": "行く"
+  },
+  "choices": [
+   "campaign",
+   "the police",
+   "to go",
+   "Christianity"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/maɡpunˈta/",
+  "verified": true
+ },
+ {
+  "id": "tl-00538",
+  "category": "tagalog",
+  "prompt": "「propesyon」の意味は？",
+  "answer": "profession",
+  "glosses": {
+   "en": "profession",
+   "ja": "専門職"
+  },
+  "choices": [
+   "profession",
+   "miracle",
+   "middle",
+   "memory"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pɾopesˈjon/",
+  "verified": true
+ },
+ {
+  "id": "tl-00539",
+  "category": "tagalog",
+  "prompt": "「emperador」の意味は？",
+  "answer": "emperor",
+  "glosses": {
+   "en": "emperor",
+   "ja": "皇帝"
+  },
+  "choices": [
+   "important",
+   "door",
+   "emperor",
+   "bravery"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʔempeɾaˈdoɾ/",
+  "verified": true
+ },
+ {
+  "id": "tl-00540",
+  "category": "tagalog",
+  "prompt": "「matematika」の意味は？",
+  "answer": "mathematics",
+  "glosses": {
+   "en": "mathematics",
+   "ja": "数学"
+  },
+  "choices": [
+   "climate",
+   "after",
+   "fish",
+   "mathematics"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mateˈmatika/",
+  "verified": true
+ },
+ {
+  "id": "tl-00541",
+  "category": "tagalog",
+  "prompt": "「magsabi」の意味は？",
+  "answer": "to say",
+  "glosses": {
+   "en": "to say",
+   "ja": "言う"
+  },
+  "choices": [
+   "bank",
+   "breakfast",
+   "to say",
+   "lawyer"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/maɡˈsabi/",
+  "verified": true
+ },
+ {
+  "id": "tl-00542",
+  "category": "tagalog",
+  "prompt": "「keso」の意味は？",
+  "answer": "cheese",
+  "glosses": {
+   "en": "cheese",
+   "ja": "チーズ"
+  },
+  "choices": [
+   "celebration",
+   "wave",
+   "plant",
+   "cheese"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈkeso/",
+  "verified": true
+ },
+ {
+  "id": "tl-00543",
+  "category": "tagalog",
+  "prompt": "「trigo」の意味は？",
+  "answer": "wheat",
+  "glosses": {
+   "en": "wheat",
+   "ja": "小麦"
+  },
+  "choices": [
+   "joy",
+   "likewise",
+   "wheat",
+   "joyful"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈtɾiɡo/",
+  "verified": true
+ },
+ {
+  "id": "tl-00544",
+  "category": "tagalog",
+  "prompt": "「realidad」の意味は？",
+  "answer": "reality",
+  "glosses": {
+   "en": "reality",
+   "ja": "現実"
+  },
+  "choices": [
+   "to smile",
+   "syllable",
+   "reality",
+   "point"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɾealiˈdad/",
+  "verified": true
+ },
+ {
+  "id": "tl-00545",
+  "category": "tagalog",
+  "prompt": "「turismo」の意味は？",
+  "answer": "tourism",
+  "glosses": {
+   "en": "tourism",
+   "ja": "観光"
+  },
+  "choices": [
+   "protest",
+   "wide",
+   "tourism",
+   "shoulder"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/tuˈɾismo/",
+  "verified": true
+ },
+ {
+  "id": "tl-00546",
+  "category": "tagalog",
+  "prompt": "「tagapamahala」の意味は？",
+  "answer": "manager",
+  "glosses": {
+   "en": "manager",
+   "ja": "管理者"
+  },
+  "choices": [
+   "manager",
+   "doctrine",
+   "store",
+   "week"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/taɡapamaˈhalaʔ/",
+  "verified": true
+ },
+ {
+  "id": "tl-00547",
+  "category": "tagalog",
+  "prompt": "「peste」の意味は？",
+  "answer": "pest",
+  "glosses": {
+   "en": "pest",
+   "ja": "害虫"
+  },
+  "choices": [
+   "member",
+   "pest",
+   "tea",
+   "special"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈpeste/",
+  "verified": true
+ },
+ {
+  "id": "tl-00548",
+  "category": "tagalog",
+  "prompt": "「entablado」の意味は？",
+  "answer": "stage",
+  "glosses": {
+   "en": "stage",
+   "ja": "舞台"
+  },
+  "choices": [
+   "moon",
+   "stage",
+   "health",
+   "times"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʔentaˈblado/",
+  "verified": true
+ },
+ {
+  "id": "tl-00549",
+  "category": "tagalog",
+  "prompt": "「singsing」の意味は？",
+  "answer": "ring",
+  "glosses": {
+   "en": "ring",
+   "ja": "指輪"
+  },
+  "choices": [
+   "distribution",
+   "traditional",
+   "senator",
+   "ring"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/siŋˈsiŋ/",
+  "verified": true
+ },
+ {
+  "id": "tl-00550",
+  "category": "tagalog",
+  "prompt": "「maikli」の意味は？",
+  "answer": "short",
+  "glosses": {
+   "en": "short",
+   "ja": "短い"
+  },
+  "choices": [
+   "short",
+   "science",
+   "livelihood",
+   "car"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/maʔikˈliʔ/",
+  "verified": true
+ },
+ {
+  "id": "tl-00551",
+  "category": "tagalog",
+  "prompt": "「kambing」の意味は？",
+  "answer": "goat",
+  "glosses": {
+   "en": "goat",
+   "ja": "ヤギ"
+  },
+  "choices": [
+   "goat",
+   "offering",
+   "Thursday",
+   "viewpoint"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kamˈbiŋ/",
+  "verified": true
+ },
+ {
+  "id": "tl-00552",
+  "category": "tagalog",
+  "prompt": "「panga」の意味は？",
+  "answer": "jaw",
+  "glosses": {
+   "en": "jaw",
+   "ja": "あご"
+  },
+  "choices": [
+   "jaw",
+   "flood",
+   "art",
+   "sometimes"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/paˈŋa/",
+  "verified": true
+ }
+]

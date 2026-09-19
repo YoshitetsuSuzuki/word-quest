@@ -111,6 +111,7 @@ export interface Strings {
   'pet.fuse': string; 'pet.fuseConfirm': string; 'pet.yes': string; 'pet.no': string
   'cat.hindi': string
   'cat.arabic': string
+  'cat.tagalog': string
   'pet.newBadge': string; 'pet.addedPre': string; 'pet.addedSuffix': string
   'notify.streakTitle': string; 'notify.streakBody': string
   'notify.leagueTitle': string; 'notify.leagueBody': string

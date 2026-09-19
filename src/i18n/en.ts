@@ -108,6 +108,7 @@ export const en: Strings = {
   'pet.fuse': '⚡ Fuse', 'pet.fuseConfirm': 'Consume one duplicate to fuse (tier up). Proceed?', 'pet.yes': 'Yes', 'pet.no': 'Cancel',
   'cat.hindi': 'Hindi',
   'cat.arabic': 'Arabic',
+  'cat.tagalog': 'Tagalog',
   'pet.newBadge': 'NEW', 'pet.addedPre': '✨ ', 'pet.addedSuffix': ' joined!',
   'notify.streakTitle': '🔥 Your streak is at risk!', 'notify.streakBody': "You haven't studied today. Solve just one question to keep the streak alive.",
   'notify.leagueTitle': '🏆 League results are in!', 'notify.leagueBody': "Last week's league has closed. Check if you got promoted.",
