@@ -60,17 +60,43 @@ def _load_freq_list(code):
     return d
 
 
+def _rank_to_score(rank):
+    """順位1位を6.0、5万位を2.0あたりに写す"""
+    import math
+    return max(0.0, 6.0 - math.log10(max(rank, 1)) * 0.9)
+
+
+_STEM_BEST = {}
+
+
+def _korean_stem_rank(word, freq):
+    """韓国語の用言は辞書形「〜다」が字幕コーパスにほぼ出ない。
+    語幹から始まる活用形の最上位順位で代用する。"""
+    if not word.endswith('다') or len(word) < 2:
+        return None
+    stem = word[:-1]
+    if stem in _STEM_BEST:
+        return _STEM_BEST[stem]
+    best = None
+    for k, r in freq.items():
+        if k.startswith(stem) and (best is None or r < best):
+            best = r
+    _STEM_BEST[stem] = best
+    return best
+
+
 def modern_score(word, code):
     """現代で使われる語かを表す指標。wordfreq の zipf 値に揃える。"""
     try:
         return zipf_frequency(word, code)
     except Exception:
-        rank = _load_freq_list(code).get(word)
+        freq = _load_freq_list(code)
+        rank = freq.get(word)
+        if not rank and code == 'ko':
+            rank = _korean_stem_rank(word, freq)
         if not rank:
             return 0.0
-        # 順位1位を6.0、5万位を2.0あたりに写す
-        import math
-        return max(0.0, 6.0 - math.log10(max(rank, 1)) * 0.9)
+        return _rank_to_score(rank)
 
 
 def load_ja_sources():

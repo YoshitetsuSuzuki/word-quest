@@ -24,16 +24,18 @@ for f in sorted(glob.glob(os.path.join(outdir,'level-*.json'))):
         m=re.match(r'^「(.+?)」', q.get('prompt',''))
         if m: existing_words.add(m.group(1))
 
-# 難易度: 使用頻度(zipf)が高いほどやさしい
-def level_of(r):
-    z=r.get('zipf',0)
-    return 1 if z>=3.6 else (2 if z>=3.0 else 3)
-
-new=collections.defaultdict(list)
+# 難易度: 使用頻度が高いほどやさしい。しきい値だと偏る言語があるので
+# 頻度順に並べて3等分する（どの言語でも配分が揃う）
+fresh=[]
 for r in rows:
     if r['word'] in existing_words: continue
     existing_words.add(r['word'])
-    new[level_of(r)].append(r)
+    fresh.append(r)
+fresh.sort(key=lambda r: -r.get('zipf', 0))
+new=collections.defaultdict(list)
+third=max(1, (len(fresh)+2)//3)
+for i, r in enumerate(fresh):
+    new[min(3, i//third + 1)].append(r)
 
 random.seed(7)
 nid=0

@@ -30849,5 +30849,7595 @@
   "explanation": "뒷산（dwitsan）= 裏山",
   "pronunciation": "dwitsan",
   "verified": true
+ },
+ {
+  "id": "ko-01530",
+  "category": "korean",
+  "prompt": "「그렇게」の意味は？",
+  "answer": "so",
+  "glosses": {
+   "en": "so",
+   "ja": "そんなに"
+  },
+  "choices": [
+   "voice",
+   "pin",
+   "so",
+   "proof"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[kɯɾʌ̹kʰe̞]",
+  "verified": true
+ },
+ {
+  "id": "ko-01531",
+  "category": "korean",
+  "prompt": "「때」の意味は？",
+  "answer": "time",
+  "glosses": {
+   "en": "time",
+   "ja": "とき"
+  },
+  "choices": [
+   "time",
+   "Miss",
+   "orange",
+   "rocket"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[t͈ɛ]",
+  "verified": true
+ },
+ {
+  "id": "ko-01532",
+  "category": "korean",
+  "prompt": "「엄마」の意味は？",
+  "answer": "mum",
+  "glosses": {
+   "en": "mum",
+   "ja": "お母さん"
+  },
+  "choices": [
+   "without fail",
+   "mum",
+   "fatigue",
+   "hunting"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ʌ̹mma̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-01533",
+  "category": "korean",
+  "prompt": "「제발」の意味は？",
+  "answer": "please",
+  "glosses": {
+   "en": "please",
+   "ja": "どうか"
+  },
+  "choices": [
+   "please",
+   "fool",
+   "willingly",
+   "fur"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈt͡ɕe̞(ː)ba̠ɭ]",
+  "verified": true
+ },
+ {
+  "id": "ko-01534",
+  "category": "korean",
+  "prompt": "「아빠」の意味は？",
+  "answer": "dad",
+  "glosses": {
+   "en": "dad",
+   "ja": "お父さん"
+  },
+  "choices": [
+   "poster",
+   "middle",
+   "dad",
+   "troop"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[a̠p͈a̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-01535",
+  "category": "korean",
+  "prompt": "「그래도」の意味は？",
+  "answer": "nevertheless",
+  "glosses": {
+   "en": "nevertheless",
+   "ja": "それでも"
+  },
+  "choices": [
+   "king",
+   "action",
+   "belt",
+   "nevertheless"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[kɯɾɛdo̞]",
+  "verified": true
+ },
+ {
+  "id": "ko-01536",
+  "category": "korean",
+  "prompt": "「절대」の意味は？",
+  "answer": "absolutely",
+  "glosses": {
+   "en": "absolutely",
+   "ja": "絶対に"
+  },
+  "choices": [
+   "absolutely",
+   "project",
+   "pink",
+   "experiment"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[t͡ɕʌ̹ɭt͈ɛ]",
+  "verified": true
+ },
+ {
+  "id": "ko-01537",
+  "category": "korean",
+  "prompt": "「전부」の意味は？",
+  "answer": "everything",
+  "glosses": {
+   "en": "everything",
+   "ja": "全部"
+  },
+  "choices": [
+   "narcotic",
+   "everything",
+   "page",
+   "brown"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[t͡ɕʌ̹nbu]",
+  "verified": true
+ },
+ {
+  "id": "ko-01538",
+  "category": "korean",
+  "prompt": "「다음」の意味は？",
+  "answer": "next",
+  "glosses": {
+   "en": "next",
+   "ja": "次"
+  },
+  "choices": [
+   "drive",
+   "needle",
+   "director",
+   "next"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ta̠ɯm]",
+  "verified": true
+ },
+ {
+  "id": "ko-01539",
+  "category": "korean",
+  "prompt": "「아직도」の意味は？",
+  "answer": "still",
+  "glosses": {
+   "en": "still",
+   "ja": "いまだに"
+  },
+  "choices": [
+   "moderately",
+   "still",
+   "poster",
+   "breakdown"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[a̠d͡ʑik̚t͈o̞]",
+  "verified": true
+ },
+ {
+  "id": "ko-01540",
+  "category": "korean",
+  "prompt": "「엄청」の意味は？",
+  "answer": "very",
+  "glosses": {
+   "en": "very",
+   "ja": "非常に"
+  },
+  "choices": [
+   "nonsense",
+   "murder",
+   "very",
+   "mental"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ʌ̹mt͡ɕʰʌ̹ŋ]",
+  "verified": true
+ },
+ {
+  "id": "ko-01541",
+  "category": "korean",
+  "prompt": "「필요」の意味は？",
+  "answer": "need",
+  "glosses": {
+   "en": "need",
+   "ja": "必要"
+  },
+  "choices": [
+   "radio",
+   "bell",
+   "need",
+   "discourtesy"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[pʰiɾjo]",
+  "verified": true
+ },
+ {
+  "id": "ko-01542",
+  "category": "korean",
+  "prompt": "「그저」の意味は？",
+  "answer": "just",
+  "glosses": {
+   "en": "just",
+   "ja": "ただ"
+  },
+  "choices": [
+   "voice",
+   "somehow",
+   "discourtesy",
+   "just"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[kɯd͡ʑʌ̹]",
+  "verified": true
+ },
+ {
+  "id": "ko-01543",
+  "category": "korean",
+  "prompt": "「아마도」の意味は？",
+  "answer": "maybe",
+  "glosses": {
+   "en": "maybe",
+   "ja": "たぶん"
+  },
+  "choices": [
+   "rest",
+   "maybe",
+   "guy",
+   "belt"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[a̠ma̠do̞]",
+  "verified": true
+ },
+ {
+  "id": "ko-01544",
+  "category": "korean",
+  "prompt": "「완전히」の意味は？",
+  "answer": "completely",
+  "glosses": {
+   "en": "completely",
+   "ja": "完全に"
+  },
+  "choices": [
+   "needle",
+   "automatic",
+   "radiation",
+   "completely"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[wa̠ɲd͡ʑʌ̹nʝi]",
+  "verified": true
+ },
+ {
+  "id": "ko-01545",
+  "category": "korean",
+  "prompt": "「후」の意味は？",
+  "answer": "after",
+  "glosses": {
+   "en": "after",
+   "ja": "後"
+  },
+  "choices": [
+   "villain",
+   "drama",
+   "after",
+   "military"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ɸʷu(ː)]",
+  "verified": true
+ },
+ {
+  "id": "ko-01546",
+  "category": "korean",
+  "prompt": "「정말로」の意味は？",
+  "answer": "really",
+  "glosses": {
+   "en": "really",
+   "ja": "本当に"
+  },
+  "choices": [
+   "channel",
+   "troop",
+   "really",
+   "reference"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈt͡ɕɘ(ː)ŋma̠ɭɭo̞]",
+  "verified": true
+ },
+ {
+  "id": "ko-01547",
+  "category": "korean",
+  "prompt": "「당연히」の意味は？",
+  "answer": "of course",
+  "glosses": {
+   "en": "of course",
+   "ja": "当然"
+  },
+  "choices": [
+   "need",
+   "rest",
+   "illegality",
+   "of course"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ta̠ŋjʌ̹nʝi]",
+  "verified": true
+ },
+ {
+  "id": "ko-01548",
+  "category": "korean",
+  "prompt": "「총」の意味は？",
+  "answer": "gun",
+  "glosses": {
+   "en": "gun",
+   "ja": "銃"
+  },
+  "choices": [
+   "humankind",
+   "weapon",
+   "gun",
+   "barrier"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[t͡ɕʰo̞ŋ]",
+  "verified": true
+ },
+ {
+  "id": "ko-01549",
+  "category": "korean",
+  "prompt": "「늘」の意味は？",
+  "answer": "always",
+  "glosses": {
+   "en": "always",
+   "ja": "いつも"
+  },
+  "choices": [
+   "middle",
+   "gently",
+   "urgency",
+   "always"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[nɯɭ]",
+  "verified": true
+ },
+ {
+  "id": "ko-01550",
+  "category": "korean",
+  "prompt": "「가면」の意味は？",
+  "answer": "mask",
+  "glosses": {
+   "en": "mask",
+   "ja": "仮面"
+  },
+  "choices": [
+   "mask",
+   "bell",
+   "surgical department",
+   "customer"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈka̠(ː)mjʌ̹n]",
+  "verified": true
+ },
+ {
+  "id": "ko-01551",
+  "category": "korean",
+  "prompt": "「조용히」の意味は？",
+  "answer": "silently",
+  "glosses": {
+   "en": "silently",
+   "ja": "静かに"
+  },
+  "choices": [
+   "recognition",
+   "command",
+   "silently",
+   "cake"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[t͡ɕo̞joŋʝi]",
+  "verified": true
+ },
+ {
+  "id": "ko-01552",
+  "category": "korean",
+  "prompt": "「솔직히」の意味は？",
+  "answer": "honestly",
+  "glosses": {
+   "en": "honestly",
+   "ja": "正直に"
+  },
+  "choices": [
+   "honestly",
+   "game",
+   "federation",
+   "voice"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[sʰo̞ʎt͡ɕ͈icçi]",
+  "verified": true
+ },
+ {
+  "id": "ko-01553",
+  "category": "korean",
+  "prompt": "「하루」の意味は？",
+  "answer": "one day",
+  "glosses": {
+   "en": "one day",
+   "ja": "一日"
+  },
+  "choices": [
+   "certainly",
+   "witch",
+   "absolutely",
+   "one day"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ha̠ɾu]",
+  "verified": true
+ },
+ {
+  "id": "ko-01554",
+  "category": "korean",
+  "prompt": "「충분히」の意味は？",
+  "answer": "sufficiently",
+  "glosses": {
+   "en": "sufficiently",
+   "ja": "十分に"
+  },
+  "choices": [
+   "discovery",
+   "mum",
+   "sufficiently",
+   "investigation"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[t͡ɕʰuŋbunʝi]",
+  "verified": true
+ },
+ {
+  "id": "ko-01555",
+  "category": "korean",
+  "prompt": "「정도」の意味は？",
+  "answer": "degree",
+  "glosses": {
+   "en": "degree",
+   "ja": "程度"
+  },
+  "choices": [
+   "degree",
+   "barrier",
+   "addition",
+   "fur"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[t͡ɕʌ̹ŋdo̞]",
+  "verified": true
+ },
+ {
+  "id": "ko-01556",
+  "category": "korean",
+  "prompt": "「정신」の意味は？",
+  "answer": "mind",
+  "glosses": {
+   "en": "mind",
+   "ja": "精神"
+  },
+  "choices": [
+   "French",
+   "management",
+   "project",
+   "mind"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[t͡ɕʌ̹ŋɕʰin]",
+  "verified": true
+ },
+ {
+  "id": "ko-01557",
+  "category": "korean",
+  "prompt": "「정확히」の意味は？",
+  "answer": "exactly",
+  "glosses": {
+   "en": "exactly",
+   "ja": "正確に"
+  },
+  "choices": [
+   "maintenance",
+   "dragon",
+   "translation",
+   "exactly"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈt͡ɕɘ(ː)ŋβwa̠cçi]",
+  "verified": true
+ },
+ {
+  "id": "ko-01558",
+  "category": "korean",
+  "prompt": "「영원히」の意味は？",
+  "answer": "forever",
+  "glosses": {
+   "en": "forever",
+   "ja": "永久に"
+  },
+  "choices": [
+   "explosion",
+   "forever",
+   "team",
+   "production"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈjɘ(ː)ŋwʌ̹nʝi]",
+  "verified": true
+ },
+ {
+  "id": "ko-01559",
+  "category": "korean",
+  "prompt": "「아가씨」の意味は？",
+  "answer": "Miss",
+  "glosses": {
+   "en": "Miss",
+   "ja": "お嬢さん"
+  },
+  "choices": [
+   "mind",
+   "Miss",
+   "check",
+   "legal"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[a̠ɡa̠ɕ͈i]",
+  "verified": true
+ },
+ {
+  "id": "ko-01560",
+  "category": "korean",
+  "prompt": "「바보」の意味は？",
+  "answer": "fool",
+  "glosses": {
+   "en": "fool",
+   "ja": "ばか"
+  },
+  "choices": [
+   "actually",
+   "angel",
+   "fool",
+   "victory"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈpa̠(ː)bo̞]",
+  "verified": true
+ },
+ {
+  "id": "ko-01561",
+  "category": "korean",
+  "prompt": "「노래」の意味は？",
+  "answer": "song",
+  "glosses": {
+   "en": "song",
+   "ja": "歌"
+  },
+  "choices": [
+   "lighting",
+   "song",
+   "victim",
+   "dollar"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[no̞ɾɛ]",
+  "verified": true
+ },
+ {
+  "id": "ko-01562",
+  "category": "korean",
+  "prompt": "「또한」の意味は？",
+  "answer": "also",
+  "glosses": {
+   "en": "also",
+   "ja": "また"
+  },
+  "choices": [
+   "drama",
+   "weapon",
+   "mischief",
+   "also"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[t͈o̞ɦa̠n]",
+  "verified": true
+ },
+ {
+  "id": "ko-01563",
+  "category": "korean",
+  "prompt": "「화가」の意味は？",
+  "answer": "painter",
+  "glosses": {
+   "en": "painter",
+   "ja": "画家"
+  },
+  "choices": [
+   "separately",
+   "painter",
+   "cycle",
+   "pizza"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈɸwa̠(ː)ɡa̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-01564",
+  "category": "korean",
+  "prompt": "「팀」の意味は？",
+  "answer": "team",
+  "glosses": {
+   "en": "team",
+   "ja": "チーム"
+  },
+  "choices": [
+   "completion",
+   "mile",
+   "team",
+   "life"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[tʰim]",
+  "verified": true
+ },
+ {
+  "id": "ko-01565",
+  "category": "korean",
+  "prompt": "「반드시」の意味は？",
+  "answer": "without fail",
+  "glosses": {
+   "en": "without fail",
+   "ja": "必ず"
+  },
+  "choices": [
+   "coward",
+   "end",
+   "without fail",
+   "maybe"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[pa̠ndɯɕʰi]",
+  "verified": true
+ },
+ {
+  "id": "ko-01566",
+  "category": "korean",
+  "prompt": "「순간」の意味は？",
+  "answer": "moment",
+  "glosses": {
+   "en": "moment",
+   "ja": "瞬間"
+  },
+  "choices": [
+   "orange",
+   "sleep",
+   "moment",
+   "youth"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[sʰunɡa̠n]",
+  "verified": true
+ },
+ {
+  "id": "ko-01567",
+  "category": "korean",
+  "prompt": "「이해」の意味は？",
+  "answer": "understanding",
+  "glosses": {
+   "en": "understanding",
+   "ja": "理解"
+  },
+  "choices": [
+   "thoroughly",
+   "hell",
+   "understanding",
+   "soccer"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈi(ː)ɦɛ]",
+  "verified": true
+ },
+ {
+  "id": "ko-01568",
+  "category": "korean",
+  "prompt": "「겨우」の意味は？",
+  "answer": "barely",
+  "glosses": {
+   "en": "barely",
+   "ja": "かろうじて"
+  },
+  "choices": [
+   "wall",
+   "roadway",
+   "filming",
+   "barely"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[kjʌ̹u]",
+  "verified": true
+ },
+ {
+  "id": "ko-01569",
+  "category": "korean",
+  "prompt": "「녀석」の意味は？",
+  "answer": "guy",
+  "glosses": {
+   "en": "guy",
+   "ja": "やつ"
+  },
+  "choices": [
+   "youth",
+   "message",
+   "guy",
+   "humankind"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ɲʌ̹sʰʌ̹k̚]",
+  "verified": true
+ },
+ {
+  "id": "ko-01570",
+  "category": "korean",
+  "prompt": "「마침내」の意味は？",
+  "answer": "finally",
+  "glosses": {
+   "en": "finally",
+   "ja": "ついに"
+  },
+  "choices": [
+   "finally",
+   "suicide",
+   "completely",
+   "failure"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ma̠t͡ɕʰimnɛ]",
+  "verified": true
+ },
+ {
+  "id": "ko-01571",
+  "category": "korean",
+  "prompt": "「살인」の意味は？",
+  "answer": "murder",
+  "glosses": {
+   "en": "murder",
+   "ja": "殺人"
+  },
+  "choices": [
+   "satellite",
+   "angel",
+   "murder",
+   "reference"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[sʰa̠ɾin]",
+  "verified": true
+ },
+ {
+  "id": "ko-01572",
+  "category": "korean",
+  "prompt": "「게임」の意味は？",
+  "answer": "game",
+  "glosses": {
+   "en": "game",
+   "ja": "ゲーム"
+  },
+  "choices": [
+   "game",
+   "wheel",
+   "departure",
+   "test"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[k͈e̞im]",
+  "verified": true
+ },
+ {
+  "id": "ko-01573",
+  "category": "korean",
+  "prompt": "「따로」の意味は？",
+  "answer": "separately",
+  "glosses": {
+   "en": "separately",
+   "ja": "別々に"
+  },
+  "choices": [
+   "artificial",
+   "barrier",
+   "so",
+   "separately"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[t͈a̠ɾo̞]",
+  "verified": true
+ },
+ {
+  "id": "ko-01574",
+  "category": "korean",
+  "prompt": "「즉시」の意味は？",
+  "answer": "immediately",
+  "glosses": {
+   "en": "immediately",
+   "ja": "ただちに"
+  },
+  "choices": [
+   "tour",
+   "immediately",
+   "separately",
+   "tower"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[t͡ɕɯkɕ͈i]",
+  "verified": true
+ },
+ {
+  "id": "ko-01575",
+  "category": "korean",
+  "prompt": "「길이」の意味は？",
+  "answer": "length",
+  "glosses": {
+   "en": "length",
+   "ja": "長さ"
+  },
+  "choices": [
+   "length",
+   "death",
+   "storm",
+   "fatigue"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[kiɾi]",
+  "verified": true
+ },
+ {
+  "id": "ko-01576",
+  "category": "korean",
+  "prompt": "「똑같이」の意味は？",
+  "answer": "identically",
+  "glosses": {
+   "en": "identically",
+   "ja": "同じように"
+  },
+  "choices": [
+   "identically",
+   "separately",
+   "irritation",
+   "customer"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[t͈o̞k̚k͈a̠t͡ɕʰi]",
+  "verified": true
+ },
+ {
+  "id": "ko-01577",
+  "category": "korean",
+  "prompt": "「덜」の意味は？",
+  "answer": "less",
+  "glosses": {
+   "en": "less",
+   "ja": "もっと少なく"
+  },
+  "choices": [
+   "voice",
+   "completely",
+   "costume",
+   "less"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[tɘ(ː)ɭ]",
+  "verified": true
+ },
+ {
+  "id": "ko-01578",
+  "category": "korean",
+  "prompt": "「몰래」の意味は？",
+  "answer": "secretly",
+  "glosses": {
+   "en": "secretly",
+   "ja": "こっそり"
+  },
+  "choices": [
+   "passing",
+   "secretly",
+   "roadway",
+   "drama"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈmo̞(ː)ɭɭɛ]",
+  "verified": true
+ },
+ {
+  "id": "ko-01579",
+  "category": "korean",
+  "prompt": "「마약」の意味は？",
+  "answer": "narcotic",
+  "glosses": {
+   "en": "narcotic",
+   "ja": "麻薬"
+  },
+  "choices": [
+   "everything",
+   "narcotic",
+   "champion",
+   "very"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ma̠ja̠k̚]",
+  "verified": true
+ },
+ {
+  "id": "ko-01580",
+  "category": "korean",
+  "prompt": "「요원」の意味は？",
+  "answer": "personnel",
+  "glosses": {
+   "en": "personnel",
+   "ja": "要員"
+  },
+  "choices": [
+   "research",
+   "personnel",
+   "wall",
+   "fatigue"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[jowʌ̹n]",
+  "verified": true
+ },
+ {
+  "id": "ko-01581",
+  "category": "korean",
+  "prompt": "「실은」の意味は？",
+  "answer": "actually",
+  "glosses": {
+   "en": "actually",
+   "ja": "実は"
+  },
+  "choices": [
+   "arrival",
+   "actually",
+   "golf",
+   "garage"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ɕʰiɾɯn]",
+  "verified": true
+ },
+ {
+  "id": "ko-01582",
+  "category": "korean",
+  "prompt": "「확인」の意味は？",
+  "answer": "check",
+  "glosses": {
+   "en": "check",
+   "ja": "確認"
+  },
+  "choices": [
+   "woman",
+   "song",
+   "condolence",
+   "check"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ɸwa̠ɡin]",
+  "verified": true
+ },
+ {
+  "id": "ko-01583",
+  "category": "korean",
+  "prompt": "「번역」の意味は？",
+  "answer": "translation",
+  "glosses": {
+   "en": "translation",
+   "ja": "翻訳"
+  },
+  "choices": [
+   "translation",
+   "golf",
+   "hell",
+   "gently"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[pʌ̹ɲʌ̹k̚]",
+  "verified": true
+ },
+ {
+  "id": "ko-01584",
+  "category": "korean",
+  "prompt": "「금지」の意味は？",
+  "answer": "prohibition",
+  "glosses": {
+   "en": "prohibition",
+   "ja": "禁止"
+  },
+  "choices": [
+   "monster",
+   "alarm",
+   "prohibition",
+   "explosion"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈkɯ(ː)md͡ʑi]",
+  "verified": true
+ },
+ {
+  "id": "ko-01585",
+  "category": "korean",
+  "prompt": "「제시」の意味は？",
+  "answer": "presenting",
+  "glosses": {
+   "en": "presenting",
+   "ja": "提示"
+  },
+  "choices": [
+   "drama",
+   "presenting",
+   "drive",
+   "attack"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[t͡ɕe̞ɕʰi]",
+  "verified": true
+ },
+ {
+  "id": "ko-01586",
+  "category": "korean",
+  "prompt": "「선생」の意味は？",
+  "answer": "teacher",
+  "glosses": {
+   "en": "teacher",
+   "ja": "先生"
+  },
+  "choices": [
+   "youth",
+   "leather",
+   "progress",
+   "teacher"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[sʰʌ̹nsʰɛŋ]",
+  "verified": true
+ },
+ {
+  "id": "ko-01587",
+  "category": "korean",
+  "prompt": "「물건」の意味は？",
+  "answer": "thing",
+  "glosses": {
+   "en": "thing",
+   "ja": "物"
+  },
+  "choices": [
+   "magic",
+   "navy",
+   "thing",
+   "lady"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[muɭɡʌ̹n]",
+  "verified": true
+ },
+ {
+  "id": "ko-01588",
+  "category": "korean",
+  "prompt": "「담배」の意味は？",
+  "answer": "tobacco",
+  "glosses": {
+   "en": "tobacco",
+   "ja": "タバコ"
+  },
+  "choices": [
+   "also",
+   "ambulance",
+   "completely",
+   "tobacco"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈta̠(ː)mbɛ]",
+  "verified": true
+ },
+ {
+  "id": "ko-01589",
+  "category": "korean",
+  "prompt": "「무기」の意味は？",
+  "answer": "weapon",
+  "glosses": {
+   "en": "weapon",
+   "ja": "武器"
+  },
+  "choices": [
+   "abdomen",
+   "magic",
+   "value",
+   "weapon"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈmu(ː)ɡi]",
+  "verified": true
+ },
+ {
+  "id": "ko-01590",
+  "category": "korean",
+  "prompt": "「자막」の意味は？",
+  "answer": "subtitle",
+  "glosses": {
+   "en": "subtitle",
+   "ja": "字幕"
+  },
+  "choices": [
+   "project",
+   "leader",
+   "subtitle",
+   "safely"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[t͡ɕa̠ma̠k̚]",
+  "verified": true
+ },
+ {
+  "id": "ko-01591",
+  "category": "korean",
+  "prompt": "「연락」の意味は？",
+  "answer": "contact",
+  "glosses": {
+   "en": "contact",
+   "ja": "連絡"
+  },
+  "choices": [
+   "management",
+   "motorcycle",
+   "mischief",
+   "contact"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[jʌ̹ɭɭa̠k̚]",
+  "verified": true
+ },
+ {
+  "id": "ko-01592",
+  "category": "korean",
+  "prompt": "「장난」の意味は？",
+  "answer": "mischief",
+  "glosses": {
+   "en": "mischief",
+   "ja": "いたずら"
+  },
+  "choices": [
+   "east",
+   "garage",
+   "mischief",
+   "adult"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[t͡ɕa̠ŋna̠n]",
+  "verified": true
+ },
+ {
+  "id": "ko-01593",
+  "category": "korean",
+  "prompt": "「기꺼이」の意味は？",
+  "answer": "willingly",
+  "glosses": {
+   "en": "willingly",
+   "ja": "喜んで"
+  },
+  "choices": [
+   "willingly",
+   "fun",
+   "mischief",
+   "tower"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[kik͈ʌ̹i]",
+  "verified": true
+ },
+ {
+  "id": "ko-01594",
+  "category": "korean",
+  "prompt": "「보스」の意味は？",
+  "answer": "boss",
+  "glosses": {
+   "en": "boss",
+   "ja": "ボス"
+  },
+  "choices": [
+   "boss",
+   "battle",
+   "chart",
+   "height"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[po̞sʰɯ]",
+  "verified": true
+ },
+ {
+  "id": "ko-01595",
+  "category": "korean",
+  "prompt": "「감히」の意味は？",
+  "answer": "dare",
+  "glosses": {
+   "en": "dare",
+   "ja": "あえて"
+  },
+  "choices": [
+   "blood",
+   "dare",
+   "jail",
+   "paint"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈka̠(ː)mʝi]",
+  "verified": true
+ },
+ {
+  "id": "ko-01596",
+  "category": "korean",
+  "prompt": "「살짝」の意味は？",
+  "answer": "gently",
+  "glosses": {
+   "en": "gently",
+   "ja": "そっと"
+  },
+  "choices": [
+   "boat",
+   "planet",
+   "infection",
+   "gently"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[sʰa̠ʎt͡ɕ͈a̠k̚]",
+  "verified": true
+ },
+ {
+  "id": "ko-01597",
+  "category": "korean",
+  "prompt": "「여성」の意味は？",
+  "answer": "woman",
+  "glosses": {
+   "en": "woman",
+   "ja": "女性"
+  },
+  "choices": [
+   "woman",
+   "orange",
+   "less",
+   "addition"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[jʌ̹sʰʌ̹ŋ]",
+  "verified": true
+ },
+ {
+  "id": "ko-01598",
+  "category": "korean",
+  "prompt": "「왕」の意味は？",
+  "answer": "king",
+  "glosses": {
+   "en": "king",
+   "ja": "王"
+  },
+  "choices": [
+   "explosion",
+   "still",
+   "king",
+   "chocolate"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[wa̠ŋ]",
+  "verified": true
+ },
+ {
+  "id": "ko-01599",
+  "category": "korean",
+  "prompt": "「와인」の意味は？",
+  "answer": "wine",
+  "glosses": {
+   "en": "wine",
+   "ja": "ワイン"
+  },
+  "choices": [
+   "wine",
+   "thing",
+   "analysis",
+   "also"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[wa̠in]",
+  "verified": true
+ },
+ {
+  "id": "ko-01600",
+  "category": "korean",
+  "prompt": "「높이」の意味は？",
+  "answer": "height",
+  "glosses": {
+   "en": "height",
+   "ja": "高さ"
+  },
+  "choices": [
+   "mask",
+   "life",
+   "height",
+   "table"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[no̞pʰi]",
+  "verified": true
+ },
+ {
+  "id": "ko-01601",
+  "category": "korean",
+  "prompt": "「춤」の意味は？",
+  "answer": "dance",
+  "glosses": {
+   "en": "dance",
+   "ja": "踊り"
+  },
+  "choices": [
+   "control",
+   "dance",
+   "toy",
+   "safely"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[t͡ɕʰum]",
+  "verified": true
+ },
+ {
+  "id": "ko-01602",
+  "category": "korean",
+  "prompt": "「공격」の意味は？",
+  "answer": "attack",
+  "glosses": {
+   "en": "attack",
+   "ja": "攻撃"
+  },
+  "choices": [
+   "length",
+   "attack",
+   "command",
+   "gene"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈko̞(ː)ŋɡjʌ̹k̚]",
+  "verified": true
+ },
+ {
+  "id": "ko-01603",
+  "category": "korean",
+  "prompt": "「비디오」の意味は？",
+  "answer": "video",
+  "glosses": {
+   "en": "video",
+   "ja": "ビデオ"
+  },
+  "choices": [
+   "understanding",
+   "video",
+   "girl",
+   "formula"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[pidio̞]",
+  "verified": true
+ },
+ {
+  "id": "ko-01604",
+  "category": "korean",
+  "prompt": "「가득」の意味は？",
+  "answer": "fully",
+  "glosses": {
+   "en": "fully",
+   "ja": "いっぱいに"
+  },
+  "choices": [
+   "alarm",
+   "fully",
+   "sleep",
+   "game"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ka̠dɯk̚]",
+  "verified": true
+ },
+ {
+  "id": "ko-01605",
+  "category": "korean",
+  "prompt": "「끝」の意味は？",
+  "answer": "end",
+  "glosses": {
+   "en": "end",
+   "ja": "終わり"
+  },
+  "choices": [
+   "mischief",
+   "moderately",
+   "end",
+   "nevertheless"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[k͈ɯt̚]",
+  "verified": true
+ },
+ {
+  "id": "ko-01606",
+  "category": "korean",
+  "prompt": "「달러」の意味は？",
+  "answer": "dollar",
+  "glosses": {
+   "en": "dollar",
+   "ja": "ドル"
+  },
+  "choices": [
+   "only",
+   "dollar",
+   "gently",
+   "girl"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ta̠ɭɭʌ̹]",
+  "verified": true
+ },
+ {
+  "id": "ko-01607",
+  "category": "korean",
+  "prompt": "「목소리」の意味は？",
+  "answer": "voice",
+  "glosses": {
+   "en": "voice",
+   "ja": "声"
+  },
+  "choices": [
+   "completion",
+   "discovery",
+   "voice",
+   "teacher"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[mo̞ks͈o̞ɾi]",
+  "verified": true
+ },
+ {
+  "id": "ko-01608",
+  "category": "korean",
+  "prompt": "「부탁」の意味は？",
+  "answer": "favor",
+  "glosses": {
+   "en": "favor",
+   "ja": "お願い"
+  },
+  "choices": [
+   "pizza",
+   "star",
+   "favor",
+   "chest"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈpu(ː)tʰa̠k̚]",
+  "verified": true
+ },
+ {
+  "id": "ko-01609",
+  "category": "korean",
+  "prompt": "「재미」の意味は？",
+  "answer": "fun",
+  "glosses": {
+   "en": "fun",
+   "ja": "面白さ"
+  },
+  "choices": [
+   "fun",
+   "golf",
+   "sofa",
+   "death"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[t͡ɕɛmi]",
+  "verified": true
+ },
+ {
+  "id": "ko-01610",
+  "category": "korean",
+  "prompt": "「일주일」の意味は？",
+  "answer": "a week",
+  "glosses": {
+   "en": "a week",
+   "ja": "一週間"
+  },
+  "choices": [
+   "gun",
+   "a week",
+   "everything",
+   "surveillance"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[iʎt͡ɕ͈uiɭ]",
+  "verified": true
+ },
+ {
+  "id": "ko-01611",
+  "category": "korean",
+  "prompt": "「가짜」の意味は？",
+  "answer": "fake",
+  "glosses": {
+   "en": "fake",
+   "ja": "偽物"
+  },
+  "choices": [
+   "warning",
+   "champagne",
+   "infection",
+   "fake"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈka̠(ː)t͡ɕ͈a̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-01612",
+  "category": "korean",
+  "prompt": "「완료」の意味は？",
+  "answer": "completion",
+  "glosses": {
+   "en": "completion",
+   "ja": "完了"
+  },
+  "choices": [
+   "heaven",
+   "goat",
+   "corridor",
+   "completion"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[wa̠ʎʎo]",
+  "verified": true
+ },
+ {
+  "id": "ko-01613",
+  "category": "korean",
+  "prompt": "「혈액」の意味は？",
+  "answer": "blood",
+  "glosses": {
+   "en": "blood",
+   "ja": "血液"
+  },
+  "choices": [
+   "blood",
+   "system",
+   "discourtesy",
+   "dress"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[çʌ̹ɾɛk̚]",
+  "verified": true
+ },
+ {
+  "id": "ko-01614",
+  "category": "korean",
+  "prompt": "「왠지」の意味は？",
+  "answer": "somehow",
+  "glosses": {
+   "en": "somehow",
+   "ja": "なぜか"
+  },
+  "choices": [
+   "somehow",
+   "exactly",
+   "toy",
+   "illegality"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[wɛɲd͡ʑi]",
+  "verified": true
+ },
+ {
+  "id": "ko-01615",
+  "category": "korean",
+  "prompt": "「외과」の意味は？",
+  "answer": "surgical department",
+  "glosses": {
+   "en": "surgical department",
+   "ja": "外科"
+  },
+  "choices": [
+   "surgical department",
+   "occurrence",
+   "scream",
+   "psychiatry"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈwe̞(ː)k͈wa̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-01616",
+  "category": "korean",
+  "prompt": "「쇼」の意味は？",
+  "answer": "show",
+  "glosses": {
+   "en": "show",
+   "ja": "ショー"
+  },
+  "choices": [
+   "coat",
+   "villain",
+   "show",
+   "code"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ɕ͈o]",
+  "verified": true
+ },
+ {
+  "id": "ko-01617",
+  "category": "korean",
+  "prompt": "「위치」の意味は？",
+  "answer": "location",
+  "glosses": {
+   "en": "location",
+   "ja": "位置"
+  },
+  "choices": [
+   "use",
+   "location",
+   "laughter",
+   "one day"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ɥit͡ɕʰi]",
+  "verified": true
+ },
+ {
+  "id": "ko-01618",
+  "category": "korean",
+  "prompt": "「뇌」の意味は？",
+  "answer": "brain",
+  "glosses": {
+   "en": "brain",
+   "ja": "脳"
+  },
+  "choices": [
+   "reference",
+   "brain",
+   "time",
+   "discovery"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[nwe̞(ː)]",
+  "verified": true
+ },
+ {
+  "id": "ko-01619",
+  "category": "korean",
+  "prompt": "「번호」の意味は？",
+  "answer": "number",
+  "glosses": {
+   "en": "number",
+   "ja": "番号"
+  },
+  "choices": [
+   "box",
+   "warning",
+   "number",
+   "of course"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[pʌ̹nβo̞]",
+  "verified": true
+ },
+ {
+  "id": "ko-01620",
+  "category": "korean",
+  "prompt": "「고통」の意味は？",
+  "answer": "pain",
+  "glosses": {
+   "en": "pain",
+   "ja": "苦痛"
+  },
+  "choices": [
+   "pain",
+   "coat",
+   "alien",
+   "so"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ko̞tʰo̞ŋ]",
+  "verified": true
+ },
+ {
+  "id": "ko-01621",
+  "category": "korean",
+  "prompt": "「사망」の意味は？",
+  "answer": "death",
+  "glosses": {
+   "en": "death",
+   "ja": "死亡"
+  },
+  "choices": [
+   "death",
+   "soccer",
+   "message",
+   "style"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈsʰa̠(ː)ma̠ŋ]",
+  "verified": true
+ },
+ {
+  "id": "ko-01622",
+  "category": "korean",
+  "prompt": "「북쪽」の意味は？",
+  "answer": "north",
+  "glosses": {
+   "en": "north",
+   "ja": "北"
+  },
+  "choices": [
+   "length",
+   "identically",
+   "north",
+   "life"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[puk̚t͡ɕ͈o̞k̚]",
+  "verified": true
+ },
+ {
+  "id": "ko-01623",
+  "category": "korean",
+  "prompt": "「괴물」の意味は？",
+  "answer": "monster",
+  "glosses": {
+   "en": "monster",
+   "ja": "怪物"
+  },
+  "choices": [
+   "need",
+   "international",
+   "monster",
+   "decision"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈkwe̞(ː)muɭ]",
+  "verified": true
+ },
+ {
+  "id": "ko-01624",
+  "category": "korean",
+  "prompt": "「신호」の意味は？",
+  "answer": "signal",
+  "glosses": {
+   "en": "signal",
+   "ja": "信号"
+  },
+  "choices": [
+   "separately",
+   "signal",
+   "fairy",
+   "poster"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈɕʰi(ː)nβo̞]",
+  "verified": true
+ },
+ {
+  "id": "ko-01625",
+  "category": "korean",
+  "prompt": "「파트너」の意味は？",
+  "answer": "partner",
+  "glosses": {
+   "en": "partner",
+   "ja": "パートナー"
+  },
+  "choices": [
+   "goat",
+   "progress",
+   "partner",
+   "dollar"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[pʰa̠tʰɯnʌ̹]",
+  "verified": true
+ },
+ {
+  "id": "ko-01626",
+  "category": "korean",
+  "prompt": "「위험」の意味は？",
+  "answer": "danger",
+  "glosses": {
+   "en": "danger",
+   "ja": "危険"
+  },
+  "choices": [
+   "analysis",
+   "honestly",
+   "chest",
+   "danger"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ɥiɦʌ̹m]",
+  "verified": true
+ },
+ {
+  "id": "ko-01627",
+  "category": "korean",
+  "prompt": "「해군」の意味は？",
+  "answer": "navy",
+  "glosses": {
+   "en": "navy",
+   "ja": "海軍"
+  },
+  "choices": [
+   "thief",
+   "navy",
+   "landing",
+   "numeral"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈhɛ(ː)ɡun]",
+  "verified": true
+ },
+ {
+  "id": "ko-01628",
+  "category": "korean",
+  "prompt": "「산소」の意味は？",
+  "answer": "oxygen",
+  "glosses": {
+   "en": "oxygen",
+   "ja": "酸素"
+  },
+  "choices": [
+   "separately",
+   "oxygen",
+   "silently",
+   "after"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[sʰa̠nsʰo̞]",
+  "verified": true
+ },
+ {
+  "id": "ko-01629",
+  "category": "korean",
+  "prompt": "「벽」の意味は？",
+  "answer": "wall",
+  "glosses": {
+   "en": "wall",
+   "ja": "壁"
+  },
+  "choices": [
+   "victim",
+   "wall",
+   "abdomen",
+   "translation"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[pjʌ̹k̚]",
+  "verified": true
+ },
+ {
+  "id": "ko-01630",
+  "category": "korean",
+  "prompt": "「테스트」の意味は？",
+  "answer": "test",
+  "glosses": {
+   "en": "test",
+   "ja": "テスト"
+  },
+  "choices": [
+   "warning",
+   "scream",
+   "hell",
+   "test"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[tʰe̞sʰɯtʰɯ]",
+  "verified": true
+ },
+ {
+  "id": "ko-01631",
+  "category": "korean",
+  "prompt": "「느낌」の意味は？",
+  "answer": "feeling",
+  "glosses": {
+   "en": "feeling",
+   "ja": "感じ"
+  },
+  "choices": [
+   "without fail",
+   "feeling",
+   "soccer",
+   "French"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[nɯk͈im]",
+  "verified": true
+ },
+ {
+  "id": "ko-01632",
+  "category": "korean",
+  "prompt": "「메시지」の意味は？",
+  "answer": "message",
+  "glosses": {
+   "en": "message",
+   "ja": "メッセージ"
+  },
+  "choices": [
+   "mission",
+   "message",
+   "drama",
+   "barely"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[me̞ɕʰid͡ʑi]",
+  "verified": true
+ },
+ {
+  "id": "ko-01633",
+  "category": "korean",
+  "prompt": "「사이」の意味は？",
+  "answer": "between",
+  "glosses": {
+   "en": "between",
+   "ja": "あいだ"
+  },
+  "choices": [
+   "use",
+   "federation",
+   "champion",
+   "between"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[sʰa̠i]",
+  "verified": true
+ },
+ {
+  "id": "ko-01634",
+  "category": "korean",
+  "prompt": "「작업」の意味は？",
+  "answer": "work",
+  "glosses": {
+   "en": "work",
+   "ja": "作業"
+  },
+  "choices": [
+   "work",
+   "one day",
+   "mile",
+   "radio"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[t͡ɕa̠ɡʌ̹p̚]",
+  "verified": true
+ },
+ {
+  "id": "ko-01635",
+  "category": "korean",
+  "prompt": "「감독」の意味は？",
+  "answer": "director",
+  "glosses": {
+   "en": "director",
+   "ja": "監督"
+  },
+  "choices": [
+   "psychiatry",
+   "bullet",
+   "director",
+   "laser"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ka̠mdo̞k̚]",
+  "verified": true
+ },
+ {
+  "id": "ko-01636",
+  "category": "korean",
+  "prompt": "「제작」の意味は？",
+  "answer": "production",
+  "glosses": {
+   "en": "production",
+   "ja": "制作"
+  },
+  "choices": [
+   "song",
+   "absolutely",
+   "maintenance",
+   "production"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈt͡ɕe̞(ː)d͡ʑa̠k̚]",
+  "verified": true
+ },
+ {
+  "id": "ko-01637",
+  "category": "korean",
+  "prompt": "「주변」の意味は？",
+  "answer": "surroundings",
+  "glosses": {
+   "en": "surroundings",
+   "ja": "周辺"
+  },
+  "choices": [
+   "merely",
+   "surroundings",
+   "murderer",
+   "action"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[t͡ɕubjʌ̹n]",
+  "verified": true
+ },
+ {
+  "id": "ko-01638",
+  "category": "korean",
+  "prompt": "「연구」の意味は？",
+  "answer": "research",
+  "glosses": {
+   "en": "research",
+   "ja": "研究"
+  },
+  "choices": [
+   "recognition",
+   "stoppage",
+   "research",
+   "subtitle"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈjɘ(ː)nɡu]",
+  "verified": true
+ },
+ {
+  "id": "ko-01639",
+  "category": "korean",
+  "prompt": "「트럭」の意味は？",
+  "answer": "truck",
+  "glosses": {
+   "en": "truck",
+   "ja": "トラック"
+  },
+  "choices": [
+   "action",
+   "next",
+   "drama",
+   "truck"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[tʰɯɾʌ̹k̚]",
+  "verified": true
+ },
+ {
+  "id": "ko-01640",
+  "category": "korean",
+  "prompt": "「시스템」の意味は？",
+  "answer": "system",
+  "glosses": {
+   "en": "system",
+   "ja": "システム"
+  },
+  "choices": [
+   "system",
+   "surroundings",
+   "girl",
+   "cute"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ɕ͈isʰɯtʰe̞m]",
+  "verified": true
+ },
+ {
+  "id": "ko-01641",
+  "category": "korean",
+  "prompt": "「단순히」の意味は？",
+  "answer": "merely",
+  "glosses": {
+   "en": "merely",
+   "ja": "単に"
+  },
+  "choices": [
+   "merely",
+   "numeral",
+   "attack",
+   "discovery"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ta̠nsʰunʝi]",
+  "verified": true
+ },
+ {
+  "id": "ko-01642",
+  "category": "korean",
+  "prompt": "「전투」の意味は？",
+  "answer": "battle",
+  "glosses": {
+   "en": "battle",
+   "ja": "戦闘"
+  },
+  "choices": [
+   "thing",
+   "federation",
+   "angel",
+   "battle"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈt͡ɕɘ(ː)ntʰu]",
+  "verified": true
+ },
+ {
+  "id": "ko-01643",
+  "category": "korean",
+  "prompt": "「남자친구」の意味は？",
+  "answer": "boyfriend",
+  "glosses": {
+   "en": "boyfriend",
+   "ja": "ボーイフレンド"
+  },
+  "choices": [
+   "just",
+   "fake",
+   "time",
+   "boyfriend"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[na̠md͡ʑa̠t͡ɕʰinɡu]",
+  "verified": true
+ },
+ {
+  "id": "ko-01644",
+  "category": "korean",
+  "prompt": "「감옥」の意味は？",
+  "answer": "jail",
+  "glosses": {
+   "en": "jail",
+   "ja": "刑務所"
+  },
+  "choices": [
+   "toy",
+   "attack",
+   "training",
+   "jail"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ka̠mo̞k̚]",
+  "verified": true
+ },
+ {
+  "id": "ko-01645",
+  "category": "korean",
+  "prompt": "「주의」の意味は？",
+  "answer": "attention",
+  "glosses": {
+   "en": "attention",
+   "ja": "注意"
+  },
+  "choices": [
+   "attention",
+   "bullet",
+   "contact",
+   "candy"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[t͡ɕuɰi]",
+  "verified": true
+ },
+ {
+  "id": "ko-01646",
+  "category": "korean",
+  "prompt": "「출발」の意味は？",
+  "answer": "departure",
+  "glosses": {
+   "en": "departure",
+   "ja": "出発"
+  },
+  "choices": [
+   "departure",
+   "contact",
+   "test",
+   "middle"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[t͡ɕʰuɭba̠ɭ]",
+  "verified": true
+ },
+ {
+  "id": "ko-01647",
+  "category": "korean",
+  "prompt": "「드레스」の意味は？",
+  "answer": "dress",
+  "glosses": {
+   "en": "dress",
+   "ja": "ドレス"
+  },
+  "choices": [
+   "painter",
+   "mission",
+   "brown",
+   "dress"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[tɯɾe̞s͈ɯ]",
+  "verified": true
+ },
+ {
+  "id": "ko-01648",
+  "category": "korean",
+  "prompt": "「연방」の意味は？",
+  "answer": "federation",
+  "glosses": {
+   "en": "federation",
+   "ja": "連邦"
+  },
+  "choices": [
+   "flight",
+   "federation",
+   "east",
+   "popularity"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[jʌ̹nba̠ŋ]",
+  "verified": true
+ },
+ {
+  "id": "ko-01649",
+  "category": "korean",
+  "prompt": "「틀림없이」の意味は？",
+  "answer": "certainly",
+  "glosses": {
+   "en": "certainly",
+   "ja": "間違いなく"
+  },
+  "choices": [
+   "puppy",
+   "certainly",
+   "mind",
+   "tour"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[tʰɯʎʎimʌ̹pɕ͈i]",
+  "verified": true
+ },
+ {
+  "id": "ko-01650",
+  "category": "korean",
+  "prompt": "「대충」の意味は？",
+  "answer": "roughly",
+  "glosses": {
+   "en": "roughly",
+   "ja": "ざっと"
+  },
+  "choices": [
+   "pie",
+   "candy",
+   "roughly",
+   "countryside"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[tɛt͡ɕʰuŋ]",
+  "verified": true
+ },
+ {
+  "id": "ko-01651",
+  "category": "korean",
+  "prompt": "「안전」の意味は？",
+  "answer": "safety",
+  "glosses": {
+   "en": "safety",
+   "ja": "安全"
+  },
+  "choices": [
+   "safety",
+   "completely",
+   "exterior",
+   "dust"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[a̠ɲd͡ʑʌ̹n]",
+  "verified": true
+ },
+ {
+  "id": "ko-01652",
+  "category": "korean",
+  "prompt": "「촬영」の意味は？",
+  "answer": "filming",
+  "glosses": {
+   "en": "filming",
+   "ja": "撮影"
+  },
+  "choices": [
+   "degree",
+   "filming",
+   "evil",
+   "invitation"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[t͡ɕʰwa̠ɾjʌ̹ŋ]",
+  "verified": true
+ },
+ {
+  "id": "ko-01653",
+  "category": "korean",
+  "prompt": "「차고」の意味は？",
+  "answer": "garage",
+  "glosses": {
+   "en": "garage",
+   "ja": "ガレージ"
+  },
+  "choices": [
+   "recognition",
+   "garage",
+   "chain",
+   "degree"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[t͡ɕʰa̠ɡo̞]",
+  "verified": true
+ },
+ {
+  "id": "ko-01654",
+  "category": "korean",
+  "prompt": "「헛소리」の意味は？",
+  "answer": "nonsense",
+  "glosses": {
+   "en": "nonsense",
+   "ja": "たわごと"
+  },
+  "choices": [
+   "cake",
+   "nonsense",
+   "discourtesy",
+   "investigation"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[hʌ̹ss͈o̞ɾi]",
+  "verified": true
+ },
+ {
+  "id": "ko-01655",
+  "category": "korean",
+  "prompt": "「경고」の意味は？",
+  "answer": "warning",
+  "glosses": {
+   "en": "warning",
+   "ja": "警告"
+  },
+  "choices": [
+   "toy",
+   "warning",
+   "style",
+   "filming"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈkjɘ(ː)ŋɡo̞]",
+  "verified": true
+ },
+ {
+  "id": "ko-01656",
+  "category": "korean",
+  "prompt": "「긴급」の意味は？",
+  "answer": "urgency",
+  "glosses": {
+   "en": "urgency",
+   "ja": "緊急"
+  },
+  "choices": [
+   "urgency",
+   "tower",
+   "contact",
+   "surgical department"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[kinɡɯp̚]",
+  "verified": true
+ },
+ {
+  "id": "ko-01657",
+  "category": "korean",
+  "prompt": "「숙녀」の意味は？",
+  "answer": "lady",
+  "glosses": {
+   "en": "lady",
+   "ja": "淑女"
+  },
+  "choices": [
+   "golf",
+   "recognition",
+   "lady",
+   "needle"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[sʰuŋɲʌ̹]",
+  "verified": true
+ },
+ {
+  "id": "ko-01658",
+  "category": "korean",
+  "prompt": "「감시」の意味は？",
+  "answer": "surveillance",
+  "glosses": {
+   "en": "surveillance",
+   "ja": "監視"
+  },
+  "choices": [
+   "surveillance",
+   "dance",
+   "evil",
+   "equipment"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ka̠mɕʰi]",
+  "verified": true
+ },
+ {
+  "id": "ko-01659",
+  "category": "korean",
+  "prompt": "「임무」の意味は？",
+  "answer": "mission",
+  "glosses": {
+   "en": "mission",
+   "ja": "任務"
+  },
+  "choices": [
+   "criminal",
+   "mission",
+   "discourtesy",
+   "number"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈi(ː)mmu]",
+  "verified": true
+ },
+ {
+  "id": "ko-01660",
+  "category": "korean",
+  "prompt": "「정신과」の意味は？",
+  "answer": "psychiatry",
+  "glosses": {
+   "en": "psychiatry",
+   "ja": "精神科"
+  },
+  "choices": [
+   "landing",
+   "psychiatry",
+   "train",
+   "safely"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[t͡ɕʌ̹ŋɕʰink͈wa̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-01661",
+  "category": "korean",
+  "prompt": "「언제든지」の意味は？",
+  "answer": "anytime",
+  "glosses": {
+   "en": "anytime",
+   "ja": "いつでも"
+  },
+  "choices": [
+   "chocolate",
+   "numeral",
+   "anytime",
+   "album"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ʌ̹ɲd͡ʑe̞dɯɲd͡ʑi]",
+  "verified": true
+ },
+ {
+  "id": "ko-01662",
+  "category": "korean",
+  "prompt": "「무사히」の意味は？",
+  "answer": "safely",
+  "glosses": {
+   "en": "safely",
+   "ja": "無事に"
+  },
+  "choices": [
+   "boat",
+   "song",
+   "safely",
+   "spy"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[musʰa̠ʝi]",
+  "verified": true
+ },
+ {
+  "id": "ko-01663",
+  "category": "korean",
+  "prompt": "「잠」の意味は？",
+  "answer": "sleep",
+  "glosses": {
+   "en": "sleep",
+   "ja": "眠り"
+  },
+  "choices": [
+   "fairy",
+   "sleep",
+   "boss",
+   "soccer"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[t͡ɕa̠m]",
+  "verified": true
+ },
+ {
+  "id": "ko-01664",
+  "category": "korean",
+  "prompt": "「발견」の意味は？",
+  "answer": "discovery",
+  "glosses": {
+   "en": "discovery",
+   "ja": "発見"
+  },
+  "choices": [
+   "lady",
+   "exterior",
+   "chocolate",
+   "discovery"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[pa̠ɭɡjʌ̹n]",
+  "verified": true
+ },
+ {
+  "id": "ko-01665",
+  "category": "korean",
+  "prompt": "「삶」の意味は？",
+  "answer": "life",
+  "glosses": {
+   "en": "life",
+   "ja": "人生"
+  },
+  "choices": [
+   "need",
+   "dare",
+   "really",
+   "life"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[sʰa̠(ː)m]",
+  "verified": true
+ },
+ {
+  "id": "ko-01666",
+  "category": "korean",
+  "prompt": "「늑대」の意味は？",
+  "answer": "wolf",
+  "glosses": {
+   "en": "wolf",
+   "ja": "オオカミ"
+  },
+  "choices": [
+   "wolf",
+   "so",
+   "murderer",
+   "genius"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[nɯk̚t͈ɛ]",
+  "verified": true
+ },
+ {
+  "id": "ko-01667",
+  "category": "korean",
+  "prompt": "「소녀」の意味は？",
+  "answer": "girl",
+  "glosses": {
+   "en": "girl",
+   "ja": "少女"
+  },
+  "choices": [
+   "girl",
+   "presenting",
+   "bell",
+   "lady"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈsʰo̞(ː)ɲʌ̹]",
+  "verified": true
+ },
+ {
+  "id": "ko-01668",
+  "category": "korean",
+  "prompt": "「군대」の意味は？",
+  "answer": "military",
+  "glosses": {
+   "en": "military",
+   "ja": "軍隊"
+  },
+  "choices": [
+   "presenting",
+   "channel",
+   "leader",
+   "military"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[kundɛ]",
+  "verified": true
+ },
+ {
+  "id": "ko-01669",
+  "category": "korean",
+  "prompt": "「테이블」の意味は？",
+  "answer": "table",
+  "glosses": {
+   "en": "table",
+   "ja": "テーブル"
+  },
+  "choices": [
+   "table",
+   "boss",
+   "certainly",
+   "so"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[tʰe̞ibɯɭ]",
+  "verified": true
+ },
+ {
+  "id": "ko-01670",
+  "category": "korean",
+  "prompt": "「비행」の意味は？",
+  "answer": "flight",
+  "glosses": {
+   "en": "flight",
+   "ja": "飛行"
+  },
+  "choices": [
+   "scream",
+   "dare",
+   "surveillance",
+   "flight"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[piɦɛŋ]",
+  "verified": true
+ },
+ {
+  "id": "ko-01671",
+  "category": "korean",
+  "prompt": "「마법」の意味は？",
+  "answer": "magic",
+  "glosses": {
+   "en": "magic",
+   "ja": "魔法"
+  },
+  "choices": [
+   "personnel",
+   "decision",
+   "magic",
+   "moment"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ma̠bʌ̹p̚]",
+  "verified": true
+ },
+ {
+  "id": "ko-01672",
+  "category": "korean",
+  "prompt": "「명령」の意味は？",
+  "answer": "command",
+  "glosses": {
+   "en": "command",
+   "ja": "命令"
+  },
+  "choices": [
+   "command",
+   "legal",
+   "so",
+   "jail"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈmjɘ(ː)ŋɲʌ̹ŋ]",
+  "verified": true
+ },
+ {
+  "id": "ko-01673",
+  "category": "korean",
+  "prompt": "「자살」の意味は？",
+  "answer": "suicide",
+  "glosses": {
+   "en": "suicide",
+   "ja": "自殺"
+  },
+  "choices": [
+   "candy",
+   "use",
+   "suicide",
+   "command"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[t͡ɕa̠sʰa̠ɭ]",
+  "verified": true
+ },
+ {
+  "id": "ko-01674",
+  "category": "korean",
+  "prompt": "「조사」の意味は？",
+  "answer": "investigation",
+  "glosses": {
+   "en": "investigation",
+   "ja": "調査"
+  },
+  "choices": [
+   "page",
+   "urgency",
+   "completely",
+   "investigation"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[t͡ɕo̞sʰa̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-01675",
+  "category": "korean",
+  "prompt": "「형사」の意味は？",
+  "answer": "detective",
+  "glosses": {
+   "en": "detective",
+   "ja": "刑事"
+  },
+  "choices": [
+   "forever",
+   "need",
+   "wall",
+   "detective"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[çʌ̹ŋsʰa̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-01676",
+  "category": "korean",
+  "prompt": "「강아지」の意味は？",
+  "answer": "puppy",
+  "glosses": {
+   "en": "puppy",
+   "ja": "子犬"
+  },
+  "choices": [
+   "departure",
+   "murder",
+   "anytime",
+   "puppy"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ka̠ŋa̠d͡ʑi]",
+  "verified": true
+ },
+ {
+  "id": "ko-01677",
+  "category": "korean",
+  "prompt": "「라디오」の意味は？",
+  "answer": "radio",
+  "glosses": {
+   "en": "radio",
+   "ja": "ラジオ"
+  },
+  "choices": [
+   "humankind",
+   "boat",
+   "of course",
+   "radio"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ɾa̠dio̞]",
+  "verified": true
+ },
+ {
+  "id": "ko-01678",
+  "category": "korean",
+  "prompt": "「행동」の意味は？",
+  "answer": "action",
+  "glosses": {
+   "en": "action",
+   "ja": "行動"
+  },
+  "choices": [
+   "arrival",
+   "please",
+   "action",
+   "feeling"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[hɛŋdo̞ŋ]",
+  "verified": true
+ },
+ {
+  "id": "ko-01679",
+  "category": "korean",
+  "prompt": "「도착」の意味は？",
+  "answer": "arrival",
+  "glosses": {
+   "en": "arrival",
+   "ja": "到着"
+  },
+  "choices": [
+   "wall",
+   "message",
+   "arrival",
+   "pizza"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈto̞(ː)t͡ɕʰa̠k̚]",
+  "verified": true
+ },
+ {
+  "id": "ko-01680",
+  "category": "korean",
+  "prompt": "「웃음」の意味は？",
+  "answer": "laughter",
+  "glosses": {
+   "en": "laughter",
+   "ja": "笑い"
+  },
+  "choices": [
+   "protection",
+   "life",
+   "presenting",
+   "laughter"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[usʰɯm]",
+  "verified": true
+ },
+ {
+  "id": "ko-01681",
+  "category": "korean",
+  "prompt": "「보호」の意味は？",
+  "answer": "protection",
+  "glosses": {
+   "en": "protection",
+   "ja": "保護"
+  },
+  "choices": [
+   "chain",
+   "protection",
+   "motorcycle",
+   "jail"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈpo̞(ː)βo̞]",
+  "verified": true
+ },
+ {
+  "id": "ko-01682",
+  "category": "korean",
+  "prompt": "「여기다」の意味は？",
+  "answer": "regard as",
+  "glosses": {
+   "en": "regard as",
+   "ja": "見なす"
+  },
+  "choices": [
+   "exactly",
+   "regard as",
+   "truck",
+   "international"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[jʌ̹ɡida̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-01683",
+  "category": "korean",
+  "prompt": "「결정」の意味は？",
+  "answer": "decision",
+  "glosses": {
+   "en": "decision",
+   "ja": "決定"
+  },
+  "choices": [
+   "cake",
+   "fool",
+   "decision",
+   "mind"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[kjʌ̹ʎt͡ɕ͈ʌ̹ŋ]",
+  "verified": true
+ },
+ {
+  "id": "ko-01684",
+  "category": "korean",
+  "prompt": "「훈련」の意味は？",
+  "answer": "training",
+  "glosses": {
+   "en": "training",
+   "ja": "訓練"
+  },
+  "choices": [
+   "finally",
+   "missile",
+   "training",
+   "thing"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈɸʷu(ː)ʎʎʌ̹n]",
+  "verified": true
+ },
+ {
+  "id": "ko-01685",
+  "category": "korean",
+  "prompt": "「어둠」の意味は？",
+  "answer": "darkness",
+  "glosses": {
+   "en": "darkness",
+   "ja": "闇"
+  },
+  "choices": [
+   "numeral",
+   "turkey",
+   "signal",
+   "darkness"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ʌ̹dum]",
+  "verified": true
+ },
+ {
+  "id": "ko-01686",
+  "category": "korean",
+  "prompt": "「스타」の意味は？",
+  "answer": "star",
+  "glosses": {
+   "en": "star",
+   "ja": "スター"
+  },
+  "choices": [
+   "star",
+   "villain",
+   "prediction",
+   "west"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[sʰɯtʰa̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-01687",
+  "category": "korean",
+  "prompt": "「실험」の意味は？",
+  "answer": "experiment",
+  "glosses": {
+   "en": "experiment",
+   "ja": "実験"
+  },
+  "choices": [
+   "experiment",
+   "time",
+   "presenting",
+   "finally"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ɕʰiɾɦʌ̹m]",
+  "verified": true
+ },
+ {
+  "id": "ko-01688",
+  "category": "korean",
+  "prompt": "「상자」の意味は？",
+  "answer": "box",
+  "glosses": {
+   "en": "box",
+   "ja": "箱"
+  },
+  "choices": [
+   "success",
+   "ambulance",
+   "box",
+   "willingly"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[sʰa̠ŋd͡ʑa̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-01689",
+  "category": "korean",
+  "prompt": "「피자」の意味は？",
+  "answer": "pizza",
+  "glosses": {
+   "en": "pizza",
+   "ja": "ピザ"
+  },
+  "choices": [
+   "pizza",
+   "final",
+   "immediately",
+   "box"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[pʰid͡ʑa̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-01690",
+  "category": "korean",
+  "prompt": "「미사일」の意味は？",
+  "answer": "missile",
+  "glosses": {
+   "en": "missile",
+   "ja": "ミサイル"
+  },
+  "choices": [
+   "thoroughly",
+   "brown",
+   "test",
+   "missile"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[misʰa̠iɭ]",
+  "verified": true
+ },
+ {
+  "id": "ko-01691",
+  "category": "korean",
+  "prompt": "「사탕」の意味は？",
+  "answer": "candy",
+  "glosses": {
+   "en": "candy",
+   "ja": "キャンディー"
+  },
+  "choices": [
+   "after",
+   "drama",
+   "angel",
+   "candy"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[sʰa̠tʰa̠ŋ]",
+  "verified": true
+ },
+ {
+  "id": "ko-01692",
+  "category": "korean",
+  "prompt": "「로봇」の意味は？",
+  "answer": "robot",
+  "glosses": {
+   "en": "robot",
+   "ja": "ロボット"
+  },
+  "choices": [
+   "victim",
+   "of course",
+   "mask",
+   "robot"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ɾo̞bo̞t̚]",
+  "verified": true
+ },
+ {
+  "id": "ko-01693",
+  "category": "korean",
+  "prompt": "「추가」の意味は？",
+  "answer": "addition",
+  "glosses": {
+   "en": "addition",
+   "ja": "追加"
+  },
+  "choices": [
+   "anytime",
+   "addition",
+   "wall",
+   "also"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[t͡ɕʰuɡa̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-01694",
+  "category": "korean",
+  "prompt": "「인터뷰」の意味は？",
+  "answer": "interview",
+  "glosses": {
+   "en": "interview",
+   "ja": "インタビュー"
+  },
+  "choices": [
+   "alien",
+   "diaper",
+   "interview",
+   "honestly"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[intʰʌ̹bju]",
+  "verified": true
+ },
+ {
+  "id": "ko-01695",
+  "category": "korean",
+  "prompt": "「증거」の意味は？",
+  "answer": "proof",
+  "glosses": {
+   "en": "proof",
+   "ja": "証拠"
+  },
+  "choices": [
+   "regard as",
+   "time",
+   "proof",
+   "magic"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[t͡ɕɯŋɡʌ̹]",
+  "verified": true
+ },
+ {
+  "id": "ko-01696",
+  "category": "korean",
+  "prompt": "「진행」の意味は？",
+  "answer": "progress",
+  "glosses": {
+   "en": "progress",
+   "ja": "進行"
+  },
+  "choices": [
+   "prohibition",
+   "stoppage",
+   "champagne",
+   "progress"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈt͡ɕi(ː)nɦɛŋ]",
+  "verified": true
+ },
+ {
+  "id": "ko-01697",
+  "category": "korean",
+  "prompt": "「유전자」の意味は？",
+  "answer": "gene",
+  "glosses": {
+   "en": "gene",
+   "ja": "遺伝子"
+  },
+  "choices": [
+   "needle",
+   "gene",
+   "humankind",
+   "woman"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[jud͡ʑʌ̹ɲd͡ʑa̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-01698",
+  "category": "korean",
+  "prompt": "「캠프」の意味は？",
+  "answer": "camp",
+  "glosses": {
+   "en": "camp",
+   "ja": "キャンプ"
+  },
+  "choices": [
+   "voice",
+   "camp",
+   "approval",
+   "roughly"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[kʰɛmpʰɯ]",
+  "verified": true
+ },
+ {
+  "id": "ko-01699",
+  "category": "korean",
+  "prompt": "「총알」の意味は？",
+  "answer": "bullet",
+  "glosses": {
+   "en": "bullet",
+   "ja": "弾丸"
+  },
+  "choices": [
+   "finally",
+   "breakdown",
+   "bullet",
+   "passing"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[t͡ɕʰo̞ŋa̠ɭ]",
+  "verified": true
+ },
+ {
+  "id": "ko-01700",
+  "category": "korean",
+  "prompt": "「대위」の意味は？",
+  "answer": "captain",
+  "glosses": {
+   "en": "captain",
+   "ja": "大尉"
+  },
+  "choices": [
+   "captain",
+   "painter",
+   "sandwich",
+   "urgency"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈtɛ(ː)ɥi]",
+  "verified": true
+ },
+ {
+  "id": "ko-01701",
+  "category": "korean",
+  "prompt": "「외계인」の意味は？",
+  "answer": "alien",
+  "glosses": {
+   "en": "alien",
+   "ja": "宇宙人"
+  },
+  "choices": [
+   "translation",
+   "alien",
+   "equipment",
+   "completion"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈwe̞(ː)ɡje̞in]",
+  "verified": true
+ },
+ {
+  "id": "ko-01702",
+  "category": "korean",
+  "prompt": "「최소」の意味は？",
+  "answer": "minimum",
+  "glosses": {
+   "en": "minimum",
+   "ja": "最小限"
+  },
+  "choices": [
+   "production",
+   "narcotic",
+   "success",
+   "minimum"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈt͡ɕʰwe̞(ː)sʰo̞]",
+  "verified": true
+ },
+ {
+  "id": "ko-01703",
+  "category": "korean",
+  "prompt": "「보트」の意味は？",
+  "answer": "boat",
+  "glosses": {
+   "en": "boat",
+   "ja": "ボート"
+  },
+  "choices": [
+   "king",
+   "brain",
+   "certainly",
+   "boat"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[po̞tʰɯ]",
+  "verified": true
+ },
+ {
+  "id": "ko-01704",
+  "category": "korean",
+  "prompt": "「추적」の意味は？",
+  "answer": "chase",
+  "glosses": {
+   "en": "chase",
+   "ja": "追跡"
+  },
+  "choices": [
+   "pen",
+   "chase",
+   "villain",
+   "mischief"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[t͡ɕʰud͡ʑʌ̹k̚]",
+  "verified": true
+ },
+ {
+  "id": "ko-01705",
+  "category": "korean",
+  "prompt": "「실례」の意味は？",
+  "answer": "discourtesy",
+  "glosses": {
+   "en": "discourtesy",
+   "ja": "失礼"
+  },
+  "choices": [
+   "bleeding",
+   "girl",
+   "discourtesy",
+   "brown"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ɕʰiɭɭe̞]",
+  "verified": true
+ },
+ {
+  "id": "ko-01706",
+  "category": "korean",
+  "prompt": "「인사」の意味は？",
+  "answer": "greeting",
+  "glosses": {
+   "en": "greeting",
+   "ja": "あいさつ"
+  },
+  "choices": [
+   "greeting",
+   "urgency",
+   "feeling",
+   "stew"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[insʰa̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-01707",
+  "category": "korean",
+  "prompt": "「불법」の意味は？",
+  "answer": "illegality",
+  "glosses": {
+   "en": "illegality",
+   "ja": "違法"
+  },
+  "choices": [
+   "automatic",
+   "favor",
+   "illegality",
+   "investigation"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[puɭbʌ̹p̚]",
+  "verified": true
+ },
+ {
+  "id": "ko-01708",
+  "category": "korean",
+  "prompt": "「위성」の意味は？",
+  "answer": "satellite",
+  "glosses": {
+   "en": "satellite",
+   "ja": "衛星"
+  },
+  "choices": [
+   "satellite",
+   "pin",
+   "warning",
+   "surveillance"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ɥisʰʌ̹ŋ]",
+  "verified": true
+ },
+ {
+  "id": "ko-01709",
+  "category": "korean",
+  "prompt": "「고대」の意味は？",
+  "answer": "antiquity",
+  "glosses": {
+   "en": "antiquity",
+   "ja": "古代"
+  },
+  "choices": [
+   "gun",
+   "irritation",
+   "antiquity",
+   "turkey"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈko̞(ː)dɛ]",
+  "verified": true
+ },
+ {
+  "id": "ko-01710",
+  "category": "korean",
+  "prompt": "「도망」の意味は？",
+  "answer": "escape",
+  "glosses": {
+   "en": "escape",
+   "ja": "逃亡"
+  },
+  "choices": [
+   "west",
+   "escape",
+   "bell",
+   "federation"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[to̞ma̠ŋ]",
+  "verified": true
+ },
+ {
+  "id": "ko-01711",
+  "category": "korean",
+  "prompt": "「애도」の意味は？",
+  "answer": "condolence",
+  "glosses": {
+   "en": "condolence",
+   "ja": "哀悼"
+  },
+  "choices": [
+   "navy",
+   "condolence",
+   "contact",
+   "degree"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ɛdo̞]",
+  "verified": true
+ },
+ {
+  "id": "ko-01712",
+  "category": "korean",
+  "prompt": "「닭」の意味は？",
+  "answer": "chicken",
+  "glosses": {
+   "en": "chicken",
+   "ja": "鶏"
+  },
+  "choices": [
+   "death",
+   "analysis",
+   "chicken",
+   "bell"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ta̠k̚]",
+  "verified": true
+ },
+ {
+  "id": "ko-01713",
+  "category": "korean",
+  "prompt": "「남성」の意味は？",
+  "answer": "man",
+  "glosses": {
+   "en": "man",
+   "ja": "男性"
+  },
+  "choices": [
+   "space",
+   "man",
+   "prohibition",
+   "passing"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[na̠msʰʌ̹ŋ]",
+  "verified": true
+ },
+ {
+  "id": "ko-01714",
+  "category": "korean",
+  "prompt": "「인기」の意味は？",
+  "answer": "popularity",
+  "glosses": {
+   "en": "popularity",
+   "ja": "人気"
+  },
+  "choices": [
+   "attack",
+   "chase",
+   "popularity",
+   "train"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ink͈i]",
+  "verified": true
+ },
+ {
+  "id": "ko-01715",
+  "category": "korean",
+  "prompt": "「고장」の意味は？",
+  "answer": "breakdown",
+  "glosses": {
+   "en": "breakdown",
+   "ja": "故障"
+  },
+  "choices": [
+   "laser",
+   "breakdown",
+   "always",
+   "survival"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈko̞(ː)d͡ʑa̠ŋ]",
+  "verified": true
+ },
+ {
+  "id": "ko-01716",
+  "category": "korean",
+  "prompt": "「천사」の意味は？",
+  "answer": "angel",
+  "glosses": {
+   "en": "angel",
+   "ja": "天使"
+  },
+  "choices": [
+   "brown",
+   "angel",
+   "vehicle",
+   "signal"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[t͡ɕʰʌ̹nsʰa̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-01717",
+  "category": "korean",
+  "prompt": "「오렌지」の意味は？",
+  "answer": "orange",
+  "glosses": {
+   "en": "orange",
+   "ja": "オレンジ"
+  },
+  "choices": [
+   "page",
+   "goat",
+   "really",
+   "orange"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[o̞ɾe̞ɲd͡ʑi]",
+  "verified": true
+ },
+ {
+  "id": "ko-01718",
+  "category": "korean",
+  "prompt": "「열차」の意味は？",
+  "answer": "train",
+  "glosses": {
+   "en": "train",
+   "ja": "列車"
+  },
+  "choices": [
+   "train",
+   "actually",
+   "metal",
+   "pin"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[jʌ̹ʎt͡ɕʰa̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-01719",
+  "category": "korean",
+  "prompt": "「집중」の意味は？",
+  "answer": "concentration",
+  "glosses": {
+   "en": "concentration",
+   "ja": "集中"
+  },
+  "choices": [
+   "turkey",
+   "concentration",
+   "blood",
+   "middle"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[t͡ɕip̚t͡ɕ͈uŋ]",
+  "verified": true
+ },
+ {
+  "id": "ko-01720",
+  "category": "korean",
+  "prompt": "「갈색」の意味は？",
+  "answer": "brown",
+  "glosses": {
+   "en": "brown",
+   "ja": "茶色"
+  },
+  "choices": [
+   "brown",
+   "motorcycle",
+   "experiment",
+   "paint"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ka̠ɭs͈ɛk̚]",
+  "verified": true
+ },
+ {
+  "id": "ko-01721",
+  "category": "korean",
+  "prompt": "「서쪽」の意味は？",
+  "answer": "west",
+  "glosses": {
+   "en": "west",
+   "ja": "西"
+  },
+  "choices": [
+   "motorcycle",
+   "cake",
+   "west",
+   "still"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[sʰʌ̹t͡ɕ͈o̞k̚]",
+  "verified": true
+ },
+ {
+  "id": "ko-01722",
+  "category": "korean",
+  "prompt": "「피해자」の意味は？",
+  "answer": "victim",
+  "glosses": {
+   "en": "victim",
+   "ja": "被害者"
+  },
+  "choices": [
+   "work",
+   "victim",
+   "toy",
+   "management"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈpʰi(ː)ɦɛd͡ʑa̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-01723",
+  "category": "korean",
+  "prompt": "「예상」の意味は？",
+  "answer": "prediction",
+  "glosses": {
+   "en": "prediction",
+   "ja": "予想"
+  },
+  "choices": [
+   "control",
+   "tobacco",
+   "identically",
+   "prediction"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈje̞(ː)sʰa̠ŋ]",
+  "verified": true
+ },
+ {
+  "id": "ko-01724",
+  "category": "korean",
+  "prompt": "「기계」の意味は？",
+  "answer": "machine",
+  "glosses": {
+   "en": "machine",
+   "ja": "機械"
+  },
+  "choices": [
+   "blood",
+   "gently",
+   "machine",
+   "use"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[kiɡje̞]",
+  "verified": true
+ },
+ {
+  "id": "ko-01725",
+  "category": "korean",
+  "prompt": "「코트」の意味は？",
+  "answer": "coat",
+  "glosses": {
+   "en": "coat",
+   "ja": "コート"
+  },
+  "choices": [
+   "middle",
+   "model",
+   "coat",
+   "length"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[kʰo̞tʰɯ]",
+  "verified": true
+ },
+ {
+  "id": "ko-01726",
+  "category": "korean",
+  "prompt": "「초콜릿」の意味は？",
+  "answer": "chocolate",
+  "glosses": {
+   "en": "chocolate",
+   "ja": "チョコレート"
+  },
+  "choices": [
+   "chocolate",
+   "fully",
+   "detective",
+   "satellite"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[t͡ɕʰo̞kʰo̞ʎʎit̚]",
+  "verified": true
+ },
+ {
+  "id": "ko-01727",
+  "category": "korean",
+  "prompt": "「녹색」の意味は？",
+  "answer": "green",
+  "glosses": {
+   "en": "green",
+   "ja": "緑"
+  },
+  "choices": [
+   "chocolate",
+   "presenting",
+   "team",
+   "green"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[no̞ks͈ɛk̚]",
+  "verified": true
+ },
+ {
+  "id": "ko-01728",
+  "category": "korean",
+  "prompt": "「귀엽다」の意味は？",
+  "answer": "cute",
+  "glosses": {
+   "en": "cute",
+   "ja": "かわいい"
+  },
+  "choices": [
+   "cute",
+   "honestly",
+   "boss",
+   "cycle"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈkɥi(ː)jʌ̹p̚t͈a̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-01729",
+  "category": "korean",
+  "prompt": "「효과」の意味は？",
+  "answer": "effect",
+  "glosses": {
+   "en": "effect",
+   "ja": "効果"
+  },
+  "choices": [
+   "immediately",
+   "effect",
+   "completion",
+   "attempt"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈço(ː)k͈wa̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-01730",
+  "category": "korean",
+  "prompt": "「관리」の意味は？",
+  "answer": "management",
+  "glosses": {
+   "en": "management",
+   "ja": "管理"
+  },
+  "choices": [
+   "management",
+   "lighting",
+   "drama",
+   "test"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[kwa̠ʎʎi]",
+  "verified": true
+ },
+ {
+  "id": "ko-01731",
+  "category": "korean",
+  "prompt": "「국제」の意味は？",
+  "answer": "international",
+  "glosses": {
+   "en": "international",
+   "ja": "国際"
+  },
+  "choices": [
+   "silently",
+   "youth",
+   "international",
+   "exterior"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[kuk̚t͡ɕ͈e̞]",
+  "verified": true
+ },
+ {
+  "id": "ko-01732",
+  "category": "korean",
+  "prompt": "「핀」の意味は？",
+  "answer": "pin",
+  "glosses": {
+   "en": "pin",
+   "ja": "ピン"
+  },
+  "choices": [
+   "pin",
+   "urgency",
+   "willingly",
+   "dollar"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ko-01733",
+  "category": "korean",
+  "prompt": "「중간」の意味は？",
+  "answer": "middle",
+  "glosses": {
+   "en": "middle",
+   "ja": "中間"
+  },
+  "choices": [
+   "paint",
+   "proof",
+   "subtitle",
+   "middle"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[t͡ɕuŋɡa̠n]",
+  "verified": true
+ },
+ {
+  "id": "ko-01734",
+  "category": "korean",
+  "prompt": "「외부」の意味は？",
+  "answer": "exterior",
+  "glosses": {
+   "en": "exterior",
+   "ja": "外部"
+  },
+  "choices": [
+   "star",
+   "recognition",
+   "chest",
+   "exterior"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈwe̞(ː)bu]",
+  "verified": true
+ },
+ {
+  "id": "ko-01735",
+  "category": "korean",
+  "prompt": "「고객」の意味は？",
+  "answer": "customer",
+  "glosses": {
+   "en": "customer",
+   "ja": "顧客"
+  },
+  "choices": [
+   "formula",
+   "customer",
+   "effect",
+   "witch"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ko̞ɡɛk̚]",
+  "verified": true
+ },
+ {
+  "id": "ko-01736",
+  "category": "korean",
+  "prompt": "「행성」の意味は？",
+  "answer": "planet",
+  "glosses": {
+   "en": "planet",
+   "ja": "惑星"
+  },
+  "choices": [
+   "time",
+   "death",
+   "need",
+   "planet"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[hɛŋsʰʌ̹ŋ]",
+  "verified": true
+ },
+ {
+  "id": "ko-01737",
+  "category": "korean",
+  "prompt": "「장난감」の意味は？",
+  "answer": "toy",
+  "glosses": {
+   "en": "toy",
+   "ja": "おもちゃ"
+  },
+  "choices": [
+   "reference",
+   "each",
+   "toy",
+   "drive"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[t͡ɕa̠ŋna̠nk͈a̠m]",
+  "verified": true
+ },
+ {
+  "id": "ko-01738",
+  "category": "korean",
+  "prompt": "「샌드위치」の意味は？",
+  "answer": "sandwich",
+  "glosses": {
+   "en": "sandwich",
+   "ja": "サンドイッチ"
+  },
+  "choices": [
+   "prohibition",
+   "sandwich",
+   "team",
+   "dare"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[sʰɛndɯɥit͡ɕʰi]",
+  "verified": true
+ },
+ {
+  "id": "ko-01739",
+  "category": "korean",
+  "prompt": "「차량」の意味は？",
+  "answer": "vehicle",
+  "glosses": {
+   "en": "vehicle",
+   "ja": "車両"
+  },
+  "choices": [
+   "headquarters",
+   "thief",
+   "vehicle",
+   "identically"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[t͡ɕʰa̠ɾja̠ŋ]",
+  "verified": true
+ },
+ {
+  "id": "ko-01740",
+  "category": "korean",
+  "prompt": "「초대」の意味は？",
+  "answer": "invitation",
+  "glosses": {
+   "en": "invitation",
+   "ja": "招待"
+  },
+  "choices": [
+   "countryside",
+   "missile",
+   "invitation",
+   "game"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[t͡ɕʰo̞dɛ]",
+  "verified": true
+ },
+ {
+  "id": "ko-01741",
+  "category": "korean",
+  "prompt": "「앨범」の意味は？",
+  "answer": "album",
+  "glosses": {
+   "en": "album",
+   "ja": "アルバム"
+  },
+  "choices": [
+   "wine",
+   "album",
+   "maybe",
+   "turkey"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ɛɭbʌ̹m]",
+  "verified": true
+ },
+ {
+  "id": "ko-01742",
+  "category": "korean",
+  "prompt": "「케이크」の意味は？",
+  "answer": "cake",
+  "glosses": {
+   "en": "cake",
+   "ja": "ケーキ"
+  },
+  "choices": [
+   "woman",
+   "cake",
+   "wall",
+   "basis"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[kʰe̞ikxɯ]",
+  "verified": true
+ },
+ {
+  "id": "ko-01743",
+  "category": "korean",
+  "prompt": "「오토바이」の意味は？",
+  "answer": "motorcycle",
+  "glosses": {
+   "en": "motorcycle",
+   "ja": "オートバイ"
+  },
+  "choices": [
+   "motorcycle",
+   "antiquity",
+   "painter",
+   "barrier"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[o̞tʰo̞ba̠i]",
+  "verified": true
+ },
+ {
+  "id": "ko-01744",
+  "category": "korean",
+  "prompt": "「사냥」の意味は？",
+  "answer": "hunting",
+  "glosses": {
+   "en": "hunting",
+   "ja": "狩り"
+  },
+  "choices": [
+   "lighting",
+   "French",
+   "hunting",
+   "flight"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[sʰa̠ɲa̠ŋ]",
+  "verified": true
+ },
+ {
+  "id": "ko-01745",
+  "category": "korean",
+  "prompt": "「성공」の意味は？",
+  "answer": "success",
+  "glosses": {
+   "en": "success",
+   "ja": "成功"
+  },
+  "choices": [
+   "production",
+   "discovery",
+   "success",
+   "fuel"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[sʰʌ̹ŋɡo̞ŋ]",
+  "verified": true
+ },
+ {
+  "id": "ko-01746",
+  "category": "korean",
+  "prompt": "「통제」の意味は？",
+  "answer": "control",
+  "glosses": {
+   "en": "control",
+   "ja": "統制"
+  },
+  "choices": [
+   "monster",
+   "feeling",
+   "gun",
+   "control"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈtʰo̞(ː)ŋd͡ʑe̞]",
+  "verified": true
+ },
+ {
+  "id": "ko-01747",
+  "category": "korean",
+  "prompt": "「공식」の意味は？",
+  "answer": "formula",
+  "glosses": {
+   "en": "formula",
+   "ja": "公式"
+  },
+  "choices": [
+   "victim",
+   "formula",
+   "gene",
+   "show"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ko̞ŋɕʰik̚]",
+  "verified": true
+ },
+ {
+  "id": "ko-01748",
+  "category": "korean",
+  "prompt": "「장비」の意味は？",
+  "answer": "equipment",
+  "glosses": {
+   "en": "equipment",
+   "ja": "装備"
+  },
+  "choices": [
+   "equipment",
+   "abdomen",
+   "popularity",
+   "virus"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[t͡ɕa̠ŋbi]",
+  "verified": true
+ },
+ {
+  "id": "ko-01749",
+  "category": "korean",
+  "prompt": "「동쪽」の意味は？",
+  "answer": "east",
+  "glosses": {
+   "en": "east",
+   "ja": "東"
+  },
+  "choices": [
+   "life",
+   "brown",
+   "east",
+   "victim"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[to̞ŋt͡ɕ͈o̞k̚]",
+  "verified": true
+ },
+ {
+  "id": "ko-01750",
+  "category": "korean",
+  "prompt": "「발생」の意味は？",
+  "answer": "occurrence",
+  "glosses": {
+   "en": "occurrence",
+   "ja": "発生"
+  },
+  "choices": [
+   "bullet",
+   "murder",
+   "popularity",
+   "occurrence"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[pa̠ɭs͈ɛŋ]",
+  "verified": true
+ },
+ {
+  "id": "ko-01751",
+  "category": "korean",
+  "prompt": "「최종」の意味は？",
+  "answer": "final",
+  "glosses": {
+   "en": "final",
+   "ja": "最終"
+  },
+  "choices": [
+   "diaper",
+   "final",
+   "sufficiently",
+   "protection"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈt͡ɕʰwe̞(ː)d͡ʑo̞ŋ]",
+  "verified": true
+ },
+ {
+  "id": "ko-01752",
+  "category": "korean",
+  "prompt": "「피로」の意味は？",
+  "answer": "fatigue",
+  "glosses": {
+   "en": "fatigue",
+   "ja": "疲労"
+  },
+  "choices": [
+   "so",
+   "boyfriend",
+   "fatigue",
+   "of course"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[pʰiɾo̞]",
+  "verified": true
+ },
+ {
+  "id": "ko-01753",
+  "category": "korean",
+  "prompt": "「파이」の意味は？",
+  "answer": "pie",
+  "glosses": {
+   "en": "pie",
+   "ja": "パイ"
+  },
+  "choices": [
+   "angel",
+   "analysis",
+   "pie",
+   "motorcycle"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[pʰa̠i]",
+  "verified": true
+ },
+ {
+  "id": "ko-01754",
+  "category": "korean",
+  "prompt": "「스튜」の意味は？",
+  "answer": "stew",
+  "glosses": {
+   "en": "stew",
+   "ja": "シチュー"
+  },
+  "choices": [
+   "roadway",
+   "turkey",
+   "stew",
+   "departure"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[sʰɯtʰju]",
+  "verified": true
+ },
+ {
+  "id": "ko-01755",
+  "category": "korean",
+  "prompt": "「폭발」の意味は？",
+  "answer": "explosion",
+  "glosses": {
+   "en": "explosion",
+   "ja": "爆発"
+  },
+  "choices": [
+   "explosion",
+   "bleeding",
+   "time",
+   "condolence"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[pʰo̞k̚p͈a̠ɭ]",
+  "verified": true
+ },
+ {
+  "id": "ko-01756",
+  "category": "korean",
+  "prompt": "「본부」の意味は？",
+  "answer": "headquarters",
+  "glosses": {
+   "en": "headquarters",
+   "ja": "本部"
+  },
+  "choices": [
+   "jail",
+   "groom",
+   "headquarters",
+   "album"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[po̞nbu]",
+  "verified": true
+ },
+ {
+  "id": "ko-01757",
+  "category": "korean",
+  "prompt": "「용서」の意味は？",
+  "answer": "forgiveness",
+  "glosses": {
+   "en": "forgiveness",
+   "ja": "許し"
+  },
+  "choices": [
+   "orange",
+   "artificial",
+   "work",
+   "forgiveness"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[joŋsʰʌ̹]",
+  "verified": true
+ },
+ {
+  "id": "ko-01758",
+  "category": "korean",
+  "prompt": "「참고」の意味は？",
+  "answer": "reference",
+  "glosses": {
+   "en": "reference",
+   "ja": "参考"
+  },
+  "choices": [
+   "nonsense",
+   "dollar",
+   "everything",
+   "reference"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[t͡ɕʰa̠mɡo̞]",
+  "verified": true
+ },
+ {
+  "id": "ko-01759",
+  "category": "korean",
+  "prompt": "「벨」の意味は？",
+  "answer": "bell",
+  "glosses": {
+   "en": "bell",
+   "ja": "ベル"
+  },
+  "choices": [
+   "space",
+   "bell",
+   "fully",
+   "villain"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[pe̞ɭ]",
+  "verified": true
+ },
+ {
+  "id": "ko-01760",
+  "category": "korean",
+  "prompt": "「악」の意味は？",
+  "answer": "evil",
+  "glosses": {
+   "en": "evil",
+   "ja": "悪"
+  },
+  "choices": [
+   "nevertheless",
+   "forever",
+   "evil",
+   "prince"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[a̠k̚]",
+  "verified": true
+ },
+ {
+  "id": "ko-01761",
+  "category": "korean",
+  "prompt": "「복부」の意味は？",
+  "answer": "abdomen",
+  "glosses": {
+   "en": "abdomen",
+   "ja": "腹部"
+  },
+  "choices": [
+   "abdomen",
+   "humankind",
+   "search",
+   "youth"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[po̞k̚p͈u]",
+  "verified": true
+ },
+ {
+  "id": "ko-01762",
+  "category": "korean",
+  "prompt": "「적당히」の意味は？",
+  "answer": "moderately",
+  "glosses": {
+   "en": "moderately",
+   "ja": "ほどよく"
+  },
+  "choices": [
+   "hell",
+   "moderately",
+   "song",
+   "honestly"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[t͡ɕʌ̹k̚t͈a̠ŋʝi]",
+  "verified": true
+ },
+ {
+  "id": "ko-01763",
+  "category": "korean",
+  "prompt": "「불어」の意味は？",
+  "answer": "French",
+  "glosses": {
+   "en": "French",
+   "ja": "フランス語"
+  },
+  "choices": [
+   "fake",
+   "Miss",
+   "French",
+   "safety"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[puɾʌ̹]",
+  "verified": true
+ },
+ {
+  "id": "ko-01764",
+  "category": "korean",
+  "prompt": "「각각」の意味は？",
+  "answer": "each",
+  "glosses": {
+   "en": "each",
+   "ja": "それぞれ"
+  },
+  "choices": [
+   "album",
+   "attack",
+   "message",
+   "each"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ka̠k̚k͈a̠k̚]",
+  "verified": true
+ },
+ {
+  "id": "ko-01765",
+  "category": "korean",
+  "prompt": "「소용」の意味は？",
+  "answer": "use",
+  "glosses": {
+   "en": "use",
+   "ja": "役に立つこと"
+  },
+  "choices": [
+   "box",
+   "value",
+   "use",
+   "also"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈsʰo̞(ː)joŋ]",
+  "verified": true
+ },
+ {
+  "id": "ko-01766",
+  "category": "korean",
+  "prompt": "「고급」の意味は？",
+  "answer": "high-class",
+  "glosses": {
+   "en": "high-class",
+   "ja": "高級"
+  },
+  "choices": [
+   "storm",
+   "please",
+   "pen",
+   "high-class"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ko̞ɡɯp̚]",
+  "verified": true
+ },
+ {
+  "id": "ko-01767",
+  "category": "korean",
+  "prompt": "「짜증」の意味は？",
+  "answer": "irritation",
+  "glosses": {
+   "en": "irritation",
+   "ja": "いらだち"
+  },
+  "choices": [
+   "irritation",
+   "abdomen",
+   "murder",
+   "style"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[t͡ɕ͈a̠d͡ʑɯŋ]",
+  "verified": true
+ },
+ {
+  "id": "ko-01768",
+  "category": "korean",
+  "prompt": "「중지」の意味は？",
+  "answer": "stoppage",
+  "glosses": {
+   "en": "stoppage",
+   "ja": "中止"
+  },
+  "choices": [
+   "tower",
+   "federation",
+   "stoppage",
+   "sleep"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[t͡ɕuŋd͡ʑi]",
+  "verified": true
+ },
+ {
+  "id": "ko-01769",
+  "category": "korean",
+  "prompt": "「차트」の意味は？",
+  "answer": "chart",
+  "glosses": {
+   "en": "chart",
+   "ja": "チャート"
+  },
+  "choices": [
+   "discovery",
+   "mind",
+   "wolf",
+   "chart"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[t͡ɕʰa̠tʰɯ]",
+  "verified": true
+ },
+ {
+  "id": "ko-01770",
+  "category": "korean",
+  "prompt": "「바퀴」の意味は？",
+  "answer": "wheel",
+  "glosses": {
+   "en": "wheel",
+   "ja": "車輪"
+  },
+  "choices": [
+   "model",
+   "wheel",
+   "merely",
+   "protection"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[pa̠kʰɥi]",
+  "verified": true
+ },
+ {
+  "id": "ko-01771",
+  "category": "korean",
+  "prompt": "「실패」の意味は？",
+  "answer": "failure",
+  "glosses": {
+   "en": "failure",
+   "ja": "失敗"
+  },
+  "choices": [
+   "roughly",
+   "failure",
+   "show",
+   "sleep"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ɕʰiɭpʰɛ]",
+  "verified": true
+ },
+ {
+  "id": "ko-01772",
+  "category": "korean",
+  "prompt": "「드라마」の意味は？",
+  "answer": "drama",
+  "glosses": {
+   "en": "drama",
+   "ja": "ドラマ"
+  },
+  "choices": [
+   "oxygen",
+   "camp",
+   "drama",
+   "effect"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[tɯɾa̠ma̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-01773",
+  "category": "korean",
+  "prompt": "「샴페인」の意味は？",
+  "answer": "champagne",
+  "glosses": {
+   "en": "champagne",
+   "ja": "シャンパン"
+  },
+  "choices": [
+   "please",
+   "champagne",
+   "leather",
+   "failure"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ɕʰa̠mpʰe̞in]",
+  "verified": true
+ },
+ {
+  "id": "ko-01774",
+  "category": "korean",
+  "prompt": "「폭풍」の意味は？",
+  "answer": "storm",
+  "glosses": {
+   "en": "storm",
+   "ja": "嵐"
+  },
+  "choices": [
+   "experiment",
+   "pink",
+   "research",
+   "storm"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[pʰo̞k̚pʰuŋ]",
+  "verified": true
+ },
+ {
+  "id": "ko-01775",
+  "category": "korean",
+  "prompt": "「마일」の意味は？",
+  "answer": "mile",
+  "glosses": {
+   "en": "mile",
+   "ja": "マイル"
+  },
+  "choices": [
+   "location",
+   "fully",
+   "mile",
+   "fur"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ma̠iɭ]",
+  "verified": true
+ },
+ {
+  "id": "ko-01776",
+  "category": "korean",
+  "prompt": "「유지」の意味は？",
+  "answer": "maintenance",
+  "glosses": {
+   "en": "maintenance",
+   "ja": "維持"
+  },
+  "choices": [
+   "only",
+   "maintenance",
+   "prohibition",
+   "completion"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[jud͡ʑi]",
+  "verified": true
+ },
+ {
+  "id": "ko-01777",
+  "category": "korean",
+  "prompt": "「주기」の意味は？",
+  "answer": "cycle",
+  "glosses": {
+   "en": "cycle",
+   "ja": "周期"
+  },
+  "choices": [
+   "silently",
+   "cycle",
+   "height",
+   "after"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[t͡ɕuɡi]",
+  "verified": true
+ },
+ {
+  "id": "ko-01778",
+  "category": "korean",
+  "prompt": "「연쇄」の意味は？",
+  "answer": "chain",
+  "glosses": {
+   "en": "chain",
+   "ja": "連鎖"
+  },
+  "choices": [
+   "painter",
+   "chain",
+   "one day",
+   "costume"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[jʌ̹nsʰwɛ]",
+  "verified": true
+ },
+ {
+  "id": "ko-01779",
+  "category": "korean",
+  "prompt": "「동의」の意味は？",
+  "answer": "consent",
+  "glosses": {
+   "en": "consent",
+   "ja": "同意"
+  },
+  "choices": [
+   "consent",
+   "urgency",
+   "chocolate",
+   "prohibition"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[to̞ŋɰi]",
+  "verified": true
+ },
+ {
+  "id": "ko-01780",
+  "category": "korean",
+  "prompt": "「살인자」の意味は？",
+  "answer": "murderer",
+  "glosses": {
+   "en": "murderer",
+   "ja": "殺人者"
+  },
+  "choices": [
+   "murderer",
+   "of course",
+   "dragon",
+   "immediately"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[sʰa̠ɾiɲd͡ʑa̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-01781",
+  "category": "korean",
+  "prompt": "「기본」の意味は？",
+  "answer": "basis",
+  "glosses": {
+   "en": "basis",
+   "ja": "基本"
+  },
+  "choices": [
+   "woman",
+   "prince",
+   "basis",
+   "personnel"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[kibo̞n]",
+  "verified": true
+ },
+ {
+  "id": "ko-01782",
+  "category": "korean",
+  "prompt": "「인류」の意味は？",
+  "answer": "humankind",
+  "glosses": {
+   "en": "humankind",
+   "ja": "人類"
+  },
+  "choices": [
+   "humankind",
+   "sleep",
+   "control",
+   "minimum"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[iʎʎu]",
+  "verified": true
+ },
+ {
+  "id": "ko-01783",
+  "category": "korean",
+  "prompt": "「염소」の意味は？",
+  "answer": "goat",
+  "glosses": {
+   "en": "goat",
+   "ja": "ヤギ"
+  },
+  "choices": [
+   "investigation",
+   "sufficiently",
+   "goat",
+   "train"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[jʌ̹msʰo̞]",
+  "verified": true
+ },
+ {
+  "id": "ko-01784",
+  "category": "korean",
+  "prompt": "「바늘」の意味は？",
+  "answer": "needle",
+  "glosses": {
+   "en": "needle",
+   "ja": "針"
+  },
+  "choices": [
+   "after",
+   "drive",
+   "radio",
+   "needle"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[pa̠nɯɭ]",
+  "verified": true
+ },
+ {
+  "id": "ko-01785",
+  "category": "korean",
+  "prompt": "「스파이」の意味は？",
+  "answer": "spy",
+  "glosses": {
+   "en": "spy",
+   "ja": "スパイ"
+  },
+  "choices": [
+   "personnel",
+   "youth",
+   "illegality",
+   "spy"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[sʰɯpʰa̠i]",
+  "verified": true
+ },
+ {
+  "id": "ko-01786",
+  "category": "korean",
+  "prompt": "「골프」の意味は？",
+  "answer": "golf",
+  "glosses": {
+   "en": "golf",
+   "ja": "ゴルフ"
+  },
+  "choices": [
+   "golf",
+   "fur",
+   "system",
+   "pen"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[k͈o̞ɭpʰɯ]",
+  "verified": true
+ },
+ {
+  "id": "ko-01787",
+  "category": "korean",
+  "prompt": "「축구」の意味は？",
+  "answer": "soccer",
+  "glosses": {
+   "en": "soccer",
+   "ja": "サッカー"
+  },
+  "choices": [
+   "so",
+   "location",
+   "soccer",
+   "pie"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[t͡ɕʰuk̚k͈u]",
+  "verified": true
+ },
+ {
+  "id": "ko-01788",
+  "category": "korean",
+  "prompt": "「도둑」の意味は？",
+  "answer": "thief",
+  "glosses": {
+   "en": "thief",
+   "ja": "泥棒"
+  },
+  "choices": [
+   "basis",
+   "thief",
+   "satellite",
+   "mum"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[to̞duk̚]",
+  "verified": true
+ },
+ {
+  "id": "ko-01789",
+  "category": "korean",
+  "prompt": "「암호」の意味は？",
+  "answer": "code",
+  "glosses": {
+   "en": "code",
+   "ja": "暗号"
+  },
+  "choices": [
+   "fuel",
+   "goat",
+   "code",
+   "illegality"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈa̠(ː)mβo̞]",
+  "verified": true
+ },
+ {
+  "id": "ko-01790",
+  "category": "korean",
+  "prompt": "「가치」の意味は？",
+  "answer": "value",
+  "glosses": {
+   "en": "value",
+   "ja": "価値"
+  },
+  "choices": [
+   "truck",
+   "federation",
+   "detective",
+   "value"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ka̠t͡ɕʰi]",
+  "verified": true
+ },
+ {
+  "id": "ko-01791",
+  "category": "korean",
+  "prompt": "「시골」の意味は？",
+  "answer": "countryside",
+  "glosses": {
+   "en": "countryside",
+   "ja": "いなか"
+  },
+  "choices": [
+   "countryside",
+   "murder",
+   "basis",
+   "virus"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ɕʰiɡo̞ɭ]",
+  "verified": true
+ },
+ {
+  "id": "ko-01792",
+  "category": "korean",
+  "prompt": "「분석」の意味は？",
+  "answer": "analysis",
+  "glosses": {
+   "en": "analysis",
+   "ja": "分析"
+  },
+  "choices": [
+   "secretly",
+   "chicken",
+   "customer",
+   "analysis"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[punsʰʌ̹k̚]",
+  "verified": true
+ },
+ {
+  "id": "ko-01793",
+  "category": "korean",
+  "prompt": "「감염」の意味は？",
+  "answer": "infection",
+  "glosses": {
+   "en": "infection",
+   "ja": "感染"
+  },
+  "choices": [
+   "infection",
+   "prince",
+   "control",
+   "just"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈka̠(ː)mjʌ̹m]",
+  "verified": true
+ },
+ {
+  "id": "ko-01794",
+  "category": "korean",
+  "prompt": "「에너지」の意味は？",
+  "answer": "energy",
+  "glosses": {
+   "en": "energy",
+   "ja": "エネルギー"
+  },
+  "choices": [
+   "corridor",
+   "discovery",
+   "energy",
+   "east"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[e̞nʌ̹d͡ʑi]",
+  "verified": true
+ },
+ {
+  "id": "ko-01795",
+  "category": "korean",
+  "prompt": "「젊은이」の意味は？",
+  "answer": "youth",
+  "glosses": {
+   "en": "youth",
+   "ja": "若者"
+  },
+  "choices": [
+   "youth",
+   "hell",
+   "boss",
+   "use"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[t͡ɕʌ̹ɭmɯni]",
+  "verified": true
+ },
+ {
+  "id": "ko-01796",
+  "category": "korean",
+  "prompt": "「상상」の意味は？",
+  "answer": "imagination",
+  "glosses": {
+   "en": "imagination",
+   "ja": "想像"
+  },
+  "choices": [
+   "imagination",
+   "fun",
+   "leader",
+   "evil"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈsʰa̠(ː)ŋsʰa̠ŋ]",
+  "verified": true
+ },
+ {
+  "id": "ko-01797",
+  "category": "korean",
+  "prompt": "「리더」の意味は？",
+  "answer": "leader",
+  "glosses": {
+   "en": "leader",
+   "ja": "リーダー"
+  },
+  "choices": [
+   "automatic",
+   "leader",
+   "stew",
+   "anytime"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ɾidʌ̹]",
+  "verified": true
+ },
+ {
+  "id": "ko-01798",
+  "category": "korean",
+  "prompt": "「숫자」の意味は？",
+  "answer": "numeral",
+  "glosses": {
+   "en": "numeral",
+   "ja": "数字"
+  },
+  "choices": [
+   "high-class",
+   "safety",
+   "numeral",
+   "tower"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈsʰu(ː)t̚t͡ɕ͈a̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-01799",
+  "category": "korean",
+  "prompt": "「샤워」の意味は？",
+  "answer": "shower",
+  "glosses": {
+   "en": "shower",
+   "ja": "シャワー"
+  },
+  "choices": [
+   "drive",
+   "fun",
+   "shower",
+   "urgency"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ɕʰa̠wʌ̹]",
+  "verified": true
+ },
+ {
+  "id": "ko-01800",
+  "category": "korean",
+  "prompt": "「요정」の意味は？",
+  "answer": "fairy",
+  "glosses": {
+   "en": "fairy",
+   "ja": "妖精"
+  },
+  "choices": [
+   "gene",
+   "completion",
+   "fairy",
+   "roughly"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[jod͡ʑʌ̹ŋ]",
+  "verified": true
+ },
+ {
+  "id": "ko-01801",
+  "category": "korean",
+  "prompt": "「가죽」の意味は？",
+  "answer": "leather",
+  "glosses": {
+   "en": "leather",
+   "ja": "革"
+  },
+  "choices": [
+   "check",
+   "somehow",
+   "leather",
+   "heaven"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ka̠d͡ʑuk̚]",
+  "verified": true
+ },
+ {
+  "id": "ko-01802",
+  "category": "korean",
+  "prompt": "「지옥」の意味は？",
+  "answer": "hell",
+  "glosses": {
+   "en": "hell",
+   "ja": "地獄"
+  },
+  "choices": [
+   "regard as",
+   "end",
+   "training",
+   "hell"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[t͡ɕio̞k̚]",
+  "verified": true
+ },
+ {
+  "id": "ko-01803",
+  "category": "korean",
+  "prompt": "「신랑」の意味は？",
+  "answer": "groom",
+  "glosses": {
+   "en": "groom",
+   "ja": "花婿"
+  },
+  "choices": [
+   "groom",
+   "space",
+   "presenting",
+   "prohibition"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ɕʰiɭɭa̠ŋ]",
+  "verified": true
+ },
+ {
+  "id": "ko-01804",
+  "category": "korean",
+  "prompt": "「승리」の意味は？",
+  "answer": "victory",
+  "glosses": {
+   "en": "victory",
+   "ja": "勝利"
+  },
+  "choices": [
+   "absolutely",
+   "irritation",
+   "of course",
+   "victory"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[sʰɯŋni]",
+  "verified": true
+ },
+ {
+  "id": "ko-01805",
+  "category": "korean",
+  "prompt": "「펜」の意味は？",
+  "answer": "pen",
+  "glosses": {
+   "en": "pen",
+   "ja": "ペン"
+  },
+  "choices": [
+   "dust",
+   "protection",
+   "golf",
+   "pen"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[pʰe̞n]",
+  "verified": true
+ },
+ {
+  "id": "ko-01806",
+  "category": "korean",
+  "prompt": "「진실」の意味は？",
+  "answer": "the truth",
+  "glosses": {
+   "en": "the truth",
+   "ja": "真実"
+  },
+  "choices": [
+   "secret",
+   "the truth",
+   "toy",
+   "anytime"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[t͡ɕinɕʰiɭ]",
+  "verified": true
+ },
+ {
+  "id": "ko-01807",
+  "category": "korean",
+  "prompt": "「철저히」の意味は？",
+  "answer": "thoroughly",
+  "glosses": {
+   "en": "thoroughly",
+   "ja": "徹底的に"
+  },
+  "choices": [
+   "skull",
+   "genius",
+   "occurrence",
+   "thoroughly"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[t͡ɕʰʌ̹ʎt͡ɕ͈ʌ̹ʝi]",
+  "verified": true
+ },
+ {
+  "id": "ko-01808",
+  "category": "korean",
+  "prompt": "「겁쟁이」の意味は？",
+  "answer": "coward",
+  "glosses": {
+   "en": "coward",
+   "ja": "おくびょう者"
+  },
+  "choices": [
+   "north",
+   "willingly",
+   "model",
+   "coward"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[kʌ̹p̚t͡ɕ͈ɛŋi]",
+  "verified": true
+ },
+ {
+  "id": "ko-01809",
+  "category": "korean",
+  "prompt": "「복도」の意味は？",
+  "answer": "corridor",
+  "glosses": {
+   "en": "corridor",
+   "ja": "廊下"
+  },
+  "choices": [
+   "personnel",
+   "chest",
+   "sleep",
+   "corridor"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[po̞k̚t͈o̞]",
+  "verified": true
+ },
+ {
+  "id": "ko-01810",
+  "category": "korean",
+  "prompt": "「페이지」の意味は？",
+  "answer": "page",
+  "glosses": {
+   "en": "page",
+   "ja": "ページ"
+  },
+  "choices": [
+   "banana",
+   "surveillance",
+   "a week",
+   "page"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[pʰe̞id͡ʑi]",
+  "verified": true
+ },
+ {
+  "id": "ko-01811",
+  "category": "korean",
+  "prompt": "「인정」の意味は？",
+  "answer": "recognition",
+  "glosses": {
+   "en": "recognition",
+   "ja": "認定"
+  },
+  "choices": [
+   "very",
+   "recognition",
+   "vehicle",
+   "only"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[iɲd͡ʑʌ̹ŋ]",
+  "verified": true
+ },
+ {
+  "id": "ko-01812",
+  "category": "korean",
+  "prompt": "「화학」の意味は？",
+  "answer": "chemistry",
+  "glosses": {
+   "en": "chemistry",
+   "ja": "化学"
+  },
+  "choices": [
+   "murderer",
+   "effect",
+   "chemistry",
+   "nevertheless"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈɸwa̠(ː)ɦa̠k̚]",
+  "verified": true
+ },
+ {
+  "id": "ko-01813",
+  "category": "korean",
+  "prompt": "「애인」の意味は？",
+  "answer": "lover",
+  "glosses": {
+   "en": "lover",
+   "ja": "恋人"
+  },
+  "choices": [
+   "coward",
+   "lover",
+   "completion",
+   "merely"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈɛ(ː)in]",
+  "verified": true
+ },
+ {
+  "id": "ko-01814",
+  "category": "korean",
+  "prompt": "「범인」の意味は？",
+  "answer": "criminal",
+  "glosses": {
+   "en": "criminal",
+   "ja": "犯人"
+  },
+  "choices": [
+   "actually",
+   "criminal",
+   "French",
+   "mental"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈpɘ(ː)min]",
+  "verified": true
+ },
+ {
+  "id": "ko-01815",
+  "category": "korean",
+  "prompt": "「벨트」の意味は？",
+  "answer": "belt",
+  "glosses": {
+   "en": "belt",
+   "ja": "ベルト"
+  },
+  "choices": [
+   "analysis",
+   "next",
+   "belt",
+   "child"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[pe̞ɭtʰɯ]",
+  "verified": true
+ },
+ {
+  "id": "ko-01816",
+  "category": "korean",
+  "prompt": "「프로젝트」の意味は？",
+  "answer": "project",
+  "glosses": {
+   "en": "project",
+   "ja": "プロジェクト"
+  },
+  "choices": [
+   "surroundings",
+   "invitation",
+   "project",
+   "French"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[pʰɯɾo̞d͡ʑe̞k̚tʰɯ]",
+  "verified": true
+ },
+ {
+  "id": "ko-01817",
+  "category": "korean",
+  "prompt": "「구급차」の意味は？",
+  "answer": "ambulance",
+  "glosses": {
+   "en": "ambulance",
+   "ja": "救急車"
+  },
+  "choices": [
+   "ambulance",
+   "space",
+   "chicken",
+   "lighting"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈku(ː)ɡɯp̚t͡ɕʰa̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-01818",
+  "category": "korean",
+  "prompt": "「티켓」の意味は？",
+  "answer": "ticket",
+  "glosses": {
+   "en": "ticket",
+   "ja": "チケット"
+  },
+  "choices": [
+   "song",
+   "exterior",
+   "ticket",
+   "coat"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[tʰikʰe̞t̚]",
+  "verified": true
+ },
+ {
+  "id": "ko-01819",
+  "category": "korean",
+  "prompt": "「털」の意味は？",
+  "answer": "fur",
+  "glosses": {
+   "en": "fur",
+   "ja": "毛"
+  },
+  "choices": [
+   "chest",
+   "fur",
+   "success",
+   "escape"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[tʰʌ̹ɭ]",
+  "verified": true
+ },
+ {
+  "id": "ko-01820",
+  "category": "korean",
+  "prompt": "「출혈」の意味は？",
+  "answer": "bleeding",
+  "glosses": {
+   "en": "bleeding",
+   "ja": "出血"
+  },
+  "choices": [
+   "darkness",
+   "shower",
+   "bleeding",
+   "customer"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[t͡ɕʰuɾʝʌ̹ɭ]",
+  "verified": true
+ },
+ {
+  "id": "ko-01821",
+  "category": "korean",
+  "prompt": "「착륙」の意味は？",
+  "answer": "landing",
+  "glosses": {
+   "en": "landing",
+   "ja": "着陸"
+  },
+  "choices": [
+   "somehow",
+   "landing",
+   "gently",
+   "research"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[t͡ɕʰa̠ŋɲuk̚]",
+  "verified": true
+ },
+ {
+  "id": "ko-01822",
+  "category": "korean",
+  "prompt": "「핑크」の意味は？",
+  "answer": "pink",
+  "glosses": {
+   "en": "pink",
+   "ja": "ピンク"
+  },
+  "choices": [
+   "ambulance",
+   "pink",
+   "wheel",
+   "model"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[pʰiŋkxɯ]",
+  "verified": true
+ },
+ {
+  "id": "ko-01823",
+  "category": "korean",
+  "prompt": "「두개골」の意味は？",
+  "answer": "skull",
+  "glosses": {
+   "en": "skull",
+   "ja": "頭がい骨"
+  },
+  "choices": [
+   "album",
+   "paint",
+   "child",
+   "skull"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[tuɡɛɡo̞ɭ]",
+  "verified": true
+ },
+ {
+  "id": "ko-01824",
+  "category": "korean",
+  "prompt": "「정신적」の意味は？",
+  "answer": "mental",
+  "glosses": {
+   "en": "mental",
+   "ja": "精神的"
+  },
+  "choices": [
+   "wheel",
+   "condolence",
+   "mental",
+   "dress"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[t͡ɕʌ̹ŋɕʰiɲd͡ʑʌ̹k̚]",
+  "verified": true
+ },
+ {
+  "id": "ko-01825",
+  "category": "korean",
+  "prompt": "「부대」の意味は？",
+  "answer": "troop",
+  "glosses": {
+   "en": "troop",
+   "ja": "部隊"
+  },
+  "choices": [
+   "partner",
+   "equipment",
+   "mission",
+   "troop"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[pudɛ]",
+  "verified": true
+ },
+ {
+  "id": "ko-01826",
+  "category": "korean",
+  "prompt": "「자동」の意味は？",
+  "answer": "automatic",
+  "glosses": {
+   "en": "automatic",
+   "ja": "自動"
+  },
+  "choices": [
+   "man",
+   "automatic",
+   "warning",
+   "style"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[t͡ɕa̠do̞ŋ]",
+  "verified": true
+ },
+ {
+  "id": "ko-01827",
+  "category": "korean",
+  "prompt": "「귀신」の意味は？",
+  "answer": "ghost",
+  "glosses": {
+   "en": "ghost",
+   "ja": "幽霊"
+  },
+  "choices": [
+   "ghost",
+   "east",
+   "artificial",
+   "chain"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈkɥi(ː)ɕʰin]",
+  "verified": true
+ },
+ {
+  "id": "ko-01828",
+  "category": "korean",
+  "prompt": "「로켓」の意味は？",
+  "answer": "rocket",
+  "glosses": {
+   "en": "rocket",
+   "ja": "ロケット"
+  },
+  "choices": [
+   "green",
+   "darkness",
+   "rocket",
+   "favor"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ɾo̞kʰe̞t̚]",
+  "verified": true
+ },
+ {
+  "id": "ko-01829",
+  "category": "korean",
+  "prompt": "「포스터」の意味は？",
+  "answer": "poster",
+  "glosses": {
+   "en": "poster",
+   "ja": "ポスター"
+  },
+  "choices": [
+   "leather",
+   "poster",
+   "greeting",
+   "dance"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[pʰo̞sʰɯtʰʌ̹]",
+  "verified": true
+ },
+ {
+  "id": "ko-01830",
+  "category": "korean",
+  "prompt": "「천재」の意味は？",
+  "answer": "genius",
+  "glosses": {
+   "en": "genius",
+   "ja": "天才"
+  },
+  "choices": [
+   "genius",
+   "surroundings",
+   "moment",
+   "style"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[t͡ɕʰʌ̹ɲd͡ʑɛ]",
+  "verified": true
+ },
+ {
+  "id": "ko-01831",
+  "category": "korean",
+  "prompt": "「요가」の意味は？",
+  "answer": "yoga",
+  "glosses": {
+   "en": "yoga",
+   "ja": "ヨガ"
+  },
+  "choices": [
+   "automatic",
+   "certainly",
+   "yoga",
+   "video"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[joɡa̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-01832",
+  "category": "korean",
+  "prompt": "「의상」の意味は？",
+  "answer": "costume",
+  "glosses": {
+   "en": "costume",
+   "ja": "衣装"
+  },
+  "choices": [
+   "costume",
+   "favor",
+   "planet",
+   "production"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ɰisʰa̠ŋ]",
+  "verified": true
+ },
+ {
+  "id": "ko-01833",
+  "category": "korean",
+  "prompt": "「연료」の意味は？",
+  "answer": "fuel",
+  "glosses": {
+   "en": "fuel",
+   "ja": "燃料"
+  },
+  "choices": [
+   "fuel",
+   "page",
+   "rest",
+   "virus"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[jʌ̹ʎʎo]",
+  "verified": true
+ },
+ {
+  "id": "ko-01834",
+  "category": "korean",
+  "prompt": "「방사선」の意味は？",
+  "answer": "radiation",
+  "glosses": {
+   "en": "radiation",
+   "ja": "放射線"
+  },
+  "choices": [
+   "leather",
+   "truck",
+   "finally",
+   "radiation"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈpa̠(ː)ŋsʰa̠sʰʌ̹n]",
+  "verified": true
+ },
+ {
+  "id": "ko-01835",
+  "category": "korean",
+  "prompt": "「통과」の意味は？",
+  "answer": "passing",
+  "glosses": {
+   "en": "passing",
+   "ja": "通過"
+  },
+  "choices": [
+   "subtitle",
+   "life",
+   "criminal",
+   "passing"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[tʰo̞ŋɡwa̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-01836",
+  "category": "korean",
+  "prompt": "「생존」の意味は？",
+  "answer": "survival",
+  "glosses": {
+   "en": "survival",
+   "ja": "生存"
+  },
+  "choices": [
+   "survival",
+   "belt",
+   "humankind",
+   "drama"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[sʰɛŋd͡ʑo̞n]",
+  "verified": true
+ },
+ {
+  "id": "ko-01837",
+  "category": "korean",
+  "prompt": "「법적」の意味は？",
+  "answer": "legal",
+  "glosses": {
+   "en": "legal",
+   "ja": "法的"
+  },
+  "choices": [
+   "basis",
+   "urgency",
+   "video",
+   "legal"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[pʌ̹p̚t͡ɕ͈ʌ̹k̚]",
+  "verified": true
+ },
+ {
+  "id": "ko-01838",
+  "category": "korean",
+  "prompt": "「수색」の意味は？",
+  "answer": "search",
+  "glosses": {
+   "en": "search",
+   "ja": "捜索"
+  },
+  "choices": [
+   "completion",
+   "interview",
+   "chart",
+   "search"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[sʰusʰɛk̚]",
+  "verified": true
+ },
+ {
+  "id": "ko-01839",
+  "category": "korean",
+  "prompt": "「기밀」の意味は？",
+  "answer": "secret",
+  "glosses": {
+   "en": "secret",
+   "ja": "機密"
+  },
+  "choices": [
+   "west",
+   "stoppage",
+   "equipment",
+   "secret"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[kimiɭ]",
+  "verified": true
+ },
+ {
+  "id": "ko-01840",
+  "category": "korean",
+  "prompt": "「승인」の意味は？",
+  "answer": "approval",
+  "glosses": {
+   "en": "approval",
+   "ja": "承認"
+  },
+  "choices": [
+   "space",
+   "popularity",
+   "approval",
+   "north"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[sʰɯŋin]",
+  "verified": true
+ },
+ {
+  "id": "ko-01841",
+  "category": "korean",
+  "prompt": "「경보」の意味は？",
+  "answer": "alarm",
+  "glosses": {
+   "en": "alarm",
+   "ja": "警報"
+  },
+  "choices": [
+   "countryside",
+   "bullet",
+   "secretly",
+   "alarm"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈkjɘ(ː)ŋbo̞]",
+  "verified": true
+ },
+ {
+  "id": "ko-01842",
+  "category": "korean",
+  "prompt": "「장벽」の意味は？",
+  "answer": "barrier",
+  "glosses": {
+   "en": "barrier",
+   "ja": "障壁"
+  },
+  "choices": [
+   "cake",
+   "of course",
+   "barrier",
+   "truck"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[t͡ɕa̠ŋbjʌ̹k̚]",
+  "verified": true
+ },
+ {
+  "id": "ko-01843",
+  "category": "korean",
+  "prompt": "「차도」の意味は？",
+  "answer": "roadway",
+  "glosses": {
+   "en": "roadway",
+   "ja": "車道"
+  },
+  "choices": [
+   "orange",
+   "witch",
+   "chase",
+   "roadway"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[t͡ɕʰa̠do̞]",
+  "verified": true
+ },
+ {
+  "id": "ko-01844",
+  "category": "korean",
+  "prompt": "「조명」の意味は？",
+  "answer": "lighting",
+  "glosses": {
+   "en": "lighting",
+   "ja": "照明"
+  },
+  "choices": [
+   "discourtesy",
+   "detective",
+   "fatigue",
+   "lighting"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[t͡ɕo̞mjʌ̹ŋ]",
+  "verified": true
+ },
+ {
+  "id": "ko-01845",
+  "category": "korean",
+  "prompt": "「기저귀」の意味は？",
+  "answer": "diaper",
+  "glosses": {
+   "en": "diaper",
+   "ja": "おむつ"
+  },
+  "choices": [
+   "action",
+   "condolence",
+   "arrival",
+   "diaper"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[kid͡ʑʌ̹ɡɥi]",
+  "verified": true
+ },
+ {
+  "id": "ko-01846",
+  "category": "korean",
+  "prompt": "「드라이브」の意味は？",
+  "answer": "drive",
+  "glosses": {
+   "en": "drive",
+   "ja": "ドライブ"
+  },
+  "choices": [
+   "drive",
+   "table",
+   "soccer",
+   "code"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[tɯɾa̠ibɯ]",
+  "verified": true
+ },
+ {
+  "id": "ko-01847",
+  "category": "korean",
+  "prompt": "「시도」の意味は？",
+  "answer": "attempt",
+  "glosses": {
+   "en": "attempt",
+   "ja": "試み"
+  },
+  "choices": [
+   "subtitle",
+   "bullet",
+   "attempt",
+   "oxygen"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈɕʰi(ː)do̞]",
+  "verified": true
+ },
+ {
+  "id": "ko-01848",
+  "category": "korean",
+  "prompt": "「오로지」の意味は？",
+  "answer": "only",
+  "glosses": {
+   "en": "only",
+   "ja": "もっぱら"
+  },
+  "choices": [
+   "virus",
+   "genius",
+   "only",
+   "dare"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈo̞(ː)ɾo̞d͡ʑi]",
+  "verified": true
+ },
+ {
+  "id": "ko-01849",
+  "category": "korean",
+  "prompt": "「인공」の意味は？",
+  "answer": "artificial",
+  "glosses": {
+   "en": "artificial",
+   "ja": "人工"
+  },
+  "choices": [
+   "artificial",
+   "corridor",
+   "toy",
+   "lover"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[inɡo̞ŋ]",
+  "verified": true
+ },
+ {
+  "id": "ko-01850",
+  "category": "korean",
+  "prompt": "「비명」の意味は？",
+  "answer": "scream",
+  "glosses": {
+   "en": "scream",
+   "ja": "悲鳴"
+  },
+  "choices": [
+   "one day",
+   "presenting",
+   "scream",
+   "please"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈpi(ː)mjʌ̹ŋ]",
+  "verified": true
+ },
+ {
+  "id": "ko-01851",
+  "category": "korean",
+  "prompt": "「흉부」の意味は？",
+  "answer": "chest",
+  "glosses": {
+   "en": "chest",
+   "ja": "胸部"
+  },
+  "choices": [
+   "coward",
+   "golf",
+   "roadway",
+   "chest"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[çuŋbu]",
+  "verified": true
+ },
+ {
+  "id": "ko-01852",
+  "category": "korean",
+  "prompt": "「바나나」の意味は？",
+  "answer": "banana",
+  "glosses": {
+   "en": "banana",
+   "ja": "バナナ"
+  },
+  "choices": [
+   "sofa",
+   "passing",
+   "banana",
+   "scream"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[pa̠na̠na̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-01853",
+  "category": "korean",
+  "prompt": "「먼지」の意味は？",
+  "answer": "dust",
+  "glosses": {
+   "en": "dust",
+   "ja": "ほこり"
+  },
+  "choices": [
+   "dust",
+   "each",
+   "paint",
+   "dragon"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[mʌ̹ɲd͡ʑi]",
+  "verified": true
+ },
+ {
+  "id": "ko-01854",
+  "category": "korean",
+  "prompt": "「용」の意味は？",
+  "answer": "dragon",
+  "glosses": {
+   "en": "dragon",
+   "ja": "竜"
+  },
+  "choices": [
+   "actually",
+   "dragon",
+   "success",
+   "gun"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[joŋ]",
+  "verified": true
+ },
+ {
+  "id": "ko-01855",
+  "category": "korean",
+  "prompt": "「바이러스」の意味は？",
+  "answer": "virus",
+  "glosses": {
+   "en": "virus",
+   "ja": "ウイルス"
+  },
+  "choices": [
+   "virus",
+   "ambulance",
+   "box",
+   "safely"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[pa̠iɾʌ̹s͈ɯ]",
+  "verified": true
+ },
+ {
+  "id": "ko-01856",
+  "category": "korean",
+  "prompt": "「공간」の意味は？",
+  "answer": "space",
+  "glosses": {
+   "en": "space",
+   "ja": "空間"
+  },
+  "choices": [
+   "addition",
+   "of course",
+   "very",
+   "space"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ko̞ŋɡa̠n]",
+  "verified": true
+ },
+ {
+  "id": "ko-01857",
+  "category": "korean",
+  "prompt": "「어린이」の意味は？",
+  "answer": "child",
+  "glosses": {
+   "en": "child",
+   "ja": "子供"
+  },
+  "choices": [
+   "leader",
+   "bleeding",
+   "child",
+   "needle"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ʌ̹ɾini]",
+  "verified": true
+ },
+ {
+  "id": "ko-01858",
+  "category": "korean",
+  "prompt": "「모델」の意味は？",
+  "answer": "model",
+  "glosses": {
+   "en": "model",
+   "ja": "モデル"
+  },
+  "choices": [
+   "reference",
+   "toy",
+   "model",
+   "mental"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[mo̞de̞ɭ]",
+  "verified": true
+ },
+ {
+  "id": "ko-01859",
+  "category": "korean",
+  "prompt": "「타워」の意味は？",
+  "answer": "tower",
+  "glosses": {
+   "en": "tower",
+   "ja": "タワー"
+  },
+  "choices": [
+   "radiation",
+   "witch",
+   "tower",
+   "fuel"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[tʰa̠wʌ̹]",
+  "verified": true
+ },
+ {
+  "id": "ko-01860",
+  "category": "korean",
+  "prompt": "「왕자」の意味は？",
+  "answer": "prince",
+  "glosses": {
+   "en": "prince",
+   "ja": "王子"
+  },
+  "choices": [
+   "check",
+   "game",
+   "page",
+   "prince"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[wa̠ŋd͡ʑa̠]",
+  "verified": true
+ },
+ {
+  "id": "ko-01861",
+  "category": "korean",
+  "prompt": "「채널」の意味は？",
+  "answer": "channel",
+  "glosses": {
+   "en": "channel",
+   "ja": "チャンネル"
+  },
+  "choices": [
+   "everything",
+   "equipment",
+   "channel",
+   "scream"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[t͡ɕʰɛnʌ̹ɭ]",
+  "verified": true
+ },
+ {
+  "id": "ko-01862",
+  "category": "korean",
+  "prompt": "「챔피언」の意味は？",
+  "answer": "champion",
+  "glosses": {
+   "en": "champion",
+   "ja": "チャンピオン"
+  },
+  "choices": [
+   "mischief",
+   "length",
+   "champion",
+   "merely"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[t͡ɕʰɛmpʰiʌ̹n]",
+  "verified": true
+ },
+ {
+  "id": "ko-01863",
+  "category": "korean",
+  "prompt": "「레이저」の意味は？",
+  "answer": "laser",
+  "glosses": {
+   "en": "laser",
+   "ja": "レーザー"
+  },
+  "choices": [
+   "landing",
+   "magic",
+   "nonsense",
+   "laser"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ɾe̞id͡ʑʌ̹]",
+  "verified": true
+ },
+ {
+  "id": "ko-01864",
+  "category": "korean",
+  "prompt": "「칠면조」の意味は？",
+  "answer": "turkey",
+  "glosses": {
+   "en": "turkey",
+   "ja": "七面鳥"
+  },
+  "choices": [
+   "turkey",
+   "fully",
+   "orange",
+   "degree"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[t͡ɕʰiɭmjʌ̹ɲd͡ʑo̞]",
+  "verified": true
+ },
+ {
+  "id": "ko-01865",
+  "category": "korean",
+  "prompt": "「스타일」の意味は？",
+  "answer": "style",
+  "glosses": {
+   "en": "style",
+   "ja": "スタイル"
+  },
+  "choices": [
+   "rest",
+   "style",
+   "psychiatry",
+   "use"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[sʰɯtʰa̠iɭ]",
+  "verified": true
+ },
+ {
+  "id": "ko-01866",
+  "category": "korean",
+  "prompt": "「천국」の意味は？",
+  "answer": "heaven",
+  "glosses": {
+   "en": "heaven",
+   "ja": "天国"
+  },
+  "choices": [
+   "heaven",
+   "everything",
+   "song",
+   "nevertheless"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[t͡ɕʰʌ̹nɡuk̚]",
+  "verified": true
+ },
+ {
+  "id": "ko-01867",
+  "category": "korean",
+  "prompt": "「마녀」の意味は？",
+  "answer": "witch",
+  "glosses": {
+   "en": "witch",
+   "ja": "魔女"
+  },
+  "choices": [
+   "legal",
+   "pizza",
+   "somehow",
+   "witch"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ma̠ɲʌ̹]",
+  "verified": true
+ },
+ {
+  "id": "ko-01868",
+  "category": "korean",
+  "prompt": "「투어」の意味は？",
+  "answer": "tour",
+  "glosses": {
+   "en": "tour",
+   "ja": "ツアー"
+  },
+  "choices": [
+   "mental",
+   "candy",
+   "train",
+   "tour"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[tʰuʌ̹]",
+  "verified": true
+ },
+ {
+  "id": "ko-01869",
+  "category": "korean",
+  "prompt": "「금속」の意味は？",
+  "answer": "metal",
+  "glosses": {
+   "en": "metal",
+   "ja": "金属"
+  },
+  "choices": [
+   "fully",
+   "metal",
+   "breakdown",
+   "weapon"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[kɯmsʰo̞k̚]",
+  "verified": true
+ },
+ {
+  "id": "ko-01870",
+  "category": "korean",
+  "prompt": "「악당」の意味は？",
+  "answer": "villain",
+  "glosses": {
+   "en": "villain",
+   "ja": "悪者"
+  },
+  "choices": [
+   "storm",
+   "green",
+   "villain",
+   "abdomen"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[a̠k̚t͈a̠ŋ]",
+  "verified": true
+ },
+ {
+  "id": "ko-01871",
+  "category": "korean",
+  "prompt": "「페인트」の意味は？",
+  "answer": "paint",
+  "glosses": {
+   "en": "paint",
+   "ja": "ペンキ"
+  },
+  "choices": [
+   "suicide",
+   "arrival",
+   "paint",
+   "song"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[pʰe̞intʰɯ]",
+  "verified": true
+ },
+ {
+  "id": "ko-01872",
+  "category": "korean",
+  "prompt": "「휴식」の意味は？",
+  "answer": "rest",
+  "glosses": {
+   "en": "rest",
+   "ja": "休息"
+  },
+  "choices": [
+   "box",
+   "legal",
+   "voice",
+   "rest"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[çuɕʰik̚]",
+  "verified": true
+ },
+ {
+  "id": "ko-01873",
+  "category": "korean",
+  "prompt": "「성인」の意味は？",
+  "answer": "adult",
+  "glosses": {
+   "en": "adult",
+   "ja": "成人"
+  },
+  "choices": [
+   "cute",
+   "search",
+   "adult",
+   "victim"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[sʰʌ̹ŋin]",
+  "verified": true
+ },
+ {
+  "id": "ko-01874",
+  "category": "korean",
+  "prompt": "「소파」の意味は？",
+  "answer": "sofa",
+  "glosses": {
+   "en": "sofa",
+   "ja": "ソファー"
+  },
+  "choices": [
+   "sofa",
+   "so",
+   "interview",
+   "discovery"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[s͈o̞pʰa̠]",
+  "verified": true
  }
 ]
