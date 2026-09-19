@@ -1,5656 +1,5656 @@
 [
- {
-  "id": "mn-00519",
-  "category": "mongolian",
-  "prompt": "「унтах」の意味は？",
-  "answer": "to sleep",
-  "glosses": {
-   "en": "to sleep",
-   "ja": "眠る"
-  },
-  "choices": [
-   "chocolate",
-   "mosquito",
-   "to sleep",
-   "patch"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/ʊntʰax/",
-  "verified": true
- },
- {
-  "id": "mn-00520",
-  "category": "mongolian",
-  "prompt": "「яндан」の意味は？",
-  "answer": "chimney",
-  "glosses": {
-   "en": "chimney",
-   "ja": "煙突"
-  },
-  "choices": [
-   "text",
-   "pillar",
-   "taste",
-   "chimney"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/ˈjantaŋ/",
-  "verified": true
- },
- {
-  "id": "mn-00521",
-  "category": "mongolian",
-  "prompt": "「үнээ」の意味は？",
-  "answer": "cow",
-  "glosses": {
-   "en": "cow",
-   "ja": "雌牛"
-  },
-  "choices": [
-   "cabbage",
-   "helmet",
-   "calf",
-   "cow"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/une/",
-  "verified": true
- },
- {
-  "id": "mn-00522",
-  "category": "mongolian",
-  "prompt": "「овог」の意味は？",
-  "answer": "surname",
-  "glosses": {
-   "en": "surname",
-   "ja": "姓"
-  },
-  "choices": [
-   "coin",
-   "apple",
-   "surname",
-   "nest"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/ˈɔwɔɡ/",
-  "verified": true
- },
- {
-  "id": "mn-00523",
-  "category": "mongolian",
-  "prompt": "「оффис」の意味は？",
-  "answer": "office",
-  "glosses": {
-   "en": "office",
-   "ja": "事務所"
-  },
-  "choices": [
-   "front",
-   "poplar",
-   "office",
-   "paint"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/ˈɔfis/",
-  "verified": true
- },
- {
-  "id": "mn-00524",
-  "category": "mongolian",
-  "prompt": "「уут」の意味は？",
-  "answer": "bag",
-  "glosses": {
-   "en": "bag",
-   "ja": "袋"
-  },
-  "choices": [
-   "bag",
-   "hail",
-   "shell",
-   "to vomit"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "",
-  "verified": true
- },
- {
-  "id": "mn-00525",
-  "category": "mongolian",
-  "prompt": "「хэвтэх」の意味は？",
-  "answer": "to lie down",
-  "glosses": {
-   "en": "to lie down",
-   "ja": "横たわる"
-  },
-  "choices": [
-   "to lie down",
-   "walking stick",
-   "ankle",
-   "grave"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "",
-  "verified": true
- },
- {
-  "id": "mn-00526",
-  "category": "mongolian",
-  "prompt": "「багана」の意味は？",
-  "answer": "pillar",
-  "glosses": {
-   "en": "pillar",
-   "ja": "柱"
-  },
-  "choices": [
-   "to freeze",
-   "pillar",
-   "to be surprised",
-   "cow"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/paɢan/",
-  "verified": true
- },
- {
-  "id": "mn-00527",
-  "category": "mongolian",
-  "prompt": "「хад」の意味は？",
-  "answer": "rock",
-  "glosses": {
-   "en": "rock",
-   "ja": "岩"
-  },
-  "choices": [
-   "to dry",
-   "rock",
-   "bribe",
-   "to cry"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/xat/",
-  "verified": true
- },
- {
-  "id": "mn-00528",
-  "category": "mongolian",
-  "prompt": "「эвэр」の意味は？",
-  "answer": "horn",
-  "glosses": {
-   "en": "horn",
-   "ja": "ツノ"
-  },
-  "choices": [
-   "evening",
-   "poet",
-   "to invite",
-   "horn"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "[e̝.w̜ɘ̆r]",
-  "verified": true
- },
- {
-  "id": "mn-00529",
-  "category": "mongolian",
-  "prompt": "「үүр」の意味は？",
-  "answer": "nest",
-  "glosses": {
-   "en": "nest",
-   "ja": "巣"
-  },
-  "choices": [
-   "shadow",
-   "pillow",
-   "nest",
-   "bold"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "",
-  "verified": true
- },
- {
-  "id": "mn-00530",
-  "category": "mongolian",
-  "prompt": "「ихэр」の意味は？",
-  "answer": "twin",
-  "glosses": {
-   "en": "twin",
-   "ja": "双子"
-  },
-  "choices": [
-   "shadow",
-   "cook",
-   "twin",
-   "volume"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/ixər/",
-  "verified": true
- },
- {
-  "id": "mn-00531",
-  "category": "mongolian",
-  "prompt": "「зоримог」の意味は？",
-  "answer": "bold",
-  "glosses": {
-   "en": "bold",
-   "ja": "大胆な"
-  },
-  "choices": [
-   "to suffice",
-   "wound",
-   "sewing",
-   "bold"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/t͡sɔrʲəməɡ/",
-  "verified": true
- },
- {
-  "id": "mn-00532",
-  "category": "mongolian",
-  "prompt": "「удирдамж」の意味は？",
-  "answer": "guideline",
-  "glosses": {
-   "en": "guideline",
-   "ja": "指針"
-  },
-  "choices": [
-   "commander",
-   "pillar",
-   "guideline",
-   "clumsy"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/ˈʊtirtamt͡ɕ/",
-  "verified": true
- },
- {
-  "id": "mn-00533",
-  "category": "mongolian",
-  "prompt": "「сүрэг」の意味は？",
-  "answer": "herd",
-  "glosses": {
-   "en": "herd",
-   "ja": "群れ"
-  },
-  "choices": [
-   "nest",
-   "herd",
-   "insect",
-   "prayer"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/surəɡ/",
-  "verified": true
- },
- {
-  "id": "mn-00534",
-  "category": "mongolian",
-  "prompt": "「зоос」の意味は？",
-  "answer": "coin",
-  "glosses": {
-   "en": "coin",
-   "ja": "硬貨"
-  },
-  "choices": [
-   "communism",
-   "coin",
-   "oxygen",
-   "neck"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/tsɔːs/",
-  "verified": true
- },
- {
-  "id": "mn-00535",
-  "category": "mongolian",
-  "prompt": "「шөл」の意味は？",
-  "answer": "soup",
-  "glosses": {
-   "en": "soup",
-   "ja": "スープ"
-  },
-  "choices": [
-   "soup",
-   "chimney",
-   "compassion",
-   "tattoo"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "",
-  "verified": true
- },
- {
-  "id": "mn-00536",
-  "category": "mongolian",
-  "prompt": "「туяа」の意味は？",
-  "answer": "ray",
-  "glosses": {
-   "en": "ray",
-   "ja": "光線"
-  },
-  "choices": [
-   "axis",
-   "ray",
-   "poplar",
-   "winner"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "",
-  "verified": true
- },
- {
-  "id": "mn-00537",
-  "category": "mongolian",
-  "prompt": "「жор」の意味は？",
-  "answer": "recipe",
-  "glosses": {
-   "en": "recipe",
-   "ja": "レシピ"
-  },
-  "choices": [
-   "recipe",
-   "dictator",
-   "to cross",
-   "nerve"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/t͡ɕɔr/",
-  "verified": true
- },
- {
-  "id": "mn-00538",
-  "category": "mongolian",
-  "prompt": "「эргэлзэх」の意味は？",
-  "answer": "to hesitate",
-  "glosses": {
-   "en": "to hesitate",
-   "ja": "ためらう"
-  },
-  "choices": [
-   "to hesitate",
-   "towel",
-   "ash",
-   "vinegar"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "",
-  "verified": true
- },
- {
-  "id": "mn-00539",
-  "category": "mongolian",
-  "prompt": "「дусал」の意味は？",
-  "answer": "drop",
-  "glosses": {
-   "en": "drop",
-   "ja": "しずく"
-  },
-  "choices": [
-   "drop",
-   "bag",
-   "cuckoo",
-   "ankle"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "",
-  "verified": true
- },
- {
-  "id": "mn-00540",
-  "category": "mongolian",
-  "prompt": "「тахиа」の意味は？",
-  "answer": "chicken",
-  "glosses": {
-   "en": "chicken",
-   "ja": "鶏"
-  },
-  "choices": [
-   "battle",
-   "chicken",
-   "to be surprised",
-   "archer"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/ˈtʰaxi̯aː/",
-  "verified": true
- },
- {
-  "id": "mn-00541",
-  "category": "mongolian",
-  "prompt": "「үнс」の意味は？",
-  "answer": "ash",
-  "glosses": {
-   "en": "ash",
-   "ja": "灰"
-  },
-  "choices": [
-   "covering",
-   "refrigerator",
-   "ash",
-   "beggar"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/uns/",
-  "verified": true
- },
- {
-  "id": "mn-00542",
-  "category": "mongolian",
-  "prompt": "「урих」の意味は？",
-  "answer": "to invite",
-  "glosses": {
-   "en": "to invite",
-   "ja": "招待する"
-  },
-  "choices": [
-   "paradise",
-   "to invite",
-   "cow",
-   "low"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "",
-  "verified": true
- },
- {
-  "id": "mn-00543",
-  "category": "mongolian",
-  "prompt": "「намтар」の意味は？",
-  "answer": "biography",
-  "glosses": {
-   "en": "biography",
-   "ja": "伝記"
-  },
-  "choices": [
-   "front",
-   "pilot",
-   "biography",
-   "pocket"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/namtʰər/",
-  "verified": true
- },
- {
-  "id": "mn-00544",
-  "category": "mongolian",
-  "prompt": "「шавар」の意味は？",
-  "answer": "mud",
-  "glosses": {
-   "en": "mud",
-   "ja": "泥"
-  },
-  "choices": [
-   "mud",
-   "curtain",
-   "cuckoo",
-   "pill"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/ʃawər/",
-  "verified": true
- },
- {
-  "id": "mn-00545",
-  "category": "mongolian",
-  "prompt": "「хахууль」の意味は？",
-  "answer": "bribe",
-  "glosses": {
-   "en": "bribe",
-   "ja": "わいろ"
-  },
-  "choices": [
-   "devil",
-   "miner",
-   "to drag",
-   "bribe"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/xaxʊɮʲ/",
-  "verified": true
- },
- {
-  "id": "mn-00546",
-  "category": "mongolian",
-  "prompt": "「сүнс」の意味は？",
-  "answer": "soul",
-  "glosses": {
-   "en": "soul",
-   "ja": "魂"
-  },
-  "choices": [
-   "poplar",
-   "photographer",
-   "soul",
-   "announcement"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/suns/",
-  "verified": true
- },
- {
-  "id": "mn-00547",
-  "category": "mongolian",
-  "prompt": "「орчуулга」の意味は？",
-  "answer": "translation",
-  "glosses": {
-   "en": "translation",
-   "ja": "翻訳"
-  },
-  "choices": [
-   "patience",
-   "translation",
-   "compassion",
-   "tent"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/ˈɔr̥t͡ɕʰʊːɮk/",
-  "verified": true
- },
- {
-  "id": "mn-00548",
-  "category": "mongolian",
-  "prompt": "「гайхамшиг」の意味は？",
-  "answer": "miracle",
-  "glosses": {
-   "en": "miracle",
-   "ja": "奇跡"
-  },
-  "choices": [
-   "miracle",
-   "to recharge",
-   "engine",
-   "walking stick"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/ɢaixamʃiɡ/",
-  "verified": true
- },
- {
-  "id": "mn-00549",
-  "category": "mongolian",
-  "prompt": "「дуулга」の意味は？",
-  "answer": "helmet",
-  "glosses": {
-   "en": "helmet",
-   "ja": "ヘルメット"
-  },
-  "choices": [
-   "helmet",
-   "astrology",
-   "branch",
-   "thunder"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/ˈduɮɢa/",
-  "verified": true
- },
- {
-  "id": "mn-00550",
-  "category": "mongolian",
-  "prompt": "「хөрөг」の意味は？",
-  "answer": "portrait",
-  "glosses": {
-   "en": "portrait",
-   "ja": "肖像画"
-  },
-  "choices": [
-   "portrait",
-   "dictator",
-   "chocolate",
-   "to chase away"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "",
-  "verified": true
- },
- {
-  "id": "mn-00551",
-  "category": "mongolian",
-  "prompt": "「зурагчин」の意味は？",
-  "answer": "photographer",
-  "glosses": {
-   "en": "photographer",
-   "ja": "写真家"
-  },
-  "choices": [
-   "kidney",
-   "wave",
-   "massage",
-   "photographer"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/t͜sʊrx̠t͜ɕʰəŋ/",
-  "verified": true
- },
- {
-  "id": "mn-00552",
-  "category": "mongolian",
-  "prompt": "「амт」の意味は？",
-  "answer": "taste",
-  "glosses": {
-   "en": "taste",
-   "ja": "味"
-  },
-  "choices": [
-   "cabbage",
-   "goose",
-   "taste",
-   "supermarket"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "",
-  "verified": true
- },
- {
-  "id": "mn-00553",
-  "category": "mongolian",
-  "prompt": "「академи」の意味は？",
-  "answer": "academy",
-  "glosses": {
-   "en": "academy",
-   "ja": "アカデミー"
-  },
-  "choices": [
-   "to dry",
-   "roof",
-   "Tuesday",
-   "academy"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "[äkʰ.teˑm]",
-  "verified": true
- },
- {
-  "id": "mn-00554",
-  "category": "mongolian",
-  "prompt": "「цуу」の意味は？",
-  "answer": "vinegar",
-  "glosses": {
-   "en": "vinegar",
-   "ja": "酢"
-  },
-  "choices": [
-   "vinegar",
-   "pillow",
-   "walking stick",
-   "grasshopper"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "[ˈt͡sʰʊː]",
-  "verified": true
- },
- {
-  "id": "mn-00555",
-  "category": "mongolian",
-  "prompt": "「тэвчээр」の意味は？",
-  "answer": "patience",
-  "glosses": {
-   "en": "patience",
-   "ja": "忍耐"
-  },
-  "choices": [
-   "fighter",
-   "surname",
-   "branch",
-   "patience"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/ˈtʰew̜t͡ɕʰeːr̥/",
-  "verified": true
- },
- {
-  "id": "mn-00556",
-  "category": "mongolian",
-  "prompt": "「мэдрэл」の意味は？",
-  "answer": "nerve",
-  "glosses": {
-   "en": "nerve",
-   "ja": "神経"
-  },
-  "choices": [
-   "to set",
-   "nerve",
-   "fox",
-   "sea"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "",
-  "verified": true
- },
- {
-  "id": "mn-00557",
-  "category": "mongolian",
-  "prompt": "「ялагдал」の意味は？",
-  "answer": "defeat",
-  "glosses": {
-   "en": "defeat",
-   "ja": "敗北"
-  },
-  "choices": [
-   "to sleep",
-   "miracle",
-   "defeat",
-   "spoon"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "",
-  "verified": true
- },
- {
-  "id": "mn-00558",
-  "category": "mongolian",
-  "prompt": "「ялагч」の意味は？",
-  "answer": "winner",
-  "glosses": {
-   "en": "winner",
-   "ja": "勝利者"
-  },
-  "choices": [
-   "winner",
-   "nickname",
-   "gender",
-   "front"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "",
-  "verified": true
- },
- {
-  "id": "mn-00559",
-  "category": "mongolian",
-  "prompt": "「дарангуйлал」の意味は？",
-  "answer": "dictatorship",
-  "glosses": {
-   "en": "dictatorship",
-   "ja": "独裁政治"
-  },
-  "choices": [
-   "scissors",
-   "commander",
-   "dictatorship",
-   "Tuesday"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "",
-  "verified": true
- },
- {
-  "id": "mn-00560",
-  "category": "mongolian",
-  "prompt": "「мөнхөд」の意味は？",
-  "answer": "forever",
-  "glosses": {
-   "en": "forever",
-   "ja": "永久に"
-  },
-  "choices": [
-   "pill",
-   "stir-fry",
-   "ash",
-   "forever"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "",
-  "verified": true
- },
- {
-  "id": "mn-00561",
-  "category": "mongolian",
-  "prompt": "「ачих」の意味は？",
-  "answer": "to load",
-  "glosses": {
-   "en": "to load",
-   "ja": "積む"
-  },
-  "choices": [
-   "to load",
-   "stick",
-   "calm",
-   "prayer"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/ˈat͡ɕʰix/",
-  "verified": true
- },
- {
-  "id": "mn-00562",
-  "category": "mongolian",
-  "prompt": "「социализм」の意味は？",
-  "answer": "socialism",
-  "glosses": {
-   "en": "socialism",
-   "ja": "社会主義"
-  },
-  "choices": [
-   "fighter",
-   "socialism",
-   "insult",
-   "prisoner"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/ˈsɔt͡sʰi̯aːɮit͡sm/",
-  "verified": true
- },
- {
-  "id": "mn-00563",
-  "category": "mongolian",
-  "prompt": "「өмд」の意味は？",
-  "answer": "trousers",
-  "glosses": {
-   "en": "trousers",
-   "ja": "ズボン"
-  },
-  "choices": [
-   "tame",
-   "dictatorship",
-   "patience",
-   "trousers"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/ˈɵmt/",
-  "verified": true
- },
- {
-  "id": "mn-00564",
-  "category": "mongolian",
-  "prompt": "「мягмар」の意味は？",
-  "answer": "Tuesday",
-  "glosses": {
-   "en": "Tuesday",
-   "ja": "火曜日"
-  },
-  "choices": [
-   "Tuesday",
-   "axis",
-   "guideline",
-   "sewing"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/miɡ.mə̠r/",
-  "verified": true
- },
- {
-  "id": "mn-00565",
-  "category": "mongolian",
-  "prompt": "「шарх」の意味は？",
-  "answer": "wound",
-  "glosses": {
-   "en": "wound",
-   "ja": "傷"
-  },
-  "choices": [
-   "delay",
-   "sewing",
-   "castle",
-   "wound"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "",
-  "verified": true
- },
- {
-  "id": "mn-00566",
-  "category": "mongolian",
-  "prompt": "「сэхээтэн」の意味は？",
-  "answer": "intellectual",
-  "glosses": {
-   "en": "intellectual",
-   "ja": "知識人"
-  },
-  "choices": [
-   "intellectual",
-   "dancer",
-   "asphalt",
-   "lack"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "",
-  "verified": true
- },
- {
-  "id": "mn-00567",
-  "category": "mongolian",
-  "prompt": "「мэндчилгээ」の意味は？",
-  "answer": "greeting",
-  "glosses": {
-   "en": "greeting",
-   "ja": "あいさつ"
-  },
-  "choices": [
-   "greeting",
-   "murder",
-   "carpet",
-   "paint"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/ˈmintt͡ʃʰiɮɡeː/",
-  "verified": true
- },
- {
-  "id": "mn-00568",
-  "category": "mongolian",
-  "prompt": "「тогооч」の意味は？",
-  "answer": "cook",
-  "glosses": {
-   "en": "cook",
-   "ja": "料理人"
-  },
-  "choices": [
-   "dried dung",
-   "chocolate",
-   "cook",
-   "to be surprised"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/tʰɔɢɔːt͡ʃʰ/",
-  "verified": true
- },
- {
-  "id": "mn-00569",
-  "category": "mongolian",
-  "prompt": "「вагон」の意味は？",
-  "answer": "train car",
-  "glosses": {
-   "en": "train car",
-   "ja": "客車"
-  },
-  "choices": [
-   "pillar",
-   "goose",
-   "winner",
-   "train car"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "[w̜ä.ɢɔˑɴ̟]",
-  "verified": true
- },
- {
-  "id": "mn-00570",
-  "category": "mongolian",
-  "prompt": "「цох」の意味は？",
-  "answer": "beetle",
-  "glosses": {
-   "en": "beetle",
-   "ja": "甲虫"
-  },
-  "choices": [
-   "beetle",
-   "to kiss",
-   "translation",
-   "murder"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/tsʰɔx/",
-  "verified": true
- },
- {
-  "id": "mn-00571",
-  "category": "mongolian",
-  "prompt": "「галуу」の意味は？",
-  "answer": "goose",
-  "glosses": {
-   "en": "goose",
-   "ja": "ガチョウ"
-  },
-  "choices": [
-   "sleeve",
-   "goose",
-   "calm",
-   "to liken"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/ɢa.ɮʊː/",
-  "verified": true
- },
- {
-  "id": "mn-00572",
-  "category": "mongolian",
-  "prompt": "「шавьж」の意味は？",
-  "answer": "insect",
-  "glosses": {
-   "en": "insect",
-   "ja": "昆虫"
-  },
-  "choices": [
-   "musician",
-   "leadership",
-   "insect",
-   "treasure"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "",
-  "verified": true
- },
- {
-  "id": "mn-00573",
-  "category": "mongolian",
-  "prompt": "「түрэмгий」の意味は？",
-  "answer": "aggressive",
-  "glosses": {
-   "en": "aggressive",
-   "ja": "攻撃的な"
-  },
-  "choices": [
-   "rib",
-   "hunter",
-   "trousers",
-   "aggressive"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "",
-  "verified": true
- },
- {
-  "id": "mn-00574",
-  "category": "mongolian",
-  "prompt": "「текст」の意味は？",
-  "answer": "text",
-  "glosses": {
-   "en": "text",
-   "ja": "文章"
-  },
-  "choices": [
-   "text",
-   "wing",
-   "cowardly",
-   "bribe"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/ˈtʰʲɵkʰstʰ/",
-  "verified": true
- },
- {
-  "id": "mn-00575",
-  "category": "mongolian",
-  "prompt": "「коммунизм」の意味は？",
-  "answer": "communism",
-  "glosses": {
-   "en": "communism",
-   "ja": "共産主義"
-  },
-  "choices": [
-   "delay",
-   "communism",
-   "snack",
-   "plate"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/kʰɔ.mʊ.niˑ.t͜sʊm/",
-  "verified": true
- },
- {
-  "id": "mn-00576",
-  "category": "mongolian",
-  "prompt": "「дэр」の意味は？",
-  "answer": "pillow",
-  "glosses": {
-   "en": "pillow",
-   "ja": "枕"
-  },
-  "choices": [
-   "bribe",
-   "worm",
-   "washing",
-   "pillow"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "",
-  "verified": true
- },
- {
-  "id": "mn-00577",
-  "category": "mongolian",
-  "prompt": "「хун」の意味は？",
-  "answer": "swan",
-  "glosses": {
-   "en": "swan",
-   "ja": "ハクチョウ"
-  },
-  "choices": [
-   "to set",
-   "engine",
-   "swan",
-   "branch"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/xʊn/",
-  "verified": true
- },
- {
-  "id": "mn-00578",
-  "category": "mongolian",
-  "prompt": "「элс」の意味は？",
-  "answer": "sand",
-  "glosses": {
-   "en": "sand",
-   "ja": "砂"
-  },
-  "choices": [
-   "hunter",
-   "office",
-   "academy",
-   "sand"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "",
-  "verified": true
- },
- {
-  "id": "mn-00579",
-  "category": "mongolian",
-  "prompt": "「хурга」の意味は？",
-  "answer": "lamb",
-  "glosses": {
-   "en": "lamb",
-   "ja": "子羊"
-  },
-  "choices": [
-   "salesperson",
-   "recipe",
-   "roof",
-   "lamb"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/xʊrəɢ/",
-  "verified": true
- },
- {
-  "id": "mn-00580",
-  "category": "mongolian",
-  "prompt": "「хүзүү」の意味は？",
-  "answer": "neck",
-  "glosses": {
-   "en": "neck",
-   "ja": "首"
-  },
-  "choices": [
-   "to kiss",
-   "curtain",
-   "felt",
-   "neck"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/xut͡su/",
-  "verified": true
- },
- {
-  "id": "mn-00581",
-  "category": "mongolian",
-  "prompt": "「бөөр」の意味は？",
-  "answer": "kidney",
-  "glosses": {
-   "en": "kidney",
-   "ja": "腎臓"
-  },
-  "choices": [
-   "compliment",
-   "servant",
-   "kidney",
-   "miracle"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/poːr/",
-  "verified": true
- },
- {
-  "id": "mn-00582",
-  "category": "mongolian",
-  "prompt": "「зүү」の意味は？",
-  "answer": "needle",
-  "glosses": {
-   "en": "needle",
-   "ja": "針"
-  },
-  "choices": [
-   "axis",
-   "needle",
-   "compliment",
-   "patience"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/t͡suː/",
-  "verified": true
- },
- {
-  "id": "mn-00583",
-  "category": "mongolian",
-  "prompt": "「хутга」の意味は？",
-  "answer": "knife",
-  "glosses": {
-   "en": "knife",
-   "ja": "ナイフ"
-  },
-  "choices": [
-   "knife",
-   "shell",
-   "to breathe",
-   "to recharge"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/xʊtʰəɢ/",
-  "verified": true
- },
- {
-  "id": "mn-00584",
-  "category": "mongolian",
-  "prompt": "「тохой」の意味は？",
-  "answer": "elbow",
-  "glosses": {
-   "en": "elbow",
-   "ja": "ひじ"
-  },
-  "choices": [
-   "birth",
-   "beetle",
-   "cosmos",
-   "elbow"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "",
-  "verified": true
- },
- {
-  "id": "mn-00585",
-  "category": "mongolian",
-  "prompt": "「тэмцэгч」の意味は？",
-  "answer": "fighter",
-  "glosses": {
-   "en": "fighter",
-   "ja": "闘士"
-  },
-  "choices": [
-   "wound",
-   "fighter",
-   "sewing",
-   "mud"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/tʰemˈt͡sʰeɡt͡ʃʰ/",
-  "verified": true
- },
- {
-  "id": "mn-00586",
-  "category": "mongolian",
-  "prompt": "「эмээл」の意味は？",
-  "answer": "saddle",
-  "glosses": {
-   "en": "saddle",
-   "ja": "鞍"
-  },
-  "choices": [
-   "to cut",
-   "saddle",
-   "suspicion",
-   "pill"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/iˈmeːɮ/",
-  "verified": true
- },
- {
-  "id": "mn-00587",
-  "category": "mongolian",
-  "prompt": "「дэлгэх」の意味は？",
-  "answer": "to spread out",
-  "glosses": {
-   "en": "to spread out",
-   "ja": "広げる"
-  },
-  "choices": [
-   "to spread out",
-   "blind",
-   "chicken",
-   "monster"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "",
-  "verified": true
- },
- {
-  "id": "mn-00588",
-  "category": "mongolian",
-  "prompt": "「булш」の意味は？",
-  "answer": "grave",
-  "glosses": {
-   "en": "grave",
-   "ja": "墓"
-  },
-  "choices": [
-   "cloth",
-   "to chase away",
-   "grave",
-   "spoon"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "",
-  "verified": true
- },
- {
-  "id": "mn-00589",
-  "category": "mongolian",
-  "prompt": "「огцрох」の意味は？",
-  "answer": "to resign",
-  "glosses": {
-   "en": "to resign",
-   "ja": "辞任する"
-  },
-  "choices": [
-   "to resign",
-   "to catch up",
-   "paint",
-   "shadow"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "",
-  "verified": true
- },
- {
-  "id": "mn-00590",
-  "category": "mongolian",
-  "prompt": "「ханцуй」の意味は？",
-  "answer": "sleeve",
-  "glosses": {
-   "en": "sleeve",
-   "ja": "袖"
-  },
-  "choices": [
-   "compassion",
-   "to swim",
-   "sleeve",
-   "suspicion"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "",
-  "verified": true
- },
- {
-  "id": "mn-00591",
-  "category": "mongolian",
-  "prompt": "「хөдөлгүүр」の意味は？",
-  "answer": "engine",
-  "glosses": {
-   "en": "engine",
-   "ja": "エンジン"
-  },
-  "choices": [
-   "joke",
-   "to argue",
-   "engine",
-   "prayer"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "",
-  "verified": true
- },
- {
-  "id": "mn-00592",
-  "category": "mongolian",
-  "prompt": "「намхан」の意味は？",
-  "answer": "low",
-  "glosses": {
-   "en": "low",
-   "ja": "低い"
-  },
-  "choices": [
-   "to hesitate",
-   "low",
-   "volume",
-   "swan"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "",
-  "verified": true
- },
- {
-  "id": "mn-00593",
-  "category": "mongolian",
-  "prompt": "「сансар」の意味は？",
-  "answer": "cosmos",
-  "glosses": {
-   "en": "cosmos",
-   "ja": "宇宙"
-  },
-  "choices": [
-   "cosmos",
-   "to hit",
-   "nerve",
-   "transformer"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/sansər/",
-  "verified": true
- },
- {
-  "id": "mn-00594",
-  "category": "mongolian",
-  "prompt": "「шатар」の意味は？",
-  "answer": "chess",
-  "glosses": {
-   "en": "chess",
-   "ja": "チェス"
-  },
-  "choices": [
-   "chess",
-   "intellectual",
-   "murder",
-   "to freeze"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/ʃatʰər/",
-  "verified": true
- },
- {
-  "id": "mn-00595",
-  "category": "mongolian",
-  "prompt": "「онигоо」の意味は？",
-  "answer": "joke",
-  "glosses": {
-   "en": "joke",
-   "ja": "冗談"
-  },
-  "choices": [
-   "joke",
-   "sleeve",
-   "commander",
-   "miner"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/ˈɔniɣoː/",
-  "verified": true
- },
- {
-  "id": "mn-00596",
-  "category": "mongolian",
-  "prompt": "「сүүдэр」の意味は？",
-  "answer": "shadow",
-  "glosses": {
-   "en": "shadow",
-   "ja": "影"
-  },
-  "choices": [
-   "beetle",
-   "shadow",
-   "soup",
-   "to sleep"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/suːtər/",
-  "verified": true
- },
- {
-  "id": "mn-00597",
-  "category": "mongolian",
-  "prompt": "「хөөх」の意味は？",
-  "answer": "to chase away",
-  "glosses": {
-   "en": "to chase away",
-   "ja": "追い払う"
-  },
-  "choices": [
-   "saliva",
-   "to chase away",
-   "mud",
-   "rocket"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "",
-  "verified": true
- },
- {
-  "id": "mn-00598",
-  "category": "mongolian",
-  "prompt": "「сэжиг」の意味は？",
-  "answer": "suspicion",
-  "glosses": {
-   "en": "suspicion",
-   "ja": "疑惑"
-  },
-  "choices": [
-   "to forget",
-   "suspicion",
-   "lime",
-   "tame"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/sit͡ɕəɡ/",
-  "verified": true
- },
- {
-  "id": "mn-00599",
-  "category": "mongolian",
-  "prompt": "「ахих」の意味は？",
-  "answer": "to advance",
-  "glosses": {
-   "en": "to advance",
-   "ja": "前進する"
-  },
-  "choices": [
-   "vinegar",
-   "to advance",
-   "to kiss",
-   "to vomit"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "",
-  "verified": true
- },
- {
-  "id": "mn-00600",
-  "category": "mongolian",
-  "prompt": "「сохор」の意味は？",
-  "answer": "blind",
-  "glosses": {
-   "en": "blind",
-   "ja": "目の見えない"
-  },
-  "choices": [
-   "announcement",
-   "castle",
-   "blind",
-   "continent"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "",
-  "verified": true
- },
- {
-  "id": "mn-00601",
-  "category": "mongolian",
-  "prompt": "「тив」の意味は？",
-  "answer": "continent",
-  "glosses": {
-   "en": "continent",
-   "ja": "大陸"
-  },
-  "choices": [
-   "cook",
-   "to deceive",
-   "saddle",
-   "continent"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/ˈtʰiw̜/",
-  "verified": true
- },
- {
-  "id": "mn-00602",
-  "category": "mongolian",
-  "prompt": "「тогоруу」の意味は？",
-  "answer": "crane",
-  "glosses": {
-   "en": "crane",
-   "ja": "ツル"
-  },
-  "choices": [
-   "crane",
-   "winner",
-   "sword",
-   "washing"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "",
-  "verified": true
- },
- {
-  "id": "mn-00603",
-  "category": "mongolian",
-  "prompt": "「бослого」の意味は？",
-  "answer": "uprising",
-  "glosses": {
-   "en": "uprising",
-   "ja": "反乱"
-  },
-  "choices": [
-   "uprising",
-   "cow",
-   "to be surprised",
-   "blanket"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/pɔsɮəɢ/",
-  "verified": true
- },
- {
-  "id": "mn-00604",
-  "category": "mongolian",
-  "prompt": "「баримал」の意味は？",
-  "answer": "sculpture",
-  "glosses": {
-   "en": "sculpture",
-   "ja": "彫刻"
-  },
-  "choices": [
-   "tank",
-   "aggressive",
-   "sculpture",
-   "greeting"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "",
-  "verified": true
- },
- {
-  "id": "mn-00605",
-  "category": "mongolian",
-  "prompt": "「аянга」の意味は？",
-  "answer": "thunder",
-  "glosses": {
-   "en": "thunder",
-   "ja": "雷鳴"
-  },
-  "choices": [
-   "lamb",
-   "cuckoo",
-   "to rub",
-   "thunder"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "",
-  "verified": true
- },
- {
-  "id": "mn-00606",
-  "category": "mongolian",
-  "prompt": "「айлчлах」の意味は？",
-  "answer": "to visit",
-  "glosses": {
-   "en": "to visit",
-   "ja": "訪問する"
-  },
-  "choices": [
-   "chicken",
-   "branch",
-   "to visit",
-   "plate"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/ˈai̯ɮt͡ɕʰɮəx/",
-  "verified": true
- },
- {
-  "id": "mn-00607",
-  "category": "mongolian",
-  "prompt": "「пуужин」の意味は？",
-  "answer": "rocket",
-  "glosses": {
-   "en": "rocket",
-   "ja": "ロケット"
-  },
-  "choices": [
-   "rocket",
-   "tank",
-   "astrology",
-   "elbow"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/pʰʊːt͡ɕəŋ/",
-  "verified": true
- },
- {
-  "id": "mn-00608",
-  "category": "mongolian",
-  "prompt": "「урвал」の意味は？",
-  "answer": "reaction",
-  "glosses": {
-   "en": "reaction",
-   "ja": "反応"
-  },
-  "choices": [
-   "reaction",
-   "aggressive",
-   "transformer",
-   "soul"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "",
-  "verified": true
- },
- {
-  "id": "mn-00609",
-  "category": "mongolian",
-  "prompt": "「дарангуйлагч」の意味は？",
-  "answer": "dictator",
-  "glosses": {
-   "en": "dictator",
-   "ja": "独裁者"
-  },
-  "choices": [
-   "dictator",
-   "to visit",
-   "trousers",
-   "to chase away"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/ˈtaraŋkʊi̯ɮakt͡ɕʰ/",
-  "verified": true
- },
- {
-  "id": "mn-00610",
-  "category": "mongolian",
-  "prompt": "「шивээс」の意味は？",
-  "answer": "tattoo",
-  "glosses": {
-   "en": "tattoo",
-   "ja": "入れ墨"
-  },
-  "choices": [
-   "communism",
-   "to swim",
-   "tattoo",
-   "announcement"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/ʃiwes/",
-  "verified": true
- },
- {
-  "id": "mn-00611",
-  "category": "mongolian",
-  "prompt": "「магтаал」の意味は？",
-  "answer": "compliment",
-  "glosses": {
-   "en": "compliment",
-   "ja": "ほめ言葉"
-  },
-  "choices": [
-   "portrait",
-   "compliment",
-   "parrot",
-   "pigeon"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/maɡtʰaɮ/",
-  "verified": true
- },
- {
-  "id": "mn-00612",
-  "category": "mongolian",
-  "prompt": "「үдэш」の意味は？",
-  "answer": "evening",
-  "glosses": {
-   "en": "evening",
-   "ja": "夕方"
-  },
-  "choices": [
-   "train car",
-   "to classify",
-   "evening",
-   "chicken"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/ˈuteɕ/",
-  "verified": true
- },
- {
-  "id": "mn-00613",
-  "category": "mongolian",
-  "prompt": "「маргах」の意味は？",
-  "answer": "to argue",
-  "glosses": {
-   "en": "to argue",
-   "ja": "言い争う"
-  },
-  "choices": [
-   "to argue",
-   "evening",
-   "castle",
-   "socialism"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/ˈmarɢax/",
-  "verified": true
- },
- {
-  "id": "mn-00614",
-  "category": "mongolian",
-  "prompt": "「баглаа」の意味は？",
-  "answer": "bundle",
-  "glosses": {
-   "en": "bundle",
-   "ja": "たば"
-  },
-  "choices": [
-   "bundle",
-   "Tuesday",
-   "calm",
-   "soup"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/ˈpakɮaː/",
-  "verified": true
- },
- {
-  "id": "mn-00615",
-  "category": "mongolian",
-  "prompt": "「дипломатч」の意味は？",
-  "answer": "diplomat",
-  "glosses": {
-   "en": "diplomat",
-   "ja": "外交官"
-  },
-  "choices": [
-   "diplomat",
-   "sleeve",
-   "shadow",
-   "mosquito"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/ˈtipʰɮɔmatʰt͡ɕʰ/",
-  "verified": true
- },
- {
-  "id": "mn-00616",
-  "category": "mongolian",
-  "prompt": "「хөгжимчин」の意味は？",
-  "answer": "musician",
-  "glosses": {
-   "en": "musician",
-   "ja": "音楽家"
-  },
-  "choices": [
-   "chimney",
-   "academy",
-   "to be surprised",
-   "musician"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/xoɡt͡ɕəmt͡ɕʰəŋ/",
-  "verified": true
- },
- {
-  "id": "mn-00617",
-  "category": "mongolian",
-  "prompt": "「хоригдол」の意味は？",
-  "answer": "prisoner",
-  "glosses": {
-   "en": "prisoner",
-   "ja": "囚人"
-  },
-  "choices": [
-   "prisoner",
-   "tame",
-   "photographer",
-   "vinegar"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "",
-  "verified": true
- },
- {
-  "id": "mn-00618",
-  "category": "mongolian",
-  "prompt": "「хүчил」の意味は？",
-  "answer": "acid",
-  "glosses": {
-   "en": "acid",
-   "ja": "酸"
-  },
-  "choices": [
-   "archer",
-   "branch",
-   "acid",
-   "intellectual"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "",
-  "verified": true
- },
- {
-  "id": "mn-00619",
-  "category": "mongolian",
-  "prompt": "「алчуур」の意味は？",
-  "answer": "towel",
-  "glosses": {
-   "en": "towel",
-   "ja": "タオル"
-  },
-  "choices": [
-   "scissors",
-   "axis",
-   "towel",
-   "grave"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/aɮt͡ʃʊːr/",
-  "verified": true
- },
- {
-  "id": "mn-00620",
-  "category": "mongolian",
-  "prompt": "「нисгэгч」の意味は？",
-  "answer": "pilot",
-  "glosses": {
-   "en": "pilot",
-   "ja": "パイロット"
-  },
-  "choices": [
-   "soul",
-   "uprising",
-   "soccer",
-   "pilot"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/nis.ɡeɡt͡ʃʰ/",
-  "verified": true
- },
- {
-  "id": "mn-00621",
-  "category": "mongolian",
-  "prompt": "「аллага」の意味は？",
-  "answer": "murder",
-  "glosses": {
-   "en": "murder",
-   "ja": "殺人"
-  },
-  "choices": [
-   "murder",
-   "bow",
-   "sand",
-   "academy"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/ˈaɮːaɣ/",
-  "verified": true
- },
- {
-  "id": "mn-00622",
-  "category": "mongolian",
-  "prompt": "「командлагч」の意味は？",
-  "answer": "commander",
-  "glosses": {
-   "en": "commander",
-   "ja": "指揮官"
-  },
-  "choices": [
-   "commander",
-   "scissors",
-   "crow",
-   "mathematician"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/ˈkʰɔmantɮakt͡ɕʰ/",
-  "verified": true
- },
- {
-  "id": "mn-00623",
-  "category": "mongolian",
-  "prompt": "「зурхай」の意味は？",
-  "answer": "astrology",
-  "glosses": {
-   "en": "astrology",
-   "ja": "占星術"
-  },
-  "choices": [
-   "curtain",
-   "snack",
-   "astrology",
-   "devil"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/ˈt͡sʊrxɛː/",
-  "verified": true
- },
- {
-  "id": "mn-00624",
-  "category": "mongolian",
-  "prompt": "「төрөлт」の意味は？",
-  "answer": "birth",
-  "glosses": {
-   "en": "birth",
-   "ja": "誕生"
-  },
-  "choices": [
-   "birth",
-   "doll",
-   "furniture",
-   "cow"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "",
-  "verified": true
- },
- {
-  "id": "mn-00625",
-  "category": "mongolian",
-  "prompt": "「хорхой」の意味は？",
-  "answer": "worm",
-  "glosses": {
-   "en": "worm",
-   "ja": "虫"
-  },
-  "choices": [
-   "communism",
-   "shovel",
-   "beggar",
-   "worm"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/ˈxɔrxɔi̯/",
-  "verified": true
- },
- {
-  "id": "mn-00626",
-  "category": "mongolian",
-  "prompt": "「эсгий」の意味は？",
-  "answer": "felt",
-  "glosses": {
-   "en": "felt",
-   "ja": "フェルト"
-  },
-  "choices": [
-   "leadership",
-   "felt",
-   "mathematician",
-   "cosmos"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/isɡi/",
-  "verified": true
- },
- {
-  "id": "mn-00627",
-  "category": "mongolian",
-  "prompt": "「уйлах」の意味は？",
-  "answer": "to cry",
-  "glosses": {
-   "en": "to cry",
-   "ja": "泣く"
-  },
-  "choices": [
-   "to cry",
-   "announcement",
-   "soccer",
-   "soup"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "",
-  "verified": true
- },
- {
-  "id": "mn-00628",
-  "category": "mongolian",
-  "prompt": "「найтаах」の意味は？",
-  "answer": "to sneeze",
-  "glosses": {
-   "en": "to sneeze",
-   "ja": "くしゃみをする"
-  },
-  "choices": [
-   "bundle",
-   "to rub",
-   "pill",
-   "to sneeze"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/naitʰax/",
-  "verified": true
- },
- {
-  "id": "mn-00629",
-  "category": "mongolian",
-  "prompt": "「ангилах」の意味は？",
-  "answer": "to classify",
-  "glosses": {
-   "en": "to classify",
-   "ja": "分類する"
-  },
-  "choices": [
-   "neck",
-   "cabbage",
-   "to classify",
-   "chicken"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "",
-  "verified": true
- },
- {
-  "id": "mn-00630",
-  "category": "mongolian",
-  "prompt": "「шүтэх」の意味は？",
-  "answer": "to worship",
-  "glosses": {
-   "en": "to worship",
-   "ja": "崇拝する"
-  },
-  "choices": [
-   "massage",
-   "to worship",
-   "traitor",
-   "shadow"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "",
-  "verified": true
- },
- {
-  "id": "mn-00631",
-  "category": "mongolian",
-  "prompt": "「худалдагч」の意味は？",
-  "answer": "salesperson",
-  "glosses": {
-   "en": "salesperson",
-   "ja": "販売員"
-  },
-  "choices": [
-   "friendship",
-   "announcement",
-   "salesperson",
-   "shell"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "",
-  "verified": true
- },
- {
-  "id": "mn-00632",
-  "category": "mongolian",
-  "prompt": "「цэнэглэх」の意味は？",
-  "answer": "to recharge",
-  "glosses": {
-   "en": "to recharge",
-   "ja": "充電する"
-  },
-  "choices": [
-   "to catch up",
-   "office",
-   "to recharge",
-   "crane"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/ˈt͡sʰenekɮex/",
-  "verified": true
- },
- {
-  "id": "mn-00633",
-  "category": "mongolian",
-  "prompt": "「энэрэл」の意味は？",
-  "answer": "compassion",
-  "glosses": {
-   "en": "compassion",
-   "ja": "思いやり"
-  },
-  "choices": [
-   "to kiss",
-   "file",
-   "compassion",
-   "apple"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "",
-  "verified": true
- },
- {
-  "id": "mn-00634",
-  "category": "mongolian",
-  "prompt": "「трактор」の意味は？",
-  "answer": "tractor",
-  "glosses": {
-   "en": "tractor",
-   "ja": "トラクター"
-  },
-  "choices": [
-   "bow",
-   "grave",
-   "cabbage",
-   "tractor"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/ˈtʰrakʰtʰər̥/",
-  "verified": true
- },
- {
-  "id": "mn-00635",
-  "category": "mongolian",
-  "prompt": "「тугал」の意味は？",
-  "answer": "calf",
-  "glosses": {
-   "en": "calf",
-   "ja": "子牛"
-  },
-  "choices": [
-   "brick",
-   "calf",
-   "ankle",
-   "stick"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/tʰʊɢaɮ/",
-  "verified": true
- },
- {
-  "id": "mn-00636",
-  "category": "mongolian",
-  "prompt": "「бүргэд」の意味は？",
-  "answer": "eagle",
-  "glosses": {
-   "en": "eagle",
-   "ja": "ワシ"
-  },
-  "choices": [
-   "shell",
-   "helmet",
-   "eagle",
-   "scissors"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "",
-  "verified": true
- },
- {
-  "id": "mn-00637",
-  "category": "mongolian",
-  "prompt": "「будаг」の意味は？",
-  "answer": "paint",
-  "glosses": {
-   "en": "paint",
-   "ja": "塗料"
-  },
-  "choices": [
-   "pocket",
-   "miracle",
-   "lamb",
-   "paint"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "",
-  "verified": true
- },
- {
-  "id": "mn-00638",
-  "category": "mongolian",
-  "prompt": "「тоть」の意味は？",
-  "answer": "parrot",
-  "glosses": {
-   "en": "parrot",
-   "ja": "オウム"
-  },
-  "choices": [
-   "ray",
-   "cuckoo",
-   "mathematician",
-   "parrot"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/tʰœtʰ/",
-  "verified": true
- },
- {
-  "id": "mn-00639",
-  "category": "mongolian",
-  "prompt": "「болхи」の意味は？",
-  "answer": "clumsy",
-  "glosses": {
-   "en": "clumsy",
-   "ja": "不器用な"
-  },
-  "choices": [
-   "diplomat",
-   "clumsy",
-   "low",
-   "to rub"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/pɔɮxʲ/",
-  "verified": true
- },
- {
-  "id": "mn-00640",
-  "category": "mongolian",
-  "prompt": "「хэрээ」の意味は？",
-  "answer": "crow",
-  "glosses": {
-   "en": "crow",
-   "ja": "カラス"
-  },
-  "choices": [
-   "crow",
-   "to swim",
-   "front",
-   "envy"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "",
-  "verified": true
- },
- {
-  "id": "mn-00641",
-  "category": "mongolian",
-  "prompt": "「танк」の意味は？",
-  "answer": "tank",
-  "glosses": {
-   "en": "tank",
-   "ja": "戦車"
-  },
-  "choices": [
-   "socialism",
-   "snack",
-   "tank",
-   "scissors"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "[tʰäˑɴ̟̊q˖ʰ]",
-  "verified": true
- },
- {
-  "id": "mn-00642",
-  "category": "mongolian",
-  "prompt": "「фронт」の意味は？",
-  "answer": "front",
-  "glosses": {
-   "en": "front",
-   "ja": "戦線"
-  },
-  "choices": [
-   "front",
-   "continent",
-   "to miss",
-   "nickname"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/frɔˑntʰ/",
-  "verified": true
- },
- {
-  "id": "mn-00643",
-  "category": "mongolian",
-  "prompt": "「тагтаа」の意味は？",
-  "answer": "pigeon",
-  "glosses": {
-   "en": "pigeon",
-   "ja": "ハト"
-  },
-  "choices": [
-   "portrait",
-   "sleeve",
-   "pigeon",
-   "murder"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/tʰaɡtʰaː/",
-  "verified": true
- },
- {
-  "id": "mn-00644",
-  "category": "mongolian",
-  "prompt": "「файл」の意味は？",
-  "answer": "file",
-  "glosses": {
-   "en": "file",
-   "ja": "ファイル"
-  },
-  "choices": [
-   "to vomit",
-   "nail",
-   "soul",
-   "file"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/ˈfɛːɮ/",
-  "verified": true
- },
- {
-  "id": "mn-00645",
-  "category": "mongolian",
-  "prompt": "「мартах」の意味は？",
-  "answer": "to forget",
-  "glosses": {
-   "en": "to forget",
-   "ja": "忘れる"
-  },
-  "choices": [
-   "to cross",
-   "to forget",
-   "shovel",
-   "cloth"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "",
-  "verified": true
- },
- {
-  "id": "mn-00646",
-  "category": "mongolian",
-  "prompt": "「саван」の意味は？",
-  "answer": "soap",
-  "glosses": {
-   "en": "soap",
-   "ja": "石けん"
-  },
-  "choices": [
-   "poet",
-   "soap",
-   "gunpowder",
-   "text"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/ˈsaw̜aŋ/",
-  "verified": true
- },
- {
-  "id": "mn-00647",
-  "category": "mongolian",
-  "prompt": "「алим」の意味は？",
-  "answer": "apple",
-  "glosses": {
-   "en": "apple",
-   "ja": "リンゴ"
-  },
-  "choices": [
-   "insult",
-   "apple",
-   "bandage",
-   "liar"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "[æ̝.ɮɪ̆m]",
-  "verified": true
- },
- {
-  "id": "mn-00648",
-  "category": "mongolian",
-  "prompt": "「нум」の意味は？",
-  "answer": "bow",
-  "glosses": {
-   "en": "bow",
-   "ja": "弓"
-  },
-  "choices": [
-   "paradise",
-   "grasshopper",
-   "bow",
-   "headphones"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "",
-  "verified": true
- },
- {
-  "id": "mn-00649",
-  "category": "mongolian",
-  "prompt": "「хүйс」の意味は？",
-  "answer": "gender",
-  "glosses": {
-   "en": "gender",
-   "ja": "性別"
-  },
-  "choices": [
-   "miner",
-   "hail",
-   "shadow",
-   "gender"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "",
-  "verified": true
- },
- {
-  "id": "mn-00650",
-  "category": "mongolian",
-  "prompt": "「таваг」の意味は？",
-  "answer": "plate",
-  "glosses": {
-   "en": "plate",
-   "ja": "皿"
-  },
-  "choices": [
-   "massage",
-   "to catch up",
-   "plate",
-   "wing"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "",
-  "verified": true
- },
- {
-  "id": "mn-00651",
-  "category": "mongolian",
-  "prompt": "「халбага」の意味は？",
-  "answer": "spoon",
-  "glosses": {
-   "en": "spoon",
-   "ja": "スプーン"
-  },
-  "choices": [
-   "grasshopper",
-   "spoon",
-   "to lie down",
-   "chicken"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "",
-  "verified": true
- },
- {
-  "id": "mn-00652",
-  "category": "mongolian",
-  "prompt": "「жорлон」の意味は？",
-  "answer": "toilet",
-  "glosses": {
-   "en": "toilet",
-   "ja": "トイレ"
-  },
-  "choices": [
-   "toilet",
-   "pigeon",
-   "vinegar",
-   "tent"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/t͡ɕɔrɮəŋ/",
-  "verified": true
- },
- {
-  "id": "mn-00653",
-  "category": "mongolian",
-  "prompt": "「хавирга」の意味は？",
-  "answer": "rib",
-  "glosses": {
-   "en": "rib",
-   "ja": "肋骨"
-  },
-  "choices": [
-   "rib",
-   "communism",
-   "uprising",
-   "friendship"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/xawʲrəɢ/",
-  "verified": true
- },
- {
-  "id": "mn-00654",
-  "category": "mongolian",
-  "prompt": "「майхан」の意味は？",
-  "answer": "tent",
-  "glosses": {
-   "en": "tent",
-   "ja": "テント"
-  },
-  "choices": [
-   "gunpowder",
-   "to set",
-   "announcement",
-   "tent"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/maixaŋ/",
-  "verified": true
- },
- {
-  "id": "mn-00655",
-  "category": "mongolian",
-  "prompt": "「шагай」の意味は？",
-  "answer": "ankle",
-  "glosses": {
-   "en": "ankle",
-   "ja": "足首"
-  },
-  "choices": [
-   "barn",
-   "ankle",
-   "bundle",
-   "stirrup"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "",
-  "verified": true
- },
- {
-  "id": "mn-00656",
-  "category": "mongolian",
-  "prompt": "「гитар」の意味は？",
-  "answer": "guitar",
-  "glosses": {
-   "en": "guitar",
-   "ja": "ギター"
-  },
-  "choices": [
-   "to spread out",
-   "to hunt",
-   "guitar",
-   "to sneeze"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/ˈkitʰar̥/",
-  "verified": true
- },
- {
-  "id": "mn-00657",
-  "category": "mongolian",
-  "prompt": "「үрэх」の意味は？",
-  "answer": "to rub",
-  "glosses": {
-   "en": "to rub",
-   "ja": "こする"
-  },
-  "choices": [
-   "to deceive",
-   "to rub",
-   "chimney",
-   "academy"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "",
-  "verified": true
- },
- {
-  "id": "mn-00658",
-  "category": "mongolian",
-  "prompt": "「гатлах」の意味は？",
-  "answer": "to cross",
-  "glosses": {
-   "en": "to cross",
-   "ja": "横切る"
-  },
-  "choices": [
-   "to cross",
-   "roof",
-   "gunpowder",
-   "to sneeze"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/ɢatʰɮəx/",
-  "verified": true
- },
- {
-  "id": "mn-00659",
-  "category": "mongolian",
-  "prompt": "「дээвэр」の意味は？",
-  "answer": "roof",
-  "glosses": {
-   "en": "roof",
-   "ja": "屋根"
-  },
-  "choices": [
-   "roof",
-   "headphones",
-   "tank",
-   "needle"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "",
-  "verified": true
- },
- {
-  "id": "mn-00660",
-  "category": "mongolian",
-  "prompt": "「инээх」の意味は？",
-  "answer": "to laugh",
-  "glosses": {
-   "en": "to laugh",
-   "ja": "笑う"
-  },
-  "choices": [
-   "saddle",
-   "to hunt",
-   "to laugh",
-   "refrigerator"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "",
-  "verified": true
- },
- {
-  "id": "mn-00661",
-  "category": "mongolian",
-  "prompt": "「мөндөр」の意味は？",
-  "answer": "hail",
-  "glosses": {
-   "en": "hail",
-   "ja": "雹"
-  },
-  "choices": [
-   "hail",
-   "to sneeze",
-   "to cross",
-   "compassion"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "[mɵ̞n.tɵr]",
-  "verified": true
- },
- {
-  "id": "mn-00662",
-  "category": "mongolian",
-  "prompt": "「атаа」の意味は？",
-  "answer": "envy",
-  "glosses": {
-   "en": "envy",
-   "ja": "ねたみ"
-  },
-  "choices": [
-   "twin",
-   "sword",
-   "envy",
-   "dictatorship"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/atʰa/",
-  "verified": true
- },
- {
-  "id": "mn-00663",
-  "category": "mongolian",
-  "prompt": "「байлдаан」の意味は？",
-  "answer": "battle",
-  "glosses": {
-   "en": "battle",
-   "ja": "戦闘"
-  },
-  "choices": [
-   "to worship",
-   "mathematician",
-   "battle",
-   "chimney"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "",
-  "verified": true
- },
- {
-  "id": "mn-00664",
-  "category": "mongolian",
-  "prompt": "「эрхий」の意味は？",
-  "answer": "thumb",
-  "glosses": {
-   "en": "thumb",
-   "ja": "親指"
-  },
-  "choices": [
-   "thumb",
-   "monster",
-   "soup",
-   "helmet"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "",
-  "verified": true
- },
- {
-  "id": "mn-00665",
-  "category": "mongolian",
-  "prompt": "「бүжиглэх」の意味は？",
-  "answer": "to dance",
-  "glosses": {
-   "en": "to dance",
-   "ja": "踊る"
-  },
-  "choices": [
-   "communism",
-   "velvet",
-   "to dance",
-   "compassion"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "",
-  "verified": true
- },
- {
-  "id": "mn-00666",
-  "category": "mongolian",
-  "prompt": "「агнах」の意味は？",
-  "answer": "to hunt",
-  "glosses": {
-   "en": "to hunt",
-   "ja": "狩る"
-  },
-  "choices": [
-   "to worship",
-   "to be surprised",
-   "to hunt",
-   "eagle"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "",
-  "verified": true
- },
- {
-  "id": "mn-00667",
-  "category": "mongolian",
-  "prompt": "「цохих」の意味は？",
-  "answer": "to hit",
-  "glosses": {
-   "en": "to hit",
-   "ja": "打つ"
-  },
-  "choices": [
-   "compassion",
-   "to hit",
-   "rocket",
-   "herd"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/t͡sʰɔxʲəx/",
-  "verified": true
- },
- {
-  "id": "mn-00668",
-  "category": "mongolian",
-  "prompt": "「сэлэх」の意味は？",
-  "answer": "to swim",
-  "glosses": {
-   "en": "to swim",
-   "ja": "泳ぐ"
-  },
-  "choices": [
-   "to swim",
-   "Tuesday",
-   "roof",
-   "photographer"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/seɮəx/",
-  "verified": true
- },
- {
-  "id": "mn-00669",
-  "category": "mongolian",
-  "prompt": "「амьсгалах」の意味は？",
-  "answer": "to breathe",
-  "glosses": {
-   "en": "to breathe",
-   "ja": "呼吸する"
-  },
-  "choices": [
-   "paradise",
-   "tractor",
-   "to breathe",
-   "translation"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/ˈæmʲsɢəɮəx/",
-  "verified": true
- },
- {
-  "id": "mn-00670",
-  "category": "mongolian",
-  "prompt": "「саваа」の意味は？",
-  "answer": "stick",
-  "glosses": {
-   "en": "stick",
-   "ja": "棒"
-  },
-  "choices": [
-   "apple",
-   "walking stick",
-   "stick",
-   "patience"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/sawa/",
-  "verified": true
- },
- {
-  "id": "mn-00671",
-  "category": "mongolian",
-  "prompt": "「бөөлжих」の意味は？",
-  "answer": "to vomit",
-  "glosses": {
-   "en": "to vomit",
-   "ja": "嘔吐する"
-  },
-  "choices": [
-   "to set",
-   "to vomit",
-   "to kiss",
-   "musician"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/poːɮt͡ɕəx/",
-  "verified": true
- },
- {
-  "id": "mn-00672",
-  "category": "mongolian",
-  "prompt": "「шүлс」の意味は？",
-  "answer": "saliva",
-  "glosses": {
-   "en": "saliva",
-   "ja": "唾液"
-  },
-  "choices": [
-   "battle",
-   "saliva",
-   "acid",
-   "uprising"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/ʃuɮs/",
-  "verified": true
- },
- {
-  "id": "mn-00673",
-  "category": "mongolian",
-  "prompt": "「үзэг」の意味は？",
-  "answer": "pen",
-  "glosses": {
-   "en": "pen",
-   "ja": "ペン"
-  },
-  "choices": [
-   "pen",
-   "pilot",
-   "poet",
-   "towel"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "[u.t͜sɘ̝̆k]",
-  "verified": true
- },
- {
-  "id": "mn-00674",
-  "category": "mongolian",
-  "prompt": "「авдар」の意味は？",
-  "answer": "wooden chest",
-  "glosses": {
-   "en": "wooden chest",
-   "ja": "木箱"
-  },
-  "choices": [
-   "wooden chest",
-   "rock",
-   "twin",
-   "photographer"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/ˈaw̜tar̥/",
-  "verified": true
- },
- {
-  "id": "mn-00675",
-  "category": "mongolian",
-  "prompt": "「тавилга」の意味は？",
-  "answer": "furniture",
-  "glosses": {
-   "en": "furniture",
-   "ja": "家具"
-  },
-  "choices": [
-   "to lie down",
-   "furniture",
-   "poplar",
-   "tent"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "",
-  "verified": true
- },
- {
-  "id": "mn-00676",
-  "category": "mongolian",
-  "prompt": "「найрамдал」の意味は？",
-  "answer": "friendship",
-  "glosses": {
-   "en": "friendship",
-   "ja": "友情"
-  },
-  "choices": [
-   "furniture",
-   "friendship",
-   "insect",
-   "poplar"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "",
-  "verified": true
- },
- {
-  "id": "mn-00677",
-  "category": "mongolian",
-  "prompt": "「даавуу」の意味は？",
-  "answer": "cloth",
-  "glosses": {
-   "en": "cloth",
-   "ja": "布"
-  },
-  "choices": [
-   "coin",
-   "cowardly",
-   "poplar",
-   "cloth"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "",
-  "verified": true
- },
- {
-  "id": "mn-00678",
-  "category": "mongolian",
-  "prompt": "「хадаас」の意味は？",
-  "answer": "nail",
-  "glosses": {
-   "en": "nail",
-   "ja": "くぎ"
-  },
-  "choices": [
-   "supermarket",
-   "aggressive",
-   "to chase away",
-   "nail"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/xaˈtaːs/",
-  "verified": true
- },
- {
-  "id": "mn-00679",
-  "category": "mongolian",
-  "prompt": "「анчин」の意味は？",
-  "answer": "hunter",
-  "glosses": {
-   "en": "hunter",
-   "ja": "狩人"
-  },
-  "choices": [
-   "shovel",
-   "hunter",
-   "barn",
-   "bandage"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/ˈant͡ɕʰiŋ/",
-  "verified": true
- },
- {
-  "id": "mn-00680",
-  "category": "mongolian",
-  "prompt": "「цамхаг」の意味は？",
-  "answer": "tower",
-  "glosses": {
-   "en": "tower",
-   "ja": "塔"
-  },
-  "choices": [
-   "felt",
-   "patch",
-   "tower",
-   "poplar"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "",
-  "verified": true
- },
- {
-  "id": "mn-00681",
-  "category": "mongolian",
-  "prompt": "「бүрхүүл」の意味は？",
-  "answer": "covering",
-  "glosses": {
-   "en": "covering",
-   "ja": "覆い"
-  },
-  "choices": [
-   "delay",
-   "hail",
-   "prisoner",
-   "covering"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/purxuɮ/",
-  "verified": true
- },
- {
-  "id": "mn-00682",
-  "category": "mongolian",
-  "prompt": "「боолт」の意味は？",
-  "answer": "bandage",
-  "glosses": {
-   "en": "bandage",
-   "ja": "包帯"
-  },
-  "choices": [
-   "to lie down",
-   "to resign",
-   "bandage",
-   "to spread out"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "",
-  "verified": true
- },
- {
-  "id": "mn-00683",
-  "category": "mongolian",
-  "prompt": "「эрдэнэ」の意味は？",
-  "answer": "treasure",
-  "glosses": {
-   "en": "treasure",
-   "ja": "宝物"
-  },
-  "choices": [
-   "office",
-   "trousers",
-   "herd",
-   "treasure"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "[e̝r.tɘ̝n]",
-  "verified": true
- },
- {
-  "id": "mn-00684",
-  "category": "mongolian",
-  "prompt": "「хоч」の意味は？",
-  "answer": "nickname",
-  "glosses": {
-   "en": "nickname",
-   "ja": "あだ名"
-  },
-  "choices": [
-   "to suffice",
-   "patience",
-   "castle",
-   "nickname"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "",
-  "verified": true
- },
- {
-  "id": "mn-00685",
-  "category": "mongolian",
-  "prompt": "「хөхөө」の意味は？",
-  "answer": "cuckoo",
-  "glosses": {
-   "en": "cuckoo",
-   "ja": "カッコウ"
-  },
-  "choices": [
-   "cuckoo",
-   "surname",
-   "pigeon",
-   "astrology"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "",
-  "verified": true
- },
- {
-  "id": "mn-00686",
-  "category": "mongolian",
-  "prompt": "「будах」の意味は？",
-  "answer": "to paint",
-  "glosses": {
-   "en": "to paint",
-   "ja": "塗る"
-  },
-  "choices": [
-   "train car",
-   "murder",
-   "knife",
-   "to paint"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "",
-  "verified": true
- },
- {
-  "id": "mn-00687",
-  "category": "mongolian",
-  "prompt": "「номхон」の意味は？",
-  "answer": "tame",
-  "glosses": {
-   "en": "tame",
-   "ja": "おとなしい"
-  },
-  "choices": [
-   "miner",
-   "academy",
-   "tame",
-   "soul"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/ˈnɔmxɔŋ/",
-  "verified": true
- },
- {
-  "id": "mn-00688",
-  "category": "mongolian",
-  "prompt": "「гайхах」の意味は？",
-  "answer": "to be surprised",
-  "glosses": {
-   "en": "to be surprised",
-   "ja": "驚く"
-  },
-  "choices": [
-   "to be surprised",
-   "engine",
-   "liar",
-   "miner"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/ɢaixax/",
-  "verified": true
- },
- {
-  "id": "mn-00689",
-  "category": "mongolian",
-  "prompt": "「урвагч」の意味は？",
-  "answer": "traitor",
-  "glosses": {
-   "en": "traitor",
-   "ja": "裏切り者"
-  },
-  "choices": [
-   "eagle",
-   "traitor",
-   "tank",
-   "photographer"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/ʊrw̜aɡt͡ʃʰ/",
-  "verified": true
- },
- {
-  "id": "mn-00690",
-  "category": "mongolian",
-  "prompt": "「манлайлал」の意味は？",
-  "answer": "leadership",
-  "glosses": {
-   "en": "leadership",
-   "ja": "指導力"
-  },
-  "choices": [
-   "leadership",
-   "greeting",
-   "to hesitate",
-   "pigeon"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "",
-  "verified": true
- },
- {
-  "id": "mn-00691",
-  "category": "mongolian",
-  "prompt": "「амбаар」の意味は？",
-  "answer": "barn",
-  "glosses": {
-   "en": "barn",
-   "ja": "納屋"
-  },
-  "choices": [
-   "barn",
-   "carpet",
-   "soccer",
-   "biography"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/am.paːr/",
-  "verified": true
- },
- {
-  "id": "mn-00692",
-  "category": "mongolian",
-  "prompt": "「хүрэлцэх」の意味は？",
-  "answer": "to suffice",
-  "glosses": {
-   "en": "to suffice",
-   "ja": "足りる"
-  },
-  "choices": [
-   "chicken",
-   "to deceive",
-   "to suffice",
-   "rib"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/ˈxureɮt͡sʰex/",
-  "verified": true
- },
- {
-  "id": "mn-00693",
-  "category": "mongolian",
-  "prompt": "「жаргах」の意味は？",
-  "answer": "to set",
-  "glosses": {
-   "en": "to set",
-   "ja": "日が沈む"
-  },
-  "choices": [
-   "to set",
-   "cook",
-   "blanket",
-   "insect"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/tɕarɢax/",
-  "verified": true
- },
- {
-  "id": "mn-00694",
-  "category": "mongolian",
-  "prompt": "「чөтгөр」の意味は？",
-  "answer": "devil",
-  "glosses": {
-   "en": "devil",
-   "ja": "悪魔"
-  },
-  "choices": [
-   "aggressive",
-   "sea",
-   "devil",
-   "nickname"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/t͡ʃʰɵtɡɵr/",
-  "verified": true
- },
- {
-  "id": "mn-00695",
-  "category": "mongolian",
-  "prompt": "「шумуул」の意味は？",
-  "answer": "mosquito",
-  "glosses": {
-   "en": "mosquito",
-   "ja": "蚊"
-  },
-  "choices": [
-   "socialism",
-   "mosquito",
-   "winner",
-   "soul"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/ˈɕʊmʊːɮ/",
-  "verified": true
- },
- {
-  "id": "mn-00696",
-  "category": "mongolian",
-  "prompt": "「лууван」の意味は？",
-  "answer": "carrot",
-  "glosses": {
-   "en": "carrot",
-   "ja": "にんじん"
-  },
-  "choices": [
-   "surname",
-   "carrot",
-   "bold",
-   "worm"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/ɮʊːw̜əŋ/",
-  "verified": true
- },
- {
-  "id": "mn-00697",
-  "category": "mongolian",
-  "prompt": "「бариул」の意味は？",
-  "answer": "handle",
-  "glosses": {
-   "en": "handle",
-   "ja": "取っ手"
-  },
-  "choices": [
-   "kidney",
-   "handle",
-   "wave",
-   "worm"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "",
-  "verified": true
- },
- {
-  "id": "mn-00698",
-  "category": "mongolian",
-  "prompt": "「дөрөө」の意味は？",
-  "answer": "stirrup",
-  "glosses": {
-   "en": "stirrup",
-   "ja": "あぶみ"
-  },
-  "choices": [
-   "stirrup",
-   "trousers",
-   "volume",
-   "greeting"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/tɵrɵː/",
-  "verified": true
- },
- {
-  "id": "mn-00699",
-  "category": "mongolian",
-  "prompt": "「боть」の意味は？",
-  "answer": "volume",
-  "glosses": {
-   "en": "volume",
-   "ja": "書物の一巻"
-  },
-  "choices": [
-   "volume",
-   "to fall in love",
-   "roof",
-   "pen"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/pœtʰ/",
-  "verified": true
- },
- {
-  "id": "mn-00700",
-  "category": "mongolian",
-  "prompt": "「улиас」の意味は？",
-  "answer": "poplar",
-  "glosses": {
-   "en": "poplar",
-   "ja": "ポプラ"
-  },
-  "choices": [
-   "leadership",
-   "prisoner",
-   "poplar",
-   "scissors"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/ʊɮʲas/",
-  "verified": true
- },
- {
-  "id": "mn-00701",
-  "category": "mongolian",
-  "prompt": "「хачиг」の意味は？",
-  "answer": "tick",
-  "glosses": {
-   "en": "tick",
-   "ja": "ダニ"
-  },
-  "choices": [
-   "ash",
-   "to sneeze",
-   "swan",
-   "tick"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "",
-  "verified": true
- },
- {
-  "id": "mn-00702",
-  "category": "mongolian",
-  "prompt": "「хэрцгий」の意味は？",
-  "answer": "cruel",
-  "glosses": {
-   "en": "cruel",
-   "ja": "残酷な"
-  },
-  "choices": [
-   "dictatorship",
-   "cruel",
-   "twin",
-   "felt"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "",
-  "verified": true
- },
- {
-  "id": "mn-00703",
-  "category": "mongolian",
-  "prompt": "「сэлэм」の意味は？",
-  "answer": "sword",
-  "glosses": {
-   "en": "sword",
-   "ja": "剣"
-  },
-  "choices": [
-   "grave",
-   "sword",
-   "translation",
-   "prayer"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "",
-  "verified": true
- },
- {
-  "id": "mn-00704",
-  "category": "mongolian",
-  "prompt": "「массаж」の意味は？",
-  "answer": "massage",
-  "glosses": {
-   "en": "massage",
-   "ja": "マッサージ"
-  },
-  "choices": [
-   "pill",
-   "massage",
-   "gender",
-   "to spread out"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/masˈsat͡ɕ/",
-  "verified": true
- },
- {
-  "id": "mn-00705",
-  "category": "mongolian",
-  "prompt": "「супермаркет」の意味は？",
-  "answer": "supermarket",
-  "glosses": {
-   "en": "supermarket",
-   "ja": "スーパーマーケット"
-  },
-  "choices": [
-   "sea",
-   "cuckoo",
-   "supermarket",
-   "herd"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "",
-  "verified": true
- },
- {
-  "id": "mn-00706",
-  "category": "mongolian",
-  "prompt": "「мөчир」の意味は？",
-  "answer": "branch",
-  "glosses": {
-   "en": "branch",
-   "ja": "枝"
-  },
-  "choices": [
-   "to drag",
-   "branch",
-   "crane",
-   "cuckoo"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/mot͡ɕʰər/",
-  "verified": true
- },
- {
-  "id": "mn-00707",
-  "category": "mongolian",
-  "prompt": "「дурлах」の意味は？",
-  "answer": "to fall in love",
-  "glosses": {
-   "en": "to fall in love",
-   "ja": "恋をする"
-  },
-  "choices": [
-   "to deceive",
-   "to fall in love",
-   "to set",
-   "nest"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "",
-  "verified": true
- },
- {
-  "id": "mn-00708",
-  "category": "mongolian",
-  "prompt": "「үнэг」の意味は？",
-  "answer": "fox",
-  "glosses": {
-   "en": "fox",
-   "ja": "キツネ"
-  },
-  "choices": [
-   "to sleep",
-   "fox",
-   "tame",
-   "tank"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/unəɡ/",
-  "verified": true
- },
- {
-  "id": "mn-00709",
-  "category": "mongolian",
-  "prompt": "「хуурга」の意味は？",
-  "answer": "stir-fry",
-  "glosses": {
-   "en": "stir-fry",
-   "ja": "炒め物"
-  },
-  "choices": [
-   "insect",
-   "recipe",
-   "hunter",
-   "stir-fry"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/xʊːrəɢ/",
-  "verified": true
- },
- {
-  "id": "mn-00710",
-  "category": "mongolian",
-  "prompt": "「угаалга」の意味は？",
-  "answer": "washing",
-  "glosses": {
-   "en": "washing",
-   "ja": "洗濯"
-  },
-  "choices": [
-   "photographer",
-   "kidney",
-   "branch",
-   "washing"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "",
-  "verified": true
- },
- {
-  "id": "mn-00711",
-  "category": "mongolian",
-  "prompt": "「байцаа」の意味は？",
-  "answer": "cabbage",
-  "glosses": {
-   "en": "cabbage",
-   "ja": "キャベツ"
-  },
-  "choices": [
-   "file",
-   "cabbage",
-   "calm",
-   "soul"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/ˈpɛːt͡sʰaː/",
-  "verified": true
- },
- {
-  "id": "mn-00712",
-  "category": "mongolian",
-  "prompt": "「халаас」の意味は？",
-  "answer": "pocket",
-  "glosses": {
-   "en": "pocket",
-   "ja": "ポケット"
-  },
-  "choices": [
-   "pocket",
-   "to worship",
-   "to hunt",
-   "to lie down"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "",
-  "verified": true
- },
- {
-  "id": "mn-00713",
-  "category": "mongolian",
-  "prompt": "「зууш」の意味は？",
-  "answer": "snack",
-  "glosses": {
-   "en": "snack",
-   "ja": "軽食"
-  },
-  "choices": [
-   "snack",
-   "dictator",
-   "poet",
-   "sculpture"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "",
-  "verified": true
- },
- {
-  "id": "mn-00714",
-  "category": "mongolian",
-  "prompt": "「тэнгис」の意味は？",
-  "answer": "sea",
-  "glosses": {
-   "en": "sea",
-   "ja": "海"
-  },
-  "choices": [
-   "plate",
-   "sea",
-   "herd",
-   "to set"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "",
-  "verified": true
- },
- {
-  "id": "mn-00715",
-  "category": "mongolian",
-  "prompt": "「хөргөгч」の意味は？",
-  "answer": "refrigerator",
-  "glosses": {
-   "en": "refrigerator",
-   "ja": "冷蔵庫"
-  },
-  "choices": [
-   "refrigerator",
-   "engine",
-   "vinegar",
-   "spoon"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/ˈxɵrkɵkt͡ɕʰ/",
-  "verified": true
- },
- {
-  "id": "mn-00716",
-  "category": "mongolian",
-  "prompt": "「доромжлол」の意味は？",
-  "answer": "insult",
-  "glosses": {
-   "en": "insult",
-   "ja": "侮辱"
-  },
-  "choices": [
-   "winner",
-   "insult",
-   "photographer",
-   "wooden chest"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/tɔrɔmtʃɮɔɮ/",
-  "verified": true
- },
- {
-  "id": "mn-00717",
-  "category": "mongolian",
-  "prompt": "「аргал」の意味は？",
-  "answer": "dried dung",
-  "glosses": {
-   "en": "dried dung",
-   "ja": "乾燥牛ふん"
-  },
-  "choices": [
-   "dried dung",
-   "nerve",
-   "defeat",
-   "massage"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "",
-  "verified": true
- },
- {
-  "id": "mn-00718",
-  "category": "mongolian",
-  "prompt": "「нөхөөс」の意味は？",
-  "answer": "patch",
-  "glosses": {
-   "en": "patch",
-   "ja": "つぎあて"
-  },
-  "choices": [
-   "grasshopper",
-   "patch",
-   "scissors",
-   "roof"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/ˈnɵxɵːs/",
-  "verified": true
- },
- {
-  "id": "mn-00719",
-  "category": "mongolian",
-  "prompt": "「гүйцэх」の意味は？",
-  "answer": "to catch up",
-  "glosses": {
-   "en": "to catch up",
-   "ja": "追いつく"
-  },
-  "choices": [
-   "paradise",
-   "wooden chest",
-   "to catch up",
-   "wing"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "",
-  "verified": true
- },
- {
-  "id": "mn-00720",
-  "category": "mongolian",
-  "prompt": "「зарлал」の意味は？",
-  "answer": "announcement",
-  "glosses": {
-   "en": "announcement",
-   "ja": "告知"
-  },
-  "choices": [
-   "nickname",
-   "announcement",
-   "chocolate",
-   "devil"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/ˈt͡sarɮaɮ/",
-  "verified": true
- },
- {
-  "id": "mn-00721",
-  "category": "mongolian",
-  "prompt": "「далавч」の意味は？",
-  "answer": "wing",
-  "glosses": {
-   "en": "wing",
-   "ja": "翼"
-  },
-  "choices": [
-   "tractor",
-   "aggressive",
-   "wing",
-   "worm"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/ˈtaɮaw̜t͡ɕʰ/",
-  "verified": true
- },
- {
-  "id": "mn-00722",
-  "category": "mongolian",
-  "prompt": "「гачигдал」の意味は？",
-  "answer": "lack",
-  "glosses": {
-   "en": "lack",
-   "ja": "不足"
-  },
-  "choices": [
-   "bag",
-   "musician",
-   "lack",
-   "hail"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "",
-  "verified": true
- },
- {
-  "id": "mn-00723",
-  "category": "mongolian",
-  "prompt": "「шатах」の意味は？",
-  "answer": "to burn",
-  "glosses": {
-   "en": "to burn",
-   "ja": "燃える"
-  },
-  "choices": [
-   "compliment",
-   "rib",
-   "to burn",
-   "nail"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "",
-  "verified": true
- },
- {
-  "id": "mn-00724",
-  "category": "mongolian",
-  "prompt": "「хивс」の意味は？",
-  "answer": "carpet",
-  "glosses": {
-   "en": "carpet",
-   "ja": "じゅうたん"
-  },
-  "choices": [
-   "miracle",
-   "cook",
-   "carpet",
-   "refrigerator"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "",
-  "verified": true
- },
- {
-  "id": "mn-00725",
-  "category": "mongolian",
-  "prompt": "「дарь」の意味は？",
-  "answer": "gunpowder",
-  "glosses": {
-   "en": "gunpowder",
-   "ja": "火薬"
-  },
-  "choices": [
-   "gunpowder",
-   "portrait",
-   "compassion",
-   "taste"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/tɛr/",
-  "verified": true
- },
- {
-  "id": "mn-00726",
-  "category": "mongolian",
-  "prompt": "「хөшиг」の意味は？",
-  "answer": "curtain",
-  "glosses": {
-   "en": "curtain",
-   "ja": "カーテン"
-  },
-  "choices": [
-   "supermarket",
-   "curtain",
-   "fighter",
-   "poplar"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "",
-  "verified": true
- },
- {
-  "id": "mn-00727",
-  "category": "mongolian",
-  "prompt": "「дөлгөөн」の意味は？",
-  "answer": "calm",
-  "glosses": {
-   "en": "calm",
-   "ja": "穏やかな"
-  },
-  "choices": [
-   "calm",
-   "apple",
-   "branch",
-   "fox"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "",
-  "verified": true
- },
- {
-  "id": "mn-00728",
-  "category": "mongolian",
-  "prompt": "「диваажин」の意味は？",
-  "answer": "paradise",
-  "glosses": {
-   "en": "paradise",
-   "ja": "楽園"
-  },
-  "choices": [
-   "uprising",
-   "to dance",
-   "soap",
-   "paradise"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "",
-  "verified": true
- },
- {
-  "id": "mn-00729",
-  "category": "mongolian",
-  "prompt": "「харваач」の意味は？",
-  "answer": "archer",
-  "glosses": {
-   "en": "archer",
-   "ja": "弓の射手"
-  },
-  "choices": [
-   "archer",
-   "salesperson",
-   "acid",
-   "refrigerator"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/xarwat͡ɕʰ/",
-  "verified": true
- },
- {
-  "id": "mn-00730",
-  "category": "mongolian",
-  "prompt": "「хуурах」の意味は？",
-  "answer": "to deceive",
-  "glosses": {
-   "en": "to deceive",
-   "ja": "欺く"
-  },
-  "choices": [
-   "to deceive",
-   "surname",
-   "mud",
-   "rib"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/xʊːrəx/",
-  "verified": true
- },
- {
-  "id": "mn-00731",
-  "category": "mongolian",
-  "prompt": "「оёдол」の意味は？",
-  "answer": "sewing",
-  "glosses": {
-   "en": "sewing",
-   "ja": "裁縫"
-  },
-  "choices": [
-   "sewing",
-   "battle",
-   "clumsy",
-   "fox"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/ɔjtəɮ/",
-  "verified": true
- },
- {
-  "id": "mn-00732",
-  "category": "mongolian",
-  "prompt": "「зүйрлэх」の意味は？",
-  "answer": "to liken",
-  "glosses": {
-   "en": "to liken",
-   "ja": "たとえる"
-  },
-  "choices": [
-   "oxygen",
-   "sand",
-   "communism",
-   "to liken"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/t͡suirɮəx/",
-  "verified": true
- },
- {
-  "id": "mn-00733",
-  "category": "mongolian",
-  "prompt": "「гуйлгачин」の意味は？",
-  "answer": "beggar",
-  "glosses": {
-   "en": "beggar",
-   "ja": "物乞い"
-  },
-  "choices": [
-   "lamb",
-   "intellectual",
-   "curtain",
-   "beggar"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "",
-  "verified": true
- },
- {
-  "id": "mn-00734",
-  "category": "mongolian",
-  "prompt": "「хулчгар」の意味は？",
-  "answer": "cowardly",
-  "glosses": {
-   "en": "cowardly",
-   "ja": "おくびょうな"
-  },
-  "choices": [
-   "doll",
-   "dancer",
-   "cowardly",
-   "paint"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "",
-  "verified": true
- },
- {
-  "id": "mn-00735",
-  "category": "mongolian",
-  "prompt": "「оёх」の意味は？",
-  "answer": "to sew",
-  "glosses": {
-   "en": "to sew",
-   "ja": "縫う"
-  },
-  "choices": [
-   "sword",
-   "academy",
-   "ankle",
-   "to sew"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/ɔ.jʊχ/",
-  "verified": true
- },
- {
-  "id": "mn-00736",
-  "category": "mongolian",
-  "prompt": "「огтлох」の意味は？",
-  "answer": "to cut",
-  "glosses": {
-   "en": "to cut",
-   "ja": "切る"
-  },
-  "choices": [
-   "patience",
-   "to suffice",
-   "to cut",
-   "miracle"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "",
-  "verified": true
- },
- {
-  "id": "mn-00737",
-  "category": "mongolian",
-  "prompt": "「хүүхэлдэй」の意味は？",
-  "answer": "doll",
-  "glosses": {
-   "en": "doll",
-   "ja": "人形"
-  },
-  "choices": [
-   "communism",
-   "cabbage",
-   "helmet",
-   "doll"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/xuːxəɮte/",
-  "verified": true
- },
- {
-  "id": "mn-00738",
-  "category": "mongolian",
-  "prompt": "「долгион」の意味は？",
-  "answer": "wave",
-  "glosses": {
-   "en": "wave",
-   "ja": "波"
-  },
-  "choices": [
-   "wave",
-   "tower",
-   "tank",
-   "to visit"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "",
-  "verified": true
- },
- {
-  "id": "mn-00739",
-  "category": "mongolian",
-  "prompt": "「залбирал」の意味は？",
-  "answer": "prayer",
-  "glosses": {
-   "en": "prayer",
-   "ja": "祈り"
-  },
-  "choices": [
-   "tent",
-   "walking stick",
-   "farm",
-   "prayer"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/ˈt͡saɮpiraɮ/",
-  "verified": true
- },
- {
-  "id": "mn-00740",
-  "category": "mongolian",
-  "prompt": "「хялгас」の意味は？",
-  "answer": "horsehair",
-  "glosses": {
-   "en": "horsehair",
-   "ja": "馬の毛"
-  },
-  "choices": [
-   "covering",
-   "to dry",
-   "horsehair",
-   "defeat"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/ˈxʲaɮʁas/",
-  "verified": true
- },
- {
-  "id": "mn-00741",
-  "category": "mongolian",
-  "prompt": "「зарц」の意味は？",
-  "answer": "servant",
-  "glosses": {
-   "en": "servant",
-   "ja": "召使"
-  },
-  "choices": [
-   "sword",
-   "neck",
-   "academy",
-   "servant"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/ˈt͡sar̥t͡sʰ/",
-  "verified": true
- },
- {
-  "id": "mn-00742",
-  "category": "mongolian",
-  "prompt": "「саатал」の意味は？",
-  "answer": "delay",
-  "glosses": {
-   "en": "delay",
-   "ja": "遅延"
-  },
-  "choices": [
-   "bag",
-   "compliment",
-   "bold",
-   "delay"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/ˈsaːtʰəɮ/",
-  "verified": true
- },
- {
-  "id": "mn-00743",
-  "category": "mongolian",
-  "prompt": "「шүлэгч」の意味は？",
-  "answer": "poet",
-  "glosses": {
-   "en": "poet",
-   "ja": "詩人"
-  },
-  "choices": [
-   "poet",
-   "shell",
-   "parrot",
-   "sleeve"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "",
-  "verified": true
- },
- {
-  "id": "mn-00744",
-  "category": "mongolian",
-  "prompt": "「бүжигчин」の意味は？",
-  "answer": "dancer",
-  "glosses": {
-   "en": "dancer",
-   "ja": "ダンサー"
-  },
-  "choices": [
-   "dancer",
-   "treasure",
-   "to fall in love",
-   "chicken"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/put͡ɕəɡt͡ɕʰəŋ/",
-  "verified": true
- },
- {
-  "id": "mn-00745",
-  "category": "mongolian",
-  "prompt": "「үрэл」の意味は？",
-  "answer": "pill",
-  "glosses": {
-   "en": "pill",
-   "ja": "錠剤"
-  },
-  "choices": [
-   "mathematician",
-   "forever",
-   "rock",
-   "pill"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "[u.rɘ̝̆ɬ]",
-  "verified": true
- },
- {
-  "id": "mn-00746",
-  "category": "mongolian",
-  "prompt": "「тоосго」の意味は？",
-  "answer": "brick",
-  "glosses": {
-   "en": "brick",
-   "ja": "れんが"
-  },
-  "choices": [
-   "to dance",
-   "sleeve",
-   "brick",
-   "poet"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/ˈtʰoːsk/",
-  "verified": true
- },
- {
-  "id": "mn-00747",
-  "category": "mongolian",
-  "prompt": "「мангас」の意味は？",
-  "answer": "monster",
-  "glosses": {
-   "en": "monster",
-   "ja": "怪物"
-  },
-  "choices": [
-   "taste",
-   "monster",
-   "carpet",
-   "murder"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "[mäɴ.ɢɐ̆s]",
-  "verified": true
- },
- {
-  "id": "mn-00748",
-  "category": "mongolian",
-  "prompt": "「кальци」の意味は？",
-  "answer": "calcium",
-  "glosses": {
-   "en": "calcium",
-   "ja": "カルシウム"
-  },
-  "choices": [
-   "velvet",
-   "calcium",
-   "to lie down",
-   "sword"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/ˈkʰæːɬ.t͡sʰ/",
-  "verified": true
- },
- {
-  "id": "mn-00749",
-  "category": "mongolian",
-  "prompt": "「царцаа」の意味は？",
-  "answer": "grasshopper",
-  "glosses": {
-   "en": "grasshopper",
-   "ja": "バッタ"
-  },
-  "choices": [
-   "to cry",
-   "grasshopper",
-   "washing",
-   "asphalt"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "",
-  "verified": true
- },
- {
-  "id": "mn-00750",
-  "category": "mongolian",
-  "prompt": "「хатах」の意味は？",
-  "answer": "to dry",
-  "glosses": {
-   "en": "to dry",
-   "ja": "乾く"
-  },
-  "choices": [
-   "to dry",
-   "cloth",
-   "commander",
-   "comma"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "",
-  "verified": true
- },
- {
-  "id": "mn-00751",
-  "category": "mongolian",
-  "prompt": "「үнсэх」の意味は？",
-  "answer": "to kiss",
-  "glosses": {
-   "en": "to kiss",
-   "ja": "口づけする"
-  },
-  "choices": [
-   "to kiss",
-   "soup",
-   "calm",
-   "dictator"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/ˈunsex/",
-  "verified": true
- },
- {
-  "id": "mn-00752",
-  "category": "mongolian",
-  "prompt": "「таслал」の意味は？",
-  "answer": "comma",
-  "glosses": {
-   "en": "comma",
-   "ja": "コンマ"
-  },
-  "choices": [
-   "tank",
-   "continent",
-   "comma",
-   "washing"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/ˈtʰasɮaɮ/",
-  "verified": true
- },
- {
-  "id": "mn-00753",
-  "category": "mongolian",
-  "prompt": "「математикч」の意味は？",
-  "answer": "mathematician",
-  "glosses": {
-   "en": "mathematician",
-   "ja": "数学者"
-  },
-  "choices": [
-   "insult",
-   "to kiss",
-   "mathematician",
-   "shovel"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/ˈmatʰʲɵmatʰikʰt͡ɕʰ/",
-  "verified": true
- },
- {
-  "id": "mn-00754",
-  "category": "mongolian",
-  "prompt": "「шоколад」の意味は？",
-  "answer": "chocolate",
-  "glosses": {
-   "en": "chocolate",
-   "ja": "チョコレート"
-  },
-  "choices": [
-   "chocolate",
-   "to liken",
-   "neck",
-   "roof"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/ɕɔkʰˈɮat/",
-  "verified": true
- },
- {
-  "id": "mn-00755",
-  "category": "mongolian",
-  "prompt": "「цайз」の意味は？",
-  "answer": "castle",
-  "glosses": {
-   "en": "castle",
-   "ja": "城"
-  },
-  "choices": [
-   "sculpture",
-   "treasure",
-   "castle",
-   "miracle"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/tsʰaits/",
-  "verified": true
- },
- {
-  "id": "mn-00756",
-  "category": "mongolian",
-  "prompt": "「үүргэвч」の意味は？",
-  "answer": "backpack",
-  "glosses": {
-   "en": "backpack",
-   "ja": "リュックサック"
-  },
-  "choices": [
-   "to dry",
-   "forever",
-   "backpack",
-   "paradise"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/ˈuːrkew̜t͡ɕʰ/",
-  "verified": true
- },
- {
-  "id": "mn-00757",
-  "category": "mongolian",
-  "prompt": "「хөлбөмбөг」の意味は？",
-  "answer": "soccer",
-  "glosses": {
-   "en": "soccer",
-   "ja": "サッカー"
-  },
-  "choices": [
-   "calm",
-   "guitar",
-   "soccer",
-   "shadow"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "",
-  "verified": true
- },
- {
-  "id": "mn-00758",
-  "category": "mongolian",
-  "prompt": "「ферм」の意味は？",
-  "answer": "farm",
-  "glosses": {
-   "en": "farm",
-   "ja": "農場"
-  },
-  "choices": [
-   "to hit",
-   "farm",
-   "rock",
-   "insect"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/ˈfʲɵrm/",
-  "verified": true
- },
- {
-  "id": "mn-00759",
-  "category": "mongolian",
-  "prompt": "「уурхайчин」の意味は？",
-  "answer": "miner",
-  "glosses": {
-   "en": "miner",
-   "ja": "鉱夫"
-  },
-  "choices": [
-   "nerve",
-   "to resign",
-   "cowardly",
-   "miner"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "",
-  "verified": true
- },
- {
-  "id": "mn-00760",
-  "category": "mongolian",
-  "prompt": "「худалч」の意味は？",
-  "answer": "liar",
-  "glosses": {
-   "en": "liar",
-   "ja": "うそつき"
-  },
-  "choices": [
-   "pigeon",
-   "monster",
-   "liar",
-   "shell"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/xʊtəɮt͡ɕʰ/",
-  "verified": true
- },
- {
-  "id": "mn-00761",
-  "category": "mongolian",
-  "prompt": "「чирэх」の意味は？",
-  "answer": "to drag",
-  "glosses": {
-   "en": "to drag",
-   "ja": "引きずる"
-  },
-  "choices": [
-   "bow",
-   "defeat",
-   "delay",
-   "to drag"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "",
-  "verified": true
- },
- {
-  "id": "mn-00762",
-  "category": "mongolian",
-  "prompt": "「хүрз」の意味は？",
-  "answer": "shovel",
-  "glosses": {
-   "en": "shovel",
-   "ja": "シャベル"
-  },
-  "choices": [
-   "archer",
-   "crow",
-   "shovel",
-   "branch"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/xurts/",
-  "verified": true
- },
- {
-  "id": "mn-00763",
-  "category": "mongolian",
-  "prompt": "「таяг」の意味は？",
-  "answer": "walking stick",
-  "glosses": {
-   "en": "walking stick",
-   "ja": "杖"
-  },
-  "choices": [
-   "walking stick",
-   "liar",
-   "miracle",
-   "to cry"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/tʰajəɡ/",
-  "verified": true
- },
- {
-  "id": "mn-00764",
-  "category": "mongolian",
-  "prompt": "「хөнжил」の意味は？",
-  "answer": "blanket",
-  "glosses": {
-   "en": "blanket",
-   "ja": "毛布"
-  },
-  "choices": [
-   "compliment",
-   "shovel",
-   "to set",
-   "blanket"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/xɵnt͡ɕəɮ/",
-  "verified": true
- },
- {
-  "id": "mn-00765",
-  "category": "mongolian",
-  "prompt": "「шохой」の意味は？",
-  "answer": "lime",
-  "glosses": {
-   "en": "lime",
-   "ja": "石灰"
-  },
-  "choices": [
-   "worm",
-   "prayer",
-   "Tuesday",
-   "lime"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "",
-  "verified": true
- },
- {
-  "id": "mn-00766",
-  "category": "mongolian",
-  "prompt": "「хилэн」の意味は？",
-  "answer": "velvet",
-  "glosses": {
-   "en": "velvet",
-   "ja": "ベルベット"
-  },
-  "choices": [
-   "parrot",
-   "fox",
-   "sword",
-   "velvet"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "",
-  "verified": true
- },
- {
-  "id": "mn-00767",
-  "category": "mongolian",
-  "prompt": "「хөлдөх」の意味は？",
-  "answer": "to freeze",
-  "glosses": {
-   "en": "to freeze",
-   "ja": "凍る"
-  },
-  "choices": [
-   "to recharge",
-   "supermarket",
-   "to freeze",
-   "elbow"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/ˈxɵɮtɵx/",
-  "verified": true
- },
- {
-  "id": "mn-00768",
-  "category": "mongolian",
-  "prompt": "「хүчилтөрөгч」の意味は？",
-  "answer": "oxygen",
-  "glosses": {
-   "en": "oxygen",
-   "ja": "酸素"
-  },
-  "choices": [
-   "grave",
-   "recipe",
-   "curtain",
-   "oxygen"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/ˈxut͡ʃʰəɬtʰɵrəxt͡ʃʰ/",
-  "verified": true
- },
- {
-  "id": "mn-00769",
-  "category": "mongolian",
-  "prompt": "「трансформатор」の意味は？",
-  "answer": "transformer",
-  "glosses": {
-   "en": "transformer",
-   "ja": "変圧器"
-  },
-  "choices": [
-   "miner",
-   "transformer",
-   "to kiss",
-   "traitor"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/tʰransfɔrˈmatʰɔr̥/",
-  "verified": true
- },
- {
-  "id": "mn-00770",
-  "category": "mongolian",
-  "prompt": "「асфальт」の意味は？",
-  "answer": "asphalt",
-  "glosses": {
-   "en": "asphalt",
-   "ja": "アスファルト"
-  },
-  "choices": [
-   "reaction",
-   "asphalt",
-   "lime",
-   "tower"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "[äs.fäˑɬtʰ]",
-  "verified": true
- },
- {
-  "id": "mn-00771",
-  "category": "mongolian",
-  "prompt": "「хайч」の意味は？",
-  "answer": "scissors",
-  "glosses": {
-   "en": "scissors",
-   "ja": "はさみ"
-  },
-  "choices": [
-   "fox",
-   "announcement",
-   "scissors",
-   "sand"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "/xait͡ʃʰ/",
-  "verified": true
- },
- {
-  "id": "mn-00772",
-  "category": "mongolian",
-  "prompt": "「үгүйлэх」の意味は？",
-  "answer": "to miss",
-  "glosses": {
-   "en": "to miss",
-   "ja": "恋しがる"
-  },
-  "choices": [
-   "soap",
-   "towel",
-   "to miss",
-   "fox"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "",
-  "verified": true
- },
- {
-  "id": "mn-00773",
-  "category": "mongolian",
-  "prompt": "「тэнхлэг」の意味は？",
-  "answer": "axis",
-  "glosses": {
-   "en": "axis",
-   "ja": "軸"
-  },
-  "choices": [
-   "taste",
-   "to kiss",
-   "axis",
-   "crane"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "",
-  "verified": true
- },
- {
-  "id": "mn-00774",
-  "category": "mongolian",
-  "prompt": "「хясаа」の意味は？",
-  "answer": "shell",
-  "glosses": {
-   "en": "shell",
-   "ja": "貝"
-  },
-  "choices": [
-   "to cross",
-   "herd",
-   "shell",
-   "to deceive"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "",
-  "verified": true
- },
- {
-  "id": "mn-00775",
-  "category": "mongolian",
-  "prompt": "「чихэвч」の意味は？",
-  "answer": "headphones",
-  "glosses": {
-   "en": "headphones",
-   "ja": "ヘッドフォン"
-  },
-  "choices": [
-   "headphones",
-   "cow",
-   "socialism",
-   "soap"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "",
-  "verified": true
- }
+  {
+    "id": "mn-00519",
+    "category": "mongolian",
+    "prompt": "「унтах」の意味は？",
+    "answer": "to sleep",
+    "glosses": {
+      "en": "to sleep",
+      "ja": "眠る"
+    },
+    "choices": [
+      "wise",
+      "light",
+      "to sleep",
+      "skin"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/ʊntʰax/",
+    "verified": true
+  },
+  {
+    "id": "mn-00520",
+    "category": "mongolian",
+    "prompt": "「яндан」の意味は？",
+    "answer": "chimney",
+    "glosses": {
+      "en": "chimney",
+      "ja": "煙突"
+    },
+    "choices": [
+      "chimney",
+      "culture",
+      "currency",
+      "recipe"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/ˈjantaŋ/",
+    "verified": true
+  },
+  {
+    "id": "mn-00521",
+    "category": "mongolian",
+    "prompt": "「үнээ」の意味は？",
+    "answer": "cow",
+    "glosses": {
+      "en": "cow",
+      "ja": "雌牛"
+    },
+    "choices": [
+      "movie",
+      "corner",
+      "cow",
+      "to breathe"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/une/",
+    "verified": true
+  },
+  {
+    "id": "mn-00522",
+    "category": "mongolian",
+    "prompt": "「овог」の意味は？",
+    "answer": "surname",
+    "glosses": {
+      "en": "surname",
+      "ja": "姓"
+    },
+    "choices": [
+      "floor",
+      "surname",
+      "factory",
+      "bee"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/ˈɔwɔɡ/",
+    "verified": true
+  },
+  {
+    "id": "mn-00523",
+    "category": "mongolian",
+    "prompt": "「оффис」の意味は？",
+    "answer": "office",
+    "glosses": {
+      "en": "office",
+      "ja": "事務所"
+    },
+    "choices": [
+      "radio",
+      "dot",
+      "leadership",
+      "office"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/ˈɔfis/",
+    "verified": true
+  },
+  {
+    "id": "mn-00524",
+    "category": "mongolian",
+    "prompt": "「уут」の意味は？",
+    "answer": "bag",
+    "glosses": {
+      "en": "bag",
+      "ja": "袋"
+    },
+    "choices": [
+      "dad",
+      "bid",
+      "bag",
+      "Sunday"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/ʊːtʰ/",
+    "verified": true
+  },
+  {
+    "id": "mn-00525",
+    "category": "mongolian",
+    "prompt": "「хэвтэх」の意味は？",
+    "answer": "to lie down",
+    "glosses": {
+      "en": "to lie down",
+      "ja": "横たわる"
+    },
+    "choices": [
+      "simple",
+      "dried dung",
+      "compassion",
+      "to lie down"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/xew̜tʰəx/",
+    "verified": true
+  },
+  {
+    "id": "mn-00526",
+    "category": "mongolian",
+    "prompt": "「багана」の意味は？",
+    "answer": "pillar",
+    "glosses": {
+      "en": "pillar",
+      "ja": "柱"
+    },
+    "choices": [
+      "theory",
+      "liar",
+      "transparent",
+      "pillar"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/paɢan/",
+    "verified": true
+  },
+  {
+    "id": "mn-00527",
+    "category": "mongolian",
+    "prompt": "「хад」の意味は？",
+    "answer": "rock",
+    "glosses": {
+      "en": "rock",
+      "ja": "岩"
+    },
+    "choices": [
+      "gift",
+      "rock",
+      "life",
+      "parrot"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/xat/",
+    "verified": true
+  },
+  {
+    "id": "mn-00528",
+    "category": "mongolian",
+    "prompt": "「эвэр」の意味は？",
+    "answer": "horn",
+    "glosses": {
+      "en": "horn",
+      "ja": "ツノ"
+    },
+    "choices": [
+      "to fall in love",
+      "file",
+      "chair",
+      "horn"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "[e̝.w̜ɘ̆r]",
+    "verified": true
+  },
+  {
+    "id": "mn-00529",
+    "category": "mongolian",
+    "prompt": "「үүр」の意味は？",
+    "answer": "nest",
+    "glosses": {
+      "en": "nest",
+      "ja": "巣"
+    },
+    "choices": [
+      "flood",
+      "to choose",
+      "nest",
+      "table"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/uːr/",
+    "verified": true
+  },
+  {
+    "id": "mn-00530",
+    "category": "mongolian",
+    "prompt": "「ихэр」の意味は？",
+    "answer": "twin",
+    "glosses": {
+      "en": "twin",
+      "ja": "双子"
+    },
+    "choices": [
+      "monster",
+      "soul",
+      "stick",
+      "twin"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/ixər/",
+    "verified": true
+  },
+  {
+    "id": "mn-00531",
+    "category": "mongolian",
+    "prompt": "「зоримог」の意味は？",
+    "answer": "bold",
+    "glosses": {
+      "en": "bold",
+      "ja": "大胆な"
+    },
+    "choices": [
+      "network",
+      "bad",
+      "bold",
+      "radio"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/t͡sɔrʲəməɡ/",
+    "verified": true
+  },
+  {
+    "id": "mn-00532",
+    "category": "mongolian",
+    "prompt": "「удирдамж」の意味は？",
+    "answer": "guideline",
+    "glosses": {
+      "en": "guideline",
+      "ja": "指針"
+    },
+    "choices": [
+      "guideline",
+      "to hesitate",
+      "method",
+      "letter"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/ˈʊtirtamt͡ɕ/",
+    "verified": true
+  },
+  {
+    "id": "mn-00533",
+    "category": "mongolian",
+    "prompt": "「сүрэг」の意味は？",
+    "answer": "herd",
+    "glosses": {
+      "en": "herd",
+      "ja": "群れ"
+    },
+    "choices": [
+      "mathematician",
+      "herd",
+      "to sleep",
+      "earth"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/surəɡ/",
+    "verified": true
+  },
+  {
+    "id": "mn-00534",
+    "category": "mongolian",
+    "prompt": "「зоос」の意味は？",
+    "answer": "coin",
+    "glosses": {
+      "en": "coin",
+      "ja": "硬貨"
+    },
+    "choices": [
+      "coin",
+      "socialism",
+      "hole",
+      "output"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/tsɔːs/",
+    "verified": true
+  },
+  {
+    "id": "mn-00535",
+    "category": "mongolian",
+    "prompt": "「шөл」の意味は？",
+    "answer": "soup",
+    "glosses": {
+      "en": "soup",
+      "ja": "スープ"
+    },
+    "choices": [
+      "massage",
+      "soup",
+      "pig",
+      "to part"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/ʃɵɮ/",
+    "verified": true
+  },
+  {
+    "id": "mn-00536",
+    "category": "mongolian",
+    "prompt": "「туяа」の意味は？",
+    "answer": "ray",
+    "glosses": {
+      "en": "ray",
+      "ja": "光線"
+    },
+    "choices": [
+      "communism",
+      "quarrel",
+      "ray",
+      "sculpture"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/tʰʊjaː/",
+    "verified": true
+  },
+  {
+    "id": "mn-00537",
+    "category": "mongolian",
+    "prompt": "「жор」の意味は？",
+    "answer": "recipe",
+    "glosses": {
+      "en": "recipe",
+      "ja": "レシピ"
+    },
+    "choices": [
+      "recipe",
+      "distance",
+      "greeting",
+      "leisure"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/t͡ɕɔr/",
+    "verified": true
+  },
+  {
+    "id": "mn-00538",
+    "category": "mongolian",
+    "prompt": "「эргэлзэх」の意味は？",
+    "answer": "to hesitate",
+    "glosses": {
+      "en": "to hesitate",
+      "ja": "ためらう"
+    },
+    "choices": [
+      "to hesitate",
+      "to spread out",
+      "pair",
+      "price"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/erɡəɮt͡səx/",
+    "verified": true
+  },
+  {
+    "id": "mn-00539",
+    "category": "mongolian",
+    "prompt": "「дусал」の意味は？",
+    "answer": "drop",
+    "glosses": {
+      "en": "drop",
+      "ja": "しずく"
+    },
+    "choices": [
+      "soldier",
+      "girl",
+      "drop",
+      "wonderful"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/tʊsəɮ/",
+    "verified": true
+  },
+  {
+    "id": "mn-00540",
+    "category": "mongolian",
+    "prompt": "「тахиа」の意味は？",
+    "answer": "chicken",
+    "glosses": {
+      "en": "chicken",
+      "ja": "鶏"
+    },
+    "choices": [
+      "chicken",
+      "notebook",
+      "wolf",
+      "bridge"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/ˈtʰaxi̯aː/",
+    "verified": true
+  },
+  {
+    "id": "mn-00541",
+    "category": "mongolian",
+    "prompt": "「үнс」の意味は？",
+    "answer": "ash",
+    "glosses": {
+      "en": "ash",
+      "ja": "灰"
+    },
+    "choices": [
+      "to answer",
+      "neck",
+      "tame",
+      "ash"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/uns/",
+    "verified": true
+  },
+  {
+    "id": "mn-00542",
+    "category": "mongolian",
+    "prompt": "「урих」の意味は？",
+    "answer": "to invite",
+    "glosses": {
+      "en": "to invite",
+      "ja": "招待する"
+    },
+    "choices": [
+      "bread",
+      "radio",
+      "coin",
+      "to invite"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/ʊrix/",
+    "verified": true
+  },
+  {
+    "id": "mn-00543",
+    "category": "mongolian",
+    "prompt": "「намтар」の意味は？",
+    "answer": "biography",
+    "glosses": {
+      "en": "biography",
+      "ja": "伝記"
+    },
+    "choices": [
+      "covering",
+      "thief",
+      "biography",
+      "to finish"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/namtʰər/",
+    "verified": true
+  },
+  {
+    "id": "mn-00544",
+    "category": "mongolian",
+    "prompt": "「шавар」の意味は？",
+    "answer": "mud",
+    "glosses": {
+      "en": "mud",
+      "ja": "泥"
+    },
+    "choices": [
+      "ray",
+      "mud",
+      "Thursday",
+      "team"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/ʃawər/",
+    "verified": true
+  },
+  {
+    "id": "mn-00545",
+    "category": "mongolian",
+    "prompt": "「хахууль」の意味は？",
+    "answer": "bribe",
+    "glosses": {
+      "en": "bribe",
+      "ja": "わいろ"
+    },
+    "choices": [
+      "bribe",
+      "rain",
+      "well",
+      "sword"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/xaxʊɮʲ/",
+    "verified": true
+  },
+  {
+    "id": "mn-00546",
+    "category": "mongolian",
+    "prompt": "「сүнс」の意味は？",
+    "answer": "soul",
+    "glosses": {
+      "en": "soul",
+      "ja": "魂"
+    },
+    "choices": [
+      "to drink",
+      "soul",
+      "archer",
+      "container"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/suns/",
+    "verified": true
+  },
+  {
+    "id": "mn-00547",
+    "category": "mongolian",
+    "prompt": "「орчуулга」の意味は？",
+    "answer": "translation",
+    "glosses": {
+      "en": "translation",
+      "ja": "翻訳"
+    },
+    "choices": [
+      "spring",
+      "sunny",
+      "translation",
+      "key"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/ˈɔr̥t͡ɕʰʊːɮk/",
+    "verified": true
+  },
+  {
+    "id": "mn-00548",
+    "category": "mongolian",
+    "prompt": "「гайхамшиг」の意味は？",
+    "answer": "miracle",
+    "glosses": {
+      "en": "miracle",
+      "ja": "奇跡"
+    },
+    "choices": [
+      "miracle",
+      "requirement",
+      "countryside",
+      "salary"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/ɢaixamʃiɡ/",
+    "verified": true
+  },
+  {
+    "id": "mn-00549",
+    "category": "mongolian",
+    "prompt": "「дуулга」の意味は？",
+    "answer": "helmet",
+    "glosses": {
+      "en": "helmet",
+      "ja": "ヘルメット"
+    },
+    "choices": [
+      "conversation",
+      "wind",
+      "police",
+      "helmet"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/ˈduɮɢa/",
+    "verified": true
+  },
+  {
+    "id": "mn-00550",
+    "category": "mongolian",
+    "prompt": "「хөрөг」の意味は？",
+    "answer": "portrait",
+    "glosses": {
+      "en": "portrait",
+      "ja": "肖像画"
+    },
+    "choices": [
+      "prize",
+      "portrait",
+      "crisis",
+      "poplar"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/xɵrək/",
+    "verified": true
+  },
+  {
+    "id": "mn-00551",
+    "category": "mongolian",
+    "prompt": "「зурагчин」の意味は？",
+    "answer": "photographer",
+    "glosses": {
+      "en": "photographer",
+      "ja": "写真家"
+    },
+    "choices": [
+      "miner",
+      "leader",
+      "together",
+      "photographer"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/t͜sʊrx̠t͜ɕʰəŋ/",
+    "verified": true
+  },
+  {
+    "id": "mn-00552",
+    "category": "mongolian",
+    "prompt": "「амт」の意味は？",
+    "answer": "taste",
+    "glosses": {
+      "en": "taste",
+      "ja": "味"
+    },
+    "choices": [
+      "older sister",
+      "visa",
+      "taste",
+      "to fight"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/amtʰ/",
+    "verified": true
+  },
+  {
+    "id": "mn-00553",
+    "category": "mongolian",
+    "prompt": "「академи」の意味は？",
+    "answer": "academy",
+    "glosses": {
+      "en": "academy",
+      "ja": "アカデミー"
+    },
+    "choices": [
+      "wooden chest",
+      "academy",
+      "well",
+      "recipe"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "[äkʰ.teˑm]",
+    "verified": true
+  },
+  {
+    "id": "mn-00554",
+    "category": "mongolian",
+    "prompt": "「цуу」の意味は？",
+    "answer": "vinegar",
+    "glosses": {
+      "en": "vinegar",
+      "ja": "酢"
+    },
+    "choices": [
+      "requirement",
+      "garbage",
+      "vinegar",
+      "democracy"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "[ˈt͡sʰʊː]",
+    "verified": true
+  },
+  {
+    "id": "mn-00555",
+    "category": "mongolian",
+    "prompt": "「тэвчээр」の意味は？",
+    "answer": "patience",
+    "glosses": {
+      "en": "patience",
+      "ja": "忍耐"
+    },
+    "choices": [
+      "countryside",
+      "patience",
+      "inheritance",
+      "together"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/ˈtʰew̜t͡ɕʰeːr̥/",
+    "verified": true
+  },
+  {
+    "id": "mn-00556",
+    "category": "mongolian",
+    "prompt": "「мэдрэл」の意味は？",
+    "answer": "nerve",
+    "glosses": {
+      "en": "nerve",
+      "ja": "神経"
+    },
+    "choices": [
+      "bandage",
+      "nerve",
+      "mathematician",
+      "furniture"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/metrəɮ/",
+    "verified": true
+  },
+  {
+    "id": "mn-00557",
+    "category": "mongolian",
+    "prompt": "「ялагдал」の意味は？",
+    "answer": "defeat",
+    "glosses": {
+      "en": "defeat",
+      "ja": "敗北"
+    },
+    "choices": [
+      "defeat",
+      "chess",
+      "friend",
+      "to lie down"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/jaɮəɡtəɮ/",
+    "verified": true
+  },
+  {
+    "id": "mn-00558",
+    "category": "mongolian",
+    "prompt": "「ялагч」の意味は？",
+    "answer": "winner",
+    "glosses": {
+      "en": "winner",
+      "ja": "勝利者"
+    },
+    "choices": [
+      "virus",
+      "glass",
+      "winner",
+      "few"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/jaɮəɡt͡ɕʰ/",
+    "verified": true
+  },
+  {
+    "id": "mn-00559",
+    "category": "mongolian",
+    "prompt": "「дарангуйлал」の意味は？",
+    "answer": "dictatorship",
+    "glosses": {
+      "en": "dictatorship",
+      "ja": "独裁政治"
+    },
+    "choices": [
+      "dictatorship",
+      "tax",
+      "debt",
+      "shovel"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/tarəŋɡʊi̯ɮəɮ/",
+    "verified": true
+  },
+  {
+    "id": "mn-00560",
+    "category": "mongolian",
+    "prompt": "「мөнхөд」の意味は？",
+    "answer": "forever",
+    "glosses": {
+      "en": "forever",
+      "ja": "永久に"
+    },
+    "choices": [
+      "forever",
+      "luck",
+      "sack",
+      "virtue"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/mɵnxət/",
+    "verified": true
+  },
+  {
+    "id": "mn-00561",
+    "category": "mongolian",
+    "prompt": "「ачих」の意味は？",
+    "answer": "to load",
+    "glosses": {
+      "en": "to load",
+      "ja": "積む"
+    },
+    "choices": [
+      "to load",
+      "poet",
+      "worm",
+      "to translate"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/ˈat͡ɕʰix/",
+    "verified": true
+  },
+  {
+    "id": "mn-00562",
+    "category": "mongolian",
+    "prompt": "「социализм」の意味は？",
+    "answer": "socialism",
+    "glosses": {
+      "en": "socialism",
+      "ja": "社会主義"
+    },
+    "choices": [
+      "socialism",
+      "victory",
+      "ear",
+      "election"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/ˈsɔt͡sʰi̯aːɮit͡sm/",
+    "verified": true
+  },
+  {
+    "id": "mn-00563",
+    "category": "mongolian",
+    "prompt": "「өмд」の意味は？",
+    "answer": "trousers",
+    "glosses": {
+      "en": "trousers",
+      "ja": "ズボン"
+    },
+    "choices": [
+      "to drag",
+      "nomad",
+      "suddenly",
+      "trousers"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/ˈɵmt/",
+    "verified": true
+  },
+  {
+    "id": "mn-00564",
+    "category": "mongolian",
+    "prompt": "「мягмар」の意味は？",
+    "answer": "Tuesday",
+    "glosses": {
+      "en": "Tuesday",
+      "ja": "火曜日"
+    },
+    "choices": [
+      "curtain",
+      "Tuesday",
+      "to subtract",
+      "simple"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/miɡ.mə̠r/",
+    "verified": true
+  },
+  {
+    "id": "mn-00565",
+    "category": "mongolian",
+    "prompt": "「шарх」の意味は？",
+    "answer": "wound",
+    "glosses": {
+      "en": "wound",
+      "ja": "傷"
+    },
+    "choices": [
+      "stone",
+      "virtue",
+      "performance",
+      "wound"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/ʃarx/",
+    "verified": true
+  },
+  {
+    "id": "mn-00566",
+    "category": "mongolian",
+    "prompt": "「сэхээтэн」の意味は？",
+    "answer": "intellectual",
+    "glosses": {
+      "en": "intellectual",
+      "ja": "知識人"
+    },
+    "choices": [
+      "tea",
+      "cosmos",
+      "prize",
+      "intellectual"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/sexeːtʰəŋ/",
+    "verified": true
+  },
+  {
+    "id": "mn-00567",
+    "category": "mongolian",
+    "prompt": "「мэндчилгээ」の意味は？",
+    "answer": "greeting",
+    "glosses": {
+      "en": "greeting",
+      "ja": "あいさつ"
+    },
+    "choices": [
+      "to send",
+      "greeting",
+      "actor",
+      "consciousness"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/ˈmintt͡ʃʰiɮɡeː/",
+    "verified": true
+  },
+  {
+    "id": "mn-00568",
+    "category": "mongolian",
+    "prompt": "「тогооч」の意味は？",
+    "answer": "cook",
+    "glosses": {
+      "en": "cook",
+      "ja": "料理人"
+    },
+    "choices": [
+      "bag",
+      "goal",
+      "cook",
+      "lack"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/tʰɔɢɔːt͡ʃʰ/",
+    "verified": true
+  },
+  {
+    "id": "mn-00569",
+    "category": "mongolian",
+    "prompt": "「вагон」の意味は？",
+    "answer": "train car",
+    "glosses": {
+      "en": "train car",
+      "ja": "客車"
+    },
+    "choices": [
+      "train car",
+      "group",
+      "to load",
+      "shovel"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "[w̜ä.ɢɔˑɴ̟]",
+    "verified": true
+  },
+  {
+    "id": "mn-00570",
+    "category": "mongolian",
+    "prompt": "「цох」の意味は？",
+    "answer": "beetle",
+    "glosses": {
+      "en": "beetle",
+      "ja": "甲虫"
+    },
+    "choices": [
+      "joke",
+      "consciousness",
+      "object",
+      "beetle"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/tsʰɔx/",
+    "verified": true
+  },
+  {
+    "id": "mn-00571",
+    "category": "mongolian",
+    "prompt": "「галуу」の意味は？",
+    "answer": "goose",
+    "glosses": {
+      "en": "goose",
+      "ja": "ガチョウ"
+    },
+    "choices": [
+      "herdsman",
+      "portrait",
+      "goose",
+      "goal"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/ɢa.ɮʊː/",
+    "verified": true
+  },
+  {
+    "id": "mn-00572",
+    "category": "mongolian",
+    "prompt": "「шавьж」の意味は？",
+    "answer": "insect",
+    "glosses": {
+      "en": "insect",
+      "ja": "昆虫"
+    },
+    "choices": [
+      "eagle",
+      "roof",
+      "contract",
+      "insect"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/ʃaw̜ʲt͡ɕ/",
+    "verified": true
+  },
+  {
+    "id": "mn-00573",
+    "category": "mongolian",
+    "prompt": "「түрэмгий」の意味は？",
+    "answer": "aggressive",
+    "glosses": {
+      "en": "aggressive",
+      "ja": "攻撃的な"
+    },
+    "choices": [
+      "organ",
+      "to demand",
+      "aggressive",
+      "wildfire"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/tʰurəmɡiː/",
+    "verified": true
+  },
+  {
+    "id": "mn-00574",
+    "category": "mongolian",
+    "prompt": "「текст」の意味は？",
+    "answer": "text",
+    "glosses": {
+      "en": "text",
+      "ja": "本文"
+    },
+    "choices": [
+      "ear",
+      "tick",
+      "to invite",
+      "text"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/ˈtʰʲɵkʰstʰ/",
+    "verified": true
+  },
+  {
+    "id": "mn-00575",
+    "category": "mongolian",
+    "prompt": "「коммунизм」の意味は？",
+    "answer": "communism",
+    "glosses": {
+      "en": "communism",
+      "ja": "共産主義"
+    },
+    "choices": [
+      "schedule",
+      "to worship",
+      "cane",
+      "communism"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/kʰɔ.mʊ.niˑ.t͜sʊm/",
+    "verified": true
+  },
+  {
+    "id": "mn-00576",
+    "category": "mongolian",
+    "prompt": "「дэр」の意味は？",
+    "answer": "pillow",
+    "glosses": {
+      "en": "pillow",
+      "ja": "枕"
+    },
+    "choices": [
+      "ability",
+      "pillow",
+      "trousers",
+      "to lie down"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/ter/",
+    "verified": true
+  },
+  {
+    "id": "mn-00577",
+    "category": "mongolian",
+    "prompt": "「хун」の意味は？",
+    "answer": "swan",
+    "glosses": {
+      "en": "swan",
+      "ja": "ハクチョウ"
+    },
+    "choices": [
+      "to drag",
+      "style",
+      "swan",
+      "wise"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/xʊn/",
+    "verified": true
+  },
+  {
+    "id": "mn-00578",
+    "category": "mongolian",
+    "prompt": "「элс」の意味は？",
+    "answer": "sand",
+    "glosses": {
+      "en": "sand",
+      "ja": "砂"
+    },
+    "choices": [
+      "sand",
+      "chest",
+      "countryside",
+      "oil"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/eɮs/",
+    "verified": true
+  },
+  {
+    "id": "mn-00579",
+    "category": "mongolian",
+    "prompt": "「хурга」の意味は？",
+    "answer": "lamb",
+    "glosses": {
+      "en": "lamb",
+      "ja": "子羊"
+    },
+    "choices": [
+      "patience",
+      "lamb",
+      "protein",
+      "when"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/xʊrəɢ/",
+    "verified": true
+  },
+  {
+    "id": "mn-00580",
+    "category": "mongolian",
+    "prompt": "「хүзүү」の意味は？",
+    "answer": "neck",
+    "glosses": {
+      "en": "neck",
+      "ja": "首"
+    },
+    "choices": [
+      "coal",
+      "neck",
+      "law",
+      "mosquito"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/xut͡su/",
+    "verified": true
+  },
+  {
+    "id": "mn-00581",
+    "category": "mongolian",
+    "prompt": "「бөөр」の意味は？",
+    "answer": "kidney",
+    "glosses": {
+      "en": "kidney",
+      "ja": "腎臓"
+    },
+    "choices": [
+      "carpet",
+      "to insult",
+      "fine",
+      "kidney"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/poːr/",
+    "verified": true
+  },
+  {
+    "id": "mn-00582",
+    "category": "mongolian",
+    "prompt": "「зүү」の意味は？",
+    "answer": "needle",
+    "glosses": {
+      "en": "needle",
+      "ja": "針"
+    },
+    "choices": [
+      "liar",
+      "needle",
+      "bid",
+      "moment"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/t͡suː/",
+    "verified": true
+  },
+  {
+    "id": "mn-00583",
+    "category": "mongolian",
+    "prompt": "「хутга」の意味は？",
+    "answer": "knife",
+    "glosses": {
+      "en": "knife",
+      "ja": "ナイフ"
+    },
+    "choices": [
+      "democracy",
+      "cat",
+      "knife",
+      "photographer"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/xʊtʰəɢ/",
+    "verified": true
+  },
+  {
+    "id": "mn-00584",
+    "category": "mongolian",
+    "prompt": "「тохой」の意味は？",
+    "answer": "elbow",
+    "glosses": {
+      "en": "elbow",
+      "ja": "ひじ"
+    },
+    "choices": [
+      "elbow",
+      "herdsman",
+      "shoes",
+      "experience"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/tʰɔxɔi̯/",
+    "verified": true
+  },
+  {
+    "id": "mn-00585",
+    "category": "mongolian",
+    "prompt": "「тэмцэгч」の意味は？",
+    "answer": "fighter",
+    "glosses": {
+      "en": "fighter",
+      "ja": "闘士"
+    },
+    "choices": [
+      "to think",
+      "vaccine",
+      "horn",
+      "fighter"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/tʰemˈt͡sʰeɡt͡ʃʰ/",
+    "verified": true
+  },
+  {
+    "id": "mn-00586",
+    "category": "mongolian",
+    "prompt": "「эмээл」の意味は？",
+    "answer": "saddle",
+    "glosses": {
+      "en": "saddle",
+      "ja": "鞍"
+    },
+    "choices": [
+      "backpack",
+      "saddle",
+      "schedule",
+      "competitor"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/iˈmeːɮ/",
+    "verified": true
+  },
+  {
+    "id": "mn-00587",
+    "category": "mongolian",
+    "prompt": "「дэлгэх」の意味は？",
+    "answer": "to spread out",
+    "glosses": {
+      "en": "to spread out",
+      "ja": "広げる"
+    },
+    "choices": [
+      "to spread out",
+      "to visit",
+      "quarrel",
+      "snack"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/teɮɡəx/",
+    "verified": true
+  },
+  {
+    "id": "mn-00588",
+    "category": "mongolian",
+    "prompt": "「булш」の意味は？",
+    "answer": "grave",
+    "glosses": {
+      "en": "grave",
+      "ja": "墓"
+    },
+    "choices": [
+      "grave",
+      "competitor",
+      "head",
+      "to occupy"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/pʊɮʃ/",
+    "verified": true
+  },
+  {
+    "id": "mn-00589",
+    "category": "mongolian",
+    "prompt": "「огцрох」の意味は？",
+    "answer": "to resign",
+    "glosses": {
+      "en": "to resign",
+      "ja": "辞任する"
+    },
+    "choices": [
+      "bag",
+      "to resign",
+      "shell",
+      "code"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/ɔɡt͡sʰrəx/",
+    "verified": true
+  },
+  {
+    "id": "mn-00590",
+    "category": "mongolian",
+    "prompt": "「ханцуй」の意味は？",
+    "answer": "sleeve",
+    "glosses": {
+      "en": "sleeve",
+      "ja": "袖"
+    },
+    "choices": [
+      "storm",
+      "Friday",
+      "ash",
+      "sleeve"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/xant͡sʰʊi̯/",
+    "verified": true
+  },
+  {
+    "id": "mn-00591",
+    "category": "mongolian",
+    "prompt": "「хөдөлгүүр」の意味は？",
+    "answer": "engine",
+    "glosses": {
+      "en": "engine",
+      "ja": "エンジン"
+    },
+    "choices": [
+      "prison",
+      "container",
+      "engine",
+      "debt"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/xɵtəɮɡuːr/",
+    "verified": true
+  },
+  {
+    "id": "mn-00592",
+    "category": "mongolian",
+    "prompt": "「намхан」の意味は？",
+    "answer": "low",
+    "glosses": {
+      "en": "low",
+      "ja": "低い"
+    },
+    "choices": [
+      "reader",
+      "debt",
+      "actor",
+      "low"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/namxəŋ/",
+    "verified": true
+  },
+  {
+    "id": "mn-00593",
+    "category": "mongolian",
+    "prompt": "「сансар」の意味は？",
+    "answer": "cosmos",
+    "glosses": {
+      "en": "cosmos",
+      "ja": "宇宙"
+    },
+    "choices": [
+      "to sew",
+      "cosmos",
+      "obstacle",
+      "to worship"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/sansər/",
+    "verified": true
+  },
+  {
+    "id": "mn-00594",
+    "category": "mongolian",
+    "prompt": "「шатар」の意味は？",
+    "answer": "chess",
+    "glosses": {
+      "en": "chess",
+      "ja": "チェス"
+    },
+    "choices": [
+      "chess",
+      "version",
+      "thumb",
+      "fast"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/ʃatʰər/",
+    "verified": true
+  },
+  {
+    "id": "mn-00595",
+    "category": "mongolian",
+    "prompt": "「онигоо」の意味は？",
+    "answer": "joke",
+    "glosses": {
+      "en": "joke",
+      "ja": "冗談"
+    },
+    "choices": [
+      "to steal",
+      "representative",
+      "joke",
+      "house"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/ˈɔniɣoː/",
+    "verified": true
+  },
+  {
+    "id": "mn-00596",
+    "category": "mongolian",
+    "prompt": "「сүүдэр」の意味は？",
+    "answer": "shadow",
+    "glosses": {
+      "en": "shadow",
+      "ja": "影"
+    },
+    "choices": [
+      "bee",
+      "to resign",
+      "guest",
+      "shadow"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/suːtər/",
+    "verified": true
+  },
+  {
+    "id": "mn-00597",
+    "category": "mongolian",
+    "prompt": "「хөөх」の意味は？",
+    "answer": "to chase away",
+    "glosses": {
+      "en": "to chase away",
+      "ja": "追い払う"
+    },
+    "choices": [
+      "calcium",
+      "to chase away",
+      "resource",
+      "tank"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/xɵːx/",
+    "verified": true
+  },
+  {
+    "id": "mn-00598",
+    "category": "mongolian",
+    "prompt": "「сэжиг」の意味は？",
+    "answer": "suspicion",
+    "glosses": {
+      "en": "suspicion",
+      "ja": "疑惑"
+    },
+    "choices": [
+      "side",
+      "prayer",
+      "suspicion",
+      "blood"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/sit͡ɕəɡ/",
+    "verified": true
+  },
+  {
+    "id": "mn-00599",
+    "category": "mongolian",
+    "prompt": "「ахих」の意味は？",
+    "answer": "to advance",
+    "glosses": {
+      "en": "to advance",
+      "ja": "前進する"
+    },
+    "choices": [
+      "glove",
+      "intellectual",
+      "to advance",
+      "consciousness"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/axix/",
+    "verified": true
+  },
+  {
+    "id": "mn-00600",
+    "category": "mongolian",
+    "prompt": "「сохор」の意味は？",
+    "answer": "blind",
+    "glosses": {
+      "en": "blind",
+      "ja": "目の見えない"
+    },
+    "choices": [
+      "illness",
+      "organ",
+      "blind",
+      "to rest"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/sɔxər/",
+    "verified": true
+  },
+  {
+    "id": "mn-00601",
+    "category": "mongolian",
+    "prompt": "「тив」の意味は？",
+    "answer": "continent",
+    "glosses": {
+      "en": "continent",
+      "ja": "大陸"
+    },
+    "choices": [
+      "nail",
+      "distance",
+      "magazine",
+      "continent"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/ˈtʰiw̜/",
+    "verified": true
+  },
+  {
+    "id": "mn-00602",
+    "category": "mongolian",
+    "prompt": "「тогоруу」の意味は？",
+    "answer": "crane",
+    "glosses": {
+      "en": "crane",
+      "ja": "ツル"
+    },
+    "choices": [
+      "crane",
+      "head",
+      "theory",
+      "grasshopper"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/tʰɔɡərʊː/",
+    "verified": true
+  },
+  {
+    "id": "mn-00603",
+    "category": "mongolian",
+    "prompt": "「бослого」の意味は？",
+    "answer": "uprising",
+    "glosses": {
+      "en": "uprising",
+      "ja": "反乱"
+    },
+    "choices": [
+      "to vomit",
+      "nut",
+      "uprising",
+      "to turn"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/pɔsɮəɢ/",
+    "verified": true
+  },
+  {
+    "id": "mn-00604",
+    "category": "mongolian",
+    "prompt": "「баримал」の意味は？",
+    "answer": "sculpture",
+    "glosses": {
+      "en": "sculpture",
+      "ja": "彫刻"
+    },
+    "choices": [
+      "pillow",
+      "tame",
+      "exchange rate",
+      "sculpture"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/pariməɮ/",
+    "verified": true
+  },
+  {
+    "id": "mn-00605",
+    "category": "mongolian",
+    "prompt": "「аянга」の意味は？",
+    "answer": "thunder",
+    "glosses": {
+      "en": "thunder",
+      "ja": "雷鳴"
+    },
+    "choices": [
+      "winter",
+      "thunder",
+      "progress",
+      "skin"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/ajaŋɡə/",
+    "verified": true
+  },
+  {
+    "id": "mn-00606",
+    "category": "mongolian",
+    "prompt": "「айлчлах」の意味は？",
+    "answer": "to visit",
+    "glosses": {
+      "en": "to visit",
+      "ja": "訪問する"
+    },
+    "choices": [
+      "snot",
+      "tea",
+      "wave",
+      "to visit"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/ˈai̯ɮt͡ɕʰɮəx/",
+    "verified": true
+  },
+  {
+    "id": "mn-00607",
+    "category": "mongolian",
+    "prompt": "「пуужин」の意味は？",
+    "answer": "rocket",
+    "glosses": {
+      "en": "rocket",
+      "ja": "ロケット"
+    },
+    "choices": [
+      "to begin",
+      "victory",
+      "base",
+      "rocket"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/pʰʊːt͡ɕəŋ/",
+    "verified": true
+  },
+  {
+    "id": "mn-00608",
+    "category": "mongolian",
+    "prompt": "「урвал」の意味は？",
+    "answer": "reaction",
+    "glosses": {
+      "en": "reaction",
+      "ja": "化学反応"
+    },
+    "choices": [
+      "reaction",
+      "to recognize",
+      "temple",
+      "religion"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/ʊrw̜əɮ/",
+    "verified": true
+  },
+  {
+    "id": "mn-00609",
+    "category": "mongolian",
+    "prompt": "「дарангуйлагч」の意味は？",
+    "answer": "dictator",
+    "glosses": {
+      "en": "dictator",
+      "ja": "独裁者"
+    },
+    "choices": [
+      "year",
+      "part",
+      "grave",
+      "dictator"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/ˈtaraŋkʊi̯ɮakt͡ɕʰ/",
+    "verified": true
+  },
+  {
+    "id": "mn-00610",
+    "category": "mongolian",
+    "prompt": "「шивээс」の意味は？",
+    "answer": "tattoo",
+    "glosses": {
+      "en": "tattoo",
+      "ja": "入れ墨"
+    },
+    "choices": [
+      "stairs",
+      "glove",
+      "user",
+      "tattoo"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/ʃiwes/",
+    "verified": true
+  },
+  {
+    "id": "mn-00611",
+    "category": "mongolian",
+    "prompt": "「магтаал」の意味は？",
+    "answer": "compliment",
+    "glosses": {
+      "en": "compliment",
+      "ja": "ほめ言葉"
+    },
+    "choices": [
+      "compliment",
+      "soccer",
+      "job",
+      "weight"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/maɡtʰaɮ/",
+    "verified": true
+  },
+  {
+    "id": "mn-00612",
+    "category": "mongolian",
+    "prompt": "「үдэш」の意味は？",
+    "answer": "evening",
+    "glosses": {
+      "en": "evening",
+      "ja": "夕方"
+    },
+    "choices": [
+      "dad",
+      "evening",
+      "to press",
+      "culture"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/ˈuteɕ/",
+    "verified": true
+  },
+  {
+    "id": "mn-00613",
+    "category": "mongolian",
+    "prompt": "「маргах」の意味は？",
+    "answer": "to argue",
+    "glosses": {
+      "en": "to argue",
+      "ja": "言い争う"
+    },
+    "choices": [
+      "wind",
+      "to argue",
+      "to swim",
+      "application"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/ˈmarɢax/",
+    "verified": true
+  },
+  {
+    "id": "mn-00614",
+    "category": "mongolian",
+    "prompt": "「баглаа」の意味は？",
+    "answer": "bundle",
+    "glosses": {
+      "en": "bundle",
+      "ja": "たば"
+    },
+    "choices": [
+      "continent",
+      "bundle",
+      "miner",
+      "felt"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/ˈpakɮaː/",
+    "verified": true
+  },
+  {
+    "id": "mn-00615",
+    "category": "mongolian",
+    "prompt": "「дипломатч」の意味は？",
+    "answer": "diplomat",
+    "glosses": {
+      "en": "diplomat",
+      "ja": "外交官"
+    },
+    "choices": [
+      "diplomat",
+      "wool",
+      "village",
+      "soft"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/ˈtipʰɮɔmatʰt͡ɕʰ/",
+    "verified": true
+  },
+  {
+    "id": "mn-00616",
+    "category": "mongolian",
+    "prompt": "「хөгжимчин」の意味は？",
+    "answer": "musician",
+    "glosses": {
+      "en": "musician",
+      "ja": "音楽家"
+    },
+    "choices": [
+      "guideline",
+      "musician",
+      "prisoner",
+      "rib"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/xoɡt͡ɕəmt͡ɕʰəŋ/",
+    "verified": true
+  },
+  {
+    "id": "mn-00617",
+    "category": "mongolian",
+    "prompt": "「хоригдол」の意味は？",
+    "answer": "prisoner",
+    "glosses": {
+      "en": "prisoner",
+      "ja": "囚人"
+    },
+    "choices": [
+      "prisoner",
+      "soap",
+      "salt",
+      "computer"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/xɔriɡtəɮ/",
+    "verified": true
+  },
+  {
+    "id": "mn-00618",
+    "category": "mongolian",
+    "prompt": "「хүчил」の意味は？",
+    "answer": "acid",
+    "glosses": {
+      "en": "acid",
+      "ja": "酸"
+    },
+    "choices": [
+      "transformer",
+      "acid",
+      "bee",
+      "parrot"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/xut͡ɕʰiɮ/",
+    "verified": true
+  },
+  {
+    "id": "mn-00619",
+    "category": "mongolian",
+    "prompt": "「алчуур」の意味は？",
+    "answer": "towel",
+    "glosses": {
+      "en": "towel",
+      "ja": "タオル"
+    },
+    "choices": [
+      "theory",
+      "towel",
+      "to turn",
+      "period"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/aɮt͡ʃʊːr/",
+    "verified": true
+  },
+  {
+    "id": "mn-00620",
+    "category": "mongolian",
+    "prompt": "「нисгэгч」の意味は？",
+    "answer": "pilot",
+    "glosses": {
+      "en": "pilot",
+      "ja": "パイロット"
+    },
+    "choices": [
+      "pilot",
+      "income",
+      "quality",
+      "few"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/nis.ɡeɡt͡ʃʰ/",
+    "verified": true
+  },
+  {
+    "id": "mn-00621",
+    "category": "mongolian",
+    "prompt": "「аллага」の意味は？",
+    "answer": "murder",
+    "glosses": {
+      "en": "murder",
+      "ja": "殺人"
+    },
+    "choices": [
+      "snake",
+      "garbage",
+      "murder",
+      "nomad"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/ˈaɮːaɣ/",
+    "verified": true
+  },
+  {
+    "id": "mn-00622",
+    "category": "mongolian",
+    "prompt": "「командлагч」の意味は？",
+    "answer": "commander",
+    "glosses": {
+      "en": "commander",
+      "ja": "指揮官"
+    },
+    "choices": [
+      "stick",
+      "lion",
+      "commander",
+      "to play"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/ˈkʰɔmantɮakt͡ɕʰ/",
+    "verified": true
+  },
+  {
+    "id": "mn-00623",
+    "category": "mongolian",
+    "prompt": "「зурхай」の意味は？",
+    "answer": "astrology",
+    "glosses": {
+      "en": "astrology",
+      "ja": "占星術"
+    },
+    "choices": [
+      "agency",
+      "astrology",
+      "wolf",
+      "bandage"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/ˈt͡sʊrxɛː/",
+    "verified": true
+  },
+  {
+    "id": "mn-00624",
+    "category": "mongolian",
+    "prompt": "「төрөлт」の意味は？",
+    "answer": "birth",
+    "glosses": {
+      "en": "birth",
+      "ja": "誕生"
+    },
+    "choices": [
+      "snake",
+      "village",
+      "coin",
+      "birth"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/tʰɵrəɮtʰ/",
+    "verified": true
+  },
+  {
+    "id": "mn-00625",
+    "category": "mongolian",
+    "prompt": "「хорхой」の意味は？",
+    "answer": "worm",
+    "glosses": {
+      "en": "worm",
+      "ja": "虫"
+    },
+    "choices": [
+      "soldier",
+      "onion",
+      "to argue",
+      "worm"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/ˈxɔrxɔi̯/",
+    "verified": true
+  },
+  {
+    "id": "mn-00626",
+    "category": "mongolian",
+    "prompt": "「эсгий」の意味は？",
+    "answer": "felt",
+    "glosses": {
+      "en": "felt",
+      "ja": "フェルト"
+    },
+    "choices": [
+      "to cry",
+      "felt",
+      "snake",
+      "wildfire"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/isɡi/",
+    "verified": true
+  },
+  {
+    "id": "mn-00627",
+    "category": "mongolian",
+    "prompt": "「уйлах」の意味は？",
+    "answer": "to cry",
+    "glosses": {
+      "en": "to cry",
+      "ja": "泣く"
+    },
+    "choices": [
+      "exchange rate",
+      "to cry",
+      "brick",
+      "picture"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/ʊi̯ɮəx/",
+    "verified": true
+  },
+  {
+    "id": "mn-00628",
+    "category": "mongolian",
+    "prompt": "「найтаах」の意味は？",
+    "answer": "to sneeze",
+    "glosses": {
+      "en": "to sneeze",
+      "ja": "くしゃみをする"
+    },
+    "choices": [
+      "to sneeze",
+      "flour",
+      "pair",
+      "tattoo"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/naitʰax/",
+    "verified": true
+  },
+  {
+    "id": "mn-00629",
+    "category": "mongolian",
+    "prompt": "「ангилах」の意味は？",
+    "answer": "to classify",
+    "glosses": {
+      "en": "to classify",
+      "ja": "分類する"
+    },
+    "choices": [
+      "to classify",
+      "to punish",
+      "insult",
+      "tea"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/aŋɡiɮəx/",
+    "verified": true
+  },
+  {
+    "id": "mn-00630",
+    "category": "mongolian",
+    "prompt": "「шүтэх」の意味は？",
+    "answer": "to worship",
+    "glosses": {
+      "en": "to worship",
+      "ja": "崇拝する"
+    },
+    "choices": [
+      "curtain",
+      "servant",
+      "culture",
+      "to worship"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/ʃutʰəx/",
+    "verified": true
+  },
+  {
+    "id": "mn-00631",
+    "category": "mongolian",
+    "prompt": "「худалдагч」の意味は？",
+    "answer": "salesperson",
+    "glosses": {
+      "en": "salesperson",
+      "ja": "販売員"
+    },
+    "choices": [
+      "to swim",
+      "salesperson",
+      "evening",
+      "part"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/xʊtəɮtəɡt͡ɕʰ/",
+    "verified": true
+  },
+  {
+    "id": "mn-00632",
+    "category": "mongolian",
+    "prompt": "「цэнэглэх」の意味は？",
+    "answer": "to recharge",
+    "glosses": {
+      "en": "to recharge",
+      "ja": "充電する"
+    },
+    "choices": [
+      "army",
+      "to recharge",
+      "interest",
+      "to go"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/ˈt͡sʰenekɮex/",
+    "verified": true
+  },
+  {
+    "id": "mn-00633",
+    "category": "mongolian",
+    "prompt": "「энэрэл」の意味は？",
+    "answer": "compassion",
+    "glosses": {
+      "en": "compassion",
+      "ja": "思いやり"
+    },
+    "choices": [
+      "compassion",
+      "mouth",
+      "taxi",
+      "salt"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/enərəɮ/",
+    "verified": true
+  },
+  {
+    "id": "mn-00634",
+    "category": "mongolian",
+    "prompt": "「трактор」の意味は？",
+    "answer": "tractor",
+    "glosses": {
+      "en": "tractor",
+      "ja": "トラクター"
+    },
+    "choices": [
+      "bar",
+      "curtain",
+      "tractor",
+      "to change"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/ˈtʰrakʰtʰər̥/",
+    "verified": true
+  },
+  {
+    "id": "mn-00635",
+    "category": "mongolian",
+    "prompt": "「тугал」の意味は？",
+    "answer": "calf",
+    "glosses": {
+      "en": "calf",
+      "ja": "子牛"
+    },
+    "choices": [
+      "calf",
+      "bronze",
+      "doctor",
+      "journalist"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/tʰʊɢaɮ/",
+    "verified": true
+  },
+  {
+    "id": "mn-00636",
+    "category": "mongolian",
+    "prompt": "「бүргэд」の意味は？",
+    "answer": "eagle",
+    "glosses": {
+      "en": "eagle",
+      "ja": "ワシ"
+    },
+    "choices": [
+      "eagle",
+      "dust",
+      "production",
+      "formula"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/purɡət/",
+    "verified": true
+  },
+  {
+    "id": "mn-00637",
+    "category": "mongolian",
+    "prompt": "「будаг」の意味は？",
+    "answer": "paint",
+    "glosses": {
+      "en": "paint",
+      "ja": "塗料"
+    },
+    "choices": [
+      "paint",
+      "dancer",
+      "chicken",
+      "side"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/pʊtək/",
+    "verified": true
+  },
+  {
+    "id": "mn-00638",
+    "category": "mongolian",
+    "prompt": "「тоть」の意味は？",
+    "answer": "parrot",
+    "glosses": {
+      "en": "parrot",
+      "ja": "オウム"
+    },
+    "choices": [
+      "to dry",
+      "parrot",
+      "group",
+      "client"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/tʰœtʰ/",
+    "verified": true
+  },
+  {
+    "id": "mn-00639",
+    "category": "mongolian",
+    "prompt": "「болхи」の意味は？",
+    "answer": "clumsy",
+    "glosses": {
+      "en": "clumsy",
+      "ja": "不器用な"
+    },
+    "choices": [
+      "success",
+      "to hear",
+      "responsibility",
+      "clumsy"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/pɔɮxʲ/",
+    "verified": true
+  },
+  {
+    "id": "mn-00640",
+    "category": "mongolian",
+    "prompt": "「хэрээ」の意味は？",
+    "answer": "crow",
+    "glosses": {
+      "en": "crow",
+      "ja": "カラス"
+    },
+    "choices": [
+      "crow",
+      "law",
+      "mail",
+      "to spread out"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/xereː/",
+    "verified": true
+  },
+  {
+    "id": "mn-00641",
+    "category": "mongolian",
+    "prompt": "「танк」の意味は？",
+    "answer": "tank",
+    "glosses": {
+      "en": "tank",
+      "ja": "戦車"
+    },
+    "choices": [
+      "tank",
+      "page",
+      "driver",
+      "transparent"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "[tʰäˑɴ̟̊q˖ʰ]",
+    "verified": true
+  },
+  {
+    "id": "mn-00642",
+    "category": "mongolian",
+    "prompt": "「фронт」の意味は？",
+    "answer": "front",
+    "glosses": {
+      "en": "front",
+      "ja": "戦線"
+    },
+    "choices": [
+      "client",
+      "front",
+      "to think",
+      "tax"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/frɔˑntʰ/",
+    "verified": true
+  },
+  {
+    "id": "mn-00643",
+    "category": "mongolian",
+    "prompt": "「тагтаа」の意味は？",
+    "answer": "pigeon",
+    "glosses": {
+      "en": "pigeon",
+      "ja": "ハト"
+    },
+    "choices": [
+      "uprising",
+      "cosmos",
+      "goose",
+      "pigeon"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/tʰaɡtʰaː/",
+    "verified": true
+  },
+  {
+    "id": "mn-00644",
+    "category": "mongolian",
+    "prompt": "「файл」の意味は？",
+    "answer": "file",
+    "glosses": {
+      "en": "file",
+      "ja": "ファイル"
+    },
+    "choices": [
+      "worker",
+      "file",
+      "public service",
+      "archer"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/ˈfɛːɮ/",
+    "verified": true
+  },
+  {
+    "id": "mn-00645",
+    "category": "mongolian",
+    "prompt": "「мартах」の意味は？",
+    "answer": "to forget",
+    "glosses": {
+      "en": "to forget",
+      "ja": "忘れる"
+    },
+    "choices": [
+      "salesperson",
+      "work",
+      "to forget",
+      "queen"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/martəx/",
+    "verified": true
+  },
+  {
+    "id": "mn-00646",
+    "category": "mongolian",
+    "prompt": "「саван」の意味は？",
+    "answer": "soap",
+    "glosses": {
+      "en": "soap",
+      "ja": "石けん"
+    },
+    "choices": [
+      "real",
+      "progress",
+      "ankle",
+      "soap"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/ˈsaw̜aŋ/",
+    "verified": true
+  },
+  {
+    "id": "mn-00647",
+    "category": "mongolian",
+    "prompt": "「алим」の意味は？",
+    "answer": "apple",
+    "glosses": {
+      "en": "apple",
+      "ja": "リンゴ"
+    },
+    "choices": [
+      "apple",
+      "continent",
+      "actor",
+      "patch"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "[æ̝.ɮɪ̆m]",
+    "verified": true
+  },
+  {
+    "id": "mn-00648",
+    "category": "mongolian",
+    "prompt": "「нум」の意味は？",
+    "answer": "bow",
+    "glosses": {
+      "en": "bow",
+      "ja": "弓"
+    },
+    "choices": [
+      "wooden chest",
+      "death",
+      "conversation",
+      "bow"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/nʊm/",
+    "verified": true
+  },
+  {
+    "id": "mn-00649",
+    "category": "mongolian",
+    "prompt": "「хүйс」の意味は？",
+    "answer": "gender",
+    "glosses": {
+      "en": "gender",
+      "ja": "性別"
+    },
+    "choices": [
+      "company",
+      "chest",
+      "gender",
+      "wave"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/xui̯s/",
+    "verified": true
+  },
+  {
+    "id": "mn-00650",
+    "category": "mongolian",
+    "prompt": "「таваг」の意味は？",
+    "answer": "plate",
+    "glosses": {
+      "en": "plate",
+      "ja": "皿"
+    },
+    "choices": [
+      "experience",
+      "sand",
+      "plate",
+      "bid"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/tʰaw̜ək/",
+    "verified": true
+  },
+  {
+    "id": "mn-00651",
+    "category": "mongolian",
+    "prompt": "「халбага」の意味は？",
+    "answer": "spoon",
+    "glosses": {
+      "en": "spoon",
+      "ja": "スプーン"
+    },
+    "choices": [
+      "soup",
+      "winner",
+      "spoon",
+      "lake"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/xaɮpəɡə/",
+    "verified": true
+  },
+  {
+    "id": "mn-00652",
+    "category": "mongolian",
+    "prompt": "「жорлон」の意味は？",
+    "answer": "toilet",
+    "glosses": {
+      "en": "toilet",
+      "ja": "トイレ"
+    },
+    "choices": [
+      "toilet",
+      "fast",
+      "helmet",
+      "eagle"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/t͡ɕɔrɮəŋ/",
+    "verified": true
+  },
+  {
+    "id": "mn-00653",
+    "category": "mongolian",
+    "prompt": "「хавирга」の意味は？",
+    "answer": "rib",
+    "glosses": {
+      "en": "rib",
+      "ja": "肋骨"
+    },
+    "choices": [
+      "murder",
+      "rib",
+      "heart",
+      "bitter"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/xawʲrəɢ/",
+    "verified": true
+  },
+  {
+    "id": "mn-00654",
+    "category": "mongolian",
+    "prompt": "「майхан」の意味は？",
+    "answer": "tent",
+    "glosses": {
+      "en": "tent",
+      "ja": "テント"
+    },
+    "choices": [
+      "tent",
+      "bundle",
+      "expert",
+      "hard"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/maixaŋ/",
+    "verified": true
+  },
+  {
+    "id": "mn-00655",
+    "category": "mongolian",
+    "prompt": "「шагай」の意味は？",
+    "answer": "ankle",
+    "glosses": {
+      "en": "ankle",
+      "ja": "足首"
+    },
+    "choices": [
+      "change",
+      "to drag",
+      "ankle",
+      "hat"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/ʃaɡai̯/",
+    "verified": true
+  },
+  {
+    "id": "mn-00656",
+    "category": "mongolian",
+    "prompt": "「гитар」の意味は？",
+    "answer": "guitar",
+    "glosses": {
+      "en": "guitar",
+      "ja": "ギター"
+    },
+    "choices": [
+      "headphones",
+      "to speak",
+      "well",
+      "guitar"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/ˈkitʰar̥/",
+    "verified": true
+  },
+  {
+    "id": "mn-00657",
+    "category": "mongolian",
+    "prompt": "「үрэх」の意味は？",
+    "answer": "to rub",
+    "glosses": {
+      "en": "to rub",
+      "ja": "こする"
+    },
+    "choices": [
+      "beggar",
+      "to rub",
+      "pen",
+      "sleeve"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/urəx/",
+    "verified": true
+  },
+  {
+    "id": "mn-00658",
+    "category": "mongolian",
+    "prompt": "「гатлах」の意味は？",
+    "answer": "to cross",
+    "glosses": {
+      "en": "to cross",
+      "ja": "横切る"
+    },
+    "choices": [
+      "to resign",
+      "bundle",
+      "to cross",
+      "nation"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/ɢatʰɮəx/",
+    "verified": true
+  },
+  {
+    "id": "mn-00659",
+    "category": "mongolian",
+    "prompt": "「дээвэр」の意味は？",
+    "answer": "roof",
+    "glosses": {
+      "en": "roof",
+      "ja": "屋根"
+    },
+    "choices": [
+      "suddenly",
+      "autumn",
+      "dictator",
+      "roof"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/teːw̜ər/",
+    "verified": true
+  },
+  {
+    "id": "mn-00660",
+    "category": "mongolian",
+    "prompt": "「инээх」の意味は？",
+    "answer": "to laugh",
+    "glosses": {
+      "en": "to laugh",
+      "ja": "笑う"
+    },
+    "choices": [
+      "hot",
+      "to laugh",
+      "resource",
+      "to freeze"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/ineːx/",
+    "verified": true
+  },
+  {
+    "id": "mn-00661",
+    "category": "mongolian",
+    "prompt": "「мөндөр」の意味は？",
+    "answer": "hail",
+    "glosses": {
+      "en": "hail",
+      "ja": "雹"
+    },
+    "choices": [
+      "hail",
+      "to press",
+      "to catch up",
+      "worker"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "[mɵ̞n.tɵr]",
+    "verified": true
+  },
+  {
+    "id": "mn-00662",
+    "category": "mongolian",
+    "prompt": "「атаа」の意味は？",
+    "answer": "envy",
+    "glosses": {
+      "en": "envy",
+      "ja": "ねたみ"
+    },
+    "choices": [
+      "volume",
+      "to part",
+      "master's degree",
+      "envy"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/atʰa/",
+    "verified": true
+  },
+  {
+    "id": "mn-00663",
+    "category": "mongolian",
+    "prompt": "「байлдаан」の意味は？",
+    "answer": "battle",
+    "glosses": {
+      "en": "battle",
+      "ja": "戦闘"
+    },
+    "choices": [
+      "battle",
+      "ice",
+      "to occupy",
+      "man"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/pai̯ɮtaːŋ/",
+    "verified": true
+  },
+  {
+    "id": "mn-00664",
+    "category": "mongolian",
+    "prompt": "「эрхий」の意味は？",
+    "answer": "thumb",
+    "glosses": {
+      "en": "thumb",
+      "ja": "親指"
+    },
+    "choices": [
+      "thumb",
+      "temple",
+      "to quit",
+      "chess"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/erxiː/",
+    "verified": true
+  },
+  {
+    "id": "mn-00665",
+    "category": "mongolian",
+    "prompt": "「бүжиглэх」の意味は？",
+    "answer": "to dance",
+    "glosses": {
+      "en": "to dance",
+      "ja": "踊る"
+    },
+    "choices": [
+      "to dance",
+      "felt",
+      "to send",
+      "when"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/put͡ɕiɡɮəx/",
+    "verified": true
+  },
+  {
+    "id": "mn-00666",
+    "category": "mongolian",
+    "prompt": "「агнах」の意味は？",
+    "answer": "to hunt",
+    "glosses": {
+      "en": "to hunt",
+      "ja": "狩る"
+    },
+    "choices": [
+      "mask",
+      "to hunt",
+      "mud",
+      "responsibility"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/aɡnəx/",
+    "verified": true
+  },
+  {
+    "id": "mn-00667",
+    "category": "mongolian",
+    "prompt": "「цохих」の意味は？",
+    "answer": "to hit",
+    "glosses": {
+      "en": "to hit",
+      "ja": "打つ"
+    },
+    "choices": [
+      "to hit",
+      "barn",
+      "nowadays",
+      "countryside"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/t͡sʰɔxʲəx/",
+    "verified": true
+  },
+  {
+    "id": "mn-00668",
+    "category": "mongolian",
+    "prompt": "「сэлэх」の意味は？",
+    "answer": "to swim",
+    "glosses": {
+      "en": "to swim",
+      "ja": "泳ぐ"
+    },
+    "choices": [
+      "hero",
+      "foot",
+      "to swim",
+      "substance"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/seɮəx/",
+    "verified": true
+  },
+  {
+    "id": "mn-00669",
+    "category": "mongolian",
+    "prompt": "「амьсгалах」の意味は？",
+    "answer": "to breathe",
+    "glosses": {
+      "en": "to breathe",
+      "ja": "呼吸する"
+    },
+    "choices": [
+      "axis",
+      "to breathe",
+      "sunny",
+      "religion"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/ˈæmʲsɢəɮəx/",
+    "verified": true
+  },
+  {
+    "id": "mn-00670",
+    "category": "mongolian",
+    "prompt": "「саваа」の意味は？",
+    "answer": "stick",
+    "glosses": {
+      "en": "stick",
+      "ja": "棒"
+    },
+    "choices": [
+      "always",
+      "stick",
+      "beetle",
+      "calcium"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/sawa/",
+    "verified": true
+  },
+  {
+    "id": "mn-00671",
+    "category": "mongolian",
+    "prompt": "「бөөлжих」の意味は？",
+    "answer": "to vomit",
+    "glosses": {
+      "en": "to vomit",
+      "ja": "嘔吐する"
+    },
+    "choices": [
+      "nail",
+      "movement",
+      "to vomit",
+      "beetle"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/poːɮt͡ɕəx/",
+    "verified": true
+  },
+  {
+    "id": "mn-00672",
+    "category": "mongolian",
+    "prompt": "「шүлс」の意味は？",
+    "answer": "saliva",
+    "glosses": {
+      "en": "saliva",
+      "ja": "唾液"
+    },
+    "choices": [
+      "red",
+      "black",
+      "coal",
+      "saliva"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/ʃuɮs/",
+    "verified": true
+  },
+  {
+    "id": "mn-00673",
+    "category": "mongolian",
+    "prompt": "「үзэг」の意味は？",
+    "answer": "pen",
+    "glosses": {
+      "en": "pen",
+      "ja": "ペン"
+    },
+    "choices": [
+      "patch",
+      "sport",
+      "pen",
+      "moon"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "[u.t͜sɘ̝̆k]",
+    "verified": true
+  },
+  {
+    "id": "mn-00674",
+    "category": "mongolian",
+    "prompt": "「авдар」の意味は？",
+    "answer": "wooden chest",
+    "glosses": {
+      "en": "wooden chest",
+      "ja": "木箱"
+    },
+    "choices": [
+      "office",
+      "thought",
+      "wooden chest",
+      "poet"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/ˈaw̜tar̥/",
+    "verified": true
+  },
+  {
+    "id": "mn-00675",
+    "category": "mongolian",
+    "prompt": "「тавилга」の意味は？",
+    "answer": "furniture",
+    "glosses": {
+      "en": "furniture",
+      "ja": "家具"
+    },
+    "choices": [
+      "scholar",
+      "furniture",
+      "brick",
+      "photographer"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/tʰaw̜iɮɡə/",
+    "verified": true
+  },
+  {
+    "id": "mn-00676",
+    "category": "mongolian",
+    "prompt": "「найрамдал」の意味は？",
+    "answer": "friendship",
+    "glosses": {
+      "en": "friendship",
+      "ja": "友情"
+    },
+    "choices": [
+      "to use",
+      "friendship",
+      "lamb",
+      "to set"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/nai̯rəmtəɮ/",
+    "verified": true
+  },
+  {
+    "id": "mn-00677",
+    "category": "mongolian",
+    "prompt": "「даавуу」の意味は？",
+    "answer": "cloth",
+    "glosses": {
+      "en": "cloth",
+      "ja": "布"
+    },
+    "choices": [
+      "felt",
+      "weak",
+      "melody",
+      "cloth"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/taːw̜ʊː/",
+    "verified": true
+  },
+  {
+    "id": "mn-00678",
+    "category": "mongolian",
+    "prompt": "「хадаас」の意味は？",
+    "answer": "nail",
+    "glosses": {
+      "en": "nail",
+      "ja": "くぎ"
+    },
+    "choices": [
+      "nail",
+      "letter",
+      "nation",
+      "beggar"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/xaˈtaːs/",
+    "verified": true
+  },
+  {
+    "id": "mn-00679",
+    "category": "mongolian",
+    "prompt": "「анчин」の意味は？",
+    "answer": "hunter",
+    "glosses": {
+      "en": "hunter",
+      "ja": "狩人"
+    },
+    "choices": [
+      "wolf",
+      "tradition",
+      "hunter",
+      "here"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/ˈant͡ɕʰiŋ/",
+    "verified": true
+  },
+  {
+    "id": "mn-00680",
+    "category": "mongolian",
+    "prompt": "「цамхаг」の意味は？",
+    "answer": "tower",
+    "glosses": {
+      "en": "tower",
+      "ja": "塔"
+    },
+    "choices": [
+      "tower",
+      "ability",
+      "work",
+      "to breathe"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/t͡sʰamxək/",
+    "verified": true
+  },
+  {
+    "id": "mn-00681",
+    "category": "mongolian",
+    "prompt": "「бүрхүүл」の意味は？",
+    "answer": "covering",
+    "glosses": {
+      "en": "covering",
+      "ja": "覆い"
+    },
+    "choices": [
+      "covering",
+      "meeting",
+      "to swim",
+      "always"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/purxuɮ/",
+    "verified": true
+  },
+  {
+    "id": "mn-00682",
+    "category": "mongolian",
+    "prompt": "「боолт」の意味は？",
+    "answer": "bandage",
+    "glosses": {
+      "en": "bandage",
+      "ja": "包帯"
+    },
+    "choices": [
+      "surname",
+      "bandage",
+      "to drag",
+      "nowadays"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/pɔːɮtʰ/",
+    "verified": true
+  },
+  {
+    "id": "mn-00683",
+    "category": "mongolian",
+    "prompt": "「эрдэнэ」の意味は？",
+    "answer": "treasure",
+    "glosses": {
+      "en": "treasure",
+      "ja": "宝物"
+    },
+    "choices": [
+      "envy",
+      "treasure",
+      "day",
+      "body"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "[e̝r.tɘ̝n]",
+    "verified": true
+  },
+  {
+    "id": "mn-00684",
+    "category": "mongolian",
+    "prompt": "「хоч」の意味は？",
+    "answer": "nickname",
+    "glosses": {
+      "en": "nickname",
+      "ja": "あだ名"
+    },
+    "choices": [
+      "velvet",
+      "progress",
+      "nickname",
+      "temper"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/xɔt͡ɕʰ/",
+    "verified": true
+  },
+  {
+    "id": "mn-00685",
+    "category": "mongolian",
+    "prompt": "「хөхөө」の意味は？",
+    "answer": "cuckoo",
+    "glosses": {
+      "en": "cuckoo",
+      "ja": "カッコウ"
+    },
+    "choices": [
+      "cuckoo",
+      "to resign",
+      "tears",
+      "soft"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/xɵxɵː/",
+    "verified": true
+  },
+  {
+    "id": "mn-00686",
+    "category": "mongolian",
+    "prompt": "「будах」の意味は？",
+    "answer": "to paint",
+    "glosses": {
+      "en": "to paint",
+      "ja": "塗る"
+    },
+    "choices": [
+      "drop",
+      "to paint",
+      "lamb",
+      "head"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/pʊtəx/",
+    "verified": true
+  },
+  {
+    "id": "mn-00687",
+    "category": "mongolian",
+    "prompt": "「номхон」の意味は？",
+    "answer": "tame",
+    "glosses": {
+      "en": "tame",
+      "ja": "おとなしい"
+    },
+    "choices": [
+      "to cut",
+      "vaccine",
+      "prison",
+      "tame"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/ˈnɔmxɔŋ/",
+    "verified": true
+  },
+  {
+    "id": "mn-00688",
+    "category": "mongolian",
+    "prompt": "「гайхах」の意味は？",
+    "answer": "to be surprised",
+    "glosses": {
+      "en": "to be surprised",
+      "ja": "驚く"
+    },
+    "choices": [
+      "glass",
+      "to be surprised",
+      "tourist",
+      "treasure"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/ɢaixax/",
+    "verified": true
+  },
+  {
+    "id": "mn-00689",
+    "category": "mongolian",
+    "prompt": "「урвагч」の意味は？",
+    "answer": "traitor",
+    "glosses": {
+      "en": "traitor",
+      "ja": "裏切り者"
+    },
+    "choices": [
+      "traitor",
+      "difficulty",
+      "exchange rate",
+      "to liken"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/ʊrw̜aɡt͡ʃʰ/",
+    "verified": true
+  },
+  {
+    "id": "mn-00690",
+    "category": "mongolian",
+    "prompt": "「манлайлал」の意味は？",
+    "answer": "leadership",
+    "glosses": {
+      "en": "leadership",
+      "ja": "指導力"
+    },
+    "choices": [
+      "translator",
+      "shoes",
+      "leadership",
+      "soccer"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/manɮai̯ɮəɮ/",
+    "verified": true
+  },
+  {
+    "id": "mn-00691",
+    "category": "mongolian",
+    "prompt": "「амбаар」の意味は？",
+    "answer": "barn",
+    "glosses": {
+      "en": "barn",
+      "ja": "納屋"
+    },
+    "choices": [
+      "tail",
+      "table",
+      "star",
+      "barn"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/am.paːr/",
+    "verified": true
+  },
+  {
+    "id": "mn-00692",
+    "category": "mongolian",
+    "prompt": "「хүрэлцэх」の意味は？",
+    "answer": "to suffice",
+    "glosses": {
+      "en": "to suffice",
+      "ja": "足りる"
+    },
+    "choices": [
+      "to suffice",
+      "key",
+      "nowadays",
+      "to manage"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/ˈxureɮt͡sʰex/",
+    "verified": true
+  },
+  {
+    "id": "mn-00693",
+    "category": "mongolian",
+    "prompt": "「жаргах」の意味は？",
+    "answer": "to set",
+    "glosses": {
+      "en": "to set",
+      "ja": "幸せに暮らす"
+    },
+    "choices": [
+      "to set",
+      "nomad",
+      "salesperson",
+      "game"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/tɕarɢax/",
+    "verified": true
+  },
+  {
+    "id": "mn-00694",
+    "category": "mongolian",
+    "prompt": "「чөтгөр」の意味は？",
+    "answer": "devil",
+    "glosses": {
+      "en": "devil",
+      "ja": "悪魔"
+    },
+    "choices": [
+      "shirt",
+      "devil",
+      "enemy",
+      "felt"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/t͡ʃʰɵtɡɵr/",
+    "verified": true
+  },
+  {
+    "id": "mn-00695",
+    "category": "mongolian",
+    "prompt": "「шумуул」の意味は？",
+    "answer": "mosquito",
+    "glosses": {
+      "en": "mosquito",
+      "ja": "蚊"
+    },
+    "choices": [
+      "mosquito",
+      "dream",
+      "hunter",
+      "soil"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/ˈɕʊmʊːɮ/",
+    "verified": true
+  },
+  {
+    "id": "mn-00696",
+    "category": "mongolian",
+    "prompt": "「лууван」の意味は？",
+    "answer": "carrot",
+    "glosses": {
+      "en": "carrot",
+      "ja": "にんじん"
+    },
+    "choices": [
+      "profession",
+      "carrot",
+      "eagle",
+      "heart"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/ɮʊːw̜əŋ/",
+    "verified": true
+  },
+  {
+    "id": "mn-00697",
+    "category": "mongolian",
+    "prompt": "「бариул」の意味は？",
+    "answer": "handle",
+    "glosses": {
+      "en": "handle",
+      "ja": "取っ手"
+    },
+    "choices": [
+      "worker",
+      "tiger",
+      "to mention",
+      "handle"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/parʲʊɮ/",
+    "verified": true
+  },
+  {
+    "id": "mn-00698",
+    "category": "mongolian",
+    "prompt": "「дөрөө」の意味は？",
+    "answer": "stirrup",
+    "glosses": {
+      "en": "stirrup",
+      "ja": "あぶみ"
+    },
+    "choices": [
+      "tourist",
+      "stirrup",
+      "cup",
+      "slogan"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/tɵrɵː/",
+    "verified": true
+  },
+  {
+    "id": "mn-00699",
+    "category": "mongolian",
+    "prompt": "「боть」の意味は？",
+    "answer": "volume",
+    "glosses": {
+      "en": "volume",
+      "ja": "書物の一巻"
+    },
+    "choices": [
+      "volume",
+      "salary",
+      "snack",
+      "meter"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/pœtʰ/",
+    "verified": true
+  },
+  {
+    "id": "mn-00700",
+    "category": "mongolian",
+    "prompt": "「улиас」の意味は？",
+    "answer": "poplar",
+    "glosses": {
+      "en": "poplar",
+      "ja": "ポプラ"
+    },
+    "choices": [
+      "poplar",
+      "bandage",
+      "grain",
+      "commander"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/ʊɮʲas/",
+    "verified": true
+  },
+  {
+    "id": "mn-00701",
+    "category": "mongolian",
+    "prompt": "「хачиг」の意味は？",
+    "answer": "tick",
+    "glosses": {
+      "en": "tick",
+      "ja": "ダニ"
+    },
+    "choices": [
+      "tick",
+      "hell",
+      "nest",
+      "eye"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/xat͡ɕʰik/",
+    "verified": true
+  },
+  {
+    "id": "mn-00702",
+    "category": "mongolian",
+    "prompt": "「хэрцгий」の意味は？",
+    "answer": "cruel",
+    "glosses": {
+      "en": "cruel",
+      "ja": "残酷な"
+    },
+    "choices": [
+      "cruel",
+      "cook",
+      "carrot",
+      "moon"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/xert͡sʰɡiː/",
+    "verified": true
+  },
+  {
+    "id": "mn-00703",
+    "category": "mongolian",
+    "prompt": "「сэлэм」の意味は？",
+    "answer": "sword",
+    "glosses": {
+      "en": "sword",
+      "ja": "剣"
+    },
+    "choices": [
+      "happy",
+      "sword",
+      "day",
+      "bus"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/seɮəm/",
+    "verified": true
+  },
+  {
+    "id": "mn-00704",
+    "category": "mongolian",
+    "prompt": "「массаж」の意味は？",
+    "answer": "massage",
+    "glosses": {
+      "en": "massage",
+      "ja": "マッサージ"
+    },
+    "choices": [
+      "bird",
+      "grain",
+      "painter",
+      "massage"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/masˈsat͡ɕ/",
+    "verified": true
+  },
+  {
+    "id": "mn-00705",
+    "category": "mongolian",
+    "prompt": "「супермаркет」の意味は？",
+    "answer": "supermarket",
+    "glosses": {
+      "en": "supermarket",
+      "ja": "スーパーマーケット"
+    },
+    "choices": [
+      "biography",
+      "archer",
+      "supermarket",
+      "notebook"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/sʊpʰermarkʲetʰ/",
+    "verified": true
+  },
+  {
+    "id": "mn-00706",
+    "category": "mongolian",
+    "prompt": "「мөчир」の意味は？",
+    "answer": "branch",
+    "glosses": {
+      "en": "branch",
+      "ja": "枝"
+    },
+    "choices": [
+      "newspaper",
+      "branch",
+      "to suffice",
+      "face"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/mot͡ɕʰər/",
+    "verified": true
+  },
+  {
+    "id": "mn-00707",
+    "category": "mongolian",
+    "prompt": "「дурлах」の意味は？",
+    "answer": "to fall in love",
+    "glosses": {
+      "en": "to fall in love",
+      "ja": "恋をする"
+    },
+    "choices": [
+      "house",
+      "feeling",
+      "to fall in love",
+      "bird"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/tʊrɮəx/",
+    "verified": true
+  },
+  {
+    "id": "mn-00708",
+    "category": "mongolian",
+    "prompt": "「үнэг」の意味は？",
+    "answer": "fox",
+    "glosses": {
+      "en": "fox",
+      "ja": "キツネ"
+    },
+    "choices": [
+      "meter",
+      "base",
+      "to clean",
+      "fox"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/unəɡ/",
+    "verified": true
+  },
+  {
+    "id": "mn-00709",
+    "category": "mongolian",
+    "prompt": "「хуурга」の意味は？",
+    "answer": "stir-fry",
+    "glosses": {
+      "en": "stir-fry",
+      "ja": "炒め物"
+    },
+    "choices": [
+      "pasture",
+      "stir-fry",
+      "aid",
+      "chin"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/xʊːrəɢ/",
+    "verified": true
+  },
+  {
+    "id": "mn-00710",
+    "category": "mongolian",
+    "prompt": "「угаалга」の意味は？",
+    "answer": "washing",
+    "glosses": {
+      "en": "washing",
+      "ja": "洗濯"
+    },
+    "choices": [
+      "wave",
+      "calf",
+      "to save",
+      "washing"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/ʊɡaːɮɡə/",
+    "verified": true
+  },
+  {
+    "id": "mn-00711",
+    "category": "mongolian",
+    "prompt": "「байцаа」の意味は？",
+    "answer": "cabbage",
+    "glosses": {
+      "en": "cabbage",
+      "ja": "キャベツ"
+    },
+    "choices": [
+      "meeting",
+      "blind",
+      "word",
+      "cabbage"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/ˈpɛːt͡sʰaː/",
+    "verified": true
+  },
+  {
+    "id": "mn-00712",
+    "category": "mongolian",
+    "prompt": "「халаас」の意味は？",
+    "answer": "pocket",
+    "glosses": {
+      "en": "pocket",
+      "ja": "ポケット"
+    },
+    "choices": [
+      "club",
+      "pocket",
+      "winner",
+      "glove"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/xaɮaːs/",
+    "verified": true
+  },
+  {
+    "id": "mn-00713",
+    "category": "mongolian",
+    "prompt": "「зууш」の意味は？",
+    "answer": "snack",
+    "glosses": {
+      "en": "snack",
+      "ja": "軽食"
+    },
+    "choices": [
+      "snack",
+      "society",
+      "price",
+      "rib"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/t͡sʊːʃ/",
+    "verified": true
+  },
+  {
+    "id": "mn-00714",
+    "category": "mongolian",
+    "prompt": "「тэнгис」の意味は？",
+    "answer": "sea",
+    "glosses": {
+      "en": "sea",
+      "ja": "海"
+    },
+    "choices": [
+      "attack",
+      "sea",
+      "branch",
+      "evening"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/tʰeŋɡis/",
+    "verified": true
+  },
+  {
+    "id": "mn-00715",
+    "category": "mongolian",
+    "prompt": "「хөргөгч」の意味は？",
+    "answer": "refrigerator",
+    "glosses": {
+      "en": "refrigerator",
+      "ja": "冷蔵庫"
+    },
+    "choices": [
+      "foot",
+      "miracle",
+      "refrigerator",
+      "sky"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/ˈxɵrkɵkt͡ɕʰ/",
+    "verified": true
+  },
+  {
+    "id": "mn-00716",
+    "category": "mongolian",
+    "prompt": "「доромжлол」の意味は？",
+    "answer": "insult",
+    "glosses": {
+      "en": "insult",
+      "ja": "侮辱"
+    },
+    "choices": [
+      "second",
+      "city",
+      "revolution",
+      "insult"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/tɔrɔmtʃɮɔɮ/",
+    "verified": true
+  },
+  {
+    "id": "mn-00717",
+    "category": "mongolian",
+    "prompt": "「аргал」の意味は？",
+    "answer": "dried dung",
+    "glosses": {
+      "en": "dried dung",
+      "ja": "乾燥牛ふん"
+    },
+    "choices": [
+      "dried dung",
+      "attack",
+      "scissors",
+      "almost"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/arɡəɮ/",
+    "verified": true
+  },
+  {
+    "id": "mn-00718",
+    "category": "mongolian",
+    "prompt": "「нөхөөс」の意味は？",
+    "answer": "patch",
+    "glosses": {
+      "en": "patch",
+      "ja": "つぎあて"
+    },
+    "choices": [
+      "education",
+      "patch",
+      "signal",
+      "goal"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/ˈnɵxɵːs/",
+    "verified": true
+  },
+  {
+    "id": "mn-00719",
+    "category": "mongolian",
+    "prompt": "「гүйцэх」の意味は？",
+    "answer": "to catch up",
+    "glosses": {
+      "en": "to catch up",
+      "ja": "追いつく"
+    },
+    "choices": [
+      "to freeze",
+      "to quit",
+      "to catch up",
+      "army"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/ɡui̯t͡sʰəx/",
+    "verified": true
+  },
+  {
+    "id": "mn-00720",
+    "category": "mongolian",
+    "prompt": "「зарлал」の意味は？",
+    "answer": "announcement",
+    "glosses": {
+      "en": "announcement",
+      "ja": "告知"
+    },
+    "choices": [
+      "friendship",
+      "announcement",
+      "police",
+      "bag"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/ˈt͡sarɮaɮ/",
+    "verified": true
+  },
+  {
+    "id": "mn-00721",
+    "category": "mongolian",
+    "prompt": "「далавч」の意味は？",
+    "answer": "wing",
+    "glosses": {
+      "en": "wing",
+      "ja": "翼"
+    },
+    "choices": [
+      "wing",
+      "when",
+      "to catch up",
+      "file"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/ˈtaɮaw̜t͡ɕʰ/",
+    "verified": true
+  },
+  {
+    "id": "mn-00722",
+    "category": "mongolian",
+    "prompt": "「гачигдал」の意味は？",
+    "answer": "lack",
+    "glosses": {
+      "en": "lack",
+      "ja": "不足"
+    },
+    "choices": [
+      "income",
+      "wrong",
+      "technology",
+      "lack"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/ɡat͡ɕʰiɡtəɮ/",
+    "verified": true
+  },
+  {
+    "id": "mn-00723",
+    "category": "mongolian",
+    "prompt": "「шатах」の意味は？",
+    "answer": "to burn",
+    "glosses": {
+      "en": "to burn",
+      "ja": "燃える"
+    },
+    "choices": [
+      "to burn",
+      "tradition",
+      "soil",
+      "body"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/ʃatʰəx/",
+    "verified": true
+  },
+  {
+    "id": "mn-00724",
+    "category": "mongolian",
+    "prompt": "「хивс」の意味は？",
+    "answer": "carpet",
+    "glosses": {
+      "en": "carpet",
+      "ja": "じゅうたん"
+    },
+    "choices": [
+      "carpet",
+      "potato",
+      "tradition",
+      "bridge"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/xiw̜s/",
+    "verified": true
+  },
+  {
+    "id": "mn-00725",
+    "category": "mongolian",
+    "prompt": "「дарь」の意味は？",
+    "answer": "gunpowder",
+    "glosses": {
+      "en": "gunpowder",
+      "ja": "火薬"
+    },
+    "choices": [
+      "to sneeze",
+      "gunpowder",
+      "wall",
+      "revolution"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/tarʲ/",
+    "verified": true
+  },
+  {
+    "id": "mn-00726",
+    "category": "mongolian",
+    "prompt": "「хөшиг」の意味は？",
+    "answer": "curtain",
+    "glosses": {
+      "en": "curtain",
+      "ja": "カーテン"
+    },
+    "choices": [
+      "to laugh",
+      "hail",
+      "weight",
+      "curtain"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/xɵʃik/",
+    "verified": true
+  },
+  {
+    "id": "mn-00727",
+    "category": "mongolian",
+    "prompt": "「дөлгөөн」の意味は？",
+    "answer": "calm",
+    "glosses": {
+      "en": "calm",
+      "ja": "穏やかな"
+    },
+    "choices": [
+      "engine",
+      "driver",
+      "branch",
+      "calm"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/tɵɮɡɵːŋ/",
+    "verified": true
+  },
+  {
+    "id": "mn-00728",
+    "category": "mongolian",
+    "prompt": "「диваажин」の意味は？",
+    "answer": "paradise",
+    "glosses": {
+      "en": "paradise",
+      "ja": "楽園"
+    },
+    "choices": [
+      "paradise",
+      "chemistry",
+      "sculpture",
+      "fun"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/tiw̜aːt͡ɕiŋ/",
+    "verified": true
+  },
+  {
+    "id": "mn-00729",
+    "category": "mongolian",
+    "prompt": "「харваач」の意味は？",
+    "answer": "archer",
+    "glosses": {
+      "en": "archer",
+      "ja": "弓の射手"
+    },
+    "choices": [
+      "drop",
+      "guitar",
+      "archer",
+      "requirement"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/xarwat͡ɕʰ/",
+    "verified": true
+  },
+  {
+    "id": "mn-00730",
+    "category": "mongolian",
+    "prompt": "「хуурах」の意味は？",
+    "answer": "to deceive",
+    "glosses": {
+      "en": "to deceive",
+      "ja": "欺く"
+    },
+    "choices": [
+      "actor",
+      "to deceive",
+      "god",
+      "candy"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/xʊːrəx/",
+    "verified": true
+  },
+  {
+    "id": "mn-00731",
+    "category": "mongolian",
+    "prompt": "「оёдол」の意味は？",
+    "answer": "sewing",
+    "glosses": {
+      "en": "sewing",
+      "ja": "裁縫"
+    },
+    "choices": [
+      "axis",
+      "sewing",
+      "continent",
+      "general"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/ɔjtəɮ/",
+    "verified": true
+  },
+  {
+    "id": "mn-00732",
+    "category": "mongolian",
+    "prompt": "「зүйрлэх」の意味は？",
+    "answer": "to liken",
+    "glosses": {
+      "en": "to liken",
+      "ja": "たとえる"
+    },
+    "choices": [
+      "blood vessel",
+      "to miss",
+      "iron",
+      "to liken"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/t͡suirɮəx/",
+    "verified": true
+  },
+  {
+    "id": "mn-00733",
+    "category": "mongolian",
+    "prompt": "「гуйлгачин」の意味は？",
+    "answer": "beggar",
+    "glosses": {
+      "en": "beggar",
+      "ja": "物乞い"
+    },
+    "choices": [
+      "stone",
+      "feeling",
+      "white",
+      "beggar"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/ɡʊi̯ɮɡət͡ɕʰiŋ/",
+    "verified": true
+  },
+  {
+    "id": "mn-00734",
+    "category": "mongolian",
+    "prompt": "「хулчгар」の意味は？",
+    "answer": "cowardly",
+    "glosses": {
+      "en": "cowardly",
+      "ja": "おくびょうな"
+    },
+    "choices": [
+      "compassion",
+      "cowardly",
+      "wooden chest",
+      "fast"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/xʊɮt͡ɕʰɡər/",
+    "verified": true
+  },
+  {
+    "id": "mn-00735",
+    "category": "mongolian",
+    "prompt": "「оёх」の意味は？",
+    "answer": "to sew",
+    "glosses": {
+      "en": "to sew",
+      "ja": "縫う"
+    },
+    "choices": [
+      "prize",
+      "translator",
+      "to sew",
+      "computer"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/ɔ.jʊχ/",
+    "verified": true
+  },
+  {
+    "id": "mn-00736",
+    "category": "mongolian",
+    "prompt": "「огтлох」の意味は？",
+    "answer": "to cut",
+    "glosses": {
+      "en": "to cut",
+      "ja": "切る"
+    },
+    "choices": [
+      "to cut",
+      "glass",
+      "show",
+      "sand"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/ɔɡtʰɮəx/",
+    "verified": true
+  },
+  {
+    "id": "mn-00737",
+    "category": "mongolian",
+    "prompt": "「хүүхэлдэй」の意味は？",
+    "answer": "doll",
+    "glosses": {
+      "en": "doll",
+      "ja": "人形"
+    },
+    "choices": [
+      "snack",
+      "to refuse",
+      "doll",
+      "backpack"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/xuːxəɮte/",
+    "verified": true
+  },
+  {
+    "id": "mn-00738",
+    "category": "mongolian",
+    "prompt": "「долгион」の意味は？",
+    "answer": "wave",
+    "glosses": {
+      "en": "wave",
+      "ja": "波"
+    },
+    "choices": [
+      "schedule",
+      "headphones",
+      "wave",
+      "belt"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/tɔɮɡʲɔŋ/",
+    "verified": true
+  },
+  {
+    "id": "mn-00739",
+    "category": "mongolian",
+    "prompt": "「залбирал」の意味は？",
+    "answer": "prayer",
+    "glosses": {
+      "en": "prayer",
+      "ja": "祈り"
+    },
+    "choices": [
+      "substance",
+      "prayer",
+      "face",
+      "dictator"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/ˈt͡saɮpiraɮ/",
+    "verified": true
+  },
+  {
+    "id": "mn-00740",
+    "category": "mongolian",
+    "prompt": "「хялгас」の意味は？",
+    "answer": "horsehair",
+    "glosses": {
+      "en": "horsehair",
+      "ja": "馬の毛"
+    },
+    "choices": [
+      "regulation",
+      "to read",
+      "horsehair",
+      "vinegar"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/ˈxʲaɮʁas/",
+    "verified": true
+  },
+  {
+    "id": "mn-00741",
+    "category": "mongolian",
+    "prompt": "「зарц」の意味は？",
+    "answer": "servant",
+    "glosses": {
+      "en": "servant",
+      "ja": "召使"
+    },
+    "choices": [
+      "girl",
+      "to catch up",
+      "meter",
+      "servant"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/ˈt͡sar̥t͡sʰ/",
+    "verified": true
+  },
+  {
+    "id": "mn-00742",
+    "category": "mongolian",
+    "prompt": "「саатал」の意味は？",
+    "answer": "delay",
+    "glosses": {
+      "en": "delay",
+      "ja": "遅延"
+    },
+    "choices": [
+      "delay",
+      "step",
+      "washing",
+      "nation"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/ˈsaːtʰəɮ/",
+    "verified": true
+  },
+  {
+    "id": "mn-00743",
+    "category": "mongolian",
+    "prompt": "「шүлэгч」の意味は？",
+    "answer": "poet",
+    "glosses": {
+      "en": "poet",
+      "ja": "詩人"
+    },
+    "choices": [
+      "port",
+      "tax",
+      "second",
+      "poet"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/ʃuɮəɡt͡ɕʰ/",
+    "verified": true
+  },
+  {
+    "id": "mn-00744",
+    "category": "mongolian",
+    "prompt": "「бүжигчин」の意味は？",
+    "answer": "dancer",
+    "glosses": {
+      "en": "dancer",
+      "ja": "ダンサー"
+    },
+    "choices": [
+      "mathematician",
+      "to deceive",
+      "dancer",
+      "meter"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/put͡ɕəɡt͡ɕʰəŋ/",
+    "verified": true
+  },
+  {
+    "id": "mn-00745",
+    "category": "mongolian",
+    "prompt": "「үрэл」の意味は？",
+    "answer": "pill",
+    "glosses": {
+      "en": "pill",
+      "ja": "錠剤"
+    },
+    "choices": [
+      "pill",
+      "floor",
+      "to cross",
+      "radio"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "[u.rɘ̝̆ɬ]",
+    "verified": true
+  },
+  {
+    "id": "mn-00746",
+    "category": "mongolian",
+    "prompt": "「тоосго」の意味は？",
+    "answer": "brick",
+    "glosses": {
+      "en": "brick",
+      "ja": "れんが"
+    },
+    "choices": [
+      "gift",
+      "brick",
+      "year",
+      "milk"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/ˈtʰoːsk/",
+    "verified": true
+  },
+  {
+    "id": "mn-00747",
+    "category": "mongolian",
+    "prompt": "「мангас」の意味は？",
+    "answer": "monster",
+    "glosses": {
+      "en": "monster",
+      "ja": "怪物"
+    },
+    "choices": [
+      "monster",
+      "game",
+      "egg",
+      "calf"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "[mäɴ.ɢɐ̆s]",
+    "verified": true
+  },
+  {
+    "id": "mn-00748",
+    "category": "mongolian",
+    "prompt": "「кальци」の意味は？",
+    "answer": "calcium",
+    "glosses": {
+      "en": "calcium",
+      "ja": "カルシウム"
+    },
+    "choices": [
+      "headphones",
+      "simple",
+      "calcium",
+      "access"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/ˈkʰæːɬ.t͡sʰ/",
+    "verified": true
+  },
+  {
+    "id": "mn-00749",
+    "category": "mongolian",
+    "prompt": "「царцаа」の意味は？",
+    "answer": "grasshopper",
+    "glosses": {
+      "en": "grasshopper",
+      "ja": "バッタ"
+    },
+    "choices": [
+      "journalist",
+      "to invite",
+      "grasshopper",
+      "calf"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/t͡sʰart͡sʰaː/",
+    "verified": true
+  },
+  {
+    "id": "mn-00750",
+    "category": "mongolian",
+    "prompt": "「хатах」の意味は？",
+    "answer": "to dry",
+    "glosses": {
+      "en": "to dry",
+      "ja": "乾く"
+    },
+    "choices": [
+      "to dry",
+      "to liken",
+      "trousers",
+      "to resign"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/xatʰəx/",
+    "verified": true
+  },
+  {
+    "id": "mn-00751",
+    "category": "mongolian",
+    "prompt": "「үнсэх」の意味は？",
+    "answer": "to kiss",
+    "glosses": {
+      "en": "to kiss",
+      "ja": "口づけする"
+    },
+    "choices": [
+      "reader",
+      "to kiss",
+      "supermarket",
+      "gunpowder"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/ˈunsex/",
+    "verified": true
+  },
+  {
+    "id": "mn-00752",
+    "category": "mongolian",
+    "prompt": "「таслал」の意味は？",
+    "answer": "comma",
+    "glosses": {
+      "en": "comma",
+      "ja": "コンマ"
+    },
+    "choices": [
+      "comma",
+      "glass",
+      "cabbage",
+      "lawyer"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/ˈtʰasɮaɮ/",
+    "verified": true
+  },
+  {
+    "id": "mn-00753",
+    "category": "mongolian",
+    "prompt": "「математикч」の意味は？",
+    "answer": "mathematician",
+    "glosses": {
+      "en": "mathematician",
+      "ja": "数学者"
+    },
+    "choices": [
+      "museum",
+      "winner",
+      "mathematician",
+      "to freeze"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/ˈmatʰʲɵmatʰikʰt͡ɕʰ/",
+    "verified": true
+  },
+  {
+    "id": "mn-00754",
+    "category": "mongolian",
+    "prompt": "「шоколад」の意味は？",
+    "answer": "chocolate",
+    "glosses": {
+      "en": "chocolate",
+      "ja": "チョコレート"
+    },
+    "choices": [
+      "asphalt",
+      "cane",
+      "lion",
+      "chocolate"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/ɕɔkʰˈɮat/",
+    "verified": true
+  },
+  {
+    "id": "mn-00755",
+    "category": "mongolian",
+    "prompt": "「цайз」の意味は？",
+    "answer": "castle",
+    "glosses": {
+      "en": "castle",
+      "ja": "城"
+    },
+    "choices": [
+      "actor",
+      "castle",
+      "impetus",
+      "method"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/tsʰaits/",
+    "verified": true
+  },
+  {
+    "id": "mn-00756",
+    "category": "mongolian",
+    "prompt": "「үүргэвч」の意味は？",
+    "answer": "backpack",
+    "glosses": {
+      "en": "backpack",
+      "ja": "リュックサック"
+    },
+    "choices": [
+      "intellectual",
+      "death",
+      "backpack",
+      "ability"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/ˈuːrkew̜t͡ɕʰ/",
+    "verified": true
+  },
+  {
+    "id": "mn-00757",
+    "category": "mongolian",
+    "prompt": "「хөлбөмбөг」の意味は？",
+    "answer": "soccer",
+    "glosses": {
+      "en": "soccer",
+      "ja": "サッカー"
+    },
+    "choices": [
+      "herd",
+      "tradition",
+      "coin",
+      "soccer"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/xɵɮpɵmpək/",
+    "verified": true
+  },
+  {
+    "id": "mn-00758",
+    "category": "mongolian",
+    "prompt": "「ферм」の意味は？",
+    "answer": "farm",
+    "glosses": {
+      "en": "farm",
+      "ja": "農場"
+    },
+    "choices": [
+      "astrology",
+      "dictatorship",
+      "pocket",
+      "farm"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/ˈfʲɵrm/",
+    "verified": true
+  },
+  {
+    "id": "mn-00759",
+    "category": "mongolian",
+    "prompt": "「уурхайчин」の意味は？",
+    "answer": "miner",
+    "glosses": {
+      "en": "miner",
+      "ja": "鉱夫"
+    },
+    "choices": [
+      "fun",
+      "to load",
+      "office",
+      "miner"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/ʊːrxai̯t͡ɕʰiŋ/",
+    "verified": true
+  },
+  {
+    "id": "mn-00760",
+    "category": "mongolian",
+    "prompt": "「худалч」の意味は？",
+    "answer": "liar",
+    "glosses": {
+      "en": "liar",
+      "ja": "うそつき"
+    },
+    "choices": [
+      "soil",
+      "to hunt",
+      "liar",
+      "album"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/xʊtəɮt͡ɕʰ/",
+    "verified": true
+  },
+  {
+    "id": "mn-00761",
+    "category": "mongolian",
+    "prompt": "「чирэх」の意味は？",
+    "answer": "to drag",
+    "glosses": {
+      "en": "to drag",
+      "ja": "引きずる"
+    },
+    "choices": [
+      "fire",
+      "goose",
+      "quarrel",
+      "to drag"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/t͡ɕʰirəx/",
+    "verified": true
+  },
+  {
+    "id": "mn-00762",
+    "category": "mongolian",
+    "prompt": "「хүрз」の意味は？",
+    "answer": "shovel",
+    "glosses": {
+      "en": "shovel",
+      "ja": "シャベル"
+    },
+    "choices": [
+      "visa",
+      "to learn",
+      "shovel",
+      "helmet"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/xurts/",
+    "verified": true
+  },
+  {
+    "id": "mn-00763",
+    "category": "mongolian",
+    "prompt": "「таяг」の意味は？",
+    "answer": "cane",
+    "glosses": {
+      "en": "cane",
+      "ja": "杖"
+    },
+    "choices": [
+      "cane",
+      "socialism",
+      "dot",
+      "to spread out"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/tʰajəɡ/",
+    "verified": true
+  },
+  {
+    "id": "mn-00764",
+    "category": "mongolian",
+    "prompt": "「хөнжил」の意味は？",
+    "answer": "blanket",
+    "glosses": {
+      "en": "blanket",
+      "ja": "毛布"
+    },
+    "choices": [
+      "ministry",
+      "blanket",
+      "goose",
+      "homeland"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/xɵnt͡ɕəɮ/",
+    "verified": true
+  },
+  {
+    "id": "mn-00765",
+    "category": "mongolian",
+    "prompt": "「шохой」の意味は？",
+    "answer": "lime",
+    "glosses": {
+      "en": "lime",
+      "ja": "石灰"
+    },
+    "choices": [
+      "object",
+      "wife",
+      "vaccine",
+      "lime"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/ʃɔxɔi̯/",
+    "verified": true
+  },
+  {
+    "id": "mn-00766",
+    "category": "mongolian",
+    "prompt": "「хилэн」の意味は？",
+    "answer": "velvet",
+    "glosses": {
+      "en": "velvet",
+      "ja": "ベルベット"
+    },
+    "choices": [
+      "driver",
+      "to liken",
+      "velvet",
+      "source"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/xiɮəŋ/",
+    "verified": true
+  },
+  {
+    "id": "mn-00767",
+    "category": "mongolian",
+    "prompt": "「хөлдөх」の意味は？",
+    "answer": "to freeze",
+    "glosses": {
+      "en": "to freeze",
+      "ja": "凍る"
+    },
+    "choices": [
+      "real",
+      "snack",
+      "to freeze",
+      "patch"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/ˈxɵɮtɵx/",
+    "verified": true
+  },
+  {
+    "id": "mn-00768",
+    "category": "mongolian",
+    "prompt": "「хүчилтөрөгч」の意味は？",
+    "answer": "oxygen",
+    "glosses": {
+      "en": "oxygen",
+      "ja": "酸素"
+    },
+    "choices": [
+      "oxygen",
+      "team",
+      "hospital",
+      "worker"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/ˈxut͡ʃʰəɬtʰɵrəxt͡ʃʰ/",
+    "verified": true
+  },
+  {
+    "id": "mn-00769",
+    "category": "mongolian",
+    "prompt": "「трансформатор」の意味は？",
+    "answer": "transformer",
+    "glosses": {
+      "en": "transformer",
+      "ja": "変圧器"
+    },
+    "choices": [
+      "food",
+      "transformer",
+      "suddenly",
+      "compliment"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/tʰransfɔrˈmatʰɔr̥/",
+    "verified": true
+  },
+  {
+    "id": "mn-00770",
+    "category": "mongolian",
+    "prompt": "「асфальт」の意味は？",
+    "answer": "asphalt",
+    "glosses": {
+      "en": "asphalt",
+      "ja": "アスファルト"
+    },
+    "choices": [
+      "to understand",
+      "weak",
+      "nest",
+      "asphalt"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "[äs.fäˑɬtʰ]",
+    "verified": true
+  },
+  {
+    "id": "mn-00771",
+    "category": "mongolian",
+    "prompt": "「хайч」の意味は？",
+    "answer": "scissors",
+    "glosses": {
+      "en": "scissors",
+      "ja": "はさみ"
+    },
+    "choices": [
+      "salt",
+      "foot",
+      "soup",
+      "scissors"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/xait͡ʃʰ/",
+    "verified": true
+  },
+  {
+    "id": "mn-00772",
+    "category": "mongolian",
+    "prompt": "「үгүйлэх」の意味は？",
+    "answer": "to miss",
+    "glosses": {
+      "en": "to miss",
+      "ja": "恋しがる"
+    },
+    "choices": [
+      "research",
+      "to miss",
+      "exchange rate",
+      "stone"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/uɡui̯ɮəx/",
+    "verified": true
+  },
+  {
+    "id": "mn-00773",
+    "category": "mongolian",
+    "prompt": "「тэнхлэг」の意味は？",
+    "answer": "axis",
+    "glosses": {
+      "en": "axis",
+      "ja": "軸"
+    },
+    "choices": [
+      "few",
+      "to breathe",
+      "recipe",
+      "axis"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/tʰenxɮək/",
+    "verified": true
+  },
+  {
+    "id": "mn-00774",
+    "category": "mongolian",
+    "prompt": "「хясаа」の意味は？",
+    "answer": "shell",
+    "glosses": {
+      "en": "shell",
+      "ja": "貝"
+    },
+    "choices": [
+      "thumb",
+      "shell",
+      "knife",
+      "grave"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/xʲasaː/",
+    "verified": true
+  },
+  {
+    "id": "mn-00775",
+    "category": "mongolian",
+    "prompt": "「чихэвч」の意味は？",
+    "answer": "headphones",
+    "glosses": {
+      "en": "headphones",
+      "ja": "ヘッドフォン"
+    },
+    "choices": [
+      "robot",
+      "stirrup",
+      "to run",
+      "headphones"
+    ],
+    "difficulty": 3,
+    "tags": [
+      "word"
+    ],
+    "pronunciation": "/t͡ɕʰixəw̜t͡ɕʰ/",
+    "verified": true
+  }
 ]

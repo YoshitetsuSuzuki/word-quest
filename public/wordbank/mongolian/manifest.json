@@ -1,24 +1,24 @@
 {
- "category": "mongolian",
- "levels": [
-  {
-   "level": 1,
-   "file": "level-1.json",
-   "count": 259
-  },
-  {
-   "level": 2,
-   "file": "level-2.json",
-   "count": 259
-  },
-  {
-   "level": 3,
-   "file": "level-3.json",
-   "count": 257
-  }
- ],
- "total": 775,
- "verified": 775,
- "jaVerified": 775,
- "source": "curated core + dictionary-derived (3-judge AI verified)"
+  "category": "mongolian",
+  "levels": [
+    {
+      "level": 1,
+      "file": "level-1.json",
+      "count": 259
+    },
+    {
+      "level": 2,
+      "file": "level-2.json",
+      "count": 259
+    },
+    {
+      "level": 3,
+      "file": "level-3.json",
+      "count": 257
+    }
+  ],
+  "total": 775,
+  "verified": 775,
+  "jaVerified": 775,
+  "source": "curated core + dictionary-derived (3-judge AI verified)"
 }

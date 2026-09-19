@@ -4,21 +4,21 @@
   {
    "level": 1,
    "file": "level-1.json",
-   "count": 1416
+   "count": 1412
   },
   {
    "level": 2,
    "file": "level-2.json",
-   "count": 1150
+   "count": 1135
   },
   {
    "level": 3,
    "file": "level-3.json",
-   "count": 566
+   "count": 558
   }
  ],
- "total": 3132,
- "verified": 3132,
- "jaVerified": 3132,
+ "total": 3105,
+ "verified": 3105,
+ "jaVerified": 3105,
  "source": "curated core + dictionary-derived (3-judge AI verified)"
 }
