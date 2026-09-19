@@ -1,0 +1,9264 @@
+[
+ {
+  "id": "ar-00422",
+  "category": "arabic",
+  "prompt": "「سكرتير」の意味は？",
+  "answer": "secretary",
+  "glosses": {
+   "en": "secretary",
+   "ja": "秘書"
+  },
+  "choices": [
+   "secretary",
+   "rubble",
+   "to master",
+   "mountainous"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/sik.ri.tiːr/",
+  "verified": true
+ },
+ {
+  "id": "ar-00423",
+  "category": "arabic",
+  "prompt": "「منتزه」の意味は？",
+  "answer": "park",
+  "glosses": {
+   "en": "park",
+   "ja": "公園"
+  },
+  "choices": [
+   "wolf",
+   "park",
+   "to walk",
+   "sandwich"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mun.ta.zah/",
+  "verified": true
+ },
+ {
+  "id": "ar-00424",
+  "category": "arabic",
+  "prompt": "「صحافي」の意味は？",
+  "answer": "journalist",
+  "glosses": {
+   "en": "journalist",
+   "ja": "ジャーナリスト"
+  },
+  "choices": [
+   "cow",
+   "strait",
+   "journalist",
+   "gorilla"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/sˤi.ħaː.fijj/",
+  "verified": true
+ },
+ {
+  "id": "ar-00425",
+  "category": "arabic",
+  "prompt": "「طفيف」の意味は？",
+  "answer": "slight",
+  "glosses": {
+   "en": "slight",
+   "ja": "わずかな"
+  },
+  "choices": [
+   "apple",
+   "hairstyle",
+   "slight",
+   "massage"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/tˤa.fiːf/",
+  "verified": true
+ },
+ {
+  "id": "ar-00426",
+  "category": "arabic",
+  "prompt": "「طبعة」の意味は？",
+  "answer": "edition",
+  "glosses": {
+   "en": "edition",
+   "ja": "版"
+  },
+  "choices": [
+   "eyelid",
+   "elegance",
+   "edition",
+   "adventurer"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/tˤab.ʕa/",
+  "verified": true
+ },
+ {
+  "id": "ar-00427",
+  "category": "arabic",
+  "prompt": "「مضيفة」の意味は？",
+  "answer": "flight attendant",
+  "glosses": {
+   "en": "flight attendant",
+   "ja": "客室乗務員"
+  },
+  "choices": [
+   "flight attendant",
+   "knee",
+   "clown",
+   "knife"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mu.dˤiː.fa/",
+  "verified": true
+ },
+ {
+  "id": "ar-00428",
+  "category": "arabic",
+  "prompt": "「تقني」の意味は？",
+  "answer": "technical",
+  "glosses": {
+   "en": "technical",
+   "ja": "技術的な"
+  },
+  "choices": [
+   "technical",
+   "apology",
+   "apple",
+   "vegetables"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/tiq.nijj/",
+  "verified": true
+ },
+ {
+  "id": "ar-00429",
+  "category": "arabic",
+  "prompt": "「مروحية」の意味は？",
+  "answer": "helicopter",
+  "glosses": {
+   "en": "helicopter",
+   "ja": "ヘリコプター"
+  },
+  "choices": [
+   "helicopter",
+   "to break",
+   "prey",
+   "farce"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mir.wa.ħij.ja/",
+  "verified": true
+ },
+ {
+  "id": "ar-00430",
+  "category": "arabic",
+  "prompt": "「استجاب」の意味は？",
+  "answer": "to respond",
+  "glosses": {
+   "en": "to respond",
+   "ja": "応答する"
+  },
+  "choices": [
+   "autonomy",
+   "to lick",
+   "to respond",
+   "revolutionary"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/is.ta.d͡ʒaː.ba/",
+  "verified": true
+ },
+ {
+  "id": "ar-00431",
+  "category": "arabic",
+  "prompt": "「شهية」の意味は？",
+  "answer": "appetite",
+  "glosses": {
+   "en": "appetite",
+   "ja": "食欲"
+  },
+  "choices": [
+   "appetite",
+   "verbal",
+   "to extract",
+   "fence"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʃa.hij.ja/",
+  "verified": true
+ },
+ {
+  "id": "ar-00432",
+  "category": "arabic",
+  "prompt": "「أجندة」の意味は？",
+  "answer": "agenda",
+  "glosses": {
+   "en": "agenda",
+   "ja": "議題"
+  },
+  "choices": [
+   "gorilla",
+   "exemplary",
+   "diamond",
+   "agenda"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʔa.d͡ʒin.da/",
+  "verified": true
+ },
+ {
+  "id": "ar-00433",
+  "category": "arabic",
+  "prompt": "「موضة」の意味は？",
+  "answer": "fashion",
+  "glosses": {
+   "en": "fashion",
+   "ja": "ファッション"
+  },
+  "choices": [
+   "religion",
+   "fashion",
+   "washing machine",
+   "consulate"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/muː.dˤa/",
+  "verified": true
+ },
+ {
+  "id": "ar-00434",
+  "category": "arabic",
+  "prompt": "「ناشر」の意味は？",
+  "answer": "publisher",
+  "glosses": {
+   "en": "publisher",
+   "ja": "出版者"
+  },
+  "choices": [
+   "to master",
+   "publisher",
+   "submarine",
+   "blind"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ar-00435",
+  "category": "arabic",
+  "prompt": "「اعتذار」の意味は？",
+  "answer": "apology",
+  "glosses": {
+   "en": "apology",
+   "ja": "謝罪"
+  },
+  "choices": [
+   "apology",
+   "physics",
+   "hostage",
+   "transformer"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/iʕ.ti.ðaːr/",
+  "verified": true
+ },
+ {
+  "id": "ar-00436",
+  "category": "arabic",
+  "prompt": "「مهاجر」の意味は？",
+  "answer": "migrant",
+  "glosses": {
+   "en": "migrant",
+   "ja": "移住者"
+  },
+  "choices": [
+   "turtle",
+   "solar eclipse",
+   "radiation",
+   "migrant"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mu.haː.d͡ʒir/",
+  "verified": true
+ },
+ {
+  "id": "ar-00437",
+  "category": "arabic",
+  "prompt": "「احتراق」の意味は？",
+  "answer": "combustion",
+  "glosses": {
+   "en": "combustion",
+   "ja": "燃焼"
+  },
+  "choices": [
+   "sewing",
+   "to go too far",
+   "fertility",
+   "combustion"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/iħ.ti.raːq/",
+  "verified": true
+ },
+ {
+  "id": "ar-00438",
+  "category": "arabic",
+  "prompt": "「منجم」の意味は？",
+  "answer": "mine",
+  "glosses": {
+   "en": "mine",
+   "ja": "鉱山"
+  },
+  "choices": [
+   "abundant",
+   "mine",
+   "insect",
+   "arbitrary"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mu.nad͡ʒ.d͡ʒim/",
+  "verified": true
+ },
+ {
+  "id": "ar-00439",
+  "category": "arabic",
+  "prompt": "「قذيفة」の意味は？",
+  "answer": "projectile",
+  "glosses": {
+   "en": "projectile",
+   "ja": "砲弾"
+  },
+  "choices": [
+   "antique",
+   "plastic",
+   "to rent",
+   "projectile"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/qa.ðiː.fa/",
+  "verified": true
+ },
+ {
+  "id": "ar-00440",
+  "category": "arabic",
+  "prompt": "「مضيق」の意味は？",
+  "answer": "strait",
+  "glosses": {
+   "en": "strait",
+   "ja": "海峡"
+  },
+  "choices": [
+   "silent",
+   "strait",
+   "drizzle",
+   "vest"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ma.dˤiːq/",
+  "verified": true
+ },
+ {
+  "id": "ar-00441",
+  "category": "arabic",
+  "prompt": "「سب」の意味は？",
+  "answer": "to revile",
+  "glosses": {
+   "en": "to revile",
+   "ja": "ののしる"
+  },
+  "choices": [
+   "delighted",
+   "praise",
+   "kiosk",
+   "to revile"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ar-00442",
+  "category": "arabic",
+  "prompt": "「تضاعف」の意味は？",
+  "answer": "to double",
+  "glosses": {
+   "en": "to double",
+   "ja": "倍増する"
+  },
+  "choices": [
+   "bakery",
+   "to double",
+   "fugitive",
+   "aggression"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ta.dˤaː.ʕa.fa/",
+  "verified": true
+ },
+ {
+  "id": "ar-00443",
+  "category": "arabic",
+  "prompt": "「تدشين」の意味は？",
+  "answer": "inauguration",
+  "glosses": {
+   "en": "inauguration",
+   "ja": "発足"
+  },
+  "choices": [
+   "skirt",
+   "to collide",
+   "inauguration",
+   "to contain"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/tad.ʃiːn/",
+  "verified": true
+ },
+ {
+  "id": "ar-00444",
+  "category": "arabic",
+  "prompt": "「طار」の意味は？",
+  "answer": "to fly",
+  "glosses": {
+   "en": "to fly",
+   "ja": "飛ぶ"
+  },
+  "choices": [
+   "apt",
+   "beard",
+   "arbitrary",
+   "to fly"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/tˤaː.ra/",
+  "verified": true
+ },
+ {
+  "id": "ar-00445",
+  "category": "arabic",
+  "prompt": "「نرد」の意味は？",
+  "answer": "dice",
+  "glosses": {
+   "en": "dice",
+   "ja": "さいころ"
+  },
+  "choices": [
+   "mythical",
+   "to double",
+   "dice",
+   "projectile"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ar-00446",
+  "category": "arabic",
+  "prompt": "「كابوس」の意味は？",
+  "answer": "nightmare",
+  "glosses": {
+   "en": "nightmare",
+   "ja": "悪夢"
+  },
+  "choices": [
+   "harp",
+   "nightmare",
+   "gland",
+   "Buddhism"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kaː.buːs/",
+  "verified": true
+ },
+ {
+  "id": "ar-00447",
+  "category": "arabic",
+  "prompt": "「فرن」の意味は？",
+  "answer": "oven",
+  "glosses": {
+   "en": "oven",
+   "ja": "オーブン"
+  },
+  "choices": [
+   "hairstyle",
+   "oven",
+   "hostage",
+   "autonomy"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/furn/",
+  "verified": true
+ },
+ {
+  "id": "ar-00448",
+  "category": "arabic",
+  "prompt": "「حشرة」の意味は？",
+  "answer": "insect",
+  "glosses": {
+   "en": "insect",
+   "ja": "昆虫"
+  },
+  "choices": [
+   "insect",
+   "to double",
+   "dagger",
+   "garbage"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ħa.ʃa.ra/",
+  "verified": true
+ },
+ {
+  "id": "ar-00449",
+  "category": "arabic",
+  "prompt": "「رقبة」の意味は？",
+  "answer": "neck",
+  "glosses": {
+   "en": "neck",
+   "ja": "首"
+  },
+  "choices": [
+   "neck",
+   "to complain",
+   "mulberry",
+   "mandatory"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ra.qa.ba/",
+  "verified": true
+ },
+ {
+  "id": "ar-00450",
+  "category": "arabic",
+  "prompt": "「سلمي」の意味は？",
+  "answer": "peaceful",
+  "glosses": {
+   "en": "peaceful",
+   "ja": "平和的な"
+  },
+  "choices": [
+   "rabbit",
+   "mouse",
+   "yacht",
+   "peaceful"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ar-00451",
+  "category": "arabic",
+  "prompt": "「زبون」の意味は？",
+  "answer": "customer",
+  "glosses": {
+   "en": "customer",
+   "ja": "顧客"
+  },
+  "choices": [
+   "customer",
+   "cloak",
+   "neutral",
+   "clown"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/za.buːn/",
+  "verified": true
+ },
+ {
+  "id": "ar-00452",
+  "category": "arabic",
+  "prompt": "「اشتكى」の意味は？",
+  "answer": "to complain",
+  "glosses": {
+   "en": "to complain",
+   "ja": "不平を言う"
+  },
+  "choices": [
+   "to complain",
+   "activist",
+   "cannon",
+   "to reduce"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ar-00453",
+  "category": "arabic",
+  "prompt": "「سكين」の意味は？",
+  "answer": "knife",
+  "glosses": {
+   "en": "knife",
+   "ja": "ナイフ"
+  },
+  "choices": [
+   "cloud",
+   "knife",
+   "commission",
+   "auction"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/sik.kiːn/",
+  "verified": true
+ },
+ {
+  "id": "ar-00454",
+  "category": "arabic",
+  "prompt": "「عضلة」の意味は？",
+  "answer": "muscle",
+  "glosses": {
+   "en": "muscle",
+   "ja": "筋肉"
+  },
+  "choices": [
+   "balloon",
+   "muscle",
+   "shorts",
+   "inference"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʕa.dˤa.la/",
+  "verified": true
+ },
+ {
+  "id": "ar-00455",
+  "category": "arabic",
+  "prompt": "「اخترع」の意味は？",
+  "answer": "to invent",
+  "glosses": {
+   "en": "to invent",
+   "ja": "発明する"
+  },
+  "choices": [
+   "orchestra",
+   "anecdote",
+   "diverse",
+   "to invent"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ar-00456",
+  "category": "arabic",
+  "prompt": "「قبيح」の意味は？",
+  "answer": "ugly",
+  "glosses": {
+   "en": "ugly",
+   "ja": "醜い"
+  },
+  "choices": [
+   "technical",
+   "cow",
+   "ugly",
+   "delighted"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/qa.biːħ/",
+  "verified": true
+ },
+ {
+  "id": "ar-00457",
+  "category": "arabic",
+  "prompt": "「أنقذ」の意味は？",
+  "answer": "to save",
+  "glosses": {
+   "en": "to save",
+   "ja": "救う"
+  },
+  "choices": [
+   "she-goat",
+   "poker",
+   "to save",
+   "cheek"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʔan.qa.ða/",
+  "verified": true
+ },
+ {
+  "id": "ar-00458",
+  "category": "arabic",
+  "prompt": "「بطيء」の意味は？",
+  "answer": "slow",
+  "glosses": {
+   "en": "slow",
+   "ja": "遅い"
+  },
+  "choices": [
+   "slow",
+   "fashion",
+   "ignorant",
+   "to violate"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ba.tˤiːʔ/",
+  "verified": true
+ },
+ {
+  "id": "ar-00459",
+  "category": "arabic",
+  "prompt": "「هواية」の意味は？",
+  "answer": "hobby",
+  "glosses": {
+   "en": "hobby",
+   "ja": "趣味"
+  },
+  "choices": [
+   "to inspire",
+   "knife",
+   "lung",
+   "hobby"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ar-00460",
+  "category": "arabic",
+  "prompt": "「إمبراطورية」の意味は？",
+  "answer": "empire",
+  "glosses": {
+   "en": "empire",
+   "ja": "帝国"
+  },
+  "choices": [
+   "empire",
+   "activist",
+   "aggression",
+   "algorithm"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʔim.ba.raː.tˤuː.rij.ja/",
+  "verified": true
+ },
+ {
+  "id": "ar-00461",
+  "category": "arabic",
+  "prompt": "「صلصة」の意味は？",
+  "answer": "sauce",
+  "glosses": {
+   "en": "sauce",
+   "ja": "ソース"
+  },
+  "choices": [
+   "needle",
+   "sauce",
+   "chocolate",
+   "radiation"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ar-00462",
+  "category": "arabic",
+  "prompt": "「سوار」の意味は？",
+  "answer": "bracelet",
+  "glosses": {
+   "en": "bracelet",
+   "ja": "ブレスレット"
+  },
+  "choices": [
+   "bracelet",
+   "predicament",
+   "copper",
+   "burrow"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/si.waːr/",
+  "verified": true
+ },
+ {
+  "id": "ar-00463",
+  "category": "arabic",
+  "prompt": "「صفعة」の意味は？",
+  "answer": "a slap",
+  "glosses": {
+   "en": "a slap",
+   "ja": "平手打ち"
+  },
+  "choices": [
+   "to summarize",
+   "waterfall",
+   "a slap",
+   "telegraph"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/sˤaf.ʕa/",
+  "verified": true
+ },
+ {
+  "id": "ar-00464",
+  "category": "arabic",
+  "prompt": "「بلاط」の意味は？",
+  "answer": "tile",
+  "glosses": {
+   "en": "tile",
+   "ja": "タイル"
+  },
+  "choices": [
+   "tile",
+   "lizard",
+   "mobile",
+   "journalist"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ba.laːtˤ/",
+  "verified": true
+ },
+ {
+  "id": "ar-00465",
+  "category": "arabic",
+  "prompt": "「برقية」の意味は？",
+  "answer": "telegram",
+  "glosses": {
+   "en": "telegram",
+   "ja": "電報"
+  },
+  "choices": [
+   "artery",
+   "sofa",
+   "telegram",
+   "chocolate"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bar.qij.ja/",
+  "verified": true
+ },
+ {
+  "id": "ar-00466",
+  "category": "arabic",
+  "prompt": "「مدفع」の意味は？",
+  "answer": "cannon",
+  "glosses": {
+   "en": "cannon",
+   "ja": "大砲"
+  },
+  "choices": [
+   "expansion",
+   "noisy",
+   "jar",
+   "cannon"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mid.faʕ/",
+  "verified": true
+ },
+ {
+  "id": "ar-00467",
+  "category": "arabic",
+  "prompt": "「فريسة」の意味は？",
+  "answer": "prey",
+  "glosses": {
+   "en": "prey",
+   "ja": "えじき"
+  },
+  "choices": [
+   "comedy",
+   "delighted",
+   "cheer",
+   "prey"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/fa.riː.sa/",
+  "verified": true
+ },
+ {
+  "id": "ar-00468",
+  "category": "arabic",
+  "prompt": "「أنقاض」の意味は？",
+  "answer": "rubble",
+  "glosses": {
+   "en": "rubble",
+   "ja": "がれき"
+  },
+  "choices": [
+   "slight",
+   "spider",
+   "shameless",
+   "rubble"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʔan.qaːdˤ/",
+  "verified": true
+ },
+ {
+  "id": "ar-00469",
+  "category": "arabic",
+  "prompt": "「قلادة」の意味は？",
+  "answer": "necklace",
+  "glosses": {
+   "en": "necklace",
+   "ja": "ネックレス"
+  },
+  "choices": [
+   "necklace",
+   "to interpret",
+   "historian",
+   "barber"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/qi.laː.da/",
+  "verified": true
+ },
+ {
+  "id": "ar-00470",
+  "category": "arabic",
+  "prompt": "「قنصلية」の意味は？",
+  "answer": "consulate",
+  "glosses": {
+   "en": "consulate",
+   "ja": "領事館"
+  },
+  "choices": [
+   "ballet",
+   "consulate",
+   "to close eyes",
+   "investor"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/qun.sˤu.lij.ja/",
+  "verified": true
+ },
+ {
+  "id": "ar-00471",
+  "category": "arabic",
+  "prompt": "「شعلة」の意味は？",
+  "answer": "a flame",
+  "glosses": {
+   "en": "a flame",
+   "ja": "炎"
+  },
+  "choices": [
+   "a flame",
+   "imagination",
+   "incubator",
+   "vanguard"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʃuʕ.la/",
+  "verified": true
+ },
+ {
+  "id": "ar-00472",
+  "category": "arabic",
+  "prompt": "「مراهق」の意味は？",
+  "answer": "adolescent",
+  "glosses": {
+   "en": "adolescent",
+   "ja": "十代の子"
+  },
+  "choices": [
+   "flight attendant",
+   "apology",
+   "adolescent",
+   "nightmare"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mu.raː.hiq/",
+  "verified": true
+ },
+ {
+  "id": "ar-00473",
+  "category": "arabic",
+  "prompt": "「أوبرا」の意味は？",
+  "answer": "opera",
+  "glosses": {
+   "en": "opera",
+   "ja": "オペラ"
+  },
+  "choices": [
+   "historian",
+   "barber",
+   "opera",
+   "to consult"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʔo.bi.ra/",
+  "verified": true
+ },
+ {
+  "id": "ar-00474",
+  "category": "arabic",
+  "prompt": "「رافعة」の意味は？",
+  "answer": "crane",
+  "glosses": {
+   "en": "crane",
+   "ja": "クレーン"
+  },
+  "choices": [
+   "voter",
+   "salty",
+   "police station",
+   "crane"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/raː.fi.ʕa/",
+  "verified": true
+ },
+ {
+  "id": "ar-00475",
+  "category": "arabic",
+  "prompt": "「قناص」の意味は？",
+  "answer": "sniper",
+  "glosses": {
+   "en": "sniper",
+   "ja": "狙撃手"
+  },
+  "choices": [
+   "sniper",
+   "to overthrow",
+   "to double",
+   "mandatory"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/qan.naːsˤ/",
+  "verified": true
+ },
+ {
+  "id": "ar-00476",
+  "category": "arabic",
+  "prompt": "「هيمنة」の意味は？",
+  "answer": "hegemony",
+  "glosses": {
+   "en": "hegemony",
+   "ja": "覇権"
+  },
+  "choices": [
+   "bottle",
+   "hegemony",
+   "stove",
+   "ugly"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/haj.ma.na/",
+  "verified": true
+ },
+ {
+  "id": "ar-00477",
+  "category": "arabic",
+  "prompt": "「عدوان」の意味は？",
+  "answer": "aggression",
+  "glosses": {
+   "en": "aggression",
+   "ja": "侵略"
+  },
+  "choices": [
+   "drizzle",
+   "aggression",
+   "galaxy",
+   "secular"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʕud.waːn/",
+  "verified": true
+ },
+ {
+  "id": "ar-00478",
+  "category": "arabic",
+  "prompt": "「تجريبي」の意味は？",
+  "answer": "experimental",
+  "glosses": {
+   "en": "experimental",
+   "ja": "実験的な"
+  },
+  "choices": [
+   "drizzle",
+   "lowly",
+   "experimental",
+   "to inspire"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/tad͡ʒ.riː.bijj/",
+  "verified": true
+ },
+ {
+  "id": "ar-00479",
+  "category": "arabic",
+  "prompt": "「نفايات」の意味は？",
+  "answer": "garbage",
+  "glosses": {
+   "en": "garbage",
+   "ja": "ごみ"
+  },
+  "choices": [
+   "garbage",
+   "to sink",
+   "flat",
+   "bubble"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/nu.faː.jaːt/",
+  "verified": true
+ },
+ {
+  "id": "ar-00480",
+  "category": "arabic",
+  "prompt": "「بهجة」の意味は？",
+  "answer": "delight",
+  "glosses": {
+   "en": "delight",
+   "ja": "歓喜"
+  },
+  "choices": [
+   "vegetables",
+   "cathedral",
+   "delight",
+   "experimental"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bah.d͡ʒa/",
+  "verified": true
+ },
+ {
+  "id": "ar-00481",
+  "category": "arabic",
+  "prompt": "「مهجور」の意味は？",
+  "answer": "abandoned",
+  "glosses": {
+   "en": "abandoned",
+   "ja": "見捨てられた"
+  },
+  "choices": [
+   "beneficiary",
+   "abandoned",
+   "beard",
+   "unemployment"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mah.d͡ʒuːr/",
+  "verified": true
+ },
+ {
+  "id": "ar-00482",
+  "category": "arabic",
+  "prompt": "「بروتين」の意味は？",
+  "answer": "protein",
+  "glosses": {
+   "en": "protein",
+   "ja": "タンパク質"
+  },
+  "choices": [
+   "pile",
+   "vest",
+   "protein",
+   "to shine"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bruː.tiːn/",
+  "verified": true
+ },
+ {
+  "id": "ar-00483",
+  "category": "arabic",
+  "prompt": "「توت」の意味は？",
+  "answer": "mulberry",
+  "glosses": {
+   "en": "mulberry",
+   "ja": "桑の実"
+  },
+  "choices": [
+   "swimmer",
+   "mulberry",
+   "to summarize",
+   "to complain"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ar-00484",
+  "category": "arabic",
+  "prompt": "「رهينة」の意味は？",
+  "answer": "hostage",
+  "glosses": {
+   "en": "hostage",
+   "ja": "人質"
+  },
+  "choices": [
+   "flight attendant",
+   "hostage",
+   "mobile",
+   "noisy"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ra.hiː.na/",
+  "verified": true
+ },
+ {
+  "id": "ar-00485",
+  "category": "arabic",
+  "prompt": "「مبعوث」の意味は？",
+  "answer": "envoy",
+  "glosses": {
+   "en": "envoy",
+   "ja": "特使"
+  },
+  "choices": [
+   "apt",
+   "envoy",
+   "adolescent",
+   "pillow"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mab.ʕuːθ/",
+  "verified": true
+ },
+ {
+  "id": "ar-00486",
+  "category": "arabic",
+  "prompt": "「حصاد」の意味は？",
+  "answer": "harvest",
+  "glosses": {
+   "en": "harvest",
+   "ja": "収穫"
+  },
+  "choices": [
+   "cathedral",
+   "accountant",
+   "harvest",
+   "synagogue"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ħasˤ.sˤaːd/",
+  "verified": true
+ },
+ {
+  "id": "ar-00487",
+  "category": "arabic",
+  "prompt": "「متعمد」の意味は？",
+  "answer": "intentional",
+  "glosses": {
+   "en": "intentional",
+   "ja": "意図的な"
+  },
+  "choices": [
+   "grace period",
+   "mobile",
+   "intentional",
+   "to close eyes"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ar-00488",
+  "category": "arabic",
+  "prompt": "「موز」の意味は？",
+  "answer": "banana",
+  "glosses": {
+   "en": "banana",
+   "ja": "バナナ"
+  },
+  "choices": [
+   "obesity",
+   "unemployment",
+   "banana",
+   "diesel"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mawz/",
+  "verified": true
+ },
+ {
+  "id": "ar-00489",
+  "category": "arabic",
+  "prompt": "「ثعبان」の意味は？",
+  "answer": "snake",
+  "glosses": {
+   "en": "snake",
+   "ja": "ヘビ"
+  },
+  "choices": [
+   "empire",
+   "diamond",
+   "flat",
+   "snake"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/θuʕ.baːn/",
+  "verified": true
+ },
+ {
+  "id": "ar-00490",
+  "category": "arabic",
+  "prompt": "「مشى」の意味は？",
+  "answer": "to walk",
+  "glosses": {
+   "en": "to walk",
+   "ja": "歩く"
+  },
+  "choices": [
+   "to walk",
+   "cook",
+   "knife",
+   "gland"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ma.ʃaː/",
+  "verified": true
+ },
+ {
+  "id": "ar-00491",
+  "category": "arabic",
+  "prompt": "「فراشة」の意味は？",
+  "answer": "butterfly",
+  "glosses": {
+   "en": "butterfly",
+   "ja": "チョウ"
+  },
+  "choices": [
+   "butterfly",
+   "chemistry",
+   "to rent",
+   "to spend"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/fa.raː.ʃa/",
+  "verified": true
+ },
+ {
+  "id": "ar-00492",
+  "category": "arabic",
+  "prompt": "「فيزياء」の意味は？",
+  "answer": "physics",
+  "glosses": {
+   "en": "physics",
+   "ja": "物理学"
+  },
+  "choices": [
+   "wolf",
+   "physics",
+   "Buddhism",
+   "mine"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ar-00493",
+  "category": "arabic",
+  "prompt": "「رماد」の意味は？",
+  "answer": "ash",
+  "glosses": {
+   "en": "ash",
+   "ja": "灰"
+  },
+  "choices": [
+   "furniture",
+   "thin",
+   "tavern",
+   "ash"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ra.maːd/",
+  "verified": true
+ },
+ {
+  "id": "ar-00494",
+  "category": "arabic",
+  "prompt": "「ليمون」の意味は？",
+  "answer": "lemon",
+  "glosses": {
+   "en": "lemon",
+   "ja": "レモン"
+  },
+  "choices": [
+   "granddaughter",
+   "lemon",
+   "abundant",
+   "essential"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/laj.muːn/",
+  "verified": true
+ },
+ {
+  "id": "ar-00495",
+  "category": "arabic",
+  "prompt": "「كيمياء」の意味は？",
+  "answer": "chemistry",
+  "glosses": {
+   "en": "chemistry",
+   "ja": "化学"
+  },
+  "choices": [
+   "chemistry",
+   "kiosk",
+   "to taste",
+   "exemplary"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kiː.mi.jaːʔ/",
+  "verified": true
+ },
+ {
+  "id": "ar-00496",
+  "category": "arabic",
+  "prompt": "「بوم」の意味は？",
+  "answer": "owl",
+  "glosses": {
+   "en": "owl",
+   "ja": "フクロウ"
+  },
+  "choices": [
+   "owl",
+   "pharmacy",
+   "critic",
+   "spring"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ar-00497",
+  "category": "arabic",
+  "prompt": "「فأر」の意味は？",
+  "answer": "mouse",
+  "glosses": {
+   "en": "mouse",
+   "ja": "ネズミ"
+  },
+  "choices": [
+   "mill",
+   "luxury",
+   "philosopher",
+   "mouse"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/faʔr/",
+  "verified": true
+ },
+ {
+  "id": "ar-00498",
+  "category": "arabic",
+  "prompt": "「شريان」の意味は？",
+  "answer": "artery",
+  "glosses": {
+   "en": "artery",
+   "ja": "動脈"
+  },
+  "choices": [
+   "stove",
+   "concise",
+   "artery",
+   "sewing"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʃir.jaːn/",
+  "verified": true
+ },
+ {
+  "id": "ar-00499",
+  "category": "arabic",
+  "prompt": "「سجادة」の意味は？",
+  "answer": "carpet",
+  "glosses": {
+   "en": "carpet",
+   "ja": "じゅうたん"
+  },
+  "choices": [
+   "lazy",
+   "to confront",
+   "carpet",
+   "silliness"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/sad͡ʒ.d͡ʒaː.da/",
+  "verified": true
+ },
+ {
+  "id": "ar-00500",
+  "category": "arabic",
+  "prompt": "「تنبأ」の意味は？",
+  "answer": "to foretell",
+  "glosses": {
+   "en": "to foretell",
+   "ja": "予言する"
+  },
+  "choices": [
+   "flat",
+   "to overthrow",
+   "critic",
+   "to foretell"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ar-00501",
+  "category": "arabic",
+  "prompt": "「غلى」の意味は？",
+  "answer": "to boil",
+  "glosses": {
+   "en": "to boil",
+   "ja": "沸く"
+  },
+  "choices": [
+   "to boil",
+   "abundant",
+   "herd",
+   "silent"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɣa.laː/",
+  "verified": true
+ },
+ {
+  "id": "ar-00502",
+  "category": "arabic",
+  "prompt": "「باندا」の意味は？",
+  "answer": "panda",
+  "glosses": {
+   "en": "panda",
+   "ja": "パンダ"
+  },
+  "choices": [
+   "commission",
+   "rabbit",
+   "plastic",
+   "panda"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/baːn.daː/",
+  "verified": true
+ },
+ {
+  "id": "ar-00503",
+  "category": "arabic",
+  "prompt": "「جاهل」の意味は？",
+  "answer": "ignorant",
+  "glosses": {
+   "en": "ignorant",
+   "ja": "無知な"
+  },
+  "choices": [
+   "scarf",
+   "envoy",
+   "ignorant",
+   "tailor"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d͡ʒaː.hil/",
+  "verified": true
+ },
+ {
+  "id": "ar-00504",
+  "category": "arabic",
+  "prompt": "「طفولة」の意味は？",
+  "answer": "childhood",
+  "glosses": {
+   "en": "childhood",
+   "ja": "子供時代"
+  },
+  "choices": [
+   "transparency",
+   "manuscript",
+   "childhood",
+   "she-goat"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/tˤu.fuː.la/",
+  "verified": true
+ },
+ {
+  "id": "ar-00505",
+  "category": "arabic",
+  "prompt": "「بقرة」の意味は？",
+  "answer": "cow",
+  "glosses": {
+   "en": "cow",
+   "ja": "雌牛"
+  },
+  "choices": [
+   "sandwich",
+   "cow",
+   "sand",
+   "publisher"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ba.qa.ra/",
+  "verified": true
+ },
+ {
+  "id": "ar-00506",
+  "category": "arabic",
+  "prompt": "「ثلاجة」の意味は？",
+  "answer": "refrigerator",
+  "glosses": {
+   "en": "refrigerator",
+   "ja": "冷蔵庫"
+  },
+  "choices": [
+   "necklace",
+   "nonsense",
+   "refrigerator",
+   "banana"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/θal.laː.d͡ʒa/",
+  "verified": true
+ },
+ {
+  "id": "ar-00507",
+  "category": "arabic",
+  "prompt": "「فرشاة」の意味は？",
+  "answer": "brush",
+  "glosses": {
+   "en": "brush",
+   "ja": "ブラシ"
+  },
+  "choices": [
+   "manuscript",
+   "brush",
+   "to lick",
+   "depression"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/fur.ʃaːh/",
+  "verified": true
+ },
+ {
+  "id": "ar-00508",
+  "category": "arabic",
+  "prompt": "「تقدمي」の意味は？",
+  "answer": "progressive",
+  "glosses": {
+   "en": "progressive",
+   "ja": "進歩的な"
+  },
+  "choices": [
+   "pebble",
+   "delighted",
+   "duke",
+   "progressive"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ta.qad.du.mijj/",
+  "verified": true
+ },
+ {
+  "id": "ar-00509",
+  "category": "arabic",
+  "prompt": "「مسطح」の意味は？",
+  "answer": "flat",
+  "glosses": {
+   "en": "flat",
+   "ja": "平らな"
+  },
+  "choices": [
+   "to collide",
+   "flat",
+   "a hair",
+   "enthusiasm"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mu.satˤ.tˤaħ/",
+  "verified": true
+ },
+ {
+  "id": "ar-00510",
+  "category": "arabic",
+  "prompt": "「ناقد」の意味は？",
+  "answer": "critic",
+  "glosses": {
+   "en": "critic",
+   "ja": "評論家"
+  },
+  "choices": [
+   "concise",
+   "snake",
+   "critic",
+   "nonsense"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/naː.qid/",
+  "verified": true
+ },
+ {
+  "id": "ar-00511",
+  "category": "arabic",
+  "prompt": "「كاتدرائية」の意味は？",
+  "answer": "cathedral",
+  "glosses": {
+   "en": "cathedral",
+   "ja": "大聖堂"
+  },
+  "choices": [
+   "rabbit",
+   "spring",
+   "cathedral",
+   "artillery"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kaː.tid.raː.ʔij.ja/",
+  "verified": true
+ },
+ {
+  "id": "ar-00512",
+  "category": "arabic",
+  "prompt": "「بيانو」の意味は？",
+  "answer": "piano",
+  "glosses": {
+   "en": "piano",
+   "ja": "ピアノ"
+  },
+  "choices": [
+   "piano",
+   "knee",
+   "hostage",
+   "harvest"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bi.jaː.nuː/",
+  "verified": true
+ },
+ {
+  "id": "ar-00513",
+  "category": "arabic",
+  "prompt": "「ديانة」の意味は？",
+  "answer": "religion",
+  "glosses": {
+   "en": "religion",
+   "ja": "宗教"
+  },
+  "choices": [
+   "to violate",
+   "marble",
+   "activist",
+   "religion"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/di.jaː.na/",
+  "verified": true
+ },
+ {
+  "id": "ar-00514",
+  "category": "arabic",
+  "prompt": "「نبرة」の意味は？",
+  "answer": "tone",
+  "glosses": {
+   "en": "tone",
+   "ja": "口調"
+  },
+  "choices": [
+   "helicopter",
+   "tone",
+   "sewing",
+   "revolutionary"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/nab.ra/",
+  "verified": true
+ },
+ {
+  "id": "ar-00515",
+  "category": "arabic",
+  "prompt": "「معجون」の意味は？",
+  "answer": "paste",
+  "glosses": {
+   "en": "paste",
+   "ja": "ペースト"
+  },
+  "choices": [
+   "paste",
+   "arbitrary",
+   "fan",
+   "gazelle"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/maʕ.d͡ʒuːn/",
+  "verified": true
+ },
+ {
+  "id": "ar-00516",
+  "category": "arabic",
+  "prompt": "「فسر」の意味は？",
+  "answer": "to interpret",
+  "glosses": {
+   "en": "to interpret",
+   "ja": "解釈する"
+  },
+  "choices": [
+   "silent",
+   "to interpret",
+   "ugly",
+   "to sink"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/fas.sa.ra/",
+  "verified": true
+ },
+ {
+  "id": "ar-00517",
+  "category": "arabic",
+  "prompt": "「اختطف」の意味は？",
+  "answer": "to kidnap",
+  "glosses": {
+   "en": "to kidnap",
+   "ja": "誘拐する"
+  },
+  "choices": [
+   "prey",
+   "washing machine",
+   "to kidnap",
+   "revolutionary"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ix.ta.tˤa.fa/",
+  "verified": true
+ },
+ {
+  "id": "ar-00518",
+  "category": "arabic",
+  "prompt": "「متنوع」の意味は？",
+  "answer": "diverse",
+  "glosses": {
+   "en": "diverse",
+   "ja": "多様な"
+  },
+  "choices": [
+   "adventurer",
+   "diverse",
+   "to rent",
+   "silliness"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mu.ta.naw.wiʕ/",
+  "verified": true
+ },
+ {
+  "id": "ar-00519",
+  "category": "arabic",
+  "prompt": "「روبوت」の意味は？",
+  "answer": "robot",
+  "glosses": {
+   "en": "robot",
+   "ja": "ロボット"
+  },
+  "choices": [
+   "Buddhism",
+   "fountain",
+   "robot",
+   "to consult"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/roː.boːt/",
+  "verified": true
+ },
+ {
+  "id": "ar-00520",
+  "category": "arabic",
+  "prompt": "「أثاث」の意味は？",
+  "answer": "furniture",
+  "glosses": {
+   "en": "furniture",
+   "ja": "家具"
+  },
+  "choices": [
+   "furniture",
+   "combustion",
+   "bacteria",
+   "helmet"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʔa.θaːθ/",
+  "verified": true
+ },
+ {
+  "id": "ar-00521",
+  "category": "arabic",
+  "prompt": "「سياج」の意味は？",
+  "answer": "fence",
+  "glosses": {
+   "en": "fence",
+   "ja": "柵"
+  },
+  "choices": [
+   "to recover",
+   "scrap",
+   "printer",
+   "fence"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/si.jaːd͡ʒ/",
+  "verified": true
+ },
+ {
+  "id": "ar-00522",
+  "category": "arabic",
+  "prompt": "「محاسب」の意味は？",
+  "answer": "accountant",
+  "glosses": {
+   "en": "accountant",
+   "ja": "会計士"
+  },
+  "choices": [
+   "adolescent",
+   "delighted",
+   "accountant",
+   "Buddhism"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ar-00523",
+  "category": "arabic",
+  "prompt": "「مهلة」の意味は？",
+  "answer": "grace period",
+  "glosses": {
+   "en": "grace period",
+   "ja": "猶予期間"
+  },
+  "choices": [
+   "grace period",
+   "cheek",
+   "plumber",
+   "imagination"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/muh.la/",
+  "verified": true
+ },
+ {
+  "id": "ar-00524",
+  "category": "arabic",
+  "prompt": "「تنورة」の意味は？",
+  "answer": "skirt",
+  "glosses": {
+   "en": "skirt",
+   "ja": "スカート"
+  },
+  "choices": [
+   "imagination",
+   "transformer",
+   "skirt",
+   "to double"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/tan.nuː.ra/",
+  "verified": true
+ },
+ {
+  "id": "ar-00525",
+  "category": "arabic",
+  "prompt": "「مزاد」の意味は？",
+  "answer": "auction",
+  "glosses": {
+   "en": "auction",
+   "ja": "オークション"
+  },
+  "choices": [
+   "pillow",
+   "to replace",
+   "to boil",
+   "auction"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ma.zaːd/",
+  "verified": true
+ },
+ {
+  "id": "ar-00526",
+  "category": "arabic",
+  "prompt": "「مستنقع」の意味は？",
+  "answer": "swamp",
+  "glosses": {
+   "en": "swamp",
+   "ja": "沼地"
+  },
+  "choices": [
+   "swamp",
+   "foolishness",
+   "to summarize",
+   "revolutionary"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mus.tan.qaʕ/",
+  "verified": true
+ },
+ {
+  "id": "ar-00527",
+  "category": "arabic",
+  "prompt": "「طوعا」の意味は？",
+  "answer": "voluntarily",
+  "glosses": {
+   "en": "voluntarily",
+   "ja": "自ら進んで"
+  },
+  "choices": [
+   "cooperative",
+   "voluntarily",
+   "synagogue",
+   "to rent"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/tˤaw.ʕan/",
+  "verified": true
+ },
+ {
+  "id": "ar-00528",
+  "category": "arabic",
+  "prompt": "「كومة」の意味は？",
+  "answer": "pile",
+  "glosses": {
+   "en": "pile",
+   "ja": "積み重ね"
+  },
+  "choices": [
+   "garbage",
+   "pile",
+   "secretary",
+   "marble"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ar-00529",
+  "category": "arabic",
+  "prompt": "「خبيث」の意味は？",
+  "answer": "malicious",
+  "glosses": {
+   "en": "malicious",
+   "ja": "悪意のある"
+  },
+  "choices": [
+   "experimental",
+   "malicious",
+   "praise",
+   "elegance"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/xa.biːθ/",
+  "verified": true
+ },
+ {
+  "id": "ar-00530",
+  "category": "arabic",
+  "prompt": "「استمارة」の意味は？",
+  "answer": "form",
+  "glosses": {
+   "en": "form",
+   "ja": "用紙"
+  },
+  "choices": [
+   "form",
+   "uranium",
+   "transparency",
+   "arbitrary"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/is.ti.maː.ra/",
+  "verified": true
+ },
+ {
+  "id": "ar-00531",
+  "category": "arabic",
+  "prompt": "「نزعة」の意味は？",
+  "answer": "tendency",
+  "glosses": {
+   "en": "tendency",
+   "ja": "傾向"
+  },
+  "choices": [
+   "burrow",
+   "beer",
+   "tendency",
+   "anecdote"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/naz.ʕa/",
+  "verified": true
+ },
+ {
+  "id": "ar-00532",
+  "category": "arabic",
+  "prompt": "「دوق」の意味は？",
+  "answer": "duke",
+  "glosses": {
+   "en": "duke",
+   "ja": "公爵"
+  },
+  "choices": [
+   "tavern",
+   "spy",
+   "duke",
+   "depression"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/duːq/",
+  "verified": true
+ },
+ {
+  "id": "ar-00533",
+  "category": "arabic",
+  "prompt": "「اشتباك」の意味は？",
+  "answer": "clash",
+  "glosses": {
+   "en": "clash",
+   "ja": "衝突"
+  },
+  "choices": [
+   "stove",
+   "unemployment",
+   "clash",
+   "neck"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/iʃ.ti.baːk/",
+  "verified": true
+ },
+ {
+  "id": "ar-00534",
+  "category": "arabic",
+  "prompt": "「جوهري」の意味は？",
+  "answer": "essential",
+  "glosses": {
+   "en": "essential",
+   "ja": "本質的な"
+  },
+  "choices": [
+   "essential",
+   "algorithm",
+   "diverse",
+   "curve"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d͡ʒaw.ha.rijj/",
+  "verified": true
+ },
+ {
+  "id": "ar-00535",
+  "category": "arabic",
+  "prompt": "「طرفة」の意味は？",
+  "answer": "anecdote",
+  "glosses": {
+   "en": "anecdote",
+   "ja": "小話"
+  },
+  "choices": [
+   "cathedral",
+   "anecdote",
+   "cow",
+   "dinosaur"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/tˤur.fa/",
+  "verified": true
+ },
+ {
+  "id": "ar-00536",
+  "category": "arabic",
+  "prompt": "「مهزلة」の意味は？",
+  "answer": "farce",
+  "glosses": {
+   "en": "farce",
+   "ja": "茶番"
+  },
+  "choices": [
+   "kiosk",
+   "farce",
+   "to complain",
+   "progressive"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mah.za.la/",
+  "verified": true
+ },
+ {
+  "id": "ar-00537",
+  "category": "arabic",
+  "prompt": "「مغزى」の意味は？",
+  "answer": "significance",
+  "glosses": {
+   "en": "significance",
+   "ja": "意義"
+  },
+  "choices": [
+   "auction",
+   "significance",
+   "necklace",
+   "to go too far"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/maɣ.zan/",
+  "verified": true
+ },
+ {
+  "id": "ar-00538",
+  "category": "arabic",
+  "prompt": "「عقيد」の意味は？",
+  "answer": "colonel",
+  "glosses": {
+   "en": "colonel",
+   "ja": "陸軍大佐"
+  },
+  "choices": [
+   "nonsense",
+   "lowly",
+   "scar",
+   "colonel"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʕa.qiːd/",
+  "verified": true
+ },
+ {
+  "id": "ar-00539",
+  "category": "arabic",
+  "prompt": "「حافز」の意味は？",
+  "answer": "incentive",
+  "glosses": {
+   "en": "incentive",
+   "ja": "インセンティブ"
+  },
+  "choices": [
+   "noisy",
+   "humorous",
+   "slight",
+   "incentive"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ħaː.fiz/",
+  "verified": true
+ },
+ {
+  "id": "ar-00540",
+  "category": "arabic",
+  "prompt": "「غزال」の意味は？",
+  "answer": "gazelle",
+  "glosses": {
+   "en": "gazelle",
+   "ja": "ガゼル"
+  },
+  "choices": [
+   "gazelle",
+   "to extract",
+   "to walk",
+   "historian"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɣa.zaːl/",
+  "verified": true
+ },
+ {
+  "id": "ar-00541",
+  "category": "arabic",
+  "prompt": "「رن」の意味は？",
+  "answer": "to ring",
+  "glosses": {
+   "en": "to ring",
+   "ja": "鳴る"
+  },
+  "choices": [
+   "to ring",
+   "to summarize",
+   "vest",
+   "orchestra"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ar-00542",
+  "category": "arabic",
+  "prompt": "「طائفي」の意味は？",
+  "answer": "sectarian",
+  "glosses": {
+   "en": "sectarian",
+   "ja": "宗派的な"
+  },
+  "choices": [
+   "popcorn",
+   "sectarian",
+   "stove",
+   "progressive"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/tˤaː.ʔi.fijj/",
+  "verified": true
+ },
+ {
+  "id": "ar-00543",
+  "category": "arabic",
+  "prompt": "「أنفق」の意味は？",
+  "answer": "to spend",
+  "glosses": {
+   "en": "to spend",
+   "ja": "費やす"
+  },
+  "choices": [
+   "to spend",
+   "transformer",
+   "voluntarily",
+   "lizard"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʔan.fa.qa/",
+  "verified": true
+ },
+ {
+  "id": "ar-00544",
+  "category": "arabic",
+  "prompt": "「نموذجي」の意味は？",
+  "answer": "exemplary",
+  "glosses": {
+   "en": "exemplary",
+   "ja": "模範的な"
+  },
+  "choices": [
+   "exemplary",
+   "lowly",
+   "technical",
+   "eternity"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/na.muː.ða.d͡ʒijj/",
+  "verified": true
+ },
+ {
+  "id": "ar-00545",
+  "category": "arabic",
+  "prompt": "「عتيق」の意味は？",
+  "answer": "antique",
+  "glosses": {
+   "en": "antique",
+   "ja": "年代物の"
+  },
+  "choices": [
+   "antique",
+   "pillow",
+   "accountant",
+   "baby"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʕa.tiːq/",
+  "verified": true
+ },
+ {
+  "id": "ar-00546",
+  "category": "arabic",
+  "prompt": "「طليعة」の意味は？",
+  "answer": "vanguard",
+  "glosses": {
+   "en": "vanguard",
+   "ja": "前衛"
+  },
+  "choices": [
+   "bold",
+   "vanguard",
+   "garbage",
+   "childhood"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/tˤa.liː.ʕa/",
+  "verified": true
+ },
+ {
+  "id": "ar-00547",
+  "category": "arabic",
+  "prompt": "「أناقة」の意味は？",
+  "answer": "elegance",
+  "glosses": {
+   "en": "elegance",
+   "ja": "優美"
+  },
+  "choices": [
+   "elegance",
+   "cooperative",
+   "herd",
+   "to sink"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʔa.naː.qa/",
+  "verified": true
+ },
+ {
+  "id": "ar-00548",
+  "category": "arabic",
+  "prompt": "「مخطئ」の意味は？",
+  "answer": "mistaken",
+  "glosses": {
+   "en": "mistaken",
+   "ja": "間違っている"
+  },
+  "choices": [
+   "manuscript",
+   "flight attendant",
+   "dice",
+   "mistaken"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mux.tˤiʔ/",
+  "verified": true
+ },
+ {
+  "id": "ar-00549",
+  "category": "arabic",
+  "prompt": "「كشك」の意味は？",
+  "answer": "kiosk",
+  "glosses": {
+   "en": "kiosk",
+   "ja": "キオスク"
+  },
+  "choices": [
+   "kiosk",
+   "an ant",
+   "kindly",
+   "verbal"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kuʃk/",
+  "verified": true
+ },
+ {
+  "id": "ar-00550",
+  "category": "arabic",
+  "prompt": "「استقلالية」の意味は？",
+  "answer": "autonomy",
+  "glosses": {
+   "en": "autonomy",
+   "ja": "自主性"
+  },
+  "choices": [
+   "autonomy",
+   "curve",
+   "to deposit",
+   "robot"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/is.tiq.laː.lij.ja/",
+  "verified": true
+ },
+ {
+  "id": "ar-00551",
+  "category": "arabic",
+  "prompt": "「رفاهية」の意味は？",
+  "answer": "luxury",
+  "glosses": {
+   "en": "luxury",
+   "ja": "ぜいたく"
+  },
+  "choices": [
+   "bee",
+   "rubble",
+   "luxury",
+   "abortion"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ra.faː.hij.ja/",
+  "verified": true
+ },
+ {
+  "id": "ar-00552",
+  "category": "arabic",
+  "prompt": "「مفكر」の意味は？",
+  "answer": "thinker",
+  "glosses": {
+   "en": "thinker",
+   "ja": "思想家"
+  },
+  "choices": [
+   "beer",
+   "physics",
+   "thinker",
+   "bracelet"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mu.fak.kir/",
+  "verified": true
+ },
+ {
+  "id": "ar-00553",
+  "category": "arabic",
+  "prompt": "「ثعلب」の意味は？",
+  "answer": "fox",
+  "glosses": {
+   "en": "fox",
+   "ja": "キツネ"
+  },
+  "choices": [
+   "fox",
+   "owl",
+   "artillery",
+   "commodity"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/θaʕ.lab/",
+  "verified": true
+ },
+ {
+  "id": "ar-00554",
+  "category": "arabic",
+  "prompt": "「غراب」の意味は？",
+  "answer": "crow",
+  "glosses": {
+   "en": "crow",
+   "ja": "カラス"
+  },
+  "choices": [
+   "crane",
+   "telegraph",
+   "crow",
+   "to besiege"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɣu.raːb/",
+  "verified": true
+ },
+ {
+  "id": "ar-00555",
+  "category": "arabic",
+  "prompt": "「تمساح」の意味は？",
+  "answer": "crocodile",
+  "glosses": {
+   "en": "crocodile",
+   "ja": "ワニ"
+  },
+  "choices": [
+   "crocodile",
+   "expansion",
+   "to interpret",
+   "parrot"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/tim.saːħ/",
+  "verified": true
+ },
+ {
+  "id": "ar-00556",
+  "category": "arabic",
+  "prompt": "「صابون」の意味は？",
+  "answer": "soap",
+  "glosses": {
+   "en": "soap",
+   "ja": "石けん"
+  },
+  "choices": [
+   "soap",
+   "artillery",
+   "butterfly",
+   "foolishness"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/sˤaː.buːn/",
+  "verified": true
+ },
+ {
+  "id": "ar-00557",
+  "category": "arabic",
+  "prompt": "「لطفا」の意味は？",
+  "answer": "kindly",
+  "glosses": {
+   "en": "kindly",
+   "ja": "どうか"
+  },
+  "choices": [
+   "inauguration",
+   "hegemony",
+   "customer",
+   "kindly"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/lutˤ.fan/",
+  "verified": true
+ },
+ {
+  "id": "ar-00558",
+  "category": "arabic",
+  "prompt": "「ذئب」の意味は？",
+  "answer": "wolf",
+  "glosses": {
+   "en": "wolf",
+   "ja": "オオカミ"
+  },
+  "choices": [
+   "objective",
+   "tram",
+   "wolf",
+   "tailor"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ðiʔb/",
+  "verified": true
+ },
+ {
+  "id": "ar-00559",
+  "category": "arabic",
+  "prompt": "「شلال」の意味は？",
+  "answer": "waterfall",
+  "glosses": {
+   "en": "waterfall",
+   "ja": "滝"
+  },
+  "choices": [
+   "colonel",
+   "waterfall",
+   "lemon",
+   "diver"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʃal.laːl/",
+  "verified": true
+ },
+ {
+  "id": "ar-00560",
+  "category": "arabic",
+  "prompt": "「خد」の意味は？",
+  "answer": "cheek",
+  "glosses": {
+   "en": "cheek",
+   "ja": "ほお"
+  },
+  "choices": [
+   "cheek",
+   "prey",
+   "drizzle",
+   "icy"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/xadd/",
+  "verified": true
+ },
+ {
+  "id": "ar-00561",
+  "category": "arabic",
+  "prompt": "「بطاطس」の意味は？",
+  "answer": "potato",
+  "glosses": {
+   "en": "potato",
+   "ja": "ジャガイモ"
+  },
+  "choices": [
+   "clash",
+   "potato",
+   "robot",
+   "grotto"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ba.tˤaː.tˤis/",
+  "verified": true
+ },
+ {
+  "id": "ar-00562",
+  "category": "arabic",
+  "prompt": "「مخ」の意味は？",
+  "answer": "brain",
+  "glosses": {
+   "en": "brain",
+   "ja": "脳"
+  },
+  "choices": [
+   "to shine",
+   "shameless",
+   "predicament",
+   "brain"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/muxx/",
+  "verified": true
+ },
+ {
+  "id": "ar-00563",
+  "category": "arabic",
+  "prompt": "「نحاس」の意味は？",
+  "answer": "copper",
+  "glosses": {
+   "en": "copper",
+   "ja": "銅"
+  },
+  "choices": [
+   "peaceful",
+   "slow",
+   "golf",
+   "copper"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/nu.ħaːs/",
+  "verified": true
+ },
+ {
+  "id": "ar-00564",
+  "category": "arabic",
+  "prompt": "「رمل」の意味は？",
+  "answer": "sand",
+  "glosses": {
+   "en": "sand",
+   "ja": "砂"
+  },
+  "choices": [
+   "sand",
+   "fog",
+   "dolphin",
+   "edition"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/raml/",
+  "verified": true
+ },
+ {
+  "id": "ar-00565",
+  "category": "arabic",
+  "prompt": "「رضيع」の意味は？",
+  "answer": "baby",
+  "glosses": {
+   "en": "baby",
+   "ja": "赤ん坊"
+  },
+  "choices": [
+   "investor",
+   "commodity",
+   "journalist",
+   "baby"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ra.dˤiːʕ/",
+  "verified": true
+ },
+ {
+  "id": "ar-00566",
+  "category": "arabic",
+  "prompt": "「راهب」の意味は？",
+  "answer": "monk",
+  "glosses": {
+   "en": "monk",
+   "ja": "修道僧"
+  },
+  "choices": [
+   "monk",
+   "accountant",
+   "inference",
+   "to wrestle"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/raː.hib/",
+  "verified": true
+ },
+ {
+  "id": "ar-00567",
+  "category": "arabic",
+  "prompt": "「عنزة」の意味は？",
+  "answer": "she-goat",
+  "glosses": {
+   "en": "she-goat",
+   "ja": "雌ヤギ"
+  },
+  "choices": [
+   "garlic",
+   "voter",
+   "she-goat",
+   "sanatorium"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ar-00568",
+  "category": "arabic",
+  "prompt": "「إجهاض」の意味は？",
+  "answer": "abortion",
+  "glosses": {
+   "en": "abortion",
+   "ja": "中絶"
+  },
+  "choices": [
+   "hanger",
+   "mythical",
+   "abortion",
+   "to complain"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʔid͡ʒ.haːdˤ/",
+  "verified": true
+ },
+ {
+  "id": "ar-00569",
+  "category": "arabic",
+  "prompt": "「خنجر」の意味は？",
+  "answer": "dagger",
+  "glosses": {
+   "en": "dagger",
+   "ja": "短剣"
+  },
+  "choices": [
+   "dagger",
+   "swimmer",
+   "sofa",
+   "beard"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/xan.d͡ʒar/",
+  "verified": true
+ },
+ {
+  "id": "ar-00570",
+  "category": "arabic",
+  "prompt": "「قطيع」の意味は？",
+  "answer": "herd",
+  "glosses": {
+   "en": "herd",
+   "ja": "群れ"
+  },
+  "choices": [
+   "inquiry",
+   "bakery",
+   "herd",
+   "historian"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/qa.tˤiːʕ/",
+  "verified": true
+ },
+ {
+  "id": "ar-00571",
+  "category": "arabic",
+  "prompt": "「كوميديا」の意味は？",
+  "answer": "comedy",
+  "glosses": {
+   "en": "comedy",
+   "ja": "喜劇"
+  },
+  "choices": [
+   "bold",
+   "verbal",
+   "comedy",
+   "helmet"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ar-00572",
+  "category": "arabic",
+  "prompt": "「عباءة」の意味は？",
+  "answer": "cloak",
+  "glosses": {
+   "en": "cloak",
+   "ja": "マント"
+  },
+  "choices": [
+   "ballet",
+   "to lick",
+   "cloak",
+   "chocolate"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʕa.baː.ʔa/",
+  "verified": true
+ },
+ {
+  "id": "ar-00573",
+  "category": "arabic",
+  "prompt": "「بضاعة」の意味は？",
+  "answer": "commodity",
+  "glosses": {
+   "en": "commodity",
+   "ja": "商品"
+  },
+  "choices": [
+   "to inspire",
+   "commodity",
+   "swimmer",
+   "abundant"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bi.dˤaː.ʕa/",
+  "verified": true
+ },
+ {
+  "id": "ar-00574",
+  "category": "arabic",
+  "prompt": "「شعرة」の意味は？",
+  "answer": "a hair",
+  "glosses": {
+   "en": "a hair",
+   "ja": "毛"
+  },
+  "choices": [
+   "shampoo",
+   "auction",
+   "a hair",
+   "tone"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ar-00575",
+  "category": "arabic",
+  "prompt": "「مؤرخ」の意味は？",
+  "answer": "historian",
+  "glosses": {
+   "en": "historian",
+   "ja": "歴史家"
+  },
+  "choices": [
+   "cloud",
+   "consulate",
+   "historian",
+   "diverse"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ar-00576",
+  "category": "arabic",
+  "prompt": "「قاوم」の意味は？",
+  "answer": "to resist",
+  "glosses": {
+   "en": "to resist",
+   "ja": "抵抗する"
+  },
+  "choices": [
+   "to resist",
+   "colonel",
+   "to dispute",
+   "craft"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ar-00577",
+  "category": "arabic",
+  "prompt": "「وسادة」の意味は？",
+  "answer": "pillow",
+  "glosses": {
+   "en": "pillow",
+   "ja": "枕"
+  },
+  "choices": [
+   "to justify",
+   "pillow",
+   "vegetables",
+   "activist"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ar-00578",
+  "category": "arabic",
+  "prompt": "「بائس」の意味は？",
+  "answer": "miserable",
+  "glosses": {
+   "en": "miserable",
+   "ja": "みじめな"
+  },
+  "choices": [
+   "to inspire",
+   "miserable",
+   "to walk",
+   "cook"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/baː.ʔis/",
+  "verified": true
+ },
+ {
+  "id": "ar-00579",
+  "category": "arabic",
+  "prompt": "「أرضى」の意味は？",
+  "answer": "to satisfy",
+  "glosses": {
+   "en": "to satisfy",
+   "ja": "満足させる"
+  },
+  "choices": [
+   "cheer",
+   "to satisfy",
+   "sanatorium",
+   "scar"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ar-00580",
+  "category": "arabic",
+  "prompt": "「داكن」の意味は？",
+  "answer": "dark-colored",
+  "glosses": {
+   "en": "dark-colored",
+   "ja": "色が濃い"
+  },
+  "choices": [
+   "necklace",
+   "to consult",
+   "dark-colored",
+   "physics"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ar-00581",
+  "category": "arabic",
+  "prompt": "「ثوري」の意味は？",
+  "answer": "revolutionary",
+  "glosses": {
+   "en": "revolutionary",
+   "ja": "革命的な"
+  },
+  "choices": [
+   "to spend",
+   "revolutionary",
+   "transformer",
+   "nightmare"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/θaw.rijj/",
+  "verified": true
+ },
+ {
+  "id": "ar-00582",
+  "category": "arabic",
+  "prompt": "「عنيد」の意味は？",
+  "answer": "stubborn",
+  "glosses": {
+   "en": "stubborn",
+   "ja": "頑固な"
+  },
+  "choices": [
+   "tendency",
+   "gorilla",
+   "mandatory",
+   "stubborn"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʕa.niːd/",
+  "verified": true
+ },
+ {
+  "id": "ar-00583",
+  "category": "arabic",
+  "prompt": "「صيدلية」の意味は？",
+  "answer": "pharmacy",
+  "glosses": {
+   "en": "pharmacy",
+   "ja": "薬局"
+  },
+  "choices": [
+   "butterfly",
+   "pharmacy",
+   "astonishment",
+   "hardline"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/sˤaj.da.lij.ja/",
+  "verified": true
+ },
+ {
+  "id": "ar-00584",
+  "category": "arabic",
+  "prompt": "「فقاعة」の意味は？",
+  "answer": "bubble",
+  "glosses": {
+   "en": "bubble",
+   "ja": "気泡"
+  },
+  "choices": [
+   "bubble",
+   "delight",
+   "an ant",
+   "police station"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/fuq.qaː.ʕa/",
+  "verified": true
+ },
+ {
+  "id": "ar-00585",
+  "category": "arabic",
+  "prompt": "「قبطان」の意味は？",
+  "answer": "ship captain",
+  "glosses": {
+   "en": "ship captain",
+   "ja": "船長"
+  },
+  "choices": [
+   "pharmacist",
+   "ship captain",
+   "focus",
+   "spider"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/qub.tˤaːn/",
+  "verified": true
+ },
+ {
+  "id": "ar-00586",
+  "category": "arabic",
+  "prompt": "「مروحة」の意味は？",
+  "answer": "fan",
+  "glosses": {
+   "en": "fan",
+   "ja": "扇風機"
+  },
+  "choices": [
+   "exemplary",
+   "wrestler",
+   "fan",
+   "vegetables"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mir.wa.ħa/",
+  "verified": true
+ },
+ {
+  "id": "ar-00587",
+  "category": "arabic",
+  "prompt": "「حاضنة」の意味は？",
+  "answer": "incubator",
+  "glosses": {
+   "en": "incubator",
+   "ja": "保育器"
+  },
+  "choices": [
+   "incubator",
+   "adventurer",
+   "to fly",
+   "faded"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ħaː.dˤi.na/",
+  "verified": true
+ },
+ {
+  "id": "ar-00588",
+  "category": "arabic",
+  "prompt": "「مضخة」の意味は？",
+  "answer": "pump",
+  "glosses": {
+   "en": "pump",
+   "ja": "ポンプ"
+  },
+  "choices": [
+   "ransom",
+   "pharmacist",
+   "pump",
+   "meteorite"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mi.dˤax.xa/",
+  "verified": true
+ },
+ {
+  "id": "ar-00589",
+  "category": "arabic",
+  "prompt": "「فدية」の意味は？",
+  "answer": "ransom",
+  "glosses": {
+   "en": "ransom",
+   "ja": "身代金"
+  },
+  "choices": [
+   "furniture",
+   "banquet",
+   "thinker",
+   "ransom"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ar-00590",
+  "category": "arabic",
+  "prompt": "「معطف」の意味は？",
+  "answer": "coat",
+  "glosses": {
+   "en": "coat",
+   "ja": "コート"
+  },
+  "choices": [
+   "biology",
+   "agenda",
+   "delight",
+   "coat"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/miʕ.tˤaf/",
+  "verified": true
+ },
+ {
+  "id": "ar-00591",
+  "category": "arabic",
+  "prompt": "「سيرك」の意味は？",
+  "answer": "circus",
+  "glosses": {
+   "en": "circus",
+   "ja": "サーカス"
+  },
+  "choices": [
+   "cook",
+   "circus",
+   "to interpret",
+   "crow"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/sirk/",
+  "verified": true
+ },
+ {
+  "id": "ar-00592",
+  "category": "arabic",
+  "prompt": "「أوركسترا」の意味は？",
+  "answer": "orchestra",
+  "glosses": {
+   "en": "orchestra",
+   "ja": "オーケストラ"
+  },
+  "choices": [
+   "scar",
+   "orchestra",
+   "expansion",
+   "radiation"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʔor.kestraː/",
+  "verified": true
+ },
+ {
+  "id": "ar-00593",
+  "category": "arabic",
+  "prompt": "「بلاستيك」の意味は？",
+  "answer": "plastic",
+  "glosses": {
+   "en": "plastic",
+   "ja": "プラスチック"
+  },
+  "choices": [
+   "plastic",
+   "oxygen",
+   "stormy",
+   "popcorn"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/blas.tiːk/",
+  "verified": true
+ },
+ {
+  "id": "ar-00594",
+  "category": "arabic",
+  "prompt": "「إبرة」の意味は？",
+  "answer": "needle",
+  "glosses": {
+   "en": "needle",
+   "ja": "針"
+  },
+  "choices": [
+   "publisher",
+   "inquiry",
+   "carpet",
+   "needle"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʔib.ra/",
+  "verified": true
+ },
+ {
+  "id": "ar-00595",
+  "category": "arabic",
+  "prompt": "「مقرف」の意味は？",
+  "answer": "disgusting",
+  "glosses": {
+   "en": "disgusting",
+   "ja": "気持ち悪い"
+  },
+  "choices": [
+   "strait",
+   "cook",
+   "disgusting",
+   "mine"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/muq.rif/",
+  "verified": true
+ },
+ {
+  "id": "ar-00596",
+  "category": "arabic",
+  "prompt": "「بؤرة」の意味は？",
+  "answer": "focus",
+  "glosses": {
+   "en": "focus",
+   "ja": "焦点"
+  },
+  "choices": [
+   "noisy",
+   "enthusiasm",
+   "ignorant",
+   "focus"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/buʔ.ra/",
+  "verified": true
+ },
+ {
+  "id": "ar-00597",
+  "category": "arabic",
+  "prompt": "「استفسار」の意味は？",
+  "answer": "inquiry",
+  "glosses": {
+   "en": "inquiry",
+   "ja": "問い合わせ"
+  },
+  "choices": [
+   "inquiry",
+   "predicament",
+   "voter",
+   "empire"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/is.tif.saːr/",
+  "verified": true
+ },
+ {
+  "id": "ar-00598",
+  "category": "arabic",
+  "prompt": "「شفافية」の意味は？",
+  "answer": "transparency",
+  "glosses": {
+   "en": "transparency",
+   "ja": "透明性"
+  },
+  "choices": [
+   "snake",
+   "to justify",
+   "transparency",
+   "revolutionary"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʃaf.faː.fij.ja/",
+  "verified": true
+ },
+ {
+  "id": "ar-00599",
+  "category": "arabic",
+  "prompt": "「بوصلة」の意味は？",
+  "answer": "compass",
+  "glosses": {
+   "en": "compass",
+   "ja": "羅針盤"
+  },
+  "choices": [
+   "obstinacy",
+   "police station",
+   "eternity",
+   "compass"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/buː.sˤu.la/",
+  "verified": true
+ },
+ {
+  "id": "ar-00600",
+  "category": "arabic",
+  "prompt": "「حانة」の意味は？",
+  "answer": "tavern",
+  "glosses": {
+   "en": "tavern",
+   "ja": "酒場"
+  },
+  "choices": [
+   "tavern",
+   "stubborn",
+   "banquet",
+   "obedient"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ħaː.na/",
+  "verified": true
+ },
+ {
+  "id": "ar-00601",
+  "category": "arabic",
+  "prompt": "「وشاح」の意味は？",
+  "answer": "scarf",
+  "glosses": {
+   "en": "scarf",
+   "ja": "スカーフ"
+  },
+  "choices": [
+   "agenda",
+   "orchestra",
+   "scarf",
+   "colonel"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/wi.ʃaːħ/",
+  "verified": true
+ },
+ {
+  "id": "ar-00602",
+  "category": "arabic",
+  "prompt": "「مسرور」の意味は？",
+  "answer": "delighted",
+  "glosses": {
+   "en": "delighted",
+   "ja": "うれしい"
+  },
+  "choices": [
+   "misery",
+   "police station",
+   "delighted",
+   "owl"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mas.ruːr/",
+  "verified": true
+ },
+ {
+  "id": "ar-00603",
+  "category": "arabic",
+  "prompt": "「وليمة」の意味は？",
+  "answer": "banquet",
+  "glosses": {
+   "en": "banquet",
+   "ja": "宴会"
+  },
+  "choices": [
+   "banquet",
+   "potato",
+   "muscle",
+   "secular"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/wa.liː.ma/",
+  "verified": true
+ },
+ {
+  "id": "ar-00604",
+  "category": "arabic",
+  "prompt": "「تدليك」の意味は？",
+  "answer": "massage",
+  "glosses": {
+   "en": "massage",
+   "ja": "マッサージ"
+  },
+  "choices": [
+   "silent",
+   "projectile",
+   "massage",
+   "to extract"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/tad.liːk/",
+  "verified": true
+ },
+ {
+  "id": "ar-00605",
+  "category": "arabic",
+  "prompt": "「أطاح」の意味は？",
+  "answer": "to overthrow",
+  "glosses": {
+   "en": "to overthrow",
+   "ja": "打倒する"
+  },
+  "choices": [
+   "to overthrow",
+   "legislator",
+   "sofa",
+   "adolescent"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʔa.tˤaː.ħa/",
+  "verified": true
+ },
+ {
+  "id": "ar-00606",
+  "category": "arabic",
+  "prompt": "「أبدية」の意味は？",
+  "answer": "eternity",
+  "glosses": {
+   "en": "eternity",
+   "ja": "永遠"
+  },
+  "choices": [
+   "eternity",
+   "praise",
+   "lemon",
+   "scissors"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʔa.ba.dij.ja/",
+  "verified": true
+ },
+ {
+  "id": "ar-00607",
+  "category": "arabic",
+  "prompt": "「أغرق」の意味は？",
+  "answer": "to sink",
+  "glosses": {
+   "en": "to sink",
+   "ja": "沈める"
+  },
+  "choices": [
+   "verbal",
+   "to go too far",
+   "to sink",
+   "unemployment"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʔaɣ.ra.qa/",
+  "verified": true
+ },
+ {
+  "id": "ar-00608",
+  "category": "arabic",
+  "prompt": "「هارب」の意味は？",
+  "answer": "fugitive",
+  "glosses": {
+   "en": "fugitive",
+   "ja": "逃亡者"
+  },
+  "choices": [
+   "plastic",
+   "to complain",
+   "fugitive",
+   "scrap"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/haː.rib/",
+  "verified": true
+ },
+ {
+  "id": "ar-00609",
+  "category": "arabic",
+  "prompt": "「بكتيريا」の意味は？",
+  "answer": "bacteria",
+  "glosses": {
+   "en": "bacteria",
+   "ja": "細菌"
+  },
+  "choices": [
+   "spontaneous",
+   "bacteria",
+   "broker",
+   "pants"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bak.tiː.ri.jaː/",
+  "verified": true
+ },
+ {
+  "id": "ar-00610",
+  "category": "arabic",
+  "prompt": "「مدفعية」の意味は？",
+  "answer": "artillery",
+  "glosses": {
+   "en": "artillery",
+   "ja": "砲兵隊"
+  },
+  "choices": [
+   "butterfly",
+   "artillery",
+   "tavern",
+   "carpet"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ar-00611",
+  "category": "arabic",
+  "prompt": "「فائض」の意味は？",
+  "answer": "surplus",
+  "glosses": {
+   "en": "surplus",
+   "ja": "余剰"
+  },
+  "choices": [
+   "apple",
+   "surplus",
+   "transformer",
+   "abundant"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ar-00612",
+  "category": "arabic",
+  "prompt": "「مصارع」の意味は？",
+  "answer": "wrestler",
+  "glosses": {
+   "en": "wrestler",
+   "ja": "レスリング選手"
+  },
+  "choices": [
+   "chemistry",
+   "wrestler",
+   "to resist",
+   "to besiege"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mu.sˤaː.riʕ/",
+  "verified": true
+ },
+ {
+  "id": "ar-00613",
+  "category": "arabic",
+  "prompt": "「مجرة」の意味は？",
+  "answer": "galaxy",
+  "glosses": {
+   "en": "galaxy",
+   "ja": "銀河"
+  },
+  "choices": [
+   "robot",
+   "galaxy",
+   "granddaughter",
+   "hobby"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ma.d͡ʒar.ra/",
+  "verified": true
+ },
+ {
+  "id": "ar-00614",
+  "category": "arabic",
+  "prompt": "「طاغية」の意味は？",
+  "answer": "tyrant",
+  "glosses": {
+   "en": "tyrant",
+   "ja": "暴君"
+  },
+  "choices": [
+   "pillow",
+   "delighted",
+   "ballet",
+   "tyrant"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/tˤaː.ɣi.ja/",
+  "verified": true
+ },
+ {
+  "id": "ar-00615",
+  "category": "arabic",
+  "prompt": "「مستثمر」の意味は？",
+  "answer": "investor",
+  "glosses": {
+   "en": "investor",
+   "ja": "投資家"
+  },
+  "choices": [
+   "investor",
+   "ugly",
+   "pebble",
+   "to confront"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mus.taθ.mir/",
+  "verified": true
+ },
+ {
+  "id": "ar-00616",
+  "category": "arabic",
+  "prompt": "「توسعة」の意味は？",
+  "answer": "expansion",
+  "glosses": {
+   "en": "expansion",
+   "ja": "拡張"
+  },
+  "choices": [
+   "fox",
+   "expansion",
+   "fashion",
+   "dinosaur"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/taw.si.ʕa/",
+  "verified": true
+ },
+ {
+  "id": "ar-00617",
+  "category": "arabic",
+  "prompt": "「وريث」の意味は？",
+  "answer": "heir",
+  "glosses": {
+   "en": "heir",
+   "ja": "相続人"
+  },
+  "choices": [
+   "agenda",
+   "heir",
+   "to spend",
+   "scrap"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/wa.riːθ/",
+  "verified": true
+ },
+ {
+  "id": "ar-00618",
+  "category": "arabic",
+  "prompt": "「نزاهة」の意味は？",
+  "answer": "integrity",
+  "glosses": {
+   "en": "integrity",
+   "ja": "清廉さ"
+  },
+  "choices": [
+   "skirt",
+   "bold",
+   "integrity",
+   "mill"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/na.zaː.ha/",
+  "verified": true
+ },
+ {
+  "id": "ar-00619",
+  "category": "arabic",
+  "prompt": "「عمولة」の意味は？",
+  "answer": "commission",
+  "glosses": {
+   "en": "commission",
+   "ja": "手数料"
+  },
+  "choices": [
+   "antique",
+   "plumber",
+   "commission",
+   "accountant"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʕu.muː.la/",
+  "verified": true
+ },
+ {
+  "id": "ar-00620",
+  "category": "arabic",
+  "prompt": "「مطيع」の意味は？",
+  "answer": "obedient",
+  "glosses": {
+   "en": "obedient",
+   "ja": "従順な"
+  },
+  "choices": [
+   "hobby",
+   "bracelet",
+   "obedient",
+   "mythical"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mu.tˤiːʕ/",
+  "verified": true
+ },
+ {
+  "id": "ar-00621",
+  "category": "arabic",
+  "prompt": "「خياطة」の意味は？",
+  "answer": "sewing",
+  "glosses": {
+   "en": "sewing",
+   "ja": "裁縫"
+  },
+  "choices": [
+   "sewing",
+   "diverse",
+   "cheek",
+   "journalist"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/xi.jaː.tˤa/",
+  "verified": true
+ },
+ {
+  "id": "ar-00622",
+  "category": "arabic",
+  "prompt": "「هتاف」の意味は？",
+  "answer": "cheer",
+  "glosses": {
+   "en": "cheer",
+   "ja": "声援"
+  },
+  "choices": [
+   "form",
+   "migrant",
+   "cheer",
+   "fan"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/hu.taːf/",
+  "verified": true
+ },
+ {
+  "id": "ar-00623",
+  "category": "arabic",
+  "prompt": "「ليبرالي」の意味は？",
+  "answer": "liberal",
+  "glosses": {
+   "en": "liberal",
+   "ja": "自由主義の"
+  },
+  "choices": [
+   "to confront",
+   "liberal",
+   "cloud",
+   "transformer"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ar-00624",
+  "category": "arabic",
+  "prompt": "「غزير」の意味は？",
+  "answer": "abundant",
+  "glosses": {
+   "en": "abundant",
+   "ja": "豊富な"
+  },
+  "choices": [
+   "abundant",
+   "scissors",
+   "dice",
+   "coal"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɣa.ziːr/",
+  "verified": true
+ },
+ {
+  "id": "ar-00625",
+  "category": "arabic",
+  "prompt": "「صائب」の意味は？",
+  "answer": "apt",
+  "glosses": {
+   "en": "apt",
+   "ja": "的確な"
+  },
+  "choices": [
+   "arbitrary",
+   "suspicion",
+   "tram",
+   "apt"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/sˤaː.ʔib/",
+  "verified": true
+ },
+ {
+  "id": "ar-00626",
+  "category": "arabic",
+  "prompt": "「سخافة」の意味は？",
+  "answer": "silliness",
+  "glosses": {
+   "en": "silliness",
+   "ja": "ばかげたこと"
+  },
+  "choices": [
+   "silliness",
+   "apology",
+   "technical",
+   "bubble"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/sa.xaː.fa/",
+  "verified": true
+ },
+ {
+  "id": "ar-00627",
+  "category": "arabic",
+  "prompt": "「رذاذ」の意味は？",
+  "answer": "drizzle",
+  "glosses": {
+   "en": "drizzle",
+   "ja": "霧雨"
+  },
+  "choices": [
+   "to prepare",
+   "drizzle",
+   "starch",
+   "grotto"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ra.ðaːð/",
+  "verified": true
+ },
+ {
+  "id": "ar-00628",
+  "category": "arabic",
+  "prompt": "「ذخيرة」の意味は？",
+  "answer": "ammunition",
+  "glosses": {
+   "en": "ammunition",
+   "ja": "弾薬"
+  },
+  "choices": [
+   "ammunition",
+   "appetite",
+   "malicious",
+   "to boil"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ða.xiː.ra/",
+  "verified": true
+ },
+ {
+  "id": "ar-00629",
+  "category": "arabic",
+  "prompt": "「محول」の意味は？",
+  "answer": "transformer",
+  "glosses": {
+   "en": "transformer",
+   "ja": "変圧器"
+  },
+  "choices": [
+   "to sink",
+   "to overthrow",
+   "steamship",
+   "transformer"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mu.ħaw.wil/",
+  "verified": true
+ },
+ {
+  "id": "ar-00630",
+  "category": "arabic",
+  "prompt": "「محايد」の意味は？",
+  "answer": "neutral",
+  "glosses": {
+   "en": "neutral",
+   "ja": "中立の"
+  },
+  "choices": [
+   "neutral",
+   "mill",
+   "lung",
+   "to close eyes"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mu.ħaː.jid/",
+  "verified": true
+ },
+ {
+  "id": "ar-00631",
+  "category": "arabic",
+  "prompt": "「نعي」の意味は？",
+  "answer": "obituary",
+  "glosses": {
+   "en": "obituary",
+   "ja": "死亡記事"
+  },
+  "choices": [
+   "obituary",
+   "lazy",
+   "balloon",
+   "steamship"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/naʕj/",
+  "verified": true
+ },
+ {
+  "id": "ar-00632",
+  "category": "arabic",
+  "prompt": "「متنقل」の意味は？",
+  "answer": "mobile",
+  "glosses": {
+   "en": "mobile",
+   "ja": "移動式の"
+  },
+  "choices": [
+   "basement",
+   "to violate",
+   "meteorite",
+   "mobile"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mu.ta.naq.qi.la/",
+  "verified": true
+ },
+ {
+  "id": "ar-00633",
+  "category": "arabic",
+  "prompt": "「بصل」の意味は？",
+  "answer": "onion",
+  "glosses": {
+   "en": "onion",
+   "ja": "タマネギ"
+  },
+  "choices": [
+   "onion",
+   "diamond",
+   "to sink",
+   "bakery"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ba.sˤal/",
+  "verified": true
+ },
+ {
+  "id": "ar-00634",
+  "category": "arabic",
+  "prompt": "「فحم」の意味は？",
+  "answer": "coal",
+  "glosses": {
+   "en": "coal",
+   "ja": "石炭"
+  },
+  "choices": [
+   "coal",
+   "emperor",
+   "enthusiasm",
+   "edition"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/faħm/",
+  "verified": true
+ },
+ {
+  "id": "ar-00635",
+  "category": "arabic",
+  "prompt": "「شوكولاتة」の意味は？",
+  "answer": "chocolate",
+  "glosses": {
+   "en": "chocolate",
+   "ja": "チョコレート"
+  },
+  "choices": [
+   "Buddhism",
+   "colonel",
+   "carpet",
+   "chocolate"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʃu.kuː.laː.ta/",
+  "verified": true
+ },
+ {
+  "id": "ar-00636",
+  "category": "arabic",
+  "prompt": "「فيلسوف」の意味は？",
+  "answer": "philosopher",
+  "glosses": {
+   "en": "philosopher",
+   "ja": "哲学者"
+  },
+  "choices": [
+   "to walk",
+   "philosopher",
+   "hostage",
+   "hymn"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/faj.la.suːf/",
+  "verified": true
+ },
+ {
+  "id": "ar-00637",
+  "category": "arabic",
+  "prompt": "「لحية」の意味は？",
+  "answer": "beard",
+  "glosses": {
+   "en": "beard",
+   "ja": "あごひげ"
+  },
+  "choices": [
+   "to lick",
+   "cassette",
+   "beard",
+   "paste"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/liħ.ja/",
+  "verified": true
+ },
+ {
+  "id": "ar-00638",
+  "category": "arabic",
+  "prompt": "「خياط」の意味は？",
+  "answer": "tailor",
+  "glosses": {
+   "en": "tailor",
+   "ja": "仕立て屋"
+  },
+  "choices": [
+   "tailor",
+   "sprayer",
+   "piano",
+   "artery"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/xaj.jaːtˤ/",
+  "verified": true
+ },
+ {
+  "id": "ar-00639",
+  "category": "arabic",
+  "prompt": "「جاسوس」の意味は？",
+  "answer": "spy",
+  "glosses": {
+   "en": "spy",
+   "ja": "スパイ"
+  },
+  "choices": [
+   "scarf",
+   "to prepare",
+   "spy",
+   "cassette"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d͡ʒaː.suːs/",
+  "verified": true
+ },
+ {
+  "id": "ar-00640",
+  "category": "arabic",
+  "prompt": "「دهشة」の意味は？",
+  "answer": "astonishment",
+  "glosses": {
+   "en": "astonishment",
+   "ja": "驚き"
+  },
+  "choices": [
+   "transparency",
+   "tendency",
+   "to go too far",
+   "astonishment"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/dah.ʃa/",
+  "verified": true
+ },
+ {
+  "id": "ar-00641",
+  "category": "arabic",
+  "prompt": "「ثوم」の意味は？",
+  "answer": "garlic",
+  "glosses": {
+   "en": "garlic",
+   "ja": "ニンニク"
+  },
+  "choices": [
+   "scooter",
+   "garlic",
+   "apology",
+   "incubator"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/θuːm/",
+  "verified": true
+ },
+ {
+  "id": "ar-00642",
+  "category": "arabic",
+  "prompt": "「بارون」の意味は？",
+  "answer": "baron",
+  "glosses": {
+   "en": "baron",
+   "ja": "男爵"
+  },
+  "choices": [
+   "to invent",
+   "magnetism",
+   "orange",
+   "baron"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/baː.roːn/",
+  "verified": true
+ },
+ {
+  "id": "ar-00643",
+  "category": "arabic",
+  "prompt": "「احتوى」の意味は？",
+  "answer": "to contain",
+  "glosses": {
+   "en": "to contain",
+   "ja": "含む"
+  },
+  "choices": [
+   "to complain",
+   "an ant",
+   "colonel",
+   "to contain"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ar-00644",
+  "category": "arabic",
+  "prompt": "「أودع」の意味は？",
+  "answer": "to deposit",
+  "glosses": {
+   "en": "to deposit",
+   "ja": "預ける"
+  },
+  "choices": [
+   "farce",
+   "to deposit",
+   "Buddhism",
+   "lung"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ar-00645",
+  "category": "arabic",
+  "prompt": "「حرير」の意味は？",
+  "answer": "silk",
+  "glosses": {
+   "en": "silk",
+   "ja": "絹"
+  },
+  "choices": [
+   "to deposit",
+   "silk",
+   "soap",
+   "to prepare"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ħa.riːr/",
+  "verified": true
+ },
+ {
+  "id": "ar-00646",
+  "category": "arabic",
+  "prompt": "「ضباب」の意味は？",
+  "answer": "fog",
+  "glosses": {
+   "en": "fog",
+   "ja": "霧"
+  },
+  "choices": [
+   "swamp",
+   "pump",
+   "obesity",
+   "fog"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/dˤa.baːb/",
+  "verified": true
+ },
+ {
+  "id": "ar-00647",
+  "category": "arabic",
+  "prompt": "「ألهم」の意味は？",
+  "answer": "to inspire",
+  "glosses": {
+   "en": "to inspire",
+   "ja": "鼓舞する"
+  },
+  "choices": [
+   "a hair",
+   "duke",
+   "to inspire",
+   "objective"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ar-00648",
+  "category": "arabic",
+  "prompt": "「اكتئاب」の意味は？",
+  "answer": "depression",
+  "glosses": {
+   "en": "depression",
+   "ja": "うつ病"
+  },
+  "choices": [
+   "depression",
+   "butterfly",
+   "knee",
+   "historian"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ik.ti.ʔaːb/",
+  "verified": true
+ },
+ {
+  "id": "ar-00649",
+  "category": "arabic",
+  "prompt": "「جليد」の意味は？",
+  "answer": "ice",
+  "glosses": {
+   "en": "ice",
+   "ja": "氷"
+  },
+  "choices": [
+   "journalist",
+   "kiosk",
+   "ice",
+   "to confront"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d͡ʒa.liːd/",
+  "verified": true
+ },
+ {
+  "id": "ar-00650",
+  "category": "arabic",
+  "prompt": "「تفاح」の意味は？",
+  "answer": "apple",
+  "glosses": {
+   "en": "apple",
+   "ja": "リンゴ"
+  },
+  "choices": [
+   "form",
+   "apple",
+   "insect",
+   "to incite"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/tuf.faːħ/",
+  "verified": true
+ },
+ {
+  "id": "ar-00651",
+  "category": "arabic",
+  "prompt": "「جريء」の意味は？",
+  "answer": "bold",
+  "glosses": {
+   "en": "bold",
+   "ja": "大胆な"
+  },
+  "choices": [
+   "to consult",
+   "aide",
+   "dice",
+   "bold"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ar-00652",
+  "category": "arabic",
+  "prompt": "「نحيف」の意味は？",
+  "answer": "thin",
+  "glosses": {
+   "en": "thin",
+   "ja": "痩せた"
+  },
+  "choices": [
+   "a hair",
+   "salty",
+   "thin",
+   "ash"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ar-00653",
+  "category": "arabic",
+  "prompt": "「جرة」の意味は？",
+  "answer": "jar",
+  "glosses": {
+   "en": "jar",
+   "ja": "壺"
+  },
+  "choices": [
+   "edition",
+   "jar",
+   "to resist",
+   "to walk"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ar-00654",
+  "category": "arabic",
+  "prompt": "「حساء」の意味は？",
+  "answer": "soup",
+  "glosses": {
+   "en": "soup",
+   "ja": "スープ"
+  },
+  "choices": [
+   "a flame",
+   "knee",
+   "progressive",
+   "soup"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ħa.saːʔ/",
+  "verified": true
+ },
+ {
+  "id": "ar-00655",
+  "category": "arabic",
+  "prompt": "「براعة」の意味は？",
+  "answer": "proficiency",
+  "glosses": {
+   "en": "proficiency",
+   "ja": "熟練"
+  },
+  "choices": [
+   "disgusting",
+   "rubble",
+   "coal",
+   "proficiency"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ba.raː.ʕa/",
+  "verified": true
+ },
+ {
+  "id": "ar-00656",
+  "category": "arabic",
+  "prompt": "「جادل」の意味は？",
+  "answer": "to dispute",
+  "glosses": {
+   "en": "to dispute",
+   "ja": "言い争う"
+  },
+  "choices": [
+   "sectarian",
+   "auction",
+   "to dispute",
+   "blind"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d͡ʒaː.da.la/",
+  "verified": true
+ },
+ {
+  "id": "ar-00657",
+  "category": "arabic",
+  "prompt": "「مصحة」の意味は？",
+  "answer": "sanatorium",
+  "glosses": {
+   "en": "sanatorium",
+   "ja": "療養所"
+  },
+  "choices": [
+   "mandatory",
+   "to collide",
+   "gazelle",
+   "sanatorium"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ma.sˤaħ.ħa/",
+  "verified": true
+ },
+ {
+  "id": "ar-00658",
+  "category": "arabic",
+  "prompt": "「كسوف」の意味は？",
+  "answer": "solar eclipse",
+  "glosses": {
+   "en": "solar eclipse",
+   "ja": "日食"
+  },
+  "choices": [
+   "agenda",
+   "solar eclipse",
+   "police station",
+   "nightmare"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ku.suːf/",
+  "verified": true
+ },
+ {
+  "id": "ar-00659",
+  "category": "arabic",
+  "prompt": "「نافورة」の意味は？",
+  "answer": "fountain",
+  "glosses": {
+   "en": "fountain",
+   "ja": "噴水"
+  },
+  "choices": [
+   "lowly",
+   "butterfly",
+   "mulberry",
+   "fountain"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/naː.fuː.ra/",
+  "verified": true
+ },
+ {
+  "id": "ar-00660",
+  "category": "arabic",
+  "prompt": "「غواصة」の意味は？",
+  "answer": "submarine",
+  "glosses": {
+   "en": "submarine",
+   "ja": "潜水艦"
+  },
+  "choices": [
+   "submarine",
+   "farce",
+   "curious",
+   "salty"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɣaw.waː.sˤa/",
+  "verified": true
+ },
+ {
+  "id": "ar-00661",
+  "category": "arabic",
+  "prompt": "「مخطوطة」の意味は？",
+  "answer": "manuscript",
+  "glosses": {
+   "en": "manuscript",
+   "ja": "写本"
+  },
+  "choices": [
+   "synagogue",
+   "manuscript",
+   "banquet",
+   "bakery"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/max.tˤuː.tˤa/",
+  "verified": true
+ },
+ {
+  "id": "ar-00662",
+  "category": "arabic",
+  "prompt": "「استنتاج」の意味は？",
+  "answer": "inference",
+  "glosses": {
+   "en": "inference",
+   "ja": "推論"
+  },
+  "choices": [
+   "sorrow",
+   "farce",
+   "inference",
+   "hobby"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/is.tin.taːd͡ʒ/",
+  "verified": true
+ },
+ {
+  "id": "ar-00663",
+  "category": "arabic",
+  "prompt": "「متعلم」の意味は？",
+  "answer": "educated",
+  "glosses": {
+   "en": "educated",
+   "ja": "教育を受けた"
+  },
+  "choices": [
+   "kindly",
+   "waterfall",
+   "educated",
+   "helicopter"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mu.ta.ʕal.lim/",
+  "verified": true
+ },
+ {
+  "id": "ar-00664",
+  "category": "arabic",
+  "prompt": "「متاهة」の意味は？",
+  "answer": "maze",
+  "glosses": {
+   "en": "maze",
+   "ja": "迷路"
+  },
+  "choices": [
+   "maze",
+   "unemployment",
+   "nightmare",
+   "neutral"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ar-00665",
+  "category": "arabic",
+  "prompt": "「حماسة」の意味は？",
+  "answer": "enthusiasm",
+  "glosses": {
+   "en": "enthusiasm",
+   "ja": "熱意"
+  },
+  "choices": [
+   "pump",
+   "diver",
+   "inauguration",
+   "enthusiasm"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ħa.maː.sa/",
+  "verified": true
+ },
+ {
+  "id": "ar-00666",
+  "category": "arabic",
+  "prompt": "「بالون」の意味は？",
+  "answer": "balloon",
+  "glosses": {
+   "en": "balloon",
+   "ja": "風船"
+  },
+  "choices": [
+   "shampoo",
+   "circus",
+   "stormy",
+   "balloon"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/baː.luːn/",
+  "verified": true
+ },
+ {
+  "id": "ar-00667",
+  "category": "arabic",
+  "prompt": "「ضوضاء」の意味は？",
+  "answer": "noise",
+  "glosses": {
+   "en": "noise",
+   "ja": "騒音"
+  },
+  "choices": [
+   "bubble",
+   "silliness",
+   "tailor",
+   "noise"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/dˤaw.dˤaːʔ/",
+  "verified": true
+ },
+ {
+  "id": "ar-00668",
+  "category": "arabic",
+  "prompt": "「عفوي」の意味は？",
+  "answer": "spontaneous",
+  "glosses": {
+   "en": "spontaneous",
+   "ja": "自発的な"
+  },
+  "choices": [
+   "popcorn",
+   "commission",
+   "obedient",
+   "spontaneous"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʕaf.wijj/",
+  "verified": true
+ },
+ {
+  "id": "ar-00669",
+  "category": "arabic",
+  "prompt": "「مفاعل」の意味は？",
+  "answer": "reactor",
+  "glosses": {
+   "en": "reactor",
+   "ja": "原子炉"
+  },
+  "choices": [
+   "exemplary",
+   "imagination",
+   "reactor",
+   "secular"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mu.faː.ʕil/",
+  "verified": true
+ },
+ {
+  "id": "ar-00670",
+  "category": "arabic",
+  "prompt": "「تصدى」の意味は？",
+  "answer": "to confront",
+  "glosses": {
+   "en": "to confront",
+   "ja": "立ち向かう"
+  },
+  "choices": [
+   "grace period",
+   "wheat",
+   "to confront",
+   "antique"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ta.sˤad.daː/",
+  "verified": true
+ },
+ {
+  "id": "ar-00671",
+  "category": "arabic",
+  "prompt": "「وضيع」の意味は？",
+  "answer": "lowly",
+  "glosses": {
+   "en": "lowly",
+   "ja": "卑しい"
+  },
+  "choices": [
+   "to rent",
+   "oven",
+   "lowly",
+   "transformer"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/wa.dˤiːʕ/",
+  "verified": true
+ },
+ {
+  "id": "ar-00672",
+  "category": "arabic",
+  "prompt": "「منحنى」の意味は？",
+  "answer": "curve",
+  "glosses": {
+   "en": "curve",
+   "ja": "曲線"
+  },
+  "choices": [
+   "radiation",
+   "meteorite",
+   "pharmacy",
+   "curve"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mun.ħa.naː/",
+  "verified": true
+ },
+ {
+  "id": "ar-00673",
+  "category": "arabic",
+  "prompt": "「بوكر」の意味は？",
+  "answer": "poker",
+  "glosses": {
+   "en": "poker",
+   "ja": "ポーカー"
+  },
+  "choices": [
+   "maze",
+   "beer",
+   "parrot",
+   "poker"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/buː.kar/",
+  "verified": true
+ },
+ {
+  "id": "ar-00674",
+  "category": "arabic",
+  "prompt": "「أتقن」の意味は？",
+  "answer": "to master",
+  "glosses": {
+   "en": "to master",
+   "ja": "習得する"
+  },
+  "choices": [
+   "consumer",
+   "to master",
+   "expansion",
+   "dinosaur"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʔat.qa.na/",
+  "verified": true
+ },
+ {
+  "id": "ar-00675",
+  "category": "arabic",
+  "prompt": "「ترام」の意味は？",
+  "answer": "tram",
+  "glosses": {
+   "en": "tram",
+   "ja": "路面電車"
+  },
+  "choices": [
+   "banquet",
+   "lazy",
+   "muscle",
+   "tram"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/traːm/",
+  "verified": true
+ },
+ {
+  "id": "ar-00676",
+  "category": "arabic",
+  "prompt": "「كنيس」の意味は？",
+  "answer": "synagogue",
+  "glosses": {
+   "en": "synagogue",
+   "ja": "ユダヤ教の礼拝堂"
+  },
+  "choices": [
+   "printer",
+   "synagogue",
+   "shorts",
+   "stove"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ar-00677",
+  "category": "arabic",
+  "prompt": "「موضوعي」の意味は？",
+  "answer": "objective",
+  "glosses": {
+   "en": "objective",
+   "ja": "客観的な"
+  },
+  "choices": [
+   "shorts",
+   "objective",
+   "marble",
+   "kindly"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ar-00678",
+  "category": "arabic",
+  "prompt": "「علماني」の意味は？",
+  "answer": "secular",
+  "glosses": {
+   "en": "secular",
+   "ja": "世俗的な"
+  },
+  "choices": [
+   "secular",
+   "balloon",
+   "diamond",
+   "to justify"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ar-00679",
+  "category": "arabic",
+  "prompt": "「سروال」の意味は？",
+  "answer": "pants",
+  "glosses": {
+   "en": "pants",
+   "ja": "ズボン"
+  },
+  "choices": [
+   "pants",
+   "to replace",
+   "fugitive",
+   "mint"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/sir.waːl/",
+  "verified": true
+ },
+ {
+  "id": "ar-00680",
+  "category": "arabic",
+  "prompt": "「اصطدم」の意味は？",
+  "answer": "to collide",
+  "glosses": {
+   "en": "to collide",
+   "ja": "衝突する"
+  },
+  "choices": [
+   "exemplary",
+   "to collide",
+   "steamship",
+   "bacteria"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/isˤ.tˤa.da.ma/",
+  "verified": true
+ },
+ {
+  "id": "ar-00681",
+  "category": "arabic",
+  "prompt": "「قرحة」の意味は？",
+  "answer": "ulcer",
+  "glosses": {
+   "en": "ulcer",
+   "ja": "潰瘍"
+  },
+  "choices": [
+   "ulcer",
+   "basement",
+   "mountainous",
+   "piano"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/qur.ħa/",
+  "verified": true
+ },
+ {
+  "id": "ar-00682",
+  "category": "arabic",
+  "prompt": "「بطالة」の意味は？",
+  "answer": "unemployment",
+  "glosses": {
+   "en": "unemployment",
+   "ja": "失業"
+  },
+  "choices": [
+   "garlic",
+   "unemployment",
+   "adventurer",
+   "to sink"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bi.tˤaː.la/",
+  "verified": true
+ },
+ {
+  "id": "ar-00683",
+  "category": "arabic",
+  "prompt": "「لمع」の意味は？",
+  "answer": "to shine",
+  "glosses": {
+   "en": "to shine",
+   "ja": "輝く"
+  },
+  "choices": [
+   "to shine",
+   "tyrant",
+   "autonomy",
+   "gorilla"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/la.ma.ʕa/",
+  "verified": true
+ },
+ {
+  "id": "ar-00684",
+  "category": "arabic",
+  "prompt": "「خضار」の意味は？",
+  "answer": "vegetables",
+  "glosses": {
+   "en": "vegetables",
+   "ja": "野菜"
+  },
+  "choices": [
+   "vegetables",
+   "wheat",
+   "pharmacist",
+   "diamond"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/xadˤ.dˤaːr/",
+  "verified": true
+ },
+ {
+  "id": "ar-00685",
+  "category": "arabic",
+  "prompt": "「هزلي」の意味は？",
+  "answer": "humorous",
+  "glosses": {
+   "en": "humorous",
+   "ja": "こっけいな"
+  },
+  "choices": [
+   "abundant",
+   "brain",
+   "herd",
+   "humorous"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/haz.lijj/",
+  "verified": true
+ },
+ {
+  "id": "ar-00686",
+  "category": "arabic",
+  "prompt": "「ناخب」の意味は？",
+  "answer": "voter",
+  "glosses": {
+   "en": "voter",
+   "ja": "有権者"
+  },
+  "choices": [
+   "voter",
+   "thin",
+   "balloon",
+   "legislator"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/naː.xib/",
+  "verified": true
+ },
+ {
+  "id": "ar-00687",
+  "category": "arabic",
+  "prompt": "「ديزل」の意味は？",
+  "answer": "diesel",
+  "glosses": {
+   "en": "diesel",
+   "ja": "ディーゼル"
+  },
+  "choices": [
+   "diesel",
+   "slight",
+   "praise",
+   "banana"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/diː.zil/",
+  "verified": true
+ },
+ {
+  "id": "ar-00688",
+  "category": "arabic",
+  "prompt": "「تسريحة」の意味は？",
+  "answer": "hairstyle",
+  "glosses": {
+   "en": "hairstyle",
+   "ja": "髪型"
+  },
+  "choices": [
+   "bucket",
+   "hairstyle",
+   "surplus",
+   "diamond"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/tas.riː.ħa/",
+  "verified": true
+ },
+ {
+  "id": "ar-00689",
+  "category": "arabic",
+  "prompt": "「ألماس」の意味は？",
+  "answer": "diamond",
+  "glosses": {
+   "en": "diamond",
+   "ja": "ダイヤモンド"
+  },
+  "choices": [
+   "diamond",
+   "to lick",
+   "skirt",
+   "appetite"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʔal.maːs/",
+  "verified": true
+ },
+ {
+  "id": "ar-00690",
+  "category": "arabic",
+  "prompt": "「قارورة」の意味は？",
+  "answer": "bottle",
+  "glosses": {
+   "en": "bottle",
+   "ja": "瓶"
+  },
+  "choices": [
+   "customer",
+   "yacht",
+   "bottle",
+   "religion"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/qaː.ruː.ra/",
+  "verified": true
+ },
+ {
+  "id": "ar-00691",
+  "category": "arabic",
+  "prompt": "「زقاق」の意味は？",
+  "answer": "alley",
+  "glosses": {
+   "en": "alley",
+   "ja": "路地"
+  },
+  "choices": [
+   "alley",
+   "incubator",
+   "thinker",
+   "antique"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/zu.qaːq/",
+  "verified": true
+ },
+ {
+  "id": "ar-00692",
+  "category": "arabic",
+  "prompt": "「نعناع」の意味は？",
+  "answer": "mint",
+  "glosses": {
+   "en": "mint",
+   "ja": "ミント"
+  },
+  "choices": [
+   "to go too far",
+   "to master",
+   "mint",
+   "bottle"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/naʕ.naːʕ/",
+  "verified": true
+ },
+ {
+  "id": "ar-00693",
+  "category": "arabic",
+  "prompt": "「مخبز」の意味は？",
+  "answer": "bakery",
+  "glosses": {
+   "en": "bakery",
+   "ja": "パン屋"
+  },
+  "choices": [
+   "bakery",
+   "biology",
+   "tailor",
+   "herd"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/max.biz/",
+  "verified": true
+ },
+ {
+  "id": "ar-00694",
+  "category": "arabic",
+  "prompt": "「كحول」の意味は？",
+  "answer": "alcohol",
+  "glosses": {
+   "en": "alcohol",
+   "ja": "アルコール"
+  },
+  "choices": [
+   "tyrant",
+   "alcohol",
+   "bacteria",
+   "inauguration"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ar-00695",
+  "category": "arabic",
+  "prompt": "「أرنب」の意味は？",
+  "answer": "rabbit",
+  "glosses": {
+   "en": "rabbit",
+   "ja": "ウサギ"
+  },
+  "choices": [
+   "rabbit",
+   "parrot",
+   "imagination",
+   "hanger"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʔar.nab/",
+  "verified": true
+ },
+ {
+  "id": "ar-00696",
+  "category": "arabic",
+  "prompt": "「حلاق」の意味は？",
+  "answer": "barber",
+  "glosses": {
+   "en": "barber",
+   "ja": "理髪師"
+  },
+  "choices": [
+   "commission",
+   "barber",
+   "banana",
+   "to incite"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ar-00697",
+  "category": "arabic",
+  "prompt": "「أكسجين」の意味は？",
+  "answer": "oxygen",
+  "glosses": {
+   "en": "oxygen",
+   "ja": "酸素"
+  },
+  "choices": [
+   "sandwich",
+   "oxygen",
+   "muscle",
+   "swamp"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʔuk.si.d͡ʒiːn/",
+  "verified": true
+ },
+ {
+  "id": "ar-00698",
+  "category": "arabic",
+  "prompt": "「فضولي」の意味は？",
+  "answer": "curious",
+  "glosses": {
+   "en": "curious",
+   "ja": "好奇心の強い"
+  },
+  "choices": [
+   "to replace",
+   "apple",
+   "expansion",
+   "curious"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/fu.dˤuː.lijj/",
+  "verified": true
+ },
+ {
+  "id": "ar-00699",
+  "category": "arabic",
+  "prompt": "「قيثارة」の意味は？",
+  "answer": "harp",
+  "glosses": {
+   "en": "harp",
+   "ja": "竪琴"
+  },
+  "choices": [
+   "to replace",
+   "bee",
+   "harp",
+   "synagogue"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/qiː.θaː.ra/",
+  "verified": true
+ },
+ {
+  "id": "ar-00700",
+  "category": "arabic",
+  "prompt": "「غريزة」の意味は？",
+  "answer": "instinct",
+  "glosses": {
+   "en": "instinct",
+   "ja": "本能"
+  },
+  "choices": [
+   "silk",
+   "solar eclipse",
+   "to recover",
+   "instinct"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɣa.riː.za/",
+  "verified": true
+ },
+ {
+  "id": "ar-00701",
+  "category": "arabic",
+  "prompt": "「ديناصور」の意味は？",
+  "answer": "dinosaur",
+  "glosses": {
+   "en": "dinosaur",
+   "ja": "恐竜"
+  },
+  "choices": [
+   "to inspire",
+   "apt",
+   "to invent",
+   "dinosaur"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/diː.naː.sˤuːr/",
+  "verified": true
+ },
+ {
+  "id": "ar-00702",
+  "category": "arabic",
+  "prompt": "「شامبو」の意味は？",
+  "answer": "shampoo",
+  "glosses": {
+   "en": "shampoo",
+   "ja": "シャンプー"
+  },
+  "choices": [
+   "to reduce",
+   "cement",
+   "shampoo",
+   "gazelle"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʃaːm.buː/",
+  "verified": true
+ },
+ {
+  "id": "ar-00703",
+  "category": "arabic",
+  "prompt": "「نيزك」の意味は？",
+  "answer": "meteorite",
+  "glosses": {
+   "en": "meteorite",
+   "ja": "隕石"
+  },
+  "choices": [
+   "praise",
+   "meteorite",
+   "cloak",
+   "craft"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/naj.zak/",
+  "verified": true
+ },
+ {
+  "id": "ar-00704",
+  "category": "arabic",
+  "prompt": "「حماقة」の意味は？",
+  "answer": "foolishness",
+  "glosses": {
+   "en": "foolishness",
+   "ja": "愚かさ"
+  },
+  "choices": [
+   "rubble",
+   "foolishness",
+   "anecdote",
+   "protein"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ar-00705",
+  "category": "arabic",
+  "prompt": "「حرفة」の意味は？",
+  "answer": "craft",
+  "glosses": {
+   "en": "craft",
+   "ja": "手仕事"
+  },
+  "choices": [
+   "crane",
+   "craft",
+   "prey",
+   "synagogue"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ar-00706",
+  "category": "arabic",
+  "prompt": "「لعق」の意味は？",
+  "answer": "to lick",
+  "glosses": {
+   "en": "to lick",
+   "ja": "なめる"
+  },
+  "choices": [
+   "to lick",
+   "peaceful",
+   "praise",
+   "skirt"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ar-00707",
+  "category": "arabic",
+  "prompt": "「إمبراطور」の意味は？",
+  "answer": "emperor",
+  "glosses": {
+   "en": "emperor",
+   "ja": "皇帝"
+  },
+  "choices": [
+   "stormy",
+   "meteorite",
+   "beer",
+   "emperor"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʔim.ba.raː.tˤuːr/",
+  "verified": true
+ },
+ {
+  "id": "ar-00708",
+  "category": "arabic",
+  "prompt": "「طازج」の意味は？",
+  "answer": "fresh",
+  "glosses": {
+   "en": "fresh",
+   "ja": "新鮮な"
+  },
+  "choices": [
+   "neutral",
+   "oven",
+   "fresh",
+   "adventurer"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/tˤaː.zad͡ʒ/",
+  "verified": true
+ },
+ {
+  "id": "ar-00709",
+  "category": "arabic",
+  "prompt": "「ساكت」の意味は？",
+  "answer": "silent",
+  "glosses": {
+   "en": "silent",
+   "ja": "黙っている"
+  },
+  "choices": [
+   "robot",
+   "silent",
+   "slight",
+   "diesel"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/saː.kit/",
+  "verified": true
+ },
+ {
+  "id": "ar-00710",
+  "category": "arabic",
+  "prompt": "「نملة」の意味は？",
+  "answer": "an ant",
+  "glosses": {
+   "en": "an ant",
+   "ja": "アリ"
+  },
+  "choices": [
+   "hairstyle",
+   "an ant",
+   "soap",
+   "cannon"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/nam.la/",
+  "verified": true
+ },
+ {
+  "id": "ar-00711",
+  "category": "arabic",
+  "prompt": "「سباح」の意味は？",
+  "answer": "swimmer",
+  "glosses": {
+   "en": "swimmer",
+   "ja": "水泳選手"
+  },
+  "choices": [
+   "wheat",
+   "a hair",
+   "to lick",
+   "swimmer"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/sab.baːħ/",
+  "verified": true
+ },
+ {
+  "id": "ar-00712",
+  "category": "arabic",
+  "prompt": "「تصارع」の意味は？",
+  "answer": "to wrestle",
+  "glosses": {
+   "en": "to wrestle",
+   "ja": "格闘する"
+  },
+  "choices": [
+   "to wrestle",
+   "insect",
+   "praise",
+   "to satisfy"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ta.sˤaː.ra.ʕa/",
+  "verified": true
+ },
+ {
+  "id": "ar-00713",
+  "category": "arabic",
+  "prompt": "「تعاوني」の意味は？",
+  "answer": "cooperative",
+  "glosses": {
+   "en": "cooperative",
+   "ja": "協同の"
+  },
+  "choices": [
+   "cooperative",
+   "to subdue",
+   "silk",
+   "curious"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ar-00714",
+  "category": "arabic",
+  "prompt": "「أريكة」の意味は？",
+  "answer": "sofa",
+  "glosses": {
+   "en": "sofa",
+   "ja": "ソファー"
+  },
+  "choices": [
+   "snake",
+   "sofa",
+   "insect",
+   "pile"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʔa.riː.ka/",
+  "verified": true
+ },
+ {
+  "id": "ar-00715",
+  "category": "arabic",
+  "prompt": "「سلحفاة」の意味は？",
+  "answer": "turtle",
+  "glosses": {
+   "en": "turtle",
+   "ja": "カメ"
+  },
+  "choices": [
+   "turtle",
+   "to prepare",
+   "granddaughter",
+   "lemon"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/su.laħ.faːh/",
+  "verified": true
+ },
+ {
+  "id": "ar-00716",
+  "category": "arabic",
+  "prompt": "「أغمض」の意味は？",
+  "answer": "to close eyes",
+  "glosses": {
+   "en": "to close eyes",
+   "ja": "目を閉じる"
+  },
+  "choices": [
+   "to close eyes",
+   "nonsense",
+   "to lick",
+   "proficiency"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʔaɣ.ma.dˤa/",
+  "verified": true
+ },
+ {
+  "id": "ar-00717",
+  "category": "arabic",
+  "prompt": "「مهرج」の意味は？",
+  "answer": "clown",
+  "glosses": {
+   "en": "clown",
+   "ja": "道化"
+  },
+  "choices": [
+   "edition",
+   "alcohol",
+   "ugly",
+   "clown"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mu.har.rid͡ʒ/",
+  "verified": true
+ },
+ {
+  "id": "ar-00718",
+  "category": "arabic",
+  "prompt": "「حرض」の意味は？",
+  "answer": "to incite",
+  "glosses": {
+   "en": "to incite",
+   "ja": "扇動する"
+  },
+  "choices": [
+   "essential",
+   "strait",
+   "brain",
+   "to incite"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ħar.ra.dˤa/",
+  "verified": true
+ },
+ {
+  "id": "ar-00719",
+  "category": "arabic",
+  "prompt": "「باليه」の意味は？",
+  "answer": "ballet",
+  "glosses": {
+   "en": "ballet",
+   "ja": "バレエ"
+  },
+  "choices": [
+   "to prepare",
+   "to subdue",
+   "malicious",
+   "ballet"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/baː.leːh/",
+  "verified": true
+ },
+ {
+  "id": "ar-00720",
+  "category": "arabic",
+  "prompt": "「حفيدة」の意味は？",
+  "answer": "granddaughter",
+  "glosses": {
+   "en": "granddaughter",
+   "ja": "孫娘"
+  },
+  "choices": [
+   "customer",
+   "swamp",
+   "tone",
+   "granddaughter"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ħa.fiː.da/",
+  "verified": true
+ },
+ {
+  "id": "ar-00721",
+  "category": "arabic",
+  "prompt": "「كفيف」の意味は？",
+  "answer": "blind",
+  "glosses": {
+   "en": "blind",
+   "ja": "目の見えない"
+  },
+  "choices": [
+   "physics",
+   "slow",
+   "oven",
+   "blind"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ka.fiːf/",
+  "verified": true
+ },
+ {
+  "id": "ar-00722",
+  "category": "arabic",
+  "prompt": "「ينبوع」の意味は？",
+  "answer": "spring",
+  "glosses": {
+   "en": "spring",
+   "ja": "泉"
+  },
+  "choices": [
+   "sprayer",
+   "pebble",
+   "spring",
+   "silent"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/jan.buːʕ/",
+  "verified": true
+ },
+ {
+  "id": "ar-00723",
+  "category": "arabic",
+  "prompt": "「برر」の意味は？",
+  "answer": "to justify",
+  "glosses": {
+   "en": "to justify",
+   "ja": "正当化する"
+  },
+  "choices": [
+   "to besiege",
+   "to justify",
+   "concise",
+   "uranium"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bar.ra.ra/",
+  "verified": true
+ },
+ {
+  "id": "ar-00724",
+  "category": "arabic",
+  "prompt": "「يخت」の意味は？",
+  "answer": "yacht",
+  "glosses": {
+   "en": "yacht",
+   "ja": "ヨット"
+  },
+  "choices": [
+   "yacht",
+   "owl",
+   "to rent",
+   "cassette"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/jaxt/",
+  "verified": true
+ },
+ {
+  "id": "ar-00725",
+  "category": "arabic",
+  "prompt": "「مستهلك」の意味は？",
+  "answer": "consumer",
+  "glosses": {
+   "en": "consumer",
+   "ja": "消費者"
+  },
+  "choices": [
+   "auction",
+   "consulate",
+   "consumer",
+   "submarine"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mus.tah.lik/",
+  "verified": true
+ },
+ {
+  "id": "ar-00726",
+  "category": "arabic",
+  "prompt": "「إجباري」の意味は？",
+  "answer": "mandatory",
+  "glosses": {
+   "en": "mandatory",
+   "ja": "強制的な"
+  },
+  "choices": [
+   "farce",
+   "printer",
+   "fox",
+   "mandatory"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʔid͡ʒ.baː.rijj/",
+  "verified": true
+ },
+ {
+  "id": "ar-00727",
+  "category": "arabic",
+  "prompt": "「مجاعة」の意味は？",
+  "answer": "famine",
+  "glosses": {
+   "en": "famine",
+   "ja": "飢饉"
+  },
+  "choices": [
+   "famine",
+   "bachelor",
+   "to boil",
+   "customer"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ma.d͡ʒaː.ʕa/",
+  "verified": true
+ },
+ {
+  "id": "ar-00728",
+  "category": "arabic",
+  "prompt": "「شبهة」の意味は？",
+  "answer": "suspicion",
+  "glosses": {
+   "en": "suspicion",
+   "ja": "疑惑"
+  },
+  "choices": [
+   "apple",
+   "suspicion",
+   "obesity",
+   "cloak"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʃub.ha/",
+  "verified": true
+ },
+ {
+  "id": "ar-00729",
+  "category": "arabic",
+  "prompt": "「بسكويت」の意味は？",
+  "answer": "biscuit",
+  "glosses": {
+   "en": "biscuit",
+   "ja": "ビスケット"
+  },
+  "choices": [
+   "nonsense",
+   "to besiege",
+   "biscuit",
+   "silent"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bas.ka.wiːt/",
+  "verified": true
+ },
+ {
+  "id": "ar-00730",
+  "category": "arabic",
+  "prompt": "「طاحونة」の意味は？",
+  "answer": "mill",
+  "glosses": {
+   "en": "mill",
+   "ja": "製粉所"
+  },
+  "choices": [
+   "mill",
+   "pump",
+   "tendency",
+   "shampoo"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/tˤaː.ħuː.na/",
+  "verified": true
+ },
+ {
+  "id": "ar-00731",
+  "category": "arabic",
+  "prompt": "「باهت」の意味は？",
+  "answer": "faded",
+  "glosses": {
+   "en": "faded",
+   "ja": "色あせた"
+  },
+  "choices": [
+   "ransom",
+   "mine",
+   "cheer",
+   "faded"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/baː.hit/",
+  "verified": true
+ },
+ {
+  "id": "ar-00732",
+  "category": "arabic",
+  "prompt": "「تمريض」の意味は？",
+  "answer": "nursing",
+  "glosses": {
+   "en": "nursing",
+   "ja": "看護"
+  },
+  "choices": [
+   "dinosaur",
+   "female gazelle",
+   "nursing",
+   "farce"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/tam.riːdˤ/",
+  "verified": true
+ },
+ {
+  "id": "ar-00733",
+  "category": "arabic",
+  "prompt": "「مخيلة」の意味は？",
+  "answer": "imagination",
+  "glosses": {
+   "en": "imagination",
+   "ja": "想像力"
+  },
+  "choices": [
+   "artery",
+   "to interpret",
+   "police station",
+   "imagination"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mu.xaj.ji.la/",
+  "verified": true
+ },
+ {
+  "id": "ar-00734",
+  "category": "arabic",
+  "prompt": "「ورطة」の意味は？",
+  "answer": "predicament",
+  "glosses": {
+   "en": "predicament",
+   "ja": "苦境"
+  },
+  "choices": [
+   "to revile",
+   "predicament",
+   "delighted",
+   "delight"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/war.tˤa/",
+  "verified": true
+ },
+ {
+  "id": "ar-00735",
+  "category": "arabic",
+  "prompt": "「شورت」の意味は？",
+  "answer": "shorts",
+  "glosses": {
+   "en": "shorts",
+   "ja": "半ズボン"
+  },
+  "choices": [
+   "shorts",
+   "alley",
+   "bottle",
+   "female gazelle"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʃuːrt/",
+  "verified": true
+ },
+ {
+  "id": "ar-00736",
+  "category": "arabic",
+  "prompt": "「نشاء」の意味は？",
+  "answer": "starch",
+  "glosses": {
+   "en": "starch",
+   "ja": "でんぷん"
+  },
+  "choices": [
+   "appetite",
+   "knee",
+   "tavern",
+   "starch"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ar-00737",
+  "category": "arabic",
+  "prompt": "「جحر」の意味は？",
+  "answer": "burrow",
+  "glosses": {
+   "en": "burrow",
+   "ja": "巣穴"
+  },
+  "choices": [
+   "baby",
+   "pillow",
+   "burrow",
+   "to confront"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d͡ʒuħr/",
+  "verified": true
+ },
+ {
+  "id": "ar-00738",
+  "category": "arabic",
+  "prompt": "「انكسر」の意味は？",
+  "answer": "to break",
+  "glosses": {
+   "en": "to break",
+   "ja": "壊れる"
+  },
+  "choices": [
+   "inference",
+   "to break",
+   "incense",
+   "cheek"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ar-00739",
+  "category": "arabic",
+  "prompt": "「ذاق」の意味は？",
+  "answer": "to taste",
+  "glosses": {
+   "en": "to taste",
+   "ja": "味わう"
+  },
+  "choices": [
+   "suspicion",
+   "ballet",
+   "to taste",
+   "mine"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ðaː.qa/",
+  "verified": true
+ },
+ {
+  "id": "ar-00740",
+  "category": "arabic",
+  "prompt": "「دلو」の意味は？",
+  "answer": "bucket",
+  "glosses": {
+   "en": "bucket",
+   "ja": "バケツ"
+  },
+  "choices": [
+   "carpet",
+   "bucket",
+   "fence",
+   "lung"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/dalw/",
+  "verified": true
+ },
+ {
+  "id": "ar-00741",
+  "category": "arabic",
+  "prompt": "「ترنيمة」の意味は？",
+  "answer": "hymn",
+  "glosses": {
+   "en": "hymn",
+   "ja": "賛美歌"
+  },
+  "choices": [
+   "thin",
+   "scarf",
+   "orchestra",
+   "hymn"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ar-00742",
+  "category": "arabic",
+  "prompt": "「أرخبيل」の意味は？",
+  "answer": "archipelago",
+  "glosses": {
+   "en": "archipelago",
+   "ja": "群島"
+  },
+  "choices": [
+   "religion",
+   "archipelago",
+   "fugitive",
+   "drum"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʔar.xa.biːl/",
+  "verified": true
+ },
+ {
+  "id": "ar-00743",
+  "category": "arabic",
+  "prompt": "「بوذية」の意味は？",
+  "answer": "Buddhism",
+  "glosses": {
+   "en": "Buddhism",
+   "ja": "仏教"
+  },
+  "choices": [
+   "fresh",
+   "Buddhism",
+   "soup",
+   "grotto"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/buː.ðij.ja/",
+  "verified": true
+ },
+ {
+  "id": "ar-00744",
+  "category": "arabic",
+  "prompt": "「لخص」の意味は？",
+  "answer": "to summarize",
+  "glosses": {
+   "en": "to summarize",
+   "ja": "要約する"
+  },
+  "choices": [
+   "mandatory",
+   "decadence",
+   "childhood",
+   "to summarize"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ar-00745",
+  "category": "arabic",
+  "prompt": "「شقاء」の意味は？",
+  "answer": "misery",
+  "glosses": {
+   "en": "misery",
+   "ja": "苦難"
+  },
+  "choices": [
+   "vegetables",
+   "misery",
+   "to double",
+   "projectile"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʃa.qaːʔ/",
+  "verified": true
+ },
+ {
+  "id": "ar-00746",
+  "category": "arabic",
+  "prompt": "「مشرع」の意味は？",
+  "answer": "legislator",
+  "glosses": {
+   "en": "legislator",
+   "ja": "立法者"
+  },
+  "choices": [
+   "delighted",
+   "legislator",
+   "clown",
+   "coal"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mu.ʃar.riʕ/",
+  "verified": true
+ },
+ {
+  "id": "ar-00747",
+  "category": "arabic",
+  "prompt": "「تمادى」の意味は？",
+  "answer": "to go too far",
+  "glosses": {
+   "en": "to go too far",
+   "ja": "度を越す"
+  },
+  "choices": [
+   "wheat",
+   "to go too far",
+   "progressive",
+   "eternity"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ta.maː.daː/",
+  "verified": true
+ },
+ {
+  "id": "ar-00748",
+  "category": "arabic",
+  "prompt": "「جليدي」の意味は？",
+  "answer": "icy",
+  "glosses": {
+   "en": "icy",
+   "ja": "氷のように冷たい"
+  },
+  "choices": [
+   "pillow",
+   "orange",
+   "icy",
+   "noise"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d͡ʒa.liː.dijj/",
+  "verified": true
+ },
+ {
+  "id": "ar-00749",
+  "category": "arabic",
+  "prompt": "「جبلي」の意味は？",
+  "answer": "mountainous",
+  "glosses": {
+   "en": "mountainous",
+   "ja": "山地の"
+  },
+  "choices": [
+   "hegemony",
+   "abandoned",
+   "mountainous",
+   "exemplary"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d͡ʒa.ba.lijj/",
+  "verified": true
+ },
+ {
+  "id": "ar-00750",
+  "category": "arabic",
+  "prompt": "「أليف」の意味は？",
+  "answer": "tame",
+  "glosses": {
+   "en": "tame",
+   "ja": "飼いならされた"
+  },
+  "choices": [
+   "tame",
+   "barber",
+   "harp",
+   "protein"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʔa.liːf/",
+  "verified": true
+ },
+ {
+  "id": "ar-00751",
+  "category": "arabic",
+  "prompt": "「نحلة」の意味は？",
+  "answer": "bee",
+  "glosses": {
+   "en": "bee",
+   "ja": "ミツバチ"
+  },
+  "choices": [
+   "bee",
+   "cooperative",
+   "barber",
+   "cow"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/naħ.la/",
+  "verified": true
+ },
+ {
+  "id": "ar-00752",
+  "category": "arabic",
+  "prompt": "「برتقال」の意味は？",
+  "answer": "orange",
+  "glosses": {
+   "en": "orange",
+   "ja": "オレンジ"
+  },
+  "choices": [
+   "grace period",
+   "bacteria",
+   "she-goat",
+   "orange"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bur.tu.qaːl/",
+  "verified": true
+ },
+ {
+  "id": "ar-00753",
+  "category": "arabic",
+  "prompt": "「ببغاء」の意味は？",
+  "answer": "parrot",
+  "glosses": {
+   "en": "parrot",
+   "ja": "オウム"
+  },
+  "choices": [
+   "parrot",
+   "police station",
+   "intentional",
+   "exemplary"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ar-00754",
+  "category": "arabic",
+  "prompt": "「غيمة」の意味は？",
+  "answer": "cloud",
+  "glosses": {
+   "en": "cloud",
+   "ja": "雲"
+  },
+  "choices": [
+   "cloud",
+   "hegemony",
+   "curve",
+   "neck"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ar-00755",
+  "category": "arabic",
+  "prompt": "「سرداب」の意味は？",
+  "answer": "basement",
+  "glosses": {
+   "en": "basement",
+   "ja": "地下室"
+  },
+  "choices": [
+   "flat",
+   "cannon",
+   "basement",
+   "knee"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/sir.daːb/",
+  "verified": true
+ },
+ {
+  "id": "ar-00756",
+  "category": "arabic",
+  "prompt": "「فولاذ」の意味は？",
+  "answer": "steel",
+  "glosses": {
+   "en": "steel",
+   "ja": "鋼鉄"
+  },
+  "choices": [
+   "hymn",
+   "steel",
+   "liberal",
+   "spy"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/fuː.laːð/",
+  "verified": true
+ },
+ {
+  "id": "ar-00757",
+  "category": "arabic",
+  "prompt": "「غزالة」の意味は？",
+  "answer": "female gazelle",
+  "glosses": {
+   "en": "female gazelle",
+   "ja": "雌ガゼル"
+  },
+  "choices": [
+   "female gazelle",
+   "to incite",
+   "telegram",
+   "wheat"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ar-00758",
+  "category": "arabic",
+  "prompt": "「رئة」の意味は？",
+  "answer": "lung",
+  "glosses": {
+   "en": "lung",
+   "ja": "肺"
+  },
+  "choices": [
+   "to consult",
+   "telegraph",
+   "lung",
+   "mandatory"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ar-00759",
+  "category": "arabic",
+  "prompt": "「طابعة」の意味は？",
+  "answer": "printer",
+  "glosses": {
+   "en": "printer",
+   "ja": "プリンター"
+  },
+  "choices": [
+   "needle",
+   "adolescent",
+   "printer",
+   "suspicion"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/tˤaː.bi.ʕa/",
+  "verified": true
+ },
+ {
+  "id": "ar-00760",
+  "category": "arabic",
+  "prompt": "「جولف」の意味は？",
+  "answer": "golf",
+  "glosses": {
+   "en": "golf",
+   "ja": "ゴルフ"
+  },
+  "choices": [
+   "inquiry",
+   "golf",
+   "pillow",
+   "vest"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɡoːlf/",
+  "verified": true
+ },
+ {
+  "id": "ar-00761",
+  "category": "arabic",
+  "prompt": "「قمح」の意味は？",
+  "answer": "wheat",
+  "glosses": {
+   "en": "wheat",
+   "ja": "小麦"
+  },
+  "choices": [
+   "bubble",
+   "mobile",
+   "flight attendant",
+   "wheat"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/qamħ/",
+  "verified": true
+ },
+ {
+  "id": "ar-00762",
+  "category": "arabic",
+  "prompt": "「ساندويتش」の意味は？",
+  "answer": "sandwich",
+  "glosses": {
+   "en": "sandwich",
+   "ja": "サンドイッチ"
+  },
+  "choices": [
+   "mouse",
+   "sandwich",
+   "decadence",
+   "elegance"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/sandwitʃ/",
+  "verified": true
+ },
+ {
+  "id": "ar-00763",
+  "category": "arabic",
+  "prompt": "「دلفين」の意味は？",
+  "answer": "dolphin",
+  "glosses": {
+   "en": "dolphin",
+   "ja": "イルカ"
+  },
+  "choices": [
+   "swamp",
+   "dolphin",
+   "lair",
+   "ash"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ar-00764",
+  "category": "arabic",
+  "prompt": "「إشعاع」の意味は？",
+  "answer": "radiation",
+  "glosses": {
+   "en": "radiation",
+   "ja": "放射"
+  },
+  "choices": [
+   "park",
+   "ugly",
+   "hardline",
+   "radiation"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ar-00765",
+  "category": "arabic",
+  "prompt": "「أسمنت」の意味は？",
+  "answer": "cement",
+  "glosses": {
+   "en": "cement",
+   "ja": "セメント"
+  },
+  "choices": [
+   "cassette",
+   "cement",
+   "coat",
+   "alley"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʔas.mant/",
+  "verified": true
+ },
+ {
+  "id": "ar-00766",
+  "category": "arabic",
+  "prompt": "「مغناطيس」の意味は？",
+  "answer": "magnet",
+  "glosses": {
+   "en": "magnet",
+   "ja": "磁石"
+  },
+  "choices": [
+   "magnet",
+   "grace period",
+   "archipelago",
+   "oven"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/miɣ.naː.tˤiːs/",
+  "verified": true
+ },
+ {
+  "id": "ar-00767",
+  "category": "arabic",
+  "prompt": "「وجيز」の意味は？",
+  "answer": "concise",
+  "glosses": {
+   "en": "concise",
+   "ja": "簡潔な"
+  },
+  "choices": [
+   "basement",
+   "tavern",
+   "concise",
+   "washing machine"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/wa.d͡ʒiːz/",
+  "verified": true
+ },
+ {
+  "id": "ar-00768",
+  "category": "arabic",
+  "prompt": "「موقد」の意味は？",
+  "answer": "stove",
+  "glosses": {
+   "en": "stove",
+   "ja": "コンロ"
+  },
+  "choices": [
+   "stove",
+   "crow",
+   "butterfly",
+   "fertility"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/maw.qid/",
+  "verified": true
+ },
+ {
+  "id": "ar-00769",
+  "category": "arabic",
+  "prompt": "「خوذة」の意味は？",
+  "answer": "helmet",
+  "glosses": {
+   "en": "helmet",
+   "ja": "ヘルメット"
+  },
+  "choices": [
+   "decadence",
+   "praise",
+   "helmet",
+   "to subdue"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/xuː.ða/",
+  "verified": true
+ },
+ {
+  "id": "ar-00770",
+  "category": "arabic",
+  "prompt": "「مديح」の意味は？",
+  "answer": "praise",
+  "glosses": {
+   "en": "praise",
+   "ja": "賞賛"
+  },
+  "choices": [
+   "telegraph",
+   "mountainous",
+   "praise",
+   "vegetables"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ma.diːħ/",
+  "verified": true
+ },
+ {
+  "id": "ar-00771",
+  "category": "arabic",
+  "prompt": "「ملاكم」の意味は？",
+  "answer": "boxer",
+  "glosses": {
+   "en": "boxer",
+   "ja": "ボクサー"
+  },
+  "choices": [
+   "broker",
+   "boxer",
+   "ugly",
+   "decadence"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ar-00772",
+  "category": "arabic",
+  "prompt": "「مالح」の意味は？",
+  "answer": "salty",
+  "glosses": {
+   "en": "salty",
+   "ja": "塩辛い"
+  },
+  "choices": [
+   "to dispute",
+   "grace period",
+   "salty",
+   "spring"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/maː.liħ/",
+  "verified": true
+ },
+ {
+  "id": "ar-00773",
+  "category": "arabic",
+  "prompt": "「ندبة」の意味は？",
+  "answer": "scar",
+  "glosses": {
+   "en": "scar",
+   "ja": "傷跡"
+  },
+  "choices": [
+   "cheer",
+   "wheat",
+   "telegraph",
+   "scar"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/nad.ba/",
+  "verified": true
+ },
+ {
+  "id": "ar-00774",
+  "category": "arabic",
+  "prompt": "「غطاس」の意味は？",
+  "answer": "diver",
+  "glosses": {
+   "en": "diver",
+   "ja": "潜水士"
+  },
+  "choices": [
+   "expansion",
+   "diver",
+   "cannon",
+   "transformer"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ar-00775",
+  "category": "arabic",
+  "prompt": "「عاصف」の意味は？",
+  "answer": "stormy",
+  "glosses": {
+   "en": "stormy",
+   "ja": "嵐の"
+  },
+  "choices": [
+   "stormy",
+   "mandatory",
+   "wheat",
+   "astonishment"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʕaː.sˤif/",
+  "verified": true
+ },
+ {
+  "id": "ar-00776",
+  "category": "arabic",
+  "prompt": "「صاخب」の意味は？",
+  "answer": "noisy",
+  "glosses": {
+   "en": "noisy",
+   "ja": "やかましい"
+  },
+  "choices": [
+   "noisy",
+   "to respond",
+   "faded",
+   "curve"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/sˤaː.xib/",
+  "verified": true
+ },
+ {
+  "id": "ar-00777",
+  "category": "arabic",
+  "prompt": "「خصوبة」の意味は？",
+  "answer": "fertility",
+  "glosses": {
+   "en": "fertility",
+   "ja": "肥沃さ"
+  },
+  "choices": [
+   "historian",
+   "faded",
+   "mobile",
+   "fertility"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/xu.sˤuː.ba/",
+  "verified": true
+ },
+ {
+  "id": "ar-00778",
+  "category": "arabic",
+  "prompt": "「عازب」の意味は？",
+  "answer": "bachelor",
+  "glosses": {
+   "en": "bachelor",
+   "ja": "独身男性"
+  },
+  "choices": [
+   "dinosaur",
+   "bachelor",
+   "tendency",
+   "tile"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʕaː.zib/",
+  "verified": true
+ },
+ {
+  "id": "ar-00779",
+  "category": "arabic",
+  "prompt": "「استخرج」の意味は？",
+  "answer": "to extract",
+  "glosses": {
+   "en": "to extract",
+   "ja": "抽出する"
+  },
+  "choices": [
+   "to extract",
+   "mine",
+   "to taste",
+   "comedy"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/is.tax.ra.d͡ʒa/",
+  "verified": true
+ },
+ {
+  "id": "ar-00780",
+  "category": "arabic",
+  "prompt": "「تعافى」の意味は？",
+  "answer": "to recover",
+  "glosses": {
+   "en": "to recover",
+   "ja": "回復する"
+  },
+  "choices": [
+   "gorilla",
+   "to kidnap",
+   "depression",
+   "to recover"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ta.ʕaː.faː/",
+  "verified": true
+ },
+ {
+  "id": "ar-00781",
+  "category": "arabic",
+  "prompt": "「غوريلا」の意味は？",
+  "answer": "gorilla",
+  "glosses": {
+   "en": "gorilla",
+   "ja": "ゴリラ"
+  },
+  "choices": [
+   "boxer",
+   "gorilla",
+   "duke",
+   "mulberry"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɣuː.ril.laː/",
+  "verified": true
+ },
+ {
+  "id": "ar-00782",
+  "category": "arabic",
+  "prompt": "「خردة」の意味は？",
+  "answer": "scrap",
+  "glosses": {
+   "en": "scrap",
+   "ja": "廃品"
+  },
+  "choices": [
+   "orchestra",
+   "sewing",
+   "scrap",
+   "cheek"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/xur.da/",
+  "verified": true
+ },
+ {
+  "id": "ar-00783",
+  "category": "arabic",
+  "prompt": "「هراء」の意味は？",
+  "answer": "nonsense",
+  "glosses": {
+   "en": "nonsense",
+   "ja": "たわごと"
+  },
+  "choices": [
+   "farce",
+   "vest",
+   "scarf",
+   "nonsense"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/hu.raːʔ/",
+  "verified": true
+ },
+ {
+  "id": "ar-00784",
+  "category": "arabic",
+  "prompt": "「متشدد」の意味は？",
+  "answer": "hardline",
+  "glosses": {
+   "en": "hardline",
+   "ja": "強硬な"
+  },
+  "choices": [
+   "scooter",
+   "hardline",
+   "ship captain",
+   "ulcer"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mu.ta.ʃad.did/",
+  "verified": true
+ },
+ {
+  "id": "ar-00785",
+  "category": "arabic",
+  "prompt": "「هيأ」の意味は？",
+  "answer": "to prepare",
+  "glosses": {
+   "en": "to prepare",
+   "ja": "準備する"
+  },
+  "choices": [
+   "to prepare",
+   "secretary",
+   "alley",
+   "edition"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/haj.ja.ʔa/",
+  "verified": true
+ },
+ {
+  "id": "ar-00786",
+  "category": "arabic",
+  "prompt": "「كسول」の意味は？",
+  "answer": "lazy",
+  "glosses": {
+   "en": "lazy",
+   "ja": "怠惰な"
+  },
+  "choices": [
+   "soup",
+   "swimmer",
+   "lazy",
+   "mythical"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ka.suːl/",
+  "verified": true
+ },
+ {
+  "id": "ar-00787",
+  "category": "arabic",
+  "prompt": "「جفن」の意味は？",
+  "answer": "eyelid",
+  "glosses": {
+   "en": "eyelid",
+   "ja": "まぶた"
+  },
+  "choices": [
+   "foolishness",
+   "opera",
+   "stove",
+   "eyelid"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d͡ʒafn/",
+  "verified": true
+ },
+ {
+  "id": "ar-00788",
+  "category": "arabic",
+  "prompt": "「استأجر」の意味は？",
+  "answer": "to rent",
+  "glosses": {
+   "en": "to rent",
+   "ja": "賃借りする"
+  },
+  "choices": [
+   "dolphin",
+   "to rent",
+   "chocolate",
+   "empire"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ar-00789",
+  "category": "arabic",
+  "prompt": "「غسالة」の意味は？",
+  "answer": "washing machine",
+  "glosses": {
+   "en": "washing machine",
+   "ja": "洗濯機"
+  },
+  "choices": [
+   "to sink",
+   "commodity",
+   "miserable",
+   "washing machine"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɣas.saː.la/",
+  "verified": true
+ },
+ {
+  "id": "ar-00790",
+  "category": "arabic",
+  "prompt": "「حاصر」の意味は？",
+  "answer": "to besiege",
+  "glosses": {
+   "en": "to besiege",
+   "ja": "包囲する"
+  },
+  "choices": [
+   "objective",
+   "female gazelle",
+   "to besiege",
+   "to master"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ar-00791",
+  "category": "arabic",
+  "prompt": "「حصى」の意味は？",
+  "answer": "pebble",
+  "glosses": {
+   "en": "pebble",
+   "ja": "小石"
+  },
+  "choices": [
+   "customer",
+   "protein",
+   "boxer",
+   "pebble"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ħa.sˤan/",
+  "verified": true
+ },
+ {
+  "id": "ar-00792",
+  "category": "arabic",
+  "prompt": "「مغارة」の意味は？",
+  "answer": "grotto",
+  "glosses": {
+   "en": "grotto",
+   "ja": "岩穴"
+  },
+  "choices": [
+   "carpet",
+   "vegetables",
+   "knee",
+   "grotto"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ar-00793",
+  "category": "arabic",
+  "prompt": "「مصيدة」の意味は？",
+  "answer": "trap",
+  "glosses": {
+   "en": "trap",
+   "ja": "わな"
+  },
+  "choices": [
+   "physics",
+   "trap",
+   "reactor",
+   "slight"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ar-00794",
+  "category": "arabic",
+  "prompt": "「مخفر」の意味は？",
+  "answer": "police station",
+  "glosses": {
+   "en": "police station",
+   "ja": "警察署"
+  },
+  "choices": [
+   "unemployment",
+   "police station",
+   "clown",
+   "spring"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/max.far/",
+  "verified": true
+ },
+ {
+  "id": "ar-00795",
+  "category": "arabic",
+  "prompt": "「ترسانة」の意味は？",
+  "answer": "arsenal",
+  "glosses": {
+   "en": "arsenal",
+   "ja": "兵器庫"
+  },
+  "choices": [
+   "to justify",
+   "beer",
+   "arsenal",
+   "tame"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/tir.saː.na/",
+  "verified": true
+ },
+ {
+  "id": "ar-00796",
+  "category": "arabic",
+  "prompt": "「حسرة」の意味は？",
+  "answer": "sorrow",
+  "glosses": {
+   "en": "sorrow",
+   "ja": "嘆き"
+  },
+  "choices": [
+   "sorrow",
+   "instinct",
+   "to violate",
+   "comedy"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ħas.ra/",
+  "verified": true
+ },
+ {
+  "id": "ar-00797",
+  "category": "arabic",
+  "prompt": "「سباك」の意味は？",
+  "answer": "plumber",
+  "glosses": {
+   "en": "plumber",
+   "ja": "配管工"
+  },
+  "choices": [
+   "cloud",
+   "gland",
+   "telegram",
+   "plumber"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/sab.baːk/",
+  "verified": true
+ },
+ {
+  "id": "ar-00798",
+  "category": "arabic",
+  "prompt": "「مناضل」の意味は？",
+  "answer": "activist",
+  "glosses": {
+   "en": "activist",
+   "ja": "闘士"
+  },
+  "choices": [
+   "stormy",
+   "activist",
+   "incubator",
+   "sand"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mu.naː.dˤil/",
+  "verified": true
+ },
+ {
+  "id": "ar-00799",
+  "category": "arabic",
+  "prompt": "「بخاخ」の意味は？",
+  "answer": "sprayer",
+  "glosses": {
+   "en": "sprayer",
+   "ja": "噴霧器"
+  },
+  "choices": [
+   "cumin",
+   "sprayer",
+   "nightmare",
+   "alcohol"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bax.xaːx/",
+  "verified": true
+ },
+ {
+  "id": "ar-00800",
+  "category": "arabic",
+  "prompt": "「لفظي」の意味は？",
+  "answer": "verbal",
+  "glosses": {
+   "en": "verbal",
+   "ja": "言葉の"
+  },
+  "choices": [
+   "knife",
+   "voter",
+   "verbal",
+   "magnetism"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/laf.ðˤijj/",
+  "verified": true
+ },
+ {
+  "id": "ar-00801",
+  "category": "arabic",
+  "prompt": "「قلص」の意味は？",
+  "answer": "to reduce",
+  "glosses": {
+   "en": "to reduce",
+   "ja": "削減する"
+  },
+  "choices": [
+   "praise",
+   "to reduce",
+   "revolutionary",
+   "neck"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/qal.la.sˤa/",
+  "verified": true
+ },
+ {
+  "id": "ar-00802",
+  "category": "arabic",
+  "prompt": "「طبلة」の意味は？",
+  "answer": "drum",
+  "glosses": {
+   "en": "drum",
+   "ja": "太鼓"
+  },
+  "choices": [
+   "drum",
+   "fertility",
+   "to kidnap",
+   "potato"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ar-00803",
+  "category": "arabic",
+  "prompt": "「عنكبوت」の意味は？",
+  "answer": "spider",
+  "glosses": {
+   "en": "spider",
+   "ja": "クモ"
+  },
+  "choices": [
+   "fog",
+   "fan",
+   "to taste",
+   "spider"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʕan.ka.buːt/",
+  "verified": true
+ },
+ {
+  "id": "ar-00804",
+  "category": "arabic",
+  "prompt": "「بيرة」の意味は？",
+  "answer": "beer",
+  "glosses": {
+   "en": "beer",
+   "ja": "ビール"
+  },
+  "choices": [
+   "to sink",
+   "ship captain",
+   "liberal",
+   "beer"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/biː.ra/",
+  "verified": true
+ },
+ {
+  "id": "ar-00805",
+  "category": "arabic",
+  "prompt": "「يورانيوم」の意味は？",
+  "answer": "uranium",
+  "glosses": {
+   "en": "uranium",
+   "ja": "ウラン"
+  },
+  "choices": [
+   "garbage",
+   "swamp",
+   "bucket",
+   "uranium"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/juː.raː.ni.juːm/",
+  "verified": true
+ },
+ {
+  "id": "ar-00806",
+  "category": "arabic",
+  "prompt": "「ركبة」の意味は？",
+  "answer": "knee",
+  "glosses": {
+   "en": "knee",
+   "ja": "ひざ"
+  },
+  "choices": [
+   "ignorant",
+   "knee",
+   "icy",
+   "cassette"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ruk.ba/",
+  "verified": true
+ },
+ {
+  "id": "ar-00807",
+  "category": "arabic",
+  "prompt": "「صرصور」の意味は？",
+  "answer": "cockroach",
+  "glosses": {
+   "en": "cockroach",
+   "ja": "ゴキブリ"
+  },
+  "choices": [
+   "sand",
+   "to replace",
+   "barber",
+   "cockroach"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/sˤur.sˤuːr/",
+  "verified": true
+ },
+ {
+  "id": "ar-00808",
+  "category": "arabic",
+  "prompt": "「أيون」の意味は？",
+  "answer": "ion",
+  "glosses": {
+   "en": "ion",
+   "ja": "イオン"
+  },
+  "choices": [
+   "cockroach",
+   "brain",
+   "sauce",
+   "ion"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʔa.juːn/",
+  "verified": true
+ },
+ {
+  "id": "ar-00809",
+  "category": "arabic",
+  "prompt": "「أبدل」の意味は？",
+  "answer": "to replace",
+  "glosses": {
+   "en": "to replace",
+   "ja": "取り替える"
+  },
+  "choices": [
+   "to replace",
+   "dagger",
+   "hanger",
+   "bakery"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ar-00810",
+  "category": "arabic",
+  "prompt": "「سمنة」の意味は？",
+  "answer": "obesity",
+  "glosses": {
+   "en": "obesity",
+   "ja": "肥満"
+  },
+  "choices": [
+   "lair",
+   "obesity",
+   "technical",
+   "inauguration"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/sum.na/",
+  "verified": true
+ },
+ {
+  "id": "ar-00811",
+  "category": "arabic",
+  "prompt": "「فشار」の意味は？",
+  "answer": "popcorn",
+  "glosses": {
+   "en": "popcorn",
+   "ja": "ポップコーン"
+  },
+  "choices": [
+   "popcorn",
+   "vanguard",
+   "to save",
+   "kindly"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ar-00812",
+  "category": "arabic",
+  "prompt": "「خوارزمية」の意味は？",
+  "answer": "algorithm",
+  "glosses": {
+   "en": "algorithm",
+   "ja": "アルゴリズム"
+  },
+  "choices": [
+   "lazy",
+   "algorithm",
+   "magnetism",
+   "experimental"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ar-00813",
+  "category": "arabic",
+  "prompt": "「رخام」の意味は？",
+  "answer": "marble",
+  "glosses": {
+   "en": "marble",
+   "ja": "大理石"
+  },
+  "choices": [
+   "marble",
+   "drum",
+   "legislator",
+   "grotto"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ru.xaːm/",
+  "verified": true
+ },
+ {
+  "id": "ar-00814",
+  "category": "arabic",
+  "prompt": "「سحلية」の意味は？",
+  "answer": "lizard",
+  "glosses": {
+   "en": "lizard",
+   "ja": "トカゲ"
+  },
+  "choices": [
+   "scooter",
+   "focus",
+   "drum",
+   "lizard"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/siħ.lij.ja/",
+  "verified": true
+ },
+ {
+  "id": "ar-00815",
+  "category": "arabic",
+  "prompt": "「بخور」の意味は？",
+  "answer": "incense",
+  "glosses": {
+   "en": "incense",
+   "ja": "お香"
+  },
+  "choices": [
+   "incense",
+   "gland",
+   "scarf",
+   "needle"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ar-00816",
+  "category": "arabic",
+  "prompt": "「عرين」の意味は？",
+  "answer": "lair",
+  "glosses": {
+   "en": "lair",
+   "ja": "ライオンの巣"
+  },
+  "choices": [
+   "alcohol",
+   "activist",
+   "hairstyle",
+   "lair"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʕa.riːn/",
+  "verified": true
+ },
+ {
+  "id": "ar-00817",
+  "category": "arabic",
+  "prompt": "「انتهك」の意味は？",
+  "answer": "to violate",
+  "glosses": {
+   "en": "to violate",
+   "ja": "侵害する"
+  },
+  "choices": [
+   "disgusting",
+   "to violate",
+   "tendency",
+   "to walk"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/in.ta.ha.ka/",
+  "verified": true
+ },
+ {
+  "id": "ar-00818",
+  "category": "arabic",
+  "prompt": "「شاور」の意味は？",
+  "answer": "to consult",
+  "glosses": {
+   "en": "to consult",
+   "ja": "相談する"
+  },
+  "choices": [
+   "pants",
+   "to consult",
+   "turtle",
+   "park"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʃaː.wa.ra/",
+  "verified": true
+ },
+ {
+  "id": "ar-00819",
+  "category": "arabic",
+  "prompt": "「تعسفي」の意味は？",
+  "answer": "arbitrary",
+  "glosses": {
+   "en": "arbitrary",
+   "ja": "恣意的な"
+  },
+  "choices": [
+   "tendency",
+   "ammunition",
+   "arbitrary",
+   "turtle"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ta.ʕas.su.fijj/",
+  "verified": true
+ },
+ {
+  "id": "ar-00820",
+  "category": "arabic",
+  "prompt": "「كاسيت」の意味は？",
+  "answer": "cassette",
+  "glosses": {
+   "en": "cassette",
+   "ja": "カセット"
+  },
+  "choices": [
+   "cassette",
+   "carpet",
+   "cement",
+   "anecdote"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kaː.siːt/",
+  "verified": true
+ },
+ {
+  "id": "ar-00821",
+  "category": "arabic",
+  "prompt": "「معاون」の意味は？",
+  "answer": "aide",
+  "glosses": {
+   "en": "aide",
+   "ja": "補佐役"
+  },
+  "choices": [
+   "drum",
+   "monk",
+   "projectile",
+   "aide"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mu.ʕaː.win/",
+  "verified": true
+ },
+ {
+  "id": "ar-00822",
+  "category": "arabic",
+  "prompt": "「سمسار」の意味は？",
+  "answer": "broker",
+  "glosses": {
+   "en": "broker",
+   "ja": "仲買人"
+  },
+  "choices": [
+   "scrap",
+   "parrot",
+   "broker",
+   "integrity"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/sim.saːr/",
+  "verified": true
+ },
+ {
+  "id": "ar-00823",
+  "category": "arabic",
+  "prompt": "「تلغراف」の意味は？",
+  "answer": "telegraph",
+  "glosses": {
+   "en": "telegraph",
+   "ja": "電信"
+  },
+  "choices": [
+   "mill",
+   "to violate",
+   "telegraph",
+   "faded"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ti.liɣ.raːf/",
+  "verified": true
+ },
+ {
+  "id": "ar-00824",
+  "category": "arabic",
+  "prompt": "「وقح」の意味は？",
+  "answer": "shameless",
+  "glosses": {
+   "en": "shameless",
+   "ja": "恥知らずな"
+  },
+  "choices": [
+   "dark-colored",
+   "farce",
+   "shameless",
+   "consulate"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/wa.qiħ/",
+  "verified": true
+ },
+ {
+  "id": "ar-00825",
+  "category": "arabic",
+  "prompt": "「انحطاط」の意味は？",
+  "answer": "decadence",
+  "glosses": {
+   "en": "decadence",
+   "ja": "堕落"
+  },
+  "choices": [
+   "to recover",
+   "fashion",
+   "decadence",
+   "eternity"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/in.ħi.tˤaːtˤ/",
+  "verified": true
+ },
+ {
+  "id": "ar-00826",
+  "category": "arabic",
+  "prompt": "「سكوتر」の意味は？",
+  "answer": "scooter",
+  "glosses": {
+   "en": "scooter",
+   "ja": "スクーター"
+  },
+  "choices": [
+   "clash",
+   "to dispute",
+   "scooter",
+   "park"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/skuː.tar/",
+  "verified": true
+ },
+ {
+  "id": "ar-00827",
+  "category": "arabic",
+  "prompt": "「بيولوجيا」の意味は？",
+  "answer": "biology",
+  "glosses": {
+   "en": "biology",
+   "ja": "生物学"
+  },
+  "choices": [
+   "apple",
+   "to complain",
+   "biology",
+   "pants"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bi.juː.luː.d͡ʒi.jaː/",
+  "verified": true
+ },
+ {
+  "id": "ar-00828",
+  "category": "arabic",
+  "prompt": "「كمون」の意味は？",
+  "answer": "cumin",
+  "glosses": {
+   "en": "cumin",
+   "ja": "クミン"
+  },
+  "choices": [
+   "experimental",
+   "reactor",
+   "cumin",
+   "farce"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kam.muːn/",
+  "verified": true
+ },
+ {
+  "id": "ar-00829",
+  "category": "arabic",
+  "prompt": "「مقص」の意味は？",
+  "answer": "scissors",
+  "glosses": {
+   "en": "scissors",
+   "ja": "はさみ"
+  },
+  "choices": [
+   "scissors",
+   "cooperative",
+   "circus",
+   "bakery"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mi.qasˤsˤ/",
+  "verified": true
+ },
+ {
+  "id": "ar-00830",
+  "category": "arabic",
+  "prompt": "「منشار」の意味は？",
+  "answer": "saw",
+  "glosses": {
+   "en": "saw",
+   "ja": "のこぎり"
+  },
+  "choices": [
+   "mythical",
+   "clown",
+   "saw",
+   "monk"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/min.ʃaːr/",
+  "verified": true
+ },
+ {
+  "id": "ar-00831",
+  "category": "arabic",
+  "prompt": "「طباخ」の意味は？",
+  "answer": "cook",
+  "glosses": {
+   "en": "cook",
+   "ja": "料理人"
+  },
+  "choices": [
+   "migrant",
+   "cook",
+   "hanger",
+   "to collide"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/tˤab.baːx/",
+  "verified": true
+ },
+ {
+  "id": "ar-00832",
+  "category": "arabic",
+  "prompt": "「أخضع」の意味は？",
+  "answer": "to subdue",
+  "glosses": {
+   "en": "to subdue",
+   "ja": "服従させる"
+  },
+  "choices": [
+   "to summarize",
+   "to subdue",
+   "brain",
+   "muscle"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ar-00833",
+  "category": "arabic",
+  "prompt": "「صيدلي」の意味は？",
+  "answer": "pharmacist",
+  "glosses": {
+   "en": "pharmacist",
+   "ja": "薬剤師"
+  },
+  "choices": [
+   "sewing",
+   "vegetables",
+   "silliness",
+   "pharmacist"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/sˤaj.da.lijj/",
+  "verified": true
+ },
+ {
+  "id": "ar-00834",
+  "category": "arabic",
+  "prompt": "「غدة」の意味は？",
+  "answer": "gland",
+  "glosses": {
+   "en": "gland",
+   "ja": "腺"
+  },
+  "choices": [
+   "pharmacist",
+   "wrestler",
+   "gland",
+   "alcohol"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɣud.da/",
+  "verified": true
+ },
+ {
+  "id": "ar-00835",
+  "category": "arabic",
+  "prompt": "「مغناطيسية」の意味は？",
+  "answer": "magnetism",
+  "glosses": {
+   "en": "magnetism",
+   "ja": "磁気"
+  },
+  "choices": [
+   "slow",
+   "balloon",
+   "magnetism",
+   "tame"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/miɣ.naː.tˤiː.sij.ja/",
+  "verified": true
+ },
+ {
+  "id": "ar-00836",
+  "category": "arabic",
+  "prompt": "「خرافي」の意味は？",
+  "answer": "mythical",
+  "glosses": {
+   "en": "mythical",
+   "ja": "神話的な"
+  },
+  "choices": [
+   "to break",
+   "hardline",
+   "boxer",
+   "mythical"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/xu.raː.fijj/",
+  "verified": true
+ },
+ {
+  "id": "ar-00837",
+  "category": "arabic",
+  "prompt": "「شماعة」の意味は？",
+  "answer": "hanger",
+  "glosses": {
+   "en": "hanger",
+   "ja": "ハンガー"
+  },
+  "choices": [
+   "garbage",
+   "robot",
+   "burrow",
+   "hanger"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʃam.maː.ʕa/",
+  "verified": true
+ },
+ {
+  "id": "ar-00838",
+  "category": "arabic",
+  "prompt": "「باخرة」の意味は？",
+  "answer": "steamship",
+  "glosses": {
+   "en": "steamship",
+   "ja": "汽船"
+  },
+  "choices": [
+   "sauce",
+   "steamship",
+   "fence",
+   "obesity"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ar-00839",
+  "category": "arabic",
+  "prompt": "「صدرية」の意味は？",
+  "answer": "vest",
+  "glosses": {
+   "en": "vest",
+   "ja": "ベスト"
+  },
+  "choices": [
+   "drum",
+   "scooter",
+   "vest",
+   "scrap"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/sˤad.rij.ja/",
+  "verified": true
+ },
+ {
+  "id": "ar-00840",
+  "category": "arabic",
+  "prompt": "「مغامر」の意味は？",
+  "answer": "adventurer",
+  "glosses": {
+   "en": "adventurer",
+   "ja": "冒険家"
+  },
+  "choices": [
+   "ion",
+   "fresh",
+   "adventurer",
+   "gorilla"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mu.ɣaː.mir/",
+  "verified": true
+ },
+ {
+  "id": "ar-00841",
+  "category": "arabic",
+  "prompt": "「عناد」の意味は？",
+  "answer": "obstinacy",
+  "glosses": {
+   "en": "obstinacy",
+   "ja": "頑固さ"
+  },
+  "choices": [
+   "shorts",
+   "pebble",
+   "obstinacy",
+   "verbal"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʕi.naːd/",
+  "verified": true
+ },
+ {
+  "id": "ar-00842",
+  "category": "arabic",
+  "prompt": "「مستفيد」の意味は？",
+  "answer": "beneficiary",
+  "glosses": {
+   "en": "beneficiary",
+   "ja": "受益者"
+  },
+  "choices": [
+   "voluntarily",
+   "chocolate",
+   "beneficiary",
+   "technical"
+  ],
+  "difficulty": 2,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mus.ta.fiːd/",
+  "verified": true
+ }
+]

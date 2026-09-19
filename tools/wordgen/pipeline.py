@@ -29,6 +29,7 @@ LANGS = {
     'ko': ('Korean', 'korean'), 'es': ('Spanish', 'spanish'), 'fr': ('French', 'french'),
     'de': ('German', 'german'), 'pt': ('Portuguese', 'portuguese'), 'ru': ('Russian', 'russian'),
     'pl': ('Polish', 'polish'), 'hi': ('Hindi', 'hindi'), 'ar': ('Arabic', 'arabic'),
+    'tl': ('Tagalog', 'tagalog'), 'it': ('Italian', 'italian'),
 }
 BAD_POS = {'conj', 'prep', 'postp', 'particle', 'pron', 'num', 'det', 'intj', 'prefix',
            'suffix', 'infix', 'character', 'punct', 'symbol', 'name', 'phrase', 'proverb', 'article'}
@@ -212,7 +213,10 @@ def run(code, wb, ej):
             drop['同綴異義'] += 1
             continue
         e, gl = ok[0]
-        if len(gl) > 2 or len(gl[0].split()) > 4:
+        # 語義は「to arrive; to come; to reach」のように同義語を並べることがある。
+        # 語数を数えるのは「;」「,」で切った最初の語義だけにする(長文の誤判定を防ぐ)
+        first_sense = re.split(r'[;,/(]', gl[0])[0].strip()
+        if len(gl) > 2 or len(first_sense.split()) > 4:
             drop['多義・長文'] += 1
             continue
         if modern_score(w, code) < ZIPF_MIN:      # ★現代語フィルタ
@@ -251,7 +255,7 @@ def run(code, wb, ej):
 
     json.dump(rows, open(os.path.join(CACHE, f'cand-{code}.json'), 'w', encoding='utf-8'),
               ensure_ascii=False, indent=1)
-    bdir = os.path.join(CACHE, f'batches_{code}')
+    bdir = os.path.join(CACHE, f'batches_raw_{code}')  # 判定用(make_batches.py)と混ざらないよう別名
     os.makedirs(bdir, exist_ok=True)
     for f in glob.glob(os.path.join(bdir, '*')):
         os.remove(f)
