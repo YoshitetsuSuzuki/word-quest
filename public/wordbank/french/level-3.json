@@ -8993,5 +8993,555 @@
   "pronunciation": "prof",
   "example": "C'est mon prof. — 彼は私の先生です。",
   "exampleForm": "prof"
+ },
+ {
+  "id": "fr-03128",
+  "category": "french",
+  "prompt": "「malchanceux」の意味は？",
+  "answer": "unlucky",
+  "glosses": {
+   "en": "unlucky",
+   "ja": "不運な"
+  },
+  "choices": [
+   "to scrub",
+   "bulldog",
+   "unlucky",
+   "to label"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mal.ʃɑ̃.sø/",
+  "verified": true
+ },
+ {
+  "id": "fr-03129",
+  "category": "french",
+  "prompt": "「potage」の意味は？",
+  "answer": "thick soup",
+  "glosses": {
+   "en": "thick soup",
+   "ja": "ポタージュ"
+  },
+  "choices": [
+   "thick soup",
+   "bulldog",
+   "clam",
+   "sage"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pɔ.taʒ/",
+  "verified": true
+ },
+ {
+  "id": "fr-03130",
+  "category": "french",
+  "prompt": "「hareng」の意味は？",
+  "answer": "herring",
+  "glosses": {
+   "en": "herring",
+   "ja": "ニシン"
+  },
+  "choices": [
+   "herring",
+   "sage",
+   "paddle",
+   "unlucky"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/a.ʁɑ̃/",
+  "verified": true
+ },
+ {
+  "id": "fr-03131",
+  "category": "french",
+  "prompt": "「angoissant」の意味は？",
+  "answer": "distressing",
+  "glosses": {
+   "en": "distressing",
+   "ja": "不安にさせる"
+  },
+  "choices": [
+   "unlucky",
+   "to scrub",
+   "ankle boot",
+   "distressing"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɑ̃.ɡwa.sɑ̃/",
+  "verified": true
+ },
+ {
+  "id": "fr-03132",
+  "category": "french",
+  "prompt": "「sauge」の意味は？",
+  "answer": "sage",
+  "glosses": {
+   "en": "sage",
+   "ja": "セージ"
+  },
+  "choices": [
+   "disloyal",
+   "sage",
+   "distressing",
+   "to snow"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/soʒ/",
+  "verified": true
+ },
+ {
+  "id": "fr-03133",
+  "category": "french",
+  "prompt": "「nageoire」の意味は？",
+  "answer": "fin",
+  "glosses": {
+   "en": "fin",
+   "ja": "ひれ"
+  },
+  "choices": [
+   "sage",
+   "slender",
+   "disloyal",
+   "fin"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/na.ʒwaʁ/",
+  "verified": true
+ },
+ {
+  "id": "fr-03134",
+  "category": "french",
+  "prompt": "「grillon」の意味は？",
+  "answer": "cricket",
+  "glosses": {
+   "en": "cricket",
+   "ja": "コオロギ"
+  },
+  "choices": [
+   "cricket",
+   "paddle",
+   "herring",
+   "bulldog"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɡʁi.jɔ̃/",
+  "verified": true
+ },
+ {
+  "id": "fr-03135",
+  "category": "french",
+  "prompt": "「pagaie」の意味は？",
+  "answer": "paddle",
+  "glosses": {
+   "en": "paddle",
+   "ja": "パドル"
+  },
+  "choices": [
+   "paddle",
+   "to label",
+   "to snow",
+   "distressing"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pa.ɡɛ/",
+  "verified": true
+ },
+ {
+  "id": "fr-03136",
+  "category": "french",
+  "prompt": "「bouledogue」の意味は？",
+  "answer": "bulldog",
+  "glosses": {
+   "en": "bulldog",
+   "ja": "ブルドッグ"
+  },
+  "choices": [
+   "bulldog",
+   "unlucky",
+   "sage",
+   "herring"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bul.dɔɡ/",
+  "verified": true
+ },
+ {
+  "id": "fr-03137",
+  "category": "french",
+  "prompt": "「calmar」の意味は？",
+  "answer": "squid",
+  "glosses": {
+   "en": "squid",
+   "ja": "イカ"
+  },
+  "choices": [
+   "distressing",
+   "thick soup",
+   "paddle",
+   "squid"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kal.maʁ/",
+  "verified": true
+ },
+ {
+  "id": "fr-03138",
+  "category": "french",
+  "prompt": "「rugir」の意味は？",
+  "answer": "to roar",
+  "glosses": {
+   "en": "to roar",
+   "ja": "咆哮する"
+  },
+  "choices": [
+   "herring",
+   "to curdle",
+   "to roar",
+   "disloyal"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʁy.ʒiʁ/",
+  "verified": true
+ },
+ {
+  "id": "fr-03139",
+  "category": "french",
+  "prompt": "「bottine」の意味は？",
+  "answer": "ankle boot",
+  "glosses": {
+   "en": "ankle boot",
+   "ja": "ショートブーツ"
+  },
+  "choices": [
+   "mousetrap",
+   "ankle boot",
+   "slender",
+   "offensive"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bɔ.tin/",
+  "verified": true
+ },
+ {
+  "id": "fr-03140",
+  "category": "french",
+  "prompt": "「lanière」の意味は？",
+  "answer": "strap",
+  "glosses": {
+   "en": "strap",
+   "ja": "ストラップ"
+  },
+  "choices": [
+   "fin",
+   "strap",
+   "disloyal",
+   "slender"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/la.njɛʁ/",
+  "verified": true
+ },
+ {
+  "id": "fr-03141",
+  "category": "french",
+  "prompt": "「récurer」の意味は？",
+  "answer": "to scrub",
+  "glosses": {
+   "en": "to scrub",
+   "ja": "ごしごし洗う"
+  },
+  "choices": [
+   "offensive",
+   "to roar",
+   "to scrub",
+   "distressing"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʁe.ky.ʁe/",
+  "verified": true
+ },
+ {
+  "id": "fr-03142",
+  "category": "french",
+  "prompt": "「palourde」の意味は？",
+  "answer": "clam",
+  "glosses": {
+   "en": "clam",
+   "ja": "ハマグリ"
+  },
+  "choices": [
+   "clam",
+   "distressing",
+   "to roar",
+   "offensive"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pa.luʁd/",
+  "verified": true
+ },
+ {
+  "id": "fr-03143",
+  "category": "french",
+  "prompt": "「déloyal」の意味は？",
+  "answer": "disloyal",
+  "glosses": {
+   "en": "disloyal",
+   "ja": "不忠実な"
+  },
+  "choices": [
+   "disloyal",
+   "to label",
+   "bulldog",
+   "mousetrap"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/de.lwa.jal/",
+  "verified": true
+ },
+ {
+  "id": "fr-03144",
+  "category": "french",
+  "prompt": "「neiger」の意味は？",
+  "answer": "to snow",
+  "glosses": {
+   "en": "to snow",
+   "ja": "雪が降る"
+  },
+  "choices": [
+   "to label",
+   "to snow",
+   "thick soup",
+   "sage"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/nɛ.ʒe/",
+  "verified": true
+ },
+ {
+  "id": "fr-03145",
+  "category": "french",
+  "prompt": "「geai」の意味は？",
+  "answer": "jay",
+  "glosses": {
+   "en": "jay",
+   "ja": "カケス"
+  },
+  "choices": [
+   "herring",
+   "to scrub",
+   "jay",
+   "paddle"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʒɛ/",
+  "verified": true
+ },
+ {
+  "id": "fr-03146",
+  "category": "french",
+  "prompt": "「étiqueter」の意味は？",
+  "answer": "to label",
+  "glosses": {
+   "en": "to label",
+   "ja": "ラベルをはる"
+  },
+  "choices": [
+   "to label",
+   "sage",
+   "to scrub",
+   "bulldog"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/e.tik.te/",
+  "verified": true
+ },
+ {
+  "id": "fr-03147",
+  "category": "french",
+  "prompt": "「grive」の意味は？",
+  "answer": "thrush",
+  "glosses": {
+   "en": "thrush",
+   "ja": "ツグミ"
+  },
+  "choices": [
+   "thrush",
+   "to roar",
+   "unlucky",
+   "clam"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɡʁiv/",
+  "verified": true
+ },
+ {
+  "id": "fr-03148",
+  "category": "french",
+  "prompt": "「souricière」の意味は？",
+  "answer": "mousetrap",
+  "glosses": {
+   "en": "mousetrap",
+   "ja": "ネズミ取り器"
+  },
+  "choices": [
+   "to label",
+   "mousetrap",
+   "fin",
+   "clam"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/su.ʁi.sjɛʁ/",
+  "verified": true
+ },
+ {
+  "id": "fr-03149",
+  "category": "french",
+  "prompt": "「cailler」の意味は？",
+  "answer": "to curdle",
+  "glosses": {
+   "en": "to curdle",
+   "ja": "凝固する"
+  },
+  "choices": [
+   "unlucky",
+   "to curdle",
+   "paddle",
+   "to label"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ka.je/",
+  "verified": true
+ },
+ {
+  "id": "fr-03150",
+  "category": "french",
+  "prompt": "「bourdonner」の意味は？",
+  "answer": "to buzz",
+  "glosses": {
+   "en": "to buzz",
+   "ja": "ブンブンいう"
+  },
+  "choices": [
+   "to curdle",
+   "to roar",
+   "to buzz",
+   "clam"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/buʁ.dɔ.ne/",
+  "verified": true
+ },
+ {
+  "id": "fr-03151",
+  "category": "french",
+  "prompt": "「offensant」の意味は？",
+  "answer": "offensive",
+  "glosses": {
+   "en": "offensive",
+   "ja": "侮辱的な"
+  },
+  "choices": [
+   "clam",
+   "to buzz",
+   "bulldog",
+   "offensive"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɔ.fɑ̃.sɑ̃/",
+  "verified": true
+ },
+ {
+  "id": "fr-03152",
+  "category": "french",
+  "prompt": "「svelte」の意味は？",
+  "answer": "slender",
+  "glosses": {
+   "en": "slender",
+   "ja": "ほっそりした"
+  },
+  "choices": [
+   "slender",
+   "paddle",
+   "distressing",
+   "fin"
+  ],
+  "difficulty": 3,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/svɛlt/",
+  "verified": true
  }
 ]
