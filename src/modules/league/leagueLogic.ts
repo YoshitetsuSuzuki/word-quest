@@ -137,6 +137,8 @@ export function settleLeague(user: User, today: string): LeagueSettleResult {
     toTier = fromTier - 1
     relegated = true
   }
-  const settled: User = { ...user, leagueTier: toTier, weeklyPoints: 0, weekStart: curWeek }
+  // weeklyWords（フレンドランキングの軸2）もここでリセットする。週の切り替わりを
+  // 二か所で判定すると必ずずれるので、リーグ精算と同じ契機に寄せている。
+  const settled: User = { ...user, leagueTier: toTier, weeklyPoints: 0, weeklyWords: 0, weekStart: curWeek }
   return { user: settled, outcome: { promoted, relegated, rank, fromTier, toTier } }
 }

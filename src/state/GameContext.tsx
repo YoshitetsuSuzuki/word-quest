@@ -160,6 +160,7 @@ function migrate(u: User): User {
       ),
     ],
     weeklyPoints: num(u.weeklyPoints ?? 0),
+    weeklyWords: u.weeklyWords ?? 0,
     weekStart: u.weekStart ?? weekStartOf(todayStr()),
     leagueTier: num(u.leagueTier ?? 0),
   }
@@ -369,6 +370,9 @@ export function GameProvider({ children }: { children: ReactNode }) {
           pets: u.pets.map((p, i) => (i === u.activePet ? { ...p, xp: Math.min(PET_MAX_XP, p.xp + reward.xp) } : p)),
           // 週次リーグ: 今週のポイントに獲得XPを加算
           weeklyPoints: u.weeklyPoints + gainedXp,
+          // フレンドランキングの軸2。正解1問=1語として数える(復習も加算する。
+          // 「今週どれだけ手を動かしたか」を見せたいので、新規語に絞らない)
+          weeklyWords: u.weeklyWords + 1,
         }
 
         // --- レイド貢献（初回貢献ならミッションjoinRaidも進める） ---

@@ -63,7 +63,7 @@ export interface Strings {
   'profile.feedback': string; 'profile.reset': string; 'profile.resetConfirm': string
   'common.back': string
   'rank.title': string; 'rank.coin': string; 'rank.elo': string; 'rank.today': string; 'rank.correct': string
-  'rank.unit': string; 'rank.yourRank': string; 'rank.rankSuffix': string; 'rank.you': string
+  'rank.unit': string; 'rank.yourRank': string; 'rank.rankSuffix': string; 'rank.friends': string; 'rank.you': string
   'battle.title': string; 'battle.you': string; 'battle.vs': string
   'battle.ruleQPre': string; 'battle.ruleQPost': string; 'battle.ruleReward': string; 'battle.ruleFeePre': string
   'battle.joinPre': string; 'battle.joinPost': string; 'battle.notEnough': string

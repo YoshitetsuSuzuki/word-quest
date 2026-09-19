@@ -54,6 +54,7 @@ export function createDefaultUser(name = 'Player'): User {
     gems: 0,
     ownedSpecies: [],
     weeklyPoints: 0,
+    weeklyWords: 0,
     weekStart: weekStartOf(today),
     leagueTier: 0,
   }

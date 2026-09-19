@@ -60,7 +60,7 @@ export const ja: Strings = {
   'profile.feedback': '📮 誤りの報告・ご要望', 'profile.reset': 'データを初期化', 'profile.resetConfirm': 'データを初期化しますか？この操作は取り消せません。',
   'common.back': 'もどる',
   'rank.title': '🏆 ランキング', 'rank.coin': '累計コイン', 'rank.elo': 'レート', 'rank.today': '今日', 'rank.correct': '正解数',
-  'rank.unit': '問', 'rank.yourRank': 'あなたの順位', 'rank.rankSuffix': '位', 'rank.you': '(あなた)',
+  'rank.unit': '問', 'rank.yourRank': 'あなたの順位', 'rank.rankSuffix': '位', 'rank.friends': 'フレンド', 'rank.you': '(あなた)',
   'battle.title': '⚔️ 非同期バトル', 'battle.you': 'あなた', 'battle.vs': 'VS',
   'battle.ruleQPre': '・全 ', 'battle.ruleQPost': ' 問。正答数と回答速度でスコアが決まる', 'battle.ruleReward': '・勝利で 🪙+60 とレート上昇 / 敗北で 🪙+10', 'battle.ruleFeePre': '・参加費 🪙',
   'battle.joinPre': '参加する（🪙', 'battle.joinPost': '）', 'battle.notEnough': 'コインが足りません',

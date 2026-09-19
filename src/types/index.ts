@@ -154,6 +154,8 @@ export interface User {
   // --- 週次リーグ(ソーシャル競争・リテンション) ---
   /** 今週のリーグポイント（正解の獲得XPぶん加算。週替わりでリセット） */
   weeklyPoints: number
+  /** 今週学習した語数（weekStart が変わるとリセット）。フレンドランキングの軸2 */
+  weeklyWords: number
   /** 今週の起点（月曜, YYYY-MM-DD）。変わると精算＆昇降格 */
   weekStart: string
   /** リーグ階級 0=ブロンズ … 5=ダイヤ */

@@ -1,4 +1,5 @@
 import { useState } from 'react'
+import { FriendsPanel } from '../modules/friends/FriendsPanel'
 import { useGame } from '../state/GameContext'
 import { useNav } from '../state/nav'
 import { buildRanking, myRank } from '../modules/ranking/rankingLogic'
@@ -15,8 +16,10 @@ const tabs: { kind: RankingKind; labelKey: keyof Strings; unitKey?: keyof String
 export function RankingScreen() {
   const { user } = useGame()
   const { t } = useNav()
-  const [kind, setKind] = useState<RankingKind>('coin')
-  const entries = buildRanking(user, kind)
+  // 'friends' はフレンド機能。既存の4つと並べて出すことで、ランキングを見に来た人が
+  // 自然に見つけられるようにする（下部タブは5つで埋まっているため増やさない）。
+  const [kind, setKind] = useState<RankingKind | 'friends'>('coin')
+  const entries = buildRanking(user, kind === 'friends' ? 'coin' : kind)
   const rank = myRank(entries)
 
   return (
@@ -24,6 +27,14 @@ export function RankingScreen() {
       <h2 className="text-xl font-black">{t('rank.title')}</h2>
 
       <div className="flex gap-1.5">
+        <button
+          onClick={() => setKind('friends')}
+          className={`flex-1 py-2 rounded-lg text-xs font-bold transition ${
+            kind === 'friends' ? 'bg-accent text-white' : 'bg-panel2 text-white/50'
+          }`}
+        >
+          👥 {t('rank.friends')}
+        </button>
         {tabs.map((tb) => (
           <button
             key={tb.kind}
@@ -37,6 +48,10 @@ export function RankingScreen() {
         ))}
       </div>
 
+      {kind === 'friends' ? (
+        <FriendsPanel />
+      ) : (
+        <>
       <div className="card p-3 flex items-center justify-between">
         <span className="text-sm text-white/60">{t('rank.yourRank')}</span>
         <span className="text-lg font-black text-accent2">{rank} {t('rank.rankSuffix')}</span>
@@ -63,6 +78,8 @@ export function RankingScreen() {
           </div>
         ))}
       </div>
+        </>
+      )}
     </div>
   )
 }
