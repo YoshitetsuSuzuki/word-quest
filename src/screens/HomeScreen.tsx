@@ -10,6 +10,7 @@ import { WeeklyChart } from '../components/WeeklyChart'
 import { PetWidget } from '../components/PetWidget'
 import { UpdateBanner } from '../components/UpdateBanner'
 import { categories } from '../data/categories'
+import { usePinnedCategories } from '../state/pinnedCategories'
 import { todayStr } from '../state/dateUtils'
 import { LEAGUES, standings, myRank } from '../modules/league/leagueLogic'
 import { WidgetService } from '../services/WidgetService'
@@ -27,7 +28,8 @@ export function HomeScreen() {
   const { navigate, setQuizMode, setCustomIds, category, setCategory, studyLevel, setStudyLevel, t, locale } = useNav()
 
   // その母語で学べるジャンルだけ表示する(availableLocales でデータ駆動)。
-  const localeCats = categories.filter((c) => c.availableLocales.includes(locale))
+  const { isPinned, toggle: togglePin, sortPinnedFirst } = usePinnedCategories()
+  const localeCats = sortPinnedFirst(categories.filter((c) => c.availableLocales.includes(locale)))
 
   // 現在のカテゴリがこの母語で使えない場合は、使える先頭ジャンルへ自動で切替(空プールで止まるのを防ぐ)
   useEffect(() => {
@@ -52,7 +54,7 @@ export function HomeScreen() {
   const dailyGoal = user.dailyGoal || DAILY_GOAL
   const todayDone = user.todayAnsweredDate === todayStr() ? user.todayAnswered : 0
   // 習得率（このジャンルで一度でも正解した語 / 出題可能語数）
-  const prefix = category === 'chinese' ? 'zh' : category === 'korean' ? 'ko' : category === 'japanese' ? 'jp' : category === 'spanish' ? 'es' : category === 'french' ? 'fr' : category === 'german' ? 'de' : category === 'portuguese' ? 'pt' : category === 'russian' ? 'ru' : category === 'polish' ? 'pl' : category === 'hindi' ? 'hi' : 'en'
+  const prefix = category === 'chinese' ? 'zh' : category === 'korean' ? 'ko' : category === 'japanese' ? 'jp' : category === 'spanish' ? 'es' : category === 'french' ? 'fr' : category === 'german' ? 'de' : category === 'portuguese' ? 'pt' : category === 'russian' ? 'ru' : category === 'polish' ? 'pl' : category === 'hindi' ? 'hi' : category === 'arabic' ? 'ar' : 'en'
   const learnedInCat = user.learnedQuestionIds.filter((id) => id.startsWith(prefix)).length
   const totalInCat = ready ? engine.categorySize(category) : 0
   const catLabel = t(catNameKey(category))
@@ -127,7 +129,21 @@ export function HomeScreen() {
 
       {/* ジャンル選択（プラットフォームの横展開） */}
       <div>
-        <div className="text-xs text-white/45 mb-2 font-bold">{t('home.language')}</div>
+        <div className="flex items-center justify-between mb-2">
+          <div className="text-xs text-white/45 font-bold">{t('home.language')}</div>
+          {/* 学習中の言語をホームの先頭に固定する */}
+          <button
+            onClick={() => togglePin(category)}
+            aria-pressed={isPinned(category)}
+            className={`text-[11px] font-bold px-2 py-1 rounded-lg border transition ${
+              isPinned(category)
+                ? 'bg-accent/15 text-accent border-accent/40'
+                : 'bg-panel2 text-white/45 border-white/10'
+            }`}
+          >
+            {isPinned(category) ? `★ ${t('home.pinned')}` : `☆ ${t('home.pin')}`}
+          </button>
+        </div>
         <div className="flex gap-2 overflow-x-auto pb-1 -mx-1 px-1">
           {localeCats.map((c) => {
             const active = c.id === category
@@ -144,6 +160,7 @@ export function HomeScreen() {
                       : 'bg-panel2 text-white/25 border-white/5'
                 }`}
               >
+                {isPinned(c.id) && <span className="mr-1 text-[10px]">★</span>}
                 {c.emoji} {t(catNameKey(c.id))}
                 {!c.available && <span className="ml-1 text-[9px]">{t('home.comingSoon')}</span>}
               </button>

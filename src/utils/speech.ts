@@ -175,6 +175,7 @@ export function langForCategory(category: Category): string {
     case 'russian': return 'ru-RU'
     case 'polish': return 'pl-PL'
     case 'hindi': return 'hi-IN'
+    case 'arabic': return 'ar-SA'
     default: return 'en-US'
   }
 }

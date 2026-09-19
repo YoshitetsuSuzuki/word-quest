@@ -5,7 +5,9 @@ export interface Strings {
   'nav.home': string; 'nav.quiz': string; 'nav.study': string; 'nav.rank': string; 'nav.profile': string
   'home.startQuiz': string; 'home.listening': string; 'home.dailyGoal': string
   'home.streakMid': string; 'home.streakEnd': string
-  'home.language': string; 'home.comingSoon': string; 'home.level': string; 'home.mixed': string
+  'home.language': string
+  'home.pin': string
+  'home.pinned': string; 'home.comingSoon': string; 'home.level': string; 'home.mixed': string
   'home.listenHintSpell': string; 'home.listenHintChoice': string
   'home.reviewDuePre': string; 'home.reviewDuePost': string
   'home.weakPre': string; 'home.weakPost': string
@@ -108,6 +110,7 @@ export interface Strings {
   'pet.openBox': string; 'pet.boxTitle': string; 'pet.setActive': string; 'pet.active': string
   'pet.fuse': string; 'pet.fuseConfirm': string; 'pet.yes': string; 'pet.no': string
   'cat.hindi': string
+  'cat.arabic': string
   'pet.newBadge': string; 'pet.addedPre': string; 'pet.addedSuffix': string
   'notify.streakTitle': string; 'notify.streakBody': string
   'notify.leagueTitle': string; 'notify.leagueBody': string
