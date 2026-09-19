@@ -11,8 +11,9 @@ rows=json.load(open(path,encoding='utf-8'))
 n=collections.Counter()
 for r in rows:
     ja, pos = r['ja'], r['pos']
-    if ja[:1] in 'をにがはでへと':
-        ja=ja[1:]; n['先頭の助詞を削除']+=1
+    # 「を」以外の仮名は語頭に立ちうる(とげ/はちみつ/がん等)ので触らない
+    if ja[:1] == 'を':
+        ja=ja[1:]; n['先頭の「を」を削除']+=1
     if pos=='adj' and re.search(r'的$', ja):
         ja=ja+'な'; n['形容詞に「な」を付加']+=1
     if pos=='adv' and re.search(r'して$', ja):
