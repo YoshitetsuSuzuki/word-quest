@@ -1,22 +1,22 @@
 {
  "category": "hindi",
- "total": 3238,
- "verified": 3238,
+ "total": 1641,
+ "verified": 1641,
  "levels": [
   {
    "level": 1,
    "file": "level-1.json",
-   "count": 1525
+   "count": 550
   },
   {
    "level": 2,
    "file": "level-2.json",
-   "count": 1074
+   "count": 676
   },
   {
    "level": 3,
    "file": "level-3.json",
-   "count": 639
+   "count": 415
   }
  ]
 }
