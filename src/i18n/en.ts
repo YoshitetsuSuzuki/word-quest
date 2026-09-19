@@ -109,6 +109,8 @@ export const en: Strings = {
   'cat.hindi': 'Hindi',
   'cat.arabic': 'Arabic',
   'cat.tagalog': 'Tagalog',
+  'cat.italian': 'Italian',
+  'cat.mongolian': 'Mongolian',
   'pet.newBadge': 'NEW', 'pet.addedPre': '✨ ', 'pet.addedSuffix': ' joined!',
   'notify.streakTitle': '🔥 Your streak is at risk!', 'notify.streakBody': "You haven't studied today. Solve just one question to keep the streak alive.",
   'notify.leagueTitle': '🏆 League results are in!', 'notify.leagueBody': "Last week's league has closed. Check if you got promoted.",

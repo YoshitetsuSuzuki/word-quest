@@ -109,6 +109,8 @@ export const ja: Strings = {
   'cat.hindi': 'ヒンディー語',
   'cat.arabic': 'アラビア語',
   'cat.tagalog': 'タガログ語',
+  'cat.italian': 'イタリア語',
+  'cat.mongolian': 'モンゴル語',
   'pet.newBadge': 'NEW', 'pet.addedPre': '✨ ', 'pet.addedSuffix': ' をなかまにした！',
   'notify.streakTitle': '🔥 連続記録が途切れそう！', 'notify.streakBody': '今日はまだ学習していません。1問だけでも解いて、記録をつなぎましょう。',
   'notify.leagueTitle': '🏆 リーグ結果発表！', 'notify.leagueBody': '先週のリーグが締め切られました。昇格できたか確認しましょう。',

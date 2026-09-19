@@ -29,6 +29,8 @@ export const categories: CategoryInfo[] = [
   { id: 'hindi', label: 'ヒンディー語', emoji: '🇮🇳', available: true, availableLocales: ['ja', 'en'] },
   { id: 'arabic', label: 'アラビア語', emoji: '🇸🇦', available: true, availableLocales: ['ja', 'en'] },
   { id: 'tagalog', label: 'タガログ語', emoji: '🇵🇭', available: true, availableLocales: ['ja', 'en'] },
+  { id: 'italian', label: 'イタリア語', emoji: '🇮🇹', available: true, availableLocales: ['ja', 'en'] },
+  { id: 'mongolian', label: 'モンゴル語', emoji: '🇲🇳', available: true, availableLocales: ['ja', 'en'] },
 ]
 
 export function getCategoryInfo(id: Category): CategoryInfo {

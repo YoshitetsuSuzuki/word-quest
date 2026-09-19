@@ -30,6 +30,7 @@ LANGS = {
     'de': ('German', 'german'), 'pt': ('Portuguese', 'portuguese'), 'ru': ('Russian', 'russian'),
     'pl': ('Polish', 'polish'), 'hi': ('Hindi', 'hindi'), 'ar': ('Arabic', 'arabic'),
     'tl': ('Tagalog', 'tagalog'), 'it': ('Italian', 'italian'),
+    'mn': ('Mongolian', 'mongolian'), 'bn': ('Bengali', 'bengali'),
 }
 BAD_POS = {'conj', 'prep', 'postp', 'particle', 'pron', 'num', 'det', 'intj', 'prefix',
            'suffix', 'infix', 'character', 'punct', 'symbol', 'name', 'phrase', 'proverb', 'article'}
@@ -86,8 +87,17 @@ def _korean_stem_rank(word, freq):
     return best
 
 
+# wordfreq が持たない言語。指定しても近い言語にすり替えられて無意味な値になるため、
+# 自前の頻度リスト(.cache/<code>_50k.txt)だけを使う。
+NO_WORDFREQ = {'mn'}
+
+
 def modern_score(word, code):
     """現代で使われる語かを表す指標。wordfreq の zipf 値に揃える。"""
+    if code in NO_WORDFREQ:
+        freq = _load_freq_list(code)
+        rank = freq.get(word) or (_korean_stem_rank(word, freq) if code == 'ko' else None)
+        return _rank_to_score(rank) if rank else 0.0
     try:
         return zipf_frequency(word, code)
     except Exception:

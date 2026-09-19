@@ -1,0 +1,24 @@
+{
+ "category": "italian",
+ "levels": [
+  {
+   "level": 1,
+   "file": "level-1.json",
+   "count": 985
+  },
+  {
+   "level": 2,
+   "file": "level-2.json",
+   "count": 985
+  },
+  {
+   "level": 3,
+   "file": "level-3.json",
+   "count": 983
+  }
+ ],
+ "total": 2953,
+ "verified": 2953,
+ "jaVerified": 2953,
+ "source": "curated core + dictionary-derived (3-judge AI verified)"
+}

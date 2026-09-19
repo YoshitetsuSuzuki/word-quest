@@ -18,6 +18,8 @@ export type Category =
   | 'hindi'
   | 'arabic'
   | 'tagalog'
+  | 'italian'
+  | 'mongolian'
 
 /** 難易度 1(易) 〜 7(難)。英語はLv6-7(拡張候補プールのレビュー昇格分)まで存在する */
 export type Difficulty = 1 | 2 | 3 | 4 | 5 | 6 | 7

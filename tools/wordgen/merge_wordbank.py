@@ -7,7 +7,9 @@ import json, os, sys, glob, random, collections, re
 HERE=os.path.dirname(os.path.abspath(__file__)); CACHE=os.path.join(HERE,'.cache')
 ROOT=os.path.abspath(os.path.join(HERE,'..','..'))
 CAT={'pl':('polish','pl'),'ru':('russian','ru'),'pt':('portuguese','pt'),'ko':('korean','ko'),
-     'es':('spanish','es'),'fr':('french','fr'),'de':('german','de')}
+     'es':('spanish','es'),'fr':('french','fr'),'de':('german','de'),
+     'hi':('hindi','hi'),'ar':('arabic','ar'),'tl':('tagalog','tl'),
+     'it':('italian','it'),'mn':('mongolian','mn'),'bn':('bengali','bn')}
 code, stage = sys.argv[1], sys.argv[2]
 category, prefix = CAT[code]
 outdir=os.path.join(ROOT,'public','wordbank',category)

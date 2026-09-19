@@ -54,7 +54,7 @@ export function HomeScreen() {
   const dailyGoal = user.dailyGoal || DAILY_GOAL
   const todayDone = user.todayAnsweredDate === todayStr() ? user.todayAnswered : 0
   // 習得率（このジャンルで一度でも正解した語 / 出題可能語数）
-  const prefix = category === 'chinese' ? 'zh' : category === 'korean' ? 'ko' : category === 'japanese' ? 'jp' : category === 'spanish' ? 'es' : category === 'french' ? 'fr' : category === 'german' ? 'de' : category === 'portuguese' ? 'pt' : category === 'russian' ? 'ru' : category === 'polish' ? 'pl' : category === 'hindi' ? 'hi' : category === 'arabic' ? 'ar' : category === 'tagalog' ? 'tl' : 'en'
+  const prefix = category === 'chinese' ? 'zh' : category === 'korean' ? 'ko' : category === 'japanese' ? 'jp' : category === 'spanish' ? 'es' : category === 'french' ? 'fr' : category === 'german' ? 'de' : category === 'portuguese' ? 'pt' : category === 'russian' ? 'ru' : category === 'polish' ? 'pl' : category === 'hindi' ? 'hi' : category === 'arabic' ? 'ar' : category === 'tagalog' ? 'tl' : category === 'italian' ? 'it' : category === 'mongolian' ? 'mn' : 'en'
   const learnedInCat = user.learnedQuestionIds.filter((id) => id.startsWith(prefix)).length
   const totalInCat = ready ? engine.categorySize(category) : 0
   const catLabel = t(catNameKey(category))

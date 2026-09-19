@@ -16,8 +16,8 @@ for r in rows:
         ja=ja[1:]; n['先頭の「を」を削除']+=1
     if pos=='adj' and re.search(r'的$', ja):
         ja=ja+'な'; n['形容詞に「な」を付加']+=1
-    if pos=='adv' and re.search(r'して$', ja):
-        ja=ja[:-2]+'に'; n['副詞を「〜に」に統一']+=1
+    # 副詞の「〜して」を「〜に」に置き換える処理は入れない。
+    # 「繰り返して」→「繰り返に」のように語幹ごと削ってしまい訳を壊すため。
     if ja!=r['ja']: r['ja']=ja
 json.dump(rows, open(path,'w',encoding='utf-8'), ensure_ascii=False, indent=1)
 print(f'{code}: {len(rows)} 語を整形  ' + ('、'.join(f'{k}{v}件' for k,v in n.items()) or '修正なし'))
