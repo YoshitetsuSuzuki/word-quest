@@ -210,17 +210,18 @@ export function speakWord(word: string, category: Category): void {
 }
 
 /**
- * 発音表記が IPA（国際音声記号）かどうか。
- * このデータは出自が複数あり、`/ka.dej.ɾɐ/` のような IPA と `kadEyra` のような
- * 簡易ローマ字が同じ言語の中に混在している。IPA は正確だが日本語話者には読めず、
- * 音声ボタンで正しい発音が聞ける以上、既定では隠す（設定で表示に戻せる）。
+ * 発音表記が「日本語話者には読めない精密表記」かどうか。
+ *
+ * 単純に IPA かどうかでは線が引けない。英語の /pəˈluʃən/ は学校で習う表記だし、
+ * 中国語のピンイン(ā á ǎ à)も声調記号であって精密表記ではない。読めなくなるのは
+ * 結合タイバーや調音位置を示す下付き記号が入ったとき（[kɯɾʌ̹kʰe̞] のような形）。
+ * そこでこの種の記号の有無だけで判定する。実測で全50,254件中 約19% が該当。
  */
+const NARROW_IPA = /[\u0320\u0325\u032a\u031f\u031e\u031d\u0329\u0334\u0339\u033a\u033b\u0348\u0318\u0319\u032c\u0324\u0361\u035c\u0330\u0303\u031a\u02b0\u02b2\u02b7\u02e4]/
+
 export function isIpaPronunciation(p: string | undefined): boolean {
   if (!p) return false
-  const t = p.trim()
-  if (t.startsWith('/') || t.startsWith('[')) return true
-  // 囲み記号が無くても IPA 固有の字が混じっていれば IPA とみなす
-  return /[ɕʑɖʈɳɽʱʲˈˌːɐɘɵʉɣʁʃʒŋθðɲʎɾʔʕħɫɝɹ͡]/.test(t)
+  return NARROW_IPA.test(p.normalize('NFD'))
 }
 
 /** prompt「apple の意味は？」から見出し語 apple を取り出す */

@@ -3,6 +3,7 @@ import { useGame } from '../../state/GameContext'
 import type { FriendEntry } from './friendTypes'
 import { generateFriendCode, NUDGE_COIN_RECEIVER, NUDGE_COIN_SENDER } from './friendLogic'
 import { LocalFriendsBackend, type FriendsBackend, type MyProfile } from './friendBackend'
+import { SupabaseFriendsBackend } from './supabaseBackend'
 import { sanitizeName, DEFAULT_NAME } from './moderation'
 
 const K = {
@@ -24,7 +25,14 @@ function save(k: string, v: string): void {
  * 差し替え可能なバックエンド。段階2で Supabase 実装を差す。
  * ここを1行変えるだけで画面側は無改修で切り替わる。
  */
-let backend: FriendsBackend = new LocalFriendsBackend()
+// 既定は Supabase。通信できない環境（オフライン・SQL未適用）でも画面が落ちないよう、
+// 呼び出し側は全て try/catch で包んであり、失敗時はローカルの値で表示を続ける。
+let backend: FriendsBackend = new SupabaseFriendsBackend()
+
+/** テスト・オフライン検証用に端末内実装へ戻す */
+export function useLocalFriendsBackend(): void {
+  backend = new LocalFriendsBackend()
+}
 export function setFriendsBackend(b: FriendsBackend): void {
   backend = b
 }
