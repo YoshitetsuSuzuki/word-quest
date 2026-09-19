@@ -26,6 +26,7 @@ export const categories: CategoryInfo[] = [
   { id: 'portuguese', label: 'ポルトガル語', emoji: '🇵🇹', available: true, availableLocales: ['en', 'ja'] },
   { id: 'russian', label: 'ロシア語', emoji: '🇷🇺', available: true, availableLocales: ['en', 'ja'] },
   { id: 'polish', label: 'ポーランド語', emoji: '🇵🇱', available: true, availableLocales: ['en', 'ja'] },
+  { id: 'hindi', label: 'ヒンディー語', emoji: '🇮🇳', available: true, availableLocales: ['ja', 'en'] },
 ]
 
 export function getCategoryInfo(id: Category): CategoryInfo {

@@ -29,3 +29,4 @@ tools/expand/audit/
 
 # 認証レポート(再生成可能・大容量)
 tools/certify/report/
+tools/wordgen/.cache/

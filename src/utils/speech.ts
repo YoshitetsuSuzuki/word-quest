@@ -174,6 +174,7 @@ export function langForCategory(category: Category): string {
     case 'portuguese': return 'pt-BR' // 収録語彙はブラジル系(você/trem等)。BR音声の方が高品質・話者数も多い
     case 'russian': return 'ru-RU'
     case 'polish': return 'pl-PL'
+    case 'hindi': return 'hi-IN'
     default: return 'en-US'
   }
 }

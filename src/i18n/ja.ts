@@ -106,6 +106,7 @@ export const ja: Strings = {
   'pet.rename': '名前をつける', 'pet.renameTitle': '相棒の名前', 'pet.namePlaceholder': '名前を入力（12文字まで）', 'pet.renameSave': '決定',
   'pet.openBox': '📦 ボックス', 'pet.boxTitle': '相棒ボックス', 'pet.setActive': '育成中にする', 'pet.active': '育成中',
   'pet.fuse': '⚡ 合体', 'pet.fuseConfirm': '同じ種を1体消費して合体（段階UP）。実行する？', 'pet.yes': 'はい', 'pet.no': 'やめる',
+  'cat.hindi': 'ヒンディー語',
   'pet.newBadge': 'NEW', 'pet.addedPre': '✨ ', 'pet.addedSuffix': ' をなかまにした！',
   'notify.streakTitle': '🔥 連続記録が途切れそう！', 'notify.streakBody': '今日はまだ学習していません。1問だけでも解いて、記録をつなぎましょう。',
   'notify.leagueTitle': '🏆 リーグ結果発表！', 'notify.leagueBody': '先週のリーグが締め切られました。昇格できたか確認しましょう。',

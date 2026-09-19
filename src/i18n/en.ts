@@ -106,6 +106,7 @@ export const en: Strings = {
   'pet.rename': 'Rename', 'pet.renameTitle': 'Buddy name', 'pet.namePlaceholder': 'Enter a name (max 12)', 'pet.renameSave': 'Save',
   'pet.openBox': '📦 Box', 'pet.boxTitle': 'Buddy box', 'pet.setActive': 'Train this one', 'pet.active': 'Training',
   'pet.fuse': '⚡ Fuse', 'pet.fuseConfirm': 'Consume one duplicate to fuse (tier up). Proceed?', 'pet.yes': 'Yes', 'pet.no': 'Cancel',
+  'cat.hindi': 'Hindi',
   'pet.newBadge': 'NEW', 'pet.addedPre': '✨ ', 'pet.addedSuffix': ' joined!',
   'notify.streakTitle': '🔥 Your streak is at risk!', 'notify.streakBody': "You haven't studied today. Solve just one question to keep the streak alive.",
   'notify.leagueTitle': '🏆 League results are in!', 'notify.leagueBody': "Last week's league has closed. Check if you got promoted.",
