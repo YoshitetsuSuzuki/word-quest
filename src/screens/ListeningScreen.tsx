@@ -2,7 +2,7 @@ import { useEffect, useMemo, useRef, useState } from 'react'
 import { useGame } from '../state/GameContext'
 import { useNav } from '../state/nav'
 import { Loading } from '../components/Loading'
-import { speak, speakWord, wordFromPrompt, canSpeak, langForCategory } from '../utils/speech'
+import { speak, speakWord, wordFromPrompt, canSpeakCategory, langForCategory , isIpaPronunciation} from '../utils/speech'
 import { playCorrect, playWrong } from '../utils/audio'
 import { wordErrorReportUrl } from '../utils/report'
 import type { Question, AnswerOutcome } from '../types'
@@ -34,7 +34,7 @@ function clozeSentence(sentence: string, form: string): string {
  */
 export function ListeningScreen() {
   const { engine, answerQuestion, ensureCategory, isCategoryReady } = useGame()
-  const { navigate, category, studyLevel, sfxEnabled, sfxVolume, t, locale, quizMode, customIds } = useNav()
+  const { navigate, category, studyLevel, sfxEnabled, sfxVolume, t, locale, quizMode, customIds , showIpa} = useNav()
   const isExample = quizMode === 'example' // 例文暗記モード(読んで穴埋め・音声任意)
 
   const ready = isCategoryReady(category)
@@ -240,7 +240,7 @@ export function ListeningScreen() {
                   : t('listening.pickBlank')
                 : t('listening.pickMeaning')}
           </div>
-          {canSpeak() && (
+          {canSpeakCategory(category) && (
             <button
               onClick={replay}
               aria-label={t('listening.replay')}
@@ -260,7 +260,7 @@ export function ListeningScreen() {
           {answered && (
             <div className="mt-3 animate-slideUp">
               <span className="font-black text-lg">{word}</span>
-              {q.pronunciation && <span className="ml-2 text-accent2 font-mono font-bold text-sm">{q.pronunciation}</span>}
+              {q.pronunciation && (showIpa || !isIpaPronunciation(q.pronunciation)) && <span className="ml-2 text-accent2 font-mono font-bold text-sm">{q.pronunciation}</span>}
               <span className="ml-2 text-white/70">= {meaningGloss}</span>
             </div>
           )}

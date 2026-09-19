@@ -56,7 +56,7 @@ export const en: Strings = {
   'profile.winRate': 'Battle win rate', 'profile.win': 'W', 'profile.loss': 'L', 'profile.totalCorrect': 'Total correct', 'profile.totalAnswered': 'Total answered',
   'profile.loginStreak': 'Login streak', 'profile.dayUnit': 'days', 'profile.wordsLearned': 'Words learned',
   'profile.achievements': '🏅 Achievements', 'profile.settings': '⚙️ Settings',
-  'profile.autoPlay': '🗣️ Auto-play audio', 'profile.sfx': '🔔 Sound effects', 'profile.sfxVolume': 'SFX volume', 'profile.bgm': '🎵 Music', 'profile.bgmVolume': 'Music volume',
+  'profile.showIpa': '🔤 Show IPA symbols', 'profile.autoPlay': '🗣️ Auto-play audio', 'profile.sfx': '🔔 Sound effects', 'profile.sfxVolume': 'SFX volume', 'profile.bgm': '🎵 Music', 'profile.bgmVolume': 'Music volume',
   'profile.feedback': '📮 Report / feedback', 'profile.reset': 'Reset data', 'profile.resetConfirm': 'Reset all data? This cannot be undone.',
   'common.back': 'Back',
   'rank.title': '🏆 Ranking', 'rank.coin': 'Coins earned', 'rank.elo': 'Rating', 'rank.today': 'Today', 'rank.correct': 'Correct',

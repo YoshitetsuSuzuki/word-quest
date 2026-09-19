@@ -3,7 +3,7 @@ import { showToast } from './Toast'
 import { useGame } from '../state/GameContext'
 import { useNav } from '../state/nav'
 import { todayStr } from '../state/dateUtils'
-import { speakWord, wordFromPrompt, canSpeak } from '../utils/speech'
+import { speakWord, wordFromPrompt, canSpeakCategory , isIpaPronunciation} from '../utils/speech'
 import { AdService } from '../services/AdService'
 import { featureFlags } from '../config/featureFlags'
 import type { Strings } from '../i18n/types'
@@ -23,7 +23,7 @@ const TASK_LABEL: Record<string, keyof Strings> = {
 /** ホーム最上部の「今日の一式」カード。項目・目標問数は自分で設定できる。 */
 export function DailyLoopCard() {
   const { user, engine, isCategoryReady, markTodayWordSeen, markDailyTask, grantFreezeByAd, canGetFreezeByAd } = useGame()
-  const { category, navigate, setQuizMode, setCustomIds, t } = useNav()
+  const { category, navigate, setQuizMode, setCustomIds, t , showIpa} = useNav()
   const [wordOpen, setWordOpen] = useState(false)
   const [editOpen, setEditOpen] = useState(false)
   const [freezeBusy, setFreezeBusy] = useState(false)
@@ -123,10 +123,10 @@ export function DailyLoopCard() {
         <div className="bg-panel2 rounded-xl p-4 text-center animate-slideUp">
           <div className="text-xs text-white/40 mb-1">{t('daily.wordOfDay')}</div>
           <div className="text-xl font-black">{word}</div>
-          {q.pronunciation && <div className="text-accent2 font-mono font-bold text-sm mt-0.5">{q.pronunciation}</div>}
+          {q.pronunciation && (showIpa || !isIpaPronunciation(q.pronunciation)) && <div className="text-accent2 font-mono font-bold text-sm mt-0.5">{q.pronunciation}</div>}
           <div className="mt-1 text-white/80">{q.answer}</div>
           {q.example && <div className="mt-2 text-xs text-white/50">{q.example}</div>}
-          {canSpeak() && (
+          {canSpeakCategory(category) && (
             <button onClick={() => speakWord(word, category)} className="mt-2 w-9 h-9 rounded-full bg-white/10 text-base">
               🔊
             </button>

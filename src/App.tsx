@@ -57,6 +57,7 @@ export default function App() {
   const [customIds, setCustomIds] = useState<string[] | null>(null)
   const [soundEnabled, setSoundEnabledState] = useState(() => localStorage.getItem('wordquest.sound') !== 'off')
   const [studyLevel, setStudyLevelState] = useState<number>(() => Number(localStorage.getItem('wordquest.level') ?? 0))
+  const [showIpa, setShowIpaState] = useState(() => localStorage.getItem('wordquest.showIpa') === 'on')
   const [sfxEnabled, setSfxEnabledState] = useState(() => localStorage.getItem('wordquest.sfx') !== 'off')
   const [sfxVolume, setSfxVolumeState] = useState(() => numFromLS('wordquest.sfxVol', 0.6))
   const [bgmEnabled, setBgmEnabledState] = useState(() => localStorage.getItem('wordquest.bgm') === 'on')
@@ -72,6 +73,10 @@ export default function App() {
   const setSoundEnabled = (v: boolean) => {
     setSoundEnabledState(v)
     localStorage.setItem('wordquest.sound', v ? 'on' : 'off')
+  }
+  const setShowIpa = (v: boolean) => {
+    setShowIpaState(v)
+    localStorage.setItem('wordquest.showIpa', v ? 'on' : 'off')
   }
   const setStudyLevel = (n: number) => {
     setStudyLevelState(n)
@@ -159,6 +164,8 @@ export default function App() {
         customIds,
         setCustomIds,
         soundEnabled,
+        showIpa,
+        setShowIpa,
         setSoundEnabled,
         studyLevel,
         setStudyLevel,

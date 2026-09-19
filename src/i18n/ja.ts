@@ -56,7 +56,7 @@ export const ja: Strings = {
   'profile.winRate': 'バトル勝率', 'profile.win': '勝', 'profile.loss': '敗', 'profile.totalCorrect': '総正解数', 'profile.totalAnswered': '総回答数',
   'profile.loginStreak': '連続ログイン', 'profile.dayUnit': '日', 'profile.wordsLearned': '習得単語数',
   'profile.achievements': '🏅 実績', 'profile.settings': '⚙️ 設定',
-  'profile.autoPlay': '🗣️ 発音の自動再生', 'profile.sfx': '🔔 効果音（正解・不正解）', 'profile.sfxVolume': '効果音の音量', 'profile.bgm': '🎵 BGM', 'profile.bgmVolume': 'BGMの音量',
+  'profile.showIpa': '🔤 発音記号(IPA)も表示する', 'profile.autoPlay': '🗣️ 発音の自動再生', 'profile.sfx': '🔔 効果音（正解・不正解）', 'profile.sfxVolume': '効果音の音量', 'profile.bgm': '🎵 BGM', 'profile.bgmVolume': 'BGMの音量',
   'profile.feedback': '📮 誤りの報告・ご要望', 'profile.reset': 'データを初期化', 'profile.resetConfirm': 'データを初期化しますか？この操作は取り消せません。',
   'common.back': 'もどる',
   'rank.title': '🏆 ランキング', 'rank.coin': '累計コイン', 'rank.elo': 'レート', 'rank.today': '今日', 'rank.correct': '正解数',

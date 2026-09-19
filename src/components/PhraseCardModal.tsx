@@ -1,7 +1,7 @@
 import { useMemo, useState } from 'react'
 import { useGame } from '../state/GameContext'
 import { useNav } from '../state/nav'
-import { speak, canSpeak, langForCategory, wordFromPrompt } from '../utils/speech'
+import { speak, canSpeakCategory, langForCategory, wordFromPrompt , isIpaPronunciation} from '../utils/speech'
 import type { Category } from '../types'
 
 // テーマの表示ラベル(表現データの tags[1])。日本語ネイティブ向けなので日本語を主に。
@@ -27,7 +27,7 @@ const THEME_LABEL: Record<string, { ja: string; en: string }> = {
  */
 export function PhraseCardModal({ category, onClose }: { category: Category; onClose: () => void }) {
   const { engine } = useGame()
-  const { t, locale } = useNav()
+  const { t, locale , showIpa} = useNav()
   const [level, setLevel] = useState(0) // 0=すべて
   const [theme, setTheme] = useState('') // ''=すべて
   const [i, setI] = useState(0)
@@ -112,7 +112,7 @@ export function PhraseCardModal({ category, onClose }: { category: Category; onC
               ) : (
                 <div className="space-y-2">
                   <div className="text-lg font-black leading-relaxed">{en}</div>
-                  {q.pronunciation && <div className="text-sm text-accent font-bold">{q.pronunciation}</div>}
+                  {q.pronunciation && (showIpa || !isIpaPronunciation(q.pronunciation)) && <div className="text-sm text-accent font-bold">{q.pronunciation}</div>}
                   <div className="text-sm text-white/60">{q.answer}</div>
                   <div className="text-xs text-accent2 font-bold">{themeLabel(q.tags?.find((x) => x !== 'phrase') || '')}</div>
                 </div>
@@ -121,7 +121,7 @@ export function PhraseCardModal({ category, onClose }: { category: Category; onC
 
             <div className="flex items-center gap-2">
               <button onClick={() => go(-1)} disabled={i === 0} className="btn-ghost py-3 px-4 disabled:opacity-30">←</button>
-              {canSpeak() && (
+              {canSpeakCategory(category) && (
                 <button
                   onClick={() => speak(en, speechLang)}
                   aria-label={t('quiz.speak')}

@@ -1,7 +1,7 @@
 import { useMemo, useState } from 'react'
 import { useGame } from '../state/GameContext'
 import { useNav } from '../state/nav'
-import { speak, canSpeak, langForCategory, wordFromPrompt } from '../utils/speech'
+import { speak, canSpeakCategory, langForCategory, wordFromPrompt , isIpaPronunciation} from '../utils/speech'
 import type { Category } from '../types'
 
 /**
@@ -11,7 +11,7 @@ import type { Category } from '../types'
  */
 export function ExampleCardModal({ category, onClose }: { category: Category; onClose: () => void }) {
   const { user, engine, toggleExampleDeck } = useGame()
-  const { t, locale } = useNav()
+  const { t, locale , showIpa} = useNav()
   const [level, setLevel] = useState(0) // 0=すべて / -1=★マイリスト
   const [i, setI] = useState(0)
   const [flipped, setFlipped] = useState(false)
@@ -126,7 +126,7 @@ export function ExampleCardModal({ category, onClose }: { category: Category; on
                   <div className="space-y-2">
                     <div className="text-lg font-black leading-relaxed">{ex.text}</div>
                     <div className="text-sm text-white/60">{ex.translation}</div>
-                    <div className="text-xs text-accent2 font-bold">{word}{q.pronunciation ? ` ${q.pronunciation}` : ''} = {q.answer}</div>
+                    <div className="text-xs text-accent2 font-bold">{word}{q.pronunciation && (showIpa || !isIpaPronunciation(q.pronunciation)) ? ` ${q.pronunciation}` : ''} = {q.answer}</div>
                   </div>
                 )}
               </button>
@@ -144,7 +144,7 @@ export function ExampleCardModal({ category, onClose }: { category: Category; on
 
             <div className="flex items-center gap-2">
               <button onClick={() => go(-1)} disabled={i === 0} className="btn-ghost py-3 px-4 disabled:opacity-30">←</button>
-              {canSpeak() && (
+              {canSpeakCategory(category) && (
                 <button
                   onClick={() => speak(ex.text, speechLang)}
                   aria-label={t('quiz.speak')}

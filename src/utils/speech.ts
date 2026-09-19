@@ -184,9 +184,43 @@ export function langForCategory(category: Category): string {
   }
 }
 
+/**
+ * その言語の音声が端末に存在するか。
+ * canSpeak() は音声合成が使えるかしか見ないため、モンゴル語・タガログ語のように
+ * OS が音声を持たない言語でもボタンが出てしまう。押しても無音か、最悪は別言語の
+ * 声でキリル文字を読み上げる事故になるので、UI 側はこちらで出し分ける。
+ * ネイティブTTSでは端末の対応言語を列挙できないため、判定を保留して true を返す。
+ */
+export function canSpeakCategory(category: Category): boolean {
+  if (!canSpeak()) return false
+  if (isNative()) return !NO_TTS.has(category) // ネイティブは既知の非対応言語だけ落とす
+  if (!hasWebSpeech()) return false
+  if (!voices.length) loadVoices()
+  if (!voices.length) return true // 取得前は塞がない（voiceschanged 後に再評価される）
+  const prefix = langForCategory(category).toLowerCase().split('-')[0]
+  return voices.some((v) => v.lang.toLowerCase().startsWith(prefix))
+}
+
+/** iOS/Android の標準TTSに音声が無い言語（実測で0件だったもの） */
+const NO_TTS = new Set<Category>(['mongolian', 'tagalog'])
+
 /** カテゴリに応じた言語で単語を読み上げる */
 export function speakWord(word: string, category: Category): void {
   speak(word, langForCategory(category))
+}
+
+/**
+ * 発音表記が IPA（国際音声記号）かどうか。
+ * このデータは出自が複数あり、`/ka.dej.ɾɐ/` のような IPA と `kadEyra` のような
+ * 簡易ローマ字が同じ言語の中に混在している。IPA は正確だが日本語話者には読めず、
+ * 音声ボタンで正しい発音が聞ける以上、既定では隠す（設定で表示に戻せる）。
+ */
+export function isIpaPronunciation(p: string | undefined): boolean {
+  if (!p) return false
+  const t = p.trim()
+  if (t.startsWith('/') || t.startsWith('[')) return true
+  // 囲み記号が無くても IPA 固有の字が混じっていれば IPA とみなす
+  return /[ɕʑɖʈɳɽʱʲˈˌːɐɘɵʉɣʁʃʒŋθðɲʎɾʔʕħɫɝɹ͡]/.test(t)
 }
 
 /** prompt「apple の意味は？」から見出し語 apple を取り出す */

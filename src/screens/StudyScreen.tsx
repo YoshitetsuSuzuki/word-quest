@@ -3,7 +3,7 @@ import { useGame } from '../state/GameContext'
 import { useNav } from '../state/nav'
 import { useInterstitial } from '../services/useInterstitial'
 import { ReviewScheduler } from '../core/ReviewScheduler'
-import { speakWord, canSpeak } from '../utils/speech'
+import { speakWord, canSpeakCategory , isIpaPronunciation} from '../utils/speech'
 import { ProgressBar } from '../components/ProgressBar'
 import { ExampleCardModal } from '../components/ExampleCardModal'
 import { PhraseCardModal } from '../components/PhraseCardModal'
@@ -478,13 +478,13 @@ function FilterChip({ active, onClick, label }: { active: boolean; onClick: () =
 }
 
 function WordRow({ q, gloss, inDeck, onToggle, right, masterBtn }: { q: Question; gloss: string; inDeck: boolean; onToggle: () => void; right?: ReactNode; masterBtn?: ReactNode }) {
-  const { t } = useNav()
+  const { t, showIpa } = useNav()
   return (
     <div className="card p-3 flex items-center gap-3">
       <div className="flex-1 min-w-0">
         <div className="font-bold flex items-baseline gap-2">
           {wordOf(q)}
-          {q.pronunciation && <span className="text-[11px] text-accent2/70 font-mono font-normal">{q.pronunciation}</span>}
+          {q.pronunciation && (showIpa || !isIpaPronunciation(q.pronunciation)) && <span className="text-[11px] text-accent2/70 font-mono font-normal">{q.pronunciation}</span>}
         </div>
         <div className="text-sm text-white/55 truncate">{gloss}</div>
       </div>
@@ -503,11 +503,11 @@ function WordRow({ q, gloss, inDeck, onToggle, right, masterBtn }: { q: Question
 
 /** タップで表裏（単語⇄意味）を切り替える暗記カード */
 function FlashCard({ q, gloss, category, onRemove }: { q: Question; gloss: string; category: Category; onRemove: () => void }) {
-  const { t } = useNav()
+  const { t, showIpa } = useNav()
   const [showMeaning, setShowMeaning] = useState(false)
   return (
     <div className="card p-0 overflow-hidden relative">
-      {canSpeak() && (
+      {canSpeakCategory(category) && (
         <button
           onClick={() => speakWord(wordOf(q), category)}
           aria-label={t('quiz.speak')}
@@ -522,7 +522,7 @@ function FlashCard({ q, gloss, category, onRemove }: { q: Question; gloss: strin
         ) : (
           <div>
             <div className="text-2xl font-black">{wordOf(q)}</div>
-            {q.pronunciation && <div className="text-sm text-accent2/70 font-mono mt-1">{q.pronunciation}</div>}
+            {q.pronunciation && (showIpa || !isIpaPronunciation(q.pronunciation)) && <div className="text-sm text-accent2/70 font-mono mt-1">{q.pronunciation}</div>}
           </div>
         )}
         <div className="text-[10px] text-white/30 mt-2">{showMeaning ? t('study.meaning') : t('study.tapToReveal')}</div>

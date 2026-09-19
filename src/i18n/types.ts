@@ -59,7 +59,7 @@ export interface Strings {
   'profile.winRate': string; 'profile.win': string; 'profile.loss': string; 'profile.totalCorrect': string; 'profile.totalAnswered': string
   'profile.loginStreak': string; 'profile.dayUnit': string; 'profile.wordsLearned': string
   'profile.achievements': string; 'profile.settings': string
-  'profile.autoPlay': string; 'profile.sfx': string; 'profile.sfxVolume': string; 'profile.bgm': string; 'profile.bgmVolume': string
+  'profile.showIpa': string; 'profile.autoPlay': string; 'profile.sfx': string; 'profile.sfxVolume': string; 'profile.bgm': string; 'profile.bgmVolume': string
   'profile.feedback': string; 'profile.reset': string; 'profile.resetConfirm': string
   'common.back': string
   'rank.title': string; 'rank.coin': string; 'rank.elo': string; 'rank.today': string; 'rank.correct': string

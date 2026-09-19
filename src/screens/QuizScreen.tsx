@@ -5,7 +5,7 @@ import { useNav } from '../state/nav'
 import { ReviewScheduler } from '../core/ReviewScheduler'
 import { equippedEffect } from '../modules/shop/shopLogic'
 import { Loading } from '../components/Loading'
-import { speak, speakWord, wordFromPrompt, canSpeak, langForCategory } from '../utils/speech'
+import { speak, speakWord, wordFromPrompt, canSpeakCategory, langForCategory , isIpaPronunciation} from '../utils/speech'
 import { playCorrect, playWrong, playCombo } from '../utils/audio'
 import { hapticCorrect, hapticWrong, hapticCombo } from '../utils/haptics'
 import { comboTierOf, isComboMilestone } from '../core/comboTier'
@@ -26,7 +26,7 @@ const SPEED_MS = 4000 // スピードモードの1問あたり制限時間（8�
 export function QuizScreen() {
   const game = useGame()
   const { user, engine, answerQuestion, ensureCategory, isCategoryReady, toggleDeck, toggleExampleDeck } = game
-  const { quizMode, navigate, category, customIds, setCustomIds, soundEnabled, studyLevel, sfxEnabled, sfxVolume, t, locale } = useNav()
+  const { quizMode, navigate, category, customIds, setCustomIds, soundEnabled, studyLevel, sfxEnabled, sfxVolume, t, locale , showIpa} = useNav()
 
   const showInterstitial = useInterstitial()
   const ready = isCategoryReady(category)
@@ -83,7 +83,7 @@ export function QuizScreen() {
   // 問題が切り替わったら自動で発音を再生（音声ONのとき）
   useEffect(() => {
     const q = questions[index]
-    if (q && soundEnabled && !finished) {
+    if (q && soundEnabled && !finished && canSpeakCategory(category)) {
       speakWord(wordFromPrompt(q.prompt), category)
     }
     // eslint-disable-next-line react-hooks/exhaustive-deps
@@ -309,8 +309,8 @@ export function QuizScreen() {
           <div className="text-xs text-white/40 mb-2">{t('quiz.pickMeaning')}</div>
           <div className="text-2xl font-black">{locale === 'ja' ? q.prompt : wordFromPrompt(q.prompt)}</div>
           <div className="mt-1.5 flex items-center justify-center gap-2">
-            {q.pronunciation && <span className="text-base text-accent2 font-mono font-bold">{q.pronunciation}</span>}
-            {canSpeak() && (
+            {q.pronunciation && (showIpa || !isIpaPronunciation(q.pronunciation)) && <span className="text-base text-accent2 font-mono font-bold">{q.pronunciation}</span>}
+            {canSpeakCategory(category) && (
               <button
                 onClick={() => speakWord(wordFromPrompt(q.prompt), category)}
                 aria-label={t('quiz.speak')}
@@ -406,7 +406,7 @@ export function QuizScreen() {
                   >
                     {(user.exampleDeck ?? []).includes(q.id) ? '★' : '☆'}
                   </button>
-                  {canSpeak() && (
+                  {canSpeakCategory(category) && (
                     <button
                       onClick={() => speak(ex.text, langForCategory(category))}
                       aria-label={t('quiz.speak')}

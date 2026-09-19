@@ -31,6 +31,9 @@ interface NavApi {
   /** 発音の自動再生ON/OFF */
   soundEnabled: boolean
   setSoundEnabled: (v: boolean) => void
+  /** 発音記号(IPA)を表示するか。既定OFF＝日本語話者に読めないIPAを隠す */
+  showIpa: boolean
+  setShowIpa: (v: boolean) => void
   /** 効果音（正解/不正解） */
   sfxEnabled: boolean
   setSfxEnabled: (v: boolean) => void

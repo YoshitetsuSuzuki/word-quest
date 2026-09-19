@@ -12,6 +12,8 @@ export function ProfileScreen() {
   const { user, resetAll } = useGame()
   const {
     soundEnabled,
+    showIpa,
+    setShowIpa,
     setSoundEnabled,
     sfxEnabled,
     setSfxEnabled,
@@ -122,6 +124,7 @@ export function ProfileScreen() {
 
         <div className="border-t border-white/5 pt-2 mt-2">
           <Toggle label={t('profile.autoPlay')} on={soundEnabled} onToggle={() => setSoundEnabled(!soundEnabled)} />
+          <Toggle label={t('profile.showIpa')} on={showIpa} onToggle={() => setShowIpa(!showIpa)} />
         </div>
 
         <div className="border-t border-white/5 pt-2 mt-2">
