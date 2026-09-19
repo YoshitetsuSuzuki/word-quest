@@ -1,35 +1,34 @@
 {
-  "category": "chinese",
-  "total": 4201,
-  "verified": 4201,
-  "levels": [
-    {
-      "level": 1,
-      "file": "level-1.json",
-      "count": 487
-    },
-    {
-      "level": 2,
-      "file": "level-2.json",
-      "count": 742
-    },
-    {
-      "level": 3,
-      "file": "level-3.json",
-      "count": 944
-    },
-    {
-      "level": 4,
-      "file": "level-4.json",
-      "count": 973
-    },
-    {
-      "level": 5,
-      "file": "level-5.json",
-      "count": 1055
-    }
-  ],
-  "source": "HSK 3.0 (ivankra/hsk30) + 人手検証済み日本語訳 + 人手検証(2026-07)",
-  "generatedAt": "2026-07-06T06:34:05.599Z",
-  "jaVerified": 4201
+ "category": "chinese",
+ "levels": [
+  {
+   "level": 1,
+   "file": "level-1.json",
+   "count": 520
+  },
+  {
+   "level": 2,
+   "file": "level-2.json",
+   "count": 741
+  },
+  {
+   "level": 3,
+   "file": "level-3.json",
+   "count": 989
+  },
+  {
+   "level": 4,
+   "file": "level-4.json",
+   "count": 1028
+  },
+  {
+   "level": 5,
+   "file": "level-5.json",
+   "count": 923
+  }
+ ],
+ "total": 4201,
+ "verified": 4201,
+ "jaVerified": 4201,
+ "source": "curated + HSK official levels"
 }

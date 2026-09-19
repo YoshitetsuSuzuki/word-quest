@@ -1,45 +1,44 @@
 {
-  "category": "english",
-  "total": 8136,
-  "verified": 8136,
-  "levels": [
-    {
-      "level": 1,
-      "file": "level-1.json",
-      "count": 576
-    },
-    {
-      "level": 2,
-      "file": "level-2.json",
-      "count": 868
-    },
-    {
-      "level": 3,
-      "file": "level-3.json",
-      "count": 1167
-    },
-    {
-      "level": 4,
-      "file": "level-4.json",
-      "count": 1066
-    },
-    {
-      "level": 5,
-      "file": "level-5.json",
-      "count": 1462
-    },
-    {
-      "level": 6,
-      "file": "level-6.json",
-      "count": 1497
-    },
-    {
-      "level": 7,
-      "file": "level-7.json",
-      "count": 1500
-    }
-  ],
-  "source": "EJDict (Public Domain) + NGSL + google-10000-english + FrequencyWords en_50k (CC-BY 4.0, Lv6-7 candidates) + 人手検証(2026-07)",
-  "generatedAt": "2026-07-05T17:51:52.347Z",
-  "jaVerified": 8136
+ "category": "english",
+ "levels": [
+  {
+   "level": 1,
+   "file": "level-1.json",
+   "count": 841
+  },
+  {
+   "level": 2,
+   "file": "level-2.json",
+   "count": 1048
+  },
+  {
+   "level": 3,
+   "file": "level-3.json",
+   "count": 1683
+  },
+  {
+   "level": 4,
+   "file": "level-4.json",
+   "count": 1473
+  },
+  {
+   "level": 5,
+   "file": "level-5.json",
+   "count": 1029
+  },
+  {
+   "level": 6,
+   "file": "level-6.json",
+   "count": 1029
+  },
+  {
+   "level": 7,
+   "file": "level-7.json",
+   "count": 1029
+  }
+ ],
+ "total": 8132,
+ "verified": 8132,
+ "jaVerified": 8132,
+ "source": "curated + CEFR-J/Octanove vocabulary profile levels"
 }
