@@ -31,6 +31,8 @@ LANGS = {
     'pl': ('Polish', 'polish'), 'hi': ('Hindi', 'hindi'), 'ar': ('Arabic', 'arabic'),
     'tl': ('Tagalog', 'tagalog'), 'it': ('Italian', 'italian'),
     'mn': ('Mongolian', 'mongolian'), 'bn': ('Bengali', 'bengali'),
+    'ms': ('Malay', 'malay'), 'id': ('Indonesian', 'indonesian'),
+    'ur': ('Urdu', 'urdu'), 'tr': ('Turkish', 'turkish'),
 }
 BAD_POS = {'conj', 'prep', 'postp', 'particle', 'pron', 'num', 'det', 'intj', 'prefix',
            'suffix', 'infix', 'character', 'punct', 'symbol', 'name', 'phrase', 'proverb', 'article'}
