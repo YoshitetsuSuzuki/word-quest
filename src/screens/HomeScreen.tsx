@@ -6,6 +6,7 @@ import { getRaidView } from '../modules/raid/raidLogic'
 import { getMissionViews } from '../modules/mission/missionLogic'
 import { ProgressBar } from '../components/ProgressBar'
 import { DailyLoopCard } from '../components/DailyLoopCard'
+import { FriendsHomeCard } from '../modules/friends/FriendsHomeCard'
 import { WeeklyChart } from '../components/WeeklyChart'
 import { PetWidget } from '../components/PetWidget'
 import { UpdateBanner } from '../components/UpdateBanner'
@@ -126,6 +127,9 @@ export function HomeScreen() {
 
       {/* 今日の一式(デイリーループ) */}
       <DailyLoopCard />
+
+      {/* フレンド: 毎日見るホームに置く(ランキング内のタブだけだと気づかれない) */}
+      <FriendsHomeCard />
 
       {/* ジャンル選択（プラットフォームの横展開） */}
       <div>

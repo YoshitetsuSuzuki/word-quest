@@ -1,6 +1,10 @@
 import { createRoot } from 'react-dom/client'
 import { registerSW } from 'virtual:pwa-register'
 import './index.css'
+import { loadTheme, applyTheme } from './state/theme'
+
+// 最初の描画前にテーマを当てる（当てないと既定色が一瞬見えてちらつく）
+applyTheme(loadTheme())
 import App from './App'
 import { GameProvider } from './state/GameContext'
 

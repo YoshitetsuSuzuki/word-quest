@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import { useGame } from '../state/GameContext'
 import { useNav } from '../state/nav'
+import { THEMES, type ThemeId } from '../state/theme'
 import { achievements } from '../data/achievements.config'
 import { equippedTitle, equippedFrameClass } from '../modules/shop/shopLogic'
 import { featureFlags } from '../config/featureFlags'
@@ -12,6 +13,8 @@ export function ProfileScreen() {
   const { user, resetAll } = useGame()
   const {
     soundEnabled,
+    theme,
+    setTheme,
     showIpa,
     setShowIpa,
     setSoundEnabled,
@@ -119,6 +122,25 @@ export function ProfileScreen() {
             >
               English
             </button>
+          </div>
+        </div>
+
+        {/* 配色テーマ。色は CSS 変数なので、押した瞬間に全画面へ反映される */}
+        <div className="border-t border-white/5 pt-2 mt-2">
+          <div className="text-sm text-white/70 mb-2">{t('profile.theme')}</div>
+          <div className="grid grid-cols-3 gap-2">
+            {THEMES.map((id: ThemeId) => (
+              <button
+                key={id}
+                onClick={() => setTheme(id)}
+                aria-pressed={theme === id}
+                className={`py-2 rounded-lg text-xs font-bold border transition ${
+                  theme === id ? 'bg-accent/20 text-accent border-accent/50' : 'bg-panel2 text-white/50 border-transparent'
+                }`}
+              >
+                {t(`theme.${id}` as never)}
+              </button>
+            ))}
           </div>
         </div>
 

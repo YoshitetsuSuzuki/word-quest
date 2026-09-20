@@ -35,6 +35,7 @@ import { StudyScreen } from './screens/StudyScreen'
 import { LeagueScreen } from './screens/LeagueScreen'
 import { WorldMapScreen } from './screens/WorldMapScreen'
 import { MatchScreen } from './screens/MatchScreen'
+import { loadTheme, applyTheme, saveTheme, type ThemeId } from './state/theme'
 
 const CATEGORY_KEY = 'wordquest.category'
 
@@ -57,6 +58,7 @@ export default function App() {
   const [customIds, setCustomIds] = useState<string[] | null>(null)
   const [soundEnabled, setSoundEnabledState] = useState(() => localStorage.getItem('wordquest.sound') !== 'off')
   const [studyLevel, setStudyLevelState] = useState<number>(() => Number(localStorage.getItem('wordquest.level') ?? 0))
+  const [theme, setThemeState] = useState<ThemeId>(loadTheme)
   const [showIpa, setShowIpaState] = useState(() => localStorage.getItem('wordquest.showIpa') === 'on')
   const [sfxEnabled, setSfxEnabledState] = useState(() => localStorage.getItem('wordquest.sfx') !== 'off')
   const [sfxVolume, setSfxVolumeState] = useState(() => numFromLS('wordquest.sfxVol', 0.6))
@@ -73,6 +75,11 @@ export default function App() {
   const setSoundEnabled = (v: boolean) => {
     setSoundEnabledState(v)
     localStorage.setItem('wordquest.sound', v ? 'on' : 'off')
+  }
+  const setTheme = (v: ThemeId) => {
+    setThemeState(v)
+    applyTheme(v)
+    saveTheme(v)
   }
   const setShowIpa = (v: boolean) => {
     setShowIpaState(v)
@@ -164,6 +171,8 @@ export default function App() {
         customIds,
         setCustomIds,
         soundEnabled,
+        theme,
+        setTheme,
         showIpa,
         setShowIpa,
         setSoundEnabled,

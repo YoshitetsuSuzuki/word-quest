@@ -2,9 +2,55 @@
 @tailwind components;
 @tailwind utilities;
 
-:root {
+/* ------------------------------------------------------------------
+   テーマ（配色）。data-theme 属性で切り替える。
+   色をここに集約しているので、テーマを足すときはブロックを1つ増やすだけでよい。
+   ------------------------------------------------------------------ */
+:root,
+:root[data-theme='night'] {
   color-scheme: dark;
+  --c-night: #0e1020;
+  --c-panel: #191c31;
+  --c-panel2: #22263f;
+  --c-accent: #7c5cff;
+  --c-accent2: #00e0c6;
+  --c-gold: #ffcc4d;
+  --c-danger: #ff5470;
+  --c-success: #3ddc97;
+  --c-btn-shadow: #5a3fd6;
 }
+
+/* 森: 深緑に若葉と琥珀。目に優しく、長時間でも疲れにくい */
+:root[data-theme='forest'] {
+  color-scheme: dark;
+  --c-night: #0c1711;
+  --c-panel: #13241b;
+  --c-panel2: #1b3226;
+  --c-accent: #3f9c5c;
+  --c-accent2: #8fe388;
+  --c-gold: #e8b84b;
+  --c-danger: #e06a5c;
+  --c-success: #6ed49a;
+  --c-btn-shadow: #2c7040;
+}
+
+/* 夕焼け: 暗い紫から橙へ。夜の学習でも沈みすぎない */
+:root[data-theme='sunset'] {
+  color-scheme: dark;
+  --c-night: #1a0f1c;
+  --c-panel: #2a1729;
+  --c-panel2: #3b2038;
+  --c-accent: #ff7a59;
+  --c-accent2: #ffb26b;
+  --c-gold: #ffd76e;
+  --c-danger: #ff5470;
+  --c-success: #6ed49a;
+  --c-btn-shadow: #c4543a;
+}
+
+/* 「紙」(ライトテーマ)は未実装。文字色が text-white 系で 230 箇所に直書きされており、
+   明るい背景にすると全画面が読めなくなる。色だけ差し替えても成立しないので、
+   文字色を変数化してから改めて追加する。 */
 
 html,
 body,
@@ -23,7 +69,7 @@ body,
 
 body {
   margin: 0;
-  background: radial-gradient(1200px 600px at 50% -10%, #22263f 0%, #0e1020 55%);
+  background: radial-gradient(1200px 600px at 50% -10%, var(--c-panel2) 0%, var(--c-night) 55%);
   color: #eef0ff;
   font-family: system-ui, -apple-system, 'Segoe UI', 'Hiragino Kaku Gothic ProN', 'Noto Sans JP', sans-serif;
   -webkit-tap-highlight-color: transparent;
@@ -35,7 +81,7 @@ body {
   width: 6px;
 }
 ::-webkit-scrollbar-thumb {
-  background: #3a3f63;
+  background: var(--c-panel2);
   border-radius: 3px;
 }
 
@@ -47,7 +93,12 @@ body {
     @apply rounded-xl font-bold transition active:scale-95 disabled:opacity-40 disabled:active:scale-100;
   }
   .btn-primary {
-    @apply btn bg-accent text-white shadow-[0_6px_0_0_#5a3fd6] active:shadow-[0_2px_0_0_#5a3fd6] active:translate-y-1;
+    /* 影はテーマごとの濃い色。直書きだとテーマを変えても紫の影が残る */
+    @apply btn bg-accent text-white active:translate-y-1;
+    box-shadow: 0 6px 0 0 var(--c-btn-shadow);
+  }
+  .btn-primary:active {
+    box-shadow: 0 2px 0 0 var(--c-btn-shadow);
   }
   .btn-ghost {
     @apply btn bg-panel2 text-white/90 border border-white/10;

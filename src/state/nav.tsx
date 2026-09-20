@@ -1,5 +1,6 @@
 import { createContext, useContext } from 'react'
 import type { Category } from '../types'
+import type { ThemeId } from './theme'
 import type { Locale, Strings } from '../i18n/types'
 
 export type Screen =
@@ -31,6 +32,9 @@ interface NavApi {
   /** 発音の自動再生ON/OFF */
   soundEnabled: boolean
   setSoundEnabled: (v: boolean) => void
+  /** 配色テーマ */
+  theme: ThemeId
+  setTheme: (v: ThemeId) => void
   /** 発音記号(IPA)を表示するか。既定OFF＝日本語話者に読めないIPAを隠す */
   showIpa: boolean
   setShowIpa: (v: boolean) => void

@@ -136,6 +136,28 @@ export interface Strings {
   'comeback.b.m6': string
   'comeback.t.y1': string
   'comeback.b.y1': string
+  'friendsCard.joinTitle': string
+  'friendsCard.joinBody': string
+  'friendsCard.title': string
+  'friendsCard.empty': string
+  'friendsCard.slacking': string
+  'friendsCard.top': string
+  'friendsCard.nudged': string
+  'quiz.autoPlayToggle': string
+  'quiz.autoPlayShort': string
+  'quiz.autoPlayOn': string
+  'quiz.autoPlayOff': string
+  'quiz.shareImage': string
+  'shareCard.title': string
+  'shareCard.streak': string
+  'shareCard.learned': string
+  'shareCard.today': string
+  'shareCard.appName': string
+  'shareCard.tagline': string
+  'profile.theme': string
+  'theme.night': string
+  'theme.forest': string
+  'theme.sunset': string
   'notify.streakTitle': string; 'notify.streakBody': string
   'notify.leagueTitle': string; 'notify.leagueBody': string
   'raid.how': string; 'raid.remainPre': string; 'raid.remainPost': string

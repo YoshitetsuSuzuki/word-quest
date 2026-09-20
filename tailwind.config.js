@@ -4,15 +4,16 @@ export default {
   theme: {
     extend: {
       colors: {
-        // ゲームらしいネオン系パレット
-        night: '#0e1020',
-        panel: '#191c31',
-        panel2: '#22263f',
-        accent: '#7c5cff',
-        accent2: '#00e0c6',
-        gold: '#ffcc4d',
-        danger: '#ff5470',
-        success: '#3ddc97',
+        // テーマ切替のため CSS 変数を参照する。既定値(夜空)は index.css の :root に置く。
+        // 色そのものをここに書くと、テーマごとに全クラスを作り直すことになる。
+        night: 'var(--c-night)',
+        panel: 'var(--c-panel)',
+        panel2: 'var(--c-panel2)',
+        accent: 'var(--c-accent)',
+        accent2: 'var(--c-accent2)',
+        gold: 'var(--c-gold)',
+        danger: 'var(--c-danger)',
+        success: 'var(--c-success)',
       },
       keyframes: {
         pop: {

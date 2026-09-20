@@ -12,6 +12,9 @@ import { comboTierOf, isComboMilestone } from '../core/comboTier'
 import { Analytics } from '../services/Analytics'
 import { ReviewPromptService } from '../services/ReviewPromptService'
 import { ShareService } from '../services/ShareService'
+import { shareCardImage } from '../services/ShareImage'
+import { getCategoryInfo } from '../data/categories'
+import { activePet } from '../core/PetEngine'
 import { petBonus } from '../core/PetEngine'
 import { todayStr } from '../state/dateUtils'
 import { wordErrorReportUrl } from '../utils/report'
@@ -26,7 +29,7 @@ const SPEED_MS = 4000 // スピードモードの1問あたり制限時間（8�
 export function QuizScreen() {
   const game = useGame()
   const { user, engine, answerQuestion, ensureCategory, isCategoryReady, toggleDeck, toggleExampleDeck } = game
-  const { quizMode, navigate, category, customIds, setCustomIds, soundEnabled, studyLevel, sfxEnabled, sfxVolume, t, locale , showIpa} = useNav()
+  const { quizMode, navigate, category, customIds, setCustomIds, soundEnabled, setSoundEnabled, studyLevel, sfxEnabled, sfxVolume, t, locale , showIpa} = useNav()
 
   const showInterstitial = useInterstitial()
   const ready = isCategoryReady(category)
@@ -224,6 +227,30 @@ export function QuizScreen() {
         .replace('{combo}', String(combo))
       void ShareService.share(text)
     }
+    /** ストーリーに載せられるよう、成果を9:16の画像にして共有する */
+    const shareImage = () => {
+      void shareCardImage(
+        {
+          petName: activePet(user).name?.trim() || t('pet.name'),
+          streak: user.studyStreak,
+          learned: user.learnedQuestionIds.length,
+          todayCount: sessionCorrect,
+          languageLabel: getCategoryInfo(category).label,
+          text: {
+            title: t('shareCard.title'),
+            streakLabel: t('shareCard.streak'),
+            learnedLabel: t('shareCard.learned'),
+            todayLabel: t('shareCard.today'),
+            appName: t('shareCard.appName'),
+            tagline: t('shareCard.tagline'),
+          },
+        },
+        t('share.quizText')
+          .replace('{correct}', String(sessionCorrect))
+          .replace('{total}', String(questions.length))
+          .replace('{combo}', String(combo)),
+      )
+    }
 
     return (
       <div className="text-center py-10 animate-slideUp">
@@ -240,9 +267,15 @@ export function QuizScreen() {
           </button>
         )}
         {ShareService.canShare() && (
-          <button className="btn-ghost w-full py-3 mt-3 text-sm" onClick={shareResult}>
-            {t('quiz.share')}
-          </button>
+          <div className="grid grid-cols-2 gap-3 mt-3">
+            {/* 画像シェア: Instagram のストーリー等はテキストを載せられないので 9:16 の画像を作る */}
+            <button className="btn-primary py-3 text-sm" onClick={shareImage}>
+              {t('quiz.shareImage')}
+            </button>
+            <button className="btn-ghost py-3 text-sm" onClick={shareResult}>
+              {t('quiz.share')}
+            </button>
+          </div>
         )}
         <div className="mt-6 grid grid-cols-2 gap-3">
           <button className="btn-ghost py-3" onClick={goHome}>
@@ -317,6 +350,20 @@ export function QuizScreen() {
                 className="w-7 h-7 grid place-items-center rounded-full bg-white/10 active:scale-90 transition text-sm"
               >
                 🔊
+              </button>
+            )}
+            {/* 自動再生の切替。電車の中などで設定画面まで潜らずに止められるようにする */}
+            {canSpeakCategory(category) && (
+              <button
+                onClick={() => setSoundEnabled(!soundEnabled)}
+                aria-label={t('quiz.autoPlayToggle')}
+                aria-pressed={soundEnabled}
+                title={soundEnabled ? t('quiz.autoPlayOn') : t('quiz.autoPlayOff')}
+                className={`h-7 px-2 grid place-items-center rounded-full text-[10px] font-black active:scale-90 transition ${
+                  soundEnabled ? 'bg-accent2/20 text-accent2' : 'bg-white/10 text-white/35 line-through'
+                }`}
+              >
+                {t('quiz.autoPlayShort')}
               </button>
             )}
           </div>
