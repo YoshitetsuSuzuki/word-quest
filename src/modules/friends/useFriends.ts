@@ -54,7 +54,9 @@ export function useFriends() {
     save(K.code, c)
     return c
   })
-  const [displayName, setNameState] = useState(() => ls(K.name) || DEFAULT_NAME)
+  // 既にアプリ内で名乗っている名前を初期値にする。改めて「ななしさん」から
+  // 始めさせるのは二度手間なので、user.name を引き継ぐ。
+  const [displayName, setNameState] = useState(() => ls(K.name) || sanitizeName(user.name) || DEFAULT_NAME)
   const [joined, setJoined] = useState(() => ls(K.joined) === 'on')
   const [friends, setFriends] = useState<FriendEntry[]>([])
   const [pendingNudges, setPending] = useState<string[]>([])
