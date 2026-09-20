@@ -55,7 +55,8 @@ export function NotificationCoordinator() {
         at: x.at,
         // 相棒の名前と、それまでに覚えた語数を差し込む
         title: t(`comeback.t.${x.key}` as never).replace('%s', petName),
-        body: t(`comeback.b.${x.key}` as never).replace('%s', petName).replace('%d', String(learnedCount)),
+        // 語数は3桁区切りにする（1235語より1,235語のほうが一目で量が伝わる）
+        body: t(`comeback.b.${x.key}` as never).replace('%s', petName).replace('%d', learnedCount.toLocaleString()),
       }))
       await NotificationService.scheduleComeback(items)
     })()
