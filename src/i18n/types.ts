@@ -116,6 +116,26 @@ export interface Strings {
   'cat.mongolian': string
   'cat.bengali': string
   'pet.newBadge': string; 'pet.addedPre': string; 'pet.addedSuffix': string
+  'comeback.t.d3': string
+  'comeback.b.d3': string
+  'comeback.t.d7': string
+  'comeback.b.d7': string
+  'comeback.t.d14': string
+  'comeback.b.d14': string
+  'comeback.t.m1': string
+  'comeback.b.m1': string
+  'comeback.t.m2': string
+  'comeback.b.m2': string
+  'comeback.t.m3': string
+  'comeback.b.m3': string
+  'comeback.t.m4': string
+  'comeback.b.m4': string
+  'comeback.t.m5': string
+  'comeback.b.m5': string
+  'comeback.t.m6': string
+  'comeback.b.m6': string
+  'comeback.t.y1': string
+  'comeback.b.y1': string
   'notify.streakTitle': string; 'notify.streakBody': string
   'notify.leagueTitle': string; 'notify.leagueBody': string
   'raid.how': string; 'raid.remainPre': string; 'raid.remainPost': string

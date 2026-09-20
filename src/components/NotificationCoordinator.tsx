@@ -3,12 +3,16 @@ import { useGame } from '../state/GameContext'
 import { useNav } from '../state/nav'
 import { NotificationService } from '../services/NotificationService'
 import { todayStr } from '../state/dateUtils'
+import { comebackSchedule } from '../modules/comeback/comebackPlan'
+import { activePet } from '../core/PetEngine'
 
 /**
  * 学習状況に応じたローカル通知の付け外し係（UIなし）。
  *   - ストリーク危機: 「今日まだ0問」の間だけ今夜21:30の単発通知を予約し、
  *     1問でも解いたら即解除する（既に学習した人に鳴らさない）。
  *   - リーグ結果: 毎週月曜8:00の繰り返し通知を1本だけ維持する。
+ *   - 復帰通知: 最終学習日を起点に3日後〜1年後まで10本を予約する。学習するたびに
+ *     貼り直すので、続けている人には一通も届かない（次の予約で常に先送りされる）。
  * すべてネイティブのみ・失敗しても無害（NotificationService側で no-op 保証）。
  */
 export function NotificationCoordinator() {
@@ -16,6 +20,8 @@ export function NotificationCoordinator() {
   const { t, locale } = useNav()
 
   const studiedToday = user.todayAnsweredDate === todayStr() && user.todayAnswered > 0
+  const petName = activePet(user).name?.trim() || t('pet.name')
+  const learnedCount = user.learnedQuestionIds.length
 
   useEffect(() => {
     if (!NotificationService.isSupported()) return
@@ -37,6 +43,24 @@ export function NotificationCoordinator() {
     })()
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [locale])
+
+  // 復帰通知。最終学習日が動くたびに10本まとめて貼り直す。
+  useEffect(() => {
+    if (!NotificationService.isSupported()) return
+    void (async () => {
+      if (!(await NotificationService.hasPermission())) return
+      const base = user.lastStudyDate ? new Date(`${user.lastStudyDate}T00:00:00`) : new Date()
+      const items = comebackSchedule(base).map((x) => ({
+        id: x.id,
+        at: x.at,
+        // 相棒の名前と、それまでに覚えた語数を差し込む
+        title: t(`comeback.t.${x.key}` as never).replace('%s', petName),
+        body: t(`comeback.b.${x.key}` as never).replace('%s', petName).replace('%d', String(learnedCount)),
+      }))
+      await NotificationService.scheduleComeback(items)
+    })()
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [user.lastStudyDate, petName, learnedCount, locale])
 
   return null
 }

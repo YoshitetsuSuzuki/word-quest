@@ -8,6 +8,10 @@
 // ============================================================================
 import { Capacitor } from '@capacitor/core'
 import { LocalNotifications } from '@capacitor/local-notifications'
+import { COMEBACK_ID_BASE, COMEBACK_STEPS } from '../modules/comeback/comebackPlan'
+
+/** 復帰通知の段数（キャンセル時に全IDを舐めるのに使う） */
+const COMEBACK_COUNT = COMEBACK_STEPS.length
 
 /** 毎日のリマインド通知ID（固定。再スケジュール時に上書きするため） */
 const DAILY_ID = 1001
@@ -148,6 +152,40 @@ export const NotificationService = {
       })
     } catch {
       // ベストエフォート
+    }
+  },
+
+  /**
+   * 復帰通知（相棒が呼ぶ体の文面）をまとめてセットする。
+   * 学習するたびに貼り直す設計。次に学習した時点で全部消えて、新しい最終学習日を
+   * 基準に引き直されるので、継続している人には一通も届かない。
+   */
+  async scheduleComeback(items: { id: number; at: Date; title: string; body: string }[]): Promise<void> {
+    if (!isNative()) return
+    try {
+      await this.cancelComeback()
+      if (!items.length) return
+      await LocalNotifications.schedule({
+        notifications: items.map((x) => ({
+          id: x.id,
+          title: x.title,
+          body: x.body,
+          schedule: { at: x.at, allowWhileIdle: true },
+        })),
+      })
+    } catch {
+      // ベストエフォート
+    }
+  },
+
+  /** 復帰通知を全部消す（学習を検知したとき・設定でOFFにしたとき） */
+  async cancelComeback(): Promise<void> {
+    if (!isNative()) return
+    try {
+      const ids = Array.from({ length: COMEBACK_COUNT }, (_, i) => ({ id: COMEBACK_ID_BASE + i }))
+      await LocalNotifications.cancel({ notifications: ids })
+    } catch {
+      // 無視
     }
   },
 }
