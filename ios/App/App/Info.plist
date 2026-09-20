@@ -50,5 +50,9 @@
 	<!-- AdMob App ID（本番・iOS） -->
 	<key>GADApplicationIdentifier</key>
 	<string>ca-app-pub-2458111871576392~8745998489</string>
+	<!-- 通信は HTTPS(TLS) のみ。標準の暗号化は輸出規制の対象外なので false。
+	     これが無いとアップロードのたびに輸出コンプライアンスを聞かれる。 -->
+	<key>ITSAppUsesNonExemptEncryption</key>
+	<false/>
 </dict>
 </plist>
