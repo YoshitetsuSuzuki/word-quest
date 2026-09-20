@@ -123,7 +123,7 @@ export const ja: Strings = {
   'comeback.t.m4': '%sが単語帳を読み返しています', 'comeback.b.m4': '%d語、ひとつも減ってないよ。続きからでいいんだ。',
   'comeback.t.m5': '%sが空をながめています', 'comeback.b.m5': '5ヶ月。おかえり、っていつか言いたいな。',
   'comeback.t.m6': '%sがまだここにいます', 'comeback.b.m6': '半年ぶり。%d語の続きから、ゆっくり始めよう。',
-  'comeback.t.y1': 'おかえり、と%sが言っています', 'comeback.b.y1': '1年ぶりだね。覚えた%d語はそのまま。またここから。',
+  'comeback.t.y1': '%sは「おかえり」を練習しています', 'comeback.b.y1': '1年。覚えた%d語はそのままだよ。きみが来たら言うんだ。',
   'notify.streakTitle': '🔥 連続記録が途切れそう！', 'notify.streakBody': '今日はまだ学習していません。1問だけでも解いて、記録をつなぎましょう。',
   'notify.leagueTitle': '🏆 リーグ結果発表！', 'notify.leagueBody': '先週のリーグが締め切られました。昇格できたか確認しましょう。',
   'raid.how': '正解1回 ＝ ボスに1ダメージ。世界中の冒険者と力を合わせてHPを削り切ろう。',

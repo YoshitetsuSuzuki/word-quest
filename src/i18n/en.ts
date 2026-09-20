@@ -123,7 +123,7 @@ export const en: Strings = {
   'comeback.t.m4': '%s is rereading your word list', 'comeback.b.m4': 'Not one of your %d words is gone. Pick up where you left off.',
   'comeback.t.m5': '%s is watching the sky', 'comeback.b.m5': 'Five months. I\'d love to say welcome back someday.',
   'comeback.t.m6': '%s is still here', 'comeback.b.m6': 'Half a year. Your %d words are waiting. No rush.',
-  'comeback.t.y1': '%s says welcome back', 'comeback.b.y1': 'A year! Your %d words never left. Start right here.',
+  'comeback.t.y1': '%s has been practising "welcome back"', 'comeback.b.y1': 'A year. Your %d words never left. Saving the words for when you show up.',
   'notify.streakTitle': '🔥 Your streak is at risk!', 'notify.streakBody': "You haven't studied today. Solve just one question to keep the streak alive.",
   'notify.leagueTitle': '🏆 League results are in!', 'notify.leagueBody': "Last week's league has closed. Check if you got promoted.",
   'raid.how': '1 correct answer = 1 damage to the boss. Team up with learners worldwide to bring its HP to zero.',
