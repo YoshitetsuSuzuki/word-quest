@@ -47,7 +47,7 @@ export function useFriends() {
     save(K.userId, id)
     return id
   })
-  const [myFriendCode] = useState(() => {
+  const [myFriendCode, setMyFriendCode] = useState(() => {
     const cur = ls(K.code)
     if (cur) return cur
     const c = generateFriendCode()
@@ -83,18 +83,29 @@ export function useFriends() {
   }, [])
 
   const join = useCallback(async (me: FriendEntry) => {
-    const p: MyProfile = {
-      userId: myUserId, displayName, friendCode: myFriendCode,
+    const mk = (code: string): MyProfile => ({
+      userId: myUserId, displayName, friendCode: code,
       streak: me.streak, weeklyWords: me.weeklyWords, lastStudyDate: me.lastStudyDate, category: me.category,
-    }
+    })
     try {
-      await backend.join(p)
-      setJoined(true)
-      save(K.joined, 'on')
-      await refresh()
-    } catch {
-      // 失敗しても参加扱いにはしない（次回また押せる）
+      await backend.join(mk(myFriendCode))
+    } catch (e) {
+      // フレンドコードが既存と重複した場合、コードは端末に保存済みなので
+      // 放置するとこの端末は二度と参加できなくなる。採番し直して一度だけ再試行する。
+      const dup = String(e).includes('23505') || /duplicate|unique/i.test(String(e))
+      if (!dup) return
+      const fresh = generateFriendCode()
+      try {
+        await backend.join(mk(fresh))
+        save(K.code, fresh)
+        setMyFriendCode(fresh)
+      } catch {
+        return // 二度目も失敗したら諦める（次回また押せる）
+      }
     }
+    setJoined(true)
+    save(K.joined, 'on')
+    await refresh()
   }, [myUserId, displayName, myFriendCode, refresh])
 
   const publish = useCallback(async (me: FriendEntry) => {

@@ -122,15 +122,15 @@ export const en: Strings = {
   'onboard.goalLight': '🌱 Casual', 'onboard.goalStd': '🔥 Steady', 'onboard.goalHard': '🚀 Serious',
   'onboard.goalUnit': ' / day', 'onboard.next': 'Next',
   'whatsnew.title': "✨ What's new", 'whatsnew.cta': 'Got it',
-  'whatsnew.i1': '🐉 Raids made clear: 1 correct = 1 damage, with chained attacks',
-  'whatsnew.i2': '🔔 A gentle heads-up only on nights your streak is at risk',
-  'whatsnew.i3': '🏆 League results delivered every Monday morning',
-  'whatsnew.i4': '🎯 New players now set a daily goal',
+  'whatsnew.i1': '📖 Swept all 16 languages (50k words): 1,400+ glosses corrected',
+  'whatsnew.i2': '👥 Friends: compare streaks and weekly words with your friends',
+  'whatsnew.i3': '👋 Nudge a friend who has not studied today (coins for both)',
+  'whatsnew.i4': '🔊 Pronunciations: every blank filled, notation errors fixed',
 
   'examplecard.myList': '★ My list', 'examplecard.listView': '☰ List', 'examplecard.cardView': '🃏 Cards',
   'examplecard.myListEmpty': 'Your list is empty. Save cards with the ☆ on each card.', 'examplecard.saved': '★ Saved',
   'update.available': 'A new version is available', 'update.cta': 'Update on the App Store',
   'ads.notReady': "The ad isn't ready yet. Please try again later.",
-  'whatsnew.i5': '📖 Example cards: ★ my list and list view',
+  'whatsnew.i5': '🔤 Hard-to-read IPA is hidden by default (toggle it in settings)',
 
 }
