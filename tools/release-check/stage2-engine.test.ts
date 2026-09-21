@@ -38,6 +38,8 @@ const LANG_LOCALES: { lang: Category; locales: ('ja' | 'en')[] }[] = [
   { lang: 'indonesian' as Category, locales: ['ja', 'en'] },
   { lang: 'urdu' as Category, locales: ['ja', 'en'] },
   { lang: 'turkish' as Category, locales: ['ja', 'en'] },
+  { lang: 'vietnamese' as Category, locales: ['ja', 'en'] },
+  { lang: 'esperanto' as Category, locales: ['ja', 'en'] },
 ]
 const LANGS: Category[] = LANG_LOCALES.map((x) => x.lang)
 const localesOf = (l: Category) => LANG_LOCALES.find((x) => x.lang === l)!.locales

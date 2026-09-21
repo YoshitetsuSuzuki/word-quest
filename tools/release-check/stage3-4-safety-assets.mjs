@@ -11,7 +11,11 @@ const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..', '.
 const outDir = path.join(root, 'release-check')
 fs.mkdirSync(outDir, { recursive: true })
 
-const LANGS = ['english', 'chinese', 'japanese', 'korean', 'spanish', 'german', 'french', 'portuguese', 'polish', 'russian']
+// 収録している全カテゴリを対象にする。以前は10言語しか見ておらず、
+// 後から足した言語が不適切語のスキャンから漏れていた。
+const LANGS = ['english', 'chinese', 'japanese', 'korean', 'spanish', 'german', 'french', 'portuguese',
+  'polish', 'russian', 'hindi', 'arabic', 'tagalog', 'italian', 'mongolian', 'bengali',
+  'malay', 'indonesian', 'urdu', 'turkish', 'vietnamese', 'esperanto']
 
 function loadAll(lang) {
   const dir = path.join(root, 'public', 'wordbank', lang)

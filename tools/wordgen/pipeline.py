@@ -33,6 +33,7 @@ LANGS = {
     'mn': ('Mongolian', 'mongolian'), 'bn': ('Bengali', 'bengali'),
     'ms': ('Malay', 'malay'), 'id': ('Indonesian', 'indonesian'),
     'ur': ('Urdu', 'urdu'), 'tr': ('Turkish', 'turkish'),
+    'vi': ('Vietnamese', 'vietnamese'), 'eo': ('Esperanto', 'esperanto'),
 }
 BAD_POS = {'conj', 'prep', 'postp', 'particle', 'pron', 'num', 'det', 'intj', 'prefix',
            'suffix', 'infix', 'character', 'punct', 'symbol', 'name', 'phrase', 'proverb', 'article'}
@@ -91,7 +92,14 @@ def _korean_stem_rank(word, freq):
 
 # wordfreq が持たない言語。指定しても近い言語にすり替えられて無意味な値になるため、
 # 自前の頻度リスト(.cache/<code>_50k.txt)だけを使う。
-NO_WORDFREQ = {'mn'}
+# エスペラントは wordfreq に無く、指定すると英語にすり替えられて無意味な値になる。
+# Tatoeba のエスペラント文コーパスから作った頻度リストを使う。
+NO_WORDFREQ = {'mn', 'eo'}
+
+# ベトナム語は音節を空白で区切って書くため、2音節語こそが語彙の主力になる
+# (học sinh=生徒, máy bay=飛行機)。空白を一律に複合語として落とすと語彙が壊れる。
+# wordfreq はベトナム語の2音節語にも妥当な値を返すので、しきい値はそのまま効く。
+MAX_SYLLABLES = {'vi': 2}
 
 
 def modern_score(word, code):
@@ -203,7 +211,7 @@ def run(code, wb, ej):
         if w in existing:
             drop['収録済み'] += 1
             continue
-        if ' ' in w or '-' in w:
+        if '-' in w or len(w.split(' ')) > MAX_SYLLABLES.get(code, 1):
             drop['複合語'] += 1
             continue
         if any(e.get('pos') in BAD_POS for e in es):

@@ -10,7 +10,8 @@ CAT={'pl':('polish','pl'),'ru':('russian','ru'),'pt':('portuguese','pt'),'ko':('
      'es':('spanish','es'),'fr':('french','fr'),'de':('german','de'),
      'hi':('hindi','hi'),'ar':('arabic','ar'),'tl':('tagalog','tl'),
      'it':('italian','it'),'mn':('mongolian','mn'),'bn':('bengali','bn'),
-     'ms':('malay','ms'),'id':('indonesian','id'),'ur':('urdu','ur'),'tr':('turkish','tr')}
+     'ms':('malay','ms'),'id':('indonesian','id'),'ur':('urdu','ur'),'tr':('turkish','tr'),
+     'vi':('vietnamese','vi'),'eo':('esperanto','eo')}
 code, stage = sys.argv[1], sys.argv[2]
 category, prefix = CAT[code]
 outdir=os.path.join(ROOT,'public','wordbank',category)

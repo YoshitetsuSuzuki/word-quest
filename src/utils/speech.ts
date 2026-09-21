@@ -184,6 +184,8 @@ export function langForCategory(category: Category): string {
     case 'indonesian': return 'id-ID'
     case 'urdu': return 'ur-PK'
     case 'turkish': return 'tr-TR'
+    case 'vietnamese': return 'vi-VN'
+    case 'esperanto': return 'eo'
     default: return 'en-US'
   }
 }
@@ -206,7 +208,7 @@ export function canSpeakCategory(category: Category): boolean {
 }
 
 /** iOS/Android の標準TTSに音声が無い言語（実測で0件だったもの） */
-const NO_TTS = new Set<Category>(['mongolian', 'tagalog', 'urdu'])
+const NO_TTS = new Set<Category>(['mongolian', 'tagalog', 'urdu', 'esperanto'])
 
 /** カテゴリに応じた言語で単語を読み上げる */
 export function speakWord(word: string, category: Category): void {

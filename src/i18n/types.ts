@@ -119,6 +119,8 @@ export interface Strings {
   'cat.indonesian': string
   'cat.urdu': string
   'cat.turkish': string
+  'cat.vietnamese': string
+  'cat.esperanto': string
   'pet.newBadge': string; 'pet.addedPre': string; 'pet.addedSuffix': string
   'comeback.t.d3': string
   'comeback.b.d3': string

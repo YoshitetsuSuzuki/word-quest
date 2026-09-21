@@ -4,7 +4,7 @@
  "method": "決定的ハッシュ(seed=\"wordquest-release-check-v1\")による無作為抽出。同じ結果が再現できる。",
  "note": "AIは正否を判定していない。humanVerdict は未記入。",
  "perLanguage": 30,
- "total": 300,
+ "total": 660,
  "items": [
   {
    "language": "english",
@@ -5817,6 +5817,7206 @@
    "glosses": {
     "en": "icebreaker",
     "ja": "砕氷船"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "hindi",
+   "id": "hi-00027",
+   "level": 1,
+   "prompt": "「सांस्कृतिक」の意味は？",
+   "answer": "cultural",
+   "choices": [
+    "terror",
+    "engine",
+    "cultural",
+    "vow"
+   ],
+   "example": null,
+   "pronunciation": "/sɑːn.skɾɪ.t̪ɪk/",
+   "glosses": {
+    "en": "cultural",
+    "ja": "文化的な"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "hindi",
+   "id": "hi-00087",
+   "level": 1,
+   "prompt": "「महत्त्वपूर्ण」の意味は？",
+   "answer": "important",
+   "choices": [
+    "turn",
+    "varied",
+    "important",
+    "to swim"
+   ],
+   "example": null,
+   "pronunciation": "/mə.ɦət̪.t̪ʋə.puːɾɳ/",
+   "glosses": {
+    "en": "important",
+    "ja": "重要な"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "hindi",
+   "id": "hi-00097",
+   "level": 1,
+   "prompt": "「कुत्ता」の意味は？",
+   "answer": "dog",
+   "choices": [
+    "dim",
+    "organizer",
+    "clean",
+    "dog"
+   ],
+   "example": null,
+   "pronunciation": "/kʊt̪.t̪ɑː/",
+   "glosses": {
+    "en": "dog",
+    "ja": "犬"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "hindi",
+   "id": "hi-01558",
+   "level": 3,
+   "prompt": "「मुख्यधारा」の意味は？",
+   "answer": "mainstream",
+   "choices": [
+    "mainstream",
+    "body",
+    "to cry",
+    "language"
+   ],
+   "example": null,
+   "pronunciation": "/mʊkʰ.jə.d̪ʱɑː.ɾɑː/",
+   "glosses": {
+    "en": "mainstream",
+    "ja": "主流"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "hindi",
+   "id": "hi-01440",
+   "level": 3,
+   "prompt": "「मंदी」の意味は？",
+   "answer": "recession",
+   "choices": [
+    "tool",
+    "lucky",
+    "slander",
+    "recession"
+   ],
+   "example": null,
+   "pronunciation": "/mən.d̪iː/",
+   "glosses": {
+    "en": "recession",
+    "ja": "景気後退"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "hindi",
+   "id": "hi-00132",
+   "level": 1,
+   "prompt": "「नियंत्रण」の意味は？",
+   "answer": "control",
+   "choices": [
+    "control",
+    "society",
+    "martyr",
+    "ton"
+   ],
+   "example": null,
+   "pronunciation": "/nɪ.jən.t̪ɾəɳ/",
+   "glosses": {
+    "en": "control",
+    "ja": "制御"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "hindi",
+   "id": "hi-00124",
+   "level": 1,
+   "prompt": "「विशिष्ट」の意味は？",
+   "answer": "special",
+   "choices": [
+    "community",
+    "fort",
+    "special",
+    "speaker"
+   ],
+   "example": null,
+   "pronunciation": "/ʋɪ.ʃɪʂʈ/",
+   "glosses": {
+    "en": "special",
+    "ja": "特別な"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "hindi",
+   "id": "hi-00024",
+   "level": 1,
+   "prompt": "「सिस्टम」の意味は？",
+   "answer": "system",
+   "choices": [
+    "peninsula",
+    "system",
+    "senate",
+    "an advertisement"
+   ],
+   "example": null,
+   "pronunciation": "/sɪs.ʈəm/",
+   "glosses": {
+    "en": "system",
+    "ja": "体系"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "hindi",
+   "id": "hi-00080",
+   "level": 1,
+   "prompt": "「कार्ड」の意味は？",
+   "answer": "card",
+   "choices": [
+    "beer",
+    "cargo",
+    "opportunity",
+    "card"
+   ],
+   "example": null,
+   "pronunciation": "/kɑːɾɖ/",
+   "glosses": {
+    "en": "card",
+    "ja": "カード"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "hindi",
+   "id": "hi-00096",
+   "level": 1,
+   "prompt": "「संपादक」の意味は？",
+   "answer": "an editor",
+   "choices": [
+    "to ask",
+    "priest",
+    "an editor",
+    "wildlife"
+   ],
+   "example": null,
+   "pronunciation": "/səm.pɑː.d̪ək/",
+   "glosses": {
+    "en": "an editor",
+    "ja": "編集者"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "hindi",
+   "id": "hi-00133",
+   "level": 1,
+   "prompt": "「कमीशन」の意味は？",
+   "answer": "commission",
+   "choices": [
+    "inflation",
+    "commission",
+    "pistol",
+    "dew"
+   ],
+   "example": null,
+   "pronunciation": "/kə.miː.ʃən/",
+   "glosses": {
+    "en": "commission",
+    "ja": "手数料"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "hindi",
+   "id": "hi-00123",
+   "level": 1,
+   "prompt": "「पुरुष」の意味は？",
+   "answer": "man",
+   "choices": [
+    "man",
+    "cinema",
+    "injury",
+    "midwife"
+   ],
+   "example": null,
+   "pronunciation": "/pʊ.ɾʊʂ/",
+   "glosses": {
+    "en": "man",
+    "ja": "男"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "hindi",
+   "id": "hi-00025",
+   "level": 1,
+   "prompt": "「दुकान」の意味は？",
+   "answer": "shop",
+   "choices": [
+    "destructive",
+    "result",
+    "lecture",
+    "shop"
+   ],
+   "example": null,
+   "pronunciation": "/d̪ʊ.kɑːn/",
+   "glosses": {
+    "en": "shop",
+    "ja": "店"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "hindi",
+   "id": "hi-00081",
+   "level": 1,
+   "prompt": "「भूलना」の意味は？",
+   "answer": "to forget",
+   "choices": [
+    "harassment",
+    "to forget",
+    "goodness",
+    "kind"
+   ],
+   "example": null,
+   "pronunciation": "/bʱuːl.nɑː/",
+   "glosses": {
+    "en": "to forget",
+    "ja": "忘れる"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "hindi",
+   "id": "hi-00095",
+   "level": 1,
+   "prompt": "「छुट्टी」の意味は？",
+   "answer": "leave",
+   "choices": [
+    "leave",
+    "semolina",
+    "truth",
+    "possibly"
+   ],
+   "example": null,
+   "pronunciation": "/t͡ʃʰʊʈ.ʈiː/",
+   "glosses": {
+    "en": "leave",
+    "ja": "休暇"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "hindi",
+   "id": "hi-00122",
+   "level": 1,
+   "prompt": "「पहुँचना」の意味は？",
+   "answer": "to arrive",
+   "choices": [
+    "engagement",
+    "peacock",
+    "to arrive",
+    "encouragement"
+   ],
+   "example": null,
+   "pronunciation": "/pə.ɦʊ̃t͡ʃ.nɑː/",
+   "glosses": {
+    "en": "to arrive",
+    "ja": "到着する"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "hindi",
+   "id": "hi-00082",
+   "level": 1,
+   "prompt": "「मुक़दमा」の意味は？",
+   "answer": "case",
+   "choices": [
+    "dividend",
+    "rhinoceros",
+    "heater",
+    "case"
+   ],
+   "example": null,
+   "pronunciation": "/mʊ.qəd̪.mɑː/",
+   "glosses": {
+    "en": "case",
+    "ja": "訴訟"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "hindi",
+   "id": "hi-00094",
+   "level": 1,
+   "prompt": "「सांस」の意味は？",
+   "answer": "breath",
+   "choices": [
+    "disrespect",
+    "team",
+    "singing",
+    "breath"
+   ],
+   "example": null,
+   "pronunciation": "/sɑːns/",
+   "glosses": {
+    "en": "breath",
+    "ja": "息"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "hindi",
+   "id": "hi-00121",
+   "level": 1,
+   "prompt": "「पुस्तकालय」の意味は？",
+   "answer": "library",
+   "choices": [
+    "society",
+    "destroyer",
+    "library",
+    "gunpowder"
+   ],
+   "example": null,
+   "pronunciation": "/pʊs.t̪ə.kɑː.ləj/",
+   "glosses": {
+    "en": "library",
+    "ja": "図書館"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "hindi",
+   "id": "hi-00083",
+   "level": 1,
+   "prompt": "「क्षेत्रफल」の意味は？",
+   "answer": "area",
+   "choices": [
+    "burial",
+    "sin",
+    "tax",
+    "area"
+   ],
+   "example": null,
+   "pronunciation": "/kʂeːt̪.ɾə.pʰəl/",
+   "glosses": {
+    "en": "area",
+    "ja": "面積"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "hindi",
+   "id": "hi-00093",
+   "level": 1,
+   "prompt": "「राजनीति」の意味は？",
+   "answer": "politics",
+   "choices": [
+    "politics",
+    "an application",
+    "sheep",
+    "dim"
+   ],
+   "example": null,
+   "pronunciation": "/ɾɑːd͡ʒ.niː.t̪iː/",
+   "glosses": {
+    "en": "politics",
+    "ja": "政治"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "hindi",
+   "id": "hi-01578",
+   "level": 3,
+   "prompt": "「शहीद」の意味は？",
+   "answer": "martyr",
+   "choices": [
+    "martyr",
+    "morality",
+    "spouse",
+    "cricketer"
+   ],
+   "example": null,
+   "pronunciation": "/ʃə.ɦiːd̪/",
+   "glosses": {
+    "en": "martyr",
+    "ja": "殉教者"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "hindi",
+   "id": "hi-00120",
+   "level": 1,
+   "prompt": "「लड़ना」の意味は？",
+   "answer": "to fight",
+   "choices": [
+    "fence",
+    "to fight",
+    "mourning",
+    "sociology"
+   ],
+   "example": null,
+   "pronunciation": "/ləɽ.nɑː/",
+   "glosses": {
+    "en": "to fight",
+    "ja": "戦う"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "hindi",
+   "id": "hi-00028",
+   "level": 1,
+   "prompt": "「वज़न」の意味は？",
+   "answer": "weight",
+   "choices": [
+    "unhealthy",
+    "jacket",
+    "job",
+    "weight"
+   ],
+   "example": null,
+   "pronunciation": "/ʋə.zən/",
+   "glosses": {
+    "en": "weight",
+    "ja": "重さ"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "hindi",
+   "id": "hi-00092",
+   "level": 1,
+   "prompt": "「सड़क」の意味は？",
+   "answer": "road",
+   "choices": [
+    "army",
+    "formidable",
+    "road",
+    "corruption"
+   ],
+   "example": null,
+   "pronunciation": "/sə.ɽək/",
+   "glosses": {
+    "en": "road",
+    "ja": "道"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "hindi",
+   "id": "hi-00029",
+   "level": 1,
+   "prompt": "「भूल」の意味は？",
+   "answer": "mistake",
+   "choices": [
+    "important",
+    "criterion",
+    "breath",
+    "mistake"
+   ],
+   "example": null,
+   "pronunciation": "/bʱuːl/",
+   "glosses": {
+    "en": "mistake",
+    "ja": "誤り"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "hindi",
+   "id": "hi-00091",
+   "level": 1,
+   "prompt": "「लड़का」の意味は？",
+   "answer": "boy",
+   "choices": [
+    "spy",
+    "treatment",
+    "boy",
+    "terrible"
+   ],
+   "example": null,
+   "pronunciation": "/ləɽ.kɑː/",
+   "glosses": {
+    "en": "boy",
+    "ja": "少年"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "hindi",
+   "id": "hi-00978",
+   "level": 2,
+   "prompt": "「क्रिस्टल」の意味は？",
+   "answer": "crystal",
+   "choices": [
+    "angle",
+    "crystal",
+    "temperature",
+    "to bend"
+   ],
+   "example": null,
+   "pronunciation": "/kɾɪs.ʈəl/",
+   "glosses": {
+    "en": "crystal",
+    "ja": "水晶"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "hindi",
+   "id": "hi-00090",
+   "level": 1,
+   "prompt": "「अंतरराष्ट्रीय」の意味は？",
+   "answer": "international",
+   "choices": [
+    "to touch",
+    "classmate",
+    "definition",
+    "international"
+   ],
+   "example": null,
+   "pronunciation": "/ən.t̪əɾ.ɾɑːʂ.ʈɾiː.jᵊ/",
+   "glosses": {
+    "en": "international",
+    "ja": "国際的な"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "hindi",
+   "id": "hi-00979",
+   "level": 2,
+   "prompt": "「निगम」の意味は？",
+   "answer": "corporation",
+   "choices": [
+    "basketball",
+    "loneliness",
+    "window",
+    "corporation"
+   ],
+   "example": null,
+   "pronunciation": "/nɪ.ɡəm/",
+   "glosses": {
+    "en": "corporation",
+    "ja": "企業"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "arabic",
+   "id": "ar-00101",
+   "level": 1,
+   "prompt": "「قديم」の意味は？",
+   "answer": "old",
+   "choices": [
+    "old",
+    "porter",
+    "to subdue",
+    "consumer"
+   ],
+   "example": null,
+   "pronunciation": "/qa.diːm/",
+   "glosses": {
+    "en": "old",
+    "ja": "古い"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "arabic",
+   "id": "ar-00239",
+   "level": 1,
+   "prompt": "「دقة」の意味は？",
+   "answer": "accuracy",
+   "choices": [
+    "accuracy",
+    "crisis",
+    "harp",
+    "to exclude"
+   ],
+   "example": null,
+   "pronunciation": "/diq.qa/",
+   "glosses": {
+    "en": "accuracy",
+    "ja": "正確さ"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "arabic",
+   "id": "ar-00100",
+   "level": 1,
+   "prompt": "「نهائي」の意味は？",
+   "answer": "final",
+   "choices": [
+    "to overthrow",
+    "final",
+    "tennis",
+    "vein"
+   ],
+   "example": null,
+   "pronunciation": "/ni.haː.ʔijj/",
+   "glosses": {
+    "en": "final",
+    "ja": "最終的な"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "arabic",
+   "id": "ar-00238",
+   "level": 1,
+   "prompt": "「إيجابي」の意味は？",
+   "answer": "positive",
+   "choices": [
+    "positive",
+    "minaret",
+    "rarely",
+    "significance"
+   ],
+   "example": null,
+   "pronunciation": "/ʔiː.d͡ʒaː.bijj/",
+   "glosses": {
+    "en": "positive",
+    "ja": "前向きな"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "arabic",
+   "id": "ar-00103",
+   "level": 1,
+   "prompt": "「مسؤولية」の意味は？",
+   "answer": "responsibility",
+   "choices": [
+    "responsibility",
+    "cinnamon",
+    "sauce",
+    "sectarian"
+   ],
+   "example": null,
+   "pronunciation": "/mas.ʔuː.lij.ja/",
+   "glosses": {
+    "en": "responsibility",
+    "ja": "責任"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "arabic",
+   "id": "ar-00102",
+   "level": 1,
+   "prompt": "「ملكة」の意味は？",
+   "answer": "queen",
+   "choices": [
+    "crown",
+    "queen",
+    "lazy",
+    "small"
+   ],
+   "example": null,
+   "pronunciation": "/ma.li.ka/",
+   "glosses": {
+    "en": "queen",
+    "ja": "女王"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "arabic",
+   "id": "ar-00174",
+   "level": 1,
+   "prompt": "「عقوبة」の意味は？",
+   "answer": "punishment",
+   "choices": [
+    "punishment",
+    "millennium",
+    "quarry",
+    "juice"
+   ],
+   "example": null,
+   "pronunciation": "/ʕu.quː.ba/",
+   "glosses": {
+    "en": "punishment",
+    "ja": "罰"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "arabic",
+   "id": "ar-00105",
+   "level": 1,
+   "prompt": "「جنيه」の意味は？",
+   "answer": "pound",
+   "choices": [
+    "cow",
+    "taxi",
+    "pound",
+    "instantly"
+   ],
+   "example": null,
+   "pronunciation": "/d͡ʒu.najh/",
+   "glosses": {
+    "en": "pound",
+    "ja": "ポンド"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "arabic",
+   "id": "ar-00175",
+   "level": 1,
+   "prompt": "「راديو」の意味は？",
+   "answer": "radio",
+   "choices": [
+    "radio",
+    "to mutter",
+    "onion",
+    "shrimp"
+   ],
+   "example": null,
+   "pronunciation": "/raːd.joː/",
+   "glosses": {
+    "en": "radio",
+    "ja": "ラジオ"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "arabic",
+   "id": "ar-00104",
+   "level": 1,
+   "prompt": "「ممثل」の意味は？",
+   "answer": "actor",
+   "choices": [
+    "actor",
+    "threshold",
+    "to exhale",
+    "lighthouse"
+   ],
+   "example": null,
+   "pronunciation": "/mu.maθ.θil/",
+   "glosses": {
+    "en": "actor",
+    "ja": "俳優"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "arabic",
+   "id": "ar-00176",
+   "level": 1,
+   "prompt": "「حتما」の意味は？",
+   "answer": "certainly",
+   "choices": [
+    "especially",
+    "cholesterol",
+    "moderate",
+    "certainly"
+   ],
+   "example": null,
+   "pronunciation": "/ħat.man/",
+   "glosses": {
+    "en": "certainly",
+    "ja": "必ず"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "arabic",
+   "id": "ar-00107",
+   "level": 1,
+   "prompt": "「طاقة」の意味は？",
+   "answer": "energy",
+   "choices": [
+    "gymnastics",
+    "petal",
+    "accountant",
+    "energy"
+   ],
+   "example": null,
+   "pronunciation": "/tˤaː.qa/",
+   "glosses": {
+    "en": "energy",
+    "ja": "エネルギー"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "arabic",
+   "id": "ar-00177",
+   "level": 1,
+   "prompt": "「أقسم」の意味は？",
+   "answer": "to swear",
+   "choices": [
+    "stubborn",
+    "dizziness",
+    "to swear",
+    "drummer"
+   ],
+   "example": null,
+   "pronunciation": "/ʔaq.sam/",
+   "glosses": {
+    "en": "to swear",
+    "ja": "誓う"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "arabic",
+   "id": "ar-00167",
+   "level": 1,
+   "prompt": "「نصيحة」の意味は？",
+   "answer": "advice",
+   "choices": [
+    "ease",
+    "advice",
+    "studio",
+    "opium"
+   ],
+   "example": null,
+   "pronunciation": "/na.sˤiː.ħa/",
+   "glosses": {
+    "en": "advice",
+    "ja": "忠告"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "arabic",
+   "id": "ar-00106",
+   "level": 1,
+   "prompt": "「جندي」の意味は？",
+   "answer": "soldier",
+   "choices": [
+    "avocado",
+    "papyrus",
+    "coffee",
+    "soldier"
+   ],
+   "example": null,
+   "pronunciation": "/d͡ʒun.dijj/",
+   "glosses": {
+    "en": "soldier",
+    "ja": "兵士"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "arabic",
+   "id": "ar-00170",
+   "level": 1,
+   "prompt": "「وكيل」の意味は？",
+   "answer": "agent",
+   "choices": [
+    "refrigerator",
+    "scissors",
+    "agent",
+    "hysteria"
+   ],
+   "example": null,
+   "pronunciation": "/wa.kiːl/",
+   "glosses": {
+    "en": "agent",
+    "ja": "代理人"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "arabic",
+   "id": "ar-00166",
+   "level": 1,
+   "prompt": "「والدة」の意味は？",
+   "answer": "mother",
+   "choices": [
+    "waist",
+    "mother",
+    "wicked",
+    "blanket"
+   ],
+   "example": null,
+   "pronunciation": "/waː.li.da/",
+   "glosses": {
+    "en": "mother",
+    "ja": "母"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "arabic",
+   "id": "ar-00109",
+   "level": 1,
+   "prompt": "「فورا」の意味は？",
+   "answer": "instantly",
+   "choices": [
+    "robot",
+    "negotiation",
+    "beard",
+    "instantly"
+   ],
+   "example": null,
+   "pronunciation": "/faw.ran/",
+   "glosses": {
+    "en": "instantly",
+    "ja": "すぐに"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "arabic",
+   "id": "ar-00171",
+   "level": 1,
+   "prompt": "「ضيف」の意味は？",
+   "answer": "guest",
+   "choices": [
+    "electronics",
+    "to fly",
+    "frigate",
+    "guest"
+   ],
+   "example": null,
+   "pronunciation": "/dˤajf/",
+   "glosses": {
+    "en": "guest",
+    "ja": "来客"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "arabic",
+   "id": "ar-00165",
+   "level": 1,
+   "prompt": "「لاحظ」の意味は？",
+   "answer": "to notice",
+   "choices": [
+    "baron",
+    "real",
+    "to notice",
+    "cannon"
+   ],
+   "example": null,
+   "pronunciation": "/laː.ħaðˤ/",
+   "glosses": {
+    "en": "to notice",
+    "ja": "気づく"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "arabic",
+   "id": "ar-00108",
+   "level": 1,
+   "prompt": "「كنيسة」の意味は？",
+   "answer": "church",
+   "choices": [
+    "church",
+    "strait",
+    "peeler",
+    "remainder"
+   ],
+   "example": null,
+   "pronunciation": "/ka.niː.sa/",
+   "glosses": {
+    "en": "church",
+    "ja": "教会"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "arabic",
+   "id": "ar-00172",
+   "level": 1,
+   "prompt": "「غالبية」の意味は？",
+   "answer": "majority",
+   "choices": [
+    "to sip",
+    "oak",
+    "majority",
+    "vice"
+   ],
+   "example": null,
+   "pronunciation": "/ɣaː.li.bij.ja/",
+   "glosses": {
+    "en": "majority",
+    "ja": "大多数"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "arabic",
+   "id": "ar-00164",
+   "level": 1,
+   "prompt": "「كوب」の意味は？",
+   "answer": "cup",
+   "choices": [
+    "human",
+    "cup",
+    "wife",
+    "decadence"
+   ],
+   "example": null,
+   "pronunciation": "/kuːb/",
+   "glosses": {
+    "en": "cup",
+    "ja": "コップ"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "arabic",
+   "id": "ar-00173",
+   "level": 1,
+   "prompt": "「كارثة」の意味は？",
+   "answer": "catastrophe",
+   "choices": [
+    "catastrophe",
+    "polyester",
+    "citrus",
+    "soldier"
+   ],
+   "example": null,
+   "pronunciation": "/kaː.ri.θa/",
+   "glosses": {
+    "en": "catastrophe",
+    "ja": "大災害"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "arabic",
+   "id": "ar-00163",
+   "level": 1,
+   "prompt": "「كاميرا」の意味は？",
+   "answer": "camera",
+   "choices": [
+    "childhood",
+    "camera",
+    "microphone",
+    "optics"
+   ],
+   "example": null,
+   "pronunciation": "/kaː.miː.raː/",
+   "glosses": {
+    "en": "camera",
+    "ja": "カメラ"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "arabic",
+   "id": "ar-00162",
+   "level": 1,
+   "prompt": "「أعطى」の意味は？",
+   "answer": "to give",
+   "choices": [
+    "drizzle",
+    "to give",
+    "gorilla",
+    "slight"
+   ],
+   "example": null,
+   "pronunciation": "/ʔaʕ.tˤaː/",
+   "glosses": {
+    "en": "to give",
+    "ja": "与える"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "arabic",
+   "id": "ar-00158",
+   "level": 1,
+   "prompt": "「كمان」の意味は？",
+   "answer": "violin",
+   "choices": [
+    "curve",
+    "to close eyes",
+    "violin",
+    "termite"
+   ],
+   "example": null,
+   "pronunciation": "/ka.maːn/",
+   "glosses": {
+    "en": "violin",
+    "ja": "バイオリン"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "arabic",
+   "id": "ar-00161",
+   "level": 1,
+   "prompt": "「ضحية」の意味は？",
+   "answer": "victim",
+   "choices": [
+    "victim",
+    "vitamin",
+    "farewell",
+    "figurative"
+   ],
+   "example": null,
+   "pronunciation": "/dˤa.ħij.ja/",
+   "glosses": {
+    "en": "victim",
+    "ja": "犠牲者"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "arabic",
+   "id": "ar-00159",
+   "level": 1,
+   "prompt": "「جثة」の意味は？",
+   "answer": "corpse",
+   "choices": [
+    "ashtray",
+    "corpse",
+    "indicator",
+    "delighted"
+   ],
+   "example": null,
+   "pronunciation": "/d͡ʒuθ.θa/",
+   "glosses": {
+    "en": "corpse",
+    "ja": "死体"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "arabic",
+   "id": "ar-00160",
+   "level": 1,
+   "prompt": "「صاروخ」の意味は？",
+   "answer": "rocket",
+   "choices": [
+    "kindly",
+    "helicopter",
+    "ominous",
+    "rocket"
+   ],
+   "example": null,
+   "pronunciation": "/sˤaː.ruːx/",
+   "glosses": {
+    "en": "rocket",
+    "ja": "ロケット"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "tagalog",
+   "id": "tl-00493",
+   "level": 1,
+   "prompt": "「pagnanakaw」の意味は？",
+   "answer": "theft",
+   "choices": [
+    "hip",
+    "paint",
+    "theft",
+    "liberalism"
+   ],
+   "example": null,
+   "pronunciation": "/paɡnaˈnakaw/",
+   "glosses": {
+    "en": "theft",
+    "ja": "窃盗"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "tagalog",
+   "id": "tl-00717",
+   "level": 2,
+   "prompt": "「paratang」の意味は？",
+   "answer": "accusation",
+   "choices": [
+    "to meet",
+    "accusation",
+    "popularity",
+    "route"
+   ],
+   "example": null,
+   "pronunciation": "/paˈɾataŋ/",
+   "glosses": {
+    "en": "accusation",
+    "ja": "告発"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "tagalog",
+   "id": "tl-00787",
+   "level": 2,
+   "prompt": "「museo」の意味は？",
+   "answer": "museum",
+   "choices": [
+    "chapter",
+    "balloon",
+    "snore",
+    "museum"
+   ],
+   "example": null,
+   "pronunciation": "/muˈseo/",
+   "glosses": {
+    "en": "museum",
+    "ja": "博物館"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "tagalog",
+   "id": "tl-01271",
+   "level": 3,
+   "prompt": "「pagpapatiwakal」の意味は？",
+   "answer": "suicide",
+   "choices": [
+    "row",
+    "suicide",
+    "racism",
+    "complexion"
+   ],
+   "example": null,
+   "pronunciation": "/paɡpapatiwaˈkal/",
+   "glosses": {
+    "en": "suicide",
+    "ja": "自殺"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "tagalog",
+   "id": "tl-01209",
+   "level": 3,
+   "prompt": "「kontratista」の意味は？",
+   "answer": "contractor",
+   "choices": [
+    "contractor",
+    "to bathe",
+    "cave",
+    "ceiling"
+   ],
+   "example": null,
+   "pronunciation": "/kontɾaˈtista/",
+   "glosses": {
+    "en": "contractor",
+    "ja": "請負業者"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "tagalog",
+   "id": "tl-01289",
+   "level": 3,
+   "prompt": "「restoran」の意味は？",
+   "answer": "restaurant",
+   "choices": [
+    "fly",
+    "apology",
+    "restaurant",
+    "trade"
+   ],
+   "example": null,
+   "pronunciation": "/ɾestoˈɾan/",
+   "glosses": {
+    "en": "restaurant",
+    "ja": "レストラン"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "tagalog",
+   "id": "tl-00490",
+   "level": 1,
+   "prompt": "「laruan」の意味は？",
+   "answer": "toy",
+   "choices": [
+    "formula",
+    "diary",
+    "heartbeat",
+    "toy"
+   ],
+   "example": null,
+   "pronunciation": "/laɾuˈʔan/",
+   "glosses": {
+    "en": "toy",
+    "ja": "おもちゃ"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "tagalog",
+   "id": "tl-00434",
+   "level": 1,
+   "prompt": "「kasarian」の意味は？",
+   "answer": "gender",
+   "choices": [
+    "gender",
+    "fruit",
+    "attraction",
+    "logical"
+   ],
+   "example": null,
+   "pronunciation": "/kasaɾiˈʔan/",
+   "glosses": {
+    "en": "gender",
+    "ja": "性別"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "tagalog",
+   "id": "tl-00716",
+   "level": 2,
+   "prompt": "「botante」の意味は？",
+   "answer": "voter",
+   "choices": [
+    "budget",
+    "delegation",
+    "brotherhood",
+    "voter"
+   ],
+   "example": null,
+   "pronunciation": "/boˈtante/",
+   "glosses": {
+    "en": "voter",
+    "ja": "投票者"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "tagalog",
+   "id": "tl-00784",
+   "level": 2,
+   "prompt": "「sorpresa」の意味は？",
+   "answer": "surprise",
+   "choices": [
+    "surprise",
+    "mechanism",
+    "inventory",
+    "transaction"
+   ],
+   "example": null,
+   "pronunciation": "/soɾˈpɾesa/",
+   "glosses": {
+    "en": "surprise",
+    "ja": "驚き"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "tagalog",
+   "id": "tl-01270",
+   "level": 3,
+   "prompt": "「salamangka」の意味は？",
+   "answer": "magic",
+   "choices": [
+    "pale",
+    "magic",
+    "pension",
+    "comparison"
+   ],
+   "example": null,
+   "pronunciation": "/salaˈmaŋka/",
+   "glosses": {
+    "en": "magic",
+    "ja": "魔法"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "tagalog",
+   "id": "tl-00491",
+   "level": 1,
+   "prompt": "「regulasyon」の意味は？",
+   "answer": "regulation",
+   "choices": [
+    "semester",
+    "regulation",
+    "wall",
+    "table"
+   ],
+   "example": null,
+   "pronunciation": "/ɾeɡulasˈjon/",
+   "glosses": {
+    "en": "regulation",
+    "ja": "規則"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "tagalog",
+   "id": "tl-00485",
+   "level": 1,
+   "prompt": "「kumanta」の意味は？",
+   "answer": "to sing",
+   "choices": [
+    "to sing",
+    "trap",
+    "firefly",
+    "nape"
+   ],
+   "example": null,
+   "pronunciation": "/kumanˈta/",
+   "glosses": {
+    "en": "to sing",
+    "ja": "歌う"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "tagalog",
+   "id": "tl-00435",
+   "level": 1,
+   "prompt": "「impluwensiya」の意味は？",
+   "answer": "influence",
+   "choices": [
+    "influence",
+    "ship",
+    "lieutenant",
+    "yacht"
+   ],
+   "example": null,
+   "pronunciation": "/ʔimpluˈensia/",
+   "glosses": {
+    "en": "influence",
+    "ja": "影響"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "tagalog",
+   "id": "tl-00785",
+   "level": 2,
+   "prompt": "「tesis」の意味は？",
+   "answer": "thesis",
+   "choices": [
+    "logical",
+    "opinion",
+    "script",
+    "thesis"
+   ],
+   "example": null,
+   "pronunciation": "/ˈtesis/",
+   "glosses": {
+    "en": "thesis",
+    "ja": "論文"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "tagalog",
+   "id": "tl-01273",
+   "level": 3,
+   "prompt": "「sombrero」の意味は？",
+   "answer": "hat",
+   "choices": [
+    "hat",
+    "envelope",
+    "nap",
+    "necklace"
+   ],
+   "example": null,
+   "pronunciation": "/somˈbɾeɾo/",
+   "glosses": {
+    "en": "hat",
+    "ja": "帽子"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "tagalog",
+   "id": "tl-00496",
+   "level": 1,
+   "prompt": "「magluto」の意味は？",
+   "answer": "to cook",
+   "choices": [
+    "to cook",
+    "complaint",
+    "viewpoint",
+    "course of study"
+   ],
+   "example": null,
+   "pronunciation": "/maɡˈlutoʔ/",
+   "glosses": {
+    "en": "to cook",
+    "ja": "料理する"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "tagalog",
+   "id": "tl-00484",
+   "level": 1,
+   "prompt": "「bubong」の意味は？",
+   "answer": "roof",
+   "choices": [
+    "capsule",
+    "to drive",
+    "roof",
+    "fight"
+   ],
+   "example": null,
+   "pronunciation": "/buˈboŋ/",
+   "glosses": {
+    "en": "roof",
+    "ja": "屋根"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "tagalog",
+   "id": "tl-00436",
+   "level": 1,
+   "prompt": "「kalagitnaan」の意味は？",
+   "answer": "middle",
+   "choices": [
+    "middle",
+    "plain",
+    "mouth",
+    "villain"
+   ],
+   "example": null,
+   "pronunciation": "/kalaɡitˈnaʔan/",
+   "glosses": {
+    "en": "middle",
+    "ja": "中央"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "tagalog",
+   "id": "tl-00782",
+   "level": 2,
+   "prompt": "「tuta」の意味は？",
+   "answer": "puppy",
+   "choices": [
+    "influenza",
+    "effect",
+    "forgiveness",
+    "puppy"
+   ],
+   "example": null,
+   "pronunciation": "/ˈtutaʔ/",
+   "glosses": {
+    "en": "puppy",
+    "ja": "子犬"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "tagalog",
+   "id": "tl-01272",
+   "level": 3,
+   "prompt": "「lila」の意味は？",
+   "answer": "purple",
+   "choices": [
+    "forest",
+    "legislature",
+    "instigation",
+    "purple"
+   ],
+   "example": null,
+   "pronunciation": "/ˈlila/",
+   "glosses": {
+    "en": "purple",
+    "ja": "紫色"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "tagalog",
+   "id": "tl-01204",
+   "level": 3,
+   "prompt": "「mikropono」の意味は？",
+   "answer": "microphone",
+   "choices": [
+    "championship",
+    "volcano",
+    "microphone",
+    "mysterious"
+   ],
+   "example": null,
+   "pronunciation": "/miˈkɾopono/",
+   "glosses": {
+    "en": "microphone",
+    "ja": "マイクロフォン"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "tagalog",
+   "id": "tl-01572",
+   "level": 3,
+   "prompt": "「bilyonaryo」の意味は？",
+   "answer": "billionaire",
+   "choices": [
+    "nod",
+    "to enter",
+    "billionaire",
+    "ignorance"
+   ],
+   "example": null,
+   "pronunciation": "/biljoˈnaɾjo/",
+   "glosses": {
+    "en": "billionaire",
+    "ja": "億万長者"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "tagalog",
+   "id": "tl-00497",
+   "level": 1,
+   "prompt": "「katahimikan」の意味は？",
+   "answer": "silence",
+   "choices": [
+    "silence",
+    "politician",
+    "symbol",
+    "molar"
+   ],
+   "example": null,
+   "pronunciation": "/katahiˈmikan/",
+   "glosses": {
+    "en": "silence",
+    "ja": "静けさ"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "tagalog",
+   "id": "tl-00487",
+   "level": 1,
+   "prompt": "「propesor」の意味は？",
+   "answer": "professor",
+   "choices": [
+    "indication",
+    "professor",
+    "region",
+    "pale"
+   ],
+   "example": null,
+   "pronunciation": "/pɾopeˈsoɾ/",
+   "glosses": {
+    "en": "professor",
+    "ja": "教授"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "tagalog",
+   "id": "tl-00437",
+   "level": 1,
+   "prompt": "「anggulo」の意味は？",
+   "answer": "angle",
+   "choices": [
+    "young lady",
+    "angle",
+    "statue",
+    "watermelon"
+   ],
+   "example": null,
+   "pronunciation": "/ˈʔaŋɡulo/",
+   "glosses": {
+    "en": "angle",
+    "ja": "角度"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "tagalog",
+   "id": "tl-00427",
+   "level": 1,
+   "prompt": "「basehan」の意味は？",
+   "answer": "basis",
+   "choices": [
+    "noisy",
+    "antenna",
+    "basis",
+    "building"
+   ],
+   "example": null,
+   "pronunciation": "/baseˈhan/",
+   "glosses": {
+    "en": "basis",
+    "ja": "基礎"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "tagalog",
+   "id": "tl-00783",
+   "level": 2,
+   "prompt": "「sirena」の意味は？",
+   "answer": "mermaid",
+   "choices": [
+    "microphone",
+    "thumb",
+    "foolishness",
+    "mermaid"
+   ],
+   "example": null,
+   "pronunciation": "/siˈɾena/",
+   "glosses": {
+    "en": "mermaid",
+    "ja": "人魚"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "tagalog",
+   "id": "tl-01275",
+   "level": 3,
+   "prompt": "「semestre」の意味は？",
+   "answer": "semester",
+   "choices": [
+    "semester",
+    "execution",
+    "ration",
+    "slogan"
+   ],
+   "example": null,
+   "pronunciation": "/seˈmestɾe/",
+   "glosses": {
+    "en": "semester",
+    "ja": "学期"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "tagalog",
+   "id": "tl-01205",
+   "level": 3,
+   "prompt": "「manggas」の意味は？",
+   "answer": "sleeve",
+   "choices": [
+    "sleeve",
+    "the public",
+    "gift",
+    "toilet"
+   ],
+   "example": null,
+   "pronunciation": "/maŋˈɡas/",
+   "glosses": {
+    "en": "sleeve",
+    "ja": "袖"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "italian",
+   "id": "it-01249",
+   "level": 2,
+   "prompt": "「pentola」の意味は？",
+   "answer": "pot",
+   "choices": [
+    "intelligent",
+    "geology",
+    "brave",
+    "pot"
+   ],
+   "example": null,
+   "pronunciation": "/ˈpen.to.la/",
+   "glosses": {
+    "en": "pot",
+    "ja": "鍋"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "italian",
+   "id": "it-01271",
+   "level": 2,
+   "prompt": "「vomitare」の意味は？",
+   "answer": "to vomit",
+   "choices": [
+    "burner",
+    "panorama",
+    "to vomit",
+    "morgue"
+   ],
+   "example": null,
+   "pronunciation": "/vo.miˈta.re/",
+   "glosses": {
+    "en": "to vomit",
+    "ja": "吐く"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "italian",
+   "id": "it-00117",
+   "level": 1,
+   "prompt": "「domenica」の意味は？",
+   "answer": "Sunday",
+   "choices": [
+    "parachute",
+    "crossword",
+    "ogre",
+    "Sunday"
+   ],
+   "example": null,
+   "pronunciation": "/doˈme.ni.ka/",
+   "glosses": {
+    "en": "Sunday",
+    "ja": "日曜日"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "italian",
+   "id": "it-02099",
+   "level": 3,
+   "prompt": "「elmo」の意味は？",
+   "answer": "helmet",
+   "choices": [
+    "receipt",
+    "helmet",
+    "identical",
+    "emphasis"
+   ],
+   "example": null,
+   "pronunciation": "/ˈel.mo/",
+   "glosses": {
+    "en": "helmet",
+    "ja": "かぶと"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "italian",
+   "id": "it-00177",
+   "level": 1,
+   "prompt": "「traduzione」の意味は？",
+   "answer": "translation",
+   "choices": [
+    "sauna",
+    "translation",
+    "to learn",
+    "creative"
+   ],
+   "example": null,
+   "pronunciation": "/tra.du(t)ˈt͡sjo.ne/",
+   "glosses": {
+    "en": "translation",
+    "ja": "翻訳"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "italian",
+   "id": "it-00167",
+   "level": 1,
+   "prompt": "「nascita」の意味は？",
+   "answer": "birth",
+   "choices": [
+    "birth",
+    "simultaneously",
+    "recently",
+    "naturalistic"
+   ],
+   "example": null,
+   "pronunciation": "/ˈnaʃ.ʃi.ta/",
+   "glosses": {
+    "en": "birth",
+    "ja": "誕生"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "italian",
+   "id": "it-01508",
+   "level": 2,
+   "prompt": "「oggigiorno」の意味は？",
+   "answer": "nowadays",
+   "choices": [
+    "year",
+    "mouth",
+    "nowadays",
+    "widely"
+   ],
+   "example": null,
+   "pronunciation": "/ˌɔd.d͡ʒiˈd͡ʒor.no/",
+   "glosses": {
+    "en": "nowadays",
+    "ja": "近ごろ"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "italian",
+   "id": "it-02712",
+   "level": 3,
+   "prompt": "「scolpire」の意味は？",
+   "answer": "to carve",
+   "choices": [
+    "to carve",
+    "shuttle",
+    "numerous",
+    "prank"
+   ],
+   "example": null,
+   "pronunciation": "/skolˈpi.re/",
+   "glosses": {
+    "en": "to carve",
+    "ja": "彫る"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "italian",
+   "id": "it-01516",
+   "level": 2,
+   "prompt": "「spiritualità」の意味は？",
+   "answer": "spirituality",
+   "choices": [
+    "accountant",
+    "lettuce",
+    "disrespectful",
+    "spirituality"
+   ],
+   "example": null,
+   "pronunciation": "/spi.ri.tu.a.liˈta/",
+   "glosses": {
+    "en": "spirituality",
+    "ja": "精神性"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "italian",
+   "id": "it-01524",
+   "level": 2,
+   "prompt": "「cadenza」の意味は？",
+   "answer": "cadence",
+   "choices": [
+    "sinner",
+    "mummy",
+    "jade",
+    "cadence"
+   ],
+   "example": null,
+   "pronunciation": "/kaˈdɛn.t͡sa/",
+   "glosses": {
+    "en": "cadence",
+    "ja": "抑揚"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "italian",
+   "id": "it-00064",
+   "level": 1,
+   "prompt": "「natura」の意味は？",
+   "answer": "nature",
+   "choices": [
+    "nature",
+    "painful",
+    "review",
+    "tombstone"
+   ],
+   "example": null,
+   "pronunciation": "/naˈtu.ra/",
+   "glosses": {
+    "en": "nature",
+    "ja": "自然"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "italian",
+   "id": "it-00072",
+   "level": 1,
+   "prompt": "「risultato」の意味は？",
+   "answer": "result",
+   "choices": [
+    "lazy",
+    "dilemma",
+    "gear",
+    "result"
+   ],
+   "example": null,
+   "pronunciation": "/ri.zulˈta.to/",
+   "glosses": {
+    "en": "result",
+    "ja": "結果"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "italian",
+   "id": "it-02772",
+   "level": 3,
+   "prompt": "「frutteto」の意味は？",
+   "answer": "orchard",
+   "choices": [
+    "infinity",
+    "doctrine",
+    "music",
+    "orchard"
+   ],
+   "example": null,
+   "pronunciation": "/frutˈte.to/",
+   "glosses": {
+    "en": "orchard",
+    "ja": "果樹園"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "italian",
+   "id": "it-01576",
+   "level": 2,
+   "prompt": "「consuetudine」の意味は？",
+   "answer": "custom",
+   "choices": [
+    "custom",
+    "warning",
+    "artery",
+    "foundation"
+   ],
+   "example": null,
+   "pronunciation": "/kon.su.eˈtu.di.ne/",
+   "glosses": {
+    "en": "custom",
+    "ja": "慣習"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "italian",
+   "id": "it-01588",
+   "level": 2,
+   "prompt": "「azoto」の意味は？",
+   "answer": "nitrogen",
+   "choices": [
+    "elimination",
+    "nitrogen",
+    "coin",
+    "truck"
+   ],
+   "example": null,
+   "pronunciation": "/adˈd͡zɔ.to/",
+   "glosses": {
+    "en": "nitrogen",
+    "ja": "窒素"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "italian",
+   "id": "it-01248",
+   "level": 2,
+   "prompt": "「abitare」の意味は？",
+   "answer": "to live",
+   "choices": [
+    "source",
+    "to live",
+    "goose",
+    "apron"
+   ],
+   "example": null,
+   "pronunciation": "/a.biˈta.re/",
+   "glosses": {
+    "en": "to live",
+    "ja": "住む"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "italian",
+   "id": "it-02938",
+   "level": 3,
+   "prompt": "「bisbigliare」の意味は？",
+   "answer": "to whisper",
+   "choices": [
+    "happiness",
+    "shallow pan",
+    "to whisper",
+    "to appreciate"
+   ],
+   "example": null,
+   "pronunciation": "/biz.biʎˈʎa.re/",
+   "glosses": {
+    "en": "to whisper",
+    "ja": "ささやく"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "italian",
+   "id": "it-02098",
+   "level": 3,
+   "prompt": "「muraglia」の意味は？",
+   "answer": "city wall",
+   "choices": [
+    "city wall",
+    "May",
+    "intrusive",
+    "ecology"
+   ],
+   "example": null,
+   "pronunciation": "/muˈraʎ.ʎa/",
+   "glosses": {
+    "en": "city wall",
+    "ja": "城壁"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "italian",
+   "id": "it-00174",
+   "level": 1,
+   "prompt": "「principe」の意味は？",
+   "answer": "prince",
+   "choices": [
+    "to rotate",
+    "to wink",
+    "prince",
+    "illusion"
+   ],
+   "example": null,
+   "pronunciation": "/ˈprin.t͡ʃi.pe/",
+   "glosses": {
+    "en": "prince",
+    "ja": "王子"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "italian",
+   "id": "it-00166",
+   "level": 1,
+   "prompt": "「inutile」の意味は？",
+   "answer": "useless",
+   "choices": [
+    "radiation",
+    "useless",
+    "urgency",
+    "interface"
+   ],
+   "example": null,
+   "pronunciation": "/iˈnu.ti.le/",
+   "glosses": {
+    "en": "useless",
+    "ja": "無益な"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "italian",
+   "id": "it-01509",
+   "level": 2,
+   "prompt": "「profezia」の意味は？",
+   "answer": "prophecy",
+   "choices": [
+    "prophecy",
+    "hunter",
+    "violence",
+    "emperor"
+   ],
+   "example": null,
+   "pronunciation": "/pro.fetˈt͡si.a/",
+   "glosses": {
+    "en": "prophecy",
+    "ja": "予言"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "italian",
+   "id": "it-02713",
+   "level": 3,
+   "prompt": "「avvoltoio」の意味は？",
+   "answer": "vulture",
+   "choices": [
+    "ration",
+    "intuition",
+    "sanctity",
+    "vulture"
+   ],
+   "example": null,
+   "pronunciation": "/av.volˈto.jo/",
+   "glosses": {
+    "en": "vulture",
+    "ja": "ハゲタカ"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "italian",
+   "id": "it-01515",
+   "level": 2,
+   "prompt": "「valorizzare」の意味は？",
+   "answer": "to enhance",
+   "choices": [
+    "chase",
+    "to enhance",
+    "imbalance",
+    "to toast"
+   ],
+   "example": null,
+   "pronunciation": "/va.lo.ridˈd͡za.re/",
+   "glosses": {
+    "en": "to enhance",
+    "ja": "価値を高める"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "italian",
+   "id": "it-02703",
+   "level": 3,
+   "prompt": "「illuminismo」の意味は？",
+   "answer": "Enlightenment",
+   "choices": [
+    "socialism",
+    "to draw",
+    "Enlightenment",
+    "stem"
+   ],
+   "example": null,
+   "pronunciation": "/il.lu.miˈniz.mo/",
+   "glosses": {
+    "en": "Enlightenment",
+    "ja": "啓蒙思想"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "italian",
+   "id": "it-01525",
+   "level": 2,
+   "prompt": "「accelerare」の意味は？",
+   "answer": "to accelerate",
+   "choices": [
+    "to accelerate",
+    "volleyball",
+    "to hope for",
+    "interference"
+   ],
+   "example": null,
+   "pronunciation": "/at.t͡ʃe.leˈra.re/",
+   "glosses": {
+    "en": "to accelerate",
+    "ja": "加速する"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "italian",
+   "id": "it-01539",
+   "level": 2,
+   "prompt": "「marginale」の意味は？",
+   "answer": "marginal",
+   "choices": [
+    "humiliation",
+    "marginal",
+    "eagle",
+    "spelling"
+   ],
+   "example": null,
+   "pronunciation": "/mar.d͡ʒiˈna.le/",
+   "glosses": {
+    "en": "marginal",
+    "ja": "周辺的な"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "italian",
+   "id": "it-00065",
+   "level": 1,
+   "prompt": "「età」の意味は？",
+   "answer": "age",
+   "choices": [
+    "age",
+    "concession",
+    "terribly",
+    "stage"
+   ],
+   "example": null,
+   "pronunciation": "/eˈta/",
+   "glosses": {
+    "en": "age",
+    "ja": "年齢"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "italian",
+   "id": "it-00071",
+   "level": 1,
+   "prompt": "「università」の意味は？",
+   "answer": "university",
+   "choices": [
+    "to exploit",
+    "university",
+    "myriad",
+    "to define"
+   ],
+   "example": null,
+   "pronunciation": "/u.ni.ver.siˈta/",
+   "glosses": {
+    "en": "university",
+    "ja": "大学"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "italian",
+   "id": "it-02773",
+   "level": 3,
+   "prompt": "「tegola」の意味は？",
+   "answer": "roof tile",
+   "choices": [
+    "fraud",
+    "payment",
+    "roof tile",
+    "passport"
+   ],
+   "example": null,
+   "pronunciation": "/ˈte.ɡo.la/",
+   "glosses": {
+    "en": "roof tile",
+    "ja": "屋根瓦"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "italian",
+   "id": "it-01571",
+   "level": 2,
+   "prompt": "「monumentale」の意味は？",
+   "answer": "monumental",
+   "choices": [
+    "monumental",
+    "guest",
+    "syllable",
+    "nostalgia"
+   ],
+   "example": null,
+   "pronunciation": "/mo.nu.menˈta.le/",
+   "glosses": {
+    "en": "monumental",
+    "ja": "記念碑的な"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "mongolian",
+   "id": "mn-00290",
+   "level": 2,
+   "prompt": "「зүг」の意味は？",
+   "answer": "direction",
+   "choices": [
+    "liver",
+    "square",
+    "pigeon",
+    "direction"
+   ],
+   "example": null,
+   "pronunciation": "/ˈt͡suk/",
+   "glosses": {
+    "en": "direction",
+    "ja": "方向"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "mongolian",
+   "id": "mn-00138",
+   "level": 1,
+   "prompt": "「удирдах」の意味は？",
+   "answer": "to manage",
+   "choices": [
+    "to manage",
+    "to recharge",
+    "leisure",
+    "period"
+   ],
+   "example": null,
+   "pronunciation": "[ʊ̈.tɪr.təχ]",
+   "glosses": {
+    "en": "to manage",
+    "ja": "管理する"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "mongolian",
+   "id": "mn-00126",
+   "level": 1,
+   "prompt": "「харах」の意味は？",
+   "answer": "to see",
+   "choices": [
+    "to see",
+    "movie",
+    "heart",
+    "to catch up"
+   ],
+   "example": null,
+   "pronunciation": "/ˈxarax/",
+   "glosses": {
+    "en": "to see",
+    "ja": "見る"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "mongolian",
+   "id": "mn-00114",
+   "level": 1,
+   "prompt": "「нийгэм」の意味は？",
+   "answer": "society",
+   "choices": [
+    "to wrestle",
+    "dot",
+    "long",
+    "society"
+   ],
+   "example": null,
+   "pronunciation": "/ˈniːkem/",
+   "glosses": {
+    "en": "society",
+    "ja": "社会"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "mongolian",
+   "id": "mn-00146",
+   "level": 1,
+   "prompt": "「нууц」の意味は？",
+   "answer": "secret",
+   "choices": [
+    "secret",
+    "writer",
+    "tooth",
+    "wooden chest"
+   ],
+   "example": null,
+   "pronunciation": "/nʊːt͡s/",
+   "glosses": {
+    "en": "secret",
+    "ja": "秘密"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "mongolian",
+   "id": "mn-00293",
+   "level": 2,
+   "prompt": "「тоглоом」の意味は？",
+   "answer": "game",
+   "choices": [
+    "poet",
+    "wave",
+    "game",
+    "milk"
+   ],
+   "example": null,
+   "pronunciation": "/ˈtʰɔkɮoːm/",
+   "glosses": {
+    "en": "game",
+    "ja": "ゲーム"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "mongolian",
+   "id": "mn-00139",
+   "level": 1,
+   "prompt": "「хаана」の意味は？",
+   "answer": "where",
+   "choices": [
+    "key",
+    "where",
+    "translation",
+    "direction"
+   ],
+   "example": null,
+   "pronunciation": "[χäːn]",
+   "glosses": {
+    "en": "where",
+    "ja": "どこ"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "mongolian",
+   "id": "mn-00125",
+   "level": 1,
+   "prompt": "「нисэх」の意味は？",
+   "answer": "to fly",
+   "choices": [
+    "tourist",
+    "lake",
+    "to fly",
+    "wife"
+   ],
+   "example": null,
+   "pronunciation": "[nisəx]",
+   "glosses": {
+    "en": "to fly",
+    "ja": "飛ぶ"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "mongolian",
+   "id": "mn-00115",
+   "level": 1,
+   "prompt": "「барилга」の意味は？",
+   "answer": "building",
+   "choices": [
+    "building",
+    "worker",
+    "to use",
+    "blanket"
+   ],
+   "example": null,
+   "pronunciation": "/parʲɮaɢ/",
+   "glosses": {
+    "en": "building",
+    "ja": "建物"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "mongolian",
+   "id": "mn-00109",
+   "level": 1,
+   "prompt": "「бүтээл」の意味は？",
+   "answer": "work",
+   "choices": [
+    "salt",
+    "flour",
+    "work",
+    "to punish"
+   ],
+   "example": null,
+   "pronunciation": "/putʰeːɮ/",
+   "glosses": {
+    "en": "work",
+    "ja": "作品"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "mongolian",
+   "id": "mn-00141",
+   "level": 1,
+   "prompt": "「эхлэх」の意味は？",
+   "answer": "to begin",
+   "choices": [
+    "flour",
+    "traitor",
+    "to begin",
+    "blood"
+   ],
+   "example": null,
+   "pronunciation": "/ˈexɮex/",
+   "glosses": {
+    "en": "to begin",
+    "ja": "始める"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "mongolian",
+   "id": "mn-00292",
+   "level": 2,
+   "prompt": "「идэх」の意味は？",
+   "answer": "to eat",
+   "choices": [
+    "black",
+    "video",
+    "child",
+    "to eat"
+   ],
+   "example": null,
+   "pronunciation": "/itəx/",
+   "glosses": {
+    "en": "to eat",
+    "ja": "食べる"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "mongolian",
+   "id": "mn-00124",
+   "level": 1,
+   "prompt": "「цас」の意味は？",
+   "answer": "snow",
+   "choices": [
+    "coal",
+    "snake",
+    "snow",
+    "poet"
+   ],
+   "example": null,
+   "pronunciation": "/t͡sʰas/",
+   "glosses": {
+    "en": "snow",
+    "ja": "雪"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "mongolian",
+   "id": "mn-00112",
+   "level": 1,
+   "prompt": "「аялал」の意味は？",
+   "answer": "trip",
+   "choices": [
+    "earth",
+    "hail",
+    "academy",
+    "trip"
+   ],
+   "example": null,
+   "pronunciation": "[äj.ɮɐɮ]",
+   "glosses": {
+    "en": "trip",
+    "ja": "旅行"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "mongolian",
+   "id": "mn-00108",
+   "level": 1,
+   "prompt": "「чанар」の意味は？",
+   "answer": "quality",
+   "choices": [
+    "quality",
+    "chin",
+    "massage",
+    "sleeve"
+   ],
+   "example": null,
+   "pronunciation": "/t͡ɕʰanər/",
+   "glosses": {
+    "en": "quality",
+    "ja": "品質"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "mongolian",
+   "id": "mn-00140",
+   "level": 1,
+   "prompt": "「цагдаа」の意味は？",
+   "answer": "police",
+   "choices": [
+    "police",
+    "table",
+    "branch",
+    "dirty"
+   ],
+   "example": null,
+   "pronunciation": "/t͡sʰaɡtaː/",
+   "glosses": {
+    "en": "police",
+    "ja": "警察"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "mongolian",
+   "id": "mn-00113",
+   "level": 1,
+   "prompt": "「зөвлөгөө」の意味は？",
+   "answer": "advice",
+   "choices": [
+    "leadership",
+    "advice",
+    "fighter",
+    "tiny"
+   ],
+   "example": null,
+   "pronunciation": "/ˈt͡sɵwɮɵkɵː/",
+   "glosses": {
+    "en": "advice",
+    "ja": "助言"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "mongolian",
+   "id": "mn-00143",
+   "level": 1,
+   "prompt": "「агаар」の意味は？",
+   "answer": "air",
+   "choices": [
+    "air",
+    "to fight",
+    "vinegar",
+    "bitter"
+   ],
+   "example": null,
+   "pronunciation": "/aˈɢaːr/",
+   "glosses": {
+    "en": "air",
+    "ja": "空気"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "mongolian",
+   "id": "mn-00110",
+   "level": 1,
+   "prompt": "「тахал」の意味は？",
+   "answer": "plague",
+   "choices": [
+    "magazine",
+    "plague",
+    "saliva",
+    "minister"
+   ],
+   "example": null,
+   "pronunciation": "/tʰaxəɮ/",
+   "glosses": {
+    "en": "plague",
+    "ja": "疫病"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "mongolian",
+   "id": "mn-00142",
+   "level": 1,
+   "prompt": "「байгаль」の意味は？",
+   "answer": "nature",
+   "choices": [
+    "nature",
+    "age",
+    "today",
+    "organ"
+   ],
+   "example": null,
+   "pronunciation": "[pæː.ɢɐ̆ɮ]",
+   "glosses": {
+    "en": "nature",
+    "ja": "自然"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "mongolian",
+   "id": "mn-00129",
+   "level": 1,
+   "prompt": "「халуун」の意味は？",
+   "answer": "hot",
+   "choices": [
+    "mountainous",
+    "price",
+    "experience",
+    "hot"
+   ],
+   "example": null,
+   "pronunciation": "/xaɮʊːŋ/",
+   "glosses": {
+    "en": "hot",
+    "ja": "熱い"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "mongolian",
+   "id": "mn-00111",
+   "level": 1,
+   "prompt": "「зардал」の意味は？",
+   "answer": "expense",
+   "choices": [
+    "democracy",
+    "to hit",
+    "expense",
+    "rabbit"
+   ],
+   "example": null,
+   "pronunciation": "/t͡sartəɮ/",
+   "glosses": {
+    "en": "expense",
+    "ja": "支出"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "mongolian",
+   "id": "mn-00128",
+   "level": 1,
+   "prompt": "「оюутан」の意味は？",
+   "answer": "college student",
+   "choices": [
+    "wolf",
+    "envoy",
+    "announcement",
+    "college student"
+   ],
+   "example": null,
+   "pronunciation": "/ɔjʊtʰəŋ/",
+   "glosses": {
+    "en": "college student",
+    "ja": "大学生"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "mongolian",
+   "id": "mn-00743",
+   "level": 3,
+   "prompt": "「шүлэгч」の意味は？",
+   "answer": "poet",
+   "choices": [
+    "port",
+    "tax",
+    "second",
+    "poet"
+   ],
+   "example": null,
+   "pronunciation": "/ʃuɮəɡt͡ɕʰ/",
+   "glosses": {
+    "en": "poet",
+    "ja": "詩人"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "mongolian",
+   "id": "mn-00101",
+   "level": 1,
+   "prompt": "「тэмцэх」の意味は？",
+   "answer": "to fight",
+   "choices": [
+    "almost",
+    "nature",
+    "plague",
+    "to fight"
+   ],
+   "example": null,
+   "pronunciation": "/ˈtʰemt͡sʰex/",
+   "glosses": {
+    "en": "to fight",
+    "ja": "闘う"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "mongolian",
+   "id": "mn-00149",
+   "level": 1,
+   "prompt": "「аврах」の意味は？",
+   "answer": "to save",
+   "choices": [
+    "to save",
+    "barn",
+    "fire",
+    "gunpowder"
+   ],
+   "example": null,
+   "pronunciation": "/aw̜rəx/",
+   "glosses": {
+    "en": "to save",
+    "ja": "救う"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "mongolian",
+   "id": "mn-00742",
+   "level": 3,
+   "prompt": "「саатал」の意味は？",
+   "answer": "delay",
+   "choices": [
+    "delay",
+    "step",
+    "washing",
+    "nation"
+   ],
+   "example": null,
+   "pronunciation": "/ˈsaːtʰəɮ/",
+   "glosses": {
+    "en": "delay",
+    "ja": "遅延"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "mongolian",
+   "id": "mn-00100",
+   "level": 1,
+   "prompt": "「бүлэг」の意味は？",
+   "answer": "group",
+   "choices": [
+    "group",
+    "helmet",
+    "downpour",
+    "driver"
+   ],
+   "example": null,
+   "pronunciation": "/puɮɘɡ/",
+   "glosses": {
+    "en": "group",
+    "ja": "集団"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "mongolian",
+   "id": "mn-00148",
+   "level": 1,
+   "prompt": "「зохиолч」の意味は？",
+   "answer": "writer",
+   "choices": [
+    "wife",
+    "team",
+    "base",
+    "writer"
+   ],
+   "example": null,
+   "pronunciation": "/t͡sɔxʲɔɮt͡ɕʰ/",
+   "glosses": {
+    "en": "writer",
+    "ja": "作家"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "mongolian",
+   "id": "mn-00741",
+   "level": 3,
+   "prompt": "「зарц」の意味は？",
+   "answer": "servant",
+   "choices": [
+    "girl",
+    "to catch up",
+    "meter",
+    "servant"
+   ],
+   "example": null,
+   "pronunciation": "/ˈt͡sar̥t͡sʰ/",
+   "glosses": {
+    "en": "servant",
+    "ja": "召使"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "bengali",
+   "id": "bn-00635",
+   "level": 2,
+   "prompt": "「প্রাচীর」の意味は？",
+   "answer": "wall",
+   "choices": [
+    "clear",
+    "to do",
+    "wall",
+    "thirst"
+   ],
+   "example": null,
+   "pronunciation": "/pɾat͡ʃiɾ/",
+   "glosses": {
+    "en": "wall",
+    "ja": "壁"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "bengali",
+   "id": "bn-00766",
+   "level": 3,
+   "prompt": "「কিবোর্ড」の意味は？",
+   "answer": "keyboard",
+   "choices": [
+    "sword",
+    "keyboard",
+    "medicine",
+    "committee"
+   ],
+   "example": null,
+   "pronunciation": "/kiːboɾɖ/",
+   "glosses": {
+    "en": "keyboard",
+    "ja": "キーボード"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "bengali",
+   "id": "bn-00160",
+   "level": 1,
+   "prompt": "「খরচ」の意味は？",
+   "answer": "expenditure",
+   "choices": [
+    "glacier",
+    "to travel",
+    "expenditure",
+    "vegetable"
+   ],
+   "example": null,
+   "pronunciation": "/kʰɔɾot͡ʃ/",
+   "glosses": {
+    "en": "expenditure",
+    "ja": "支出"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "bengali",
+   "id": "bn-00684",
+   "level": 2,
+   "prompt": "「সিংহাসন」の意味は？",
+   "answer": "throne",
+   "choices": [
+    "satellite",
+    "throne",
+    "to travel",
+    "script"
+   ],
+   "example": null,
+   "pronunciation": "/ʃiŋhaʃon/",
+   "glosses": {
+    "en": "throne",
+    "ja": "玉座"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "bengali",
+   "id": "bn-00767",
+   "level": 3,
+   "prompt": "「মদ্যপান」の意味は？",
+   "answer": "drinking",
+   "choices": [
+    "complicated",
+    "quarrel",
+    "drinking",
+    "literature"
+   ],
+   "example": null,
+   "pronunciation": "/mɔd.do.pan/",
+   "glosses": {
+    "en": "drinking",
+    "ja": "飲酒"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "bengali",
+   "id": "bn-00777",
+   "level": 3,
+   "prompt": "「ফুসফুস」の意味は？",
+   "answer": "lung",
+   "choices": [
+    "lipstick",
+    "tomato",
+    "lung",
+    "plant"
+   ],
+   "example": null,
+   "pronunciation": "/pʰuʃpʰuʃ/",
+   "glosses": {
+    "en": "lung",
+    "ja": "肺"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "bengali",
+   "id": "bn-00159",
+   "level": 1,
+   "prompt": "「সমাধান」の意味は？",
+   "answer": "solution",
+   "choices": [
+    "cow",
+    "solution",
+    "gas",
+    "increase"
+   ],
+   "example": null,
+   "pronunciation": "/ʃɔmad̪ʱan/",
+   "glosses": {
+    "en": "solution",
+    "ja": "解決策"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "bengali",
+   "id": "bn-00161",
+   "level": 1,
+   "prompt": "「মালিক」の意味は？",
+   "answer": "owner",
+   "choices": [
+    "then",
+    "kiss",
+    "owner",
+    "dictionary"
+   ],
+   "example": null,
+   "pronunciation": "/malik/",
+   "glosses": {
+    "en": "owner",
+    "ja": "持ち主"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "bengali",
+   "id": "bn-00683",
+   "level": 2,
+   "prompt": "「ফ্রিজ」の意味は？",
+   "answer": "fridge",
+   "choices": [
+    "mine",
+    "dog",
+    "founder",
+    "fridge"
+   ],
+   "example": null,
+   "pronunciation": "/fɾid͡ʒ/",
+   "glosses": {
+    "en": "fridge",
+    "ja": "冷蔵庫"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "bengali",
+   "id": "bn-00728",
+   "level": 3,
+   "prompt": "「তরমুজ」の意味は？",
+   "answer": "watermelon",
+   "choices": [
+    "lid",
+    "weakness",
+    "watermelon",
+    "belly"
+   ],
+   "example": null,
+   "pronunciation": "/t̪oɾmud͡ʒ/",
+   "glosses": {
+    "en": "watermelon",
+    "ja": "スイカ"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "bengali",
+   "id": "bn-00760",
+   "level": 3,
+   "prompt": "「তৃষ্ণা」の意味は？",
+   "answer": "thirst",
+   "choices": [
+    "thirst",
+    "ice",
+    "almost",
+    "attempt"
+   ],
+   "example": null,
+   "pronunciation": "/t̪ɾiʃna/",
+   "glosses": {
+    "en": "thirst",
+    "ja": "のどの渇き"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "bengali",
+   "id": "bn-00776",
+   "level": 3,
+   "prompt": "「জীবাশ্ম」の意味は？",
+   "answer": "fossil",
+   "choices": [
+    "lava",
+    "fossil",
+    "sale",
+    "war"
+   ],
+   "example": null,
+   "pronunciation": "/d͡ʒibaʃːõ/",
+   "glosses": {
+    "en": "fossil",
+    "ja": "化石"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "bengali",
+   "id": "bn-00158",
+   "level": 1,
+   "prompt": "「কবি」の意味は？",
+   "answer": "poet",
+   "choices": [
+    "neglect",
+    "fruit",
+    "poet",
+    "prophecy"
+   ],
+   "example": null,
+   "pronunciation": "/kobi/",
+   "glosses": {
+    "en": "poet",
+    "ja": "詩人"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "bengali",
+   "id": "bn-00166",
+   "level": 1,
+   "prompt": "「সভা」の意味は？",
+   "answer": "meeting",
+   "choices": [
+    "meeting",
+    "comet",
+    "prince",
+    "medicine"
+   ],
+   "example": null,
+   "pronunciation": "/ʃɔbʱa/",
+   "glosses": {
+    "en": "meeting",
+    "ja": "会議"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "bengali",
+   "id": "bn-00682",
+   "level": 2,
+   "prompt": "「মহাদেশ」の意味は？",
+   "answer": "continent",
+   "choices": [
+    "to sleep",
+    "doubt",
+    "continent",
+    "objection"
+   ],
+   "example": null,
+   "pronunciation": "/mɔhad̪eʃ/",
+   "glosses": {
+    "en": "continent",
+    "ja": "大陸"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "bengali",
+   "id": "bn-00729",
+   "level": 3,
+   "prompt": "「সান্ত্বনা」の意味は？",
+   "answer": "consolation",
+   "choices": [
+    "disappointment",
+    "consolation",
+    "affection",
+    "ant"
+   ],
+   "example": null,
+   "pronunciation": "/ʃant̪ona/",
+   "glosses": {
+    "en": "consolation",
+    "ja": "慰め"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "bengali",
+   "id": "bn-00849",
+   "level": 3,
+   "prompt": "「সহানুভূতিশীল」の意味は？",
+   "answer": "sympathetic",
+   "choices": [
+    "sympathetic",
+    "Wednesday",
+    "tongue",
+    "blacksmith"
+   ],
+   "example": null,
+   "pronunciation": "/ʃɔhanubʱut̪iʃil/",
+   "glosses": {
+    "en": "sympathetic",
+    "ja": "同情的な"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "bengali",
+   "id": "bn-00761",
+   "level": 3,
+   "prompt": "「চুলা」の意味は？",
+   "answer": "stove",
+   "choices": [
+    "stove",
+    "official",
+    "woman",
+    "awhile"
+   ],
+   "example": null,
+   "pronunciation": "/t͡ʃula/",
+   "glosses": {
+    "en": "stove",
+    "ja": "こんろ"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "bengali",
+   "id": "bn-00775",
+   "level": 3,
+   "prompt": "「মটর」の意味は？",
+   "answer": "pea",
+   "choices": [
+    "to count",
+    "pea",
+    "watermelon",
+    "psychology"
+   ],
+   "example": null,
+   "pronunciation": "/mɔʈɔɾ/",
+   "glosses": {
+    "en": "pea",
+    "ja": "エンドウ豆"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "bengali",
+   "id": "bn-00167",
+   "level": 1,
+   "prompt": "「পবিত্র」の意味は？",
+   "answer": "holy",
+   "choices": [
+    "hatred",
+    "here",
+    "holy",
+    "bee"
+   ],
+   "example": null,
+   "pronunciation": "/pobit̪ɾo/",
+   "glosses": {
+    "en": "holy",
+    "ja": "神聖な"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "bengali",
+   "id": "bn-00681",
+   "level": 2,
+   "prompt": "「সাম্রাজ্য」の意味は？",
+   "answer": "empire",
+   "choices": [
+    "party",
+    "awhile",
+    "empire",
+    "nightmare"
+   ],
+   "example": null,
+   "pronunciation": "/ˈʃamɾad͡ʒːo/",
+   "glosses": {
+    "en": "empire",
+    "ja": "帝国"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "bengali",
+   "id": "bn-00848",
+   "level": 3,
+   "prompt": "「ভুক্তভোগী」の意味は？",
+   "answer": "victim",
+   "choices": [
+    "politics",
+    "victim",
+    "urine",
+    "archipelago"
+   ],
+   "example": null,
+   "pronunciation": "/bʱukt̪ɔbʱoɡi/",
+   "glosses": {
+    "en": "victim",
+    "ja": "被害者"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "bengali",
+   "id": "bn-00762",
+   "level": 3,
+   "prompt": "「মহিষ」の意味は？",
+   "answer": "buffalo",
+   "choices": [
+    "wind",
+    "bowl",
+    "buffalo",
+    "shopkeeper"
+   ],
+   "example": null,
+   "pronunciation": "/mohiʃ/",
+   "glosses": {
+    "en": "buffalo",
+    "ja": "水牛"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "bengali",
+   "id": "bn-00774",
+   "level": 3,
+   "prompt": "「সুই」の意味は？",
+   "answer": "needle",
+   "choices": [
+    "needle",
+    "clear",
+    "chutney",
+    "more"
+   ],
+   "example": null,
+   "pronunciation": "/ʃu̯i/",
+   "glosses": {
+    "en": "needle",
+    "ja": "針"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "bengali",
+   "id": "bn-00164",
+   "level": 1,
+   "prompt": "「চুরি」の意味は？",
+   "answer": "theft",
+   "choices": [
+    "interest",
+    "similarly",
+    "star",
+    "theft"
+   ],
+   "example": null,
+   "pronunciation": "/t͡ʃuɾi/",
+   "glosses": {
+    "en": "theft",
+    "ja": "窃盗"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "bengali",
+   "id": "bn-00680",
+   "level": 2,
+   "prompt": "「দেশপ্রেমিক」の意味は？",
+   "answer": "patriot",
+   "choices": [
+    "metal",
+    "patriot",
+    "lately",
+    "gold"
+   ],
+   "example": null,
+   "pronunciation": "/d̪eʃɔpɾemik/",
+   "glosses": {
+    "en": "patriot",
+    "ja": "愛国者"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "bengali",
+   "id": "bn-00763",
+   "level": 3,
+   "prompt": "「থালা」の意味は？",
+   "answer": "plate",
+   "choices": [
+    "cruelty",
+    "to touch",
+    "unfortunate",
+    "plate"
+   ],
+   "example": null,
+   "pronunciation": "/t̪ʰala/",
+   "glosses": {
+    "en": "plate",
+    "ja": "平皿"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "bengali",
+   "id": "bn-00773",
+   "level": 3,
+   "prompt": "「ডাইনি」の意味は？",
+   "answer": "witch",
+   "choices": [
+    "hatred",
+    "alphabet",
+    "witch",
+    "gas"
+   ],
+   "example": null,
+   "pronunciation": "/ɖai̯ni/",
+   "glosses": {
+    "en": "witch",
+    "ja": "魔女"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "bengali",
+   "id": "bn-00165",
+   "level": 1,
+   "prompt": "「ব্যবসা」の意味は？",
+   "answer": "business",
+   "choices": [
+    "mother-in-law",
+    "violin",
+    "business",
+    "to fill"
+   ],
+   "example": null,
+   "pronunciation": "/bæbʃa/",
+   "glosses": {
+    "en": "business",
+    "ja": "商売"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "bengali",
+   "id": "bn-00900",
+   "level": 3,
+   "prompt": "「কোনা」の意味は？",
+   "answer": "corner",
+   "choices": [
+    "corner",
+    "strong",
+    "methane",
+    "carrot"
+   ],
+   "example": null,
+   "pronunciation": "/ko.na/",
+   "glosses": {
+    "en": "corner",
+    "ja": "隅"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "malay",
+   "id": "ms-00441",
+   "level": 1,
+   "prompt": "「asas」の意味は？",
+   "answer": "base",
+   "choices": [
+    "base",
+    "to build",
+    "wife",
+    "strength"
+   ],
+   "example": null,
+   "pronunciation": "",
+   "glosses": {
+    "en": "base",
+    "ja": "基礎"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "malay",
+   "id": "ms-00439",
+   "level": 1,
+   "prompt": "「bertambah」の意味は？",
+   "answer": "to increase",
+   "choices": [
+    "size",
+    "passenger",
+    "to increase",
+    "boat"
+   ],
+   "example": null,
+   "pronunciation": "/bərˈtambah/",
+   "glosses": {
+    "en": "to increase",
+    "ja": "増える"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "malay",
+   "id": "ms-01449",
+   "level": 3,
+   "prompt": "「mandul」の意味は？",
+   "answer": "infertile",
+   "choices": [
+    "coroner",
+    "infertile",
+    "to phone",
+    "thesis"
+   ],
+   "example": null,
+   "pronunciation": "",
+   "glosses": {
+    "en": "infertile",
+    "ja": "不妊の"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "malay",
+   "id": "ms-00995",
+   "level": 2,
+   "prompt": "「sembunyi」の意味は？",
+   "answer": "to hide",
+   "choices": [
+    "to hide",
+    "coward",
+    "elbow",
+    "slate"
+   ],
+   "example": null,
+   "pronunciation": "/səm.bu.ɲi./",
+   "glosses": {
+    "en": "to hide",
+    "ja": "隠れる"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "malay",
+   "id": "ms-00489",
+   "level": 1,
+   "prompt": "「murah」の意味は？",
+   "answer": "cheap",
+   "choices": [
+    "best",
+    "life",
+    "owner",
+    "cheap"
+   ],
+   "example": null,
+   "pronunciation": "/murah/",
+   "glosses": {
+    "en": "cheap",
+    "ja": "安い"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "malay",
+   "id": "ms-01481",
+   "level": 3,
+   "prompt": "「berdebu」の意味は？",
+   "answer": "dusty",
+   "choices": [
+    "jug",
+    "documentary",
+    "dusty",
+    "anthropology"
+   ],
+   "example": null,
+   "pronunciation": "/bər.də.bu/",
+   "glosses": {
+    "en": "dusty",
+    "ja": "ほこりっぽい"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "malay",
+   "id": "ms-01495",
+   "level": 3,
+   "prompt": "「hingus」の意味は？",
+   "answer": "snot",
+   "choices": [
+    "to absorb",
+    "anthropology",
+    "germ",
+    "snot"
+   ],
+   "example": null,
+   "pronunciation": "/hiŋus/",
+   "glosses": {
+    "en": "snot",
+    "ja": "鼻水"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "malay",
+   "id": "ms-00440",
+   "level": 1,
+   "prompt": "「mi」の意味は？",
+   "answer": "noodles",
+   "choices": [
+    "to regard",
+    "noodles",
+    "sauce",
+    "source"
+   ],
+   "example": null,
+   "pronunciation": "/ˈmi/",
+   "glosses": {
+    "en": "noodles",
+    "ja": "麺"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "malay",
+   "id": "ms-00994",
+   "level": 2,
+   "prompt": "「nyamuk」の意味は？",
+   "answer": "mosquito",
+   "choices": [
+    "temperature",
+    "alcohol",
+    "mosquito",
+    "achievement"
+   ],
+   "example": null,
+   "pronunciation": "/ˈɲamok/",
+   "glosses": {
+    "en": "mosquito",
+    "ja": "蚊"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "malay",
+   "id": "ms-00488",
+   "level": 1,
+   "prompt": "「lorong」の意味は？",
+   "answer": "lane",
+   "choices": [
+    "strength",
+    "champion",
+    "sugar",
+    "lane"
+   ],
+   "example": null,
+   "pronunciation": "",
+   "glosses": {
+    "en": "lane",
+    "ja": "車線，小道"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "malay",
+   "id": "ms-01486",
+   "level": 3,
+   "prompt": "「hentak」の意味は？",
+   "answer": "to stomp",
+   "choices": [
+    "innovation",
+    "hook",
+    "decoration",
+    "to stomp"
+   ],
+   "example": null,
+   "pronunciation": "/hən.tak/",
+   "glosses": {
+    "en": "to stomp",
+    "ja": "踏みつける"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "malay",
+   "id": "ms-01494",
+   "level": 3,
+   "prompt": "「berkas」の意味は？",
+   "answer": "bundle",
+   "choices": [
+    "slingshot",
+    "spirit",
+    "bundle",
+    "horseshoe"
+   ],
+   "example": null,
+   "pronunciation": "/bərkas/",
+   "glosses": {
+    "en": "bundle",
+    "ja": "束"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "malay",
+   "id": "ms-00443",
+   "level": 1,
+   "prompt": "「pisang」の意味は？",
+   "answer": "banana",
+   "choices": [
+    "banana",
+    "door",
+    "hair",
+    "knee"
+   ],
+   "example": null,
+   "pronunciation": "/ˈpisaŋ/",
+   "glosses": {
+    "en": "banana",
+    "ja": "バナナ"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "malay",
+   "id": "ms-01487",
+   "level": 3,
+   "prompt": "「rungutan」の意味は？",
+   "answer": "complaint",
+   "choices": [
+    "detail",
+    "to skip",
+    "complaint",
+    "casino"
+   ],
+   "example": null,
+   "pronunciation": "",
+   "glosses": {
+    "en": "complaint",
+    "ja": "不平"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "malay",
+   "id": "ms-01497",
+   "level": 3,
+   "prompt": "「madah」の意味は？",
+   "answer": "words of praise",
+   "choices": [
+    "mint",
+    "disappointed",
+    "words of praise",
+    "to shiver"
+   ],
+   "example": null,
+   "pronunciation": "/ˈmadah/",
+   "glosses": {
+    "en": "words of praise",
+    "ja": "賛辞"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "malay",
+   "id": "ms-00458",
+   "level": 1,
+   "prompt": "「perahu」の意味は？",
+   "answer": "boat",
+   "choices": [
+    "monkey",
+    "boat",
+    "beautiful",
+    "to win"
+   ],
+   "example": null,
+   "pronunciation": "/pəˈrahu/",
+   "glosses": {
+    "en": "boat",
+    "ja": "小舟，ボート"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "malay",
+   "id": "ms-00442",
+   "level": 1,
+   "prompt": "「zon」の意味は？",
+   "answer": "zone",
+   "choices": [
+    "personal",
+    "to disturb",
+    "hospital",
+    "zone"
+   ],
+   "example": null,
+   "pronunciation": "/ˈzon/",
+   "glosses": {
+    "en": "zone",
+    "ja": "地帯"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "malay",
+   "id": "ms-00434",
+   "level": 1,
+   "prompt": "「perbezaan」の意味は？",
+   "answer": "difference",
+   "choices": [
+    "difference",
+    "sure",
+    "victim",
+    "to replace"
+   ],
+   "example": null,
+   "pronunciation": "/pər.bɛˈza.ʔan/",
+   "glosses": {
+    "en": "difference",
+    "ja": "違い"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "malay",
+   "id": "ms-01484",
+   "level": 3,
+   "prompt": "「perakuan」の意味は？",
+   "answer": "certification",
+   "choices": [
+    "anthropology",
+    "to whittle",
+    "certification",
+    "departure"
+   ],
+   "example": null,
+   "pronunciation": "",
+   "glosses": {
+    "en": "certification",
+    "ja": "証明，認定"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "malay",
+   "id": "ms-01496",
+   "level": 3,
+   "prompt": "「pelana」の意味は？",
+   "answer": "saddle",
+   "choices": [
+    "bouillon",
+    "square",
+    "saddle",
+    "consistent"
+   ],
+   "example": null,
+   "pronunciation": "/pəˈlana/",
+   "glosses": {
+    "en": "saddle",
+    "ja": "馬のくら"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "malay",
+   "id": "ms-00459",
+   "level": 1,
+   "prompt": "「tumbuh」の意味は？",
+   "answer": "to grow",
+   "choices": [
+    "level",
+    "sport",
+    "to grow",
+    "stupid"
+   ],
+   "example": null,
+   "pronunciation": "/ˈtumbuh/",
+   "glosses": {
+    "en": "to grow",
+    "ja": "成長する"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "malay",
+   "id": "ms-00445",
+   "level": 1,
+   "prompt": "「balai」の意味は？",
+   "answer": "hall",
+   "choices": [
+    "hall",
+    "result",
+    "sad",
+    "group"
+   ],
+   "example": null,
+   "pronunciation": "/ˈbalaj/",
+   "glosses": {
+    "en": "hall",
+    "ja": "ホール"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "malay",
+   "id": "ms-00435",
+   "level": 1,
+   "prompt": "「nakal」の意味は？",
+   "answer": "naughty",
+   "choices": [
+    "to request",
+    "level",
+    "naughty",
+    "to wear"
+   ],
+   "example": null,
+   "pronunciation": "/ˈnakal/",
+   "glosses": {
+    "en": "naughty",
+    "ja": "いたずらな"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "malay",
+   "id": "ms-00485",
+   "level": 1,
+   "prompt": "「mayat」の意味は？",
+   "answer": "corpse",
+   "choices": [
+    "to choose",
+    "difference",
+    "corpse",
+    "stadium"
+   ],
+   "example": null,
+   "pronunciation": "/ˈmajat/",
+   "glosses": {
+    "en": "corpse",
+    "ja": "死体"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "malay",
+   "id": "ms-01485",
+   "level": 3,
+   "prompt": "「lelong」の意味は？",
+   "answer": "auction",
+   "choices": [
+    "auction",
+    "cutter",
+    "parrot",
+    "full stop"
+   ],
+   "example": null,
+   "pronunciation": "/ˈleloŋ/",
+   "glosses": {
+    "en": "auction",
+    "ja": "オークション"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "malay",
+   "id": "ms-01491",
+   "level": 3,
+   "prompt": "「bazir」の意味は？",
+   "answer": "to waste",
+   "choices": [
+    "electron",
+    "to waste",
+    "to focus",
+    "surge"
+   ],
+   "example": null,
+   "pronunciation": "/ˈbazir/",
+   "glosses": {
+    "en": "to waste",
+    "ja": "無駄にする"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "malay",
+   "id": "ms-00444",
+   "level": 1,
+   "prompt": "「awan」の意味は？",
+   "answer": "cloud",
+   "choices": [
+    "cloud",
+    "to increase",
+    "post",
+    "doctor"
+   ],
+   "example": null,
+   "pronunciation": "/ˈawan/",
+   "glosses": {
+    "en": "cloud",
+    "ja": "雲"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "malay",
+   "id": "ms-00436",
+   "level": 1,
+   "prompt": "「tunjuk」の意味は？",
+   "answer": "to show",
+   "choices": [
+    "actually",
+    "to show",
+    "poison",
+    "eligible, worthy"
+   ],
+   "example": null,
+   "pronunciation": "/ˈtund͡ʒok/",
+   "glosses": {
+    "en": "to show",
+    "ja": "示す"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "malay",
+   "id": "ms-00484",
+   "level": 1,
+   "prompt": "「situasi」の意味は？",
+   "answer": "situation",
+   "choices": [
+    "weak",
+    "police",
+    "cold",
+    "situation"
+   ],
+   "example": null,
+   "pronunciation": "",
+   "glosses": {
+    "en": "situation",
+    "ja": "状況"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "malay",
+   "id": "ms-01490",
+   "level": 3,
+   "prompt": "「kewartawanan」の意味は？",
+   "answer": "journalism",
+   "choices": [
+    "journalism",
+    "octopus",
+    "disgusting",
+    "one-way"
+   ],
+   "example": null,
+   "pronunciation": "",
+   "glosses": {
+    "en": "journalism",
+    "ja": "ジャーナリズム"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "indonesian",
+   "id": "id-01358",
+   "level": 2,
+   "prompt": "「ipar」の意味は？",
+   "answer": "sibling-in-law",
+   "choices": [
+    "parade",
+    "guarding",
+    "coast",
+    "sibling-in-law"
+   ],
+   "example": null,
+   "pronunciation": "/ˈipar/",
+   "glosses": {
+    "en": "sibling-in-law",
+    "ja": "義理の兄弟姉妹"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "indonesian",
+   "id": "id-00031",
+   "level": 1,
+   "prompt": "「biasanya」の意味は？",
+   "answer": "generally",
+   "choices": [
+    "crew",
+    "achievement",
+    "generally",
+    "waiter"
+   ],
+   "example": null,
+   "pronunciation": "",
+   "glosses": {
+    "en": "generally",
+    "ja": "普通は"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "indonesian",
+   "id": "id-01894",
+   "level": 3,
+   "prompt": "「terperinci」の意味は？",
+   "answer": "detailed",
+   "choices": [
+    "dialect",
+    "semantics",
+    "detailed",
+    "explosion"
+   ],
+   "example": null,
+   "pronunciation": "",
+   "glosses": {
+    "en": "detailed",
+    "ja": "詳細な"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "indonesian",
+   "id": "id-01886",
+   "level": 3,
+   "prompt": "「tutupi」の意味は？",
+   "answer": "to cover",
+   "choices": [
+    "to cover",
+    "phase",
+    "young",
+    "socialism"
+   ],
+   "example": null,
+   "pronunciation": "/tuˈtupi/",
+   "glosses": {
+    "en": "to cover",
+    "ja": "覆う"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "indonesian",
+   "id": "id-00340",
+   "level": 1,
+   "prompt": "「pengaruh」の意味は？",
+   "answer": "influence",
+   "choices": [
+    "influence",
+    "perfect",
+    "to store",
+    "to buy"
+   ],
+   "example": null,
+   "pronunciation": "/pəˈŋaruh/",
+   "glosses": {
+    "en": "influence",
+    "ja": "影響"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "indonesian",
+   "id": "id-00388",
+   "level": 1,
+   "prompt": "「sepeda」の意味は？",
+   "answer": "bicycle",
+   "choices": [
+    "effective",
+    "bicycle",
+    "to go home",
+    "waiter"
+   ],
+   "example": null,
+   "pronunciation": "/səˈpɛda/",
+   "glosses": {
+    "en": "bicycle",
+    "ja": "自転車"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "indonesian",
+   "id": "id-01945",
+   "level": 3,
+   "prompt": "「bedakan」の意味は？",
+   "answer": "to differentiate",
+   "choices": [
+    "kettle",
+    "temperament",
+    "to differentiate",
+    "stud"
+   ],
+   "example": null,
+   "pronunciation": "/beˈdakan/",
+   "glosses": {
+    "en": "to differentiate",
+    "ja": "区別する"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "indonesian",
+   "id": "id-01951",
+   "level": 3,
+   "prompt": "「sindiran」の意味は？",
+   "answer": "sarcasm",
+   "choices": [
+    "sarcasm",
+    "chassis",
+    "infrared",
+    "souvenir"
+   ],
+   "example": null,
+   "pronunciation": "",
+   "glosses": {
+    "en": "sarcasm",
+    "ja": "皮肉"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "indonesian",
+   "id": "id-01921",
+   "level": 3,
+   "prompt": "「sunat」の意味は？",
+   "answer": "circumcision",
+   "choices": [
+    "generous",
+    "to dedicate",
+    "circumcision",
+    "deodorant"
+   ],
+   "example": null,
+   "pronunciation": "/ˈsunat/",
+   "glosses": {
+    "en": "circumcision",
+    "ja": "割礼"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "indonesian",
+   "id": "id-01935",
+   "level": 3,
+   "prompt": "「diplomasi」の意味は？",
+   "answer": "diplomacy",
+   "choices": [
+    "ombudsman",
+    "diplomacy",
+    "perfectionist",
+    "absence"
+   ],
+   "example": null,
+   "pronunciation": "[dɪploˈmasi]",
+   "glosses": {
+    "en": "diplomacy",
+    "ja": "外交"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "indonesian",
+   "id": "id-02656",
+   "level": 3,
+   "prompt": "「reboisasi」の意味は？",
+   "answer": "reforestation",
+   "choices": [
+    "reforestation",
+    "aspirin",
+    "stump",
+    "to sulk"
+   ],
+   "example": null,
+   "pronunciation": "/reboiˈsasi/",
+   "glosses": {
+    "en": "reforestation",
+    "ja": "再植林"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "indonesian",
+   "id": "id-00030",
+   "level": 1,
+   "prompt": "「terima」の意味は？",
+   "answer": "to receive",
+   "choices": [
+    "marketing",
+    "to receive",
+    "to reach",
+    "air"
+   ],
+   "example": null,
+   "pronunciation": "/təˈrima/",
+   "glosses": {
+    "en": "to receive",
+    "ja": "受け取る"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "indonesian",
+   "id": "id-01895",
+   "level": 3,
+   "prompt": "「heroik」の意味は？",
+   "answer": "heroic",
+   "choices": [
+    "comparison standard",
+    "turn signal",
+    "compost",
+    "heroic"
+   ],
+   "example": null,
+   "pronunciation": "/heˈro.ik/",
+   "glosses": {
+    "en": "heroic",
+    "ja": "英雄的な"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "indonesian",
+   "id": "id-01881",
+   "level": 3,
+   "prompt": "「kemih」の意味は？",
+   "answer": "urine",
+   "choices": [
+    "urine",
+    "transfusion",
+    "swap",
+    "rebel"
+   ],
+   "example": null,
+   "pronunciation": "/kəˈmɪh/",
+   "glosses": {
+    "en": "urine",
+    "ja": "尿"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "indonesian",
+   "id": "id-01041",
+   "level": 2,
+   "prompt": "「didik」の意味は？",
+   "answer": "to educate",
+   "choices": [
+    "to educate",
+    "sticky",
+    "family spirit",
+    "gland"
+   ],
+   "example": null,
+   "pronunciation": "/ˈdidiʔ/",
+   "glosses": {
+    "en": "to educate",
+    "ja": "教育する"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "indonesian",
+   "id": "id-00343",
+   "level": 1,
+   "prompt": "「tersenyum」の意味は？",
+   "answer": "to smile",
+   "choices": [
+    "kidney",
+    "to smile",
+    "grass",
+    "to grow"
+   ],
+   "example": null,
+   "pronunciation": "/tərsəˈɲum/",
+   "glosses": {
+    "en": "to smile",
+    "ja": "ほほえむ"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "indonesian",
+   "id": "id-01946",
+   "level": 3,
+   "prompt": "「lendir」の意味は？",
+   "answer": "mucus",
+   "choices": [
+    "mess hall/dormitory",
+    "to oblige",
+    "mucus",
+    "biochemistry"
+   ],
+   "example": null,
+   "pronunciation": "/lənˈdir/",
+   "glosses": {
+    "en": "mucus",
+    "ja": "粘液"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "indonesian",
+   "id": "id-01950",
+   "level": 3,
+   "prompt": "「iritasi」の意味は？",
+   "answer": "irritation",
+   "choices": [
+    "manuscript",
+    "relativity",
+    "to be turbulent",
+    "irritation"
+   ],
+   "example": null,
+   "pronunciation": "/iriˈtasi/",
+   "glosses": {
+    "en": "irritation",
+    "ja": "炎症・かぶれ"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "indonesian",
+   "id": "id-01966",
+   "level": 3,
+   "prompt": "「acar」の意味は？",
+   "answer": "pickle",
+   "choices": [
+    "dialect",
+    "yellowish",
+    "pickle",
+    "challenger"
+   ],
+   "example": null,
+   "pronunciation": "/ˈat͡ʃar/",
+   "glosses": {
+    "en": "pickle",
+    "ja": "ピクルス"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "indonesian",
+   "id": "id-01926",
+   "level": 3,
+   "prompt": "「montok」の意味は？",
+   "answer": "plump",
+   "choices": [
+    "plump",
+    "cockpit",
+    "crazy",
+    "to groan"
+   ],
+   "example": null,
+   "pronunciation": "",
+   "glosses": {
+    "en": "plump",
+    "ja": "ぽっちゃりした"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "indonesian",
+   "id": "id-01934",
+   "level": 3,
+   "prompt": "「sekuler」の意味は？",
+   "answer": "secular",
+   "choices": [
+    "secular",
+    "platform",
+    "drawer",
+    "intellectual"
+   ],
+   "example": null,
+   "pronunciation": "[sɛˈku.lɛr]",
+   "glosses": {
+    "en": "secular",
+    "ja": "世俗的な"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "indonesian",
+   "id": "id-02659",
+   "level": 3,
+   "prompt": "「monorel」の意味は？",
+   "answer": "monorail",
+   "choices": [
+    "narration",
+    "corridor/veranda",
+    "monorail",
+    "entrusted item"
+   ],
+   "example": null,
+   "pronunciation": "/moˈno.rel/",
+   "glosses": {
+    "en": "monorail",
+    "ja": "モノレール"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "indonesian",
+   "id": "id-01880",
+   "level": 3,
+   "prompt": "「nalar」の意味は？",
+   "answer": "logic",
+   "choices": [
+    "stump",
+    "logic",
+    "polyp",
+    "glacier"
+   ],
+   "example": null,
+   "pronunciation": "/ˈnalar/",
+   "glosses": {
+    "en": "logic",
+    "ja": "論理"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "indonesian",
+   "id": "id-01092",
+   "level": 2,
+   "prompt": "「pot」の意味は？",
+   "answer": "flowerpot",
+   "choices": [
+    "flowerpot",
+    "Miss, young lady",
+    "friendship",
+    "to hug"
+   ],
+   "example": null,
+   "pronunciation": "/ˈpot/",
+   "glosses": {
+    "en": "flowerpot",
+    "ja": "植木鉢"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "indonesian",
+   "id": "id-01040",
+   "level": 2,
+   "prompt": "「efisien」の意味は？",
+   "answer": "efficient",
+   "choices": [
+    "representation",
+    "spell",
+    "efficient",
+    "beer"
+   ],
+   "example": null,
+   "pronunciation": "/ɛfiˈsiɛn/",
+   "glosses": {
+    "en": "efficient",
+    "ja": "効率的な"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "indonesian",
+   "id": "id-00358",
+   "level": 1,
+   "prompt": "「pasir」の意味は？",
+   "answer": "sand",
+   "choices": [
+    "sand",
+    "way/method",
+    "roof",
+    "unfortunate"
+   ],
+   "example": null,
+   "pronunciation": "/ˈpasir/",
+   "glosses": {
+    "en": "sand",
+    "ja": "砂"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "indonesian",
+   "id": "id-00342",
+   "level": 1,
+   "prompt": "「perdagangan」の意味は？",
+   "answer": "trade",
+   "choices": [
+    "factory",
+    "university lecturer",
+    "basketball",
+    "trade"
+   ],
+   "example": null,
+   "pronunciation": "[pərdaˈɡaŋan]",
+   "glosses": {
+    "en": "trade",
+    "ja": "貿易、商取引"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "indonesian",
+   "id": "id-01947",
+   "level": 3,
+   "prompt": "「transmigrasi」の意味は？",
+   "answer": "transmigration",
+   "choices": [
+    "sharpness",
+    "transmigration",
+    "to shorten",
+    "shell"
+   ],
+   "example": null,
+   "pronunciation": "/transmiɡˈrasi/",
+   "glosses": {
+    "en": "transmigration",
+    "ja": "国内移住"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "indonesian",
+   "id": "id-01957",
+   "level": 3,
+   "prompt": "「memperkaya」の意味は？",
+   "answer": "to enrich",
+   "choices": [
+    "to monitor",
+    "mayonnaise",
+    "fluctuation",
+    "to enrich"
+   ],
+   "example": null,
+   "pronunciation": "/məmpərˈkaja/",
+   "glosses": {
+    "en": "to enrich",
+    "ja": "豊かにする"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "indonesian",
+   "id": "id-01967",
+   "level": 3,
+   "prompt": "「abjad」の意味は？",
+   "answer": "alphabet",
+   "choices": [
+    "apathetic",
+    "alphabet",
+    "platform",
+    "legion"
+   ],
+   "example": null,
+   "pronunciation": "/ˈabd͡ʒad/",
+   "glosses": {
+    "en": "alphabet",
+    "ja": "アルファベット"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "urdu",
+   "id": "ur-00103",
+   "level": 1,
+   "prompt": "「باعث」の意味は？",
+   "answer": "cause",
+   "choices": [
+    "cause",
+    "study",
+    "lawsuit",
+    "publication"
+   ],
+   "example": null,
+   "pronunciation": "/bɑː.(ʔ)ɪs/",
+   "glosses": {
+    "en": "cause",
+    "ja": "原因"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "urdu",
+   "id": "ur-00048",
+   "level": 1,
+   "prompt": "「ذکر」の意味は？",
+   "answer": "mention",
+   "choices": [
+    "round",
+    "soul",
+    "mention",
+    "kind"
+   ],
+   "example": null,
+   "pronunciation": "/zə.kəɾ/",
+   "glosses": {
+    "en": "mention",
+    "ja": "言及"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "urdu",
+   "id": "ur-00016",
+   "level": 1,
+   "prompt": "「کبھی」の意味は？",
+   "answer": "ever, sometime",
+   "choices": [
+    "ever, sometime",
+    "arrangement",
+    "formation",
+    "blessing"
+   ],
+   "example": null,
+   "pronunciation": "/kə.bʱiː/",
+   "glosses": {
+    "en": "ever, sometime",
+    "ja": "いつか、かつて"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "urdu",
+   "id": "ur-00102",
+   "level": 1,
+   "prompt": "「ترجمان」の意味は？",
+   "answer": "spokesman",
+   "choices": [
+    "Monday",
+    "spokesman",
+    "speech",
+    "appearance"
+   ],
+   "example": null,
+   "pronunciation": "/t̪əɾ.d͡ʒʊ.mɑːn/",
+   "glosses": {
+    "en": "spokesman",
+    "ja": "代弁者"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "urdu",
+   "id": "ur-00049",
+   "level": 1,
+   "prompt": "「موت」の意味は？",
+   "answer": "death",
+   "choices": [
+    "marriage",
+    "death",
+    "ill, sick",
+    "possible"
+   ],
+   "example": null,
+   "pronunciation": "/mɔːt̪/",
+   "glosses": {
+    "en": "death",
+    "ja": "死"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "urdu",
+   "id": "ur-00015",
+   "level": 1,
+   "prompt": "「شریف」の意味は？",
+   "answer": "noble, decent",
+   "choices": [
+    "happy",
+    "improvement",
+    "noble, decent",
+    "noise"
+   ],
+   "example": null,
+   "pronunciation": "/ʃə.ɾiːf/",
+   "glosses": {
+    "en": "noble, decent",
+    "ja": "上品な"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "urdu",
+   "id": "ur-00014",
+   "level": 1,
+   "prompt": "「یہاں」の意味は？",
+   "answer": "here",
+   "choices": [
+    "promise",
+    "feeling",
+    "immediately",
+    "here"
+   ],
+   "example": null,
+   "pronunciation": "/jə.ɦɑ̃ː/",
+   "glosses": {
+    "en": "here",
+    "ja": "ここで"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "urdu",
+   "id": "ur-00013",
+   "level": 1,
+   "prompt": "「بار」の意味は？",
+   "answer": "time (occurrence)",
+   "choices": [
+    "time (occurrence)",
+    "market",
+    "province",
+    "father"
+   ],
+   "example": null,
+   "pronunciation": "/bɑːɾ/",
+   "glosses": {
+    "en": "time (occurrence)",
+    "ja": "回"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "urdu",
+   "id": "ur-00012",
+   "level": 1,
+   "prompt": "「شخص」の意味は？",
+   "answer": "person",
+   "choices": [
+    "research",
+    "breath",
+    "person",
+    "jail"
+   ],
+   "example": null,
+   "pronunciation": "/ʃəxs/",
+   "glosses": {
+    "en": "person",
+    "ja": "人"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "urdu",
+   "id": "ur-00028",
+   "level": 1,
+   "prompt": "「ضرورت」の意味は？",
+   "answer": "necessity",
+   "choices": [
+    "necessity",
+    "art",
+    "arrival",
+    "complaint"
+   ],
+   "example": null,
+   "pronunciation": "/zə.ɾuː.ɾət̪/",
+   "glosses": {
+    "en": "necessity",
+    "ja": "必要性"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "urdu",
+   "id": "ur-00059",
+   "level": 1,
+   "prompt": "「فوجی」の意味は？",
+   "answer": "soldier",
+   "choices": [
+    "sin",
+    "virtuous",
+    "soldier",
+    "belly"
+   ],
+   "example": null,
+   "pronunciation": "/fɔː.d͡ʒiː/",
+   "glosses": {
+    "en": "soldier",
+    "ja": "兵士"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "urdu",
+   "id": "ur-00011",
+   "level": 1,
+   "prompt": "「گھر」の意味は？",
+   "answer": "house",
+   "choices": [
+    "maybe",
+    "house",
+    "district",
+    "existence"
+   ],
+   "example": null,
+   "pronunciation": "/ɡʱəɾ/",
+   "glosses": {
+    "en": "house",
+    "ja": "家"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "urdu",
+   "id": "ur-00029",
+   "level": 1,
+   "prompt": "「تعداد」の意味は？",
+   "answer": "number",
+   "choices": [
+    "specific",
+    "appearance",
+    "number",
+    "unknown"
+   ],
+   "example": null,
+   "pronunciation": "/t̪ɑː.d̪ɑːd̪/",
+   "glosses": {
+    "en": "number",
+    "ja": "数"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "urdu",
+   "id": "ur-00058",
+   "level": 1,
+   "prompt": "「اجلاس」の意味は？",
+   "answer": "meeting",
+   "choices": [
+    "meeting",
+    "cup",
+    "province",
+    "prize"
+   ],
+   "example": null,
+   "pronunciation": "/ɪd͡ʒ.lɑːs/",
+   "glosses": {
+    "en": "meeting",
+    "ja": "会議"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "urdu",
+   "id": "ur-00010",
+   "level": 1,
+   "prompt": "「استعمال」の意味は？",
+   "answer": "use",
+   "choices": [
+    "glory",
+    "office",
+    "use",
+    "cow"
+   ],
+   "example": null,
+   "pronunciation": "/ɪs.t̪eː.mɑːl/",
+   "glosses": {
+    "en": "use",
+    "ja": "使用"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "urdu",
+   "id": "ur-00040",
+   "level": 1,
+   "prompt": "「سوال」の意味は？",
+   "answer": "question",
+   "choices": [
+    "conclusion",
+    "quiet",
+    "nawab, nobleman",
+    "question"
+   ],
+   "example": null,
+   "pronunciation": "/sə.ʋɑːl/",
+   "glosses": {
+    "en": "question",
+    "ja": "質問"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "urdu",
+   "id": "ur-01050",
+   "level": 3,
+   "prompt": "「بھاگنا」の意味は？",
+   "answer": "to run away",
+   "choices": [
+    "little",
+    "to set",
+    "to run away",
+    "varied"
+   ],
+   "example": null,
+   "pronunciation": "/bʱɑːɡ.nɑː/",
+   "glosses": {
+    "en": "to run away",
+    "ja": "逃げる"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "urdu",
+   "id": "ur-00041",
+   "level": 1,
+   "prompt": "「سطح」の意味は？",
+   "answer": "level",
+   "choices": [
+    "homeland",
+    "level",
+    "embassy",
+    "joy"
+   ],
+   "example": null,
+   "pronunciation": "/sə.t̪əɦ/",
+   "glosses": {
+    "en": "level",
+    "ja": "水準"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "urdu",
+   "id": "ur-00039",
+   "level": 1,
+   "prompt": "「فلم」の意味は？",
+   "answer": "film",
+   "choices": [
+    "film",
+    "aerial",
+    "chance",
+    "control"
+   ],
+   "example": null,
+   "pronunciation": "/fɪlm/",
+   "glosses": {
+    "en": "film",
+    "ja": "映画"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "urdu",
+   "id": "ur-01051",
+   "level": 3,
+   "prompt": "「جانکاری」の意味は？",
+   "answer": "information",
+   "choices": [
+    "firefly",
+    "information",
+    "throat",
+    "plague"
+   ],
+   "example": null,
+   "pronunciation": "/d͡ʒɑːn.kɑː.ɾiː/",
+   "glosses": {
+    "en": "information",
+    "ja": "情報"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "urdu",
+   "id": "ur-00042",
+   "level": 1,
+   "prompt": "「کوشش」の意味は？",
+   "answer": "effort",
+   "choices": [
+    "judge",
+    "demonstration",
+    "effort",
+    "father"
+   ],
+   "example": null,
+   "pronunciation": "/koː.ʃɪʃ/",
+   "glosses": {
+    "en": "effort",
+    "ja": "努力"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "urdu",
+   "id": "ur-00022",
+   "level": 1,
+   "prompt": "「فوج」の意味は？",
+   "answer": "army",
+   "choices": [
+    "army",
+    "blow",
+    "sample",
+    "killer"
+   ],
+   "example": null,
+   "pronunciation": "/fɔːd͡ʒ/",
+   "glosses": {
+    "en": "army",
+    "ja": "軍隊"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "urdu",
+   "id": "ur-00038",
+   "level": 1,
+   "prompt": "「قانون」の意味は？",
+   "answer": "law",
+   "choices": [
+    "law",
+    "funeral",
+    "business",
+    "east"
+   ],
+   "example": null,
+   "pronunciation": "/qɑː.nuːn/",
+   "glosses": {
+    "en": "law",
+    "ja": "法律"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "urdu",
+   "id": "ur-00790",
+   "level": 2,
+   "prompt": "「ٹیپ」の意味は？",
+   "answer": "tape",
+   "choices": [
+    "stain",
+    "tape",
+    "to cry",
+    "shame"
+   ],
+   "example": null,
+   "pronunciation": "/ʈeːp/",
+   "glosses": {
+    "en": "tape",
+    "ja": "テープ"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "urdu",
+   "id": "ur-01052",
+   "level": 3,
+   "prompt": "「لہسن」の意味は？",
+   "answer": "garlic",
+   "choices": [
+    "garlic",
+    "a saw",
+    "hooligan, thug",
+    "to seat"
+   ],
+   "example": null,
+   "pronunciation": "/ləɦ.sʊn/",
+   "glosses": {
+    "en": "garlic",
+    "ja": "ニンニク"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "urdu",
+   "id": "ur-01032",
+   "level": 3,
+   "prompt": "「ریڑھی」の意味は？",
+   "answer": "handcart",
+   "choices": [
+    "playfulness",
+    "handcart",
+    "low",
+    "wasp"
+   ],
+   "example": null,
+   "pronunciation": "",
+   "glosses": {
+    "en": "handcart",
+    "ja": "手押し車"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "urdu",
+   "id": "ur-00043",
+   "level": 1,
+   "prompt": "「قسم」の意味は？",
+   "answer": "kind",
+   "choices": [
+    "immediately",
+    "kind",
+    "game",
+    "ease"
+   ],
+   "example": null,
+   "pronunciation": "/qɪsm/",
+   "glosses": {
+    "en": "kind",
+    "ja": "種類"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "urdu",
+   "id": "ur-00053",
+   "level": 1,
+   "prompt": "「شادی」の意味は？",
+   "answer": "marriage",
+   "choices": [
+    "known",
+    "analysis",
+    "marriage",
+    "government"
+   ],
+   "example": null,
+   "pronunciation": "/ʃɑː.d̪iː/",
+   "glosses": {
+    "en": "marriage",
+    "ja": "結婚"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "urdu",
+   "id": "ur-00023",
+   "level": 1,
+   "prompt": "「فیصلہ」の意味は？",
+   "answer": "decision",
+   "choices": [
+    "decision",
+    "patient",
+    "special",
+    "seal"
+   ],
+   "example": null,
+   "pronunciation": "/fɛːs.lɑ(ː)/",
+   "glosses": {
+    "en": "decision",
+    "ja": "決定"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "urdu",
+   "id": "ur-00791",
+   "level": 2,
+   "prompt": "「نمی」の意味は？",
+   "answer": "moisture",
+   "choices": [
+    "trust",
+    "perpetration",
+    "moisture",
+    "religious merit"
+   ],
+   "example": null,
+   "pronunciation": "/nə.miː/",
+   "glosses": {
+    "en": "moisture",
+    "ja": "湿気"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "turkish",
+   "id": "tr-00208",
+   "level": 1,
+   "prompt": "「reklam」の意味は？",
+   "answer": "advertisement",
+   "choices": [
+    "storm",
+    "stage",
+    "advertisement",
+    "to sleep"
+   ],
+   "example": null,
+   "pronunciation": "/ɾec.lʲɑm/",
+   "glosses": {
+    "en": "advertisement",
+    "ja": "広告"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "turkish",
+   "id": "tr-00272",
+   "level": 1,
+   "prompt": "「zeki」の意味は？",
+   "answer": "smart",
+   "choices": [
+    "translation",
+    "unexpected",
+    "smart",
+    "teacher"
+   ],
+   "example": null,
+   "pronunciation": "/zeˈciː/",
+   "glosses": {
+    "en": "smart",
+    "ja": "賢い"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "turkish",
+   "id": "tr-00264",
+   "level": 1,
+   "prompt": "「başkanlık」の意味は？",
+   "answer": "presidency",
+   "choices": [
+    "ski",
+    "subway",
+    "abundant",
+    "presidency"
+   ],
+   "example": null,
+   "pronunciation": "",
+   "glosses": {
+    "en": "presidency",
+    "ja": "会長職，大統領職"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "turkish",
+   "id": "tr-02660",
+   "level": 3,
+   "prompt": "「sıklet」の意味は？",
+   "answer": "weight",
+   "choices": [
+    "association",
+    "cent",
+    "currently",
+    "weight"
+   ],
+   "example": null,
+   "pronunciation": "",
+   "glosses": {
+    "en": "weight",
+    "ja": "重さ"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "turkish",
+   "id": "tr-02628",
+   "level": 3,
+   "prompt": "「ıspanak」の意味は？",
+   "answer": "spinach",
+   "choices": [
+    "dialysis",
+    "unadorned",
+    "spinach",
+    "accent"
+   ],
+   "example": null,
+   "pronunciation": "/ɯspɑˈnɑk/",
+   "glosses": {
+    "en": "spinach",
+    "ja": "ホウレンソウ"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "turkish",
+   "id": "tr-00965",
+   "level": 1,
+   "prompt": "「cadı」の意味は？",
+   "answer": "witch",
+   "choices": [
+    "bench",
+    "alarm",
+    "passionate",
+    "witch"
+   ],
+   "example": null,
+   "pronunciation": "/d͡ʒaˈdɯ/",
+   "glosses": {
+    "en": "witch",
+    "ja": "魔女"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "turkish",
+   "id": "tr-00901",
+   "level": 1,
+   "prompt": "「divan」の意味は？",
+   "answer": "divan",
+   "choices": [
+    "divan",
+    "fascist",
+    "anyway",
+    "migration"
+   ],
+   "example": null,
+   "pronunciation": "/diːˈvan/",
+   "glosses": {
+    "en": "divan",
+    "ja": "長いす"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "turkish",
+   "id": "tr-00915",
+   "level": 1,
+   "prompt": "「piyasa」の意味は？",
+   "answer": "market",
+   "choices": [
+    "market",
+    "career",
+    "bus",
+    "story"
+   ],
+   "example": null,
+   "pronunciation": "/piˈjɑ.sɑ/",
+   "glosses": {
+    "en": "market",
+    "ja": "市場"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "turkish",
+   "id": "tr-01317",
+   "level": 2,
+   "prompt": "「kapasite」の意味は？",
+   "answer": "capacity",
+   "choices": [
+    "heartfelt",
+    "spark",
+    "capacity",
+    "to lower"
+   ],
+   "example": null,
+   "pronunciation": "/ka.pa.ˈsi.te/",
+   "glosses": {
+    "en": "capacity",
+    "ja": "容量"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "turkish",
+   "id": "tr-02119",
+   "level": 2,
+   "prompt": "「çekirge」の意味は？",
+   "answer": "grasshopper",
+   "choices": [
+    "transparent",
+    "grill",
+    "grasshopper",
+    "prison"
+   ],
+   "example": null,
+   "pronunciation": "[tʃekiɾɟe]",
+   "glosses": {
+    "en": "grasshopper",
+    "ja": "バッタ"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "turkish",
+   "id": "tr-01307",
+   "level": 2,
+   "prompt": "「hazırlamak」の意味は？",
+   "answer": "to prepare",
+   "choices": [
+    "clover",
+    "mistakenly",
+    "to prepare",
+    "earth's surface"
+   ],
+   "example": null,
+   "pronunciation": "",
+   "glosses": {
+    "en": "to prepare",
+    "ja": "用意する"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "turkish",
+   "id": "tr-02121",
+   "level": 2,
+   "prompt": "「cimri」の意味は？",
+   "answer": "stingy",
+   "choices": [
+    "stingy",
+    "blanket",
+    "madness",
+    "inanimate"
+   ],
+   "example": null,
+   "pronunciation": "/d͡ʒimˈɾi/",
+   "glosses": {
+    "en": "stingy",
+    "ja": "けちな"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "turkish",
+   "id": "tr-01337",
+   "level": 2,
+   "prompt": "「hasat」の意味は？",
+   "answer": "harvest",
+   "choices": [
+    "harvest",
+    "midwife",
+    "prestigious",
+    "hesitation"
+   ],
+   "example": null,
+   "pronunciation": "",
+   "glosses": {
+    "en": "harvest",
+    "ja": "収穫"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "turkish",
+   "id": "tr-01377",
+   "level": 2,
+   "prompt": "「potasyum」の意味は？",
+   "answer": "potassium",
+   "choices": [
+    "ornament",
+    "potassium",
+    "similarity",
+    "fantasy"
+   ],
+   "example": null,
+   "pronunciation": "[potásjum]",
+   "glosses": {
+    "en": "potassium",
+    "ja": "カリウム"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "turkish",
+   "id": "tr-01367",
+   "level": 2,
+   "prompt": "「senatör」の意味は？",
+   "answer": "senator",
+   "choices": [
+    "banking",
+    "depression",
+    "to obtain",
+    "senator"
+   ],
+   "example": null,
+   "pronunciation": "/se.naˈtøɾ/",
+   "glosses": {
+    "en": "senator",
+    "ja": "上院議員"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "turkish",
+   "id": "tr-02199",
+   "level": 3,
+   "prompt": "「koordinat」の意味は？",
+   "answer": "coordinate",
+   "choices": [
+    "addict",
+    "orphanage",
+    "cooking",
+    "coordinate"
+   ],
+   "example": null,
+   "pronunciation": "[kooɾdinat]",
+   "glosses": {
+    "en": "coordinate",
+    "ja": "座標"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "turkish",
+   "id": "tr-00273",
+   "level": 1,
+   "prompt": "「tavsiye」の意味は？",
+   "answer": "advice",
+   "choices": [
+    "super",
+    "radiation",
+    "respiration",
+    "advice"
+   ],
+   "example": null,
+   "pronunciation": "",
+   "glosses": {
+    "en": "advice",
+    "ja": "助言"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "turkish",
+   "id": "tr-00263",
+   "level": 1,
+   "prompt": "「maalesef」の意味は？",
+   "answer": "unfortunately",
+   "choices": [
+    "unfortunately",
+    "sea",
+    "harassment",
+    "prayer"
+   ],
+   "example": null,
+   "pronunciation": "[mɑːleˈsef]",
+   "glosses": {
+    "en": "unfortunately",
+    "ja": "残念ながら"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "turkish",
+   "id": "tr-02663",
+   "level": 3,
+   "prompt": "「illüzyon」の意味は？",
+   "answer": "illusion",
+   "choices": [
+    "travertine",
+    "contractor",
+    "illusion",
+    "dam"
+   ],
+   "example": null,
+   "pronunciation": "/i.lyz.jɔn/",
+   "glosses": {
+    "en": "illusion",
+    "ja": "錯覚"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "turkish",
+   "id": "tr-00966",
+   "level": 1,
+   "prompt": "「zeytin」の意味は？",
+   "answer": "olive",
+   "choices": [
+    "prosperity",
+    "jet",
+    "olive",
+    "peace"
+   ],
+   "example": null,
+   "pronunciation": "/zejˈtin/",
+   "glosses": {
+    "en": "olive",
+    "ja": "オリーブ"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "turkish",
+   "id": "tr-00906",
+   "level": 1,
+   "prompt": "「sapan」の意味は？",
+   "answer": "slingshot",
+   "choices": [
+    "slingshot",
+    "east",
+    "dream",
+    "guitar"
+   ],
+   "example": null,
+   "pronunciation": "[sɑˈpɑn]",
+   "glosses": {
+    "en": "slingshot",
+    "ja": "スリングショット"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "turkish",
+   "id": "tr-00914",
+   "level": 1,
+   "prompt": "「patlayıcı」の意味は？",
+   "answer": "explosive",
+   "choices": [
+    "signature",
+    "explosive",
+    "agriculture",
+    "airport"
+   ],
+   "example": null,
+   "pronunciation": "",
+   "glosses": {
+    "en": "explosive",
+    "ja": "爆発しやすい"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "turkish",
+   "id": "tr-01318",
+   "level": 2,
+   "prompt": "「yaman」の意味は？",
+   "answer": "formidable",
+   "choices": [
+    "nail",
+    "geological fault",
+    "formidable",
+    "historian"
+   ],
+   "example": null,
+   "pronunciation": "/jaˈman/",
+   "glosses": {
+    "en": "formidable",
+    "ja": "すごい，手ごわい"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "turkish",
+   "id": "tr-02118",
+   "level": 2,
+   "prompt": "「kromozom」の意味は？",
+   "answer": "chromosome",
+   "choices": [
+    "peach",
+    "chromosome",
+    "kiss",
+    "ruby"
+   ],
+   "example": null,
+   "pronunciation": "[kɾɔ.mɔ.ʐɔm]",
+   "glosses": {
+    "en": "chromosome",
+    "ja": "染色体"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "turkish",
+   "id": "tr-01306",
+   "level": 2,
+   "prompt": "「nöbetçi」の意味は？",
+   "answer": "guard",
+   "choices": [
+    "guard",
+    "thorny",
+    "perfume",
+    "judge"
+   ],
+   "example": null,
+   "pronunciation": "/nœ.betˈt͡ʃi/",
+   "glosses": {
+    "en": "guard",
+    "ja": "見張り"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "turkish",
+   "id": "tr-01334",
+   "level": 2,
+   "prompt": "「cahil」の意味は？",
+   "answer": "ignorant",
+   "choices": [
+    "aluminum",
+    "grumpy",
+    "alms",
+    "ignorant"
+   ],
+   "example": null,
+   "pronunciation": "/d͡ʒaːˈhil/",
+   "glosses": {
+    "en": "ignorant",
+    "ja": "無知な"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "turkish",
+   "id": "tr-01374",
+   "level": 2,
+   "prompt": "「far」の意味は？",
+   "answer": "headlight",
+   "choices": [
+    "headlight",
+    "massacre",
+    "alpha",
+    "musical instrument"
+   ],
+   "example": null,
+   "pronunciation": "",
+   "glosses": {
+    "en": "headlight",
+    "ja": "ヘッドライト"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "turkish",
+   "id": "tr-01366",
+   "level": 2,
+   "prompt": "「tecrübeli」の意味は？",
+   "answer": "experienced",
+   "choices": [
+    "experienced",
+    "urine",
+    "disgrace",
+    "sincerely"
+   ],
+   "example": null,
+   "pronunciation": "/ted͡ʒ.ɾy.beˈli/",
+   "glosses": {
+    "en": "experienced",
+    "ja": "経験豊かな"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "turkish",
+   "id": "tr-01398",
+   "level": 2,
+   "prompt": "「milliyetçilik」の意味は？",
+   "answer": "nationalism",
+   "choices": [
+    "sparrow",
+    "stadium",
+    "nationalism",
+    "carrier"
+   ],
+   "example": null,
+   "pronunciation": "",
+   "glosses": {
+    "en": "nationalism",
+    "ja": "民族主義"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "turkish",
+   "id": "tr-02198",
+   "level": 3,
+   "prompt": "「vinç」の意味は？",
+   "answer": "crane (machine)",
+   "choices": [
+    "shawl",
+    "crane (machine)",
+    "feminism",
+    "apprenticeship"
+   ],
+   "example": null,
+   "pronunciation": "[vin̪tʃ]",
+   "glosses": {
+    "en": "crane (machine)",
+    "ja": "クレーン"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "vietnamese",
+   "id": "vi-02683",
+   "level": 3,
+   "prompt": "「gối dựa」の意味は？",
+   "answer": "a backrest cushion",
+   "choices": [
+    "ruthless",
+    "machete",
+    "to ponder",
+    "a backrest cushion"
+   ],
+   "example": null,
+   "pronunciation": "[ɣoj˧˦ zɨə˧˨ʔ]",
+   "glosses": {
+    "en": "a backrest cushion",
+    "ja": "背当てクッション"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "vietnamese",
+   "id": "vi-02809",
+   "level": 3,
+   "prompt": "「ân huệ」の意味は？",
+   "answer": "a favor",
+   "choices": [
+    "a favor",
+    "a gang, clique",
+    "winding",
+    "toothpick"
+   ],
+   "example": null,
+   "pronunciation": "[ʔən˧˧ hwe˧˨ʔ]",
+   "glosses": {
+    "en": "a favor",
+    "ja": "恩恵"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "vietnamese",
+   "id": "vi-02727",
+   "level": 3,
+   "prompt": "「cắm trại」の意味は？",
+   "answer": "to camp",
+   "choices": [
+    "woodland",
+    "a match (for fire)",
+    "to camp",
+    "the past"
+   ],
+   "example": null,
+   "pronunciation": "[kam˧˦ t͡ɕaːj˧˨ʔ]",
+   "glosses": {
+    "en": "to camp",
+    "ja": "キャンプする"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "vietnamese",
+   "id": "vi-02797",
+   "level": 3,
+   "prompt": "「nghịch lí」の意味は？",
+   "answer": "paradox",
+   "choices": [
+    "a gap",
+    "paradox",
+    "the fishing industry",
+    "a folding pillow"
+   ],
+   "example": null,
+   "pronunciation": "[ŋïk̟̚˧˨ʔ li˧˦]",
+   "glosses": {
+    "en": "paradox",
+    "ja": "逆説"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "vietnamese",
+   "id": "vi-02787",
+   "level": 3,
+   "prompt": "「bã」の意味は？",
+   "answer": "dregs, residue",
+   "choices": [
+    "cowboy",
+    "short (in height)",
+    "dregs, residue",
+    "inflation"
+   ],
+   "example": null,
+   "pronunciation": "[ʔɓaː˦ˀ˥]",
+   "glosses": {
+    "en": "dregs, residue",
+    "ja": "かす，絞りかす"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "vietnamese",
+   "id": "vi-00085",
+   "level": 1,
+   "prompt": "「nhà văn」の意味は？",
+   "answer": "writer",
+   "choices": [
+    "tall",
+    "festival",
+    "a quota, target",
+    "writer"
+   ],
+   "example": null,
+   "pronunciation": "[ɲaː˨˩ van˧˧]",
+   "glosses": {
+    "en": "writer",
+    "ja": "作家"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "vietnamese",
+   "id": "vi-03002",
+   "level": 3,
+   "prompt": "「trêu」の意味は？",
+   "answer": "to tease",
+   "choices": [
+    "backpack",
+    "a flashlight",
+    "to tease",
+    "quicklime"
+   ],
+   "example": null,
+   "pronunciation": "[t͡ɕew˧˧]",
+   "glosses": {
+    "en": "to tease",
+    "ja": "からかう"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "vietnamese",
+   "id": "vi-00091",
+   "level": 1,
+   "prompt": "「con tin」の意味は？",
+   "answer": "hostage",
+   "choices": [
+    "passive",
+    "hostage",
+    "utensil",
+    "difficult"
+   ],
+   "example": null,
+   "pronunciation": "[kɔn˧˧ tin˧˧]",
+   "glosses": {
+    "en": "hostage",
+    "ja": "人質"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "vietnamese",
+   "id": "vi-03038",
+   "level": 3,
+   "prompt": "「kẽ」の意味は？",
+   "answer": "gap, crack",
+   "choices": [
+    "slippery",
+    "lemon",
+    "to slacken",
+    "gap, crack"
+   ],
+   "example": null,
+   "pronunciation": "[kɛ˦ˀ˥]",
+   "glosses": {
+    "en": "gap, crack",
+    "ja": "すきま"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "vietnamese",
+   "id": "vi-01858",
+   "level": 2,
+   "prompt": "「cầu thang」の意味は？",
+   "answer": "a staircase",
+   "choices": [
+    "a staircase",
+    "ketchup",
+    "aspirated",
+    "old hand"
+   ],
+   "example": null,
+   "pronunciation": "[kəw˨˩ tʰaːŋ˧˧]",
+   "glosses": {
+    "en": "a staircase",
+    "ja": "階段"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "vietnamese",
+   "id": "vi-01842",
+   "level": 2,
+   "prompt": "「công lí」の意味は？",
+   "answer": "justice",
+   "choices": [
+    "agreement",
+    "to respect",
+    "speed",
+    "justice"
+   ],
+   "example": null,
+   "pronunciation": "[kəwŋ͡m˧˧ li˧˦]",
+   "glosses": {
+    "en": "justice",
+    "ja": "正義"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "vietnamese",
+   "id": "vi-01834",
+   "level": 2,
+   "prompt": "「tiêu hoá」の意味は？",
+   "answer": "to digest",
+   "choices": [
+    "unjust",
+    "to decline",
+    "to digest",
+    "anecdote"
+   ],
+   "example": null,
+   "pronunciation": "[tiəw˧˧ hwaː˧˦]",
+   "glosses": {
+    "en": "to digest",
+    "ja": "消化する"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "vietnamese",
+   "id": "vi-00320",
+   "level": 1,
+   "prompt": "「tên gọi」の意味は？",
+   "answer": "name",
+   "choices": [
+    "name",
+    "to continue",
+    "habitat",
+    "a venerable monk"
+   ],
+   "example": null,
+   "pronunciation": "[ten˧˧ ɣɔj˧˨ʔ]",
+   "glosses": {
+    "en": "name",
+    "ja": "名前"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "vietnamese",
+   "id": "vi-00316",
+   "level": 1,
+   "prompt": "「nước hoa」の意味は？",
+   "answer": "perfume",
+   "choices": [
+    "a dancer",
+    "to transfer",
+    "to testify",
+    "perfume"
+   ],
+   "example": null,
+   "pronunciation": "[nɨək̚˧˦ hwaː˧˧]",
+   "glosses": {
+    "en": "perfume",
+    "ja": "香水"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "vietnamese",
+   "id": "vi-02680",
+   "level": 3,
+   "prompt": "「măng tô」の意味は？",
+   "answer": "overcoat",
+   "choices": [
+    "vibrator",
+    "to pull out",
+    "overcoat",
+    "a fossil"
+   ],
+   "example": null,
+   "pronunciation": "[maŋ˧˧ to˧˧]",
+   "glosses": {
+    "en": "overcoat",
+    "ja": "外套，オーバー"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "vietnamese",
+   "id": "vi-02624",
+   "level": 3,
+   "prompt": "「vành」の意味は？",
+   "answer": "rim",
+   "choices": [
+    "rim",
+    "bud",
+    "to calcify",
+    "to gather up"
+   ],
+   "example": null,
+   "pronunciation": "[vajŋ̟˨˩]",
+   "glosses": {
+    "en": "rim",
+    "ja": "へり"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "vietnamese",
+   "id": "vi-02726",
+   "level": 3,
+   "prompt": "「xích vĩ」の意味は？",
+   "answer": "declination",
+   "choices": [
+    "to harass",
+    "a frog",
+    "flagship",
+    "declination"
+   ],
+   "example": null,
+   "pronunciation": "[sïk̟̚˧˦ vi˦ˀ˥]",
+   "glosses": {
+    "en": "declination",
+    "ja": "赤緯"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "vietnamese",
+   "id": "vi-02822",
+   "level": 3,
+   "prompt": "「giấy sáp」の意味は？",
+   "answer": "wax paper",
+   "choices": [
+    "wax paper",
+    "flagpole",
+    "to forge",
+    "to harass"
+   ],
+   "example": null,
+   "pronunciation": "[zəj˧˦ saːp̚˧˦]",
+   "glosses": {
+    "en": "wax paper",
+    "ja": "ろう紙"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "vietnamese",
+   "id": "vi-02786",
+   "level": 3,
+   "prompt": "「thắt chặt」の意味は？",
+   "answer": "to tighten",
+   "choices": [
+    "furniture, belongings",
+    "to tighten",
+    "quince",
+    "to retreat"
+   ],
+   "example": null,
+   "pronunciation": "[tʰat̚˧˦ t͡ɕat̚˧˨ʔ]",
+   "glosses": {
+    "en": "to tighten",
+    "ja": "きつく締める"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "vietnamese",
+   "id": "vi-03049",
+   "level": 3,
+   "prompt": "「oanh liệt」の意味は？",
+   "answer": "glorious",
+   "choices": [
+    "reed",
+    "crocodile",
+    "encephalitis",
+    "glorious"
+   ],
+   "example": null,
+   "pronunciation": "[ʔwajŋ̟˧˧ liət̚˧˨ʔ]",
+   "glosses": {
+    "en": "glorious",
+    "ja": "輝かしい"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "vietnamese",
+   "id": "vi-03001",
+   "level": 3,
+   "prompt": "「bực bội」の意味は？",
+   "answer": "to fret",
+   "choices": [
+    "to ride",
+    "to smuggle",
+    "to fret",
+    "to alternate"
+   ],
+   "example": null,
+   "pronunciation": "[ʔɓɨk̚˧˨ʔ ʔɓoj˧˨ʔ]",
+   "glosses": {
+    "en": "to fret",
+    "ja": "いらいらする"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "vietnamese",
+   "id": "vi-00090",
+   "level": 1,
+   "prompt": "「chủ nhân」の意味は？",
+   "answer": "master",
+   "choices": [
+    "master",
+    "attire, adornment",
+    "dawn",
+    "to believe"
+   ],
+   "example": null,
+   "pronunciation": "[t͡ɕu˧˩ ɲən˧˧]",
+   "glosses": {
+    "en": "master",
+    "ja": "主人"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "vietnamese",
+   "id": "vi-03039",
+   "level": 3,
+   "prompt": "「giếng」の意味は？",
+   "answer": "well",
+   "choices": [
+    "to apply, rub on",
+    "iguana",
+    "party",
+    "well"
+   ],
+   "example": null,
+   "pronunciation": "[ziəŋ˧˦]",
+   "glosses": {
+    "en": "well",
+    "ja": "井戸"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "vietnamese",
+   "id": "vi-01859",
+   "level": 2,
+   "prompt": "「hoang đường」の意味は？",
+   "answer": "absurd",
+   "choices": [
+    "a tropic",
+    "corpus",
+    "script, scenario",
+    "absurd"
+   ],
+   "example": null,
+   "pronunciation": "[hwaːŋ˧˧ ʔɗɨəŋ˨˩]",
+   "glosses": {
+    "en": "absurd",
+    "ja": "荒唐無稽な"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "vietnamese",
+   "id": "vi-01845",
+   "level": 2,
+   "prompt": "「nhanh chóng」の意味は？",
+   "answer": "rapid, prompt",
+   "choices": [
+    "a seat",
+    "rapid, prompt",
+    "arrow",
+    "entrance"
+   ],
+   "example": null,
+   "pronunciation": "[ɲajŋ̟˧˧ t͡ɕawŋ͡m˧˦]",
+   "glosses": {
+    "en": "rapid, prompt",
+    "ja": "迅速な"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "vietnamese",
+   "id": "vi-01835",
+   "level": 2,
+   "prompt": "「hành lí」の意味は？",
+   "answer": "luggage",
+   "choices": [
+    "gravestone",
+    "furniture",
+    "luggage",
+    "victim"
+   ],
+   "example": null,
+   "pronunciation": "[hajŋ̟˨˩ li˧˦]",
+   "glosses": {
+    "en": "luggage",
+    "ja": "手荷物"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "vietnamese",
+   "id": "vi-01829",
+   "level": 2,
+   "prompt": "「vật lí」の意味は？",
+   "answer": "physics",
+   "choices": [
+    "miserable",
+    "physics",
+    "badminton",
+    "tunnel"
+   ],
+   "example": null,
+   "pronunciation": "[vət̚˧˨ʔ li˧˦]",
+   "glosses": {
+    "en": "physics",
+    "ja": "物理学"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "vietnamese",
+   "id": "vi-00327",
+   "level": 1,
+   "prompt": "「cá thể」の意味は？",
+   "answer": "an individual",
+   "choices": [
+    "article",
+    "the reverse side",
+    "an individual",
+    "to encounter"
+   ],
+   "example": null,
+   "pronunciation": "[kaː˧˦ tʰe˧˩]",
+   "glosses": {
+    "en": "an individual",
+    "ja": "個体"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "vietnamese",
+   "id": "vi-00317",
+   "level": 1,
+   "prompt": "「chuyển thể」の意味は？",
+   "answer": "to adapt (into a film)",
+   "choices": [
+    "squad",
+    "a pronoun",
+    "world",
+    "to adapt (into a film)"
+   ],
+   "example": null,
+   "pronunciation": "[t͡ɕwiən˧˩ tʰe˧˩]",
+   "glosses": {
+    "en": "to adapt (into a film)",
+    "ja": "脚色する"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "vietnamese",
+   "id": "vi-02681",
+   "level": 3,
+   "prompt": "「thợ mộc」の意味は？",
+   "answer": "a carpenter",
+   "choices": [
+    "headlight",
+    "a carpenter",
+    "spaghetti",
+    "trauma"
+   ],
+   "example": null,
+   "pronunciation": "[tʰəː˧˨ʔ məwk͡p̚˧˨ʔ]",
+   "glosses": {
+    "en": "a carpenter",
+    "ja": "大工"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "esperanto",
+   "id": "eo-01598",
+   "level": 3,
+   "prompt": "「delfeno」の意味は？",
+   "answer": "a dolphin",
+   "choices": [
+    "to displease",
+    "to decrease",
+    "discount",
+    "a dolphin"
+   ],
+   "example": null,
+   "pronunciation": "/delˈfeno/",
+   "glosses": {
+    "en": "a dolphin",
+    "ja": "イルカ"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "esperanto",
+   "id": "eo-01360",
+   "level": 2,
+   "prompt": "「amika」の意味は？",
+   "answer": "friendly",
+   "choices": [
+    "friendly",
+    "to publish",
+    "cancer",
+    "toy"
+   ],
+   "example": null,
+   "pronunciation": "/aˈmika/",
+   "glosses": {
+    "en": "friendly",
+    "ja": "友好的な"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "esperanto",
+   "id": "eo-00171",
+   "level": 1,
+   "prompt": "「fali」の意味は？",
+   "answer": "to fall",
+   "choices": [
+    "high, highly",
+    "trip",
+    "to convince",
+    "to fall"
+   ],
+   "example": null,
+   "pronunciation": "/ˈfali/",
+   "glosses": {
+    "en": "to fall",
+    "ja": "落ちる"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "esperanto",
+   "id": "eo-01273",
+   "level": 2,
+   "prompt": "「eleganta」の意味は？",
+   "answer": "elegant",
+   "choices": [
+    "complaint",
+    "pharaoh",
+    "elegant",
+    "to educate"
+   ],
+   "example": null,
+   "pronunciation": "/eleˈɡanta/",
+   "glosses": {
+    "en": "elegant",
+    "ja": "優雅な"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "esperanto",
+   "id": "eo-01529",
+   "level": 2,
+   "prompt": "「kaptilo」の意味は？",
+   "answer": "trap",
+   "choices": [
+    "to blame",
+    "souvenir, keepsake",
+    "to encourage",
+    "trap"
+   ],
+   "example": null,
+   "pronunciation": "/kapˈtilo/",
+   "glosses": {
+    "en": "trap",
+    "ja": "わな"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "esperanto",
+   "id": "eo-01599",
+   "level": 3,
+   "prompt": "「detala」の意味は？",
+   "answer": "detailed",
+   "choices": [
+    "sensitive",
+    "detailed",
+    "comical",
+    "chalk"
+   ],
+   "example": null,
+   "pronunciation": "/deˈtala/",
+   "glosses": {
+    "en": "detailed",
+    "ja": "詳細な"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "esperanto",
+   "id": "eo-00029",
+   "level": 1,
+   "prompt": "「infano」の意味は？",
+   "answer": "child",
+   "choices": [
+    "concert",
+    "child",
+    "reason",
+    "to show"
+   ],
+   "example": null,
+   "pronunciation": "/inˈfano/",
+   "glosses": {
+    "en": "child",
+    "ja": "子供"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "esperanto",
+   "id": "eo-02270",
+   "level": 3,
+   "prompt": "「sufoki」の意味は？",
+   "answer": "to suffocate",
+   "choices": [
+    "inspection",
+    "novice",
+    "to provoke",
+    "to suffocate"
+   ],
+   "example": null,
+   "pronunciation": "/suˈfoki/",
+   "glosses": {
+    "en": "to suffocate",
+    "ja": "窒息させる"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "esperanto",
+   "id": "eo-00170",
+   "level": 1,
+   "prompt": "「teni」の意味は？",
+   "answer": "to hold",
+   "choices": [
+    "ghost",
+    "to hold",
+    "to steer",
+    "degree or temperature"
+   ],
+   "example": null,
+   "pronunciation": "/ˈteni/",
+   "glosses": {
+    "en": "to hold",
+    "ja": "持つ"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "esperanto",
+   "id": "eo-01268",
+   "level": 2,
+   "prompt": "「envii」の意味は？",
+   "answer": "to envy",
+   "choices": [
+    "individual",
+    "facial expression",
+    "to envy",
+    "robot"
+   ],
+   "example": null,
+   "pronunciation": "/enˈvii/",
+   "glosses": {
+    "en": "to envy",
+    "ja": "うらやむ"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "esperanto",
+   "id": "eo-01272",
+   "level": 2,
+   "prompt": "「nature」の意味は？",
+   "answer": "naturally",
+   "choices": [
+    "prince",
+    "naturally",
+    "departure",
+    "palace"
+   ],
+   "example": null,
+   "pronunciation": "/naˈture/",
+   "glosses": {
+    "en": "naturally",
+    "ja": "自然に"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "esperanto",
+   "id": "eo-01528",
+   "level": 2,
+   "prompt": "「personeco」の意味は？",
+   "answer": "personality",
+   "choices": [
+    "personality",
+    "female cousin",
+    "carrot",
+    "scene"
+   ],
+   "example": null,
+   "pronunciation": "/persoˈnet͡so/",
+   "glosses": {
+    "en": "personality",
+    "ja": "性格，人柄"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "esperanto",
+   "id": "eo-00028",
+   "level": 1,
+   "prompt": "「libro」の意味は？",
+   "answer": "a book",
+   "choices": [
+    "to buy",
+    "a book",
+    "truly",
+    "cheese"
+   ],
+   "example": null,
+   "pronunciation": "/ˈlibro/",
+   "glosses": {
+    "en": "a book",
+    "ja": "本"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "esperanto",
+   "id": "eo-02271",
+   "level": 3,
+   "prompt": "「kaprico」の意味は？",
+   "answer": "caprice",
+   "choices": [
+    "protein",
+    "caprice",
+    "bothersome",
+    "to represent"
+   ],
+   "example": null,
+   "pronunciation": "/kaˈprit͡so/",
+   "glosses": {
+    "en": "caprice",
+    "ja": "気まぐれ"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "esperanto",
+   "id": "eo-00173",
+   "level": 1,
+   "prompt": "「kanti」の意味は？",
+   "answer": "to sing",
+   "choices": [
+    "to sing",
+    "day",
+    "happiness",
+    "again"
+   ],
+   "example": null,
+   "pronunciation": "/ˈkanti/",
+   "glosses": {
+    "en": "to sing",
+    "ja": "歌う"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "esperanto",
+   "id": "eo-01219",
+   "level": 2,
+   "prompt": "「revolucio」の意味は？",
+   "answer": "revolution",
+   "choices": [
+    "skirt",
+    "scene",
+    "frog",
+    "revolution"
+   ],
+   "example": null,
+   "pronunciation": "/revoluˈt͡sio/",
+   "glosses": {
+    "en": "revolution",
+    "ja": "革命"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "esperanto",
+   "id": "eo-01269",
+   "level": 2,
+   "prompt": "「fuŝi」の意味は？",
+   "answer": "to mess up",
+   "choices": [
+    "nest",
+    "to mess up",
+    "happily",
+    "grandson"
+   ],
+   "example": null,
+   "pronunciation": "/ˈfuʃi/",
+   "glosses": {
+    "en": "to mess up",
+    "ja": "台無しにする"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "esperanto",
+   "id": "eo-02179",
+   "level": 3,
+   "prompt": "「kadro」の意味は？",
+   "answer": "frame",
+   "choices": [
+    "to cite",
+    "atheist",
+    "ruin",
+    "frame"
+   ],
+   "example": null,
+   "pronunciation": "/ˈkadro/",
+   "glosses": {
+    "en": "frame",
+    "ja": "枠，骨組み"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "esperanto",
+   "id": "eo-01420",
+   "level": 2,
+   "prompt": "「karesi」の意味は？",
+   "answer": "to caress",
+   "choices": [
+    "to caress",
+    "detail",
+    "miserable",
+    "gulf"
+   ],
+   "example": null,
+   "pronunciation": "/kaˈresi/",
+   "glosses": {
+    "en": "to caress",
+    "ja": "優しくなでる"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "esperanto",
+   "id": "eo-02272",
+   "level": 3,
+   "prompt": "「fikse」の意味は？",
+   "answer": "fixedly",
+   "choices": [
+    "nephew",
+    "fixedly",
+    "kingdom",
+    "fig"
+   ],
+   "example": null,
+   "pronunciation": "/ˈfikse/",
+   "glosses": {
+    "en": "fixedly",
+    "ja": "じっと"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "esperanto",
+   "id": "eo-02212",
+   "level": 3,
+   "prompt": "「ĝardenisto」の意味は？",
+   "answer": "gardener",
+   "choices": [
+    "will",
+    "gardener",
+    "decisive",
+    "a trade union"
+   ],
+   "example": null,
+   "pronunciation": "/d͡ʒardeˈnisto/",
+   "glosses": {
+    "en": "gardener",
+    "ja": "庭師"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "esperanto",
+   "id": "eo-00172",
+   "level": 1,
+   "prompt": "「fenestro」の意味は？",
+   "answer": "window",
+   "choices": [
+    "apple",
+    "to live",
+    "to cover",
+    "window"
+   ],
+   "example": null,
+   "pronunciation": "/feˈnestro/",
+   "glosses": {
+    "en": "window",
+    "ja": "窓"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "esperanto",
+   "id": "eo-00104",
+   "level": 1,
+   "prompt": "「demando」の意味は？",
+   "answer": "question",
+   "choices": [
+    "kind",
+    "to cry",
+    "tennis",
+    "question"
+   ],
+   "example": null,
+   "pronunciation": "/deˈmando/",
+   "glosses": {
+    "en": "question",
+    "ja": "質問"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "esperanto",
+   "id": "eo-01218",
+   "level": 2,
+   "prompt": "「kontakto」の意味は？",
+   "answer": "contact",
+   "choices": [
+    "sausage",
+    "conversation",
+    "punishment",
+    "contact"
+   ],
+   "example": null,
+   "pronunciation": "/konˈtakto/",
+   "glosses": {
+    "en": "contact",
+    "ja": "接触"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "esperanto",
+   "id": "eo-02178",
+   "level": 3,
+   "prompt": "「kompromiso」の意味は？",
+   "answer": "compromise",
+   "choices": [
+    "compromise",
+    "hurricane",
+    "mammal",
+    "suitably"
+   ],
+   "example": null,
+   "pronunciation": "/komproˈmiso/",
+   "glosses": {
+    "en": "compromise",
+    "ja": "妥協"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "esperanto",
+   "id": "eo-01421",
+   "level": 2,
+   "prompt": "「inĝeniero」の意味は？",
+   "answer": "engineer",
+   "choices": [
+    "engineer",
+    "dangerously",
+    "corpse",
+    "to produce"
+   ],
+   "example": null,
+   "pronunciation": "/ind͡ʒeniˈero/",
+   "glosses": {
+    "en": "engineer",
+    "ja": "エンジニア"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "esperanto",
+   "id": "eo-02273",
+   "level": 3,
+   "prompt": "「legebla」の意味は？",
+   "answer": "legible, readable",
+   "choices": [
+    "legible, readable",
+    "to expand",
+    "to flatter",
+    "dignity"
+   ],
+   "example": null,
+   "pronunciation": "/leˈɡebla/",
+   "glosses": {
+    "en": "legible, readable",
+    "ja": "読める"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "esperanto",
+   "id": "eo-02213",
+   "level": 3,
+   "prompt": "「aprobo」の意味は？",
+   "answer": "approval",
+   "choices": [
+    "approval",
+    "collaboration",
+    "fig",
+    "democratic"
+   ],
+   "example": null,
+   "pronunciation": "/aˈprobo/",
+   "glosses": {
+    "en": "approval",
+    "ja": "承認"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "esperanto",
+   "id": "eo-00175",
+   "level": 1,
+   "prompt": "「tablo」の意味は？",
+   "answer": "table",
+   "choices": [
+    "to exist",
+    "capital",
+    "table",
+    "to lose"
+   ],
+   "example": null,
+   "pronunciation": "/ˈtablo/",
+   "glosses": {
+    "en": "table",
+    "ja": "テーブル"
+   },
+   "humanVerdict": null
+  },
+  {
+   "language": "esperanto",
+   "id": "eo-00105",
+   "level": 1,
+   "prompt": "「ekzisti」の意味は？",
+   "answer": "to exist",
+   "choices": [
+    "to exist",
+    "intention",
+    "especially",
+    "to accuse"
+   ],
+   "example": null,
+   "pronunciation": "/ekˈzisti/",
+   "glosses": {
+    "en": "to exist",
+    "ja": "存在する"
    },
    "humanVerdict": null
   }

@@ -12,7 +12,9 @@ const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..', '.
 const outDir = path.join(root, 'release-check')
 fs.mkdirSync(outDir, { recursive: true })
 
-const LANGS = ['english', 'chinese', 'japanese', 'korean', 'spanish', 'german', 'french', 'portuguese', 'polish', 'russian']
+const LANGS = ['english', 'chinese', 'japanese', 'korean', 'spanish', 'german', 'french', 'portuguese',
+  'polish', 'russian', 'hindi', 'arabic', 'tagalog', 'italian', 'mongolian', 'bengali',
+  'malay', 'indonesian', 'urdu', 'turkish', 'vietnamese', 'esperanto']
 
 function loadAll(lang) {
   const dir = path.join(root, 'public', 'wordbank', lang)

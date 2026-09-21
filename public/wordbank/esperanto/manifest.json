@@ -1,0 +1,24 @@
+{
+ "category": "esperanto",
+ "levels": [
+  {
+   "level": 1,
+   "file": "level-1.json",
+   "count": 770
+  },
+  {
+   "level": 2,
+   "file": "level-2.json",
+   "count": 770
+  },
+  {
+   "level": 3,
+   "file": "level-3.json",
+   "count": 768
+  }
+ ],
+ "total": 2308,
+ "verified": 2308,
+ "jaVerified": 2308,
+ "source": "curated core + dictionary-derived (3-judge AI verified)"
+}

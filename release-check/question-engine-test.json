@@ -15,7 +15,7 @@
    "localeSwitchOk": 7589,
    "levelSwitchOk": 7,
    "exceptions": 0,
-   "elapsedMs": 1365
+   "elapsedMs": 1356
   },
   {
    "language": "chinese",
@@ -30,7 +30,7 @@
    "localeSwitchOk": 8252,
    "levelSwitchOk": 5,
    "exceptions": 0,
-   "elapsedMs": 1057
+   "elapsedMs": 1073
   },
   {
    "language": "japanese",
@@ -45,7 +45,7 @@
    "localeSwitchOk": 7153,
    "levelSwitchOk": 5,
    "exceptions": 0,
-   "elapsedMs": 1492
+   "elapsedMs": 1827
   },
   {
    "language": "korean",
@@ -60,7 +60,7 @@
    "localeSwitchOk": 2655,
    "levelSwitchOk": 3,
    "exceptions": 0,
-   "elapsedMs": 227
+   "elapsedMs": 237
   },
   {
    "language": "spanish",
@@ -75,7 +75,7 @@
    "localeSwitchOk": 6092,
    "levelSwitchOk": 5,
    "exceptions": 0,
-   "elapsedMs": 536
+   "elapsedMs": 556
   },
   {
    "language": "german",
@@ -90,7 +90,7 @@
    "localeSwitchOk": 5810,
    "levelSwitchOk": 5,
    "exceptions": 0,
-   "elapsedMs": 475
+   "elapsedMs": 526
   },
   {
    "language": "french",
@@ -105,7 +105,7 @@
    "localeSwitchOk": 6210,
    "levelSwitchOk": 5,
    "exceptions": 0,
-   "elapsedMs": 586
+   "elapsedMs": 636
   },
   {
    "language": "portuguese",
@@ -120,7 +120,7 @@
    "localeSwitchOk": 3105,
    "levelSwitchOk": 3,
    "exceptions": 0,
-   "elapsedMs": 292
+   "elapsedMs": 339
   },
   {
    "language": "polish",
@@ -135,7 +135,7 @@
    "localeSwitchOk": 3378,
    "levelSwitchOk": 3,
    "exceptions": 0,
-   "elapsedMs": 354
+   "elapsedMs": 356
   },
   {
    "language": "russian",
@@ -150,7 +150,7 @@
    "localeSwitchOk": 3923,
    "levelSwitchOk": 3,
    "exceptions": 0,
-   "elapsedMs": 470
+   "elapsedMs": 521
   },
   {
    "language": "hindi",
@@ -165,7 +165,7 @@
    "localeSwitchOk": 3180,
    "levelSwitchOk": 3,
    "exceptions": 0,
-   "elapsedMs": 154
+   "elapsedMs": 160
   },
   {
    "language": "arabic",
@@ -180,7 +180,7 @@
    "localeSwitchOk": 2518,
    "levelSwitchOk": 3,
    "exceptions": 0,
-   "elapsedMs": 101
+   "elapsedMs": 102
   },
   {
    "language": "tagalog",
@@ -195,7 +195,7 @@
    "localeSwitchOk": 3308,
    "levelSwitchOk": 3,
    "exceptions": 0,
-   "elapsedMs": 163
+   "elapsedMs": 179
   },
   {
    "language": "italian",
@@ -210,7 +210,7 @@
    "localeSwitchOk": 5892,
    "levelSwitchOk": 3,
    "exceptions": 0,
-   "elapsedMs": 510
+   "elapsedMs": 554
   },
   {
    "language": "mongolian",
@@ -225,7 +225,7 @@
    "localeSwitchOk": 1550,
    "levelSwitchOk": 3,
    "exceptions": 0,
-   "elapsedMs": 38
+   "elapsedMs": 39
   },
   {
    "language": "bengali",
@@ -240,22 +240,22 @@
    "localeSwitchOk": 2090,
    "levelSwitchOk": 3,
    "exceptions": 0,
-   "elapsedMs": 66
+   "elapsedMs": 77
   },
   {
    "language": "malay",
-   "loaded": 1693,
+   "loaded": 1691,
    "sessionsBuilt": 20,
-   "questionsChecked": 1693,
-   "correctJudgedOk": 1693,
-   "shuffleOk": 1693,
+   "questionsChecked": 1691,
+   "correctJudgedOk": 1691,
+   "shuffleOk": 1691,
    "exampleShown": 0,
-   "exampleHidden": 3386,
-   "pronunciationShown": 1693,
-   "localeSwitchOk": 3386,
+   "exampleHidden": 3382,
+   "pronunciationShown": 1691,
+   "localeSwitchOk": 3382,
    "levelSwitchOk": 3,
    "exceptions": 0,
-   "elapsedMs": 164
+   "elapsedMs": 189
   },
   {
    "language": "indonesian",
@@ -270,7 +270,7 @@
    "localeSwitchOk": 5328,
    "levelSwitchOk": 3,
    "exceptions": 0,
-   "elapsedMs": 394
+   "elapsedMs": 426
   },
   {
    "language": "urdu",
@@ -285,22 +285,52 @@
    "localeSwitchOk": 2536,
    "levelSwitchOk": 3,
    "exceptions": 0,
-   "elapsedMs": 96
+   "elapsedMs": 99
   },
   {
    "language": "turkish",
-   "loaded": 3181,
+   "loaded": 3178,
    "sessionsBuilt": 20,
-   "questionsChecked": 3181,
-   "correctJudgedOk": 3181,
-   "shuffleOk": 3181,
+   "questionsChecked": 3178,
+   "correctJudgedOk": 3178,
+   "shuffleOk": 3178,
    "exampleShown": 0,
-   "exampleHidden": 6362,
-   "pronunciationShown": 3181,
-   "localeSwitchOk": 6362,
+   "exampleHidden": 6356,
+   "pronunciationShown": 3178,
+   "localeSwitchOk": 6356,
    "levelSwitchOk": 3,
    "exceptions": 0,
-   "elapsedMs": 589
+   "elapsedMs": 630
+  },
+  {
+   "language": "vietnamese",
+   "loaded": 3260,
+   "sessionsBuilt": 20,
+   "questionsChecked": 3260,
+   "correctJudgedOk": 3260,
+   "shuffleOk": 3260,
+   "exampleShown": 0,
+   "exampleHidden": 6520,
+   "pronunciationShown": 3260,
+   "localeSwitchOk": 6520,
+   "levelSwitchOk": 3,
+   "exceptions": 0,
+   "elapsedMs": 894
+  },
+  {
+   "language": "esperanto",
+   "loaded": 2308,
+   "sessionsBuilt": 20,
+   "questionsChecked": 2308,
+   "correctJudgedOk": 2308,
+   "shuffleOk": 2308,
+   "exampleShown": 0,
+   "exampleHidden": 4616,
+   "pronunciationShown": 2308,
+   "localeSwitchOk": 4616,
+   "levelSwitchOk": 3,
+   "exceptions": 0,
+   "elapsedMs": 326
   }
  ],
  "summary": {

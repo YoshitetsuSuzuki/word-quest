@@ -2,7 +2,7 @@
  "stage": 1,
  "title": "元データの最終構造検証",
  "expectedTotal": 29417,
- "actualTotal": 40985,
+ "actualTotal": 64623,
  "totalMatches": false,
  "languages": [
   {
@@ -418,6 +418,426 @@
      "level": 3,
      "file": "level-3.json",
      "count": 1075
+    }
+   ],
+   "checks": {
+    "parseError": 0,
+    "emptyPrompt": 0,
+    "emptyAnswer": 0,
+    "choicesNot4": 0,
+    "answerNotInChoices": 0,
+    "dupChoices": 0,
+    "typeError": 0,
+    "nullish": 0,
+    "idDup": 0,
+    "idMissing": 0,
+    "manifestMismatch": 0
+   },
+   "pass": true
+  },
+  {
+   "language": "hindi",
+   "total": 1590,
+   "levels": [
+    {
+     "level": 1,
+     "file": "level-1.json",
+     "count": 544
+    },
+    {
+     "level": 2,
+     "file": "level-2.json",
+     "count": 664
+    },
+    {
+     "level": 3,
+     "file": "level-3.json",
+     "count": 382
+    }
+   ],
+   "checks": {
+    "parseError": 0,
+    "emptyPrompt": 0,
+    "emptyAnswer": 0,
+    "choicesNot4": 0,
+    "answerNotInChoices": 0,
+    "dupChoices": 0,
+    "typeError": 0,
+    "nullish": 0,
+    "idDup": 0,
+    "idMissing": 0,
+    "manifestMismatch": 0
+   },
+   "pass": true
+  },
+  {
+   "language": "arabic",
+   "total": 1259,
+   "levels": [
+    {
+     "level": 1,
+     "file": "level-1.json",
+     "count": 419
+    },
+    {
+     "level": 2,
+     "file": "level-2.json",
+     "count": 421
+    },
+    {
+     "level": 3,
+     "file": "level-3.json",
+     "count": 419
+    }
+   ],
+   "checks": {
+    "parseError": 0,
+    "emptyPrompt": 0,
+    "emptyAnswer": 0,
+    "choicesNot4": 0,
+    "answerNotInChoices": 0,
+    "dupChoices": 0,
+    "typeError": 0,
+    "nullish": 0,
+    "idDup": 0,
+    "idMissing": 0,
+    "manifestMismatch": 0
+   },
+   "pass": true
+  },
+  {
+   "language": "tagalog",
+   "total": 1654,
+   "levels": [
+    {
+     "level": 1,
+     "file": "level-1.json",
+     "count": 552
+    },
+    {
+     "level": 2,
+     "file": "level-2.json",
+     "count": 552
+    },
+    {
+     "level": 3,
+     "file": "level-3.json",
+     "count": 550
+    }
+   ],
+   "checks": {
+    "parseError": 0,
+    "emptyPrompt": 0,
+    "emptyAnswer": 0,
+    "choicesNot4": 0,
+    "answerNotInChoices": 0,
+    "dupChoices": 0,
+    "typeError": 0,
+    "nullish": 0,
+    "idDup": 0,
+    "idMissing": 0,
+    "manifestMismatch": 0
+   },
+   "pass": true
+  },
+  {
+   "language": "italian",
+   "total": 2946,
+   "levels": [
+    {
+     "level": 1,
+     "file": "level-1.json",
+     "count": 982
+    },
+    {
+     "level": 2,
+     "file": "level-2.json",
+     "count": 981
+    },
+    {
+     "level": 3,
+     "file": "level-3.json",
+     "count": 983
+    }
+   ],
+   "checks": {
+    "parseError": 0,
+    "emptyPrompt": 0,
+    "emptyAnswer": 0,
+    "choicesNot4": 0,
+    "answerNotInChoices": 0,
+    "dupChoices": 0,
+    "typeError": 0,
+    "nullish": 0,
+    "idDup": 0,
+    "idMissing": 0,
+    "manifestMismatch": 0
+   },
+   "pass": true
+  },
+  {
+   "language": "mongolian",
+   "total": 775,
+   "levels": [
+    {
+     "level": 1,
+     "file": "level-1.json",
+     "count": 259
+    },
+    {
+     "level": 2,
+     "file": "level-2.json",
+     "count": 259
+    },
+    {
+     "level": 3,
+     "file": "level-3.json",
+     "count": 257
+    }
+   ],
+   "checks": {
+    "parseError": 0,
+    "emptyPrompt": 0,
+    "emptyAnswer": 0,
+    "choicesNot4": 0,
+    "answerNotInChoices": 0,
+    "dupChoices": 0,
+    "typeError": 0,
+    "nullish": 0,
+    "idDup": 0,
+    "idMissing": 0,
+    "manifestMismatch": 0
+   },
+   "pass": true
+  },
+  {
+   "language": "bengali",
+   "total": 1045,
+   "levels": [
+    {
+     "level": 1,
+     "file": "level-1.json",
+     "count": 350
+    },
+    {
+     "level": 2,
+     "file": "level-2.json",
+     "count": 350
+    },
+    {
+     "level": 3,
+     "file": "level-3.json",
+     "count": 345
+    }
+   ],
+   "checks": {
+    "parseError": 0,
+    "emptyPrompt": 0,
+    "emptyAnswer": 0,
+    "choicesNot4": 0,
+    "answerNotInChoices": 0,
+    "dupChoices": 0,
+    "typeError": 0,
+    "nullish": 0,
+    "idDup": 0,
+    "idMissing": 0,
+    "manifestMismatch": 0
+   },
+   "pass": true
+  },
+  {
+   "language": "malay",
+   "total": 1691,
+   "levels": [
+    {
+     "level": 1,
+     "file": "level-1.json",
+     "count": 565
+    },
+    {
+     "level": 2,
+     "file": "level-2.json",
+     "count": 564
+    },
+    {
+     "level": 3,
+     "file": "level-3.json",
+     "count": 562
+    }
+   ],
+   "checks": {
+    "parseError": 0,
+    "emptyPrompt": 0,
+    "emptyAnswer": 0,
+    "choicesNot4": 0,
+    "answerNotInChoices": 0,
+    "dupChoices": 0,
+    "typeError": 0,
+    "nullish": 0,
+    "idDup": 0,
+    "idMissing": 0,
+    "manifestMismatch": 0
+   },
+   "pass": true
+  },
+  {
+   "language": "indonesian",
+   "total": 2664,
+   "levels": [
+    {
+     "level": 1,
+     "file": "level-1.json",
+     "count": 887
+    },
+    {
+     "level": 2,
+     "file": "level-2.json",
+     "count": 889
+    },
+    {
+     "level": 3,
+     "file": "level-3.json",
+     "count": 888
+    }
+   ],
+   "checks": {
+    "parseError": 0,
+    "emptyPrompt": 0,
+    "emptyAnswer": 0,
+    "choicesNot4": 0,
+    "answerNotInChoices": 0,
+    "dupChoices": 0,
+    "typeError": 0,
+    "nullish": 0,
+    "idDup": 0,
+    "idMissing": 0,
+    "manifestMismatch": 0
+   },
+   "pass": true
+  },
+  {
+   "language": "urdu",
+   "total": 1268,
+   "levels": [
+    {
+     "level": 1,
+     "file": "level-1.json",
+     "count": 422
+    },
+    {
+     "level": 2,
+     "file": "level-2.json",
+     "count": 423
+    },
+    {
+     "level": 3,
+     "file": "level-3.json",
+     "count": 423
+    }
+   ],
+   "checks": {
+    "parseError": 0,
+    "emptyPrompt": 0,
+    "emptyAnswer": 0,
+    "choicesNot4": 0,
+    "answerNotInChoices": 0,
+    "dupChoices": 0,
+    "typeError": 0,
+    "nullish": 0,
+    "idDup": 0,
+    "idMissing": 0,
+    "manifestMismatch": 0
+   },
+   "pass": true
+  },
+  {
+   "language": "turkish",
+   "total": 3178,
+   "levels": [
+    {
+     "level": 1,
+     "file": "level-1.json",
+     "count": 1061
+    },
+    {
+     "level": 2,
+     "file": "level-2.json",
+     "count": 1060
+    },
+    {
+     "level": 3,
+     "file": "level-3.json",
+     "count": 1057
+    }
+   ],
+   "checks": {
+    "parseError": 0,
+    "emptyPrompt": 0,
+    "emptyAnswer": 0,
+    "choicesNot4": 0,
+    "answerNotInChoices": 0,
+    "dupChoices": 0,
+    "typeError": 0,
+    "nullish": 0,
+    "idDup": 0,
+    "idMissing": 0,
+    "manifestMismatch": 0
+   },
+   "pass": true
+  },
+  {
+   "language": "vietnamese",
+   "total": 3260,
+   "levels": [
+    {
+     "level": 1,
+     "file": "level-1.json",
+     "count": 1086
+    },
+    {
+     "level": 2,
+     "file": "level-2.json",
+     "count": 1089
+    },
+    {
+     "level": 3,
+     "file": "level-3.json",
+     "count": 1085
+    }
+   ],
+   "checks": {
+    "parseError": 0,
+    "emptyPrompt": 0,
+    "emptyAnswer": 0,
+    "choicesNot4": 0,
+    "answerNotInChoices": 0,
+    "dupChoices": 0,
+    "typeError": 0,
+    "nullish": 0,
+    "idDup": 0,
+    "idMissing": 0,
+    "manifestMismatch": 0
+   },
+   "pass": true
+  },
+  {
+   "language": "esperanto",
+   "total": 2308,
+   "levels": [
+    {
+     "level": 1,
+     "file": "level-1.json",
+     "count": 770
+    },
+    {
+     "level": 2,
+     "file": "level-2.json",
+     "count": 770
+    },
+    {
+     "level": 3,
+     "file": "level-3.json",
+     "count": 768
     }
    ],
    "checks": {

@@ -75,7 +75,7 @@
    "ja": "そよ風"
   },
   "choices": [
-   "vinegar",
+   "void",
    "cylinder",
    "firecracker",
    "breeze"
@@ -122,7 +122,7 @@
    "heron",
    "basket",
    "casino",
-   "well"
+   "well-mannered"
   ],
   "difficulty": 3,
   "tags": [
@@ -319,7 +319,7 @@
   "choices": [
    "betrayal",
    "tradition",
-   "voter",
+   "vow",
    "log"
   ],
   "difficulty": 3,
@@ -362,7 +362,7 @@
   },
   "choices": [
    "ledger",
-   "vase",
+   "ventilation",
    "private tutoring",
    "mattress"
   ],
@@ -606,7 +606,7 @@
    "germ",
    "sensation (stir)",
    "ratio",
-   "widow"
+   "widower"
   ],
   "difficulty": 3,
   "tags": [
@@ -736,7 +736,7 @@
   },
   "choices": [
    "sausage",
-   "weevil",
+   "weight (object)",
    "galvanized iron sheet",
    "to weigh"
   ],
@@ -780,7 +780,7 @@
   },
   "choices": [
    "fuse",
-   "weevil",
+   "weight (object)",
    "cucumber",
    "robber"
   ],
@@ -846,7 +846,7 @@
   },
   "choices": [
    "usually",
-   "words of praise",
+   "zodiac",
    "accurate",
    "geography"
   ],
@@ -913,7 +913,7 @@
   "choices": [
    "to attend to",
    "departure",
-   "ventilation",
+   "vinegar",
    "tuber"
   ],
   "difficulty": 3,
@@ -977,7 +977,7 @@
    "ja": "がっかりした"
   },
   "choices": [
-   "vow",
+   "wasp",
    "disappointed",
    "collision",
    "hallucination"
@@ -1068,7 +1068,7 @@
    "to do business",
    "screw",
    "celery",
-   "weevil"
+   "weight (object)"
   ],
   "difficulty": 3,
   "tags": [
@@ -1352,7 +1352,7 @@
   },
   "choices": [
    "regiment",
-   "well",
+   "well-mannered",
    "emerald",
    "thesis"
   ],
@@ -1618,7 +1618,7 @@
    "to mince",
    "tuber",
    "boiler",
-   "valve"
+   "vanilla"
   ],
   "difficulty": 3,
   "tags": [
@@ -1681,7 +1681,7 @@
    "ja": "タバコ"
   },
   "choices": [
-   "words of praise",
+   "zodiac",
    "tobacco",
    "to overflow",
    "recreation"
@@ -1815,7 +1815,7 @@
   "choices": [
    "scanner",
    "autopsy",
-   "void",
+   "voltage",
    "knot"
   ],
   "difficulty": 3,
@@ -1860,7 +1860,7 @@
    "repentance, realization",
    "to blow",
    "To clarify",
-   "words of praise"
+   "zodiac"
   ],
   "difficulty": 3,
   "tags": [
@@ -2121,7 +2121,7 @@
    "ja": "じゅうたん"
   },
   "choices": [
-   "weevil",
+   "weight (object)",
    "departure",
    "carpet",
    "dusty"
@@ -2341,7 +2341,7 @@
    "ja": "卒業"
   },
   "choices": [
-   "zodiac",
+   "zoom",
    "twinkle",
    "accusation",
    "graduation"
@@ -2430,9 +2430,9 @@
   },
   "choices": [
    "valve",
-   "great-grandchild",
-   "to fall",
-   "sausage"
+   "sausage",
+   "vanilla",
+   "to fall"
   ],
   "difficulty": 3,
   "tags": [
@@ -2474,7 +2474,7 @@
   },
   "choices": [
    "quiz",
-   "voltage",
+   "voter",
    "starch",
    "cynical"
   ],
@@ -2605,7 +2605,7 @@
    "ja": "勤勉な"
   },
   "choices": [
-   "widow",
+   "widower",
    "mineral",
    "assiduous",
    "chopsticks"
@@ -2695,7 +2695,7 @@
   "choices": [
    "brigade",
    "consistent",
-   "vow",
+   "wasp",
    "gums"
   ],
   "difficulty": 3,
@@ -2870,9 +2870,9 @@
   },
   "choices": [
    "emotional",
-   "aquarium",
-   "zoom",
-   "to snatch"
+   "to snatch",
+   "herbivore",
+   "aquarium"
   ],
   "difficulty": 3,
   "tags": [
@@ -3155,7 +3155,7 @@
    "ja": "スクーター"
   },
   "choices": [
-   "well",
+   "well-mannered",
    "jaguar",
    "scooter",
    "palm, sole"
@@ -3266,7 +3266,7 @@
   },
   "choices": [
    "tray",
-   "vow",
+   "wasp",
    "sensation (stir)",
    "chrysalis"
   ],
@@ -3619,7 +3619,7 @@
   "choices": [
    "to protest",
    "crust",
-   "vow",
+   "wasp",
    "charity"
   ],
   "difficulty": 3,
@@ -3818,7 +3818,7 @@
    "transformation",
    "corona",
    "dust",
-   "words of praise"
+   "zodiac"
   ],
   "difficulty": 3,
   "tags": [
@@ -4036,7 +4036,7 @@
   },
   "choices": [
    "cashier",
-   "vase",
+   "ventilation",
    "heater",
    "adaptation"
   ],
@@ -4101,10 +4101,10 @@
    "ja": "手のひら，足の裏"
   },
   "choices": [
-   "weight (object)",
+   "well",
    "palm, sole",
    "to follow the example of",
-   "widow"
+   "widower"
   ],
   "difficulty": 3,
   "tags": [
@@ -4170,7 +4170,7 @@
    "cinema",
    "trick",
    "to poke",
-   "weevil"
+   "weight (object)"
   ],
   "difficulty": 3,
   "tags": [
@@ -4211,7 +4211,7 @@
    "ja": "カラムシ"
   },
   "choices": [
-   "weevil",
+   "weight (object)",
    "stalk",
    "certification",
    "ramie"
@@ -4499,7 +4499,7 @@
   "choices": [
    "firecracker",
    "henna",
-   "well",
+   "well-mannered",
    "button, clasp"
   ],
   "difficulty": 3,
@@ -4544,7 +4544,7 @@
    "salty",
    "diligence",
    "to gaze",
-   "zodiac"
+   "zoom"
   ],
   "difficulty": 3,
   "tags": [
@@ -4586,7 +4586,7 @@
   },
   "choices": [
    "to snatch",
-   "words of praise",
+   "zodiac",
    "committed",
    "ownership"
   ],
@@ -4764,7 +4764,7 @@
    "comprehensive",
    "screw",
    "haze",
-   "widower"
+   "words of praise"
   ],
   "difficulty": 3,
   "tags": [
@@ -4806,9 +4806,9 @@
   },
   "choices": [
    "nuance",
-   "banner",
    "infrared",
-   "zoom"
+   "banner",
+   "coupon"
   ],
   "difficulty": 3,
   "tags": [
@@ -5005,7 +5005,7 @@
   "choices": [
    "zodiac",
    "mineral",
-   "widow",
+   "widower",
    "bride price"
   ],
   "difficulty": 3,
@@ -5290,7 +5290,7 @@
   },
   "choices": [
    "bleach",
-   "vanilla",
+   "vase",
    "livelihood",
    "royal decree"
   ],
@@ -5335,7 +5335,7 @@
   "choices": [
    "microbiology",
    "thrush",
-   "voter",
+   "vow",
    "voltage"
   ],
   "difficulty": 3,
@@ -5641,7 +5641,7 @@
    "ja": "うなじ"
   },
   "choices": [
-   "valve",
+   "vanilla",
    "bait",
    "allegedly",
    "nape"
@@ -5775,7 +5775,7 @@
   "choices": [
    "to capture",
    "gratitude",
-   "vagina",
+   "valve",
    "spirit"
   ],
   "difficulty": 3,
@@ -5908,7 +5908,7 @@
    "power",
    "bile",
    "soy",
-   "weight (object)"
+   "well"
   ],
   "difficulty": 3,
   "tags": [
@@ -6370,7 +6370,7 @@
    "curd",
    "aquarium",
    "drama",
-   "valve"
+   "vanilla"
   ],
   "difficulty": 3,
   "tags": [
@@ -6743,7 +6743,7 @@
   "choices": [
    "magistrate",
    "neon",
-   "weight (object)",
+   "well",
    "shampoo"
   ],
   "difficulty": 3,
@@ -6809,8 +6809,8 @@
   "choices": [
    "alarm",
    "fiction",
-   "well",
-   "weevil"
+   "well-mannered",
+   "weight (object)"
   ],
   "difficulty": 3,
   "tags": [
@@ -6917,7 +6917,7 @@
    "ja": "サゴ"
   },
   "choices": [
-   "zodiac",
+   "zoom",
    "to sulk",
    "sago",
    "grasshopper"
@@ -7247,7 +7247,7 @@
    "ja": "鵞口瘡"
   },
   "choices": [
-   "wick",
+   "widow",
    "thrush",
    "autism",
    "bride price"
@@ -7578,7 +7578,7 @@
   },
   "choices": [
    "to pour",
-   "vinegar",
+   "void",
    "kangaroo",
    "mineral"
   ],
@@ -8239,7 +8239,7 @@
   "choices": [
    "electron",
    "to harm",
-   "valve",
+   "vanilla",
    "hoarse (voice)"
   ],
   "difficulty": 3,
@@ -8370,9 +8370,9 @@
   },
   "choices": [
    "curd",
-   "widow",
+   "widower",
    "to roll out dough",
-   "zodiac"
+   "zoom"
   ],
   "difficulty": 3,
   "tags": [
@@ -8437,7 +8437,7 @@
   "choices": [
    "to soak",
    "papaya",
-   "widow",
+   "widower",
    "corona"
   ],
   "difficulty": 3,
@@ -8536,28 +8536,6 @@
   "verified": true
  },
  {
-  "id": "ms-01520",
-  "category": "malay",
-  "prompt": "「faraj」の意味は？",
-  "answer": "vagina",
-  "glosses": {
-   "en": "vagina",
-   "ja": "膣"
-  },
-  "choices": [
-   "isotope",
-   "trail",
-   "tobacco",
-   "vagina"
-  ],
-  "difficulty": 3,
-  "tags": [
-   "word"
-  ],
-  "pronunciation": "",
-  "verified": true
- },
- {
   "id": "ms-01521",
   "category": "malay",
   "prompt": "「jeda」の意味は？",
@@ -8589,7 +8567,7 @@
    "ja": "ほうれん草"
   },
   "choices": [
-   "words of praise",
+   "zodiac",
    "pus",
    "spinach",
    "to protest"
@@ -8612,7 +8590,7 @@
   },
   "choices": [
    "chimpanzee",
-   "ventilation",
+   "vinegar",
    "lotus",
    "diocese"
   ],
@@ -8988,7 +8966,7 @@
    "awkward",
    "refuge, sanctuary",
    "context",
-   "vanilla"
+   "vase"
   ],
   "difficulty": 3,
   "tags": [
@@ -9141,7 +9119,7 @@
   "choices": [
    "discrimination",
    "to travel",
-   "vase",
+   "ventilation",
    "crust"
   ],
   "difficulty": 3,
@@ -9273,7 +9251,7 @@
   "choices": [
    "tragic",
    "hierarchy",
-   "voter",
+   "vow",
    "corruption"
   ],
   "difficulty": 3,
@@ -9472,7 +9450,7 @@
    "microbiology",
    "left-handed",
    "to yawn",
-   "wasp"
+   "watermelon"
   ],
   "difficulty": 3,
   "tags": [
@@ -9692,7 +9670,7 @@
    "to travel",
    "parade",
    "a granary",
-   "well"
+   "well-mannered"
   ],
   "difficulty": 3,
   "tags": [
@@ -9956,7 +9934,7 @@
    "accountant",
    "to correct",
    "scale (of fish)",
-   "weevil"
+   "weight (object)"
   ],
   "difficulty": 3,
   "tags": [
@@ -10152,7 +10130,7 @@
   },
   "choices": [
    "olive",
-   "voltage",
+   "voter",
    "comprehensive",
    "a timer"
   ],
@@ -10286,7 +10264,7 @@
    "eternity",
    "teapot",
    "to yawn",
-   "well"
+   "well-mannered"
   ],
   "difficulty": 3,
   "tags": [
@@ -10394,7 +10372,7 @@
   },
   "choices": [
    "eel",
-   "well",
+   "well-mannered",
    "tombstone",
    "to peel"
   ],
@@ -10482,7 +10460,7 @@
   },
   "choices": [
    "masterpiece",
-   "vanilla",
+   "vase",
    "chalet",
    "curd"
   ],
@@ -10505,7 +10483,7 @@
   "choices": [
    "relativity",
    "ideology",
-   "vase",
+   "ventilation",
    "mangrove"
   ],
   "difficulty": 3,
@@ -11230,7 +11208,7 @@
   },
   "choices": [
    "tourism",
-   "wasp",
+   "watermelon",
    "careful",
    "departure"
   ],
@@ -11251,7 +11229,7 @@
    "ja": "はねかける"
   },
   "choices": [
-   "well",
+   "well-mannered",
    "rough",
    "to splash",
    "ideology"
@@ -11295,7 +11273,7 @@
    "ja": "ちょうつがい"
   },
   "choices": [
-   "wick",
+   "widow",
    "haze",
    "hinge",
    "pomegranate"
@@ -11364,7 +11342,7 @@
    "negotiator",
    "to travel",
    "ovary",
-   "vanilla"
+   "vase"
   ],
   "difficulty": 3,
   "tags": [
@@ -11429,7 +11407,7 @@
   "choices": [
    "diaper",
    "hinge",
-   "void",
+   "voltage",
    "coroner"
   ],
   "difficulty": 3,
@@ -11517,7 +11495,7 @@
   "choices": [
    "doctorate",
    "astrophysics",
-   "words of praise",
+   "zodiac",
    "celery"
   ],
   "difficulty": 3,
@@ -12021,7 +11999,7 @@
    "ja": "カリウム"
   },
   "choices": [
-   "widow",
+   "widower",
    "potassium",
    "basil",
    "show"
@@ -12068,7 +12046,7 @@
    "fuse",
    "caterpillar",
    "creativity",
-   "weevil"
+   "weight (object)"
   ],
   "difficulty": 3,
   "tags": [

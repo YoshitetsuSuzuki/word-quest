@@ -9,7 +9,7 @@ interface Manifest {
 }
 
 /** JSONワードバンクを持つカテゴリ（public/wordbank/<cat>/ に生成物がある） */
-const WORDBANK_CATEGORIES = new Set<Category>(['english', 'chinese', 'korean', 'japanese', 'spanish', 'french', 'german', 'portuguese', 'russian', 'polish', 'hindi', 'arabic', 'tagalog', 'italian', 'mongolian', 'bengali', 'malay', 'indonesian', 'urdu', 'turkish'])
+const WORDBANK_CATEGORIES = new Set<Category>(['english', 'chinese', 'korean', 'japanese', 'spanish', 'french', 'german', 'portuguese', 'russian', 'polish', 'hindi', 'arabic', 'tagalog', 'italian', 'mongolian', 'bengali', 'malay', 'indonesian', 'urdu', 'turkish', 'vietnamese', 'esperanto'])
 
 /**
  * 問題データの供給元。

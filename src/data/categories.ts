@@ -36,6 +36,9 @@ export const categories: CategoryInfo[] = [
   { id: 'indonesian', label: 'インドネシア語', emoji: '🇮🇩', available: true, availableLocales: ['ja', 'en'] },
   { id: 'urdu', label: 'ウルドゥー語', emoji: '🇵🇰', available: true, availableLocales: ['ja', 'en'] },
   { id: 'turkish', label: 'トルコ語', emoji: '🇹🇷', available: true, availableLocales: ['ja', 'en'] },
+  { id: 'vietnamese', label: 'ベトナム語', emoji: '🇻🇳', available: true, availableLocales: ['ja', 'en'] },
+  // エスペラントは国を持たないので国旗が無い。緑の星(verda stelo)がこの言語の象徴。
+  { id: 'esperanto', label: 'エスペラント', emoji: '⭐', available: true, availableLocales: ['ja', 'en'] },
 ]
 
 export function getCategoryInfo(id: Category): CategoryInfo {
