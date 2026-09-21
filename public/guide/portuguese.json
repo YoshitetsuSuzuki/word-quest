@@ -7,6 +7,53 @@
    "body": "使う文字は英語と同じラテン文字26字です。á・ê・ã のように記号のついた形も出てきますが、新しい文字ではありません。強く読む位置や、鼻に抜ける音を示す目印です。ç は「サ行」の音を表します。綴りはスペイン語とよく似ていますが、読み方はかなり違うところがあるので、スペイン語のつもりで音にすると通じません。",
    "sample": { "text": "coração", "reading": "コラサォン", "meaning": "心" }
   },
+  "chart": {
+   "title": "新しく覚えるのは、この23だけ",
+   "note": "26字は英語と同じなので省いています。ここに並ぶのは、記号のついた形と、2字で1つの音になる組み合わせだけです。r- は語頭の r、-m は語末の m を表します。",
+   "groups": [
+    {
+     "label": "鼻にかかる字 5",
+     "cols": 4,
+     "cells": [
+      { "char": "ã", "reading": "アン（鼻へ抜く）", "hint": "maçã マサン ＝ りんご" },
+      { "char": "õ", "reading": "オン（鼻へ抜く）", "hint": "ほとんど õe の形で出ます" },
+      { "char": "ão", "reading": "アォン", "hint": "pão パォン ＝ パン" },
+      { "char": "ãe", "reading": "アイン", "hint": "mãe マイン ＝ 母" },
+      { "char": "õe", "reading": "オイン", "hint": "limões リモインス ＝ レモン（複数）" }
+     ]
+    },
+    {
+     "label": "記号のついた字 10",
+     "cols": 5,
+     "cells": [
+      { "char": "á", "reading": "ア（強く読む印）", "hint": "água アーグア ＝ 水" },
+      { "char": "â", "reading": "ア（口を狭めたア・強く。m・n の前では鼻へ抜ける）", "hint": "lâmpada ランパダ ＝ 電球（m の前なので「ラン」）" },
+      { "char": "à", "reading": "ア（音は á と同じ）", "hint": "à noite ア ノイチ ＝ 夜に" },
+      { "char": "é", "reading": "エ（口を開いたエ）", "hint": "café カフェー ＝ コーヒー" },
+      { "char": "ê", "reading": "エ（口を狭めたエ）", "hint": "você ヴォセー ＝ あなた" },
+      { "char": "í", "reading": "イ（強く読む印）", "hint": "saída サイーダ ＝ 出口" },
+      { "char": "ó", "reading": "オ（口を開いたオ）", "hint": "avó アヴォー ＝ 祖母（口を開く）" },
+      { "char": "ô", "reading": "オ（口をすぼめたオ）", "hint": "avô アヴォー ＝ 祖父（口をすぼめる）" },
+      { "char": "ú", "reading": "ウ（強く読む印）", "hint": "saúde サウージ ＝ 健康" },
+      { "char": "ç", "reading": "ス（サ行）", "hint": "coração コラサォン ＝ 心" }
+     ]
+    },
+    {
+     "label": "2字で1つの音 8",
+     "cols": 5,
+     "cells": [
+      { "char": "ch", "reading": "シュ（シャ行）", "hint": "chá シャー ＝ お茶" },
+      { "char": "lh", "reading": "リュ（リャ行）", "hint": "filho フィーリュ ＝ 息子" },
+      { "char": "nh", "reading": "ニュ（ニャ行）", "hint": "banho バーニュ ＝ 入浴" },
+      { "char": "rr", "reading": "フ（ハ行）", "hint": "carro カーフ ＝ 車" },
+      { "char": "r-", "reading": "フ（ハ行・語頭の r）", "hint": "Rio ヒウ ＝ リオ" },
+      { "char": "ss", "reading": "ス（濁らないサ行）", "hint": "massa マッサ ＝ パスタ・生地" },
+      { "char": "x", "reading": "シュ（シャ行のことが多い）", "hint": "xícara シーカラ ＝ カップ" },
+      { "char": "-m", "reading": "ン（口を閉じない）", "hint": "bom ボン ＝ よい" }
+     ]
+    }
+   ]
+  },
   "sounds": [
    {
     "title": "r は「ハ行」に近い音になります",
@@ -49,6 +96,53 @@
    "title": "The same 26 letters, with a few marks",
    "body": "Portuguese uses the Latin alphabet — 26 letters. Marked forms such as á, ê and ã turn up often, but they are not extra letters: they show you which syllable to stress and which vowels go through the nose. The ç is simply an s sound. The spelling looks a great deal like Spanish, yet the pronunciation often is not, so reading it aloud as Spanish will not get you understood.",
    "sample": { "text": "coração", "reading": "ko-ra-SOWN", "meaning": "heart" }
+  },
+  "chart": {
+   "title": "Only 23 things are actually new",
+   "note": "The 26 letters are left out — you already read them. What is listed here is the marked forms and the letter pairs that spell a single sound. r- means r at the start of a word; -m means m at the end.",
+   "groups": [
+    {
+     "label": "Nasal marks — 5",
+     "cols": 4,
+     "cells": [
+      { "char": "ã", "reading": "a through the nose", "hint": "maçã — ma-SAN — apple" },
+      { "char": "õ", "reading": "o through the nose", "hint": "almost always turns up as õe" },
+      { "char": "ão", "reading": "\"ow\" as in town, nasal", "hint": "pão — POWN, rhymes with town — bread" },
+      { "char": "ãe", "reading": "\"my\", nasal", "hint": "mãe — MY (nasal) — mother" },
+      { "char": "õe", "reading": "\"oy\", nasal", "hint": "limões — lee-MOYNS — lemons" }
+     ]
+    },
+    {
+     "label": "Letters with marks — 10",
+     "cols": 5,
+     "cells": [
+      { "char": "á", "reading": "a — stress falls here", "hint": "água — AH-gwah — water" },
+      { "char": "â", "reading": "a, closed and stressed; nasal before m or n", "hint": "lâmpada — LAHM-pa-dah — lamp (nasal, as m follows)" },
+      { "char": "à", "reading": "same sound as á", "hint": "à noite — ah NOY-chee — at night" },
+      { "char": "é", "reading": "open e, as in bed", "hint": "café — ka-FEH — coffee" },
+      { "char": "ê", "reading": "closed e, as in they", "hint": "você — vo-SAY — you" },
+      { "char": "í", "reading": "ee — stress falls here", "hint": "saída — sah-EE-dah — exit" },
+      { "char": "ó", "reading": "open o, as in for", "hint": "avó — ah-VAW — grandmother (mouth open)" },
+      { "char": "ô", "reading": "closed o, as in go", "hint": "avô — ah-VOH — grandfather (lips rounded)" },
+      { "char": "ú", "reading": "oo — stress falls here", "hint": "saúde — sah-OO-jee — health" },
+      { "char": "ç", "reading": "just s", "hint": "coração — ko-ra-SOWN — heart" }
+     ]
+    },
+    {
+     "label": "Two letters, one sound — 8",
+     "cols": 5,
+     "cells": [
+      { "char": "ch", "reading": "sh", "hint": "chá — shah — tea" },
+      { "char": "lh", "reading": "lli, as in million", "hint": "filho — FEE-lyoo — son" },
+      { "char": "nh", "reading": "ny, as in canyon", "hint": "banho — BA-nyoo — bath" },
+      { "char": "rr", "reading": "h, from the throat", "hint": "carro — KA-hoo — car" },
+      { "char": "r-", "reading": "h, when r starts a word", "hint": "Rio — HEE-oo — Rio" },
+      { "char": "ss", "reading": "s, never z", "hint": "massa — MA-sah — pasta, dough" },
+      { "char": "x", "reading": "usually sh", "hint": "xícara — SHEE-ka-rah — cup" },
+      { "char": "-m", "reading": "nasalises the vowel; lips stay open", "hint": "bom — bohn — good" }
+     ]
+    }
+   ]
   },
   "sounds": [
    {

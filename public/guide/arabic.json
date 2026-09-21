@@ -8,6 +8,60 @@
    "build": { "parts": "ب + ي + ت", "result": "بيت", "reading": "バイト" },
    "sample": { "text": "كتاب", "reading": "キターブ", "meaning": "本" }
   },
+  "chart": {
+   "title": "アラビア文字は、これで全部です",
+   "note": "単独で書いたときの形（独立形）で並べています。単語の中では形が変わりますが、同じ文字です。",
+   "groups": [
+    {
+     "label": "文字 28",
+     "cols": 6,
+     "rtl": true,
+     "cells": [
+      { "char": "ا", "reading": "アー（のばす音）" },
+      { "char": "ب", "reading": "バ行" },
+      { "char": "ت", "reading": "タ行" },
+      { "char": "ث", "reading": "サ行（舌先を軽く歯にはさむ）" },
+      { "char": "ج", "reading": "ジャ行" },
+      { "char": "ح", "reading": "ハ（のどの奥から強く息を出す）" },
+      { "char": "خ", "reading": "ハ（のどの奥でこすって出す）" },
+      { "char": "د", "reading": "ダ行" },
+      { "char": "ذ", "reading": "ザ行（舌先を軽く歯にはさむ）" },
+      { "char": "ر", "reading": "ラ行（舌先を弾く）" },
+      { "char": "ز", "reading": "ザ行" },
+      { "char": "س", "reading": "サ行" },
+      { "char": "ش", "reading": "シャ行" },
+      { "char": "ص", "reading": "サ（のどを締めて重く）" },
+      { "char": "ض", "reading": "ダ（のどを締めて重く）" },
+      { "char": "ط", "reading": "タ（のどを締めて重く）" },
+      { "char": "ظ", "reading": "ザ（のどを締めて重く）" },
+      { "char": "ع", "reading": "ア（のどの奥を締めて出す）" },
+      { "char": "غ", "reading": "ガ（のどの奥でうがいのように）" },
+      { "char": "ف", "reading": "ファ行" },
+      { "char": "ق", "reading": "カ（のどのいちばん奥で出すカ）" },
+      { "char": "ك", "reading": "カ行" },
+      { "char": "ل", "reading": "ラ行（舌先を上の歯ぐきに）" },
+      { "char": "م", "reading": "マ行" },
+      { "char": "ن", "reading": "ナ行" },
+      { "char": "ه", "reading": "ハ行" },
+      { "char": "و", "reading": "ワ行／ウー" },
+      { "char": "ي", "reading": "ヤ行／イー" }
+     ]
+    },
+    {
+     "label": "後ろにつながらない字 6",
+     "cols": 6,
+     "rtl": true,
+     "cells": [
+      { "char": "ا", "reading": "アー（のばす音）" },
+      { "char": "د", "reading": "ダ行" },
+      { "char": "ذ", "reading": "ザ行（舌先を軽く歯にはさむ）" },
+      { "char": "ر", "reading": "ラ行（舌先を弾く）" },
+      { "char": "ز", "reading": "ザ行" },
+      { "char": "و", "reading": "ワ行／ウー" }
+     ]
+    }
+   ]
+  },
   "sounds": [
    {
     "title": "短い母音は、書かれていません",
@@ -51,6 +105,60 @@
    "body": "The direction is the first surprise: lines start at the right edge and run leftwards. There are 28 letters, and only consonants and long vowels get written down — short vowels are normally left out. That is what makes it an abjad rather than an alphabet. Letters join onto their neighbours, so a word looks like one flowing line.",
    "build": { "parts": "ب + ي + ت", "result": "بيت", "reading": "bayt" },
    "sample": { "text": "كتاب", "reading": "kitāb", "meaning": "book" }
+  },
+  "chart": {
+   "title": "The whole Arabic alphabet, in one place",
+   "note": "Shown in the standalone form. Inside a word the shapes change, but they are the same letters.",
+   "groups": [
+    {
+     "label": "The 28 letters",
+     "cols": 6,
+     "rtl": true,
+     "cells": [
+      { "char": "ا", "reading": "a / long ā" },
+      { "char": "ب", "reading": "b" },
+      { "char": "ت", "reading": "t" },
+      { "char": "ث", "reading": "th, as in think" },
+      { "char": "ج", "reading": "j" },
+      { "char": "ح", "reading": "h, pushed hard from deep in the throat" },
+      { "char": "خ", "reading": "kh, a rasping sound at the back of the throat" },
+      { "char": "د", "reading": "d" },
+      { "char": "ذ", "reading": "th, as in this" },
+      { "char": "ر", "reading": "r, tapped" },
+      { "char": "ز", "reading": "z" },
+      { "char": "س", "reading": "s" },
+      { "char": "ش", "reading": "sh" },
+      { "char": "ص", "reading": "s, heavy, with the throat tightened" },
+      { "char": "ض", "reading": "d, heavy, with the throat tightened" },
+      { "char": "ط", "reading": "t, heavy, with the throat tightened" },
+      { "char": "ظ", "reading": "z, heavy, with the throat tightened" },
+      { "char": "ع", "reading": "an a squeezed out deep in the throat" },
+      { "char": "غ", "reading": "gh, gargled at the back of the throat" },
+      { "char": "ف", "reading": "f" },
+      { "char": "ق", "reading": "q, a k made far back in the throat" },
+      { "char": "ك", "reading": "k" },
+      { "char": "ل", "reading": "l" },
+      { "char": "م", "reading": "m" },
+      { "char": "ن", "reading": "n" },
+      { "char": "ه", "reading": "h" },
+      { "char": "و", "reading": "w / long ū" },
+      { "char": "ي", "reading": "y / long ī" }
+     ]
+    },
+    {
+     "label": "The 6 letters that never join forwards",
+     "cols": 6,
+     "rtl": true,
+     "cells": [
+      { "char": "ا", "reading": "a / long ā" },
+      { "char": "د", "reading": "d" },
+      { "char": "ذ", "reading": "th, as in this" },
+      { "char": "ر", "reading": "r, tapped" },
+      { "char": "ز", "reading": "z" },
+      { "char": "و", "reading": "w / long ū" }
+     ]
+    }
+   ]
   },
   "sounds": [
    {

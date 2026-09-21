@@ -7,6 +7,59 @@
    "body": "モンゴル国では、モンゴル語をキリル文字で書きます。文字は35字で、ロシア語の33字に Ө と Ү を加えたものです。ラテン文字と同じように左から右へ1字ずつ並べるだけで、組み立てたりつなげたりする必要はありません。縦書きの伝統的なモンゴル文字も今なお使われていますが、このアプリに出てくる単語はすべてキリル文字です。",
    "sample": { "text": "Монгол", "reading": "モンゴル", "meaning": "モンゴル（国名・民族名）" }
   },
+  "chart": {
+   "title": "文字は、数えると35字だけ",
+   "note": "33字はロシア語とまったく同じで、モンゴル語だけの字は Ө と Ү の2つです。辞書の並びでは Ө は О の次、Ү は У の次に入ります。読みは о・у を「オ」、ө・ү を「ウ」と書き分けています。",
+   "groups": [
+    {
+     "label": "ロシア語と同じ 33字",
+     "cols": 6,
+     "cells": [
+      { "char": "А", "reading": "ア" },
+      { "char": "Б", "reading": "バ行" },
+      { "char": "В", "reading": "ヴァ行" },
+      { "char": "Г", "reading": "ガ行" },
+      { "char": "Д", "reading": "ダ行" },
+      { "char": "Е", "reading": "イェ" },
+      { "char": "Ё", "reading": "ヨ" },
+      { "char": "Ж", "reading": "ジャ行" },
+      { "char": "З", "reading": "ザ行" },
+      { "char": "И", "reading": "イ" },
+      { "char": "Й", "reading": "イ（短く添える）" },
+      { "char": "К", "reading": "カ行（外来語に）" },
+      { "char": "Л", "reading": "ラ行（舌を離さず、息を漏らして擦る）" },
+      { "char": "М", "reading": "マ行" },
+      { "char": "Н", "reading": "ナ行／ン" },
+      { "char": "О", "reading": "オ" },
+      { "char": "П", "reading": "パ行" },
+      { "char": "Р", "reading": "ラ行（巻き舌）" },
+      { "char": "С", "reading": "サ行" },
+      { "char": "Т", "reading": "タ行" },
+      { "char": "У", "reading": "オ" },
+      { "char": "Ф", "reading": "ファ行（外来語に）" },
+      { "char": "Х", "reading": "ハ行" },
+      { "char": "Ц", "reading": "ツァ行" },
+      { "char": "Ч", "reading": "チャ行" },
+      { "char": "Ш", "reading": "シャ行" },
+      { "char": "Щ", "reading": "シャ行（Ш と同じ）" },
+      { "char": "Ъ", "reading": "音なし（区切りの印）" },
+      { "char": "Ы", "reading": "イー" },
+      { "char": "Ь", "reading": "音なし（前の子音をやわらげる印）" },
+      { "char": "Э", "reading": "エ" },
+      { "char": "Ю", "reading": "ユ" },
+      { "char": "Я", "reading": "ヤ" }
+     ]
+    },
+    {
+     "label": "モンゴル語だけの 2字",
+     "cols": 6,
+     "cells": [
+      { "char": "Ө", "reading": "ウ（О と対の澄んだ音）" },
+      { "char": "Ү", "reading": "ウ（У と対の澄んだ音）" }
+     ]
+    }
+   ]
+  },
   "sounds": [
    {
     "title": "新しく覚えるのは Ө と Ү の2字だけ",
@@ -49,6 +102,59 @@
    "title": "Cyrillic: the Russian alphabet plus Ө and Ү",
    "body": "Mongolian in Mongolia is written in Cyrillic. There are 35 letters: the 33 of Russian plus Ө and Ү. They run left to right, one after another, with nothing to stack, join or reshape. The traditional vertical Mongolian script is still in use, but every word in this app is written in Cyrillic.",
    "sample": { "text": "Монгол", "reading": "Mongol", "meaning": "Mongolia / Mongolian" }
+  },
+  "chart": {
+   "title": "Count them and there are only 35",
+   "note": "Thirty-three of them are the Russian alphabet, letter for letter; only Ө and Ү are Mongolian's own. In Mongolian alphabetical order Ө follows О and Ү follows У.",
+   "groups": [
+    {
+     "label": "Same as Russian — 33",
+     "cols": 6,
+     "cells": [
+      { "char": "А", "reading": "a" },
+      { "char": "Б", "reading": "b" },
+      { "char": "В", "reading": "v / w" },
+      { "char": "Г", "reading": "g" },
+      { "char": "Д", "reading": "d" },
+      { "char": "Е", "reading": "ye" },
+      { "char": "Ё", "reading": "yo" },
+      { "char": "Ж", "reading": "j (as in jam)" },
+      { "char": "З", "reading": "dz" },
+      { "char": "И", "reading": "i" },
+      { "char": "Й", "reading": "short i" },
+      { "char": "К", "reading": "k (loanwords)" },
+      { "char": "Л", "reading": "l (hissed)" },
+      { "char": "М", "reading": "m" },
+      { "char": "Н", "reading": "n" },
+      { "char": "О", "reading": "o" },
+      { "char": "П", "reading": "p" },
+      { "char": "Р", "reading": "rolled r" },
+      { "char": "С", "reading": "s" },
+      { "char": "Т", "reading": "t" },
+      { "char": "У", "reading": "u" },
+      { "char": "Ф", "reading": "f (loanwords)" },
+      { "char": "Х", "reading": "kh" },
+      { "char": "Ц", "reading": "ts" },
+      { "char": "Ч", "reading": "ch" },
+      { "char": "Ш", "reading": "sh" },
+      { "char": "Щ", "reading": "sh (same as Ш)" },
+      { "char": "Ъ", "reading": "no sound (hard sign)" },
+      { "char": "Ы", "reading": "long i" },
+      { "char": "Ь", "reading": "no sound (softens the consonant before)" },
+      { "char": "Э", "reading": "e" },
+      { "char": "Ю", "reading": "yu" },
+      { "char": "Я", "reading": "ya" }
+     ]
+    },
+    {
+     "label": "Mongolian only — 2",
+     "cols": 6,
+     "cells": [
+      { "char": "Ө", "reading": "ö — the bright partner of О" },
+      { "char": "Ү", "reading": "ü — the bright partner of У" }
+     ]
+    }
+   ]
   },
   "sounds": [
    {

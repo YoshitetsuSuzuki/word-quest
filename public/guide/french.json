@@ -7,6 +7,50 @@
    "body": "使うのは英語と同じラテン文字26字で、新しく覚える文字はひとつもありません。違うのは é è ê ë ç のような記号が付くこと。これは飾りではなく、その文字をどの音で読むかを決める目印です（ë は前の母音と切り離して読む印、ç の記号は文字の下に付きます）。規則がとても規則的なので、覚えれば綴りを見ただけで音が分かります。",
    "sample": { "text": "café", "reading": "カフェ", "meaning": "コーヒー、喫茶店" }
   },
+  "chart": {
+   "title": "新しく覚えるのは、これだけ",
+   "note": "文字そのものは英語と同じ26字です。ここに並ぶのは、その字に付く記号と、2字3字で1つの音になる組み合わせだけ。",
+   "groups": [
+    {
+     "label": "記号のついた字・合字 13",
+     "cols": 5,
+     "cells": [
+      { "char": "é", "reading": "エ（口を横に引く）", "hint": "café カフェ（コーヒー）" },
+      { "char": "è", "reading": "エ（口を広めに開く）", "hint": "père ペール（父）" },
+      { "char": "ê", "reading": "エ（è と同じ音）", "hint": "fête フェット（祭り）" },
+      { "char": "ë", "reading": "前の母音と切り離して「エ」", "hint": "Noël ノエル（クリスマス）" },
+      { "char": "à", "reading": "ア（a と同じ音）", "hint": "là ラ（そこ）" },
+      { "char": "â", "reading": "アー（少し奥で長め）", "hint": "gâteau ガトー（ケーキ）" },
+      { "char": "ù", "reading": "ウ（où の一語だけに使う）", "hint": "où ウ（どこ）" },
+      { "char": "û", "reading": "ユー（u と同じ音）", "hint": "flûte フリュート（笛）" },
+      { "char": "î", "reading": "イ（i と同じ音）", "hint": "île イル（島）" },
+      { "char": "ï", "reading": "前の母音と切り離して「イ」", "hint": "maïs マイス（とうもろこし）" },
+      { "char": "ô", "reading": "オー（口をすぼめた「オ」）", "hint": "hôtel オテル（ホテル）" },
+      { "char": "ç", "reading": "ス（サ行の音。記号は字の下に付く）", "hint": "ça サ（それ）" },
+      { "char": "œ", "reading": "ウとエの中間（o と e がくっついた1字）", "hint": "sœur スール（姉妹）" }
+     ]
+    },
+    {
+     "label": "2字3字で1つの音 13",
+     "cols": 5,
+     "cells": [
+      { "char": "ou", "reading": "ウ", "hint": "bonjour ボンジュール（こんにちは）" },
+      { "char": "oi", "reading": "ワ", "hint": "moi モワ（私）" },
+      { "char": "au", "reading": "オ", "hint": "au revoir オ ルヴォワール（さようなら）" },
+      { "char": "eau", "reading": "オ（3字で「オ」ひとつ）", "hint": "eau オー（水）" },
+      { "char": "ai", "reading": "エ", "hint": "mais メ（しかし）" },
+      { "char": "ei", "reading": "エ（ai と同じ音）", "hint": "neige ネージュ（雪）" },
+      { "char": "eu", "reading": "ウとエの中間", "hint": "deux ドゥ（2）" },
+      { "char": "an / en", "reading": "鼻に抜ける「アン」（口を閉じない）", "hint": "enfant アンファン（子ども）" },
+      { "char": "on", "reading": "鼻に抜ける「オン」（口を閉じない）", "hint": "non ノン（いいえ）" },
+      { "char": "in", "reading": "鼻に抜ける「アン」（エに近い）", "hint": "vin ヴァン（ワイン）" },
+      { "char": "un", "reading": "鼻に抜ける「アン」（in とほぼ同じ）", "hint": "un アン（ひとつ）" },
+      { "char": "gn", "reading": "ニャ行の音", "hint": "montagne モンターニュ（山）" },
+      { "char": "ill", "reading": "イユ", "hint": "famille ファミーユ（家族）" }
+     ]
+    }
+   ]
+  },
   "sounds": [
    {
     "title": "単語の最後の子音は、たいてい読みません",
@@ -49,6 +93,50 @@
    "title": "The same 26 letters as English, plus accent marks",
    "body": "You already know every letter. What is new is the marks — é, è, ê, ë and the cedilla in ç. They are not decoration: accents tell you which sound the letter takes, the two dots on ë mean you read it separately from the vowel before it (Noël), and the cedilla sits under the c. French spelling looks unpredictable at first, but the rules behind it are unusually consistent, so once you know them you can pronounce words you have never seen before.",
    "sample": { "text": "café", "reading": "ka-FAY", "meaning": "coffee, café" }
+  },
+  "chart": {
+   "title": "The whole list of new things",
+   "note": "The letters are the same 26 you already know. All that is new is the marks that go on them and the letter combinations that spell a single sound.",
+   "groups": [
+    {
+     "label": "Letters with marks and ligatures — 13",
+     "cols": 5,
+     "cells": [
+      { "char": "é", "reading": "a tight \"ay\"", "hint": "café — ka-FAY (coffee)" },
+      { "char": "è", "reading": "an open \"eh\"", "hint": "père — pair (father)" },
+      { "char": "ê", "reading": "an open \"eh\", same as è", "hint": "fête — fet (party)" },
+      { "char": "ë", "reading": "read it apart from the vowel before", "hint": "Noël — no-EL (Christmas)" },
+      { "char": "à", "reading": "\"ah\" — the same sound as a", "hint": "là — la (there)" },
+      { "char": "â", "reading": "a longer, deeper \"ah\"", "hint": "gâteau — ga-TOH (cake)" },
+      { "char": "ù", "reading": "\"oo\" — used in one word only", "hint": "où — oo (where)" },
+      { "char": "û", "reading": "\"ew\" — the same sound as u", "hint": "flûte — flewt (flute)" },
+      { "char": "î", "reading": "\"ee\" — the same sound as i", "hint": "île — eel (island)" },
+      { "char": "ï", "reading": "read it apart from the vowel before", "hint": "maïs — ma-EESS (corn)" },
+      { "char": "ô", "reading": "a long rounded \"oh\"", "hint": "hôtel — oh-TEL (hotel)" },
+      { "char": "ç", "reading": "s, not k — the tail hangs under the c", "hint": "ça — sa (that)" },
+      { "char": "œ", "reading": "\"uh\" — o and e fused into one letter", "hint": "sœur — sur (sister)" }
+     ]
+    },
+    {
+     "label": "Two or three letters, one sound — 13",
+     "cols": 5,
+     "cells": [
+      { "char": "ou", "reading": "oo", "hint": "bonjour — bohn-ZHOOR (hello)" },
+      { "char": "oi", "reading": "wah", "hint": "moi — mwah (me)" },
+      { "char": "au", "reading": "oh", "hint": "au revoir — oh ruh-VWAR (goodbye)" },
+      { "char": "eau", "reading": "oh — three letters, one sound", "hint": "eau — oh (water)" },
+      { "char": "ai", "reading": "eh", "hint": "mais — meh (but)" },
+      { "char": "ei", "reading": "eh — the same as ai", "hint": "neige — nezh (snow)" },
+      { "char": "eu", "reading": "uh, between \"uh\" and \"eh\"", "hint": "deux — duh (two)" },
+      { "char": "an / en", "reading": "nasal \"ahn\" — lips never close on the n", "hint": "enfant — ahn-FAHN (child)" },
+      { "char": "on", "reading": "nasal \"ohn\" — lips never close on the n", "hint": "non — nohn (no)" },
+      { "char": "in", "reading": "nasal \"an\", closer to \"eh\"", "hint": "vin — van (wine)" },
+      { "char": "un", "reading": "nasal \"an\" — nearly the same as in", "hint": "un — an (one)" },
+      { "char": "gn", "reading": "ny, as in canyon", "hint": "montagne — mohn-TAHN-y (mountain)" },
+      { "char": "ill", "reading": "ee-y", "hint": "famille — fa-MEE-y (family)" }
+     ]
+    }
+   ]
   },
   "sounds": [
    {

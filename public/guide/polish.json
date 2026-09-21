@@ -7,6 +7,51 @@
    "body": "文字はラテン文字です。見慣れた a b c に、尻尾や点のついた ą ć ę ł ń ó ś ź ż が9つ加わって全部で32文字。q・v・x は使いません。ą と ę は鼻に抜ける母音で、ą は字形に反して「オン」寄り、ę が「エン」寄りの音です。さらに sz・cz・rz・ch など、2文字で1つの音を表す組み合わせが7つあり、長い子音の列に見えるのは、たいていこれが並んでいるだけです。",
    "sample": { "text": "Warszawa", "reading": "ヴァルシャヴァ", "meaning": "ワルシャワ（首都。sz で「シャ」、w で「ヴ」）" }
   },
+  "chart": {
+   "title": "新しく覚えるのは、この21個だけ",
+   "note": "ポーランド語のアルファベットは32字。q・v・x は使いません。ここに無い字は、ほぼローマ字どおりに読めます。",
+   "groups": [
+    {
+     "label": "点や尾のついた字 9",
+     "cols": 5,
+     "cells": [
+      { "char": "ą", "reading": "オン（鼻に抜ける母音。字形に反して「オ」寄り）" },
+      { "char": "ć", "reading": "チ（やわらかい「チ」）" },
+      { "char": "ę", "reading": "エン（鼻に抜ける母音）" },
+      { "char": "ł", "reading": "ウ（ワ行。英語の w）" },
+      { "char": "ń", "reading": "ニ（ニャ行）" },
+      { "char": "ó", "reading": "ウ（u とまったく同じ音）" },
+      { "char": "ś", "reading": "シ（やわらかい「シ」）" },
+      { "char": "ź", "reading": "ジ（やわらかい「ジ」）" },
+      { "char": "ż", "reading": "ジュ（rz と同じ音）" }
+     ]
+    },
+    {
+     "label": "二重字 7",
+     "cols": 4,
+     "cells": [
+      { "char": "ch", "reading": "ハ行（h と同じ音）" },
+      { "char": "cz", "reading": "チ" },
+      { "char": "dz", "reading": "ヅ" },
+      { "char": "dź", "reading": "ヂ（やわらかい「ヂ」）" },
+      { "char": "dż", "reading": "ヂュ" },
+      { "char": "rz", "reading": "ジュ（無声子音の後では「シュ」）" },
+      { "char": "sz", "reading": "シュ" }
+     ]
+    },
+    {
+     "label": "ローマ字と違う読みの字 5",
+     "cols": 5,
+     "cells": [
+      { "char": "w", "reading": "ヴ（英語の v。ワ行ではありません）" },
+      { "char": "c", "reading": "ツ" },
+      { "char": "j", "reading": "ヤ行（英語の y）" },
+      { "char": "y", "reading": "イ（口をゆるめた、くぐもった「イ」）" },
+      { "char": "i", "reading": "イ（直前の子音をやわらげる）" }
+     ]
+    }
+   ]
+  },
   "sounds": [
    {
     "title": "sz や cz は、2文字で1つの音です",
@@ -49,6 +94,51 @@
    "title": "A Latin alphabet of 32 letters",
    "body": "Polish uses the Latin alphabet you already know, plus nine letters carrying a tail or a mark: ą ć ę ł ń ó ś ź ż. That makes 32 in all, and q, v and x are not used. ą and ę are nasal vowels — but note that ą, despite its shape, is a nasal o, while ę is a nasal e. In exchange there are seven two-letter combinations — ch, cz, dz, dź, dż, rz, sz — where the pair spells one sound, and most fearsome-looking consonant runs are just those pairs lined up.",
    "sample": { "text": "Warszawa", "reading": "var-SHA-va", "meaning": "Warsaw (sz is sh, w is v)" }
+  },
+  "chart": {
+   "title": "Only 21 things to learn fresh",
+   "note": "The Polish alphabet has 32 letters, and q, v and x are not among them. Letters not shown here read much as you would expect.",
+   "groups": [
+    {
+     "label": "Letters with a tail or a mark — 9",
+     "cols": 5,
+     "cells": [
+      { "char": "ą", "reading": "nasal o, like French -on" },
+      { "char": "ć", "reading": "soft ch" },
+      { "char": "ę", "reading": "nasal e, like French -in" },
+      { "char": "ł", "reading": "w as in water" },
+      { "char": "ń", "reading": "ny as in canyon" },
+      { "char": "ó", "reading": "oo — exactly the same sound as u" },
+      { "char": "ś", "reading": "soft sh" },
+      { "char": "ź", "reading": "soft zh" },
+      { "char": "ż", "reading": "zh as in measure (same as rz)" }
+     ]
+    },
+    {
+     "label": "Two letters, one sound — 7",
+     "cols": 4,
+     "cells": [
+      { "char": "ch", "reading": "a rasping h" },
+      { "char": "cz", "reading": "ch as in church" },
+      { "char": "dz", "reading": "dz as in adze" },
+      { "char": "dź", "reading": "soft j" },
+      { "char": "dż", "reading": "j as in jam" },
+      { "char": "rz", "reading": "zh; sh after a voiceless consonant" },
+      { "char": "sz", "reading": "sh as in ship" }
+     ]
+    },
+    {
+     "label": "Familiar letters, unfamiliar sounds — 5",
+     "cols": 5,
+     "cells": [
+      { "char": "w", "reading": "v, never w" },
+      { "char": "c", "reading": "ts as in cats" },
+      { "char": "j", "reading": "y as in yes" },
+      { "char": "y", "reading": "a short, dull i as in bit" },
+      { "char": "i", "reading": "ee; also softens the consonant before it" }
+     ]
+    }
+   ]
   },
   "sounds": [
    {

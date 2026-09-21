@@ -7,6 +7,50 @@
    "body": "イタリア語はラテン文字（アルファベット）で書きます。使う文字は21字で、j・k・w・x・y は外来語にしか出てきません。綴りと音がほぼ一対一で対応しているので、規則をいくつか覚えれば、初めて見る単語でも声に出して読めます。à・è などのアクセント記号は、語の最後の母音にアクセントがある印です（Sì のような1音節語では、同じつづりの別語と区別するために付きます）。",
    "sample": { "text": "Italia", "reading": "イターリア", "meaning": "イタリア（国名）" }
   },
+  "chart": {
+   "title": "読み方につまずくのは、この組み合わせだけ",
+   "note": "上の2段は、c と g を縦に見くらべてください。うしろに e・i が来ると音がやわらかくなり、あいだに h を入れると固いままになります。いちばん下の5字は21字に入らない字で、読みは字の名前です。",
+   "groups": [
+    {
+     "label": "読み方が変わる組み合わせ（上が c、下が g）",
+     "cols": 5,
+     "cells": [
+      { "char": "ca co cu", "reading": "カ・コ・ク" },
+      { "char": "ce ci", "reading": "チェ・チ" },
+      { "char": "che chi", "reading": "ケ・キ" },
+      { "char": "" },
+      { "char": "" },
+      { "char": "ga go gu", "reading": "ガ・ゴ・グ" },
+      { "char": "ge gi", "reading": "ジェ・ジ" },
+      { "char": "ghe ghi", "reading": "ゲ・ギ" },
+      { "char": "" },
+      { "char": "" }
+     ]
+    },
+    {
+     "label": "イタリア語らしい組み合わせ 5",
+     "cols": 4,
+     "cells": [
+      { "char": "gn", "reading": "ニャ・ニュ・ニョ", "hint": "gnocchi ニョッキ" },
+      { "char": "gli", "reading": "リャ・リュ・リョ", "hint": "famiglia ファミーリャ" },
+      { "char": "sca sco scu", "reading": "スカ・スコ・スク", "hint": "scusi スクーズィ" },
+      { "char": "sce sci", "reading": "シェ・シ", "hint": "pesce ペッシェ" },
+      { "char": "z", "reading": "ツ／ヅ", "hint": "pizza ピッツァ" }
+     ]
+    },
+    {
+     "label": "外来語にしか出ない字 5",
+     "cols": 5,
+     "cells": [
+      { "char": "j", "reading": "イ・ルンガ", "hint": "jeans ジーンズ" },
+      { "char": "k", "reading": "カッパ", "hint": "koala コアラ" },
+      { "char": "w", "reading": "ヴ・ドッピア", "hint": "weekend ウィークエンド" },
+      { "char": "x", "reading": "イクス", "hint": "taxi タクシー" },
+      { "char": "y", "reading": "イプスィロン", "hint": "yogurt ヨーグルト" }
+     ]
+    }
+   ]
+  },
   "sounds": [
    {
     "title": "c と g は、次に来る母音で読み方が変わります",
@@ -49,6 +93,50 @@
    "title": "21 letters, and spelling that matches the sound",
    "body": "Italian uses the Latin alphabet, but only 21 of its letters: j, k, w, x and y turn up only in borrowed words. Spelling maps onto sound almost one-to-one, so once you know a few rules you can pronounce a word you have never seen before. An accent mark such as à or è tells you the stress falls on that final vowel; on a one-syllable word like Sì it is there to tell it apart from a look-alike word (si).",
    "sample": { "text": "Italia", "reading": "ee-TAH-lya", "meaning": "Italy" }
+  },
+  "chart": {
+   "title": "The only spellings that catch you out",
+   "note": "Read the first two rows top to bottom to compare c and g: before e or i they go soft, and an h put in between keeps them hard. The last five letters fall outside the 21, so what is given is the letter's Italian name.",
+   "groups": [
+    {
+     "label": "Spellings that change the sound (c above, g below)",
+     "cols": 5,
+     "cells": [
+      { "char": "ca co cu", "reading": "hard k, as in cat" },
+      { "char": "ce ci", "reading": "ch, as in chair" },
+      { "char": "che chi", "reading": "hard k again" },
+      { "char": "" },
+      { "char": "" },
+      { "char": "ga go gu", "reading": "hard g, as in go" },
+      { "char": "ge gi", "reading": "j, as in jam" },
+      { "char": "ghe ghi", "reading": "hard g again" },
+      { "char": "" },
+      { "char": "" }
+     ]
+    },
+    {
+     "label": "5 clusters that look Italian",
+     "cols": 4,
+     "cells": [
+      { "char": "gn", "reading": "ny, as in canyon", "hint": "gnocchi — NYOK-kee" },
+      { "char": "gli", "reading": "lli, as in million", "hint": "famiglia — fah-MEE-lyah" },
+      { "char": "sca sco scu", "reading": "sk, as in sky", "hint": "scusi — SKOO-zee" },
+      { "char": "sce sci", "reading": "sh, as in ship", "hint": "pesce — PESH-sheh" },
+      { "char": "z", "reading": "ts, sometimes dz", "hint": "pizza — PEET-tsah" }
+     ]
+    },
+    {
+     "label": "The 5 letters only borrowed words use",
+     "cols": 5,
+     "cells": [
+      { "char": "j", "reading": "i lunga", "hint": "jeans" },
+      { "char": "k", "reading": "cappa", "hint": "koala" },
+      { "char": "w", "reading": "vu doppia", "hint": "weekend" },
+      { "char": "x", "reading": "ics", "hint": "taxi" },
+      { "char": "y", "reading": "ipsilon", "hint": "yogurt" }
+     ]
+    }
+   ]
   },
   "sounds": [
    {

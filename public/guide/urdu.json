@@ -8,6 +8,74 @@
    "build": { "parts": "پ + ا + ن + ی", "result": "پانی", "reading": "パーニー" },
    "sample": { "text": "اردو", "reading": "ウルドゥー", "meaning": "ウルドゥー語" }
   },
+  "chart": {
+   "title": "ウルドゥー文字は、全部で39字",
+   "note": "アラビア語の28字に、ペルシア語とインド系の音の字を足したものです。ここに出しているのは単独形で、語の中では形が変わります。",
+   "groups": [
+    {
+     "label": "字母 39",
+     "cols": 6,
+     "rtl": true,
+     "cells": [
+      { "char": "ا", "reading": "アー（母音の台）" },
+      { "char": "ب", "reading": "バ行" },
+      { "char": "پ", "reading": "パ行", "hint": "ペルシア語由来。アラビア語に無い字" },
+      { "char": "ت", "reading": "タ行（歯に当てる）" },
+      { "char": "ٹ", "reading": "タ行（そり舌）", "hint": "インド系のそり舌音。アラビア語に無い字" },
+      { "char": "ث", "reading": "サ行" },
+      { "char": "ج", "reading": "ジャ行" },
+      { "char": "چ", "reading": "チャ行", "hint": "ペルシア語由来。アラビア語に無い字" },
+      { "char": "ح", "reading": "ハ行（息だけ）" },
+      { "char": "خ", "reading": "ハ行（のどで）" },
+      { "char": "د", "reading": "ダ行" },
+      { "char": "ڈ", "reading": "ダ行（そり舌）", "hint": "インド系のそり舌音。アラビア語に無い字" },
+      { "char": "ذ", "reading": "ザ行" },
+      { "char": "ر", "reading": "ラ行（舌を弾く）" },
+      { "char": "ڑ", "reading": "ラ行（そり舌）", "hint": "インド系のそり舌音。アラビア語に無い字" },
+      { "char": "ز", "reading": "ザ行" },
+      { "char": "ژ", "reading": "ジュ（やわらかいジ）", "hint": "ペルシア語由来。アラビア語に無い字" },
+      { "char": "س", "reading": "サ行" },
+      { "char": "ش", "reading": "シャ行" },
+      { "char": "ص", "reading": "サ行" },
+      { "char": "ض", "reading": "ザ行" },
+      { "char": "ط", "reading": "タ行" },
+      { "char": "ظ", "reading": "ザ行" },
+      { "char": "ع", "reading": "母音の台（音なし）" },
+      { "char": "غ", "reading": "ガ行（のどで）" },
+      { "char": "ف", "reading": "ファ行" },
+      { "char": "ق", "reading": "カ行（のどの奥）" },
+      { "char": "ک", "reading": "カ行" },
+      { "char": "گ", "reading": "ガ行", "hint": "ペルシア語由来。アラビア語に無い字" },
+      { "char": "ل", "reading": "ラ行（舌を離さず）" },
+      { "char": "م", "reading": "マ行" },
+      { "char": "ن", "reading": "ナ行" },
+      { "char": "ں", "reading": "前の母音を鼻に抜く（語末）" },
+      { "char": "و", "reading": "ワ／ウー／オー" },
+      { "char": "ہ", "reading": "ハ行" },
+      { "char": "ھ", "reading": "前の子音を帯気音に", "hint": "کھ پھ のように組んで、息の強い1つの音を作ります" },
+      { "char": "ء", "reading": "音の切れ目" },
+      { "char": "ی", "reading": "ヤ行／イー" },
+      { "char": "ے", "reading": "エー（語末だけ）" }
+     ]
+    },
+    {
+     "label": "後ろにつながらない字 9（語はここで切れます）",
+     "cols": 6,
+     "rtl": true,
+     "cells": [
+      { "char": "ا", "reading": "アー" },
+      { "char": "د", "reading": "ダ行" },
+      { "char": "ڈ", "reading": "ダ行（そり舌）" },
+      { "char": "ذ", "reading": "ザ行" },
+      { "char": "ر", "reading": "ラ行" },
+      { "char": "ڑ", "reading": "ラ行（そり舌）" },
+      { "char": "ز", "reading": "ザ行" },
+      { "char": "ژ", "reading": "ジュ" },
+      { "char": "و", "reading": "ワ／ウー" }
+     ]
+    }
+   ]
+  },
   "sounds": [
    {
     "title": "ت と ٹ は、舌の位置がちがう別の文字",
@@ -36,7 +104,7 @@
    { "text": "شکریہ", "reading": "シュクリヤ", "meaning": "ありがとう" },
    { "text": "معاف کیجیے", "reading": "ムアーフ キージエ", "meaning": "すみません／ごめんなさい" },
    { "text": "جی ہاں / جی نہیں", "reading": "ジー ハーン／ジー ナヒーン", "meaning": "はい／いいえ" },
-   { "text": "خدا حافظ", "reading": "クダー ハーフィズ", "meaning": "さようなら" }
+   { "text": "خدا حافظ", "reading": "フダー ハーフィズ", "meaning": "さようなら" }
   ],
   "pitfall": {
    "title": "短い母音は、書かれません",
@@ -48,9 +116,77 @@
   "tagline": "An Arabic-style script with Hindi grammar — see that split and Urdu stops looking mysterious.",
   "script": {
    "title": "The Arabic script, extended and joined up",
-   "body": "Urdu uses an extended form of the Arabic script, written right to left. Letters join to their neighbours like handwriting and change shape at the start, middle and end of a word — though a few letters (ا د ذ ر ز و) never join to what follows, so the word breaks there. Urdu also adds letters Arabic does not have, ٹ ڈ ڑ for retroflex sounds, plus Persian پ چ گ. In print it appears in the sloping Nastaliq style.",
+   "body": "Urdu uses an extended form of the Arabic script, written right to left. Letters join to their neighbours like handwriting and change shape at the start, middle and end of a word — though a few letters such as ا د ر و never join to what follows, so the word breaks there. Urdu also adds letters Arabic does not have, ٹ ڈ ڑ for retroflex sounds, plus Persian پ چ گ. In print it appears in the sloping Nastaliq style.",
    "build": { "parts": "پ + ا + ن + ی", "result": "پانی", "reading": "pānī" },
    "sample": { "text": "اردو", "reading": "urdū", "meaning": "Urdu" }
+  },
+  "chart": {
+   "title": "The whole alphabet: 39 letters",
+   "note": "Arabic's 28 letters plus extra ones for Persian and Indic sounds. These are the standalone forms; letters change shape inside a word.",
+   "groups": [
+    {
+     "label": "39 letters",
+     "cols": 6,
+     "rtl": true,
+     "cells": [
+      { "char": "ا", "reading": "ā / vowel carrier" },
+      { "char": "ب", "reading": "b" },
+      { "char": "پ", "reading": "p", "hint": "From Persian — Arabic has no such letter" },
+      { "char": "ت", "reading": "t (dental)" },
+      { "char": "ٹ", "reading": "ṭ (retroflex)", "hint": "Indic retroflex sound — Arabic has no such letter" },
+      { "char": "ث", "reading": "s" },
+      { "char": "ج", "reading": "j" },
+      { "char": "چ", "reading": "ch", "hint": "From Persian — Arabic has no such letter" },
+      { "char": "ح", "reading": "h" },
+      { "char": "خ", "reading": "kh (throaty)" },
+      { "char": "د", "reading": "d (dental)" },
+      { "char": "ڈ", "reading": "ḍ (retroflex)", "hint": "Indic retroflex sound — Arabic has no such letter" },
+      { "char": "ذ", "reading": "z" },
+      { "char": "ر", "reading": "r (tapped)" },
+      { "char": "ڑ", "reading": "ṛ (retroflex flap)", "hint": "Indic retroflex sound — Arabic has no such letter" },
+      { "char": "ز", "reading": "z" },
+      { "char": "ژ", "reading": "zh, as in 'vision'", "hint": "From Persian — Arabic has no such letter" },
+      { "char": "س", "reading": "s" },
+      { "char": "ش", "reading": "sh" },
+      { "char": "ص", "reading": "s" },
+      { "char": "ض", "reading": "z" },
+      { "char": "ط", "reading": "t" },
+      { "char": "ظ", "reading": "z" },
+      { "char": "ع", "reading": "vowel carrier (silent)" },
+      { "char": "غ", "reading": "gh (throaty)" },
+      { "char": "ف", "reading": "f" },
+      { "char": "ق", "reading": "q (back of throat)" },
+      { "char": "ک", "reading": "k" },
+      { "char": "گ", "reading": "g", "hint": "From Persian — Arabic has no such letter" },
+      { "char": "ل", "reading": "l" },
+      { "char": "م", "reading": "m" },
+      { "char": "ن", "reading": "n" },
+      { "char": "ں", "reading": "nasalizes the vowel before it (word-final)" },
+      { "char": "و", "reading": "w / ū / o" },
+      { "char": "ہ", "reading": "h" },
+      { "char": "ھ", "reading": "aspirates the letter before it", "hint": "کھ, پھ — one puffed sound, not two" },
+      { "char": "ء", "reading": "a glottal break" },
+      { "char": "ی", "reading": "y / ī" },
+      { "char": "ے", "reading": "e / ai (word-final)" }
+     ]
+    },
+    {
+     "label": "9 letters that never join forward",
+     "cols": 6,
+     "rtl": true,
+     "cells": [
+      { "char": "ا", "reading": "ā" },
+      { "char": "د", "reading": "d" },
+      { "char": "ڈ", "reading": "ḍ" },
+      { "char": "ذ", "reading": "z" },
+      { "char": "ر", "reading": "r" },
+      { "char": "ڑ", "reading": "ṛ" },
+      { "char": "ز", "reading": "z" },
+      { "char": "ژ", "reading": "zh" },
+      { "char": "و", "reading": "w / ū" }
+     ]
+    }
+   ]
   },
   "sounds": [
    {

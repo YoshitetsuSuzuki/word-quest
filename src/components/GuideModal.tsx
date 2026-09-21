@@ -2,7 +2,7 @@ import { useEffect, useState } from 'react'
 import { useNav } from '../state/nav'
 import { getCategoryInfo } from '../data/categories'
 import { loadGuide } from '../repositories/GuideRepository'
-import type { GuideContent, GuideSample } from '../types/guide'
+import type { GuideChart, GuideContent, GuideSample } from '../types/guide'
 import type { Category } from '../types'
 
 /**
@@ -45,6 +45,44 @@ function Sample({ s }: { s: GuideSample }) {
       <div className="text-[11px] text-accent2 mt-0.5">{s.reading}</div>
       <div className="text-[11px] text-white/50 mt-0.5">{s.meaning}</div>
     </div>
+  )
+}
+
+/**
+ * 文字の一覧。
+ * 「全部でこれだけしかない」と目で分かることが目的なので、
+ * 1マスを小さく詰めて、1画面で見渡せる形にする。
+ */
+function Chart({ label, c }: { label: string; c: GuideChart }) {
+  return (
+    <section className="mt-5">
+      <div className="text-[10px] font-black tracking-widest text-accent2/80">{label}</div>
+      <h3 className="font-bold text-sm mt-1 leading-snug">{c.title}</h3>
+      {c.note && <p className="text-[12px] text-white/55 mt-1.5 leading-relaxed">{c.note}</p>}
+      {c.groups.map((g) => (
+        <div className="mt-3" key={g.label}>
+          <div className="text-[11px] text-white/45">{g.label}</div>
+          <div
+            className="mt-1.5 grid gap-1"
+            dir={g.rtl ? 'rtl' : undefined}
+            style={{ gridTemplateColumns: `repeat(${g.cols ?? 5}, minmax(0, 1fr))` }}
+          >
+            {g.cells.map((cell, i) =>
+              // 空きマスは五十音の「や行」のように並びを揃えるためだけに置く
+              cell.char === '' ? (
+                <div key={i} />
+              ) : (
+                <div key={i} className="rounded-lg bg-panel2 px-1 py-1.5 text-center">
+                  <div className="text-base font-black leading-tight break-words">{cell.char}</div>
+                  <div className="text-[10px] text-accent2 leading-tight mt-0.5 break-words">{cell.reading}</div>
+                  {cell.hint && <div className="text-[10px] text-white/45 leading-tight mt-0.5 break-words">{cell.hint}</div>}
+                </div>
+              ),
+            )}
+          </div>
+        </div>
+      ))}
+    </section>
   )
 }
 
@@ -113,6 +151,8 @@ export function GuideModal({ category, onClose }: { category: Category; onClose:
                 )}
                 {g.script.sample && <Sample s={g.script.sample} />}
               </Section>
+
+              {g.chart && <Chart label={t('guide.chart')} c={g.chart} />}
 
               <Section label={t('guide.sounds')} title={g.sounds[0]?.title ?? ''} body={g.sounds[0]?.body ?? ''}>
                 {g.sounds[0]?.sample && <Sample s={g.sounds[0].sample} />}

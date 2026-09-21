@@ -18,6 +18,8 @@ const ng = (msg: string) => {
 }
 
 const LOCALES = ['ja', 'en'] as const
+interface ChartCell { char: string; reading?: string; hint?: string }
+interface ChartGroup { label?: string; cells?: ChartCell[]; cols?: number; rtl?: boolean }
 const nonEmpty = (v: unknown) => typeof v === 'string' && v.trim().length > 0
 
 for (const c of categories) {
@@ -81,6 +83,44 @@ for (const c of categories) {
 
     const pf = d.pitfall as Record<string, never> | undefined
     if (!pf || !nonEmpty(pf.title) || !nonEmpty(pf.body)) ng(`${where}: pitfall が欠けている`)
+
+    const chart = d.chart as { title?: string; groups?: ChartGroup[] } | undefined
+    if (!chart) ng(`${where}: chart が無い`)
+    else {
+      if (!nonEmpty(chart.title)) ng(`${where}.chart: title が空`)
+      if (!Array.isArray(chart.groups) || chart.groups.length === 0) ng(`${where}.chart: groups が空`)
+      else
+        chart.groups.forEach((grp, gi) => {
+          if (!nonEmpty(grp.label)) ng(`${where}.chart.groups[${gi}]: label が空`)
+          if (!Array.isArray(grp.cells) || grp.cells.length < 2)
+            return ng(`${where}.chart.groups[${gi}]: cells が2件未満`)
+          // label に「子音 14」と数を書いたら、実際のマス数と合っていること。
+          // 数え違いは中身の誤りそのものなので、ここで止める。
+          const nums = (grp.label ?? '').match(/\d+/g)?.map(Number) ?? []
+          const real = grp.cells.filter((c) => c.char !== '').length
+          if (nums.length > 0 && !nums.includes(real))
+            ng(`${where}.chart.groups[${gi}]: label "${grp.label}" の数と実際の ${real} マスが合わない`)
+          if (grp.cols !== undefined && !(Number.isInteger(grp.cols) && grp.cols >= 1 && grp.cols <= 8))
+            ng(`${where}.chart.groups[${gi}]: cols が 1〜8 でない`)
+          grp.cells.forEach((cell, ci) => {
+            const at = `${where}.chart.groups[${gi}].cells[${ci}]`
+            if (typeof cell.char !== 'string') return ng(`${at}: char が無い`)
+            // char が空なのは並びを揃えるための空きマスのときだけ
+            if (cell.char === '') {
+              if (nonEmpty(cell.reading) || nonEmpty(cell.hint)) ng(`${at}: 空きマスに読みが入っている`)
+              return
+            }
+            if (!nonEmpty(cell.reading)) ng(`${at}: reading が空`)
+          })
+          // 同じ一覧の中に同じ文字を二度出さない（数え違いのもとになる）
+          const seen = new Set<string>()
+          for (const cell of grp.cells) {
+            if (cell.char === '') continue
+            if (seen.has(cell.char)) ng(`${where}.chart.groups[${gi}]: "${cell.char}" が重複`)
+            seen.add(cell.char)
+          }
+        })
+    }
   }
 
   // ja と en で挨拶の「その言語での表記」が食い違っていないか（同じ事実のはず）
@@ -90,6 +130,14 @@ for (const c of categories) {
   const norm = (x: { text: string }) => x.text.replace(/[／/・,、]/g, '/').replace(/\s+/g, '')
   if (ja.length && en.length && ja.map(norm).join('|') !== en.map(norm).join('|'))
     ng(`${c.id}: ja と en で greetings の原語表記が違う`)
+
+  // ja と en で文字一覧の「並べている文字そのもの」が一致しているか。
+  // 変わってよいのは読み（カタカナ／ローマ字）だけで、文字の顔ぶれは同じ事実のはず。
+  const chars = (loc: 'ja' | 'en') =>
+    (((g[loc] as { chart?: { groups?: ChartGroup[] } })?.chart?.groups ?? []) as ChartGroup[])
+      .map((grp) => (grp.cells ?? []).map((c) => c.char).join(' '))
+      .join(' | ')
+  if (chars('ja') !== chars('en')) ng(`${c.id}: ja と en で chart に並べている文字が違う`)
 
   // 日本語版に発音記号(IPA)を書いていないか。読者は読めない
   const jaText = JSON.stringify(g.ja ?? {})

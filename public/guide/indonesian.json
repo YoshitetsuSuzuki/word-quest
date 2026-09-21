@@ -7,6 +7,47 @@
    "body": "英語と同じアルファベット26文字だけで、新しく覚える文字はありません。しかも綴りと音がほとんど一対一で対応していて、ローマ字の感覚で読めば通じます。初めて見る単語でも、その場で声に出せます。マレーシアのマレー語とはよく似ていて、基本的な会話ならそのまま通じる場面も多くあります。",
    "sample": { "text": "bahasa Indonesia", "reading": "バハサ インドネシア", "meaning": "インドネシア語" }
   },
+  "chart": {
+   "title": "新しく覚える文字はゼロ。違うのは読み方だけです",
+   "note": "文字は英語と同じアルファベット26字で、ä や ñ のような記号も一切付きません。ですから覚えることは、下に並べた読み方の違いだけです。",
+   "groups": [
+    {
+     "label": "母音 5",
+     "cols": 5,
+     "cells": [
+      { "char": "a", "reading": "ア", "hint": "apa＝アパ（何）" },
+      { "char": "e", "reading": "エ／ウ（曖昧な音）", "hint": "meja＝メジャ ／ empat＝ウンパット" },
+      { "char": "i", "reading": "イ", "hint": "ini＝イニ（これ）" },
+      { "char": "o", "reading": "オ", "hint": "kota＝コタ（町）" },
+      { "char": "u", "reading": "ウ", "hint": "buku＝ブク（本）" }
+     ]
+    },
+    {
+     "label": "読み方が違う字 8",
+     "cols": 5,
+     "cells": [
+      { "char": "c", "reading": "チャ行（カでもサでもない）", "hint": "cinta＝チンタ（愛）" },
+      { "char": "ng", "reading": "2字で1つの音。鼻に抜けて g は立てない", "hint": "orang＝オラン（人）" },
+      { "char": "ny", "reading": "2字で1つの音。ニャ行", "hint": "nyanyi＝ニャニ（歌う）" },
+      { "char": "sy", "reading": "2字で1つの音。シャ行", "hint": "syukur＝シュクル（感謝）" },
+      { "char": "kh", "reading": "2字で1つの音。喉から出す「ハ」", "hint": "khusus＝フスス（特別な）" },
+      { "char": "h", "reading": "語末でも軽く息を出す", "hint": "rumah＝ルマ（家）／最後に軽く息が残る" },
+      { "char": "r", "reading": "軽く巻く。母音の後でも必ず読む", "hint": "besar＝ブサル（大きい）" },
+      { "char": "-k", "reading": "語末は飲み込む（小さい「っ」）", "hint": "tidak＝ティダッ（いいえ）" }
+     ]
+    },
+    {
+     "label": "読んでみる 4語",
+     "cols": 2,
+     "cells": [
+      { "char": "terima kasih", "reading": "トゥリマ カシ（フ）", "hint": "ありがとう" },
+      { "char": "selamat pagi", "reading": "スラマット パギ", "hint": "おはようございます" },
+      { "char": "belajar", "reading": "ブラジャル", "hint": "学ぶ" },
+      { "char": "tidak", "reading": "ティダッ", "hint": "いいえ／〜ない" }
+     ]
+    }
+   ]
+  },
   "sounds": [
    {
     "title": "c は「チャ行」で読みます",
@@ -33,7 +74,7 @@
   "greetings": [
    { "text": "Selamat pagi", "reading": "スラマット パギ", "meaning": "おはようございます" },
    { "text": "Apa kabar?", "reading": "アパ カバル", "meaning": "お元気ですか" },
-   { "text": "Terima kasih", "reading": "トゥリマ カシ", "meaning": "ありがとう" },
+   { "text": "Terima kasih", "reading": "トゥリマ カシ（フ）", "meaning": "ありがとう" },
    { "text": "Maaf", "reading": "マアフ", "meaning": "ごめんなさい／すみません" },
    { "text": "Ya / Tidak", "reading": "ヤ / ティダッ", "meaning": "はい / いいえ" }
   ],
@@ -49,6 +90,47 @@
    "title": "The same 26 letters, spelled the way it sounds",
    "body": "Indonesian uses the Latin alphabet — all 26 letters, nothing new to learn. Spelling maps onto sound almost one-to-one, so you can read a word aloud the first time you meet it. It is also very close to Malaysian Malay: the two are largely mutually intelligible, so what you learn here travels.",
    "sample": { "text": "bahasa Indonesia", "reading": "ba-ha-sa in-do-ne-sia", "meaning": "the Indonesian language" }
+  },
+  "chart": {
+   "title": "Nothing new to learn but a short list of readings",
+   "note": "The alphabet is the same 26 letters you already read, with no accents or extra marks anywhere. All that is new is what follows.",
+   "groups": [
+    {
+     "label": "The five vowels — 5",
+     "cols": 5,
+     "cells": [
+      { "char": "a", "reading": "ah, as in father", "hint": "apa = a-pa (what)" },
+      { "char": "e", "reading": "e of bed, or uh of about", "hint": "meja = me-ja / empat = uhm-pat" },
+      { "char": "i", "reading": "ee, as in see", "hint": "ini = ee-nee (this)" },
+      { "char": "o", "reading": "o, as in more", "hint": "kota = ko-ta (town)" },
+      { "char": "u", "reading": "oo, as in food", "hint": "buku = boo-koo (book)" }
+     ]
+    },
+    {
+     "label": "Letters that sound different — 8",
+     "cols": 5,
+     "cells": [
+      { "char": "c", "reading": "always ch of chair, never k or s", "hint": "cinta = chin-ta (love)" },
+      { "char": "ng", "reading": "two letters, one sound: ng of sing", "hint": "orang = o-rang (person)" },
+      { "char": "ny", "reading": "two letters, one sound: ny of canyon", "hint": "nyanyi = nya-nyee (to sing)" },
+      { "char": "sy", "reading": "two letters, one sound: sh of shop", "hint": "syukur = shoo-koor (gratitude)" },
+      { "char": "kh", "reading": "two letters, one sound: a throaty h", "hint": "khusus = khoo-soos (special)" },
+      { "char": "h", "reading": "always breathed, even at the end", "hint": "rumah = roo-mah (house)" },
+      { "char": "r", "reading": "lightly tapped, never dropped", "hint": "besar = buh-sar (big)" },
+      { "char": "-k", "reading": "a final k is swallowed, not released", "hint": "tidak = tee-da(k) (no)" }
+     ]
+    },
+    {
+     "label": "Four words to try",
+     "cols": 2,
+     "cells": [
+      { "char": "terima kasih", "reading": "tuh-ree-ma ka-sih", "hint": "thank you" },
+      { "char": "selamat pagi", "reading": "suh-la-mat pa-gi", "hint": "good morning" },
+      { "char": "belajar", "reading": "buh-la-jar", "hint": "to study" },
+      { "char": "tidak", "reading": "tee-da(k)", "hint": "no / not" }
+     ]
+    }
+   ]
   },
   "sounds": [
    {

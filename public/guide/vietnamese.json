@@ -7,6 +7,58 @@
    "body": "アルファベットは29文字。f・j・w・z は使わず、かわりに ă・â・ê・ô・ơ・ư・đ が加わります。母音につく記号は2種類あります。ă や ơ のように母音の種類を決めるものと、à á ả ã ạ のように声調（音の上げ下げ）を表すものです。この2つを分けて見ると、急に読めるようになります。",
    "sample": { "text": "phở", "reading": "フォー", "meaning": "フォー（米の麺料理）。ơ が母音、その上の記号が声調" }
   },
+  "chart": {
+   "title": "覚える字は、これで全部",
+   "note": "残りの字はほぼローマ字読みで通じます。f・j・w・z は使いません。",
+   "groups": [
+    {
+     "label": "母音字 12",
+     "cols": 6,
+     "cells": [
+      { "char": "a", "reading": "ア" },
+      { "char": "ă", "reading": "ア（短く）" },
+      { "char": "â", "reading": "「ア」と「オ」の中間を短く" },
+      { "char": "e", "reading": "エ（口を広く）" },
+      { "char": "ê", "reading": "エ" },
+      { "char": "i", "reading": "イ" },
+      { "char": "o", "reading": "オ（口を広く）" },
+      { "char": "ô", "reading": "オ" },
+      { "char": "ơ", "reading": "「ア」と「オ」の中間" },
+      { "char": "u", "reading": "ウ（唇を丸く）" },
+      { "char": "ư", "reading": "ウ（唇を横に）" },
+      { "char": "y", "reading": "イ（i と同じ音）" }
+     ]
+    },
+    {
+     "label": "声調 6",
+     "cols": 6,
+     "cells": [
+      { "char": "a", "reading": "平ら", "hint": "ngang（記号なし）" },
+      { "char": "à", "reading": "低く下げる", "hint": "huyền" },
+      { "char": "á", "reading": "上げる", "hint": "sắc" },
+      { "char": "ả", "reading": "下げてから上げる", "hint": "hỏi" },
+      { "char": "ã", "reading": "高く上げながら喉を詰める", "hint": "ngã" },
+      { "char": "ạ", "reading": "短く詰める", "hint": "nặng" }
+     ]
+    },
+    {
+     "label": "読み方が違う字 10",
+     "cols": 5,
+     "cells": [
+      { "char": "đ", "reading": "ダ行", "hint": "横棒つき。d とは別の字" },
+      { "char": "d", "reading": "ザ行（北部）", "hint": "横棒なし。đ とは別の字" },
+      { "char": "gi", "reading": "ザ行（北部）", "hint": "d と同じ音になります" },
+      { "char": "r", "reading": "ザ行（北部）", "hint": "南部では英語の r に近い音" },
+      { "char": "x", "reading": "サ行", "hint": "Xin chào の x" },
+      { "char": "ph", "reading": "ファ行", "hint": "f の字がない代わり。phở の ph" },
+      { "char": "kh", "reading": "ク（喉から息を強く）", "hint": "ハ行に近く聞こえます" },
+      { "char": "th", "reading": "タ行（息を強く）", "hint": "t は息を出さないタ行" },
+      { "char": "ng", "reading": "ンガ", "hint": "語頭にも立ちます（Nguyễn）" },
+      { "char": "nh", "reading": "ニャ行", "hint": "語末では「ン」に近い音" }
+     ]
+    }
+   ]
+  },
   "sounds": [
    {
     "title": "同じ文字の並びでも、音の高さで別の語になります",
@@ -49,6 +101,58 @@
    "title": "Latin letters, carrying two different kinds of mark",
    "body": "The alphabet has 29 letters. There is no f, j, w or z; instead you get ă, â, ê, ô, ơ, ư and đ. Two kinds of mark sit on the vowels, and they do different jobs. The breve on ă, the hat on ê and the horn on ơ tell you which vowel it is. The marks à á ả ã ạ tell you the tone. Separate the two and the page starts to make sense.",
    "sample": { "text": "phở", "reading": "fuh", "meaning": "the noodle soup — ơ is the vowel, the hook above it is the tone" }
+  },
+  "chart": {
+   "title": "The letters you actually have to learn",
+   "note": "The rest read much as they do in English. There is no f, j, w or z.",
+   "groups": [
+    {
+     "label": "12 vowel letters",
+     "cols": 6,
+     "cells": [
+      { "char": "a", "reading": "ah as in father" },
+      { "char": "ă", "reading": "the same a, cut short" },
+      { "char": "â", "reading": "uh as in bird, cut short" },
+      { "char": "e", "reading": "e as in bed" },
+      { "char": "ê", "reading": "ay as in say" },
+      { "char": "i", "reading": "ee as in see" },
+      { "char": "o", "reading": "aw as in law" },
+      { "char": "ô", "reading": "oh as in go" },
+      { "char": "ơ", "reading": "uh as in bird, without the r" },
+      { "char": "u", "reading": "oo as in boot" },
+      { "char": "ư", "reading": "oo with the lips spread wide" },
+      { "char": "y", "reading": "ee — the same sound as i" }
+     ]
+    },
+    {
+     "label": "6 tones",
+     "cols": 6,
+     "cells": [
+      { "char": "a", "reading": "level", "hint": "ngang (no mark)" },
+      { "char": "à", "reading": "low falling", "hint": "huyền" },
+      { "char": "á", "reading": "rising", "hint": "sắc" },
+      { "char": "ả", "reading": "dipping, then rising", "hint": "hỏi" },
+      { "char": "ã", "reading": "rising with a catch in the voice", "hint": "ngã" },
+      { "char": "ạ", "reading": "short and cut off", "hint": "nặng" }
+     ]
+    },
+    {
+     "label": "10 letters that read differently",
+     "cols": 5,
+     "cells": [
+      { "char": "đ", "reading": "d as in do", "hint": "with the bar — its own letter, not d" },
+      { "char": "d", "reading": "z in the north", "hint": "no bar — its own letter, not đ" },
+      { "char": "gi", "reading": "z in the north", "hint": "the same sound as plain d" },
+      { "char": "r", "reading": "z in the north", "hint": "closer to English r in the south" },
+      { "char": "x", "reading": "s as in see", "hint": "the x of Xin chào" },
+      { "char": "ph", "reading": "f as in fun", "hint": "there is no letter f — the ph of phở" },
+      { "char": "kh", "reading": "a rasping k", "hint": "like the ch in Scottish loch" },
+      { "char": "th", "reading": "t with a puff of air", "hint": "plain t has no puff" },
+      { "char": "ng", "reading": "ng as in singer", "hint": "can start a word, as in Nguyễn" },
+      { "char": "nh", "reading": "ny as in canyon", "hint": "close to n at the end of a word" }
+     ]
+    }
+   ]
   },
   "sounds": [
    {

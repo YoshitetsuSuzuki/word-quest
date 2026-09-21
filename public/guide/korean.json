@@ -8,6 +8,76 @@
    "build": { "parts": "ㅎ + ㅏ + ㄴ", "result": "한", "reading": "ハン" },
    "sample": { "text": "한국", "reading": "ハングク", "meaning": "韓国" }
   },
+  "chart": {
+   "title": "ハングルの部品は、この40個で全部",
+   "note": "基本24個（子音14＋母音10）に、濃音5と合成母音11を足した40個。これだけでハングルはすべて書けます。",
+   "groups": [
+    {
+     "label": "子音 14",
+     "cols": 7,
+     "cells": [
+      { "char": "ㄱ", "reading": "ク／グ" },
+      { "char": "ㄴ", "reading": "ヌ（ナ行）" },
+      { "char": "ㄷ", "reading": "ト／ド" },
+      { "char": "ㄹ", "reading": "ル（ラ行）" },
+      { "char": "ㅁ", "reading": "ム（マ行）" },
+      { "char": "ㅂ", "reading": "プ／ブ" },
+      { "char": "ㅅ", "reading": "ス（サ行）" },
+      { "char": "ㅇ", "reading": "初声では音なし" },
+      { "char": "ㅈ", "reading": "チ／ジ" },
+      { "char": "ㅊ", "reading": "チ（息を強く）" },
+      { "char": "ㅋ", "reading": "ク（息を強く）" },
+      { "char": "ㅌ", "reading": "ト（息を強く）" },
+      { "char": "ㅍ", "reading": "プ（息を強く）" },
+      { "char": "ㅎ", "reading": "フ（ハ行）" }
+     ]
+    },
+    {
+     "label": "母音 10",
+     "cols": 5,
+     "cells": [
+      { "char": "ㅏ", "reading": "ア" },
+      { "char": "ㅑ", "reading": "ヤ" },
+      { "char": "ㅓ", "reading": "オ（口を広く）" },
+      { "char": "ㅕ", "reading": "ヨ（口を広く）" },
+      { "char": "ㅗ", "reading": "オ（唇を丸く）" },
+      { "char": "ㅛ", "reading": "ヨ（唇を丸く）" },
+      { "char": "ㅜ", "reading": "ウ（唇を丸く）" },
+      { "char": "ㅠ", "reading": "ユ（唇を丸く）" },
+      { "char": "ㅡ", "reading": "ウ（唇を横に）" },
+      { "char": "ㅣ", "reading": "イ" }
+     ]
+    },
+    {
+     "label": "濃音 5",
+     "cols": 5,
+     "cells": [
+      { "char": "ㄲ", "reading": "ッカ" },
+      { "char": "ㄸ", "reading": "ッタ" },
+      { "char": "ㅃ", "reading": "ッパ" },
+      { "char": "ㅆ", "reading": "ッサ" },
+      { "char": "ㅉ", "reading": "ッチャ" }
+     ]
+    },
+    {
+     "label": "合成母音 11",
+     "cols": 6,
+     "cells": [
+      { "char": "ㅐ", "reading": "エ（ㅏ＋ㅣ）" },
+      { "char": "ㅒ", "reading": "イェ（ㅑ＋ㅣ）" },
+      { "char": "ㅔ", "reading": "エ（ㅓ＋ㅣ）" },
+      { "char": "ㅖ", "reading": "イェ（ㅕ＋ㅣ）" },
+      { "char": "ㅘ", "reading": "ワ（ㅗ＋ㅏ）" },
+      { "char": "ㅙ", "reading": "ウェ（ㅗ＋ㅐ）" },
+      { "char": "ㅚ", "reading": "ウェ（ㅗ＋ㅣ）" },
+      { "char": "ㅝ", "reading": "ウォ（ㅜ＋ㅓ）" },
+      { "char": "ㅞ", "reading": "ウェ（ㅜ＋ㅔ）" },
+      { "char": "ㅟ", "reading": "ウィ（ㅜ＋ㅣ）" },
+      { "char": "ㅢ", "reading": "ウイ（ㅡ＋ㅣ）" }
+     ]
+    }
+   ]
+  },
   "sounds": [
    {
     "title": "同じ文字でも、語頭と語中で濁ります",
@@ -51,6 +121,76 @@
    "body": "It looks like unfamiliar shapes, but there are only 24 basic parts (14 consonants, 10 vowels). You stack them left-to-right or top-to-bottom inside one square block. Learn the parts and you can read words you have never seen.",
    "build": { "parts": "ㅎ + ㅏ + ㄴ", "result": "한", "reading": "han" },
    "sample": { "text": "한국", "reading": "han-guk", "meaning": "Korea" }
+  },
+  "chart": {
+   "title": "All 40 Hangul letters there are",
+   "note": "The 24 basic letters (14 consonants + 10 vowels), plus 5 tense consonants and 11 compound vowels — 40 in all. That is everything you need to write Hangul.",
+   "groups": [
+    {
+     "label": "14 consonants",
+     "cols": 7,
+     "cells": [
+      { "char": "ㄱ", "reading": "k / g" },
+      { "char": "ㄴ", "reading": "n" },
+      { "char": "ㄷ", "reading": "t / d" },
+      { "char": "ㄹ", "reading": "r / l" },
+      { "char": "ㅁ", "reading": "m" },
+      { "char": "ㅂ", "reading": "p / b" },
+      { "char": "ㅅ", "reading": "s" },
+      { "char": "ㅇ", "reading": "silent as a first letter" },
+      { "char": "ㅈ", "reading": "ch / j" },
+      { "char": "ㅊ", "reading": "ch (breathy)" },
+      { "char": "ㅋ", "reading": "k (breathy)" },
+      { "char": "ㅌ", "reading": "t (breathy)" },
+      { "char": "ㅍ", "reading": "p (breathy)" },
+      { "char": "ㅎ", "reading": "h" }
+     ]
+    },
+    {
+     "label": "10 vowels",
+     "cols": 5,
+     "cells": [
+      { "char": "ㅏ", "reading": "a as in father" },
+      { "char": "ㅑ", "reading": "ya" },
+      { "char": "ㅓ", "reading": "eo, as in saw" },
+      { "char": "ㅕ", "reading": "yeo" },
+      { "char": "ㅗ", "reading": "o, rounded" },
+      { "char": "ㅛ", "reading": "yo" },
+      { "char": "ㅜ", "reading": "u as in food" },
+      { "char": "ㅠ", "reading": "yu" },
+      { "char": "ㅡ", "reading": "eu, lips spread" },
+      { "char": "ㅣ", "reading": "i as in see" }
+     ]
+    },
+    {
+     "label": "5 tense consonants",
+     "cols": 5,
+     "cells": [
+      { "char": "ㄲ", "reading": "kk" },
+      { "char": "ㄸ", "reading": "tt" },
+      { "char": "ㅃ", "reading": "pp" },
+      { "char": "ㅆ", "reading": "ss" },
+      { "char": "ㅉ", "reading": "jj" }
+     ]
+    },
+    {
+     "label": "11 compound vowels",
+     "cols": 6,
+     "cells": [
+      { "char": "ㅐ", "reading": "ae, like e in bed (ㅏ+ㅣ)" },
+      { "char": "ㅒ", "reading": "yae (ㅑ+ㅣ)" },
+      { "char": "ㅔ", "reading": "e, like e in bed (ㅓ+ㅣ)" },
+      { "char": "ㅖ", "reading": "ye (ㅕ+ㅣ)" },
+      { "char": "ㅘ", "reading": "wa (ㅗ+ㅏ)" },
+      { "char": "ㅙ", "reading": "wae (ㅗ+ㅐ)" },
+      { "char": "ㅚ", "reading": "oe, said like we (ㅗ+ㅣ)" },
+      { "char": "ㅝ", "reading": "wo (ㅜ+ㅓ)" },
+      { "char": "ㅞ", "reading": "we (ㅜ+ㅔ)" },
+      { "char": "ㅟ", "reading": "wi (ㅜ+ㅣ)" },
+      { "char": "ㅢ", "reading": "ui, eu then i (ㅡ+ㅣ)" }
+     ]
+    }
+   ]
   },
   "sounds": [
    {

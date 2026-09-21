@@ -8,6 +8,74 @@
    "build": { "parts": "ক + ি", "result": "কি", "reading": "キ" },
    "sample": { "text": "বাংলা", "reading": "バングラ", "meaning": "ベンガル語" }
   },
+  "chart": {
+   "title": "これで全部 — 母音字11・子音字39",
+   "note": "子音字は単独では「子音＋オ」と読みます。শ・ষ・স はどれも「ショ」で、স だけ ত・ন などと組んだときに「ソ」になります。",
+   "groups": [
+    {
+     "label": "母音字 11",
+     "cols": 6,
+     "cells": [
+      { "char": "অ", "reading": "オ（口を広く）" },
+      { "char": "আ", "reading": "ア（অ より口を大きく開く）" },
+      { "char": "ই", "reading": "イ" },
+      { "char": "ঈ", "reading": "イ（ই と同じ音）" },
+      { "char": "উ", "reading": "ウ" },
+      { "char": "ঊ", "reading": "ウ（উ と同じ音）" },
+      { "char": "ঋ", "reading": "リ" },
+      { "char": "এ", "reading": "エ" },
+      { "char": "ঐ", "reading": "オイ" },
+      { "char": "ও", "reading": "オ（唇を丸く）" },
+      { "char": "ঔ", "reading": "オウ" }
+     ]
+    },
+    {
+     "label": "子音字 39",
+     "cols": 6,
+     "cells": [
+      { "char": "ক", "reading": "コ" },
+      { "char": "খ", "reading": "コ（息を強く）" },
+      { "char": "গ", "reading": "ゴ" },
+      { "char": "ঘ", "reading": "ゴ（息を強く）" },
+      { "char": "ঙ", "reading": "ンゴ（鼻に抜ける）" },
+      { "char": "চ", "reading": "チョ" },
+      { "char": "ছ", "reading": "チョ（息を強く）" },
+      { "char": "জ", "reading": "ジョ" },
+      { "char": "ঝ", "reading": "ジョ（息を強く）" },
+      { "char": "ঞ", "reading": "ニョ" },
+      { "char": "ট", "reading": "ト（そり舌）" },
+      { "char": "ঠ", "reading": "ト（そり舌・息を強く）" },
+      { "char": "ড", "reading": "ド（そり舌）" },
+      { "char": "ঢ", "reading": "ド（そり舌・息を強く）" },
+      { "char": "ণ", "reading": "ノ（そり舌の字）" },
+      { "char": "ত", "reading": "ト" },
+      { "char": "থ", "reading": "ト（息を強く）" },
+      { "char": "দ", "reading": "ド" },
+      { "char": "ধ", "reading": "ド（息を強く）" },
+      { "char": "ন", "reading": "ノ" },
+      { "char": "প", "reading": "ポ" },
+      { "char": "ফ", "reading": "ポ（息を強く）" },
+      { "char": "ব", "reading": "ボ" },
+      { "char": "ভ", "reading": "ボ（息を強く）" },
+      { "char": "ম", "reading": "モ" },
+      { "char": "য", "reading": "ジョ" },
+      { "char": "র", "reading": "ロ（舌を弾く）" },
+      { "char": "ল", "reading": "ロ（舌を付ける）" },
+      { "char": "শ", "reading": "ショ" },
+      { "char": "ষ", "reading": "ショ" },
+      { "char": "স", "reading": "ショ" },
+      { "char": "হ", "reading": "ホ" },
+      { "char": "ড়", "reading": "ロ（そり舌で弾く）" },
+      { "char": "ঢ়", "reading": "ロ（そり舌で弾く・息を強く）" },
+      { "char": "য়", "reading": "ヨ" },
+      { "char": "ৎ", "reading": "ト（母音を伴わない）" },
+      { "char": "ং", "reading": "ン（鼻に抜ける）" },
+      { "char": "ঃ", "reading": "ッ（次の子音を重ねる：দুঃখিত = ドゥッキト）" },
+      { "char": "ঁ", "reading": "鼻にかける印" }
+     ]
+    }
+   ]
+  },
   "sounds": [
    {
     "title": "子音字は「オ」を内蔵しています",
@@ -51,6 +119,74 @@
    "body": "Every consonant letter already carries a vowel: ক on its own is roughly \"ko\". You add a mark only when you want a different vowel. The basic set is 11 vowel letters and 39 consonants. The line running along the top is part of the letters, and vowel marks can sit to the right, left, above or below — the \"i\" mark goes to the left of its consonant.",
    "build": { "parts": "ক + ি", "result": "কি", "reading": "ki" },
    "sample": { "text": "বাংলা", "reading": "bangla", "meaning": "the Bengali language" }
+  },
+  "chart": {
+   "title": "That is the whole set: 11 vowels, 39 consonants",
+   "note": "A consonant on its own is read with a built-in o. শ, ষ and স all sound \"sho\"; স turns into a true s only in clusters with ত, ন and the like.",
+   "groups": [
+    {
+     "label": "Vowel letters 11",
+     "cols": 6,
+     "cells": [
+      { "char": "অ", "reading": "o (open, as in off)" },
+      { "char": "আ", "reading": "a (mouth opens wider than অ)" },
+      { "char": "ই", "reading": "i" },
+      { "char": "ঈ", "reading": "i (same sound as ই)" },
+      { "char": "উ", "reading": "u" },
+      { "char": "ঊ", "reading": "u (same sound as উ)" },
+      { "char": "ঋ", "reading": "ri" },
+      { "char": "এ", "reading": "e" },
+      { "char": "ঐ", "reading": "oi" },
+      { "char": "ও", "reading": "o (rounded)" },
+      { "char": "ঔ", "reading": "ou" }
+     ]
+    },
+    {
+     "label": "Consonant letters 39",
+     "cols": 6,
+     "cells": [
+      { "char": "ক", "reading": "ko" },
+      { "char": "খ", "reading": "kho (with a puff of breath)" },
+      { "char": "গ", "reading": "go" },
+      { "char": "ঘ", "reading": "gho (with a puff of breath)" },
+      { "char": "ঙ", "reading": "ngo (nasal)" },
+      { "char": "চ", "reading": "cho" },
+      { "char": "ছ", "reading": "chho (with a puff of breath)" },
+      { "char": "জ", "reading": "jo" },
+      { "char": "ঝ", "reading": "jho (with a puff of breath)" },
+      { "char": "ঞ", "reading": "nyo" },
+      { "char": "ট", "reading": "to (retroflex)" },
+      { "char": "ঠ", "reading": "tho (retroflex, breathy)" },
+      { "char": "ড", "reading": "do (retroflex)" },
+      { "char": "ঢ", "reading": "dho (retroflex, breathy)" },
+      { "char": "ণ", "reading": "no (retroflex letter)" },
+      { "char": "ত", "reading": "to" },
+      { "char": "থ", "reading": "tho (with a puff of breath)" },
+      { "char": "দ", "reading": "do" },
+      { "char": "ধ", "reading": "dho (with a puff of breath)" },
+      { "char": "ন", "reading": "no" },
+      { "char": "প", "reading": "po" },
+      { "char": "ফ", "reading": "pho (with a puff of breath)" },
+      { "char": "ব", "reading": "bo" },
+      { "char": "ভ", "reading": "bho (with a puff of breath)" },
+      { "char": "ম", "reading": "mo" },
+      { "char": "য", "reading": "jo" },
+      { "char": "র", "reading": "ro (tapped)" },
+      { "char": "ল", "reading": "lo" },
+      { "char": "শ", "reading": "sho" },
+      { "char": "ষ", "reading": "sho" },
+      { "char": "স", "reading": "sho" },
+      { "char": "হ", "reading": "ho" },
+      { "char": "ড়", "reading": "ro (retroflex flap)" },
+      { "char": "ঢ়", "reading": "rho (retroflex flap, breathy)" },
+      { "char": "য়", "reading": "yo" },
+      { "char": "ৎ", "reading": "t (no vowel)" },
+      { "char": "ং", "reading": "ng (nasal)" },
+      { "char": "ঃ", "reading": "doubles the next consonant (দুঃখিত = dukkhito)" },
+      { "char": "ঁ", "reading": "nasal mark" }
+     ]
+    }
+   ]
   },
   "sounds": [
    {

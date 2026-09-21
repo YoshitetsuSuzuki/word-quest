@@ -8,6 +8,52 @@
    "build": { "parts": "氵 + 青", "result": "清", "reading": "チン" },
    "sample": { "text": "汉语", "reading": "ハンユー", "meaning": "中国語（「漢語」の簡体字）" }
   },
+  "chart": {
+   "title": "覚えるのは漢字ではなく、拼音の読み方です",
+   "note": "漢字は数が多すぎて、全部を並べることはできません。かわりに拼音の読み方さえ入れておけば、辞書で引いたどの単語もその場で音にできます。",
+   "groups": [
+    {
+     "label": "声調 4つ",
+     "cols": 4,
+     "cells": [
+      { "char": "mā", "reading": "マー（高いまま平ら）", "hint": "妈＝お母さん" },
+      { "char": "má", "reading": "マー（ぐっと上がる）", "hint": "麻＝麻" },
+      { "char": "mǎ", "reading": "マー（低く沈んでから上がる）", "hint": "马＝馬" },
+      { "char": "mà", "reading": "マー（一気に下げる）", "hint": "骂＝ののしる" }
+     ]
+    },
+    {
+     "label": "ローマ字のつもりで読むと外す字 12",
+     "cols": 5,
+     "cells": [
+      { "char": "q", "reading": "チ", "hint": "七 qī" },
+      { "char": "x", "reading": "シ", "hint": "谢 xiè" },
+      { "char": "j", "reading": "ジ（軽いチに近い）", "hint": "几 jǐ" },
+      { "char": "zh", "reading": "ヂ（舌を反らす）", "hint": "中 zhōng" },
+      { "char": "ch", "reading": "チ（舌を反らす）", "hint": "茶 chá" },
+      { "char": "sh", "reading": "シ（舌を反らす）", "hint": "十 shí" },
+      { "char": "r", "reading": "リ（舌を反らす）", "hint": "日 rì" },
+      { "char": "z", "reading": "ヅ", "hint": "字 zì" },
+      { "char": "c", "reading": "ツ（息を強く出す）", "hint": "菜 cài" },
+      { "char": "ü", "reading": "ウの口でイ", "hint": "女 nǚ" },
+      { "char": "e", "reading": "エではなくウに近い", "hint": "喝 hē" },
+      { "char": "ui", "reading": "ウイではなくウェイ", "hint": "对 duì" }
+     ]
+    },
+    {
+     "label": "読んでみる 6語",
+     "cols": 2,
+     "cells": [
+      { "char": "你好", "reading": "Nǐ hǎo ／ ニーハオ", "hint": "こんにちは" },
+      { "char": "谢谢", "reading": "Xièxie ／ シエシエ", "hint": "ありがとう" },
+      { "char": "中国", "reading": "Zhōngguó ／ ジョングオ", "hint": "中国" },
+      { "char": "老师", "reading": "Lǎoshī ／ ラオシー", "hint": "先生" },
+      { "char": "喝茶", "reading": "Hē chá ／ ホーチャー", "hint": "お茶を飲む" },
+      { "char": "学生", "reading": "Xuésheng ／ シュエション", "hint": "学生" }
+     ]
+    }
+   ]
+  },
   "sounds": [
    {
     "title": "同じつづりでも、高さの動きで別の単語になります",
@@ -34,8 +80,8 @@
   "greetings": [
    { "text": "你好", "reading": "ニーハオ", "meaning": "こんにちは" },
    { "text": "谢谢", "reading": "シエシエ", "meaning": "ありがとう" },
-   { "text": "对不起", "reading": "ドゥイブチー", "meaning": "ごめんなさい" },
-   { "text": "对", "reading": "ドゥイ", "meaning": "はい、そのとおりです" },
+   { "text": "对不起", "reading": "ドゥエイブチー", "meaning": "ごめんなさい" },
+   { "text": "对", "reading": "ドゥエイ", "meaning": "はい、そのとおりです" },
    { "text": "再见", "reading": "ツァイチエン", "meaning": "さようなら" }
   ],
   "pitfall": {
@@ -51,6 +97,52 @@
    "body": "Chinese is written entirely in characters, with no alphabet mixed in. The mainland uses simplified forms, cut down to fewer strokes. Characters are not random shapes: most are built from two parts, one hinting at the meaning and the other at the sound.",
    "build": { "parts": "氵 + 青", "result": "清", "reading": "qīng" },
    "sample": { "text": "汉语", "reading": "Hànyǔ", "meaning": "the Chinese language" }
+  },
+  "chart": {
+   "title": "What you learn is pinyin, not every character",
+   "note": "There are far too many characters to list here. Learn how pinyin is read instead, and you can say aloud any word you look up.",
+   "groups": [
+    {
+     "label": "The four tones",
+     "cols": 4,
+     "cells": [
+      { "char": "mā", "reading": "high and flat", "hint": "妈 mother" },
+      { "char": "má", "reading": "rising", "hint": "麻 hemp" },
+      { "char": "mǎ", "reading": "dipping down, then up", "hint": "马 horse" },
+      { "char": "mà", "reading": "sharply falling", "hint": "骂 to scold" }
+     ]
+    },
+    {
+     "label": "12 spellings that are not English",
+     "cols": 5,
+     "cells": [
+      { "char": "q", "reading": "ch in cheese", "hint": "七 qī" },
+      { "char": "x", "reading": "a light sh", "hint": "谢 xiè" },
+      { "char": "j", "reading": "j in jeep, lighter", "hint": "几 jǐ" },
+      { "char": "zh", "reading": "j with the tongue curled back", "hint": "中 zhōng" },
+      { "char": "ch", "reading": "ch with the tongue curled back", "hint": "茶 chá" },
+      { "char": "sh", "reading": "sh with the tongue curled back", "hint": "十 shí" },
+      { "char": "r", "reading": "between r and the s in measure", "hint": "日 rì" },
+      { "char": "z", "reading": "ds in kids", "hint": "字 zì" },
+      { "char": "c", "reading": "ts in cats", "hint": "菜 cài" },
+      { "char": "ü", "reading": "ee with rounded lips", "hint": "女 nǚ" },
+      { "char": "e", "reading": "uh, not eh", "hint": "喝 hē" },
+      { "char": "ui", "reading": "way, not oo-ee", "hint": "对 duì" }
+     ]
+    },
+    {
+     "label": "Six words to try",
+     "cols": 2,
+     "cells": [
+      { "char": "你好", "reading": "Nǐ hǎo (nee-how)", "hint": "hello" },
+      { "char": "谢谢", "reading": "Xièxie (shyeh-shyeh)", "hint": "thank you" },
+      { "char": "中国", "reading": "Zhōngguó (jong-gwaw)", "hint": "China" },
+      { "char": "老师", "reading": "Lǎoshī (lao-shr)", "hint": "teacher" },
+      { "char": "喝茶", "reading": "Hē chá (huh chah)", "hint": "to drink tea" },
+      { "char": "学生", "reading": "Xuésheng (shweh-shung)", "hint": "student" }
+     ]
+    }
+   ]
   },
   "sounds": [
    {

@@ -123,6 +123,7 @@ export interface Strings {
   'cat.esperanto': string
   'guide.title': string
   'guide.script': string
+  'guide.chart': string
   'guide.sounds': string
   'guide.order': string
   'guide.greetings': string

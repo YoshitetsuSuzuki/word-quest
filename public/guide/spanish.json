@@ -7,6 +7,40 @@
    "body": "使う文字は英語と同じラテン文字に ñ を加えた27文字です。しかも綴りと音がほぼ一対一で、同じ字はほとんどいつも同じ音。だから初めて見る単語でも、その場で読み上げられます。書き方で目を引くのは疑問文で、文の頭にも ¿ を置き、¿Cómo estás?（元気ですか）のように前後で挟みます。感嘆文も ¡ ! で同じように挟みます。",
    "sample": { "text": "español", "reading": "エスパニョール", "meaning": "スペイン語" }
   },
+  "chart": {
+   "title": "つまずく字は、この16だけ",
+   "note": "新しく覚える字は ñ ひとつだけ。あとは、見慣れた字の読み方の癖です。",
+   "groups": [
+    {
+     "label": "ローマ字と読み方が違う字 10",
+     "cols": 5,
+     "cells": [
+      { "char": "h", "reading": "無音（ch だけは「チャ行」）", "hint": "hola オラ（こんにちは）" },
+      { "char": "j", "reading": "ハ行（のどの奥をこする）", "hint": "jamón ハモン（ハム）" },
+      { "char": "v", "reading": "バ行（b と同じ音）", "hint": "nuevo ヌエボ（新しい）" },
+      { "char": "z", "reading": "サ行（ザ行ではない）", "hint": "zapato サパト（靴）" },
+      { "char": "c", "reading": "e・i の前はサ行／それ以外はカ行", "hint": "gracias グラシアス ／ casa カサ" },
+      { "char": "g", "reading": "e・i の前はハ行（のどの奥）／それ以外はガ行", "hint": "gente ヘンテ ／ gato ガト" },
+      { "char": "r", "reading": "ラ行（語頭と rr は巻き舌）", "hint": "rojo ロホ ／ perro ペロ" },
+      { "char": "ll", "reading": "ヤ行（ルではない）", "hint": "me llamo メ ヤモ" },
+      { "char": "ñ", "reading": "ニャ行", "hint": "mañana マニャーナ（明日）" },
+      { "char": "y", "reading": "ヤ行（1字だけなら「イ」）", "hint": "yo ヨ（私） ／ y イ（そして）" }
+     ]
+    },
+    {
+     "label": "q・g のあとの u 6",
+     "cols": 4,
+     "cells": [
+      { "char": "que", "reading": "ケ（u は読まない）", "hint": "qué ケ（何）" },
+      { "char": "qui", "reading": "キ（u は読まない）", "hint": "aquí アキ（ここ）" },
+      { "char": "gue", "reading": "ゲ（u は読まない）", "hint": "guerra ゲラ（戦争）" },
+      { "char": "gui", "reading": "ギ（u は読まない）", "hint": "guitarra ギタラ（ギター）" },
+      { "char": "güe", "reading": "グエ（ü のときだけ u を読む）", "hint": "bilingüe ビリングエ（二言語の）" },
+      { "char": "güi", "reading": "グイ（ü のときだけ u を読む）", "hint": "pingüino ピングイノ（ペンギン）" }
+     ]
+    }
+   ]
+  },
   "sounds": [
    {
     "title": "見た目と読み方がずれるのは、ほぼこの3文字",
@@ -49,6 +83,40 @@
    "title": "The same alphabet as English, plus ñ",
    "body": "Spanish uses the Latin alphabet with one extra letter, ñ, for 27 in all. Better still, spelling and sound line up almost perfectly: a letter has the same value almost every time, so an unfamiliar word is still pronounceable on sight. The one visual surprise is punctuation — a question opens with an upside-down mark, as in ¿Cómo estás? (How are you?), and exclamations are framed the same way with ¡ !",
    "sample": { "text": "español", "reading": "es-pa-NYOL", "meaning": "Spanish" }
+  },
+  "chart": {
+   "title": "Only 16 spellings to watch",
+   "note": "There is exactly one new letter to learn, ñ. Everything else is a familiar letter with a habit of its own.",
+   "groups": [
+    {
+     "label": "10 letters that are not read as written",
+     "cols": 5,
+     "cells": [
+      { "char": "h", "reading": "silent (only ch is different: ch as in church)", "hint": "hola — OH-la (hello)" },
+      { "char": "j", "reading": "raspy h from the back of the throat", "hint": "jamón — ha-MON (ham)" },
+      { "char": "v", "reading": "b — exactly like Spanish b", "hint": "nuevo — NWEH-bo (new)" },
+      { "char": "z", "reading": "s (never a buzzing z; th in Spain)", "hint": "zapato — sa-PA-to (shoe)" },
+      { "char": "c", "reading": "s before e or i, otherwise k", "hint": "gracias — GRA-syas / casa — KA-sa" },
+      { "char": "g", "reading": "raspy h before e or i, otherwise hard g", "hint": "gente — HEN-teh / gato — GA-to" },
+      { "char": "r", "reading": "tapped r; rolled at the start of a word and as rr", "hint": "rojo — RO-ho / perro — PEH-rro" },
+      { "char": "ll", "reading": "y as in yes, not an l sound", "hint": "me llamo — meh YA-mo" },
+      { "char": "ñ", "reading": "ny as in canyon", "hint": "mañana — ma-NYA-na (tomorrow)" },
+      { "char": "y", "reading": "y as in yes; on its own, ee", "hint": "yo — yoh (I) / y — ee (and)" }
+     ]
+    },
+    {
+     "label": "6 spellings with u after q or g",
+     "cols": 4,
+     "cells": [
+      { "char": "que", "reading": "keh — the u is silent", "hint": "qué — keh (what)" },
+      { "char": "qui", "reading": "kee — the u is silent", "hint": "aquí — a-KEE (here)" },
+      { "char": "gue", "reading": "geh (hard g) — the u is silent", "hint": "guerra — GEH-rra (war)" },
+      { "char": "gui", "reading": "gee (hard g) — the u is silent", "hint": "guitarra — gee-TA-rra (guitar)" },
+      { "char": "güe", "reading": "gweh — the two dots mean the u is pronounced", "hint": "bilingüe — bee-leen-GWEH (bilingual)" },
+      { "char": "güi", "reading": "gwee — the two dots mean the u is pronounced", "hint": "pingüino — peen-GWEE-no (penguin)" }
+     ]
+    }
+   ]
   },
   "sounds": [
    {

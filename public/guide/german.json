@@ -7,6 +7,42 @@
    "body": "英語と同じラテン文字26文字に、ä・ö・ü の3つと ß を加えた形です。いちばん目につく違いは、文の途中でも名詞がすべて大文字で始まること。逆に言えば、文の途中で大文字を見つければ、そこが名詞だと分かります（文頭の語と、「あなた」の敬称 Sie は例外です）。綴りと発音の対応も規則的で、ルールを覚えれば初めて見る単語も声に出せます。",
    "sample": { "text": "Straße", "reading": "シュトラーセ", "meaning": "通り（名詞なので大文字始まり。ß は「ス」の音）" }
   },
+  "chart": {
+   "title": "覚え直すのは、この18個だけ",
+   "note": "a〜z の読み方はほぼそのままです。英語に無い4つの字と、読みが英語とずれる14の綴りだけ押さえれば、あとは見たまま読めます。",
+   "groups": [
+    {
+     "label": "英語に無い字 4",
+     "cols": 4,
+     "cells": [
+      { "char": "ä", "reading": "エ", "hint": "Mädchen メートヒェン（女の子）" },
+      { "char": "ö", "reading": "オの口で「エ」", "hint": "schön シェーン（美しい）" },
+      { "char": "ü", "reading": "ウの口で「イ」", "hint": "Tschüss チュース（じゃあね）" },
+      { "char": "ß", "reading": "ス（濁らない）", "hint": "Straße シュトラーセ（通り）" }
+     ]
+    },
+    {
+     "label": "読み方が違う字・組み合わせ 14",
+     "cols": 5,
+     "cells": [
+      { "char": "w", "reading": "ヴ", "hint": "Wasser ヴァッサー（水）" },
+      { "char": "v", "reading": "フ", "hint": "Vater ファーター（父）" },
+      { "char": "z", "reading": "ツ", "hint": "Zeit ツァイト（時間）" },
+      { "char": "j", "reading": "ヤ行", "hint": "ja ヤー（はい）" },
+      { "char": "s", "reading": "ザ行（母音の前）", "hint": "Sonne ゾンネ（太陽）" },
+      { "char": "ei", "reading": "アイ（エイではない）", "hint": "Eis アイス（氷）" },
+      { "char": "ie", "reading": "イー（イエではない）", "hint": "Liebe リーベ（愛）" },
+      { "char": "eu", "reading": "オイ", "hint": "heute ホイテ（今日）" },
+      { "char": "äu", "reading": "オイ", "hint": "Bäume ボイメ（木々）" },
+      { "char": "ch", "reading": "ハ行（前の母音で2種）", "hint": "Buch ブーフ ／ ich イヒ" },
+      { "char": "sch", "reading": "シュ", "hint": "Schule シューレ（学校）" },
+      { "char": "st-", "reading": "シュト（語頭）", "hint": "Stadt シュタット（町）" },
+      { "char": "sp-", "reading": "シュプ（語頭）", "hint": "Sport シュポルト（スポーツ）" },
+      { "char": "-er", "reading": "ア（語末・弱く）", "hint": "Mutter ムッター（母）" }
+     ]
+    }
+   ]
+  },
   "sounds": [
    {
     "title": "ei は「アイ」、ie は「イー」",
@@ -49,6 +85,42 @@
    "title": "The same alphabet, plus four extra letters",
    "body": "German uses the 26 Latin letters you already know, plus ä, ö, ü and ß. The difference you notice immediately is that every noun is capitalised, even in the middle of a sentence — which is actually a useful clue, because a capital letter in the middle of a sentence marks a noun (the exceptions are the first word of a sentence and the polite Sie, \"you\"). Spelling is regular too, so you can pronounce words you have never seen.",
    "sample": { "text": "Straße", "reading": "SHTRAH-suh", "meaning": "street (capitalised because it is a noun; ß is an s sound)" }
+  },
+  "chart": {
+   "title": "Only 18 things to relearn",
+   "note": "The a–z you already know stays as it is. These four extra letters and 14 spellings are the whole difference.",
+   "groups": [
+    {
+     "label": "4 letters English does not have",
+     "cols": 4,
+     "cells": [
+      { "char": "ä", "reading": "e as in bed", "hint": "Mädchen (girl)" },
+      { "char": "ö", "reading": "\"ay\" with rounded lips", "hint": "schön (beautiful)" },
+      { "char": "ü", "reading": "\"ee\" with rounded lips", "hint": "Tschüss (bye)" },
+      { "char": "ß", "reading": "ss, never a z sound", "hint": "Straße (street)" }
+     ]
+    },
+    {
+     "label": "14 spellings that do not read like English",
+     "cols": 5,
+     "cells": [
+      { "char": "w", "reading": "v as in van", "hint": "Wasser (water)" },
+      { "char": "v", "reading": "f as in fan", "hint": "Vater (father)" },
+      { "char": "z", "reading": "ts as in cats", "hint": "Zeit (time)" },
+      { "char": "j", "reading": "y as in yes", "hint": "ja (yes)" },
+      { "char": "s", "reading": "z, before a vowel", "hint": "Sonne (sun)" },
+      { "char": "ei", "reading": "\"eye\", not \"ay\"", "hint": "Eis (ice)" },
+      { "char": "ie", "reading": "long \"ee\", not \"eye\"", "hint": "Liebe (love)" },
+      { "char": "eu", "reading": "\"oy\"", "hint": "heute (today)" },
+      { "char": "äu", "reading": "\"oy\"", "hint": "Bäume (trees)" },
+      { "char": "ch", "reading": "\"kh\", in two versions", "hint": "Buch / ich" },
+      { "char": "sch", "reading": "sh", "hint": "Schule (school)" },
+      { "char": "st-", "reading": "\"sht-\" at the start", "hint": "Stadt (city)" },
+      { "char": "sp-", "reading": "\"shp-\" at the start", "hint": "Sport (sport)" },
+      { "char": "-er", "reading": "a weak \"uh\" at the end", "hint": "Mutter (mother)" }
+     ]
+    }
+   ]
   },
   "sounds": [
    {

@@ -7,6 +7,41 @@
    "body": "英語と同じ26文字に Ñ と Ng を加えた28文字を使います。Ñ の波記号のほかに、新しく覚える形はありません。綴りと音がほぼ一致するので、見たままローマ字のように読めばだいたい通じます。スペイン語や英語から入った言葉も、kompyuter（コンピューター）や sapatos（くつ）のように、聞こえたままの綴りで書かれます。",
    "sample": { "text": "salamat", "reading": "サラマット", "meaning": "ありがとう" }
   },
+  "chart": {
+   "title": "新しく覚える形は、たった2つです",
+   "note": "アルファベットは英語の26字に Ñ と Ng を足した28字。この表の ng は文字としての ng（鼻に抜ける音）で、名詞の前に置く小さな語の ng（「ナン」と読む）とは別ものです。",
+   "groups": [
+    {
+     "label": "母音 5",
+     "cols": 5,
+     "cells": [
+      { "char": "a", "reading": "ア", "hint": "ama（父）" },
+      { "char": "e", "reading": "エ", "hint": "pera（お金）" },
+      { "char": "i", "reading": "イ", "hint": "ibon（鳥）" },
+      { "char": "o", "reading": "オ", "hint": "oo（はい）" },
+      { "char": "u", "reading": "ウ", "hint": "ulan（雨）" }
+     ]
+    },
+    {
+     "label": "英語に無い字 2",
+     "cols": 2,
+     "cells": [
+      { "char": "ng", "reading": "ング（鼻に抜ける）", "hint": "これで1字。ngayon（今）のように語頭にも立ちます" },
+      { "char": "ñ", "reading": "ニャ行", "hint": "スペイン語から来た語に残ります。piña（パイナップル）" }
+     ]
+    },
+    {
+     "label": "読んでみる",
+     "cols": 2,
+     "cells": [
+      { "char": "kumusta", "reading": "クムスタ", "hint": "こんにちは／お元気ですか" },
+      { "char": "salamat", "reading": "サラマット", "hint": "ありがとう" },
+      { "char": "ngayon", "reading": "ンガヨン", "hint": "今" },
+      { "char": "kanin", "reading": "カニン", "hint": "ごはん" }
+     ]
+    }
+   ]
+  },
   "sounds": [
    {
     "title": "「ng」はこれでひとつの文字です",
@@ -49,6 +84,41 @@
    "title": "The Latin alphabet, plus Ñ and Ng",
    "body": "Tagalog uses the 26 English letters plus Ñ and Ng, 28 in all, so apart from the tilde on Ñ there are no new shapes to memorise. Spelling tracks pronunciation closely: read a word the way it is written and you will be close. Words borrowed from Spanish and English are respelled to match the sound, as in kompyuter (computer) and sapatos (shoes).",
    "sample": { "text": "salamat", "reading": "sa-la-mat", "meaning": "thank you" }
+  },
+  "chart": {
+   "title": "Only two letters are new",
+   "note": "The alphabet is the 26 English letters plus Ñ and Ng, 28 in all. The ng below is the letter — the sound in singer. The short word ng that stands in front of a noun is a different thing and is read nang.",
+   "groups": [
+    {
+     "label": "Vowels 5",
+     "cols": 5,
+     "cells": [
+      { "char": "a", "reading": "ah", "hint": "ama (father)" },
+      { "char": "e", "reading": "eh", "hint": "pera (money)" },
+      { "char": "i", "reading": "ee", "hint": "ibon (bird)" },
+      { "char": "o", "reading": "oh", "hint": "oo (yes)" },
+      { "char": "u", "reading": "oo, as in boot", "hint": "ulan (rain)" }
+     ]
+    },
+    {
+     "label": "Letters English does not have 2",
+     "cols": 2,
+     "cells": [
+      { "char": "ng", "reading": "ng, as in singer", "hint": "One letter, and it starts words too: ngayon (now)" },
+      { "char": "ñ", "reading": "ny", "hint": "Kept in words taken from Spanish: piña (pineapple)" }
+     ]
+    },
+    {
+     "label": "Read these aloud",
+     "cols": 2,
+     "cells": [
+      { "char": "kumusta", "reading": "ku-mus-ta", "hint": "how are you / hello" },
+      { "char": "salamat", "reading": "sa-la-mat", "hint": "thank you" },
+      { "char": "ngayon", "reading": "nga-yon", "hint": "now" },
+      { "char": "kanin", "reading": "ka-nin", "hint": "cooked rice" }
+     ]
+    }
+   ]
   },
   "sounds": [
    {

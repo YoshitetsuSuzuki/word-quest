@@ -118,7 +118,7 @@ export const ja: Strings = {
   'cat.turkish': 'トルコ語',
   'cat.vietnamese': 'ベトナム語',
   'cat.esperanto': 'エスペラント',
-  'guide.title': '%s のはじめかた', 'guide.script': 'もじ', 'guide.sounds': 'よみかた',
+  'guide.title': '%s のはじめかた', 'guide.script': 'もじ', 'guide.chart': 'もじ一覧', 'guide.sounds': 'よみかた',
   'guide.order': 'ごじゅん', 'guide.greetings': 'まず言える5つ', 'guide.pitfall': 'さいしょの壁',
   'guide.cta': 'はじめる', 'guide.none': 'この言語のガイドはまだありません。', 'guide.open': '📖 はじめかた',
   'pet.newBadge': 'NEW', 'pet.addedPre': '✨ ', 'pet.addedSuffix': ' をなかまにした！',

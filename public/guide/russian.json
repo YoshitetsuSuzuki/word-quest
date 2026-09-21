@@ -7,6 +7,63 @@
    "body": "音を表すアルファベットで、左から右へ並べて書きます。33字を、ラテン文字と形も音も同じ字（А К М О Т）、形は同じでも音が違う字（В＝ヴァ行、Н＝ナ行、Р＝ラ行（巻き舌）、С＝サ行の子音）、ラテン文字には無い、新しく覚える字（Ж Ш Щ Я Ю）の三組に分けると、覚える量はぐっと減ります。",
    "sample": { "text": "Россия", "reading": "ラシーヤ", "meaning": "ロシア" }
   },
+  "chart": {
+   "title": "キリル文字 33字（これで全部）",
+   "note": "大文字と小文字を並べています。ъ と ь は音そのものを持たない記号です。",
+   "groups": [
+    {
+     "label": "形も音もラテン文字と同じ 5",
+     "cols": 5,
+     "cells": [
+      { "char": "Аа", "reading": "ア" },
+      { "char": "Кк", "reading": "ク（カ行）" },
+      { "char": "Мм", "reading": "ム（マ行）" },
+      { "char": "Оо", "reading": "オ（アクセント無しは「ア」）" },
+      { "char": "Тт", "reading": "ト（タ行）" }
+     ]
+    },
+    {
+     "label": "形は同じでも音が違う 8",
+     "cols": 4,
+     "cells": [
+      { "char": "Вв", "reading": "ヴ（ヴァ行）" },
+      { "char": "Ее", "reading": "イェ" },
+      { "char": "Ёё", "reading": "ヨ（必ずアクセント）" },
+      { "char": "Нн", "reading": "ヌ（ナ行）" },
+      { "char": "Рр", "reading": "ル（ラ行・巻き舌）" },
+      { "char": "Сс", "reading": "ス（サ行）" },
+      { "char": "Уу", "reading": "ウ" },
+      { "char": "Хх", "reading": "フ（喉の奥のハ行）" }
+     ]
+    },
+    {
+     "label": "新しく覚える字 20",
+     "cols": 5,
+     "cells": [
+      { "char": "Бб", "reading": "ブ（バ行）" },
+      { "char": "Гг", "reading": "グ（ガ行）" },
+      { "char": "Дд", "reading": "ド（ダ行）" },
+      { "char": "Жж", "reading": "ジュ（舌を奥に引いた「ジ」）" },
+      { "char": "Зз", "reading": "ズ（ザ行）" },
+      { "char": "Ии", "reading": "イ" },
+      { "char": "Йй", "reading": "短い「イ」" },
+      { "char": "Лл", "reading": "ル（舌先を上の歯の裏に）" },
+      { "char": "Пп", "reading": "プ（パ行）" },
+      { "char": "Фф", "reading": "フ（ファ行）" },
+      { "char": "Цц", "reading": "ツ" },
+      { "char": "Чч", "reading": "チ" },
+      { "char": "Шш", "reading": "シュ（かたい「シ」）" },
+      { "char": "Щщ", "reading": "シ（やわらかい「シ」）" },
+      { "char": "Ъъ", "reading": "音なし（前後を切る記号）" },
+      { "char": "Ыы", "reading": "イとウの中間の母音" },
+      { "char": "Ьь", "reading": "音なし（前の子音をやわらげる）" },
+      { "char": "Ээ", "reading": "エ" },
+      { "char": "Юю", "reading": "ユ" },
+      { "char": "Яя", "reading": "ヤ" }
+     ]
+    }
+   ]
+  },
   "sounds": [
    {
     "title": "アクセントのない о は「ア」に近くなります",
@@ -49,6 +106,63 @@
    "title": "Cyrillic is a 33-letter alphabet",
    "body": "It spells out sounds and runs left to right. Sorting the 33 letters into three groups shrinks the job: ones that match Latin in both shape and sound (А К М О Т), ones that look Latin but sound different (В = v, Н = n, Р = r, С = s), and ones with no Latin lookalike (Ж Ш Щ Я Ю).",
    "sample": { "text": "Россия", "reading": "Rossiya", "meaning": "Russia" }
+  },
+  "chart": {
+   "title": "All 33 Cyrillic letters",
+   "note": "Capital and small forms side by side. ъ and ь are signs, not sounds.",
+   "groups": [
+    {
+     "label": "Same shape, same sound — 5",
+     "cols": 5,
+     "cells": [
+      { "char": "Аа", "reading": "a as in father" },
+      { "char": "Кк", "reading": "k" },
+      { "char": "Мм", "reading": "m" },
+      { "char": "Оо", "reading": "o (unstressed → a)" },
+      { "char": "Тт", "reading": "t" }
+     ]
+    },
+    {
+     "label": "Familiar shape, new sound — 8",
+     "cols": 4,
+     "cells": [
+      { "char": "Вв", "reading": "v, not b" },
+      { "char": "Ее", "reading": "ye" },
+      { "char": "Ёё", "reading": "yo (always stressed)" },
+      { "char": "Нн", "reading": "n, not h" },
+      { "char": "Рр", "reading": "rolled r, not p" },
+      { "char": "Сс", "reading": "s, not c" },
+      { "char": "Уу", "reading": "oo as in boot" },
+      { "char": "Хх", "reading": "kh, a raspy h" }
+     ]
+    },
+    {
+     "label": "New shapes to learn — 20",
+     "cols": 5,
+     "cells": [
+      { "char": "Бб", "reading": "b" },
+      { "char": "Гг", "reading": "g as in go" },
+      { "char": "Дд", "reading": "d" },
+      { "char": "Жж", "reading": "zh, s in measure" },
+      { "char": "Зз", "reading": "z" },
+      { "char": "Ии", "reading": "ee" },
+      { "char": "Йй", "reading": "short y, as in boy" },
+      { "char": "Лл", "reading": "l" },
+      { "char": "Пп", "reading": "p" },
+      { "char": "Фф", "reading": "f" },
+      { "char": "Цц", "reading": "ts" },
+      { "char": "Чч", "reading": "ch" },
+      { "char": "Шш", "reading": "sh (hard)" },
+      { "char": "Щщ", "reading": "sh (soft, longer)" },
+      { "char": "Ъъ", "reading": "hard sign — no sound" },
+      { "char": "Ыы", "reading": "a back i, no English match" },
+      { "char": "Ьь", "reading": "soft sign — no sound" },
+      { "char": "Ээ", "reading": "e as in bed" },
+      { "char": "Юю", "reading": "yu" },
+      { "char": "Яя", "reading": "ya" }
+     ]
+    }
+   ]
   },
   "sounds": [
    {

@@ -7,6 +7,47 @@
    "body": "使う文字は28字です。q・w・x・y は使わず、代わりに ĉ・ĝ・ĥ・ĵ・ŝ・ŭ という帽子つきの6文字があります。1つの文字はいつも同じ1つの音を表し、読まない文字も、例外的な読み方もありません。綴りが分かれば、初めて見る単語でもそのまま声に出せます。カタカナは音の目安としてお使いください。",
    "sample": { "text": "espero", "reading": "エスペーロ", "meaning": "希望" }
   },
+  "chart": {
+   "title": "覚える字と語尾は、これだけです",
+   "note": "文字は全部で28字。q・w・x・y は使いません。1つの字にいつも1つの音なので、読めない綴りはありません。",
+   "groups": [
+    {
+     "label": "帽子のついた字 6",
+     "cols": 6,
+     "cells": [
+      { "char": "ĉ", "reading": "チ", "hint": "ĉokolado＝チョコレート" },
+      { "char": "ĝ", "reading": "ヂ（英語の j）", "hint": "ĝardeno＝庭" },
+      { "char": "ĥ", "reading": "ハ（喉の奥）", "hint": "ĥoro＝合唱" },
+      { "char": "ĵ", "reading": "ジュ", "hint": "ĵurnalo＝新聞" },
+      { "char": "ŝ", "reading": "シュ", "hint": "ŝipo＝船" },
+      { "char": "ŭ", "reading": "ウ（aŭ＝アウ）", "hint": "aŭto＝自動車" }
+     ]
+    },
+    {
+     "label": "確認しておきたい子音 5",
+     "cols": 5,
+     "cells": [
+      { "char": "c", "reading": "ツ", "hint": "centro＝中心" },
+      { "char": "g", "reading": "グ（いつもガ行）", "hint": "gitaro＝ギター" },
+      { "char": "h", "reading": "ハ行（必ず読む）", "hint": "horo＝1時間" },
+      { "char": "j", "reading": "ヤ行", "hint": "jes＝はい" },
+      { "char": "v", "reading": "ヴァ行", "hint": "vivo＝いのち" }
+     ]
+    },
+    {
+     "label": "語尾で品詞が分かる 6",
+     "cols": 4,
+     "cells": [
+      { "char": "-o", "reading": "オ", "hint": "名詞" },
+      { "char": "-a", "reading": "ア", "hint": "形容詞" },
+      { "char": "-e", "reading": "エ", "hint": "副詞" },
+      { "char": "-i", "reading": "イ", "hint": "動詞の原形" },
+      { "char": "-j", "reading": "イ（前の母音に続けて）", "hint": "複数" },
+      { "char": "-n", "reading": "ン", "hint": "目的語" }
+     ]
+    }
+   ]
+  },
   "sounds": [
    {
     "title": "帽子つきの6文字 ĉ ĝ ĥ ĵ ŝ ŭ",
@@ -49,6 +90,47 @@
    "title": "28 Latin letters, each with exactly one sound",
    "body": "The alphabet has 28 letters. There is no q, w, x or y; instead there are six letters written with a hat: ĉ, ĝ, ĥ, ĵ, ŝ and ŭ. Every letter always stands for the same single sound, with no silent letters and no special cases, so you can say a word the moment you can spell it.",
    "sample": { "text": "espero", "reading": "es-PE-ro", "meaning": "hope" }
+  },
+  "chart": {
+   "title": "The letters and endings — all of them",
+   "note": "28 letters in all, with no q, w, x or y. One letter, one sound, so there is no spelling you cannot read aloud.",
+   "groups": [
+    {
+     "label": "Letters with a hat — 6",
+     "cols": 6,
+     "cells": [
+      { "char": "ĉ", "reading": "ch as in church", "hint": "ĉokolado = chocolate" },
+      { "char": "ĝ", "reading": "g as in gem", "hint": "ĝardeno = garden" },
+      { "char": "ĥ", "reading": "a rasping h", "hint": "ĥoro = choir" },
+      { "char": "ĵ", "reading": "s as in measure", "hint": "ĵurnalo = newspaper" },
+      { "char": "ŝ", "reading": "sh as in shop", "hint": "ŝipo = ship" },
+      { "char": "ŭ", "reading": "w, only in aŭ and eŭ", "hint": "aŭto = car" }
+     ]
+    },
+    {
+     "label": "Consonants worth double-checking — 5",
+     "cols": 5,
+     "cells": [
+      { "char": "c", "reading": "ts as in cats", "hint": "centro = centre" },
+      { "char": "g", "reading": "always hard, as in go", "hint": "gitaro = guitar" },
+      { "char": "h", "reading": "always pronounced", "hint": "horo = hour" },
+      { "char": "j", "reading": "y as in yes", "hint": "jes = yes" },
+      { "char": "v", "reading": "v as in very", "hint": "vivo = life" }
+     ]
+    },
+    {
+     "label": "Endings that name the part of speech — 6",
+     "cols": 4,
+     "cells": [
+      { "char": "-o", "reading": "oh", "hint": "noun" },
+      { "char": "-a", "reading": "ah", "hint": "adjective" },
+      { "char": "-e", "reading": "eh", "hint": "adverb" },
+      { "char": "-i", "reading": "ee", "hint": "verb (infinitive)" },
+      { "char": "-j", "reading": "y, gliding off the vowel", "hint": "plural" },
+      { "char": "-n", "reading": "n", "hint": "object" }
+     ]
+    }
+   ]
   },
   "sounds": [
    {

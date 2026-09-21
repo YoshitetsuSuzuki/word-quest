@@ -7,6 +7,50 @@
    "body": "トルコ語はラテン文字29文字で書きます。q・w・x は使わず、かわりに ç・ğ・ı・ö・ş・ü の6文字が加わります。29文字のうち8つが母音です。1文字が1つの音に対応する綴りなので、対応さえ覚えてしまえば、初めて見る単語もそのまま声に出して読めます。",
    "sample": { "text": "kitap", "reading": "キタプ", "meaning": "本" }
   },
+  "chart": {
+   "title": "29字のうち、気をつけるのはこれだけ",
+   "note": "トルコ語のアルファベットは29字。英語にある q・w・x はありません。ここに無い字は、ほぼローマ字どおりに読めます。",
+   "groups": [
+    {
+     "label": "トルコ語だけの字 6",
+     "cols": 6,
+     "cells": [
+      { "char": "ç", "reading": "チャ行", "hint": "çay＝チャイ（お茶）" },
+      { "char": "ğ", "reading": "音は無い。前の母音を伸ばす", "hint": "dağ＝ダー（ダグではない）" },
+      { "char": "ı", "reading": "ウ（i から点を取った別の字）", "hint": "kıl＝クル / kil＝キル" },
+      { "char": "ö", "reading": "オ（エの口で唇を丸める）", "hint": "göz＝ギョズ（目）" },
+      { "char": "ş", "reading": "シャ行", "hint": "şeker＝シェケル（砂糖）" },
+      { "char": "ü", "reading": "ユ（イの口で唇を丸める）", "hint": "gül＝ギュル（バラ）" }
+     ]
+    },
+    {
+     "label": "読み方が違う字 6",
+     "cols": 5,
+     "cells": [
+      { "char": "c", "reading": "ジャ行（英語の j の音）", "hint": "cam＝ジャム（ガラス）" },
+      { "char": "g", "reading": "つねにガ行", "hint": "gece＝ゲジェ（夜）" },
+      { "char": "j", "reading": "やわらかい「ジ」（フランス語の j）", "hint": "jilet＝ジレット（カミソリ）" },
+      { "char": "r", "reading": "ラ行（舌先で軽くはじく）", "hint": "bir＝ビル（1つ）" },
+      { "char": "v", "reading": "ヴァ行", "hint": "ve＝ヴェ（そして）" },
+      { "char": "y", "reading": "ヤ行の子音（母音にはならない）", "hint": "yeni＝イェニ（新しい）" }
+     ]
+    },
+    {
+     "label": "母音 8",
+     "cols": 4,
+     "cells": [
+      { "char": "a", "reading": "ア", "hint": "後舌。語尾は -da 型" },
+      { "char": "ı", "reading": "ウ（唇を丸めない）", "hint": "後舌。語尾は -da 型" },
+      { "char": "o", "reading": "オ", "hint": "後舌。語尾は -da 型" },
+      { "char": "u", "reading": "ウ（唇を丸める）", "hint": "後舌。語尾は -da 型" },
+      { "char": "e", "reading": "エ", "hint": "前舌。語尾は -de 型" },
+      { "char": "i", "reading": "イ", "hint": "前舌。語尾は -de 型" },
+      { "char": "ö", "reading": "オ（エの口で唇を丸める）", "hint": "前舌。語尾は -de 型" },
+      { "char": "ü", "reading": "ユ（イの口で唇を丸める）", "hint": "前舌。語尾は -de 型" }
+     ]
+    }
+   ]
+  },
   "sounds": [
    {
     "title": "点の無い ı と点のある i は、別の文字です",
@@ -49,6 +93,50 @@
    "title": "29 Latin letters, spelled the way they sound",
    "body": "Turkish uses the Latin alphabet with 29 letters. There is no q, w or x, but six extra letters appear: ç, ğ, ı, ö, ş, ü. Eight of the 29 are vowels. The spelling is regular — one letter, one sound — so once you know the letters you can read a word you have never seen before.",
    "sample": { "text": "kitap", "reading": "kee-tahp", "meaning": "book" }
+  },
+  "chart": {
+   "title": "The only letters that need a second look",
+   "note": "The Turkish alphabet has 29 letters, and no q, w or x. Any letter not listed here reads the way it looks.",
+   "groups": [
+    {
+     "label": "Letters Turkish adds — 6",
+     "cols": 6,
+     "cells": [
+      { "char": "ç", "reading": "ch as in chair", "hint": "çay = tea (\"chai\")" },
+      { "char": "ğ", "reading": "no sound of its own — lengthens the vowel before it", "hint": "dağ = mountain (\"daa\", not \"dag\")" },
+      { "char": "ı", "reading": "i with no dot — \"uh\", tongue pulled back", "hint": "kıl \"kuhl\" / kil \"keel\"" },
+      { "char": "ö", "reading": "\"eh\" with rounded lips", "hint": "göz = eye" },
+      { "char": "ş", "reading": "sh as in shoe", "hint": "şeker = sugar" },
+      { "char": "ü", "reading": "\"ee\" with rounded lips", "hint": "gül = rose" }
+     ]
+    },
+    {
+     "label": "Letters that read differently — 6",
+     "cols": 5,
+     "cells": [
+      { "char": "c", "reading": "j as in jam", "hint": "cam = glass (\"jam\")" },
+      { "char": "g", "reading": "always a hard g, never \"j\"", "hint": "gece = night (\"geh-jeh\")" },
+      { "char": "j", "reading": "the s of \"measure\"", "hint": "jilet = razor blade" },
+      { "char": "r", "reading": "a tapped r, like the tt in \"butter\"", "hint": "bir = one" },
+      { "char": "v", "reading": "v, softening toward w between vowels", "hint": "ve = and" },
+      { "char": "y", "reading": "always y as in yes, never a vowel", "hint": "yeni = new (\"yeh-nee\")" }
+     ]
+    },
+    {
+     "label": "Vowels — 8",
+     "cols": 4,
+     "cells": [
+      { "char": "a", "reading": "a as in father", "hint": "back vowel → takes -da" },
+      { "char": "ı", "reading": "\"uh\", lips unrounded", "hint": "back vowel → takes -da" },
+      { "char": "o", "reading": "o as in more", "hint": "back vowel → takes -da" },
+      { "char": "u", "reading": "oo as in boot", "hint": "back vowel → takes -da" },
+      { "char": "e", "reading": "e as in bed", "hint": "front vowel → takes -de" },
+      { "char": "i", "reading": "ee as in see", "hint": "front vowel → takes -de" },
+      { "char": "ö", "reading": "\"eh\" with rounded lips", "hint": "front vowel → takes -de" },
+      { "char": "ü", "reading": "\"ee\" with rounded lips", "hint": "front vowel → takes -de" }
+     ]
+    }
+   ]
   },
   "sounds": [
    {

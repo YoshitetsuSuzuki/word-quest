@@ -118,7 +118,7 @@ export const en: Strings = {
   'cat.turkish': 'Turkish',
   'cat.vietnamese': 'Vietnamese',
   'cat.esperanto': 'Esperanto',
-  'guide.title': 'Getting started with %s', 'guide.script': 'SCRIPT', 'guide.sounds': 'SOUNDS',
+  'guide.title': 'Getting started with %s', 'guide.script': 'SCRIPT', 'guide.chart': 'THE LETTERS', 'guide.sounds': 'SOUNDS',
   'guide.order': 'WORD ORDER', 'guide.greetings': 'FIVE PHRASES TO START', 'guide.pitfall': 'THE FIRST HURDLE',
   'guide.cta': 'Start learning', 'guide.none': 'No guide for this language yet.', 'guide.open': '📖 Getting started',
   'pet.newBadge': 'NEW', 'pet.addedPre': '✨ ', 'pet.addedSuffix': ' joined!',

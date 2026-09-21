@@ -7,6 +7,41 @@
    "body": "英語の綴りは、500年ほど前に印刷が広まる中で少しずつ固まっていきました。ところが発音は、その間も、その後も変わり続けました。綴りだけが先に止まったので、今では綴りと音がずれています。knight の k も gh も、昔は実際に声に出していた音の名残です。ですから綴りの規則を一度に覚えようとせず、よく出る形から順に「この並びはこの音」と拾っていくのが近道です。",
    "sample": { "text": "knight", "reading": "ナイト", "meaning": "騎士（k も gh も今は読みません）" }
   },
+  "chart": {
+   "title": "綴りと音がずれる場所で、よく出るのはこの並びです",
+   "note": "英語は字と音が1対1ではありません。ただしずれる場所はほぼ決まっていて、この並びさえ知っていれば、初めて見る単語でもだいたい音にできます。",
+   "groups": [
+    {
+     "label": "1字で2通りに読む母音字 5",
+     "cols": 5,
+     "cells": [
+      { "char": "a", "reading": "ア／エイ", "hint": "cat / cake" },
+      { "char": "e", "reading": "エ／イー", "hint": "pet / these" },
+      { "char": "i", "reading": "イ／アイ", "hint": "sit / bike" },
+      { "char": "o", "reading": "オ（米は「ア」寄り）／オウ", "hint": "hot / note" },
+      { "char": "u", "reading": "ア／ユー", "hint": "cut / cute" }
+     ]
+    },
+    {
+     "label": "2〜3字で1つの音になる組み合わせ 12",
+     "cols": 4,
+     "cells": [
+      { "char": "th", "reading": "ス／ズ（舌先を歯に）", "hint": "think / this" },
+      { "char": "sh", "reading": "シュ", "hint": "ship" },
+      { "char": "ch", "reading": "チ", "hint": "chair" },
+      { "char": "ph", "reading": "フ（f の音）", "hint": "phone" },
+      { "char": "gh", "reading": "読まない／フ", "hint": "night / laugh" },
+      { "char": "ng", "reading": "ング（鼻に抜ける）", "hint": "sing" },
+      { "char": "ea", "reading": "イー／エ", "hint": "eat / bread" },
+      { "char": "ee", "reading": "イー", "hint": "see" },
+      { "char": "oo", "reading": "ウー／ウ", "hint": "moon / book" },
+      { "char": "ou", "reading": "アウ／ウー", "hint": "house / you" },
+      { "char": "ai", "reading": "エイ", "hint": "rain" },
+      { "char": "igh", "reading": "アイ", "hint": "night" }
+     ]
+    }
+   ]
+  },
   "sounds": [
    {
     "title": "強く読む位置が変わると、別の語になります",
@@ -49,6 +84,41 @@
    "title": "Spelling is a fossil, not a recording",
    "body": "English spelling began to settle some 500 years ago, as printing spread. Pronunciation went on changing — during that period and long after it — so the spelling froze while the sounds moved on. The k and the gh in knight are leftovers from sounds people really did say. Rather than memorising spelling rules all at once, collect the frequent patterns first and let the rest follow.",
    "sample": { "text": "knight", "reading": "nite", "meaning": "a knight (the k and gh are silent today)" }
+  },
+  "chart": {
+   "title": "Where spelling and sound part ways — the most frequent patterns",
+   "note": "English letters do not map one-to-one onto sounds. The drift is concentrated in these few patterns, so once you know them you can make a fair guess at any word you have never seen.",
+   "groups": [
+    {
+     "label": "Five vowel letters, two readings each",
+     "cols": 5,
+     "cells": [
+      { "char": "a", "reading": "short a / ay", "hint": "cat / cake" },
+      { "char": "e", "reading": "short e / ee", "hint": "pet / these" },
+      { "char": "i", "reading": "short i / eye", "hint": "sit / bike" },
+      { "char": "o", "reading": "short o (US: ah) / oh", "hint": "hot / note" },
+      { "char": "u", "reading": "short u / yoo", "hint": "cut / cute" }
+     ]
+    },
+    {
+     "label": "Twelve letter teams that make one sound",
+     "cols": 4,
+     "cells": [
+      { "char": "th", "reading": "voiceless th / voiced th", "hint": "think / this" },
+      { "char": "sh", "reading": "sh", "hint": "ship" },
+      { "char": "ch", "reading": "ch", "hint": "chair" },
+      { "char": "ph", "reading": "f", "hint": "phone" },
+      { "char": "gh", "reading": "silent / f", "hint": "night / laugh" },
+      { "char": "ng", "reading": "ng (nasal)", "hint": "sing" },
+      { "char": "ea", "reading": "ee / short e", "hint": "eat / bread" },
+      { "char": "ee", "reading": "ee", "hint": "see" },
+      { "char": "oo", "reading": "long oo / short oo", "hint": "moon / book" },
+      { "char": "ou", "reading": "ow / oo", "hint": "house / you" },
+      { "char": "ai", "reading": "ay", "hint": "rain" },
+      { "char": "igh", "reading": "eye", "hint": "night" }
+     ]
+    }
+   ]
   },
   "sounds": [
    {

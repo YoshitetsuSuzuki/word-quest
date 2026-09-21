@@ -16,6 +16,422 @@
     "meaning": "猫（漢字を使わず、ひらがな2字でも書けます）"
    }
   },
+  "chart": {
+   "title": "かなは、数えるとこれだけです",
+   "note": "濁音・半濁音（が・ぱ など）は、この表の字に ゛ ゜ を足して作るので、新しく覚える字ではありません。",
+   "groups": [
+    {
+     "label": "ひらがな 46",
+     "cols": 5,
+     "cells": [
+      {
+       "char": "あ",
+       "reading": "a"
+      },
+      {
+       "char": "い",
+       "reading": "i"
+      },
+      {
+       "char": "う",
+       "reading": "u"
+      },
+      {
+       "char": "え",
+       "reading": "e"
+      },
+      {
+       "char": "お",
+       "reading": "o"
+      },
+      {
+       "char": "か",
+       "reading": "ka"
+      },
+      {
+       "char": "き",
+       "reading": "ki"
+      },
+      {
+       "char": "く",
+       "reading": "ku"
+      },
+      {
+       "char": "け",
+       "reading": "ke"
+      },
+      {
+       "char": "こ",
+       "reading": "ko"
+      },
+      {
+       "char": "さ",
+       "reading": "sa"
+      },
+      {
+       "char": "し",
+       "reading": "shi"
+      },
+      {
+       "char": "す",
+       "reading": "su"
+      },
+      {
+       "char": "せ",
+       "reading": "se"
+      },
+      {
+       "char": "そ",
+       "reading": "so"
+      },
+      {
+       "char": "た",
+       "reading": "ta"
+      },
+      {
+       "char": "ち",
+       "reading": "chi"
+      },
+      {
+       "char": "つ",
+       "reading": "tsu"
+      },
+      {
+       "char": "て",
+       "reading": "te"
+      },
+      {
+       "char": "と",
+       "reading": "to"
+      },
+      {
+       "char": "な",
+       "reading": "na"
+      },
+      {
+       "char": "に",
+       "reading": "ni"
+      },
+      {
+       "char": "ぬ",
+       "reading": "nu"
+      },
+      {
+       "char": "ね",
+       "reading": "ne"
+      },
+      {
+       "char": "の",
+       "reading": "no"
+      },
+      {
+       "char": "は",
+       "reading": "ha"
+      },
+      {
+       "char": "ひ",
+       "reading": "hi"
+      },
+      {
+       "char": "ふ",
+       "reading": "fu"
+      },
+      {
+       "char": "へ",
+       "reading": "he"
+      },
+      {
+       "char": "ほ",
+       "reading": "ho"
+      },
+      {
+       "char": "ま",
+       "reading": "ma"
+      },
+      {
+       "char": "み",
+       "reading": "mi"
+      },
+      {
+       "char": "む",
+       "reading": "mu"
+      },
+      {
+       "char": "め",
+       "reading": "me"
+      },
+      {
+       "char": "も",
+       "reading": "mo"
+      },
+      {
+       "char": "や",
+       "reading": "ya"
+      },
+      {
+       "char": ""
+      },
+      {
+       "char": "ゆ",
+       "reading": "yu"
+      },
+      {
+       "char": ""
+      },
+      {
+       "char": "よ",
+       "reading": "yo"
+      },
+      {
+       "char": "ら",
+       "reading": "ra"
+      },
+      {
+       "char": "り",
+       "reading": "ri"
+      },
+      {
+       "char": "る",
+       "reading": "ru"
+      },
+      {
+       "char": "れ",
+       "reading": "re"
+      },
+      {
+       "char": "ろ",
+       "reading": "ro"
+      },
+      {
+       "char": "わ",
+       "reading": "wa"
+      },
+      {
+       "char": ""
+      },
+      {
+       "char": ""
+      },
+      {
+       "char": ""
+      },
+      {
+       "char": "を",
+       "reading": "o (wo)"
+      },
+      {
+       "char": "ん",
+       "reading": "n"
+      }
+     ]
+    },
+    {
+     "label": "カタカナ 46",
+     "cols": 5,
+     "cells": [
+      {
+       "char": "ア",
+       "reading": "a"
+      },
+      {
+       "char": "イ",
+       "reading": "i"
+      },
+      {
+       "char": "ウ",
+       "reading": "u"
+      },
+      {
+       "char": "エ",
+       "reading": "e"
+      },
+      {
+       "char": "オ",
+       "reading": "o"
+      },
+      {
+       "char": "カ",
+       "reading": "ka"
+      },
+      {
+       "char": "キ",
+       "reading": "ki"
+      },
+      {
+       "char": "ク",
+       "reading": "ku"
+      },
+      {
+       "char": "ケ",
+       "reading": "ke"
+      },
+      {
+       "char": "コ",
+       "reading": "ko"
+      },
+      {
+       "char": "サ",
+       "reading": "sa"
+      },
+      {
+       "char": "シ",
+       "reading": "shi"
+      },
+      {
+       "char": "ス",
+       "reading": "su"
+      },
+      {
+       "char": "セ",
+       "reading": "se"
+      },
+      {
+       "char": "ソ",
+       "reading": "so"
+      },
+      {
+       "char": "タ",
+       "reading": "ta"
+      },
+      {
+       "char": "チ",
+       "reading": "chi"
+      },
+      {
+       "char": "ツ",
+       "reading": "tsu"
+      },
+      {
+       "char": "テ",
+       "reading": "te"
+      },
+      {
+       "char": "ト",
+       "reading": "to"
+      },
+      {
+       "char": "ナ",
+       "reading": "na"
+      },
+      {
+       "char": "ニ",
+       "reading": "ni"
+      },
+      {
+       "char": "ヌ",
+       "reading": "nu"
+      },
+      {
+       "char": "ネ",
+       "reading": "ne"
+      },
+      {
+       "char": "ノ",
+       "reading": "no"
+      },
+      {
+       "char": "ハ",
+       "reading": "ha"
+      },
+      {
+       "char": "ヒ",
+       "reading": "hi"
+      },
+      {
+       "char": "フ",
+       "reading": "fu"
+      },
+      {
+       "char": "ヘ",
+       "reading": "he"
+      },
+      {
+       "char": "ホ",
+       "reading": "ho"
+      },
+      {
+       "char": "マ",
+       "reading": "ma"
+      },
+      {
+       "char": "ミ",
+       "reading": "mi"
+      },
+      {
+       "char": "ム",
+       "reading": "mu"
+      },
+      {
+       "char": "メ",
+       "reading": "me"
+      },
+      {
+       "char": "モ",
+       "reading": "mo"
+      },
+      {
+       "char": "ヤ",
+       "reading": "ya"
+      },
+      {
+       "char": ""
+      },
+      {
+       "char": "ユ",
+       "reading": "yu"
+      },
+      {
+       "char": ""
+      },
+      {
+       "char": "ヨ",
+       "reading": "yo"
+      },
+      {
+       "char": "ラ",
+       "reading": "ra"
+      },
+      {
+       "char": "リ",
+       "reading": "ri"
+      },
+      {
+       "char": "ル",
+       "reading": "ru"
+      },
+      {
+       "char": "レ",
+       "reading": "re"
+      },
+      {
+       "char": "ロ",
+       "reading": "ro"
+      },
+      {
+       "char": "ワ",
+       "reading": "wa"
+      },
+      {
+       "char": ""
+      },
+      {
+       "char": ""
+      },
+      {
+       "char": ""
+      },
+      {
+       "char": "ヲ",
+       "reading": "o (wo)"
+      },
+      {
+       "char": "ン",
+       "reading": "n"
+      }
+     ]
+    }
+   ]
+  },
   "sounds": [
    {
     "title": "強弱ではなく、等しい長さの拍で刻みます",
@@ -107,6 +523,422 @@
     "reading": "neko",
     "meaning": "cat — two hiragana, no kanji needed"
    }
+  },
+  "chart": {
+   "title": "Count the kana and this is all of them",
+   "note": "Voiced and semi-voiced kana (が, ぱ and the like) are these same characters plus ゛ or ゜ — not new shapes to learn.",
+   "groups": [
+    {
+     "label": "Hiragana 46",
+     "cols": 5,
+     "cells": [
+      {
+       "char": "あ",
+       "reading": "a"
+      },
+      {
+       "char": "い",
+       "reading": "i"
+      },
+      {
+       "char": "う",
+       "reading": "u"
+      },
+      {
+       "char": "え",
+       "reading": "e"
+      },
+      {
+       "char": "お",
+       "reading": "o"
+      },
+      {
+       "char": "か",
+       "reading": "ka"
+      },
+      {
+       "char": "き",
+       "reading": "ki"
+      },
+      {
+       "char": "く",
+       "reading": "ku"
+      },
+      {
+       "char": "け",
+       "reading": "ke"
+      },
+      {
+       "char": "こ",
+       "reading": "ko"
+      },
+      {
+       "char": "さ",
+       "reading": "sa"
+      },
+      {
+       "char": "し",
+       "reading": "shi"
+      },
+      {
+       "char": "す",
+       "reading": "su"
+      },
+      {
+       "char": "せ",
+       "reading": "se"
+      },
+      {
+       "char": "そ",
+       "reading": "so"
+      },
+      {
+       "char": "た",
+       "reading": "ta"
+      },
+      {
+       "char": "ち",
+       "reading": "chi"
+      },
+      {
+       "char": "つ",
+       "reading": "tsu"
+      },
+      {
+       "char": "て",
+       "reading": "te"
+      },
+      {
+       "char": "と",
+       "reading": "to"
+      },
+      {
+       "char": "な",
+       "reading": "na"
+      },
+      {
+       "char": "に",
+       "reading": "ni"
+      },
+      {
+       "char": "ぬ",
+       "reading": "nu"
+      },
+      {
+       "char": "ね",
+       "reading": "ne"
+      },
+      {
+       "char": "の",
+       "reading": "no"
+      },
+      {
+       "char": "は",
+       "reading": "ha"
+      },
+      {
+       "char": "ひ",
+       "reading": "hi"
+      },
+      {
+       "char": "ふ",
+       "reading": "fu"
+      },
+      {
+       "char": "へ",
+       "reading": "he"
+      },
+      {
+       "char": "ほ",
+       "reading": "ho"
+      },
+      {
+       "char": "ま",
+       "reading": "ma"
+      },
+      {
+       "char": "み",
+       "reading": "mi"
+      },
+      {
+       "char": "む",
+       "reading": "mu"
+      },
+      {
+       "char": "め",
+       "reading": "me"
+      },
+      {
+       "char": "も",
+       "reading": "mo"
+      },
+      {
+       "char": "や",
+       "reading": "ya"
+      },
+      {
+       "char": ""
+      },
+      {
+       "char": "ゆ",
+       "reading": "yu"
+      },
+      {
+       "char": ""
+      },
+      {
+       "char": "よ",
+       "reading": "yo"
+      },
+      {
+       "char": "ら",
+       "reading": "ra"
+      },
+      {
+       "char": "り",
+       "reading": "ri"
+      },
+      {
+       "char": "る",
+       "reading": "ru"
+      },
+      {
+       "char": "れ",
+       "reading": "re"
+      },
+      {
+       "char": "ろ",
+       "reading": "ro"
+      },
+      {
+       "char": "わ",
+       "reading": "wa"
+      },
+      {
+       "char": ""
+      },
+      {
+       "char": ""
+      },
+      {
+       "char": ""
+      },
+      {
+       "char": "を",
+       "reading": "o (wo)"
+      },
+      {
+       "char": "ん",
+       "reading": "n"
+      }
+     ]
+    },
+    {
+     "label": "Katakana 46",
+     "cols": 5,
+     "cells": [
+      {
+       "char": "ア",
+       "reading": "a"
+      },
+      {
+       "char": "イ",
+       "reading": "i"
+      },
+      {
+       "char": "ウ",
+       "reading": "u"
+      },
+      {
+       "char": "エ",
+       "reading": "e"
+      },
+      {
+       "char": "オ",
+       "reading": "o"
+      },
+      {
+       "char": "カ",
+       "reading": "ka"
+      },
+      {
+       "char": "キ",
+       "reading": "ki"
+      },
+      {
+       "char": "ク",
+       "reading": "ku"
+      },
+      {
+       "char": "ケ",
+       "reading": "ke"
+      },
+      {
+       "char": "コ",
+       "reading": "ko"
+      },
+      {
+       "char": "サ",
+       "reading": "sa"
+      },
+      {
+       "char": "シ",
+       "reading": "shi"
+      },
+      {
+       "char": "ス",
+       "reading": "su"
+      },
+      {
+       "char": "セ",
+       "reading": "se"
+      },
+      {
+       "char": "ソ",
+       "reading": "so"
+      },
+      {
+       "char": "タ",
+       "reading": "ta"
+      },
+      {
+       "char": "チ",
+       "reading": "chi"
+      },
+      {
+       "char": "ツ",
+       "reading": "tsu"
+      },
+      {
+       "char": "テ",
+       "reading": "te"
+      },
+      {
+       "char": "ト",
+       "reading": "to"
+      },
+      {
+       "char": "ナ",
+       "reading": "na"
+      },
+      {
+       "char": "ニ",
+       "reading": "ni"
+      },
+      {
+       "char": "ヌ",
+       "reading": "nu"
+      },
+      {
+       "char": "ネ",
+       "reading": "ne"
+      },
+      {
+       "char": "ノ",
+       "reading": "no"
+      },
+      {
+       "char": "ハ",
+       "reading": "ha"
+      },
+      {
+       "char": "ヒ",
+       "reading": "hi"
+      },
+      {
+       "char": "フ",
+       "reading": "fu"
+      },
+      {
+       "char": "ヘ",
+       "reading": "he"
+      },
+      {
+       "char": "ホ",
+       "reading": "ho"
+      },
+      {
+       "char": "マ",
+       "reading": "ma"
+      },
+      {
+       "char": "ミ",
+       "reading": "mi"
+      },
+      {
+       "char": "ム",
+       "reading": "mu"
+      },
+      {
+       "char": "メ",
+       "reading": "me"
+      },
+      {
+       "char": "モ",
+       "reading": "mo"
+      },
+      {
+       "char": "ヤ",
+       "reading": "ya"
+      },
+      {
+       "char": ""
+      },
+      {
+       "char": "ユ",
+       "reading": "yu"
+      },
+      {
+       "char": ""
+      },
+      {
+       "char": "ヨ",
+       "reading": "yo"
+      },
+      {
+       "char": "ラ",
+       "reading": "ra"
+      },
+      {
+       "char": "リ",
+       "reading": "ri"
+      },
+      {
+       "char": "ル",
+       "reading": "ru"
+      },
+      {
+       "char": "レ",
+       "reading": "re"
+      },
+      {
+       "char": "ロ",
+       "reading": "ro"
+      },
+      {
+       "char": "ワ",
+       "reading": "wa"
+      },
+      {
+       "char": ""
+      },
+      {
+       "char": ""
+      },
+      {
+       "char": ""
+      },
+      {
+       "char": "ヲ",
+       "reading": "o (wo)"
+      },
+      {
+       "char": "ン",
+       "reading": "n"
+      }
+     ]
+    }
+   ]
   },
   "sounds": [
    {

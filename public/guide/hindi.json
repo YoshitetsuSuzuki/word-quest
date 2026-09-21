@@ -8,6 +8,68 @@
    "build": { "parts": "न + ी", "result": "नी", "reading": "ニー" },
    "sample": { "text": "पानी", "reading": "パーニー", "meaning": "水" }
   },
+  "chart": {
+   "title": "ヒンディー語の文字は全部で44",
+   "note": "子音字は「子音＋ア」を内蔵していて、別の母音にしたいときだけ記号を足します。",
+   "groups": [
+    {
+     "label": "母音字 11",
+     "cols": 6,
+     "cells": [
+      { "char": "अ", "reading": "ア" },
+      { "char": "आ", "reading": "アー" },
+      { "char": "इ", "reading": "イ" },
+      { "char": "ई", "reading": "イー" },
+      { "char": "उ", "reading": "ウ" },
+      { "char": "ऊ", "reading": "ウー" },
+      { "char": "ऋ", "reading": "リ" },
+      { "char": "ए", "reading": "エー" },
+      { "char": "ऐ", "reading": "エー（口を広く）" },
+      { "char": "ओ", "reading": "オー" },
+      { "char": "औ", "reading": "オー（口を広く）" }
+     ]
+    },
+    {
+     "label": "子音字 33",
+     "cols": 6,
+     "cells": [
+      { "char": "क", "reading": "カ" },
+      { "char": "ख", "reading": "カ（息強め）" },
+      { "char": "ग", "reading": "ガ" },
+      { "char": "घ", "reading": "ガ（息強め）" },
+      { "char": "ङ", "reading": "ンガ（鼻）" },
+      { "char": "च", "reading": "チャ" },
+      { "char": "छ", "reading": "チャ（息強め）" },
+      { "char": "ज", "reading": "ジャ" },
+      { "char": "झ", "reading": "ジャ（息強め）" },
+      { "char": "ञ", "reading": "ニャ（鼻）" },
+      { "char": "ट", "reading": "タ（舌そらせ）" },
+      { "char": "ठ", "reading": "タ（舌そらせ・息強め）" },
+      { "char": "ड", "reading": "ダ（舌そらせ）" },
+      { "char": "ढ", "reading": "ダ（舌そらせ・息強め）" },
+      { "char": "ण", "reading": "ナ（舌そらせ）" },
+      { "char": "त", "reading": "タ（歯）" },
+      { "char": "थ", "reading": "タ（歯・息強め）" },
+      { "char": "द", "reading": "ダ（歯）" },
+      { "char": "ध", "reading": "ダ（歯・息強め）" },
+      { "char": "न", "reading": "ナ" },
+      { "char": "प", "reading": "パ" },
+      { "char": "फ", "reading": "パ（息強め）" },
+      { "char": "ब", "reading": "バ" },
+      { "char": "भ", "reading": "バ（息強め）" },
+      { "char": "म", "reading": "マ" },
+      { "char": "य", "reading": "ヤ" },
+      { "char": "र", "reading": "ラ（はじく）" },
+      { "char": "ल", "reading": "ラ（Ｌの音）" },
+      { "char": "व", "reading": "ワ／ヴァ" },
+      { "char": "श", "reading": "シャ" },
+      { "char": "ष", "reading": "シャ（舌そらせ）" },
+      { "char": "स", "reading": "サ" },
+      { "char": "ह", "reading": "ハ" }
+     ]
+    }
+   ]
+  },
   "sounds": [
    {
     "title": "息を強く出すかどうかで別の語になります",
@@ -51,6 +113,68 @@
    "body": "Devanagari is an abugida, not an alphabet. A consonant letter on its own is read \"consonant + a\": क is \"ka\", न is \"na\". You add a mark only when you want a different vowel. The basic set is 11 vowel letters and 33 consonants. The bar running along the top of a word holds its letters together. Vowel marks attach to the right, above or below — except the short \"i\" mark ि, which is written to the left of its consonant (the long ी goes to the right).",
    "build": { "parts": "न + ी", "result": "नी", "reading": "nī" },
    "sample": { "text": "पानी", "reading": "pānī", "meaning": "water" }
+  },
+  "chart": {
+   "title": "The whole set: 44 letters",
+   "note": "A consonant letter already contains \"consonant + a\"; you add a mark only when you want a different vowel.",
+   "groups": [
+    {
+     "label": "Vowels 11",
+     "cols": 6,
+     "cells": [
+      { "char": "अ", "reading": "a (cup)" },
+      { "char": "आ", "reading": "ā (father)" },
+      { "char": "इ", "reading": "i (sit)" },
+      { "char": "ई", "reading": "ī (see)" },
+      { "char": "उ", "reading": "u (put)" },
+      { "char": "ऊ", "reading": "ū (food)" },
+      { "char": "ऋ", "reading": "ṛi (ri)" },
+      { "char": "ए", "reading": "e (they)" },
+      { "char": "ऐ", "reading": "ai (open \"e\")" },
+      { "char": "ओ", "reading": "o (go)" },
+      { "char": "औ", "reading": "au (open \"o\")" }
+     ]
+    },
+    {
+     "label": "Consonants 33",
+     "cols": 6,
+     "cells": [
+      { "char": "क", "reading": "ka" },
+      { "char": "ख", "reading": "kha (puff)" },
+      { "char": "ग", "reading": "ga" },
+      { "char": "घ", "reading": "gha (puff)" },
+      { "char": "ङ", "reading": "ṅa (ng)" },
+      { "char": "च", "reading": "cha" },
+      { "char": "छ", "reading": "chha (puff)" },
+      { "char": "ज", "reading": "ja" },
+      { "char": "झ", "reading": "jha (puff)" },
+      { "char": "ञ", "reading": "ña (ny)" },
+      { "char": "ट", "reading": "ṭa (retroflex)" },
+      { "char": "ठ", "reading": "ṭha (retroflex, puff)" },
+      { "char": "ड", "reading": "ḍa (retroflex)" },
+      { "char": "ढ", "reading": "ḍha (retroflex, puff)" },
+      { "char": "ण", "reading": "ṇa (retroflex)" },
+      { "char": "त", "reading": "ta (dental)" },
+      { "char": "थ", "reading": "tha (dental, puff)" },
+      { "char": "द", "reading": "da (dental)" },
+      { "char": "ध", "reading": "dha (dental, puff)" },
+      { "char": "न", "reading": "na" },
+      { "char": "प", "reading": "pa" },
+      { "char": "फ", "reading": "pha (puff)" },
+      { "char": "ब", "reading": "ba" },
+      { "char": "भ", "reading": "bha (puff)" },
+      { "char": "म", "reading": "ma" },
+      { "char": "य", "reading": "ya" },
+      { "char": "र", "reading": "ra (flapped)" },
+      { "char": "ल", "reading": "la" },
+      { "char": "व", "reading": "va / wa" },
+      { "char": "श", "reading": "sha" },
+      { "char": "ष", "reading": "ṣha (retroflex sh)" },
+      { "char": "स", "reading": "sa" },
+      { "char": "ह", "reading": "ha" }
+     ]
+    }
+   ]
   },
   "sounds": [
    {

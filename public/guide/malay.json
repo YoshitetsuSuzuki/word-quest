@@ -7,6 +7,48 @@
    "body": "英語と同じ26文字だけで、記号も付きません。綴りと音がほぼ一対一なので、初めて見る単語もその場で声に出せます。インドネシア語とは綴りも文法も大半が共通で、おおむね話が通じます。ただし日常語には違いがあり、「できる」は boleh（インドネシアでは bisa。boleh は「〜してよい」の意味に寄ります）、「事務所」は pejabat（同じく kantor）のように別の語を使います。",
    "sample": { "text": "Bahasa Melayu", "reading": "バハサ ムラユ", "meaning": "マレー語" }
   },
+  "chart": {
+   "title": "読み方で迷う字は、これだけです",
+   "note": "文字は英語と同じ26字。アクセント記号も、英語に無い字もありません。だから新しく覚えるのは、下に並べた分だけです。",
+   "groups": [
+    {
+     "label": "母音 5（e だけ2通り）",
+     "cols": 5,
+     "cells": [
+      { "char": "a", "reading": "ア", "hint": "apa アパ＝何" },
+      { "char": "e", "reading": "ウに近い曖昧な音／エ（2通り）", "hint": "besar ブサール ／ merah メラ" },
+      { "char": "i", "reading": "イ", "hint": "ini イニ＝これ" },
+      { "char": "o", "reading": "オ", "hint": "kopi コピ＝コーヒー" },
+      { "char": "u", "reading": "ウ", "hint": "untuk ウントゥッ＝〜のために" }
+     ]
+    },
+    {
+     "label": "読み方が違う字 9",
+     "cols": 5,
+     "cells": [
+      { "char": "c", "reading": "チャ行（カでもサでもない）", "hint": "cari チャリ＝探す" },
+      { "char": "ng", "reading": "鼻に抜ける「ン」。2字で1つの音", "hint": "orang オラン＝人" },
+      { "char": "ny", "reading": "ニャ行", "hint": "nyanyi ニャニ＝歌う" },
+      { "char": "sy", "reading": "シュ", "hint": "syarikat シャリカッ＝会社" },
+      { "char": "kh", "reading": "カ（喉をこするように）", "hint": "khabar カバル＝知らせ" },
+      { "char": "gh", "reading": "ガ（喉の奥で）", "hint": "maghrib マグリブ＝日没" },
+      { "char": "h", "reading": "ハ（語中・語末では弱い）", "hint": "merah メラ＝赤い" },
+      { "char": "r", "reading": "ラ行（舌先を軽く弾く）", "hint": "terima トゥリマ＝受け取る" },
+      { "char": "-k", "reading": "語末では喉で止める。「ク」と言わない", "hint": "tidak ティダッ＝いいえ" }
+     ]
+    },
+    {
+     "label": "読んでみる 4語",
+     "cols": 2,
+     "cells": [
+      { "char": "saya", "reading": "サヤ（ヤは軽く）", "hint": "私" },
+      { "char": "merah", "reading": "メラ", "hint": "赤い（e は「エ」の方）" },
+      { "char": "boleh", "reading": "ボレ", "hint": "できる／〜してよい" },
+      { "char": "terima kasih", "reading": "トゥリマ カシ", "hint": "ありがとう" }
+     ]
+    }
+   ]
+  },
   "sounds": [
    {
     "title": "c は「チャ行」で読みます",
@@ -49,6 +91,48 @@
    "title": "The same 26 letters, spelled the way it sounds",
    "body": "Malay uses the Latin alphabet — all 26 letters, no accent marks, nothing new to learn. Spelling maps onto sound almost one-to-one, so you can read a new word aloud the first time you meet it. Indonesian shares most of its spelling and grammar, and the two are largely mutually intelligible — though everyday words differ: 'can' is boleh here, where Indonesian would say bisa (Indonesian keeps boleh, but for 'may' rather than 'can'), and an office is a pejabat, not a kantor.",
    "sample": { "text": "Bahasa Melayu", "reading": "ba-ha-sa muh-la-yu", "meaning": "the Malay language" }
+  },
+  "chart": {
+   "title": "Everything you have to be told, on one page",
+   "note": "The alphabet is the same 26 letters as English, with no accent marks and no extra letters. What is listed below is all there is to learn.",
+   "groups": [
+    {
+     "label": "Five vowels (e does the work of two)",
+     "cols": 5,
+     "cells": [
+      { "char": "a", "reading": "ah", "hint": "apa (a-pa) = what" },
+      { "char": "e", "reading": "a slack uh, or a clear eh — two sounds", "hint": "besar (buh-sar) / merah (meh-rah)" },
+      { "char": "i", "reading": "ee", "hint": "ini (ee-ni) = this" },
+      { "char": "o", "reading": "oh", "hint": "kopi (ko-pi) = coffee" },
+      { "char": "u", "reading": "oo", "hint": "untuk (oon-to(k)) = for" }
+     ]
+    },
+    {
+     "label": "Nine spellings read differently",
+     "cols": 5,
+     "cells": [
+      { "char": "c", "reading": "ch as in chair — never k, never s", "hint": "cari (cha-ri) = to look for" },
+      { "char": "ng", "reading": "the ng of singer: two letters, one sound", "hint": "orang (o-rang) = person" },
+      { "char": "ny", "reading": "ny as in canyon", "hint": "nyanyi (nya-nyi) = to sing" },
+      { "char": "sy", "reading": "sh as in shop", "hint": "syarikat (sha-ri-kat) = company" },
+      { "char": "kh", "reading": "k with a rasp, as in loch", "hint": "khabar (kha-bar) = news" },
+      { "char": "gh", "reading": "g growled at the back of the throat", "hint": "maghrib (magh-rib) = sunset" },
+      { "char": "h", "reading": "h, soft inside and at the end of a word", "hint": "merah (meh-rah) = red" },
+      { "char": "r", "reading": "a light tapped r", "hint": "terima (tuh-ree-ma) = to receive" },
+      { "char": "-k", "reading": "at the end of a word, stopped in the throat", "hint": "tidak (tee-da(k)) = no" }
+     ]
+    },
+    {
+     "label": "Four words to try",
+     "cols": 2,
+     "cells": [
+      { "char": "saya", "reading": "sa-yuh", "hint": "I, me" },
+      { "char": "merah", "reading": "meh-rah", "hint": "red (here e is the clear eh)" },
+      { "char": "boleh", "reading": "bo-leh", "hint": "can, may" },
+      { "char": "terima kasih", "reading": "tuh-ree-ma ka-sih", "hint": "thank you" }
+     ]
+    }
+   ]
   },
   "sounds": [
    {
