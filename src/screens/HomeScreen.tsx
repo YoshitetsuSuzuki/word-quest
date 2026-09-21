@@ -10,13 +10,13 @@ import { FriendsHomeCard } from '../modules/friends/FriendsHomeCard'
 import { WeeklyChart } from '../components/WeeklyChart'
 import { PetWidget } from '../components/PetWidget'
 import { UpdateBanner } from '../components/UpdateBanner'
-import { categories } from '../data/categories'
+import { categories, CATEGORY_ID_PREFIX } from '../data/categories'
 import { usePinnedCategories } from '../state/pinnedCategories'
 import { todayStr } from '../state/dateUtils'
 import { LEAGUES, standings, myRank } from '../modules/league/leagueLogic'
 import { WidgetService } from '../services/WidgetService'
 import { GameCenterService, LEADERBOARD, GC_ACHIEVEMENT } from '../services/GameCenterService'
-import { wordFromPrompt } from '../utils/speech'
+import { wordFromPrompt, canSpeakCategory } from '../utils/speech'
 import { loc } from '../i18n'
 import type { Strings } from '../i18n/types'
 
@@ -55,7 +55,9 @@ export function HomeScreen() {
   const dailyGoal = user.dailyGoal || DAILY_GOAL
   const todayDone = user.todayAnsweredDate === todayStr() ? user.todayAnswered : 0
   // 習得率（このジャンルで一度でも正解した語 / 出題可能語数）
-  const prefix = category === 'chinese' ? 'zh' : category === 'korean' ? 'ko' : category === 'japanese' ? 'jp' : category === 'spanish' ? 'es' : category === 'french' ? 'fr' : category === 'german' ? 'de' : category === 'portuguese' ? 'pt' : category === 'russian' ? 'ru' : category === 'polish' ? 'pl' : category === 'hindi' ? 'hi' : category === 'arabic' ? 'ar' : category === 'tagalog' ? 'tl' : category === 'italian' ? 'it' : category === 'mongolian' ? 'mn' : category === 'bengali' ? 'bn' : 'en'
+  // 接頭辞は categories.ts の一箇所で持つ。ここに対応表を書き写していたため、
+  // 後から足した6言語が英語の記録を拾ってしまっていた。
+  const prefix = CATEGORY_ID_PREFIX[category] + '-'
   const learnedInCat = user.learnedQuestionIds.filter((id) => id.startsWith(prefix)).length
   const totalInCat = ready ? engine.categorySize(category) : 0
   const catLabel = t(catNameKey(category))
@@ -241,7 +243,9 @@ export function HomeScreen() {
         </button>
       </div>
 
-      {/* リスニングモード */}
+      {/* リスニングモード。端末に音声が無い言語では出さない。
+          出してしまうと「聞いて意味を選ぶ」のに無音で、勘で答えるしかなくなる。 */}
+      {canSpeakCategory(category) && (
       <button
         onClick={() => {
           setQuizMode('listening')
@@ -255,6 +259,7 @@ export function HomeScreen() {
           {category === 'english' ? t('home.listenHintSpell') : t('home.listenHintChoice')}
         </span>
       </button>
+      )}
 
       {/* よく使う表現（フレーズが用意されているジャンルのみ） */}
       {ready && engine.hasPhrases(category) && (

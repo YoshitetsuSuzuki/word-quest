@@ -12,6 +12,27 @@ export interface CategoryInfo {
 }
 
 /**
+ * 出題IDの接頭辞（`en-00042` の `en`）。
+ *
+ * 学習記録(learnedQuestionIds / reviewQueue / wordStats)はIDの接頭辞で
+ * ジャンルを見分けている。画面ごとに対応表を手書きしていたため、
+ * 後から足した言語が漏れて英語の記録を拾う不具合が起きていた。
+ * ここを単一の正とし、release-check がワードバンクの実データと突き合わせる。
+ */
+export const CATEGORY_ID_PREFIX: Record<Category, string> = {
+  english: 'en', chinese: 'zh', japanese: 'jp', korean: 'ko', spanish: 'es',
+  german: 'de', french: 'fr', portuguese: 'pt', polish: 'pl', russian: 'ru',
+  hindi: 'hi', arabic: 'ar', tagalog: 'tl', italian: 'it', mongolian: 'mn',
+  bengali: 'bn', malay: 'ms', indonesian: 'id', urdu: 'ur', turkish: 'tr',
+  vietnamese: 'vi', esperanto: 'eo',
+}
+
+/** そのジャンルの出題IDかどうか。接頭辞の取り違えを一箇所に閉じ込める。 */
+export function isIdOfCategory(id: string, category: Category): boolean {
+  return id.startsWith(CATEGORY_ID_PREFIX[category] + '-')
+}
+
+/**
  * 学習ジャンルのカタログ（データ駆動）。
  * questions.<cat>.ts を追加し available:true にするだけで新ジャンルが遊べる。
  */

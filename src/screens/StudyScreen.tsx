@@ -7,7 +7,7 @@ import { speakWord, canSpeakCategory , isIpaPronunciation} from '../utils/speech
 import { ProgressBar } from '../components/ProgressBar'
 import { ExampleCardModal } from '../components/ExampleCardModal'
 import { PhraseCardModal } from '../components/PhraseCardModal'
-import { categories } from '../data/categories'
+import { categories, CATEGORY_ID_PREFIX } from '../data/categories'
 import type { Question, Category } from '../types'
 import type { Strings } from '../i18n/types'
 
@@ -26,7 +26,6 @@ type Tab = 'weak' | 'learned' | 'deck'
  */
 const STUDY_AD_AFTER = 40
 
-const CAT_PREFIX: Record<string, string> = { english: 'en', chinese: 'zh', korean: 'ko', japanese: 'jp', spanish: 'es', french: 'fr', german: 'de', portuguese: 'pt', russian: 'ru', polish: 'pl' }
 const catNameKey = (id: string) => `cat.${id}` as keyof Strings
 
 export function StudyScreen() {
@@ -57,7 +56,8 @@ export function StudyScreen() {
   // まなびでも学習ジャンルを切り替えられる(ホームと同じく母語で使えるジャンルのみ)
   const localeCats = categories.filter((c) => c.availableLocales.includes(locale) && c.available)
   const ready = isCategoryReady(category)
-  const prefix = CAT_PREFIX[category] ?? 'en'
+  // 接頭辞は categories.ts の一箇所で持つ。ここに書き写すと言語追加のたびに漏れる。
+  const prefix = CATEGORY_ID_PREFIX[category] + '-'
 
   // 学習ジャンルのデータを読み込む
   useEffect(() => {

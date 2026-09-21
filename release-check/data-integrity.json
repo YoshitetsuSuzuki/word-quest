@@ -56,7 +56,9 @@
     "nullish": 0,
     "idDup": 0,
     "idMissing": 0,
-    "manifestMismatch": 0
+    "manifestMismatch": 0,
+    "choiceNotAnAnswer": 0,
+    "choicesLanguageMixed": 0
    },
    "pass": true
   },
@@ -101,7 +103,9 @@
     "nullish": 0,
     "idDup": 0,
     "idMissing": 0,
-    "manifestMismatch": 0
+    "manifestMismatch": 0,
+    "choiceNotAnAnswer": 0,
+    "choicesLanguageMixed": 0
    },
    "pass": true
   },
@@ -146,7 +150,9 @@
     "nullish": 0,
     "idDup": 0,
     "idMissing": 0,
-    "manifestMismatch": 0
+    "manifestMismatch": 0,
+    "choiceNotAnAnswer": 0,
+    "choicesLanguageMixed": 0
    },
    "pass": true
   },
@@ -191,7 +197,9 @@
     "nullish": 0,
     "idDup": 0,
     "idMissing": 0,
-    "manifestMismatch": 0
+    "manifestMismatch": 0,
+    "choiceNotAnAnswer": 0,
+    "choicesLanguageMixed": 0
    },
    "pass": true
   },
@@ -236,7 +244,9 @@
     "nullish": 0,
     "idDup": 0,
     "idMissing": 0,
-    "manifestMismatch": 0
+    "manifestMismatch": 0,
+    "choiceNotAnAnswer": 0,
+    "choicesLanguageMixed": 0
    },
    "pass": true
   },
@@ -281,7 +291,9 @@
     "nullish": 0,
     "idDup": 0,
     "idMissing": 0,
-    "manifestMismatch": 0
+    "manifestMismatch": 0,
+    "choiceNotAnAnswer": 0,
+    "choicesLanguageMixed": 0
    },
    "pass": true
   },
@@ -326,7 +338,9 @@
     "nullish": 0,
     "idDup": 0,
     "idMissing": 0,
-    "manifestMismatch": 0
+    "manifestMismatch": 0,
+    "choiceNotAnAnswer": 0,
+    "choicesLanguageMixed": 0
    },
    "pass": true
   },
@@ -361,7 +375,9 @@
     "nullish": 0,
     "idDup": 0,
     "idMissing": 0,
-    "manifestMismatch": 0
+    "manifestMismatch": 0,
+    "choiceNotAnAnswer": 0,
+    "choicesLanguageMixed": 0
    },
    "pass": true
   },
@@ -396,7 +412,9 @@
     "nullish": 0,
     "idDup": 0,
     "idMissing": 0,
-    "manifestMismatch": 0
+    "manifestMismatch": 0,
+    "choiceNotAnAnswer": 0,
+    "choicesLanguageMixed": 0
    },
    "pass": true
   },
@@ -431,7 +449,9 @@
     "nullish": 0,
     "idDup": 0,
     "idMissing": 0,
-    "manifestMismatch": 0
+    "manifestMismatch": 0,
+    "choiceNotAnAnswer": 0,
+    "choicesLanguageMixed": 0
    },
    "pass": true
   },
@@ -466,7 +486,9 @@
     "nullish": 0,
     "idDup": 0,
     "idMissing": 0,
-    "manifestMismatch": 0
+    "manifestMismatch": 0,
+    "choiceNotAnAnswer": 0,
+    "choicesLanguageMixed": 0
    },
    "pass": true
   },
@@ -501,7 +523,9 @@
     "nullish": 0,
     "idDup": 0,
     "idMissing": 0,
-    "manifestMismatch": 0
+    "manifestMismatch": 0,
+    "choiceNotAnAnswer": 0,
+    "choicesLanguageMixed": 0
    },
    "pass": true
   },
@@ -536,7 +560,9 @@
     "nullish": 0,
     "idDup": 0,
     "idMissing": 0,
-    "manifestMismatch": 0
+    "manifestMismatch": 0,
+    "choiceNotAnAnswer": 0,
+    "choicesLanguageMixed": 0
    },
    "pass": true
   },
@@ -571,7 +597,9 @@
     "nullish": 0,
     "idDup": 0,
     "idMissing": 0,
-    "manifestMismatch": 0
+    "manifestMismatch": 0,
+    "choiceNotAnAnswer": 0,
+    "choicesLanguageMixed": 0
    },
    "pass": true
   },
@@ -606,7 +634,9 @@
     "nullish": 0,
     "idDup": 0,
     "idMissing": 0,
-    "manifestMismatch": 0
+    "manifestMismatch": 0,
+    "choiceNotAnAnswer": 0,
+    "choicesLanguageMixed": 0
    },
    "pass": true
   },
@@ -641,7 +671,9 @@
     "nullish": 0,
     "idDup": 0,
     "idMissing": 0,
-    "manifestMismatch": 0
+    "manifestMismatch": 0,
+    "choiceNotAnAnswer": 0,
+    "choicesLanguageMixed": 0
    },
    "pass": true
   },
@@ -676,7 +708,9 @@
     "nullish": 0,
     "idDup": 0,
     "idMissing": 0,
-    "manifestMismatch": 0
+    "manifestMismatch": 0,
+    "choiceNotAnAnswer": 0,
+    "choicesLanguageMixed": 0
    },
    "pass": true
   },
@@ -711,7 +745,9 @@
     "nullish": 0,
     "idDup": 0,
     "idMissing": 0,
-    "manifestMismatch": 0
+    "manifestMismatch": 0,
+    "choiceNotAnAnswer": 0,
+    "choicesLanguageMixed": 0
    },
    "pass": true
   },
@@ -746,7 +782,9 @@
     "nullish": 0,
     "idDup": 0,
     "idMissing": 0,
-    "manifestMismatch": 0
+    "manifestMismatch": 0,
+    "choiceNotAnAnswer": 0,
+    "choicesLanguageMixed": 0
    },
    "pass": true
   },
@@ -781,7 +819,9 @@
     "nullish": 0,
     "idDup": 0,
     "idMissing": 0,
-    "manifestMismatch": 0
+    "manifestMismatch": 0,
+    "choiceNotAnAnswer": 0,
+    "choicesLanguageMixed": 0
    },
    "pass": true
   },
@@ -816,7 +856,9 @@
     "nullish": 0,
     "idDup": 0,
     "idMissing": 0,
-    "manifestMismatch": 0
+    "manifestMismatch": 0,
+    "choiceNotAnAnswer": 0,
+    "choicesLanguageMixed": 0
    },
    "pass": true
   },
@@ -851,7 +893,9 @@
     "nullish": 0,
     "idDup": 0,
     "idMissing": 0,
-    "manifestMismatch": 0
+    "manifestMismatch": 0,
+    "choiceNotAnAnswer": 0,
+    "choicesLanguageMixed": 0
    },
    "pass": true
   }

@@ -82,13 +82,12 @@ export function ListeningScreen() {
   // 例文訳・意味のロケール対応(ja では従来の和訳/answer にフォールバック＝挙動不変)
   const exTranslation = q ? engine.localizedExample(q, locale)?.translation ?? (ex?.jpn ?? '') : ''
   const meaningGloss = q ? engine.localizedGloss(q, locale) : ''
-  // 音声→意味4択(非cloze)の選択肢。ja母語ネイティブ言語は保存済み q.choices、
-  // ピボット言語(西/仏/独)は正解が日本語訳なのでロケール別4択を生成。非jaも生成。
+  // 音声→意味4択(非cloze)の選択肢。保存済み choices をそのまま出す近道は置かない
+  // (韓国語は旧新形式が混在し、生の choices に英単語が混ざっていた)。
   const meaningChoices = useMemo(
     () => {
       if (!q) return []
-      const nativeJa = locale === 'ja' && engine.localizedGloss(q, 'ja') === q.answer
-      return nativeJa ? q.choices : engine.localizedChoices(q, locale)
+      return engine.localizedChoices(q, locale)
     },
     // eslint-disable-next-line react-hooks/exhaustive-deps
     [q?.id, locale],

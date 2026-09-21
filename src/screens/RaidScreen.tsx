@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react'
+import { useEffect, useMemo, useState } from 'react'
 import { useGame } from '../state/GameContext'
 import { useNav } from '../state/nav'
 import { getRaidView } from '../modules/raid/raidLogic'
@@ -43,9 +43,14 @@ export function RaidScreen() {
     setAttacking(true)
   }
 
+  // 表示する4択はロケールの訳で作る。生の q.choices は言語が混ざりうる。
+  const correct = q ? engine.localizedGloss(q, locale) : ''
+  const choices = useMemo(() => (q ? engine.localizedChoices(q, locale) : []), [q?.id, locale])
+
   const onAnswer = (choice: string) => {
     if (!q || selected) return
-    const res = answerQuestion(q, choice, 1)
+    // 採点は生の answer で行うため、訳で選ばれた正解を元の文字列に戻す
+    const res = answerQuestion(q, choice === correct ? q.answer : choice, 1)
     setSelected(choice)
     setDidAttack(true)
     if (res.correct) setHit(true)
@@ -76,10 +81,10 @@ export function RaidScreen() {
           <div className="text-2xl font-black">{q.prompt}</div>
         </div>
         <div className="grid gap-2.5">
-          {q.choices.map((c) => {
+          {choices.map((c) => {
             let cls = 'btn-ghost'
             if (selected) {
-              if (c === q.answer) cls = 'btn bg-success/90 text-white'
+              if (c === correct) cls = 'btn bg-success/90 text-white'
               else if (c === selected) cls = 'btn bg-danger/90 text-white'
               else cls = 'btn bg-panel2 text-white/40'
             }

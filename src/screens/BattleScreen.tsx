@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useState } from 'react'
+import { useEffect, useMemo, useRef, useState } from 'react'
 import { showToast } from '../components/Toast'
 import { useGame } from '../state/GameContext'
 import { useNav } from '../state/nav'
@@ -19,7 +19,7 @@ type Phase = 'intro' | 'playing' | 'result'
 
 export function BattleScreen() {
   const { user, engine, finishBattle, chargeBattleFee, ensureCategory, isCategoryReady } = useGame()
-  const { navigate, category, t } = useNav()
+  const { navigate, category, t, locale } = useNav()
   const showInterstitial = useInterstitial()
   const opponent = useMemo(() => pickOpponent(user.eloRating), [user.eloRating])
   const ready = isCategoryReady(category)
@@ -50,9 +50,19 @@ export function BattleScreen() {
     setPhase('playing')
   }
 
+  // 問題ごとに一度だけ4択を作る。毎レンダーで作り直すと押すたび並びが変わる。
+  const choicesCache = useRef(new Map<string, string[]>())
+  const choicesOf = (q: Question) => {
+    const hit = choicesCache.current.get(q.id)
+    if (hit) return hit
+    const made = engine.localizedChoices(q, locale)
+    choicesCache.current.set(q.id, made)
+    return made
+  }
+
   const answer = (choice: string, q: Question) => {
     if (selected) return
-    const correct = choice === q.answer
+    const correct = choice === engine.localizedGloss(q, locale)
     const log: BattleAnswerLog = { correct, timeMs: Date.now() - shownAt }
     const nextLogs = [...logs, log]
     setSelected(choice)
@@ -113,9 +123,10 @@ export function BattleScreen() {
   if (phase === 'playing') {
     const q = questions[index]
     const myLive = computeScore(logs)
+    const correctGloss = engine.localizedGloss(q, locale)
     const style = (choice: string) => {
       if (!selected) return 'btn-ghost'
-      if (choice === q.answer) return 'btn bg-success/90 text-white'
+      if (choice === correctGloss) return 'btn bg-success/90 text-white'
       if (choice === selected) return 'btn bg-danger/90 text-white'
       return 'btn bg-panel2 text-white/40'
     }
@@ -137,7 +148,7 @@ export function BattleScreen() {
           <div className="text-2xl font-black">{q.prompt}</div>
         </div>
         <div className="grid grid-cols-1 gap-2.5">
-          {q.choices.map((c) => (
+          {choicesOf(q).map((c) => (
             <button key={c} disabled={!!selected} onClick={() => answer(c, q)} className={`${style(c)} py-3.5`}>
               {c}
             </button>

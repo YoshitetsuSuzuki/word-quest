@@ -7,14 +7,48 @@
 ## public/wordbank/ 配下の変更
 
 ```
- M public/wordbank/malay/level-2.json
- M public/wordbank/malay/level-3.json
- M public/wordbank/malay/manifest.json
- M public/wordbank/turkish/level-2.json
- M public/wordbank/turkish/level-3.json
- M public/wordbank/turkish/manifest.json
-?? public/wordbank/esperanto/
-?? public/wordbank/vietnamese/
+ M public/wordbank/bengali/level-1.json
+ M public/wordbank/bengali/level-2.json
+ M public/wordbank/bengali/level-3.json
+ M public/wordbank/chinese/level-1.json
+ M public/wordbank/chinese/level-2.json
+ M public/wordbank/chinese/level-3.json
+ M public/wordbank/chinese/level-4.json
+ M public/wordbank/chinese/level-5.json
+ M public/wordbank/english/level-1.json
+ M public/wordbank/english/level-2.json
+ M public/wordbank/english/level-3.json
+ M public/wordbank/english/level-4.json
+ M public/wordbank/english/level-5.json
+ M public/wordbank/english/level-6.json
+ M public/wordbank/english/level-7.json
+ M public/wordbank/french/level-1.json
+ M public/wordbank/french/level-2.json
+ M public/wordbank/french/level-3.json
+ M public/wordbank/french/level-4.json
+ M public/wordbank/french/level-5.json
+ M public/wordbank/german/level-1.json
+ M public/wordbank/german/level-2.json
+ M public/wordbank/german/level-3.json
+ M public/wordbank/german/level-4.json
+ M public/wordbank/german/level-5.json
+ M public/wordbank/italian/level-1.json
+ M public/wordbank/italian/level-2.json
+ M public/wordbank/italian/level-3.json
+ M public/wordbank/japanese/level-1.json
+ M public/wordbank/japanese/level-2.json
+ M public/wordbank/japanese/level-3.json
+ M public/wordbank/japanese/level-4.json
+ M public/wordbank/japanese/level-5.json
+ M public/wordbank/korean/level-1.json
+ M public/wordbank/korean/level-2.json
+ M public/wordbank/korean/level-3.json
+ M public/wordbank/polish/level-1.json
+ M public/wordbank/polish/level-2.json
+ M public/wordbank/polish/level-3.json
+ M public/wordbank/russian/level-1.json
+ M public/wordbank/russian/level-2.json
+ M public/wordbank/russian/level-3.json
 ```
 
 ## 今回のチェックで作成したファイル
@@ -27,35 +61,62 @@
 ## git status（全体）
 
 ```
-M public/wordbank/malay/level-2.json
- M public/wordbank/malay/level-3.json
- M public/wordbank/malay/manifest.json
- M public/wordbank/turkish/level-2.json
- M public/wordbank/turkish/level-3.json
- M public/wordbank/turkish/manifest.json
- M release-check/content-safety.json
- M release-check/content-safety.md
+M public/wordbank/bengali/level-1.json
+ M public/wordbank/bengali/level-2.json
+ M public/wordbank/bengali/level-3.json
+ M public/wordbank/chinese/level-1.json
+ M public/wordbank/chinese/level-2.json
+ M public/wordbank/chinese/level-3.json
+ M public/wordbank/chinese/level-4.json
+ M public/wordbank/chinese/level-5.json
+ M public/wordbank/english/level-1.json
+ M public/wordbank/english/level-2.json
+ M public/wordbank/english/level-3.json
+ M public/wordbank/english/level-4.json
+ M public/wordbank/english/level-5.json
+ M public/wordbank/english/level-6.json
+ M public/wordbank/english/level-7.json
+ M public/wordbank/french/level-1.json
+ M public/wordbank/french/level-2.json
+ M public/wordbank/french/level-3.json
+ M public/wordbank/french/level-4.json
+ M public/wordbank/french/level-5.json
+ M public/wordbank/german/level-1.json
+ M public/wordbank/german/level-2.json
+ M public/wordbank/german/level-3.json
+ M public/wordbank/german/level-4.json
+ M public/wordbank/german/level-5.json
+ M public/wordbank/italian/level-1.json
+ M public/wordbank/italian/level-2.json
+ M public/wordbank/italian/level-3.json
+ M public/wordbank/japanese/level-1.json
+ M public/wordbank/japanese/level-2.json
+ M public/wordbank/japanese/level-3.json
+ M public/wordbank/japanese/level-4.json
+ M public/wordbank/japanese/level-5.json
+ M public/wordbank/korean/level-1.json
+ M public/wordbank/korean/level-2.json
+ M public/wordbank/korean/level-3.json
+ M public/wordbank/polish/level-1.json
+ M public/wordbank/polish/level-2.json
+ M public/wordbank/polish/level-3.json
+ M public/wordbank/russian/level-1.json
+ M public/wordbank/russian/level-2.json
+ M public/wordbank/russian/level-3.json
  M release-check/data-integrity.json
- M release-check/data-integrity.md
  M release-check/manual-sample.csv
  M release-check/manual-sample.json
+ M release-check/no-data-mutation.md
  M release-check/question-engine-test.json
- M release-check/question-engine-test.md
  M release-check/unresolved-items.json
  M release-check/unresolved-items.md
  M src/data/categories.ts
- M src/i18n/en.ts
- M src/i18n/ja.ts
- M src/i18n/types.ts
- M src/repositories/LocalQuestionRepository.ts
- M src/types/index.ts
- M src/utils/speech.ts
+ M src/screens/BattleScreen.tsx
+ M src/screens/HomeScreen.tsx
+ M src/screens/ListeningScreen.tsx
+ M src/screens/QuizScreen.tsx
+ M src/screens/RaidScreen.tsx
+ M src/screens/StudyScreen.tsx
  M tools/release-check/stage1-integrity.mjs
- M tools/release-check/stage2-engine.test.ts
- M tools/release-check/stage3-4-safety-assets.mjs
- M tools/release-check/stage6-8-sample-unresolved.mjs
- M tools/wordgen/merge_wordbank.py
- M tools/wordgen/pipeline.py
-?? public/wordbank/esperanto/
-?? public/wordbank/vietnamese/
+?? tools/release-check/category-prefix.test.ts
 ```

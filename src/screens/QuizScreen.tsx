@@ -126,8 +126,11 @@ export function QuizScreen() {
   const displayChoices = useMemo(
     () => {
       if (!qForChoices) return []
-      const nativeJa = locale === 'ja' && engine.localizedGloss(qForChoices, 'ja') === qForChoices.answer
-      return nativeJa ? qForChoices.choices : engine.localizedChoices(qForChoices, locale)
+      // 保存済みの choices をそのまま出す近道は置かない。
+      // 韓国語は旧形式(answer=日本語)と新形式(answer=英語)が混在しており、
+      // 生の choices には英単語が混ざっていて日本語の4択が壊れていた。
+      // localizedChoices は「そのロケールの訳を持つ語」だけから誤答を作るので混在しない。
+      return engine.localizedChoices(qForChoices, locale)
     },
     // eslint-disable-next-line react-hooks/exhaustive-deps
     [qForChoices?.id, locale],

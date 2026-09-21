@@ -122,6 +122,41 @@ for (const lang of LANGS) {
 
   L.checks = cnt
   L.pass = Object.values(cnt).every((v) => v === 0)
+
+  // --- 選択肢が「そのカテゴリの解答」だけで出来ているか ---
+  // 韓国語で、旧形式(answer=日本語)と新形式(answer=英語)の語が同じ誤答プールから
+  // 選ばれてしまい、日本語の4択に英単語が混ざって出ていた。実機で必ず見える不具合だった。
+  // ここで、①choices が全て同カテゴリの answer であること
+  //         ②ja訳を持つ語と持たない語が同じ4択に混ざらないこと を見る。
+  {
+    const all = []
+    for (const lv of man.levels || []) {
+      const p2 = path.join(dir, lv.file)
+      if (!fs.existsSync(p2)) continue
+      try { all.push(...JSON.parse(fs.readFileSync(p2, 'utf8'))) } catch { /* 上で報告済み */ }
+    }
+    const answers = new Set(all.map((e) => e && e.answer).filter(Boolean))
+    const hasJa = new Map(all.filter((e) => e && e.answer).map((e) => [e.answer, !!(e.glosses && e.glosses.ja)]))
+    let unknown = 0
+    let mixed = 0
+    for (const e of all) {
+      if (!e || !Array.isArray(e.choices)) continue
+      if (e.choices.some((c) => !answers.has(c))) {
+        unknown++
+        if (unknown <= 5) issues.push({ severity: 'Critical', language: lang, type: 'choice_not_an_answer', id: e.id, detail: JSON.stringify(e.choices).slice(0, 160) })
+      }
+      const kinds = new Set(e.choices.map((c) => hasJa.get(c) === true))
+      if (kinds.size > 1) {
+        mixed++
+        if (mixed <= 5) issues.push({ severity: 'Critical', language: lang, type: 'choices_language_mixed', id: e.id, detail: JSON.stringify(e.choices).slice(0, 160) })
+      }
+    }
+    L.checks.choiceNotAnAnswer = unknown
+    L.checks.choicesLanguageMixed = mixed
+    if (unknown > 5) issues.push({ severity: 'Critical', language: lang, type: 'choice_not_an_answer', detail: `他 ${unknown - 5} 件` })
+    if (mixed > 5) issues.push({ severity: 'Critical', language: lang, type: 'choices_language_mixed', detail: `他 ${mixed - 5} 件` })
+  }
+
   perLang.push(L)
 }
 

@@ -1663,10 +1663,10 @@
    "prompt": "「느낌」の意味は？",
    "answer": "feeling",
    "choices": [
-    "desert",
+    "high-class",
+    "sandwich",
     "feeling",
-    "科目",
-    "pie"
+    "number"
    ],
    "example": null,
    "pronunciation": "[nɯk͈im]",
@@ -1683,10 +1683,10 @@
    "prompt": "「마라톤」の意味は？",
    "answer": "marathon",
    "choices": [
-    "会う",
-    "barn",
     "marathon",
-    "language"
+    "antenna",
+    "transportation",
+    "policeman"
    ],
    "example": null,
    "pronunciation": "[ma̠ɾa̠tʰo̞n]",
@@ -1703,10 +1703,10 @@
    "prompt": "「햇살」の意味は？",
    "answer": "日差し",
    "choices": [
-    "without fail",
     "日差し",
-    "piloting",
-    "switch"
+    "放浪する",
+    "育てる",
+    "肘"
    ],
    "example": null,
    "pronunciation": "haetsal",
@@ -1720,10 +1720,10 @@
    "prompt": "「엄청」の意味は？",
    "answer": "very",
    "choices": [
-    "住所",
+    "fully",
+    "departure",
     "very",
-    "驚く",
-    "感染する"
+    "battle"
    ],
    "example": null,
    "pronunciation": "[ʌ̹mt͡ɕʰʌ̹ŋ]",
@@ -1740,10 +1740,10 @@
    "prompt": "「뒤쪽」の意味は？",
    "answer": "rear",
    "choices": [
-    "souvenir",
-    "体重",
-    "今年",
-    "rear"
+    "accusation",
+    "vanilla",
+    "rear",
+    "strategy"
    ],
    "example": null,
    "pronunciation": "[ˈtɥi(ː)t͡ɕ͈o̞k̚]",
@@ -1760,10 +1760,10 @@
    "prompt": "「지도」の意味は？",
    "answer": "地図",
    "choices": [
-    "candy",
     "地図",
-    "dust",
-    "とても"
+    "はい",
+    "時計",
+    "毎日"
    ],
    "example": "나는 지도를 보고 길을 찾는다. — 私は地図を見て道を探す。",
    "pronunciation": "jido",
@@ -1777,10 +1777,10 @@
    "prompt": "「포커」の意味は？",
    "answer": "poker",
    "choices": [
-    "尋ねる",
-    "power",
-    "Latin",
-    "poker"
+    "simulation",
+    "crackdown",
+    "poker",
+    "syndrome"
    ],
    "example": null,
    "pronunciation": "[pʰo̞kʰʌ̹]",
@@ -1797,10 +1797,10 @@
    "prompt": "「테스트」の意味は？",
    "answer": "test",
    "choices": [
-    "カード",
-    "decoration",
-    "basis",
-    "test"
+    "occurrence",
+    "test",
+    "headquarters",
+    "signal"
    ],
    "example": null,
    "pronunciation": "[tʰe̞sʰɯtʰɯ]",
@@ -1817,10 +1817,10 @@
    "prompt": "「라마」の意味は？",
    "answer": "llama",
    "choices": [
-    "夫",
-    "monopoly",
-    "謙虚",
-    "llama"
+    "llama",
+    "jungle",
+    "balance",
+    "supernatural"
    ],
    "example": null,
    "pronunciation": "[ɾa̠ma̠]",
@@ -1837,10 +1837,10 @@
    "prompt": "「아마도」の意味は？",
    "answer": "maybe",
    "choices": [
+    "invitation",
+    "psychiatry",
     "maybe",
-    "家事，歌詞",
-    "civilian",
-    "月"
+    "contact"
    ],
    "example": null,
    "pronunciation": "[a̠ma̠do̞]",
@@ -1857,10 +1857,10 @@
    "prompt": "「표」の意味は？",
    "answer": "チケット，切符",
    "choices": [
-    "coin",
-    "チケット，切符",
-    "土曜日",
-    "fatigue"
+    "涙",
+    "銀行",
+    "みんな",
+    "チケット，切符"
    ],
    "example": "나는 기차 표를 산다. — 私は汽車の切符を買う。",
    "pronunciation": "pyo",
@@ -1874,10 +1874,10 @@
    "prompt": "「안쪽」の意味は？",
    "answer": "inside",
    "choices": [
-    "生存する",
-    "barbecue",
-    "inside",
-    "silence"
+    "front",
+    "stimulation",
+    "souvenir",
+    "inside"
    ],
    "example": null,
    "pronunciation": "[a̠ɲt͡ɕ͈o̞k̚]",
@@ -1894,10 +1894,10 @@
    "prompt": "「소총」の意味は？",
    "answer": "rifle",
    "choices": [
+    "immunity",
+    "giraffe",
     "rifle",
-    "集める",
-    "福祉",
-    "設定"
+    "conversion"
    ],
    "example": null,
    "pronunciation": "[ˈsʰo̞(ː)t͡ɕʰo̞ŋ]",
@@ -1914,10 +1914,10 @@
    "prompt": "「영원히」の意味は？",
    "answer": "forever",
    "choices": [
-    "rooftop",
-    "表現する",
+    "costume",
+    "test",
     "forever",
-    "四つ"
+    "attack"
    ],
    "example": null,
    "pronunciation": "[ˈjɘ(ː)ŋwʌ̹nʝi]",
@@ -1935,9 +1935,9 @@
    "answer": "just",
    "choices": [
     "just",
-    "資源",
-    "感激する",
-    "出国する"
+    "flight",
+    "drive",
+    "fun"
    ],
    "example": null,
    "pronunciation": "[kɯd͡ʑʌ̹]",
@@ -1954,10 +1954,10 @@
    "prompt": "「방지」の意味は？",
    "answer": "prevention",
    "choices": [
+    "mattress",
     "prevention",
-    "理由",
-    "team",
-    "slope"
+    "uneasy",
+    "audio"
    ],
    "example": null,
    "pronunciation": "[pa̠ŋd͡ʑi]",
@@ -1974,10 +1974,10 @@
    "prompt": "「트로피」の意味は？",
    "answer": "trophy",
    "choices": [
-    "poker",
-    "外食",
-    "対処する",
-    "trophy"
+    "trophy",
+    "llama",
+    "expansion",
+    "stimulation"
    ],
    "example": null,
    "pronunciation": "[tʰɯɾo̞pʰi]",
@@ -1994,10 +1994,10 @@
    "prompt": "「뒷산」の意味は？",
    "answer": "裏山",
    "choices": [
-    "裏山",
-    "roughly",
-    "coat",
-    "本"
+    "おいしい",
+    "日本語",
+    "最後",
+    "裏山"
    ],
    "example": null,
    "pronunciation": "dwitsan",
@@ -2011,10 +2011,10 @@
    "prompt": "「아가씨」の意味は？",
    "answer": "Miss",
    "choices": [
-    "おかず",
-    "balance",
+    "prediction",
     "Miss",
-    "safe"
+    "maintenance",
+    "suicide"
    ],
    "example": null,
    "pronunciation": "[a̠ɡa̠ɕ͈i]",
@@ -2031,10 +2031,10 @@
    "prompt": "「교통」の意味は？",
    "answer": "交通",
    "choices": [
-    "error",
-    "発達する",
+    "移住する",
+    "天気",
     "交通",
-    "design"
+    "短所"
    ],
    "example": "이 도시는 교통이 아주 편리하다. — この都市は交通がとても便利だ。",
    "pronunciation": "gyotong",
@@ -2048,9 +2048,9 @@
    "prompt": "「가구」の意味は？",
    "answer": "家具",
    "choices": [
-    "練習",
-    "観客",
-    "well",
+    "負傷",
+    "危険だ",
+    "アルバイト",
     "家具"
    ],
    "example": null,
@@ -2065,10 +2065,10 @@
    "prompt": "「우주인」の意味は？",
    "answer": "astronaut",
    "choices": [
-    "今回",
+    "ballet",
+    "to prefer",
     "astronaut",
-    "恋愛",
-    "映画"
+    "captive"
    ],
    "example": null,
    "pronunciation": "[ˈu(ː)d͡ʑuin]",
@@ -2085,10 +2085,10 @@
    "prompt": "「끼니」の意味は？",
    "answer": "一食",
    "choices": [
-    "一食",
-    "情報",
-    "still",
-    "入札"
+    "小売",
+    "ウェブサイト",
+    "提案する",
+    "一食"
    ],
    "example": null,
    "pronunciation": "kkini",
@@ -2102,10 +2102,10 @@
    "prompt": "「사고」の意味は？",
    "answer": "事故",
    "choices": [
-    "いいえ",
+    "建物",
     "事故",
-    "champion",
-    "受付"
+    "毛布",
+    "遅れる"
    ],
    "example": "길에서 작은 사고가 났다. — 道で小さな事故が起きた。",
    "pronunciation": "sago",
@@ -2119,10 +2119,10 @@
    "prompt": "「경제」の意味は？",
    "answer": "経済",
    "choices": [
-    "always",
     "経済",
-    "授業",
-    "処方"
+    "愛する",
+    "会社員",
+    "遅れる"
    ],
    "example": "요즘 경제가 아주 어렵다. — 最近経済がとても厳しい。",
    "pronunciation": "gyeongje",
@@ -2137,9 +2137,9 @@
    "answer": "exposure",
    "choices": [
     "exposure",
-    "考える",
-    "publicity",
-    "stadium"
+    "stillness",
+    "toenail",
+    "beautiful"
    ],
    "example": null,
    "pronunciation": "[no̞t͡ɕʰuɭ]",
@@ -2156,10 +2156,10 @@
    "prompt": "「가전제품」の意味は？",
    "answer": "家電製品",
    "choices": [
-    "仕入れ",
-    "noble",
-    "to ruin",
-    "家電製品"
+    "寒い",
+    "家電製品",
+    "覚える",
+    "決して"
    ],
    "example": null,
    "pronunciation": "gajeonjepum",
@@ -2173,10 +2173,10 @@
    "prompt": "「토네이도」の意味は？",
    "answer": "tornado",
    "choices": [
+    "proximity",
+    "blessing",
     "tornado",
-    "入る",
-    "残業",
-    "clown"
+    "giraffe"
    ],
    "example": null,
    "pronunciation": "[tʰo̞ne̞ido̞]",
@@ -2210,10 +2210,10 @@
    "prompt": "「역사」の意味は？",
    "answer": "歴史",
    "choices": [
-    "cell",
     "歴史",
-    "大使館",
-    "breakdown"
+    "発展する",
+    "ゴミ",
+    "書店"
    ],
    "example": "나는 역사를 아주 좋아한다. — 私は歴史がとても好きだ。",
    "pronunciation": "yeoksa",
@@ -11827,9 +11827,9 @@
    "prompt": "「gối dựa」の意味は？",
    "answer": "a backrest cushion",
    "choices": [
-    "ruthless",
+    "sad",
     "machete",
-    "to ponder",
+    "to pour",
     "a backrest cushion"
    ],
    "example": null,
@@ -11849,8 +11849,8 @@
    "choices": [
     "a favor",
     "a gang, clique",
-    "winding",
-    "toothpick"
+    "wine",
+    "topsy-turvy"
    ],
    "example": null,
    "pronunciation": "[ʔən˧˧ hwe˧˨ʔ]",
@@ -11867,10 +11867,10 @@
    "prompt": "「cắm trại」の意味は？",
    "answer": "to camp",
    "choices": [
-    "woodland",
+    "woodpecker",
     "a match (for fire)",
     "to camp",
-    "the past"
+    "the plague"
    ],
    "example": null,
    "pronunciation": "[kam˧˦ t͡ɕaːj˧˨ʔ]",
@@ -11889,7 +11889,7 @@
    "choices": [
     "a gap",
     "paradox",
-    "the fishing industry",
+    "the past",
     "a folding pillow"
    ],
    "example": null,
@@ -11908,7 +11908,7 @@
    "answer": "dregs, residue",
    "choices": [
     "cowboy",
-    "short (in height)",
+    "shorts",
     "dregs, residue",
     "inflation"
    ],
@@ -11950,7 +11950,7 @@
     "backpack",
     "a flashlight",
     "to tease",
-    "quicklime"
+    "quiet, silent"
    ],
    "example": null,
    "pronunciation": "[t͡ɕew˧˧]",
@@ -11987,9 +11987,9 @@
    "prompt": "「kẽ」の意味は？",
    "answer": "gap, crack",
    "choices": [
-    "slippery",
+    "slit",
     "lemon",
-    "to slacken",
+    "to slaughter",
     "gap, crack"
    ],
    "example": null,
@@ -12107,8 +12107,8 @@
    "prompt": "「măng tô」の意味は？",
    "answer": "overcoat",
    "choices": [
-    "vibrator",
-    "to pull out",
+    "vile",
+    "to punch",
     "overcoat",
     "a fossil"
    ],
@@ -12129,8 +12129,8 @@
    "choices": [
     "rim",
     "bud",
-    "to calcify",
-    "to gather up"
+    "to camp",
+    "to giggle"
    ],
    "example": null,
    "pronunciation": "[vajŋ̟˨˩]",
@@ -12147,7 +12147,7 @@
    "prompt": "「xích vĩ」の意味は？",
    "answer": "declination",
    "choices": [
-    "to harass",
+    "to hasten",
     "a frog",
     "flagship",
     "declination"
@@ -12169,8 +12169,8 @@
    "choices": [
     "wax paper",
     "flagpole",
-    "to forge",
-    "to harass"
+    "to fret",
+    "to hasten"
    ],
    "example": null,
    "pronunciation": "[zəj˧˦ saːp̚˧˦]",
@@ -12189,8 +12189,8 @@
    "choices": [
     "furniture, belongings",
     "to tighten",
-    "quince",
-    "to retreat"
+    "rabies",
+    "to revolve around"
    ],
    "example": null,
    "pronunciation": "[tʰat̚˧˦ t͡ɕat̚˧˨ʔ]",
@@ -12207,7 +12207,7 @@
    "prompt": "「oanh liệt」の意味は？",
    "answer": "glorious",
    "choices": [
-    "reed",
+    "refrigerator",
     "crocodile",
     "encephalitis",
     "glorious"
@@ -12227,10 +12227,10 @@
    "prompt": "「bực bội」の意味は？",
    "answer": "to fret",
    "choices": [
-    "to ride",
-    "to smuggle",
+    "to ridicule",
+    "to sneeze",
     "to fret",
-    "to alternate"
+    "to apply, rub on"
    ],
    "example": null,
    "pronunciation": "[ʔɓɨk̚˧˨ʔ ʔɓoj˧˨ʔ]",
@@ -12267,9 +12267,9 @@
    "prompt": "「giếng」の意味は？",
    "answer": "well",
    "choices": [
-    "to apply, rub on",
+    "to attach, enclose",
     "iguana",
-    "party",
+    "passionate",
     "well"
    ],
    "example": null,
@@ -12409,8 +12409,8 @@
    "choices": [
     "headlight",
     "a carpenter",
-    "spaghetti",
-    "trauma"
+    "spare parts",
+    "treasury"
    ],
    "example": null,
    "pronunciation": "[tʰəː˧˨ʔ məwk͡p̚˧˨ʔ]",
