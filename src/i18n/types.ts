@@ -121,6 +121,15 @@ export interface Strings {
   'cat.turkish': string
   'cat.vietnamese': string
   'cat.esperanto': string
+  'guide.title': string
+  'guide.script': string
+  'guide.sounds': string
+  'guide.order': string
+  'guide.greetings': string
+  'guide.pitfall': string
+  'guide.cta': string
+  'guide.none': string
+  'guide.open': string
   'pet.newBadge': string; 'pet.addedPre': string; 'pet.addedSuffix': string
   'comeback.t.d3': string
   'comeback.b.d3': string

@@ -1,4 +1,4 @@
-import { useEffect } from 'react'
+import { useEffect, useState } from 'react'
 import { useGame } from '../state/GameContext'
 import { useNav } from '../state/nav'
 import { featureFlags } from '../config/featureFlags'
@@ -11,6 +11,7 @@ import { WeeklyChart } from '../components/WeeklyChart'
 import { PetWidget } from '../components/PetWidget'
 import { UpdateBanner } from '../components/UpdateBanner'
 import { categories, CATEGORY_ID_PREFIX } from '../data/categories'
+import { GuideModal, hasSeenGuide } from '../components/GuideModal'
 import { usePinnedCategories } from '../state/pinnedCategories'
 import { todayStr } from '../state/dateUtils'
 import { LEAGUES, standings, myRank } from '../modules/league/leagueLogic'
@@ -42,9 +43,14 @@ export function HomeScreen() {
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [locale])
 
+  // 「はじめかた」ガイド。初めてそのジャンルを選んだときに自動で開く。
+  // 文字が読めないまま4択を迫るのが、これまでの入口の悪さだった。
+  const [guideFor, setGuideFor] = useState<typeof category | null>(null)
+
   const selectCategory = (id: typeof category) => {
     setCategory(id)
     void ensureCategory(id) // 先読みしておく
+    if (!hasSeenGuide(id)) setGuideFor(id)
   }
   const levelLabel = (n: number) =>
     category === 'chinese' ? `HSK${n}` : category === 'japanese' ? `N${6 - n}` : `Lv${n}`
@@ -243,6 +249,16 @@ export function HomeScreen() {
         </button>
       </div>
 
+      {/* はじめかた。文字が読めない状態で4択に入らせないための入口。
+          一度見たあともここからいつでも開ける。 */}
+      <button
+        onClick={() => setGuideFor(category)}
+        className="btn-ghost w-full py-3 text-sm flex items-center justify-center gap-2"
+      >
+        {t('guide.open')}
+        <span className="text-xs text-white/45">{t('guide.title').replace('%s', t(catNameKey(category)))}</span>
+      </button>
+
       {/* リスニングモード。端末に音声が無い言語では出さない。
           出してしまうと「聞いて意味を選ぶ」のに無音で、勘で答えるしかなくなる。 */}
       {canSpeakCategory(category) && (
@@ -361,6 +377,8 @@ export function HomeScreen() {
           </div>
         </button>
       )}
+
+      {guideFor && <GuideModal category={guideFor} onClose={() => setGuideFor(null)} />}
     </div>
   )
 }

@@ -1,0 +1,91 @@
+{
+ "category": "korean",
+ "ja": {
+  "tagline": "文字さえ覚えれば読める。語順は日本語とほぼ同じで、日本人にいちばん学びやすい言語です。",
+  "script": {
+   "title": "ハングルは「記号」ではなく、組み立て式のアルファベット",
+   "body": "見慣れない模様に見えますが、部品は基本24個（子音14・母音10）しかありません。これを左右または上下に組んで、1文字ぶんの四角に収めます。部品を覚えれば、知らない単語でも読めます。",
+   "build": { "parts": "ㅎ + ㅏ + ㄴ", "result": "한", "reading": "ハン" },
+   "sample": { "text": "한국", "reading": "ハングク", "meaning": "韓国" }
+  },
+  "sounds": [
+   {
+    "title": "同じ文字でも、語頭と語中で濁ります",
+    "body": "ㄱ は語頭では「ク」に近く、母音にはさまれると「グ」に濁ります。日本語の「か」と「が」を書き分けないのと同じ感覚です。",
+    "sample": { "text": "한국", "reading": "ハングク", "meaning": "韓国（ハンククではない）" }
+   },
+   {
+    "title": "息の強さで3つに分かれます",
+    "body": "ㄱ（普通）・ㅋ（息を強く）・ㄲ（喉を詰めて）は日本語にない区別で、最初の関門です。ただし通じなくなるほどではないので、まずは「3種類ある」と知っておけば十分です。",
+    "sample": { "text": "가 / 카 / 까", "reading": "カ / カッ（息強め）/ ッカ", "meaning": "音の違いの例" }
+   },
+   {
+    "title": "文字の下に来る子音（パッチム）",
+    "body": "四角の下に置かれた子音をパッチムと呼びます。これがあると次の文字と音がつながります。",
+    "sample": { "text": "한국어", "reading": "ハングゴ", "meaning": "韓国語（ハングクオではない）" }
+   }
+  ],
+  "order": {
+   "type": "主語 → 目的語 → 動詞（日本語と同じ）",
+   "title": "語順も助詞も、日本語とほぼ同じです",
+   "body": "英語のように語順を組み替える必要がありません。「は」「を」にあたる助詞まであるので、日本語をそのまま置き換えていける場面が多くあります。",
+   "sample": { "text": "저는 밥을 먹어요", "reading": "チョヌン パブル モゴヨ", "meaning": "私は ごはんを 食べます" }
+  },
+  "greetings": [
+   { "text": "안녕하세요", "reading": "アンニョンハセヨ", "meaning": "こんにちは" },
+   { "text": "감사합니다", "reading": "カムサハムニダ", "meaning": "ありがとうございます" },
+   { "text": "죄송합니다", "reading": "チェソンハムニダ", "meaning": "すみません" },
+   { "text": "네", "reading": "ネ", "meaning": "はい" },
+   { "text": "안녕히 가세요", "reading": "アンニョンヒ カセヨ", "meaning": "さようなら（去る人へ）" }
+  ],
+  "pitfall": {
+   "title": "単語と単語の間を空けて書きます",
+   "body": "日本語は「私はごはんを食べます」と続けて書きますが、韓国語は英語のように単語の間を空けます。読むときも、空白が単語の切れ目の手がかりになります。",
+   "sample": { "text": "저는 밥을 먹어요", "reading": "チョヌン パブル モゴヨ", "meaning": "3つの区切りで書く" }
+  }
+ },
+ "en": {
+  "tagline": "Once you learn the letters you can read it, and the word order is close to Japanese.",
+  "script": {
+   "title": "Hangul is an alphabet you assemble, not a set of symbols",
+   "body": "It looks like unfamiliar shapes, but there are only 24 basic parts (14 consonants, 10 vowels). You stack them left-to-right or top-to-bottom inside one square block. Learn the parts and you can read words you have never seen.",
+   "build": { "parts": "ㅎ + ㅏ + ㄴ", "result": "한", "reading": "han" },
+   "sample": { "text": "한국", "reading": "han-guk", "meaning": "Korea" }
+  },
+  "sounds": [
+   {
+    "title": "The same letter softens between vowels",
+    "body": "ㄱ sounds like k at the start of a word and like g between vowels. Korean does not write the two separately.",
+    "sample": { "text": "한국", "reading": "han-guk", "meaning": "Korea (not han-kuk)" }
+   },
+   {
+    "title": "Three levels of breath",
+    "body": "ㄱ (plain), ㅋ (aspirated) and ㄲ (tense) are three different letters. English only has two of these, so this takes practice — but knowing the three exist is enough to start.",
+    "sample": { "text": "가 / 카 / 까", "reading": "ga / ka / kka", "meaning": "the three-way contrast" }
+   },
+   {
+    "title": "The consonant at the bottom (batchim)",
+    "body": "A consonant written under the block is called batchim. It links onto the next syllable when you speak.",
+    "sample": { "text": "한국어", "reading": "han-gu-geo", "meaning": "Korean language (not han-guk-eo)" }
+   }
+  ],
+  "order": {
+   "type": "Subject → Object → Verb",
+   "title": "The verb comes last",
+   "body": "Korean puts the verb at the end and marks each part with a small particle, rather like Japanese. Word order is flexible because the particles carry the grammar.",
+   "sample": { "text": "저는 밥을 먹어요", "reading": "jeoneun babeul meogeoyo", "meaning": "I eat rice (I-topic rice-object eat)" }
+  },
+  "greetings": [
+   { "text": "안녕하세요", "reading": "annyeonghaseyo", "meaning": "Hello" },
+   { "text": "감사합니다", "reading": "gamsahamnida", "meaning": "Thank you" },
+   { "text": "죄송합니다", "reading": "joesonghamnida", "meaning": "I'm sorry" },
+   { "text": "네", "reading": "ne", "meaning": "Yes" },
+   { "text": "안녕히 가세요", "reading": "annyeonghi gaseyo", "meaning": "Goodbye (to someone leaving)" }
+  ],
+  "pitfall": {
+   "title": "Korean puts spaces between words",
+   "body": "Unlike Japanese, Korean separates words with spaces the way English does. The spaces are a useful clue to where one word ends and the next begins.",
+   "sample": { "text": "저는 밥을 먹어요", "reading": "jeoneun babeul meogeoyo", "meaning": "written as three chunks" }
+  }
+ }
+}

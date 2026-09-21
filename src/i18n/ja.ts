@@ -118,6 +118,9 @@ export const ja: Strings = {
   'cat.turkish': 'トルコ語',
   'cat.vietnamese': 'ベトナム語',
   'cat.esperanto': 'エスペラント',
+  'guide.title': '%s のはじめかた', 'guide.script': 'もじ', 'guide.sounds': 'よみかた',
+  'guide.order': 'ごじゅん', 'guide.greetings': 'まず言える5つ', 'guide.pitfall': 'さいしょの壁',
+  'guide.cta': 'はじめる', 'guide.none': 'この言語のガイドはまだありません。', 'guide.open': '📖 はじめかた',
   'pet.newBadge': 'NEW', 'pet.addedPre': '✨ ', 'pet.addedSuffix': ' をなかまにした！',
   // 復帰通知（相棒が呼んでいる体で書く。%s は相棒の名前、%d は覚えた語数）
   'comeback.t.d3': '%sが待っています', 'comeback.b.d3': '3日ぶりだね！ちょっとだけ一緒にやらない？',
