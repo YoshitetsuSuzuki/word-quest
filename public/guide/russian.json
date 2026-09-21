@@ -1,0 +1,89 @@
+{
+ "category": "russian",
+ "ja": {
+  "tagline": "文字は33字。中にはラテン文字と同じ形のものもあり、思ったより早く読めるようになります。",
+  "script": {
+   "title": "キリル文字は33字のアルファベット",
+   "body": "音を表すアルファベットで、左から右へ並べて書きます。33字を、ラテン文字と形も音も同じ字（А К М О Т）、形は同じでも音が違う字（В＝ヴァ行、Н＝ナ行、Р＝ラ行（巻き舌）、С＝サ行の子音）、ラテン文字には無い、新しく覚える字（Ж Ш Щ Я Ю）の三組に分けると、覚える量はぐっと減ります。",
+   "sample": { "text": "Россия", "reading": "ラシーヤ", "meaning": "ロシア" }
+  },
+  "sounds": [
+   {
+    "title": "アクセントのない о は「ア」に近くなります",
+    "body": "молоко は「モロコ」ではなく「マラコー」。はっきり響くのはアクセントのある母音だけで、それ以外の о は「ア」に寄ります。アクセントの位置は普通の文章には書かれないので、単語ごとに音ごと覚えてしまうのが近道です。",
+    "sample": { "text": "молоко", "reading": "マラコー", "meaning": "牛乳（モロコではない）" }
+   },
+   {
+    "title": "ы は「イ」でも「ウ」でもない母音",
+    "body": "и（イ）とは別の母音で、舌を奥に引いたまま「イ」と言うと近い音になります。日本語にはないので最初は戸惑いますが、「ウ」に寄せた「イ」のつもりで出せば十分通じます。ты（君）や мы（私たち）など、毎日使う短い語によく出てきます。",
+    "sample": { "text": "ты", "reading": "トゥイ", "meaning": "君（親しい相手に言う「あなた」）" }
+   },
+   {
+    "title": "ь は音を持たず、前の子音をやわらげます",
+    "body": "単独では読まない文字で、直前の子音に「イ」を添えるように発音させます。соль は「ソル」ではなく「ソーリ」に、день も語末の н が軟らかくなって「ジェーニ」に近い音に（語頭が「ジェ」になるのは次の е のためです）。日本語の小さい「ゃゅょ」に似た働きの記号だと思ってください。",
+    "sample": { "text": "соль", "reading": "ソーリ", "meaning": "塩" }
+   }
+  ],
+  "order": {
+   "type": "主語 → 動詞 → 目的語（英語と同じ並びが基本）",
+   "title": "並びは英語と同じ。しかも入れ替えが利きます",
+   "body": "Я читаю книгу は「私は・読む・本を」の順で、英語とそろいます。しかもロシア語は語尾が各語の役割を示すため、順番を入れ替えても意味は壊れません。強調したい語を文の前に出す、という使い方をします。",
+   "sample": { "text": "Я читаю книгу", "reading": "ヤー チターユ クニーグ", "meaning": "私は 読む 本を" }
+  },
+  "greetings": [
+   { "text": "Здравствуйте", "reading": "ズドラーストヴィチェ", "meaning": "こんにちは（в を一つ読まない）" },
+   { "text": "Спасибо", "reading": "スパシーバ", "meaning": "ありがとう" },
+   { "text": "Извините", "reading": "イズヴィニーチェ", "meaning": "すみません" },
+   { "text": "Да / Нет", "reading": "ダー / ニェート", "meaning": "はい / いいえ" },
+   { "text": "До свидания", "reading": "ダスヴィダーニヤ", "meaning": "さようなら" }
+  ],
+  "pitfall": {
+   "title": "名詞は、文の中で語尾が変わります",
+   "body": "辞書に載っているのは книга（本）ですが、文の中では книгу になります。ロシア語は語尾で「〜を」「〜の」といった役割を示すからです。語尾が示す役割は全部で6通り（6つの格）ありますが、変わるのは末尾の一、二文字だけ。頭の部分を見れば同じ単語だと分かります。",
+   "sample": { "text": "книга → книгу", "reading": "クニーガ → クニーグ", "meaning": "本（辞書形）→ 本を" }
+  }
+ },
+ "en": {
+  "tagline": "Just 33 letters, several of them shapes you already know — you can start reading on day one.",
+  "script": {
+   "title": "Cyrillic is a 33-letter alphabet",
+   "body": "It spells out sounds and runs left to right. Sorting the 33 letters into three groups shrinks the job: ones that match Latin in both shape and sound (А К М О Т), ones that look Latin but sound different (В = v, Н = n, Р = r, С = s), and ones with no Latin lookalike (Ж Ш Щ Я Ю).",
+   "sample": { "text": "Россия", "reading": "Rossiya", "meaning": "Russia" }
+  },
+  "sounds": [
+   {
+    "title": "An unstressed о drifts toward a",
+    "body": "Only the stressed vowel keeps its full value; the other о letters soften into something like a. Stress is not printed in ordinary Russian text, so it is worth learning each word's stress together with its spelling.",
+    "sample": { "text": "молоко", "reading": "moloko", "meaning": "milk (said ma-la-KO)" }
+   },
+   {
+    "title": "ы is neither i nor u",
+    "body": "It is a vowel of its own, separate from и. Say ee while pulling your tongue back and you are close. English has nothing quite like it, but an approximation is understood, and it shows up in short everyday words such as ты (you) and мы (we).",
+    "sample": { "text": "ты", "reading": "ty", "meaning": "you (informal, one person)" }
+   },
+   {
+    "title": "ь has no sound of its own",
+    "body": "The soft sign is never pronounced by itself. It softens the consonant in front of it, adding a slight y-glide: соль is closer to sol-y than to sol, and in день it is the final н that softens (the dy- at the start comes from the е that follows it, not from ь).",
+    "sample": { "text": "соль", "reading": "sol'", "meaning": "salt" }
+   }
+  ],
+  "order": {
+   "type": "Subject → Verb → Object",
+   "title": "The same order as English, and you may rearrange it",
+   "body": "Я читаю книгу lines up as I - read - book, exactly like English. Because the endings show what each word is doing, you can move the words around without breaking the sentence; a word is pulled to the front to stress it.",
+   "sample": { "text": "Я читаю книгу", "reading": "Ya chitayu knigu", "meaning": "I read a book" }
+  },
+  "greetings": [
+   { "text": "Здравствуйте", "reading": "Zdravstvuyte", "meaning": "Hello (the first в is silent)" },
+   { "text": "Спасибо", "reading": "Spasibo", "meaning": "Thank you" },
+   { "text": "Извините", "reading": "Izvinite", "meaning": "Excuse me / I'm sorry" },
+   { "text": "Да / Нет", "reading": "Da / Net", "meaning": "Yes / No" },
+   { "text": "До свидания", "reading": "Do svidaniya", "meaning": "Goodbye" }
+  ],
+  "pitfall": {
+   "title": "Nouns change their endings",
+   "body": "The dictionary gives книга (book), but in a sentence it turns into книгу. Russian marks a word's role with its ending, where English uses word order and prepositions. There are six such roles (six cases), yet only the last letter or two changes, so the word stays recognisable.",
+   "sample": { "text": "книга → книгу", "reading": "kniga → knigu", "meaning": "book (dictionary form) → book (as the object)" }
+  }
+ }
+}

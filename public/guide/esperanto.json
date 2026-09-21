@@ -1,0 +1,89 @@
+{
+ "category": "esperanto",
+ "ja": {
+  "tagline": "例外のない、作られた言語です。覚えた規則がそのまま全部に通用します。",
+  "script": {
+   "title": "ラテン文字28字。書いてある通りに読みます",
+   "body": "使う文字は28字です。q・w・x・y は使わず、代わりに ĉ・ĝ・ĥ・ĵ・ŝ・ŭ という帽子つきの6文字があります。1つの文字はいつも同じ1つの音を表し、読まない文字も、例外的な読み方もありません。綴りが分かれば、初めて見る単語でもそのまま声に出せます。カタカナは音の目安としてお使いください。",
+   "sample": { "text": "espero", "reading": "エスペーロ", "meaning": "希望" }
+  },
+  "sounds": [
+   {
+    "title": "帽子つきの6文字 ĉ ĝ ĥ ĵ ŝ ŭ",
+    "body": "ĉ は「チ」、ĝ は「ヂ」、ŝ は「シュ」、ĵ は「ジュ」に近い音です。ŭ は a か e の後ろでだけ使い、aŭ はひと息で「アウ」と読みます。ĥ は喉の奥で息をこする音ですが、出てくる単語はごくわずかなので後回しで構いません。",
+    "sample": { "text": "ĉokolado", "reading": "チョコラード", "meaning": "チョコレート" }
+   },
+   {
+    "title": "c は「ツ」、j は「ヤ行」です",
+    "body": "ローマ字の感覚と食い違う文字が2つだけあります。c はいつも「ツ」の音、j はいつも「ヤ・ユ・ヨ」の子音です。英語の j のような音がほしいときは ĝ を使います。この2つさえ直せば、あとはローマ字読みでほぼ通じます。",
+    "sample": { "text": "centro", "reading": "ツェントロ", "meaning": "中心" }
+   },
+   {
+    "title": "強く読むのは、いつも後ろから2番目の音節",
+    "body": "アクセントの位置を単語ごとに覚える必要はありません。どんなに長い単語でも、必ず後ろから2番目の音節を強く読みます。esperanto なら「ラ」、saluton なら「ル」の位置です。カタカナでは、その音節が母音で終わるときだけ長音符を付けています。ンや子音で終わる語では付きませんが、位置の規則は変わりません。",
+    "sample": { "text": "amiko", "reading": "アミーコ", "meaning": "友だち" }
+   }
+  ],
+  "order": {
+   "type": "主語 → 動詞 → 目的語（入れ替えても意味は変わりません）",
+   "title": "目的語には -n が付くので、語順は自由です",
+   "body": "基本の並びは英語と同じで、主語・動詞・目的語の順です。ただし目的語には必ず -n が付くため、順番を入れ替えても誰が何をしたかが分かります。Akvon mi trinkas. と書いても「私は水を飲む」のままです。",
+   "sample": { "text": "Mi trinkas akvon.", "reading": "ミ トリンカス アクヴォン", "meaning": "私は 飲む 水を（akvo に -n が付いて目的語）" }
+  },
+  "greetings": [
+   { "text": "Saluton", "reading": "サルートン", "meaning": "こんにちは（時間を問わず使えます）" },
+   { "text": "Dankon", "reading": "ダンコン", "meaning": "ありがとう" },
+   { "text": "Pardonon", "reading": "パルドーノン", "meaning": "すみません" },
+   { "text": "Jes / Ne", "reading": "イェス / ネ", "meaning": "はい / いいえ" },
+   { "text": "Ĝis revido", "reading": "ジス レヴィード", "meaning": "さようなら（また会いましょう）" }
+  ],
+  "pitfall": {
+   "title": "語尾は必ず付け替える。そのぶん語彙が増えます",
+   "body": "語尾が品詞を示します。名詞は -o、形容詞は -a、副詞は -e、動詞の原形は -i。同じ語根から rapido（速さ）・rapida（速い）・rapide（速く）が作れます。さらに mal- を付ければ反対語になるので、1語覚えるたびに使える単語が増えていきます。",
+   "sample": { "text": "granda / malgranda", "reading": "グランダ / マルグランダ", "meaning": "大きい / 小さい" }
+  }
+ },
+ "en": {
+  "tagline": "A planned language with no exceptions — every rule you learn holds everywhere.",
+  "script": {
+   "title": "28 Latin letters, each with exactly one sound",
+   "body": "The alphabet has 28 letters. There is no q, w, x or y; instead there are six letters written with a hat: ĉ, ĝ, ĥ, ĵ, ŝ and ŭ. Every letter always stands for the same single sound, with no silent letters and no special cases, so you can say a word the moment you can spell it.",
+   "sample": { "text": "espero", "reading": "es-PE-ro", "meaning": "hope" }
+  },
+  "sounds": [
+   {
+    "title": "The six hatted letters: ĉ ĝ ĥ ĵ ŝ ŭ",
+    "body": "ĉ is the ch of church, ĝ is the g of gem, ŝ is the sh of shop and ĵ is the s of measure. ŭ appears only after a or e, and aŭ is one sound, like the ow of now. ĥ is a rasping h that shows up in only a handful of words, so it can wait.",
+    "sample": { "text": "ĉokolado", "reading": "cho-ko-LA-do", "meaning": "chocolate" }
+   },
+   {
+    "title": "c is ts, and j is y",
+    "body": "Only two consonants break English habits: c is always the ts of cats, and j is always the y of yes. When you want the English j sound, the letter for it is ĝ. The five vowels are the pure Italian-style a, e, i, o, u — once you have those and these two letters, every word reads exactly as it is spelled.",
+    "sample": { "text": "centro", "reading": "TSEN-tro", "meaning": "centre" }
+   },
+   {
+    "title": "Stress is always on the second-to-last syllable",
+    "body": "You never have to learn where the stress falls in a word. It is the penultimate syllable, every time, however long the word is: es-pe-RAN-to, a-MI-ko, sa-LU-ton. The capitals in these readings mark that syllable.",
+    "sample": { "text": "amiko", "reading": "a-MI-ko", "meaning": "friend" }
+   }
+  ],
+  "order": {
+   "type": "Subject → Verb → Object (and the order can move)",
+   "title": "The object is marked with -n, so word order is free",
+   "body": "The default order is the English one: subject, verb, object. But the object always ends in -n, so moving it changes nothing. Akvon mi trinkas means exactly what Mi trinkas akvon means — the ending, not the position, tells you who does what.",
+   "sample": { "text": "Mi trinkas akvon.", "reading": "mi TRIN-kas AK-von", "meaning": "I drink water (akvo plus -n marks the object)" }
+  },
+  "greetings": [
+   { "text": "Saluton", "reading": "sa-LU-ton", "meaning": "Hello (any time of day)" },
+   { "text": "Dankon", "reading": "DAN-kon", "meaning": "Thank you" },
+   { "text": "Pardonon", "reading": "par-DO-non", "meaning": "Sorry / excuse me" },
+   { "text": "Jes / Ne", "reading": "yes / neh", "meaning": "Yes / No" },
+   { "text": "Ĝis revido", "reading": "jis re-VI-do", "meaning": "Goodbye (until we meet again)" }
+  ],
+  "pitfall": {
+   "title": "Always swap the ending — and collect free vocabulary",
+   "body": "The ending tells you the part of speech: -o for a noun, -a for an adjective, -e for an adverb, -i for the infinitive. One root gives you rapido (speed), rapida (fast) and rapide (quickly). Add mal- and you get the opposite, so each root you learn is worth several words.",
+   "sample": { "text": "granda / malgranda", "reading": "GRAN-da / mal-GRAN-da", "meaning": "big / small" }
+  }
+ }
+}

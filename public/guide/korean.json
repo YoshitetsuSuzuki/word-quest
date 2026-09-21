@@ -11,17 +11,17 @@
   "sounds": [
    {
     "title": "同じ文字でも、語頭と語中で濁ります",
-    "body": "ㄱ は語頭では「ク」に近く、母音にはさまれると「グ」に濁ります。日本語の「か」と「が」を書き分けないのと同じ感覚です。",
+    "body": "ㄱ は語頭では「ク」に近く、母音や ㄴ・ㅁ・ㅇ・ㄹ の後では「グ」に濁ります。日本語なら「か」と「が」を濁点で書き分けますが、韓国語は同じ文字のまま、位置によって音が変わります。",
     "sample": { "text": "한국", "reading": "ハングク", "meaning": "韓国（ハンククではない）" }
    },
    {
     "title": "息の強さで3つに分かれます",
     "body": "ㄱ（普通）・ㅋ（息を強く）・ㄲ（喉を詰めて）は日本語にない区別で、最初の関門です。ただし通じなくなるほどではないので、まずは「3種類ある」と知っておけば十分です。",
-    "sample": { "text": "가 / 카 / 까", "reading": "カ / カッ（息強め）/ ッカ", "meaning": "音の違いの例" }
+    "sample": { "text": "가 / 카 / 까", "reading": "カ / カ（息強め）/ ッカ", "meaning": "音の違いの例" }
    },
    {
     "title": "文字の下に来る子音（パッチム）",
-    "body": "四角の下に置かれた子音をパッチムと呼びます。これがあると次の文字と音がつながります。",
+    "body": "四角の下に置かれた子音をパッチムと呼びます。次の文字が母音で始まるとき（つづりの上では ㅇ で始まる文字。ㅇ は初声では音を持たない記号です）、多くのパッチムはその母音に移って発音されます。ただし ㅇ は移らず、ㅎ は消えます。",
     "sample": { "text": "한국어", "reading": "ハングゴ", "meaning": "韓国語（ハングクオではない）" }
    }
   ],
@@ -40,7 +40,7 @@
   ],
   "pitfall": {
    "title": "単語と単語の間を空けて書きます",
-   "body": "日本語は「私はごはんを食べます」と続けて書きますが、韓国語は英語のように単語の間を空けます。読むときも、空白が単語の切れ目の手がかりになります。",
+   "body": "日本語は「私はごはんを食べます」と続けて書きますが、韓国語は英語のように単語の間を空けます。ただし助詞は直前の語にくっつけて書きます（「저 는」ではなく「저는」）。読むときも、空白が単語の切れ目の手がかりになります。",
    "sample": { "text": "저는 밥을 먹어요", "reading": "チョヌン パブル モゴヨ", "meaning": "3つの区切りで書く" }
   }
  },
@@ -54,8 +54,8 @@
   },
   "sounds": [
    {
-    "title": "The same letter softens between vowels",
-    "body": "ㄱ sounds like k at the start of a word and like g between vowels. Korean does not write the two separately.",
+    "title": "The same letter softens inside a word",
+    "body": "ㄱ sounds like k at the start of a word, and like g after a vowel or after ㄴ/ㅁ/ㅇ/ㄹ. Korean writes both sounds with the same letter; romanization spells it g, but at the start of a word it sounds closer to k.",
     "sample": { "text": "한국", "reading": "han-guk", "meaning": "Korea (not han-kuk)" }
    },
    {
@@ -65,14 +65,14 @@
    },
    {
     "title": "The consonant at the bottom (batchim)",
-    "body": "A consonant written under the block is called batchim. It links onto the next syllable when you speak.",
+    "body": "A consonant written under the block is called batchim. When the next block starts with a vowel (spelled with ㅇ, which is silent in that position), most batchim move onto that vowel when you speak. ㅇ itself does not move, and ㅎ just drops.",
     "sample": { "text": "한국어", "reading": "han-gu-geo", "meaning": "Korean language (not han-guk-eo)" }
    }
   ],
   "order": {
    "type": "Subject → Object → Verb",
    "title": "The verb comes last",
-   "body": "Korean puts the verb at the end and marks each part with a small particle, rather like Japanese. Word order is flexible because the particles carry the grammar.",
+   "body": "Korean puts the verb at the end and marks each part with a small particle, rather like Japanese. The subject and object can swap places because the particles carry the grammar, but the verb always stays at the end.",
    "sample": { "text": "저는 밥을 먹어요", "reading": "jeoneun babeul meogeoyo", "meaning": "I eat rice (I-topic rice-object eat)" }
   },
   "greetings": [
@@ -84,7 +84,7 @@
   ],
   "pitfall": {
    "title": "Korean puts spaces between words",
-   "body": "Unlike Japanese, Korean separates words with spaces the way English does. The spaces are a useful clue to where one word ends and the next begins.",
+   "body": "Unlike Japanese, Korean separates words with spaces the way English does. Particles, though, attach to the word before them with no space (저는, never 저 는). The spaces are a useful clue to where one word ends and the next begins.",
    "sample": { "text": "저는 밥을 먹어요", "reading": "jeoneun babeul meogeoyo", "meaning": "written as three chunks" }
   }
  }

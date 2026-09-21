@@ -1,0 +1,91 @@
+{
+ "category": "urdu",
+ "ja": {
+  "tagline": "文字はアラビア語ゆずり、文法は日本語と同じ語順。見た目ほど遠い言語ではありません。",
+  "script": {
+   "title": "アラビア文字を借りた、つながる文字",
+   "body": "アラビア文字を拡張した文字で、右から左へ書きます。文字どうしは手書きのようにつながり、語頭・語中・語末で形が変わります。ただし ا د ر و など一部の字は後ろにつながらず、語はそこで切れます。アラビア語には無い ٹ ڈ ڑ（舌を反らせる音）やペルシア語由来の پ چ گ も加わります。印刷は右上から左下へ流れるナスタアリーク体です。",
+   "build": { "parts": "پ + ا + ن + ی", "result": "پانی", "reading": "パーニー" },
+   "sample": { "text": "اردو", "reading": "ウルドゥー", "meaning": "ウルドゥー語" }
+  },
+  "sounds": [
+   {
+    "title": "ت と ٹ は、舌の位置がちがう別の文字",
+    "body": "ت は舌先を上の歯の裏に当てる音、ٹ は舌を上あごのほうへ反らせる音で、別の文字として書き分けます。ڈ・ڑ も同じ反り舌の仲間で、これらはアラビア語には無いウルドゥー語独自の文字です。ٹ は英語の t のつもりで出すと近づきます。",
+    "sample": { "text": "ٹماٹر", "reading": "タマータル", "meaning": "トマト（ٹ が2回出てきます）" }
+   },
+   {
+    "title": "ھ が付くと、息を強く吐く音になります",
+    "body": "کھ・پھ・تھ のように ھ（「目が二つの h」と呼ばれる字）が付いた組み合わせは、2つの音ではなく、息を強く吐く1つの音です。日本語の「カ」よりも息を多めに出すつもりで。ここが日本語話者の最初の練習どころになります。",
+    "sample": { "text": "کھانا", "reading": "カーナー", "meaning": "食べ物／食べること" }
+   },
+   {
+    "title": "同じ音を表す文字が、いくつもあります",
+    "body": "z の音は ز ذ ض ظ、s の音は س ص ث と、それぞれ複数の文字で書かれます。アラビア語から入った語の綴りをそのまま残しているためで、読むぶんには音は同じです。覚えるのは音ではなく「この単語はどの字で書くか」だけで済みます。",
+    "sample": { "text": "زبان", "reading": "ザバーン", "meaning": "言語・舌" }
+   }
+  ],
+  "order": {
+   "type": "主語 → 目的語 → 動詞（日本語と同じ）",
+   "title": "語順は日本語と同じ。助詞も名詞の後ろです",
+   "body": "動詞は必ず文の最後に来ます。「を」「に」にあたる語（کو など）も、英語の前置詞と違って名詞の後ろに置きます。文法はヒンディー語とほぼ同じです。ひとつ日本語と違うのは、動詞の形が主語の性別で変わること（主語が男性なら بولتا／女性なら بولتی）です。",
+   "sample": { "text": "میں اردو بولتا ہوں", "reading": "メン ウルドゥー ボルター フーン", "meaning": "私は ウルドゥー語を 話します" }
+  },
+  "greetings": [
+   { "text": "السلام علیکم", "reading": "アッサラーム アライクム", "meaning": "こんにちは（時間を問わない挨拶）" },
+   { "text": "شکریہ", "reading": "シュクリヤ", "meaning": "ありがとう" },
+   { "text": "معاف کیجیے", "reading": "ムアーフ キージエ", "meaning": "すみません／ごめんなさい" },
+   { "text": "جی ہاں / جی نہیں", "reading": "ジー ハーン／ジー ナヒーン", "meaning": "はい／いいえ" },
+   { "text": "خدا حافظ", "reading": "クダー ハーフィズ", "meaning": "さようなら" }
+  ],
+  "pitfall": {
+   "title": "短い母音は、書かれません",
+   "body": "کتاب は k・t・ā・b の4文字だけですが、読みは「キターブ」。長い母音（ا و ی）は文字になりますが、短い母音は普通は書きません。この仕組みをアブジャドと呼びます。だから単語は形ごと覚えるのが近道で、一度覚えた語は迷わず読めます。",
+   "sample": { "text": "کتاب", "reading": "キターブ", "meaning": "本（ki の i は書かれていません）" }
+  }
+ },
+ "en": {
+  "tagline": "An Arabic-style script with Hindi grammar — see that split and Urdu stops looking mysterious.",
+  "script": {
+   "title": "The Arabic script, extended and joined up",
+   "body": "Urdu uses an extended form of the Arabic script, written right to left. Letters join to their neighbours like handwriting and change shape at the start, middle and end of a word — though a few letters (ا د ذ ر ز و) never join to what follows, so the word breaks there. Urdu also adds letters Arabic does not have, ٹ ڈ ڑ for retroflex sounds, plus Persian پ چ گ. In print it appears in the sloping Nastaliq style.",
+   "build": { "parts": "پ + ا + ن + ی", "result": "پانی", "reading": "pānī" },
+   "sample": { "text": "اردو", "reading": "urdū", "meaning": "Urdu" }
+  },
+  "sounds": [
+   {
+    "title": "ت and ٹ are two different letters",
+    "body": "ت is made with the tongue against the back of the upper teeth; ٹ with the tongue curled back toward the roof of the mouth. English t is closer to ٹ. ڈ and ڑ belong to the same retroflex family, and these letters are Urdu's own — Arabic has nothing like them.",
+    "sample": { "text": "ٹماٹر", "reading": "ṭamāṭar", "meaning": "tomato (ٹ appears twice)" }
+   },
+   {
+    "title": "ھ adds a puff of air",
+    "body": "In کھ, پھ and تھ the letter ھ (called do-chashmi he, the 'two-eyed h') does not add a syllable — it makes one aspirated sound. English already does this at the start of 'cat'. The voiced pair, بھ and دھ, is the half that takes practice.",
+    "sample": { "text": "کھانا", "reading": "khānā", "meaning": "food; to eat" }
+   },
+   {
+    "title": "Several letters, one sound",
+    "body": "The z sound is written with ز ذ ض ظ and the s sound with س ص ث, because Urdu keeps the original spellings of words borrowed from Arabic. They all sound the same, so what you learn is not a new sound but which letter a given word uses.",
+    "sample": { "text": "زبان", "reading": "zabān", "meaning": "language, tongue" }
+   }
+  ],
+  "order": {
+   "type": "Subject → Object → Verb",
+   "title": "The verb comes last, and particles follow the noun",
+   "body": "Urdu puts the verb at the end, and the small words meaning 'to' or 'of' (کو and friends) come after the noun rather than before it — postpositions, not prepositions. The grammar is essentially Hindi's. One thing English never does: the verb form changes with the subject's gender (boltā when the subject is male, boltī when it is female).",
+   "sample": { "text": "میں اردو بولتا ہوں", "reading": "maiṅ urdū boltā hūṅ", "meaning": "I speak Urdu (I Urdu speak)" }
+  },
+  "greetings": [
+   { "text": "السلام علیکم", "reading": "assalām-u-alaikum", "meaning": "Hello (any time of day)" },
+   { "text": "شکریہ", "reading": "shukriyā", "meaning": "Thank you" },
+   { "text": "معاف کیجیے", "reading": "muāf kījiye", "meaning": "Sorry / excuse me" },
+   { "text": "جی ہاں / جی نہیں", "reading": "jī hāṅ / jī nahīṅ", "meaning": "Yes / no" },
+   { "text": "خدا حافظ", "reading": "khudā hāfiz", "meaning": "Goodbye" }
+  ],
+  "pitfall": {
+   "title": "Short vowels are not written",
+   "body": "کتاب is written with only k, t, ā and b, yet it is read kitāb. Long vowels get letters of their own (ا و ی); short ones are normally left out. A script that works this way is called an abjad. So words are learned as whole shapes — and once learned, they read back easily.",
+   "sample": { "text": "کتاب", "reading": "kitāb", "meaning": "book (the i is not written)" }
+  }
+ }
+}

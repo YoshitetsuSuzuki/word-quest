@@ -1,0 +1,89 @@
+{
+ "category": "english",
+ "ja": {
+  "tagline": "綴りと音がずれているのは、あなたのせいではありません。理由を知れば、ぐっと読みやすくなります。",
+  "script": {
+   "title": "綴りは発音の記録ではなく、歴史の化石です",
+   "body": "英語の綴りは、500年ほど前に印刷が広まる中で少しずつ固まっていきました。ところが発音は、その間も、その後も変わり続けました。綴りだけが先に止まったので、今では綴りと音がずれています。knight の k も gh も、昔は実際に声に出していた音の名残です。ですから綴りの規則を一度に覚えようとせず、よく出る形から順に「この並びはこの音」と拾っていくのが近道です。",
+   "sample": { "text": "knight", "reading": "ナイト", "meaning": "騎士（k も gh も今は読みません）" }
+  },
+  "sounds": [
+   {
+    "title": "強く読む位置が変わると、別の語になります",
+    "body": "英語はどこを強く読むかが語ごとに決まっていて、そこがずれると通じにくくなります。record は前を強く読むと「記録」という名詞、後ろを強く読むと「記録する（録音する）」という動詞です。present、object、increase も同じ組み合わせを持ちます。平らに読まず、強い一拍を作るのがコツです。",
+    "sample": { "text": "record", "reading": "レカド（前を強く）/ リコード（後ろを強く）", "meaning": "記録（名詞）/ 記録する（動詞）" }
+   },
+   {
+    "title": "強く読まない母音は、つぶれてぼやけます",
+    "body": "強勢のない母音は、多くの場合弱い「ア」に近い音へつぶれます（boxes や wanted のように弱い「イ」になることもあります）。photograph は「フォウトグラフ」ですが、photography になると強い位置が後ろへ移り、同じ o が「フォウ」から弱い「ファ」に変わります。強勢の位置しだいで母音の音は動きます。",
+    "sample": { "text": "photograph / photography", "reading": "フォウトグラフ / ファタグラフィ", "meaning": "写真 / 写真術（強い位置が移ると母音も変わる）" }
+   },
+   {
+    "title": "-s と -ed は、綴りは同じでも音が3通り",
+    "body": "複数形の -s は cats では「ス」、dogs では「ズ」、boxes では「イズ」と読みます。過去形の -ed も walked は「ト」、played は「ド」、wanted は「イド」です。どれになるかは直前の音で自動的に決まるので、暗記するより口が慣れれば十分です。",
+    "sample": { "text": "walked / played / wanted", "reading": "ウォークト / プレイド / ウォンティド", "meaning": "-ed の音は3通りに分かれる" }
+   }
+  ],
+  "order": {
+   "type": "主語 → 動詞 → 目的語",
+   "title": "助詞がないぶん、位置が役割を決めます",
+   "body": "日本語の「は」「を」にあたる助詞がないので、置かれた場所がそのまま役割になります。主語は動詞の前、目的語は動詞の後ろ。入れ替えれば意味も逆になります。裏を返せば、この並びさえ守れば短い文でも言いたいことは正確に届きます。",
+   "sample": { "text": "The dog bit the man.", "reading": "ザ ドッグ ビット ザ マン", "meaning": "犬が男を噛んだ（入れ替えると意味が逆になります）" }
+  },
+  "greetings": [
+   { "text": "Hi, how are you?", "reading": "ハイ ハウ アー ユー", "meaning": "やあ、元気ですか" },
+   { "text": "Thank you so much.", "reading": "サンキュー ソー マッチ", "meaning": "本当にありがとう" },
+   { "text": "Excuse me.", "reading": "イクスキューズ ミー", "meaning": "すみません（呼びかけ・道を空けてほしいとき）" },
+   { "text": "I'm sorry.", "reading": "アイム ソーリー", "meaning": "ごめんなさい（謝るとき）" },
+   { "text": "See you later.", "reading": "シー ユー レイター", "meaning": "またね" }
+  ],
+  "pitfall": {
+   "title": "数えられる名詞は、裸のままでは置けません",
+   "body": "I have dog とは言えず、a dog（1匹）、the dog（あの犬）、dogs（複数匹）のどれかを選びます。日本語にない習慣なので忘れがちですが、名詞を言う前に「1つか、特定のものか、複数か」と一拍おく癖をつけるだけで、大きく外さなくなります。",
+   "sample": { "text": "I have a dog.", "reading": "アイ ハヴ ア ドッグ", "meaning": "犬を1匹飼っています（I have dog とは言えません）" }
+  }
+ },
+ "en": {
+  "tagline": "Spelling and sound drifted apart centuries ago. Knowing why makes the patterns much easier to trust.",
+  "script": {
+   "title": "Spelling is a fossil, not a recording",
+   "body": "English spelling began to settle some 500 years ago, as printing spread. Pronunciation went on changing — during that period and long after it — so the spelling froze while the sounds moved on. The k and the gh in knight are leftovers from sounds people really did say. Rather than memorising spelling rules all at once, collect the frequent patterns first and let the rest follow.",
+   "sample": { "text": "knight", "reading": "nite", "meaning": "a knight (the k and gh are silent today)" }
+  },
+  "sounds": [
+   {
+    "title": "Move the stress and you get a different word",
+    "body": "Every English word has a fixed strong syllable, and putting it elsewhere makes you hard to follow. Stress the first half of record and it is a noun; stress the second half and it is a verb. The pairs present, object and increase work the same way. Do not read flat — build one strong beat.",
+    "sample": { "text": "record", "reading": "REK-erd / ri-KORD", "meaning": "a record (noun) / to record (verb)" }
+   },
+   {
+    "title": "Unstressed vowels collapse",
+    "body": "A vowel with no stress usually blurs toward a weak uh sound, though it can weaken to a light i instead (boxes, wanted). Photograph starts with a clear FOH, but in photography the stress moves to the second syllable and that same o weakens to uh. Same letters, different vowel quality, purely because the stress moved.",
+    "sample": { "text": "photograph / photography", "reading": "FOH-tuh-graf / fuh-TOG-ruh-fee", "meaning": "a photograph / the practice of photography" }
+   },
+   {
+    "title": "-s and -ed have three sounds each",
+    "body": "Plural -s is an s in cats, a z in dogs and an iz in boxes. Past-tense -ed is a t in walked, a d in played and an id in wanted. Which one you get is decided automatically by the sound just before it, so this is a matter of habit rather than memorisation.",
+    "sample": { "text": "walked / played / wanted", "reading": "wawkt / playd / WON-tid", "meaning": "the three endings of -ed" }
+   }
+  ],
+  "order": {
+   "type": "Subject → Verb → Object",
+   "title": "Position does the work that particles do elsewhere",
+   "body": "English has no particles marking subject and object, so a word's place in the sentence is its job. The subject goes before the verb, the object after it, and swapping them reverses the meaning. The upside is that keeping this order makes even very short sentences clear.",
+   "sample": { "text": "The dog bit the man.", "reading": "thuh DOG bit thuh MAN", "meaning": "swap the two nouns and the meaning reverses" }
+  },
+  "greetings": [
+   { "text": "Hi, how are you?", "reading": "hy, how AR yoo", "meaning": "An everyday greeting" },
+   { "text": "Thank you so much.", "reading": "thank yoo so much", "meaning": "A warm thank-you" },
+   { "text": "Excuse me.", "reading": "ik-SKYOOZ mee", "meaning": "To get someone's attention or ask them to move" },
+   { "text": "I'm sorry.", "reading": "eyem SOR-ee", "meaning": "An apology" },
+   { "text": "See you later.", "reading": "see yoo LAY-ter", "meaning": "A casual goodbye" }
+  ],
+  "pitfall": {
+   "title": "A countable noun cannot stand bare",
+   "body": "You cannot say I have dog. You must choose a dog (one of them), the dog (that particular one) or dogs (the general plural). Many languages have no such requirement, so it is easy to forget. Pause before each noun and ask: one, specific, or plural?",
+   "sample": { "text": "I have a dog.", "reading": "eye hav uh DOG", "meaning": "correct; I have dog is not possible" }
+  }
+ }
+}

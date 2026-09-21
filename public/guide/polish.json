@@ -1,0 +1,89 @@
+{
+ "category": "polish",
+ "ja": {
+  "tagline": "子音が続いて見えますが、sz や cz は2文字で1つの音。規則を知れば、初見の単語も読めます。",
+  "script": {
+   "title": "ラテン文字32個。ABCに印がついただけです",
+   "body": "文字はラテン文字です。見慣れた a b c に、尻尾や点のついた ą ć ę ł ń ó ś ź ż が9つ加わって全部で32文字。q・v・x は使いません。ą と ę は鼻に抜ける母音で、ą は字形に反して「オン」寄り、ę が「エン」寄りの音です。さらに sz・cz・rz・ch など、2文字で1つの音を表す組み合わせが7つあり、長い子音の列に見えるのは、たいていこれが並んでいるだけです。",
+   "sample": { "text": "Warszawa", "reading": "ヴァルシャヴァ", "meaning": "ワルシャワ（首都。sz で「シャ」、w で「ヴ」）" }
+  },
+  "sounds": [
+   {
+    "title": "sz や cz は、2文字で1つの音です",
+    "body": "sz は英語の sh、cz は ch、rz は「ジュ」に近い音で、それぞれひとまとまりの1音です。ただし rz は、p などの無声子音の直後では sz と同じ「シュ」の音になります（Przepraszam＝プシェプラシャム）。ch は「ハ」行の音。ですから szcz も子音4つではなく、「シュ」と「チ」が続くだけです。なお c ひとつは「ツ」と読みます。",
+    "sample": { "text": "czekolada", "reading": "チェコラダ", "meaning": "チョコレート" }
+   },
+   {
+    "title": "w は「ヴ」、ł は「ウ」と読みます",
+    "body": "ローマ字の感覚からいちばんずれるのがこの2つです。w は英語の v の音で、ワルシャワは現地では「ヴァルシャヴァ」。逆に、斜線の入った ł が英語の w にあたり、「ウ」に近く響きます。この2文字を直すだけで、ぐっとポーランド語らしくなります。",
+    "sample": { "text": "Wisła", "reading": "ヴィスワ", "meaning": "ヴィスワ川（ポーランド最長の川）" }
+   },
+   {
+    "title": "アクセントは後ろから2番目の音節",
+    "body": "ポーランド語は原則として、どの単語も後ろから2つめの音節を強く読みます。語ごとに覚え直す必要がありません。Warszawa なら ヴァル・シャ・ヴァ の「シャ」、czekolada なら チェ・コ・ラ・ダ の「ラ」。迷ったら後ろから2つめ、と覚えておけば大丈夫です。",
+    "sample": { "text": "dziękuję", "reading": "ジェンクイェ（「ク」を強く）", "meaning": "ありがとう" }
+   }
+  ],
+  "order": {
+   "type": "主語 → 動詞 → 目的語（英語と同じ並びが基本）",
+   "title": "並びは英語と同じ。ただし入れ替えても通じます",
+   "body": "基本は主語・動詞・目的語の順で、英語と同じ並びです。ただし名詞の語尾が文中での役割を示すので、順番を入れ替えても「誰が何をしたか」は変わりません。強調したい語を前に出す、といった自由がききます。また、動詞の形で主語が分かるときは主語をよく省きます。",
+   "sample": { "text": "Ewa pije kawę", "reading": "エヴァ ピイェ カヴェ", "meaning": "エヴァはコーヒーを飲みます（エヴァ→飲む→コーヒーを の順）" }
+  },
+  "greetings": [
+   { "text": "Dzień dobry", "reading": "ジェン ドブリ", "meaning": "こんにちは（朝から夕方まで使えます）" },
+   { "text": "Cześć", "reading": "チェシチ", "meaning": "やあ／じゃあね（親しい相手に。会うときも別れるときも）" },
+   { "text": "Dziękuję", "reading": "ジェンクイェ", "meaning": "ありがとう" },
+   { "text": "Przepraszam", "reading": "プシェプラシャム", "meaning": "すみません（謝るときも、呼びかけるときも）" },
+   { "text": "Tak / Nie", "reading": "タク / ニェ", "meaning": "はい／いいえ" }
+  ],
+  "pitfall": {
+   "title": "名詞は、文の中での役割で語尾が変わります",
+   "body": "kawa（コーヒー）は「〜を」の位置に来ると kawę になります。日本語の助詞が語尾にくっついたようなもので、文中での役割は全部で7種類（格）あり、それぞれに語尾の形が決まっています。ただしクイズに出るのは辞書形です。まずは辞書形だけ覚え、語尾の違う形を見かけたら「同じ語だ」と気づければ十分です。",
+   "sample": { "text": "kawa → kawę", "reading": "カヴァ → カヴェ", "meaning": "コーヒーが → コーヒーを" }
+  }
+ },
+ "en": {
+  "tagline": "Those alarming consonant runs are mostly pairs like sz and cz, each spelling a single sound.",
+  "script": {
+   "title": "A Latin alphabet of 32 letters",
+   "body": "Polish uses the Latin alphabet you already know, plus nine letters carrying a tail or a mark: ą ć ę ł ń ó ś ź ż. That makes 32 in all, and q, v and x are not used. ą and ę are nasal vowels — but note that ą, despite its shape, is a nasal o, while ę is a nasal e. In exchange there are seven two-letter combinations — ch, cz, dz, dź, dż, rz, sz — where the pair spells one sound, and most fearsome-looking consonant runs are just those pairs lined up.",
+   "sample": { "text": "Warszawa", "reading": "var-SHA-va", "meaning": "Warsaw (sz is sh, w is v)" }
+  },
+  "sounds": [
+   {
+    "title": "sz, cz and rz are single sounds",
+    "body": "sz is the sh of ship, cz is the ch of church, and rz is the zh in measure. After a voiceless consonant it hardens to sh, which is why Przepraszam is pshe-PRA-sham. ch is a rasping h. So szcz is not four consonants in a row: it is sh followed by ch. On its own, the letter c is ts.",
+    "sample": { "text": "czekolada", "reading": "che-ko-LA-da", "meaning": "chocolate" }
+   },
+   {
+    "title": "w is v, and ł is w",
+    "body": "These two letters trip up nearly everyone. Polish w is the sound of English v, which is why Warszawa comes out as var-SHA-va. The barred ł is the letter that sounds like English w. Fix just these two and your Polish improves at once.",
+    "sample": { "text": "Wisła", "reading": "VEE-swa", "meaning": "the Vistula, Poland's longest river" }
+   },
+   {
+    "title": "Stress the second-to-last syllable",
+    "body": "As a rule, every Polish word is stressed on its penultimate syllable, so there is no stress to memorise word by word. Warszawa is var-SHA-va; czekolada is che-ko-LA-da. When in doubt, count back two syllables from the end.",
+    "sample": { "text": "dziękuję", "reading": "dzhen-KOO-yeh", "meaning": "thank you" }
+   }
+  ],
+  "order": {
+   "type": "Subject → Verb → Object",
+   "title": "Same default order as English, but movable",
+   "body": "The neutral order is subject, verb, object, exactly as in English. Because the noun endings show each word's role, though, rearranging them does not change who did what — you move a word to the front to emphasise it. The subject pronoun is often dropped when the verb ending already tells you who.",
+   "sample": { "text": "Ewa pije kawę", "reading": "EH-va PEE-yeh KA-veh", "meaning": "Ewa drinks coffee (Ewa → drinks → coffee)" }
+  },
+  "greetings": [
+   { "text": "Dzień dobry", "reading": "dzhen DOB-ri", "meaning": "Good morning / good day" },
+   { "text": "Cześć", "reading": "cheshch", "meaning": "Hi, or bye (informal, to friends)" },
+   { "text": "Dziękuję", "reading": "dzhen-KOO-yeh", "meaning": "Thank you" },
+   { "text": "Przepraszam", "reading": "pshe-PRA-sham", "meaning": "Excuse me, or I'm sorry" },
+   { "text": "Tak / Nie", "reading": "tak / nyeh", "meaning": "Yes / No" }
+  ],
+  "pitfall": {
+   "title": "Noun endings change with the job the noun does",
+   "body": "kawa (coffee) becomes kawę once it is the object of a verb. Polish nouns change for seven such roles (cases), which sounds daunting, but the quiz always shows you the dictionary form. Learn that one, and treat the other endings as the same word wearing a different hat.",
+   "sample": { "text": "kawa → kawę", "reading": "KA-va → KA-veh", "meaning": "coffee (subject) → coffee (object)" }
+  }
+ }
+}

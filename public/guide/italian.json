@@ -1,0 +1,89 @@
+{
+ "category": "italian",
+ "ja": {
+  "tagline": "書いてある通りに読める言語です。ローマ字の感覚で音にできるので、日本語話者には特に入りやすいはずです。",
+  "script": {
+   "title": "文字は21字。書いてある通りに読めます",
+   "body": "イタリア語はラテン文字（アルファベット）で書きます。使う文字は21字で、j・k・w・x・y は外来語にしか出てきません。綴りと音がほぼ一対一で対応しているので、規則をいくつか覚えれば、初めて見る単語でも声に出して読めます。à・è などのアクセント記号は、語の最後の母音にアクセントがある印です（Sì のような1音節語では、同じつづりの別語と区別するために付きます）。",
+   "sample": { "text": "Italia", "reading": "イターリア", "meaning": "イタリア（国名）" }
+  },
+  "sounds": [
+   {
+    "title": "c と g は、次に来る母音で読み方が変わります",
+    "body": "c と g は、後ろに a・o・u が来ると「カ」「ガ」の音、i・e が来ると「チ」「ジ」の音になります。i・e の前でも固い音のままにしたいときは、間に h を入れます。この h 自体は読みませんが、音を固くする合図として働きます。",
+    "sample": { "text": "ciao / chiave", "reading": "チャオ / キアーヴェ", "meaning": "やあ / 鍵" }
+   },
+   {
+    "title": "gn と gli は、ひとまとまりで読みます",
+    "body": "gn は「ニャ・ニュ・ニョ」の音です。gnocchi は「グノッキ」ではなく「ニョッキ」。gli は「リャ・リュ・リョ」に近い音で、famiglia は「ファミーリャ」になります。どちらも文字を1つずつ読むと通じません。",
+    "sample": { "text": "gnocchi / famiglia", "reading": "ニョッキ / ファミーリャ", "meaning": "ニョッキ（料理）/ 家族" }
+   },
+   {
+    "title": "子音が2つ並んだら、しっかり詰めます",
+    "body": "nn や tt のように子音が重なったら、日本語の小さい「っ」のように一拍置いてから発音します。nonna（祖母）と nona（9番目の）は、この長さだけで意味が変わります。日本語にある感覚なので、意識すれば作れる音です。",
+    "sample": { "text": "nonna / nona", "reading": "ノンナ / ノーナ", "meaning": "祖母 / 9番目の" }
+   }
+  ],
+  "order": {
+   "type": "主語 → 動詞 → 目的語（英語と同じ）",
+   "title": "動詞が先、目的語が後。形容詞は名詞のうしろ",
+   "body": "語順は英語と同じで、動詞が目的語の前に来ます。日本語とは逆の並びです。ただし形容詞はふつう名詞のうしろに置くので、「赤い車」は「車 赤い」の順になります。また、動詞の形で誰の話か分かるため、「私は」にあたる主語は省くのが普通です。",
+   "sample": { "text": "Io mangio la pizza", "reading": "イオ マンジョ ラ ピッツァ", "meaning": "私は 食べます ピザを（Io は語順を示すために付けています。ふつうは Mangio la pizza）" }
+  },
+  "greetings": [
+   { "text": "Ciao", "reading": "チャオ", "meaning": "やあ／じゃあね（親しい相手に）" },
+   { "text": "Buongiorno", "reading": "ブオンジョルノ", "meaning": "おはようございます／こんにちは" },
+   { "text": "Grazie", "reading": "グラッツィエ", "meaning": "ありがとう" },
+   { "text": "Scusi", "reading": "スクーズィ", "meaning": "すみません（丁寧に声をかけるとき）" },
+   { "text": "Sì / No", "reading": "スィ / ノ", "meaning": "はい / いいえ" }
+  ],
+  "pitfall": {
+   "title": "すべての名詞に、男性・女性の区別があります",
+   "body": "イタリア語の名詞は男性か女性のどちらかです。-o で終われば男性、-a で終われば女性、というのがおおよその目安になります。冠詞と形容詞は、その名詞に合わせて形を変えます。複数形は -o が -i に、-a が -e に変わります。まずはこの対応だけ押さえれば十分です。",
+   "sample": { "text": "una macchina rossa", "reading": "ウナ マッキナ ロッサ", "meaning": "赤い車（冠詞も形容詞も女性形でそろえる）" }
+  }
+ },
+ "en": {
+  "tagline": "Italian is spelled the way it sounds — learn a handful of rules and you can read almost anything aloud.",
+  "script": {
+   "title": "21 letters, and spelling that matches the sound",
+   "body": "Italian uses the Latin alphabet, but only 21 of its letters: j, k, w, x and y turn up only in borrowed words. Spelling maps onto sound almost one-to-one, so once you know a few rules you can pronounce a word you have never seen before. An accent mark such as à or è tells you the stress falls on that final vowel; on a one-syllable word like Sì it is there to tell it apart from a look-alike word (si).",
+   "sample": { "text": "Italia", "reading": "ee-TAH-lya", "meaning": "Italy" }
+  },
+  "sounds": [
+   {
+    "title": "C and G change with the vowel that follows",
+    "body": "Before a, o or u, c and g are hard: k as in cat, g as in go. Before i or e they go soft: ch as in chair, and j as in jam. To keep the hard sound before i or e, Italian slips in an h, which is never pronounced by itself.",
+    "sample": { "text": "ciao / chiave", "reading": "CHAH-oh / KYAH-veh", "meaning": "hello / key" }
+   },
+   {
+    "title": "gn and gli are single sounds",
+    "body": "gn is the ny of canyon, so gnocchi is nyok-kee, never g-nocchi. gli is close to the lli of million, which makes famiglia fah-MEE-lyah. Read either of them letter by letter and you will not be understood.",
+    "sample": { "text": "gnocchi / famiglia", "reading": "NYOK-kee / fah-MEE-lyah", "meaning": "gnocchi (the dish) / family" }
+   },
+   {
+    "title": "Double consonants are genuinely held longer",
+    "body": "A doubled consonant is not decoration: you hold it, pausing before releasing it. Sometimes that length is the only thing separating two words — nonna is grandmother, nona is ninth.",
+    "sample": { "text": "nonna / nona", "reading": "NON-na / NOH-na", "meaning": "grandmother / ninth" }
+   }
+  ],
+  "order": {
+   "type": "Subject → Verb → Object",
+   "title": "Same order as English, but adjectives follow the noun",
+   "body": "The verb comes before the object, exactly as in English. The difference is the adjective: it normally sits after the noun, so \"a red car\" comes out as \"a car red\". The subject pronoun is usually dropped too, because the verb ending already says who is speaking.",
+   "sample": { "text": "Io mangio la pizza", "reading": "ee-oh MAN-joh lah PEET-tsah", "meaning": "I eat the pizza (Io is included here to show the word order; normally you would just say Mangio la pizza)" }
+  },
+  "greetings": [
+   { "text": "Ciao", "reading": "CHAH-oh", "meaning": "Hi / Bye (informal)" },
+   { "text": "Buongiorno", "reading": "bwon-JOR-noh", "meaning": "Good morning / Good day" },
+   { "text": "Grazie", "reading": "GRAHT-tsyeh", "meaning": "Thank you" },
+   { "text": "Scusi", "reading": "SKOO-zee", "meaning": "Excuse me (polite)" },
+   { "text": "Sì / No", "reading": "see / noh", "meaning": "Yes / No" }
+  ],
+  "pitfall": {
+   "title": "Every noun is either masculine or feminine",
+   "body": "As a rough guide, nouns ending in -o are masculine and those ending in -a are feminine, and the article and the adjective have to match whichever it is. Plurals follow the same pattern: -o becomes -i, -a becomes -e. Get that one pairing right and most sentences fall into place.",
+   "sample": { "text": "una macchina rossa", "reading": "OO-na MAK-kee-na ROS-sa", "meaning": "a red car (article, noun and adjective all feminine)" }
+  }
+ }
+}

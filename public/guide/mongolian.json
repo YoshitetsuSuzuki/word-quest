@@ -1,0 +1,89 @@
+{
+ "category": "mongolian",
+ "ja": {
+  "tagline": "文字はキリル文字＋2字。語順は日本語と同じなので、文の組み立てで迷いません。",
+  "script": {
+   "title": "ロシア語のキリル文字に Ө と Ү を足した35字",
+   "body": "モンゴル国では、モンゴル語をキリル文字で書きます。文字は35字で、ロシア語の33字に Ө と Ү を加えたものです。ラテン文字と同じように左から右へ1字ずつ並べるだけで、組み立てたりつなげたりする必要はありません。縦書きの伝統的なモンゴル文字も今なお使われていますが、このアプリに出てくる単語はすべてキリル文字です。",
+   "sample": { "text": "Монгол", "reading": "モンゴル", "meaning": "モンゴル（国名・民族名）" }
+  },
+  "sounds": [
+   {
+    "title": "新しく覚えるのは Ө と Ү の2字だけ",
+    "body": "キリル文字を見たことがあれば、初めて出会う形は Ө と Ү の2つだけです。О と У は口の奥でこもる「オ」寄りの音、Ө と Ү は舌の根を前に保った、張りのある澄んだ音で、カタカナでは書き分けにくいのですが、モンゴル語では別の文字・別の語になります。地名の「ウランバートル」のように、у を「ウ」と書く慣用もあります。",
+    "sample": { "text": "ус / үс", "reading": "オス / ウス", "meaning": "水 / 髪" }
+   },
+   {
+    "title": "同じ母音を2つ重ねたら長音です",
+    "body": "аа・ээ・оо・өө・уу・үү は、2字で1つの長い母音を表します。ий も長い「イー」です。つまり見た目の字数ほど音節は多くありません。цагаан は6字ありますが「ツァ・ガーン」の2音節で、日本語の長音の感覚がそのまま使えます。",
+    "sample": { "text": "цагаан", "reading": "ツァガーン", "meaning": "白い" }
+   },
+   {
+    "title": "子音が2つ続いたまま語が終わります",
+    "body": "モンゴル語は -гш、-гч のように、子音を2つ並べたまま語を終えます。カタカナで書くとどうしても「バグシ」「エグチ」と母音が入ってしまいますが、実際には最後に母音は付きません。カタカナはあくまで目安として見てください。",
+    "sample": { "text": "багш / эгч", "reading": "バグシ / エグチ", "meaning": "先生 / 姉" }
+   }
+  ],
+  "order": {
+   "type": "主語 → 目的語 → 動詞（日本語と同じ）",
+   "title": "動詞が最後。助詞にあたる語尾も付きます",
+   "body": "英語のように語順を組み替える必要はありません。さらに「〜に」にあたる格語尾が語の後ろに付きます。たとえば сургууль（学校）に -д が付くと сургуульд（学校に）です。「〜を」は特定のものを指すときに -ыг/-ийг など（母音で終わる語では -г）が付き、例文の ном のように付かないこともあります。",
+   "sample": { "text": "Би ном уншиж байна", "reading": "ビ ノム オンシジ バイナ", "meaning": "私は 本を 読んで います" }
+  },
+  "greetings": [
+   { "text": "Сайн байна уу?", "reading": "サイン バイナ オー", "meaning": "こんにちは（お元気ですか）" },
+   { "text": "Баярлалаа", "reading": "バヤルララー", "meaning": "ありがとうございます" },
+   { "text": "Уучлаарай", "reading": "オーチラーライ", "meaning": "すみません" },
+   { "text": "Тийм", "reading": "ティーム", "meaning": "はい" },
+   { "text": "Баяртай", "reading": "バヤルタイ", "meaning": "さようなら" }
+  ],
+  "pitfall": {
+   "title": "母音は2組に分かれ、1語の中で混ざりません",
+   "body": "а・о・у の組と、э・ө・ү の組があります。モンゴル語のもともとの語では、この2組が1つの語に同居しません（и はどちらとも一緒に使えます）。語尾もこの2組に合わせて形が変わるので、語の母音を見れば、付く語尾がどちらの形か見当が付きます。",
+   "sample": { "text": "цагаан / өнөөдөр", "reading": "ツァガーン / ウヌードゥル", "meaning": "白い（а だけ）/ 今日（ө だけ）" }
+  }
+ },
+ "en": {
+  "tagline": "It is Cyrillic — the Russian alphabet plus two letters. Learn 35 letters and you can read every word left to right, with nothing to stack or join.",
+  "script": {
+   "title": "Cyrillic: the Russian alphabet plus Ө and Ү",
+   "body": "Mongolian in Mongolia is written in Cyrillic. There are 35 letters: the 33 of Russian plus Ө and Ү. They run left to right, one after another, with nothing to stack, join or reshape. The traditional vertical Mongolian script is still in use, but every word in this app is written in Cyrillic.",
+   "sample": { "text": "Монгол", "reading": "Mongol", "meaning": "Mongolia / Mongolian" }
+  },
+  "sounds": [
+   {
+    "title": "Ө and Ү are the only letters Russian does not have",
+    "body": "If you have seen Cyrillic before, these two shapes are the only new ones. О and У are hollow, back vowels; Ө and Ү are produced with the tongue root advanced, giving a brighter, tenser sound. Latin transcriptions write them ö and ü, and swapping one for the other gives a different word.",
+    "sample": { "text": "ус / үс", "reading": "us / üs", "meaning": "water / hair" }
+   },
+   {
+    "title": "A doubled vowel is one long vowel",
+    "body": "аа, ээ, оо, өө, уу and үү are single long vowels rather than two syllables, and ий is a long i. So a word carries fewer syllables than its letter count suggests: цагаан is six letters but two syllables, tsa-gaan.",
+    "sample": { "text": "цагаан", "reading": "tsagaan", "meaning": "white" }
+   },
+   {
+    "title": "Words end in consonant clusters",
+    "body": "Mongolian is happy to finish a word with two consonants and no vowel after them, as in -гш, -гч and -нх. Say them as a cluster instead of slipping a vowel in between; the romanisations bagsh and egch look longer than they sound.",
+    "sample": { "text": "багш / эгч", "reading": "bagsh / egch", "meaning": "teacher / older sister" }
+   }
+  ],
+  "order": {
+   "type": "Subject → Object → Verb",
+   "title": "The verb always comes last",
+   "body": "Mongolian puts the verb at the end, and nouns take endings that show their role, where English would use a preposition or rely on position. сургууль (school) plus the ending -д gives сургуульд, to or at school. An indefinite object like ном carries no ending at all.",
+   "sample": { "text": "Би ном уншиж байна", "reading": "bi nom unshij baina", "meaning": "I am reading a book (I book reading am)" }
+  },
+  "greetings": [
+   { "text": "Сайн байна уу?", "reading": "sain baina uu", "meaning": "Hello (literally: are you well?)" },
+   { "text": "Баярлалаа", "reading": "bayarlalaa", "meaning": "Thank you" },
+   { "text": "Уучлаарай", "reading": "uuchlaarai", "meaning": "Excuse me / sorry" },
+   { "text": "Тийм", "reading": "tiim", "meaning": "Yes" },
+   { "text": "Баяртай", "reading": "bayartai", "meaning": "Goodbye" }
+  ],
+  "pitfall": {
+   "title": "Vowels come in two sets that do not mix",
+   "body": "а, о and у belong to one set; э, ө and ү belong to the other. A native Mongolian word draws its vowels from one set only (и is neutral and goes with either). Endings come in matching versions, so the vowels already in a word tell you which form of an ending to expect.",
+   "sample": { "text": "цагаан / өнөөдөр", "reading": "tsagaan / önöödör", "meaning": "white (only а) / today (only ө)" }
+  }
+ }
+}

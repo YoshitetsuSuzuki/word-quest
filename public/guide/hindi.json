@@ -1,0 +1,91 @@
+{
+ "category": "hindi",
+ "ja": {
+  "tagline": "文字は「子音字＋母音記号」の組み立て式。仕組みが分かれば、初めて見る語も読めます。",
+  "script": {
+   "title": "子音字には最初から「ア」が入っています",
+   "body": "デーヴァナーガリーはアルファベットではなくアブギダです。子音字はそれだけで「子音＋ア」の音を持っていて、別の母音にしたいときだけ記号を足します。基本は母音字11・子音字33。語の上を走る横棒（シローレーカー）が、どこまでが一つの語かを示します。母音記号は右・上・下に付きますが、短い「イ」の記号（ि）だけは子音字の左側に書きます（長い「イー」の ी は右側）。",
+   "build": { "parts": "न + ी", "result": "नी", "reading": "ニー" },
+   "sample": { "text": "पानी", "reading": "パーニー", "meaning": "水" }
+  },
+  "sounds": [
+   {
+    "title": "息を強く出すかどうかで別の語になります",
+    "body": "त と थ は舌の位置が同じで、थ のほうだけ「はっ」と息を強く出します。ख・घ・फ なども同じ相棒関係です。日本語はこの息の強さで語を区別しないので、意識しないと同じ音になってしまいます。口の前に手をかざして、息が当たるか確かめてみてください。",
+    "sample": { "text": "ताली / थाली", "reading": "ターリー / ターリー（息を強く）", "meaning": "拍手 / 大皿（ターリー）" }
+   },
+   {
+    "title": "t と d は、舌の位置で二組に分かれます",
+    "body": "त と द は上の前歯の裏に舌を当てる音、ट と ड は舌先をそらせて口の天井に当てる音です。日本語の「タ」「ダ」は前者に近く、後者は日本語にない音。文字からして別なので、単語を覚えるときに形ごと区別しておくのが近道です。",
+    "sample": { "text": "दाल / डाल", "reading": "ダール / ダール（舌をそらせて）", "meaning": "豆（ダール）/ 枝" }
+   },
+   {
+    "title": "鼻に抜ける母音があります",
+    "body": "母音の上に小さな弧（ँ）が付いたら、その母音を鼻に抜かして出します。सास は「姑」、साँस は「息」で、違いは鼻に抜けるかどうかだけです。「はい」の हाँ、「いいえ」の नहीं も、この鼻にかかる音を含んでいます。母音記号が上に張り出す語では、弧の代わりに点（ं）だけを書きます。नहीं がその例です。",
+    "sample": { "text": "सास / साँस", "reading": "サース / サーンス", "meaning": "姑 / 息" }
+   }
+  ],
+  "order": {
+   "type": "主語 → 目的語 → 動詞（日本語と同じ）",
+   "title": "語順は日本語と同じ。動詞が最後です",
+   "body": "英語のように並べ替える必要はありません。主語・目的語の順に置いて、動詞を文の最後に持ってきます。「〜に」「〜で」にあたる語も日本語の助詞と同じで、名詞の後ろに付きます。「家に」は「家＋に」の形です。日本語の並びのまま作れる場面が多くあります。",
+   "sample": { "text": "बच्चा दूध पीता है", "reading": "バッチャー ドゥード ピーター ヘー", "meaning": "子どもは 牛乳を 飲みます" }
+  },
+  "greetings": [
+   { "text": "नमस्ते", "reading": "ナマステー", "meaning": "こんにちは（時間帯を問わない挨拶）" },
+   { "text": "धन्यवाद", "reading": "ダンニャワード", "meaning": "ありがとうございます" },
+   { "text": "माफ़ कीजिए", "reading": "マーフ キージエ", "meaning": "すみません（謝るとき）" },
+   { "text": "हाँ", "reading": "ハーン", "meaning": "はい" },
+   { "text": "नहीं", "reading": "ナヒーン", "meaning": "いいえ" }
+  ],
+  "pitfall": {
+   "title": "語の最後の「ア」は読みません",
+   "body": "子音字は「ア」を内蔵していますが、語の末尾に来たときはその「ア」を落とします。नमक は「ナマカ」ではなく「ナマク」、काम は「カーマ」ではなく「カーム」です。まずは末尾の子音字を見たら音を切る、と覚えておけば、一気にヒンディー語らしい音になります（語の途中でも落ちることがありますが、まずは末尾から覚えれば十分です）。",
+   "sample": { "text": "नमक", "reading": "ナマク", "meaning": "塩（ナマカではありません）" }
+  }
+ },
+ "en": {
+  "tagline": "Letters are built from a consonant plus a vowel mark, and the verb comes last.",
+  "script": {
+   "title": "Every consonant already carries an \"a\"",
+   "body": "Devanagari is an abugida, not an alphabet. A consonant letter on its own is read \"consonant + a\": क is \"ka\", न is \"na\". You add a mark only when you want a different vowel. The basic set is 11 vowel letters and 33 consonants. The bar running along the top of a word holds its letters together. Vowel marks attach to the right, above or below — except the short \"i\" mark ि, which is written to the left of its consonant (the long ी goes to the right).",
+   "build": { "parts": "न + ी", "result": "नी", "reading": "nī" },
+   "sample": { "text": "पानी", "reading": "pānī", "meaning": "water" }
+  },
+  "sounds": [
+   {
+    "title": "Consonants come in breathy pairs",
+    "body": "त and थ use the same tongue position, but थ is released with a puff of air; ख, घ and फ pair up the same way. English has that puff in \"top\" but not in \"stop\", and never uses it to tell two words apart. Hindi does, so the puff has to be deliberate.",
+    "sample": { "text": "ताली / थाली", "reading": "tālī / thālī", "meaning": "clapping / a metal platter (thali)" }
+   },
+   {
+    "title": "Two families of t and d",
+    "body": "त and द are dental: the tongue touches the back of the upper teeth. ट and ड are retroflex: the tongue curls back to the roof of the mouth. English t and d sit between the two, so each Hindi sound needs aiming. They are different letters, so learn every word with its own shape.",
+    "sample": { "text": "दाल / डाल", "reading": "dāl / ḍāl", "meaning": "lentils (dal) / a branch" }
+   },
+   {
+    "title": "Vowels can be nasalised",
+    "body": "A small hook above a vowel (ँ) sends the air through the nose as well as the mouth. सास is \"mother-in-law\" and साँस is \"breath\" — the nose is the only difference. हाँ (yes) and नहीं (no) both carry this nasal quality, so you meet it on day one. When a vowel mark already occupies the space above the line, the hook is reduced to a dot (ं), as in नहीं.",
+    "sample": { "text": "सास / साँस", "reading": "sās / sā̃s", "meaning": "mother-in-law / breath" }
+   }
+  ],
+  "order": {
+   "type": "Subject → Object → Verb",
+   "title": "The verb comes last",
+   "body": "English says \"the child drinks milk\"; Hindi says \"the child milk drinks\". The small words that mark a noun's role follow the noun instead of preceding it, so \"in the house\" comes out as \"house-in\". Park the verb at the end and the rest of the sentence falls into place.",
+   "sample": { "text": "बच्चा दूध पीता है", "reading": "bachchā dūdh pītā hai", "meaning": "The child drinks milk (literally: child milk drinks)" }
+  },
+  "greetings": [
+   { "text": "नमस्ते", "reading": "namaste", "meaning": "Hello (any time of day)" },
+   { "text": "धन्यवाद", "reading": "dhanyavād", "meaning": "Thank you" },
+   { "text": "माफ़ कीजिए", "reading": "māf kījie", "meaning": "Sorry / excuse me" },
+   { "text": "हाँ", "reading": "hā̃", "meaning": "Yes" },
+   { "text": "नहीं", "reading": "nahī̃", "meaning": "No" }
+  ],
+  "pitfall": {
+   "title": "The \"a\" at the end of a word is silent",
+   "body": "Consonants carry a built-in \"a\", but the one at the end of a word is dropped. नमक is \"namak\", not \"namaka\", and काम is \"kām\", not \"kāma\". Sanskrit keeps that final vowel and Hindi does not, which is why the same spelling is read differently in the two languages. It can drop inside a word too, but the final one is the place to start.",
+   "sample": { "text": "नमक", "reading": "namak", "meaning": "salt (not \"namaka\")" }
+  }
+ }
+}

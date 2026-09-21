@@ -1,0 +1,91 @@
+{
+ "category": "chinese",
+ "ja": {
+  "tagline": "漢字が読めるぶん、日本人には大きな近道があります。新しく覚えるのは、おもに音と語順です。",
+  "script": {
+   "title": "全部が漢字。ただし「簡体字」という省略形です",
+   "body": "中国語は全部が漢字で書かれ、仮名にあたる文字はありません。大陸で使うのは筆画を減らした簡体字で、语（語）・车（車）・东（東）のように日本の漢字と形が違うものがあります。漢字は部品の組み合わせででき、片側が意味を、もう片側が音を表すものが多くあります。",
+   "build": { "parts": "氵 + 青", "result": "清", "reading": "チン" },
+   "sample": { "text": "汉语", "reading": "ハンユー", "meaning": "中国語（「漢語」の簡体字）" }
+  },
+  "sounds": [
+   {
+    "title": "同じつづりでも、高さの動きで別の単語になります",
+    "body": "中国語には4つの声調があります。高いまま平ら、ぐっと上がる、低く沈んでから上がる、一気に下げる。このほかに、軽く短く添えるだけの軽声があり、谢谢 xièxie の2つめの xie がそれにあたります。同じ ma でも、声調が違えば意味のつながらない別の単語です。カタカナでは書き分けられないので、音で覚えるのがいちばんの近道です。",
+    "sample": { "text": "妈 mā / 麻 má / 马 mǎ / 骂 mà", "reading": "マー / マー / マー / マー", "meaning": "母・麻・馬・ののしる（カタカナでは区別できません）" }
+   },
+   {
+    "title": "濁るかどうかではなく、息を出すかどうか",
+    "body": "日本語はカ行とガ行を「濁るかどうか」で分けますが、中国語は「息を強く出すかどうか」で分けます。b・d・g は息を抑えた音、p・t・k は息をポンと出す音です。無理に濁らせなくて大丈夫で、息のあるなしだけ意識すれば通じます。",
+    "sample": { "text": "大 dà / 他 tā", "reading": "ダー / ター", "meaning": "大きい / 彼（違いは濁りではなく息の強さ）" }
+   },
+   {
+    "title": "ピンインはローマ字。でも英語の読み方ではありません",
+    "body": "発音はアルファベットで書いた拼音（ピンイン）で表します。ただし英語読みではありません。q はチ、x はシに近く、c はツ、zh・ch・sh は舌を少し反らせて出します。最初に拼音の読み方だけ覚えてしまえば、辞書に載った音がそのまま使えます。",
+    "sample": { "text": "谢谢 xièxie", "reading": "シエシエ", "meaning": "ありがとう（「エックス…」とは読みません）" }
+   }
+  ],
+  "order": {
+   "type": "主語 → 動詞 → 目的語（英語と同じ）",
+   "title": "動詞が先、目的語があと。日本語とは逆です",
+   "body": "「私は お茶を 飲む」は、中国語では「私 飲む お茶」の順になります。日本語の語順のまま並べると通じません。そのかわり動詞は活用せず、過去になっても形が変わりません。語順さえ守れば、単語を並べるだけで文になります。",
+   "sample": { "text": "我喝茶", "reading": "ウォー ホー チャー", "meaning": "私は お茶を 飲む（私 → 飲む → お茶）" }
+  },
+  "greetings": [
+   { "text": "你好", "reading": "ニーハオ", "meaning": "こんにちは" },
+   { "text": "谢谢", "reading": "シエシエ", "meaning": "ありがとう" },
+   { "text": "对不起", "reading": "ドゥイブチー", "meaning": "ごめんなさい" },
+   { "text": "对", "reading": "ドゥイ", "meaning": "はい、そのとおりです" },
+   { "text": "再见", "reading": "ツァイチエン", "meaning": "さようなら" }
+  ],
+  "pitfall": {
+   "title": "字は意味の手がかり、音はゼロから覚え直し",
+   "body": "漢字が読めるぶん、つい日本語の音読みが浮かびます。でも中国語の音は別物で、「学」は「ガク」ではなく xué（シュエ）です。意味がずれる語もあり、手纸 はトイレットペーパー、爱人 は大陸ではふつう配偶者を指します。新しい語は必ず拼音と声調ごと覚える、と決めてしまえば大丈夫です。",
+   "sample": { "text": "学 xué", "reading": "シュエ", "meaning": "学ぶ（「ガク」でも「まなぶ」でもありません）" }
+  }
+ },
+ "en": {
+  "tagline": "No alphabet to learn and no verb endings — what is new is pinyin and four tones.",
+  "script": {
+   "title": "Characters only, in their simplified form",
+   "body": "Chinese is written entirely in characters, with no alphabet mixed in. The mainland uses simplified forms, cut down to fewer strokes. Characters are not random shapes: most are built from two parts, one hinting at the meaning and the other at the sound.",
+   "build": { "parts": "氵 + 青", "result": "清", "reading": "qīng" },
+   "sample": { "text": "汉语", "reading": "Hànyǔ", "meaning": "the Chinese language" }
+  },
+  "sounds": [
+   {
+    "title": "Four tones change the word, not the mood",
+    "body": "Almost every syllable carries one of four tones: high and level, rising, dipping down then up, or sharply falling (a few, like the second xie in xièxie, are said light and toneless). The syllable ma said with the four tones gives four unrelated words. Tone belongs to the word the way a letter does — it is not emphasis or emotion.",
+    "sample": { "text": "妈 mā / 麻 má / 马 mǎ / 骂 mà", "reading": "mā / má / mǎ / mà", "meaning": "mother / hemp / horse / to scold" }
+   },
+   {
+    "title": "b, d and g are not voiced",
+    "body": "The contrast is breath, not voicing. b, d and g are released with no puff of air, while p, t and k come with a strong puff. English separates these pairs by voicing instead, so train your ear on the puff rather than on the buzz.",
+    "sample": { "text": "大 dà / 他 tā", "reading": "dà / tā", "meaning": "big / he (the difference is the puff of air)" }
+   },
+   {
+    "title": "Pinyin uses Latin letters, not English values",
+    "body": "q is close to the ch in cheese, x to a light sh, and c is the ts in cats. The trio zh, ch and sh are said with the tongue curled back. Read pinyin as if it were English and you will not be understood, so learn the chart once at the very start.",
+    "sample": { "text": "谢谢 xièxie", "reading": "xiè-xie", "meaning": "thank you (roughly shyeh-shyeh)" }
+   }
+  ],
+  "order": {
+   "type": "Subject → Verb → Object",
+   "title": "The order matches English, and verbs never change",
+   "body": "Subject, verb, object, just as in English. Verbs have no -s, no -ed and no irregular past: the same form is used for everyone and every time. Past and future come from extra words, not from reshaping the verb.",
+   "sample": { "text": "我喝茶", "reading": "wǒ hē chá", "meaning": "I drink tea (I → drink → tea)" }
+  },
+  "greetings": [
+   { "text": "你好", "reading": "nǐ hǎo", "meaning": "Hello" },
+   { "text": "谢谢", "reading": "xièxie", "meaning": "Thank you" },
+   { "text": "对不起", "reading": "duìbuqǐ", "meaning": "I'm sorry" },
+   { "text": "对", "reading": "duì", "meaning": "Yes, that's right" },
+   { "text": "再见", "reading": "zàijiàn", "meaning": "Goodbye" }
+  ],
+  "pitfall": {
+   "title": "A character hints at the sound — but never reliably",
+   "body": "Many characters carry a phonetic part, but it is only a hint: it can be off by a tone, off by the whole syllable, or missing altogether — 学 gives you nothing. So never trust a guess. Learn every new word together with its pinyin and its tone from day one, and this stops being a problem.",
+   "sample": { "text": "学 xué", "reading": "xué", "meaning": "to study — nothing in the shape spells out xué" }
+  }
+ }
+}

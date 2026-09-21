@@ -1,0 +1,187 @@
+{
+ "category": "japanese",
+ "ja": {
+  "tagline": "文字は三種類ありますが、かな46字を覚えた時点で、もう読める言葉があります。",
+  "script": {
+   "title": "ひらがな・カタカナ・漢字を、一つの文の中で混ぜて使います",
+   "body": "ひらがなとカタカナは、同じ音を二通りの形で書き分ける文字で、どちらも基本の46字からできています。形が違うだけで、カタカナはおもに外来語に使います。漢字は1字が音だけでなく意味そのものを表す文字で、日常用の目安として常用漢字2136字が定められています。ふつうの文は、この三種類が並んで一本の線になります。",
+   "build": {
+    "parts": "か + ゛",
+    "result": "が",
+    "reading": "ガ"
+   },
+   "sample": {
+    "text": "ねこ",
+    "reading": "ネコ",
+    "meaning": "猫（漢字を使わず、ひらがな2字でも書けます）"
+   }
+  },
+  "sounds": [
+   {
+    "title": "強弱ではなく、等しい長さの拍で刻みます",
+    "body": "どこかの音節を強く読む言語とは違い、日本語はかな1字を1拍として等間隔に並べます。ただし小さく書くかな（ゃゅょ、外来語のァィゥェォ）は前の字とくっついて1拍です（「きょう」「ファン」は2拍）。「カメラ」なら「カ・メ・ラ」の3拍で、どれも同じ長さ・同じ強さです。特定の位置だけを強く伸ばすと、かえって聞き取りにくくなります。まずは平らに刻むつもりで。",
+    "sample": {
+     "text": "カメラ",
+     "reading": "カ・メ・ラ",
+     "meaning": "3拍を等間隔に並べる"
+    }
+   },
+   {
+    "title": "のばす音・つまる音は、それだけで別の語になります",
+    "body": "「おばさん」と「おばあさん」は、のばすかどうかだけで別の語になります。小さい「っ」も1拍ぶんの間として数えるので、「きて（来て）」と「きって（切手）」も別物です。長さは飾りではなく、意味を分けるための手がかりになっています。",
+    "sample": {
+     "text": "きて / きって",
+     "reading": "キテ / キッテ",
+     "meaning": "来て / 切手"
+    }
+   },
+   {
+    "title": "ら行は、英語のRともLとも違う音です",
+    "body": "舌先を上の歯ぐきの裏に一度だけ軽く当てて弾く音で、英語話者の耳にはdやlに近く聞こえることがあります。巻き舌にもせず、はっきりしたLにもせず、軽く一回はじく。それだけで日本語の「ら」になります。",
+    "sample": {
+     "text": "さくら",
+     "reading": "サクラ",
+     "meaning": "桜"
+    }
+   }
+  ],
+  "order": {
+   "type": "主語 → 目的語 → 動詞（動詞が最後）",
+   "title": "動詞は文の最後まで出てきません",
+   "body": "「主語→動詞→目的語」と並べる言語に対し、日本語は動詞を末尾に置きます。語と語の関係は「は」「を」「に」といった助詞が示すので、動詞さえ最後にあれば、その前の部分はある程度入れ替えても意味は変わりません。",
+   "sample": {
+    "text": "私はコーヒーを飲みます",
+    "reading": "ワタシワ コーヒーオ ノミマス",
+    "meaning": "私は コーヒーを 飲みます（動詞が最後に来ます）"
+   }
+  },
+  "greetings": [
+   {
+    "text": "こんにちは",
+    "reading": "コンニチワ",
+    "meaning": "こんにちは（日中のあいさつ。「は」と書いて「わ」と読みます）"
+   },
+   {
+    "text": "ありがとうございます",
+    "reading": "アリガトーゴザイマス",
+    "meaning": "ありがとうございます"
+   },
+   {
+    "text": "すみません",
+    "reading": "スミマセン",
+    "meaning": "すみません（謝るときにも、呼びかけるときにも使います）"
+   },
+   {
+    "text": "はい",
+    "reading": "ハイ",
+    "meaning": "はい"
+   },
+   {
+    "text": "おはようございます",
+    "reading": "オハヨーゴザイマス",
+    "meaning": "おはようございます（朝のあいさつ）"
+   }
+  ],
+  "pitfall": {
+   "title": "ていねい形をひとつ持っていれば、どこでも大丈夫です",
+   "body": "日本語は相手との関係によって言い方が変わります。ただし最初は「〜です」「〜ます」の形だけで十分で、これなら誰に向かって使っても失礼になりません。くだけた形は、くだけて話せる相手ができてから覚えれば間に合います。",
+   "sample": {
+    "text": "食べる / 食べます",
+    "reading": "タベル / タベマス",
+    "meaning": "同じ「食べる」の、くだけた形とていねい形"
+   }
+  }
+ },
+ "en": {
+  "tagline": "It uses three scripts, but 46 kana are already enough to read real words.",
+  "script": {
+   "title": "Three scripts, mixed together inside one sentence",
+   "body": "Hiragana and katakana are two shapes for the same sounds — 46 basic characters in each set; katakana is mostly reserved for words borrowed from other languages. Kanji stand for meanings, not just sounds (each one also has its own readings), and 2,136 of them are listed as the everyday set. A normal sentence uses all three at once.",
+   "build": {
+    "parts": "か + ゛",
+    "result": "が",
+    "reading": "ga"
+   },
+   "sample": {
+    "text": "ねこ",
+    "reading": "neko",
+    "meaning": "cat — two hiragana, no kanji needed"
+   }
+  },
+  "sounds": [
+   {
+    "title": "Even beats, not stress",
+    "body": "English leans hard on one syllable of a word. Japanese gives every kana the same length instead — one beat each. (Small kana — ゃ/ゅ/ょ, plus ァ/ィ/ゥ/ェ/ォ in loanwords — fuse with the kana before them into a single beat: きょう and ファン are two beats each.) kamera is ka-me-ra, three equal beats, never ka-MEH-ra. Flattening out the stress is most of the accent work.",
+    "sample": {
+     "text": "カメラ",
+     "reading": "ka-me-ra",
+     "meaning": "camera — three equal beats"
+    }
+   },
+   {
+    "title": "Long and short are different words",
+    "body": "obasan is an aunt; obāsan is a grandmother. The small っ counts as a held beat of silence, so kite means 'come' and kitte means 'postage stamp'. Length is not decoration here — it is what tells the two apart.",
+    "sample": {
+     "text": "きて / きって",
+     "reading": "kite / kitte",
+     "meaning": "come / postage stamp"
+    }
+   },
+   {
+    "title": "The Japanese r is a single quick tap",
+    "body": "It is neither English r nor l. The tip of the tongue flicks once against the ridge behind the top teeth, close to the tt in the American pronunciation of 'butter'. No rolling, no full l — just one light tap.",
+    "sample": {
+     "text": "さくら",
+     "reading": "sakura",
+     "meaning": "cherry blossom"
+    }
+   }
+  ],
+  "order": {
+   "type": "Subject → Object → Verb",
+   "title": "The verb waits until the very end",
+   "body": "Where English says subject-verb-object, Japanese saves the verb for last. Small particles — wa, o, ni — tag each word with the job it is doing, so as long as the verb stays at the end, the pieces in front of it can move around.",
+   "sample": {
+    "text": "私はコーヒーを飲みます",
+    "reading": "watashi wa kōhī o nomimasu",
+    "meaning": "I drink coffee (I-topic, coffee-object, drink)"
+   }
+  },
+  "greetings": [
+   {
+    "text": "こんにちは",
+    "reading": "konnichiwa",
+    "meaning": "Hello (daytime; written with は but said wa)"
+   },
+   {
+    "text": "ありがとうございます",
+    "reading": "arigatō gozaimasu",
+    "meaning": "Thank you"
+   },
+   {
+    "text": "すみません",
+    "reading": "sumimasen",
+    "meaning": "Excuse me / I'm sorry (both apologising and getting attention)"
+   },
+   {
+    "text": "はい",
+    "reading": "hai",
+    "meaning": "Yes"
+   },
+   {
+    "text": "おはようございます",
+    "reading": "ohayō gozaimasu",
+    "meaning": "Good morning"
+   }
+  ],
+  "pitfall": {
+   "title": "Politeness is built into the verb itself",
+   "body": "How you say something changes with who you are saying it to. Learn the -masu and desu forms first and you are safe: they are never rude to anyone, in any situation. The casual forms can wait until you have someone to be casual with.",
+   "sample": {
+    "text": "食べる / 食べます",
+    "reading": "taberu / tabemasu",
+    "meaning": "'eat' — casual form and polite form"
+   }
+  }
+ }
+}

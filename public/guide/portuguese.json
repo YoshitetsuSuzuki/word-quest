@@ -1,0 +1,89 @@
+{
+ "category": "portuguese",
+ "ja": {
+  "tagline": "文字は英語と同じアルファベット。日本で働くブラジルの方も多く、出番のある言語です。",
+  "script": {
+   "title": "文字はアルファベット26文字。記号は音の目印",
+   "body": "使う文字は英語と同じラテン文字26字です。á・ê・ã のように記号のついた形も出てきますが、新しい文字ではありません。強く読む位置や、鼻に抜ける音を示す目印です。ç は「サ行」の音を表します。綴りはスペイン語とよく似ていますが、読み方はかなり違うところがあるので、スペイン語のつもりで音にすると通じません。",
+   "sample": { "text": "coração", "reading": "コラサォン", "meaning": "心" }
+  },
+  "sounds": [
+   {
+    "title": "r は「ハ行」に近い音になります",
+    "body": "語頭の r と、つづりの rr は、のどの奥から出す息の音で、日本語の「ハ行」に近く聞こえます。ブラジルの Rio は、実際には「ヒウ」に近い音です。一方、母音にはさまれた一つだけの r は、日本語の「ラ行」に近い軽い音になります。",
+    "sample": { "text": "carro / caro", "reading": "カーフ / カール", "meaning": "車 ／ 値段が高い" }
+   },
+   {
+    "title": "i の音の前の t・d は「チ」「ジ」に変わります",
+    "body": "ブラジルでは、i の音の前に来る t と d が「チ」「ジ」に変わります。語末の -e も i の音になるため、noite（夜）は「ノイチ」、cidade（町）は「シダージ」、dia（日）は「ジーア」。つづりからは想像しにくい変化なので、先に知っておくと聞き取りが楽になります。",
+    "sample": { "text": "cidade", "reading": "シダージ", "meaning": "町・都市" }
+   },
+   {
+    "title": "ã・ão は鼻に抜ける母音です",
+    "body": "母音の上の ~ は、鼻に抜けて出す音の合図です。pão（パン）は「パォン」、mãe（母）は「マイン」。日本語の「ン」のように口を閉じきらず、音を鼻へ逃がすだけと考えると近づきます。ちなみに日本語の「パン」は、このポルトガル語の pão から入った言葉です。",
+    "sample": { "text": "pão", "reading": "パォン", "meaning": "パン" }
+   }
+  ],
+  "order": {
+   "type": "主語 → 動詞 → 目的語（英語と同じ）",
+   "title": "並びは英語と同じ。すでに知っている語順です",
+   "body": "「私は 話します ポルトガル語を」の順に並びます。英語と同じ並びなので、語順で迷うことはほとんどありません。動詞の形が主語によって変わるため、主語の代名詞を省いても意味は通じます。ただしブラジルでは Eu（私は）のように主語を言うほうが一般的です。",
+   "sample": { "text": "Eu falo português", "reading": "エウ ファル ポルトゥゲース", "meaning": "私は 話します ポルトガル語を" }
+  },
+  "greetings": [
+   { "text": "Oi", "reading": "オイ", "meaning": "やあ（くだけた挨拶）" },
+   { "text": "Bom dia", "reading": "ボン ジーア", "meaning": "おはようございます" },
+   { "text": "Obrigado / Obrigada", "reading": "オブリガードゥ / オブリガーダ", "meaning": "ありがとう（男性は -do、女性は -da）" },
+   { "text": "Com licença", "reading": "コン リセンサ", "meaning": "すみません（前を通るときなど）" },
+   { "text": "Tchau", "reading": "チャウ", "meaning": "じゃあね" }
+  ],
+  "pitfall": {
+   "title": "名詞の男性・女性は「ありがとう」にも及びます",
+   "body": "名詞はすべて男性か女性のどちらかで、英語の the にあたる o / a も、あとに続く形容詞も、それに合わせて変わります。-o で終われば男性、-a で終われば女性が基本です。Obrigado は自分を指す形容詞なので、言う人が男性なら -o、女性なら -a になります。名詞は o / a ごと覚えれば大丈夫です。",
+   "sample": { "text": "o carro / a casa", "reading": "ウ カーフ / ア カーザ", "meaning": "その車（男性）／ その家（女性）" }
+  }
+ },
+ "en": {
+  "tagline": "The same alphabet you already read, and the everyday language of over 200 million Brazilians.",
+  "script": {
+   "title": "The same 26 letters, with a few marks",
+   "body": "Portuguese uses the Latin alphabet — 26 letters. Marked forms such as á, ê and ã turn up often, but they are not extra letters: they show you which syllable to stress and which vowels go through the nose. The ç is simply an s sound. The spelling looks a great deal like Spanish, yet the pronunciation often is not, so reading it aloud as Spanish will not get you understood.",
+   "sample": { "text": "coração", "reading": "ko-ra-SOWN", "meaning": "heart" }
+  },
+  "sounds": [
+   {
+    "title": "r is close to an English h",
+    "body": "At the start of a word, and written double as rr, the Portuguese r is a breathy sound made at the back of the throat, close to English h — Rio is really nearer to \"HEE-oo\". A single r between vowels is something else entirely: a quick tap, like the tt in American \"butter\".",
+    "sample": { "text": "carro / caro", "reading": "KA-hoo / KA-roo", "meaning": "car / expensive" }
+   },
+   {
+    "title": "t and d before an i sound become \"ch\" and \"j\"",
+    "body": "In Brazil, t and d shift to ch and j before an i sound — including the final -e of noite and cidade, which is pronounced like i. noite (night) is \"NOY-chee\", cidade (city) is \"see-DA-jee\", dia (day) is \"JEE-ah\". Nothing in the spelling hints at this, so learning it early makes listening far easier.",
+    "sample": { "text": "cidade", "reading": "see-DA-jee", "meaning": "city, town" }
+   },
+   {
+    "title": "ã and ão are nasal vowels",
+    "body": "The tilde tells you to send the vowel up through your nose. pão (bread) is \"POWN\" and mãe (mother) sounds like \"my\" spoken through the nose. The trick is not to close your lips or tongue onto an n at the end — just let the air escape through the nose.",
+    "sample": { "text": "pão", "reading": "POWN", "meaning": "bread" }
+   }
+  ],
+  "order": {
+   "type": "Subject → Verb → Object",
+   "title": "The same word order you already use",
+   "body": "Eu falo português is word for word \"I speak Portuguese\", so word order rarely trips anyone up. The verb ending already says who is doing it, so Falo português on its own is perfectly grammatical — though in Brazil the pronoun is usually kept.",
+   "sample": { "text": "Eu falo português", "reading": "eh-oo FA-loo por-too-GAYS", "meaning": "I speak Portuguese" }
+  },
+  "greetings": [
+   { "text": "Oi", "reading": "oy", "meaning": "Hi (informal)" },
+   { "text": "Bom dia", "reading": "bohn JEE-ah", "meaning": "Good morning" },
+   { "text": "Obrigado / Obrigada", "reading": "oh-bree-GA-doo / oh-bree-GA-dah", "meaning": "Thank you (men say -do, women say -da)" },
+   { "text": "Com licença", "reading": "kohn lee-SEN-sah", "meaning": "Excuse me (passing by someone)" },
+   { "text": "Tchau", "reading": "chow", "meaning": "Bye" }
+  ],
+  "pitfall": {
+   "title": "Gender reaches all the way into \"thank you\"",
+   "body": "Every noun is masculine or feminine, and the word for \"the\" (o or a) and any adjective have to match it. Nouns ending in -o are usually masculine, those in -a usually feminine. Obrigado is an adjective describing yourself, so a man says obrigado and a woman obrigada. Learn each noun with its o or a and the rest follows.",
+   "sample": { "text": "o carro / a casa", "reading": "oo KA-hoo / ah KA-zah", "meaning": "the car (m.) / the house (f.)" }
+  }
+ }
+}

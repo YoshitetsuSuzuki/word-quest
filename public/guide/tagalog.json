@@ -1,0 +1,89 @@
+{
+ "category": "tagalog",
+ "ja": {
+  "tagline": "新しい文字は要りません。ローマ字のように読めて、日本でも耳にする機会の多い言語です。",
+  "script": {
+   "title": "ラテン文字28字。見たまま読めます",
+   "body": "英語と同じ26文字に Ñ と Ng を加えた28文字を使います。Ñ の波記号のほかに、新しく覚える形はありません。綴りと音がほぼ一致するので、見たままローマ字のように読めばだいたい通じます。スペイン語や英語から入った言葉も、kompyuter（コンピューター）や sapatos（くつ）のように、聞こえたままの綴りで書かれます。",
+   "sample": { "text": "salamat", "reading": "サラマット", "meaning": "ありがとう" }
+  },
+  "sounds": [
+   {
+    "title": "「ng」はこれでひとつの文字です",
+    "body": "英語の sing の語尾と同じ音ですが、タガログ語では語の先頭にも来ます。鼻に抜けるガ行（鼻濁音）の子音だけを残し、g の弾く音を出さないつもりで読むと近くなります。ngayon（今）や ngipin（歯）など、日常語にたくさん出てきます。",
+    "sample": { "text": "ngayon", "reading": "ンガヨン", "meaning": "今" }
+   },
+   {
+    "title": "助詞の ng だけは「ナン」と読みます",
+    "body": "文字の ng とは別に、名詞の前に置く小さな語の ng があります。これだけは綴りどおりではなく「ナン」と読みます。文中に何度も出てくる語なので、先に知っておくと読むときに迷いません。例外はごく少数で、もうひとつ、複数を表す mga が「マンガ」と読まれるくらいです。",
+    "sample": { "text": "ng kanin", "reading": "ナン カニン", "meaning": "ごはんを" }
+   },
+   {
+    "title": "どこを強く読むかで意味が変わります",
+    "body": "buhay は、前を強めに読むと「いのち」、後ろを強めに読むと「生きている」という別の語になります。普段の文章ではアクセント記号を書かないので、単語を覚えるときに音の山の位置も一緒に覚えておくと安心です。",
+    "sample": { "text": "buhay", "reading": "ブーハイ ／ ブハーイ", "meaning": "いのち ／ 生きている" }
+   }
+  ],
+  "order": {
+   "type": "動詞 → 主語 → 目的語（動詞が文頭）",
+   "title": "文は動詞から始まります",
+   "body": "日本語や英語のように主語からではなく、まず動詞を置きます。「食べた・私が・ごはんを」という並びです。主語や目的語が何なのかは、その前に付く ang や ng という小さな語が教えてくれるので、動詞のあとの順番は比較的ゆるやかです。",
+   "sample": { "text": "Kumain ako ng kanin.", "reading": "クマイン アコ ナン カニン", "meaning": "食べた・私が・ごはんを ＝ 私はごはんを食べました" }
+  },
+  "greetings": [
+   { "text": "Kumusta?", "reading": "クムスタ", "meaning": "こんにちは／お元気ですか" },
+   { "text": "Magandang umaga", "reading": "マガンダン ウマガ", "meaning": "おはようございます" },
+   { "text": "Salamat po", "reading": "サラマット ポ", "meaning": "ありがとうございます" },
+   { "text": "Paumanhin po", "reading": "パウマンヒン ポ", "meaning": "すみません" },
+   { "text": "Oo ／ Hindi", "reading": "オオ ／ ヒンディ", "meaning": "はい ／ いいえ" }
+  ],
+  "pitfall": {
+   "title": "-um- は、語の内側に割り込みます",
+   "body": "kain（食べる）は kumain（食べた）、bili（買う）は bumili（買った）。子音で始まる語では um が内側に割り込みます。母音で始まる語では umalis のように前に付きます。割り込むのは -um- と -in- だけで、ほかの接辞は前か後ろに付きます。見慣れない形に出会ったら um を取り除いてみてください。",
+   "sample": { "text": "kain → kumain", "reading": "カイン → クマイン", "meaning": "食べる → 食べた" }
+  }
+ },
+ "en": {
+  "tagline": "No new alphabet to learn — Tagalog is written in Latin letters and spelled close to how it sounds.",
+  "script": {
+   "title": "The Latin alphabet, plus Ñ and Ng",
+   "body": "Tagalog uses the 26 English letters plus Ñ and Ng, 28 in all, so apart from the tilde on Ñ there are no new shapes to memorise. Spelling tracks pronunciation closely: read a word the way it is written and you will be close. Words borrowed from Spanish and English are respelled to match the sound, as in kompyuter (computer) and sapatos (shoes).",
+   "sample": { "text": "salamat", "reading": "sa-la-mat", "meaning": "thank you" }
+  },
+  "sounds": [
+   {
+    "title": "Ng is one letter, and words begin with it",
+    "body": "It is the sound at the end of English sing, but Tagalog also puts it at the start of a word: ngayon (now), ngipin (tooth). Say singing, then drop everything before the ng, and you have it. These are everyday words, so you meet the sound immediately.",
+    "sample": { "text": "ngayon", "reading": "nga-yon", "meaning": "now" }
+   },
+   {
+    "title": "The little word ng is read nang",
+    "body": "Apart from the letter, ng is also a short marker placed in front of a noun. This one word is not read as it is spelled — say it nang. It turns up constantly, so it is worth knowing first. Beyond this there is really only one more: mga, the plural marker, is said manga.",
+    "sample": { "text": "ng kanin", "reading": "nang ka-nin", "meaning": "rice, as the object of the verb" }
+   },
+   {
+    "title": "Stress can change the meaning",
+    "body": "buhay stressed on the first syllable means life; stressed on the last it means alive. Ordinary writing leaves the accent marks off, so learn each word together with where its stress falls rather than treating stress as an afterthought.",
+    "sample": { "text": "buhay", "reading": "BU-hay / bu-HAY", "meaning": "life / alive" }
+   }
+  ],
+  "order": {
+   "type": "Verb → Subject → Object",
+   "title": "The sentence starts with the verb",
+   "body": "Tagalog is verb-initial: the action comes first, then who did it, then what it was done to. Small markers — ang and ng — stand in front of the nouns and show which role each one plays, so the order after the verb is fairly flexible.",
+   "sample": { "text": "Kumain ako ng kanin.", "reading": "ku-ma-in a-ko nang ka-nin", "meaning": "Ate — I — rice = I ate rice." }
+  },
+  "greetings": [
+   { "text": "Kumusta?", "reading": "ku-mus-ta", "meaning": "How are you? (also used as hello)" },
+   { "text": "Magandang umaga", "reading": "ma-gan-dang u-ma-ga", "meaning": "Good morning" },
+   { "text": "Salamat po", "reading": "sa-la-mat po", "meaning": "Thank you (polite)" },
+   { "text": "Paumanhin po", "reading": "pa-u-man-hin po", "meaning": "Excuse me / I'm sorry" },
+   { "text": "Oo / Hindi", "reading": "o-o / hin-di", "meaning": "Yes / No" }
+  ],
+  "pitfall": {
+   "title": "The affix -um- goes inside the word",
+   "body": "kain (eat) becomes kumain (ate); bili (buy) becomes bumili (bought). After a consonant the um slips into the middle; before a vowel it goes in front, as in alis → umalis. Only -um- and -in- do this — other affixes attach at the front or the back. Take the um out and the root you already know usually appears.",
+   "sample": { "text": "kain → kumain", "reading": "ka-in → ku-ma-in", "meaning": "eat → ate" }
+  }
+ }
+}

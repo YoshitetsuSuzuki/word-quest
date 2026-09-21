@@ -2,54 +2,11 @@
 
 ## 判定
 
-**元データに変更あり（要確認）**
+**元データの変更なし**
 
 ## public/wordbank/ 配下の変更
 
-```
- M public/wordbank/bengali/level-1.json
- M public/wordbank/bengali/level-2.json
- M public/wordbank/bengali/level-3.json
- M public/wordbank/chinese/level-1.json
- M public/wordbank/chinese/level-2.json
- M public/wordbank/chinese/level-3.json
- M public/wordbank/chinese/level-4.json
- M public/wordbank/chinese/level-5.json
- M public/wordbank/english/level-1.json
- M public/wordbank/english/level-2.json
- M public/wordbank/english/level-3.json
- M public/wordbank/english/level-4.json
- M public/wordbank/english/level-5.json
- M public/wordbank/english/level-6.json
- M public/wordbank/english/level-7.json
- M public/wordbank/french/level-1.json
- M public/wordbank/french/level-2.json
- M public/wordbank/french/level-3.json
- M public/wordbank/french/level-4.json
- M public/wordbank/french/level-5.json
- M public/wordbank/german/level-1.json
- M public/wordbank/german/level-2.json
- M public/wordbank/german/level-3.json
- M public/wordbank/german/level-4.json
- M public/wordbank/german/level-5.json
- M public/wordbank/italian/level-1.json
- M public/wordbank/italian/level-2.json
- M public/wordbank/italian/level-3.json
- M public/wordbank/japanese/level-1.json
- M public/wordbank/japanese/level-2.json
- M public/wordbank/japanese/level-3.json
- M public/wordbank/japanese/level-4.json
- M public/wordbank/japanese/level-5.json
- M public/wordbank/korean/level-1.json
- M public/wordbank/korean/level-2.json
- M public/wordbank/korean/level-3.json
- M public/wordbank/polish/level-1.json
- M public/wordbank/polish/level-2.json
- M public/wordbank/polish/level-3.json
- M public/wordbank/russian/level-1.json
- M public/wordbank/russian/level-2.json
- M public/wordbank/russian/level-3.json
-```
+なし。全10言語の単語データは1バイトも変更していない。
 
 ## 今回のチェックで作成したファイル
 
@@ -61,62 +18,31 @@
 ## git status（全体）
 
 ```
-M public/wordbank/bengali/level-1.json
- M public/wordbank/bengali/level-2.json
- M public/wordbank/bengali/level-3.json
- M public/wordbank/chinese/level-1.json
- M public/wordbank/chinese/level-2.json
- M public/wordbank/chinese/level-3.json
- M public/wordbank/chinese/level-4.json
- M public/wordbank/chinese/level-5.json
- M public/wordbank/english/level-1.json
- M public/wordbank/english/level-2.json
- M public/wordbank/english/level-3.json
- M public/wordbank/english/level-4.json
- M public/wordbank/english/level-5.json
- M public/wordbank/english/level-6.json
- M public/wordbank/english/level-7.json
- M public/wordbank/french/level-1.json
- M public/wordbank/french/level-2.json
- M public/wordbank/french/level-3.json
- M public/wordbank/french/level-4.json
- M public/wordbank/french/level-5.json
- M public/wordbank/german/level-1.json
- M public/wordbank/german/level-2.json
- M public/wordbank/german/level-3.json
- M public/wordbank/german/level-4.json
- M public/wordbank/german/level-5.json
- M public/wordbank/italian/level-1.json
- M public/wordbank/italian/level-2.json
- M public/wordbank/italian/level-3.json
- M public/wordbank/japanese/level-1.json
- M public/wordbank/japanese/level-2.json
- M public/wordbank/japanese/level-3.json
- M public/wordbank/japanese/level-4.json
- M public/wordbank/japanese/level-5.json
- M public/wordbank/korean/level-1.json
- M public/wordbank/korean/level-2.json
- M public/wordbank/korean/level-3.json
- M public/wordbank/polish/level-1.json
- M public/wordbank/polish/level-2.json
- M public/wordbank/polish/level-3.json
- M public/wordbank/russian/level-1.json
- M public/wordbank/russian/level-2.json
- M public/wordbank/russian/level-3.json
- M release-check/data-integrity.json
- M release-check/manual-sample.csv
+M public/guide/korean.json
  M release-check/manual-sample.json
- M release-check/no-data-mutation.md
  M release-check/question-engine-test.json
  M release-check/unresolved-items.json
  M release-check/unresolved-items.md
- M src/data/categories.ts
- M src/screens/BattleScreen.tsx
- M src/screens/HomeScreen.tsx
- M src/screens/ListeningScreen.tsx
- M src/screens/QuizScreen.tsx
- M src/screens/RaidScreen.tsx
- M src/screens/StudyScreen.tsx
- M tools/release-check/stage1-integrity.mjs
-?? tools/release-check/category-prefix.test.ts
+?? public/guide/arabic.json
+?? public/guide/bengali.json
+?? public/guide/chinese.json
+?? public/guide/english.json
+?? public/guide/esperanto.json
+?? public/guide/french.json
+?? public/guide/german.json
+?? public/guide/hindi.json
+?? public/guide/indonesian.json
+?? public/guide/italian.json
+?? public/guide/japanese.json
+?? public/guide/malay.json
+?? public/guide/mongolian.json
+?? public/guide/polish.json
+?? public/guide/portuguese.json
+?? public/guide/russian.json
+?? public/guide/spanish.json
+?? public/guide/tagalog.json
+?? public/guide/turkish.json
+?? public/guide/urdu.json
+?? public/guide/vietnamese.json
+?? tools/release-check/guide.test.ts
 ```

@@ -1,0 +1,91 @@
+{
+ "category": "bengali",
+ "ja": {
+  "tagline": "世界有数の話者数をもつ言語。語順は日本語と同じで、文法上の性もありません。",
+  "script": {
+   "title": "アルファベットではなく「アブギダ」",
+   "body": "子音字がそれ自体で「子音＋オ」という音を持っていて、別の母音にしたいときだけ記号を足します。基本は母音字11・子音字39。上を走る横線でつながって見えますが、あれも文字の一部です。母音記号は右・左・上・下のどこにも付き、「イ」の記号は子音の左側に書きます。",
+   "build": { "parts": "ক + ি", "result": "কি", "reading": "キ" },
+   "sample": { "text": "বাংলা", "reading": "バングラ", "meaning": "ベンガル語" }
+  },
+  "sounds": [
+   {
+    "title": "子音字は「オ」を内蔵しています",
+    "body": "ক は「カ」ではなく「コ」に近い音です。子音字が内蔵している母音が、日本語の「オ」寄りの音だからです。かつて Calcutta と綴られた街が今 Kolkata と書かれるのもこのため。ただし語末や語中では、この内蔵母音が読まれないことも多くあります。কলকাতা も「コロカタ」ではなく「コルカタ」です。",
+    "sample": { "text": "কলকাতা", "reading": "コルカタ", "meaning": "コルカタ（旧称カルカッタ）" }
+   },
+   {
+    "title": "স・শ・ষ はどれも「シュ」",
+    "body": "ローマ字で s と書かれる স も、ふだんは「シュ」に近い音で読まれます。শ・ষ も同じ音。三つの文字が一つの音に収まります。書き分けは必要ですが、話すときに迷わなくて済むところです。ত・ন などと組み合わさったときだけ「ス」になります。",
+    "sample": { "text": "সাত", "reading": "シャト", "meaning": "7（サトではありません）" }
+   },
+   {
+    "title": "息を強く出す相棒の音があります",
+    "body": "ক（普通）と খ（息を強く）のように、多くの子音に「息の強いペア」がいます。日本語にはない区別なので、最初は聞き分けにくいところです。ただ、まずは「ペアがある」と知っておけば十分で、あとは耳が慣れていきます。",
+    "sample": { "text": "কাল / খাল", "reading": "カル / カル（息を強く）", "meaning": "明日・昨日 / 運河" }
+   }
+  ],
+  "order": {
+   "type": "主語 → 目的語 → 動詞（日本語と同じ）",
+   "title": "語順は日本語のまま置き換えられます",
+   "body": "「私は ごはんを 食べます」の順にそのまま並び、動詞は文の最後に来ます。助詞にあたる要素も名詞の後ろに付くので、「家に」は「家＋に」の形です。さらに名詞に男性・女性の区別がないため、覚える形が少なくて済みます。",
+   "sample": { "text": "আমি ভাত খাই", "reading": "アミ バート カイ", "meaning": "私は ごはんを 食べます" }
+  },
+  "greetings": [
+   { "text": "নমস্কার", "reading": "ノモシュカル", "meaning": "こんにちは（改まった挨拶。主にインド・西ベンガル）" },
+   { "text": "কেমন আছেন?", "reading": "ケモン アチェン", "meaning": "お元気ですか（丁寧な言い方）" },
+   { "text": "ধন্যবাদ", "reading": "ドンノバド", "meaning": "ありがとう" },
+   { "text": "দুঃখিত", "reading": "ドゥッキト", "meaning": "すみません" },
+   { "text": "হ্যাঁ / না", "reading": "ヘン（鼻にかけて）/ ナ", "meaning": "はい / いいえ" }
+  ],
+  "pitfall": {
+   "title": "二つの子音がくっついて別の形になります",
+   "body": "子音が母音をはさまずに並ぶと、二つで一つの形に合体します。元の字が見えにくい組み合わせもあり、ここが最初の壁です。とはいえ頻繁に出るものは数十通り。知らない形に出会ったら「これは合体だ」と思って分解すれば大丈夫です。",
+   "sample": { "text": "বন্ধু", "reading": "ボンドゥ", "meaning": "友だち（ন と ধ が ন্ধ に）" }
+  }
+ },
+ "en": {
+  "tagline": "One of the world's most widely spoken languages, and it has no grammatical gender.",
+  "script": {
+   "title": "Bengali is an abugida, not an alphabet",
+   "body": "Every consonant letter already carries a vowel: ক on its own is roughly \"ko\". You add a mark only when you want a different vowel. The basic set is 11 vowel letters and 39 consonants. The line running along the top is part of the letters, and vowel marks can sit to the right, left, above or below — the \"i\" mark goes to the left of its consonant.",
+   "build": { "parts": "ক + ি", "result": "কি", "reading": "ki" },
+   "sample": { "text": "বাংলা", "reading": "bangla", "meaning": "the Bengali language" }
+  },
+  "sounds": [
+   {
+    "title": "Every consonant hides an o",
+    "body": "ক is closer to \"ko\" than to \"ka\", because the vowel built into a consonant letter is an o-sound. That is exactly why the city once spelled Calcutta is now written Kolkata. But that built-in vowel often goes unpronounced, especially at the end of a word or syllable: কলকাতা is \"kolkata\", not \"kolokata\".",
+    "sample": { "text": "কলকাতা", "reading": "kolkata", "meaning": "Kolkata (formerly Calcutta)" }
+   },
+   {
+    "title": "স, শ and ষ all sound like sh",
+    "body": "The letter usually transliterated as s is normally pronounced \"sh\", and so are শ and ষ — three letters, one sound. You still have to spell them apart, but you never have to choose between them when speaking. স becomes a true s only in clusters with ত, ন and the like.",
+    "sample": { "text": "সাত", "reading": "shat", "meaning": "seven (not \"sat\")" }
+   },
+   {
+    "title": "Consonants come in breathy pairs",
+    "body": "ক is plain and খ is the same sound with a puff of breath after it; গ and ঘ work the same way, and so do several more. English has that puff in \"pin\" but not in \"spin\", and never uses it to tell words apart. In Bengali it does.",
+    "sample": { "text": "কাল / খাল", "reading": "kal / khal", "meaning": "tomorrow or yesterday / canal" }
+   }
+  ],
+  "order": {
+   "type": "Subject → Object → Verb",
+   "title": "The verb comes last",
+   "body": "English says \"I eat rice\"; Bengali says \"I rice eat\". The small words that mark a noun's role follow it instead of preceding it, so \"in the house\" comes out as \"house-in\". Nouns carry no gender, so there is one less thing to memorise.",
+   "sample": { "text": "আমি ভাত খাই", "reading": "ami bhat khai", "meaning": "I eat rice (literally: I rice eat)" }
+  },
+  "greetings": [
+   { "text": "নমস্কার", "reading": "nomoshkar", "meaning": "Hello (formal; mainly West Bengal)" },
+   { "text": "কেমন আছেন?", "reading": "kemon achhen?", "meaning": "How are you? (polite)" },
+   { "text": "ধন্যবাদ", "reading": "dhonnobad", "meaning": "Thank you" },
+   { "text": "দুঃখিত", "reading": "dukkhito", "meaning": "Sorry" },
+   { "text": "হ্যাঁ / না", "reading": "hẽ / na", "meaning": "Yes / No" }
+  ],
+  "pitfall": {
+   "title": "Two consonants fuse into a new shape",
+   "body": "When consonants meet with no vowel between them, they combine into a single conjunct letter, and a few of them look nothing like their parts. This is the real hurdle. The good news is that only a few dozen turn up often, and you absorb them simply by reading.",
+   "sample": { "text": "বন্ধু", "reading": "bondhu", "meaning": "friend (ন + ধ written as ন্ধ)" }
+  }
+ }
+}

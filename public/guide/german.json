@@ -1,0 +1,89 @@
+{
+ "category": "german",
+ "ja": {
+  "tagline": "文字はアルファベットのまま。綴りと音がほぼ一致するので、初日から声に出して読めます。",
+  "script": {
+   "title": "アルファベットのまま。名詞だけ大文字で始まります",
+   "body": "英語と同じラテン文字26文字に、ä・ö・ü の3つと ß を加えた形です。いちばん目につく違いは、文の途中でも名詞がすべて大文字で始まること。逆に言えば、文の途中で大文字を見つければ、そこが名詞だと分かります（文頭の語と、「あなた」の敬称 Sie は例外です）。綴りと発音の対応も規則的で、ルールを覚えれば初めて見る単語も声に出せます。",
+   "sample": { "text": "Straße", "reading": "シュトラーセ", "meaning": "通り（名詞なので大文字始まり。ß は「ス」の音）" }
+  },
+  "sounds": [
+   {
+    "title": "ei は「アイ」、ie は「イー」",
+    "body": "ローマ字読みでほぼ通じますが、母音が2つ並んだときだけ注意が必要です。ei は「エイ」ではなく「アイ」、ie は「イエ」ではなく「イー」と読みます。eu と äu は「オイ」です。この3組を押さえるだけで、読み間違いの大半が消えます。ただし Familie のように -ie / -ien で終わる語では、i と e が分かれて「イエ」となります。",
+    "sample": { "text": "Eis / Liebe / heute", "reading": "アイス / リーベ / ホイテ", "meaning": "氷 / 愛 / 今日" }
+   },
+   {
+    "title": "w は「ヴ」、v は「フ」、z は「ツ」",
+    "body": "英語のつもりで読むとずれる子音があります。w は「ヴ」、v は「フ」（Vater など本来のドイツ語の語。Vase・November のような外来語では「ヴ」になります）、z は「ツ」、j は「ヤ行」。母音の前の s は「ザ行」になります。語頭の st-・sp- は「シュト・シュプ」、sch は「シュ」です。ここまで押さえれば、あとはほぼローマ字のまま読めます。",
+    "sample": { "text": "Wasser / Vater / Zeit", "reading": "ヴァッサー / ファーター / ツァイト", "meaning": "水 / 父 / 時間" }
+   },
+   {
+    "title": "ch は、前の母音で2種類に変わります",
+    "body": "ch はドイツ語らしい音で、直前の母音によって変わります。a・o・u のあとでは喉の奥から出す「ハ・ホ・フ」、i・e のあとでは息だけの軽い「ヒ」です。どちらも日本語のハ行に近いので、まずは「ハ行の音」と思って声に出してみてください。",
+    "sample": { "text": "Buch / ich", "reading": "ブーフ / イヒ", "meaning": "本 / 私は" }
+   }
+  ],
+  "order": {
+   "type": "主語 → 動詞 → 目的語（動詞は必ず2番目）",
+   "title": "動詞は、いつも文の2番目に立ちます",
+   "body": "基本は英語と同じ「主語→動詞→目的語」です。ただしドイツ語には、平叙文では動詞が必ず2番目に来るという決まりがあります。時を表す語などを文頭に置くと、動詞はその次に来て、主語は動詞のうしろに回ります。2番目に来るのは主文の活用した動詞だけで、完了形などのもう一つの動詞は文末に、weil などで始まる副文では動詞が文末に来ます。",
+   "sample": { "text": "Heute trinke ich Kaffee.", "reading": "ホイテ トリンケ イヒ カフェ", "meaning": "今日、私はコーヒーを飲みます（今日→飲む→私は→コーヒーを）" }
+  },
+  "greetings": [
+   { "text": "Hallo", "reading": "ハロー", "meaning": "やあ、こんにちは（気軽に）" },
+   { "text": "Danke", "reading": "ダンケ", "meaning": "ありがとう" },
+   { "text": "Entschuldigung", "reading": "エントシュルディグング", "meaning": "すみません（声をかけるとき・謝るとき）" },
+   { "text": "Ja / Nein", "reading": "ヤー / ナイン", "meaning": "はい / いいえ" },
+   { "text": "Tschüss", "reading": "チュース", "meaning": "じゃあね（気軽なさようなら）" }
+  ],
+  "pitfall": {
+   "title": "名詞は、冠詞とセットで覚えます",
+   "body": "ドイツ語の名詞には男性・女性・中性の3つの区別があり、der・die・das のどれかが付きます。意味から予想できるとは限らず、Mädchen（メートヒェン／女の子）は das です。ですから単語だけを覚えず、いつも冠詞ごと覚えてしまうのが近道です。最初からそうしておけば、後で覚え直さずに済みます。",
+   "sample": { "text": "der Mann / die Frau / das Kind", "reading": "デア マン / ディー フラウ / ダス キント", "meaning": "男性 / 女性 / 子ども" }
+  }
+ },
+ "en": {
+  "tagline": "The alphabet is the one you already know, and spelling matches sound — you can read German aloud on day one.",
+  "script": {
+   "title": "The same alphabet, plus four extra letters",
+   "body": "German uses the 26 Latin letters you already know, plus ä, ö, ü and ß. The difference you notice immediately is that every noun is capitalised, even in the middle of a sentence — which is actually a useful clue, because a capital letter in the middle of a sentence marks a noun (the exceptions are the first word of a sentence and the polite Sie, \"you\"). Spelling is regular too, so you can pronounce words you have never seen.",
+   "sample": { "text": "Straße", "reading": "SHTRAH-suh", "meaning": "street (capitalised because it is a noun; ß is an s sound)" }
+  },
+  "sounds": [
+   {
+    "title": "ei sounds like \"eye\", ie sounds like \"ee\"",
+    "body": "German spelling is consistent, but pairs of vowels catch people out. In ei and ie, the second letter tells you the sound: ei rhymes with \"eye\", ie is a long \"ee\". eu and äu are both \"oy\". Learn those three pairs and most misreadings disappear. One exception: in words ending -ie or -ien, such as Familie, the i and e split into two syllables.",
+    "sample": { "text": "Eis / Liebe / heute", "reading": "ice / LEE-buh / HOY-tuh", "meaning": "ice / love / today" }
+   },
+   {
+    "title": "w, v, z and j are not what English suggests",
+    "body": "A handful of consonants differ from English. w sounds like an English v, v usually sounds like f in native German words such as Vater (though in borrowings like Vase or November it is a v sound), z sounds like ts, and j sounds like an English y. An s before a vowel is voiced, like English z. Word-initial st- and sp- are \"sht-\" and \"shp-\", and sch is \"sh\". Everything else reads much as it looks.",
+    "sample": { "text": "Wasser / Vater / Zeit", "reading": "VAH-ser / FAH-ter / tsite", "meaning": "water / father / time" }
+   },
+   {
+    "title": "ch has two sounds",
+    "body": "ch is the one sound English does not have, and the vowel before it decides which version you get. After a, o or u it is scraped at the back of the throat, as in Scottish \"loch\". After i or e it is much lighter, made near the front of the mouth. Both are close enough to h to be understood while you practise.",
+    "sample": { "text": "Buch / ich", "reading": "bookh / ikh", "meaning": "book / I" }
+   }
+  ],
+  "order": {
+   "type": "Subject → Verb → Object (the verb is always second)",
+   "title": "The verb holds the second slot",
+   "body": "The basic order matches English. The difference is one firm rule: in a statement, the conjugated verb must be the second element. Start the sentence with something else, such as a time word, and the verb still comes next — so the subject moves behind it. That slot takes only the conjugated verb of a main clause: in perfect tenses the other verb goes to the end, and after weil or dass the verb goes to the end too.",
+   "sample": { "text": "Heute trinke ich Kaffee.", "reading": "HOY-tuh TRIN-kuh ikh KAH-fay", "meaning": "Today I drink coffee (literally: today drink I coffee)" }
+  },
+  "greetings": [
+   { "text": "Hallo", "reading": "hah-LOH", "meaning": "Hello (casual)" },
+   { "text": "Danke", "reading": "DAHN-kuh", "meaning": "Thank you" },
+   { "text": "Entschuldigung", "reading": "ent-SHOOL-di-goong", "meaning": "Excuse me / sorry" },
+   { "text": "Ja / Nein", "reading": "yah / nine", "meaning": "Yes / No" },
+   { "text": "Tschüss", "reading": "chooss", "meaning": "Bye (casual)" }
+  ],
+  "pitfall": {
+   "title": "Learn every noun with its article",
+   "body": "German nouns come in three genders, and each takes der, die or das. The choice often has nothing to do with meaning — Mädchen (girl) is das. So never learn a noun on its own: learn \"die Frau\", not \"Frau\". Do it from your very first word and you will not have to relearn your vocabulary later.",
+   "sample": { "text": "der Mann / die Frau / das Kind", "reading": "dair MAHN / dee FROW / dahss KINT", "meaning": "the man / the woman / the child" }
+  }
+ }
+}

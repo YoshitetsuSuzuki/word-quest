@@ -1,0 +1,89 @@
+{
+ "category": "malay",
+ "ja": {
+  "tagline": "文字はアルファベットのまま。活用も、性も、時制変化もありません。",
+  "script": {
+   "title": "文字はアルファベット26字。新しい文字はありません",
+   "body": "英語と同じ26文字だけで、記号も付きません。綴りと音がほぼ一対一なので、初めて見る単語もその場で声に出せます。インドネシア語とは綴りも文法も大半が共通で、おおむね話が通じます。ただし日常語には違いがあり、「できる」は boleh（インドネシアでは bisa。boleh は「〜してよい」の意味に寄ります）、「事務所」は pejabat（同じく kantor）のように別の語を使います。",
+   "sample": { "text": "Bahasa Melayu", "reading": "バハサ ムラユ", "meaning": "マレー語" }
+  },
+  "sounds": [
+   {
+    "title": "c は「チャ行」で読みます",
+    "body": "ローマ字読みが基本ですが、c だけは例外です。ca・ci・cu・ce・co は「チャ・チ・チュ・チェ・チョ」で、「カ」でも「サ」でもありません。ほかは sy が「シュ」、ng が鼻にかかる「ン」になるくらいで、子音でつまずくのは c だけです。あとは母音の e と語尾の扱いを押さえれば十分です。",
+    "sample": { "text": "cari / cuci", "reading": "チャリ / チュチ", "meaning": "探す / 洗う" }
+   },
+   {
+    "title": "e には2つの音があります",
+    "body": "同じ e でも、besar（大きい）は口をあまり開かない曖昧な「ウ」に近い音、merah（赤い）は「エ」とはっきり読みます。綴りで書き分けないので単語ごとに覚えますが、曖昧な「ウ」の方をよく見かけます。まずはそちらを基本に考えておくと外しにくいです。",
+    "sample": { "text": "besar / merah", "reading": "ブサール / メラ", "meaning": "大きい / 赤い（同じ e でも音が違う）" }
+   },
+   {
+    "title": "語尾は弱く終わります",
+    "body": "語末の k は「ク」と言わず、喉を軽く詰めて止めます。tidak は「ティダック」ではなく「ティダッ」です。マレーシアの標準的な発音では語末の a もぼかして弱く言い、saya の「ヤ」は軽く落とすように響きます。インドネシアでは、ここをはっきり「ア」と読みます。",
+    "sample": { "text": "tidak / saya", "reading": "ティダッ / サヤ（ヤは軽く）", "meaning": "いいえ、〜ない / 私" }
+   }
+  ],
+  "order": {
+   "type": "主語 → 動詞 → 目的語（英語と同じ）",
+   "title": "語順は英語と同じ。語の形は変わりません",
+   "body": "主語のすぐ後ろに動詞が来ます。動詞は主語が誰でも、過去でも未来でも形が変わらないので、覚えるのは並べ方だけです。時間は sudah（もう）、akan（これから）などの語を足して示します。修飾語は名詞の後ろに置き、rumah besar は「家＋大きい」で「大きい家」になります。",
+   "sample": { "text": "Saya makan nasi", "reading": "サヤ マカン ナシ", "meaning": "私は ごはんを 食べます（私・食べる・ごはん）" }
+  },
+  "greetings": [
+   { "text": "Selamat pagi", "reading": "スラマッ パギ", "meaning": "おはようございます" },
+   { "text": "Apa khabar?", "reading": "アパ カバル", "meaning": "お元気ですか" },
+   { "text": "Terima kasih", "reading": "トゥリマ カシ", "meaning": "ありがとう" },
+   { "text": "Maaf", "reading": "マアフ", "meaning": "ごめんなさい／すみません" },
+   { "text": "Ya / Tidak", "reading": "ヤ / ティダッ", "meaning": "はい / いいえ" }
+  ],
+  "pitfall": {
+   "title": "長い単語は、飾りを外して「語根」で引きます",
+   "body": "bermain（遊ぶ）、pemain（選手）、permainan（ゲーム）は、どれも main（遊ぶ）という一つの語根からできています。語根の前後に ber-、pe-、per-…-an といった飾りを付けて意味を広げる仕組みで、辞書も語根で引きます。頭とお尻を外して真ん中を見る。初めての単語も見当がつきます。",
+   "sample": { "text": "bermain", "reading": "ブルマイン", "meaning": "遊ぶ（語根は main）" }
+  }
+ },
+ "en": {
+  "tagline": "The alphabet you already read, with no conjugations, no genders and no tense endings.",
+  "script": {
+   "title": "The same 26 letters, spelled the way it sounds",
+   "body": "Malay uses the Latin alphabet — all 26 letters, no accent marks, nothing new to learn. Spelling maps onto sound almost one-to-one, so you can read a new word aloud the first time you meet it. Indonesian shares most of its spelling and grammar, and the two are largely mutually intelligible — though everyday words differ: 'can' is boleh here, where Indonesian would say bisa (Indonesian keeps boleh, but for 'may' rather than 'can'), and an office is a pejabat, not a kantor.",
+   "sample": { "text": "Bahasa Melayu", "reading": "ba-ha-sa muh-la-yu", "meaning": "the Malay language" }
+  },
+  "sounds": [
+   {
+    "title": "C is always ch",
+    "body": "Letters sound close to how they look, with one exception worth memorising: c is the ch of chair, never the k of cat or the s of city. Beyond that, sy is the sh of shop and ng is the ng of singer. C is the one consonant letter that surprises you; the vowel e and the word endings, next, are all that is left.",
+    "sample": { "text": "cari / cuci", "reading": "cha-ri / choo-chi", "meaning": "to look for / to wash" }
+   },
+   {
+    "title": "E stands for two different sounds",
+    "body": "In besar (big) the e is a slack, unstressed uh, the sound in the first syllable of about. In merah (red) it is the clear e of bed. Spelling does not distinguish them, so you pick them up word by word — but the slack uh is the one you will meet more often, so guess that first.",
+    "sample": { "text": "besar / merah", "reading": "buh-sar / meh-rah", "meaning": "big / red (one letter, two sounds)" }
+   },
+   {
+    "title": "Word endings fade out",
+    "body": "A final k is not released as a full k — you close the throat and stop, the way many English speakers say the tt in button, so tidak sounds like tee-da cut short. In standard Malaysian pronunciation a final a also softens to an uh: saya ends closer to sa-yuh. In Indonesia that final a stays a clear ah.",
+    "sample": { "text": "tidak / saya", "reading": "tee-da(k) / sa-yuh", "meaning": "no, not / I, me" }
+   }
+  ],
+  "order": {
+   "type": "Subject → Verb → Object (the same as English)",
+   "title": "English word order, and nothing changes shape",
+   "body": "Subject, then verb, then object, exactly as in English. The verb never changes for who is speaking or for past and future — you add a word such as sudah (already) or akan (will) instead. Modifiers follow their noun, so rumah besar is literally 'house big', meaning a big house.",
+   "sample": { "text": "Saya makan nasi", "reading": "sa-ya ma-kan na-si", "meaning": "I eat rice (I - eat - rice)" }
+  },
+  "greetings": [
+   { "text": "Selamat pagi", "reading": "suh-la-mat pa-gi", "meaning": "Good morning" },
+   { "text": "Apa khabar?", "reading": "a-pa kha-bar", "meaning": "How are you?" },
+   { "text": "Terima kasih", "reading": "tuh-ree-ma ka-sih", "meaning": "Thank you" },
+   { "text": "Maaf", "reading": "ma-af", "meaning": "Sorry / Excuse me" },
+   { "text": "Ya / Tidak", "reading": "ya / tee-da(k)", "meaning": "Yes / No" }
+  ],
+  "pitfall": {
+   "title": "Strip the affixes and look up the root",
+   "body": "bermain (to play), pemain (a player) and permainan (a game) all grow from one root: main, to play. Malay widens meaning by wrapping prefixes and suffixes such as ber-, pe- and per-...-an around a root, and the dictionary lists the root. When a long word stops you, peel off the front and the back and read what is left in the middle.",
+   "sample": { "text": "bermain", "reading": "buhr-ma-in", "meaning": "to play (root: main)" }
+  }
+ }
+}

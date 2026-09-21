@@ -1,0 +1,89 @@
+{
+ "category": "french",
+ "ja": {
+  "tagline": "読まない字は多いのですが、規則はとても規則的。一度覚えれば、初めて見る単語も読めます。",
+  "script": {
+   "title": "文字は英語と同じ。違うのは文字に付く記号だけ",
+   "body": "使うのは英語と同じラテン文字26字で、新しく覚える文字はひとつもありません。違うのは é è ê ë ç のような記号が付くこと。これは飾りではなく、その文字をどの音で読むかを決める目印です（ë は前の母音と切り離して読む印、ç の記号は文字の下に付きます）。規則がとても規則的なので、覚えれば綴りを見ただけで音が分かります。",
+   "sample": { "text": "café", "reading": "カフェ", "meaning": "コーヒー、喫茶店" }
+  },
+  "sounds": [
+   {
+    "title": "単語の最後の子音は、たいてい読みません",
+    "body": "Paris は「パリ」、petit は「プティ」。2音節以上の語では語末の e も読みません（le・je のような1音節の語では軽く「ウ」と発音します）。ただし r・l・f・c は読むことが多く、bonjour の r は聞こえます。大きな例外は -er で終わる語で、r を読まず「エ」になります（parler は「パルレ」）。",
+    "sample": { "text": "petit", "reading": "プティ", "meaning": "小さい（最後の t は読まない）" }
+   },
+   {
+    "title": "読まないはずの子音が、次の語とつながって復活します",
+    "body": "次の語が母音で始まるとき、語末の子音が次の語にくっついて聞こえます。これがリエゾンです。vous avez は「ヴザヴェ」、les amis は「レザミ」。ただしつながる組み合わせは決まっていて、どこでもつながるわけではありません（et のあとは決してつながりません）。速くて聞き取れない場面の多くは、実は音がつながっているだけです。",
+    "sample": { "text": "vous avez", "reading": "ヴザヴェ", "meaning": "あなたは持っています（ヴ アヴェではない）" }
+   },
+   {
+    "title": "e に付く記号は、飾りではなく音の指定です",
+    "body": "é は口を横に引いた「エ」、è と ê は口を広めに開けた「エ」。記号の無い e は、語末ではふつう読みません。語中では軽く「ウ」になるのがふつうで、後ろに子音が2つ続くなど、その音節が子音で終わるときだけ「エ」になります（mer-ci は「メルシ」、pe-tit は「プティ」）。ç は「サ行」の音になり、ça は「サ」です。単語は記号ごと覚えてください。",
+    "sample": { "text": "élève", "reading": "エレーヴ", "meaning": "生徒（é と è と、読まない e）" }
+   }
+  ],
+  "order": {
+   "type": "主語 → 動詞 → 目的語（英語と同じ）",
+   "title": "並びは英語と同じ。ただし形容詞は名詞の後ろ",
+   "body": "主語・動詞・目的語の順で、日本語のように動詞が最後へ回ることはありません。英語からほぼそのまま置き換えられますが、目的語が代名詞のときは動詞の前へ移ります（Je t'aime＝「私は あなたを 愛する」）。形容詞は多くが名詞の後ろで、un chat noir は「黒い猫」。ただし grand・petit・bon など短くよく使う語は前に付きます（une petite maison）。",
+   "sample": { "text": "Je parle français", "reading": "ジュ パルル フランセ", "meaning": "私は 話します フランス語を" }
+  },
+  "greetings": [
+   { "text": "Bonjour", "reading": "ボンジュール", "meaning": "こんにちは" },
+   { "text": "Merci", "reading": "メルシ", "meaning": "ありがとう" },
+   { "text": "Excusez-moi", "reading": "エクスキュゼ モワ", "meaning": "すみません（声をかけるとき）" },
+   { "text": "Oui / Non", "reading": "ウィ / ノン", "meaning": "はい / いいえ" },
+   { "text": "Au revoir", "reading": "オ ルヴォワール", "meaning": "さようなら" }
+  ],
+  "pitfall": {
+   "title": "すべての名詞に男性・女性があります",
+   "body": "名詞には男性・女性の区別があり、それによって付く冠詞が変わります。le soleil（太陽）は男性、la lune（月）は女性。意味から理屈で決まるものではないので、当てようと考え込まないこと。単語は le livre、la table のように冠詞ごと覚える。それだけで大丈夫です。",
+   "sample": { "text": "le soleil / la lune", "reading": "ル ソレイユ / ラ リュヌ", "meaning": "太陽（男性）/ 月（女性）" }
+  }
+ },
+ "en": {
+  "tagline": "French writes more letters than it says, but the rules are consistent — learn them once and new words read themselves.",
+  "script": {
+   "title": "The same 26 letters as English, plus accent marks",
+   "body": "You already know every letter. What is new is the marks — é, è, ê, ë and the cedilla in ç. They are not decoration: accents tell you which sound the letter takes, the two dots on ë mean you read it separately from the vowel before it (Noël), and the cedilla sits under the c. French spelling looks unpredictable at first, but the rules behind it are unusually consistent, so once you know them you can pronounce words you have never seen before.",
+   "sample": { "text": "café", "reading": "ka-FAY", "meaning": "coffee, café" }
+  },
+  "sounds": [
+   {
+    "title": "The consonant at the end usually stays silent",
+    "body": "Paris is \"pa-REE\" and petit is \"puh-TEE\". A final e is silent too — except in one-syllable words like le and je, where you do hear it as a light \"uh\". The letters r, l, f and c are the common exceptions, so you do hear the r in bonjour — but not in the -er ending, where the r is silent: parler is \"par-LAY\". Knowing this much lets you read a lot of unfamiliar words correctly.",
+    "sample": { "text": "petit", "reading": "puh-TEE", "meaning": "small (the final t is silent)" }
+   },
+   {
+    "title": "Those silent letters come back when the next word starts with a vowel",
+    "body": "A silent final consonant links onto a following vowel. This is called liaison: vous avez sounds like \"voo-za-VAY\", les amis like \"lay-za-MEE\". Only set combinations link, though — it does not happen everywhere, and never after et. Much of what sounds like impossibly fast French is simply words joined together this way.",
+    "sample": { "text": "vous avez", "reading": "voo-za-VAY", "meaning": "you have (not \"voo a-VAY\")" }
+   },
+   {
+    "title": "Accents are instructions, not decoration",
+    "body": "é is a tight \"ay\"; è and ê are a more open \"eh\". A plain e is usually silent at the end of a word, and inside a word it is a light \"uh\" — it turns into \"eh\" only when the syllable closes on a consonant (usually when two consonants follow), as in mer-ci \"mair-SEE\"; pe-tit stays \"uh\". The cedilla turns c into an s sound, so ça is \"sa\". Always learn a word together with its accents.",
+    "sample": { "text": "élève", "reading": "ay-LEV", "meaning": "pupil (é, è, and a silent final e)" }
+   }
+  ],
+  "order": {
+   "type": "Subject → Verb → Object",
+   "title": "Word order follows English — but adjectives come after the noun",
+   "body": "French lines up subject, verb and object much as English does, so most sentences map across word for word — but a pronoun object moves in front of the verb: Je t'aime is literally \"I you love\". The other difference is where adjectives go: most follow the noun, so un chat noir is \"a cat black\", a black cat. Short everyday ones like grand, petit, bon and beau come first, as in une petite maison.",
+   "sample": { "text": "Je parle français", "reading": "zhuh parl frahn-SAY", "meaning": "I speak French" }
+  },
+  "greetings": [
+   { "text": "Bonjour", "reading": "bohn-ZHOOR", "meaning": "Hello / Good day" },
+   { "text": "Merci", "reading": "mair-SEE", "meaning": "Thank you" },
+   { "text": "Excusez-moi", "reading": "ex-koo-zay-MWAH", "meaning": "Excuse me" },
+   { "text": "Oui / Non", "reading": "wee / nohn", "meaning": "Yes / No" },
+   { "text": "Au revoir", "reading": "oh ruh-VWAR", "meaning": "Goodbye" }
+  ],
+  "pitfall": {
+   "title": "Every noun is either masculine or feminine",
+   "body": "A noun's gender decides the article in front of it: le soleil (the sun) is masculine, la lune (the moon) is feminine. There is no reliable logic to guess from, so don't try to reason it out — just learn each noun with its article attached, as le livre, la table. Do that and the problem disappears.",
+   "sample": { "text": "le soleil / la lune", "reading": "luh so-LAY / la LEWN", "meaning": "the sun (m.) / the moon (f.)" }
+  }
+ }
+}

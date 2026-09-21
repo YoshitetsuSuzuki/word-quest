@@ -1,0 +1,89 @@
+{
+ "category": "vietnamese",
+ "ja": {
+  "tagline": "ラテン文字で書くので今日から読めます。語形変化もなく、まずは記号の読み分けから始められます。",
+  "script": {
+   "title": "ラテン文字。ただし記号が2種類つきます",
+   "body": "アルファベットは29文字。f・j・w・z は使わず、かわりに ă・â・ê・ô・ơ・ư・đ が加わります。母音につく記号は2種類あります。ă や ơ のように母音の種類を決めるものと、à á ả ã ạ のように声調（音の上げ下げ）を表すものです。この2つを分けて見ると、急に読めるようになります。",
+   "sample": { "text": "phở", "reading": "フォー", "meaning": "フォー（米の麺料理）。ơ が母音、その上の記号が声調" }
+  },
+  "sounds": [
+   {
+    "title": "同じ文字の並びでも、音の高さで別の語になります",
+    "body": "北部の発音では声調が6つあります。記号なし（平ら）、à（低く下げる）、á（上げる）、ả（下げてから上げる）、ã（高く上げながら喉を詰める）、ạ（短く詰める）の6種類です。記号は飾りではなく語の一部なので、落とすと通じません。まずは à と á の2つから耳を慣らすと楽です。",
+    "sample": { "text": "ba / bà", "reading": "バー（平ら）/ バー（低く下げる）", "meaning": "3 / おばあさん・年配の女性への敬称" }
+   },
+   {
+    "title": "横棒のある đ と、ない d は別の文字です",
+    "body": "đ は日本語の「ダ行」に近い音ですが、横棒のない d は北部の発音では「ザ行」に近くなります。形がよく似ているので、横棒があるかどうかを必ず確かめてください。辞書でも đ は d とは別の文字として並んでいます。",
+    "sample": { "text": "đi / da", "reading": "ディー / ザー", "meaning": "行く / 肌" }
+   },
+   {
+    "title": "ơ と ư は、日本語にない母音です",
+    "body": "ơ は「ア」と「オ」の中間あたりの音、ư は「ウ」の口を横に引いたような音です。帽子のついた ô（オ）や â とは別の文字なので、どの記号が乗っているかまで見て読み分けます。まずは形の違いに目を慣らすところからで十分です。",
+    "sample": { "text": "cơm / chữ", "reading": "コム / チュー", "meaning": "ごはん / 文字" }
+   }
+  ],
+  "order": {
+   "type": "主語 → 動詞 → 目的語（英語と同じ）",
+   "title": "語順は英語型。説明する語は後ろにつきます",
+   "body": "文の骨組みは英語と同じで、主語・動詞・目的語の順です。日本語と違うのは、説明する語が名詞の後ろに来ること。tiếng Việt は「ことば＋ベトナム」の順で「ベトナム語」になります。動詞も名詞も形を変えないので、覚えた形をそのまま並べれば文になります。",
+   "sample": { "text": "Tôi ăn phở", "reading": "トイ アン フォー", "meaning": "私は フォーを 食べます" }
+  },
+  "greetings": [
+   { "text": "Xin chào", "reading": "シン チャオ", "meaning": "こんにちは" },
+   { "text": "Cảm ơn", "reading": "カム オン", "meaning": "ありがとう" },
+   { "text": "Xin lỗi", "reading": "シン ロイ", "meaning": "すみません" },
+   { "text": "Vâng", "reading": "ヴァン", "meaning": "はい（北部の丁寧な返事）" },
+   { "text": "Tạm biệt", "reading": "タム ビエット", "meaning": "さようなら" }
+  ],
+  "pitfall": {
+   "title": "空白は、単語の切れ目とはかぎりません",
+   "body": "ベトナム語は音節ごとに空白を空けて書きます。Việt Nam も đại học（大学）も、見た目は2語ですが1つの語です。漢字由来の2音節語が多く、空白で切って片方だけ辞書を引いても、目的の意味にはたどり着けません。隣とセットで1語、と思って読めば大丈夫です。",
+   "sample": { "text": "đại học", "reading": "ダイ ホック", "meaning": "大学（2音節で1つの語）" }
+  }
+ },
+ "en": {
+  "tagline": "It is written in the Latin alphabet, so you can read it today, and words never change form.",
+  "script": {
+   "title": "Latin letters, carrying two different kinds of mark",
+   "body": "The alphabet has 29 letters. There is no f, j, w or z; instead you get ă, â, ê, ô, ơ, ư and đ. Two kinds of mark sit on the vowels, and they do different jobs. The breve on ă, the hat on ê and the horn on ơ tell you which vowel it is. The marks à á ả ã ạ tell you the tone. Separate the two and the page starts to make sense.",
+   "sample": { "text": "phở", "reading": "fuh", "meaning": "the noodle soup — ơ is the vowel, the hook above it is the tone" }
+  },
+  "sounds": [
+   {
+    "title": "Same letters, different pitch, different word",
+    "body": "The northern pronunciation has six tones: no mark (level), à (low falling), á (rising), ả (dipping then rising), ã (rising with a catch in the voice), and ạ (short and cut off). The marks are part of the word, not decoration, so dropping them leaves you unintelligible. Start by training your ear on just à and á.",
+    "sample": { "text": "ba / bà", "reading": "bah (level) / bah (low falling)", "meaning": "three / grandmother, or a polite title for an older woman" }
+   },
+   {
+    "title": "đ with a bar and plain d are two letters",
+    "body": "đ is the d you expect. Plain d, with no bar, is pronounced like a z in the north. The two shapes are nearly identical on the page, so check for the bar every time. Dictionaries list đ as its own letter, filed separately from d.",
+    "sample": { "text": "đi / da", "reading": "dee / zah", "meaning": "to go / skin" }
+   },
+   {
+    "title": "ơ and ư are vowels English does not have",
+    "body": "ơ is close to the vowel in \"bird\" said without the r. ư is an \"oo\" said with the lips spread wide instead of rounded. They are different letters from ô and â, so read the mark rather than the letter underneath it.",
+    "sample": { "text": "cơm / chữ", "reading": "kuhm / chuh", "meaning": "cooked rice / written character" }
+   }
+  ],
+  "order": {
+   "type": "Subject → Verb → Object",
+   "title": "English word order, but describing words come after",
+   "body": "The backbone of a sentence is subject, verb, object, just as in English. The difference is that modifiers follow the noun: tiếng Việt is literally \"language Vietnamese\". Verbs and nouns never change shape — no plurals, no conjugations — so a word you have learned can be dropped into any sentence as it is.",
+   "sample": { "text": "Tôi ăn phở", "reading": "toy an fuh", "meaning": "I eat pho (I / eat / pho)" }
+  },
+  "greetings": [
+   { "text": "Xin chào", "reading": "sin chow", "meaning": "Hello" },
+   { "text": "Cảm ơn", "reading": "kahm uhn", "meaning": "Thank you" },
+   { "text": "Xin lỗi", "reading": "sin loy", "meaning": "Sorry / excuse me" },
+   { "text": "Vâng", "reading": "vuhng", "meaning": "Yes (the polite northern reply)" },
+   { "text": "Tạm biệt", "reading": "tahm byet", "meaning": "Goodbye" }
+  ],
+  "pitfall": {
+   "title": "A space is not always the end of a word",
+   "body": "Vietnamese puts a space after every syllable, not after every word. Việt Nam and đại học (university) each look like two words but are one. Many two-syllable words come from Chinese roots, and looking up just half of one will not lead you to the meaning you want. Read neighbouring syllables as a set and you will be fine.",
+   "sample": { "text": "đại học", "reading": "dai hawk", "meaning": "university — two syllables, one word" }
+  }
+ }
+}

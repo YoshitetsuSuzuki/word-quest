@@ -1,0 +1,89 @@
+{
+ "category": "spanish",
+ "ja": {
+  "tagline": "綴りと音がほぼ一対一。ローマ字のつもりで読めば、初めての単語でも声に出せます。",
+  "script": {
+   "title": "文字は英語と同じ。ただし ñ が1つ増えます",
+   "body": "使う文字は英語と同じラテン文字に ñ を加えた27文字です。しかも綴りと音がほぼ一対一で、同じ字はほとんどいつも同じ音。だから初めて見る単語でも、その場で読み上げられます。書き方で目を引くのは疑問文で、文の頭にも ¿ を置き、¿Cómo estás?（元気ですか）のように前後で挟みます。感嘆文も ¡ ! で同じように挟みます。",
+   "sample": { "text": "español", "reading": "エスパニョール", "meaning": "スペイン語" }
+  },
+  "sounds": [
+   {
+    "title": "見た目と読み方がずれるのは、ほぼこの3文字",
+    "body": "h は無音（hola は「オラ」）。ch だけは「チャ行」。j はのどの奥をこする音で、ge・gi の g も同じ。v は b と同じ音で nuevo は「ヌエボ」。z と e・i の前の c はサ行（スペインでは舌先を噛む音）で、gracias は「グラシアス」。que・qui・gue・gui の u は無音、ü のときだけ読みます（pingüino は「ピングイノ」）。",
+    "sample": { "text": "jamón", "reading": "ハモン", "meaning": "ハム" }
+   },
+   {
+    "title": "ñ は「ニャ行」、ll は「ヤ行」",
+    "body": "ñ は n の上に波線がついた別の文字で、「ニャ・ニュ・ニョ」と読みます。mañana は「マニャーナ」。l が2つ並んだ ll は「ル」ではなく、ヤ行の音になります。地域差があり、アルゼンチンなどではジャ行・シャ行に近く聞こえます。",
+    "sample": { "text": "me llamo", "reading": "メ ヤモ", "meaning": "私の名前は〜です" }
+   },
+   {
+    "title": "アクセント記号は「ここを強く」の目印",
+    "body": "á é í ó ú の記号は、その母音を強く読むという指示です。記号がない語は、母音・n・s で終われば後ろから2つ目の音節、それ以外の字で終われば最後の音節を強く読みます。つまり強く読む位置が規則から外れる語に記号がつく、と考えると迷いません（qué・cómo のような疑問の語や、tú・él のように同じ綴りの語と区別するための記号もあります）。",
+    "sample": { "text": "café / teléfono", "reading": "カフェ / テレフォノ", "meaning": "コーヒー / 電話（記号のある母音を強く）" }
+   }
+  ],
+  "order": {
+   "type": "主語 → 動詞 → 目的語（英語と同じ）",
+   "title": "並びは英語と同じ。主語はよく省きます",
+   "body": "「私はパンを食べます」は Yo como pan、つまり「私は 食べます パンを」の順です。ただし動詞の語尾が主語を示すので、Yo を省いた Como pan. だけでも「私はパンを食べます」として通じます。形容詞は名詞の後ろに置くのが基本です。",
+   "sample": { "text": "Yo como pan.", "reading": "ヨ コモ パン", "meaning": "私は 食べます パンを（＝私はパンを食べます）" }
+  },
+  "greetings": [
+   { "text": "Hola", "reading": "オラ", "meaning": "こんにちは／やあ" },
+   { "text": "Gracias", "reading": "グラシアス", "meaning": "ありがとう" },
+   { "text": "Por favor", "reading": "ポル ファボール", "meaning": "お願いします" },
+   { "text": "Perdón", "reading": "ペルドン", "meaning": "すみません" },
+   { "text": "Sí / No", "reading": "シー / ノー", "meaning": "はい／いいえ" }
+  ],
+  "pitfall": {
+   "title": "名詞に男性・女性の区別があります",
+   "body": "すべての名詞がどちらかに分かれ、前につく el / la も、あとに続く形容詞の語尾も、それに合わせて変わります。多くは -o で終われば男性、-a で終われば女性です。単語を覚えるときに el / la ごと丸ごと覚えてしまえば、あとから悩まずに済みます。",
+   "sample": { "text": "el libro nuevo / la casa nueva", "reading": "エル リブロ ヌエボ / ラ カサ ヌエバ", "meaning": "新しい本 / 新しい家" }
+  }
+ },
+ "en": {
+  "tagline": "Spanish is written the way it sounds, so you can read a new word aloud the first time you see it.",
+  "script": {
+   "title": "The same alphabet as English, plus ñ",
+   "body": "Spanish uses the Latin alphabet with one extra letter, ñ, for 27 in all. Better still, spelling and sound line up almost perfectly: a letter has the same value almost every time, so an unfamiliar word is still pronounceable on sight. The one visual surprise is punctuation — a question opens with an upside-down mark, as in ¿Cómo estás? (How are you?), and exclamations are framed the same way with ¡ !",
+   "sample": { "text": "español", "reading": "es-pa-NYOL", "meaning": "Spanish" }
+  },
+  "sounds": [
+   {
+    "title": "Three letters do most of the lying",
+    "body": "h is always silent: hola is \"OH-la\" — the one exception is the pair ch, which is the ch of church (muchacho). j is a rasping h made at the back of the throat, and g before e or i sounds the same way. v is pronounced exactly like b, so nuevo comes out \"NWEH-bo\". Two more spelling habits: z, and c before e or i, never buzz like an English z (they are s in Latin America, the th of think in Spain), so gracias is \"GRA-syas\"; and the u in que, qui, gue, gui is silent unless it is written ü, which means \"pronounce me\" (pingüino).",
+    "sample": { "text": "jamón", "reading": "ha-MON", "meaning": "ham" }
+   },
+   {
+    "title": "ñ is ny, and ll is y",
+    "body": "ñ is a separate letter, pronounced like the ny in canyon: mañana. A double l is not an l sound at all — it is close to English y. Pronunciation varies by region: in Argentina and Uruguay it sounds closer to sh or the s in measure.",
+    "sample": { "text": "me llamo", "reading": "meh YA-mo", "meaning": "my name is" }
+   },
+   {
+    "title": "The accent mark tells you where to stress",
+    "body": "A mark on á é í ó ú means that vowel carries the stress. With no mark, a word ending in a vowel, n or s is stressed on the second-to-last syllable, and a word ending in any other letter on the last one. The mark usually flags an exception to that rule — it also separates look-alike words (tú / tu, él / el) and question words such as qué and cómo.",
+    "sample": { "text": "café / teléfono", "reading": "ka-FEH / teh-LEH-fo-no", "meaning": "coffee / telephone (stress the marked vowel)" }
+   }
+  ],
+  "order": {
+   "type": "Subject → Verb → Object",
+   "title": "English word order, minus the subject",
+   "body": "Yo como pan is word-for-word \"I eat bread\", the same order you already use. But the verb ending already says who is doing it, so Spanish usually drops the pronoun: Como pan on its own still means \"I eat bread\". Adjectives normally follow the noun rather than precede it.",
+   "sample": { "text": "Yo como pan.", "reading": "yo KO-mo pan", "meaning": "I eat bread (and \"Como pan\" says the same thing)" }
+  },
+  "greetings": [
+   { "text": "Hola", "reading": "OH-la", "meaning": "Hello" },
+   { "text": "Gracias", "reading": "GRA-syas", "meaning": "Thank you" },
+   { "text": "Por favor", "reading": "por fa-VOR", "meaning": "Please" },
+   { "text": "Perdón", "reading": "per-DON", "meaning": "Excuse me / Sorry" },
+   { "text": "Sí / No", "reading": "see / no", "meaning": "Yes / No" }
+  ],
+  "pitfall": {
+   "title": "Every noun is masculine or feminine",
+   "body": "The gender decides the word for \"the\" (el or la) and changes the ending of any adjective attached to it. Most nouns ending in -o are masculine and most ending in -a are feminine. Learn each new noun together with its el or la and the rest follows automatically.",
+   "sample": { "text": "el libro nuevo / la casa nueva", "reading": "el LEE-bro NWEH-bo / la KA-sa NWEH-ba", "meaning": "the new book / the new house" }
+  }
+ }
+}

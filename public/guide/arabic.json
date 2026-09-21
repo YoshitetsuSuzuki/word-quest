@@ -1,0 +1,91 @@
+{
+ "category": "arabic",
+ "ja": {
+  "tagline": "文字は28個だけ。形が変わって見えても正体は同じ、と分かれば読めるようになります。",
+  "script": {
+   "title": "28文字。右から左へ、つないで書きます",
+   "body": "まず向きが逆です。行は右端から始まり、左へ進みます。文字は28個で、書かれるのは子音と長い母音だけ。短い母音は原則として書きません。このしくみをアブジャドと呼びます。文字どうしはつながるため、単語はひと続きの線のように見えますが、切り分ければ一つずつの文字が並んでいるだけです。",
+   "build": { "parts": "ب + ي + ت", "result": "بيت", "reading": "バイト" },
+   "sample": { "text": "كتاب", "reading": "キターブ", "meaning": "本" }
+  },
+  "sounds": [
+   {
+    "title": "短い母音は、書かれていません",
+    "body": "紙に並んでいるのは子音と長い母音だけです。كتب という3文字は k・t・b を表すだけで、「カタバ（彼は書いた）」とも「クトゥブ（本・複数）」とも読めます。だから単語は、綴りと音をセットで覚えてしまうのが近道です。",
+    "sample": { "text": "كتب", "reading": "カタバ", "meaning": "彼は書いた（同じ綴りで「クトゥブ＝本（複数）」とも読めます）" }
+   },
+   {
+    "title": "のどの奥で出す音があります",
+    "body": "ع（アイン）・ح（ハー）・ق（カーフ）などは、日本語にも英語にもない、のどの奥を使う音です。最初から完璧に出す必要はありません。「ここは普通のア・ハ・カではない」と知っておくだけで、聞き取りの精度がぐっと上がります。",
+    "sample": { "text": "عربي", "reading": "アラビー", "meaning": "アラビア語の、アラブの" }
+   },
+   {
+    "title": "ال（アル）は、次の文字に溶けることがあります",
+    "body": "英語の the にあたる ال を語頭にくっつけて書きます。ただし後ろに س ش ت د ن などが来ると ل を発音せず、次の子音を重ねて読みます。القمر はアル・カマルですが、الشمس はアル・シャムスではなくアッ・シャムスです。",
+    "sample": { "text": "الشمس", "reading": "アッシャムス", "meaning": "太陽" }
+   }
+  ],
+  "order": {
+   "type": "動詞 → 主語 → 目的語",
+   "title": "文は動詞から始まります",
+   "body": "動詞を最後に置く日本語とは、ちょうど逆です。典型的なアラビア語の文は動詞で口火を切り、そのあとに「誰が」「何を」が続きます。主語を先に置く言い方もよく使われますが、先頭の語が動詞かもしれないと思って読み始めると、文の形が見えてきます。なお「私は学生です」のように動詞をまったく使わない文もあり、その場合は be 動詞にあたる語は現れません。",
+   "sample": { "text": "كتب أحمد رسالة", "reading": "カタバ アフマド リサーラ", "meaning": "書いた アフマドが 手紙を（アフマドが手紙を書きました）" }
+  },
+  "greetings": [
+   { "text": "السلام عليكم", "reading": "アッサラーム・アライクム", "meaning": "こんにちは（時間帯を問わず使えます）" },
+   { "text": "شكرا", "reading": "シュクラン", "meaning": "ありがとう" },
+   { "text": "من فضلك", "reading": "ミン・ファドラク", "meaning": "お願いします、すみません（ここでは男性に言う形。末尾の ك は相手が男性ならカ／アク、女性ならキ／イクと変わります）" },
+   { "text": "نعم", "reading": "ナアム", "meaning": "はい" },
+   { "text": "لا", "reading": "ラー", "meaning": "いいえ" }
+  ],
+  "pitfall": {
+   "title": "同じ文字が、位置によって形を変えます",
+   "body": "ひとつの文字に、単独・語頭・語中・語末の形があります。多くは前後のつなぎ目が変わるだけですが、ه ع غ ك のように骨組みごと大きく変わるものもあります。ただし点の数と位置はどの形でも同じで、点を目印にすれば見分けられます。なお ا د ذ ر ز و の6文字だけは、後ろの文字とつながりません。",
+   "sample": { "text": "باب", "reading": "バーブ", "meaning": "ドア。最初と最後は同じ文字 ب ですが、形が違います" }
+  }
+ },
+ "en": {
+  "tagline": "Only 28 letters. Once you see that a letter is just changing shape, you can read it.",
+  "script": {
+   "title": "28 letters, written right to left and joined up",
+   "body": "The direction is the first surprise: lines start at the right edge and run leftwards. There are 28 letters, and only consonants and long vowels get written down — short vowels are normally left out. That is what makes it an abjad rather than an alphabet. Letters join onto their neighbours, so a word looks like one flowing line.",
+   "build": { "parts": "ب + ي + ت", "result": "بيت", "reading": "bayt" },
+   "sample": { "text": "كتاب", "reading": "kitāb", "meaning": "book" }
+  },
+  "sounds": [
+   {
+    "title": "The short vowels are not on the page",
+    "body": "What you see is consonants plus long vowels. The three letters كتب simply spell k-t-b, and can be read kataba (\"he wrote\") or kutub (\"books\"). So the fastest route is to learn each word's spelling and its sound together, as one package.",
+    "sample": { "text": "كتب", "reading": "kataba", "meaning": "he wrote (the same spelling also reads kutub, \"books\")" }
+   },
+   {
+    "title": "Some sounds come from the back of the throat",
+    "body": "ع (ayn), ح (ḥa) and ق (qaf) are made far back in the throat and have no English equivalent. You do not need to produce them perfectly at first. Just knowing that these are not an ordinary a, h or k will sharpen your listening straight away.",
+    "sample": { "text": "عربي", "reading": "ʿarabī", "meaning": "Arabic, Arab" }
+   },
+   {
+    "title": "al- can melt into the next letter",
+    "body": "The word for \"the\" is ال, written joined to the front of the word. But when the next letter is one of س ش ت د ن and others, the l is not pronounced and the following consonant doubles instead. القمر is al-qamar, yet الشمس is ash-shams, not al-shams.",
+    "sample": { "text": "الشمس", "reading": "ash-shams", "meaning": "the sun" }
+   }
+  ],
+  "order": {
+   "type": "Verb → Subject → Object",
+   "title": "The sentence opens with the verb",
+   "body": "A typical Arabic sentence leads with the verb, and only then tells you who did it and what they did it to. Sentences that start with the subject are common too, so read the first word expecting a verb and the shape of the sentence falls into place. Arabic also has verbless sentences \u2014 \"I am a student\" is simply two nouns side by side, with no word for \"am\".",
+   "sample": { "text": "كتب أحمد رسالة", "reading": "kataba Aḥmad risāla", "meaning": "wrote — Ahmad — a letter (Ahmad wrote a letter)" }
+  },
+  "greetings": [
+   { "text": "السلام عليكم", "reading": "as-salāmu ʿalaykum", "meaning": "Hello (literally \"peace be upon you\")" },
+   { "text": "شكرا", "reading": "shukran", "meaning": "Thank you" },
+   { "text": "من فضلك", "reading": "min faḍlak", "meaning": "Please, excuse me (this form addresses a man; the final \u0643 changes with the person you address: -ka/-ak to a man, -ki/-ik to a woman)" },
+   { "text": "نعم", "reading": "naʿam", "meaning": "Yes" },
+   { "text": "لا", "reading": "lā", "meaning": "No" }
+  ],
+  "pitfall": {
+   "title": "The same letter changes shape with its position",
+   "body": "A letter has separate forms for standing alone, starting a word, sitting in the middle and ending one. Mostly only the joining strokes change, though a few letters such as ه, ع and ك reshape more dramatically. The dots never change in number or position, so the dots are your way of recognising it. Six letters — ا د ذ ر ز و — never join to the letter that follows.",
+   "sample": { "text": "باب", "reading": "bāb", "meaning": "door — the first and last letters are both ب, in two different shapes" }
+  }
+ }
+}

@@ -1,0 +1,89 @@
+{
+ "category": "indonesian",
+ "ja": {
+  "tagline": "活用も、性も、時制変化もありません。世界でいちばん易しい言語のひとつです。",
+  "script": {
+   "title": "文字はアルファベット26字。ローマ字の感覚で読めます",
+   "body": "英語と同じアルファベット26文字だけで、新しく覚える文字はありません。しかも綴りと音がほとんど一対一で対応していて、ローマ字の感覚で読めば通じます。初めて見る単語でも、その場で声に出せます。マレーシアのマレー語とはよく似ていて、基本的な会話ならそのまま通じる場面も多くあります。",
+   "sample": { "text": "bahasa Indonesia", "reading": "バハサ インドネシア", "meaning": "インドネシア語" }
+  },
+  "sounds": [
+   {
+    "title": "c は「チャ行」で読みます",
+    "body": "ローマ字読みが基本ですが、c だけは別です。ca・ci・cu・co は「チャ・チ・チュ・チョ」、ce は「チェ」と「チュ」の2通りです（cepat＝チュパッ）。英語の ch にあたる音で、「カ」でも「サ」でもありません。ここさえ押さえれば読みの例外はほぼ片づきます。なお ng・ny は2文字で1つの音です（orang＝オラン、g は立てません／nyanyi＝ニャニ）。",
+    "sample": { "text": "cinta", "reading": "チンタ", "meaning": "愛" }
+   },
+   {
+    "title": "e には2つの音があります",
+    "body": "同じ e でも、「エ」とはっきり読む語と、口をゆるめた曖昧な「ウ」に近い音になる語があります。綴りでは区別しないので、単語ごとに音を覚えることになります。ただし取り違えても意味は通じることが多いので、最初から神経質になる必要はありません。",
+    "sample": { "text": "empat / meja", "reading": "ウンパット / メジャ", "meaning": "4 / 机・テーブル（同じ e でも音が違う）" }
+   },
+   {
+    "title": "語末の k は飲み込みます",
+    "body": "単語の最後に来る k は、はっきり「ク」とは言いません。喉で軽く息を止めるだけで、日本語の「あっ」の小さい「っ」に近い形になります。毎日使う tidak（いいえ）や bapak（お父さん）がこの形なので、早めに耳を慣らしておくと聞き取りが楽になります。",
+    "sample": { "text": "tidak", "reading": "ティダッ", "meaning": "いいえ／〜ない" }
+   }
+  ],
+  "order": {
+   "type": "主語 → 動詞 → 目的語（英語と同じ）",
+   "title": "語順は英語と同じ。そのうえ動詞の形が変わりません",
+   "body": "主語・動詞・目的語の順に並べます。そのうえ動詞は、主語が誰でも、過去でも未来でも形が変わりません。時間は kemarin（昨日）のような語を足して示すだけです。名詞に男性・女性の区別はなく、ふだんは単数・複数も言い分けません。複数を示したいときだけ語を2回くり返しますが（buku＝本、buku-buku＝何冊もの本）、dua buku（2冊の本）のように数詞がつくときはくり返しません。",
+   "sample": { "text": "Saya makan nasi", "reading": "サヤ マカン ナシ", "meaning": "私は ごはんを 食べます（私・食べる・ごはん）" }
+  },
+  "greetings": [
+   { "text": "Selamat pagi", "reading": "スラマット パギ", "meaning": "おはようございます" },
+   { "text": "Apa kabar?", "reading": "アパ カバル", "meaning": "お元気ですか" },
+   { "text": "Terima kasih", "reading": "トゥリマ カシ", "meaning": "ありがとう" },
+   { "text": "Maaf", "reading": "マアフ", "meaning": "ごめんなさい／すみません" },
+   { "text": "Ya / Tidak", "reading": "ヤ / ティダッ", "meaning": "はい / いいえ" }
+  ],
+  "pitfall": {
+   "title": "長い単語は、接辞を外して「語根」で引きます",
+   "body": "インドネシア語は、ひとつの語根に接辞をつけて意味を広げます。語根 ajar（教える）から belajar（学ぶ）、mengajar（教える）、pelajar（生徒）、pelajaran（授業）が生まれます。長い単語は頭とお尻を外し、真ん中の語根で辞書を引きます。ただし me- の後の n/m/ng は語根の頭と溶け合います（menulis→tulis、memukul→pukul）。",
+   "sample": { "text": "mengajar", "reading": "ムンガジャル", "meaning": "教える（語根は ajar）" }
+  }
+ },
+ "en": {
+  "tagline": "No conjugations, no genders, no tense endings — and it is written in the alphabet you already read.",
+  "script": {
+   "title": "The same 26 letters, spelled the way it sounds",
+   "body": "Indonesian uses the Latin alphabet — all 26 letters, nothing new to learn. Spelling maps onto sound almost one-to-one, so you can read a word aloud the first time you meet it. It is also very close to Malaysian Malay: the two are largely mutually intelligible, so what you learn here travels.",
+   "sample": { "text": "bahasa Indonesia", "reading": "ba-ha-sa in-do-ne-sia", "meaning": "the Indonesian language" }
+  },
+  "sounds": [
+   {
+    "title": "C is always ch",
+    "body": "Letters sound roughly as they look, with one exception worth memorising: c is the ch of chair, never the k of cat or the s of city. Learn that single letter and almost all of the reading exceptions are behind you. Note too that ng and ny are single sounds written with two letters: orang ends like sing, not like finger; ny is the ny of canyon.",
+    "sample": { "text": "cinta", "reading": "chin-ta", "meaning": "love" }
+   },
+   {
+    "title": "E stands for two different sounds",
+    "body": "One e is the clear e of bed. The other is a slack, unstressed uh, the sound in the first syllable of about. Spelling does not distinguish them, so you pick them up word by word — but mixing them up rarely stops you being understood.",
+    "sample": { "text": "empat / meja", "reading": "uhm-pat / me-ja", "meaning": "four / table (two sounds, one letter)" }
+   },
+   {
+    "title": "A final k is swallowed",
+    "body": "A k at the end of a word is not released as a full k. You simply close the throat and stop, the way many English speakers say the tt in button. Two of the commonest words end this way, so your ear needs it early.",
+    "sample": { "text": "tidak", "reading": "tee-da(k)", "meaning": "no / not" }
+   }
+  ],
+  "order": {
+   "type": "Subject → Verb → Object (the same as English)",
+   "title": "English word order, and the verb never changes shape",
+   "body": "Subject, then verb, then object, exactly as in English. On top of that, the verb never changes for who is speaking or for past and future — you add a word such as kemarin (yesterday) instead. Nouns have no gender, and number is usually left unmarked; when you do want to stress plurality you say the word twice — buku is book, buku-buku is books — but never after a number: dua buku is two books.",
+   "sample": { "text": "Saya makan nasi", "reading": "sa-ya ma-kan na-si", "meaning": "I eat rice" }
+  },
+  "greetings": [
+   { "text": "Selamat pagi", "reading": "suh-la-mat pa-gi", "meaning": "Good morning" },
+   { "text": "Apa kabar?", "reading": "a-pa ka-bar", "meaning": "How are you?" },
+   { "text": "Terima kasih", "reading": "tuh-ree-ma ka-sih", "meaning": "Thank you" },
+   { "text": "Maaf", "reading": "ma-af", "meaning": "Sorry / Excuse me" },
+   { "text": "Ya / Tidak", "reading": "ya / tee-da(k)", "meaning": "Yes / No" }
+  ],
+  "pitfall": {
+   "title": "Strip the affixes and look up the root",
+   "body": "Indonesian builds meaning by wrapping prefixes and suffixes around one root word. From ajar, the root for teaching, come belajar (to study), mengajar (to teach), pelajar (a pupil) and pelajaran (a lesson). When a long word stops you, peel off the front and the back — the dictionary lists the piece in the middle. Note that the n/m/ng after me- has fused with the root's first sound: the root of menulis is tulis, and of memukul, pukul.",
+   "sample": { "text": "mengajar", "reading": "muh-nga-jar", "meaning": "to teach (root: ajar)" }
+  }
+ }
+}

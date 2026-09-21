@@ -1,0 +1,89 @@
+{
+ "category": "turkish",
+ "ja": {
+  "tagline": "ラテン文字で、書いたとおりに読めます。語順は日本語と同じで、助詞のような語尾をつなげていく言語です。",
+  "script": {
+   "title": "ラテン文字29文字。読み方は綴りどおり",
+   "body": "トルコ語はラテン文字29文字で書きます。q・w・x は使わず、かわりに ç・ğ・ı・ö・ş・ü の6文字が加わります。29文字のうち8つが母音です。1文字が1つの音に対応する綴りなので、対応さえ覚えてしまえば、初めて見る単語もそのまま声に出して読めます。",
+   "sample": { "text": "kitap", "reading": "キタプ", "meaning": "本" }
+  },
+  "sounds": [
+   {
+    "title": "点の無い ı と点のある i は、別の文字です",
+    "body": "ı は口を横に引かず、力を抜いて出す「ウ」に近い音で、日本語のウがほぼそのまま使えます。i は「イ」。点ひとつで別の単語になるので、書くときも読むときも区別します。大文字も別で、i の大文字は İ（İstanbul）です。",
+    "sample": { "text": "kıl / kil", "reading": "クル / キル", "meaning": "毛 / 粘土（点ひとつで別の語）" }
+   },
+   {
+    "title": "ローマ字と読み方が違うのは、ほんの数文字",
+    "body": "c は「ジャ行」、ç は「チャ行」、ş は「シャ行」、j はフランス語の j の音です。ここだけ入れ替えれば、あとはほぼローマ字読みで通じます。母音では ü が「イ」の口のまま唇を丸めた音、ö が「エ」の口のまま唇を丸めた音になります。",
+    "sample": { "text": "çay", "reading": "チャイ", "meaning": "お茶（日本語の「チャイ」と同じ語源）" }
+   },
+   {
+    "title": "ğ は音を出さず、前の母音を伸ばします",
+    "body": "ğ は「ユムシャク・ゲ（やわらかい g）」と呼ばれ、単独では発音しません。直前の母音を長くするだけの文字で、語頭には決して来ません。dağ は「ダグ」ではなく「ダー」。見かけたら伸ばし棒だと思ってください。ただし e・i・ö・ü のあとでは軽い「ユ」に近い渡り音になります（değil ≒ デイル）。",
+    "sample": { "text": "dağ", "reading": "ダー", "meaning": "山" }
+   }
+  ],
+  "order": {
+   "type": "主語 → 目的語 → 動詞（日本語と同じ）",
+   "title": "動詞が最後。語尾を足して意味を足していきます",
+   "body": "日本語と同じで、動詞が文の最後に来ます。前置詞のかわりに、助詞のような語尾を単語のうしろへくっつけていくのも特徴です。ev（家）→ evde（家で）→ evlerimde（私の家々で）。右へ右へと部品を足していく仕組みです。",
+   "sample": { "text": "Ben su içiyorum", "reading": "ベン ス イチヨルム", "meaning": "私は 水を 飲みます" }
+  },
+  "greetings": [
+   { "text": "Merhaba", "reading": "メルハバ", "meaning": "こんにちは" },
+   { "text": "Günaydın", "reading": "ギュナイドゥン", "meaning": "おはようございます" },
+   { "text": "Teşekkür ederim", "reading": "テシェッキュル エデリム", "meaning": "ありがとうございます" },
+   { "text": "Özür dilerim", "reading": "オズュル ディレリム", "meaning": "すみません（謝るとき）" },
+   { "text": "Evet / Hayır", "reading": "エヴェット / ハユル", "meaning": "はい / いいえ" }
+  ],
+  "pitfall": {
+   "title": "語尾の母音は、前の母音に合わせて変わります",
+   "body": "語尾は形が一つではありません。「〜で」は ev（家）なら evde、okul（学校）なら okulda。直前の母音が e・i・ö・ü なら e、a・ı・o・u なら a。直前が p・t・k・ç・s・ş などの無声子音なら d は t になり -te / -ta です（kitap → kitapta）。この二択は「〜で」の話で、i・ı・u・ü の四択になる語尾もあります。",
+   "sample": { "text": "evde / okulda", "reading": "エヴデ / オクルダ", "meaning": "家で / 学校で（同じ「〜で」）" }
+  }
+ },
+ "en": {
+  "tagline": "A Latin alphabet that says exactly what it spells, and grammar you glue onto the end of words.",
+  "script": {
+   "title": "29 Latin letters, spelled the way they sound",
+   "body": "Turkish uses the Latin alphabet with 29 letters. There is no q, w or x, but six extra letters appear: ç, ğ, ı, ö, ş, ü. Eight of the 29 are vowels. The spelling is regular — one letter, one sound — so once you know the letters you can read a word you have never seen before.",
+   "sample": { "text": "kitap", "reading": "kee-tahp", "meaning": "book" }
+  },
+  "sounds": [
+   {
+    "title": "Dotless ı and dotted i are two different letters",
+    "body": "ı is a vowel English does not have: say \"ee\", then pull your tongue back and let your lips relax. i is the ordinary \"ee\". One dot changes the word, and it matters in capitals too — the capital of i is İ, as in İstanbul.",
+    "sample": { "text": "kıl / kil", "reading": "kuhl / keel", "meaning": "hair (a single body hair) / clay — one dot apart" }
+   },
+   {
+    "title": "Only a handful of letters read differently",
+    "body": "c is the j of \"jam\", ç is \"ch\", ş is \"sh\", and j is the s of \"measure\". ü is \"ee\" with rounded lips and ö is \"eh\" with rounded lips, exactly as in German. Swap those in and the rest reads close to how it looks.",
+    "sample": { "text": "çay", "reading": "chai", "meaning": "tea" }
+   },
+   {
+    "title": "ğ has no sound of its own",
+    "body": "ğ is called yumuşak ge, \"soft g\". It is never pronounced as a consonant and never starts a word — it simply lengthens the vowel in front of it. So dağ is \"daa\", not \"dag\". After e, i, ö, ü it softens into a light y-glide instead (değil sounds like \"deyil\").",
+    "sample": { "text": "dağ", "reading": "daa", "meaning": "mountain" }
+   }
+  ],
+  "order": {
+   "type": "Subject → Object → Verb",
+   "title": "The verb comes last, and grammar is glued on the end",
+   "body": "Turkish puts the verb at the end of the sentence. Instead of prepositions it attaches suffixes to the back of a word: ev is \"house\", evde is \"in the house\", evlerimde is \"in my houses\". Words grow to the right, one piece at a time.",
+   "sample": { "text": "Ben su içiyorum", "reading": "ben soo ee-chee-yoh-room", "meaning": "I drink water (I / water / drink)" }
+  },
+  "greetings": [
+   { "text": "Merhaba", "reading": "mer-ha-ba", "meaning": "Hello" },
+   { "text": "Günaydın", "reading": "gew-nigh-duhn", "meaning": "Good morning" },
+   { "text": "Teşekkür ederim", "reading": "teh-shek-kewr eh-deh-rim", "meaning": "Thank you" },
+   { "text": "Özür dilerim", "reading": "oe-zewr dee-leh-rim", "meaning": "I'm sorry" },
+   { "text": "Evet / Hayır", "reading": "eh-vet / ha-yuhr", "meaning": "Yes / No" }
+  ],
+  "pitfall": {
+   "title": "Suffix vowels change to match the word",
+   "body": "A suffix does not have one fixed shape. \"In\" is -de after e, i, ö, ü but -da after a, ı, o, u: evde \"in the house\", okulda \"at school\". After a voiceless consonant the d hardens to t: kitap → kitapta. For this suffix the vowel is only e or a, but other suffixes pick among i, ı, u, ü.",
+   "sample": { "text": "evde / okulda", "reading": "ev-deh / oh-kool-dah", "meaning": "in the house / at school — the same suffix" }
+  }
+ }
+}
