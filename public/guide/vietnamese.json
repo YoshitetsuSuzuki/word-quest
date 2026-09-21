@@ -54,7 +54,7 @@
       { "char": "kh", "reading": "ク（喉から息を強く）", "hint": "ハ行に近く聞こえます" },
       { "char": "th", "reading": "タ行（息を強く）", "hint": "t は息を出さないタ行" },
       { "char": "ng", "reading": "ンガ", "hint": "語頭にも立ちます（Nguyễn）" },
-      { "char": "nh", "reading": "ニャ行", "hint": "語末では「ン」に近い音" }
+      { "char": "nh", "reading": "ニャ行", "hint": "語末では「ン」ではなく「ング」に近い音" }
      ]
     }
    ]
@@ -149,7 +149,7 @@
       { "char": "kh", "reading": "a rasping k", "hint": "like the ch in Scottish loch" },
       { "char": "th", "reading": "t with a puff of air", "hint": "plain t has no puff" },
       { "char": "ng", "reading": "ng as in singer", "hint": "can start a word, as in Nguyễn" },
-      { "char": "nh", "reading": "ny as in canyon", "hint": "close to n at the end of a word" }
+      { "char": "nh", "reading": "ny as in canyon", "hint": "at the end of a word, closer to the ng of sing than the n of sun" }
      ]
     }
    ]

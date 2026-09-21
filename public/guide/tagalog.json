@@ -27,7 +27,7 @@
      "cols": 2,
      "cells": [
       { "char": "ng", "reading": "ング（鼻に抜ける）", "hint": "これで1字。ngayon（今）のように語頭にも立ちます" },
-      { "char": "ñ", "reading": "ニャ行", "hint": "スペイン語から来た語に残ります。piña（パイナップル）" }
+      { "char": "ñ", "reading": "ニャ行", "hint": "スペイン語由来の固有名詞などに残ります。Santo Niño（幼子イエス）" }
      ]
     },
     {
@@ -97,7 +97,7 @@
       { "char": "e", "reading": "eh", "hint": "pera (money)" },
       { "char": "i", "reading": "ee", "hint": "ibon (bird)" },
       { "char": "o", "reading": "oh", "hint": "oo (yes)" },
-      { "char": "u", "reading": "oo, as in boot", "hint": "ulan (rain)" }
+      { "char": "u", "reading": "ooh, as in boot", "hint": "ulan (rain)" }
      ]
     },
     {
@@ -105,7 +105,7 @@
      "cols": 2,
      "cells": [
       { "char": "ng", "reading": "ng, as in singer", "hint": "One letter, and it starts words too: ngayon (now)" },
-      { "char": "ñ", "reading": "ny", "hint": "Kept in words taken from Spanish: piña (pineapple)" }
+      { "char": "ñ", "reading": "ny", "hint": "Kept in Spanish-derived proper names: Santo Niño (the Holy Child)" }
      ]
     },
     {

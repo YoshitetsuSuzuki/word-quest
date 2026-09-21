@@ -1,9 +1,9 @@
 {
  "stage": 1,
  "title": "元データの最終構造検証",
- "expectedTotal": 29417,
+ "expectedTotal": 64620,
  "actualTotal": 64620,
- "totalMatches": false,
+ "totalMatches": true,
  "languages": [
   {
    "language": "english",

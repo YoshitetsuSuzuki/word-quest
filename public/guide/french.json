@@ -46,7 +46,7 @@
       { "char": "in", "reading": "鼻に抜ける「アン」（エに近い）", "hint": "vin ヴァン（ワイン）" },
       { "char": "un", "reading": "鼻に抜ける「アン」（in とほぼ同じ）", "hint": "un アン（ひとつ）" },
       { "char": "gn", "reading": "ニャ行の音", "hint": "montagne モンターニュ（山）" },
-      { "char": "ill", "reading": "イユ", "hint": "famille ファミーユ（家族）" }
+      { "char": "ill", "reading": "イユ（ただし ville・mille・tranquille などは「イル」）", "hint": "famille ファミーユ（家族）／ville ヴィル（町）" }
      ]
     }
    ]
@@ -133,7 +133,7 @@
       { "char": "in", "reading": "nasal \"an\", closer to \"eh\"", "hint": "vin — van (wine)" },
       { "char": "un", "reading": "nasal \"an\" — nearly the same as in", "hint": "un — an (one)" },
       { "char": "gn", "reading": "ny, as in canyon", "hint": "montagne — mohn-TAHN-y (mountain)" },
-      { "char": "ill", "reading": "ee-y", "hint": "famille — fa-MEE-y (family)" }
+      { "char": "ill", "reading": "ee-y — but \"eel\" in ville, mille, tranquille", "hint": "famille — fa-MEE-y (family); ville — veel (town)" }
      ]
     }
    ]

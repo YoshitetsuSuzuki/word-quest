@@ -18,31 +18,18 @@
 ## git status（全体）
 
 ```
-M public/guide/korean.json
- M release-check/manual-sample.json
+M public/guide/bengali.json
+ M public/guide/chinese.json
+ M public/guide/esperanto.json
+ M public/guide/french.json
+ M public/guide/italian.json
+ M public/guide/malay.json
+ M public/guide/spanish.json
+ M public/guide/tagalog.json
+ M public/guide/vietnamese.json
+ M release-check/data-integrity.json
+ M release-check/data-integrity.md
+ M release-check/no-data-mutation.md
  M release-check/question-engine-test.json
- M release-check/unresolved-items.json
- M release-check/unresolved-items.md
-?? public/guide/arabic.json
-?? public/guide/bengali.json
-?? public/guide/chinese.json
-?? public/guide/english.json
-?? public/guide/esperanto.json
-?? public/guide/french.json
-?? public/guide/german.json
-?? public/guide/hindi.json
-?? public/guide/indonesian.json
-?? public/guide/italian.json
-?? public/guide/japanese.json
-?? public/guide/malay.json
-?? public/guide/mongolian.json
-?? public/guide/polish.json
-?? public/guide/portuguese.json
-?? public/guide/russian.json
-?? public/guide/spanish.json
-?? public/guide/tagalog.json
-?? public/guide/turkish.json
-?? public/guide/urdu.json
-?? public/guide/vietnamese.json
-?? tools/release-check/guide.test.ts
+ M tools/release-check/stage1-integrity.mjs
 ```

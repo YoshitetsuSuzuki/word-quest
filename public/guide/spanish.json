@@ -24,7 +24,7 @@
       { "char": "r", "reading": "ラ行（語頭と rr は巻き舌）", "hint": "rojo ロホ ／ perro ペロ" },
       { "char": "ll", "reading": "ヤ行（ルではない）", "hint": "me llamo メ ヤモ" },
       { "char": "ñ", "reading": "ニャ行", "hint": "mañana マニャーナ（明日）" },
-      { "char": "y", "reading": "ヤ行（1字だけなら「イ」）", "hint": "yo ヨ（私） ／ y イ（そして）" }
+      { "char": "y", "reading": "ヤ行（1字だけのときと語末は「イ」）", "hint": "yo ヨ（私） ／ muy ムイ（とても）" }
      ]
     },
     {
@@ -101,7 +101,7 @@
       { "char": "r", "reading": "tapped r; rolled at the start of a word and as rr", "hint": "rojo — RO-ho / perro — PEH-rro" },
       { "char": "ll", "reading": "y as in yes, not an l sound", "hint": "me llamo — meh YA-mo" },
       { "char": "ñ", "reading": "ny as in canyon", "hint": "mañana — ma-NYA-na (tomorrow)" },
-      { "char": "y", "reading": "y as in yes; on its own, ee", "hint": "yo — yoh (I) / y — ee (and)" }
+      { "char": "y", "reading": "y as in yes; on its own and at the end of a word, ee", "hint": "yo — yoh (I) / muy — mwee (very)" }
      ]
     },
     {

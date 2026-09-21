@@ -9,7 +9,7 @@
   },
   "chart": {
    "title": "読み方につまずくのは、この組み合わせだけ",
-   "note": "上の2段は、c と g を縦に見くらべてください。うしろに e・i が来ると音がやわらかくなり、あいだに h を入れると固いままになります。いちばん下の5字は21字に入らない字で、読みは字の名前です。",
+   "note": "上の2段は、c と g を縦に見くらべてください。うしろに e・i が来ると音がやわらかくなり、あいだに h を入れると固いままになります。cia cio ciu／gia gio giu の i は読まず、やわらかい音にする合図です（Ciao チャオ、Buongiorno ブオンジョルノ）。いちばん下の5字は21字に入らない字で、読みは字の名前です。",
    "groups": [
     {
      "label": "読み方が変わる組み合わせ（上が c、下が g）",
@@ -18,12 +18,12 @@
       { "char": "ca co cu", "reading": "カ・コ・ク" },
       { "char": "ce ci", "reading": "チェ・チ" },
       { "char": "che chi", "reading": "ケ・キ" },
-      { "char": "" },
+      { "char": "cia cio ciu", "reading": "チャ・チョ・チュ" },
       { "char": "" },
       { "char": "ga go gu", "reading": "ガ・ゴ・グ" },
       { "char": "ge gi", "reading": "ジェ・ジ" },
       { "char": "ghe ghi", "reading": "ゲ・ギ" },
-      { "char": "" },
+      { "char": "gia gio giu", "reading": "ジャ・ジョ・ジュ" },
       { "char": "" }
      ]
     },
@@ -32,7 +32,7 @@
      "cols": 4,
      "cells": [
       { "char": "gn", "reading": "ニャ・ニュ・ニョ", "hint": "gnocchi ニョッキ" },
-      { "char": "gli", "reading": "リャ・リュ・リョ", "hint": "famiglia ファミーリャ" },
+      { "char": "gli", "reading": "リ（母音が続けば リャ・リュ・リョ）", "hint": "gli リ／famiglia ファミーリャ" },
       { "char": "sca sco scu", "reading": "スカ・スコ・スク", "hint": "scusi スクーズィ" },
       { "char": "sce sci", "reading": "シェ・シ", "hint": "pesce ペッシェ" },
       { "char": "z", "reading": "ツ／ヅ", "hint": "pizza ピッツァ" }
@@ -59,7 +59,7 @@
    },
    {
     "title": "gn と gli は、ひとまとまりで読みます",
-    "body": "gn は「ニャ・ニュ・ニョ」の音です。gnocchi は「グノッキ」ではなく「ニョッキ」。gli は「リャ・リュ・リョ」に近い音で、famiglia は「ファミーリャ」になります。どちらも文字を1つずつ読むと通じません。",
+    "body": "gn は「ニャ・ニュ・ニョ」の音です。gnocchi は「グノッキ」ではなく「ニョッキ」。gli は単独では「リ」で、定冠詞の gli は「リ」と読みます。後ろに母音が続くと「リャ・リュ・リョ」に近い音になり、famiglia は「ファミーリャ」です。どちらも文字を1つずつ読むと通じません。",
     "sample": { "text": "gnocchi / famiglia", "reading": "ニョッキ / ファミーリャ", "meaning": "ニョッキ（料理）/ 家族" }
    },
    {
@@ -96,7 +96,7 @@
   },
   "chart": {
    "title": "The only spellings that catch you out",
-   "note": "Read the first two rows top to bottom to compare c and g: before e or i they go soft, and an h put in between keeps them hard. The last five letters fall outside the 21, so what is given is the letter's Italian name.",
+   "note": "Read the first two rows top to bottom to compare c and g: before e or i they go soft, and an h put in between keeps them hard. In cia cio ciu and gia gio giu the i is not pronounced — it is only the signal to stay soft (Ciao — CHAH-oh, Buongiorno — bwon-JOR-noh). The last five letters fall outside the 21, so what is given is the letter's Italian name.",
    "groups": [
     {
      "label": "Spellings that change the sound (c above, g below)",
@@ -105,12 +105,12 @@
       { "char": "ca co cu", "reading": "hard k, as in cat" },
       { "char": "ce ci", "reading": "ch, as in chair" },
       { "char": "che chi", "reading": "hard k again" },
-      { "char": "" },
+      { "char": "cia cio ciu", "reading": "cha, cho, chu — silent i" },
       { "char": "" },
       { "char": "ga go gu", "reading": "hard g, as in go" },
       { "char": "ge gi", "reading": "j, as in jam" },
       { "char": "ghe ghi", "reading": "hard g again" },
-      { "char": "" },
+      { "char": "gia gio giu", "reading": "ja, jo, ju — silent i" },
       { "char": "" }
      ]
     },
@@ -119,7 +119,7 @@
      "cols": 4,
      "cells": [
       { "char": "gn", "reading": "ny, as in canyon", "hint": "gnocchi — NYOK-kee" },
-      { "char": "gli", "reading": "lli, as in million", "hint": "famiglia — fah-MEE-lyah" },
+      { "char": "gli", "reading": "lyee alone; lli, as in million, before a vowel", "hint": "gli — lyee / famiglia — fah-MEE-lyah" },
       { "char": "sca sco scu", "reading": "sk, as in sky", "hint": "scusi — SKOO-zee" },
       { "char": "sce sci", "reading": "sh, as in ship", "hint": "pesce — PESH-sheh" },
       { "char": "z", "reading": "ts, sometimes dz", "hint": "pizza — PEET-tsah" }
@@ -146,7 +146,7 @@
    },
    {
     "title": "gn and gli are single sounds",
-    "body": "gn is the ny of canyon, so gnocchi is nyok-kee, never g-nocchi. gli is close to the lli of million, which makes famiglia fah-MEE-lyah. Read either of them letter by letter and you will not be understood.",
+    "body": "gn is the ny of canyon, so gnocchi is nyok-kee, never g-nocchi. gli on its own is lyee — the article gli is just that — and before a vowel it is close to the lli of million, which makes famiglia fah-MEE-lyah. Read either of them letter by letter and you will not be understood.",
     "sample": { "text": "gnocchi / famiglia", "reading": "NYOK-kee / fah-MEE-lyah", "meaning": "gnocchi (the dish) / family" }
    },
    {

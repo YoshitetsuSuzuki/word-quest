@@ -29,7 +29,7 @@
       { "char": "c", "reading": "チャ行（カでもサでもない）", "hint": "cari チャリ＝探す" },
       { "char": "ng", "reading": "鼻に抜ける「ン」。2字で1つの音", "hint": "orang オラン＝人" },
       { "char": "ny", "reading": "ニャ行", "hint": "nyanyi ニャニ＝歌う" },
-      { "char": "sy", "reading": "シュ", "hint": "syarikat シャリカッ＝会社" },
+      { "char": "sy", "reading": "シャ行（英語の sh）", "hint": "syarikat シャリカッ＝会社" },
       { "char": "kh", "reading": "カ（喉をこするように）", "hint": "khabar カバル＝知らせ" },
       { "char": "gh", "reading": "ガ（喉の奥で）", "hint": "maghrib マグリブ＝日没" },
       { "char": "h", "reading": "ハ（語中・語末では弱い）", "hint": "merah メラ＝赤い" },
@@ -52,7 +52,7 @@
   "sounds": [
    {
     "title": "c は「チャ行」で読みます",
-    "body": "ローマ字読みが基本ですが、c だけは例外です。ca・ci・cu・ce・co は「チャ・チ・チュ・チェ・チョ」で、「カ」でも「サ」でもありません。ほかは sy が「シュ」、ng が鼻にかかる「ン」になるくらいで、子音でつまずくのは c だけです。あとは母音の e と語尾の扱いを押さえれば十分です。",
+    "body": "ローマ字読みが基本ですが、c だけは例外です。ca・ci・cu・ce・co は「チャ・チ・チュ・チェ・チョ」で、「カ」でも「サ」でもありません。ほかは sy が「シャ行」（英語の sh）、ng が鼻にかかる「ン」になるくらいで、子音でつまずくのは c だけです。あとは母音の e と語尾の扱いを押さえれば十分です。",
     "sample": { "text": "cari / cuci", "reading": "チャリ / チュチ", "meaning": "探す / 洗う" }
    },
    {
@@ -104,7 +104,7 @@
       { "char": "e", "reading": "a slack uh, or a clear eh — two sounds", "hint": "besar (buh-sar) / merah (meh-rah)" },
       { "char": "i", "reading": "ee", "hint": "ini (ee-ni) = this" },
       { "char": "o", "reading": "oh", "hint": "kopi (ko-pi) = coffee" },
-      { "char": "u", "reading": "oo", "hint": "untuk (oon-to(k)) = for" }
+      { "char": "u", "reading": "oo", "hint": "untuk (oon-too(k)) = for" }
      ]
     },
     {

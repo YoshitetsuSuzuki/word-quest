@@ -16,6 +16,8 @@ const LANGS = ['english', 'chinese', 'japanese', 'korean', 'spanish', 'german', 
 
 const issues = []   // 公開事故につながる問題のみ
 const perLang = []
+// 期待件数は manifest の申告の合計。言語を足すたびに書き換える定数は嘘になるので置かない
+let manifestTotal = 0
 let grandTotal = 0
 const globalIds = new Map() // id -> lang（全体でのID重複も見る）
 
@@ -44,6 +46,7 @@ for (const lang of LANGS) {
   }
 
   for (const lv of man.levels || []) {
+    if (typeof lv.count === 'number') manifestTotal += lv.count
     const p = path.join(dir, lv.file)
     if (!fs.existsSync(p)) {
       issues.push({ severity: 'Critical', language: lang, type: 'level_file_missing', detail: lv.file })
@@ -167,9 +170,9 @@ const minor = issues.filter((i) => i.severity === 'Minor').length
 const result = {
   stage: 1,
   title: '元データの最終構造検証',
-  expectedTotal: 29417,
+  expectedTotal: manifestTotal,
   actualTotal: grandTotal,
-  totalMatches: grandTotal === 29417,
+  totalMatches: grandTotal === manifestTotal,
   languages: perLang,
   summary: { critical, major, minor, totalIssues: issues.length },
   verdict: critical === 0 ? 'PASS' : 'FAIL',
@@ -179,7 +182,7 @@ fs.writeFileSync(path.join(outDir, 'data-integrity.json'), JSON.stringify(result
 
 let md = `# 第1段階: 元データの最終構造検証\n\n`
 md += `判定: **${result.verdict}**\n\n`
-md += `- 期待件数: 29,417 / 実件数: **${grandTotal.toLocaleString()}** (${result.totalMatches ? '一致' : '不一致'})\n`
+md += `- manifest の申告合計: ${manifestTotal.toLocaleString()} / 実件数: **${grandTotal.toLocaleString()}** (${result.totalMatches ? '一致' : '不一致'})\n`
 md += `- Critical: ${critical} / Major: ${major} / Minor: ${minor}\n\n`
 md += `## 言語別\n\n| 言語 | 件数 | ID重複 | prompt空 | answer空 | 4択でない | 正解欠落 | 選択肢重複 | 型不正 | null | manifest不一致 |\n|---|---|---|---|---|---|---|---|---|---|---|\n`
 for (const L of perLang) {
@@ -194,4 +197,4 @@ if (issues.length) {
 }
 fs.writeFileSync(path.join(outDir, 'data-integrity.md'), md)
 
-console.log(JSON.stringify({ total: grandTotal, expected: 29417, match: result.totalMatches, critical, major, minor, verdict: result.verdict }))
+console.log(JSON.stringify({ total: grandTotal, manifestTotal, match: result.totalMatches, critical, major, minor, verdict: result.verdict }))

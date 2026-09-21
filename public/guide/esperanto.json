@@ -35,7 +35,7 @@
      ]
     },
     {
-     "label": "語尾で品詞が分かる 6",
+     "label": "語尾で文法が分かる 6",
      "cols": 4,
      "cells": [
       { "char": "-o", "reading": "オ", "hint": "名詞" },
@@ -119,7 +119,7 @@
      ]
     },
     {
-     "label": "Endings that name the part of speech — 6",
+     "label": "Endings that tell you the grammar — 6",
      "cols": 4,
      "cells": [
       { "char": "-o", "reading": "oh", "hint": "noun" },

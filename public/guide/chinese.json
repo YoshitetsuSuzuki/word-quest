@@ -36,7 +36,7 @@
       { "char": "z", "reading": "ヅ", "hint": "字 zì" },
       { "char": "c", "reading": "ツ（息を強く出す）", "hint": "菜 cài" },
       { "char": "ü", "reading": "ウの口でイ", "hint": "女 nǚ" },
-      { "char": "e", "reading": "エではなくウに近い", "hint": "喝 hē" },
+      { "char": "e", "reading": "単独ならエではなくウに近い（ie・üe ではエ）", "hint": "喝 hē" },
       { "char": "ui", "reading": "ウイではなくウェイ", "hint": "对 duì" }
      ]
     },
@@ -126,7 +126,7 @@
       { "char": "z", "reading": "ds in kids", "hint": "字 zì" },
       { "char": "c", "reading": "ts in cats", "hint": "菜 cài" },
       { "char": "ü", "reading": "ee with rounded lips", "hint": "女 nǚ" },
-      { "char": "e", "reading": "uh, not eh", "hint": "喝 hē" },
+      { "char": "e", "reading": "uh on its own, not eh (but eh in ie/üe)", "hint": "喝 hē" },
       { "char": "ui", "reading": "way, not oo-ee", "hint": "对 duì" }
      ]
     },
