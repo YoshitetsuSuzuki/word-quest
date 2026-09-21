@@ -10,62 +10,62 @@
    "detail": [
     {
      "language": "english",
-     "total": 8136,
-     "exampleMissing": 272,
-     "pronunciationMissing": 19
+     "total": 7589,
+     "exampleMissing": 111,
+     "pronunciationMissing": 0
     },
     {
      "language": "chinese",
-     "total": 4201,
-     "exampleMissing": 6,
+     "total": 4126,
+     "exampleMissing": 5,
      "pronunciationMissing": 0
     },
     {
      "language": "japanese",
-     "total": 7489,
-     "exampleMissing": 628,
+     "total": 7153,
+     "exampleMissing": 534,
      "pronunciationMissing": 0
     },
     {
      "language": "korean",
-     "total": 1529,
-     "exampleMissing": 629,
+     "total": 2655,
+     "exampleMissing": 1765,
      "pronunciationMissing": 0
     },
     {
      "language": "spanish",
-     "total": 1888,
-     "exampleMissing": 103,
-     "pronunciationMissing": 6
+     "total": 3046,
+     "exampleMissing": 1324,
+     "pronunciationMissing": 0
     },
     {
      "language": "german",
-     "total": 1900,
-     "exampleMissing": 98,
-     "pronunciationMissing": 113
+     "total": 2905,
+     "exampleMissing": 1252,
+     "pronunciationMissing": 0
     },
     {
      "language": "french",
-     "total": 1906,
-     "exampleMissing": 110,
-     "pronunciationMissing": 7
+     "total": 3105,
+     "exampleMissing": 1349,
+     "pronunciationMissing": 0
     },
     {
      "language": "portuguese",
-     "total": 1013,
-     "exampleMissing": 686,
-     "pronunciationMissing": 3
+     "total": 3105,
+     "exampleMissing": 2778,
+     "pronunciationMissing": 0
     },
     {
      "language": "polish",
-     "total": 636,
-     "exampleMissing": 275,
+     "total": 3378,
+     "exampleMissing": 3017,
      "pronunciationMissing": 0
     },
     {
      "language": "russian",
-     "total": 719,
-     "exampleMissing": 320,
+     "total": 3923,
+     "exampleMissing": 3524,
      "pronunciationMissing": 0
     }
    ]

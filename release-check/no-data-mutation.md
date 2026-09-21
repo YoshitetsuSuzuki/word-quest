@@ -2,11 +2,16 @@
 
 ## 判定
 
-**元データの変更なし**
+**元データに変更あり（要確認）**
 
 ## public/wordbank/ 配下の変更
 
-なし。全10言語の単語データは1バイトも変更していない。
+```
+?? public/wordbank/indonesian/
+?? public/wordbank/malay/
+?? public/wordbank/turkish/
+?? public/wordbank/urdu/
+```
 
 ## 今回のチェックで作成したファイル
 
@@ -18,6 +23,21 @@
 ## git status（全体）
 
 ```
-?? release-check/
-?? tools/release-check/
+M release-check/content-safety.json
+ M release-check/content-safety.md
+ M release-check/data-integrity.json
+ M release-check/data-integrity.md
+ M release-check/manual-sample.csv
+ M release-check/manual-sample.json
+ M release-check/question-engine-test.json
+ M release-check/question-engine-test.md
+ M release-check/unresolved-items.json
+ M release-check/unresolved-items.md
+ M src/i18n/en.ts
+ M src/i18n/ja.ts
+ M tools/release-check/stage2-engine.test.ts
+?? public/wordbank/indonesian/
+?? public/wordbank/malay/
+?? public/wordbank/turkish/
+?? public/wordbank/urdu/
 ```

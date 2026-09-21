@@ -1,0 +1,9286 @@
+[
+ {
+  "id": "ur-00001",
+  "category": "urdu",
+  "prompt": "「بھی」の意味は？",
+  "answer": "too",
+  "glosses": {
+   "en": "too",
+   "ja": "もまた"
+  },
+  "choices": [
+   "how",
+   "special",
+   "too",
+   "possible"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bʱiː/",
+  "verified": true
+ },
+ {
+  "id": "ur-00002",
+  "category": "urdu",
+  "prompt": "「جب」の意味は？",
+  "answer": "when (conjunction)",
+  "glosses": {
+   "en": "when (conjunction)",
+   "ja": "〜のとき"
+  },
+  "choices": [
+   "joke",
+   "verse",
+   "when (conjunction)",
+   "patience"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d͡ʒəb/",
+  "verified": true
+ },
+ {
+  "id": "ur-00003",
+  "category": "urdu",
+  "prompt": "「ملک」の意味は？",
+  "answer": "country",
+  "glosses": {
+   "en": "country",
+   "ja": "国"
+  },
+  "choices": [
+   "month",
+   "school",
+   "country",
+   "music"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mʊlk/",
+  "verified": true
+ },
+ {
+  "id": "ur-00004",
+  "category": "urdu",
+  "prompt": "「نام」の意味は？",
+  "answer": "name",
+  "glosses": {
+   "en": "name",
+   "ja": "名前"
+  },
+  "choices": [
+   "residence",
+   "instead of",
+   "name",
+   "civilization"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/nɑːm/",
+  "verified": true
+ },
+ {
+  "id": "ur-00005",
+  "category": "urdu",
+  "prompt": "「طور」の意味は？",
+  "answer": "manner",
+  "glosses": {
+   "en": "manner",
+   "ja": "方法"
+  },
+  "choices": [
+   "person",
+   "manner",
+   "revolution",
+   "electricity"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/t̪uːɾ/",
+  "verified": true
+ },
+ {
+  "id": "ur-00006",
+  "category": "urdu",
+  "prompt": "「سال」の意味は？",
+  "answer": "year",
+  "glosses": {
+   "en": "year",
+   "ja": "年"
+  },
+  "choices": [
+   "year",
+   "instead of",
+   "mufti",
+   "politician"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/sɑːl/",
+  "verified": true
+ },
+ {
+  "id": "ur-00007",
+  "category": "urdu",
+  "prompt": "「زندگی」の意味は？",
+  "answer": "life",
+  "glosses": {
+   "en": "life",
+   "ja": "人生"
+  },
+  "choices": [
+   "demonstration",
+   "life",
+   "population",
+   "rather"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/zɪn.d̪ə.ɡiː/",
+  "verified": true
+ },
+ {
+  "id": "ur-00008",
+  "category": "urdu",
+  "prompt": "「طرف」の意味は？",
+  "answer": "side",
+  "glosses": {
+   "en": "side",
+   "ja": "側"
+  },
+  "choices": [
+   "unknown",
+   "side",
+   "fear",
+   "art"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/t̪ə.ɾəf/",
+  "verified": true
+ },
+ {
+  "id": "ur-00009",
+  "category": "urdu",
+  "prompt": "「عوام」の意味は？",
+  "answer": "the public",
+  "glosses": {
+   "en": "the public",
+   "ja": "民衆"
+  },
+  "choices": [
+   "the public",
+   "when (conjunction)",
+   "salary",
+   "shape"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/(ʔ)ə.ʋɑːm/",
+  "verified": true
+ },
+ {
+  "id": "ur-00010",
+  "category": "urdu",
+  "prompt": "「استعمال」の意味は？",
+  "answer": "use",
+  "glosses": {
+   "en": "use",
+   "ja": "使用"
+  },
+  "choices": [
+   "glory",
+   "office",
+   "use",
+   "cow"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɪs.t̪eː.mɑːl/",
+  "verified": true
+ },
+ {
+  "id": "ur-00011",
+  "category": "urdu",
+  "prompt": "「گھر」の意味は？",
+  "answer": "house",
+  "glosses": {
+   "en": "house",
+   "ja": "家"
+  },
+  "choices": [
+   "maybe",
+   "house",
+   "district",
+   "existence"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɡʱəɾ/",
+  "verified": true
+ },
+ {
+  "id": "ur-00012",
+  "category": "urdu",
+  "prompt": "「شخص」の意味は？",
+  "answer": "person",
+  "glosses": {
+   "en": "person",
+   "ja": "人"
+  },
+  "choices": [
+   "research",
+   "breath",
+   "person",
+   "jail"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʃəxs/",
+  "verified": true
+ },
+ {
+  "id": "ur-00013",
+  "category": "urdu",
+  "prompt": "「بار」の意味は？",
+  "answer": "time (occurrence)",
+  "glosses": {
+   "en": "time (occurrence)",
+   "ja": "回"
+  },
+  "choices": [
+   "time (occurrence)",
+   "market",
+   "province",
+   "father"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bɑːɾ/",
+  "verified": true
+ },
+ {
+  "id": "ur-00014",
+  "category": "urdu",
+  "prompt": "「یہاں」の意味は？",
+  "answer": "here",
+  "glosses": {
+   "en": "here",
+   "ja": "ここで"
+  },
+  "choices": [
+   "promise",
+   "feeling",
+   "immediately",
+   "here"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/jə.ɦɑ̃ː/",
+  "verified": true
+ },
+ {
+  "id": "ur-00015",
+  "category": "urdu",
+  "prompt": "「شریف」の意味は？",
+  "answer": "noble, decent",
+  "glosses": {
+   "en": "noble, decent",
+   "ja": "上品な"
+  },
+  "choices": [
+   "happy",
+   "improvement",
+   "noble, decent",
+   "noise"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʃə.ɾiːf/",
+  "verified": true
+ },
+ {
+  "id": "ur-00016",
+  "category": "urdu",
+  "prompt": "「کبھی」の意味は？",
+  "answer": "ever, sometime",
+  "glosses": {
+   "en": "ever, sometime",
+   "ja": "いつか、かつて"
+  },
+  "choices": [
+   "ever, sometime",
+   "arrangement",
+   "formation",
+   "blessing"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kə.bʱiː/",
+  "verified": true
+ },
+ {
+  "id": "ur-00017",
+  "category": "urdu",
+  "prompt": "「کتاب」の意味は？",
+  "answer": "book",
+  "glosses": {
+   "en": "book",
+   "ja": "本"
+  },
+  "choices": [
+   "book",
+   "advice",
+   "district",
+   "conclusion"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kɪ.t̪ɑːb/",
+  "verified": true
+ },
+ {
+  "id": "ur-00018",
+  "category": "urdu",
+  "prompt": "「انسان」の意味は？",
+  "answer": "human being",
+  "glosses": {
+   "en": "human being",
+   "ja": "人間"
+  },
+  "choices": [
+   "lion",
+   "human being",
+   "explosion",
+   "alley"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɪn.sɑːn/",
+  "verified": true
+ },
+ {
+  "id": "ur-00019",
+  "category": "urdu",
+  "prompt": "「شہر」の意味は？",
+  "answer": "city",
+  "glosses": {
+   "en": "city",
+   "ja": "都市"
+  },
+  "choices": [
+   "civilization",
+   "worship",
+   "city",
+   "exam"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʃəɦɾ/",
+  "verified": true
+ },
+ {
+  "id": "ur-00020",
+  "category": "urdu",
+  "prompt": "「ڈاکٹر」の意味は？",
+  "answer": "doctor",
+  "glosses": {
+   "en": "doctor",
+   "ja": "医者"
+  },
+  "choices": [
+   "economy",
+   "doctor",
+   "quickly",
+   "heat"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɖɑːk.ʈəɾ/",
+  "verified": true
+ },
+ {
+  "id": "ur-00021",
+  "category": "urdu",
+  "prompt": "「جواب」の意味は？",
+  "answer": "answer",
+  "glosses": {
+   "en": "answer",
+   "ja": "答え"
+  },
+  "choices": [
+   "mistake",
+   "black",
+   "joy",
+   "answer"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d͡ʒə.ʋɑːb/",
+  "verified": true
+ },
+ {
+  "id": "ur-00022",
+  "category": "urdu",
+  "prompt": "「فوج」の意味は？",
+  "answer": "army",
+  "glosses": {
+   "en": "army",
+   "ja": "軍隊"
+  },
+  "choices": [
+   "army",
+   "blow",
+   "sample",
+   "killer"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/fɔːd͡ʒ/",
+  "verified": true
+ },
+ {
+  "id": "ur-00023",
+  "category": "urdu",
+  "prompt": "「فیصلہ」の意味は？",
+  "answer": "decision",
+  "glosses": {
+   "en": "decision",
+   "ja": "決定"
+  },
+  "choices": [
+   "decision",
+   "patient",
+   "special",
+   "seal"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/fɛːs.lɑ(ː)/",
+  "verified": true
+ },
+ {
+  "id": "ur-00024",
+  "category": "urdu",
+  "prompt": "「کیوں」の意味は？",
+  "answer": "why",
+  "glosses": {
+   "en": "why",
+   "ja": "なぜ"
+  },
+  "choices": [
+   "delegation",
+   "why",
+   "hospital",
+   "splendid"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kjõː/",
+  "verified": true
+ },
+ {
+  "id": "ur-00025",
+  "category": "urdu",
+  "prompt": "「نظام」の意味は？",
+  "answer": "system",
+  "glosses": {
+   "en": "system",
+   "ja": "制度"
+  },
+  "choices": [
+   "modern",
+   "explosion",
+   "lie",
+   "system"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/nɪ.zɑːm/",
+  "verified": true
+ },
+ {
+  "id": "ur-00026",
+  "category": "urdu",
+  "prompt": "「خوش」の意味は？",
+  "answer": "happy",
+  "glosses": {
+   "en": "happy",
+   "ja": "幸せな"
+  },
+  "choices": [
+   "age",
+   "happy",
+   "business",
+   "authority"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/xʊʃ/",
+  "verified": true
+ },
+ {
+  "id": "ur-00027",
+  "category": "urdu",
+  "prompt": "「قبل」の意味は？",
+  "answer": "before",
+  "glosses": {
+   "en": "before",
+   "ja": "前に"
+  },
+  "choices": [
+   "heat",
+   "before",
+   "pride",
+   "regular"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/qəbl/",
+  "verified": true
+ },
+ {
+  "id": "ur-00028",
+  "category": "urdu",
+  "prompt": "「ضرورت」の意味は？",
+  "answer": "necessity",
+  "glosses": {
+   "en": "necessity",
+   "ja": "必要性"
+  },
+  "choices": [
+   "necessity",
+   "art",
+   "arrival",
+   "complaint"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/zə.ɾuː.ɾət̪/",
+  "verified": true
+ },
+ {
+  "id": "ur-00029",
+  "category": "urdu",
+  "prompt": "「تعداد」の意味は？",
+  "answer": "number",
+  "glosses": {
+   "en": "number",
+   "ja": "数"
+  },
+  "choices": [
+   "specific",
+   "appearance",
+   "number",
+   "unknown"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/t̪ɑː.d̪ɑːd̪/",
+  "verified": true
+ },
+ {
+  "id": "ur-00030",
+  "category": "urdu",
+  "prompt": "「عدالت」の意味は？",
+  "answer": "court",
+  "glosses": {
+   "en": "court",
+   "ja": "裁判所"
+  },
+  "choices": [
+   "court",
+   "manner",
+   "before",
+   "boat"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ə.d̪ɑː.lət̪/",
+  "verified": true
+ },
+ {
+  "id": "ur-00031",
+  "category": "urdu",
+  "prompt": "「بلکہ」の意味は？",
+  "answer": "rather",
+  "glosses": {
+   "en": "rather",
+   "ja": "むしろ"
+  },
+  "choices": [
+   "round",
+   "guarantee",
+   "rather",
+   "splendid"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bəl.kiː/",
+  "verified": true
+ },
+ {
+  "id": "ur-00032",
+  "category": "urdu",
+  "prompt": "「انصاف」の意味は？",
+  "answer": "justice",
+  "glosses": {
+   "en": "justice",
+   "ja": "正義"
+  },
+  "choices": [
+   "life",
+   "before",
+   "justice",
+   "protest"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɪn.sɑːf/",
+  "verified": true
+ },
+ {
+  "id": "ur-00033",
+  "category": "urdu",
+  "prompt": "「تاہم」の意味は？",
+  "answer": "however",
+  "glosses": {
+   "en": "however",
+   "ja": "しかし"
+  },
+  "choices": [
+   "mention",
+   "justice",
+   "however",
+   "salt"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/t̪ɑː.ɦəm/",
+  "verified": true
+ },
+ {
+  "id": "ur-00034",
+  "category": "urdu",
+  "prompt": "「امام」の意味は？",
+  "answer": "imam",
+  "glosses": {
+   "en": "imam",
+   "ja": "イマーム"
+  },
+  "choices": [
+   "imam",
+   "death",
+   "life",
+   "scientific"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɪ.mɑːm/",
+  "verified": true
+ },
+ {
+  "id": "ur-00035",
+  "category": "urdu",
+  "prompt": "「وہاں」の意味は？",
+  "answer": "there",
+  "glosses": {
+   "en": "there",
+   "ja": "そこに"
+  },
+  "choices": [
+   "rank",
+   "lion",
+   "there",
+   "throne"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʋə.ɦɑ̃ː/",
+  "verified": true
+ },
+ {
+  "id": "ur-00036",
+  "category": "urdu",
+  "prompt": "「چیز」の意味は？",
+  "answer": "thing",
+  "glosses": {
+   "en": "thing",
+   "ja": "物"
+  },
+  "choices": [
+   "quiet",
+   "answer",
+   "thing",
+   "success"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/t͡ʃiːz/",
+  "verified": true
+ },
+ {
+  "id": "ur-00037",
+  "category": "urdu",
+  "prompt": "「آزادی」の意味は？",
+  "answer": "freedom",
+  "glosses": {
+   "en": "freedom",
+   "ja": "自由"
+  },
+  "choices": [
+   "demand",
+   "protection",
+   "freedom",
+   "computer"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɑː.zɑː.d̪iː/",
+  "verified": true
+ },
+ {
+  "id": "ur-00038",
+  "category": "urdu",
+  "prompt": "「قانون」の意味は？",
+  "answer": "law",
+  "glosses": {
+   "en": "law",
+   "ja": "法律"
+  },
+  "choices": [
+   "law",
+   "funeral",
+   "business",
+   "east"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/qɑː.nuːn/",
+  "verified": true
+ },
+ {
+  "id": "ur-00039",
+  "category": "urdu",
+  "prompt": "「فلم」の意味は？",
+  "answer": "film",
+  "glosses": {
+   "en": "film",
+   "ja": "映画"
+  },
+  "choices": [
+   "film",
+   "aerial",
+   "chance",
+   "control"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/fɪlm/",
+  "verified": true
+ },
+ {
+  "id": "ur-00040",
+  "category": "urdu",
+  "prompt": "「سوال」の意味は？",
+  "answer": "question",
+  "glosses": {
+   "en": "question",
+   "ja": "質問"
+  },
+  "choices": [
+   "conclusion",
+   "quiet",
+   "nawab, nobleman",
+   "question"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/sə.ʋɑːl/",
+  "verified": true
+ },
+ {
+  "id": "ur-00041",
+  "category": "urdu",
+  "prompt": "「سطح」の意味は？",
+  "answer": "level",
+  "glosses": {
+   "en": "level",
+   "ja": "水準"
+  },
+  "choices": [
+   "homeland",
+   "level",
+   "embassy",
+   "joy"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/sə.t̪əɦ/",
+  "verified": true
+ },
+ {
+  "id": "ur-00042",
+  "category": "urdu",
+  "prompt": "「کوشش」の意味は？",
+  "answer": "effort",
+  "glosses": {
+   "en": "effort",
+   "ja": "努力"
+  },
+  "choices": [
+   "judge",
+   "demonstration",
+   "effort",
+   "father"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/koː.ʃɪʃ/",
+  "verified": true
+ },
+ {
+  "id": "ur-00043",
+  "category": "urdu",
+  "prompt": "「قسم」の意味は？",
+  "answer": "kind",
+  "glosses": {
+   "en": "kind",
+   "ja": "種類"
+  },
+  "choices": [
+   "immediately",
+   "kind",
+   "game",
+   "ease"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/qɪsm/",
+  "verified": true
+ },
+ {
+  "id": "ur-00044",
+  "category": "urdu",
+  "prompt": "「جانب」の意味は？",
+  "answer": "direction",
+  "glosses": {
+   "en": "direction",
+   "ja": "方向"
+  },
+  "choices": [
+   "how",
+   "direction",
+   "meeting",
+   "constitution"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d͡ʒɑː.nɪb/",
+  "verified": true
+ },
+ {
+  "id": "ur-00045",
+  "category": "urdu",
+  "prompt": "「جنرل」の意味は？",
+  "answer": "general",
+  "glosses": {
+   "en": "general",
+   "ja": "将軍"
+  },
+  "choices": [
+   "worship",
+   "bomb",
+   "general",
+   "promise"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d͡ʒən.ɾəl/",
+  "verified": true
+ },
+ {
+  "id": "ur-00046",
+  "category": "urdu",
+  "prompt": "「ترقی」の意味は？",
+  "answer": "progress",
+  "glosses": {
+   "en": "progress",
+   "ja": "進歩"
+  },
+  "choices": [
+   "population",
+   "progress",
+   "astonishment",
+   "importance"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/t̪ə.ɾəq.qiː/",
+  "verified": true
+ },
+ {
+  "id": "ur-00047",
+  "category": "urdu",
+  "prompt": "「مسلمان」の意味は？",
+  "answer": "Muslim",
+  "glosses": {
+   "en": "Muslim",
+   "ja": "イスラム教徒"
+  },
+  "choices": [
+   "Sun",
+   "Muslim",
+   "concept",
+   "limit"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mʊ.səl.mɑːn/",
+  "verified": true
+ },
+ {
+  "id": "ur-00048",
+  "category": "urdu",
+  "prompt": "「ذکر」の意味は？",
+  "answer": "mention",
+  "glosses": {
+   "en": "mention",
+   "ja": "言及"
+  },
+  "choices": [
+   "round",
+   "soul",
+   "mention",
+   "kind"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/zə.kəɾ/",
+  "verified": true
+ },
+ {
+  "id": "ur-00049",
+  "category": "urdu",
+  "prompt": "「موت」の意味は？",
+  "answer": "death",
+  "glosses": {
+   "en": "death",
+   "ja": "死"
+  },
+  "choices": [
+   "marriage",
+   "death",
+   "ill, sick",
+   "possible"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mɔːt̪/",
+  "verified": true
+ },
+ {
+  "id": "ur-00050",
+  "category": "urdu",
+  "prompt": "「امن」の意味は？",
+  "answer": "peace",
+  "glosses": {
+   "en": "peace",
+   "ja": "平和"
+  },
+  "choices": [
+   "peace",
+   "sultan",
+   "high",
+   "participation"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ə.mən/",
+  "verified": true
+ },
+ {
+  "id": "ur-00051",
+  "category": "urdu",
+  "prompt": "「سمجھ」の意味は？",
+  "answer": "understanding",
+  "glosses": {
+   "en": "understanding",
+   "ja": "理解"
+  },
+  "choices": [
+   "migrant",
+   "understanding",
+   "local",
+   "delegation"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/sə.məd͡ʒʱ/",
+  "verified": true
+ },
+ {
+  "id": "ur-00052",
+  "category": "urdu",
+  "prompt": "「صورت」の意味は？",
+  "answer": "appearance",
+  "glosses": {
+   "en": "appearance",
+   "ja": "場合、状況"
+  },
+  "choices": [
+   "therefore",
+   "slogan",
+   "appearance",
+   "year"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/suː.ɾət̪/",
+  "verified": true
+ },
+ {
+  "id": "ur-00053",
+  "category": "urdu",
+  "prompt": "「شادی」の意味は？",
+  "answer": "marriage",
+  "glosses": {
+   "en": "marriage",
+   "ja": "結婚"
+  },
+  "choices": [
+   "known",
+   "analysis",
+   "marriage",
+   "government"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʃɑː.d̪iː/",
+  "verified": true
+ },
+ {
+  "id": "ur-00054",
+  "category": "urdu",
+  "prompt": "「ضروری」の意味は？",
+  "answer": "necessary",
+  "glosses": {
+   "en": "necessary",
+   "ja": "必要な"
+  },
+  "choices": [
+   "trade",
+   "necessary",
+   "economy",
+   "message"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/zə.ɾuː.ɾiː/",
+  "verified": true
+ },
+ {
+  "id": "ur-00055",
+  "category": "urdu",
+  "prompt": "「بنیاد」の意味は？",
+  "answer": "foundation",
+  "glosses": {
+   "en": "foundation",
+   "ja": "土台"
+  },
+  "choices": [
+   "conversation",
+   "funeral",
+   "foundation",
+   "poor"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bʊn.jɑːd̪/",
+  "verified": true
+ },
+ {
+  "id": "ur-00056",
+  "category": "urdu",
+  "prompt": "「کرکٹ」の意味は？",
+  "answer": "cricket",
+  "glosses": {
+   "en": "cricket",
+   "ja": "クリケット"
+  },
+  "choices": [
+   "opposition",
+   "village",
+   "hell",
+   "cricket"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kɪɾ.kɪʈ/",
+  "verified": true
+ },
+ {
+  "id": "ur-00057",
+  "category": "urdu",
+  "prompt": "「یوں」の意味は？",
+  "answer": "like this",
+  "glosses": {
+   "en": "like this",
+   "ja": "このように"
+  },
+  "choices": [
+   "cricket",
+   "to go",
+   "like this",
+   "side"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/jõː/",
+  "verified": true
+ },
+ {
+  "id": "ur-00058",
+  "category": "urdu",
+  "prompt": "「اجلاس」の意味は？",
+  "answer": "meeting",
+  "glosses": {
+   "en": "meeting",
+   "ja": "会議"
+  },
+  "choices": [
+   "meeting",
+   "cup",
+   "province",
+   "prize"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɪd͡ʒ.lɑːs/",
+  "verified": true
+ },
+ {
+  "id": "ur-00059",
+  "category": "urdu",
+  "prompt": "「فوجی」の意味は？",
+  "answer": "soldier",
+  "glosses": {
+   "en": "soldier",
+   "ja": "兵士"
+  },
+  "choices": [
+   "sin",
+   "virtuous",
+   "soldier",
+   "belly"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/fɔː.d͡ʒiː/",
+  "verified": true
+ },
+ {
+  "id": "ur-00060",
+  "category": "urdu",
+  "prompt": "「صحیح」の意味は？",
+  "answer": "right",
+  "glosses": {
+   "en": "right",
+   "ja": "正しい"
+  },
+  "choices": [
+   "year",
+   "right",
+   "mountain",
+   "mother"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/sə.ɦiː(ɦ)/",
+  "verified": true
+ },
+ {
+  "id": "ur-00061",
+  "category": "urdu",
+  "prompt": "「حملہ」の意味は？",
+  "answer": "attack",
+  "glosses": {
+   "en": "attack",
+   "ja": "攻撃"
+  },
+  "choices": [
+   "attack",
+   "celebration",
+   "blessing",
+   "where"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɦəm.lɑ(ː)/",
+  "verified": true
+ },
+ {
+  "id": "ur-00062",
+  "category": "urdu",
+  "prompt": "「آخری」の意味は？",
+  "answer": "final",
+  "glosses": {
+   "en": "final",
+   "ja": "最終的な"
+  },
+  "choices": [
+   "final",
+   "friend",
+   "army",
+   "purpose"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɑː.xɪ.ɾiː/",
+  "verified": true
+ },
+ {
+  "id": "ur-00063",
+  "category": "urdu",
+  "prompt": "「حدیث」の意味は？",
+  "answer": "hadith",
+  "glosses": {
+   "en": "hadith",
+   "ja": "ハディース"
+  },
+  "choices": [
+   "cruelty, injustice",
+   "hadith",
+   "peace",
+   "purpose"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɦə.d̪iːs/",
+  "verified": true
+ },
+ {
+  "id": "ur-00064",
+  "category": "urdu",
+  "prompt": "「مرد」の意味は？",
+  "answer": "man",
+  "glosses": {
+   "en": "man",
+   "ja": "男"
+  },
+  "choices": [
+   "meat",
+   "accusation",
+   "man",
+   "rank"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/məɾd̪/",
+  "verified": true
+ },
+ {
+  "id": "ur-00065",
+  "category": "urdu",
+  "prompt": "「ماں」の意味は？",
+  "answer": "mother",
+  "glosses": {
+   "en": "mother",
+   "ja": "母"
+  },
+  "choices": [
+   "central",
+   "complaint",
+   "life",
+   "mother"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ur-00066",
+  "category": "urdu",
+  "prompt": "「لفظ」の意味は？",
+  "answer": "word",
+  "glosses": {
+   "en": "word",
+   "ja": "言葉"
+  },
+  "choices": [
+   "revolution",
+   "revelation",
+   "word",
+   "jihad"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ləfz/",
+  "verified": true
+ },
+ {
+  "id": "ur-00067",
+  "category": "urdu",
+  "prompt": "「اکثر」の意味は？",
+  "answer": "often",
+  "glosses": {
+   "en": "often",
+   "ja": "しばしば"
+  },
+  "choices": [
+   "often",
+   "lesson",
+   "tradition",
+   "prize"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ək.səɾ/",
+  "verified": true
+ },
+ {
+  "id": "ur-00068",
+  "category": "urdu",
+  "prompt": "「دوست」の意味は？",
+  "answer": "friend",
+  "glosses": {
+   "en": "friend",
+   "ja": "友達"
+  },
+  "choices": [
+   "justice",
+   "patient",
+   "friend",
+   "insult"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d̪oːst̪/",
+  "verified": true
+ },
+ {
+  "id": "ur-00069",
+  "category": "urdu",
+  "prompt": "「موقع」の意味は？",
+  "answer": "chance",
+  "glosses": {
+   "en": "chance",
+   "ja": "機会"
+  },
+  "choices": [
+   "cow",
+   "eye",
+   "chance",
+   "joke"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mɔː.qɑː/",
+  "verified": true
+ },
+ {
+  "id": "ur-00070",
+  "category": "urdu",
+  "prompt": "「سن」の意味は？",
+  "answer": "age",
+  "glosses": {
+   "en": "age",
+   "ja": "年齢"
+  },
+  "choices": [
+   "noble, decent",
+   "crisis",
+   "age",
+   "lesson"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/sɪn/",
+  "verified": true
+ },
+ {
+  "id": "ur-00071",
+  "category": "urdu",
+  "prompt": "「قیادت」の意味は？",
+  "answer": "leadership",
+  "glosses": {
+   "en": "leadership",
+   "ja": "指導力"
+  },
+  "choices": [
+   "leadership",
+   "chance",
+   "publication",
+   "hair"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/qɪ.jɑː.d̪ət̪/",
+  "verified": true
+ },
+ {
+  "id": "ur-00072",
+  "category": "urdu",
+  "prompt": "「وطن」の意味は？",
+  "answer": "homeland",
+  "glosses": {
+   "en": "homeland",
+   "ja": "祖国"
+  },
+  "choices": [
+   "noise",
+   "nose",
+   "government",
+   "homeland"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʋə.t̪ən/",
+  "verified": true
+ },
+ {
+  "id": "ur-00073",
+  "category": "urdu",
+  "prompt": "「شاید」の意味は？",
+  "answer": "maybe",
+  "glosses": {
+   "en": "maybe",
+   "ja": "たぶん"
+  },
+  "choices": [
+   "maybe",
+   "religious",
+   "poet",
+   "minute"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʃɑː.jəd̪/",
+  "verified": true
+ },
+ {
+  "id": "ur-00074",
+  "category": "urdu",
+  "prompt": "「انجام」の意味は？",
+  "answer": "end",
+  "glosses": {
+   "en": "end",
+   "ja": "終わり"
+  },
+  "choices": [
+   "creation",
+   "end",
+   "where",
+   "month"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ən.d͡ʒɑːm/",
+  "verified": true
+ },
+ {
+  "id": "ur-00075",
+  "category": "urdu",
+  "prompt": "「کافی」の意味は？",
+  "answer": "enough",
+  "glosses": {
+   "en": "enough",
+   "ja": "十分な"
+  },
+  "choices": [
+   "famous",
+   "address",
+   "when (conjunction)",
+   "enough"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kɑː.fiː/",
+  "verified": true
+ },
+ {
+  "id": "ur-00076",
+  "category": "urdu",
+  "prompt": "「جانا」の意味は？",
+  "answer": "to go",
+  "glosses": {
+   "en": "to go",
+   "ja": "行く"
+  },
+  "choices": [
+   "month",
+   "state",
+   "right",
+   "to go"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ur-00077",
+  "category": "urdu",
+  "prompt": "「فتح」の意味は？",
+  "answer": "victory",
+  "glosses": {
+   "en": "victory",
+   "ja": "勝利"
+  },
+  "choices": [
+   "victory",
+   "joy",
+   "demand",
+   "fame"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/fə.t̪əɦ/",
+  "verified": true
+ },
+ {
+  "id": "ur-00078",
+  "category": "urdu",
+  "prompt": "「حد」の意味は？",
+  "answer": "limit",
+  "glosses": {
+   "en": "limit",
+   "ja": "限界"
+  },
+  "choices": [
+   "limit",
+   "lawsuit",
+   "hadith",
+   "the Lord"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ur-00079",
+  "category": "urdu",
+  "prompt": "「قبول」の意味は？",
+  "answer": "acceptance",
+  "glosses": {
+   "en": "acceptance",
+   "ja": "受け入れ"
+  },
+  "choices": [
+   "ill, sick",
+   "law",
+   "acceptance",
+   "man"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/qʊ.buːl/",
+  "verified": true
+ },
+ {
+  "id": "ur-00080",
+  "category": "urdu",
+  "prompt": "「ضلع」の意味は？",
+  "answer": "district",
+  "glosses": {
+   "en": "district",
+   "ja": "地区"
+  },
+  "choices": [
+   "central",
+   "district",
+   "concern",
+   "person"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/zɪl.ʔə/",
+  "verified": true
+ },
+ {
+  "id": "ur-00081",
+  "category": "urdu",
+  "prompt": "「تقریبا」の意味は？",
+  "answer": "approximately",
+  "glosses": {
+   "en": "approximately",
+   "ja": "およそ"
+  },
+  "choices": [
+   "silver",
+   "specific",
+   "approximately",
+   "quickly"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/t̪əq.ɾiː.bən/",
+  "verified": true
+ },
+ {
+  "id": "ur-00082",
+  "category": "urdu",
+  "prompt": "「بنیادی」の意味は？",
+  "answer": "fundamental",
+  "glosses": {
+   "en": "fundamental",
+   "ja": "基本的な"
+  },
+  "choices": [
+   "sultan",
+   "lack",
+   "birth",
+   "fundamental"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bʊ.nɪ.jɑː.d̪iː/",
+  "verified": true
+ },
+ {
+  "id": "ur-00083",
+  "category": "urdu",
+  "prompt": "「حالت」の意味は？",
+  "answer": "state",
+  "glosses": {
+   "en": "state",
+   "ja": "状態"
+  },
+  "choices": [
+   "lesson",
+   "expenditure",
+   "state",
+   "resistance"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɦɑː.lət̪/",
+  "verified": true
+ },
+ {
+  "id": "ur-00084",
+  "category": "urdu",
+  "prompt": "「فون」の意味は？",
+  "answer": "phone",
+  "glosses": {
+   "en": "phone",
+   "ja": "電話"
+  },
+  "choices": [
+   "rebellion",
+   "discussion",
+   "state",
+   "phone"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/fuːn/",
+  "verified": true
+ },
+ {
+  "id": "ur-00085",
+  "category": "urdu",
+  "prompt": "「صحت」の意味は？",
+  "answer": "health",
+  "glosses": {
+   "en": "health",
+   "ja": "健康"
+  },
+  "choices": [
+   "wife",
+   "publication",
+   "health",
+   "captain"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/seː.ɦət̪/",
+  "verified": true
+ },
+ {
+  "id": "ur-00086",
+  "category": "urdu",
+  "prompt": "「انداز」の意味は？",
+  "answer": "style",
+  "glosses": {
+   "en": "style",
+   "ja": "様式"
+  },
+  "choices": [
+   "justice",
+   "style",
+   "insult",
+   "celebration"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ən.d̪ɑːz/",
+  "verified": true
+ },
+ {
+  "id": "ur-00087",
+  "category": "urdu",
+  "prompt": "「ذریعہ」の意味は？",
+  "answer": "means",
+  "glosses": {
+   "en": "means",
+   "ja": "手段"
+  },
+  "choices": [
+   "feeling",
+   "means",
+   "ethical",
+   "friend"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/zə.ɾɪ.jɑː/",
+  "verified": true
+ },
+ {
+  "id": "ur-00088",
+  "category": "urdu",
+  "prompt": "「مقصد」の意味は？",
+  "answer": "purpose",
+  "glosses": {
+   "en": "purpose",
+   "ja": "目的"
+  },
+  "choices": [
+   "there",
+   "purpose",
+   "business",
+   "funeral"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/məq.səd̪/",
+  "verified": true
+ },
+ {
+  "id": "ur-00089",
+  "category": "urdu",
+  "prompt": "「اظہار」の意味は？",
+  "answer": "expression",
+  "glosses": {
+   "en": "expression",
+   "ja": "表明"
+  },
+  "choices": [
+   "fortune",
+   "determination",
+   "expression",
+   "thing"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɪz.ɦɑːɾ/",
+  "verified": true
+ },
+ {
+  "id": "ur-00090",
+  "category": "urdu",
+  "prompt": "「رائے」の意味は？",
+  "answer": "opinion",
+  "glosses": {
+   "en": "opinion",
+   "ja": "意見"
+  },
+  "choices": [
+   "freedom",
+   "welcome",
+   "abduction",
+   "opinion"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɾɑː.eː/",
+  "verified": true
+ },
+ {
+  "id": "ur-00091",
+  "category": "urdu",
+  "prompt": "「آیت」の意味は？",
+  "answer": "verse",
+  "glosses": {
+   "en": "verse",
+   "ja": "聖典の一節"
+  },
+  "choices": [
+   "target",
+   "fortune",
+   "clothes",
+   "verse"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɑː.jət̪/",
+  "verified": true
+ },
+ {
+  "id": "ur-00092",
+  "category": "urdu",
+  "prompt": "「کامیابی」の意味は？",
+  "answer": "success",
+  "glosses": {
+   "en": "success",
+   "ja": "成功"
+  },
+  "choices": [
+   "success",
+   "prophet",
+   "value",
+   "aid"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kɑːm.jɑː.biː/",
+  "verified": true
+ },
+ {
+  "id": "ur-00093",
+  "category": "urdu",
+  "prompt": "「بجائے」の意味は？",
+  "answer": "instead of",
+  "glosses": {
+   "en": "instead of",
+   "ja": "〜の代わりに"
+  },
+  "choices": [
+   "instead of",
+   "gas",
+   "salt",
+   "strict"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bə.d͡ʒɑː.eː/",
+  "verified": true
+ },
+ {
+  "id": "ur-00094",
+  "category": "urdu",
+  "prompt": "「الزام」の意味は？",
+  "answer": "accusation",
+  "glosses": {
+   "en": "accusation",
+   "ja": "告発"
+  },
+  "choices": [
+   "accusation",
+   "busy",
+   "humanity",
+   "clothes"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɪl.zɑːm/",
+  "verified": true
+ },
+ {
+  "id": "ur-00095",
+  "category": "urdu",
+  "prompt": "「معلوم」の意味は？",
+  "answer": "known",
+  "glosses": {
+   "en": "known",
+   "ja": "既知の"
+  },
+  "choices": [
+   "known",
+   "beautiful",
+   "yogurt",
+   "witness"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mɑː.luːm/",
+  "verified": true
+ },
+ {
+  "id": "ur-00096",
+  "category": "urdu",
+  "prompt": "「تب」の意味は？",
+  "answer": "then",
+  "glosses": {
+   "en": "then",
+   "ja": "その時"
+  },
+  "choices": [
+   "then",
+   "eye",
+   "migrant",
+   "energy"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/t̪əb/",
+  "verified": true
+ },
+ {
+  "id": "ur-00097",
+  "category": "urdu",
+  "prompt": "「کیسے」の意味は？",
+  "answer": "how",
+  "glosses": {
+   "en": "how",
+   "ja": "どんなふうに"
+  },
+  "choices": [
+   "homeland",
+   "generally",
+   "how",
+   "happy"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kɛː.seː/",
+  "verified": true
+ },
+ {
+  "id": "ur-00098",
+  "category": "urdu",
+  "prompt": "「جدید」の意味は？",
+  "answer": "modern",
+  "glosses": {
+   "en": "modern",
+   "ja": "現代的な"
+  },
+  "choices": [
+   "convenience",
+   "ear",
+   "purpose",
+   "modern"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d͡ʒə.d̪iːd̪/",
+  "verified": true
+ },
+ {
+  "id": "ur-00099",
+  "category": "urdu",
+  "prompt": "「مرکزی」の意味は？",
+  "answer": "central",
+  "glosses": {
+   "en": "central",
+   "ja": "中央の"
+  },
+  "choices": [
+   "beautiful",
+   "effort",
+   "central",
+   "right"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/məɾ.kə.ziː/",
+  "verified": true
+ },
+ {
+  "id": "ur-00100",
+  "category": "urdu",
+  "prompt": "「مقامی」の意味は？",
+  "answer": "local",
+  "glosses": {
+   "en": "local",
+   "ja": "地元の"
+  },
+  "choices": [
+   "local",
+   "name",
+   "matter",
+   "commentary"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mə.qɑː.miː/",
+  "verified": true
+ },
+ {
+  "id": "ur-00101",
+  "category": "urdu",
+  "prompt": "「پیر」の意味は？",
+  "answer": "Monday",
+  "glosses": {
+   "en": "Monday",
+   "ja": "月曜日"
+  },
+  "choices": [
+   "stone",
+   "Monday",
+   "amount",
+   "founder"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pɛːɾ/",
+  "verified": true
+ },
+ {
+  "id": "ur-00102",
+  "category": "urdu",
+  "prompt": "「ترجمان」の意味は？",
+  "answer": "spokesman",
+  "glosses": {
+   "en": "spokesman",
+   "ja": "代弁者"
+  },
+  "choices": [
+   "Monday",
+   "spokesman",
+   "speech",
+   "appearance"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/t̪əɾ.d͡ʒʊ.mɑːn/",
+  "verified": true
+ },
+ {
+  "id": "ur-00103",
+  "category": "urdu",
+  "prompt": "「باعث」の意味は？",
+  "answer": "cause",
+  "glosses": {
+   "en": "cause",
+   "ja": "原因"
+  },
+  "choices": [
+   "cause",
+   "study",
+   "lawsuit",
+   "publication"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bɑː.(ʔ)ɪs/",
+  "verified": true
+ },
+ {
+  "id": "ur-00104",
+  "category": "urdu",
+  "prompt": "「غریب」の意味は？",
+  "answer": "poor",
+  "glosses": {
+   "en": "poor",
+   "ja": "貧しい"
+  },
+  "choices": [
+   "solution",
+   "opinion",
+   "value",
+   "poor"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɣə.ɾiːb/",
+  "verified": true
+ },
+ {
+  "id": "ur-00105",
+  "category": "urdu",
+  "prompt": "「خوشی」の意味は？",
+  "answer": "happiness",
+  "glosses": {
+   "en": "happiness",
+   "ja": "幸福"
+  },
+  "choices": [
+   "doctor",
+   "migrant",
+   "happiness",
+   "killer"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/xʊ.ʃiː/",
+  "verified": true
+ },
+ {
+  "id": "ur-00106",
+  "category": "urdu",
+  "prompt": "「بجلی」の意味は？",
+  "answer": "electricity",
+  "glosses": {
+   "en": "electricity",
+   "ja": "電気"
+  },
+  "choices": [
+   "death",
+   "solution",
+   "imam",
+   "electricity"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bɪd͡ʒ.liː/",
+  "verified": true
+ },
+ {
+  "id": "ur-00107",
+  "category": "urdu",
+  "prompt": "「باپ」の意味は？",
+  "answer": "father",
+  "glosses": {
+   "en": "father",
+   "ja": "父"
+  },
+  "choices": [
+   "forest",
+   "father",
+   "witness",
+   "how"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bɑːp/",
+  "verified": true
+ },
+ {
+  "id": "ur-00108",
+  "category": "urdu",
+  "prompt": "「فکر」の意味は？",
+  "answer": "concern",
+  "glosses": {
+   "en": "concern",
+   "ja": "心配、懸念"
+  },
+  "choices": [
+   "cow",
+   "institution",
+   "concern",
+   "instead of"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/fɪkɾ/",
+  "verified": true
+ },
+ {
+  "id": "ur-00109",
+  "category": "urdu",
+  "prompt": "「بلند」の意味は？",
+  "answer": "high",
+  "glosses": {
+   "en": "high",
+   "ja": "高い"
+  },
+  "choices": [
+   "victory",
+   "station",
+   "high",
+   "doctor"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bə.lənd̪/",
+  "verified": true
+ },
+ {
+  "id": "ur-00110",
+  "category": "urdu",
+  "prompt": "「رب」の意味は？",
+  "answer": "the Lord",
+  "glosses": {
+   "en": "the Lord",
+   "ja": "主（神）"
+  },
+  "choices": [
+   "film",
+   "the Lord",
+   "phone",
+   "madam"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɾəb/",
+  "verified": true
+ },
+ {
+  "id": "ur-00111",
+  "category": "urdu",
+  "prompt": "「احساس」の意味は？",
+  "answer": "feeling",
+  "glosses": {
+   "en": "feeling",
+   "ja": "感覚"
+  },
+  "choices": [
+   "selection",
+   "bread",
+   "feeling",
+   "ethical"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɪɦ.sɑːs/",
+  "verified": true
+ },
+ {
+  "id": "ur-00112",
+  "category": "urdu",
+  "prompt": "「جیل」の意味は？",
+  "answer": "jail",
+  "glosses": {
+   "en": "jail",
+   "ja": "刑務所"
+  },
+  "choices": [
+   "progress",
+   "loss",
+   "theft",
+   "jail"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d͡ʒeːl/",
+  "verified": true
+ },
+ {
+  "id": "ur-00113",
+  "category": "urdu",
+  "prompt": "「گفتگو」の意味は？",
+  "answer": "conversation",
+  "glosses": {
+   "en": "conversation",
+   "ja": "会話"
+  },
+  "choices": [
+   "use",
+   "discussion",
+   "quiet",
+   "conversation"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɡʊf.t̪ʊ.ɡuː/",
+  "verified": true
+ },
+ {
+  "id": "ur-00114",
+  "category": "urdu",
+  "prompt": "「معنی」の意味は？",
+  "answer": "meaning",
+  "glosses": {
+   "en": "meaning",
+   "ja": "意味"
+  },
+  "choices": [
+   "senator",
+   "weapon",
+   "meaning",
+   "abduction"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ur-00115",
+  "category": "urdu",
+  "prompt": "「نیا」の意味は？",
+  "answer": "new",
+  "glosses": {
+   "en": "new",
+   "ja": "新しい"
+  },
+  "choices": [
+   "fortune",
+   "life",
+   "new",
+   "girl"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/nə.jɑː/",
+  "verified": true
+ },
+ {
+  "id": "ur-00116",
+  "category": "urdu",
+  "prompt": "「ممکن」の意味は？",
+  "answer": "possible",
+  "glosses": {
+   "en": "possible",
+   "ja": "可能な"
+  },
+  "choices": [
+   "possible",
+   "sea",
+   "selection",
+   "year"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mʊm.kɪn/",
+  "verified": true
+ },
+ {
+  "id": "ur-00117",
+  "category": "urdu",
+  "prompt": "「دشمن」の意味は？",
+  "answer": "enemy",
+  "glosses": {
+   "en": "enemy",
+   "ja": "敵"
+  },
+  "choices": [
+   "lion",
+   "enemy",
+   "determination",
+   "result"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d̪ʊʃ.mən/",
+  "verified": true
+ },
+ {
+  "id": "ur-00118",
+  "category": "urdu",
+  "prompt": "「شرکت」の意味は？",
+  "answer": "participation",
+  "glosses": {
+   "en": "participation",
+   "ja": "参加"
+  },
+  "choices": [
+   "participation",
+   "local",
+   "sea",
+   "happiness"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʃɪɾ.kət̪/",
+  "verified": true
+ },
+ {
+  "id": "ur-00119",
+  "category": "urdu",
+  "prompt": "「آبادی」の意味は？",
+  "answer": "population",
+  "glosses": {
+   "en": "population",
+   "ja": "人口"
+  },
+  "choices": [
+   "population",
+   "poetry",
+   "patience",
+   "eye"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɑː.bɑː.d̪iː/",
+  "verified": true
+ },
+ {
+  "id": "ur-00120",
+  "category": "urdu",
+  "prompt": "「سخت」の意味は？",
+  "answer": "strict",
+  "glosses": {
+   "en": "strict",
+   "ja": "厳しい"
+  },
+  "choices": [
+   "strict",
+   "slogan",
+   "lion",
+   "mention"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/səxt̪/",
+  "verified": true
+ },
+ {
+  "id": "ur-00121",
+  "category": "urdu",
+  "prompt": "「پیغام」の意味は？",
+  "answer": "message",
+  "glosses": {
+   "en": "message",
+   "ja": "メッセージ"
+  },
+  "choices": [
+   "message",
+   "system",
+   "signature",
+   "control"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pɛː.ɣɑːm/",
+  "verified": true
+ },
+ {
+  "id": "ur-00122",
+  "category": "urdu",
+  "prompt": "「جسم」の意味は？",
+  "answer": "body",
+  "glosses": {
+   "en": "body",
+   "ja": "身体"
+  },
+  "choices": [
+   "body",
+   "man",
+   "constitution",
+   "cup"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d͡ʒɪsm/",
+  "verified": true
+ },
+ {
+  "id": "ur-00123",
+  "category": "urdu",
+  "prompt": "「تحقیق」の意味は？",
+  "answer": "research",
+  "glosses": {
+   "en": "research",
+   "ja": "研究"
+  },
+  "choices": [
+   "officer",
+   "research",
+   "state",
+   "human being"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/t̪əɦ.qiːq/",
+  "verified": true
+ },
+ {
+  "id": "ur-00124",
+  "category": "urdu",
+  "prompt": "「بالکل」の意味は？",
+  "answer": "absolutely",
+  "glosses": {
+   "en": "absolutely",
+   "ja": "まったく、確かに"
+  },
+  "choices": [
+   "father",
+   "absolutely",
+   "person",
+   "computer"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bɪl.kʊl/",
+  "verified": true
+ },
+ {
+  "id": "ur-00125",
+  "category": "urdu",
+  "prompt": "「مثال」の意味は？",
+  "answer": "example",
+  "glosses": {
+   "en": "example",
+   "ja": "例"
+  },
+  "choices": [
+   "mother",
+   "example",
+   "limit",
+   "maybe"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mɪ.sɑːl/",
+  "verified": true
+ },
+ {
+  "id": "ur-00126",
+  "category": "urdu",
+  "prompt": "「خوف」の意味は？",
+  "answer": "fear",
+  "glosses": {
+   "en": "fear",
+   "ja": "恐れ"
+  },
+  "choices": [
+   "ear",
+   "majority",
+   "value",
+   "fear"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/xɔːf/",
+  "verified": true
+ },
+ {
+  "id": "ur-00127",
+  "category": "urdu",
+  "prompt": "「احتجاج」の意味は？",
+  "answer": "protest",
+  "glosses": {
+   "en": "protest",
+   "ja": "抗議"
+  },
+  "choices": [
+   "attack",
+   "protest",
+   "importance",
+   "rather"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/eːɦ.t̪ɪ.d͡ʒɑːd͡ʒ/",
+  "verified": true
+ },
+ {
+  "id": "ur-00128",
+  "category": "urdu",
+  "prompt": "「شکل」の意味は？",
+  "answer": "shape",
+  "glosses": {
+   "en": "shape",
+   "ja": "形"
+  },
+  "choices": [
+   "residence",
+   "shape",
+   "east",
+   "death"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ur-00129",
+  "category": "urdu",
+  "prompt": "「کمی」の意味は？",
+  "answer": "lack",
+  "glosses": {
+   "en": "lack",
+   "ja": "不足"
+  },
+  "choices": [
+   "final",
+   "expression",
+   "rebellion",
+   "lack"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kə.miː/",
+  "verified": true
+ },
+ {
+  "id": "ur-00130",
+  "category": "urdu",
+  "prompt": "「قدر」の意味は？",
+  "answer": "value",
+  "glosses": {
+   "en": "value",
+   "ja": "価値"
+  },
+  "choices": [
+   "arrival",
+   "resident",
+   "value",
+   "immediately"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/qəd̪ɾ/",
+  "verified": true
+ },
+ {
+  "id": "ur-00131",
+  "category": "urdu",
+  "prompt": "「حل」の意味は？",
+  "answer": "solution",
+  "glosses": {
+   "en": "solution",
+   "ja": "解決策"
+  },
+  "choices": [
+   "known",
+   "solution",
+   "demonstration",
+   "worship"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ur-00132",
+  "category": "urdu",
+  "prompt": "「روایت」の意味は？",
+  "answer": "tradition",
+  "glosses": {
+   "en": "tradition",
+   "ja": "伝統"
+  },
+  "choices": [
+   "captain",
+   "tradition",
+   "patient",
+   "belly"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɾɪ.ʋɑː.jət̪/",
+  "verified": true
+ },
+ {
+  "id": "ur-00133",
+  "category": "urdu",
+  "prompt": "「گناہ」の意味は？",
+  "answer": "sin",
+  "glosses": {
+   "en": "sin",
+   "ja": "罪"
+  },
+  "choices": [
+   "sin",
+   "arrangement",
+   "college",
+   "number"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɡʊ.nɑːɦ/",
+  "verified": true
+ },
+ {
+  "id": "ur-00134",
+  "category": "urdu",
+  "prompt": "「نقصان」の意味は？",
+  "answer": "loss",
+  "glosses": {
+   "en": "loss",
+   "ja": "損失"
+  },
+  "choices": [
+   "wide",
+   "loss",
+   "conspiracy",
+   "witness"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/nʊq.sɑːn/",
+  "verified": true
+ },
+ {
+  "id": "ur-00135",
+  "category": "urdu",
+  "prompt": "「مرتبہ」の意味は？",
+  "answer": "rank",
+  "glosses": {
+   "en": "rank",
+   "ja": "回、度"
+  },
+  "choices": [
+   "rank",
+   "discussion",
+   "throne",
+   "rebellion"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/məɾ.t̪əb.ɑ(ː)/",
+  "verified": true
+ },
+ {
+  "id": "ur-00136",
+  "category": "urdu",
+  "prompt": "「مشہور」の意味は？",
+  "answer": "famous",
+  "glosses": {
+   "en": "famous",
+   "ja": "有名な"
+  },
+  "choices": [
+   "pride",
+   "famous",
+   "accusation",
+   "black"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/məʃ.ɦuːɾ/",
+  "verified": true
+ },
+ {
+  "id": "ur-00137",
+  "category": "urdu",
+  "prompt": "「اہمیت」の意味は？",
+  "answer": "importance",
+  "glosses": {
+   "en": "importance",
+   "ja": "重要性"
+  },
+  "choices": [
+   "modern",
+   "importance",
+   "art",
+   "heat"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ur-00138",
+  "category": "urdu",
+  "prompt": "「بیوی」の意味は？",
+  "answer": "wife",
+  "glosses": {
+   "en": "wife",
+   "ja": "妻"
+  },
+  "choices": [
+   "anger",
+   "illness",
+   "market",
+   "wife"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/biː.ʋiː/",
+  "verified": true
+ },
+ {
+  "id": "ur-00139",
+  "category": "urdu",
+  "prompt": "「جمہوریت」の意味は？",
+  "answer": "democracy",
+  "glosses": {
+   "en": "democracy",
+   "ja": "民主主義"
+  },
+  "choices": [
+   "manner",
+   "democracy",
+   "advice",
+   "group"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d͡ʒəm.ɦuː.ɾɪ.jət̪/",
+  "verified": true
+ },
+ {
+  "id": "ur-00140",
+  "category": "urdu",
+  "prompt": "「گروپ」の意味は？",
+  "answer": "group",
+  "glosses": {
+   "en": "group",
+   "ja": "集団"
+  },
+  "choices": [
+   "industry",
+   "guarantee",
+   "joint",
+   "group"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɡɾuːp/",
+  "verified": true
+ },
+ {
+  "id": "ur-00141",
+  "category": "urdu",
+  "prompt": "「کہاں」の意味は？",
+  "answer": "where",
+  "glosses": {
+   "en": "where",
+   "ja": "どこに"
+  },
+  "choices": [
+   "criticism",
+   "nose",
+   "where",
+   "pride"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kə.ɦɑ̃ː/",
+  "verified": true
+ },
+ {
+  "id": "ur-00142",
+  "category": "urdu",
+  "prompt": "「پتہ」の意味は？",
+  "answer": "address",
+  "glosses": {
+   "en": "address",
+   "ja": "住所"
+  },
+  "choices": [
+   "address",
+   "use",
+   "mile",
+   "yogurt"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pət̪.ɑ(ː)/",
+  "verified": true
+ },
+ {
+  "id": "ur-00143",
+  "category": "urdu",
+  "prompt": "「بینک」の意味は？",
+  "answer": "bank",
+  "glosses": {
+   "en": "bank",
+   "ja": "銀行"
+  },
+  "choices": [
+   "bank",
+   "too",
+   "caliphate",
+   "poet"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bɛːŋk/",
+  "verified": true
+ },
+ {
+  "id": "ur-00144",
+  "category": "urdu",
+  "prompt": "「قدم」の意味は？",
+  "answer": "step",
+  "glosses": {
+   "en": "step",
+   "ja": "歩み"
+  },
+  "choices": [
+   "energy",
+   "cruelty, injustice",
+   "upbringing",
+   "step"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/qə.d̪əm/",
+  "verified": true
+ },
+ {
+  "id": "ur-00145",
+  "category": "urdu",
+  "prompt": "「اگست」の意味は？",
+  "answer": "August",
+  "glosses": {
+   "en": "August",
+   "ja": "8月"
+  },
+  "choices": [
+   "meaning",
+   "heat",
+   "happy",
+   "August"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ə.ɡəst̪/",
+  "verified": true
+ },
+ {
+  "id": "ur-00147",
+  "category": "urdu",
+  "prompt": "「بیٹی」の意味は？",
+  "answer": "daughter",
+  "glosses": {
+   "en": "daughter",
+   "ja": "娘"
+  },
+  "choices": [
+   "joy",
+   "crime",
+   "daughter",
+   "expenditure"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/beː.ʈiː/",
+  "verified": true
+ },
+ {
+  "id": "ur-00148",
+  "category": "urdu",
+  "prompt": "「خط」の意味は？",
+  "answer": "letter",
+  "glosses": {
+   "en": "letter",
+   "ja": "手紙"
+  },
+  "choices": [
+   "tree",
+   "distinction",
+   "salary",
+   "letter"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/xət̪/",
+  "verified": true
+ },
+ {
+  "id": "ur-00149",
+  "category": "urdu",
+  "prompt": "「ماہ」の意味は？",
+  "answer": "month",
+  "glosses": {
+   "en": "month",
+   "ja": "月（暦）"
+  },
+  "choices": [
+   "month",
+   "fortune",
+   "energy",
+   "regular"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mɑːɦ/",
+  "verified": true
+ },
+ {
+  "id": "ur-00150",
+  "category": "urdu",
+  "prompt": "「بیٹا」の意味は？",
+  "answer": "son",
+  "glosses": {
+   "en": "son",
+   "ja": "息子"
+  },
+  "choices": [
+   "wood",
+   "son",
+   "pen",
+   "absolutely"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/beː.ʈɑː/",
+  "verified": true
+ },
+ {
+  "id": "ur-00151",
+  "category": "urdu",
+  "prompt": "「خوبصورت」の意味は？",
+  "answer": "beautiful",
+  "glosses": {
+   "en": "beautiful",
+   "ja": "美しい"
+  },
+  "choices": [
+   "madam",
+   "majority",
+   "country",
+   "beautiful"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/xuːb.suː.ɾət̪/",
+  "verified": true
+ },
+ {
+  "id": "ur-00152",
+  "category": "urdu",
+  "prompt": "「اخبار」の意味は？",
+  "answer": "newspaper",
+  "glosses": {
+   "en": "newspaper",
+   "ja": "新聞"
+  },
+  "choices": [
+   "year",
+   "religious",
+   "newspaper",
+   "specific"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/əx.bɑːɾ/",
+  "verified": true
+ },
+ {
+  "id": "ur-00153",
+  "category": "urdu",
+  "prompt": "「لڑکی」の意味は？",
+  "answer": "girl",
+  "glosses": {
+   "en": "girl",
+   "ja": "女の子"
+  },
+  "choices": [
+   "girl",
+   "building",
+   "stone",
+   "answer"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ləɽ.kiː/",
+  "verified": true
+ },
+ {
+  "id": "ur-00154",
+  "category": "urdu",
+  "prompt": "「آسان」の意味は？",
+  "answer": "easy",
+  "glosses": {
+   "en": "easy",
+   "ja": "簡単な"
+  },
+  "choices": [
+   "funeral",
+   "easy",
+   "selection",
+   "fundamental"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɑː.sɑːn/",
+  "verified": true
+ },
+ {
+  "id": "ur-00155",
+  "category": "urdu",
+  "prompt": "「شاعر」の意味は？",
+  "answer": "poet",
+  "glosses": {
+   "en": "poet",
+   "ja": "詩人"
+  },
+  "choices": [
+   "speech",
+   "poet",
+   "computer",
+   "noise"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʃɑː.(ʔ)ɪɾ/",
+  "verified": true
+ },
+ {
+  "id": "ur-00156",
+  "category": "urdu",
+  "prompt": "「انتخاب」の意味は？",
+  "answer": "selection",
+  "glosses": {
+   "en": "selection",
+   "ja": "選択、選挙"
+  },
+  "choices": [
+   "ticket",
+   "selection",
+   "maybe",
+   "riot"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɪn.t̪ɪ.xɑːb/",
+  "verified": true
+ },
+ {
+  "id": "ur-00157",
+  "category": "urdu",
+  "prompt": "「شاہد」の意味は？",
+  "answer": "witness",
+  "glosses": {
+   "en": "witness",
+   "ja": "目撃者"
+  },
+  "choices": [
+   "journalism",
+   "lie",
+   "witness",
+   "delegation"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ur-00158",
+  "category": "urdu",
+  "prompt": "「ترجمہ」の意味は？",
+  "answer": "translation",
+  "glosses": {
+   "en": "translation",
+   "ja": "翻訳"
+  },
+  "choices": [
+   "joy",
+   "happy",
+   "translation",
+   "identity"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/t̪əɾ.d͡ʒə.mɑ(ː)/",
+  "verified": true
+ },
+ {
+  "id": "ur-00159",
+  "category": "urdu",
+  "prompt": "「کالج」の意味は？",
+  "answer": "college",
+  "glosses": {
+   "en": "college",
+   "ja": "大学"
+  },
+  "choices": [
+   "college",
+   "law",
+   "happiness",
+   "number"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kɑː.lɪd͡ʒ/",
+  "verified": true
+ },
+ {
+  "id": "ur-00160",
+  "category": "urdu",
+  "prompt": "「بال」の意味は？",
+  "answer": "hair",
+  "glosses": {
+   "en": "hair",
+   "ja": "髪"
+  },
+  "choices": [
+   "pen",
+   "hair",
+   "captain",
+   "identity"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bɑːl/",
+  "verified": true
+ },
+ {
+  "id": "ur-00161",
+  "category": "urdu",
+  "prompt": "「شک」の意味は？",
+  "answer": "doubt",
+  "glosses": {
+   "en": "doubt",
+   "ja": "疑い"
+  },
+  "choices": [
+   "pen",
+   "when (conjunction)",
+   "doubt",
+   "distinction"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ur-00162",
+  "category": "urdu",
+  "prompt": "「اسکول」の意味は？",
+  "answer": "school",
+  "glosses": {
+   "en": "school",
+   "ja": "学校"
+  },
+  "choices": [
+   "here",
+   "witness",
+   "school",
+   "belly"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɪs.kuːl/",
+  "verified": true
+ },
+ {
+  "id": "ur-00163",
+  "category": "urdu",
+  "prompt": "「روح」の意味は？",
+  "answer": "soul",
+  "glosses": {
+   "en": "soul",
+   "ja": "魂"
+  },
+  "choices": [
+   "example",
+   "soul",
+   "pride",
+   "decision"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɾuːɦ/",
+  "verified": true
+ },
+ {
+  "id": "ur-00164",
+  "category": "urdu",
+  "prompt": "「وجود」の意味は？",
+  "answer": "existence",
+  "glosses": {
+   "en": "existence",
+   "ja": "存在"
+  },
+  "choices": [
+   "birth",
+   "cricket",
+   "democratic",
+   "existence"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʋə.d͡ʒuːd̪/",
+  "verified": true
+ },
+ {
+  "id": "ur-00165",
+  "category": "urdu",
+  "prompt": "「مخصوص」の意味は？",
+  "answer": "specific",
+  "glosses": {
+   "en": "specific",
+   "ja": "特定の"
+  },
+  "choices": [
+   "often",
+   "specific",
+   "crisis",
+   "school"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ur-00166",
+  "category": "urdu",
+  "prompt": "「نقل」の意味は？",
+  "answer": "copy",
+  "glosses": {
+   "en": "copy",
+   "ja": "コピー"
+  },
+  "choices": [
+   "especially",
+   "copy",
+   "culture",
+   "girl"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ur-00167",
+  "category": "urdu",
+  "prompt": "「تصور」の意味は？",
+  "answer": "concept",
+  "glosses": {
+   "en": "concept",
+   "ja": "概念"
+  },
+  "choices": [
+   "minute",
+   "research",
+   "concept",
+   "north"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/t̪ə.səʋ.ʋʊɾ/",
+  "verified": true
+ },
+ {
+  "id": "ur-00168",
+  "category": "urdu",
+  "prompt": "「تشکیل」の意味は？",
+  "answer": "formation",
+  "glosses": {
+   "en": "formation",
+   "ja": "形成"
+  },
+  "choices": [
+   "opposition",
+   "generally",
+   "formation",
+   "shape"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/t̪əʃ.kiːl/",
+  "verified": true
+ },
+ {
+  "id": "ur-00169",
+  "category": "urdu",
+  "prompt": "「واضح」の意味は？",
+  "answer": "evident",
+  "glosses": {
+   "en": "evident",
+   "ja": "明白な"
+  },
+  "choices": [
+   "character",
+   "evident",
+   "sample",
+   "camp"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʋɑː.ziːɦ/",
+  "verified": true
+ },
+ {
+  "id": "ur-00170",
+  "category": "urdu",
+  "prompt": "「اقتدار」の意味は？",
+  "answer": "authority",
+  "glosses": {
+   "en": "authority",
+   "ja": "権力"
+  },
+  "choices": [
+   "order",
+   "club",
+   "revolution",
+   "authority"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɪq.t̪ɪ.d̪ɑːɾ/",
+  "verified": true
+ },
+ {
+  "id": "ur-00171",
+  "category": "urdu",
+  "prompt": "「ثبوت」の意味は？",
+  "answer": "evidence",
+  "glosses": {
+   "en": "evidence",
+   "ja": "証拠"
+  },
+  "choices": [
+   "river",
+   "office",
+   "evidence",
+   "command"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/sə.buːt̪/",
+  "verified": true
+ },
+ {
+  "id": "ur-00172",
+  "category": "urdu",
+  "prompt": "「خصوصی」の意味は？",
+  "answer": "special",
+  "glosses": {
+   "en": "special",
+   "ja": "特別な"
+  },
+  "choices": [
+   "plan",
+   "special",
+   "side",
+   "happy"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/xʊ.suː.siː/",
+  "verified": true
+ },
+ {
+  "id": "ur-00173",
+  "category": "urdu",
+  "prompt": "「شاعری」の意味は？",
+  "answer": "poetry",
+  "glosses": {
+   "en": "poetry",
+   "ja": "詩"
+  },
+  "choices": [
+   "exam",
+   "minute",
+   "gas",
+   "poetry"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʃɑː.(ʔ)ɪ.ɾiː/",
+  "verified": true
+ },
+ {
+  "id": "ur-00174",
+  "category": "urdu",
+  "prompt": "「شخصیت」の意味は？",
+  "answer": "personality",
+  "glosses": {
+   "en": "personality",
+   "ja": "性格、人柄"
+  },
+  "choices": [
+   "personality",
+   "improvement",
+   "quiet",
+   "name"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʃəx.sɪ.jət̪/",
+  "verified": true
+ },
+ {
+  "id": "ur-00175",
+  "category": "urdu",
+  "prompt": "「لہذا」の意味は？",
+  "answer": "therefore",
+  "glosses": {
+   "en": "therefore",
+   "ja": "それゆえ"
+  },
+  "choices": [
+   "anger",
+   "fear",
+   "therefore",
+   "funeral"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/lɪ.ɦɑː.zɑː/",
+  "verified": true
+ },
+ {
+  "id": "ur-00176",
+  "category": "urdu",
+  "prompt": "「تنقید」の意味は？",
+  "answer": "criticism",
+  "glosses": {
+   "en": "criticism",
+   "ja": "批判、批評"
+  },
+  "choices": [
+   "question",
+   "criticism",
+   "distinction",
+   "before"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/t̪əŋ.qiːd̪/",
+  "verified": true
+ },
+ {
+  "id": "ur-00177",
+  "category": "urdu",
+  "prompt": "「نتیجہ」の意味は？",
+  "answer": "result",
+  "glosses": {
+   "en": "result",
+   "ja": "結果"
+  },
+  "choices": [
+   "promise",
+   "result",
+   "control",
+   "chance"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/nə.t̪iː.d͡ʒɑ(ː)/",
+  "verified": true
+ },
+ {
+  "id": "ur-00178",
+  "category": "urdu",
+  "prompt": "「منصوبہ」の意味は？",
+  "answer": "plan",
+  "glosses": {
+   "en": "plan",
+   "ja": "計画"
+  },
+  "choices": [
+   "plan",
+   "corpse",
+   "side",
+   "newspaper"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mən.suː.bɑː/",
+  "verified": true
+ },
+ {
+  "id": "ur-00179",
+  "category": "urdu",
+  "prompt": "「کنٹرول」の意味は？",
+  "answer": "control",
+  "glosses": {
+   "en": "control",
+   "ja": "管理"
+  },
+  "choices": [
+   "enemy",
+   "control",
+   "federation",
+   "wide"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kən.ʈɾoːl/",
+  "verified": true
+ },
+ {
+  "id": "ur-00180",
+  "category": "urdu",
+  "prompt": "「طلب」の意味は？",
+  "answer": "demand",
+  "glosses": {
+   "en": "demand",
+   "ja": "要求"
+  },
+  "choices": [
+   "modern",
+   "demand",
+   "how",
+   "administration"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/t̪ə.ləb/",
+  "verified": true
+ },
+ {
+  "id": "ur-00181",
+  "category": "urdu",
+  "prompt": "「ظلم」の意味は？",
+  "answer": "cruelty, injustice",
+  "glosses": {
+   "en": "cruelty, injustice",
+   "ja": "不正、残酷"
+  },
+  "choices": [
+   "answer",
+   "hunger",
+   "cruelty, injustice",
+   "illness"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/zʊlm/",
+  "verified": true
+ },
+ {
+  "id": "ur-00182",
+  "category": "urdu",
+  "prompt": "「تربیت」の意味は？",
+  "answer": "upbringing",
+  "glosses": {
+   "en": "upbringing",
+   "ja": "しつけ、養育"
+  },
+  "choices": [
+   "upbringing",
+   "mention",
+   "meeting",
+   "criticism"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/t̪əɾ.bɪj.jət̪/",
+  "verified": true
+ },
+ {
+  "id": "ur-00183",
+  "category": "urdu",
+  "prompt": "「شیر」の意味は？",
+  "answer": "lion",
+  "glosses": {
+   "en": "lion",
+   "ja": "ライオン"
+  },
+  "choices": [
+   "cause",
+   "lion",
+   "salary",
+   "forest"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʃeːɾ/",
+  "verified": true
+ },
+ {
+  "id": "ur-00184",
+  "category": "urdu",
+  "prompt": "「وسیع」の意味は？",
+  "answer": "wide",
+  "glosses": {
+   "en": "wide",
+   "ja": "広い"
+  },
+  "choices": [
+   "period",
+   "approval",
+   "wide",
+   "opinion"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʋə.siː(ʔ)/",
+  "verified": true
+ },
+ {
+  "id": "ur-00185",
+  "category": "urdu",
+  "prompt": "「غلطی」の意味は？",
+  "answer": "mistake",
+  "glosses": {
+   "en": "mistake",
+   "ja": "誤り"
+  },
+  "choices": [
+   "fundamental",
+   "mistake",
+   "club",
+   "existence"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɣəl.t̪iː/",
+  "verified": true
+ },
+ {
+  "id": "ur-00186",
+  "category": "urdu",
+  "prompt": "「انقلاب」の意味は？",
+  "answer": "revolution",
+  "glosses": {
+   "en": "revolution",
+   "ja": "革命"
+  },
+  "choices": [
+   "revolution",
+   "Muslim",
+   "business",
+   "madam"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɪn.qɪ.lɑːb/",
+  "verified": true
+ },
+ {
+  "id": "ur-00187",
+  "category": "urdu",
+  "prompt": "「بازی」の意味は？",
+  "answer": "game",
+  "glosses": {
+   "en": "game",
+   "ja": "試合"
+  },
+  "choices": [
+   "weapon",
+   "concept",
+   "publication",
+   "game"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bɑː.ziː/",
+  "verified": true
+ },
+ {
+  "id": "ur-00188",
+  "category": "urdu",
+  "prompt": "「جرم」の意味は？",
+  "answer": "crime",
+  "glosses": {
+   "en": "crime",
+   "ja": "犯罪"
+  },
+  "choices": [
+   "belly",
+   "crime",
+   "residence",
+   "condemnation"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d͡ʒʊɾm/",
+  "verified": true
+ },
+ {
+  "id": "ur-00189",
+  "category": "urdu",
+  "prompt": "「منٹ」の意味は？",
+  "answer": "minute",
+  "glosses": {
+   "en": "minute",
+   "ja": "分"
+  },
+  "choices": [
+   "minute",
+   "absolutely",
+   "sin",
+   "wood"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mɪ.nəʈ/",
+  "verified": true
+ },
+ {
+  "id": "ur-00190",
+  "category": "urdu",
+  "prompt": "「قوت」の意味は？",
+  "answer": "strength",
+  "glosses": {
+   "en": "strength",
+   "ja": "力"
+  },
+  "choices": [
+   "truth",
+   "strength",
+   "research",
+   "rather"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/quːt̪/",
+  "verified": true
+ },
+ {
+  "id": "ur-00191",
+  "category": "urdu",
+  "prompt": "「سمندر」の意味は？",
+  "answer": "sea",
+  "glosses": {
+   "en": "sea",
+   "ja": "海"
+  },
+  "choices": [
+   "musical instrument",
+   "sea",
+   "system",
+   "health"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/sə.mʊn.d̪əɾ/",
+  "verified": true
+ },
+ {
+  "id": "ur-00192",
+  "category": "urdu",
+  "prompt": "「یوم」の意味は？",
+  "answer": "day",
+  "glosses": {
+   "en": "day",
+   "ja": "日"
+  },
+  "choices": [
+   "protest",
+   "day",
+   "revelation",
+   "club"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/jɔːm/",
+  "verified": true
+ },
+ {
+  "id": "ur-00193",
+  "category": "urdu",
+  "prompt": "「وعدہ」の意味は？",
+  "answer": "promise",
+  "glosses": {
+   "en": "promise",
+   "ja": "約束"
+  },
+  "choices": [
+   "promise",
+   "sample",
+   "worship",
+   "special"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʋə(ʔ).d̪ɑ(ː)/",
+  "verified": true
+ },
+ {
+  "id": "ur-00194",
+  "category": "urdu",
+  "prompt": "「دفتر」の意味は？",
+  "answer": "office",
+  "glosses": {
+   "en": "office",
+   "ja": "事務所"
+  },
+  "choices": [
+   "office",
+   "marriage",
+   "film",
+   "culture"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d̪əf.t̪əɾ/",
+  "verified": true
+ },
+ {
+  "id": "ur-00195",
+  "category": "urdu",
+  "prompt": "「آئین」の意味は？",
+  "answer": "constitution",
+  "glosses": {
+   "en": "constitution",
+   "ja": "憲法"
+  },
+  "choices": [
+   "publication",
+   "constitution",
+   "virtuous",
+   "heavy"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɑː.iːn/",
+  "verified": true
+ },
+ {
+  "id": "ur-00196",
+  "category": "urdu",
+  "prompt": "「اکثریت」の意味は？",
+  "answer": "majority",
+  "glosses": {
+   "en": "majority",
+   "ja": "大多数"
+  },
+  "choices": [
+   "understanding",
+   "majority",
+   "hunger",
+   "human being"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ək.sə.ɾɪ.jət̪/",
+  "verified": true
+ },
+ {
+  "id": "ur-00197",
+  "category": "urdu",
+  "prompt": "「مغرب」の意味は？",
+  "answer": "the west",
+  "glosses": {
+   "en": "the west",
+   "ja": "西"
+  },
+  "choices": [
+   "side",
+   "eye",
+   "the west",
+   "purpose"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/məɣ.ɾɪb/",
+  "verified": true
+ },
+ {
+  "id": "ur-00198",
+  "category": "urdu",
+  "prompt": "「مخالفت」の意味は？",
+  "answer": "opposition",
+  "glosses": {
+   "en": "opposition",
+   "ja": "反対"
+  },
+  "choices": [
+   "crime",
+   "understanding",
+   "analysis",
+   "opposition"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mʊ.xɑː.lɪ.fət̪/",
+  "verified": true
+ },
+ {
+  "id": "ur-00199",
+  "category": "urdu",
+  "prompt": "「مظاہرہ」の意味は？",
+  "answer": "demonstration",
+  "glosses": {
+   "en": "demonstration",
+   "ja": "デモ"
+  },
+  "choices": [
+   "easy",
+   "pride",
+   "demonstration",
+   "resident"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mʊ.zɑː.ɦɪ.ɾɑː/",
+  "verified": true
+ },
+ {
+  "id": "ur-00200",
+  "category": "urdu",
+  "prompt": "「معیشت」の意味は？",
+  "answer": "economy",
+  "glosses": {
+   "en": "economy",
+   "ja": "経済"
+  },
+  "choices": [
+   "economy",
+   "to come",
+   "patience",
+   "advice"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mə.(ʔ)iː.ʃət̪/",
+  "verified": true
+ },
+ {
+  "id": "ur-00201",
+  "category": "urdu",
+  "prompt": "「انسانیت」の意味は？",
+  "answer": "humanity",
+  "glosses": {
+   "en": "humanity",
+   "ja": "人間性"
+  },
+  "choices": [
+   "plan",
+   "humanity",
+   "bomb",
+   "observation"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɪn.sɑː.nɪ.jət̪/",
+  "verified": true
+ },
+ {
+  "id": "ur-00202",
+  "category": "urdu",
+  "prompt": "「عبادت」の意味は？",
+  "answer": "worship",
+  "glosses": {
+   "en": "worship",
+   "ja": "礼拝"
+  },
+  "choices": [
+   "round",
+   "birth",
+   "worship",
+   "fortune"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/(ʔ)ɪ.bɑː.d̪ət̪/",
+  "verified": true
+ },
+ {
+  "id": "ur-00203",
+  "category": "urdu",
+  "prompt": "「گاؤں」の意味は？",
+  "answer": "village",
+  "glosses": {
+   "en": "village",
+   "ja": "村"
+  },
+  "choices": [
+   "village",
+   "joint",
+   "active",
+   "birth"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɡɑ̃ː.oː/",
+  "verified": true
+ },
+ {
+  "id": "ur-00204",
+  "category": "urdu",
+  "prompt": "「نیک」の意味は？",
+  "answer": "virtuous",
+  "glosses": {
+   "en": "virtuous",
+   "ja": "善良な"
+  },
+  "choices": [
+   "existence",
+   "husband",
+   "army",
+   "virtuous"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/neːk/",
+  "verified": true
+ },
+ {
+  "id": "ur-00205",
+  "category": "urdu",
+  "prompt": "「صوبہ」の意味は？",
+  "answer": "province",
+  "glosses": {
+   "en": "province",
+   "ja": "州"
+  },
+  "choices": [
+   "province",
+   "instead of",
+   "rebellion",
+   "mufti"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/suː.bɑ(ː)/",
+  "verified": true
+ },
+ {
+  "id": "ur-00206",
+  "category": "urdu",
+  "prompt": "「معاملہ」の意味は？",
+  "answer": "matter",
+  "glosses": {
+   "en": "matter",
+   "ja": "事柄、件"
+  },
+  "choices": [
+   "level",
+   "value",
+   "matter",
+   "rider"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mʊ.(ʔ)ɑːm.lɑː/",
+  "verified": true
+ },
+ {
+  "id": "ur-00207",
+  "category": "urdu",
+  "prompt": "「سچ」の意味は？",
+  "answer": "truth",
+  "glosses": {
+   "en": "truth",
+   "ja": "真実"
+  },
+  "choices": [
+   "message",
+   "truth",
+   "fear",
+   "delegation"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/sət͡ʃ/",
+  "verified": true
+ },
+ {
+  "id": "ur-00208",
+  "category": "urdu",
+  "prompt": "「بم」の意味は？",
+  "answer": "bomb",
+  "glosses": {
+   "en": "bomb",
+   "ja": "爆弾"
+  },
+  "choices": [
+   "senator",
+   "nose",
+   "bomb",
+   "limit"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bəm/",
+  "verified": true
+ },
+ {
+  "id": "ur-00209",
+  "category": "urdu",
+  "prompt": "「فن」の意味は？",
+  "answer": "art",
+  "glosses": {
+   "en": "art",
+   "ja": "芸術"
+  },
+  "choices": [
+   "conversation",
+   "prophet",
+   "friend",
+   "art"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/fən/",
+  "verified": true
+ },
+ {
+  "id": "ur-00210",
+  "category": "urdu",
+  "prompt": "「انتظام」の意味は？",
+  "answer": "arrangement",
+  "glosses": {
+   "en": "arrangement",
+   "ja": "手配"
+  },
+  "choices": [
+   "arrangement",
+   "opposition",
+   "aid",
+   "lion"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɪn.t̪ɪ.zɑːm/",
+  "verified": true
+ },
+ {
+  "id": "ur-00211",
+  "category": "urdu",
+  "prompt": "「میل」の意味は？",
+  "answer": "mile",
+  "glosses": {
+   "en": "mile",
+   "ja": "マイル"
+  },
+  "choices": [
+   "mile",
+   "high",
+   "however",
+   "necessity"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/miːl/",
+  "verified": true
+ },
+ {
+  "id": "ur-00212",
+  "category": "urdu",
+  "prompt": "「خاطر」の意味は？",
+  "answer": "consideration",
+  "glosses": {
+   "en": "consideration",
+   "ja": "～のため（に）"
+  },
+  "choices": [
+   "level",
+   "patience",
+   "consideration",
+   "alley"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/xɑː.t̪ɪɾ/",
+  "verified": true
+ },
+ {
+  "id": "ur-00213",
+  "category": "urdu",
+  "prompt": "「جج」の意味は？",
+  "answer": "judge",
+  "glosses": {
+   "en": "judge",
+   "ja": "裁判官"
+  },
+  "choices": [
+   "constitution",
+   "demand",
+   "judge",
+   "life"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d͡ʒəd͡ʒ/",
+  "verified": true
+ },
+ {
+  "id": "ur-00214",
+  "category": "urdu",
+  "prompt": "「ادارہ」の意味は？",
+  "answer": "institution",
+  "glosses": {
+   "en": "institution",
+   "ja": "機関"
+  },
+  "choices": [
+   "salary",
+   "tradition",
+   "film",
+   "institution"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɪ.d̪ɑː.ɾɑː/",
+  "verified": true
+ },
+ {
+  "id": "ur-00215",
+  "category": "urdu",
+  "prompt": "「کپ」の意味は？",
+  "answer": "cup",
+  "glosses": {
+   "en": "cup",
+   "ja": "カップ"
+  },
+  "choices": [
+   "cup",
+   "cow",
+   "discussion",
+   "Muslim"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kəp/",
+  "verified": true
+ },
+ {
+  "id": "ur-00216",
+  "category": "urdu",
+  "prompt": "「صحافی」の意味は？",
+  "answer": "journalist",
+  "glosses": {
+   "en": "journalist",
+   "ja": "ジャーナリスト"
+  },
+  "choices": [
+   "accusation",
+   "eye",
+   "journalist",
+   "translation"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/sɪ.ɦɑː.fiː/",
+  "verified": true
+ },
+ {
+  "id": "ur-00217",
+  "category": "urdu",
+  "prompt": "「سائنس」の意味は？",
+  "answer": "science",
+  "glosses": {
+   "en": "science",
+   "ja": "科学"
+  },
+  "choices": [
+   "killer",
+   "improvement",
+   "science",
+   "new"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/sɑː.ɪns/",
+  "verified": true
+ },
+ {
+  "id": "ur-00218",
+  "category": "urdu",
+  "prompt": "「کپتان」の意味は？",
+  "answer": "captain",
+  "glosses": {
+   "en": "captain",
+   "ja": "キャプテン"
+  },
+  "choices": [
+   "civilization",
+   "day",
+   "lesson",
+   "captain"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kəp.t̪ɑːn/",
+  "verified": true
+ },
+ {
+  "id": "ur-00219",
+  "category": "urdu",
+  "prompt": "「مصروف」の意味は？",
+  "answer": "busy",
+  "glosses": {
+   "en": "busy",
+   "ja": "忙しい"
+  },
+  "choices": [
+   "manner",
+   "forest",
+   "Monday",
+   "busy"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/məs.ɾuːf/",
+  "verified": true
+ },
+ {
+  "id": "ur-00220",
+  "category": "urdu",
+  "prompt": "「خطرہ」の意味は？",
+  "answer": "risk",
+  "glosses": {
+   "en": "risk",
+   "ja": "危険"
+  },
+  "choices": [
+   "risk",
+   "homeland",
+   "station",
+   "quickly"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/xət̪.ɾɑ(ː)/",
+  "verified": true
+ },
+ {
+  "id": "ur-00221",
+  "category": "urdu",
+  "prompt": "「توانائی」の意味は？",
+  "answer": "energy",
+  "glosses": {
+   "en": "energy",
+   "ja": "エネルギー"
+  },
+  "choices": [
+   "ticket",
+   "energy",
+   "scientific",
+   "residence"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/t̪ə.wɑː.nɑːj/",
+  "verified": true
+ },
+ {
+  "id": "ur-00222",
+  "category": "urdu",
+  "prompt": "「تشدد」の意味は？",
+  "answer": "violence",
+  "glosses": {
+   "en": "violence",
+   "ja": "暴力"
+  },
+  "choices": [
+   "abduction",
+   "violence",
+   "welcome",
+   "speech"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/t̪ə.ʃəd̪.d̪ʊd̪/",
+  "verified": true
+ },
+ {
+  "id": "ur-00223",
+  "category": "urdu",
+  "prompt": "「مذمت」の意味は？",
+  "answer": "condemnation",
+  "glosses": {
+   "en": "condemnation",
+   "ja": "非難"
+  },
+  "choices": [
+   "concern",
+   "control",
+   "judge",
+   "condemnation"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mə.zəm.mət̪/",
+  "verified": true
+ },
+ {
+  "id": "ur-00224",
+  "category": "urdu",
+  "prompt": "「دینی」の意味は？",
+  "answer": "religious",
+  "glosses": {
+   "en": "religious",
+   "ja": "宗教の"
+  },
+  "choices": [
+   "cricket",
+   "religious",
+   "guest",
+   "crown"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d̪iː.niː/",
+  "verified": true
+ },
+ {
+  "id": "ur-00225",
+  "category": "urdu",
+  "prompt": "「جمہوری」の意味は？",
+  "answer": "democratic",
+  "glosses": {
+   "en": "democratic",
+   "ja": "民主的な"
+  },
+  "choices": [
+   "migrant",
+   "cause",
+   "democratic",
+   "country"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d͡ʒəm.ɦuː.ɾiː/",
+  "verified": true
+ },
+ {
+  "id": "ur-00226",
+  "category": "urdu",
+  "prompt": "「جھوٹ」の意味は？",
+  "answer": "lie",
+  "glosses": {
+   "en": "lie",
+   "ja": "うそ"
+  },
+  "choices": [
+   "station",
+   "court",
+   "civilization",
+   "lie"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d͡ʒʱuːʈ/",
+  "verified": true
+ },
+ {
+  "id": "ur-00227",
+  "category": "urdu",
+  "prompt": "「سورج」の意味は？",
+  "answer": "Sun",
+  "glosses": {
+   "en": "Sun",
+   "ja": "太陽"
+  },
+  "choices": [
+   "when (conjunction)",
+   "effort",
+   "Sun",
+   "mother"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/suː.ɾəd͡ʒ/",
+  "verified": true
+ },
+ {
+  "id": "ur-00228",
+  "category": "urdu",
+  "prompt": "「سلطان」の意味は？",
+  "answer": "sultan",
+  "glosses": {
+   "en": "sultan",
+   "ja": "イスラム教国の君主"
+  },
+  "choices": [
+   "bank",
+   "sultan",
+   "salt",
+   "house"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/sʊl.t̪ɑːn/",
+  "verified": true
+ },
+ {
+  "id": "ur-00229",
+  "category": "urdu",
+  "prompt": "「شوہر」の意味は？",
+  "answer": "husband",
+  "glosses": {
+   "en": "husband",
+   "ja": "夫"
+  },
+  "choices": [
+   "concept",
+   "husband",
+   "musical instrument",
+   "necessary"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʃɔː.ɦəɾ/",
+  "verified": true
+ },
+ {
+  "id": "ur-00230",
+  "category": "urdu",
+  "prompt": "「بازار」の意味は？",
+  "answer": "market",
+  "glosses": {
+   "en": "market",
+   "ja": "市場"
+  },
+  "choices": [
+   "girl",
+   "market",
+   "caliphate",
+   "period"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bɑː.zɑːɾ/",
+  "verified": true
+ },
+ {
+  "id": "ur-00231",
+  "category": "urdu",
+  "prompt": "「پل」の意味は？",
+  "answer": "bridge",
+  "glosses": {
+   "en": "bridge",
+   "ja": "橋"
+  },
+  "choices": [
+   "camp",
+   "senator",
+   "bridge",
+   "objection"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pʊl/",
+  "verified": true
+ },
+ {
+  "id": "ur-00232",
+  "category": "urdu",
+  "prompt": "「اسپتال」の意味は？",
+  "answer": "hospital",
+  "glosses": {
+   "en": "hospital",
+   "ja": "病院"
+  },
+  "choices": [
+   "courage",
+   "hospital",
+   "electricity",
+   "court"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/əs.pə.t̪ɑːl/",
+  "verified": true
+ },
+ {
+  "id": "ur-00233",
+  "category": "urdu",
+  "prompt": "「عمارت」の意味は？",
+  "answer": "building",
+  "glosses": {
+   "en": "building",
+   "ja": "建物"
+  },
+  "choices": [
+   "building",
+   "welcome",
+   "bread",
+   "revelation"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ur-00234",
+  "category": "urdu",
+  "prompt": "「خاموش」の意味は？",
+  "answer": "quiet",
+  "glosses": {
+   "en": "quiet",
+   "ja": "静かな"
+  },
+  "choices": [
+   "palace",
+   "boat",
+   "guest",
+   "quiet"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/xɑː.moːʃ/",
+  "verified": true
+ },
+ {
+  "id": "ur-00235",
+  "category": "urdu",
+  "prompt": "「دریا」の意味は？",
+  "answer": "river",
+  "glosses": {
+   "en": "river",
+   "ja": "川"
+  },
+  "choices": [
+   "welcome",
+   "especially",
+   "cruelty, injustice",
+   "river"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d̪əɾ.jɑː/",
+  "verified": true
+ },
+ {
+  "id": "ur-00236",
+  "category": "urdu",
+  "prompt": "「شب」の意味は？",
+  "answer": "night",
+  "glosses": {
+   "en": "night",
+   "ja": "夜"
+  },
+  "choices": [
+   "night",
+   "jihad",
+   "intensity",
+   "journalist"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʃəb/",
+  "verified": true
+ },
+ {
+  "id": "ur-00237",
+  "category": "urdu",
+  "prompt": "「دیوار」の意味は？",
+  "answer": "wall",
+  "glosses": {
+   "en": "wall",
+   "ja": "壁"
+  },
+  "choices": [
+   "doctor",
+   "why",
+   "wall",
+   "style"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ur-00238",
+  "category": "urdu",
+  "prompt": "「وادی」の意味は？",
+  "answer": "valley",
+  "glosses": {
+   "en": "valley",
+   "ja": "谷"
+  },
+  "choices": [
+   "patient",
+   "valley",
+   "humanity",
+   "film"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʋɑː.d̪iː/",
+  "verified": true
+ },
+ {
+  "id": "ur-00239",
+  "category": "urdu",
+  "prompt": "「آنا」の意味は？",
+  "answer": "to come",
+  "glosses": {
+   "en": "to come",
+   "ja": "来る"
+  },
+  "choices": [
+   "progress",
+   "fundamental",
+   "to come",
+   "joke"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɑː.nɑː/",
+  "verified": true
+ },
+ {
+  "id": "ur-00240",
+  "category": "urdu",
+  "prompt": "「مشرق」の意味は？",
+  "answer": "east",
+  "glosses": {
+   "en": "east",
+   "ja": "東"
+  },
+  "choices": [
+   "east",
+   "victory",
+   "number",
+   "result"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/məʃ.ɾɪq/",
+  "verified": true
+ },
+ {
+  "id": "ur-00241",
+  "category": "urdu",
+  "prompt": "「پرچم」の意味は？",
+  "answer": "flag",
+  "glosses": {
+   "en": "flag",
+   "ja": "旗"
+  },
+  "choices": [
+   "guarantee",
+   "accident",
+   "flag",
+   "translation"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pəɾ.t͡ʃəm/",
+  "verified": true
+ },
+ {
+  "id": "ur-00242",
+  "category": "urdu",
+  "prompt": "「تحفظ」の意味は？",
+  "answer": "protection",
+  "glosses": {
+   "en": "protection",
+   "ja": "保護"
+  },
+  "choices": [
+   "jail",
+   "homeland",
+   "protection",
+   "migrant"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/t̪ə.ɦəf.fʊz/",
+  "verified": true
+ },
+ {
+  "id": "ur-00243",
+  "category": "urdu",
+  "prompt": "「تقریر」の意味は？",
+  "answer": "speech",
+  "glosses": {
+   "en": "speech",
+   "ja": "演説"
+  },
+  "choices": [
+   "ill, sick",
+   "appearance",
+   "use",
+   "speech"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/t̪əq.ɾiːɾ/",
+  "verified": true
+ },
+ {
+  "id": "ur-00244",
+  "category": "urdu",
+  "prompt": "「پتھر」の意味は？",
+  "answer": "stone",
+  "glosses": {
+   "en": "stone",
+   "ja": "石"
+  },
+  "choices": [
+   "character",
+   "beautiful",
+   "demonstration",
+   "stone"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pət̪.t̪ʰəɾ/",
+  "verified": true
+ },
+ {
+  "id": "ur-00245",
+  "category": "urdu",
+  "prompt": "「مقدمہ」の意味は？",
+  "answer": "lawsuit",
+  "glosses": {
+   "en": "lawsuit",
+   "ja": "訴訟"
+  },
+  "choices": [
+   "art",
+   "lawsuit",
+   "sea",
+   "population"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mʊ.qəd̪.mɑ(ː)/",
+  "verified": true
+ },
+ {
+  "id": "ur-00246",
+  "category": "urdu",
+  "prompt": "「مشورہ」の意味は？",
+  "answer": "advice",
+  "glosses": {
+   "en": "advice",
+   "ja": "助言、アドバイス"
+  },
+  "choices": [
+   "here",
+   "advice",
+   "matter",
+   "life"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/məʃ.ʋə.ɾɑ(ː)/",
+  "verified": true
+ },
+ {
+  "id": "ur-00247",
+  "category": "urdu",
+  "prompt": "「تجارت」の意味は？",
+  "answer": "trade",
+  "glosses": {
+   "en": "trade",
+   "ja": "貿易"
+  },
+  "choices": [
+   "then",
+   "trade",
+   "final",
+   "research"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/t̪ɪ.d͡ʒɑː.ɾət̪/",
+  "verified": true
+ },
+ {
+  "id": "ur-00248",
+  "category": "urdu",
+  "prompt": "「فخر」の意味は？",
+  "answer": "pride",
+  "glosses": {
+   "en": "pride",
+   "ja": "誇り"
+  },
+  "choices": [
+   "wall",
+   "night",
+   "risk",
+   "pride"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/fəxɾ/",
+  "verified": true
+ },
+ {
+  "id": "ur-00249",
+  "category": "urdu",
+  "prompt": "「شناخت」の意味は？",
+  "answer": "identity",
+  "glosses": {
+   "en": "identity",
+   "ja": "身元、識別"
+  },
+  "choices": [
+   "civilization",
+   "identity",
+   "attack",
+   "ill, sick"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʃɪ.nɑːxt̪/",
+  "verified": true
+ },
+ {
+  "id": "ur-00250",
+  "category": "urdu",
+  "prompt": "「ٹکٹ」の意味は？",
+  "answer": "ticket",
+  "glosses": {
+   "en": "ticket",
+   "ja": "切符"
+  },
+  "choices": [
+   "busy",
+   "worship",
+   "ticket",
+   "journalism"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʈɪ.kəʈ/",
+  "verified": true
+ },
+ {
+  "id": "ur-00251",
+  "category": "urdu",
+  "prompt": "「سرکار」の意味は？",
+  "answer": "government",
+  "glosses": {
+   "en": "government",
+   "ja": "政府"
+  },
+  "choices": [
+   "life",
+   "meat",
+   "demonstration",
+   "government"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/səɾ.kɑːɾ/",
+  "verified": true
+ },
+ {
+  "id": "ur-00252",
+  "category": "urdu",
+  "prompt": "「نشانہ」の意味は？",
+  "answer": "target",
+  "glosses": {
+   "en": "target",
+   "ja": "的"
+  },
+  "choices": [
+   "target",
+   "truth",
+   "industry",
+   "abduction"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ur-00253",
+  "category": "urdu",
+  "prompt": "「ترتیب」の意味は？",
+  "answer": "order",
+  "glosses": {
+   "en": "order",
+   "ja": "順序"
+  },
+  "choices": [
+   "death",
+   "homeland",
+   "silver",
+   "order"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/t̪əɾ.t̪iːb/",
+  "verified": true
+ },
+ {
+  "id": "ur-00254",
+  "category": "urdu",
+  "prompt": "「مقدار」の意味は？",
+  "answer": "amount",
+  "glosses": {
+   "en": "amount",
+   "ja": "量"
+  },
+  "choices": [
+   "amount",
+   "accusation",
+   "target",
+   "prophet"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mɪq.d̪ɑːɾ/",
+  "verified": true
+ },
+ {
+  "id": "ur-00255",
+  "category": "urdu",
+  "prompt": "「اخلاقی」の意味は？",
+  "answer": "ethical",
+  "glosses": {
+   "en": "ethical",
+   "ja": "倫理的な"
+  },
+  "choices": [
+   "ethical",
+   "to come",
+   "end",
+   "attack"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ur-00256",
+  "category": "urdu",
+  "prompt": "「مدت」の意味は？",
+  "answer": "period",
+  "glosses": {
+   "en": "period",
+   "ja": "期間"
+  },
+  "choices": [
+   "senator",
+   "imam",
+   "humanity",
+   "period"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mʊd̪.d̪ət̪/",
+  "verified": true
+ },
+ {
+  "id": "ur-00257",
+  "category": "urdu",
+  "prompt": "「آمد」の意味は？",
+  "answer": "arrival",
+  "glosses": {
+   "en": "arrival",
+   "ja": "到着"
+  },
+  "choices": [
+   "throne",
+   "the public",
+   "revolution",
+   "arrival"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɑː.məd̪/",
+  "verified": true
+ },
+ {
+  "id": "ur-00258",
+  "category": "urdu",
+  "prompt": "「باقاعدہ」の意味は？",
+  "answer": "regular",
+  "glosses": {
+   "en": "regular",
+   "ja": "正式な、きちんとした"
+  },
+  "choices": [
+   "village",
+   "meat",
+   "explosion",
+   "regular"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ur-00259",
+  "category": "urdu",
+  "prompt": "「حوصلہ」の意味は？",
+  "answer": "courage",
+  "glosses": {
+   "en": "courage",
+   "ja": "勇気"
+  },
+  "choices": [
+   "doctor",
+   "letter",
+   "breath",
+   "courage"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɦɔː.sə.lɑː/",
+  "verified": true
+ },
+ {
+  "id": "ur-00260",
+  "category": "urdu",
+  "prompt": "「وار」の意味は？",
+  "answer": "blow",
+  "glosses": {
+   "en": "blow",
+   "ja": "一撃"
+  },
+  "choices": [
+   "bridge",
+   "blow",
+   "thing",
+   "humanity"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʋɑːɾ/",
+  "verified": true
+ },
+ {
+  "id": "ur-00261",
+  "category": "urdu",
+  "prompt": "「اختتام」の意味は？",
+  "answer": "conclusion",
+  "glosses": {
+   "en": "conclusion",
+   "ja": "終了"
+  },
+  "choices": [
+   "leadership",
+   "lesson",
+   "conclusion",
+   "year"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ur-00262",
+  "category": "urdu",
+  "prompt": "「انتظامیہ」の意味は？",
+  "answer": "administration",
+  "glosses": {
+   "en": "administration",
+   "ja": "行政"
+  },
+  "choices": [
+   "administration",
+   "riot",
+   "representation",
+   "generally"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɪn.t̪ɪ.zɑː.mɪ.jɑː/",
+  "verified": true
+ },
+ {
+  "id": "ur-00263",
+  "category": "urdu",
+  "prompt": "「پیٹ」の意味は？",
+  "answer": "belly",
+  "glosses": {
+   "en": "belly",
+   "ja": "お腹"
+  },
+  "choices": [
+   "energy",
+   "illness",
+   "district",
+   "belly"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/peːʈ/",
+  "verified": true
+ },
+ {
+  "id": "ur-00264",
+  "category": "urdu",
+  "prompt": "「بھاری」の意味は？",
+  "answer": "heavy",
+  "glosses": {
+   "en": "heavy",
+   "ja": "重い"
+  },
+  "choices": [
+   "worship",
+   "example",
+   "aerial",
+   "heavy"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ur-00265",
+  "category": "urdu",
+  "prompt": "「تہذیب」の意味は？",
+  "answer": "civilization",
+  "glosses": {
+   "en": "civilization",
+   "ja": "文明"
+  },
+  "choices": [
+   "residence",
+   "international",
+   "civilization",
+   "person"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/t̪əɦ.ziːb/",
+  "verified": true
+ },
+ {
+  "id": "ur-00266",
+  "category": "urdu",
+  "prompt": "「سہولت」の意味は？",
+  "answer": "convenience",
+  "glosses": {
+   "en": "convenience",
+   "ja": "便利さ"
+  },
+  "choices": [
+   "slogan",
+   "the Lord",
+   "aerial",
+   "convenience"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/sʊ.ɦuː.lət̪/",
+  "verified": true
+ },
+ {
+  "id": "ur-00267",
+  "category": "urdu",
+  "prompt": "「تخلیق」の意味は？",
+  "answer": "creation",
+  "glosses": {
+   "en": "creation",
+   "ja": "創造"
+  },
+  "choices": [
+   "ease",
+   "creation",
+   "consideration",
+   "poet"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/t̪əx.liːq/",
+  "verified": true
+ },
+ {
+  "id": "ur-00268",
+  "category": "urdu",
+  "prompt": "「انٹرنیشنل」の意味は？",
+  "answer": "international",
+  "glosses": {
+   "en": "international",
+   "ja": "国際的な"
+  },
+  "choices": [
+   "example",
+   "international",
+   "city",
+   "musical instrument"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɪn.ʈəɾ.nɛː.ʃɪ.nəl/",
+  "verified": true
+ },
+ {
+  "id": "ur-00269",
+  "category": "urdu",
+  "prompt": "「حیرت」の意味は？",
+  "answer": "astonishment",
+  "glosses": {
+   "en": "astonishment",
+   "ja": "驚き"
+  },
+  "choices": [
+   "stadium",
+   "astonishment",
+   "pen",
+   "caliph"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɦɛː.ɾət̪/",
+  "verified": true
+ },
+ {
+  "id": "ur-00270",
+  "category": "urdu",
+  "prompt": "「مفتی」の意味は？",
+  "answer": "mufti",
+  "glosses": {
+   "en": "mufti",
+   "ja": "イスラム法学者"
+  },
+  "choices": [
+   "mufti",
+   "lie",
+   "corpse",
+   "province"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mʊf.t̪iː/",
+  "verified": true
+ },
+ {
+  "id": "ur-00271",
+  "category": "urdu",
+  "prompt": "「شان」の意味は？",
+  "answer": "glory",
+  "glosses": {
+   "en": "glory",
+   "ja": "栄光"
+  },
+  "choices": [
+   "energy",
+   "glory",
+   "democratic",
+   "population"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʃɑːn/",
+  "verified": true
+ },
+ {
+  "id": "ur-00272",
+  "category": "urdu",
+  "prompt": "「جمعہ」の意味は？",
+  "answer": "Friday",
+  "glosses": {
+   "en": "Friday",
+   "ja": "金曜日"
+  },
+  "choices": [
+   "aerial",
+   "mufti",
+   "Friday",
+   "husband"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d͡ʒʊm.ʔɑ(ː)/",
+  "verified": true
+ },
+ {
+  "id": "ur-00273",
+  "category": "urdu",
+  "prompt": "「شدت」の意味は？",
+  "answer": "intensity",
+  "glosses": {
+   "en": "intensity",
+   "ja": "激しさ"
+  },
+  "choices": [
+   "fortune",
+   "celebration",
+   "end",
+   "intensity"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʃɪd̪.d̪ət̪/",
+  "verified": true
+ },
+ {
+  "id": "ur-00274",
+  "category": "urdu",
+  "prompt": "「مطالعہ」の意味は？",
+  "answer": "study",
+  "glosses": {
+   "en": "study",
+   "ja": "勉強"
+  },
+  "choices": [
+   "victory",
+   "experience",
+   "rank",
+   "study"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mʊ.t̪ɑː.lə.(ʔ)ɑ(ː)/",
+  "verified": true
+ },
+ {
+  "id": "ur-00275",
+  "category": "urdu",
+  "prompt": "「آنکھ」の意味は？",
+  "answer": "eye",
+  "glosses": {
+   "en": "eye",
+   "ja": "目"
+  },
+  "choices": [
+   "eye",
+   "like this",
+   "girl",
+   "constitution"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɑ̃ːkʰ/",
+  "verified": true
+ },
+ {
+  "id": "ur-00276",
+  "category": "urdu",
+  "prompt": "「پھول」の意味は？",
+  "answer": "flower",
+  "glosses": {
+   "en": "flower",
+   "ja": "花"
+  },
+  "choices": [
+   "example",
+   "blow",
+   "flower",
+   "solution"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pʰuːl/",
+  "verified": true
+ },
+ {
+  "id": "ur-00277",
+  "category": "urdu",
+  "prompt": "「قلم」の意味は？",
+  "answer": "pen",
+  "glosses": {
+   "en": "pen",
+   "ja": "ペン"
+  },
+  "choices": [
+   "pen",
+   "revolution",
+   "illness",
+   "heavy"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/qə.ləm/",
+  "verified": true
+ },
+ {
+  "id": "ur-00278",
+  "category": "urdu",
+  "prompt": "「کاروبار」の意味は？",
+  "answer": "business",
+  "glosses": {
+   "en": "business",
+   "ja": "商売"
+  },
+  "choices": [
+   "musical instrument",
+   "opinion",
+   "business",
+   "existence"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kɑː.ɾoː.bɑːɾ/",
+  "verified": true
+ },
+ {
+  "id": "ur-00279",
+  "category": "urdu",
+  "prompt": "「انعام」の意味は？",
+  "answer": "prize",
+  "glosses": {
+   "en": "prize",
+   "ja": "賞、褒美"
+  },
+  "choices": [
+   "prize",
+   "stadium",
+   "cause",
+   "quiet"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɪn.ʔɑːm/",
+  "verified": true
+ },
+ {
+  "id": "ur-00280",
+  "category": "urdu",
+  "prompt": "「کان」の意味は？",
+  "answer": "ear",
+  "glosses": {
+   "en": "ear",
+   "ja": "耳"
+  },
+  "choices": [
+   "ear",
+   "especially",
+   "film",
+   "new"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kɑːn/",
+  "verified": true
+ },
+ {
+  "id": "ur-00281",
+  "category": "urdu",
+  "prompt": "「چوری」の意味は？",
+  "answer": "theft",
+  "glosses": {
+   "en": "theft",
+   "ja": "窃盗"
+  },
+  "choices": [
+   "meaning",
+   "noise",
+   "theft",
+   "seal"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/t͡ʃoː.ɾiː/",
+  "verified": true
+ },
+ {
+  "id": "ur-00282",
+  "category": "urdu",
+  "prompt": "「خاموشی」の意味は？",
+  "answer": "silence",
+  "glosses": {
+   "en": "silence",
+   "ja": "沈黙、静けさ"
+  },
+  "choices": [
+   "success",
+   "gas",
+   "translation",
+   "silence"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/xɑː.moː.ʃiː/",
+  "verified": true
+ },
+ {
+  "id": "ur-00283",
+  "category": "urdu",
+  "prompt": "「صبر」の意味は？",
+  "answer": "patience",
+  "glosses": {
+   "en": "patience",
+   "ja": "忍耐"
+  },
+  "choices": [
+   "order",
+   "patience",
+   "crown",
+   "soul"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/səbɾ/",
+  "verified": true
+ },
+ {
+  "id": "ur-00284",
+  "category": "urdu",
+  "prompt": "「دوستی」の意味は？",
+  "answer": "friendship",
+  "glosses": {
+   "en": "friendship",
+   "ja": "友情"
+  },
+  "choices": [
+   "friendship",
+   "observation",
+   "meat",
+   "quiet"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d̪oːs.t̪iː/",
+  "verified": true
+ },
+ {
+  "id": "ur-00285",
+  "category": "urdu",
+  "prompt": "「لباس」の意味は？",
+  "answer": "clothes",
+  "glosses": {
+   "en": "clothes",
+   "ja": "衣服"
+  },
+  "choices": [
+   "clothes",
+   "astonishment",
+   "study",
+   "heart"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/lɪ.bɑːs/",
+  "verified": true
+ },
+ {
+  "id": "ur-00286",
+  "category": "urdu",
+  "prompt": "「نصیب」の意味は？",
+  "answer": "fortune",
+  "glosses": {
+   "en": "fortune",
+   "ja": "運"
+  },
+  "choices": [
+   "fortune",
+   "Sun",
+   "crime",
+   "plan"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/nə.siːb/",
+  "verified": true
+ },
+ {
+  "id": "ur-00287",
+  "category": "urdu",
+  "prompt": "「شراب」の意味は？",
+  "answer": "wine",
+  "glosses": {
+   "en": "wine",
+   "ja": "酒"
+  },
+  "choices": [
+   "exam",
+   "hospital",
+   "wine",
+   "cow"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʃə.ɾɑːb/",
+  "verified": true
+ },
+ {
+  "id": "ur-00288",
+  "category": "urdu",
+  "prompt": "「درخت」の意味は？",
+  "answer": "tree",
+  "glosses": {
+   "en": "tree",
+   "ja": "木"
+  },
+  "choices": [
+   "bridge",
+   "tradition",
+   "theft",
+   "tree"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d̪ə.ɾəxt̪/",
+  "verified": true
+ },
+ {
+  "id": "ur-00289",
+  "category": "urdu",
+  "prompt": "「جانور」の意味は？",
+  "answer": "animal",
+  "glosses": {
+   "en": "animal",
+   "ja": "動物"
+  },
+  "choices": [
+   "month",
+   "modern",
+   "animal",
+   "north"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d͡ʒɑːn.ʋəɾ/",
+  "verified": true
+ },
+ {
+  "id": "ur-00290",
+  "category": "urdu",
+  "prompt": "「بحث」の意味は？",
+  "answer": "discussion",
+  "glosses": {
+   "en": "discussion",
+   "ja": "議論"
+  },
+  "choices": [
+   "progress",
+   "discussion",
+   "bread",
+   "clothes"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bə.ɦəs/",
+  "verified": true
+ },
+ {
+  "id": "ur-00291",
+  "category": "urdu",
+  "prompt": "「قبر」の意味は？",
+  "answer": "grave",
+  "glosses": {
+   "en": "grave",
+   "ja": "墓"
+  },
+  "choices": [
+   "character",
+   "boat",
+   "round",
+   "grave"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/qəbɾ/",
+  "verified": true
+ },
+ {
+  "id": "ur-00292",
+  "category": "urdu",
+  "prompt": "「مہر」の意味は？",
+  "answer": "seal",
+  "glosses": {
+   "en": "seal",
+   "ja": "印章"
+  },
+  "choices": [
+   "democratic",
+   "seal",
+   "culture",
+   "experience"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ur-00293",
+  "category": "urdu",
+  "prompt": "「شور」の意味は？",
+  "answer": "noise",
+  "glosses": {
+   "en": "noise",
+   "ja": "騒音"
+  },
+  "choices": [
+   "shape",
+   "noise",
+   "democratic",
+   "cup"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ur-00294",
+  "category": "urdu",
+  "prompt": "「وزن」の意味は？",
+  "answer": "weight",
+  "glosses": {
+   "en": "weight",
+   "ja": "重さ"
+  },
+  "choices": [
+   "weight",
+   "dangerous",
+   "shape",
+   "joke"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ur-00295",
+  "category": "urdu",
+  "prompt": "「بیماری」の意味は？",
+  "answer": "illness",
+  "glosses": {
+   "en": "illness",
+   "ja": "病気"
+  },
+  "choices": [
+   "aerial",
+   "target",
+   "population",
+   "illness"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/biː.mɑː.ɾiː/",
+  "verified": true
+ },
+ {
+  "id": "ur-00296",
+  "category": "urdu",
+  "prompt": "「ناک」の意味は？",
+  "answer": "nose",
+  "glosses": {
+   "en": "nose",
+   "ja": "鼻"
+  },
+  "choices": [
+   "leadership",
+   "humanity",
+   "guest",
+   "nose"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/nɑːk/",
+  "verified": true
+ },
+ {
+  "id": "ur-00297",
+  "category": "urdu",
+  "prompt": "「مریض」の意味は？",
+  "answer": "patient",
+  "glosses": {
+   "en": "patient",
+   "ja": "患者"
+  },
+  "choices": [
+   "soldier",
+   "foundation",
+   "patient",
+   "north"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mə.ɾiːz/",
+  "verified": true
+ },
+ {
+  "id": "ur-00298",
+  "category": "urdu",
+  "prompt": "「محل」の意味は？",
+  "answer": "palace",
+  "glosses": {
+   "en": "palace",
+   "ja": "宮殿"
+  },
+  "choices": [
+   "consideration",
+   "phone",
+   "doctor",
+   "palace"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mə.ɦəl/",
+  "verified": true
+ },
+ {
+  "id": "ur-00299",
+  "category": "urdu",
+  "prompt": "「ہتھیار」の意味は？",
+  "answer": "weapon",
+  "glosses": {
+   "en": "weapon",
+   "ja": "武器"
+  },
+  "choices": [
+   "bread",
+   "new",
+   "weapon",
+   "country"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɦə.t̪ʰɪ.jɑːɾ/",
+  "verified": true
+ },
+ {
+  "id": "ur-00300",
+  "category": "urdu",
+  "prompt": "「سیاہ」の意味は？",
+  "answer": "black",
+  "glosses": {
+   "en": "black",
+   "ja": "黒い"
+  },
+  "choices": [
+   "prophet",
+   "salary",
+   "black",
+   "industry"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ur-00301",
+  "category": "urdu",
+  "prompt": "「ساز」の意味は？",
+  "answer": "musical instrument",
+  "glosses": {
+   "en": "musical instrument",
+   "ja": "楽器"
+  },
+  "choices": [
+   "musical instrument",
+   "demand",
+   "government",
+   "sample"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/sɑːz/",
+  "verified": true
+ },
+ {
+  "id": "ur-00302",
+  "category": "urdu",
+  "prompt": "「سڑک」の意味は？",
+  "answer": "road",
+  "glosses": {
+   "en": "road",
+   "ja": "道"
+  },
+  "choices": [
+   "majority",
+   "salt",
+   "road",
+   "pride"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/sə.ɽək/",
+  "verified": true
+ },
+ {
+  "id": "ur-00303",
+  "category": "urdu",
+  "prompt": "「مقیم」の意味は？",
+  "answer": "resident",
+  "glosses": {
+   "en": "resident",
+   "ja": "居住者"
+  },
+  "choices": [
+   "resident",
+   "city",
+   "minute",
+   "death"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mʊ.qiːm/",
+  "verified": true
+ },
+ {
+  "id": "ur-00304",
+  "category": "urdu",
+  "prompt": "「فورا」の意味は？",
+  "answer": "immediately",
+  "glosses": {
+   "en": "immediately",
+   "ja": "ただちに"
+  },
+  "choices": [
+   "country",
+   "immediately",
+   "patience",
+   "daughter"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/fɔː.ɾən/",
+  "verified": true
+ },
+ {
+  "id": "ur-00305",
+  "category": "urdu",
+  "prompt": "「چاندی」の意味は？",
+  "answer": "silver",
+  "glosses": {
+   "en": "silver",
+   "ja": "銀"
+  },
+  "choices": [
+   "lie",
+   "attack",
+   "decision",
+   "silver"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/t͡ʃɑ̃ː.d̪iː/",
+  "verified": true
+ },
+ {
+  "id": "ur-00306",
+  "category": "urdu",
+  "prompt": "「جنم」の意味は？",
+  "answer": "birth",
+  "glosses": {
+   "en": "birth",
+   "ja": "誕生"
+  },
+  "choices": [
+   "speech",
+   "birth",
+   "heavy",
+   "risk"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d͡ʒə.nəm/",
+  "verified": true
+ },
+ {
+  "id": "ur-00307",
+  "category": "urdu",
+  "prompt": "「قرض」の意味は？",
+  "answer": "debt",
+  "glosses": {
+   "en": "debt",
+   "ja": "借金"
+  },
+  "choices": [
+   "debt",
+   "heart",
+   "religious",
+   "rebellion"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/qəɾz/",
+  "verified": true
+ },
+ {
+  "id": "ur-00308",
+  "category": "urdu",
+  "prompt": "「افسر」の意味は？",
+  "answer": "officer",
+  "glosses": {
+   "en": "officer",
+   "ja": "役人"
+  },
+  "choices": [
+   "stroll",
+   "demand",
+   "ease",
+   "officer"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/əf.səɾ/",
+  "verified": true
+ },
+ {
+  "id": "ur-00309",
+  "category": "urdu",
+  "prompt": "「ناول」の意味は？",
+  "answer": "novel",
+  "glosses": {
+   "en": "novel",
+   "ja": "小説"
+  },
+  "choices": [
+   "novel",
+   "weapon",
+   "flower",
+   "book"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/nɑː.ʋɪl/",
+  "verified": true
+ },
+ {
+  "id": "ur-00310",
+  "category": "urdu",
+  "prompt": "「عزم」の意味は？",
+  "answer": "determination",
+  "glosses": {
+   "en": "determination",
+   "ja": "決心"
+  },
+  "choices": [
+   "camp",
+   "determination",
+   "conversation",
+   "concept"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ur-00311",
+  "category": "urdu",
+  "prompt": "「صنعت」の意味は？",
+  "answer": "industry",
+  "glosses": {
+   "en": "industry",
+   "ja": "産業"
+  },
+  "choices": [
+   "understanding",
+   "loss",
+   "industry",
+   "grave"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/sən.(ʔ)ət̪/",
+  "verified": true
+ },
+ {
+  "id": "ur-00312",
+  "category": "urdu",
+  "prompt": "「شکایت」の意味は？",
+  "answer": "complaint",
+  "glosses": {
+   "en": "complaint",
+   "ja": "苦情"
+  },
+  "choices": [
+   "conspiracy",
+   "patient",
+   "celebration",
+   "complaint"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʃɪ.kɑː.jət̪/",
+  "verified": true
+ },
+ {
+  "id": "ur-00313",
+  "category": "urdu",
+  "prompt": "「کلب」の意味は？",
+  "answer": "club",
+  "glosses": {
+   "en": "club",
+   "ja": "クラブ"
+  },
+  "choices": [
+   "club",
+   "noise",
+   "nose",
+   "nawab, nobleman"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kləb/",
+  "verified": true
+ },
+ {
+  "id": "ur-00314",
+  "category": "urdu",
+  "prompt": "「کارڈ」の意味は？",
+  "answer": "card",
+  "glosses": {
+   "en": "card",
+   "ja": "カード"
+  },
+  "choices": [
+   "card",
+   "Monday",
+   "hospital",
+   "crisis"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ur-00315",
+  "category": "urdu",
+  "prompt": "「شہرت」の意味は？",
+  "answer": "fame",
+  "glosses": {
+   "en": "fame",
+   "ja": "名声"
+  },
+  "choices": [
+   "fame",
+   "round",
+   "human being",
+   "approximately"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʃʊɦ.ɾət̪/",
+  "verified": true
+ },
+ {
+  "id": "ur-00316",
+  "category": "urdu",
+  "prompt": "「بچپن」の意味は？",
+  "answer": "childhood",
+  "glosses": {
+   "en": "childhood",
+   "ja": "子供時代、幼少期"
+  },
+  "choices": [
+   "birth",
+   "cricket",
+   "childhood",
+   "accusation"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bət͡ʃ.pən/",
+  "verified": true
+ },
+ {
+  "id": "ur-00317",
+  "category": "urdu",
+  "prompt": "「اصلاح」の意味は？",
+  "answer": "improvement",
+  "glosses": {
+   "en": "improvement",
+   "ja": "改良"
+  },
+  "choices": [
+   "side",
+   "resistance",
+   "improvement",
+   "command"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɪs.lɑːɦ/",
+  "verified": true
+ },
+ {
+  "id": "ur-00318",
+  "category": "urdu",
+  "prompt": "「سازش」の意味は？",
+  "answer": "conspiracy",
+  "glosses": {
+   "en": "conspiracy",
+   "ja": "陰謀"
+  },
+  "choices": [
+   "conspiracy",
+   "revelation",
+   "riot",
+   "fame"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/sɑː.zɪʃ/",
+  "verified": true
+ },
+ {
+  "id": "ur-00319",
+  "category": "urdu",
+  "prompt": "「ضمانت」の意味は？",
+  "answer": "guarantee",
+  "glosses": {
+   "en": "guarantee",
+   "ja": "保証、担保"
+  },
+  "choices": [
+   "personality",
+   "approximately",
+   "guarantee",
+   "office"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/zə.mɑː.nət̪/",
+  "verified": true
+ },
+ {
+  "id": "ur-00320",
+  "category": "urdu",
+  "prompt": "「رہائش」の意味は？",
+  "answer": "residence",
+  "glosses": {
+   "en": "residence",
+   "ja": "住居"
+  },
+  "choices": [
+   "solution",
+   "poet",
+   "residence",
+   "army"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɾə.ɦɑː.ɪʃ/",
+  "verified": true
+ },
+ {
+  "id": "ur-00321",
+  "category": "urdu",
+  "prompt": "「اسٹیڈیم」の意味は？",
+  "answer": "stadium",
+  "glosses": {
+   "en": "stadium",
+   "ja": "競技場"
+  },
+  "choices": [
+   "however",
+   "stadium",
+   "accusation",
+   "breath"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/(ɪ)sʈeː.ɖɪ.jəm/",
+  "verified": true
+ },
+ {
+  "id": "ur-00322",
+  "category": "urdu",
+  "prompt": "「سادہ」の意味は？",
+  "answer": "simple",
+  "glosses": {
+   "en": "simple",
+   "ja": "簡単な、質素な"
+  },
+  "choices": [
+   "resident",
+   "simple",
+   "state",
+   "formation"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/sɑː.d̪ə/",
+  "verified": true
+ },
+ {
+  "id": "ur-00323",
+  "category": "urdu",
+  "prompt": "「تجربہ」の意味は？",
+  "answer": "experience",
+  "glosses": {
+   "en": "experience",
+   "ja": "経験"
+  },
+  "choices": [
+   "astonishment",
+   "experience",
+   "salt",
+   "month"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/t̪əd͡ʒ.ɾɪ.bɑ(ː)/",
+  "verified": true
+ },
+ {
+  "id": "ur-00324",
+  "category": "urdu",
+  "prompt": "「تجزیہ」の意味は？",
+  "answer": "analysis",
+  "glosses": {
+   "en": "analysis",
+   "ja": "分析"
+  },
+  "choices": [
+   "village",
+   "house",
+   "law",
+   "analysis"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/t̪əd͡ʒ.zɪ.jɑː/",
+  "verified": true
+ },
+ {
+  "id": "ur-00325",
+  "category": "urdu",
+  "prompt": "「خرچ」の意味は？",
+  "answer": "expenditure",
+  "glosses": {
+   "en": "expenditure",
+   "ja": "支出"
+  },
+  "choices": [
+   "active",
+   "expenditure",
+   "authority",
+   "fundamental"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/xəɾt͡ʃ/",
+  "verified": true
+ },
+ {
+  "id": "ur-00326",
+  "category": "urdu",
+  "prompt": "「انکشاف」の意味は？",
+  "answer": "revelation",
+  "glosses": {
+   "en": "revelation",
+   "ja": "発覚"
+  },
+  "choices": [
+   "illness",
+   "astonishment",
+   "corpse",
+   "revelation"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɪn.kɪ.ʃɑːf/",
+  "verified": true
+ },
+ {
+  "id": "ur-00327",
+  "category": "urdu",
+  "prompt": "「تفسیر」の意味は？",
+  "answer": "commentary",
+  "glosses": {
+   "en": "commentary",
+   "ja": "解説"
+  },
+  "choices": [
+   "Sun",
+   "gas",
+   "silence",
+   "commentary"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/t̪əf.siːɾ/",
+  "verified": true
+ },
+ {
+  "id": "ur-00328",
+  "category": "urdu",
+  "prompt": "「خلیفہ」の意味は？",
+  "answer": "caliph",
+  "glosses": {
+   "en": "caliph",
+   "ja": "カリフ"
+  },
+  "choices": [
+   "caliph",
+   "democratic",
+   "participation",
+   "bridge"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/xə.liː.fɑ(ː)/",
+  "verified": true
+ },
+ {
+  "id": "ur-00329",
+  "category": "urdu",
+  "prompt": "「ارشاد」の意味は？",
+  "answer": "command",
+  "glosses": {
+   "en": "command",
+   "ja": "命令"
+  },
+  "choices": [
+   "command",
+   "personality",
+   "doctor",
+   "why"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ur-00330",
+  "category": "urdu",
+  "prompt": "「خلافت」の意味は？",
+  "answer": "caliphate",
+  "glosses": {
+   "en": "caliphate",
+   "ja": "カリフの地位"
+  },
+  "choices": [
+   "separation",
+   "happiness",
+   "central",
+   "caliphate"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/xɪ.lɑː.fət̪/",
+  "verified": true
+ },
+ {
+  "id": "ur-00331",
+  "category": "urdu",
+  "prompt": "「امداد」の意味は？",
+  "answer": "aid",
+  "glosses": {
+   "en": "aid",
+   "ja": "援助"
+  },
+  "choices": [
+   "humanity",
+   "Friday",
+   "jail",
+   "aid"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɪm.d̪ɑːd̪/",
+  "verified": true
+ },
+ {
+  "id": "ur-00332",
+  "category": "urdu",
+  "prompt": "「توہین」の意味は？",
+  "answer": "insult",
+  "glosses": {
+   "en": "insult",
+   "ja": "侮辱"
+  },
+  "choices": [
+   "game",
+   "participation",
+   "insult",
+   "stroll"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/t̪ɔː.ɦiːn/",
+  "verified": true
+ },
+ {
+  "id": "ur-00333",
+  "category": "urdu",
+  "prompt": "「جلدی」の意味は？",
+  "answer": "quickly",
+  "glosses": {
+   "en": "quickly",
+   "ja": "急いで"
+  },
+  "choices": [
+   "heavy",
+   "cup",
+   "quickly",
+   "cruelty, injustice"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ur-00334",
+  "category": "urdu",
+  "prompt": "「گوشت」の意味は？",
+  "answer": "meat",
+  "glosses": {
+   "en": "meat",
+   "ja": "肉"
+  },
+  "choices": [
+   "Monday",
+   "meat",
+   "verse",
+   "cruelty, injustice"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɡoːʃt̪/",
+  "verified": true
+ },
+ {
+  "id": "ur-00335",
+  "category": "urdu",
+  "prompt": "「امتحان」の意味は？",
+  "answer": "exam",
+  "glosses": {
+   "en": "exam",
+   "ja": "試験"
+  },
+  "choices": [
+   "exam",
+   "joint",
+   "doubt",
+   "journalist"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɪm.t̪ɪ.ɦɑːn/",
+  "verified": true
+ },
+ {
+  "id": "ur-00336",
+  "category": "urdu",
+  "prompt": "「گلی」の意味は？",
+  "answer": "alley",
+  "glosses": {
+   "en": "alley",
+   "ja": "路地"
+  },
+  "choices": [
+   "animal",
+   "alley",
+   "necessity",
+   "necessary"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɡə.liː/",
+  "verified": true
+ },
+ {
+  "id": "ur-00337",
+  "category": "urdu",
+  "prompt": "「غصہ」の意味は？",
+  "answer": "anger",
+  "glosses": {
+   "en": "anger",
+   "ja": "怒り"
+  },
+  "choices": [
+   "translation",
+   "anger",
+   "doubt",
+   "son"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ur-00338",
+  "category": "urdu",
+  "prompt": "「محترمہ」の意味は？",
+  "answer": "madam",
+  "glosses": {
+   "en": "madam",
+   "ja": "女性への敬称"
+  },
+  "choices": [
+   "madam",
+   "unknown",
+   "east",
+   "corpse"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mʊɦ.t̪əɾ.mɑː/",
+  "verified": true
+ },
+ {
+  "id": "ur-00339",
+  "category": "urdu",
+  "prompt": "「پہاڑ」の意味は？",
+  "answer": "mountain",
+  "glosses": {
+   "en": "mountain",
+   "ja": "山"
+  },
+  "choices": [
+   "the public",
+   "mountain",
+   "rather",
+   "complaint"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pə.ɦɑːɽ/",
+  "verified": true
+ },
+ {
+  "id": "ur-00340",
+  "category": "urdu",
+  "prompt": "「جہنم」の意味は？",
+  "answer": "hell",
+  "glosses": {
+   "en": "hell",
+   "ja": "地獄"
+  },
+  "choices": [
+   "grave",
+   "hell",
+   "aid",
+   "night"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d͡ʒə.ɦən.nəm/",
+  "verified": true
+ },
+ {
+  "id": "ur-00341",
+  "category": "urdu",
+  "prompt": "「مہمان」の意味は？",
+  "answer": "guest",
+  "glosses": {
+   "en": "guest",
+   "ja": "客"
+  },
+  "choices": [
+   "guest",
+   "crime",
+   "to go",
+   "convenience"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/meːɦ.mɑːn/",
+  "verified": true
+ },
+ {
+  "id": "ur-00342",
+  "category": "urdu",
+  "prompt": "「درس」の意味は？",
+  "answer": "lesson",
+  "glosses": {
+   "en": "lesson",
+   "ja": "授業"
+  },
+  "choices": [
+   "federation",
+   "advice",
+   "wine",
+   "lesson"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d̪əɾs/",
+  "verified": true
+ },
+ {
+  "id": "ur-00343",
+  "category": "urdu",
+  "prompt": "「گیس」の意味は？",
+  "answer": "gas",
+  "glosses": {
+   "en": "gas",
+   "ja": "ガス"
+  },
+  "choices": [
+   "heavy",
+   "valley",
+   "gas",
+   "Friday"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɡæːs/",
+  "verified": true
+ },
+ {
+  "id": "ur-00344",
+  "category": "urdu",
+  "prompt": "「اعتراض」の意味は？",
+  "answer": "objection",
+  "glosses": {
+   "en": "objection",
+   "ja": "異議"
+  },
+  "choices": [
+   "objection",
+   "time (occurrence)",
+   "burial",
+   "poor"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɪʔ.t̪ɪ.ɾɑːz/",
+  "verified": true
+ },
+ {
+  "id": "ur-00345",
+  "category": "urdu",
+  "prompt": "「استقبال」の意味は？",
+  "answer": "welcome",
+  "glosses": {
+   "en": "welcome",
+   "ja": "歓迎"
+  },
+  "choices": [
+   "welcome",
+   "discussion",
+   "captain",
+   "boat"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɪs.t̪ɪq.bɑːl/",
+  "verified": true
+ },
+ {
+  "id": "ur-00346",
+  "category": "urdu",
+  "prompt": "「پیغمبر」の意味は？",
+  "answer": "prophet",
+  "glosses": {
+   "en": "prophet",
+   "ja": "預言者"
+  },
+  "choices": [
+   "happiness",
+   "possible",
+   "prophet",
+   "forest"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pɛː.ɣəm.bəɾ/",
+  "verified": true
+ },
+ {
+  "id": "ur-00347",
+  "category": "urdu",
+  "prompt": "「روٹی」の意味は？",
+  "answer": "bread",
+  "glosses": {
+   "en": "bread",
+   "ja": "パン"
+  },
+  "choices": [
+   "evident",
+   "ease",
+   "novel",
+   "bread"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɾoː.ʈiː/",
+  "verified": true
+ },
+ {
+  "id": "ur-00348",
+  "category": "urdu",
+  "prompt": "「دستخط」の意味は？",
+  "answer": "signature",
+  "glosses": {
+   "en": "signature",
+   "ja": "署名"
+  },
+  "choices": [
+   "prophet",
+   "commentary",
+   "signature",
+   "opinion"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d̪əst̪.xət̪/",
+  "verified": true
+ },
+ {
+  "id": "ur-00349",
+  "category": "urdu",
+  "prompt": "「سپر」の意味は？",
+  "answer": "a shield",
+  "glosses": {
+   "en": "a shield",
+   "ja": "盾"
+  },
+  "choices": [
+   "a shield",
+   "demonstration",
+   "school",
+   "manner"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/sɪ.pəɾ/",
+  "verified": true
+ },
+ {
+  "id": "ur-00350",
+  "category": "urdu",
+  "prompt": "「بھوک」の意味は？",
+  "answer": "hunger",
+  "glosses": {
+   "en": "hunger",
+   "ja": "空腹"
+  },
+  "choices": [
+   "blow",
+   "wide",
+   "mistake",
+   "hunger"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bʱuːk/",
+  "verified": true
+ },
+ {
+  "id": "ur-00351",
+  "category": "urdu",
+  "prompt": "「نمونہ」の意味は？",
+  "answer": "sample",
+  "glosses": {
+   "en": "sample",
+   "ja": "見本"
+  },
+  "choices": [
+   "sample",
+   "therefore",
+   "heavy",
+   "animal"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/nə.muː.nᵊ/",
+  "verified": true
+ },
+ {
+  "id": "ur-00352",
+  "category": "urdu",
+  "prompt": "「سانس」の意味は？",
+  "answer": "breath",
+  "glosses": {
+   "en": "breath",
+   "ja": "息"
+  },
+  "choices": [
+   "joke",
+   "Sun",
+   "wide",
+   "breath"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/sɑ̃ːs/",
+  "verified": true
+ },
+ {
+  "id": "ur-00353",
+  "category": "urdu",
+  "prompt": "「کمپیوٹر」の意味は？",
+  "answer": "computer",
+  "glosses": {
+   "en": "computer",
+   "ja": "コンピューター"
+  },
+  "choices": [
+   "computer",
+   "explosion",
+   "office",
+   "state"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kəm.pjuː.ʈəɾ/",
+  "verified": true
+ },
+ {
+  "id": "ur-00354",
+  "category": "urdu",
+  "prompt": "「حرارت」の意味は？",
+  "answer": "heat",
+  "glosses": {
+   "en": "heat",
+   "ja": "熱"
+  },
+  "choices": [
+   "conclusion",
+   "expression",
+   "promise",
+   "heat"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɦə.ɾɑː.ɾət̪/",
+  "verified": true
+ },
+ {
+  "id": "ur-00355",
+  "category": "urdu",
+  "prompt": "「خصوصا」の意味は？",
+  "answer": "especially",
+  "glosses": {
+   "en": "especially",
+   "ja": "特に"
+  },
+  "choices": [
+   "stroll",
+   "breath",
+   "especially",
+   "stone"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/xʊ.suː.sən/",
+  "verified": true
+ },
+ {
+  "id": "ur-00356",
+  "category": "urdu",
+  "prompt": "「سوار」の意味は？",
+  "answer": "rider",
+  "glosses": {
+   "en": "rider",
+   "ja": "乗り手"
+  },
+  "choices": [
+   "ill, sick",
+   "electricity",
+   "revelation",
+   "rider"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ur-00357",
+  "category": "urdu",
+  "prompt": "「امتیاز」の意味は？",
+  "answer": "distinction",
+  "glosses": {
+   "en": "distinction",
+   "ja": "区別"
+  },
+  "choices": [
+   "therefore",
+   "distinction",
+   "captain",
+   "maybe"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ur-00358",
+  "category": "urdu",
+  "prompt": "「اسٹیشن」の意味は？",
+  "answer": "station",
+  "glosses": {
+   "en": "station",
+   "ja": "駅"
+  },
+  "choices": [
+   "hell",
+   "station",
+   "concern",
+   "resistance"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɪs.ʈeː.ʃən/",
+  "verified": true
+ },
+ {
+  "id": "ur-00359",
+  "category": "urdu",
+  "prompt": "「مجرم」の意味は？",
+  "answer": "criminal",
+  "glosses": {
+   "en": "criminal",
+   "ja": "犯人"
+  },
+  "choices": [
+   "study",
+   "noise",
+   "fear",
+   "criminal"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mʊd͡ʒ.ɾɪm/",
+  "verified": true
+ },
+ {
+  "id": "ur-00360",
+  "category": "urdu",
+  "prompt": "「سینیٹر」の意味は？",
+  "answer": "senator",
+  "glosses": {
+   "en": "senator",
+   "ja": "上院議員"
+  },
+  "choices": [
+   "lie",
+   "loss",
+   "direction",
+   "senator"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/siː.neː.ʈəɾ/",
+  "verified": true
+ },
+ {
+  "id": "ur-00361",
+  "category": "urdu",
+  "prompt": "「ثقافت」の意味は？",
+  "answer": "culture",
+  "glosses": {
+   "en": "culture",
+   "ja": "文化"
+  },
+  "choices": [
+   "club",
+   "culture",
+   "aerial",
+   "accusation"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/sə.qɑː.fət̪/",
+  "verified": true
+ },
+ {
+  "id": "ur-00362",
+  "category": "urdu",
+  "prompt": "「جمہوریہ」の意味は？",
+  "answer": "republic",
+  "glosses": {
+   "en": "republic",
+   "ja": "共和国"
+  },
+  "choices": [
+   "wood",
+   "republic",
+   "resistance",
+   "conversation"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d͡ʒəm.ɦuː.ɾɪ.jə/",
+  "verified": true
+ },
+ {
+  "id": "ur-00363",
+  "category": "urdu",
+  "prompt": "「نامعلوم」の意味は？",
+  "answer": "unknown",
+  "glosses": {
+   "en": "unknown",
+   "ja": "不明な"
+  },
+  "choices": [
+   "unknown",
+   "amount",
+   "author",
+   "strength"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ur-00364",
+  "category": "urdu",
+  "prompt": "「یقینا」の意味は？",
+  "answer": "certainly",
+  "glosses": {
+   "en": "certainly",
+   "ja": "確かに"
+  },
+  "choices": [
+   "burial",
+   "energy",
+   "the public",
+   "certainly"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/jə.qiː.nən/",
+  "verified": true
+ },
+ {
+  "id": "ur-00365",
+  "category": "urdu",
+  "prompt": "「نعمت」の意味は？",
+  "answer": "blessing",
+  "glosses": {
+   "en": "blessing",
+   "ja": "恵み"
+  },
+  "choices": [
+   "quiet",
+   "tree",
+   "blessing",
+   "trade"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/nɪ.(ʔ)mət̪/",
+  "verified": true
+ },
+ {
+  "id": "ur-00366",
+  "category": "urdu",
+  "prompt": "「مصنف」の意味は？",
+  "answer": "author",
+  "glosses": {
+   "en": "author",
+   "ja": "著者"
+  },
+  "choices": [
+   "author",
+   "peace",
+   "study",
+   "fear"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mʊ.sən.nɪf/",
+  "verified": true
+ },
+ {
+  "id": "ur-00367",
+  "category": "urdu",
+  "prompt": "「ڈیرہ」の意味は？",
+  "answer": "camp",
+  "glosses": {
+   "en": "camp",
+   "ja": "野営地"
+  },
+  "choices": [
+   "camp",
+   "character",
+   "business",
+   "imam"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɖeː.ɾɑ(ː)/",
+  "verified": true
+ },
+ {
+  "id": "ur-00368",
+  "category": "urdu",
+  "prompt": "「بغاوت」の意味は？",
+  "answer": "rebellion",
+  "glosses": {
+   "en": "rebellion",
+   "ja": "反乱"
+  },
+  "choices": [
+   "rebellion",
+   "welcome",
+   "letter",
+   "upbringing"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bə.ɣɑː.ʋət̪/",
+  "verified": true
+ },
+ {
+  "id": "ur-00369",
+  "category": "urdu",
+  "prompt": "「جنازہ」の意味は？",
+  "answer": "funeral",
+  "glosses": {
+   "en": "funeral",
+   "ja": "葬式"
+  },
+  "choices": [
+   "east",
+   "funeral",
+   "translation",
+   "bomb"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d͡ʒə.nɑː.zɑ(ː)/",
+  "verified": true
+ },
+ {
+  "id": "ur-00370",
+  "category": "urdu",
+  "prompt": "「شاندار」の意味は？",
+  "answer": "splendid",
+  "glosses": {
+   "en": "splendid",
+   "ja": "素晴らしい"
+  },
+  "choices": [
+   "splendid",
+   "sample",
+   "noise",
+   "corpse"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ur-00371",
+  "category": "urdu",
+  "prompt": "「نیکی」の意味は？",
+  "answer": "good deed",
+  "glosses": {
+   "en": "good deed",
+   "ja": "善行"
+  },
+  "choices": [
+   "childhood",
+   "patient",
+   "good deed",
+   "gas"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ur-00372",
+  "category": "urdu",
+  "prompt": "「مزاحمت」の意味は？",
+  "answer": "resistance",
+  "glosses": {
+   "en": "resistance",
+   "ja": "抵抗"
+  },
+  "choices": [
+   "girl",
+   "resistance",
+   "mufti",
+   "corpse"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mʊ.zɑː.ɦə.mət̪/",
+  "verified": true
+ },
+ {
+  "id": "ur-00373",
+  "category": "urdu",
+  "prompt": "「صحافت」の意味は？",
+  "answer": "journalism",
+  "glosses": {
+   "en": "journalism",
+   "ja": "ジャーナリズム"
+  },
+  "choices": [
+   "journalism",
+   "worship",
+   "fame",
+   "special"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ur-00374",
+  "category": "urdu",
+  "prompt": "「نمائندگی」の意味は？",
+  "answer": "representation",
+  "glosses": {
+   "en": "representation",
+   "ja": "代表、代理"
+  },
+  "choices": [
+   "condemnation",
+   "year",
+   "representation",
+   "answer"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/nʊ.mɑː.ɪn.d̪ə.ɡiː/",
+  "verified": true
+ },
+ {
+  "id": "ur-00375",
+  "category": "urdu",
+  "prompt": "「بانی」の意味は？",
+  "answer": "founder",
+  "glosses": {
+   "en": "founder",
+   "ja": "創設者"
+  },
+  "choices": [
+   "democracy",
+   "thing",
+   "founder",
+   "corpse"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bɑː.niː/",
+  "verified": true
+ },
+ {
+  "id": "ur-00376",
+  "category": "urdu",
+  "prompt": "「تنخواہ」の意味は？",
+  "answer": "salary",
+  "glosses": {
+   "en": "salary",
+   "ja": "給料"
+  },
+  "choices": [
+   "peace",
+   "demonstration",
+   "time (occurrence)",
+   "salary"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ur-00377",
+  "category": "urdu",
+  "prompt": "「منظوری」の意味は？",
+  "answer": "approval",
+  "glosses": {
+   "en": "approval",
+   "ja": "承認、賛成"
+  },
+  "choices": [
+   "ticket",
+   "however",
+   "approval",
+   "authority"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mən.zuː.ɾiː/",
+  "verified": true
+ },
+ {
+  "id": "ur-00378",
+  "category": "urdu",
+  "prompt": "「آسانی」の意味は？",
+  "answer": "ease",
+  "glosses": {
+   "en": "ease",
+   "ja": "容易さ"
+  },
+  "choices": [
+   "ease",
+   "burial",
+   "game",
+   "newspaper"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɑː.sɑː.niː/",
+  "verified": true
+ },
+ {
+  "id": "ur-00379",
+  "category": "urdu",
+  "prompt": "「جہاد」の意味は？",
+  "answer": "jihad",
+  "glosses": {
+   "en": "jihad",
+   "ja": "聖戦"
+  },
+  "choices": [
+   "grave",
+   "humanity",
+   "jihad",
+   "unknown"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d͡ʒɪ.ɦɑːd̪/",
+  "verified": true
+ },
+ {
+  "id": "ur-00380",
+  "category": "urdu",
+  "prompt": "「بیمار」の意味は？",
+  "answer": "ill, sick",
+  "glosses": {
+   "en": "ill, sick",
+   "ja": "病気の"
+  },
+  "choices": [
+   "explosion",
+   "end",
+   "ill, sick",
+   "personality"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/biː.mɑːɾ/",
+  "verified": true
+ },
+ {
+  "id": "ur-00381",
+  "category": "urdu",
+  "prompt": "「سرور」の意味は？",
+  "answer": "joy",
+  "glosses": {
+   "en": "joy",
+   "ja": "喜び"
+  },
+  "choices": [
+   "revolution",
+   "blessing",
+   "joy",
+   "lesson"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/sʊ.ɾuːɾ/",
+  "verified": true
+ },
+ {
+  "id": "ur-00382",
+  "category": "urdu",
+  "prompt": "「ترمیم」の意味は？",
+  "answer": "amendment",
+  "glosses": {
+   "en": "amendment",
+   "ja": "修正"
+  },
+  "choices": [
+   "revolution",
+   "cup",
+   "amendment",
+   "hospital"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/t̪əɾ.miːm/",
+  "verified": true
+ },
+ {
+  "id": "ur-00383",
+  "category": "urdu",
+  "prompt": "「نواب」の意味は？",
+  "answer": "nawab, nobleman",
+  "glosses": {
+   "en": "nawab, nobleman",
+   "ja": "領主"
+  },
+  "choices": [
+   "order",
+   "translation",
+   "nawab, nobleman",
+   "acceptance"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ur-00384",
+  "category": "urdu",
+  "prompt": "「اشاعت」の意味は？",
+  "answer": "publication",
+  "glosses": {
+   "en": "publication",
+   "ja": "出版"
+  },
+  "choices": [
+   "central",
+   "publication",
+   "economy",
+   "son"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɪ.ʃɑː.(ʔ)ət̪/",
+  "verified": true
+ },
+ {
+  "id": "ur-00385",
+  "category": "urdu",
+  "prompt": "「دہی」の意味は？",
+  "answer": "yogurt",
+  "glosses": {
+   "en": "yogurt",
+   "ja": "ヨーグルト"
+  },
+  "choices": [
+   "yogurt",
+   "loss",
+   "lesson",
+   "health"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d̪ə.ɦiː/",
+  "verified": true
+ },
+ {
+  "id": "ur-00386",
+  "category": "urdu",
+  "prompt": "「لکڑی」の意味は？",
+  "answer": "wood",
+  "glosses": {
+   "en": "wood",
+   "ja": "木材"
+  },
+  "choices": [
+   "wood",
+   "blow",
+   "new",
+   "sin"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/lək.ɽiː/",
+  "verified": true
+ },
+ {
+  "id": "ur-00387",
+  "category": "urdu",
+  "prompt": "「ہوائی」の意味は？",
+  "answer": "aerial",
+  "glosses": {
+   "en": "aerial",
+   "ja": "航空の"
+  },
+  "choices": [
+   "house",
+   "amount",
+   "promise",
+   "aerial"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɦə.ʋɑː.iː/",
+  "verified": true
+ },
+ {
+  "id": "ur-00388",
+  "category": "urdu",
+  "prompt": "「کشتی」の意味は？",
+  "answer": "boat",
+  "glosses": {
+   "en": "boat",
+   "ja": "船"
+  },
+  "choices": [
+   "boat",
+   "criminal",
+   "heavy",
+   "business"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kəʃ.t̪iː/",
+  "verified": true
+ },
+ {
+  "id": "ur-00389",
+  "category": "urdu",
+  "prompt": "「شمال」の意味は？",
+  "answer": "north",
+  "glosses": {
+   "en": "north",
+   "ja": "北"
+  },
+  "choices": [
+   "death",
+   "pride",
+   "north",
+   "throne"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʃʊ.mɑːl/",
+  "verified": true
+ },
+ {
+  "id": "ur-00390",
+  "category": "urdu",
+  "prompt": "「گائے」の意味は？",
+  "answer": "cow",
+  "glosses": {
+   "en": "cow",
+   "ja": "牛"
+  },
+  "choices": [
+   "time (occurrence)",
+   "evident",
+   "cow",
+   "culture"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɡɑː.eː/",
+  "verified": true
+ },
+ {
+  "id": "ur-00391",
+  "category": "urdu",
+  "prompt": "「نمک」の意味は？",
+  "answer": "salt",
+  "glosses": {
+   "en": "salt",
+   "ja": "塩"
+  },
+  "choices": [
+   "expression",
+   "step",
+   "salt",
+   "birth"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/nə.mək/",
+  "verified": true
+ },
+ {
+  "id": "ur-00392",
+  "category": "urdu",
+  "prompt": "「جنگل」の意味は？",
+  "answer": "forest",
+  "glosses": {
+   "en": "forest",
+   "ja": "森"
+  },
+  "choices": [
+   "forest",
+   "valley",
+   "law",
+   "boat"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d͡ʒəŋ.ɡəl/",
+  "verified": true
+ },
+ {
+  "id": "ur-00393",
+  "category": "urdu",
+  "prompt": "「قلب」の意味は？",
+  "answer": "heart",
+  "glosses": {
+   "en": "heart",
+   "ja": "心、心臓"
+  },
+  "choices": [
+   "heart",
+   "joy",
+   "loss",
+   "salary"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/qəlb/",
+  "verified": true
+ },
+ {
+  "id": "ur-00394",
+  "category": "urdu",
+  "prompt": "「موسیقی」の意味は？",
+  "answer": "music",
+  "glosses": {
+   "en": "music",
+   "ja": "音楽"
+  },
+  "choices": [
+   "central",
+   "music",
+   "trade",
+   "control"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/muː.siː.qiː/",
+  "verified": true
+ },
+ {
+  "id": "ur-00395",
+  "category": "urdu",
+  "prompt": "「سیر」の意味は？",
+  "answer": "stroll",
+  "glosses": {
+   "en": "stroll",
+   "ja": "散策"
+  },
+  "choices": [
+   "limit",
+   "mile",
+   "stroll",
+   "cruelty, injustice"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/sɛːɾ/",
+  "verified": true
+ },
+ {
+  "id": "ur-00396",
+  "category": "urdu",
+  "prompt": "「تخت」の意味は？",
+  "answer": "throne",
+  "glosses": {
+   "en": "throne",
+   "ja": "玉座"
+  },
+  "choices": [
+   "lack",
+   "riot",
+   "throne",
+   "girl"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/t̪əxt̪/",
+  "verified": true
+ },
+ {
+  "id": "ur-00397",
+  "category": "urdu",
+  "prompt": "「گول」の意味は？",
+  "answer": "round",
+  "glosses": {
+   "en": "round",
+   "ja": "丸い"
+  },
+  "choices": [
+   "soul",
+   "rider",
+   "round",
+   "journalism"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɡoːl/",
+  "verified": true
+ },
+ {
+  "id": "ur-00398",
+  "category": "urdu",
+  "prompt": "「فعل」の意味は？",
+  "answer": "action",
+  "glosses": {
+   "en": "action",
+   "ja": "行為"
+  },
+  "choices": [
+   "action",
+   "wood",
+   "slogan",
+   "institution"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/feː(ʔ)l/",
+  "verified": true
+ },
+ {
+  "id": "ur-00399",
+  "category": "urdu",
+  "prompt": "「لاش」の意味は？",
+  "answer": "corpse",
+  "glosses": {
+   "en": "corpse",
+   "ja": "死体"
+  },
+  "choices": [
+   "corpse",
+   "illness",
+   "manner",
+   "ethical"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/lɑːʃ/",
+  "verified": true
+ },
+ {
+  "id": "ur-00400",
+  "category": "urdu",
+  "prompt": "「جشن」の意味は？",
+  "answer": "celebration",
+  "glosses": {
+   "en": "celebration",
+   "ja": "祝祭"
+  },
+  "choices": [
+   "journalism",
+   "game",
+   "celebration",
+   "state"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d͡ʒəʃ(.ə)n/",
+  "verified": true
+ },
+ {
+  "id": "ur-00401",
+  "category": "urdu",
+  "prompt": "「قاتل」の意味は？",
+  "answer": "killer",
+  "glosses": {
+   "en": "killer",
+   "ja": "殺人者"
+  },
+  "choices": [
+   "worship",
+   "killer",
+   "childhood",
+   "ever, sometime"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/qɑː.t̪ɪl/",
+  "verified": true
+ },
+ {
+  "id": "ur-00402",
+  "category": "urdu",
+  "prompt": "「سفارت」の意味は？",
+  "answer": "embassy",
+  "glosses": {
+   "en": "embassy",
+   "ja": "大使館"
+  },
+  "choices": [
+   "to go",
+   "economy",
+   "federation",
+   "embassy"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/sɪ.fɑː.ɾət̪/",
+  "verified": true
+ },
+ {
+  "id": "ur-00403",
+  "category": "urdu",
+  "prompt": "「تاج」の意味は？",
+  "answer": "crown",
+  "glosses": {
+   "en": "crown",
+   "ja": "王冠"
+  },
+  "choices": [
+   "crown",
+   "protection",
+   "majority",
+   "ethical"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/t̪ɑːd͡ʒ/",
+  "verified": true
+ },
+ {
+  "id": "ur-00404",
+  "category": "urdu",
+  "prompt": "「خطرناک」の意味は？",
+  "answer": "dangerous",
+  "glosses": {
+   "en": "dangerous",
+   "ja": "危険な"
+  },
+  "choices": [
+   "use",
+   "dangerous",
+   "conspiracy",
+   "alley"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ur-00405",
+  "category": "urdu",
+  "prompt": "「سیرت」の意味は？",
+  "answer": "character",
+  "glosses": {
+   "en": "character",
+   "ja": "性格"
+  },
+  "choices": [
+   "scientific",
+   "to come",
+   "character",
+   "feeling"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/siː.ɾət̪/",
+  "verified": true
+ },
+ {
+  "id": "ur-00406",
+  "category": "urdu",
+  "prompt": "「اغوا」の意味は？",
+  "answer": "abduction",
+  "glosses": {
+   "en": "abduction",
+   "ja": "誘拐"
+  },
+  "choices": [
+   "new",
+   "famous",
+   "weight",
+   "abduction"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɪɣ.ʋɑː/",
+  "verified": true
+ },
+ {
+  "id": "ur-00407",
+  "category": "urdu",
+  "prompt": "「سیاستدان」の意味は？",
+  "answer": "politician",
+  "glosses": {
+   "en": "politician",
+   "ja": "政治家"
+  },
+  "choices": [
+   "character",
+   "captain",
+   "politician",
+   "husband"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/sɪ.jɑː.sət̪.d̪ɑːn/",
+  "verified": true
+ },
+ {
+  "id": "ur-00408",
+  "category": "urdu",
+  "prompt": "「عموما」の意味は？",
+  "answer": "generally",
+  "glosses": {
+   "en": "generally",
+   "ja": "普通は"
+  },
+  "choices": [
+   "generally",
+   "ear",
+   "book",
+   "cricket"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʊ.muː.mən/",
+  "verified": true
+ },
+ {
+  "id": "ur-00409",
+  "category": "urdu",
+  "prompt": "「مذاق」の意味は？",
+  "answer": "joke",
+  "glosses": {
+   "en": "joke",
+   "ja": "冗談"
+  },
+  "choices": [
+   "caliph",
+   "joke",
+   "alley",
+   "salt"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mə.zɑːq/",
+  "verified": true
+ },
+ {
+  "id": "ur-00410",
+  "category": "urdu",
+  "prompt": "「وفاق」の意味は？",
+  "answer": "federation",
+  "glosses": {
+   "en": "federation",
+   "ja": "連邦"
+  },
+  "choices": [
+   "group",
+   "patience",
+   "importance",
+   "federation"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/wə.fɑːq/",
+  "verified": true
+ },
+ {
+  "id": "ur-00411",
+  "category": "urdu",
+  "prompt": "「دفن」の意味は？",
+  "answer": "burial",
+  "glosses": {
+   "en": "burial",
+   "ja": "埋葬"
+  },
+  "choices": [
+   "insult",
+   "belly",
+   "burial",
+   "answer"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d̪əfn/",
+  "verified": true
+ },
+ {
+  "id": "ur-00412",
+  "category": "urdu",
+  "prompt": "「بحران」の意味は？",
+  "answer": "crisis",
+  "glosses": {
+   "en": "crisis",
+   "ja": "危機"
+  },
+  "choices": [
+   "justice",
+   "risk",
+   "marriage",
+   "crisis"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/boːɦ.ɾɑːn/",
+  "verified": true
+ },
+ {
+  "id": "ur-00413",
+  "category": "urdu",
+  "prompt": "「علیحدگی」の意味は？",
+  "answer": "separation",
+  "glosses": {
+   "en": "separation",
+   "ja": "分離"
+  },
+  "choices": [
+   "separation",
+   "discussion",
+   "why",
+   "mile"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/(ʔ)ə.lɛː.ɦɪ.d̪ə.ɡiː/",
+  "verified": true
+ },
+ {
+  "id": "ur-00414",
+  "category": "urdu",
+  "prompt": "「فساد」の意味は？",
+  "answer": "riot",
+  "glosses": {
+   "en": "riot",
+   "ja": "暴動"
+  },
+  "choices": [
+   "Friday",
+   "high",
+   "riot",
+   "general"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/fə.sɑːd̪/",
+  "verified": true
+ },
+ {
+  "id": "ur-00415",
+  "category": "urdu",
+  "prompt": "「مہاجر」の意味は？",
+  "answer": "migrant",
+  "glosses": {
+   "en": "migrant",
+   "ja": "移民"
+  },
+  "choices": [
+   "bridge",
+   "migrant",
+   "known",
+   "scientific"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mʊ.ɦɑː.d͡ʒɪɾ/",
+  "verified": true
+ },
+ {
+  "id": "ur-00416",
+  "category": "urdu",
+  "prompt": "「سرگرم」の意味は？",
+  "answer": "active",
+  "glosses": {
+   "en": "active",
+   "ja": "活動的な"
+  },
+  "choices": [
+   "age",
+   "active",
+   "joke",
+   "worship"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/səɾ.ɡəɾm/",
+  "verified": true
+ },
+ {
+  "id": "ur-00417",
+  "category": "urdu",
+  "prompt": "「وفد」の意味は？",
+  "answer": "delegation",
+  "glosses": {
+   "en": "delegation",
+   "ja": "代表団"
+  },
+  "choices": [
+   "word",
+   "sultan",
+   "death",
+   "delegation"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ʋəfd̪/",
+  "verified": true
+ },
+ {
+  "id": "ur-00418",
+  "category": "urdu",
+  "prompt": "「سائنسی」の意味は？",
+  "answer": "scientific",
+  "glosses": {
+   "en": "scientific",
+   "ja": "科学の"
+  },
+  "choices": [
+   "scientific",
+   "promise",
+   "joint",
+   "government"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/sɑː.ɪn.siː/",
+  "verified": true
+ },
+ {
+  "id": "ur-00419",
+  "category": "urdu",
+  "prompt": "「نعرہ」の意味は？",
+  "answer": "slogan",
+  "glosses": {
+   "en": "slogan",
+   "ja": "スローガン"
+  },
+  "choices": [
+   "black",
+   "friend",
+   "slogan",
+   "house"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/nɑː.ɾɑ(ːɦ)/",
+  "verified": true
+ },
+ {
+  "id": "ur-00420",
+  "category": "urdu",
+  "prompt": "「دھماکہ」の意味は？",
+  "answer": "explosion",
+  "glosses": {
+   "en": "explosion",
+   "ja": "爆発"
+  },
+  "choices": [
+   "address",
+   "word",
+   "explosion",
+   "approval"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d̪ʱə.mɑː.kɑ(ːɦ)/",
+  "verified": true
+ },
+ {
+  "id": "ur-00421",
+  "category": "urdu",
+  "prompt": "「حادثہ」の意味は？",
+  "answer": "accident",
+  "glosses": {
+   "en": "accident",
+   "ja": "事故"
+  },
+  "choices": [
+   "there",
+   "consideration",
+   "accident",
+   "wide"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɦɑː.d̪ɪ.sɑ(ː)/",
+  "verified": true
+ },
+ {
+  "id": "ur-00422",
+  "category": "urdu",
+  "prompt": "「ملاحظہ」の意味は？",
+  "answer": "observation",
+  "glosses": {
+   "en": "observation",
+   "ja": "観察"
+  },
+  "choices": [
+   "observation",
+   "value",
+   "college",
+   "time (occurrence)"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mʊ.lɑː.ɦə.zɑ(ː)/",
+  "verified": true
+ },
+ {
+  "id": "ur-00423",
+  "category": "urdu",
+  "prompt": "「جوڑ」の意味は？",
+  "answer": "joint",
+  "glosses": {
+   "en": "joint",
+   "ja": "関節"
+  },
+  "choices": [
+   "joint",
+   "hair",
+   "why",
+   "witness"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d͡ʒoːɽ/",
+  "verified": true
+ }
+]

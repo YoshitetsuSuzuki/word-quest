@@ -112,6 +112,10 @@ export const ja: Strings = {
   'cat.italian': 'イタリア語',
   'cat.mongolian': 'モンゴル語',
   'cat.bengali': 'ベンガル語',
+  'cat.malay': 'マレー語',
+  'cat.indonesian': 'インドネシア語',
+  'cat.urdu': 'ウルドゥー語',
+  'cat.turkish': 'トルコ語',
   'pet.newBadge': 'NEW', 'pet.addedPre': '✨ ', 'pet.addedSuffix': ' をなかまにした！',
   // 復帰通知（相棒が呼んでいる体で書く。%s は相棒の名前、%d は覚えた語数）
   'comeback.t.d3': '%sが待っています', 'comeback.b.d3': '3日ぶりだね！ちょっとだけ一緒にやらない？',

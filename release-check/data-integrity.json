@@ -2,47 +2,47 @@
  "stage": 1,
  "title": "元データの最終構造検証",
  "expectedTotal": 29417,
- "actualTotal": 29417,
- "totalMatches": true,
+ "actualTotal": 40985,
+ "totalMatches": false,
  "languages": [
   {
    "language": "english",
-   "total": 8136,
+   "total": 7589,
    "levels": [
     {
      "level": 1,
      "file": "level-1.json",
-     "count": 576
+     "count": 839
     },
     {
      "level": 2,
      "file": "level-2.json",
-     "count": 868
+     "count": 1040
     },
     {
      "level": 3,
      "file": "level-3.json",
-     "count": 1167
+     "count": 1675
     },
     {
      "level": 4,
      "file": "level-4.json",
-     "count": 1066
+     "count": 1377
     },
     {
      "level": 5,
      "file": "level-5.json",
-     "count": 1462
+     "count": 866
     },
     {
      "level": 6,
      "file": "level-6.json",
-     "count": 1497
+     "count": 915
     },
     {
      "level": 7,
      "file": "level-7.json",
-     "count": 1500
+     "count": 877
     }
    ],
    "checks": {
@@ -62,32 +62,32 @@
   },
   {
    "language": "chinese",
-   "total": 4201,
+   "total": 4126,
    "levels": [
     {
      "level": 1,
      "file": "level-1.json",
-     "count": 487
+     "count": 515
     },
     {
      "level": 2,
      "file": "level-2.json",
-     "count": 742
+     "count": 723
     },
     {
      "level": 3,
      "file": "level-3.json",
-     "count": 944
+     "count": 975
     },
     {
      "level": 4,
      "file": "level-4.json",
-     "count": 973
+     "count": 1008
     },
     {
      "level": 5,
      "file": "level-5.json",
-     "count": 1055
+     "count": 905
     }
    ],
    "checks": {
@@ -107,32 +107,32 @@
   },
   {
    "language": "japanese",
-   "total": 7489,
+   "total": 7153,
    "levels": [
     {
      "level": 1,
      "file": "level-1.json",
-     "count": 655
+     "count": 1431
     },
     {
      "level": 2,
      "file": "level-2.json",
-     "count": 640
+     "count": 1434
     },
     {
      "level": 3,
      "file": "level-3.json",
-     "count": 2042
+     "count": 1439
     },
     {
      "level": 4,
      "file": "level-4.json",
-     "count": 1557
+     "count": 1436
     },
     {
      "level": 5,
      "file": "level-5.json",
-     "count": 2595
+     "count": 1413
     }
    ],
    "checks": {
@@ -152,22 +152,22 @@
   },
   {
    "language": "korean",
-   "total": 1529,
+   "total": 2655,
    "levels": [
     {
      "level": 1,
      "file": "level-1.json",
-     "count": 1529
+     "count": 1896
     },
     {
      "level": 2,
      "file": "level-2.json",
-     "count": 0
+     "count": 379
     },
     {
      "level": 3,
      "file": "level-3.json",
-     "count": 0
+     "count": 380
     },
     {
      "level": 4,
@@ -197,32 +197,32 @@
   },
   {
    "language": "spanish",
-   "total": 1888,
+   "total": 3046,
    "levels": [
     {
      "level": 1,
      "file": "level-1.json",
-     "count": 380
+     "count": 1336
     },
     {
      "level": 2,
      "file": "level-2.json",
-     "count": 378
+     "count": 568
     },
     {
      "level": 3,
      "file": "level-3.json",
-     "count": 373
+     "count": 415
     },
     {
      "level": 4,
      "file": "level-4.json",
-     "count": 370
+     "count": 360
     },
     {
      "level": 5,
      "file": "level-5.json",
-     "count": 387
+     "count": 367
     }
    ],
    "checks": {
@@ -242,32 +242,32 @@
   },
   {
    "language": "german",
-   "total": 1900,
+   "total": 2905,
    "levels": [
     {
      "level": 1,
      "file": "level-1.json",
-     "count": 376
+     "count": 1294
     },
     {
      "level": 2,
      "file": "level-2.json",
-     "count": 387
+     "count": 516
     },
     {
      "level": 3,
      "file": "level-3.json",
-     "count": 384
+     "count": 407
     },
     {
      "level": 4,
      "file": "level-4.json",
-     "count": 380
+     "count": 349
     },
     {
      "level": 5,
      "file": "level-5.json",
-     "count": 373
+     "count": 339
     }
    ],
    "checks": {
@@ -287,32 +287,32 @@
   },
   {
    "language": "french",
-   "total": 1906,
+   "total": 3105,
    "levels": [
     {
      "level": 1,
      "file": "level-1.json",
-     "count": 391
+     "count": 1490
     },
     {
      "level": 2,
      "file": "level-2.json",
-     "count": 384
+     "count": 487
     },
     {
      "level": 3,
      "file": "level-3.json",
-     "count": 376
+     "count": 389
     },
     {
      "level": 4,
      "file": "level-4.json",
-     "count": 378
+     "count": 368
     },
     {
      "level": 5,
      "file": "level-5.json",
-     "count": 377
+     "count": 371
     }
    ],
    "checks": {
@@ -332,22 +332,22 @@
   },
   {
    "language": "portuguese",
-   "total": 1013,
+   "total": 3105,
    "levels": [
     {
      "level": 1,
      "file": "level-1.json",
-     "count": 340
+     "count": 1412
     },
     {
      "level": 2,
      "file": "level-2.json",
-     "count": 338
+     "count": 1135
     },
     {
      "level": 3,
      "file": "level-3.json",
-     "count": 335
+     "count": 558
     }
    ],
    "checks": {
@@ -367,22 +367,22 @@
   },
   {
    "language": "polish",
-   "total": 636,
+   "total": 3378,
    "levels": [
     {
      "level": 1,
      "file": "level-1.json",
-     "count": 213
+     "count": 955
     },
     {
      "level": 2,
      "file": "level-2.json",
-     "count": 212
+     "count": 1035
     },
     {
      "level": 3,
      "file": "level-3.json",
-     "count": 211
+     "count": 1388
     }
    ],
    "checks": {
@@ -402,22 +402,22 @@
   },
   {
    "language": "russian",
-   "total": 719,
+   "total": 3923,
    "levels": [
     {
      "level": 1,
      "file": "level-1.json",
-     "count": 241
+     "count": 1346
     },
     {
      "level": 2,
      "file": "level-2.json",
-     "count": 240
+     "count": 1502
     },
     {
      "level": 3,
      "file": "level-3.json",
-     "count": 238
+     "count": 1075
     }
    ],
    "checks": {

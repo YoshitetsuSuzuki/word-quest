@@ -1,0 +1,12432 @@
+[
+ {
+  "id": "ms-00001",
+  "category": "malay",
+  "prompt": "「telah」の意味は？",
+  "answer": "already",
+  "glosses": {
+   "en": "already",
+   "ja": "もう"
+  },
+  "choices": [
+   "moment, second",
+   "prince",
+   "a half",
+   "already"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/tə.lah/",
+  "verified": true
+ },
+ {
+  "id": "ms-00002",
+  "category": "malay",
+  "prompt": "「tidak」の意味は？",
+  "answer": "not",
+  "glosses": {
+   "en": "not",
+   "ja": "でない"
+  },
+  "choices": [
+   "cake",
+   "test",
+   "not",
+   "ray"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈtidaʔ/",
+  "verified": true
+ },
+ {
+  "id": "ms-00003",
+  "category": "malay",
+  "prompt": "「sekolah」の意味は？",
+  "answer": "school",
+  "glosses": {
+   "en": "school",
+   "ja": "学校"
+  },
+  "choices": [
+   "school",
+   "heaven",
+   "doctor",
+   "ocean"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/səˈkolah/",
+  "verified": true
+ },
+ {
+  "id": "ms-00004",
+  "category": "malay",
+  "prompt": "「tahu」の意味は？",
+  "answer": "to know",
+  "glosses": {
+   "en": "to know",
+   "ja": "知る"
+  },
+  "choices": [
+   "to grow",
+   "to know",
+   "idea",
+   "to drink"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/tahu/",
+  "verified": true
+ },
+ {
+  "id": "ms-00005",
+  "category": "malay",
+  "prompt": "「jangan」の意味は？",
+  "answer": "don't",
+  "glosses": {
+   "en": "don't",
+   "ja": "〜するな"
+  },
+  "choices": [
+   "doctor",
+   "don't",
+   "cold",
+   "rite"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈd͡ʒaŋan/",
+  "verified": true
+ },
+ {
+  "id": "ms-00006",
+  "category": "malay",
+  "prompt": "「juga」の意味は？",
+  "answer": "too",
+  "glosses": {
+   "en": "too",
+   "ja": "もまた"
+  },
+  "choices": [
+   "building",
+   "fresh",
+   "too",
+   "outer space"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈd͡ʒuɡə/",
+  "verified": true
+ },
+ {
+  "id": "ms-00007",
+  "category": "malay",
+  "prompt": "「cakap」の意味は？",
+  "answer": "to speak",
+  "glosses": {
+   "en": "to speak",
+   "ja": "話す"
+  },
+  "choices": [
+   "mathematics",
+   "level",
+   "to speak",
+   "reading material"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈt͡ʃakap/",
+  "verified": true
+ },
+ {
+  "id": "ms-00008",
+  "category": "malay",
+  "prompt": "「malam」の意味は？",
+  "answer": "night",
+  "glosses": {
+   "en": "night",
+   "ja": "夜"
+  },
+  "choices": [
+   "actor",
+   "night",
+   "crocodile",
+   "still"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈmalam/",
+  "verified": true
+ },
+ {
+  "id": "ms-00009",
+  "category": "malay",
+  "prompt": "「rumah」の意味は？",
+  "answer": "home",
+  "glosses": {
+   "en": "home",
+   "ja": "家"
+  },
+  "choices": [
+   "home",
+   "motorcycle",
+   "to visit",
+   "to hope"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈrumah/",
+  "verified": true
+ },
+ {
+  "id": "ms-00010",
+  "category": "malay",
+  "prompt": "「pernah」の意味は？",
+  "answer": "ever",
+  "glosses": {
+   "en": "ever",
+   "ja": "かつて"
+  },
+  "choices": [
+   "film",
+   "bus",
+   "ever",
+   "don't"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pə(r)ˈnah/ [pə(r)ˈnah]",
+  "verified": true
+ },
+ {
+  "id": "ms-00011",
+  "category": "malay",
+  "prompt": "「hati」の意味は？",
+  "answer": "heart",
+  "glosses": {
+   "en": "heart",
+   "ja": "心"
+  },
+  "choices": [
+   "the beginning",
+   "era",
+   "heart",
+   "term"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈhati/",
+  "verified": true
+ },
+ {
+  "id": "ms-00012",
+  "category": "malay",
+  "prompt": "「masih」の意味は？",
+  "answer": "still",
+  "glosses": {
+   "en": "still",
+   "ja": "まだ"
+  },
+  "choices": [
+   "ever",
+   "congregation",
+   "trousers",
+   "still"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈmaseh/",
+  "verified": true
+ },
+ {
+  "id": "ms-00013",
+  "category": "malay",
+  "prompt": "「dunia」の意味は？",
+  "answer": "world",
+  "glosses": {
+   "en": "world",
+   "ja": "世界"
+  },
+  "choices": [
+   "cattle",
+   "to save",
+   "expensive",
+   "world"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈdunia/",
+  "verified": true
+ },
+ {
+  "id": "ms-00014",
+  "category": "malay",
+  "prompt": "「memang」の意味は？",
+  "answer": "indeed",
+  "glosses": {
+   "en": "indeed",
+   "ja": "確かに"
+  },
+  "choices": [
+   "indeed",
+   "unwilling",
+   "death",
+   "yard; page"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈmemaŋ/",
+  "verified": true
+ },
+ {
+  "id": "ms-00015",
+  "category": "malay",
+  "prompt": "「kawasan」の意味は？",
+  "answer": "an area",
+  "glosses": {
+   "en": "an area",
+   "ja": "地域"
+  },
+  "choices": [
+   "problem",
+   "to increase",
+   "crocodile",
+   "an area"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ka.wa.san/",
+  "verified": true
+ },
+ {
+  "id": "ms-00016",
+  "category": "malay",
+  "prompt": "「kenapa」の意味は？",
+  "answer": "Why",
+  "glosses": {
+   "en": "Why",
+   "ja": "なぜ"
+  },
+  "choices": [
+   "Why",
+   "cold",
+   "knee",
+   "busy"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kəˈnapə/",
+  "verified": true
+ },
+ {
+  "id": "ms-00017",
+  "category": "malay",
+  "prompt": "「sangat」の意味は？",
+  "answer": "very",
+  "glosses": {
+   "en": "very",
+   "ja": "非常に"
+  },
+  "choices": [
+   "very",
+   "to fly",
+   "fate",
+   "panda"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈsaŋat/",
+  "verified": true
+ },
+ {
+  "id": "ms-00018",
+  "category": "malay",
+  "prompt": "「ibu」の意味は？",
+  "answer": "mother",
+  "glosses": {
+   "en": "mother",
+   "ja": "母"
+  },
+  "choices": [
+   "yard; page",
+   "to grow",
+   "bed",
+   "mother"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈibu/",
+  "verified": true
+ },
+ {
+  "id": "ms-00019",
+  "category": "malay",
+  "prompt": "「tuhan」の意味は？",
+  "answer": "god",
+  "glosses": {
+   "en": "god",
+   "ja": "神"
+  },
+  "choices": [
+   "delicious",
+   "continue",
+   "god",
+   "stair"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/tuhan/",
+  "verified": true
+ },
+ {
+  "id": "ms-00020",
+  "category": "malay",
+  "prompt": "「lagu」の意味は？",
+  "answer": "song",
+  "glosses": {
+   "en": "song",
+   "ja": "歌"
+  },
+  "choices": [
+   "science",
+   "guest",
+   "happiness",
+   "song"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈlaɡu/",
+  "verified": true
+ },
+ {
+  "id": "ms-00021",
+  "category": "malay",
+  "prompt": "「manusia」の意味は？",
+  "answer": "human",
+  "glosses": {
+   "en": "human",
+   "ja": "人間"
+  },
+  "choices": [
+   "wheel",
+   "human",
+   "to die",
+   "to send"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ma(ʔ)ˈnusiə/",
+  "verified": true
+ },
+ {
+  "id": "ms-00022",
+  "category": "malay",
+  "prompt": "「kemudian」の意味は？",
+  "answer": "then, afterwards",
+  "glosses": {
+   "en": "then, afterwards",
+   "ja": "その後，それから"
+  },
+  "choices": [
+   "then, afterwards",
+   "to be",
+   "continue",
+   "loyal"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kəˈmudian/",
+  "verified": true
+ },
+ {
+  "id": "ms-00023",
+  "category": "malay",
+  "prompt": "「kuala」の意味は？",
+  "answer": "river mouth",
+  "glosses": {
+   "en": "river mouth",
+   "ja": "河口"
+  },
+  "choices": [
+   "river mouth",
+   "must",
+   "sadness",
+   "to dive"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈkuala/",
+  "verified": true
+ },
+ {
+  "id": "ms-00024",
+  "category": "malay",
+  "prompt": "「negara」の意味は？",
+  "answer": "country",
+  "glosses": {
+   "en": "country",
+   "ja": "国"
+  },
+  "choices": [
+   "country",
+   "field",
+   "restaurant",
+   "group"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/nəˈɡara/",
+  "verified": true
+ },
+ {
+  "id": "ms-00025",
+  "category": "malay",
+  "prompt": "「kecil」の意味は？",
+  "answer": "small",
+  "glosses": {
+   "en": "small",
+   "ja": "小さい"
+  },
+  "choices": [
+   "trousers",
+   "customer",
+   "to request",
+   "small"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kəˈt͡ʃel/",
+  "verified": true
+ },
+ {
+  "id": "ms-00026",
+  "category": "malay",
+  "prompt": "「perempuan」の意味は？",
+  "answer": "woman",
+  "glosses": {
+   "en": "woman",
+   "ja": "女性"
+  },
+  "choices": [
+   "woman",
+   "appearance",
+   "route",
+   "blind"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pərəmˈpuan/",
+  "verified": true
+ },
+ {
+  "id": "ms-00027",
+  "category": "malay",
+  "prompt": "「masalah」の意味は？",
+  "answer": "problem",
+  "glosses": {
+   "en": "problem",
+   "ja": "問題"
+  },
+  "choices": [
+   "to teach",
+   "technology",
+   "problem",
+   "church"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[maˈsalah]",
+  "verified": true
+ },
+ {
+  "id": "ms-00028",
+  "category": "malay",
+  "prompt": "「datang」の意味は？",
+  "answer": "to come",
+  "glosses": {
+   "en": "to come",
+   "ja": "来る"
+  },
+  "choices": [
+   "base",
+   "education",
+   "to come",
+   "table"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈdataŋ/",
+  "verified": true
+ },
+ {
+  "id": "ms-00029",
+  "category": "malay",
+  "prompt": "「jumpa」の意味は？",
+  "answer": "to meet",
+  "glosses": {
+   "en": "to meet",
+   "ja": "会う"
+  },
+  "choices": [
+   "responsibility",
+   "command",
+   "womb",
+   "to meet"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00030",
+  "category": "malay",
+  "prompt": "「tunggu」の意味は？",
+  "answer": "to wait",
+  "glosses": {
+   "en": "to wait",
+   "ja": "待つ"
+  },
+  "choices": [
+   "to play",
+   "scripture",
+   "to wait",
+   "soft"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00031",
+  "category": "malay",
+  "prompt": "「merupakan」の意味は？",
+  "answer": "to be",
+  "glosses": {
+   "en": "to be",
+   "ja": "〜である"
+  },
+  "choices": [
+   "proton",
+   "Dollar :",
+   "noodles",
+   "to be"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/məˌrupəˈkan/",
+  "verified": true
+ },
+ {
+  "id": "ms-00032",
+  "category": "malay",
+  "prompt": "「ayah」の意味は？",
+  "answer": "father",
+  "glosses": {
+   "en": "father",
+   "ja": "父"
+  },
+  "choices": [
+   "wing",
+   "father",
+   "quiet",
+   "sugar"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈajah/",
+  "verified": true
+ },
+ {
+  "id": "ms-00033",
+  "category": "malay",
+  "prompt": "「pelajar」の意味は？",
+  "answer": "student",
+  "glosses": {
+   "en": "student",
+   "ja": "生徒"
+  },
+  "choices": [
+   "student",
+   "sum",
+   "minute",
+   "tower"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pəl.a.d͡ʒa(r)/",
+  "verified": true
+ },
+ {
+  "id": "ms-00034",
+  "category": "malay",
+  "prompt": "「raya」の意味は？",
+  "answer": "grand",
+  "glosses": {
+   "en": "grand",
+   "ja": "盛大な"
+  },
+  "choices": [
+   "image",
+   "brain",
+   "patient",
+   "grand"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ra.jə]",
+  "verified": true
+ },
+ {
+  "id": "ms-00035",
+  "category": "malay",
+  "prompt": "「mula」の意味は？",
+  "answer": "the beginning",
+  "glosses": {
+   "en": "the beginning",
+   "ja": "初め"
+  },
+  "choices": [
+   "clothes",
+   "to create",
+   "personal",
+   "the beginning"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈmula/",
+  "verified": true
+ },
+ {
+  "id": "ms-00036",
+  "category": "malay",
+  "prompt": "「bodoh」の意味は？",
+  "answer": "stupid",
+  "glosses": {
+   "en": "stupid",
+   "ja": "ばかな"
+  },
+  "choices": [
+   "to search for",
+   "battle",
+   "stupid",
+   "fighter"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bodoh/",
+  "verified": true
+ },
+ {
+  "id": "ms-00037",
+  "category": "malay",
+  "prompt": "「sebenarnya」の意味は？",
+  "answer": "actually",
+  "glosses": {
+   "en": "actually",
+   "ja": "実際に"
+  },
+  "choices": [
+   "to try",
+   "to walk",
+   "actually",
+   "image"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/səbəˈna(r)ɲə/",
+  "verified": true
+ },
+ {
+  "id": "ms-00038",
+  "category": "malay",
+  "prompt": "「mesti」の意味は？",
+  "answer": "must",
+  "glosses": {
+   "en": "must",
+   "ja": "ねばならない"
+  },
+  "choices": [
+   "building",
+   "hell",
+   "must",
+   "size"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[məsti]",
+  "verified": true
+ },
+ {
+  "id": "ms-00039",
+  "category": "malay",
+  "prompt": "「cuba」の意味は？",
+  "answer": "to try",
+  "glosses": {
+   "en": "to try",
+   "ja": "試す"
+  },
+  "choices": [
+   "to try",
+   "border",
+   "Why",
+   "lane"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈt͡ʃuba/",
+  "verified": true
+ },
+ {
+  "id": "ms-00040",
+  "category": "malay",
+  "prompt": "「duit」の意味は？",
+  "answer": "money",
+  "glosses": {
+   "en": "money",
+   "ja": "お金"
+  },
+  "choices": [
+   "to do",
+   "animal",
+   "joke",
+   "money"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈduit/",
+  "verified": true
+ },
+ {
+  "id": "ms-00041",
+  "category": "malay",
+  "prompt": "「biasa」の意味は？",
+  "answer": "usual",
+  "glosses": {
+   "en": "usual",
+   "ja": "普通の"
+  },
+  "choices": [
+   "to hunt",
+   "usual",
+   "toilet",
+   "cat"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈbiasə/",
+  "verified": true
+ },
+ {
+  "id": "ms-00042",
+  "category": "malay",
+  "prompt": "「tinggi」の意味は？",
+  "answer": "high",
+  "glosses": {
+   "en": "high",
+   "ja": "高い"
+  },
+  "choices": [
+   "high",
+   "operation",
+   "giant",
+   "nest"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈtiŋɡi/",
+  "verified": true
+ },
+ {
+  "id": "ms-00043",
+  "category": "malay",
+  "prompt": "「pagi」の意味は？",
+  "answer": "morning",
+  "glosses": {
+   "en": "morning",
+   "ja": "朝"
+  },
+  "choices": [
+   "nature",
+   "attention",
+   "morning",
+   "weapon"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈpaɡi/",
+  "verified": true
+ },
+ {
+  "id": "ms-00044",
+  "category": "malay",
+  "prompt": "「buka」の意味は？",
+  "answer": "to open",
+  "glosses": {
+   "en": "to open",
+   "ja": "開ける"
+  },
+  "choices": [
+   "to open",
+   "health",
+   "promise",
+   "sentence"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈbuka/",
+  "verified": true
+ },
+ {
+  "id": "ms-00045",
+  "category": "malay",
+  "prompt": "「tangan」の意味は？",
+  "answer": "hand",
+  "glosses": {
+   "en": "hand",
+   "ja": "手"
+  },
+  "choices": [
+   "woman",
+   "hand",
+   "interest",
+   "cake"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈtaŋan/",
+  "verified": true
+ },
+ {
+  "id": "ms-00046",
+  "category": "malay",
+  "prompt": "「terbang」の意味は？",
+  "answer": "to fly",
+  "glosses": {
+   "en": "to fly",
+   "ja": "飛ぶ"
+  },
+  "choices": [
+   "best",
+   "sin",
+   "to fly",
+   "delicious"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈtə(r)baŋ/",
+  "verified": true
+ },
+ {
+  "id": "ms-00047",
+  "category": "malay",
+  "prompt": "「kira」の意味は？",
+  "answer": "to count",
+  "glosses": {
+   "en": "to count",
+   "ja": "数える"
+  },
+  "choices": [
+   "to count",
+   "operation",
+   "wheel",
+   "evil"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kira/",
+  "verified": true
+ },
+ {
+  "id": "ms-00048",
+  "category": "malay",
+  "prompt": "「lumpur」の意味は？",
+  "answer": "mud",
+  "glosses": {
+   "en": "mud",
+   "ja": "泥"
+  },
+  "choices": [
+   "mud",
+   "to spin",
+   "voice",
+   "scary"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈlumpur/",
+  "verified": true
+ },
+ {
+  "id": "ms-00049",
+  "category": "malay",
+  "prompt": "「terbaik」の意味は？",
+  "answer": "best",
+  "glosses": {
+   "en": "best",
+   "ja": "最高の"
+  },
+  "choices": [
+   "laboratory",
+   "best",
+   "test",
+   "cheese"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/tə(r)ˈbaek/",
+  "verified": true
+ },
+ {
+  "id": "ms-00050",
+  "category": "malay",
+  "prompt": "「ketua」の意味は？",
+  "answer": "leader",
+  "glosses": {
+   "en": "leader",
+   "ja": "リーダー"
+  },
+  "choices": [
+   "soldier",
+   "leader",
+   "bus",
+   "still"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[kə.tu.wə]",
+  "verified": true
+ },
+ {
+  "id": "ms-00051",
+  "category": "malay",
+  "prompt": "「gambar」の意味は？",
+  "answer": "image",
+  "glosses": {
+   "en": "image",
+   "ja": "画像"
+  },
+  "choices": [
+   "blind",
+   "officer",
+   "image",
+   "actor"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈɡambar/",
+  "verified": true
+ },
+ {
+  "id": "ms-00052",
+  "category": "malay",
+  "prompt": "「negeri」の意味は？",
+  "answer": "state",
+  "glosses": {
+   "en": "state",
+   "ja": "州"
+  },
+  "choices": [
+   "state",
+   "indeed",
+   "gem",
+   "interest"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/nəɡəˈri/",
+  "verified": true
+ },
+ {
+  "id": "ms-00053",
+  "category": "malay",
+  "prompt": "「filem」の意味は？",
+  "answer": "film",
+  "glosses": {
+   "en": "film",
+   "ja": "映画"
+  },
+  "choices": [
+   "to discard",
+   "film",
+   "to grow",
+   "meaning"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/filəm/",
+  "verified": true
+ },
+ {
+  "id": "ms-00054",
+  "category": "malay",
+  "prompt": "「mahu」の意味は？",
+  "answer": "to want",
+  "glosses": {
+   "en": "to want",
+   "ja": "欲しい"
+  },
+  "choices": [
+   "glass",
+   "profit",
+   "to try",
+   "to want"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈma(h)u/",
+  "verified": true
+ },
+ {
+  "id": "ms-00055",
+  "category": "malay",
+  "prompt": "「seseorang」の意味は？",
+  "answer": "someone",
+  "glosses": {
+   "en": "someone",
+   "ja": "だれか"
+  },
+  "choices": [
+   "someone",
+   "perfect",
+   "hospital",
+   "knee"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00056",
+  "category": "malay",
+  "prompt": "「pasti」の意味は？",
+  "answer": "sure",
+  "glosses": {
+   "en": "sure",
+   "ja": "確実な"
+  },
+  "choices": [
+   "kitchen",
+   "sure",
+   "to speak",
+   "customer"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈpasti/",
+  "verified": true
+ },
+ {
+  "id": "ms-00057",
+  "category": "malay",
+  "prompt": "「belajar」の意味は？",
+  "answer": "to study",
+  "glosses": {
+   "en": "to study",
+   "ja": "勉強する"
+  },
+  "choices": [
+   "to study",
+   "tower",
+   "cloth",
+   "grandmother"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bəˈlad͡ʒa(r)/",
+  "verified": true
+ },
+ {
+  "id": "ms-00058",
+  "category": "malay",
+  "prompt": "「polis」の意味は？",
+  "answer": "police",
+  "glosses": {
+   "en": "police",
+   "ja": "警察"
+  },
+  "choices": [
+   "unit",
+   "police",
+   "expensive",
+   "good"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈpolis/",
+  "verified": true
+ },
+ {
+  "id": "ms-00059",
+  "category": "malay",
+  "prompt": "「anjing」の意味は？",
+  "answer": "dog",
+  "glosses": {
+   "en": "dog",
+   "ja": "犬"
+  },
+  "choices": [
+   "award",
+   "dog",
+   "crocodile",
+   "poison"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[aɲd͡ʒeŋ]",
+  "verified": true
+ },
+ {
+  "id": "ms-00060",
+  "category": "malay",
+  "prompt": "「cara」の意味は？",
+  "answer": "manner",
+  "glosses": {
+   "en": "manner",
+   "ja": "方法"
+  },
+  "choices": [
+   "manner",
+   "shoe",
+   "cute",
+   "body"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈt͡ʃara/",
+  "verified": true
+ },
+ {
+  "id": "ms-00061",
+  "category": "malay",
+  "prompt": "「berubah」の意味は？",
+  "answer": "to change",
+  "glosses": {
+   "en": "to change",
+   "ja": "変わる"
+  },
+  "choices": [
+   "sauce",
+   "necessity",
+   "toilet",
+   "to change"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00062",
+  "category": "malay",
+  "prompt": "「api」の意味は？",
+  "answer": "fire",
+  "glosses": {
+   "en": "fire",
+   "ja": "火"
+  },
+  "choices": [
+   "cooperation",
+   "to meet",
+   "someone",
+   "fire"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈapi/",
+  "verified": true
+ },
+ {
+  "id": "ms-00063",
+  "category": "malay",
+  "prompt": "「harap」の意味は？",
+  "answer": "to hope",
+  "glosses": {
+   "en": "to hope",
+   "ja": "望む"
+  },
+  "choices": [
+   "to marry",
+   "nerve",
+   "increasingly",
+   "to hope"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/harap/",
+  "verified": true
+ },
+ {
+  "id": "ms-00064",
+  "category": "malay",
+  "prompt": "「makanan」の意味は？",
+  "answer": "food",
+  "glosses": {
+   "en": "food",
+   "ja": "食べ物"
+  },
+  "choices": [
+   "Dollar :",
+   "mistaken",
+   "food",
+   "writing"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/maˈkanan/",
+  "verified": true
+ },
+ {
+  "id": "ms-00065",
+  "category": "malay",
+  "prompt": "「isteri」の意味は？",
+  "answer": "wife",
+  "glosses": {
+   "en": "wife",
+   "ja": "妻"
+  },
+  "choices": [
+   "wife",
+   "professor",
+   "virus",
+   "metal"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˌistəˈri/",
+  "verified": true
+ },
+ {
+  "id": "ms-00066",
+  "category": "malay",
+  "prompt": "「cepat」の意味は？",
+  "answer": "quick",
+  "glosses": {
+   "en": "quick",
+   "ja": "素早い"
+  },
+  "choices": [
+   "dog",
+   "quick",
+   "country",
+   "wing"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/t͡ʃəˈpat/ [t͡ʃəˈpat̪]",
+  "verified": true
+ },
+ {
+  "id": "ms-00067",
+  "category": "malay",
+  "prompt": "「kerajaan」の意味は？",
+  "answer": "government",
+  "glosses": {
+   "en": "government",
+   "ja": "政府"
+  },
+  "choices": [
+   "increasingly",
+   "to show",
+   "iron",
+   "government"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[kərad͡ʒaʔan]",
+  "verified": true
+ },
+ {
+  "id": "ms-00068",
+  "category": "malay",
+  "prompt": "「badan」の意味は？",
+  "answer": "body",
+  "glosses": {
+   "en": "body",
+   "ja": "身体"
+  },
+  "choices": [
+   "body",
+   "problem",
+   "communication",
+   "nature"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈbadan/",
+  "verified": true
+ },
+ {
+  "id": "ms-00069",
+  "category": "malay",
+  "prompt": "「jenis」の意味は？",
+  "answer": "type",
+  "glosses": {
+   "en": "type",
+   "ja": "種類"
+  },
+  "choices": [
+   "type",
+   "flag",
+   "age",
+   "mother"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈd͡ʒenis/",
+  "verified": true
+ },
+ {
+  "id": "ms-00070",
+  "category": "malay",
+  "prompt": "「janji」の意味は？",
+  "answer": "promise",
+  "glosses": {
+   "en": "promise",
+   "ja": "約束"
+  },
+  "choices": [
+   "candidate",
+   "sugar",
+   "life",
+   "promise"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈd͡ʒand͡ʒi/",
+  "verified": true
+ },
+ {
+  "id": "ms-00071",
+  "category": "malay",
+  "prompt": "「cerita」の意味は？",
+  "answer": "story",
+  "glosses": {
+   "en": "story",
+   "ja": "物語"
+  },
+  "choices": [
+   "story",
+   "loyal",
+   "good",
+   "hero"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/t͡ʃəˈrita/",
+  "verified": true
+ },
+ {
+  "id": "ms-00072",
+  "category": "malay",
+  "prompt": "「menang」の意味は？",
+  "answer": "to win",
+  "glosses": {
+   "en": "to win",
+   "ja": "勝つ"
+  },
+  "choices": [
+   "table",
+   "marriage",
+   "to win",
+   "goat"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mənaŋ/",
+  "verified": true
+ },
+ {
+  "id": "ms-00073",
+  "category": "malay",
+  "prompt": "「pilihan」の意味は？",
+  "answer": "choice",
+  "glosses": {
+   "en": "choice",
+   "ja": "選択"
+  },
+  "choices": [
+   "attendance",
+   "choice",
+   "game",
+   "control"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00074",
+  "category": "malay",
+  "prompt": "「sentiasa」の意味は？",
+  "answer": "always",
+  "glosses": {
+   "en": "always",
+   "ja": "いつも"
+  },
+  "choices": [
+   "ever",
+   "knowledge",
+   "always",
+   "game"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00075",
+  "category": "malay",
+  "prompt": "「sana」の意味は？",
+  "answer": "there, over there",
+  "glosses": {
+   "en": "there, over there",
+   "ja": "あそこ，向こう"
+  },
+  "choices": [
+   "food",
+   "there, over there",
+   "to open",
+   "quick"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈsanə/",
+  "verified": true
+ },
+ {
+  "id": "ms-00076",
+  "category": "malay",
+  "prompt": "「jam」の意味は？",
+  "answer": "clock, hour",
+  "glosses": {
+   "en": "clock, hour",
+   "ja": "時計，〜時間"
+  },
+  "choices": [
+   "illness",
+   "school",
+   "to count",
+   "clock, hour"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈd͡ʒam/",
+  "verified": true
+ },
+ {
+  "id": "ms-00077",
+  "category": "malay",
+  "prompt": "「sahaja」の意味は？",
+  "answer": "only, just",
+  "glosses": {
+   "en": "only, just",
+   "ja": "〜だけ"
+  },
+  "choices": [
+   "ring",
+   "cheese",
+   "only, just",
+   "cute"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/saˈhad͡ʒə/",
+  "verified": true
+ },
+ {
+  "id": "ms-00078",
+  "category": "malay",
+  "prompt": "「bermain」の意味は？",
+  "answer": "to play",
+  "glosses": {
+   "en": "to play",
+   "ja": "遊ぶ"
+  },
+  "choices": [
+   "guest",
+   "to play",
+   "nature",
+   "idea"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00079",
+  "category": "malay",
+  "prompt": "「minggu」の意味は？",
+  "answer": "week",
+  "glosses": {
+   "en": "week",
+   "ja": "週"
+  },
+  "choices": [
+   "week",
+   "custom",
+   "difficult",
+   "heaven"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈmiŋɡu/",
+  "verified": true
+ },
+ {
+  "id": "ms-00080",
+  "category": "malay",
+  "prompt": "「lupa」の意味は？",
+  "answer": "to forget",
+  "glosses": {
+   "en": "to forget",
+   "ja": "忘れる"
+  },
+  "choices": [
+   "to forget",
+   "church",
+   "interest",
+   "type"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈlupə/",
+  "verified": true
+ },
+ {
+  "id": "ms-00081",
+  "category": "malay",
+  "prompt": "「bumi」の意味は？",
+  "answer": "earth",
+  "glosses": {
+   "en": "earth",
+   "ja": "地球"
+  },
+  "choices": [
+   "earth",
+   "meaning",
+   "responsibility",
+   "to dive"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈbumi/",
+  "verified": true
+ },
+ {
+  "id": "ms-00082",
+  "category": "malay",
+  "prompt": "「agama」の意味は？",
+  "answer": "religion",
+  "glosses": {
+   "en": "religion",
+   "ja": "宗教"
+  },
+  "choices": [
+   "religion",
+   "mail",
+   "leader",
+   "pilot"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/aˈɡamə/",
+  "verified": true
+ },
+ {
+  "id": "ms-00083",
+  "category": "malay",
+  "prompt": "「Tuan」の意味は？",
+  "answer": "sir",
+  "glosses": {
+   "en": "sir",
+   "ja": "旦那様"
+  },
+  "choices": [
+   "to struggle",
+   "perfect",
+   "joke",
+   "sir"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00084",
+  "category": "malay",
+  "prompt": "「kematian」の意味は？",
+  "answer": "death",
+  "glosses": {
+   "en": "death",
+   "ja": "死"
+  },
+  "choices": [
+   "cold",
+   "business",
+   "death",
+   "to spin"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00085",
+  "category": "malay",
+  "prompt": "「zaman」の意味は？",
+  "answer": "era",
+  "glosses": {
+   "en": "era",
+   "ja": "時代"
+  },
+  "choices": [
+   "arm",
+   "to try",
+   "Dollar :",
+   "era"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈzaman/",
+  "verified": true
+ },
+ {
+  "id": "ms-00086",
+  "category": "malay",
+  "prompt": "「alam」の意味は？",
+  "answer": "nature",
+  "glosses": {
+   "en": "nature",
+   "ja": "自然"
+  },
+  "choices": [
+   "attendance",
+   "to discard",
+   "nature",
+   "best"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈalam/",
+  "verified": true
+ },
+ {
+  "id": "ms-00087",
+  "category": "malay",
+  "prompt": "「nombor」の意味は？",
+  "answer": "number",
+  "glosses": {
+   "en": "number",
+   "ja": "番号"
+  },
+  "choices": [
+   "nerve",
+   "award",
+   "number",
+   "to move"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈnombo(r)/",
+  "verified": true
+ },
+ {
+  "id": "ms-00088",
+  "category": "malay",
+  "prompt": "「permainan」の意味は？",
+  "answer": "game",
+  "glosses": {
+   "en": "game",
+   "ja": "ゲーム"
+  },
+  "choices": [
+   "cold",
+   "film",
+   "game",
+   "beautiful"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00089",
+  "category": "malay",
+  "prompt": "「kehidupan」の意味は？",
+  "answer": "life",
+  "glosses": {
+   "en": "life",
+   "ja": "人生"
+  },
+  "choices": [
+   "life",
+   "period",
+   "peaceful",
+   "route"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00090",
+  "category": "malay",
+  "prompt": "「berita」の意味は？",
+  "answer": "news",
+  "glosses": {
+   "en": "news",
+   "ja": "ニュース"
+  },
+  "choices": [
+   "corpse",
+   "news",
+   "distance",
+   "flag"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bəˈrita/",
+  "verified": true
+ },
+ {
+  "id": "ms-00091",
+  "category": "malay",
+  "prompt": "「majlis」の意味は？",
+  "answer": "ceremony",
+  "glosses": {
+   "en": "ceremony",
+   "ja": "式典"
+  },
+  "choices": [
+   "ceremony",
+   "don't",
+   "list",
+   "fate"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈmad͡ʒlis/",
+  "verified": true
+ },
+ {
+  "id": "ms-00092",
+  "category": "malay",
+  "prompt": "「membantu」の意味は？",
+  "answer": "to help",
+  "glosses": {
+   "en": "to help",
+   "ja": "助ける"
+  },
+  "choices": [
+   "grandchild",
+   "usual",
+   "mouth",
+   "to help"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00093",
+  "category": "malay",
+  "prompt": "「soalan」の意味は？",
+  "answer": "question",
+  "glosses": {
+   "en": "question",
+   "ja": "質問"
+  },
+  "choices": [
+   "question",
+   "cat",
+   "government",
+   "weakness"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/soˈalan/",
+  "verified": true
+ },
+ {
+  "id": "ms-00094",
+  "category": "malay",
+  "prompt": "「ambil」の意味は？",
+  "answer": "to take",
+  "glosses": {
+   "en": "to take",
+   "ja": "取る"
+  },
+  "choices": [
+   "naughty",
+   "to take",
+   "sign",
+   "stupid"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈambil/",
+  "verified": true
+ },
+ {
+  "id": "ms-00095",
+  "category": "malay",
+  "prompt": "「ikut」の意味は？",
+  "answer": "to follow",
+  "glosses": {
+   "en": "to follow",
+   "ja": "従う"
+  },
+  "choices": [
+   "indeed",
+   "to do",
+   "to follow",
+   "possession"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ikʊt/",
+  "verified": true
+ },
+ {
+  "id": "ms-00096",
+  "category": "malay",
+  "prompt": "「pakai」の意味は？",
+  "answer": "to wear",
+  "glosses": {
+   "en": "to wear",
+   "ja": "着る"
+  },
+  "choices": [
+   "fun",
+   "park",
+   "to speak",
+   "to wear"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈpakaj/",
+  "verified": true
+ },
+ {
+  "id": "ms-00097",
+  "category": "malay",
+  "prompt": "「maklumat」の意味は？",
+  "answer": "information",
+  "glosses": {
+   "en": "information",
+   "ja": "情報"
+  },
+  "choices": [
+   "to take",
+   "information",
+   "bridge",
+   "long"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/maʔ.lu.mat/",
+  "verified": true
+ },
+ {
+  "id": "ms-00098",
+  "category": "malay",
+  "prompt": "「iaitu」の意味は？",
+  "answer": "namely",
+  "glosses": {
+   "en": "namely",
+   "ja": "すなわち"
+  },
+  "choices": [
+   "actor",
+   "storm",
+   "namely",
+   "kindness"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00099",
+  "category": "malay",
+  "prompt": "「kadang」の意味は？",
+  "answer": "sometimes",
+  "glosses": {
+   "en": "sometimes",
+   "ja": "ときどき"
+  },
+  "choices": [
+   "peak",
+   "toilet",
+   "sometimes",
+   "stripe"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈkadaŋ/",
+  "verified": true
+ },
+ {
+  "id": "ms-00100",
+  "category": "malay",
+  "prompt": "「melakukan」の意味は？",
+  "answer": "to do",
+  "glosses": {
+   "en": "to do",
+   "ja": "する"
+  },
+  "choices": [
+   "nerve",
+   "metal",
+   "to do",
+   "to save"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00101",
+  "category": "malay",
+  "prompt": "「minit」の意味は？",
+  "answer": "minute",
+  "glosses": {
+   "en": "minute",
+   "ja": "分"
+  },
+  "choices": [
+   "minute",
+   "hair",
+   "to add",
+   "however"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[minet]",
+  "verified": true
+ },
+ {
+  "id": "ms-00102",
+  "category": "malay",
+  "prompt": "「laut」の意味は？",
+  "answer": "sea",
+  "glosses": {
+   "en": "sea",
+   "ja": "海"
+  },
+  "choices": [
+   "tax",
+   "shop",
+   "home",
+   "sea"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈlaut/",
+  "verified": true
+ },
+ {
+  "id": "ms-00103",
+  "category": "malay",
+  "prompt": "「tanda」の意味は？",
+  "answer": "sign",
+  "glosses": {
+   "en": "sign",
+   "ja": "印"
+  },
+  "choices": [
+   "to care",
+   "perhaps",
+   "factory",
+   "sign"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈtandə/",
+  "verified": true
+ },
+ {
+  "id": "ms-00104",
+  "category": "malay",
+  "prompt": "「burung」の意味は？",
+  "answer": "bird",
+  "glosses": {
+   "en": "bird",
+   "ja": "鳥"
+  },
+  "choices": [
+   "to visit",
+   "high",
+   "helicopter",
+   "bird"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈburoŋ/",
+  "verified": true
+ },
+ {
+  "id": "ms-00105",
+  "category": "malay",
+  "prompt": "「bahaya」の意味は？",
+  "answer": "danger",
+  "glosses": {
+   "en": "danger",
+   "ja": "危険"
+  },
+  "choices": [
+   "command",
+   "danger",
+   "sometimes",
+   "helicopter"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/baˈhaja/",
+  "verified": true
+ },
+ {
+  "id": "ms-00106",
+  "category": "malay",
+  "prompt": "「menteri」の意味は？",
+  "answer": "minister",
+  "glosses": {
+   "en": "minister",
+   "ja": "大臣"
+  },
+  "choices": [
+   "minister",
+   "to hope",
+   "to build",
+   "memories"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/məntəˈri/",
+  "verified": true
+ },
+ {
+  "id": "ms-00107",
+  "category": "malay",
+  "prompt": "「pintu」の意味は？",
+  "answer": "door",
+  "glosses": {
+   "en": "door",
+   "ja": "扉"
+  },
+  "choices": [
+   "door",
+   "route",
+   "very",
+   "rain"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈpintu/",
+  "verified": true
+ },
+ {
+  "id": "ms-00108",
+  "category": "malay",
+  "prompt": "「meninggal」の意味は？",
+  "answer": "to die",
+  "glosses": {
+   "en": "to die",
+   "ja": "死ぬ"
+  },
+  "choices": [
+   "to offer",
+   "to die",
+   "human",
+   "cooperation"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mə.niŋ.ɡal/",
+  "verified": true
+ },
+ {
+  "id": "ms-00109",
+  "category": "malay",
+  "prompt": "「indah」の意味は？",
+  "answer": "beautiful",
+  "glosses": {
+   "en": "beautiful",
+   "ja": "美しい"
+  },
+  "choices": [
+   "beautiful",
+   "purpose",
+   "hair",
+   "gem"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00110",
+  "category": "malay",
+  "prompt": "「rakan」の意味は？",
+  "answer": "companion",
+  "glosses": {
+   "en": "companion",
+   "ja": "仲間"
+  },
+  "choices": [
+   "federation",
+   "to marry",
+   "companion",
+   "to pay"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈrakan/",
+  "verified": true
+ },
+ {
+  "id": "ms-00111",
+  "category": "malay",
+  "prompt": "「suara」の意味は？",
+  "answer": "voice",
+  "glosses": {
+   "en": "voice",
+   "ja": "声"
+  },
+  "choices": [
+   "voice",
+   "price",
+   "to take",
+   "advertisement"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈsuarə/",
+  "verified": true
+ },
+ {
+  "id": "ms-00112",
+  "category": "malay",
+  "prompt": "「padang」の意味は？",
+  "answer": "field",
+  "glosses": {
+   "en": "field",
+   "ja": "広場"
+  },
+  "choices": [
+   "to grow",
+   "safety",
+   "tax",
+   "field"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈpadaŋ/",
+  "verified": true
+ },
+ {
+  "id": "ms-00113",
+  "category": "malay",
+  "prompt": "「semakin」の意味は？",
+  "answer": "increasingly",
+  "glosses": {
+   "en": "increasingly",
+   "ja": "ますます"
+  },
+  "choices": [
+   "snow",
+   "tower",
+   "increasingly",
+   "long"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/səˈmakin/",
+  "verified": true
+ },
+ {
+  "id": "ms-00114",
+  "category": "malay",
+  "prompt": "「keselamatan」の意味は？",
+  "answer": "safety",
+  "glosses": {
+   "en": "safety",
+   "ja": "安全"
+  },
+  "choices": [
+   "grandchild",
+   "panda",
+   "safety",
+   "to bathe"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00115",
+  "category": "malay",
+  "prompt": "「pegawai」の意味は？",
+  "answer": "officer",
+  "glosses": {
+   "en": "officer",
+   "ja": "職員"
+  },
+  "choices": [
+   "officer",
+   "flag",
+   "song",
+   "winner"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00116",
+  "category": "malay",
+  "prompt": "「pejabat」の意味は？",
+  "answer": "office",
+  "glosses": {
+   "en": "office",
+   "ja": "事務所"
+  },
+  "choices": [
+   "faith",
+   "office",
+   "bomb",
+   "worker"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pəd͡ʒabat/",
+  "verified": true
+ },
+ {
+  "id": "ms-00117",
+  "category": "malay",
+  "prompt": "「senjata」の意味は？",
+  "answer": "weapon",
+  "glosses": {
+   "en": "weapon",
+   "ja": "武器"
+  },
+  "choices": [
+   "face",
+   "however",
+   "general (military rank)",
+   "weapon"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/sənˈd͡ʒatə/",
+  "verified": true
+ },
+ {
+  "id": "ms-00118",
+  "category": "malay",
+  "prompt": "「mencari」の意味は？",
+  "answer": "to search for",
+  "glosses": {
+   "en": "to search for",
+   "ja": "探す"
+  },
+  "choices": [
+   "like this",
+   "to search for",
+   "cake",
+   "entertainment"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mən.t͡ʃa.ri/",
+  "verified": true
+ },
+ {
+  "id": "ms-00119",
+  "category": "malay",
+  "prompt": "「perasaan」の意味は？",
+  "answer": "feeling",
+  "glosses": {
+   "en": "feeling",
+   "ja": "感情"
+  },
+  "choices": [
+   "to know",
+   "dangerous",
+   "feeling",
+   "noisy"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pəraˈsaan/",
+  "verified": true
+ },
+ {
+  "id": "ms-00120",
+  "category": "malay",
+  "prompt": "「menerima」の意味は？",
+  "answer": "to receive",
+  "glosses": {
+   "en": "to receive",
+   "ja": "受け取る"
+  },
+  "choices": [
+   "nerve",
+   "to try",
+   "to receive",
+   "naughty"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00121",
+  "category": "malay",
+  "prompt": "「pelakon」の意味は？",
+  "answer": "actor",
+  "glosses": {
+   "en": "actor",
+   "ja": "俳優"
+  },
+  "choices": [
+   "blind",
+   "actor",
+   "to want",
+   "economy"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pəˈlakon/",
+  "verified": true
+ },
+ {
+  "id": "ms-00122",
+  "category": "malay",
+  "prompt": "「guru」の意味は？",
+  "answer": "teacher",
+  "glosses": {
+   "en": "teacher",
+   "ja": "先生，教師"
+  },
+  "choices": [
+   "sport",
+   "proton",
+   "teacher",
+   "companion"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00123",
+  "category": "malay",
+  "prompt": "「saat」の意味は？",
+  "answer": "moment, second",
+  "glosses": {
+   "en": "moment, second",
+   "ja": "瞬間，秒"
+  },
+  "choices": [
+   "moment, second",
+   "to count",
+   "hotel",
+   "mission"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈsaʔat/",
+  "verified": true
+ },
+ {
+  "id": "ms-00124",
+  "category": "malay",
+  "prompt": "「bebas」の意味は？",
+  "answer": "free",
+  "glosses": {
+   "en": "free",
+   "ja": "自由な"
+  },
+  "choices": [
+   "to know",
+   "short",
+   "leader",
+   "free"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈbebas/",
+  "verified": true
+ },
+ {
+  "id": "ms-00125",
+  "category": "malay",
+  "prompt": "「perak」の意味は？",
+  "answer": "silver",
+  "glosses": {
+   "en": "silver",
+   "ja": "銀"
+  },
+  "choices": [
+   "treatment",
+   "silver",
+   "palace",
+   "computer"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈperak/",
+  "verified": true
+ },
+ {
+  "id": "ms-00126",
+  "category": "malay",
+  "prompt": "「milik」の意味は？",
+  "answer": "possession",
+  "glosses": {
+   "en": "possession",
+   "ja": "所有物"
+  },
+  "choices": [
+   "very",
+   "possession",
+   "bottle",
+   "crown"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈmilek/",
+  "verified": true
+ },
+ {
+  "id": "ms-00127",
+  "category": "malay",
+  "prompt": "「darah」の意味は？",
+  "answer": "blood",
+  "glosses": {
+   "en": "blood",
+   "ja": "血"
+  },
+  "choices": [
+   "blood",
+   "ocean",
+   "answer",
+   "to fly"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈdarah/",
+  "verified": true
+ },
+ {
+  "id": "ms-00128",
+  "category": "malay",
+  "prompt": "「ikan」の意味は？",
+  "answer": "fish",
+  "glosses": {
+   "en": "fish",
+   "ja": "魚"
+  },
+  "choices": [
+   "fish",
+   "speed",
+   "to sell",
+   "peaceful"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈikan/",
+  "verified": true
+ },
+ {
+  "id": "ms-00129",
+  "category": "malay",
+  "prompt": "「beli」の意味は？",
+  "answer": "to buy",
+  "glosses": {
+   "en": "to buy",
+   "ja": "買う"
+  },
+  "choices": [
+   "promise",
+   "to buy",
+   "earth",
+   "entertainment"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bəˈli/",
+  "verified": true
+ },
+ {
+  "id": "ms-00130",
+  "category": "malay",
+  "prompt": "「rendah」の意味は？",
+  "answer": "low",
+  "glosses": {
+   "en": "low",
+   "ja": "低い"
+  },
+  "choices": [
+   "cloud",
+   "to discard",
+   "low",
+   "speech, address"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/rəndah/",
+  "verified": true
+ },
+ {
+  "id": "ms-00131",
+  "category": "malay",
+  "prompt": "「panjang」の意味は？",
+  "answer": "long",
+  "glosses": {
+   "en": "long",
+   "ja": "長い"
+  },
+  "choices": [
+   "satellite",
+   "long",
+   "mouse",
+   "grandchild"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈpand͡ʒaŋ/",
+  "verified": true
+ },
+ {
+  "id": "ms-00132",
+  "category": "malay",
+  "prompt": "「harga」の意味は？",
+  "answer": "price",
+  "glosses": {
+   "en": "price",
+   "ja": "価格"
+  },
+  "choices": [
+   "government",
+   "vehicle",
+   "price",
+   "appearance"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈharɡə/",
+  "verified": true
+ },
+ {
+  "id": "ms-00133",
+  "category": "malay",
+  "prompt": "「emas」の意味は？",
+  "answer": "gold",
+  "glosses": {
+   "en": "gold",
+   "ja": "金"
+  },
+  "choices": [
+   "entertainment",
+   "gold",
+   "tool",
+   "to send"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ə.mas/",
+  "verified": true
+ },
+ {
+  "id": "ms-00134",
+  "category": "malay",
+  "prompt": "「kedai」の意味は？",
+  "answer": "shop",
+  "glosses": {
+   "en": "shop",
+   "ja": "店"
+  },
+  "choices": [
+   "shop",
+   "image",
+   "breath",
+   "bread"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kəˈdaj/",
+  "verified": true
+ },
+ {
+  "id": "ms-00135",
+  "category": "malay",
+  "prompt": "「sempurna」の意味は？",
+  "answer": "perfect",
+  "glosses": {
+   "en": "perfect",
+   "ja": "完全な"
+  },
+  "choices": [
+   "indeed",
+   "perfect",
+   "soldier",
+   "noble"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00136",
+  "category": "malay",
+  "prompt": "「alat」の意味は？",
+  "answer": "tool",
+  "glosses": {
+   "en": "tool",
+   "ja": "道具"
+  },
+  "choices": [
+   "kitchen",
+   "game",
+   "tool",
+   "chapter"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00137",
+  "category": "malay",
+  "prompt": "「minum」の意味は？",
+  "answer": "to drink",
+  "glosses": {
+   "en": "to drink",
+   "ja": "飲む"
+  },
+  "choices": [
+   "bottle",
+   "passenger",
+   "to drink",
+   "scary"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈminom/",
+  "verified": true
+ },
+ {
+  "id": "ms-00138",
+  "category": "malay",
+  "prompt": "「pulang」の意味は？",
+  "answer": "to go home",
+  "glosses": {
+   "en": "to go home",
+   "ja": "帰る"
+  },
+  "choices": [
+   "lake",
+   "owner",
+   "to go home",
+   "busy"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈpulaŋ/",
+  "verified": true
+ },
+ {
+  "id": "ms-00139",
+  "category": "malay",
+  "prompt": "「perjalanan」の意味は？",
+  "answer": "journey",
+  "glosses": {
+   "en": "journey",
+   "ja": "旅・道のり"
+  },
+  "choices": [
+   "journey",
+   "to want",
+   "cat",
+   "result"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pərd͡ʒaˈlanan/",
+  "verified": true
+ },
+ {
+  "id": "ms-00140",
+  "category": "malay",
+  "prompt": "「berhenti」の意味は？",
+  "answer": "to stop",
+  "glosses": {
+   "en": "to stop",
+   "ja": "止まる"
+  },
+  "choices": [
+   "to retreat",
+   "to marry",
+   "to stop",
+   "journey"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00141",
+  "category": "malay",
+  "prompt": "「nabi」の意味は？",
+  "answer": "prophet",
+  "glosses": {
+   "en": "prophet",
+   "ja": "預言者"
+  },
+  "choices": [
+   "strange",
+   "group",
+   "motorcycle",
+   "prophet"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/na.bi/",
+  "verified": true
+ },
+ {
+  "id": "ms-00142",
+  "category": "malay",
+  "prompt": "「rambut」の意味は？",
+  "answer": "hair",
+  "glosses": {
+   "en": "hair",
+   "ja": "髪"
+  },
+  "choices": [
+   "brain",
+   "to follow",
+   "cent",
+   "hair"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[rambot",
+  "verified": true
+ },
+ {
+  "id": "ms-00143",
+  "category": "malay",
+  "prompt": "「pilih」の意味は？",
+  "answer": "to choose",
+  "glosses": {
+   "en": "to choose",
+   "ja": "選ぶ"
+  },
+  "choices": [
+   "attendance",
+   "to choose",
+   "style",
+   "professor"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pilih/",
+  "verified": true
+ },
+ {
+  "id": "ms-00144",
+  "category": "malay",
+  "prompt": "「sukan」の意味は？",
+  "answer": "sport",
+  "glosses": {
+   "en": "sport",
+   "ja": "スポーツ"
+  },
+  "choices": [
+   "feeling",
+   "to agree",
+   "shoe",
+   "sport"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00145",
+  "category": "malay",
+  "prompt": "「kumpulan」の意味は？",
+  "answer": "group",
+  "glosses": {
+   "en": "group",
+   "ja": "グループ"
+  },
+  "choices": [
+   "to visit",
+   "location",
+   "to fly",
+   "group"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kumˈpulan/",
+  "verified": true
+ },
+ {
+  "id": "ms-00146",
+  "category": "malay",
+  "prompt": "「sejuk」の意味は？",
+  "answer": "cold",
+  "glosses": {
+   "en": "cold",
+   "ja": "寒い"
+  },
+  "choices": [
+   "speech, address",
+   "science",
+   "to stand",
+   "cold"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/səˈd͡ʒuk/",
+  "verified": true
+ },
+ {
+  "id": "ms-00147",
+  "category": "malay",
+  "prompt": "「calon」の意味は？",
+  "answer": "candidate",
+  "glosses": {
+   "en": "candidate",
+   "ja": "候補者"
+  },
+  "choices": [
+   "energy",
+   "human",
+   "field",
+   "candidate"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈt͡ʃalon/",
+  "verified": true
+ },
+ {
+  "id": "ms-00148",
+  "category": "malay",
+  "prompt": "「perhatian」の意味は？",
+  "answer": "attention",
+  "glosses": {
+   "en": "attention",
+   "ja": "注意"
+  },
+  "choices": [
+   "satellite",
+   "beach",
+   "prophet",
+   "attention"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pərˈhatian/",
+  "verified": true
+ },
+ {
+  "id": "ms-00149",
+  "category": "malay",
+  "prompt": "「tindakan」の意味は？",
+  "answer": "action",
+  "glosses": {
+   "en": "action",
+   "ja": "行動"
+  },
+  "choices": [
+   "ring",
+   "sign",
+   "writing",
+   "action"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/tindakan/",
+  "verified": true
+ },
+ {
+  "id": "ms-00150",
+  "category": "malay",
+  "prompt": "「membaca」の意味は？",
+  "answer": "to read",
+  "glosses": {
+   "en": "to read",
+   "ja": "読む"
+  },
+  "choices": [
+   "to fail",
+   "to read",
+   "level",
+   "warm"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00151",
+  "category": "malay",
+  "prompt": "「penyakit」の意味は？",
+  "answer": "illness",
+  "glosses": {
+   "en": "illness",
+   "ja": "病気"
+  },
+  "choices": [
+   "to choose",
+   "to kick",
+   "donation",
+   "illness"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pəˈɲakit/",
+  "verified": true
+ },
+ {
+  "id": "ms-00152",
+  "category": "malay",
+  "prompt": "「risau」の意味は？",
+  "answer": "to worry",
+  "glosses": {
+   "en": "to worry",
+   "ja": "心配する"
+  },
+  "choices": [
+   "calm",
+   "an area",
+   "ocean",
+   "to worry"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/risau̯/",
+  "verified": true
+ },
+ {
+  "id": "ms-00153",
+  "category": "malay",
+  "prompt": "「hantar」の意味は？",
+  "answer": "to send",
+  "glosses": {
+   "en": "to send",
+   "ja": "送る"
+  },
+  "choices": [
+   "custom",
+   "sugar",
+   "customer",
+   "to send"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈhanta(r)/",
+  "verified": true
+ },
+ {
+  "id": "ms-00154",
+  "category": "malay",
+  "prompt": "「bunyi」の意味は？",
+  "answer": "sound",
+  "glosses": {
+   "en": "sound",
+   "ja": "音"
+  },
+  "choices": [
+   "sound",
+   "scary",
+   "already",
+   "to be destroyed"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/buɲi/",
+  "verified": true
+ },
+ {
+  "id": "ms-00155",
+  "category": "malay",
+  "prompt": "「sejarah」の意味は？",
+  "answer": "history",
+  "glosses": {
+   "en": "history",
+   "ja": "歴史"
+  },
+  "choices": [
+   "a hunter",
+   "history",
+   "leftovers",
+   "sign"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/sədʒarah/",
+  "verified": true
+ },
+ {
+  "id": "ms-00156",
+  "category": "malay",
+  "prompt": "「bangunan」の意味は？",
+  "answer": "building",
+  "glosses": {
+   "en": "building",
+   "ja": "建物"
+  },
+  "choices": [
+   "dog",
+   "business",
+   "toilet",
+   "building"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/baŋunan/",
+  "verified": true
+ },
+ {
+  "id": "ms-00157",
+  "category": "malay",
+  "prompt": "「ilmu」の意味は？",
+  "answer": "knowledge",
+  "glosses": {
+   "en": "knowledge",
+   "ja": "知識"
+  },
+  "choices": [
+   "stadium",
+   "rain",
+   "professor",
+   "knowledge"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00158",
+  "category": "malay",
+  "prompt": "「gagal」の意味は？",
+  "answer": "to fail",
+  "glosses": {
+   "en": "to fail",
+   "ja": "失敗する"
+  },
+  "choices": [
+   "officer",
+   "campus",
+   "tool",
+   "to fail"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00159",
+  "category": "malay",
+  "prompt": "「nasib」の意味は？",
+  "answer": "fate",
+  "glosses": {
+   "en": "fate",
+   "ja": "運命"
+  },
+  "choices": [
+   "father",
+   "special",
+   "fate",
+   "ray"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈnasib/",
+  "verified": true
+ },
+ {
+  "id": "ms-00160",
+  "category": "malay",
+  "prompt": "「tenang」の意味は？",
+  "answer": "calm",
+  "glosses": {
+   "en": "calm",
+   "ja": "穏やかな"
+  },
+  "choices": [
+   "justice",
+   "game",
+   "calm",
+   "sweet"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/təˈnaŋ/",
+  "verified": true
+ },
+ {
+  "id": "ms-00161",
+  "category": "malay",
+  "prompt": "「bayar」の意味は？",
+  "answer": "to pay",
+  "glosses": {
+   "en": "to pay",
+   "ja": "支払う"
+  },
+  "choices": [
+   "teacher",
+   "to lead",
+   "purpose",
+   "to pay"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈbajar/",
+  "verified": true
+ },
+ {
+  "id": "ms-00162",
+  "category": "malay",
+  "prompt": "「laluan」の意味は？",
+  "answer": "route",
+  "glosses": {
+   "en": "route",
+   "ja": "経路"
+  },
+  "choices": [
+   "route",
+   "joke",
+   "smart",
+   "to agree"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/laˈlu.an/",
+  "verified": true
+ },
+ {
+  "id": "ms-00163",
+  "category": "malay",
+  "prompt": "「kanan」の意味は？",
+  "answer": "right (direction)",
+  "glosses": {
+   "en": "right (direction)",
+   "ja": "右"
+  },
+  "choices": [
+   "sport",
+   "to show",
+   "audience",
+   "right (direction)"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kanan/",
+  "verified": true
+ },
+ {
+  "id": "ms-00164",
+  "category": "malay",
+  "prompt": "「buang」の意味は？",
+  "answer": "to discard",
+  "glosses": {
+   "en": "to discard",
+   "ja": "捨てる"
+  },
+  "choices": [
+   "health",
+   "to discard",
+   "palace",
+   "state"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈbuaŋ/",
+  "verified": true
+ },
+ {
+  "id": "ms-00165",
+  "category": "malay",
+  "prompt": "「hospital」の意味は？",
+  "answer": "hospital",
+  "glosses": {
+   "en": "hospital",
+   "ja": "病院"
+  },
+  "choices": [
+   "route",
+   "hospital",
+   "actor",
+   "to touch"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/hosˈpital/",
+  "verified": true
+ },
+ {
+  "id": "ms-00166",
+  "category": "malay",
+  "prompt": "「ajar」の意味は？",
+  "answer": "to teach",
+  "glosses": {
+   "en": "to teach",
+   "ja": "教える"
+  },
+  "choices": [
+   "chemistry",
+   "to teach",
+   "law",
+   "eligible, worthy"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00167",
+  "category": "malay",
+  "prompt": "「hotel」の意味は？",
+  "answer": "hotel",
+  "glosses": {
+   "en": "hotel",
+   "ja": "ホテル"
+  },
+  "choices": [
+   "ceremony",
+   "hotel",
+   "politics",
+   "toilet"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00168",
+  "category": "malay",
+  "prompt": "「pandang」の意味は？",
+  "answer": "to look",
+  "glosses": {
+   "en": "to look",
+   "ja": "見る"
+  },
+  "choices": [
+   "pig",
+   "to look",
+   "mean (average)",
+   "control"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈpandaŋ/",
+  "verified": true
+ },
+ {
+  "id": "ms-00169",
+  "category": "malay",
+  "prompt": "「pelik」の意味は？",
+  "answer": "strange",
+  "glosses": {
+   "en": "strange",
+   "ja": "奇妙な"
+  },
+  "choices": [
+   "strange",
+   "companion",
+   "to wait",
+   "period"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pəˈlek/",
+  "verified": true
+ },
+ {
+  "id": "ms-00170",
+  "category": "malay",
+  "prompt": "「komputer」の意味は？",
+  "answer": "computer",
+  "glosses": {
+   "en": "computer",
+   "ja": "コンピューター"
+  },
+  "choices": [
+   "goat",
+   "computer",
+   "to go home",
+   "mud"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kɔmˈpu.tə(r)/",
+  "verified": true
+ },
+ {
+  "id": "ms-00171",
+  "category": "malay",
+  "prompt": "「politik」の意味は？",
+  "answer": "politics",
+  "glosses": {
+   "en": "politics",
+   "ja": "政治"
+  },
+  "choices": [
+   "to stop",
+   "building",
+   "politics",
+   "low"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00172",
+  "category": "malay",
+  "prompt": "「suami」の意味は？",
+  "answer": "husband",
+  "glosses": {
+   "en": "husband",
+   "ja": "夫"
+  },
+  "choices": [
+   "witness",
+   "boat",
+   "marriage",
+   "husband"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈsuami/",
+  "verified": true
+ },
+ {
+  "id": "ms-00173",
+  "category": "malay",
+  "prompt": "「bas」の意味は？",
+  "answer": "bus",
+  "glosses": {
+   "en": "bus",
+   "ja": "バス"
+  },
+  "choices": [
+   "group",
+   "bus",
+   "giant",
+   "weapon"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bas/",
+  "verified": true
+ },
+ {
+  "id": "ms-00174",
+  "category": "malay",
+  "prompt": "「iman」の意味は？",
+  "answer": "faith",
+  "glosses": {
+   "en": "faith",
+   "ja": "信仰"
+  },
+  "choices": [
+   "situation",
+   "event",
+   "faith",
+   "neck"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈiman/",
+  "verified": true
+ },
+ {
+  "id": "ms-00175",
+  "category": "malay",
+  "prompt": "「taman」の意味は？",
+  "answer": "park",
+  "glosses": {
+   "en": "park",
+   "ja": "公園"
+  },
+  "choices": [
+   "poor",
+   "tail",
+   "park",
+   "action"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00176",
+  "category": "malay",
+  "prompt": "「wajah」の意味は？",
+  "answer": "face",
+  "glosses": {
+   "en": "face",
+   "ja": "顔"
+  },
+  "choices": [
+   "bullet",
+   "face",
+   "beautiful",
+   "Miss/Mr (title)"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈwad͡ʒah/",
+  "verified": true
+ },
+ {
+  "id": "ms-00177",
+  "category": "malay",
+  "prompt": "「hujan」の意味は？",
+  "answer": "rain",
+  "glosses": {
+   "en": "rain",
+   "ja": "雨"
+  },
+  "choices": [
+   "to look",
+   "rain",
+   "flag",
+   "hand"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/hud͡ʒan/",
+  "verified": true
+ },
+ {
+  "id": "ms-00178",
+  "category": "malay",
+  "prompt": "「mulut」の意味は？",
+  "answer": "mouth",
+  "glosses": {
+   "en": "mouth",
+   "ja": "口"
+  },
+  "choices": [
+   "mouth",
+   "possession",
+   "mistaken",
+   "country"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈmulut/",
+  "verified": true
+ },
+ {
+  "id": "ms-00179",
+  "category": "malay",
+  "prompt": "「otak」の意味は？",
+  "answer": "brain",
+  "glosses": {
+   "en": "brain",
+   "ja": "脳"
+  },
+  "choices": [
+   "lane",
+   "answer",
+   "brain",
+   "source"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈotak/",
+  "verified": true
+ },
+ {
+  "id": "ms-00180",
+  "category": "malay",
+  "prompt": "「misi」の意味は？",
+  "answer": "mission",
+  "glosses": {
+   "en": "mission",
+   "ja": "任務"
+  },
+  "choices": [
+   "mission",
+   "level",
+   "mouse",
+   "monkey"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈmisi/",
+  "verified": true
+ },
+ {
+  "id": "ms-00181",
+  "category": "malay",
+  "prompt": "「kasut」の意味は？",
+  "answer": "shoe",
+  "glosses": {
+   "en": "shoe",
+   "ja": "靴"
+  },
+  "choices": [
+   "beach",
+   "mud",
+   "shoe",
+   "story"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈkasut/",
+  "verified": true
+ },
+ {
+  "id": "ms-00182",
+  "category": "malay",
+  "prompt": "「neraka」の意味は？",
+  "answer": "hell",
+  "glosses": {
+   "en": "hell",
+   "ja": "地獄"
+  },
+  "choices": [
+   "to retreat",
+   "hell",
+   "proton",
+   "best"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/nəˈraka/",
+  "verified": true
+ },
+ {
+  "id": "ms-00183",
+  "category": "malay",
+  "prompt": "「namun」の意味は？",
+  "answer": "however",
+  "glosses": {
+   "en": "however",
+   "ja": "しかし"
+  },
+  "choices": [
+   "health",
+   "tight",
+   "success",
+   "however"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈnamon/",
+  "verified": true
+ },
+ {
+  "id": "ms-00184",
+  "category": "malay",
+  "prompt": "「gunung」の意味は？",
+  "answer": "mountain",
+  "glosses": {
+   "en": "mountain",
+   "ja": "山"
+  },
+  "choices": [
+   "proton",
+   "mistaken",
+   "poison",
+   "mountain"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈɡunoŋ/",
+  "verified": true
+ },
+ {
+  "id": "ms-00185",
+  "category": "malay",
+  "prompt": "「askar」の意味は？",
+  "answer": "soldier",
+  "glosses": {
+   "en": "soldier",
+   "ja": "兵士"
+  },
+  "choices": [
+   "soldier",
+   "to fly",
+   "corpse",
+   "wave"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00186",
+  "category": "malay",
+  "prompt": "「musim」の意味は？",
+  "answer": "season",
+  "glosses": {
+   "en": "season",
+   "ja": "季節"
+  },
+  "choices": [
+   "season",
+   "to spin",
+   "to offer",
+   "vehicle"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈmusim/",
+  "verified": true
+ },
+ {
+  "id": "ms-00187",
+  "category": "malay",
+  "prompt": "「peluru」の意味は？",
+  "answer": "bullet",
+  "glosses": {
+   "en": "bullet",
+   "ja": "弾丸"
+  },
+  "choices": [
+   "bullet",
+   "soft",
+   "quiet",
+   "devil"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pəˈluru/",
+  "verified": true
+ },
+ {
+  "id": "ms-00188",
+  "category": "malay",
+  "prompt": "「setuju」の意味は？",
+  "answer": "to agree",
+  "glosses": {
+   "en": "to agree",
+   "ja": "賛成する"
+  },
+  "choices": [
+   "map",
+   "expert",
+   "to agree",
+   "boat"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/səˈtud͡ʒu/",
+  "verified": true
+ },
+ {
+  "id": "ms-00189",
+  "category": "malay",
+  "prompt": "「tenaga」の意味は？",
+  "answer": "energy",
+  "glosses": {
+   "en": "energy",
+   "ja": "エネルギー"
+  },
+  "choices": [
+   "however",
+   "hotel",
+   "ocean",
+   "energy"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/təˈnaɡa/",
+  "verified": true
+ },
+ {
+  "id": "ms-00190",
+  "category": "malay",
+  "prompt": "「ujian」の意味は？",
+  "answer": "test",
+  "glosses": {
+   "en": "test",
+   "ja": "試験"
+  },
+  "choices": [
+   "to agree",
+   "cat",
+   "season",
+   "test"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ud͡ʒian/",
+  "verified": true
+ },
+ {
+  "id": "ms-00191",
+  "category": "malay",
+  "prompt": "「operasi」の意味は？",
+  "answer": "operation",
+  "glosses": {
+   "en": "operation",
+   "ja": "作戦，手術"
+  },
+  "choices": [
+   "operation",
+   "campus",
+   "fresh",
+   "passenger"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00192",
+  "category": "malay",
+  "prompt": "「menyerang」の意味は？",
+  "answer": "to attack",
+  "glosses": {
+   "en": "to attack",
+   "ja": "攻撃する"
+  },
+  "choices": [
+   "soft",
+   "to attack",
+   "to study",
+   "gem"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/məɲəˈraŋ/",
+  "verified": true
+ },
+ {
+  "id": "ms-00193",
+  "category": "malay",
+  "prompt": "「lokasi」の意味は？",
+  "answer": "location",
+  "glosses": {
+   "en": "location",
+   "ja": "場所"
+  },
+  "choices": [
+   "pig",
+   "muscle",
+   "location",
+   "strategy"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/loˈkasi/",
+  "verified": true
+ },
+ {
+  "id": "ms-00194",
+  "category": "malay",
+  "prompt": "「maksud」の意味は？",
+  "answer": "meaning",
+  "glosses": {
+   "en": "meaning",
+   "ja": "意味"
+  },
+  "choices": [
+   "reporter",
+   "meaning",
+   "manner",
+   "student"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈmaksud/",
+  "verified": true
+ },
+ {
+  "id": "ms-00195",
+  "category": "malay",
+  "prompt": "「produk」の意味は？",
+  "answer": "product",
+  "glosses": {
+   "en": "product",
+   "ja": "製品"
+  },
+  "choices": [
+   "noisy",
+   "champion",
+   "product",
+   "night"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[pro.dak̚]",
+  "verified": true
+ },
+ {
+  "id": "ms-00196",
+  "category": "malay",
+  "prompt": "「jawapan」の意味は？",
+  "answer": "answer",
+  "glosses": {
+   "en": "answer",
+   "ja": "答え"
+  },
+  "choices": [
+   "film",
+   "fire",
+   "mother",
+   "answer"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d͡ʒaˈwapan/",
+  "verified": true
+ },
+ {
+  "id": "ms-00197",
+  "category": "malay",
+  "prompt": "「sibuk」の意味は？",
+  "answer": "busy",
+  "glosses": {
+   "en": "busy",
+   "ja": "忙しい"
+  },
+  "choices": [
+   "busy",
+   "to choose",
+   "to discard",
+   "board"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00198",
+  "category": "malay",
+  "prompt": "「kawalan」の意味は？",
+  "answer": "control",
+  "glosses": {
+   "en": "control",
+   "ja": "管理"
+  },
+  "choices": [
+   "winner",
+   "to bathe",
+   "happiness",
+   "control"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kaˈwalan/",
+  "verified": true
+ },
+ {
+  "id": "ms-00199",
+  "category": "malay",
+  "prompt": "「kesilapan」の意味は？",
+  "answer": "mistake",
+  "glosses": {
+   "en": "mistake",
+   "ja": "間違い"
+  },
+  "choices": [
+   "to disturb",
+   "to close",
+   "mistake",
+   "sometimes"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00200",
+  "category": "malay",
+  "prompt": "「kejadian」の意味は？",
+  "answer": "event",
+  "glosses": {
+   "en": "event",
+   "ja": "出来事"
+  },
+  "choices": [
+   "calm",
+   "event",
+   "sultan",
+   "game"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00201",
+  "category": "malay",
+  "prompt": "「menipu」の意味は？",
+  "answer": "to cheat",
+  "glosses": {
+   "en": "to cheat",
+   "ja": "だます"
+  },
+  "choices": [
+   "wheel",
+   "voice",
+   "fund",
+   "to cheat"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/məˈnipu/",
+  "verified": true
+ },
+ {
+  "id": "ms-00202",
+  "category": "malay",
+  "prompt": "「tujuan」の意味は？",
+  "answer": "purpose",
+  "glosses": {
+   "en": "purpose",
+   "ja": "目的"
+  },
+  "choices": [
+   "purpose",
+   "to play",
+   "race",
+   "science"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈtud͡ʒuan/",
+  "verified": true
+ },
+ {
+  "id": "ms-00203",
+  "category": "malay",
+  "prompt": "「sepak」の意味は？",
+  "answer": "to kick",
+  "glosses": {
+   "en": "to kick",
+   "ja": "蹴る"
+  },
+  "choices": [
+   "breath",
+   "sad",
+   "owner",
+   "to kick"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/sepak/",
+  "verified": true
+ },
+ {
+  "id": "ms-00204",
+  "category": "malay",
+  "prompt": "「peribadi」の意味は？",
+  "answer": "personal",
+  "glosses": {
+   "en": "personal",
+   "ja": "個人的な"
+  },
+  "choices": [
+   "helicopter",
+   "to borrow",
+   "to stand",
+   "personal"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00205",
+  "category": "malay",
+  "prompt": "「min」の意味は？",
+  "answer": "mean (average)",
+  "glosses": {
+   "en": "mean (average)",
+   "ja": "平均"
+  },
+  "choices": [
+   "tail",
+   "speed",
+   "to forget",
+   "mean (average)"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[min]",
+  "verified": true
+ },
+ {
+  "id": "ms-00206",
+  "category": "malay",
+  "prompt": "「layak」の意味は？",
+  "answer": "eligible, worthy",
+  "glosses": {
+   "en": "eligible, worthy",
+   "ja": "ふさわしい"
+  },
+  "choices": [
+   "eligible, worthy",
+   "pure",
+   "panda",
+   "style"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00207",
+  "category": "malay",
+  "prompt": "「cik」の意味は？",
+  "answer": "Miss/Mr (title)",
+  "glosses": {
+   "en": "Miss/Mr (title)",
+   "ja": "〜さん（敬称）"
+  },
+  "choices": [
+   "unit",
+   "state",
+   "Miss/Mr (title)",
+   "a hunter"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈt͡ʃik/",
+  "verified": true
+ },
+ {
+  "id": "ms-00208",
+  "category": "malay",
+  "prompt": "「bagaimana」の意味は？",
+  "answer": "how",
+  "glosses": {
+   "en": "how",
+   "ja": "どのように"
+  },
+  "choices": [
+   "must",
+   "increasingly",
+   "to be destroyed",
+   "how"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/baˌɡaiˈmana/",
+  "verified": true
+ },
+ {
+  "id": "ms-00209",
+  "category": "malay",
+  "prompt": "「sungai」の意味は？",
+  "answer": "river",
+  "glosses": {
+   "en": "river",
+   "ja": "川"
+  },
+  "choices": [
+   "hair",
+   "machine",
+   "fire",
+   "river"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈsuŋaj/",
+  "verified": true
+ },
+ {
+  "id": "ms-00210",
+  "category": "malay",
+  "prompt": "「kucing」の意味は？",
+  "answer": "cat",
+  "glosses": {
+   "en": "cat",
+   "ja": "猫"
+  },
+  "choices": [
+   "noble",
+   "cat",
+   "calamity",
+   "communication"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈkut͡ʃiŋ/",
+  "verified": true
+ },
+ {
+  "id": "ms-00211",
+  "category": "malay",
+  "prompt": "「unit」の意味は？",
+  "answer": "unit",
+  "glosses": {
+   "en": "unit",
+   "ja": "単位"
+  },
+  "choices": [
+   "blood",
+   "to retreat",
+   "unit",
+   "to fail"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈjunit/",
+  "verified": true
+ },
+ {
+  "id": "ms-00212",
+  "category": "malay",
+  "prompt": "「meja」の意味は？",
+  "answer": "table",
+  "glosses": {
+   "en": "table",
+   "ja": "テーブル"
+  },
+  "choices": [
+   "communication",
+   "clinic",
+   "stadium",
+   "table"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈmed͡ʒə/",
+  "verified": true
+ },
+ {
+  "id": "ms-00213",
+  "category": "malay",
+  "prompt": "「seluar」の意味は？",
+  "answer": "trousers",
+  "glosses": {
+   "en": "trousers",
+   "ja": "ズボン"
+  },
+  "choices": [
+   "muscle",
+   "trousers",
+   "product",
+   "low"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/sə.lu.a(r)/",
+  "verified": true
+ },
+ {
+  "id": "ms-00214",
+  "category": "malay",
+  "prompt": "「besi」の意味は？",
+  "answer": "iron",
+  "glosses": {
+   "en": "iron",
+   "ja": "鉄"
+  },
+  "choices": [
+   "iron",
+   "battle",
+   "price",
+   "technology"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[bəsi]",
+  "verified": true
+ },
+ {
+  "id": "ms-00215",
+  "category": "malay",
+  "prompt": "「petang」の意味は？",
+  "answer": "afternoon",
+  "glosses": {
+   "en": "afternoon",
+   "ja": "午後"
+  },
+  "choices": [
+   "law",
+   "morning",
+   "afternoon",
+   "cloud"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pəˈtaŋ/",
+  "verified": true
+ },
+ {
+  "id": "ms-00216",
+  "category": "malay",
+  "prompt": "「gula」の意味は？",
+  "answer": "sugar",
+  "glosses": {
+   "en": "sugar",
+   "ja": "砂糖"
+  },
+  "choices": [
+   "feeling",
+   "sand",
+   "sugar",
+   "zone"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈɡulə/",
+  "verified": true
+ },
+ {
+  "id": "ms-00217",
+  "category": "malay",
+  "prompt": "「aman」の意味は？",
+  "answer": "peaceful",
+  "glosses": {
+   "en": "peaceful",
+   "ja": "平和な"
+  },
+  "choices": [
+   "promise",
+   "peaceful",
+   "meaning",
+   "roof"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/aman/",
+  "verified": true
+ },
+ {
+  "id": "ms-00218",
+  "category": "malay",
+  "prompt": "「ayat」の意味は？",
+  "answer": "sentence",
+  "glosses": {
+   "en": "sentence",
+   "ja": "文"
+  },
+  "choices": [
+   "bread",
+   "to come",
+   "responsibility",
+   "sentence"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈajat/",
+  "verified": true
+ },
+ {
+  "id": "ms-00219",
+  "category": "malay",
+  "prompt": "「berjalan」の意味は？",
+  "answer": "to walk",
+  "glosses": {
+   "en": "to walk",
+   "ja": "歩く"
+  },
+  "choices": [
+   "economy",
+   "to walk",
+   "woman",
+   "iron"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00220",
+  "category": "malay",
+  "prompt": "「umur」の意味は？",
+  "answer": "age",
+  "glosses": {
+   "en": "age",
+   "ja": "年齢"
+  },
+  "choices": [
+   "age",
+   "action",
+   "number",
+   "wife"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00221",
+  "category": "malay",
+  "prompt": "「manis」の意味は？",
+  "answer": "sweet",
+  "glosses": {
+   "en": "sweet",
+   "ja": "甘い"
+  },
+  "choices": [
+   "to attack",
+   "sweet",
+   "chapter",
+   "crocodile"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈmanis/",
+  "verified": true
+ },
+ {
+  "id": "ms-00222",
+  "category": "malay",
+  "prompt": "「kad」の意味は？",
+  "answer": "card",
+  "glosses": {
+   "en": "card",
+   "ja": "カード"
+  },
+  "choices": [
+   "an area",
+   "card",
+   "test",
+   "mean (average)"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈkad/",
+  "verified": true
+ },
+ {
+  "id": "ms-00223",
+  "category": "malay",
+  "prompt": "「setia」の意味は？",
+  "answer": "loyal",
+  "glosses": {
+   "en": "loyal",
+   "ja": "忠実な"
+  },
+  "choices": [
+   "to bathe",
+   "reporter",
+   "board",
+   "loyal"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/səˈtia/",
+  "verified": true
+ },
+ {
+  "id": "ms-00224",
+  "category": "malay",
+  "prompt": "「pantai」の意味は？",
+  "answer": "beach",
+  "glosses": {
+   "en": "beach",
+   "ja": "海岸"
+  },
+  "choices": [
+   "club",
+   "grandmother",
+   "beach",
+   "mouth"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈpantaj/",
+  "verified": true
+ },
+ {
+  "id": "ms-00225",
+  "category": "malay",
+  "prompt": "「sedih」の意味は？",
+  "answer": "sad",
+  "glosses": {
+   "en": "sad",
+   "ja": "悲しい"
+  },
+  "choices": [
+   "sad",
+   "energy",
+   "very",
+   "award"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/səˈdeh/",
+  "verified": true
+ },
+ {
+  "id": "ms-00226",
+  "category": "malay",
+  "prompt": "「lambat」の意味は？",
+  "answer": "slow",
+  "glosses": {
+   "en": "slow",
+   "ja": "遅い"
+  },
+  "choices": [
+   "slow",
+   "Dollar :",
+   "information",
+   "perhaps"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/lam.bat/",
+  "verified": true
+ },
+ {
+  "id": "ms-00227",
+  "category": "malay",
+  "prompt": "「laju」の意味は？",
+  "answer": "fast",
+  "glosses": {
+   "en": "fast",
+   "ja": "速い"
+  },
+  "choices": [
+   "fighter",
+   "noodles",
+   "director",
+   "fast"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/lad͡ʒu/",
+  "verified": true
+ },
+ {
+  "id": "ms-00228",
+  "category": "malay",
+  "prompt": "「bayi」の意味は？",
+  "answer": "baby",
+  "glosses": {
+   "en": "baby",
+   "ja": "赤ん坊"
+  },
+  "choices": [
+   "wheel",
+   "baby",
+   "responsibility",
+   "race"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ba.ji]",
+  "verified": true
+ },
+ {
+  "id": "ms-00229",
+  "category": "malay",
+  "prompt": "「sumber」の意味は？",
+  "answer": "source",
+  "glosses": {
+   "en": "source",
+   "ja": "源"
+  },
+  "choices": [
+   "to win",
+   "possession",
+   "source",
+   "belly"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈsumbə(r)/",
+  "verified": true
+ },
+ {
+  "id": "ms-00230",
+  "category": "malay",
+  "prompt": "「lampu」の意味は？",
+  "answer": "lamp",
+  "glosses": {
+   "en": "lamp",
+   "ja": "電灯"
+  },
+  "choices": [
+   "leader",
+   "to follow",
+   "vehicle",
+   "lamp"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈlampu/",
+  "verified": true
+ },
+ {
+  "id": "ms-00231",
+  "category": "malay",
+  "prompt": "「senarai」の意味は？",
+  "answer": "list",
+  "glosses": {
+   "en": "list",
+   "ja": "一覧"
+  },
+  "choices": [
+   "business",
+   "banana",
+   "clinic",
+   "list"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00232",
+  "category": "malay",
+  "prompt": "「jeneral」の意味は？",
+  "answer": "general (military rank)",
+  "glosses": {
+   "en": "general (military rank)",
+   "ja": "将軍"
+  },
+  "choices": [
+   "responsibility",
+   "general (military rank)",
+   "to close",
+   "computer"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d͡ʒənəˈral/",
+  "verified": true
+ },
+ {
+  "id": "ms-00233",
+  "category": "malay",
+  "prompt": "「gaya」の意味は？",
+  "answer": "style",
+  "glosses": {
+   "en": "style",
+   "ja": "スタイル"
+  },
+  "choices": [
+   "style",
+   "strategy",
+   "stripe",
+   "unit"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈɡaja/",
+  "verified": true
+ },
+ {
+  "id": "ms-00234",
+  "category": "malay",
+  "prompt": "「penduduk」の意味は？",
+  "answer": "resident",
+  "glosses": {
+   "en": "resident",
+   "ja": "住民"
+  },
+  "choices": [
+   "individual",
+   "resident",
+   "service",
+   "test"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pənˈdudok/",
+  "verified": true
+ },
+ {
+  "id": "ms-00235",
+  "category": "malay",
+  "prompt": "「akibat」の意味は？",
+  "answer": "result",
+  "glosses": {
+   "en": "result",
+   "ja": "結果"
+  },
+  "choices": [
+   "result",
+   "mouse",
+   "very",
+   "yard; page"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/aˈkibat/",
+  "verified": true
+ },
+ {
+  "id": "ms-00236",
+  "category": "malay",
+  "prompt": "「puteri」の意味は？",
+  "answer": "princess",
+  "glosses": {
+   "en": "princess",
+   "ja": "王女"
+  },
+  "choices": [
+   "princess",
+   "rebel",
+   "to meet",
+   "muscle"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˌputəˈri/",
+  "verified": true
+ },
+ {
+  "id": "ms-00237",
+  "category": "malay",
+  "prompt": "「jujur」の意味は？",
+  "answer": "honest",
+  "glosses": {
+   "en": "honest",
+   "ja": "正直な"
+  },
+  "choices": [
+   "lake",
+   "campus",
+   "victim",
+   "honest"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈd͡ʒud͡ʒur/",
+  "verified": true
+ },
+ {
+  "id": "ms-00238",
+  "category": "malay",
+  "prompt": "「teruskan」の意味は？",
+  "answer": "continue",
+  "glosses": {
+   "en": "continue",
+   "ja": "続ける"
+  },
+  "choices": [
+   "rare",
+   "baby",
+   "eligible, worthy",
+   "continue"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00239",
+  "category": "malay",
+  "prompt": "「mulia」の意味は？",
+  "answer": "noble",
+  "glosses": {
+   "en": "noble",
+   "ja": "高貴な"
+  },
+  "choices": [
+   "to create",
+   "congregation",
+   "politics",
+   "noble"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00240",
+  "category": "malay",
+  "prompt": "「pakaian」の意味は？",
+  "answer": "clothes",
+  "glosses": {
+   "en": "clothes",
+   "ja": "服"
+  },
+  "choices": [
+   "nose",
+   "violence",
+   "clothes",
+   "worker"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pakai̯an/",
+  "verified": true
+ },
+ {
+  "id": "ms-00241",
+  "category": "malay",
+  "prompt": "「kesihatan」の意味は？",
+  "answer": "health",
+  "glosses": {
+   "en": "health",
+   "ja": "健康"
+  },
+  "choices": [
+   "post",
+   "box",
+   "health",
+   "appearance"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00242",
+  "category": "malay",
+  "prompt": "「pekerja」の意味は？",
+  "answer": "worker",
+  "glosses": {
+   "en": "worker",
+   "ja": "労働者"
+  },
+  "choices": [
+   "cute",
+   "worker",
+   "camera",
+   "student"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pəkərˈd͡ʒa/",
+  "verified": true
+ },
+ {
+  "id": "ms-00243",
+  "category": "malay",
+  "prompt": "「kejayaan」の意味は？",
+  "answer": "success",
+  "glosses": {
+   "en": "success",
+   "ja": "成功"
+  },
+  "choices": [
+   "pure",
+   "success",
+   "to lead",
+   "to chase"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00244",
+  "category": "malay",
+  "prompt": "「perkahwinan」の意味は？",
+  "answer": "marriage",
+  "glosses": {
+   "en": "marriage",
+   "ja": "結婚"
+  },
+  "choices": [
+   "quiet",
+   "marriage",
+   "to hunt",
+   "pig"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00245",
+  "category": "malay",
+  "prompt": "「terkenal」の意味は？",
+  "answer": "famous",
+  "glosses": {
+   "en": "famous",
+   "ja": "有名な"
+  },
+  "choices": [
+   "famous",
+   "group",
+   "chemistry",
+   "difficult"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/tərkəˈnal/",
+  "verified": true
+ },
+ {
+  "id": "ms-00246",
+  "category": "malay",
+  "prompt": "「pemain」の意味は？",
+  "answer": "player",
+  "glosses": {
+   "en": "player",
+   "ja": "選手"
+  },
+  "choices": [
+   "coffee",
+   "distance",
+   "player",
+   "mud"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00247",
+  "category": "malay",
+  "prompt": "「sukar」の意味は？",
+  "answer": "difficult",
+  "glosses": {
+   "en": "difficult",
+   "ja": "難しい"
+  },
+  "choices": [
+   "perfect",
+   "sentence",
+   "to regard",
+   "difficult"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00248",
+  "category": "malay",
+  "prompt": "「pegang」の意味は？",
+  "answer": "to hold",
+  "glosses": {
+   "en": "to hold",
+   "ja": "持つ"
+  },
+  "choices": [
+   "building",
+   "opinion",
+   "to create",
+   "to hold"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pəˈɡaŋ/",
+  "verified": true
+ },
+ {
+  "id": "ms-00249",
+  "category": "malay",
+  "prompt": "「sebut」の意味は？",
+  "answer": "to mention",
+  "glosses": {
+   "en": "to mention",
+   "ja": "口にする"
+  },
+  "choices": [
+   "dormitory",
+   "to mention",
+   "speed",
+   "knee"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/səbut/",
+  "verified": true
+ },
+ {
+  "id": "ms-00250",
+  "category": "malay",
+  "prompt": "「persekutuan」の意味は？",
+  "answer": "federation",
+  "glosses": {
+   "en": "federation",
+   "ja": "連邦"
+  },
+  "choices": [
+   "season",
+   "federation",
+   "there, over there",
+   "tower"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pərsəkuˈtuan/",
+  "verified": true
+ },
+ {
+  "id": "ms-00251",
+  "category": "malay",
+  "prompt": "「jawatan」の意味は？",
+  "answer": "post",
+  "glosses": {
+   "en": "post",
+   "ja": "役職"
+  },
+  "choices": [
+   "to agree",
+   "eligible, worthy",
+   "post",
+   "tower"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d͡ʒaˈwatan/",
+  "verified": true
+ },
+ {
+  "id": "ms-00252",
+  "category": "malay",
+  "prompt": "「berjuang」の意味は？",
+  "answer": "to struggle",
+  "glosses": {
+   "en": "to struggle",
+   "ja": "奮闘する"
+  },
+  "choices": [
+   "to struggle",
+   "motorcycle",
+   "to stop",
+   "bomb"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bər.d͡ʒu.aŋ/",
+  "verified": true
+ },
+ {
+  "id": "ms-00253",
+  "category": "malay",
+  "prompt": "「pakar」の意味は？",
+  "answer": "expert",
+  "glosses": {
+   "en": "expert",
+   "ja": "専門家"
+  },
+  "choices": [
+   "resident",
+   "beautiful",
+   "to come",
+   "expert"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈpaka/",
+  "verified": true
+ },
+ {
+  "id": "ms-00254",
+  "category": "malay",
+  "prompt": "「seronok」の意味は？",
+  "answer": "fun",
+  "glosses": {
+   "en": "fun",
+   "ja": "楽しい"
+  },
+  "choices": [
+   "gem",
+   "fun",
+   "story",
+   "to help"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/səˈronok/",
+  "verified": true
+ },
+ {
+  "id": "ms-00255",
+  "category": "malay",
+  "prompt": "「kekasih」の意味は？",
+  "answer": "lover",
+  "glosses": {
+   "en": "lover",
+   "ja": "恋人"
+  },
+  "choices": [
+   "floor",
+   "lover",
+   "field",
+   "to request"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kəkasih/",
+  "verified": true
+ },
+ {
+  "id": "ms-00256",
+  "category": "malay",
+  "prompt": "「mandi」の意味は？",
+  "answer": "to bathe",
+  "glosses": {
+   "en": "to bathe",
+   "ja": "入浴する"
+  },
+  "choices": [
+   "champion",
+   "interest",
+   "opinion",
+   "to bathe"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[mänˈdi]",
+  "verified": true
+ },
+ {
+  "id": "ms-00257",
+  "category": "malay",
+  "prompt": "「ulang」の意味は？",
+  "answer": "to repeat",
+  "glosses": {
+   "en": "to repeat",
+   "ja": "繰り返す"
+  },
+  "choices": [
+   "wave",
+   "to repeat",
+   "sad",
+   "always"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈulaŋ/",
+  "verified": true
+ },
+ {
+  "id": "ms-00258",
+  "category": "malay",
+  "prompt": "「sabar」の意味は？",
+  "answer": "patient",
+  "glosses": {
+   "en": "patient",
+   "ja": "忍耐強い"
+  },
+  "choices": [
+   "officer",
+   "don't",
+   "patient",
+   "baby"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[sa.ba(r)]",
+  "verified": true
+ },
+ {
+  "id": "ms-00259",
+  "category": "malay",
+  "prompt": "「silap」の意味は？",
+  "answer": "mistaken",
+  "glosses": {
+   "en": "mistaken",
+   "ja": "間違った"
+  },
+  "choices": [
+   "number",
+   "radio",
+   "metal",
+   "mistaken"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/silap/",
+  "verified": true
+ },
+ {
+  "id": "ms-00260",
+  "category": "malay",
+  "prompt": "「radio」の意味は？",
+  "answer": "radio",
+  "glosses": {
+   "en": "radio",
+   "ja": "ラジオ"
+  },
+  "choices": [
+   "soft",
+   "to marry",
+   "grandchild",
+   "radio"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈradio/",
+  "verified": true
+ },
+ {
+  "id": "ms-00261",
+  "category": "malay",
+  "prompt": "「idea」の意味は？",
+  "answer": "idea",
+  "glosses": {
+   "en": "idea",
+   "ja": "考え"
+  },
+  "choices": [
+   "to read",
+   "loyal",
+   "giant",
+   "idea"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈajdiə/",
+  "verified": true
+ },
+ {
+  "id": "ms-00262",
+  "category": "malay",
+  "prompt": "「kopi」の意味は？",
+  "answer": "coffee",
+  "glosses": {
+   "en": "coffee",
+   "ja": "コーヒー"
+  },
+  "choices": [
+   "to regard",
+   "coffee",
+   "tail",
+   "noble"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈkopi/",
+  "verified": true
+ },
+ {
+  "id": "ms-00263",
+  "category": "malay",
+  "prompt": "「peta」の意味は？",
+  "answer": "map",
+  "glosses": {
+   "en": "map",
+   "ja": "地図"
+  },
+  "choices": [
+   "bullet",
+   "difference",
+   "type",
+   "map"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pəta/",
+  "verified": true
+ },
+ {
+  "id": "ms-00264",
+  "category": "malay",
+  "prompt": "「virus」の意味は？",
+  "answer": "virus",
+  "glosses": {
+   "en": "virus",
+   "ja": "ウイルス"
+  },
+  "choices": [
+   "beautiful",
+   "virus",
+   "very",
+   "lack"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/virus/",
+  "verified": true
+ },
+ {
+  "id": "ms-00265",
+  "category": "malay",
+  "prompt": "「sah」の意味は？",
+  "answer": "valid",
+  "glosses": {
+   "en": "valid",
+   "ja": "有効な"
+  },
+  "choices": [
+   "valid",
+   "owner",
+   "week",
+   "salary"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈsah/",
+  "verified": true
+ },
+ {
+  "id": "ms-00266",
+  "category": "malay",
+  "prompt": "「helikopter」の意味は？",
+  "answer": "helicopter",
+  "glosses": {
+   "en": "helicopter",
+   "ja": "ヘリコプター"
+  },
+  "choices": [
+   "beach",
+   "accident",
+   "mistake",
+   "helicopter"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00267",
+  "category": "malay",
+  "prompt": "「peti」の意味は？",
+  "answer": "box",
+  "glosses": {
+   "en": "box",
+   "ja": "箱"
+  },
+  "choices": [
+   "slow",
+   "box",
+   "bomb",
+   "boat"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pəti/",
+  "verified": true
+ },
+ {
+  "id": "ms-00268",
+  "category": "malay",
+  "prompt": "「doktor」の意味は？",
+  "answer": "doctor",
+  "glosses": {
+   "en": "doctor",
+   "ja": "医者"
+  },
+  "choices": [
+   "camp",
+   "mud",
+   "doctor",
+   "to replace"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/doktor/",
+  "verified": true
+ },
+ {
+  "id": "ms-00269",
+  "category": "malay",
+  "prompt": "「sultan」の意味は？",
+  "answer": "sultan",
+  "glosses": {
+   "en": "sultan",
+   "ja": "スルタン"
+  },
+  "choices": [
+   "symbol",
+   "sultan",
+   "rope",
+   "period"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00270",
+  "category": "malay",
+  "prompt": "「seni」の意味は？",
+  "answer": "art",
+  "glosses": {
+   "en": "art",
+   "ja": "芸術"
+  },
+  "choices": [
+   "channel",
+   "art",
+   "lack",
+   "park"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/səˈni/",
+  "verified": true
+ },
+ {
+  "id": "ms-00271",
+  "category": "malay",
+  "prompt": "「rupa」の意味は？",
+  "answer": "appearance",
+  "glosses": {
+   "en": "appearance",
+   "ja": "姿"
+  },
+  "choices": [
+   "grandchild",
+   "appearance",
+   "perfect",
+   "salary"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00272",
+  "category": "malay",
+  "prompt": "「menutup」の意味は？",
+  "answer": "to close",
+  "glosses": {
+   "en": "to close",
+   "ja": "閉じる"
+  },
+  "choices": [
+   "question",
+   "heart",
+   "to close",
+   "free"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00273",
+  "category": "malay",
+  "prompt": "「langit」の意味は？",
+  "answer": "sky",
+  "glosses": {
+   "en": "sky",
+   "ja": "空"
+  },
+  "choices": [
+   "must",
+   "sky",
+   "radio",
+   "factory"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈlaŋit/",
+  "verified": true
+ },
+ {
+  "id": "ms-00274",
+  "category": "malay",
+  "prompt": "「suci」の意味は？",
+  "answer": "pure",
+  "glosses": {
+   "en": "pure",
+   "ja": "清らかな"
+  },
+  "choices": [
+   "pure",
+   "normally",
+   "very",
+   "zone"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00275",
+  "category": "malay",
+  "prompt": "「anggap」の意味は？",
+  "answer": "to regard",
+  "glosses": {
+   "en": "to regard",
+   "ja": "見なす"
+  },
+  "choices": [
+   "danger",
+   "to regard",
+   "congregation",
+   "worker"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈaŋɡap/",
+  "verified": true
+ },
+ {
+  "id": "ms-00276",
+  "category": "malay",
+  "prompt": "「bukit」の意味は？",
+  "answer": "hill",
+  "glosses": {
+   "en": "hill",
+   "ja": "丘"
+  },
+  "choices": [
+   "tribe",
+   "weak",
+   "hill",
+   "project"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈbuket/",
+  "verified": true
+ },
+ {
+  "id": "ms-00277",
+  "category": "malay",
+  "prompt": "「tarikh」の意味は？",
+  "answer": "date",
+  "glosses": {
+   "en": "date",
+   "ja": "日付"
+  },
+  "choices": [
+   "project",
+   "normally",
+   "poison",
+   "date"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈtarix/",
+  "verified": true
+ },
+ {
+  "id": "ms-00278",
+  "category": "malay",
+  "prompt": "「teknologi」の意味は？",
+  "answer": "technology",
+  "glosses": {
+   "en": "technology",
+   "ja": "技術"
+  },
+  "choices": [
+   "manner",
+   "technology",
+   "fish",
+   "unwilling"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˌteknoˈlod͡ʒi/",
+  "verified": true
+ },
+ {
+  "id": "ms-00279",
+  "category": "malay",
+  "prompt": "「ais」の意味は？",
+  "answer": "ice",
+  "glosses": {
+   "en": "ice",
+   "ja": "氷"
+  },
+  "choices": [
+   "hall",
+   "ice",
+   "giant",
+   "sport"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈais/",
+  "verified": true
+ },
+ {
+  "id": "ms-00280",
+  "category": "malay",
+  "prompt": "「gereja」の意味は？",
+  "answer": "church",
+  "glosses": {
+   "en": "church",
+   "ja": "教会"
+  },
+  "choices": [
+   "hotel",
+   "high",
+   "satellite",
+   "church"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɡəˈred͡ʒə/",
+  "verified": true
+ },
+ {
+  "id": "ms-00281",
+  "category": "malay",
+  "prompt": "「istana」の意味は？",
+  "answer": "palace",
+  "glosses": {
+   "en": "palace",
+   "ja": "宮殿"
+  },
+  "choices": [
+   "event",
+   "source",
+   "ray",
+   "palace"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ɪsˈtana]",
+  "verified": true
+ },
+ {
+  "id": "ms-00282",
+  "category": "malay",
+  "prompt": "「mesin」の意味は？",
+  "answer": "machine",
+  "glosses": {
+   "en": "machine",
+   "ja": "機械"
+  },
+  "choices": [
+   "machine",
+   "type",
+   "goat",
+   "afternoon"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mesin/",
+  "verified": true
+ },
+ {
+  "id": "ms-00283",
+  "category": "malay",
+  "prompt": "「lautan」の意味は？",
+  "answer": "ocean",
+  "glosses": {
+   "en": "ocean",
+   "ja": "大海，大洋"
+  },
+  "choices": [
+   "ocean",
+   "outer space",
+   "toilet",
+   "winner"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/laˈutan/",
+  "verified": true
+ },
+ {
+  "id": "ms-00284",
+  "category": "malay",
+  "prompt": "「tulis」の意味は？",
+  "answer": "to write",
+  "glosses": {
+   "en": "to write",
+   "ja": "書く"
+  },
+  "choices": [
+   "cent",
+   "medal",
+   "to write",
+   "pig"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈtules/",
+  "verified": true
+ },
+ {
+  "id": "ms-00285",
+  "category": "malay",
+  "prompt": "「lemah」の意味は？",
+  "answer": "weak",
+  "glosses": {
+   "en": "weak",
+   "ja": "弱い"
+  },
+  "choices": [
+   "to request",
+   "weak",
+   "too",
+   "special"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ləmah/",
+  "verified": true
+ },
+ {
+  "id": "ms-00286",
+  "category": "malay",
+  "prompt": "「putera」の意味は？",
+  "answer": "prince",
+  "glosses": {
+   "en": "prince",
+   "ja": "王子"
+  },
+  "choices": [
+   "festival",
+   "prince",
+   "a pistol",
+   "to cheat"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˌputəˈra/",
+  "verified": true
+ },
+ {
+  "id": "ms-00287",
+  "category": "malay",
+  "prompt": "「tangga」の意味は？",
+  "answer": "stair",
+  "glosses": {
+   "en": "stair",
+   "ja": "階段"
+  },
+  "choices": [
+   "stair",
+   "metal",
+   "manner",
+   "happiness"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈtaŋɡa/",
+  "verified": true
+ },
+ {
+  "id": "ms-00288",
+  "category": "malay",
+  "prompt": "「kerusi」の意味は？",
+  "answer": "chair",
+  "glosses": {
+   "en": "chair",
+   "ja": "いす"
+  },
+  "choices": [
+   "debt",
+   "choice",
+   "chair",
+   "speed"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00289",
+  "category": "malay",
+  "prompt": "「khas」の意味は？",
+  "answer": "special",
+  "glosses": {
+   "en": "special",
+   "ja": "特別な"
+  },
+  "choices": [
+   "to look",
+   "special",
+   "a pistol",
+   "hall"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00290",
+  "category": "malay",
+  "prompt": "「jarak」の意味は？",
+  "answer": "distance",
+  "glosses": {
+   "en": "distance",
+   "ja": "距離"
+  },
+  "choices": [
+   "distance",
+   "memories",
+   "noble",
+   "sauce"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈd͡ʒarak/",
+  "verified": true
+ },
+ {
+  "id": "ms-00291",
+  "category": "malay",
+  "prompt": "「jumlah」の意味は？",
+  "answer": "sum",
+  "glosses": {
+   "en": "sum",
+   "ja": "合計"
+  },
+  "choices": [
+   "to be",
+   "sum",
+   "to search for",
+   "nature"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈd͡ʒumlah/",
+  "verified": true
+ },
+ {
+  "id": "ms-00292",
+  "category": "malay",
+  "prompt": "「angkasa」の意味は？",
+  "answer": "outer space",
+  "glosses": {
+   "en": "outer space",
+   "ja": "宇宙"
+  },
+  "choices": [
+   "illness",
+   "border",
+   "outer space",
+   "cattle"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/aŋˈkasa/",
+  "verified": true
+ },
+ {
+  "id": "ms-00293",
+  "category": "malay",
+  "prompt": "「adil」の意味は？",
+  "answer": "fair",
+  "glosses": {
+   "en": "fair",
+   "ja": "公平な"
+  },
+  "choices": [
+   "to regard",
+   "a gong",
+   "fresh",
+   "fair"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈadil/",
+  "verified": true
+ },
+ {
+  "id": "ms-00294",
+  "category": "malay",
+  "prompt": "「pendidikan」の意味は？",
+  "answer": "education",
+  "glosses": {
+   "en": "education",
+   "ja": "教育"
+  },
+  "choices": [
+   "promise",
+   "base",
+   "weak",
+   "education"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pəndidikan/",
+  "verified": true
+ },
+ {
+  "id": "ms-00295",
+  "category": "malay",
+  "prompt": "「menara」の意味は？",
+  "answer": "tower",
+  "glosses": {
+   "en": "tower",
+   "ja": "塔"
+  },
+  "choices": [
+   "silver",
+   "tower",
+   "an area",
+   "high"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/məˈnarə/",
+  "verified": true
+ },
+ {
+  "id": "ms-00296",
+  "category": "malay",
+  "prompt": "「masyarakat」の意味は？",
+  "answer": "society",
+  "glosses": {
+   "en": "society",
+   "ja": "社会"
+  },
+  "choices": [
+   "society",
+   "peaceful",
+   "sand",
+   "choice"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˌmaʃaˈrakat/",
+  "verified": true
+ },
+ {
+  "id": "ms-00297",
+  "category": "malay",
+  "prompt": "「menyesal」の意味は？",
+  "answer": "to regret",
+  "glosses": {
+   "en": "to regret",
+   "ja": "後悔する"
+  },
+  "choices": [
+   "building",
+   "to regret",
+   "minute",
+   "naughty"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/məɲəˈsal/",
+  "verified": true
+ },
+ {
+  "id": "ms-00298",
+  "category": "malay",
+  "prompt": "「comel」の意味は？",
+  "answer": "cute",
+  "glosses": {
+   "en": "cute",
+   "ja": "かわいい"
+  },
+  "choices": [
+   "death",
+   "cute",
+   "human",
+   "mother"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈt͡ʃomel/",
+  "verified": true
+ },
+ {
+  "id": "ms-00299",
+  "category": "malay",
+  "prompt": "「biasanya」の意味は？",
+  "answer": "normally",
+  "glosses": {
+   "en": "normally",
+   "ja": "通常は"
+  },
+  "choices": [
+   "science",
+   "strange",
+   "to hope",
+   "normally"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈbiasəɲə/",
+  "verified": true
+ },
+ {
+  "id": "ms-00300",
+  "category": "malay",
+  "prompt": "「mangsa」の意味は？",
+  "answer": "victim",
+  "glosses": {
+   "en": "victim",
+   "ja": "犠牲者"
+  },
+  "choices": [
+   "victim",
+   "home",
+   "special",
+   "patient"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈmaŋsə/",
+  "verified": true
+ },
+ {
+  "id": "ms-00301",
+  "category": "malay",
+  "prompt": "「pemandu」の意味は？",
+  "answer": "driver",
+  "glosses": {
+   "en": "driver",
+   "ja": "運転手"
+  },
+  "choices": [
+   "driver",
+   "father",
+   "expensive",
+   "soft"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00302",
+  "category": "malay",
+  "prompt": "「pelanggan」の意味は？",
+  "answer": "customer",
+  "glosses": {
+   "en": "customer",
+   "ja": "お客"
+  },
+  "choices": [
+   "channel",
+   "sad",
+   "too",
+   "customer"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00303",
+  "category": "malay",
+  "prompt": "「pemenang」の意味は？",
+  "answer": "winner",
+  "glosses": {
+   "en": "winner",
+   "ja": "勝者"
+  },
+  "choices": [
+   "winner",
+   "lack",
+   "business",
+   "restaurant"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00304",
+  "category": "malay",
+  "prompt": "「kekuatan」の意味は？",
+  "answer": "strength",
+  "glosses": {
+   "en": "strength",
+   "ja": "強さ"
+  },
+  "choices": [
+   "strength",
+   "base",
+   "trousers",
+   "mother"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00305",
+  "category": "malay",
+  "prompt": "「puak」の意味は？",
+  "answer": "tribe",
+  "glosses": {
+   "en": "tribe",
+   "ja": "部族"
+  },
+  "choices": [
+   "tribe",
+   "battle",
+   "to save",
+   "opinion"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00306",
+  "category": "malay",
+  "prompt": "「pertempuran」の意味は？",
+  "answer": "battle",
+  "glosses": {
+   "en": "battle",
+   "ja": "戦闘"
+  },
+  "choices": [
+   "to search for",
+   "campus",
+   "battle",
+   "companion"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00307",
+  "category": "malay",
+  "prompt": "「anugerah」の意味は？",
+  "answer": "award",
+  "glosses": {
+   "en": "award",
+   "ja": "賞"
+  },
+  "choices": [
+   "award",
+   "beach",
+   "peaceful",
+   "witness"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/aˌnuɡəˈrah/",
+  "verified": true
+ },
+ {
+  "id": "ms-00308",
+  "category": "malay",
+  "prompt": "「makhluk」の意味は？",
+  "answer": "creature",
+  "glosses": {
+   "en": "creature",
+   "ja": "生物"
+  },
+  "choices": [
+   "to win",
+   "creature",
+   "bottle",
+   "mother"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈmaxluk/",
+  "verified": true
+ },
+ {
+  "id": "ms-00309",
+  "category": "malay",
+  "prompt": "「menjual」の意味は？",
+  "answer": "to sell",
+  "glosses": {
+   "en": "to sell",
+   "ja": "売る"
+  },
+  "choices": [
+   "promise",
+   "week",
+   "to sell",
+   "how"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00310",
+  "category": "malay",
+  "prompt": "「kemalangan」の意味は？",
+  "answer": "accident",
+  "glosses": {
+   "en": "accident",
+   "ja": "事故"
+  },
+  "choices": [
+   "gold",
+   "fund",
+   "oxygen",
+   "accident"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[kə.maˈlaŋ.an]",
+  "verified": true
+ },
+ {
+  "id": "ms-00311",
+  "category": "malay",
+  "prompt": "「pindah」の意味は？",
+  "answer": "to move",
+  "glosses": {
+   "en": "to move",
+   "ja": "移る，引っ越す"
+  },
+  "choices": [
+   "to move",
+   "twin",
+   "snow",
+   "stair"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈpindah/",
+  "verified": true
+ },
+ {
+  "id": "ms-00312",
+  "category": "malay",
+  "prompt": "「kenderaan」の意味は？",
+  "answer": "vehicle",
+  "glosses": {
+   "en": "vehicle",
+   "ja": "乗り物"
+  },
+  "choices": [
+   "dirty",
+   "only, just",
+   "lack",
+   "vehicle"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00313",
+  "category": "malay",
+  "prompt": "「kekurangan」の意味は？",
+  "answer": "lack",
+  "glosses": {
+   "en": "lack",
+   "ja": "不足"
+  },
+  "choices": [
+   "rain",
+   "sky",
+   "boat",
+   "lack"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kəkuˈraŋan/",
+  "verified": true
+ },
+ {
+  "id": "ms-00314",
+  "category": "malay",
+  "prompt": "「mencipta」の意味は？",
+  "answer": "to create",
+  "glosses": {
+   "en": "to create",
+   "ja": "創造する"
+  },
+  "choices": [
+   "card",
+   "to create",
+   "bus",
+   "soldier"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mənˈt͡ʃiptə/",
+  "verified": true
+ },
+ {
+  "id": "ms-00315",
+  "category": "malay",
+  "prompt": "「kos」の意味は？",
+  "answer": "cost",
+  "glosses": {
+   "en": "cost",
+   "ja": "費用，コスト"
+  },
+  "choices": [
+   "passenger",
+   "mouth",
+   "sweet",
+   "cost"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[kos]",
+  "verified": true
+ },
+ {
+  "id": "ms-00316",
+  "category": "malay",
+  "prompt": "「mohon」の意味は？",
+  "answer": "to request",
+  "glosses": {
+   "en": "to request",
+   "ja": "頼む"
+  },
+  "choices": [
+   "creature",
+   "nose",
+   "to request",
+   "food"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mo.hon/",
+  "verified": true
+ },
+ {
+  "id": "ms-00317",
+  "category": "malay",
+  "prompt": "「perintah」の意味は？",
+  "answer": "command",
+  "glosses": {
+   "en": "command",
+   "ja": "命令"
+  },
+  "choices": [
+   "to add",
+   "bus",
+   "command",
+   "lion"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pərintah",
+  "verified": true
+ },
+ {
+  "id": "ms-00318",
+  "category": "malay",
+  "prompt": "「jarang」の意味は？",
+  "answer": "rare",
+  "glosses": {
+   "en": "rare",
+   "ja": "めったにない"
+  },
+  "choices": [
+   "sky",
+   "lack",
+   "rare",
+   "rope"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d͡ʒaraŋ/",
+  "verified": true
+ },
+ {
+  "id": "ms-00319",
+  "category": "malay",
+  "prompt": "「kejar」の意味は？",
+  "answer": "to chase",
+  "glosses": {
+   "en": "to chase",
+   "ja": "追いかける"
+  },
+  "choices": [
+   "ice",
+   "manner",
+   "appearance",
+   "to chase"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00320",
+  "category": "malay",
+  "prompt": "「pos」の意味は？",
+  "answer": "mail",
+  "glosses": {
+   "en": "mail",
+   "ja": "郵便"
+  },
+  "choices": [
+   "mail",
+   "increasingly",
+   "to go home",
+   "princess"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈpos/",
+  "verified": true
+ },
+ {
+  "id": "ms-00321",
+  "category": "malay",
+  "prompt": "「halaman」の意味は？",
+  "answer": "yard; page",
+  "glosses": {
+   "en": "yard; page",
+   "ja": "庭，ページ"
+  },
+  "choices": [
+   "project",
+   "yard; page",
+   "there, over there",
+   "justice"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/haˈlaman/",
+  "verified": true
+ },
+ {
+  "id": "ms-00322",
+  "category": "malay",
+  "prompt": "「mahal」の意味は？",
+  "answer": "expensive",
+  "glosses": {
+   "en": "expensive",
+   "ja": "高価な"
+  },
+  "choices": [
+   "witness",
+   "to touch",
+   "expensive",
+   "ice"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mahal/",
+  "verified": true
+ },
+ {
+  "id": "ms-00323",
+  "category": "malay",
+  "prompt": "「bina」の意味は？",
+  "answer": "to build",
+  "glosses": {
+   "en": "to build",
+   "ja": "建てる"
+  },
+  "choices": [
+   "to fail",
+   "federation",
+   "to build",
+   "dangerous"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00324",
+  "category": "malay",
+  "prompt": "「babi」の意味は？",
+  "answer": "pig",
+  "glosses": {
+   "en": "pig",
+   "ja": "豚"
+  },
+  "choices": [
+   "dormitory",
+   "singer",
+   "pig",
+   "to worry"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈbabi/",
+  "verified": true
+ },
+ {
+  "id": "ms-00325",
+  "category": "malay",
+  "prompt": "「nenek」の意味は？",
+  "answer": "grandmother",
+  "glosses": {
+   "en": "grandmother",
+   "ja": "祖母"
+  },
+  "choices": [
+   "to hunt",
+   "ocean",
+   "joke",
+   "grandmother"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈnenek/",
+  "verified": true
+ },
+ {
+  "id": "ms-00326",
+  "category": "malay",
+  "prompt": "「pahlawan」の意味は？",
+  "answer": "hero",
+  "glosses": {
+   "en": "hero",
+   "ja": "英雄"
+  },
+  "choices": [
+   "high",
+   "to hold",
+   "hero",
+   "to send"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pahˈlawan/",
+  "verified": true
+ },
+ {
+  "id": "ms-00327",
+  "category": "malay",
+  "prompt": "「buta」の意味は？",
+  "answer": "blind",
+  "glosses": {
+   "en": "blind",
+   "ja": "目の見えない"
+  },
+  "choices": [
+   "blind",
+   "someone",
+   "wife",
+   "answer"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈbuta/",
+  "verified": true
+ },
+ {
+  "id": "ms-00328",
+  "category": "malay",
+  "prompt": "「kotor」の意味は？",
+  "answer": "dirty",
+  "glosses": {
+   "en": "dirty",
+   "ja": "汚い"
+  },
+  "choices": [
+   "cent",
+   "dirty",
+   "speed",
+   "table"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈkotor/",
+  "verified": true
+ },
+ {
+  "id": "ms-00329",
+  "category": "malay",
+  "prompt": "「roti」の意味は？",
+  "answer": "bread",
+  "glosses": {
+   "en": "bread",
+   "ja": "パン"
+  },
+  "choices": [
+   "difference",
+   "valid",
+   "bread",
+   "operation"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ro.ti]",
+  "verified": true
+ },
+ {
+  "id": "ms-00330",
+  "category": "malay",
+  "prompt": "「profesor」の意味は？",
+  "answer": "professor",
+  "glosses": {
+   "en": "professor",
+   "ja": "教授"
+  },
+  "choices": [
+   "to know",
+   "professor",
+   "daily",
+   "floor"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pro.fe.so(r)/",
+  "verified": true
+ },
+ {
+  "id": "ms-00331",
+  "category": "malay",
+  "prompt": "「perut」の意味は？",
+  "answer": "belly",
+  "glosses": {
+   "en": "belly",
+   "ja": "腹"
+  },
+  "choices": [
+   "belly",
+   "field",
+   "term",
+   "bicycle"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pəˈrut/",
+  "verified": true
+ },
+ {
+  "id": "ms-00332",
+  "category": "malay",
+  "prompt": "「ekonomi」の意味は？",
+  "answer": "economy",
+  "glosses": {
+   "en": "economy",
+   "ja": "経済"
+  },
+  "choices": [
+   "economy",
+   "to open",
+   "increasingly",
+   "motorcycle"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00333",
+  "category": "malay",
+  "prompt": "「katil」の意味は？",
+  "answer": "bed",
+  "glosses": {
+   "en": "bed",
+   "ja": "ベッド"
+  },
+  "choices": [
+   "metal",
+   "bed",
+   "tax",
+   "to come"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/katil/",
+  "verified": true
+ },
+ {
+  "id": "ms-00334",
+  "category": "malay",
+  "prompt": "「talian」の意味は？",
+  "answer": "line",
+  "glosses": {
+   "en": "line",
+   "ja": "回線"
+  },
+  "choices": [
+   "patient",
+   "quiet",
+   "line",
+   "freedom"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/talian/",
+  "verified": true
+ },
+ {
+  "id": "ms-00335",
+  "category": "malay",
+  "prompt": "「bendera」の意味は？",
+  "answer": "flag",
+  "glosses": {
+   "en": "flag",
+   "ja": "旗"
+  },
+  "choices": [
+   "flag",
+   "communication",
+   "virus",
+   "actually"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bənˈderə/",
+  "verified": true
+ },
+ {
+  "id": "ms-00336",
+  "category": "malay",
+  "prompt": "「ganti」の意味は？",
+  "answer": "to replace",
+  "glosses": {
+   "en": "to replace",
+   "ja": "置き換える"
+  },
+  "choices": [
+   "bullet",
+   "ice",
+   "to replace",
+   "route"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00337",
+  "category": "malay",
+  "prompt": "「lembu」の意味は？",
+  "answer": "cattle",
+  "glosses": {
+   "en": "cattle",
+   "ja": "牛"
+  },
+  "choices": [
+   "appearance",
+   "cattle",
+   "bright",
+   "satellite"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ləmˈbu/",
+  "verified": true
+ },
+ {
+  "id": "ms-00338",
+  "category": "malay",
+  "prompt": "「restoran」の意味は？",
+  "answer": "restaurant",
+  "glosses": {
+   "en": "restaurant",
+   "ja": "レストラン"
+  },
+  "choices": [
+   "sentence",
+   "restaurant",
+   "officer",
+   "memories"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/resˈtorən/",
+  "verified": true
+ },
+ {
+  "id": "ms-00339",
+  "category": "malay",
+  "prompt": "「hukum」の意味は？",
+  "answer": "law",
+  "glosses": {
+   "en": "law",
+   "ja": "法律"
+  },
+  "choices": [
+   "law",
+   "manager",
+   "problem",
+   "poison"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈhukum/",
+  "verified": true
+ },
+ {
+  "id": "ms-00340",
+  "category": "malay",
+  "prompt": "「tandas」の意味は？",
+  "answer": "toilet",
+  "glosses": {
+   "en": "toilet",
+   "ja": "トイレ"
+  },
+  "choices": [
+   "animal",
+   "target",
+   "toilet",
+   "to read"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈtandas/",
+  "verified": true
+ },
+ {
+  "id": "ms-00341",
+  "category": "malay",
+  "prompt": "「saluran」の意味は？",
+  "answer": "channel",
+  "glosses": {
+   "en": "channel",
+   "ja": "チャンネル"
+  },
+  "choices": [
+   "channel",
+   "mouth",
+   "motorcycle",
+   "movement"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/saˈluran/",
+  "verified": true
+ },
+ {
+  "id": "ms-00342",
+  "category": "malay",
+  "prompt": "「syurga」の意味は？",
+  "answer": "heaven",
+  "glosses": {
+   "en": "heaven",
+   "ja": "天国"
+  },
+  "choices": [
+   "heaven",
+   "operation",
+   "to add",
+   "crown"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈʃu(r)ɡə/",
+  "verified": true
+ },
+ {
+  "id": "ms-00343",
+  "category": "malay",
+  "prompt": "「terang」の意味は？",
+  "answer": "bright",
+  "glosses": {
+   "en": "bright",
+   "ja": "明るい"
+  },
+  "choices": [
+   "body",
+   "board",
+   "expensive",
+   "bright"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/təˈraŋ/",
+  "verified": true
+ },
+ {
+  "id": "ms-00344",
+  "category": "malay",
+  "prompt": "「tempoh」の意味は？",
+  "answer": "period",
+  "glosses": {
+   "en": "period",
+   "ja": "期間"
+  },
+  "choices": [
+   "period",
+   "church",
+   "to replace",
+   "tail"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/tempoh/",
+  "verified": true
+ },
+ {
+  "id": "ms-00345",
+  "category": "malay",
+  "prompt": "「cukai」の意味は？",
+  "answer": "tax",
+  "glosses": {
+   "en": "tax",
+   "ja": "税"
+  },
+  "choices": [
+   "tax",
+   "general (military rank)",
+   "goat",
+   "naughty"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00346",
+  "category": "malay",
+  "prompt": "「lembut」の意味は？",
+  "answer": "soft",
+  "glosses": {
+   "en": "soft",
+   "ja": "柔らかい"
+  },
+  "choices": [
+   "era",
+   "soft",
+   "to take",
+   "continue"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ləmˈbut/",
+  "verified": true
+ },
+ {
+  "id": "ms-00347",
+  "category": "malay",
+  "prompt": "「elok」の意味は？",
+  "answer": "good",
+  "glosses": {
+   "en": "good",
+   "ja": "良い"
+  },
+  "choices": [
+   "post",
+   "proton",
+   "low",
+   "good"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[e.loʔ]",
+  "verified": true
+ },
+ {
+  "id": "ms-00348",
+  "category": "malay",
+  "prompt": "「perubatan」の意味は？",
+  "answer": "medical treatment",
+  "glosses": {
+   "en": "medical treatment",
+   "ja": "医療"
+  },
+  "choices": [
+   "father",
+   "bright",
+   "medical treatment",
+   "to increase"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00349",
+  "category": "malay",
+  "prompt": "「sempadan」の意味は？",
+  "answer": "border",
+  "glosses": {
+   "en": "border",
+   "ja": "国境"
+  },
+  "choices": [
+   "border",
+   "twin",
+   "wing",
+   "hotel"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/səmˈpadan/",
+  "verified": true
+ },
+ {
+  "id": "ms-00350",
+  "category": "malay",
+  "prompt": "「berbahaya」の意味は？",
+  "answer": "dangerous",
+  "glosses": {
+   "en": "dangerous",
+   "ja": "危険な"
+  },
+  "choices": [
+   "to offer",
+   "dangerous",
+   "bicycle",
+   "short"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bə(r)baˈhajə/",
+  "verified": true
+ },
+ {
+  "id": "ms-00351",
+  "category": "malay",
+  "prompt": "「mahkamah」の意味は？",
+  "answer": "court",
+  "glosses": {
+   "en": "court",
+   "ja": "裁判所"
+  },
+  "choices": [
+   "to help",
+   "court",
+   "indeed",
+   "money"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00352",
+  "category": "malay",
+  "prompt": "「ketat」の意味は？",
+  "answer": "tight",
+  "glosses": {
+   "en": "tight",
+   "ja": "きつい"
+  },
+  "choices": [
+   "shop",
+   "to cheat",
+   "bridge",
+   "tight"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kəˈtat/",
+  "verified": true
+ },
+ {
+  "id": "ms-00353",
+  "category": "malay",
+  "prompt": "「pemilik」の意味は？",
+  "answer": "owner",
+  "glosses": {
+   "en": "owner",
+   "ja": "持ち主"
+  },
+  "choices": [
+   "owner",
+   "line",
+   "knowledge",
+   "bicycle"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pəˈmilik/",
+  "verified": true
+ },
+ {
+  "id": "ms-00354",
+  "category": "malay",
+  "prompt": "「pelajaran」の意味は？",
+  "answer": "lesson",
+  "glosses": {
+   "en": "lesson",
+   "ja": "授業"
+  },
+  "choices": [
+   "virus",
+   "an area",
+   "lesson",
+   "nerve"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pəlaˈd͡ʒaran/",
+  "verified": true
+ },
+ {
+  "id": "ms-00355",
+  "category": "malay",
+  "prompt": "「jambatan」の意味は？",
+  "answer": "bridge",
+  "glosses": {
+   "en": "bridge",
+   "ja": "橋"
+  },
+  "choices": [
+   "sure",
+   "tight",
+   "to hope",
+   "bridge"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00356",
+  "category": "malay",
+  "prompt": "「pengarah」の意味は？",
+  "answer": "director",
+  "glosses": {
+   "en": "director",
+   "ja": "監督"
+  },
+  "choices": [
+   "director",
+   "to be",
+   "coffee",
+   "act"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00357",
+  "category": "malay",
+  "prompt": "「penumpang」の意味は？",
+  "answer": "passenger",
+  "glosses": {
+   "en": "passenger",
+   "ja": "乗客"
+  },
+  "choices": [
+   "to stop",
+   "god",
+   "science",
+   "passenger"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00358",
+  "category": "malay",
+  "prompt": "「pengalaman」の意味は？",
+  "answer": "experience",
+  "glosses": {
+   "en": "experience",
+   "ja": "経験"
+  },
+  "choices": [
+   "grandmother",
+   "stripe",
+   "experience",
+   "bottle"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00359",
+  "category": "malay",
+  "prompt": "「kelajuan」の意味は？",
+  "answer": "speed",
+  "glosses": {
+   "en": "speed",
+   "ja": "速度"
+  },
+  "choices": [
+   "computer",
+   "justice",
+   "speed",
+   "best"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00360",
+  "category": "malay",
+  "prompt": "「kelab」の意味は？",
+  "answer": "club",
+  "glosses": {
+   "en": "club",
+   "ja": "クラブ"
+  },
+  "choices": [
+   "happiness",
+   "grandmother",
+   "period",
+   "club"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00361",
+  "category": "malay",
+  "prompt": "「keadilan」の意味は？",
+  "answer": "justice",
+  "glosses": {
+   "en": "justice",
+   "ja": "正義"
+  },
+  "choices": [
+   "reporter",
+   "state",
+   "justice",
+   "to stand"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00362",
+  "category": "malay",
+  "prompt": "「makmal」の意味は？",
+  "answer": "laboratory",
+  "glosses": {
+   "en": "laboratory",
+   "ja": "実験室"
+  },
+  "choices": [
+   "stair",
+   "sultan",
+   "silver",
+   "laboratory"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00363",
+  "category": "malay",
+  "prompt": "「kebebasan」の意味は？",
+  "answer": "freedom",
+  "glosses": {
+   "en": "freedom",
+   "ja": "自由"
+  },
+  "choices": [
+   "freedom",
+   "to drink",
+   "sugar",
+   "very"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kəbeˈbasan/",
+  "verified": true
+ },
+ {
+  "id": "ms-00364",
+  "category": "malay",
+  "prompt": "「kenangan」の意味は？",
+  "answer": "memories",
+  "glosses": {
+   "en": "memories",
+   "ja": "思い出"
+  },
+  "choices": [
+   "Miss/Mr (title)",
+   "cattle",
+   "memories",
+   "type"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kəˈnaŋan/",
+  "verified": true
+ },
+ {
+  "id": "ms-00365",
+  "category": "malay",
+  "prompt": "「hiburan」の意味は？",
+  "answer": "entertainment",
+  "glosses": {
+   "en": "entertainment",
+   "ja": "娯楽"
+  },
+  "choices": [
+   "nerve",
+   "naughty",
+   "entertainment",
+   "wall"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/hiˈburan/",
+  "verified": true
+ },
+ {
+  "id": "ms-00366",
+  "category": "malay",
+  "prompt": "「sasaran」の意味は？",
+  "answer": "target",
+  "glosses": {
+   "en": "target",
+   "ja": "標的"
+  },
+  "choices": [
+   "target",
+   "to sell",
+   "heaven",
+   "image"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/sasaran/",
+  "verified": true
+ },
+ {
+  "id": "ms-00367",
+  "category": "malay",
+  "prompt": "「pemburu」の意味は？",
+  "answer": "a hunter",
+  "glosses": {
+   "en": "a hunter",
+   "ja": "狩人"
+  },
+  "choices": [
+   "a hunter",
+   "nerve",
+   "economy",
+   "freedom"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pəm.bu.ru/",
+  "verified": true
+ },
+ {
+  "id": "ms-00368",
+  "category": "malay",
+  "prompt": "「ucapan」の意味は？",
+  "answer": "speech, address",
+  "glosses": {
+   "en": "speech, address",
+   "ja": "スピーチ，あいさつ"
+  },
+  "choices": [
+   "storm",
+   "speech, address",
+   "machine",
+   "race"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00369",
+  "category": "malay",
+  "prompt": "「satelit」の意味は？",
+  "answer": "satellite",
+  "glosses": {
+   "en": "satellite",
+   "ja": "衛星"
+  },
+  "choices": [
+   "satellite",
+   "hair",
+   "test",
+   "entertainment"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˌsetəˈlait/",
+  "verified": true
+ },
+ {
+  "id": "ms-00370",
+  "category": "malay",
+  "prompt": "「begini」の意味は？",
+  "answer": "like this",
+  "glosses": {
+   "en": "like this",
+   "ja": "こんなふうに"
+  },
+  "choices": [
+   "border",
+   "success",
+   "like this",
+   "mother"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bəɡini/",
+  "verified": true
+ },
+ {
+  "id": "ms-00371",
+  "category": "malay",
+  "prompt": "「syaitan」の意味は？",
+  "answer": "devil",
+  "glosses": {
+   "en": "devil",
+   "ja": "悪魔"
+  },
+  "choices": [
+   "chapter",
+   "stripe",
+   "cost",
+   "devil"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ʃai̯.tan]",
+  "verified": true
+ },
+ {
+  "id": "ms-00372",
+  "category": "malay",
+  "prompt": "「kek」の意味は？",
+  "answer": "cake",
+  "glosses": {
+   "en": "cake",
+   "ja": "ケーキ"
+  },
+  "choices": [
+   "twin",
+   "race",
+   "unit",
+   "cake"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈkek/",
+  "verified": true
+ },
+ {
+  "id": "ms-00373",
+  "category": "malay",
+  "prompt": "「bom」の意味は？",
+  "answer": "bomb",
+  "glosses": {
+   "en": "bomb",
+   "ja": "爆弾"
+  },
+  "choices": [
+   "happiness",
+   "bomb",
+   "advertisement",
+   "animal"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00374",
+  "category": "malay",
+  "prompt": "「senyap」の意味は？",
+  "answer": "quiet",
+  "glosses": {
+   "en": "quiet",
+   "ja": "静かな"
+  },
+  "choices": [
+   "advertisement",
+   "quiet",
+   "illness",
+   "sure"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/səɲap/",
+  "verified": true
+ },
+ {
+  "id": "ms-00375",
+  "category": "malay",
+  "prompt": "「tali」の意味は？",
+  "answer": "rope",
+  "glosses": {
+   "en": "rope",
+   "ja": "縄"
+  },
+  "choices": [
+   "rope",
+   "waist",
+   "mouth",
+   "not"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈtali/",
+  "verified": true
+ },
+ {
+  "id": "ms-00376",
+  "category": "malay",
+  "prompt": "「bab」の意味は？",
+  "answer": "chapter",
+  "glosses": {
+   "en": "chapter",
+   "ja": "章"
+  },
+  "choices": [
+   "club",
+   "ever",
+   "mouth",
+   "chapter"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bap/",
+  "verified": true
+ },
+ {
+  "id": "ms-00377",
+  "category": "malay",
+  "prompt": "「binatang」の意味は？",
+  "answer": "animal",
+  "glosses": {
+   "en": "animal",
+   "ja": "動物"
+  },
+  "choices": [
+   "clothes",
+   "bullet",
+   "fire",
+   "animal"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/biˈnataŋ/",
+  "verified": true
+ },
+ {
+  "id": "ms-00378",
+  "category": "malay",
+  "prompt": "「pasir」の意味は？",
+  "answer": "sand",
+  "glosses": {
+   "en": "sand",
+   "ja": "砂"
+  },
+  "choices": [
+   "age",
+   "don't",
+   "sand",
+   "blind"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈpasir/",
+  "verified": true
+ },
+ {
+  "id": "ms-00379",
+  "category": "malay",
+  "prompt": "「kamera」の意味は？",
+  "answer": "camera",
+  "glosses": {
+   "en": "camera",
+   "ja": "カメラ"
+  },
+  "choices": [
+   "heart",
+   "cake",
+   "camera",
+   "free"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[kɛ.mə.rə]",
+  "verified": true
+ },
+ {
+  "id": "ms-00380",
+  "category": "malay",
+  "prompt": "「memimpin」の意味は？",
+  "answer": "to lead",
+  "glosses": {
+   "en": "to lead",
+   "ja": "導く"
+  },
+  "choices": [
+   "wheel",
+   "to lead",
+   "only, just",
+   "creature"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00381",
+  "category": "malay",
+  "prompt": "「dosa」の意味は？",
+  "answer": "sin",
+  "glosses": {
+   "en": "sin",
+   "ja": "罪"
+  },
+  "choices": [
+   "sin",
+   "minister",
+   "afternoon",
+   "opinion"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈdosa/",
+  "verified": true
+ },
+ {
+  "id": "ms-00382",
+  "category": "malay",
+  "prompt": "「kuil」の意味は？",
+  "answer": "temple",
+  "glosses": {
+   "en": "temple",
+   "ja": "寺"
+  },
+  "choices": [
+   "an area",
+   "temple",
+   "very",
+   "good"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈkuil/",
+  "verified": true
+ },
+ {
+  "id": "ms-00383",
+  "category": "malay",
+  "prompt": "「kaca」の意味は？",
+  "answer": "glass",
+  "glosses": {
+   "en": "glass",
+   "ja": "ガラス"
+  },
+  "choices": [
+   "to search for",
+   "glass",
+   "to try",
+   "gold"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈkat͡ʃa/",
+  "verified": true
+ },
+ {
+  "id": "ms-00384",
+  "category": "malay",
+  "prompt": "「naga」の意味は？",
+  "answer": "dragon",
+  "glosses": {
+   "en": "dragon",
+   "ja": "竜"
+  },
+  "choices": [
+   "to help",
+   "profit",
+   "father",
+   "dragon"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈnaɡa/",
+  "verified": true
+ },
+ {
+  "id": "ms-00385",
+  "category": "malay",
+  "prompt": "「papan」の意味は？",
+  "answer": "board",
+  "glosses": {
+   "en": "board",
+   "ja": "板"
+  },
+  "choices": [
+   "week",
+   "term",
+   "board",
+   "to want"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈpapan/",
+  "verified": true
+ },
+ {
+  "id": "ms-00386",
+  "category": "malay",
+  "prompt": "「kain」の意味は？",
+  "answer": "cloth",
+  "glosses": {
+   "en": "cloth",
+   "ja": "布"
+  },
+  "choices": [
+   "cattle",
+   "identity",
+   "cloth",
+   "border"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00387",
+  "category": "malay",
+  "prompt": "「hidung」の意味は？",
+  "answer": "nose",
+  "glosses": {
+   "en": "nose",
+   "ja": "鼻"
+  },
+  "choices": [
+   "daily",
+   "strategy",
+   "pilot",
+   "nose"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈhiduŋ/",
+  "verified": true
+ },
+ {
+  "id": "ms-00388",
+  "category": "malay",
+  "prompt": "「kem」の意味は？",
+  "answer": "camp",
+  "glosses": {
+   "en": "camp",
+   "ja": "キャンプ"
+  },
+  "choices": [
+   "safety",
+   "vehicle",
+   "advertisement",
+   "camp"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈkem/",
+  "verified": true
+ },
+ {
+  "id": "ms-00389",
+  "category": "malay",
+  "prompt": "「sains」の意味は？",
+  "answer": "science",
+  "glosses": {
+   "en": "science",
+   "ja": "科学"
+  },
+  "choices": [
+   "twin",
+   "moment, second",
+   "science",
+   "to grow"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/sai̯ns/",
+  "verified": true
+ },
+ {
+  "id": "ms-00390",
+  "category": "malay",
+  "prompt": "「projek」の意味は？",
+  "answer": "project",
+  "glosses": {
+   "en": "project",
+   "ja": "プロジェクト"
+  },
+  "choices": [
+   "information",
+   "sometimes",
+   "project",
+   "palace"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈprod͡ʒek/",
+  "verified": true
+ },
+ {
+  "id": "ms-00391",
+  "category": "malay",
+  "prompt": "「rahim」の意味は？",
+  "answer": "womb",
+  "glosses": {
+   "en": "womb",
+   "ja": "子宮"
+  },
+  "choices": [
+   "professor",
+   "battle",
+   "womb",
+   "body"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/rahim/",
+  "verified": true
+ },
+ {
+  "id": "ms-00392",
+  "category": "malay",
+  "prompt": "「perbuatan」の意味は？",
+  "answer": "act",
+  "glosses": {
+   "en": "act",
+   "ja": "行為"
+  },
+  "choices": [
+   "silver",
+   "money",
+   "poor",
+   "act"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00393",
+  "category": "malay",
+  "prompt": "「agaknya」の意味は？",
+  "answer": "perhaps",
+  "glosses": {
+   "en": "perhaps",
+   "ja": "おそらく"
+  },
+  "choices": [
+   "perhaps",
+   "evil",
+   "machine",
+   "date"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/a.ɡak.ɲa/",
+  "verified": true
+ },
+ {
+  "id": "ms-00394",
+  "category": "malay",
+  "prompt": "「tikus」の意味は？",
+  "answer": "mouse",
+  "glosses": {
+   "en": "mouse",
+   "ja": "ネズミ"
+  },
+  "choices": [
+   "age",
+   "to increase",
+   "corpse",
+   "mouse"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/tikus/",
+  "verified": true
+ },
+ {
+  "id": "ms-00395",
+  "category": "malay",
+  "prompt": "「lengan」の意味は？",
+  "answer": "arm",
+  "glosses": {
+   "en": "arm",
+   "ja": "腕"
+  },
+  "choices": [
+   "still",
+   "arm",
+   "Why",
+   "laboratory"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ləˈŋan/",
+  "verified": true
+ },
+ {
+  "id": "ms-00396",
+  "category": "malay",
+  "prompt": "「gaji」の意味は？",
+  "answer": "salary",
+  "glosses": {
+   "en": "salary",
+   "ja": "給料"
+  },
+  "choices": [
+   "act",
+   "salary",
+   "right (direction)",
+   "map"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ɡad͡ʒi]",
+  "verified": true
+ },
+ {
+  "id": "ms-00397",
+  "category": "malay",
+  "prompt": "「nafas」の意味は？",
+  "answer": "breath",
+  "glosses": {
+   "en": "breath",
+   "ja": "息"
+  },
+  "choices": [
+   "to know",
+   "to die",
+   "best",
+   "breath"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈnafas/",
+  "verified": true
+ },
+ {
+  "id": "ms-00398",
+  "category": "malay",
+  "prompt": "「sisa」の意味は？",
+  "answer": "leftovers",
+  "glosses": {
+   "en": "leftovers",
+   "ja": "残り"
+  },
+  "choices": [
+   "factory",
+   "knife",
+   "leftovers",
+   "health"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈsisa/",
+  "verified": true
+ },
+ {
+  "id": "ms-00399",
+  "category": "malay",
+  "prompt": "「ekor」の意味は？",
+  "answer": "tail",
+  "glosses": {
+   "en": "tail",
+   "ja": "尾"
+  },
+  "choices": [
+   "toilet",
+   "history",
+   "director",
+   "tail"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈeko(r)/",
+  "verified": true
+ },
+ {
+  "id": "ms-00400",
+  "category": "malay",
+  "prompt": "「bisnes」の意味は？",
+  "answer": "business",
+  "glosses": {
+   "en": "business",
+   "ja": "ビジネス"
+  },
+  "choices": [
+   "business",
+   "a gong",
+   "shoe",
+   "to cheat"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈbisnəs/",
+  "verified": true
+ },
+ {
+  "id": "ms-00401",
+  "category": "malay",
+  "prompt": "「serigala」の意味は？",
+  "answer": "wolf",
+  "glosses": {
+   "en": "wolf",
+   "ja": "オオカミ"
+  },
+  "choices": [
+   "hell",
+   "officer",
+   "wolf",
+   "a pistol"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[səriɡalə]",
+  "verified": true
+ },
+ {
+  "id": "ms-00402",
+  "category": "malay",
+  "prompt": "「iklan」の意味は？",
+  "answer": "advertisement",
+  "glosses": {
+   "en": "advertisement",
+   "ja": "広告"
+  },
+  "choices": [
+   "dog",
+   "advertisement",
+   "strength",
+   "sound"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈiklan/",
+  "verified": true
+ },
+ {
+  "id": "ms-00403",
+  "category": "malay",
+  "prompt": "「mustahil」の意味は？",
+  "answer": "impossible",
+  "glosses": {
+   "en": "impossible",
+   "ja": "不可能な"
+  },
+  "choices": [
+   "source",
+   "impossible",
+   "knife",
+   "battle"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/musˈtahil/",
+  "verified": true
+ },
+ {
+  "id": "ms-00404",
+  "category": "malay",
+  "prompt": "「lawak」の意味は？",
+  "answer": "joke",
+  "glosses": {
+   "en": "joke",
+   "ja": "冗談，ギャグ"
+  },
+  "choices": [
+   "wave",
+   "question",
+   "clothes",
+   "joke"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈlawak/",
+  "verified": true
+ },
+ {
+  "id": "ms-00405",
+  "category": "malay",
+  "prompt": "「miskin」の意味は？",
+  "answer": "poor",
+  "glosses": {
+   "en": "poor",
+   "ja": "貧しい"
+  },
+  "choices": [
+   "speed",
+   "home",
+   "to read",
+   "poor"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈmisken/",
+  "verified": true
+ },
+ {
+  "id": "ms-00406",
+  "category": "malay",
+  "prompt": "「minat」の意味は？",
+  "answer": "interest",
+  "glosses": {
+   "en": "interest",
+   "ja": "興味"
+  },
+  "choices": [
+   "personal",
+   "grand",
+   "operation",
+   "interest"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/minat/",
+  "verified": true
+ },
+ {
+  "id": "ms-00407",
+  "category": "malay",
+  "prompt": "「tambah」の意味は？",
+  "answer": "to add",
+  "glosses": {
+   "en": "to add",
+   "ja": "加える"
+  },
+  "choices": [
+   "news",
+   "to add",
+   "fire",
+   "result"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/tambah/",
+  "verified": true
+ },
+ {
+  "id": "ms-00408",
+  "category": "malay",
+  "prompt": "「kilang」の意味は？",
+  "answer": "factory",
+  "glosses": {
+   "en": "factory",
+   "ja": "工場"
+  },
+  "choices": [
+   "target",
+   "factory",
+   "award",
+   "event"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kilaŋ/",
+  "verified": true
+ },
+ {
+  "id": "ms-00409",
+  "category": "malay",
+  "prompt": "「sentuh」の意味は？",
+  "answer": "to touch",
+  "glosses": {
+   "en": "to touch",
+   "ja": "触れる"
+  },
+  "choices": [
+   "lamp",
+   "to touch",
+   "appearance",
+   "to speak"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/sənˈtoh/",
+  "verified": true
+ },
+ {
+  "id": "ms-00410",
+  "category": "malay",
+  "prompt": "「pergerakan」の意味は？",
+  "answer": "movement",
+  "glosses": {
+   "en": "movement",
+   "ja": "動き"
+  },
+  "choices": [
+   "game",
+   "always",
+   "blood",
+   "movement"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pə(r).ɡə.ra.kan/",
+  "verified": true
+ },
+ {
+  "id": "ms-00411",
+  "category": "malay",
+  "prompt": "「senyum」の意味は？",
+  "answer": "to smile",
+  "glosses": {
+   "en": "to smile",
+   "ja": "ほほえむ"
+  },
+  "choices": [
+   "answer",
+   "treatment",
+   "to smile",
+   "continue"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/səˈɲom/",
+  "verified": true
+ },
+ {
+  "id": "ms-00412",
+  "category": "malay",
+  "prompt": "「ribut」の意味は？",
+  "answer": "storm",
+  "glosses": {
+   "en": "storm",
+   "ja": "嵐"
+  },
+  "choices": [
+   "sometimes",
+   "sugar",
+   "storm",
+   "salary"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00413",
+  "category": "malay",
+  "prompt": "「kimia」の意味は？",
+  "answer": "chemistry",
+  "glosses": {
+   "en": "chemistry",
+   "ja": "化学"
+  },
+  "choices": [
+   "arm",
+   "chemistry",
+   "snow",
+   "wall"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00414",
+  "category": "malay",
+  "prompt": "「harian」の意味は？",
+  "answer": "daily",
+  "glosses": {
+   "en": "daily",
+   "ja": "毎日の"
+  },
+  "choices": [
+   "problem",
+   "factory",
+   "daily",
+   "winner"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00415",
+  "category": "malay",
+  "prompt": "「pinggang」の意味は？",
+  "answer": "waist",
+  "glosses": {
+   "en": "waist",
+   "ja": "腰"
+  },
+  "choices": [
+   "to regret",
+   "Miss/Mr (title)",
+   "waist",
+   "to worry"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈpiŋɡaŋ/",
+  "verified": true
+ },
+ {
+  "id": "ms-00416",
+  "category": "malay",
+  "prompt": "「bising」の意味は？",
+  "answer": "noisy",
+  "glosses": {
+   "en": "noisy",
+   "ja": "うるさい"
+  },
+  "choices": [
+   "body",
+   "expensive",
+   "devil",
+   "noisy"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈbisiŋ/",
+  "verified": true
+ },
+ {
+  "id": "ms-00417",
+  "category": "malay",
+  "prompt": "「tulisan」の意味は？",
+  "answer": "writing",
+  "glosses": {
+   "en": "writing",
+   "ja": "文章"
+  },
+  "choices": [
+   "writing",
+   "toilet",
+   "mouth",
+   "professor"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00418",
+  "category": "malay",
+  "prompt": "「sayap」の意味は？",
+  "answer": "wing",
+  "glosses": {
+   "en": "wing",
+   "ja": "翼"
+  },
+  "choices": [
+   "fresh",
+   "speech, address",
+   "money",
+   "wing"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈsajap/",
+  "verified": true
+ },
+ {
+  "id": "ms-00419",
+  "category": "malay",
+  "prompt": "「melawat」の意味は？",
+  "answer": "to visit",
+  "glosses": {
+   "en": "to visit",
+   "ja": "訪問する"
+  },
+  "choices": [
+   "animal",
+   "to increase",
+   "to visit",
+   "tiger"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00420",
+  "category": "malay",
+  "prompt": "「kahwin」の意味は？",
+  "answer": "to marry",
+  "glosses": {
+   "en": "to marry",
+   "ja": "結婚する"
+  },
+  "choices": [
+   "ever",
+   "art",
+   "to marry",
+   "champion"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00421",
+  "category": "malay",
+  "prompt": "「mesej」の意味は？",
+  "answer": "message",
+  "glosses": {
+   "en": "message",
+   "ja": "メッセージ"
+  },
+  "choices": [
+   "message",
+   "resident",
+   "problem",
+   "laboratory"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈmesed͡ʒ/",
+  "verified": true
+ },
+ {
+  "id": "ms-00422",
+  "category": "malay",
+  "prompt": "「tanggungjawab」の意味は？",
+  "answer": "responsibility",
+  "glosses": {
+   "en": "responsibility",
+   "ja": "責任"
+  },
+  "choices": [
+   "opinion",
+   "joke",
+   "an area",
+   "responsibility"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˌtaŋɡoŋˈd͡ʒawab/",
+  "verified": true
+ },
+ {
+  "id": "ms-00423",
+  "category": "malay",
+  "prompt": "「menawarkan」の意味は？",
+  "answer": "to offer",
+  "glosses": {
+   "en": "to offer",
+   "ja": "申し出る"
+  },
+  "choices": [
+   "flag",
+   "long",
+   "to offer",
+   "cheap"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mənaˈwarkan/",
+  "verified": true
+ },
+ {
+  "id": "ms-00424",
+  "category": "malay",
+  "prompt": "「berdiri」の意味は？",
+  "answer": "to stand",
+  "glosses": {
+   "en": "to stand",
+   "ja": "立つ"
+  },
+  "choices": [
+   "to stand",
+   "brain",
+   "location",
+   "mistaken"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00425",
+  "category": "malay",
+  "prompt": "「komunikasi」の意味は？",
+  "answer": "communication",
+  "glosses": {
+   "en": "communication",
+   "ja": "コミュニケーション"
+  },
+  "choices": [
+   "free",
+   "womb",
+   "patient",
+   "communication"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/koˌmuniˈkasi/",
+  "verified": true
+ },
+ {
+  "id": "ms-00426",
+  "category": "malay",
+  "prompt": "「perkhidmatan」の意味は？",
+  "answer": "service",
+  "glosses": {
+   "en": "service",
+   "ja": "サービス"
+  },
+  "choices": [
+   "state",
+   "profit",
+   "service",
+   "voice"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pə(r)hidˈmatan/",
+  "verified": true
+ },
+ {
+  "id": "ms-00427",
+  "category": "malay",
+  "prompt": "「kerjasama」の意味は？",
+  "answer": "cooperation",
+  "glosses": {
+   "en": "cooperation",
+   "ja": "協力"
+  },
+  "choices": [
+   "cooperation",
+   "writing",
+   "best",
+   "palace"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00428",
+  "category": "malay",
+  "prompt": "「pejuang」の意味は？",
+  "answer": "fighter",
+  "glosses": {
+   "en": "fighter",
+   "ja": "闘士，戦士"
+  },
+  "choices": [
+   "lack",
+   "flour",
+   "fighter",
+   "blood"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00429",
+  "category": "malay",
+  "prompt": "「kerosakan」の意味は？",
+  "answer": "damage",
+  "glosses": {
+   "en": "damage",
+   "ja": "損害"
+  },
+  "choices": [
+   "nerve",
+   "damage",
+   "don't",
+   "to offer"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00430",
+  "category": "malay",
+  "prompt": "「kegagalan」の意味は？",
+  "answer": "failure",
+  "glosses": {
+   "en": "failure",
+   "ja": "失敗"
+  },
+  "choices": [
+   "high",
+   "to regard",
+   "to build",
+   "failure"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00431",
+  "category": "malay",
+  "prompt": "「puncak」の意味は？",
+  "answer": "peak",
+  "glosses": {
+   "en": "peak",
+   "ja": "頂点，山頂"
+  },
+  "choices": [
+   "idea",
+   "peak",
+   "restaurant",
+   "box"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈpunt͡ʃak/",
+  "verified": true
+ },
+ {
+  "id": "ms-00432",
+  "category": "malay",
+  "prompt": "「pendapat」の意味は？",
+  "answer": "opinion",
+  "glosses": {
+   "en": "opinion",
+   "ja": "意見"
+  },
+  "choices": [
+   "court",
+   "opinion",
+   "witness",
+   "minister"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pənˈdapat/",
+  "verified": true
+ },
+ {
+  "id": "ms-00433",
+  "category": "malay",
+  "prompt": "「identiti」の意味は？",
+  "answer": "identity",
+  "glosses": {
+   "en": "identity",
+   "ja": "身元"
+  },
+  "choices": [
+   "victim",
+   "command",
+   "worker",
+   "identity"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00434",
+  "category": "malay",
+  "prompt": "「perbezaan」の意味は？",
+  "answer": "difference",
+  "glosses": {
+   "en": "difference",
+   "ja": "違い"
+  },
+  "choices": [
+   "difference",
+   "sure",
+   "victim",
+   "to replace"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pər.bɛˈza.ʔan/",
+  "verified": true
+ },
+ {
+  "id": "ms-00435",
+  "category": "malay",
+  "prompt": "「nakal」の意味は？",
+  "answer": "naughty",
+  "glosses": {
+   "en": "naughty",
+   "ja": "いたずらな"
+  },
+  "choices": [
+   "to request",
+   "level",
+   "naughty",
+   "to wear"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈnakal/",
+  "verified": true
+ },
+ {
+  "id": "ms-00436",
+  "category": "malay",
+  "prompt": "「tunjuk」の意味は？",
+  "answer": "to show",
+  "glosses": {
+   "en": "to show",
+   "ja": "示す"
+  },
+  "choices": [
+   "actually",
+   "to show",
+   "poison",
+   "eligible, worthy"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈtund͡ʒok/",
+  "verified": true
+ },
+ {
+  "id": "ms-00437",
+  "category": "malay",
+  "prompt": "「pusing」の意味は？",
+  "answer": "to spin",
+  "glosses": {
+   "en": "to spin",
+   "ja": "回る"
+  },
+  "choices": [
+   "difference",
+   "a gong",
+   "prince",
+   "to spin"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈpusiŋ/",
+  "verified": true
+ },
+ {
+  "id": "ms-00438",
+  "category": "malay",
+  "prompt": "「asrama」の意味は？",
+  "answer": "dormitory",
+  "glosses": {
+   "en": "dormitory",
+   "ja": "寮"
+  },
+  "choices": [
+   "dormitory",
+   "passenger",
+   "vehicle",
+   "base"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/asˈrama/",
+  "verified": true
+ },
+ {
+  "id": "ms-00439",
+  "category": "malay",
+  "prompt": "「bertambah」の意味は？",
+  "answer": "to increase",
+  "glosses": {
+   "en": "to increase",
+   "ja": "増える"
+  },
+  "choices": [
+   "size",
+   "passenger",
+   "to increase",
+   "boat"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bərˈtambah/",
+  "verified": true
+ },
+ {
+  "id": "ms-00440",
+  "category": "malay",
+  "prompt": "「mi」の意味は？",
+  "answer": "noodles",
+  "glosses": {
+   "en": "noodles",
+   "ja": "麺"
+  },
+  "choices": [
+   "to regard",
+   "noodles",
+   "sauce",
+   "source"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈmi/",
+  "verified": true
+ },
+ {
+  "id": "ms-00441",
+  "category": "malay",
+  "prompt": "「asas」の意味は？",
+  "answer": "base",
+  "glosses": {
+   "en": "base",
+   "ja": "基礎"
+  },
+  "choices": [
+   "base",
+   "to build",
+   "wife",
+   "strength"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00442",
+  "category": "malay",
+  "prompt": "「zon」の意味は？",
+  "answer": "zone",
+  "glosses": {
+   "en": "zone",
+   "ja": "地帯"
+  },
+  "choices": [
+   "personal",
+   "to disturb",
+   "hospital",
+   "zone"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈzon/",
+  "verified": true
+ },
+ {
+  "id": "ms-00443",
+  "category": "malay",
+  "prompt": "「pisang」の意味は？",
+  "answer": "banana",
+  "glosses": {
+   "en": "banana",
+   "ja": "バナナ"
+  },
+  "choices": [
+   "banana",
+   "door",
+   "hair",
+   "knee"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈpisaŋ/",
+  "verified": true
+ },
+ {
+  "id": "ms-00444",
+  "category": "malay",
+  "prompt": "「awan」の意味は？",
+  "answer": "cloud",
+  "glosses": {
+   "en": "cloud",
+   "ja": "雲"
+  },
+  "choices": [
+   "cloud",
+   "to increase",
+   "post",
+   "doctor"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈawan/",
+  "verified": true
+ },
+ {
+  "id": "ms-00445",
+  "category": "malay",
+  "prompt": "「balai」の意味は？",
+  "answer": "hall",
+  "glosses": {
+   "en": "hall",
+   "ja": "ホール"
+  },
+  "choices": [
+   "hall",
+   "result",
+   "sad",
+   "group"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈbalaj/",
+  "verified": true
+ },
+ {
+  "id": "ms-00446",
+  "category": "malay",
+  "prompt": "「monyet」の意味は？",
+  "answer": "monkey",
+  "glosses": {
+   "en": "monkey",
+   "ja": "サル"
+  },
+  "choices": [
+   "laboratory",
+   "customer",
+   "monkey",
+   "weakness"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈmo.ɲet/",
+  "verified": true
+ },
+ {
+  "id": "ms-00447",
+  "category": "malay",
+  "prompt": "「singa」の意味は？",
+  "answer": "lion",
+  "glosses": {
+   "en": "lion",
+   "ja": "ライオン"
+  },
+  "choices": [
+   "only, just",
+   "game",
+   "must",
+   "lion"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[siŋə]",
+  "verified": true
+ },
+ {
+  "id": "ms-00448",
+  "category": "malay",
+  "prompt": "「sen」の意味は？",
+  "answer": "cent",
+  "glosses": {
+   "en": "cent",
+   "ja": "セント"
+  },
+  "choices": [
+   "cent",
+   "sweet",
+   "to kick",
+   "unwilling"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/sɛn/",
+  "verified": true
+ },
+ {
+  "id": "ms-00449",
+  "category": "malay",
+  "prompt": "「stadium」の意味は？",
+  "answer": "stadium",
+  "glosses": {
+   "en": "stadium",
+   "ja": "競技場"
+  },
+  "choices": [
+   "education",
+   "stadium",
+   "writing",
+   "ceremony"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈstadium/",
+  "verified": true
+ },
+ {
+  "id": "ms-00450",
+  "category": "malay",
+  "prompt": "「asap」の意味は？",
+  "answer": "smoke",
+  "glosses": {
+   "en": "smoke",
+   "ja": "煙"
+  },
+  "choices": [
+   "smoke",
+   "society",
+   "date",
+   "wife"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈasap/",
+  "verified": true
+ },
+ {
+  "id": "ms-00451",
+  "category": "malay",
+  "prompt": "「tasik」の意味は？",
+  "answer": "lake",
+  "glosses": {
+   "en": "lake",
+   "ja": "湖"
+  },
+  "choices": [
+   "chemistry",
+   "story",
+   "lake",
+   "experience"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈtasik/",
+  "verified": true
+ },
+ {
+  "id": "ms-00452",
+  "category": "malay",
+  "prompt": "「simbol」の意味は？",
+  "answer": "symbol",
+  "glosses": {
+   "en": "symbol",
+   "ja": "象徴"
+  },
+  "choices": [
+   "smart",
+   "symbol",
+   "dirty",
+   "to regret"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00453",
+  "category": "malay",
+  "prompt": "「roda」の意味は？",
+  "answer": "wheel",
+  "glosses": {
+   "en": "wheel",
+   "ja": "車輪"
+  },
+  "choices": [
+   "to forget",
+   "wheel",
+   "companion",
+   "radio"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈroda/",
+  "verified": true
+ },
+ {
+  "id": "ms-00454",
+  "category": "malay",
+  "prompt": "「johan」の意味は？",
+  "answer": "champion",
+  "glosses": {
+   "en": "champion",
+   "ja": "優勝者"
+  },
+  "choices": [
+   "peak",
+   "champion",
+   "to borrow",
+   "possession"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d͡ʒohan/",
+  "verified": true
+ },
+ {
+  "id": "ms-00455",
+  "category": "malay",
+  "prompt": "「sinar」の意味は？",
+  "answer": "ray",
+  "glosses": {
+   "en": "ray",
+   "ja": "光線"
+  },
+  "choices": [
+   "ray",
+   "base",
+   "mission",
+   "busy"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/sina(r)/",
+  "verified": true
+ },
+ {
+  "id": "ms-00456",
+  "category": "malay",
+  "prompt": "「dana」の意味は？",
+  "answer": "fund",
+  "glosses": {
+   "en": "fund",
+   "ja": "資金"
+  },
+  "choices": [
+   "cloth",
+   "to follow",
+   "fund",
+   "already"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈdanə/",
+  "verified": true
+ },
+ {
+  "id": "ms-00457",
+  "category": "malay",
+  "prompt": "「buaya」の意味は？",
+  "answer": "crocodile",
+  "glosses": {
+   "en": "crocodile",
+   "ja": "ワニ"
+  },
+  "choices": [
+   "however",
+   "director",
+   "crocodile",
+   "joke"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/buaja/",
+  "verified": true
+ },
+ {
+  "id": "ms-00458",
+  "category": "malay",
+  "prompt": "「perahu」の意味は？",
+  "answer": "boat",
+  "glosses": {
+   "en": "boat",
+   "ja": "小舟，ボート"
+  },
+  "choices": [
+   "monkey",
+   "boat",
+   "beautiful",
+   "to win"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pəˈrahu/",
+  "verified": true
+ },
+ {
+  "id": "ms-00459",
+  "category": "malay",
+  "prompt": "「tumbuh」の意味は？",
+  "answer": "to grow",
+  "glosses": {
+   "en": "to grow",
+   "ja": "成長する"
+  },
+  "choices": [
+   "level",
+   "sport",
+   "to grow",
+   "stupid"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈtumbuh/",
+  "verified": true
+ },
+ {
+  "id": "ms-00460",
+  "category": "malay",
+  "prompt": "「individu」の意味は？",
+  "answer": "individual",
+  "glosses": {
+   "en": "individual",
+   "ja": "個人"
+  },
+  "choices": [
+   "activity",
+   "possession",
+   "individual",
+   "ceremony"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00461",
+  "category": "malay",
+  "prompt": "「cincin」の意味は？",
+  "answer": "ring",
+  "glosses": {
+   "en": "ring",
+   "ja": "指輪"
+  },
+  "choices": [
+   "grass",
+   "to drink",
+   "ring",
+   "smart"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈt͡ʃint͡ʃin/",
+  "verified": true
+ },
+ {
+  "id": "ms-00462",
+  "category": "malay",
+  "prompt": "「gergasi」の意味は？",
+  "answer": "giant",
+  "glosses": {
+   "en": "giant",
+   "ja": "巨人"
+  },
+  "choices": [
+   "long",
+   "slow",
+   "warm",
+   "giant"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɡərˈɡasi/",
+  "verified": true
+ },
+ {
+  "id": "ms-00463",
+  "category": "malay",
+  "prompt": "「amaran」の意味は？",
+  "answer": "warning",
+  "glosses": {
+   "en": "warning",
+   "ja": "警告"
+  },
+  "choices": [
+   "to stop",
+   "warning",
+   "to count",
+   "type"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/aˈmaran/",
+  "verified": true
+ },
+ {
+  "id": "ms-00464",
+  "category": "malay",
+  "prompt": "「pesta」の意味は？",
+  "answer": "festival",
+  "glosses": {
+   "en": "festival",
+   "ja": "祭り，パーティー"
+  },
+  "choices": [
+   "country",
+   "bicycle",
+   "to want",
+   "festival"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00465",
+  "category": "malay",
+  "prompt": "「harimau」の意味は？",
+  "answer": "tiger",
+  "glosses": {
+   "en": "tiger",
+   "ja": "トラ"
+  },
+  "choices": [
+   "sound",
+   "distance",
+   "tiger",
+   "kitchen"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/haˈrimaw/",
+  "verified": true
+ },
+ {
+  "id": "ms-00466",
+  "category": "malay",
+  "prompt": "「hangat」の意味は？",
+  "answer": "warm",
+  "glosses": {
+   "en": "warm",
+   "ja": "温かい"
+  },
+  "choices": [
+   "fair",
+   "card",
+   "warm",
+   "hotel"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈhaŋat/",
+  "verified": true
+ },
+ {
+  "id": "ms-00467",
+  "category": "malay",
+  "prompt": "「segar」の意味は？",
+  "answer": "fresh",
+  "glosses": {
+   "en": "fresh",
+   "ja": "新鮮な"
+  },
+  "choices": [
+   "helicopter",
+   "fresh",
+   "row",
+   "resident"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/səˈɡa(r)/",
+  "verified": true
+ },
+ {
+  "id": "ms-00468",
+  "category": "malay",
+  "prompt": "「kambing」の意味は？",
+  "answer": "goat",
+  "glosses": {
+   "en": "goat",
+   "ja": "ヤギ"
+  },
+  "choices": [
+   "question",
+   "goat",
+   "film",
+   "princess"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈkambeŋ/",
+  "verified": true
+ },
+ {
+  "id": "ms-00469",
+  "category": "malay",
+  "prompt": "「kembar」の意味は？",
+  "answer": "twin",
+  "glosses": {
+   "en": "twin",
+   "ja": "双子"
+  },
+  "choices": [
+   "twin",
+   "to play",
+   "winner",
+   "creature"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kəmbar/",
+  "verified": true
+ },
+ {
+  "id": "ms-00470",
+  "category": "malay",
+  "prompt": "「malaikat」の意味は？",
+  "answer": "angel",
+  "glosses": {
+   "en": "angel",
+   "ja": "天使"
+  },
+  "choices": [
+   "tower",
+   "number",
+   "sad",
+   "angel"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00471",
+  "category": "malay",
+  "prompt": "「botol」の意味は？",
+  "answer": "bottle",
+  "glosses": {
+   "en": "bottle",
+   "ja": "びん"
+  },
+  "choices": [
+   "religion",
+   "ray",
+   "to increase",
+   "bottle"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈbotol/",
+  "verified": true
+ },
+ {
+  "id": "ms-00472",
+  "category": "malay",
+  "prompt": "「kampus」の意味は？",
+  "answer": "campus",
+  "glosses": {
+   "en": "campus",
+   "ja": "キャンパス"
+  },
+  "choices": [
+   "responsibility",
+   "campus",
+   "crown",
+   "leaf"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈkempəs/",
+  "verified": true
+ },
+ {
+  "id": "ms-00473",
+  "category": "malay",
+  "prompt": "「tetamu」の意味は？",
+  "answer": "guest",
+  "glosses": {
+   "en": "guest",
+   "ja": "客"
+  },
+  "choices": [
+   "guest",
+   "rare",
+   "necessity",
+   "to increase"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/təˈtamu/",
+  "verified": true
+ },
+ {
+  "id": "ms-00474",
+  "category": "malay",
+  "prompt": "「gelombang」の意味は？",
+  "answer": "wave",
+  "glosses": {
+   "en": "wave",
+   "ja": "波"
+  },
+  "choices": [
+   "neck",
+   "wave",
+   "to offer",
+   "tribe"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɡəˈlombaŋ/",
+  "verified": true
+ },
+ {
+  "id": "ms-00475",
+  "category": "malay",
+  "prompt": "「pisau」の意味は？",
+  "answer": "knife",
+  "glosses": {
+   "en": "knife",
+   "ja": "ナイフ"
+  },
+  "choices": [
+   "wing",
+   "fate",
+   "river mouth",
+   "knife"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pi.sau̯/",
+  "verified": true
+ },
+ {
+  "id": "ms-00476",
+  "category": "malay",
+  "prompt": "「jalur」の意味は？",
+  "answer": "stripe",
+  "glosses": {
+   "en": "stripe",
+   "ja": "帯"
+  },
+  "choices": [
+   "stripe",
+   "sum",
+   "technology",
+   "virus"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈd͡ʒalʊ(r)/",
+  "verified": true
+ },
+ {
+  "id": "ms-00477",
+  "category": "malay",
+  "prompt": "「tepung」の意味は？",
+  "answer": "flour",
+  "glosses": {
+   "en": "flour",
+   "ja": "小麦粉"
+  },
+  "choices": [
+   "scripture",
+   "cheese",
+   "to die",
+   "flour"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/təˈpuŋ/",
+  "verified": true
+ },
+ {
+  "id": "ms-00478",
+  "category": "malay",
+  "prompt": "「pingat」の意味は？",
+  "answer": "medal",
+  "glosses": {
+   "en": "medal",
+   "ja": "メダル"
+  },
+  "choices": [
+   "ray",
+   "medal",
+   "candidate",
+   "night"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[pi.ŋät]",
+  "verified": true
+ },
+ {
+  "id": "ms-00479",
+  "category": "malay",
+  "prompt": "「seram」の意味は？",
+  "answer": "scary",
+  "glosses": {
+   "en": "scary",
+   "ja": "怖い"
+  },
+  "choices": [
+   "to worry",
+   "attendance",
+   "laboratory",
+   "scary"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/səram/",
+  "verified": true
+ },
+ {
+  "id": "ms-00480",
+  "category": "malay",
+  "prompt": "「penonton」の意味は？",
+  "answer": "audience",
+  "glosses": {
+   "en": "audience",
+   "ja": "観客"
+  },
+  "choices": [
+   "audience",
+   "twin",
+   "number",
+   "lack"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pəˈnonton/",
+  "verified": true
+ },
+ {
+  "id": "ms-00481",
+  "category": "malay",
+  "prompt": "「peduli」の意味は？",
+  "answer": "to care",
+  "glosses": {
+   "en": "to care",
+   "ja": "気にかける"
+  },
+  "choices": [
+   "brain",
+   "to care",
+   "base",
+   "shop"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pəˈduli/",
+  "verified": true
+ },
+ {
+  "id": "ms-00482",
+  "category": "malay",
+  "prompt": "「barisan」の意味は？",
+  "answer": "row",
+  "glosses": {
+   "en": "row",
+   "ja": "列"
+  },
+  "choices": [
+   "however",
+   "mouse",
+   "row",
+   "cooperation"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/barisan/",
+  "verified": true
+ },
+ {
+  "id": "ms-00483",
+  "category": "malay",
+  "prompt": "「leher」の意味は？",
+  "answer": "neck",
+  "glosses": {
+   "en": "neck",
+   "ja": "首"
+  },
+  "choices": [
+   "sure",
+   "bomb",
+   "neck",
+   "command"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈlehe(r)/",
+  "verified": true
+ },
+ {
+  "id": "ms-00484",
+  "category": "malay",
+  "prompt": "「situasi」の意味は？",
+  "answer": "situation",
+  "glosses": {
+   "en": "situation",
+   "ja": "状況"
+  },
+  "choices": [
+   "weak",
+   "police",
+   "cold",
+   "situation"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00485",
+  "category": "malay",
+  "prompt": "「mayat」の意味は？",
+  "answer": "corpse",
+  "glosses": {
+   "en": "corpse",
+   "ja": "死体"
+  },
+  "choices": [
+   "to choose",
+   "difference",
+   "corpse",
+   "stadium"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈmajat/",
+  "verified": true
+ },
+ {
+  "id": "ms-00486",
+  "category": "malay",
+  "prompt": "「pengurus」の意味は？",
+  "answer": "manager",
+  "glosses": {
+   "en": "manager",
+   "ja": "管理者"
+  },
+  "choices": [
+   "wolf",
+   "to repeat",
+   "type",
+   "manager"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00487",
+  "category": "malay",
+  "prompt": "「motosikal」の意味は？",
+  "answer": "motorcycle",
+  "glosses": {
+   "en": "motorcycle",
+   "ja": "オートバイ"
+  },
+  "choices": [
+   "nerve",
+   "to chase",
+   "player",
+   "motorcycle"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˌmotoˈsikal/",
+  "verified": true
+ },
+ {
+  "id": "ms-00488",
+  "category": "malay",
+  "prompt": "「lorong」の意味は？",
+  "answer": "lane",
+  "glosses": {
+   "en": "lane",
+   "ja": "車線，小道"
+  },
+  "choices": [
+   "strength",
+   "champion",
+   "sugar",
+   "lane"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00489",
+  "category": "malay",
+  "prompt": "「murah」の意味は？",
+  "answer": "cheap",
+  "glosses": {
+   "en": "cheap",
+   "ja": "安い"
+  },
+  "choices": [
+   "best",
+   "life",
+   "owner",
+   "cheap"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/murah/",
+  "verified": true
+ },
+ {
+  "id": "ms-00490",
+  "category": "malay",
+  "prompt": "「istilah」の意味は？",
+  "answer": "term",
+  "glosses": {
+   "en": "term",
+   "ja": "用語"
+  },
+  "choices": [
+   "flour",
+   "motorcycle",
+   "term",
+   "sport"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00491",
+  "category": "malay",
+  "prompt": "「upacara」の意味は？",
+  "answer": "rite",
+  "glosses": {
+   "en": "rite",
+   "ja": "儀式"
+  },
+  "choices": [
+   "to teach",
+   "rite",
+   "earth",
+   "weak"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˌupəˈt͡ʃarə/",
+  "verified": true
+ },
+ {
+  "id": "ms-00492",
+  "category": "malay",
+  "prompt": "「rawatan」の意味は？",
+  "answer": "treatment",
+  "glosses": {
+   "en": "treatment",
+   "ja": "治療"
+  },
+  "choices": [
+   "rebel",
+   "director",
+   "treatment",
+   "difficult"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00493",
+  "category": "malay",
+  "prompt": "「pelayan」の意味は？",
+  "answer": "waiter",
+  "glosses": {
+   "en": "waiter",
+   "ja": "ウエーター"
+  },
+  "choices": [
+   "to send",
+   "sea",
+   "waiter",
+   "zone"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00494",
+  "category": "malay",
+  "prompt": "「penyanyi」の意味は？",
+  "answer": "singer",
+  "glosses": {
+   "en": "singer",
+   "ja": "歌手"
+  },
+  "choices": [
+   "earth",
+   "lesson",
+   "singer",
+   "helicopter"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pəˈɲaɲi/",
+  "verified": true
+ },
+ {
+  "id": "ms-00495",
+  "category": "malay",
+  "prompt": "「pentas」の意味は？",
+  "answer": "stage",
+  "glosses": {
+   "en": "stage",
+   "ja": "舞台"
+  },
+  "choices": [
+   "god",
+   "result",
+   "zone",
+   "stage"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00496",
+  "category": "malay",
+  "prompt": "「jemaah」の意味は？",
+  "answer": "congregation",
+  "glosses": {
+   "en": "congregation",
+   "ja": "信者の集まり"
+  },
+  "choices": [
+   "weak",
+   "good",
+   "congregation",
+   "to create"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/d͡ʒəˈmaʔah/",
+  "verified": true
+ },
+ {
+  "id": "ms-00497",
+  "category": "malay",
+  "prompt": "「pemberontak」の意味は？",
+  "answer": "rebel",
+  "glosses": {
+   "en": "rebel",
+   "ja": "反逆者"
+  },
+  "choices": [
+   "rebel",
+   "bed",
+   "news",
+   "act"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00498",
+  "category": "malay",
+  "prompt": "「keganasan」の意味は？",
+  "answer": "violence",
+  "glosses": {
+   "en": "violence",
+   "ja": "暴力"
+  },
+  "choices": [
+   "noble",
+   "student",
+   "violence",
+   "money"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00499",
+  "category": "malay",
+  "prompt": "「aktiviti」の意味は？",
+  "answer": "activity",
+  "glosses": {
+   "en": "activity",
+   "ja": "活動"
+  },
+  "choices": [
+   "size",
+   "society",
+   "movement",
+   "activity"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ak.ti.vi.ti/",
+  "verified": true
+ },
+ {
+  "id": "ms-00500",
+  "category": "malay",
+  "prompt": "「saiz」の意味は？",
+  "answer": "size",
+  "glosses": {
+   "en": "size",
+   "ja": "大きさ"
+  },
+  "choices": [
+   "leaf",
+   "hero",
+   "size",
+   "resident"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00501",
+  "category": "malay",
+  "prompt": "「fesyen」の意味は？",
+  "answer": "fashion",
+  "glosses": {
+   "en": "fashion",
+   "ja": "ファッション"
+  },
+  "choices": [
+   "fashion",
+   "nose",
+   "freedom",
+   "clinic"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈfeʃən/",
+  "verified": true
+ },
+ {
+  "id": "ms-00502",
+  "category": "malay",
+  "prompt": "「sumbangan」の意味は？",
+  "answer": "donation",
+  "glosses": {
+   "en": "donation",
+   "ja": "寄付"
+  },
+  "choices": [
+   "how",
+   "fast",
+   "style",
+   "donation"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00503",
+  "category": "malay",
+  "prompt": "「kebahagiaan」の意味は？",
+  "answer": "happiness",
+  "glosses": {
+   "en": "happiness",
+   "ja": "幸せ"
+  },
+  "choices": [
+   "to bathe",
+   "ocean",
+   "passenger",
+   "happiness"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00504",
+  "category": "malay",
+  "prompt": "「wartawan」の意味は？",
+  "answer": "reporter",
+  "glosses": {
+   "en": "reporter",
+   "ja": "記者"
+  },
+  "choices": [
+   "medal",
+   "to be destroyed",
+   "reporter",
+   "mud"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00505",
+  "category": "malay",
+  "prompt": "「keperluan」の意味は？",
+  "answer": "necessity",
+  "glosses": {
+   "en": "necessity",
+   "ja": "必要性"
+  },
+  "choices": [
+   "country",
+   "necessity",
+   "night",
+   "tribe"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kəpərˈluan/",
+  "verified": true
+ },
+ {
+  "id": "ms-00506",
+  "category": "malay",
+  "prompt": "「hutang」の意味は？",
+  "answer": "debt",
+  "glosses": {
+   "en": "debt",
+   "ja": "借金"
+  },
+  "choices": [
+   "sweet",
+   "fish",
+   "debt",
+   "to agree"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈhutaŋ/",
+  "verified": true
+ },
+ {
+  "id": "ms-00507",
+  "category": "malay",
+  "prompt": "「setengah」の意味は？",
+  "answer": "a half",
+  "glosses": {
+   "en": "a half",
+   "ja": "半分"
+  },
+  "choices": [
+   "responsibility",
+   "a half",
+   "twin",
+   "situation"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/sətəŋah/",
+  "verified": true
+ },
+ {
+  "id": "ms-00508",
+  "category": "malay",
+  "prompt": "「juruterbang」の意味は？",
+  "answer": "pilot",
+  "glosses": {
+   "en": "pilot",
+   "ja": "パイロット"
+  },
+  "choices": [
+   "princess",
+   "manner",
+   "education",
+   "pilot"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00509",
+  "category": "malay",
+  "prompt": "「kelemahan」の意味は？",
+  "answer": "weakness",
+  "glosses": {
+   "en": "weakness",
+   "ja": "弱点"
+  },
+  "choices": [
+   "good",
+   "grandmother",
+   "prophet",
+   "weakness"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kələˈmahan/",
+  "verified": true
+ },
+ {
+  "id": "ms-00510",
+  "category": "malay",
+  "prompt": "「kesedaran」の意味は？",
+  "answer": "consciousness",
+  "glosses": {
+   "en": "consciousness",
+   "ja": "意識"
+  },
+  "choices": [
+   "consciousness",
+   "temple",
+   "sad",
+   "to wear"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kəsəˈdaran/",
+  "verified": true
+ },
+ {
+  "id": "ms-00511",
+  "category": "malay",
+  "prompt": "「keuntungan」の意味は？",
+  "answer": "profit",
+  "glosses": {
+   "en": "profit",
+   "ja": "利益"
+  },
+  "choices": [
+   "flag",
+   "unwilling",
+   "glass",
+   "profit"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00512",
+  "category": "malay",
+  "prompt": "「proton」の意味は？",
+  "answer": "proton",
+  "glosses": {
+   "en": "proton",
+   "ja": "陽子"
+  },
+  "choices": [
+   "proton",
+   "good",
+   "activity",
+   "hospital"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00513",
+  "category": "malay",
+  "prompt": "「ganggu」の意味は？",
+  "answer": "to disturb",
+  "glosses": {
+   "en": "to disturb",
+   "ja": "邪魔する"
+  },
+  "choices": [
+   "country",
+   "to disturb",
+   "face",
+   "history"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ɡaŋ.ɡu]",
+  "verified": true
+ },
+ {
+  "id": "ms-00514",
+  "category": "malay",
+  "prompt": "「bencana」の意味は？",
+  "answer": "calamity",
+  "glosses": {
+   "en": "calamity",
+   "ja": "災害"
+  },
+  "choices": [
+   "kindness",
+   "to save",
+   "communication",
+   "calamity"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bənˈt͡ʃanə/",
+  "verified": true
+ },
+ {
+  "id": "ms-00515",
+  "category": "malay",
+  "prompt": "「enggan」の意味は？",
+  "answer": "unwilling",
+  "glosses": {
+   "en": "unwilling",
+   "ja": "気が進まない"
+  },
+  "choices": [
+   "to hold",
+   "to build",
+   "unwilling",
+   "leftovers"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/əŋˈɡan/",
+  "verified": true
+ },
+ {
+  "id": "ms-00516",
+  "category": "malay",
+  "prompt": "「panda」の意味は？",
+  "answer": "panda",
+  "glosses": {
+   "en": "panda",
+   "ja": "パンダ"
+  },
+  "choices": [
+   "grandchild",
+   "winner",
+   "panda",
+   "to go home"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈpanda/",
+  "verified": true
+ },
+ {
+  "id": "ms-00517",
+  "category": "malay",
+  "prompt": "「enak」の意味は？",
+  "answer": "delicious",
+  "glosses": {
+   "en": "delicious",
+   "ja": "おいしい"
+  },
+  "choices": [
+   "normally",
+   "blind",
+   "delicious",
+   "hell"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈenaʔ/",
+  "verified": true
+ },
+ {
+  "id": "ms-00518",
+  "category": "malay",
+  "prompt": "「bumbung」の意味は？",
+  "answer": "roof",
+  "glosses": {
+   "en": "roof",
+   "ja": "屋根"
+  },
+  "choices": [
+   "roof",
+   "smoke",
+   "rank",
+   "face"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈbumboŋ/",
+  "verified": true
+ },
+ {
+  "id": "ms-00519",
+  "category": "malay",
+  "prompt": "「gong」の意味は？",
+  "answer": "a gong",
+  "glosses": {
+   "en": "a gong",
+   "ja": "どら"
+  },
+  "choices": [
+   "ice",
+   "a gong",
+   "weak",
+   "a hunter"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ɡoŋ/",
+  "verified": true
+ },
+ {
+  "id": "ms-00520",
+  "category": "malay",
+  "prompt": "「matematik」の意味は？",
+  "answer": "mathematics",
+  "glosses": {
+   "en": "mathematics",
+   "ja": "数学"
+  },
+  "choices": [
+   "weak",
+   "blind",
+   "location",
+   "mathematics"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˌmatəˈmatik/",
+  "verified": true
+ },
+ {
+  "id": "ms-00521",
+  "category": "malay",
+  "prompt": "「cucu」の意味は？",
+  "answer": "grandchild",
+  "glosses": {
+   "en": "grandchild",
+   "ja": "孫"
+  },
+  "choices": [
+   "like this",
+   "meaning",
+   "grandchild",
+   "cold"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈt͡ʃut͡ʃu/",
+  "verified": true
+ },
+ {
+  "id": "ms-00522",
+  "category": "malay",
+  "prompt": "「watak」の意味は？",
+  "answer": "character",
+  "glosses": {
+   "en": "character",
+   "ja": "性格"
+  },
+  "choices": [
+   "to retreat",
+   "character",
+   "cost",
+   "bird"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00523",
+  "category": "malay",
+  "prompt": "「pistol」の意味は？",
+  "answer": "a pistol",
+  "glosses": {
+   "en": "a pistol",
+   "ja": "ピストル"
+  },
+  "choices": [
+   "weapon",
+   "journey",
+   "slow",
+   "a pistol"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00524",
+  "category": "malay",
+  "prompt": "「adat」の意味は？",
+  "answer": "custom",
+  "glosses": {
+   "en": "custom",
+   "ja": "習慣"
+  },
+  "choices": [
+   "to disturb",
+   "custom",
+   "story",
+   "to request"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/adat/",
+  "verified": true
+ },
+ {
+  "id": "ms-00525",
+  "category": "malay",
+  "prompt": "「dapur」の意味は？",
+  "answer": "kitchen",
+  "glosses": {
+   "en": "kitchen",
+   "ja": "台所"
+  },
+  "choices": [
+   "church",
+   "stadium",
+   "wife",
+   "kitchen"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/dapur/",
+  "verified": true
+ },
+ {
+  "id": "ms-00526",
+  "category": "malay",
+  "prompt": "「lutut」の意味は？",
+  "answer": "knee",
+  "glosses": {
+   "en": "knee",
+   "ja": "ひざ"
+  },
+  "choices": [
+   "experience",
+   "knee",
+   "teacher",
+   "weak"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈlutut/",
+  "verified": true
+ },
+ {
+  "id": "ms-00527",
+  "category": "malay",
+  "prompt": "「dolar」の意味は？",
+  "answer": "Dollar :",
+  "glosses": {
+   "en": "Dollar :",
+   "ja": "ドル"
+  },
+  "choices": [
+   "to save",
+   "to sell",
+   "Dollar :",
+   "character"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[dɔ.lə(r)]",
+  "verified": true
+ },
+ {
+  "id": "ms-00528",
+  "category": "malay",
+  "prompt": "「singkat」の意味は？",
+  "answer": "short",
+  "glosses": {
+   "en": "short",
+   "ja": "短い"
+  },
+  "choices": [
+   "death",
+   "short",
+   "season",
+   "breath"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈsiŋkat/",
+  "verified": true
+ },
+ {
+  "id": "ms-00529",
+  "category": "malay",
+  "prompt": "「paras」の意味は？",
+  "answer": "level",
+  "glosses": {
+   "en": "level",
+   "ja": "水準"
+  },
+  "choices": [
+   "choice",
+   "level",
+   "crocodile",
+   "fate"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00530",
+  "category": "malay",
+  "prompt": "「kitab」の意味は？",
+  "answer": "scripture",
+  "glosses": {
+   "en": "scripture",
+   "ja": "経典"
+  },
+  "choices": [
+   "crown",
+   "guest",
+   "to send",
+   "scripture"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈkitab/",
+  "verified": true
+ },
+ {
+  "id": "ms-00531",
+  "category": "malay",
+  "prompt": "「buru」の意味は？",
+  "answer": "to hunt",
+  "glosses": {
+   "en": "to hunt",
+   "ja": "狩る"
+  },
+  "choices": [
+   "shoe",
+   "to hunt",
+   "grass",
+   "bread"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/bu.ru/",
+  "verified": true
+ },
+ {
+  "id": "ms-00532",
+  "category": "malay",
+  "prompt": "「budi」の意味は？",
+  "answer": "kindness",
+  "glosses": {
+   "en": "kindness",
+   "ja": "親切"
+  },
+  "choices": [
+   "kindness",
+   "term",
+   "to attack",
+   "list"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00533",
+  "category": "malay",
+  "prompt": "「keju」の意味は？",
+  "answer": "cheese",
+  "glosses": {
+   "en": "cheese",
+   "ja": "チーズ"
+  },
+  "choices": [
+   "to be",
+   "cheese",
+   "sound",
+   "justice"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈked͡ʒu/",
+  "verified": true
+ },
+ {
+  "id": "ms-00534",
+  "category": "malay",
+  "prompt": "「daun」の意味は？",
+  "answer": "leaf",
+  "glosses": {
+   "en": "leaf",
+   "ja": "葉"
+  },
+  "choices": [
+   "salary",
+   "hotel",
+   "leaf",
+   "possession"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈdaun/",
+  "verified": true
+ },
+ {
+  "id": "ms-00535",
+  "category": "malay",
+  "prompt": "「pintar」の意味は？",
+  "answer": "smart",
+  "glosses": {
+   "en": "smart",
+   "ja": "賢い"
+  },
+  "choices": [
+   "student",
+   "hotel",
+   "smart",
+   "cheap"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈpinta(r)/",
+  "verified": true
+ },
+ {
+  "id": "ms-00536",
+  "category": "malay",
+  "prompt": "「strategi」の意味は？",
+  "answer": "strategy",
+  "glosses": {
+   "en": "strategy",
+   "ja": "戦略"
+  },
+  "choices": [
+   "twin",
+   "busy",
+   "cute",
+   "strategy"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/straˈted͡ʒi/",
+  "verified": true
+ },
+ {
+  "id": "ms-00537",
+  "category": "malay",
+  "prompt": "「saksi」の意味は？",
+  "answer": "witness",
+  "glosses": {
+   "en": "witness",
+   "ja": "目撃者"
+  },
+  "choices": [
+   "an area",
+   "church",
+   "witness",
+   "battle"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00538",
+  "category": "malay",
+  "prompt": "「oksigen」の意味は？",
+  "answer": "oxygen",
+  "glosses": {
+   "en": "oxygen",
+   "ja": "酸素"
+  },
+  "choices": [
+   "map",
+   "religion",
+   "oxygen",
+   "border"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ɔk.si.d͡ʒən]",
+  "verified": true
+ },
+ {
+  "id": "ms-00539",
+  "category": "malay",
+  "prompt": "「undur」の意味は？",
+  "answer": "to retreat",
+  "glosses": {
+   "en": "to retreat",
+   "ja": "退却する"
+  },
+  "choices": [
+   "fighter",
+   "mean (average)",
+   "to retreat",
+   "very"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈundur/",
+  "verified": true
+ },
+ {
+  "id": "ms-00540",
+  "category": "malay",
+  "prompt": "「sos」の意味は？",
+  "answer": "sauce",
+  "glosses": {
+   "en": "sauce",
+   "ja": "ソース"
+  },
+  "choices": [
+   "river",
+   "to struggle",
+   "profit",
+   "sauce"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈsos/",
+  "verified": true
+ },
+ {
+  "id": "ms-00541",
+  "category": "malay",
+  "prompt": "「otot」の意味は？",
+  "answer": "muscle",
+  "glosses": {
+   "en": "muscle",
+   "ja": "筋肉"
+  },
+  "choices": [
+   "warm",
+   "to pay",
+   "muscle",
+   "act"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00542",
+  "category": "malay",
+  "prompt": "「racun」の意味は？",
+  "answer": "poison",
+  "glosses": {
+   "en": "poison",
+   "ja": "毒"
+  },
+  "choices": [
+   "poison",
+   "manner",
+   "door",
+   "route"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈrat͡ʃon/",
+  "verified": true
+ },
+ {
+  "id": "ms-00543",
+  "category": "malay",
+  "prompt": "「rumput」の意味は？",
+  "answer": "grass",
+  "glosses": {
+   "en": "grass",
+   "ja": "草"
+  },
+  "choices": [
+   "grass",
+   "ocean",
+   "opinion",
+   "safety"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00544",
+  "category": "malay",
+  "prompt": "「sarang」の意味は？",
+  "answer": "nest",
+  "glosses": {
+   "en": "nest",
+   "ja": "巣"
+  },
+  "choices": [
+   "virus",
+   "nest",
+   "energy",
+   "to receive"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈsaraŋ/",
+  "verified": true
+ },
+ {
+  "id": "ms-00545",
+  "category": "malay",
+  "prompt": "「salji」の意味は？",
+  "answer": "snow",
+  "glosses": {
+   "en": "snow",
+   "ja": "雪"
+  },
+  "choices": [
+   "to borrow",
+   "expensive",
+   "cooperation",
+   "snow"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈsald͡ʒi/",
+  "verified": true
+ },
+ {
+  "id": "ms-00546",
+  "category": "malay",
+  "prompt": "「basikal」の意味は？",
+  "answer": "bicycle",
+  "glosses": {
+   "en": "bicycle",
+   "ja": "自転車"
+  },
+  "choices": [
+   "already",
+   "waiter",
+   "waist",
+   "bicycle"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/baˈsikal/",
+  "verified": true
+ },
+ {
+  "id": "ms-00547",
+  "category": "malay",
+  "prompt": "「selam」の意味は？",
+  "answer": "to dive",
+  "glosses": {
+   "en": "to dive",
+   "ja": "潜る"
+  },
+  "choices": [
+   "breath",
+   "secretary",
+   "responsibility",
+   "to dive"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/səlam/",
+  "verified": true
+ },
+ {
+  "id": "ms-00548",
+  "category": "malay",
+  "prompt": "「kesedihan」の意味は？",
+  "answer": "sadness",
+  "glosses": {
+   "en": "sadness",
+   "ja": "悲しみ"
+  },
+  "choices": [
+   "communication",
+   "sadness",
+   "actually",
+   "to wear"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/kəsəˈdihan/",
+  "verified": true
+ },
+ {
+  "id": "ms-00549",
+  "category": "malay",
+  "prompt": "「kejahatan」の意味は？",
+  "answer": "evil",
+  "glosses": {
+   "en": "evil",
+   "ja": "悪事"
+  },
+  "choices": [
+   "palace",
+   "evil",
+   "attendance",
+   "sand"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00550",
+  "category": "malay",
+  "prompt": "「logam」の意味は？",
+  "answer": "metal",
+  "glosses": {
+   "en": "metal",
+   "ja": "金属"
+  },
+  "choices": [
+   "mountain",
+   "metal",
+   "identity",
+   "expensive"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00551",
+  "category": "malay",
+  "prompt": "「saraf」の意味は？",
+  "answer": "nerve",
+  "glosses": {
+   "en": "nerve",
+   "ja": "神経"
+  },
+  "choices": [
+   "shop",
+   "nerve",
+   "to receive",
+   "world"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00552",
+  "category": "malay",
+  "prompt": "「pangkat」の意味は？",
+  "answer": "rank",
+  "glosses": {
+   "en": "rank",
+   "ja": "階級"
+  },
+  "choices": [
+   "cost",
+   "rank",
+   "mouth",
+   "safety"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈpaŋkat/",
+  "verified": true
+ },
+ {
+  "id": "ms-00553",
+  "category": "malay",
+  "prompt": "「lantai」の意味は？",
+  "answer": "floor",
+  "glosses": {
+   "en": "floor",
+   "ja": "床"
+  },
+  "choices": [
+   "rain",
+   "strength",
+   "floor",
+   "project"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/lantai̯/",
+  "verified": true
+ },
+ {
+  "id": "ms-00554",
+  "category": "malay",
+  "prompt": "「permata」の意味は？",
+  "answer": "gem",
+  "glosses": {
+   "en": "gem",
+   "ja": "宝石"
+  },
+  "choices": [
+   "naughty",
+   "gem",
+   "border",
+   "to write"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/pərmata/",
+  "verified": true
+ },
+ {
+  "id": "ms-00555",
+  "category": "malay",
+  "prompt": "「izin」の意味は？",
+  "answer": "permission",
+  "glosses": {
+   "en": "permission",
+   "ja": "許可"
+  },
+  "choices": [
+   "noodles",
+   "twin",
+   "news",
+   "permission"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[ˈizɪn]",
+  "verified": true
+ },
+ {
+  "id": "ms-00556",
+  "category": "malay",
+  "prompt": "「pinjam」の意味は？",
+  "answer": "to borrow",
+  "glosses": {
+   "en": "to borrow",
+   "ja": "借りる"
+  },
+  "choices": [
+   "valid",
+   "to borrow",
+   "entertainment",
+   "player"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈpind͡ʒam/",
+  "verified": true
+ },
+ {
+  "id": "ms-00557",
+  "category": "malay",
+  "prompt": "「klinik」の意味は？",
+  "answer": "clinic",
+  "glosses": {
+   "en": "clinic",
+   "ja": "診療所"
+  },
+  "choices": [
+   "clinic",
+   "wheel",
+   "cheap",
+   "week"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00558",
+  "category": "malay",
+  "prompt": "「setiausaha」の意味は？",
+  "answer": "secretary",
+  "glosses": {
+   "en": "secretary",
+   "ja": "秘書"
+  },
+  "choices": [
+   "secretary",
+   "pig",
+   "mathematics",
+   "to close"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/səˌtiauˈsaha/",
+  "verified": true
+ },
+ {
+  "id": "ms-00559",
+  "category": "malay",
+  "prompt": "「tembok」の意味は？",
+  "answer": "wall",
+  "glosses": {
+   "en": "wall",
+   "ja": "壁"
+  },
+  "choices": [
+   "night",
+   "there, over there",
+   "hill",
+   "wall"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈtembok/",
+  "verified": true
+ },
+ {
+  "id": "ms-00560",
+  "category": "malay",
+  "prompt": "「lumba」の意味は？",
+  "answer": "race",
+  "glosses": {
+   "en": "race",
+   "ja": "競走"
+  },
+  "choices": [
+   "doctor",
+   "smart",
+   "naughty",
+   "race"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "[lum.bä]",
+  "verified": true
+ },
+ {
+  "id": "ms-00561",
+  "category": "malay",
+  "prompt": "「mahkota」の意味は？",
+  "answer": "crown",
+  "glosses": {
+   "en": "crown",
+   "ja": "王冠"
+  },
+  "choices": [
+   "lover",
+   "crown",
+   "education",
+   "muscle"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/mahˈkota/",
+  "verified": true
+ },
+ {
+  "id": "ms-00562",
+  "category": "malay",
+  "prompt": "「kehadiran」の意味は？",
+  "answer": "attendance",
+  "glosses": {
+   "en": "attendance",
+   "ja": "出席"
+  },
+  "choices": [
+   "attendance",
+   "profit",
+   "high",
+   "campus"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ },
+ {
+  "id": "ms-00563",
+  "category": "malay",
+  "prompt": "「musnah」の意味は？",
+  "answer": "to be destroyed",
+  "glosses": {
+   "en": "to be destroyed",
+   "ja": "滅びる"
+  },
+  "choices": [
+   "to dive",
+   "gold",
+   "to be destroyed",
+   "reporter"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ˈmusnah/",
+  "verified": true
+ },
+ {
+  "id": "ms-00564",
+  "category": "malay",
+  "prompt": "「bacaan」の意味は？",
+  "answer": "reading material",
+  "glosses": {
+   "en": "reading material",
+   "ja": "読み物"
+  },
+  "choices": [
+   "body",
+   "actually",
+   "reading material",
+   "hospital"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "/ba.t͡ʃa.an/",
+  "verified": true
+ },
+ {
+  "id": "ms-00565",
+  "category": "malay",
+  "prompt": "「selamatkan」の意味は？",
+  "answer": "to save",
+  "glosses": {
+   "en": "to save",
+   "ja": "救う"
+  },
+  "choices": [
+   "to save",
+   "food",
+   "to offer",
+   "size"
+  ],
+  "difficulty": 1,
+  "tags": [
+   "word"
+  ],
+  "pronunciation": "",
+  "verified": true
+ }
+]

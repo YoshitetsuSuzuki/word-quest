@@ -15,7 +15,7 @@
    "localeSwitchOk": 7589,
    "levelSwitchOk": 7,
    "exceptions": 0,
-   "elapsedMs": 1258
+   "elapsedMs": 1365
   },
   {
    "language": "chinese",
@@ -30,7 +30,7 @@
    "localeSwitchOk": 8252,
    "levelSwitchOk": 5,
    "exceptions": 0,
-   "elapsedMs": 1006
+   "elapsedMs": 1057
   },
   {
    "language": "japanese",
@@ -45,7 +45,7 @@
    "localeSwitchOk": 7153,
    "levelSwitchOk": 5,
    "exceptions": 0,
-   "elapsedMs": 1537
+   "elapsedMs": 1492
   },
   {
    "language": "korean",
@@ -60,7 +60,7 @@
    "localeSwitchOk": 2655,
    "levelSwitchOk": 3,
    "exceptions": 0,
-   "elapsedMs": 226
+   "elapsedMs": 227
   },
   {
    "language": "spanish",
@@ -75,7 +75,7 @@
    "localeSwitchOk": 6092,
    "levelSwitchOk": 5,
    "exceptions": 0,
-   "elapsedMs": 524
+   "elapsedMs": 536
   },
   {
    "language": "german",
@@ -90,7 +90,7 @@
    "localeSwitchOk": 5810,
    "levelSwitchOk": 5,
    "exceptions": 0,
-   "elapsedMs": 466
+   "elapsedMs": 475
   },
   {
    "language": "french",
@@ -105,7 +105,7 @@
    "localeSwitchOk": 6210,
    "levelSwitchOk": 5,
    "exceptions": 0,
-   "elapsedMs": 556
+   "elapsedMs": 586
   },
   {
    "language": "portuguese",
@@ -120,7 +120,7 @@
    "localeSwitchOk": 3105,
    "levelSwitchOk": 3,
    "exceptions": 0,
-   "elapsedMs": 289
+   "elapsedMs": 292
   },
   {
    "language": "polish",
@@ -135,7 +135,7 @@
    "localeSwitchOk": 3378,
    "levelSwitchOk": 3,
    "exceptions": 0,
-   "elapsedMs": 352
+   "elapsedMs": 354
   },
   {
    "language": "russian",
@@ -150,7 +150,7 @@
    "localeSwitchOk": 3923,
    "levelSwitchOk": 3,
    "exceptions": 0,
-   "elapsedMs": 443
+   "elapsedMs": 470
   },
   {
    "language": "hindi",
@@ -165,7 +165,7 @@
    "localeSwitchOk": 3180,
    "levelSwitchOk": 3,
    "exceptions": 0,
-   "elapsedMs": 149
+   "elapsedMs": 154
   },
   {
    "language": "arabic",
@@ -195,7 +195,7 @@
    "localeSwitchOk": 3308,
    "levelSwitchOk": 3,
    "exceptions": 0,
-   "elapsedMs": 160
+   "elapsedMs": 163
   },
   {
    "language": "italian",
@@ -210,7 +210,7 @@
    "localeSwitchOk": 5892,
    "levelSwitchOk": 3,
    "exceptions": 0,
-   "elapsedMs": 486
+   "elapsedMs": 510
   },
   {
    "language": "mongolian",
@@ -225,7 +225,7 @@
    "localeSwitchOk": 1550,
    "levelSwitchOk": 3,
    "exceptions": 0,
-   "elapsedMs": 42
+   "elapsedMs": 38
   },
   {
    "language": "bengali",
@@ -240,7 +240,67 @@
    "localeSwitchOk": 2090,
    "levelSwitchOk": 3,
    "exceptions": 0,
-   "elapsedMs": 64
+   "elapsedMs": 66
+  },
+  {
+   "language": "malay",
+   "loaded": 1693,
+   "sessionsBuilt": 20,
+   "questionsChecked": 1693,
+   "correctJudgedOk": 1693,
+   "shuffleOk": 1693,
+   "exampleShown": 0,
+   "exampleHidden": 3386,
+   "pronunciationShown": 1693,
+   "localeSwitchOk": 3386,
+   "levelSwitchOk": 3,
+   "exceptions": 0,
+   "elapsedMs": 164
+  },
+  {
+   "language": "indonesian",
+   "loaded": 2664,
+   "sessionsBuilt": 20,
+   "questionsChecked": 2664,
+   "correctJudgedOk": 2664,
+   "shuffleOk": 2664,
+   "exampleShown": 0,
+   "exampleHidden": 5328,
+   "pronunciationShown": 2664,
+   "localeSwitchOk": 5328,
+   "levelSwitchOk": 3,
+   "exceptions": 0,
+   "elapsedMs": 394
+  },
+  {
+   "language": "urdu",
+   "loaded": 1268,
+   "sessionsBuilt": 20,
+   "questionsChecked": 1268,
+   "correctJudgedOk": 1268,
+   "shuffleOk": 1268,
+   "exampleShown": 0,
+   "exampleHidden": 2536,
+   "pronunciationShown": 1268,
+   "localeSwitchOk": 2536,
+   "levelSwitchOk": 3,
+   "exceptions": 0,
+   "elapsedMs": 96
+  },
+  {
+   "language": "turkish",
+   "loaded": 3181,
+   "sessionsBuilt": 20,
+   "questionsChecked": 3181,
+   "correctJudgedOk": 3181,
+   "shuffleOk": 3181,
+   "exampleShown": 0,
+   "exampleHidden": 6362,
+   "pronunciationShown": 3181,
+   "localeSwitchOk": 6362,
+   "levelSwitchOk": 3,
+   "exceptions": 0,
+   "elapsedMs": 589
   }
  ],
  "summary": {

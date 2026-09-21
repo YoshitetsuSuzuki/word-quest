@@ -112,6 +112,10 @@ export const en: Strings = {
   'cat.italian': 'Italian',
   'cat.mongolian': 'Mongolian',
   'cat.bengali': 'Bengali',
+  'cat.malay': 'Malay',
+  'cat.indonesian': 'Indonesian',
+  'cat.urdu': 'Urdu',
+  'cat.turkish': 'Turkish',
   'pet.newBadge': 'NEW', 'pet.addedPre': '✨ ', 'pet.addedSuffix': ' joined!',
   // Comeback notifications (voiced by the buddy). %s = buddy name, %d = words learned
   'comeback.t.d3': '%s is waiting', 'comeback.b.d3': "It's been 3 days! Fancy a quick round together?",
