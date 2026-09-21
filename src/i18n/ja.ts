@@ -148,15 +148,15 @@ export const ja: Strings = {
   'onboard.goalLight': '🌱 きらく', 'onboard.goalStd': '🔥 しっかり', 'onboard.goalHard': '🚀 本気',
   'onboard.goalUnit': '問/日', 'onboard.next': '次へ',
   'whatsnew.title': '✨ 新しくなりました', 'whatsnew.cta': 'さっそく使う',
-  'whatsnew.i1': '📖 全16言語5万語を総点検：訳語1,400件超を見直しました',
-  'whatsnew.i2': '👥 フレンド機能：連続日数と今週の語数を友達と競えます',
-  'whatsnew.i3': '👋 つつき：まだ今日やっていない友達を応援できます（お互いにコイン）',
-  'whatsnew.i4': '🔊 発音を整備：空欄をすべて埋め、表記の誤りを直しました',
+  'whatsnew.i1': '🌏 6言語を追加：ベトナム・トルコ・インドネシア・マレー・ウルドゥー・エスペラント（全22言語 64,620語）',
+  'whatsnew.i2': '👥 フレンドをホームから開けるようにしました（つつかれた数も出ます）',
+  'whatsnew.i3': '🎨 配色テーマを3つから選べます（夜空・森・夕焼け）',
+  'whatsnew.i4': '🔊 発音の自動再生をクイズ中に切り替えられます',
 
   'examplecard.myList': '★マイリスト', 'examplecard.listView': '☰ 一覧', 'examplecard.cardView': '🃏 カード',
   'examplecard.myListEmpty': 'マイリストは空です。カード右上の ☆ で保存できます。', 'examplecard.saved': '★ 保存しました',
   'update.available': '新しいバージョンがあります', 'update.cta': 'App Storeでアップデート',
   'ads.notReady': '広告の準備ができませんでした。しばらくしてからお試しください。',
-  'whatsnew.i5': '🔤 読みにくい発音記号は既定で非表示に（設定で表示できます）',
+  'whatsnew.i5': '📷 結果を画像で共有できます（ストーリーに載せられます）',
 
 }

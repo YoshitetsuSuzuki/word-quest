@@ -148,15 +148,15 @@ export const en: Strings = {
   'onboard.goalLight': '🌱 Casual', 'onboard.goalStd': '🔥 Steady', 'onboard.goalHard': '🚀 Serious',
   'onboard.goalUnit': ' / day', 'onboard.next': 'Next',
   'whatsnew.title': "✨ What's new", 'whatsnew.cta': 'Got it',
-  'whatsnew.i1': '📖 Swept all 16 languages (50k words): 1,400+ glosses corrected',
-  'whatsnew.i2': '👥 Friends: compare streaks and weekly words with your friends',
-  'whatsnew.i3': '👋 Nudge a friend who has not studied today (coins for both)',
-  'whatsnew.i4': '🔊 Pronunciations: every blank filled, notation errors fixed',
+  'whatsnew.i1': '🌏 Six new languages: Vietnamese, Turkish, Indonesian, Malay, Urdu, Esperanto (22 languages, 64,620 words)',
+  'whatsnew.i2': '👥 Friends is now on the home screen (with a badge for nudges)',
+  'whatsnew.i3': '🎨 Three colour themes: Night, Forest and Sunset',
+  'whatsnew.i4': '🔊 Toggle pronunciation autoplay right inside a quiz',
 
   'examplecard.myList': '★ My list', 'examplecard.listView': '☰ List', 'examplecard.cardView': '🃏 Cards',
   'examplecard.myListEmpty': 'Your list is empty. Save cards with the ☆ on each card.', 'examplecard.saved': '★ Saved',
   'update.available': 'A new version is available', 'update.cta': 'Update on the App Store',
   'ads.notReady': "The ad isn't ready yet. Please try again later.",
-  'whatsnew.i5': '🔤 Hard-to-read IPA is hidden by default (toggle it in settings)',
+  'whatsnew.i5': '📷 Share your results as an image for Stories',
 
 }
