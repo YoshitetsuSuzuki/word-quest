@@ -15,37 +15,37 @@
    "localeSwitchOk": 7589,
    "levelSwitchOk": 7,
    "exceptions": 0,
-   "elapsedMs": 1305
+   "elapsedMs": 1366
   },
   {
    "language": "chinese",
-   "loaded": 4126,
+   "loaded": 4125,
    "sessionsBuilt": 20,
-   "questionsChecked": 4126,
-   "correctJudgedOk": 4126,
-   "shuffleOk": 4126,
-   "exampleShown": 8242,
+   "questionsChecked": 4125,
+   "correctJudgedOk": 4125,
+   "shuffleOk": 4125,
+   "exampleShown": 8240,
    "exampleHidden": 10,
-   "pronunciationShown": 4126,
-   "localeSwitchOk": 8252,
+   "pronunciationShown": 4125,
+   "localeSwitchOk": 8250,
    "levelSwitchOk": 5,
    "exceptions": 0,
-   "elapsedMs": 1072
+   "elapsedMs": 1054
   },
   {
    "language": "japanese",
-   "loaded": 7153,
+   "loaded": 7152,
    "sessionsBuilt": 20,
-   "questionsChecked": 7153,
-   "correctJudgedOk": 7153,
-   "shuffleOk": 7153,
-   "exampleShown": 6619,
+   "questionsChecked": 7152,
+   "correctJudgedOk": 7152,
+   "shuffleOk": 7152,
+   "exampleShown": 6618,
    "exampleHidden": 534,
-   "pronunciationShown": 7153,
-   "localeSwitchOk": 7153,
+   "pronunciationShown": 7152,
+   "localeSwitchOk": 7152,
    "levelSwitchOk": 5,
    "exceptions": 0,
-   "elapsedMs": 1566
+   "elapsedMs": 1540
   },
   {
    "language": "korean",
@@ -60,7 +60,7 @@
    "localeSwitchOk": 2655,
    "levelSwitchOk": 3,
    "exceptions": 0,
-   "elapsedMs": 238
+   "elapsedMs": 236
   },
   {
    "language": "spanish",
@@ -75,7 +75,7 @@
    "localeSwitchOk": 6092,
    "levelSwitchOk": 5,
    "exceptions": 0,
-   "elapsedMs": 564
+   "elapsedMs": 557
   },
   {
    "language": "german",
@@ -90,7 +90,7 @@
    "localeSwitchOk": 5810,
    "levelSwitchOk": 5,
    "exceptions": 0,
-   "elapsedMs": 516
+   "elapsedMs": 527
   },
   {
    "language": "french",
@@ -105,7 +105,7 @@
    "localeSwitchOk": 6210,
    "levelSwitchOk": 5,
    "exceptions": 0,
-   "elapsedMs": 594
+   "elapsedMs": 602
   },
   {
    "language": "portuguese",
@@ -120,7 +120,7 @@
    "localeSwitchOk": 3105,
    "levelSwitchOk": 3,
    "exceptions": 0,
-   "elapsedMs": 324
+   "elapsedMs": 317
   },
   {
    "language": "polish",
@@ -135,7 +135,7 @@
    "localeSwitchOk": 3378,
    "levelSwitchOk": 3,
    "exceptions": 0,
-   "elapsedMs": 373
+   "elapsedMs": 358
   },
   {
    "language": "russian",
@@ -150,22 +150,22 @@
    "localeSwitchOk": 3923,
    "levelSwitchOk": 3,
    "exceptions": 0,
-   "elapsedMs": 525
+   "elapsedMs": 513
   },
   {
    "language": "hindi",
-   "loaded": 1590,
+   "loaded": 1589,
    "sessionsBuilt": 20,
-   "questionsChecked": 1590,
-   "correctJudgedOk": 1590,
-   "shuffleOk": 1590,
+   "questionsChecked": 1589,
+   "correctJudgedOk": 1589,
+   "shuffleOk": 1589,
    "exampleShown": 0,
-   "exampleHidden": 3180,
-   "pronunciationShown": 1590,
-   "localeSwitchOk": 3180,
+   "exampleHidden": 3178,
+   "pronunciationShown": 1589,
+   "localeSwitchOk": 3178,
    "levelSwitchOk": 3,
    "exceptions": 0,
-   "elapsedMs": 152
+   "elapsedMs": 157
   },
   {
    "language": "arabic",
@@ -180,7 +180,7 @@
    "localeSwitchOk": 2518,
    "levelSwitchOk": 3,
    "exceptions": 0,
-   "elapsedMs": 97
+   "elapsedMs": 99
   },
   {
    "language": "tagalog",
@@ -210,7 +210,7 @@
    "localeSwitchOk": 5892,
    "levelSwitchOk": 3,
    "exceptions": 0,
-   "elapsedMs": 542
+   "elapsedMs": 536
   },
   {
    "language": "mongolian",
@@ -225,7 +225,7 @@
    "localeSwitchOk": 1550,
    "levelSwitchOk": 3,
    "exceptions": 0,
-   "elapsedMs": 36
+   "elapsedMs": 41
   },
   {
    "language": "bengali",
@@ -270,7 +270,7 @@
    "localeSwitchOk": 5328,
    "levelSwitchOk": 3,
    "exceptions": 0,
-   "elapsedMs": 424
+   "elapsedMs": 412
   },
   {
    "language": "urdu",
@@ -285,7 +285,7 @@
    "localeSwitchOk": 2536,
    "levelSwitchOk": 3,
    "exceptions": 0,
-   "elapsedMs": 96
+   "elapsedMs": 100
   },
   {
    "language": "turkish",
@@ -300,7 +300,7 @@
    "localeSwitchOk": 6356,
    "levelSwitchOk": 3,
    "exceptions": 0,
-   "elapsedMs": 609
+   "elapsedMs": 594
   },
   {
    "language": "vietnamese",
@@ -315,7 +315,7 @@
    "localeSwitchOk": 6520,
    "levelSwitchOk": 3,
    "exceptions": 0,
-   "elapsedMs": 635
+   "elapsedMs": 644
   },
   {
    "language": "esperanto",
@@ -330,7 +330,7 @@
    "localeSwitchOk": 4616,
    "levelSwitchOk": 3,
    "exceptions": 0,
-   "elapsedMs": 323
+   "elapsedMs": 332
   }
  ],
  "summary": {

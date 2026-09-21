@@ -2,7 +2,7 @@
  "stage": 1,
  "title": "元データの最終構造検証",
  "expectedTotal": 29417,
- "actualTotal": 64623,
+ "actualTotal": 64620,
  "totalMatches": false,
  "languages": [
   {
@@ -64,7 +64,7 @@
   },
   {
    "language": "chinese",
-   "total": 4126,
+   "total": 4125,
    "levels": [
     {
      "level": 1,
@@ -84,7 +84,7 @@
     {
      "level": 4,
      "file": "level-4.json",
-     "count": 1008
+     "count": 1007
     },
     {
      "level": 5,
@@ -111,7 +111,7 @@
   },
   {
    "language": "japanese",
-   "total": 7153,
+   "total": 7152,
    "levels": [
     {
      "level": 1,
@@ -131,7 +131,7 @@
     {
      "level": 4,
      "file": "level-4.json",
-     "count": 1436
+     "count": 1435
     },
     {
      "level": 5,
@@ -457,12 +457,12 @@
   },
   {
    "language": "hindi",
-   "total": 1590,
+   "total": 1589,
    "levels": [
     {
      "level": 1,
      "file": "level-1.json",
-     "count": 544
+     "count": 543
     },
     {
      "level": 2,

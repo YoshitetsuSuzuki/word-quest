@@ -1040,32 +1040,6 @@
   "verified": true
  },
  {
-  "id": "jp-00512",
-  "category": "japanese",
-  "prompt": "「一月」の意味は？",
-  "answer": "one month",
-  "glosses": {
-   "en": "one month"
-  },
-  "choices": [
-   "one month",
-   "name list",
-   "to wait",
-   "factory"
-  ],
-  "difficulty": 4,
-  "tags": [
-   "名詞"
-  ],
-  "pronunciation": "ひとつき (hitotsuki)",
-  "example": "サムは一月にスキーに行った。 — Sam went skiing in January.",
-  "exampleForm": "一月",
-  "exampleTranslations": {
-   "en": "Sam went skiing in January."
-  },
-  "verified": true
- },
- {
   "id": "jp-00523",
   "category": "japanese",
   "prompt": "「封筒」の意味は？",
@@ -12006,15 +11980,15 @@
   "id": "jp-03760",
   "category": "japanese",
   "prompt": "「交差」の意味は？",
-  "answer": "intersecting",
+  "answer": "crossing, intersection",
   "glosses": {
-   "en": "intersecting"
+   "en": "crossing, intersection"
   },
   "choices": [
-   "riddle",
-   "intersecting",
-   "straw",
-   "to overturn"
+   "timely",
+   "unfortunately",
+   "crossing, intersection",
+   "whirlpool"
   ],
   "difficulty": 4,
   "tags": [
@@ -13821,10 +13795,10 @@
    "en": "vacuum"
   },
   "choices": [
-   "to start",
-   "passive",
-   "one month",
-   "vacuum"
+   "boarding house",
+   "to bump against",
+   "vacuum",
+   "tooth decay"
   ],
   "difficulty": 4,
   "tags": [
@@ -16167,10 +16141,10 @@
    "en": "to jump in"
   },
   "choices": [
-   "sinking",
-   "to jump in",
-   "one month",
-   "sight"
+   "roughness",
+   "to bump against",
+   "weighty",
+   "to jump in"
   ],
   "difficulty": 4,
   "tags": [

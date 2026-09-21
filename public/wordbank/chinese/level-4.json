@@ -2892,12 +2892,12 @@
   "id": "zh-02289",
   "category": "chinese",
   "prompt": "「纯净水」の意味は？",
-  "answer": "純水",
+  "answer": "精製水",
   "choices": [
-   "孫娘",
-   "純水",
-   "測る",
-   "革かばん"
+   "国を愛する",
+   "力がある",
+   "重量",
+   "精製水"
   ],
   "difficulty": 4,
   "tags": [
@@ -8400,12 +8400,12 @@
   "id": "zh-02512",
   "category": "chinese",
   "prompt": "「激动」の意味は？",
-  "answer": "感激する",
+  "answer": "興奮する",
   "choices": [
-   "耳",
-   "ウイルス",
-   "問題",
-   "感激する"
+   "興奮する",
+   "鮮明な",
+   "到来する",
+   "火事になる"
   ],
   "difficulty": 4,
   "tags": [
@@ -9671,10 +9671,10 @@
   "prompt": "「解释」の意味は？",
   "answer": "説明する",
   "choices": [
-   "幸運",
-   "普遍的な",
+   "集まる",
+   "無数の",
    "説明する",
-   "公演する"
+   "体操"
   ],
   "difficulty": 4,
   "tags": [
@@ -17015,10 +17015,10 @@
   "prompt": "「替代」の意味は？",
   "answer": "代替する",
   "choices": [
-   "施設",
-   "自ら望む",
    "代替する",
-   "職位"
+   "揺れ動く",
+   "善良な",
+   "辛抱強い"
   ],
   "difficulty": 4,
   "tags": [
@@ -18059,33 +18059,6 @@
   },
   "glosses": {
    "en": "smile"
-  },
-  "verified": true
- },
- {
-  "id": "zh-02900",
-  "category": "chinese",
-  "prompt": "「微信」の意味は？",
-  "answer": "WeChat",
-  "choices": [
-   "晴れ",
-   "WeChat",
-   "現地",
-   "規模"
-  ],
-  "difficulty": 4,
-  "tags": [
-   "名詞"
-  ],
-  "explanation": "微信（wēixìn）= WeChat",
-  "pronunciation": "wēixìn",
-  "example": "我们用微信聊天。 — 私たちはWeChatでおしゃべりする。",
-  "exampleForm": "微信",
-  "exampleTranslations": {
-   "en": "We chat on WeChat."
-  },
-  "glosses": {
-   "en": "WeChat"
   },
   "verified": true
  },
@@ -23354,10 +23327,10 @@
   "prompt": "「祝福」の意味は？",
   "answer": "祝福する",
   "choices": [
-   "美術",
-   "先頭に立って提唱する",
-   "避けられない",
-   "祝福する"
+   "祝福する",
+   "伝統",
+   "茶葉",
+   "激しい"
   ],
   "difficulty": 4,
   "tags": [

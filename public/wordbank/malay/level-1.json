@@ -669,10 +669,10 @@
    "ja": "〜である"
   },
   "choices": [
+   "Miss/Mr (title)",
    "proton",
-   "Dollar :",
-   "noodles",
-   "to be"
+   "to be",
+   "noodles"
   ],
   "difficulty": 1,
   "tags": [
@@ -1395,10 +1395,10 @@
    "ja": "食べ物"
   },
   "choices": [
-   "Dollar :",
-   "mistaken",
    "food",
-   "writing"
+   "Miss/Mr (title)",
+   "moment, second",
+   "yard; page"
   ],
   "difficulty": 1,
   "tags": [
@@ -1857,10 +1857,10 @@
    "ja": "時代"
   },
   "choices": [
-   "arm",
-   "to try",
-   "Dollar :",
-   "era"
+   "art",
+   "era",
+   "Miss/Mr (title)",
+   "to visit"
   ],
   "difficulty": 1,
   "tags": [
@@ -4959,10 +4959,10 @@
    "ja": "遅い"
   },
   "choices": [
+   "perhaps",
    "slow",
-   "Dollar :",
-   "information",
-   "perhaps"
+   "Miss/Mr (title)",
+   "information"
   ],
   "difficulty": 1,
   "tags": [
@@ -11575,16 +11575,16 @@
   "id": "ms-00527",
   "category": "malay",
   "prompt": "「dolar」の意味は？",
-  "answer": "Dollar :",
+  "answer": "dollar",
   "glosses": {
-   "en": "Dollar :",
+   "en": "dollar",
    "ja": "ドル"
   },
   "choices": [
-   "to save",
-   "to sell",
-   "Dollar :",
-   "character"
+   "to search for",
+   "to send",
+   "cheap",
+   "dollar"
   ],
   "difficulty": 1,
   "tags": [
