@@ -151,15 +151,15 @@ export const ja: Strings = {
   'onboard.goalLight': '🌱 きらく', 'onboard.goalStd': '🔥 しっかり', 'onboard.goalHard': '🚀 本気',
   'onboard.goalUnit': '問/日', 'onboard.next': '次へ',
   'whatsnew.title': '✨ 新しくなりました', 'whatsnew.cta': 'さっそく使う',
-  'whatsnew.i1': '🌏 6言語を追加：ベトナム・トルコ・インドネシア・マレー・ウルドゥー・エスペラント（全22言語 64,620語）',
-  'whatsnew.i2': '👥 フレンドをホームから開けるようにしました（つつかれた数も出ます）',
-  'whatsnew.i3': '🎨 配色テーマを3つから選べます（夜空・森・夕焼け）',
-  'whatsnew.i4': '🔊 発音の自動再生をクイズ中に切り替えられます',
+  'whatsnew.i1': "📖 全22言語に「はじめかた」を追加。文字・読み方・語順・あいさつを、その言語を初めて見る人向けにまとめました",
+  'whatsnew.i2': "🔤 文字の一覧を付けました。ハングルは40個、かなは46個。覚えるのはこれで全部、と目で分かります",
+  'whatsnew.i3': "🀄 漢字は数が多いので、中国語はピンインの読み方と、やさしい単語に読みを振って見せます",
+  'whatsnew.i4': "✍️ ハングル・デーヴァナーガリー・アラビア文字などは、部品から1文字ができる様子を図で",
 
   'examplecard.myList': '★マイリスト', 'examplecard.listView': '☰ 一覧', 'examplecard.cardView': '🃏 カード',
   'examplecard.myListEmpty': 'マイリストは空です。カード右上の ☆ で保存できます。', 'examplecard.saved': '★ 保存しました',
   'update.available': '新しいバージョンがあります', 'update.cta': 'App Storeでアップデート',
   'ads.notReady': '広告の準備ができませんでした。しばらくしてからお試しください。',
-  'whatsnew.i5': '📷 結果を画像で共有できます（ストーリーに載せられます）',
+  'whatsnew.i5': "🚪 ジャンルを初めて選んだときに開きます。あとからは「はじめかた」からいつでも",
 
 }
