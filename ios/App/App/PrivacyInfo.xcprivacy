@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+  PrivacyInfo.xcprivacy  ちりつも単語
+
+  ■ いまの申告の根拠（2026-09-29 実測）
+   - Analytics.ts は localStorage のみで、外部送信が一切ない（＝アプリ自身の「収集」なし）
+   - 広告は AdMob のみ。`npa: true`（非パーソナライズ）で呼び、ATT は実装していない
+   - IDFA は取得していない（AdSupport / ASIdentifierManager をアプリ側で触っていない）
+   - GoogleMobileAds SDK は自身の PrivacyInfo.xcprivacy を同梱しており、Apple が自動で合算する
+   - Capacitor 本体とプラグインはマニフェストを同梱しないため、
+     プラグインが使う「理由の申告が必要な API」を下の NSPrivacyAccessedAPITypes で申告している
+
+  ■ ⚠️ 広告ネットワークを追加する日に必ず見直すこと ⚠️
+    maio / LevelPlay など**トラッキング目的のデータ収集を自己申告しているSDK**を入れたら、
+      1. NSPrivacyTracking を true にする
+      2. NSPrivacyTrackingDomains にそのSDKの通信先を列挙する
+      3. NSPrivacyCollectedDataTypes に「デバイスID／広告データ」等を追記する
+      4. App Store Connect のプライバシー回答も同時に更新する
+      5. ATT（NSUserTrackingUsageDescription ＋ 要求の実装）を入れる
+    ⛔ ただし **ATT の許諾と引き換えに報酬を渡してはならない**（App Review 5.1.2(i) 明文禁止）。
+       ATT のプロンプトとリワード広告の導線は完全に分離する。
+-->
+<plist version="1.0">
+<dict>
+	<!-- 追跡（他社サービスとの名寄せ）は行っていない。npa:true・IDFA未取得・ATT未実装。 -->
+	<key>NSPrivacyTracking</key>
+	<false/>
+	<key>NSPrivacyTrackingDomains</key>
+	<array/>
+
+	<!--
+	  アプリ自身が収集するデータは無し。
+	  学習履歴・計測値はすべて端末内（localStorage / UserDefaults）に留まり外へ出ない。
+	  課金は Apple / RevenueCat が処理する。広告SDKの収集は各SDKのマニフェストが申告する。
+	-->
+	<key>NSPrivacyCollectedDataTypes</key>
+	<array/>
+
+	<!-- 使用理由の申告が必要な API -->
+	<key>NSPrivacyAccessedAPITypes</key>
+	<array>
+		<dict>
+			<!-- @capacitor/preferences が設定値の保存に UserDefaults を使用 -->
+			<key>NSPrivacyAccessedAPIType</key>
+			<string>NSPrivacyAccessedAPICategoryUserDefaults</string>
+			<key>NSPrivacyAccessedAPITypeReasons</key>
+			<array>
+				<string>CA92.1</string>
+			</array>
+		</dict>
+		<dict>
+			<!-- @capacitor/filesystem がアプリ内ファイルの作成日時(ctime)を読む -->
+			<key>NSPrivacyAccessedAPIType</key>
+			<string>NSPrivacyAccessedAPICategoryFileTimestamp</string>
+			<key>NSPrivacyAccessedAPITypeReasons</key>
+			<array>
+				<string>C617.1</string>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

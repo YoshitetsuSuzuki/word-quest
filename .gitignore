@@ -30,3 +30,6 @@ tools/expand/audit/
 # 認証レポート(再生成可能・大容量)
 tools/certify/report/
 tools/wordgen/.cache/
+
+# 作業中に作ったバックアップ（中身は HEAD と同じなので追跡しない）
+*.pbxproj.*.bak
