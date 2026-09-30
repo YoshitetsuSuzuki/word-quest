@@ -140,7 +140,7 @@ export const en: Strings = {
   'quiz.autoPlayToggle': 'Toggle auto-play', 'quiz.autoPlayShort': 'Auto', 'quiz.autoPlayOn': 'Auto-play on', 'quiz.autoPlayOff': 'Auto-play off',
   'quiz.shareImage': '📸 Share image',
   'shareCard.title': 'Another day stacked', 'shareCard.streak': 'day streak', 'shareCard.learned': 'words learned',
-  'shareCard.today': 'correct today', 'shareCard.appName': 'WordQuest', 'shareCard.tagline': '5 minutes a day, 16 languages.',
+  'shareCard.today': 'correct today', 'shareCard.appName': 'Chiritsumo Tango', 'shareCard.tagline': '5 minutes a day, 22 languages.',
   'profile.theme': '🎨 Color theme', 'theme.night': 'Night', 'theme.forest': 'Forest', 'theme.sunset': 'Sunset',
   'notify.streakTitle': '🔥 Your streak is at risk!', 'notify.streakBody': "You haven't studied today. Solve just one question to keep the streak alive.",
   'notify.leagueTitle': '🏆 League results are in!', 'notify.leagueBody': "Last week's league has closed. Check if you got promoted.",

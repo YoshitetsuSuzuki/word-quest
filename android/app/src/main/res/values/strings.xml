@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="app_name">WordQuest</string>
-    <string name="title_activity_main">WordQuest</string>
+    <string name="app_name">ちりつも単語</string>
+    <string name="title_activity_main">ちりつも単語</string>
     <string name="package_name">com.infinitygames.wordquest</string>
     <string name="custom_url_scheme">com.infinitygames.wordquest</string>
 </resources>
