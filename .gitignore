@@ -33,3 +33,7 @@ tools/wordgen/.cache/
 
 # 作業中に作ったバックアップ（中身は HEAD と同じなので追跡しない）
 *.pbxproj.*.bak
+
+# LevelPlay の鍵（リポジトリに入れない）
+android/levelplay.properties
+levelplay.properties

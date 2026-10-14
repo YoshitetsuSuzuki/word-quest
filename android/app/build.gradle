@@ -7,9 +7,22 @@ if (keystorePropertiesFile.exists()) {
     keystoreProperties.load(new FileInputStream(keystorePropertiesFile))
 }
 
+// LevelPlay の App Key / 広告ユニットID を levelplay.properties から読む。
+// 鍵はリポジトリに入れない（.gitignore 済み）。未設定ならプラグインは「使用不可」を返し、
+// アプリは広告なしで正常に動く。
+def levelPlayPropsFile = rootProject.file("levelplay.properties")
+def levelPlayProps = new Properties()
+if (levelPlayPropsFile.exists()) {
+    levelPlayProps.load(new FileInputStream(levelPlayPropsFile))
+}
+def lpValue = { String key -> "\"" + (levelPlayProps[key] ?: "") + "\"" }
+
 android {
     namespace = "com.infinitygames.wordquest"
     compileSdk = rootProject.ext.compileSdkVersion
+    buildFeatures {
+        buildConfig true
+    }
     defaultConfig {
         applicationId "com.infinitygames.wordquest"
         minSdkVersion rootProject.ext.minSdkVersion
@@ -17,6 +30,9 @@ android {
         versionCode 8
         versionName "1.4"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+        buildConfigField "String", "LEVELPLAY_APP_KEY", lpValue("LEVELPLAY_APP_KEY")
+        buildConfigField "String", "LEVELPLAY_REWARDED_UNIT", lpValue("LEVELPLAY_REWARDED_UNIT")
+        buildConfigField "String", "LEVELPLAY_INTERSTITIAL_UNIT", lpValue("LEVELPLAY_INTERSTITIAL_UNIT")
         aaptOptions {
              // Files and dirs to omit from the packaged assets dir, modified to accommodate modern web apps.
              // Default: https://android.googlesource.com/platform/frameworks/base/+/282e181b58cf72b6ca770dc7ca5f91f135444502/tools/aapt/AaptAssets.cpp#61
@@ -61,6 +77,15 @@ dependencies {
     androidTestImplementation "androidx.test.ext:junit:$androidxJunitVersion"
     androidTestImplementation "androidx.test.espresso:espresso-core:$androidxEspressoCoreVersion"
     implementation project(':capacitor-cordova-android-plugins')
+
+    // ── LevelPlay（Unity）メディエーション ───────────────────────────
+    // AdMob のアカウントが不承認のままのため、こちらを本命に据える。
+    // 鍵が未設定ならプラグインが isAvailable()=false を返し、広告導線は出ない。
+    implementation 'com.unity3d.ads-mediation:mediation-sdk:9.6.1'
+    implementation 'com.unity3d.ads-mediation:unityads-adapter:5.5.0'
+    implementation 'com.google.android.gms:play-services-appset:16.1.0'
+    implementation 'com.google.android.gms:play-services-ads-identifier:18.2.0'
+    implementation 'com.google.android.gms:play-services-basement:18.7.2'
 }
 
 apply from: 'capacitor.build.gradle'

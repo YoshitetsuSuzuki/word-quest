@@ -19,3 +19,15 @@
 # If you keep the line number information, uncomment this to
 # hide the original source file name.
 #-renamesourcefileattribute SourceFile
+
+# ── LevelPlay（Unity メディエーション）─────────────────────────────
+# 難読化すると SDK が自分のアダプタをリフレクションで見つけられなくなる。
+-keepclassmembers class * implements android.os.Parcelable {
+    public static final android.os.Parcelable$Creator *;
+}
+-keep class com.ironsource.adapters.** { *; }
+-dontwarn com.ironsource.**
+-keepclassmembers class com.ironsource.** { public *; }
+-keep public class com.ironsource.**
+-keep class com.unity3d.mediation.** { *; }
+-dontwarn com.unity3d.mediation.**
