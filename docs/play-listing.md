@@ -102,63 +102,76 @@ AAB: **`~/Desktop/WordQuest-1.4-build8-noads.aab`** ／ 素材: `~/Desktop/play-
 ## 3.5 英語版の掲載文（en-US）
 
 全世界配信するなら日本語だけでは取りこぼす。Play Console の
-「ストアの掲載 → メインのストアの掲載情報 → 翻訳を管理 → 英語（米国）」から追加する。
+「ストアの掲載情報 → 言語を管理 → 英語 (アメリカ合衆国) – en-US」で追加する。
+**2026-10-15 に日本語の ASO 改稿版へ合わせて書き直した**（旧版は構成が別物だった）。
+直訳ではなく、英語圏の検索に合わせて言語の並び順と導入を変えてある。
 
 ### アプリ名（30字以内）
 
 ```
 Chiritsumo Tango
 ```
-（16字）※ 発見性を上げるなら `Chiritsumo Tango: 22 Languages`（ちょうど30字）も可。
-ブランドの一貫性を取るなら前者。アプリ内の英語表示名も `Chiritsumo Tango`。
+（16字）アプリ内の英語表示名と揃える。言語数は簡単な説明の側に入れる。
 
 ### 簡単な説明（80字以内）
 
 ```
-22 languages, 64,620 words. Begin even if you can't read a single letter yet.
+Language learning app: Korean, Spanish & 20 more. 64,620 words, 5 min a day.
 ```
-（77字）
+（76字）小さい端末では 50 字で切れるが、その位置が `20 more.` の直後に来るよう調整済み。
 
 ### 詳しい説明（4000字以内）
 
 ```
-You wanted to try Korean. You opened an app, saw 안녕하세요, couldn't read a single
-character, and closed it again.
+Language learning, starting with words. A vocabulary app with 22 languages and 64,620 words.
+From Spanish, Korean and Japanese to Arabic and Vietnamese, build your vocabulary in five
+minutes a day with four-choice quizzes.
+Every language comes with a Getting Started page and a chart of its characters, so you can
+begin before you can read a single letter.
 
-Chiritsumo Tango exists to remove that first failure.
+▼ The 22 languages
+Spanish / Korean / Japanese / Chinese / French / German / Italian / Portuguese /
+Russian / Polish / Turkish / Hindi / Bengali / Urdu / Arabic /
+Tagalog / Indonesian / Malay / Vietnamese / Mongolian / Esperanto / English
 
-■ No language throws you straight into multiple choice
-Every one of the 22 languages has a "Getting Started" page. What characters exist.
-How they sound. How word order works. The first greeting you can actually say.
-And where beginners usually stumble. It opens by itself the first time you pick
-a language.
+■ Start before you can read the script
+"I want to learn Korean, but I can't read 안녕하세요."
+That is where people stop, so every language has a Getting Started page.
+What characters exist, how they sound, how word order works, and the first greeting you can
+actually say. It opens by itself the first time you choose a language.
 
-■ Here is every character you need
-We list them all. Hangul has 40. Japanese kana, 46. The Arabic script, 28.
+■ Every character, listed
+Hangul has 40. Japanese kana, 46. The Arabic script, 28.
 What looked like unfamiliar patterns turns into a set you can count.
-Diagrams show how parts combine into one character: ㅎ + ㅏ + ㄴ → 한.
-Chinese has far too many characters for that, so instead you get how Pinyin is
-read, plus easy words with their readings marked.
-
-■ 22 languages, 64,620 words
-English, Chinese, Korean, Spanish, French, German, Portuguese, Russian, Polish,
-Hindi, Arabic, Tagalog, Italian, Mongolian, Bengali, Malay, Indonesian, Urdu,
-Turkish, Vietnamese, Esperanto — and Japanese, for English speakers.
+Diagrams show how the parts build one character: ㅎ + ㅏ + ㄴ → 한.
+Chinese has far too many characters for that, so instead you get how Pinyin is read, plus
+easy words with their readings marked.
 
 ■ We take the translations seriously
-Dictionary output is not shipped as-is. Every entry passes several independent
-checks, and a separate auditor spot-checks the result afterwards. Stiff
-dictionary phrasing, a missing primary meaning: we have closed them one at a time.
+Dictionary output is not shipped as it comes.
+Every entry passes several independent checks, and a separate auditor spot-checks the result
+afterwards. Stiff dictionary phrasing, a missing primary meaning: we have closed them one at
+a time.
+
+■ How the learning works
+- Four-choice quizzes teach the meaning and the reading together
+- Collect only the words you got wrong and review those
+- Hear pronunciation, for the languages your device can speak
+- Split by level, so you know where to start
+- Example sentences show how a word is actually used
 
 ■ Built so that you come back
 - A companion grows as you study. It gains experience and evolves
 - Your streak counts up, day by day
 - Trade codes with a friend and compare streaks and weekly word counts
-- Collect only the words you got wrong and review those
-- Hear pronunciation, for the languages your device can speak
+- Set your daily goal to 10, 20 or 30 questions, and change it whenever you like
 
-■ Five minutes a day
-Set your daily goal to 10, 20 or 30 questions. Change it whenever you like.
+■ Who this is for
+- You want a bigger vocabulary in Spanish, Korean, Japanese or any of the other 19
+- You want to learn some of the language before a trip or a move abroad
+- You started teaching yourself and stalled at the writing system
+- You want to turn five minutes of your commute into study
+
 "Chiritsumo" comes from a Japanese saying: even dust, piled up, becomes a mountain.
 We built this so that you can watch it pile.
 
